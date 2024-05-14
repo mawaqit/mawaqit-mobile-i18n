@@ -10,8 +10,8 @@ class MawaqitLocalization {
 
   final Locale locale;
 
-  static MawaqitLocalization? of(BuildContext context) {
-    return Localizations.of<MawaqitLocalization>(context, MawaqitLocalization);
+  static AppLocalizations of(BuildContext context) {
+    return AppLocalizations.of(context)!;
   }
 
 
