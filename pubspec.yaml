@@ -2,7 +2,7 @@ name: mawaqit_mobile_i18n
 description: "A new Flutter project."
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-
+homepage: https://github.com/mawaqit/mawaqit-mobile-i18n.git
 version: 1.0.0+1
 
 environment:
