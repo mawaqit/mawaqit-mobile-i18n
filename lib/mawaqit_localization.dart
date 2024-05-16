@@ -1,14 +1,10 @@
 import 'dart:async';
-import 'dart:convert';
 
 import 'package:crowdin_sdk/crowdin_sdk.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 
 import 'gen_l10n/app_localizations.dart';
 import 'gen_l10n/crowdin_localizations.dart';
-
-
 
 class MawaqitLocalization {
   MawaqitLocalization(this.locale);
@@ -39,8 +35,11 @@ class MawaqitLocalization {
   static Future<void> loadTranslationCrowdin(Locale locale) async {
     await Crowdin.loadTranslations(locale);
   }
-  static List<LocalizationsDelegate<dynamic>> localizationsDelegates =
+
+  static List<LocalizationsDelegate<dynamic>> crowdinLocalizationsDelegates =
       CrowdinLocalization.localizationsDelegates;
+  static List<LocalizationsDelegate<dynamic>> localizationsDelegates =
+      AppLocalizations.localizationsDelegates;
 
   static List<Locale> supportedLocales = const [
     Locale('ar', 'SA'),
@@ -57,43 +56,4 @@ class MawaqitLocalization {
     Locale('tr', 'TR'),
     Locale('ur', 'PK'),
   ];
-
-
-
-  Map<String, String> _localizedStrings = {};
-
-  Future<bool> load() async {
-    String jsonString = await rootBundle.loadString(
-        'packages/my_localization/l10n/intl_${locale.languageCode}.arb');
-    Map<String, dynamic> jsonMap = json.decode(jsonString);
-
-    _localizedStrings = jsonMap.map((key, value) {
-      return MapEntry(key, value.toString());
-    });
-
-    return true;
-  }
-
-  String translate(String key) {
-    return _localizedStrings[key] ?? '** $key not found';
-  }
 }
-
-// class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
-//   const _AppLocalizationsDelegate();
-//
-//   @override
-//   bool isSupported(Locale locale) {
-//     return ['en', 'es'].contains(locale.languageCode);
-//   }
-//
-//   @override
-//   Future<AppLocalizations> load(Locale locale) async {
-//     AppLocalizations localizations = MawaqitLocalization(locale);
-//     await localizations.load();
-//     return localizations;
-//   }
-//
-//   @override
-//   bool shouldReload(_AppLocalizationsDelegate old) => false;
-// }
