@@ -220,8 +220,9 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get search_your_location => Crowdin.getText(localeName, 'search_your_location') ?? _fallbackTexts.search_your_location;
 
-	@override
-  String get search_location_enabled_no_result => Crowdin.getText(localeName, 'search_location_enabled_no_result') ?? _fallbackTexts.search_location_enabled_no_result;
+	///todo
+  // @override
+  // String get search_location_enabled_no_result => Crowdin.getText(localeName, 'search_location_enabled_no_result') ?? _fallbackTexts.search_location_enabled_no_result;
 
 	@override
   String get search_location_disabled => Crowdin.getText(localeName, 'search_location_disabled') ?? _fallbackTexts.search_location_disabled;
@@ -533,7 +534,8 @@ class CrowdinLocalization extends AppLocalizations {
   String get search_no_result_for_text => Crowdin.getText(localeName, 'search_no_result_for_text') ?? _fallbackTexts.search_no_result_for_text;
 
 	@override
-  String get calculate_prayer_time_from_area => Crowdin.getText(localeName, 'calculate_prayer_time_from_area') ?? _fallbackTexts.calculate_prayer_time_from_area;
+  ///todo
+  // String get calculate_prayer_time_from_area => Crowdin.getText(localeName, 'calculate_prayer_time_from_area') ?? _fallbackTexts.calculate_prayer_time_from_area;
 
 	@override
   String get surah_audio_downloading => Crowdin.getText(localeName, 'surah_audio_downloading') ?? _fallbackTexts.surah_audio_downloading;
@@ -578,7 +580,8 @@ class CrowdinLocalization extends AppLocalizations {
   String get quran_mushaf => Crowdin.getText(localeName, 'quran_mushaf') ?? _fallbackTexts.quran_mushaf;
 
 	@override
-  String get quran_juzz => Crowdin.getText(localeName, 'quran_juzz') ?? _fallbackTexts.quran_juzz;
+  ///todo
+  // String get quran_juzz => Crowdin.getText(localeName, 'quran_juzz') ?? _fallbackTexts.quran_juzz;
 
 	@override
   String get ayah => Crowdin.getText(localeName, 'ayah') ?? _fallbackTexts.ayah;
@@ -599,7 +602,8 @@ class CrowdinLocalization extends AppLocalizations {
   String get juzz => Crowdin.getText(localeName, 'juzz') ?? _fallbackTexts.juzz;
 
 	@override
-  String get quran_page => Crowdin.getText(localeName, 'quran_page') ?? _fallbackTexts.quran_page;
+  ///todo
+  // String get quran_page => Crowdin.getText(localeName, 'quran_page') ?? _fallbackTexts.quran_page;
 
 	@override
   String get quran_turning_page => Crowdin.getText(localeName, 'quran_turning_page') ?? _fallbackTexts.quran_turning_page;
@@ -776,13 +780,15 @@ class CrowdinLocalization extends AppLocalizations {
   String get calculation_adjustment_prayers => Crowdin.getText(localeName, 'calculation_adjustment_prayers') ?? _fallbackTexts.calculation_adjustment_prayers;
 
 	@override
-  String get calculation_adjustment_prayers_minutes => Crowdin.getText(localeName, 'calculation_adjustment_prayers_minutes') ?? _fallbackTexts.calculation_adjustment_prayers_minutes;
+  ///todo
+  // String get calculation_adjustment_prayers_minutes => Crowdin.getText(localeName, 'calculation_adjustment_prayers_minutes') ?? _fallbackTexts.calculation_adjustment_prayers_minutes;
 
 	@override
   String get calculation_adjustment_angles => Crowdin.getText(localeName, 'calculation_adjustment_angles') ?? _fallbackTexts.calculation_adjustment_angles;
 
 	@override
-  String get calculation_prayer_custom_angle => Crowdin.getText(localeName, 'calculation_prayer_custom_angle') ?? _fallbackTexts.calculation_prayer_custom_angle;
+  ///todo
+  // String get calculation_prayer_custom_angle => Crowdin.getText(localeName, 'calculation_prayer_custom_angle') ?? _fallbackTexts.calculation_prayer_custom_angle;
 
 	@override
   String get error_download_quran_failed => Crowdin.getText(localeName, 'error_download_quran_failed') ?? _fallbackTexts.error_download_quran_failed;
@@ -957,6 +963,42 @@ class CrowdinLocalization extends AppLocalizations {
 
 	@override
   String get adjust_angles => Crowdin.getText(localeName, 'adjust_angles') ?? _fallbackTexts.adjust_angles;
+
+  @override
+  String calculate_prayer_time_from_area(Object locality) {
+    // TODO: implement calculate_prayer_time_from_area
+    throw UnimplementedError();
+  }
+
+  @override
+  String calculation_adjustment_prayers_minutes(Object minute) {
+    // TODO: implement calculation_adjustment_prayers_minutes
+    throw UnimplementedError();
+  }
+
+  @override
+  String calculation_prayer_custom_angle(Object prayer) {
+    // TODO: implement calculation_prayer_custom_angle
+    throw UnimplementedError();
+  }
+
+  @override
+  String quran_juzz(Object number) {
+    // TODO: implement quran_juzz
+    throw UnimplementedError();
+  }
+
+  @override
+  String quran_page(Object page) {
+    // TODO: implement quran_page
+    throw UnimplementedError();
+  }
+
+  @override
+  String search_location_enabled_no_result(Object locality) {
+    // TODO: implement search_location_enabled_no_result
+    throw UnimplementedError();
+  }
 
 }
 
