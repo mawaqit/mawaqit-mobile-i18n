@@ -15,11 +15,11 @@ class MawaqitLocalization {
     return AppLocalizations.of(context)!;
   }
 
-  static Future<void> initCrowdin() async {
+  static Future<void> initCrowdin({int min = 25}) async {
     await Crowdin.init(
       distributionHash: 'cc1a7b98ba59f7302aadab8f5d7', //your distribution hash
       connectionType: InternetConnectionType.any,
-      updatesInterval: const Duration(minutes: 25),
+      updatesInterval: Duration(minutes: min),
 
       //uncomment next lines to enable real-time preview feature
 
