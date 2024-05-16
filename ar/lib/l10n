@@ -1,6 +1,6 @@
 {
     "@@locale": "ar",
-    "bottomNavbar_mawaqit": "المواقيت",
+    "bottomNavbar_mawaqit": "مواقيت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
@@ -50,7 +50,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "الغة",
+    "settings_Language": "اللغة",
     "@settings_Language": {
         "description": "_",
         "type": "text"
