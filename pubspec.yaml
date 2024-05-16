@@ -18,6 +18,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.18.1
+  crowdin_sdk: ^0.6.1
 
 dev_dependencies:
   flutter_test:
