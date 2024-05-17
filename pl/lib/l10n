@@ -810,5 +810,6 @@
     "google_pay_not_available": "Google Pay nie jest dostępny na tym urządzeniu",
     "error_performing_donation": "Podczas próby przekazania darowizny wystąpił błąd",
     "recurring_pay_text": "Przekazuj tę darowiznę co miesiąc.",
-    "adjust_angles": "Dostosuj Kąty"
+    "adjust_angles": "Dostosuj Kąty",
+    "debug_text": "debug_text"
 }
