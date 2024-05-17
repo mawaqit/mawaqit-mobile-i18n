@@ -810,5 +810,6 @@
     "google_pay_not_available": "Google Pay is niet beschikbaar op dit apparaat",
     "error_performing_donation": "Er is een fout opgetreden bij het uitvoeren van de donatie",
     "recurring_pay_text": "Doe deze donatie maandelijks.",
-    "adjust_angles": "Hoeken Aanpassen"
+    "adjust_angles": "Hoeken Aanpassen",
+    "debug_text": "debug_text"
 }
