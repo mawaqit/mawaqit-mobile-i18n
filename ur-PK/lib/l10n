@@ -810,5 +810,6 @@
     "google_pay_not_available": "Google Pay اس ڈیوائس میں دستیاب نہیں ہے",
     "error_performing_donation": "عطیہ کرنے کی کوشش کرتے وقت ایک خرابی تھی",
     "recurring_pay_text": "یہ عطیہ ماہانہ کریں۔",
-    "adjust_angles": "زاویے ایڈجسٹ کریں"
+    "adjust_angles": "زاویے ایڈجسٹ کریں",
+    "debug_text": "debug_text"
 }
