@@ -810,5 +810,6 @@
     "google_pay_not_available": "Google Pay tidak tersedia di perangkat ini",
     "error_performing_donation": "Terjadi kesalahan saat mencoba melakukan donasi",
     "recurring_pay_text": "Berikan donasi ini setiap bulan.",
-    "adjust_angles": "Sesuaikan Sudut"
+    "adjust_angles": "Sesuaikan Sudut",
+    "debug_text": "debug_text"
 }
