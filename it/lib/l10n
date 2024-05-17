@@ -810,5 +810,6 @@
     "google_pay_not_available": "Google Pay non è disponibile su questo dispositivo",
     "error_performing_donation": "Si è verificato un errore durante il tentativo di effettuare la donazione",
     "recurring_pay_text": "Fai questa donazione mensilmente.",
-    "adjust_angles": "Regola Angoli"
+    "adjust_angles": "Regola Angoli",
+    "debug_text": "debug_text"
 }
