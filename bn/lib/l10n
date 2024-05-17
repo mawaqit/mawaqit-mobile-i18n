@@ -810,5 +810,6 @@
     "google_pay_not_available": "এই ডিভাইসে Google Pay উপলব্ধ নেই",
     "error_performing_donation": "দান করার চেষ্টা করার সময় একটি ত্রুটি ছিল",
     "recurring_pay_text": "প্রতি মাসে এই দান করুন।",
-    "adjust_angles": "কোণ সংশোধন করুন"
+    "adjust_angles": "কোণ সংশোধন করুন",
+    "debug_text": "debug_text"
 }
