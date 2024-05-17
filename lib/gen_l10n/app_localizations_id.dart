@@ -948,4 +948,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get adjust_angles => 'Sesuaikan Sudut';
+
+  @override
+  String get debug_text => 'debug_text';
 }

@@ -1524,6 +1524,10 @@ class CrowdinLocalization extends AppLocalizations {
             _fallbackTexts.search_location_enabled_no_result(locality);
     return rawString.replaceFirst('{locality}', locality.toString());
   }
+
+  @override
+  String get debug_text =>
+      Crowdin.getText(localeName, 'debug_text') ?? _fallbackTexts.debug_text;
 }
 
 class _CrowdinLocalizationsDelegate

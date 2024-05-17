@@ -948,4 +948,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get adjust_angles => 'زاویے ایڈجسٹ کریں';
+
+  @override
+  String get debug_text => 'debug_text';
 }

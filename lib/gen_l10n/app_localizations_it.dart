@@ -948,4 +948,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get adjust_angles => 'Regola Angoli';
+
+  @override
+  String get debug_text => 'debug_text';
 }

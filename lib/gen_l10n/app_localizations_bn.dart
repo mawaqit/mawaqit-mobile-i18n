@@ -948,4 +948,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get adjust_angles => 'কোণ সংশোধন করুন';
+
+  @override
+  String get debug_text => 'debug_text';
 }

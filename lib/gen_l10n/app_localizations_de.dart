@@ -948,4 +948,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get adjust_angles => 'Winkel anpassen';
+
+  @override
+  String get debug_text => 'debug_text';
 }

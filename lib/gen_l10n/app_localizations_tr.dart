@@ -948,4 +948,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get adjust_angles => 'Açıları Ayarla';
+
+  @override
+  String get debug_text => 'debug_text';
 }

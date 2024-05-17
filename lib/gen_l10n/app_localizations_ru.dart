@@ -948,4 +948,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get adjust_angles => 'Настройте углы';
+
+  @override
+  String get debug_text => 'debug_text';
 }

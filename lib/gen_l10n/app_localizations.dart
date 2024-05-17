@@ -1980,6 +1980,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Adjust Angles'**
   String get adjust_angles;
+
+  /// No description provided for @debug_text.
+  ///
+  /// In en, this message translates to:
+  /// **'debug_text'**
+  String get debug_text;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

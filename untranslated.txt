@@ -103,30 +103,35 @@
     "error_download_quran_failed",
     "downloading_quran",
     "processing",
-    "copied_to_clipboard"
+    "copied_to_clipboard",
+    "debug_text"
   ],
 
   "de": [
     "bismillah",
     "calculation_methods_custom",
-    "calculation_prayer_custom_angle"
+    "calculation_prayer_custom_angle",
+    "debug_text"
   ],
 
   "es": [
     "bismillah",
     "calculation_methods_custom",
-    "calculation_prayer_custom_angle"
+    "calculation_prayer_custom_angle",
+    "debug_text"
   ],
 
   "fr": [
-    "bismillah"
+    "bismillah",
+    "debug_text"
   ],
 
   "id": [
     "bismillah",
     "calculation_methods_custom",
     "calculation_prayer_custom_angle",
-    "download_quran_popup_downloading_3"
+    "download_quran_popup_downloading_3",
+    "debug_text"
   ],
 
   "it": [
@@ -145,14 +150,16 @@
     "calculation_adjustment_prayers_minutes",
     "calculation_adjustment_angles",
     "calculation_prayer_custom_angle",
-    "download_quran_popup_downloading_3"
+    "download_quran_popup_downloading_3",
+    "debug_text"
   ],
 
   "nl": [
     "bismillah",
     "calculation_methods_custom",
     "calculation_prayer_custom_angle",
-    "download_quran_popup_downloading_3"
+    "download_quran_popup_downloading_3",
+    "debug_text"
   ],
 
   "pl": [
@@ -190,20 +197,23 @@
     "calculation_adjustment_prayers",
     "calculation_adjustment_prayers_minutes",
     "calculation_adjustment_angles",
-    "download_quran_popup_downloading_3"
+    "download_quran_popup_downloading_3",
+    "debug_text"
   ],
 
   "ru": [
     "calculation_methods_custom",
     "calculation_prayer_custom_angle",
-    "download_quran_popup_downloading_3"
+    "download_quran_popup_downloading_3",
+    "debug_text"
   ],
 
   "tr": [
     "bismillah",
     "calculation_methods_custom",
     "calculation_prayer_custom_angle",
-    "download_quran_popup_downloading_3"
+    "download_quran_popup_downloading_3",
+    "debug_text"
   ],
 
   "ur": [
@@ -299,6 +309,7 @@
     "calculation_adjustment_prayers_minutes",
     "calculation_adjustment_angles",
     "calculation_prayer_custom_angle",
-    "download_quran_popup_downloading_3"
+    "download_quran_popup_downloading_3",
+    "debug_text"
   ]
 }

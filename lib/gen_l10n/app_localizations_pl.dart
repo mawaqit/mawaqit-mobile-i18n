@@ -948,4 +948,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get adjust_angles => 'Dostosuj Kąty';
+
+  @override
+  String get debug_text => 'debug_text';
 }
