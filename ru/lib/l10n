@@ -810,5 +810,6 @@
     "google_pay_not_available": "Google Pay недоступен на этом устройстве",
     "error_performing_donation": "При попытке совершить пожертвование произошла ошибка",
     "recurring_pay_text": "Делайте это пожертвование ежемесячно.",
-    "adjust_angles": "Настройте углы"
+    "adjust_angles": "Настройте углы",
+    "debug_text": "debug_text"
 }
