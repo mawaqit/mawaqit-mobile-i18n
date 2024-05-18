@@ -811,5 +811,9 @@
     "error_performing_donation": "দান করার চেষ্টা করার সময় একটি ত্রুটি ছিল",
     "recurring_pay_text": "প্রতি মাসে এই দান করুন।",
     "adjust_angles": "কোণ সংশোধন করুন",
-    "debug_text": "debug_text"
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
