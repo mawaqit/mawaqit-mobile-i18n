@@ -15,9 +15,12 @@ class MawaqitLocalization {
     return AppLocalizations.of(context)!;
   }
 
-  static Future<void> initCrowdin({int min = 120}) async {
+  static Future<void> initCrowdin({
+    required String distributionHash,
+    int min = 120,
+  }) async {
     await Crowdin.init(
-      distributionHash: 'cc1a7b98ba59f7302aadab8f5d7', //your distribution hash
+      distributionHash: distributionHash, //your distribution hash
       connectionType: InternetConnectionType.any,
       updatesInterval: Duration(minutes: min),
 
