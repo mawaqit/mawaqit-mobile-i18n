@@ -811,5 +811,9 @@
     "error_performing_donation": "Bağış gerçekleştirilmeye çalışılırken bir hata oluştu",
     "recurring_pay_text": "Bu bağışı aylık olarak yapın.",
     "adjust_angles": "Açıları Ayarla",
-    "debug_text": "debug_text"
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
