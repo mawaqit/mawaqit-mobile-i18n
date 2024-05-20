@@ -109,7 +109,6 @@ abstract class AppLocalizations {
     Locale('fr'),
     Locale('id'),
     Locale('it'),
-    Locale('ja'),
     Locale('nl'),
     Locale('pl'),
     Locale('ru'),
@@ -2006,7 +2005,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'bn', 'de', 'en', 'es', 'fr', 'id', 'it', 'ja', 'nl', 'pl', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'bn', 'de', 'en', 'es', 'fr', 'id', 'it', 'nl', 'pl', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;

@@ -35,7 +35,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get settings_LanguageSelection => 'اختيار اللغة';
 
   @override
-  String get settings_Language => 'الغة';
+  String get settings_Language => 'اللغة';
 
   @override
   String get settings_Theme => 'المظهر';
