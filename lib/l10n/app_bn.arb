@@ -1,4 +1,5 @@
 {
+    "@@locale": "bn",
     "bottomNavbar_mawaqit": "মাওয়াকিত",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -10,7 +11,6 @@
         "type": "text"
     },
     "bottomNavbar_qibla": "কিবলা",
-    "qibla_sensor": "আপনার ডিভাইসের সেন্সরটি যা MAWAQIT কিবলা নির্ধারণের জন্য ব্যবহার করে তা প্রত্যাশিত হিসেবে কাজ করছে না, যা আমাদের কিবলা দিক প্রদর্শন ক্ষমতার উপর প্রভাব ফেলছে।",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
@@ -71,20 +71,15 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "প্রার্থনা বিজ্ঞপ্তি",
-    "@settings_PrayerNotifications": {
-        "description": "_",
-        "type": "text"
-    },
     "settings_PrayerPreNotifications": "প্রার্থনা প্রাক বিজ্ঞপ্তি",
-    "@settings_PrayerPreNotifications": {
-        "description": "_",
-        "type": "text"
-    },
+    "settings_Calculations": "Calculations",
     "settings_RateOurApp": "আমাদের অ্যাপ্লিকেশন রেট",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
+    "settings_WhatsNew": "What's new",
+    "bismillah": "বিসমিল্লাহ",
     "settings_DonateToMawaqit": "মাওয়াকীতে দান করুন",
     "@settings_DonateToMawaqit": {
         "description": "_",
@@ -158,7 +153,7 @@
         "description": "_",
         "type": "text"
     },
-    "sabah":"সকাল",
+    "sabah": "সকাল",
     "settings_PrayerNotification_NoNotification": "আপনি বর্তমানে এই প্রার্থনার জন্য অবহিত না হওয়ার জন্য সেট আপ করেছেন৷",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -220,30 +215,22 @@
         "type": "text"
     },
     "search_TryParis": "প্যারিস, এসসালাম ইত্যাদি চেষ্টা করুন।",
-    "@search_TryParis": {
-        "description": "_",
-        "type": "text"
-    },
     "search_ByGPS": "জিপিএস দ্বারা অনুসন্ধান করুন",
-    "@search_ByGPS": {
-        "description": "_",
-        "type": "text"
-    },
     "search_HelpText": "আপনি লিখে একটি মসজিদ অনুসন্ধান করতে পারেন:\n- মসজিদের নাম\n- সমিতির নাম\n- শহর, ঠিকানা, দেশ...ইত্যাদি।\n\nঅথবা আপনি আশেপাশের মসজিদগুলি খুঁজতে লোকেটিং বোতামটি চাপতে পারেন।",
-    "@search_HelpText": {
-        "description": "_",
-        "type": "text"
-    },
     "search_MaxFavMosquesReached": "প্রিয় মসজিদের সর্বোচ্চ সীমানায় পৌঁছে গেছেন।",
-    "@search_MaxFavMosquesReached": {
-        "description": "_",
-        "type": "text"
-    },
     "search_iOs14_message": "iOS 14 এ GPS ব্যবহার করে অনুসন্ধান করতে কিছু সময় লাগতে পারে, অনুগ্রহ করে অপেক্ষা করুন।",
-    "@search_iOs14_message": {
-        "description": "_",
-        "type": "text"
-    },
+    "search_error": "Oops an internal error has occurred'",
+    "search_your_location": "Your location",
+    "search_location_enabled_no_result": "আপনার অনুসন্ধানের জন্য আমরা কোনও MAWAQIT পার্টনার মসজিদ পেতে পারিনি। আমরা আপনার অবস্থানের ভিতর প্রার্থনা সময় গণনা করেছি, যা নিকটস্থ: {locality}",
+    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
+    "search_settings": "Settings",
+    "dnd": "বিরক্ত করবেন না",
+    "battery_optimize": "ব্যাটারি অপ্টিমাইজেশান",
+    "power_saver": "শক্তি বাঁচায়",
+    "permission_message1": "আমরা একটি বিলম্বিত বিজ্ঞপ্তি সনাক্ত করেছি, দয়া করে বন্ধ করুন৷",
+    "permission_message2": "বিজ্ঞপ্তি বিলম্ব সনাক্ত করা হয়েছে",
+    "notifications_delay_detected": "Notifications delay detected",
+    "open_setting": "ওপেন সেটিংস",
     "noJumua": "জুমুয়া নেই",
     "@noJumua": {
         "description": "_",
@@ -254,6 +241,7 @@
         "description": "_",
         "type": "text"
     },
+    "qibla_sensor": "আপনার ডিভাইসের সেন্সরটি যা MAWAQIT কিবলা নির্ধারণের জন্য ব্যবহার করে তা প্রত্যাশিত হিসেবে কাজ করছে না, যা আমাদের কিবলা দিক প্রদর্শন ক্ষমতার উপর প্রভাব ফেলছে।",
     "qibla_Error_retry": "পুনরায় চেষ্টা করা",
     "@qibla_Error_retry": {
         "description": "_",
@@ -559,8 +547,6 @@
         "description": "_",
         "type": "text"
     },
-    "search_location_enabled_no_result": "আপনার অনুসন্ধানের জন্য আমরা কোনও MAWAQIT পার্টনার মসজিদ পেতে পারিনি। আমরা আপনার অবস্থানের ভিতর প্রার্থনা সময় গণনা করেছি, যা নিকটস্থ: {locality}",
-
     "done": "সম্পন্ন",
     "@done": {
         "description": "_",
@@ -677,28 +663,106 @@
         "type": "text"
     },
     "and": "এবং",
-    "@and": {
-        "description": "_",
-        "type": "text"
-    },
-    "notification": "Notification",
-    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
-
-    "dnd": "বিরক্ত করবেন না",
-    "battery_optimize": "ব্যাটারি অপ্টিমাইজেশান",
-    "power_saver":  "শক্তি বাঁচায়",
-    "permission_message1":"আমরা একটি বিলম্বিত বিজ্ঞপ্তি সনাক্ত করেছি, দয়া করে বন্ধ করুন৷",
-    "permission_message2":"বিজ্ঞপ্তি বিলম্ব সনাক্ত করা হয়েছে",
-    "notifications_delay_detected":  "Notifications delay detected",
-    "open_setting": "ওপেন সেটিংস",
-
+    "continue_to_app": "Continue",
+    "add": "Add",
+    "mosque": "Mosque",
+    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
+    "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
+    "search_no_result_for_text": "We did not find any result for",
+    "calculate_prayer_time_from_area": "We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: {locality}",
+    "surah_audio_downloading": "Surah Audio Downloading...",
+    "msg_internet_connection": "You don't have any internet connection",
+    "read_quran": "Read Quran",
+    "ayahs": "Ayahs",
+    "chapter": "Surah",
+    "meaning": "Meaning",
+    "al_quran": "Al Quran",
+    "surah_information": "Surah Information",
+    "surah_number": "Surah Number",
+    "quran_browsing": "Browsing",
+    "quran_search_placeholder": "Search by name of surah, number...",
+    "quran_verse_search": "Verse search",
+    "quran_translation": "Translation",
+    "quran_mushaf": "Mushaf",
+    "quran_juzz": "Juzz {number}",
+    "ayah": "Ayah",
+    "quran_verses": "Verses",
+    "surah": "Surah",
+    "continue_reading": "Continue Reading",
+    "bookmarks": "Bookmarks",
+    "juzz": "Juzz",
+    "quran_page": "Page {page}",
+    "quran_turning_page": "Turning page",
+    "quran_from_right_to_left": "From right to left",
+    "quran_from_left_to_right": "From left to right",
+    "quran_from_top_to_bottom": "From top to bottom",
+    "quran_from_bottom_to_top": "From bottom to top",
+    "quran_pages_color": "Pages color",
+    "english_tr": "English",
+    "french_tr": "French",
+    "spanish_tr": "Spanish",
+    "muhammad_hamidullah": "Muhammad Hamidullah",
+    "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
+    "sheikh_isa_garcia": "Sheikh Isa Garcia",
+    "reciters": "Reciters",
+    "favorite_reciters": "Favorite reciters",
+    "surahs_downloaded": "Surahs downloaded",
+    "surahs_chapter": "Surahs - Chapter",
+    "my_likes": "My Likes",
+    "cancel": "বাতিল",
+    "next": "Next",
+    "search_surah": "Search Surah",
+    "not_downloaded_recitation": "You have not downloaded any recitation yet.",
+    "not_favorite_reciter": "You have not marked any reciter favorite yet.",
+    "search_reciter": "Search Reciter",
+    "al_quran_al_kareem": "Al Quran Al Kareem",
+    "surahs": "Surahs",
+    "chapters": "Chapters",
+    "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
+    "calculation_madhab": "Jurisprudence - Madhab",
+    "calculation_madhab_shafii": "Shafi’i, Hanbali and Maliki",
+    "calculation_madhab_shafii_countries": "Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...",
+    "calculation_madhab_hanafi": "Hanafi",
+    "calculation_madhab_hanafi_countries": "Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...",
+    "calculation_methods": "Calculation methods",
+    "calculation_methods_france": "Muslim of France (ex UOIF)",
+    "calculation_methods_algeria": "Algerian Ministry of Religious Affairs and Wakfs",
+    "calculation_methods_morocco": "Moroccan Ministry of Wakfs and Islamic Affairs",
+    "calculation_methods_muslim_world": "Muslim World League",
+    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
+    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
+    "calculation_methods_umm_al_qura": "Umm al-Qura University, Makkah",
+    "calculation_methods_dubai": "The Gulf Region",
+    "calculation_methods_moon": "Moon Sighting Committee",
+    "calculation_methods_north_america": "Islamic Society of North America",
+    "calculation_methods_kuwait": "Kuwait",
+    "calculation_methods_qatar": "Qatar",
+    "calculation_methods_singapore": "Singapore",
+    "calculation_methods_turkey": "Turkey",
+    "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
+    "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
+    "calculation_methods_custom": "Custom angles",
+    "calculation_high_latitude": "Higher latitudes",
+    "calculation_high_latitude_none": "None",
+    "calculation_high_latitude_middle": "Middle of the night",
+    "calculation_high_latitude_one_seventh": "One-seventh of the night",
+    "calculation_high_latitude_angle_based": "Angle based method",
+    "calculation_adjustment": "Manual correction",
+    "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
+    "calculation_adjustment_prayers": "Prayer adjustments",
+    "calculation_adjustment_prayers_minutes": "{minute} minutes",
+    "calculation_adjustment_angles": "Custom angles",
+    "calculation_prayer_custom_angle": "{prayer} custom angle",
+    "error_download_quran_failed": "Failed to download Quran",
+    "downloading_quran": "Downloading Quran...",
+    "processing": "Processing...",
+    "copied_to_clipboard": "Copied to your clipboard !",
     "download_quran_popup_title": "সর্বশেষ সজানো",
     "download_quran_popup_downloading_1": "আমাদের করণীয় হলো কোরআনের পৃষ্ঠা ডাউনলোড করা, এটা কেবল কিছু সেকেন্ড নেবে। আমরা আপনার মোবাইল ডেটা ব্যবহার করব, যদি প্রয়োজন হয় তবে Wi-Fi-তে স্যুইচ করুন।",
     "download_quran_popup_downloading_2": "আমরা কেবল আপনার জন্য কোরআন তৈরি করছি, দয়া করে কিছু সেকেন্ড অপেক্ষা করুন!",
     "download_quran_popup_downloading_3": "কোরআনের সৌন্দর্য আবিষ্কার করুন! 'ডাউনলোড' ট্যাপ করে এর অমর জ্ঞানে অনুভব করুন এবং এর দিব্য শব্দ থেকে উৎসাহিত হোন।",
     "download_quran_popup_confirm_cancel": "আপনি ডাউনলোড বাতিল করতে চান কি? এই ডেটা ছাড়া আপনি কোরআন পড়তে পারবেন না, পৃষ্ঠা অনুপলব্ধ হবে।",
     "download_quran_popup_cancelled": "কিছু ভুল হয়েছে, দয়া করে আবার ডাউনলোড বোতাম চাপুন!",
-
     "download": "ডাউনলোড",
     "continue_download": "ডাউনলোড চালিয়ে যান",
     "cancel_download": "ডাউনলোড বাতিল করুন",
@@ -711,18 +775,15 @@
     "battery_optimization_subtitle": "প্রার্থনা সময়ের বিজ্ঞপ্তি সমস্যার নেটিভ অপটিমাইজেশন বন্ধ করতে, আপনার ডিভাইসের ব্যাটারি অপটিমাইজেশন বন্ধ করতে হবে।",
     "allow": "অনুমতি দিন",
     "deny": "অস্বীকার করুন",
-    "cancel": "বাতিল",
-
     "force_notification": "ফোর্স নোটিফিকেশন",
-    "tutorial_text_foreground_service":"এটিতে ট্যাপ করলে আপনি 'ফোরগ্রাউন্ড সার্ভিস' চালু বা বন্ধ করতে পারবেন",
+    "tutorial_text_foreground_service": "এটিতে ট্যাপ করলে আপনি 'ফোরগ্রাউন্ড সার্ভিস' চালু বা বন্ধ করতে পারবেন",
     "enable": "চালু",
     "disable": "বন্ধ",
-    "do_not_show_again":"আবার দেখাবেন না",
-    "force_notification_title":"নামাজের বিজ্ঞপ্তি সঠিক সময়ে ট্রিগার করা হয় তা নিশ্চিত করতে মাওয়াকিত সক্রিয়।",
-    "force_notification_body":"নিঃসন্দেহে সালাত মুমিনদের উপর নির্দিষ্ট সময়ে ফরজ করা হয়েছে। নিসা (103)",
-    "force_notification_dialog1_body":"এই বিকল্পটি সক্রিয় করার মাধ্যমে, বিলম্ব না করে সঠিক সময়ে প্রার্থনা বিজ্ঞপ্তিগুলি ট্রিগার করা হয়েছে তা নিশ্চিত করতে অ্যাপ্লিকেশনটি সক্রিয় থাকবে। MAWAQIT অ্যাপ্লিকেশনটি শুধুমাত্র সেই উদ্দেশ্যে সক্রিয় থাকবে, এবং আপনি সেটিংস থেকে যে কোনো সময় সেই বিকল্পটি বন্ধ করতে পারেন।",
-    "force_notification_dialog2_body":"'ফোর্স নোটিফিকেশন' সক্ষম করার পরে বিজ্ঞপ্তি ট্রে থেকে নিচের দিকে সোয়াইপ করুন আপনি সেখানে এই বিজ্ঞপ্তিটি দেখতে পাবেন",
-
+    "do_not_show_again": "আবার দেখাবেন না",
+    "force_notification_title": "নামাজের বিজ্ঞপ্তি সঠিক সময়ে ট্রিগার করা হয় তা নিশ্চিত করতে মাওয়াকিত সক্রিয়।",
+    "force_notification_body": "নিঃসন্দেহে সালাত মুমিনদের উপর নির্দিষ্ট সময়ে ফরজ করা হয়েছে। নিসা (103)",
+    "force_notification_dialog1_body": "এই বিকল্পটি সক্রিয় করার মাধ্যমে, বিলম্ব না করে সঠিক সময়ে প্রার্থনা বিজ্ঞপ্তিগুলি ট্রিগার করা হয়েছে তা নিশ্চিত করতে অ্যাপ্লিকেশনটি সক্রিয় থাকবে। MAWAQIT অ্যাপ্লিকেশনটি শুধুমাত্র সেই উদ্দেশ্যে সক্রিয় থাকবে, এবং আপনি সেটিংস থেকে যে কোনো সময় সেই বিকল্পটি বন্ধ করতে পারেন।",
+    "force_notification_dialog2_body": "'ফোর্স নোটিফিকেশন' সক্ষম করার পরে বিজ্ঞপ্তি ট্রে থেকে নিচের দিকে সোয়াইপ করুন আপনি সেখানে এই বিজ্ঞপ্তিটি দেখতে পাবেন",
     "notification_debugging": "বিজ্ঞপ্তি ডিবাগিং",
     "notification_debugging_details": "বিজ্ঞপ্তি ডিবাগিং সক্ষম করা হয়েছে৷ আপনি বিজ্ঞপ্তি সেটিংস পরিবর্তন করলে, ডিবাগিং ডেটা হারিয়ে যাবে, এবং ডিবাগিং অক্ষম করা হবে৷",
     "skip": "এড়িয়ে যান",
@@ -735,12 +796,11 @@
     "notification_delay_debugging_is": "বিজ্ঞপ্তি বিলম্ব ডিবাগিং হয়",
     "banner_enable": "ব্যানার সক্ষম করুন",
     "banner": "ব্যানার",
-    "show_details":"বিস্তারিত দেখাও",
-    "auto_detect_location":"সাজেস্ট করুন সবচেয়ে কাছাকাছি মসজিদ",
-    "auto_detect_explanation":"আপনি যখন আপনার মসজিদ থেকে দূরে থাকবেন, তখন অ্যাপ্লিকেশনটি আপনার অবস্থানের ভিত্তিতে স্বয়ংক্রিয়ভাবে সবচেয়ে কাছাকাছি মসজিদ অনুসারে অনুসারণের জন্য সুপারিশ করবে।",
+    "show_details": "বিস্তারিত দেখাও",
+    "auto_detect_location": "সাজেস্ট করুন সবচেয়ে কাছাকাছি মসজিদ",
+    "auto_detect_explanation": "আপনি যখন আপনার মসজিদ থেকে দূরে থাকবেন, তখন অ্যাপ্লিকেশনটি আপনার অবস্থানের ভিত্তিতে স্বয়ংক্রিয়ভাবে সবচেয়ে কাছাকাছি মসজিদ অনুসারে অনুসারণের জন্য সুপারিশ করবে।",
     "auto_detect_location_title": "এটা মনে হচ্ছে যে, আপনি আপনার মসজিদ থেকে দূরে",
     "auto_detect_location_message": "আপনি কি সঠিক নামাজের সময়ের জন্য সবচেয়ে কাছাকাছি মসজিদ খোঁজার জন্য চান?",
-
     "donation_success_toast": "দান সফলভাবে সম্পন্ন হয়েছে",
     "donation_success": "আপনার দানের জন্য ধন্যবাদ, আল্লাহ আপনাকে প্রতিদান দিন",
     "donation_failed": "অনুদান ব্যর্থ হয়েছে",
@@ -749,9 +809,11 @@
     "enter_donation_amount": "অনুদানের পরিমাণ লিখুন",
     "google_pay_not_available": "এই ডিভাইসে Google Pay উপলব্ধ নেই",
     "error_performing_donation": "দান করার চেষ্টা করার সময় একটি ত্রুটি ছিল",
-
-    "bismillah":"বিসমিল্লাহ",
-
-    "recurring_pay_text":"প্রতি মাসে এই দান করুন।",
-    "adjust_angles":"কোণ সংশোধন করুন"
+    "recurring_pay_text": "প্রতি মাসে এই দান করুন।",
+    "adjust_angles": "কোণ সংশোধন করুন",
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
