@@ -5,4 +5,3 @@ files:
       two_letters_code:
         es-ES: es
         ur-PK: ur
-    export_pattern: /lib/l10n/app_%two_letters_code%.arb
