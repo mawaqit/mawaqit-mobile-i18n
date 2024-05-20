@@ -1,5 +1,5 @@
 {
-    "@@locale": "en",
+    "@@locale": "ja",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -811,9 +811,5 @@
     "error_performing_donation": "There was an error while trying to perform the donation",
     "recurring_pay_text": "Make this donation monthly.",
     "adjust_angles": "Adjust Angles",
-    "debug_text": "debug_text",
-    "anas": "Anas",
-    "@anas": {
-        "description": "anas"
-    }
+    "debug_text": "debug_text"
 }
