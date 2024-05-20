@@ -1,5 +1,5 @@
 {
-    "@@locale":"en",
+    "@@locale": "en",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -79,7 +79,7 @@
         "type": "text"
     },
     "settings_WhatsNew": "What's new",
-    "bismillah":"Bismillah",
+    "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Donate to MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
@@ -153,7 +153,7 @@
         "description": "_",
         "type": "text"
     },
-    "sabah":"Sabah",
+    "sabah": "Sabah",
     "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -224,15 +224,13 @@
     "search_location_enabled_no_result": "We couldn't find a MAWAQIT partner mosque for your search. We have calculated the prayer times based on your location, close to: {locality}",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
     "search_settings": "Settings",
-
     "dnd": "Do Not Disturb",
     "battery_optimize": "Battery Optimization",
-    "power_saver":  "Power Saver",
-    "permission_message1":"We detected a delayed notification, Please turn off",
-    "permission_message2":"to receive the notification on time.",
-    "notifications_delay_detected":  "Notifications delay detected",
+    "power_saver": "Power Saver",
+    "permission_message1": "We detected a delayed notification, Please turn off",
+    "permission_message2": "to receive the notification on time.",
+    "notifications_delay_detected": "Notifications delay detected",
     "open_setting": "Open settings",
-
     "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
@@ -243,7 +241,7 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor":"The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
+    "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
     "qibla_Error_retry": "Retry",
     "@qibla_Error_retry": {
         "description": "_",
@@ -674,7 +672,6 @@
     "calculate_prayer_time_from_area": "We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: {locality}",
     "surah_audio_downloading": "Surah Audio Downloading...",
     "msg_internet_connection": "You don't have any internet connection",
-
     "read_quran": "Read Quran",
     "ayahs": "Ayahs",
     "chapter": "Surah",
@@ -683,7 +680,6 @@
     "surah_information": "Surah Information",
     "surah_number": "Surah Number",
     "quran_browsing": "Browsing",
-
     "quran_search_placeholder": "Search by name of surah, number...",
     "quran_verse_search": "Verse search",
     "quran_translation": "Translation",
@@ -722,7 +718,6 @@
     "al_quran_al_kareem": "Al Quran Al Kareem",
     "surahs": "Surahs",
     "chapters": "Chapters",
-
     "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
     "calculation_madhab": "Jurisprudence - Madhab",
     "calculation_madhab_shafii": "Shafi’i, Hanbali and Maliki",
@@ -746,7 +741,7 @@
     "calculation_methods_turkey": "Turkey",
     "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
     "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
-    "calculation_methods_custom" : "Custom angles",
+    "calculation_methods_custom": "Custom angles",
     "calculation_high_latitude": "Higher latitudes",
     "calculation_high_latitude_none": "None",
     "calculation_high_latitude_middle": "Middle of the night",
@@ -762,14 +757,12 @@
     "downloading_quran": "Downloading Quran...",
     "processing": "Processing...",
     "copied_to_clipboard": "Copied to your clipboard !",
-
     "download_quran_popup_title": "Last touch ups",
     "download_quran_popup_downloading_1": "We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.",
     "download_quran_popup_downloading_2": "We are preparing the Qur’an just for you, please wait a few seconds!",
     "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
     "download_quran_popup_confirm_cancel": "Are you sure you want to cancel the download? Without this data you won't be able to read the Quran, the pages will be unavailable.",
     "download_quran_popup_cancelled": "Something went wrong, please hit the download button again!",
-
     "download": "Download",
     "continue_download": "Continue the download",
     "cancel_download": "Cancel the download",
@@ -778,21 +771,19 @@
     "download_pages": "Download the pages",
     "notification": "Notification",
     "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
-
     "battery_optimization": "Battery optimization",
     "battery_optimization_subtitle": "To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.",
     "allow": "Allow",
     "deny": "Deny",
     "force_notification": "Force notifications",
-    "tutorial_text_foreground_service":"Tapping on it allows you to toggle the 'Foreground Service' on or off",
+    "tutorial_text_foreground_service": "Tapping on it allows you to toggle the 'Foreground Service' on or off",
     "enable": "ON",
     "disable": "OFF",
-    "do_not_show_again":"Don't show it again",
-    "force_notification_title":"MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.",
-    "force_notification_body":"Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)",
-    "force_notification_dialog1_body":"By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.",
-    "force_notification_dialog2_body":"After enabling the 'Force Notifications' swipe down the notification tray you see this notification there",
-
+    "do_not_show_again": "Don't show it again",
+    "force_notification_title": "MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.",
+    "force_notification_body": "Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)",
+    "force_notification_dialog1_body": "By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.",
+    "force_notification_dialog2_body": "After enabling the 'Force Notifications' swipe down the notification tray you see this notification there",
     "notification_debugging": "Notification Debugging",
     "notification_debugging_details": "Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.",
     "skip": "Skip",
@@ -805,12 +796,11 @@
     "notification_delay_debugging_is": "Notification Delay debugging is",
     "banner_enable": "Banner enable",
     "banner": "Banner",
-    "show_details":"Show Details",
-    "auto_detect_location":"Suggest nearest mosque",
-    "auto_detect_explanation":"When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.",
-    "auto_detect_location_title":"It seems you are distant from your mosque",
-    "auto_detect_location_message":"Do you want to search for the nearest mosque for accurate prayer times?",
-
+    "show_details": "Show Details",
+    "auto_detect_location": "Suggest nearest mosque",
+    "auto_detect_explanation": "When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.",
+    "auto_detect_location_title": "It seems you are distant from your mosque",
+    "auto_detect_location_message": "Do you want to search for the nearest mosque for accurate prayer times?",
     "donation_success_toast": "Donation successfully done",
     "donation_success": "Thank you for your donation, may Allah reward you",
     "donation_failed": "Donation Failed",
@@ -819,9 +809,11 @@
     "enter_donation_amount": "Enter donation amount",
     "google_pay_not_available": "Google Pay is not available in this device",
     "error_performing_donation": "There was an error while trying to perform the donation",
-
-    "recurring_pay_text":"Make this donation monthly.",
-    "adjust_angles":"Adjust Angles",
-
-    "debug_text":"debug_text"
+    "recurring_pay_text": "Make this donation monthly.",
+    "adjust_angles": "Adjust Angles",
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
