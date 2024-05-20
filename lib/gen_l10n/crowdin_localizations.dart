@@ -1528,6 +1528,10 @@ class CrowdinLocalization extends AppLocalizations {
   @override
   String get debug_text =>
       Crowdin.getText(localeName, 'debug_text') ?? _fallbackTexts.debug_text;
+
+  @override
+  // TODO: implement anas
+  String get anas => throw UnimplementedError();
 }
 
 class _CrowdinLocalizationsDelegate

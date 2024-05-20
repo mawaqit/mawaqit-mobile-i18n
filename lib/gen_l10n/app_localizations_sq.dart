@@ -1,8 +1,8 @@
 import 'app_localizations.dart';
 
-/// The translations for English (`en`).
-class AppLocalizationsEn extends AppLocalizations {
-  AppLocalizationsEn([String locale = 'en']) : super(locale);
+/// The translations for Albanian (`sq`).
+class AppLocalizationsSq extends AppLocalizations {
+  AppLocalizationsSq([String locale = 'sq']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';

@@ -951,4 +951,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get debug_text => 'debug_text';
+
+  @override
+  String get anas => 'Anas';
 }

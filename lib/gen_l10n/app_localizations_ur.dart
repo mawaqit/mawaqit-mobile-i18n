@@ -316,7 +316,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get mosque_Facilities_ChildrenCourses => 'بچوں کے کورس';
 
   @override
-  String get mosque_Facilities_SalatAlAid => '';
+  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
 
   @override
   String get mosque_Facilities_SalatAlJanaza => 'نماز جنازہ';
@@ -951,4 +951,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get debug_text => 'debug_text';
+
+  @override
+  String get anas => 'Anas';
 }
