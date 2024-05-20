@@ -811,5 +811,9 @@
     "error_performing_donation": "Terjadi kesalahan saat mencoba melakukan donasi",
     "recurring_pay_text": "Berikan donasi ini setiap bulan.",
     "adjust_angles": "Sesuaikan Sudut",
-    "debug_text": "debug_text"
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
