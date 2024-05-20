@@ -811,5 +811,9 @@
     "error_performing_donation": "Hubo un error al intentar realizar la donación",
     "recurring_pay_text": "Haz esta donación mensualmente.",
     "adjust_angles": "Ajustar Ángulos",
-    "debug_text": "debug_text"
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }

@@ -811,5 +811,9 @@
     "error_performing_donation": "حدث خطأ أثناء محاولة إجراء التبرع",
     "recurring_pay_text": "قم بهذا التبرع شهريا.",
     "adjust_angles": "ضبط الزوايا",
-    "debug_text": " الترجمه"
+    "debug_text": "تصحيح الترجمه",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }

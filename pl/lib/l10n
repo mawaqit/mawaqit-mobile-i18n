@@ -811,5 +811,9 @@
     "error_performing_donation": "Podczas próby przekazania darowizny wystąpił błąd",
     "recurring_pay_text": "Przekazuj tę darowiznę co miesiąc.",
     "adjust_angles": "Dostosuj Kąty",
-    "debug_text": "debug_text"
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
