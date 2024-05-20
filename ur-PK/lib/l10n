@@ -811,5 +811,9 @@
     "error_performing_donation": "عطیہ کرنے کی کوشش کرتے وقت ایک خرابی تھی",
     "recurring_pay_text": "یہ عطیہ ماہانہ کریں۔",
     "adjust_angles": "زاویے ایڈجسٹ کریں",
-    "debug_text": "debug_text"
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
