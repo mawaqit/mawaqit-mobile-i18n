@@ -811,5 +811,9 @@
     "error_performing_donation": "Beim Versuch, die Spende durchzuführen, ist ein Fehler aufgetreten",
     "recurring_pay_text": "Machen Sie diese Spende monatlich.",
     "adjust_angles": "Winkel anpassen",
-    "debug_text": "debug_text"
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    }
 }
