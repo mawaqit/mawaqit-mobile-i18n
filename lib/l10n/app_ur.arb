@@ -815,5 +815,6 @@
     "anas": "Anas",
     "@anas": {
         "description": "anas"
-    }
+    },
+    "thanks": "thanks"
 }
