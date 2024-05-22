@@ -950,8 +950,11 @@ class AppLocalizationsAr extends AppLocalizations {
   String get adjust_angles => 'ضبط الزوايا';
 
   @override
-  String get debug_text => 'اختبار الترجمه';
+  String get debug_text => 'الترجمه';
 
   @override
   String get anas => 'Anas';
+
+  @override
+  String get thanks => 'شكرا';
 }

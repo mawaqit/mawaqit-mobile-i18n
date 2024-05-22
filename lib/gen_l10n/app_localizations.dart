@@ -1994,6 +1994,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Anas'**
   String get anas;
+
+  /// No description provided for @thanks.
+  ///
+  /// In en, this message translates to:
+  /// **'thanks'**
+  String get thanks;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

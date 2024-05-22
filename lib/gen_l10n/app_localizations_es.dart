@@ -954,4 +954,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get anas => 'Anas';
+
+  @override
+  String get thanks => 'thanks';
 }

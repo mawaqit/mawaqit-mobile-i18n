@@ -954,4 +954,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get anas => 'Anas';
+
+  @override
+  String get thanks => 'thanks';
 }

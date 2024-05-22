@@ -1532,6 +1532,10 @@ class CrowdinLocalization extends AppLocalizations {
   @override
   // TODO: implement anas
   String get anas => throw UnimplementedError();
+
+  @override
+  // TODO: implement thanks
+  String get thanks => throw UnimplementedError();
 }
 
 class _CrowdinLocalizationsDelegate
