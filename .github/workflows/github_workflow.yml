@@ -1,0 +1,25 @@
+name: Run flutter gen-l10n
+
+on:
+  push:
+    branches:
+      - main  # or the branch name you want to trigger the action
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Flutter
+      uses: subosito/flutter-action@v2
+      with:
+        flutter-version: 'stable'
+
+    - name: Install dependencies
+      run: flutter pub get
+
+    - name: Generate localization files
+      run: flutter gen-l10n
