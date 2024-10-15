@@ -70,7 +70,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer notifications",
+    "settings_PrayerNotifications": "إشعارات الصلاة",
     "settings_PrayerPreNotifications": "الإشعارات المسبقة للصلاة",
     "settings_Calculations": "طريقة الحساب",
     "settings_RateOurApp": "قيم تطبيقنا",
@@ -128,7 +128,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Shuruq",
+    "shuruq": "شوروق",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -189,7 +189,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "adhan_AbdAlBassat": "أدان عبد الباسط",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -342,7 +342,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled access",
+    "mosque_Facilities_DisabledAccess": "تعطيل الوصول",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al janaza",
+    "mosque_Facilities_SalatAlJanaza": "صالات الجنزة",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite mosques",
+    "favorites_edit": "تعديل المساجد المفضلة",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
@@ -811,11 +811,11 @@
     "error_performing_donation": "حدث خطأ أثناء محاولة إجراء التبرع",
     "recurring_pay_text": "قم بهذا التبرع شهريا.",
     "adjust_angles": "ضبط الزوايا",
-    "debug_text": "debug_text",
-    "anas": "Anas",
+    "debug_text": "نص التصحيح",
+    "anas": "أنس",
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "شكراً",
+    "many": "العديد"
 }
