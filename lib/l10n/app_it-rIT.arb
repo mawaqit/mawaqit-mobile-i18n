@@ -342,7 +342,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled access",
+    "mosque_Facilities_DisabledAccess": "Accesso disabilitato",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite mosques",
+    "favorites_edit": "Modifica moschee preferite",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
@@ -816,6 +816,6 @@
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "grazie",
+    "many": "molti"
 }
