@@ -70,7 +70,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer notifications",
+    "settings_PrayerNotifications": "Notifications de prière",
     "settings_PrayerPreNotifications": "Pré-notifications de prières",
     "settings_Calculations": "Méthode de calcul",
     "settings_RateOurApp": "Évaluer l'application",
@@ -189,7 +189,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "adhan_AbdAlBassat": "Abdul Bassit d'Adhan",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -342,7 +342,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled access",
+    "mosque_Facilities_DisabledAccess": "Accès désactivé",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite mosques",
+    "favorites_edit": "Modifier les mosquées favorites",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
@@ -816,6 +816,6 @@
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "merci",
+    "many": "plusieurs"
 }
