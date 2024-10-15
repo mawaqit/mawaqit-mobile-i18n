@@ -70,7 +70,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer notifications",
+    "settings_PrayerNotifications": "Gebetsbenachrichtigungen",
     "settings_PrayerPreNotifications": "Gebetsvorbenachrichtigungen",
     "settings_Calculations": "Berechnungsmethode",
     "settings_RateOurApp": "Bewerten Sie unsere App",
@@ -342,7 +342,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled access",
+    "mosque_Facilities_DisabledAccess": "Deaktivierter Zugriff",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite mosques",
+    "favorites_edit": "Favoriten-Moscheen bearbeiten",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
@@ -812,10 +812,10 @@
     "recurring_pay_text": "Machen Sie diese Spende monatlich.",
     "adjust_angles": "Winkel anpassen",
     "debug_text": "debug_text",
-    "anas": "Anas",
+    "anas": "Ana",
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "danke",
+    "many": "viele"
 }
