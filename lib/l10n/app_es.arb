@@ -189,7 +189,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "adhan_AbdAlBassat": "Bastión de Adhan Abdul",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -811,11 +811,11 @@
     "error_performing_donation": "Hubo un error al intentar realizar la donación",
     "recurring_pay_text": "Haz esta donación mensualmente.",
     "adjust_angles": "Ajustar Ángulos",
-    "debug_text": "debug_text",
-    "anas": "Anas",
+    "debug_text": "debug_texto",
+    "anas": "Ana",
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "gracias",
+    "many": "muchos"
 }
