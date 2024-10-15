@@ -1,0 +1,821 @@
+{
+    "@@locale": "bn",
+    "bottomNavbar_mawaqit": "মাওয়াকিত",
+    "@bottomNavbar_mawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_favorites": "প্রিয়",
+    "@bottomNavbar_favorites": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_qibla": "কিবলা",
+    "@bottomNavbar_qibla": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_search": "অনুসন্ধান",
+    "@bottomNavbar_search": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_settings": "বিন্যাস সমূহ",
+    "@bottomNavbar_settings": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeAuto": "অটো",
+    "@settings_ThemeAuto": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeDark": "অন্ধকার",
+    "@settings_ThemeDark": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeLight": "আলো",
+    "@settings_ThemeLight": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat": "সময় ফর্ম্যাট",
+    "@settings_TimeFormat": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_LanguageSelection": "ভাষা নির্বাচন",
+    "@settings_LanguageSelection": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Language": "ভাষা",
+    "@settings_Language": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Theme": "থিম",
+    "@settings_Theme": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat12H": "12H",
+    "@settings_TimeFormat12H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat24H": "24H",
+    "@settings_TimeFormat24H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotifications": "Prayer notifications",
+    "settings_PrayerPreNotifications": "Prayer pre-notifications",
+    "settings_Calculations": "Calculations",
+    "settings_RateOurApp": "আমাদের অ্যাপ্লিকেশন রেট",
+    "@settings_RateOurApp": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_WhatsNew": "What's new",
+    "bismillah": "বিসমিল্লাহ",
+    "settings_DonateToMawaqit": "মাওয়াকীতে দান করুন",
+    "@settings_DonateToMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_CheckForUpdates": "হালনাগাদ এর জন্য অনুসন্ধান করুন",
+    "@settings_CheckForUpdates": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Credits": "ক্রেডিট",
+    "@settings_Credits": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUs": "আমাদের সম্পর্কে",
+    "@settings_AboutUs": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_language_ar": "আরবি",
+    "settings_language_bn": "বাংলা",
+    "settings_language_fr": "ফরাসি",
+    "settings_language_nl": "ডাচ",
+    "settings_language_de": "জার্মান",
+    "settings_language_es": "স্পেনীয়",
+    "settings_language_en": "ইংরেজি",
+    "settings_language_it": "ইতালীয়",
+    "settings_language_tr": "তুর্কি",
+    "settings_language_ru": "রাশিয়ান",
+    "settings_language_id": "ইন্দোনেশিয়ান",
+    "settings_language_ur": "উর্দু",
+    "settings_language_pl": "পোলিশ",
+    "settings_CreditsText": "কপিরাইট © 2021 মাওয়াকিত ফাউন্ডেশনের জন্য মাওয়াকিট, সর্বস্বত্ব সংরক্ষিত।\n\nএই অ্যাপ্লিকেশনের মেধা সম্পত্তি এবং কপিরাইট বা এর প্লাগ-ইন, অ্যাড-অন বা বিষয়বস্তু মাওয়াকিট অ্যাসোসিয়েশনের মালিকানাধীন।\n\nএই সংস্করণটি শুধুমাত্র দাতব্য বিতরণের জন্য লাইসেন্সপ্রাপ্ত এবং এটি একটি ওয়াকফ। কোন বাণিজ্যিক ব্যবহার বা বাণিজ্যিক বিতরণ কঠোরভাবে নিষিদ্ধ.\n\nএই লাইসেন্সটি নির্দেশ করে না বা অন্তর্ভুক্ত করে না - যে কোনও উপায়ে - এই পণ্যের সাথে সম্পর্কিত কোনও অধিকার, এর কোনও অংশ, প্লাগ-ইন, অ্যাড-অন বা সামগ্রীর বিক্রয়। বরং, এই লাইসেন্সটি অ্যাপ্লিকেশন স্টোরের বর্তমান প্ল্যাটফর্মের মাধ্যমে অ্যাপ্লিকেশনটির শুধুমাত্র দাতব্য বিতরণের অনুমতি দেয়।\n\nসোর্স কোড বা বাইনারি ফাইলগুলি ব্যবহার করে অ্যাপ্লিকেশনটির পুনঃবন্টন, অথবা কোনো সংশোধনীর সাথে বা ছাড়াই বিপরীত প্রকৌশল ব্যবহার করে, লঙ্ঘনকারীকে বা এই কপিরাইট লঙ্ঘনের জন্য দায়ী ব্যক্তিকে আইনি পদক্ষেপের মুখোমুখি করবে।\n\nকপিরাইট ধারক এবং অ্যাপ্লিকেশনটির মালিক, মাওয়াকিট অ্যাসোসিয়েশনের জন্য মাওয়াকিটের অফিসিয়াল লিখিত অনুমতি ব্যতীত অ্যাপল বা গুগল প্লে-এর অফিসিয়াল স্টোরের বাইরে অ্যাপ্লিকেশনটি পুনরায় বিতরণ করার অধিকার কোনো পক্ষের নেই। এই অফিসিয়াল স্টোরের বাইরে এই অ্যাপ্লিকেশনটি বিতরণ করা মেধা সম্পত্তি সুরক্ষা আইনের লঙ্ঘন হবে এবং এই কপিরাইট লঙ্ঘনের জন্য দায়ী ব্যক্তিকে আইনি পদক্ষেপের মুখোমুখি করবে৷\n\nকপিরাইট মালিকের কাছ থেকে পূর্বে লিখিত অনুমতি না নিয়ে এই অ্যাপ্লিকেশন বা অন্য কোনো পণ্যের অনুরূপ বা প্রাপ্ত পণ্যের প্রচারের জন্য মাওয়াকিট ফাউন্ডেশনের জন্য আবেদনের নাম বা ব্র্যান্ড বা কপিরাইট ধারক মাওয়াকিতের ট্রেডমার্ক বা নাম ব্যবহার করার অনুমতি নেই।\nএই অ্যাপ্লিকেশনটি কপিরাইট ধারক এবং শেয়ারহোল্ডারদের দ্বারা \"যেমন আছে\" বিতরণ করার লাইসেন্সপ্রাপ্ত।\n\nঅ্যাপ্লিকেশনটির বিকাশকারী এবং মালিক কোম্পানি কোনো সুস্পষ্ট বা অন্তর্নিহিত ওয়ারেন্টি দেয় না, যার মধ্যে - কিন্তু সীমাবদ্ধ নয় - একটি নির্দিষ্ট উদ্দেশ্যে অ্যাপ্লিকেশনের উপযুক্ততার জন্য বিজ্ঞাপন এবং প্রচার করা। যে কোনো ক্ষেত্রে, মাওয়াকিট অ্যাসোসিয়েশনের জন্য মাওয়াকিট, বা শেয়ারহোল্ডাররা প্রত্যক্ষ, পরোক্ষ, বা দুর্ঘটনাজনিত (বিশেষ, সতর্কতামূলক, পরিণতিমূলক) কোনো ক্ষতির জন্য দায়ী নয়, যার মধ্যে - কিন্তু সীমাবদ্ধ নয় - ব্যবহার, ডেটা বা লাভের ক্ষতি; বা ব্যবসায়িক বাধা, কারণ এবং দায় যাই হোক না কেন, এই দায়গুলি চুক্তিভিত্তিক, নিখুঁত বা ক্ষতিকর (অবহেলা বা অন্যথা সহ) হতে পারে - যা এই অ্যাপ্লিকেশনটি ব্যবহার করে - একভাবে বা অন্যভাবে হয়৷\n\nআবেদনের কোনো তৃতীয় পক্ষের কপিরাইট তাদের ধারকের কাছে সংরক্ষিত।\n\nছবি এবং পটভূমি\n\nকপিরাইট Shutterstock যায়\nআইকন - CC BY 4.0 লাইসেন্স\n\nকপিরাইট Flaticons এর কাছে যায়\nMIT লাইসেন্স সমস্ত নন-ফন্ট এবং নন-আইকন ফাইলের জন্য প্রযোজ্য।\nহরফ - SIL OFL 1.1 লাইসেন্স\n\nকপিরাইট Google ফন্টে যায় (রোবোটো ফন্ট)\nকপিরাইট Apple, Cupertino প্যাকেজ\nকোড, প্যাকেজ এবং ফ্রেমওয়ার্ক\n\nGoogle দ্বারা ফ্লাটার\nপ্যাকেজ: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "@settings_CreditsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUsText": "এই অ্যাপ্লিকেশনটি MAWAQIT অ্যাসোসিয়েশন দ্বারা উন্নত করা হয়েছে.\n\nমাওয়াকিট অ্যাসোসিয়েশন ফ্রান্সে 2021 সালে তৈরি একটি অলাভজনক সংস্থা।\nআমাদের উদ্দেশ্য হল সফ্টওয়্যার এবং ওয়েবসাইটগুলির মতো আইটি এবং ডিজিটাল প্রযুক্তি সম্পর্কিত উদ্ভাবনী সমাধানগুলির বিকাশ; ডিজিটাল সমাধান এবং আইটি সরঞ্জাম শেখান এবং প্রশিক্ষণ.\n\nমাওয়াকিত ইকোসিস্টেম হল আমাদের ফ্ল্যাগশিপ প্রোডাক্ট এবং এর গল্পটি 2016 সালে শুরু হয়েছিল, মসজিদে নিবেদিত বড় স্ক্রিনে একটি অ্যাপ্লিকেশন, তারপর একটি মোবাইল অ্যাপ, একটি হোম-অ্যাসিস্ট্যান্ট অ্যাড-অন এবং একটি আলেক্সা দক্ষতা ইত্যাদি।\n\nমাওয়াকিট আপনাকে নামাজের সময় ট্র্যাক এবং পরিচালনা করার একটি নতুন উপায় অফার করে, আসলে আমরা একটি এন্ড-টু-এন্ড সিস্টেম অফার করি যা মসজিদ পরিচালকদের একটি অনলাইন টুল 24/24ঘন্টা উপলব্ধ করে যা তাদের সময়সূচী, মসজিদের খবর এবং অন্যান্য অনেক বৈশিষ্ট্য পরিচালনা করতে দেয়। বিশ্বস্তরা, তাদের পক্ষ থেকে, একটি মোবাইল অ্যাপ্লিকেশন থেকে উপকৃত হয় যা তাদের তাদের প্রিয় মসজিদের সঠিক এবং আনুমানিক সময়সূচী, সেইসাথে সংবাদ এবং অন্যান্য কার্যকারিতা যেমন ভৌগলিক অবস্থান, আযান, আযান, কিবলা ... ইত্যাদি। আমরা নির্ভরযোগ্যতা এবং গুণমানকে আমাদের প্রধান মান করেছি। আমাদের উচ্চাকাঙ্ক্ষা পরিষ্কার: প্রযুক্তি এবং ডিজাইনের জন্য আমাদের মসজিদের জন্য সেরা পরিষেবা তৈরি করা।\n\nআপনি যদি এই অ্যাপ্লিকেশনটি পছন্দ করেন তবে অনুগ্রহ করে দোকানে আপনার মতামত দিন।",
+    "@settings_AboutUsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "fajr": "ফজর",
+    "@fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "shuruq": "Shuruq",
+    "@shuruq": {
+        "description": "_",
+        "type": "text"
+    },
+    "duhr": "দুহর",
+    "@duhr": {
+        "description": "_",
+        "type": "text"
+    },
+    "asr": "আসর",
+    "@asr": {
+        "description": "_",
+        "type": "text"
+    },
+    "maghrib": "মাগরিব",
+    "@maghrib": {
+        "description": "_",
+        "type": "text"
+    },
+    "isha": "ইশা",
+    "@isha": {
+        "description": "_",
+        "type": "text"
+    },
+    "sabah": "সকাল",
+    "settings_PrayerNotification_NoNotification": "আপনি বর্তমানে এই প্রার্থনার জন্য অবহিত না হওয়ার জন্য সেট আপ করেছেন৷",
+    "@settings_PrayerNotification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotification_Bip": "বিজ্ঞপ্তির উপর বীপ রিংটোন অ্যাপ্লিকেশন।",
+    "@settings_PrayerNotification_Bip": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan": "আযান",
+    "@adhan": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah_fajr": "Adhan Makkah (Fajr)",
+    "@adhan_Makkah_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Madinah": "Adhan Madinah",
+    "@adhan_Madinah": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Qods": "Adhan Qods",
+    "@adhan_Qods": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AlAfassy": "Adhan Al Afassy",
+    "@adhan_AlAfassy": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "@adhan_AbdAlBassat": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_type": "এক প্রকার আযান বেছে নিন। আযান বিজ্ঞপ্তি আছে এমন প্রতিটি নামাজে এই পছন্দটি প্রয়োগ করা হবে।",
+    "@adhan_type": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_prayer_Notification_None": "কোনোটিই নয়",
+    "@settings_prayer_Notification_None": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_Notification_NoNotification": "আপনি এই প্রার্থনার জন্য কোন বিজ্ঞপ্তি সেট করেননি।",
+    "@prayer_Notification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_PreNotification_Description": "এই সেটিং আপনাকে প্রার্থনার আগে একটি বিজ্ঞপ্তি সংজ্ঞায়িত করতে দেয়।",
+    "@prayer_PreNotification_Description": {
+        "description": "_",
+        "type": "text"
+    },
+    "search_TryParis": "প্যারিস, এসসালাম ইত্যাদি চেষ্টা করুন।",
+    "search_ByGPS": "জিপিএস দ্বারা অনুসন্ধান করুন",
+    "search_HelpText": "আপনি লিখে একটি মসজিদ অনুসন্ধান করতে পারেন:\n- মসজিদের নাম\n- সমিতির নাম\n- শহর, ঠিকানা, দেশ...ইত্যাদি।\n\nঅথবা আপনি আশেপাশের মসজিদগুলি খুঁজতে লোকেটিং বোতামটি চাপতে পারেন।",
+    "search_MaxFavMosquesReached": "প্রিয় মসজিদের সর্বোচ্চ সীমানায় পৌঁছে গেছেন।",
+    "search_iOs14_message": "iOS 14 এ GPS ব্যবহার করে অনুসন্ধান করতে কিছু সময় লাগতে পারে, অনুগ্রহ করে অপেক্ষা করুন।",
+    "search_error": "Oops an internal error has occurred'",
+    "search_your_location": "Your location",
+    "search_location_enabled_no_result": "আপনার অনুসন্ধানের জন্য আমরা কোনও MAWAQIT পার্টনার মসজিদ পেতে পারিনি। আমরা আপনার অবস্থানের ভিতর প্রার্থনা সময় গণনা করেছি, যা নিকটস্থ: {locality}",
+    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
+    "search_settings": "Settings",
+    "dnd": "বিরক্ত করবেন না",
+    "battery_optimize": "ব্যাটারি অপ্টিমাইজেশান",
+    "power_saver": "শক্তি বাঁচায়",
+    "permission_message1": "আমরা একটি বিলম্বিত বিজ্ঞপ্তি সনাক্ত করেছি, দয়া করে বন্ধ করুন৷",
+    "permission_message2": "বিজ্ঞপ্তি বিলম্ব সনাক্ত করা হয়েছে",
+    "notifications_delay_detected": "Notifications delay detected",
+    "open_setting": "ওপেন সেটিংস",
+    "noJumua": "No jumua",
+    "@noJumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua": "Jumua",
+    "@jumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_sensor": "আপনার ডিভাইসের সেন্সরটি যা MAWAQIT কিবলা নির্ধারণের জন্য ব্যবহার করে তা প্রত্যাশিত হিসেবে কাজ করছে না, যা আমাদের কিবলা দিক প্রদর্শন ক্ষমতার উপর প্রভাব ফেলছে।",
+    "qibla_Error_retry": "পুনরায় চেষ্টা করা",
+    "@qibla_Error_retry": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDenied": "অবস্থান পরিষেবার অনুমতি অস্বীকার করা হয়েছে৷",
+    "@qibla_Error_LocationDenied": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDeniedForever": "অবস্থান পরিষেবা চিরতরে অস্বীকার!",
+    "@qibla_Error_LocationDeniedForever": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_PleaseEnable": "অনুগ্রহ করে অবস্থান পরিষেবা সক্ষম করুন৷",
+    "@qibla_Error_PleaseEnable": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Direction": "QIBLA\nঅভিমুখ",
+    "@qibla_Direction": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_FavoriteMosques": "প্রিয় মসজিদ",
+    "@favorites_FavoriteMosques": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_Error": "কিছু ভুল হয়েছে...",
+    "@favorites_Error": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Image": "ছবি",
+    "@announcement_Image": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_Video": "ভিডিও",
+    "@announcement_Type_Video": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_FlashInfo": "ফ্ল্যাশ তথ্য",
+    "@announcement_Type_FlashInfo": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText1": "দান করুন",
+    "@mosque_DonateText1": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText2": "মসজিদে",
+    "@mosque_DonateText2": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Error_CouldNotLaunch": "চালু করা যায়নি",
+    "@mosque_Error_CouldNotLaunch": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_PrayerTimes": "নামাজের সময়",
+    "@mosque_PrayerTimes": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Website": "ওয়েবসাইট",
+    "@mosque_Website": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Address": "ঠিকানা",
+    "@mosque_Address": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Phone": "মোবাইল",
+    "@mosque_Phone": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Email": "ইমেইল",
+    "@mosque_Email": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_ByMawaqit": "মাওয়াকিত https://mawaqit.net দ্বারা",
+    "@mosque_ByMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_Parking": "পার্কিং",
+    "@mosque_Facilities_Parking": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_DisabledAccess": "Disabled access",
+    "@mosque_Facilities_DisabledAccess": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AblutionsRoom": "Ablution room",
+    "@mosque_Facilities_AblutionsRoom": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_WomanSpace": "Woman space",
+    "@mosque_Facilities_WomanSpace": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AdultsCourse": "Adults courses",
+    "@mosque_Facilities_AdultsCourse": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_ChildrenCourses": "Children courses",
+    "@mosque_Facilities_ChildrenCourses": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlAid": "সালাত আল ঈদ",
+    "@mosque_Facilities_SalatAlAid": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlJanaza": "Salat Al janaza",
+    "@mosque_Facilities_SalatAlJanaza": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosques_Facilities_IftarRamadan": "রমজানের ইফতার",
+    "@mosques_Facilities_IftarRamadan": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_facilities_Info": "এই সমস্ত তথ্য মসজিদের দায়িত্বে থাকা ব্যক্তিদের দ্বারা পূরণ করা হয়",
+    "@mosque_facilities_Info": {
+        "description": "_",
+        "type": "text"
+    },
+    "in_": "ভিতরে",
+    "@in_": {
+        "description": "_",
+        "type": "text"
+    },
+    "imsak": "ইমসাক",
+    "@imsak": {
+        "description": "_",
+        "type": "text"
+    },
+    "eid": "এ ঈদের নামাজ",
+    "@eid": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes": "মিনিট",
+    "@minutes": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua2": "Jumua 2",
+    "@jumua2": {
+        "description": "_",
+        "type": "text"
+    },
+    "please_update": "MAWAQIT-এর একটি নতুন সংস্করণ উপলব্ধ, অনুগ্রহ করে আপডেট করুন",
+    "@please_update": {
+        "description": "_",
+        "type": "text"
+    },
+    "update": "হালনাগাদ",
+    "@update": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_skip": "টিউটোরিয়াল এড়িয়ে যান",
+    "@tutorial_skip": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_next": "পরবর্তী",
+    "@tutorial_next": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_main_mosque": "আপনার প্রধান মসজিদ",
+    "@tutorial_title_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_main_mosque": "আপনার প্রধান মসজিদ এখানে দেখান.\nআপনি আপনার প্রিয় মসজিদগুলির মধ্যে স্যুইচ করতে বাম এবং ডানদিকে স্লাইড করতে পারেন।",
+    "@tutorial_text_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_countdown": "পরবর্তী প্রার্থনা সূচক",
+    "@tutorial_title_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_countdown": "এই কাউন্টডাউন আপনাকে পরবর্তী নামাজের আগে বাকি সময় দেখায়।",
+    "@tutorial_text_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_mosque_info": "মসজিদ তথ্য",
+    "@tutorial_title_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_mosque_info": "আপনার মসজিদ সম্পর্কে সবকিছু: সুবিধা, ঠিকানা, ফোন, মেইল, দান এবং আরও অনেক কিছু।",
+    "@tutorial_text_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_announcements": "মসজিদের বার্তা এবং ঘোষণা",
+    "@tutorial_title_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_announcements": "আপনার মসজিদ থেকে বার্তা এবং ঘোষণা সম্পর্কে বিজ্ঞপ্তিগুলি এখানে প্রদর্শিত হবে৷\nআপনি এই বোতামটি আলতো চাপলে, আপনি সম্পূর্ণ বিবরণ দেখতে পাবেন। এই ঘোষণাগুলি একটি ফ্ল্যাশ বার্তা, একটি চিত্র বা এমনকি একটি ভিডিও হতে পারে৷",
+    "@tutorial_text_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_1": "আপনার ভাষা নির্বাচন করুন",
+    "@onboarding_title_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_1": "নীচের তালিকা থেকে আপনার পছন্দের ভাষা নির্বাচন করুন",
+    "@onboarding_text_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_2": "মাওয়াকিতে স্বাগতম",
+    "@onboarding_title_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_2": "মাওয়াকিত হল একটি ইকোসিস্টেম যা আপনাকে নামাজের সময় ট্র্যাক এবং পরিচালনা করার জন্য একটি নতুন উপায় সরবরাহ করে, আপনার হাতে থাকা অ্যাপ্লিকেশনটি এই ইকোসিস্টেমের অংশ, এটি আপনাকে মসজিদ খুঁজে পেতে এবং এর খবর এবং নামাজের সময়গুলি অনুসরণ করতে দেয়",
+    "@onboarding_text_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_3": "একটি গাঢ়/হালকা থিম নির্বাচন করুন",
+    "@onboarding_title_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_3": "আপনি কম আলোর পরিবেশে থাকুন বা আপনার ফোনে গাঢ় ব্যাকগ্রাউন্ডের রঙ পছন্দ করুন, আপনি উন্নত ভিজ্যুয়াল আরামের জন্য ডার্ক মোডের সুবিধা নিতে পারেন",
+    "@onboarding_text_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_4": "আপনার প্রধান মসজিদ যোগ করুন",
+    "@onboarding_title_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_4": "নীচের তালিকা থেকে আপনার প্রধান মসজিদ বাছাই করুন অথবা আপনার বর্তমান অবস্থানের কাছাকাছি একটি মসজিদ অনুসন্ধান করুন",
+    "@onboarding_text_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading": "লোডিং",
+    "@loading": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_please_wait": "প্রেরণ করা হচ্ছে, অনুগ্রহ করে অপেক্ষা করুন",
+    "@loading_please_wait": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_loaded": "লোডিং সম্পূর্ণ",
+    "@loading_loaded": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_edit": "Edit Favorite mosques",
+    "@favorites_edit": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes_to_athan": "এথান থেকে মিনিট",
+    "@minutes_to_athan": {
+        "description": "minutes to athan",
+        "type": "text"
+    },
+    "show_tutorial": "টিউটোরিয়াল পর্যালোচনা করুন",
+    "@show_tutorial": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_chose_mosque_please": "অনুগ্রহ করে অনুসন্ধান তালিকা থেকে একটি মসজিদ বেছে নিন",
+    "@onboarding_chose_mosque_please": {
+        "description": "_",
+        "type": "text"
+    },
+    "done": "সম্পন্ন",
+    "@done": {
+        "description": "_",
+        "type": "text"
+    },
+    "ok": "ঠিক আছে",
+    "@ok": {
+        "description": "_",
+        "type": "text"
+    },
+    "km": "কিমি",
+    "@km": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_title": "অ্যাপটি খুলুন",
+    "@notification_open_app_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_body": "বিজ্ঞপ্তি বজায় রাখতে অ্যাপ খুলুন",
+    "@notification_open_app_body": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_notification": "একটি প্রার্থনা বিজ্ঞপ্তি নির্বাচন করুন",
+    "@tutorial_title_notification": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_notification": "এখানে আপনি একটি ধরনের বিজ্ঞপ্তি, আথান, বিপ বা নীরব নির্বাচন করতে পারেন",
+    "@tutorial_text_notification": {
+        "description": "\\",
+        "type": "text"
+    },
+    "search_no_result": "একজন মাওয়াকিত রাষ্ট্রদূত হন এবং আপনার মসজিদে আমাদের সমাধান অফার করুন, এটি বিনামূল্যে\nhttps://mawaqit.net",
+    "@search_no_result": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_title": "মাওয়াক্বিতকে হার দিন",
+    "@rate_popin_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_message": "আপনি যদি এই অ্যাপটি পছন্দ করেন, দয়া করে এটি পর্যালোচনা করতে আপনার একটু সময় নিন!\nএটা সত্যিই আমাদের সাহায্য করে.",
+    "@rate_popin_message": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_rate": "হার",
+    "@rate_popin_rate": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_no": "না ধন্যবাদ",
+    "@rate_popin_no": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_later": "পরে হতে পারে",
+    "@rate_popin_later": {
+        "description": "_",
+        "type": "text"
+    },
+    "message_see_all": "আপনি স্ক্রিনের উপরের স্পীকারে ক্লিক করে এই মসজিদ থেকে সমস্ত বার্তা দেখতে পারেন।",
+    "@message_see_all": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah": "Adhan Makkah",
+    "@adhan_Makkah": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_iqama": "ইকামা",
+    "@tutorial_title_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_iqama": "এখানে আপনি মসজিদে আযান এবং ইকামার মধ্যে সময়কাল পাবেন",
+    "@tutorial_text_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_tooltip_download": "ক্যালেন্ডার ডাউনলোড করুন",
+    "@calendar_tooltip_download": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_download_permission_refused": "ডাউনলোডের অনুমতি অবশ্যই প্রত্যাখ্যান করা হয়েছে, দয়া করে ডাউনলোড করার অনুমতি দিন",
+    "@calendar_download_permission_refused": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_downloading": "ক্যালেন্ডার ডাউনলোড হচ্ছে...",
+    "@calendar_downloading": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_service_disabled": "অবস্থান পরিষেবা অক্ষম করা হয়েছে, দয়া করে এটি সক্ষম করুন৷",
+    "@location_service_disabled": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied": "অবস্থানের অনুমতি অস্বীকার করা হয়েছে, অনুগ্রহ করে অনুমতি দিন।",
+    "@location_permission_denied": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied_forever": "অবস্থানের অনুমতি চিরতরে অস্বীকৃত, দয়া করে সেটিংস পৃষ্ঠায় অনুমতি দিন৷",
+    "@location_permission_denied_forever": {
+        "description": "_",
+        "type": "text"
+    },
+    "and": "এবং",
+    "continue_to_app": "Continue",
+    "add": "Add",
+    "mosque": "Mosque",
+    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
+    "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
+    "search_no_result_for_text": "We did not find any result for",
+    "calculate_prayer_time_from_area": "We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: {locality}",
+    "surah_audio_downloading": "Surah Audio Downloading...",
+    "msg_internet_connection": "You don't have any internet connection",
+    "read_quran": "Read Quran",
+    "ayahs": "Ayahs",
+    "chapter": "Surah",
+    "meaning": "Meaning",
+    "al_quran": "Al Quran",
+    "surah_information": "Surah Information",
+    "surah_number": "Surah Number",
+    "quran_browsing": "Browsing",
+    "quran_search_placeholder": "Search by name of surah, number...",
+    "quran_verse_search": "Verse search",
+    "quran_translation": "Translation",
+    "quran_mushaf": "Mushaf",
+    "quran_juzz": "Juzz {number}",
+    "ayah": "Ayah",
+    "quran_verses": "Verses",
+    "surah": "Surah",
+    "continue_reading": "Continue Reading",
+    "bookmarks": "Bookmarks",
+    "juzz": "Juzz",
+    "quran_page": "Page {page}",
+    "quran_turning_page": "Turning page",
+    "quran_from_right_to_left": "From right to left",
+    "quran_from_left_to_right": "From left to right",
+    "quran_from_top_to_bottom": "From top to bottom",
+    "quran_from_bottom_to_top": "From bottom to top",
+    "quran_pages_color": "Pages color",
+    "english_tr": "English",
+    "french_tr": "French",
+    "spanish_tr": "Spanish",
+    "muhammad_hamidullah": "Muhammad Hamidullah",
+    "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
+    "sheikh_isa_garcia": "Sheikh Isa Garcia",
+    "reciters": "Reciters",
+    "favorite_reciters": "Favorite reciters",
+    "surahs_downloaded": "Surahs downloaded",
+    "surahs_chapter": "Surahs - Chapter",
+    "my_likes": "My Likes",
+    "cancel": "বাতিল",
+    "next": "Next",
+    "search_surah": "Search Surah",
+    "not_downloaded_recitation": "You have not downloaded any recitation yet.",
+    "not_favorite_reciter": "You have not marked any reciter favorite yet.",
+    "search_reciter": "Search Reciter",
+    "al_quran_al_kareem": "Al Quran Al Kareem",
+    "surahs": "Surahs",
+    "chapters": "Chapters",
+    "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
+    "calculation_madhab": "Jurisprudence - Madhab",
+    "calculation_madhab_shafii": "Shafi’i, Hanbali and Maliki",
+    "calculation_madhab_shafii_countries": "Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...",
+    "calculation_madhab_hanafi": "Hanafi",
+    "calculation_madhab_hanafi_countries": "Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...",
+    "calculation_methods": "Calculation methods",
+    "calculation_methods_france": "Muslim of France (ex UOIF)",
+    "calculation_methods_algeria": "Algerian Ministry of Religious Affairs and Wakfs",
+    "calculation_methods_morocco": "Moroccan Ministry of Wakfs and Islamic Affairs",
+    "calculation_methods_muslim_world": "Muslim World League",
+    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
+    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
+    "calculation_methods_umm_al_qura": "Umm al-Qura University, Makkah",
+    "calculation_methods_dubai": "The Gulf Region",
+    "calculation_methods_moon": "Moon Sighting Committee",
+    "calculation_methods_north_america": "Islamic Society of North America",
+    "calculation_methods_kuwait": "Kuwait",
+    "calculation_methods_qatar": "Qatar",
+    "calculation_methods_singapore": "Singapore",
+    "calculation_methods_turkey": "Turkey",
+    "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
+    "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
+    "calculation_methods_custom": "Custom angles",
+    "calculation_high_latitude": "Higher latitudes",
+    "calculation_high_latitude_none": "None",
+    "calculation_high_latitude_middle": "Middle of the night",
+    "calculation_high_latitude_one_seventh": "One-seventh of the night",
+    "calculation_high_latitude_angle_based": "Angle based method",
+    "calculation_adjustment": "Manual correction",
+    "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
+    "calculation_adjustment_prayers": "Prayer adjustments",
+    "calculation_adjustment_prayers_minutes": "{minute} minutes",
+    "calculation_adjustment_angles": "Custom angles",
+    "calculation_prayer_custom_angle": "{prayer} custom angle",
+    "error_download_quran_failed": "Failed to download Quran",
+    "downloading_quran": "Downloading Quran...",
+    "processing": "Processing...",
+    "copied_to_clipboard": "Copied to your clipboard !",
+    "download_quran_popup_title": "সর্বশেষ সজানো",
+    "download_quran_popup_downloading_1": "আমাদের করণীয় হলো কোরআনের পৃষ্ঠা ডাউনলোড করা, এটা কেবল কিছু সেকেন্ড নেবে। আমরা আপনার মোবাইল ডেটা ব্যবহার করব, যদি প্রয়োজন হয় তবে Wi-Fi-তে স্যুইচ করুন।",
+    "download_quran_popup_downloading_2": "আমরা কেবল আপনার জন্য কোরআন তৈরি করছি, দয়া করে কিছু সেকেন্ড অপেক্ষা করুন!",
+    "download_quran_popup_downloading_3": "কোরআনের সৌন্দর্য আবিষ্কার করুন! 'ডাউনলোড' ট্যাপ করে এর অমর জ্ঞানে অনুভব করুন এবং এর দিব্য শব্দ থেকে উৎসাহিত হোন।",
+    "download_quran_popup_confirm_cancel": "আপনি ডাউনলোড বাতিল করতে চান কি? এই ডেটা ছাড়া আপনি কোরআন পড়তে পারবেন না, পৃষ্ঠা অনুপলব্ধ হবে।",
+    "download_quran_popup_cancelled": "কিছু ভুল হয়েছে, দয়া করে আবার ডাউনলোড বোতাম চাপুন!",
+    "download": "ডাউনলোড",
+    "continue_download": "ডাউনলোড চালিয়ে যান",
+    "cancel_download": "ডাউনলোড বাতিল করুন",
+    "download_completed": "ডাউনলোড সম্পন্ন হয়েছে",
+    "download_failed": "ডাউনলোড ব্যর্থ হয়েছে",
+    "download_pages": "পৃষ্ঠা ডাউনলোড করুন",
+    "notification": "বিজ্ঞপ্তি",
+    "notification_not_supported_below_7": "আপনার ডিভাইস Android 7 বা তাতো নেটওয়ার্কের নোটিফিকেশন প্রাপ্ত করতে পারবেন না।",
+    "battery_optimization": "ব্যাটারি অপ্টিমাইজেশন",
+    "battery_optimization_subtitle": "প্রার্থনা সময়ের বিজ্ঞপ্তি সমস্যার নেটিভ অপটিমাইজেশন বন্ধ করতে, আপনার ডিভাইসের ব্যাটারি অপটিমাইজেশন বন্ধ করতে হবে।",
+    "allow": "অনুমতি দিন",
+    "deny": "অস্বীকার করুন",
+    "force_notification": "ফোর্স নোটিফিকেশন",
+    "tutorial_text_foreground_service": "এটিতে ট্যাপ করলে আপনি 'ফোরগ্রাউন্ড সার্ভিস' চালু বা বন্ধ করতে পারবেন",
+    "enable": "চালু",
+    "disable": "বন্ধ",
+    "do_not_show_again": "আবার দেখাবেন না",
+    "force_notification_title": "নামাজের বিজ্ঞপ্তি সঠিক সময়ে ট্রিগার করা হয় তা নিশ্চিত করতে মাওয়াকিত সক্রিয়।",
+    "force_notification_body": "নিঃসন্দেহে সালাত মুমিনদের উপর নির্দিষ্ট সময়ে ফরজ করা হয়েছে। নিসা (103)",
+    "force_notification_dialog1_body": "এই বিকল্পটি সক্রিয় করার মাধ্যমে, বিলম্ব না করে সঠিক সময়ে প্রার্থনা বিজ্ঞপ্তিগুলি ট্রিগার করা হয়েছে তা নিশ্চিত করতে অ্যাপ্লিকেশনটি সক্রিয় থাকবে। MAWAQIT অ্যাপ্লিকেশনটি শুধুমাত্র সেই উদ্দেশ্যে সক্রিয় থাকবে, এবং আপনি সেটিংস থেকে যে কোনো সময় সেই বিকল্পটি বন্ধ করতে পারেন।",
+    "force_notification_dialog2_body": "'ফোর্স নোটিফিকেশন' সক্ষম করার পরে বিজ্ঞপ্তি ট্রে থেকে নিচের দিকে সোয়াইপ করুন আপনি সেখানে এই বিজ্ঞপ্তিটি দেখতে পাবেন",
+    "notification_debugging": "বিজ্ঞপ্তি ডিবাগিং",
+    "notification_debugging_details": "বিজ্ঞপ্তি ডিবাগিং সক্ষম করা হয়েছে৷ আপনি বিজ্ঞপ্তি সেটিংস পরিবর্তন করলে, ডিবাগিং ডেটা হারিয়ে যাবে, এবং ডিবাগিং অক্ষম করা হবে৷",
+    "skip": "এড়িয়ে যান",
+    "agree": "একমত",
+    "return_no_search": "কোন অনুসন্ধান ফেরত",
+    "backend_environment_switch": "ব্যাকএন্ড এনভায়রনমেন্ট সুইচ",
+    "set_development_environment": "ডেভেলপমেন্ট এনভায়রনমেন্ট সেট করুন",
+    "set_production_environment": "উত্পাদন পরিবেশ সেট করুন",
+    "delay_notification": "বিলম্ব বিজ্ঞপ্তি",
+    "notification_delay_debugging_is": "বিজ্ঞপ্তি বিলম্ব ডিবাগিং হয়",
+    "banner_enable": "ব্যানার সক্ষম করুন",
+    "banner": "ব্যানার",
+    "show_details": "বিস্তারিত দেখাও",
+    "auto_detect_location": "সাজেস্ট করুন সবচেয়ে কাছাকাছি মসজিদ",
+    "auto_detect_explanation": "আপনি যখন আপনার মসজিদ থেকে দূরে থাকবেন, তখন অ্যাপ্লিকেশনটি আপনার অবস্থানের ভিত্তিতে স্বয়ংক্রিয়ভাবে সবচেয়ে কাছাকাছি মসজিদ অনুসারে অনুসারণের জন্য সুপারিশ করবে।",
+    "auto_detect_location_title": "এটা মনে হচ্ছে যে, আপনি আপনার মসজিদ থেকে দূরে",
+    "auto_detect_location_message": "আপনি কি সঠিক নামাজের সময়ের জন্য সবচেয়ে কাছাকাছি মসজিদ খোঁজার জন্য চান?",
+    "donation_success_toast": "দান সফলভাবে সম্পন্ন হয়েছে",
+    "donation_success": "আপনার দানের জন্য ধন্যবাদ, আল্লাহ আপনাকে প্রতিদান দিন",
+    "donation_failed": "অনুদান ব্যর্থ হয়েছে",
+    "donate_for_good": "ভালোর জন্য দান করুন",
+    "enter_amount_hint": "পরিমান লিখুন",
+    "enter_donation_amount": "অনুদানের পরিমাণ লিখুন",
+    "google_pay_not_available": "এই ডিভাইসে Google Pay উপলব্ধ নেই",
+    "error_performing_donation": "দান করার চেষ্টা করার সময় একটি ত্রুটি ছিল",
+    "recurring_pay_text": "প্রতি মাসে এই দান করুন।",
+    "adjust_angles": "কোণ সংশোধন করুন",
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    },
+    "thanks": "thanks",
+    "many": "many"
+}
