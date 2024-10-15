@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -79,7 +79,7 @@
         "type": "text"
     },
     "settings_WhatsNew": "Noticias",
-    "bismillah": "Bismillah",
+    "bismillah": "Bismillo",
     "settings_DonateToMawaqit": "Donar a MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
@@ -741,7 +741,7 @@
     "calculation_methods_turkey": "Turquía",
     "calculation_methods_tehran": "Instituto de Geofísica, Universidad de Teherán",
     "calculation_methods_russia": "Administración Espiritual de los Musulmanes en Rusia",
-    "calculation_methods_custom": "Custom angles",
+    "calculation_methods_custom": "Ángulos personalizados",
     "calculation_high_latitude": "Latitudes superiores",
     "calculation_high_latitude_none": "Ninguno",
     "calculation_high_latitude_middle": "Medianoche",
@@ -752,7 +752,7 @@
     "calculation_adjustment_prayers": "Ajustes",
     "calculation_adjustment_prayers_minutes": "{minute} minutos",
     "calculation_adjustment_angles": "Ángulos",
-    "calculation_prayer_custom_angle": "{prayer} custom angle",
+    "calculation_prayer_custom_angle": "Ángulo personalizado {prayer}",
     "error_download_quran_failed": "Error al descargar el Corán",
     "downloading_quran": "Descargando el Corán...",
     "processing": "Procesando...",
