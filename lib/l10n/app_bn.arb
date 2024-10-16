@@ -1,5 +1,4 @@
 {
-    "@@locale": "bn",
     "bottomNavbar_mawaqit": "মাওয়াকিত",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -71,7 +70,8 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "প্রার্থনা বিজ্ঞপ্তি",
-    "settings_PrayerPreNotifications": "প্রার্থনা প্রাক বিজ্ঞপ্তি",
+    "settings_PrayerPreNotifications": "প্রাক-নামাজ বিজ্ঞপ্তি",
+    "settings_ShuruqPreNotifications": "প্রাক-শুরুক বিজ্ঞপ্তি",
     "settings_Calculations": "Calculations",
     "settings_RateOurApp": "আমাদের অ্যাপ্লিকেশন রেট",
     "@settings_RateOurApp": {
@@ -79,6 +79,9 @@
         "type": "text"
     },
     "settings_WhatsNew": "What's new",
+    "settings_SupportMawaqit": "মাওয়াকিতকে সমর্থন করুন",
+    "settings_News": "খবর",
+    "settings_MakeADonation": "অনুদান করুন",
     "bismillah": "বিসমিল্লাহ",
     "settings_DonateToMawaqit": "মাওয়াকীতে দান করুন",
     "@settings_DonateToMawaqit": {
@@ -128,7 +131,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "শুরুক",
+    "shuruq": "সূর্যোদয়",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,27 +172,37 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "আজান মক্কা (ফজর)",
+    "adhan_Makkah_fajr": "মক্কা (ফজর)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "আযান মদীনা",
+    "adhan_Madinah": "মদীনা",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "আযান কওদস",
+    "adhan_Qods": "কওদস",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "আজান আল আফাসি",
+    "adhan_AlAfassy": "আল আফাসি",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "আজান আব্দুল বাসিত",
+    "adhan_AlAfassy_fajr": "আল আফাসি (ফজর)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "মুহাম্মাদ জাযী",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "আব্দুল বাসিত",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -224,6 +237,43 @@
     "search_location_enabled_no_result": "আপনার অনুসন্ধানের জন্য আমরা কোনও MAWAQIT পার্টনার মসজিদ পেতে পারিনি। আমরা আপনার অবস্থানের ভিতর প্রার্থনা সময় গণনা করেছি, যা নিকটস্থ: {locality}",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
     "search_settings": "Settings",
+    "no_services_text": "মসজিদগুলি এই তথ্য সরবরাহ করেনি",
+    "welcome": "স্বাগতম",
+    "mawaqit": "মাওয়াকিট",
+    "connecting": "মুসলিমদের সংযোগ স্থাপন",
+    "to_mosques": "মসজিদের সাথে",
+    "get_started": "শুরু করুন",
+    "get_prayer_notifications_for": "নামাজের জন্য নোটিফিকেশন পান",
+    "turn_on_notifications": "প্রার্থনা বিজ্ঞপ্তি চালু করুন",
+    "no_thanks": "না ধন্যবাদ",
+    "notification_denied": "আপনি বিজ্ঞপ্তির অনুমতি অস্বীকার করেছেন, তাই আপনি কোনো বিজ্ঞপ্তি পাবেন না।",
+    "at_least_one_mosque": "চালিয়ে যেতে অন্তত একটি মসজিদ যোগ করুন",
+    "set_up_your_prayer": "আপনার নামাজ স্থাপন করুন",
+    "notifications": "বিজ্ঞপ্তিগুলি",
+    "mosques_around_you": "আপনার চারপাশে মসজিদ",
+    "mosques_in_the_selected_area": "নির্বাচিত এলাকায় মসজিদ",
+    "mosques_with": "সঙ্গে মসজিদ",
+    "allow_mawaqit_to_access_my_location": "মাওয়াকিতকে আমার অবস্থান অ্যাক্সেস করার অনুমতি দিন.",
+    "enable_location_service_from_app_settings": "অ্যাপ সেটিংস থেকে অবস্থান পরিষেবা সক্ষম করুন.",
+    "the_request_timeout": "অনুরোধ সময় শেষ হয়েছে",
+    "no_internet_connection": "ইন্টারনেট সংযোগ নেই",
+    "try_again": "আবার চেষ্টা কর",
+    "virtual_mosque": "ভার্চুয়াল মসজিদ",
+    "no_mosque_in_selected_area": "নির্বাচিত এলাকায় কোন মসজিদ খুঁজে পাওয়া যায়নি",
+    "no_mosque_with": "সাথে কোন মসজিদ খুঁজে পাইনি",
+    "retry": "পুনরায় চেষ্টা করা",
+    "search_here": "এখানে অনুসন্ধান করুন",
+    "enter_at_least_3_char": "অনুসন্ধান করতে কমপক্ষে 3টি অক্ষর লিখুন৷",
+    "jumua1": "জুমা ১",
+    "prayer_times": "নামাজের সময়",
+    "remove_this_city": "এই শহরকে সরিয়ে দাও",
+    "add_this_city": "এই শহর যোগ করুন",
+    "add_this_mosque": "এই মসজিদকে অ্যাড",
+    "remove_this_mosque": "এই মসজিদ সরিয়ে দাও",
+    "services": "সেবা",
+    "share": "শেয়ার করুন",
+    "itinerary": "ভ্রমণসূচী",
+    "call": "কল",
     "dnd": "বিরক্ত করবেন না",
     "battery_optimize": "ব্যাটারি অপ্টিমাইজেশান",
     "power_saver": "শক্তি বাঁচায়",
@@ -231,17 +281,21 @@
     "permission_message2": "বিজ্ঞপ্তি বিলম্ব সনাক্ত করা হয়েছে",
     "notifications_delay_detected": "Notifications delay detected",
     "open_setting": "ওপেন সেটিংস",
-    "noJumua": "জুমুয়া নেই",
+    "noJumua": "কোনো জুমা নেই",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "জুমুয়া",
+    "jumua": "জুমা",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
     "qibla_sensor": "আপনার ডিভাইসের সেন্সরটি যা MAWAQIT কিবলা নির্ধারণের জন্য ব্যবহার করে তা প্রত্যাশিত হিসেবে কাজ করছে না, যা আমাদের কিবলা দিক প্রদর্শন ক্ষমতার উপর প্রভাব ফেলছে।",
+    "connection_not_found": "কম্পাস ক্যালিব্রেশন সেটিংস নিষ্ক্রিয় করা হয়েছে। আপনার সংযোগ চালু আছে কিনা তা নিশ্চিত করুন এবং দিক পরিবর্তন করে আবার চেষ্টা করুন।",
+    "currently_located_at": "Currently located at",
+    "facing_makkah": "আপনি মক্কার দিকে মুখ করে আছেন",
+    "not_facing_Makkah": "আপনি মক্কার দিকে মুখ করে নেই",
     "qibla_Error_retry": "পুনরায় চেষ্টা করা",
     "@qibla_Error_retry": {
         "description": "_",
@@ -407,7 +461,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "জুমুয়া ২",
+    "jumua2": "জুমা ২",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +671,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "আযান মক্কা",
+    "adhan_Makkah": "মক্কা",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -662,6 +716,7 @@
         "description": "_",
         "type": "text"
     },
+    "at_least_one_mosque_error": "আপনার অন্তত একটি মসজিদ থাকা উচিত।",
     "and": "এবং",
     "continue_to_app": "Continue",
     "add": "Add",
@@ -811,11 +866,63 @@
     "error_performing_donation": "দান করার চেষ্টা করার সময় একটি ত্রুটি ছিল",
     "recurring_pay_text": "প্রতি মাসে এই দান করুন।",
     "adjust_angles": "কোণ সংশোধন করুন",
-    "debug_text": "debug_text",
-    "anas": "Anas",
-    "@anas": {
-        "description": "anas"
-    },
-    "thanks": "thanks",
-    "many": "many"
+    "silent": "নীরব",
+    "default_": "ডিফল্ট",
+    "muazzin": "মুয়াজ্জিন",
+    "information": "তথ্য",
+    "news": "সংবাদ",
+    "calendar": "ক্যালেন্ডার",
+    "system": "সিস্টেম",
+    "change_mosque_order": "অর্ডার পরিবর্তন এবং প্রধান মসজিদ সেট করতে মসজিদগুলি টেনে আনুন এবং ছেড়ে দিন",
+    "remove": "সংরক্ষণ",
+    "save": "Save",
+    "main_mosque": "প্রধান মসজিদ",
+    "mosques": "মসজিদগুলি",
+    "no_news": "মসজিদ থেকে কোন খবর নেই",
+    "mawaqit_notification": "মাওয়াকিত বিজ্ঞপ্তি",
+    "no_mawaqit_notification": "মাওয়াকিত থেকে কোন বিজ্ঞপ্তি নেই",
+    "meccan": "মক্কান",
+    "medinan": "মদিনান",
+    "montada_islamic_foundation": "মোনতাদা ইসলামিক ফাউন্ডেশন",
+    "rashid_maash": "রশিদ মাআশ",
+    "abdul_haleem": "আবদুল হালিম",
+    "dr_mustafa_khattab": "ডাঃ মুস্তফা খত্তাব",
+    "frank_bubenheim_and_nadeem": "ফ্রাঙ্ক বুবেনহেইম এবং নাদিম",
+    "abu_reda_muhammad_ibn_ahmad": "আবু রেদা মুহাম্মদ ইবনে আহমদ",
+    "unknown_author": "অজানা লেখক",
+    "translation_settings": "অনুবাদ সেটিংস",
+    "reading": "পড়া",
+    "listening": "শুনা",
+    "font_size": "ফন্ট সাইজ",
+    "font_size_arabic": "আরবি ফন্ট সাইজ",
+    "horizontal": "আনুভূমিক",
+    "vertical": "উল্লম্ব",
+    "add_page_bookmarks": "বুকমার্কে পাতা যোগ করুন",
+    "remove_page_bookmarks": "বুকমার্ক থেকে পাতা সরান",
+    "no_bookmarks": "কোন বুকমার্ক নেই",
+    "liked": "পছন্দ হয়েছে",
+    "all_recitators": "সমস্ত ক্বারী",
+    "downloaded": "ডাউনলোড করা হয়েছে",
+    "search_for_recitator": "ক্বারী সন্ধান করুন",
+    "search_for_surah": "সূরা সন্ধান করুন",
+    "search_for_fav_recitator": "পছন্দের ক্বারী সন্ধান করুন",
+    "listen_to_quran": "কুরআন শুনুন",
+    "search_hint_text": "একটি মসজিদ বা শহর খুঁজুন",
+    "downloading": "ডাউনলোড হচ্ছে",
+    "cant_download_more_than_3": "একই সময়ে 3টির বেশি ডাউনলোড করা যাবে না।",
+    "boost": "বুস্ট",
+    "recitation_deleted_successfully": "তেলাওয়াত সফলভাবে মুছে ফেলা হয়েছে",
+    "quran": "কুরআন",
+    "qibla": "কিবলা",
+    "search": "অনুসন্ধান",
+    "more": "আরও",
+    "download_cancelled": "ডাউনলোড বাতিল করা হয়েছে",
+    "no_virtual_mosque_found": "দুঃখিত, আমরা আপনার আশেপাশে কোন মসজিদ খুঁজে পাইনি",
+    "no_surah_found": "কোন সূরা পাওয়া যায়নি",
+    "no_favorite_recitor_found": "কোন প্রিয় তেলাওয়াতকারী পাওয়া যায়নি",
+    "no_recitator_found": "কোন তেলাওয়াতকারী পাওয়া যায়নি",
+    "empty_quran_search": "অনুসন্ধানের ফলাফল এখানে প্রদর্শিত হবে",
+    "no_bookmark_ayah": "কোনো বুকমার্ক উপলব্ধ নেই। দয়া করে আপনি যে আয়াতটি বুকমার্ক করতে চান সেটিতে দীর্ঘক্ষণ চাপ দিয়ে রাখুন।",
+    "page": "পৃষ্ঠা",
+    "prayer_times_in": "নামাজের সময়"
 }
