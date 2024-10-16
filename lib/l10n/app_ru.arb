@@ -1,5 +1,4 @@
 {
-    "@@locale": "ru",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -71,7 +70,8 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Уведомления о молитвах",
-    "settings_PrayerPreNotifications": "Уведомления до начала молитвы",
+    "settings_PrayerPreNotifications": "Уведомление перед молитвой",
+    "settings_ShuruqPreNotifications": "Уведомление перед Шуруком",
     "settings_Calculations": "Метод расчета",
     "settings_RateOurApp": "Оцените наше приложение",
     "@settings_RateOurApp": {
@@ -79,6 +79,9 @@
         "type": "text"
     },
     "settings_WhatsNew": "Новости",
+    "settings_SupportMawaqit": "Поддержать Mawaqit",
+    "settings_News": "Новости",
+    "settings_MakeADonation": "Сделать пожертвование",
     "bismillah": "Бисмиллах",
     "settings_DonateToMawaqit": "Поддержите MAWAQIT",
     "@settings_DonateToMawaqit": {
@@ -128,7 +131,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Духа",
+    "shuruq": "Восход солнца",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,27 +172,37 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Азан Макка (Утренний)",
+    "adhan_Makkah_fajr": "Макка (Утренний)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Азан Медина",
+    "adhan_Madinah": "Медина",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Азан Кудс",
+    "adhan_Qods": "Кудс",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Азан Аль-Афаси",
+    "adhan_AlAfassy": "Аль-Афаси",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Азан Абдул Басит",
+    "adhan_AlAfassy_fajr": "Аль-Афаси (Утренний)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "Мухаммад Джази",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "Абдул Басит",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -224,6 +237,43 @@
     "search_location_enabled_no_result": "Мы не смогли найти мечеть-партнера MAWAQIT для вашего запроса. Мы рассчитали время молитвы на основе вашего местоположения, рядом с: {locality}",
     "search_location_disabled": "Пожалуйста, найдите мечеть по названию или городу, или разрешите определение местоположения вручную в настройках.",
     "search_settings": "Настройки",
+    "no_services_text": "Мечети не предоставили эту информацию",
+    "welcome": "Добро пожаловать в",
+    "mawaqit": "МАВАКИТ",
+    "connecting": "Связь мусульман",
+    "to_mosques": "с мечетями",
+    "get_started": "Начать",
+    "get_prayer_notifications_for": "Получать уведомления о молитве для",
+    "turn_on_notifications": "Включить уведомления о молитвах",
+    "no_thanks": "Нет, спасибо",
+    "notification_denied": "Вы отклонили разрешения на уведомления, поэтому вы не будете получать никаких уведомлений.",
+    "at_least_one_mosque": "Добавьте хотя бы одну мечеть, чтобы продолжить",
+    "set_up_your_prayer": "Настройте свою молитву",
+    "notifications": "Уведомления",
+    "mosques_around_you": "Мечети вокруг вас",
+    "mosques_in_the_selected_area": "Мечети в выбранном районе",
+    "mosques_with": "Мечети с",
+    "allow_mawaqit_to_access_my_location": "Разрешить Mawaqit получать доступ к моему местоположению.",
+    "enable_location_service_from_app_settings": "Включите службу определения местоположения в настройках приложения..",
+    "the_request_timeout": "Время запроса истекло",
+    "no_internet_connection": "Нет соединения с интернетом",
+    "try_again": "Попробуйте еще раз",
+    "virtual_mosque": "Виртуальная мечеть",
+    "no_mosque_in_selected_area": "Не удалось найти мечети в выбранном районе.",
+    "no_mosque_with": "Не удалось найти мечети с",
+    "retry": "Повторить попытку",
+    "search_here": "Поищи здесь",
+    "enter_at_least_3_char": "Введите минимум 3 символа для поиска",
+    "jumua1": "Джума 1",
+    "prayer_times": "Время молитвы",
+    "remove_this_city": "Удалить этот город",
+    "add_this_city": "Добавить этот город",
+    "add_this_mosque": "Добавить эту мечеть",
+    "remove_this_mosque": "Удалить эту мечеть",
+    "services": "Услуги",
+    "share": "Делиться",
+    "itinerary": "Маршрут",
+    "call": "Вызов",
     "dnd": "Просьба не беспокоить",
     "battery_optimize": "Оптимизация батареи",
     "power_saver": "Экономия энергии",
@@ -231,17 +281,21 @@
     "permission_message2": "чтобы получить уведомление вовремя.",
     "notifications_delay_detected": "Обнаружена задержка уведомлений",
     "open_setting": "Открыть настройки",
-    "noJumua": "Без джумуа",
+    "noJumua": "Нет Джума",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Джумуа",
+    "jumua": "Джума",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
     "qibla_sensor": "Датчик в вашем устройстве, который MAWAQIT использует для определения Киблы, не работает так, как ожидалось, что влияет на",
+    "connection_not_found": "Настройка калибровки компаса отключена. Пожалуйста, убедитесь, что ваше соединение включено, и попробуйте снова, изменив направление.",
+    "currently_located_at": "В настоящее время находится в",
+    "facing_makkah": "Вы смотрите в сторону Мекки",
+    "not_facing_Makkah": "Вы не смотрите в сторону Мекки",
     "qibla_Error_retry": "Повтор",
     "@qibla_Error_retry": {
         "description": "_",
@@ -407,7 +461,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Джумуа 2",
+    "jumua2": "Джума 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +671,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Азан Мекка",
+    "adhan_Makkah": "Мекка",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -662,6 +716,7 @@
         "description": "_",
         "type": "text"
     },
+    "at_least_one_mosque_error": "У вас должна быть хотя бы одна мечеть.",
     "and": "и",
     "continue_to_app": "Продолжать",
     "add": "Добавлять",
@@ -811,11 +866,63 @@
     "error_performing_donation": "При попытке совершить пожертвование произошла ошибка",
     "recurring_pay_text": "Делайте это пожертвование ежемесячно.",
     "adjust_angles": "Настройте углы",
-    "debug_text": "отладоч_текст",
-    "anas": "Анас",
-    "@anas": {
-        "description": "anas"
-    },
-    "thanks": "спасибо",
-    "many": "много"
+    "silent": "Беззвучный",
+    "default_": "По умолчанию",
+    "muazzin": "Муэдзин",
+    "information": "Информация",
+    "news": "Новости",
+    "calendar": "Календарь",
+    "system": "система",
+    "change_mosque_order": "Перетащите мечети, чтобы изменить порядок и установить главную мечеть",
+    "remove": "Удалить",
+    "save": "безопасный",
+    "main_mosque": "Главная мечеть",
+    "mosques": "Мечети",
+    "no_news": "Нет новостей из мечети",
+    "mawaqit_notification": "Уведомление Mawaqit",
+    "no_mawaqit_notification": "Нет уведомлений от Mawaqit",
+    "meccan": "Мекканский",
+    "medinan": "Мединский",
+    "montada_islamic_foundation": "Исламский фонд Монтада",
+    "rashid_maash": "Рашид Мааш",
+    "abdul_haleem": "Абдул Халим",
+    "dr_mustafa_khattab": "Доктор Мустафа Хаттаб",
+    "frank_bubenheim_and_nadeem": "Фрэнк Бубенхайм и Надим",
+    "abu_reda_muhammad_ibn_ahmad": "Абу Реда Мухаммад ибн Ахмад",
+    "unknown_author": "Неизвестный автор",
+    "translation_settings": "Настройки перевода",
+    "reading": "Чтение",
+    "listening": "Прослушивание",
+    "font_size": "Размер шрифта",
+    "font_size_arabic": "Размер шрифта арабский",
+    "horizontal": "Горизонтальный",
+    "vertical": "Вертикальный",
+    "add_page_bookmarks": "Добавить страницу в закладки",
+    "remove_page_bookmarks": "Удалить страницу из закладок",
+    "no_bookmarks": "Нет закладок",
+    "liked": "Понравилось",
+    "all_recitators": "Все чтецы",
+    "downloaded": "Скачано",
+    "search_for_recitator": "Искать чтеца",
+    "search_for_surah": "Искать суру",
+    "search_for_fav_recitator": "Искать любимого чтеца",
+    "listen_to_quran": "СЛУШАТЬ КОРАН",
+    "search_hint_text": "Ищите мечеть или город",
+    "downloading": "Скачивание",
+    "cant_download_more_than_3": "Нельзя скачивать больше 3 одновременно.",
+    "boost": "Усилить",
+    "recitation_deleted_successfully": "Рецитация успешно удалена",
+    "quran": "Коран",
+    "qibla": "Кибла",
+    "search": "Поиск",
+    "more": "Еще",
+    "download_cancelled": "Загрузка отменена",
+    "no_virtual_mosque_found": "Извините, мы не нашли мечетей рядом с вами",
+    "no_surah_found": "Сура не найдена",
+    "no_favorite_recitor_found": "Любимый чтец не найден",
+    "no_recitator_found": "Чтец не найден",
+    "empty_quran_search": "Результаты поиска появятся здесь",
+    "no_bookmark_ayah": "Нет доступных закладок. Пожалуйста, нажмите и удерживайте аят, который хотите добавить в закладки.",
+    "page": "Страница",
+    "prayer_times_in": "Время молитв в"
 }
