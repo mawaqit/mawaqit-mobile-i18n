@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Gebetsbenachrichtigungen",
-    "settings_PrayerPreNotifications": "Gebet Vorankündigungen",
+    "settings_PrayerPreNotifications": "Gebetsvorbenachrichtigungen",
     "settings_Calculations": "Berechnungsmethode",
     "settings_RateOurApp": "Bewerten Sie unsere App",
     "@settings_RateOurApp": {
@@ -169,7 +169,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Adhan Makkah (Fadjr)",
+    "adhan_Makkah_fajr": "Adhan Makkah (Fajr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
@@ -231,12 +231,12 @@
     "permission_message2": "um die Benachrichtigung rechtzeitig zu erhalten.",
     "notifications_delay_detected": "Benachrichtigungsverzögerung erkannt",
     "open_setting": "Einstellungen öffnen",
-    "noJumua": "Kein Jumuaa",
+    "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jumuaa",
+    "jumua": "Jumua",
     "@jumua": {
         "description": "_",
         "type": "text"
@@ -342,27 +342,27 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Behindertengerechter Zugang",
+    "mosque_Facilities_DisabledAccess": "Deaktivierter Zugriff",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Waschraum",
+    "mosque_Facilities_AblutionsRoom": "Verwässerungsraum",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Frauen Raum",
+    "mosque_Facilities_WomanSpace": "Frauen-Raum",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Erwachsenenkurse",
+    "mosque_Facilities_AdultsCourse": "Erwachsenen-Kurse",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Kinder-Kurse",
+    "mosque_Facilities_ChildrenCourses": "Kinderkurse",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Salat Al janaza",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -407,7 +407,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jumuaa 2",
+    "jumua2": "Jumua 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Favorite Moscheen bearbeiten",
+    "favorites_edit": "Favoriten-Moscheen bearbeiten",
     "@favorites_edit": {
         "description": "_",
         "type": "text"

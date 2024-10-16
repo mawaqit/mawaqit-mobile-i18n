@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Notifiche di preghiera",
-    "settings_PrayerPreNotifications": "Pre-notifiche di preghiera",
+    "settings_PrayerPreNotifications": "Prenotifiche di preghiera",
     "settings_Calculations": "Metodo di calcolo",
     "settings_RateOurApp": "Vota la nostra App",
     "@settings_RateOurApp": {
@@ -231,12 +231,12 @@
     "permission_message2": "per ricevere la notifica in tempo.",
     "notifications_delay_detected": "Rilevato ritardo nelle notifiche",
     "open_setting": "Apri Impostazioni",
-    "noJumua": "No Jumuaa",
+    "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jumuaa",
+    "jumua": "Jumua",
     "@jumua": {
         "description": "_",
         "type": "text"
@@ -342,12 +342,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Accesso per disabili",
+    "mosque_Facilities_DisabledAccess": "Accesso disabilitato",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Sala Abluzione",
+    "mosque_Facilities_AblutionsRoom": "Sala di Abluzione",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Salat Al janaza",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -407,7 +407,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jumuaa",
+    "jumua2": "Jumua 2",
     "@jumua2": {
         "description": "_",
         "type": "text"

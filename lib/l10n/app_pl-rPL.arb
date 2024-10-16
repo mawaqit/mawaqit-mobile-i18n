@@ -70,8 +70,8 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Notyfikacja modlitw",
-    "settings_PrayerPreNotifications": "Przed-Notyfikacji",
+    "settings_PrayerNotifications": "Modlitwe powiadomienia",
+    "settings_PrayerPreNotifications": "Modlitwa wstępne powiadomienia",
     "settings_Calculations": "Metoda obliczania",
     "settings_RateOurApp": "Oceń aplikację",
     "@settings_RateOurApp": {
@@ -128,7 +128,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Wschód",
+    "shuruq": "Shuruq",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,27 +169,27 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Adan Mekka (Fadżr)",
+    "adhan_Makkah_fajr": "Adhan Makkah (Fajr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Adan Medina",
+    "adhan_Madinah": "Adhan Madinah",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Adan Kudz",
+    "adhan_Qods": "Adhan Qods",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Adan Al Afassi",
+    "adhan_AlAfassy": "Adhan Al Afassy",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adan Abdul Bassit",
+    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -231,12 +231,12 @@
     "permission_message2": ", aby otrzymać powiadomienie na czas.",
     "notifications_delay_detected": "Wykryto opóźnienie powiadomień",
     "open_setting": "Otwórz ustawienia",
-    "noJumua": "Nie ma Dżumu'a",
+    "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Dżumu'a",
+    "jumua": "Jumua",
     "@jumua": {
         "description": "_",
         "type": "text"
@@ -342,12 +342,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Dla osób niepełnosprawnych",
+    "mosque_Facilities_DisabledAccess": "Dostęp wyłączony",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Sala ablucji",
+    "mosque_Facilities_AblutionsRoom": "Pomieszczenie",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
@@ -357,12 +357,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Lekcję dla dorosłych",
+    "mosque_Facilities_AdultsCourse": "Kursy dla dorosłych",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Lekcję dla dżieci",
+    "mosque_Facilities_ChildrenCourses": "Kursy dla dzieci",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat El Dżanaza",
+    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -407,7 +407,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Dżumu'a 2",
+    "jumua2": "Jumua 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +617,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Adan Meka",
+    "adhan_Makkah": "Adhan Makka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"

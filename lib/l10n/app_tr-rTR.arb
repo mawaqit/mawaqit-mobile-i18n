@@ -70,8 +70,8 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Namaz bildirimi",
-    "settings_PrayerPreNotifications": "Önceki Namaz bildirimleri",
+    "settings_PrayerNotifications": "Dua bildirimleri",
+    "settings_PrayerPreNotifications": "Namaz ön bildirimleri",
     "settings_Calculations": "Hesaplama yöntemi",
     "settings_RateOurApp": "Uygulamamızı değerlendirin",
     "@settings_RateOurApp": {
@@ -128,7 +128,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Güneş",
+    "shuruq": "Shuruq",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,27 +169,27 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Mekke Ezanı (Sabah Namazı)",
+    "adhan_Makkah_fajr": "Ezan Mekke (Fecr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Medine Ezanı",
+    "adhan_Madinah": "Ezan Medine",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Kudüs Ezanı",
+    "adhan_Qods": "Ezan Qods",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Mişari Raşid El Afasi Sesi",
+    "adhan_AlAfassy": "Adhan Al Afassy",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Abd AlBassat Sesi",
+    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -231,12 +231,12 @@
     "permission_message2": "bildirimi zamanında almak için.",
     "notifications_delay_detected": "Bildirim gecikmesi algılandı",
     "open_setting": "Ayarları aç",
-    "noJumua": "Cuma Yok",
+    "noJumua": "Cuma yok",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Cuma",
+    "jumua": "Jumua",
     "@jumua": {
         "description": "_",
         "type": "text"
@@ -342,27 +342,27 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Engelli Girişi",
+    "mosque_Facilities_DisabledAccess": "Engelli erişimi",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Şadırvan",
+    "mosque_Facilities_AblutionsRoom": "Abdesthane",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Kadın Namaz Kılma Yeri",
+    "mosque_Facilities_WomanSpace": "Kadın alanı",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Yetişkin Kursu",
+    "mosque_Facilities_AdultsCourse": "Yetişkin kursları",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Çocuk Kursu",
+    "mosque_Facilities_ChildrenCourses": "Çocuk kursları",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Cenaze namazı",
+    "mosque_Facilities_SalatAlJanaza": "Salat Al janaza",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -407,7 +407,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Cuma 2",
+    "jumua2": "Jumua 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +617,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Mekke Ezanı",
+    "adhan_Makkah": "Ezan Mekke",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"

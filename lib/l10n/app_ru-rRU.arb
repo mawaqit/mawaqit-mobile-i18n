@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Уведомления о молитвах",
-    "settings_PrayerPreNotifications": "Уведомления до начала молитвы",
+    "settings_PrayerPreNotifications": "Уведомления о молитвах",
     "settings_Calculations": "Метод расчета",
     "settings_RateOurApp": "Оцените наше приложение",
     "@settings_RateOurApp": {
@@ -128,7 +128,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Духа",
+    "shuruq": "Шурук",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,27 +169,27 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Азан Макка (Утренний)",
+    "adhan_Makkah_fajr": "Adhan Makkah (Fajr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Азан Медина",
+    "adhan_Madinah": "Adhan Madinah",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Азан Кудс",
+    "adhan_Qods": "Adhan Qods",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Азан Аль-Афаси",
+    "adhan_AlAfassy": "Adhan Al Afassy",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Азан Абдул Басит",
+    "adhan_AbdAlBassat": "Ахан Абдул Басисисит",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -231,12 +231,12 @@
     "permission_message2": "чтобы получить уведомление вовремя.",
     "notifications_delay_detected": "Обнаружена задержка уведомлений",
     "open_setting": "Открыть настройки",
-    "noJumua": "Без джумуа",
+    "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Джумуа",
+    "jumua": "Jumua",
     "@jumua": {
         "description": "_",
         "type": "text"
@@ -342,27 +342,27 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Доступ для инвалидов",
+    "mosque_Facilities_DisabledAccess": "Отключенный доступ",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Комната для омовения",
+    "mosque_Facilities_AblutionsRoom": "Адутационная комната",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Место для женщин",
+    "mosque_Facilities_WomanSpace": "Женское пространство",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Обучение для взрослых",
+    "mosque_Facilities_AdultsCourse": "Курсы для взрослых",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Обучение для маленьких",
+    "mosque_Facilities_ChildrenCourses": "Курсы для детей",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Джаназа намаз",
+    "mosque_Facilities_SalatAlJanaza": "Салат Аль Джаназа",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -407,7 +407,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Джумуа 2",
+    "jumua2": "Jumua 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Изменить спискок избранных мечетей",
+    "favorites_edit": "Редактировать избранные мечети",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
@@ -617,7 +617,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Азан Мекка",
+    "adhan_Makkah": "Ахан Макка",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"

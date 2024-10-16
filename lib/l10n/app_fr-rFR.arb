@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Notifications de prière",
-    "settings_PrayerPreNotifications": "Pré-Notifications",
+    "settings_PrayerPreNotifications": "Pré-notifications de prières",
     "settings_Calculations": "Méthode de calcul",
     "settings_RateOurApp": "Évaluer l'application",
     "@settings_RateOurApp": {
@@ -231,7 +231,7 @@
     "permission_message2": "pour recevoir la notification à temps.",
     "notifications_delay_detected": "Délai de notification détecté",
     "open_setting": "Ouvrir les paramètres",
-    "noJumua": "Pas de jumua",
+    "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
         "type": "text"
@@ -342,7 +342,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Accès handicapés",
+    "mosque_Facilities_DisabledAccess": "Accès désactivé",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
@@ -352,7 +352,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Espace pour femmes",
+    "mosque_Facilities_WomanSpace": "Espace femme",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Salat Al janaza",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Éditer les mosquées favorites",
+    "favorites_edit": "Modifier les mosquées favorites",
     "@favorites_edit": {
         "description": "_",
         "type": "text"

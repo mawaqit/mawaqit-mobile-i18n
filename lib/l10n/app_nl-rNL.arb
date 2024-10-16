@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Gebedsmeldingen",
-    "settings_PrayerPreNotifications": "Voorgebedsmeldingen",
+    "settings_PrayerPreNotifications": "Gebedsmeldingen vooraf",
     "settings_Calculations": "Berekeningsmethode",
     "settings_RateOurApp": "Beoordeel onze app",
     "@settings_RateOurApp": {
@@ -128,7 +128,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Shoeroeq",
+    "shuruq": "Shuruq",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,7 +169,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Adhan Makkah (Fadjr)",
+    "adhan_Makkah_fajr": "Adhan Makkah (Fajr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
@@ -231,12 +231,12 @@
     "permission_message2": "om de melding op tijd te ontvangen.",
     "notifications_delay_detected": "Meldingsvertraging gedetecteerd",
     "open_setting": "Open instellingen",
-    "noJumua": "Geen Djoemoe’ah",
+    "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Djoemoe’ah",
+    "jumua": "Jumua",
     "@jumua": {
         "description": "_",
         "type": "text"
@@ -342,27 +342,27 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Toegang Mindervaliden",
+    "mosque_Facilities_DisabledAccess": "Uitgeschakelde toegang",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Wasruimte",
+    "mosque_Facilities_AblutionsRoom": "Afvlakking kamer",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Vrouwenruimte",
+    "mosque_Facilities_WomanSpace": "Vrouwelijke ruimte",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Onderwijs Volwassenen",
+    "mosque_Facilities_AdultsCourse": "Cursussen voor volwassenen",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Onderwijs Kinderen",
+    "mosque_Facilities_ChildrenCourses": "Onderliggende cursussen",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salaat Al Djanazah",
+    "mosque_Facilities_SalatAlJanaza": "Al Janaza zilveren",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -407,7 +407,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Djoemoe’ah 2",
+    "jumua2": "Jumua 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -527,7 +527,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Favoriete moskeeën wijzigen",
+    "favorites_edit": "Favoriete moskeeën bewerken",
     "@favorites_edit": {
         "description": "_",
         "type": "text"

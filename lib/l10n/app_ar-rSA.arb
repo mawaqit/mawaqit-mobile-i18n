@@ -128,7 +128,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "الشروق",
+    "shuruq": "شوروق",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,27 +169,27 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "أذان مكة (فجر)",
+    "adhan_Makkah_fajr": "Adhan Makkah (Fajr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "أذان المدينة المنورة",
+    "adhan_Madinah": "Adhan Madinah",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "أذان القدس",
+    "adhan_Qods": "Adhan Qods",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "أذان مشاري العفاسي",
+    "adhan_AlAfassy": "Adhan Al Afassy",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "أذان عبد الباسط",
+    "adhan_AbdAlBassat": "أدان عبد الباسط",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -231,12 +231,12 @@
     "permission_message2": "لتلقي الإشعار في الوقت المحدد.",
     "notifications_delay_detected": "تأكيد الإشعارات",
     "open_setting": "أفتح الإعدادات",
-    "noJumua": "لا جمعة",
+    "noJumua": "No jumua",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "الجمعة",
+    "jumua": "Jumua",
     "@jumua": {
         "description": "_",
         "type": "text"
@@ -342,27 +342,27 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "مدخل ذوي الاحتياجات الخاصة",
+    "mosque_Facilities_DisabledAccess": "تعطيل الوصول",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "غرفة الوضوء",
+    "mosque_Facilities_AblutionsRoom": "غرفة الاغتسال",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "قاعة النساء",
+    "mosque_Facilities_WomanSpace": "مساحة المرأة",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "دروس للكبار",
+    "mosque_Facilities_AdultsCourse": "دورات للكبار",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "دروس للأطفال",
+    "mosque_Facilities_ChildrenCourses": "دورات الأطفال",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
@@ -372,7 +372,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "صلاة الجنازة",
+    "mosque_Facilities_SalatAlJanaza": "صالات الجنزة",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -407,7 +407,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "الجمعة 2",
+    "jumua2": "Jumua 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +617,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "أذان مكة",
+    "adhan_Makkah": "أدهان مكة",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -811,11 +811,11 @@
     "error_performing_donation": "حدث خطأ أثناء محاولة إجراء التبرع",
     "recurring_pay_text": "قم بهذا التبرع شهريا.",
     "adjust_angles": "ضبط الزوايا",
-    "debug_text": "الترجمه",
+    "debug_text": "نص التصحيح",
     "anas": "أنس",
     "@anas": {
         "description": "anas"
     },
-    "thanks": "شكرا",
-    "many": "الكثير"
+    "thanks": "شكراً",
+    "many": "العديد"
 }
