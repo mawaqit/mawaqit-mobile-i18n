@@ -50,7 +50,10 @@ class AppLocalizationsTr extends AppLocalizations {
   String get settings_PrayerNotifications => 'Namaz bildirimi';
 
   @override
-  String get settings_PrayerPreNotifications => 'Önceki Namaz bildirimleri';
+  String get settings_PrayerPreNotifications => 'Namaz öncesi bildirim';
+
+  @override
+  String get settings_ShuruqPreNotifications => 'Şuruk öncesi bildirim';
 
   @override
   String get settings_Calculations => 'Hesaplama yöntemi';
@@ -60,6 +63,15 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get settings_WhatsNew => 'Haberler';
+
+  @override
+  String get settings_SupportMawaqit => 'Mawaqit\'e Destek Ol';
+
+  @override
+  String get settings_News => 'Haberler';
+
+  @override
+  String get settings_MakeADonation => 'bağış yapmak';
 
   @override
   String get bismillah => 'Bismillah';
@@ -125,7 +137,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get fajr => 'Sabah';
 
   @override
-  String get shuruq => 'Güneş';
+  String get shuruq => 'Gündoğumu';
 
   @override
   String get duhr => 'Öğlen';
@@ -152,16 +164,22 @@ class AppLocalizationsTr extends AppLocalizations {
   String get adhan => 'Ezanı';
 
   @override
-  String get adhan_Makkah_fajr => 'Mekke Ezanı (Sabah Namazı)';
+  String get adhan_Makkah_fajr => 'Mekke (Sabah Namazı)';
 
   @override
-  String get adhan_Madinah => 'Medine Ezanı';
+  String get adhan_Madinah => 'Medine';
 
   @override
-  String get adhan_Qods => 'Kudüs Ezanı';
+  String get adhan_Qods => 'Kudüs';
 
   @override
   String get adhan_AlAfassy => 'Mişari Raşid El Afasi Sesi';
+
+  @override
+  String get adhan_AlAfassy_fajr => 'Mişari Raşid El Afasi (Sabah)';
+
+  @override
+  String get adhan_Muhammad_jazy => 'Muhammed Cazi';
 
   @override
   String get adhan_AbdAlBassat => 'Abd AlBassat Sesi';
@@ -211,6 +229,117 @@ class AppLocalizationsTr extends AppLocalizations {
   String get search_settings => 'Ayarlar';
 
   @override
+  String get no_services_text => 'Camiler bu bilgiyi sağlamadı';
+
+  @override
+  String get welcome => 'Hoş geldiniz';
+
+  @override
+  String get mawaqit => 'MAWAQIT';
+
+  @override
+  String get connecting => 'Müslümanları Bağlamak';
+
+  @override
+  String get to_mosques => 'Camilere';
+
+  @override
+  String get get_started => 'Başla';
+
+  @override
+  String get get_prayer_notifications_for => 'Namaz bildirimlerini al';
+
+  @override
+  String get turn_on_notifications => 'Namaz bildirimlerini aç';
+
+  @override
+  String get no_thanks => 'Hayır, teşekkürler';
+
+  @override
+  String get notification_denied => 'Bildirim izinlerini reddettiniz, bu nedenle hiçbir bildirim almayacaksınız.';
+
+  @override
+  String get at_least_one_mosque => 'Devam etmek için en az bir cami ekleyin';
+
+  @override
+  String get set_up_your_prayer => 'Namazınızı ayarlayın';
+
+  @override
+  String get notifications => 'Bildirimler';
+
+  @override
+  String get mosques_around_you => 'Çevrenizdeki camiler';
+
+  @override
+  String get mosques_in_the_selected_area => 'Seçilen bölgedeki camiler';
+
+  @override
+  String get mosques_with => 'Camiler';
+
+  @override
+  String get allow_mawaqit_to_access_my_location => 'Mawaqit\'in konumuma erişmesine izin ver.';
+
+  @override
+  String get enable_location_service_from_app_settings => 'Uygulama ayarlarından konum hizmetini etkinleştirin.';
+
+  @override
+  String get the_request_timeout => 'İstek zaman aşımına uğradı';
+
+  @override
+  String get no_internet_connection => 'İnternet bağlantısı yok';
+
+  @override
+  String get try_again => 'Tekrar deneyin';
+
+  @override
+  String get virtual_mosque => 'Sanal Cami';
+
+  @override
+  String get no_mosque_in_selected_area => 'Seçilen bölgede cami bulunamadı';
+
+  @override
+  String get no_mosque_with => 'Herhangi bir cami bulunamadı';
+
+  @override
+  String get retry => 'Yeniden dene';
+
+  @override
+  String get search_here => 'Burada ara';
+
+  @override
+  String get enter_at_least_3_char => 'Aramak için en az 3 karakter girin';
+
+  @override
+  String get jumua1 => 'Cuma 1';
+
+  @override
+  String get prayer_times => 'İbadet zamanları';
+
+  @override
+  String get remove_this_city => 'Bu şehri kaldır';
+
+  @override
+  String get add_this_city => 'Bu şehri ekle';
+
+  @override
+  String get add_this_mosque => 'Bu camiyi ekle';
+
+  @override
+  String get remove_this_mosque => 'Bu camiyi kaldırın';
+
+  @override
+  String get services => 'Hizmetler';
+
+  @override
+  String get share => 'Paylaşmak';
+
+  @override
+  String get itinerary => 'Seyahat Programı';
+
+  @override
+  String get call => 'Arama';
+
+  @override
   String get dnd => 'Rahatsız etmeyin';
 
   @override
@@ -239,6 +368,18 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get qibla_sensor => 'Cihazınızdaki, MAWAQIT\'in Kıble\'yi belirlemek için kullandığı sensör beklenildiği gibi çalışmıyor, bu da Kıble yönünü gösterme yeteneğimizi etkiliyor.';
+
+  @override
+  String get connection_not_found => 'Pusula Kalibrasyon ayarı devre dışı bırakıldı. Lütfen bağlantınızın açık olduğundan emin olun ve yönü değiştirerek tekrar deneyin.';
+
+  @override
+  String get currently_located_at => 'Şu anda bulunduğu yer';
+
+  @override
+  String get facing_makkah => 'Kâbe\'ye yöneliyorsunuz';
+
+  @override
+  String get not_facing_Makkah => 'Kâbe\'ye yönelmiyorsunuz';
 
   @override
   String get qibla_Error_retry => 'Tekrar deneyininiz';
@@ -466,7 +607,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get message_see_all => 'Ekranın üst kısmındaki hoparlöre tıklayarak bu camiden gelen tüm mesajları görüntüleyebilirsiniz.';
 
   @override
-  String get adhan_Makkah => 'Mekke Ezanı';
+  String get adhan_Makkah => 'Mekke';
 
   @override
   String get tutorial_title_iqama => 'Kamet';
@@ -491,6 +632,9 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get location_permission_denied_forever => 'Konum İzni Sonsuza Kadar Reddedildi, lütfen ayarlar sayfasında izin verin.';
+
+  @override
+  String get at_least_one_mosque_error => 'En az bir caminiz olmalı.';
 
   @override
   String get and => 've';
@@ -736,7 +880,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get calculation_methods_russia => 'Rusya\'daki Müslümanların Ruhani Yönetimi';
 
   @override
-  String get calculation_methods_custom => 'Custom angles';
+  String get calculation_methods_custom => 'Özel açılar';
 
   @override
   String get calculation_high_latitude => 'Üst Enlemler';
@@ -772,7 +916,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String calculation_prayer_custom_angle(Object prayer) {
-    return '$prayer custom angle';
+    return '$prayer özel açı';
   }
 
   @override
@@ -797,7 +941,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'Kur\'an\'ı sizin için hazırlıyoruz, lütfen birkaç saniye bekleyin!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
+  String get download_quran_popup_downloading_3 => 'Kur\'an\'ın güzelliğini keşfedin! Zamansız bilgeliğine erişmek ve ilahi sözlerinden ilham almak için \'İndir\'e dokunun.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'İndirmeyi iptal etmek istediğinizden emin misiniz? Bu veri olmadan Kuran\'ı okuyamayacaksınız, sayfalar kullanılamaz olacak.';
@@ -950,11 +1094,179 @@ class AppLocalizationsTr extends AppLocalizations {
   String get adjust_angles => 'Açıları Ayarla';
 
   @override
-  String get debug_text => 'debug_text';
+  String get silent => 'Sessiz';
 
   @override
-  String get anas => 'Anas';
+  String get default_ => 'Varsayılan';
 
   @override
-  String get thanks => 'thanks';
+  String get muazzin => 'Müezzin';
+
+  @override
+  String get information => 'Bilgi';
+
+  @override
+  String get news => 'Haberler';
+
+  @override
+  String get calendar => 'Takvim';
+
+  @override
+  String get system => 'Sistem';
+
+  @override
+  String get change_mosque_order => 'Sıralamayı değiştirmek ve ana camiyi ayarlamak için camileri sürükleyip bırakın';
+
+  @override
+  String get remove => 'Kaldır';
+
+  @override
+  String get save => 'kaydetmek';
+
+  @override
+  String get main_mosque => 'Ana cami';
+
+  @override
+  String get mosques => 'Camiler';
+
+  @override
+  String get no_news => 'Camiden haber yok';
+
+  @override
+  String get mawaqit_notification => 'Mawaqit bildirimi';
+
+  @override
+  String get no_mawaqit_notification => 'Mawaqit\'ten bildirim yok';
+
+  @override
+  String get meccan => 'Mekkeli';
+
+  @override
+  String get medinan => 'Medineli';
+
+  @override
+  String get montada_islamic_foundation => 'Montada İslami Vakfı';
+
+  @override
+  String get rashid_maash => 'Rashid Maash';
+
+  @override
+  String get abdul_haleem => 'Abdul Haleem';
+
+  @override
+  String get dr_mustafa_khattab => 'Dr. Mustafa Khattab';
+
+  @override
+  String get frank_bubenheim_and_nadeem => 'Frank Bubenheim ve Nadeem';
+
+  @override
+  String get abu_reda_muhammad_ibn_ahmad => 'Abu Reda Muhammad ibn Ahmad';
+
+  @override
+  String get unknown_author => 'Bilinmeyen Yazar';
+
+  @override
+  String get translation_settings => 'Çeviri ayarları';
+
+  @override
+  String get reading => 'Okuma';
+
+  @override
+  String get listening => 'Dinleme';
+
+  @override
+  String get font_size => 'Yazı tipi boyutu';
+
+  @override
+  String get font_size_arabic => 'Arapça yazı tipi boyutu';
+
+  @override
+  String get horizontal => 'Yatay';
+
+  @override
+  String get vertical => 'Dikey';
+
+  @override
+  String get add_page_bookmarks => 'Sayfayı yer imlerine ekle';
+
+  @override
+  String get remove_page_bookmarks => 'Sayfayı yer imlerinden kaldır';
+
+  @override
+  String get no_bookmarks => 'Yer imi yok';
+
+  @override
+  String get liked => 'Beğenildi';
+
+  @override
+  String get all_recitators => 'Tüm kâri\'ler';
+
+  @override
+  String get downloaded => 'İndirildi';
+
+  @override
+  String get search_for_recitator => 'Kâri\' ara';
+
+  @override
+  String get search_for_surah => 'Sure ara';
+
+  @override
+  String get search_for_fav_recitator => 'Favori kâri\' ara';
+
+  @override
+  String get listen_to_quran => 'KUR\'AN-I DİNLE';
+
+  @override
+  String get search_hint_text => 'Bir cami veya şehir ara';
+
+  @override
+  String get downloading => 'İndiriliyor';
+
+  @override
+  String get cant_download_more_than_3 => 'Aynı anda 3\'ten fazla indirilemez.';
+
+  @override
+  String get boost => 'Destekle';
+
+  @override
+  String get recitation_deleted_successfully => 'Tilavet başarıyla silindi';
+
+  @override
+  String get quran => 'Kur\'an';
+
+  @override
+  String get qibla => 'Kıble';
+
+  @override
+  String get search => 'Ara';
+
+  @override
+  String get more => 'Daha';
+
+  @override
+  String get download_cancelled => 'İndirme iptal edildi';
+
+  @override
+  String get no_virtual_mosque_found => 'Üzgünüz, çevrenizde cami bulamadık';
+
+  @override
+  String get no_surah_found => 'Sure bulunamadı';
+
+  @override
+  String get no_favorite_recitor_found => 'Favori kıraatçı bulunamadı';
+
+  @override
+  String get no_recitator_found => 'Kıraatçı bulunamadı';
+
+  @override
+  String get empty_quran_search => 'Arama sonuçları burada görünecektir';
+
+  @override
+  String get no_bookmark_ayah => 'Yer işareti yok. Ayeti yer işareti yapmak için uzun süre basılı tutun.';
+
+  @override
+  String get page => 'Sayfa';
+
+  @override
+  String get prayer_times_in => 'Namaz vakitleri';
 }

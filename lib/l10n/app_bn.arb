@@ -1,4 +1,6 @@
 {
+    "@@locale": "bn",
+
     "bottomNavbar_mawaqit": "মাওয়াকিত",
     "@bottomNavbar_mawaqit": {
         "description": "_",

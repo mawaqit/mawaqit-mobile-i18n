@@ -1,4 +1,6 @@
 {
+    "@@locale": "sq",
+
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",

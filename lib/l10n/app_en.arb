@@ -1,4 +1,6 @@
 {
+    "@@locale": "en",
+
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
