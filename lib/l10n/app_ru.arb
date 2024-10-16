@@ -741,7 +741,7 @@
     "calculation_methods_turkey": "Турция",
     "calculation_methods_tehran": "Институт геофизики, Тегеранский университет",
     "calculation_methods_russia": "Духовное управление мусульман России",
-    "calculation_methods_custom": "Custom angles",
+    "calculation_methods_custom": "Пользовательские углы",
     "calculation_high_latitude": "Верхние широты",
     "calculation_high_latitude_none": "Нет",
     "calculation_high_latitude_middle": "Середина ночи",
@@ -752,7 +752,7 @@
     "calculation_adjustment_prayers": "Корректировки",
     "calculation_adjustment_prayers_minutes": "{minute} минут",
     "calculation_adjustment_angles": "Углы",
-    "calculation_prayer_custom_angle": "{prayer} custom angle",
+    "calculation_prayer_custom_angle": "{prayer} индивидуальный угол",
     "error_download_quran_failed": "Не удалось загрузить Коран.",
     "downloading_quran": "Скачивание Корана...",
     "processing": "Обработка...",
@@ -760,7 +760,7 @@
     "download_quran_popup_title": "Последние штрихи",
     "download_quran_popup_downloading_1": "Нам нужно загрузить страницы Корана, это займет всего несколько секунд. Мы будем использовать ваши мобильные данные, при необходимости переключитесь на Wi-Fi.",
     "download_quran_popup_downloading_2": "Мы готовим Коран специально для вас, пожалуйста, подождите несколько секунд!",
-    "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
+    "download_quran_popup_downloading_3": "Откройте для себя красоту Корана! Нажмите 'Загрузить', чтобы получить доступ к его бессрочной мудрости и вдохновиться божественными словами.",
     "download_quran_popup_confirm_cancel": "Вы уверены, что хотите отменить загрузку? Без этих данных вы не сможете читать Коран, страницы будут недоступны.",
     "download_quran_popup_cancelled": "Что-то пошло не так, пожалуйста, нажмите кнопку загрузки еще раз!",
     "download": "Загрузить",
@@ -811,11 +811,11 @@
     "error_performing_donation": "При попытке совершить пожертвование произошла ошибка",
     "recurring_pay_text": "Делайте это пожертвование ежемесячно.",
     "adjust_angles": "Настройте углы",
-    "debug_text": "debug_text",
-    "anas": "Anas",
+    "debug_text": "отладоч_текст",
+    "anas": "Анас",
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "спасибо",
+    "many": "много"
 }
