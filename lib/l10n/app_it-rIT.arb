@@ -1,0 +1,821 @@
+{
+    "@@locale": "it",
+    "bottomNavbar_mawaqit": "MAWAQIT",
+    "@bottomNavbar_mawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_favorites": "Preferiti",
+    "@bottomNavbar_favorites": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_qibla": "Qibla",
+    "@bottomNavbar_qibla": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_search": "Cerca",
+    "@bottomNavbar_search": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_settings": "Impostazioni",
+    "@bottomNavbar_settings": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeAuto": "Auto",
+    "@settings_ThemeAuto": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeDark": "Scuro",
+    "@settings_ThemeDark": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeLight": "Luce",
+    "@settings_ThemeLight": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat": "Formato tempo",
+    "@settings_TimeFormat": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_LanguageSelection": "Selezione della lingua",
+    "@settings_LanguageSelection": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Language": "Lingua",
+    "@settings_Language": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Theme": "Tema",
+    "@settings_Theme": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat12H": "12H",
+    "@settings_TimeFormat12H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat24H": "24H",
+    "@settings_TimeFormat24H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotifications": "Notifiche di preghiera",
+    "settings_PrayerPreNotifications": "Prenotifiche di preghiera",
+    "settings_Calculations": "Metodo di calcolo",
+    "settings_RateOurApp": "Vota la nostra App",
+    "@settings_RateOurApp": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_WhatsNew": "Notizie",
+    "bismillah": "Bismillah",
+    "settings_DonateToMawaqit": "Donazioni a MAWAQIT",
+    "@settings_DonateToMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_CheckForUpdates": "Controlla gli aggiornamenti",
+    "@settings_CheckForUpdates": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Credits": "Crediti",
+    "@settings_Credits": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUs": "Chi siamo",
+    "@settings_AboutUs": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_language_ar": "Arabo",
+    "settings_language_bn": "Bengalese",
+    "settings_language_fr": "Francese",
+    "settings_language_nl": "Olandese",
+    "settings_language_de": "Tedesco",
+    "settings_language_es": "Spagnolo",
+    "settings_language_en": "Inglese",
+    "settings_language_it": "Italiano",
+    "settings_language_tr": "Turca",
+    "settings_language_ru": "Russo",
+    "settings_language_id": "Indonesiano",
+    "settings_language_ur": "Urdu",
+    "settings_language_pl": "Polacco",
+    "settings_CreditsText": "Copyright © 2021 MAWAQIT per The MAWAQIT Foundation, Tutti i diritti riservati.\n\nLa proprietà intellettuale e i diritti d'autore di questa applicazione o dei suoi plug-in, componenti aggiuntivi o contenuti sono di proprietà di MAWAQIT per l'associazione MAWAQIT.\n\nQuesta versione è concessa in licenza solo per la distribuzione di beneficenza ed è un Waqf. Qualsiasi uso commerciale o distribuzione commerciale è severamente vietato.\n\nQuesta licenza non indica o include, in alcun modo, la vendita di alcun diritto relativo a questo prodotto, a nessuna delle sue parti, plug-in, componenti aggiuntivi o contenuti. Piuttosto, questa licenza consente solo la distribuzione di beneficenza dell'applicazione attraverso l'attuale piattaforma del negozio di applicazioni.\n\nLa ridistribuzione dell'applicazione utilizzando il codice sorgente o file binari, o utilizzando il reverse engineering con o senza apportare modifiche, esporrebbe l'autore della violazione o il responsabile di questa violazione del copyright ad azioni legali.\n\nNessuna delle parti è autorizzata a ridistribuire l'applicazione al di fuori degli store ufficiali di Apple o Google Play senza un'autorizzazione scritta ufficiale del titolare del copyright e del proprietario dell'applicazione, l'associazione MAWAQIT for The MAWAQIT. La distribuzione di questa applicazione al di fuori di questi negozi ufficiali costituirebbe una violazione della legge sulla protezione della proprietà intellettuale ed espone il responsabile di questa violazione del copyright ad azioni legali.\n\nNon è consentito utilizzare il nome o il marchio dell'applicazione o il marchio o il nome del titolare del copyright MAWAQIT for The MAWAQIT Foundation per promuovere prodotti simili o derivati ​​da questa applicazione o da qualsiasi altro prodotto senza previa autorizzazione scritta del proprietario del copyright.\nQuesta applicazione è autorizzata a essere distribuita dai detentori del copyright e dagli azionisti \"così com'è\".\n\nLo sviluppatore e la società proprietaria dell'applicazione non fornisce alcuna garanzia esplicita o implicita, inclusi - ma non limitati a - pubblicità e promozione dell'idoneità dell'applicazione per uno scopo particolare. In ogni caso, MAWAQIT for The MAWAQIT association, o gli azionisti non sono responsabili per eventuali danni, diretti, indiretti o accidentali (particolari, cautelativi, consequenziali), inclusi - ma non limitati a - perdita di utilizzo, dati o profitti; o interruzione dell'attività, qualunque siano le cause e le responsabilità, siano queste responsabilità contrattuali, assolute o illecite (inclusa negligenza o altro) sostenute - in un modo o nell'altro - dall'utilizzo di questa applicazione.\n\nI diritti d'autore di terzi sull'applicazione sono riservati al loro titolare.\n\nImmagini e sfondi\n\nIl copyright va a Shutterstock\nIcone - Licenza CC BY 4.0\n\nIl copyright va a Flaticons\nLa licenza MIT si applica a tutti i file non di carattere e non di icona.\nCaratteri - Licenza SIL OFL 1.1\n\nIl copyright va ai caratteri di Google (caratteri Roboto)\nCopyright Apple, pacchetti Cupertino\nCodice, pacchetti e framework\n\nFlutter di Google\nPacchetti: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "@settings_CreditsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUsText": "Questa applicazione è sviluppata dall'associazione MAWAQIT.\n\nL'associazione MAWAQIT è un'organizzazione senza scopo di lucro creata nel 2021 in Francia.\nIl nostro obiettivo è lo sviluppo di soluzioni innovative legate all'IT e alla tecnologia digitale come software e siti web; insegnare e formarsi in soluzioni digitali e strumenti IT.\n\nL'ecosistema MAWAQIT è il nostro prodotto di punta e la sua storia è iniziata nel 2016, con un'applicazione su grandi schermi dedicata alle moschee, poi un'app mobile, un add-on home-assistant e un'abilità alexa, ecc.\n\nMAWAQIT ti offre un nuovo modo di tracciare e gestire i tempi di preghiera, infatti offriamo un sistema end-to-end che offre ai gestori delle moschee uno strumento online disponibile 24 ore su 24, permettendo loro di gestire orari, notizie e informazioni. molte altre caratteristiche. I fedeli, invece, beneficiano di un'applicazione mobile che permette loro di consultare gli orari esatti e non approssimativi della loro moschea preferita, nonché le notizie e altre funzionalità come la ricerca di una moschea tramite geolocalizzazione, l'adhan , la qibla. ... ecc. Abbiamo fatto dell'affidabilità e della qualità i nostri valori principali. La nostra ambizione è chiara: costruire il miglior servizio per le nostre moschee grazie alla tecnologia e al design.\n\nSe ti è piaciuta questa applicazione, dai la tua opinione sullo store.",
+    "@settings_AboutUsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "fajr": "Fajr",
+    "@fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "shuruq": "Shuruq",
+    "@shuruq": {
+        "description": "_",
+        "type": "text"
+    },
+    "duhr": "Duhr",
+    "@duhr": {
+        "description": "_",
+        "type": "text"
+    },
+    "asr": "Asr",
+    "@asr": {
+        "description": "_",
+        "type": "text"
+    },
+    "maghrib": "Maghrib",
+    "@maghrib": {
+        "description": "_",
+        "type": "text"
+    },
+    "isha": "Ishaa",
+    "@isha": {
+        "description": "_",
+        "type": "text"
+    },
+    "sabah": "Sabah",
+    "settings_PrayerNotification_NoNotification": "Attualmente hai impostato di non essere avvisato per questa preghiera.",
+    "@settings_PrayerNotification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotification_Bip": "Applicazione della suoneria al momento della notifica.",
+    "@settings_PrayerNotification_Bip": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan": "Adhan",
+    "@adhan": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah_fajr": "Adhan Makkah (Fajr)",
+    "@adhan_Makkah_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Madinah": "Adhan Madinah",
+    "@adhan_Madinah": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Qods": "Adhan Qods",
+    "@adhan_Qods": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AlAfassy": "Adhan Al Afassy",
+    "@adhan_AlAfassy": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "@adhan_AbdAlBassat": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_type": "Scegli un tipo di adhan. Questa scelta sarà applicata in ogni preghiera che ha la notifica dell'adhan.",
+    "@adhan_type": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_prayer_Notification_None": "Nessuno",
+    "@settings_prayer_Notification_None": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_Notification_NoNotification": "Non hai impostato nessuna notifica per questa Preghiera.",
+    "@prayer_Notification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_PreNotification_Description": "Questa impostazione permette di definire una notifica prima della preghiera.",
+    "@prayer_PreNotification_Description": {
+        "description": "_",
+        "type": "text"
+    },
+    "search_TryParis": "Prova \"Paris\".",
+    "search_ByGPS": "Ricerca per GPS",
+    "search_HelpText": "Si può cercare una moschea scrivendo:\n- Il nome della moschea\n- Il nome dell'associazione\n- La città, l'indirizzo, il paese...ecc.\n\nOppure si può premere il pulsante di localizzazione per trovare le moschee circostanti.",
+    "search_MaxFavMosquesReached": "Hai raggiunto il massimo delle moschee preferite.",
+    "search_iOs14_message": "La ricerca tramite GPS potrebbe richiedere del tempo su iOS 14, attendere.",
+    "search_error": "Si è verificato un errore. Si prega di riprovare più tardi",
+    "search_your_location": "La tua posizione",
+    "search_location_enabled_no_result": "Non abbiamo trovato una moschea partner di MAWAQIT per la tua ricerca. Abbiamo calcolato gli orari delle preghiere in base alla tua posizione, vicino a: {locality}",
+    "search_location_disabled": "Si prega di cercare una moschea per nome o per città, o di consentire la localizzazione manualmente nelle impostazioni.",
+    "search_settings": "Impostazioni",
+    "dnd": "Non disturbare",
+    "battery_optimize": "Ottimizzazione della batteria",
+    "power_saver": "Risparmio energetico",
+    "permission_message1": "Abbiamo rilevato una notifica ritardata. Disattivala",
+    "permission_message2": "per ricevere la notifica in tempo.",
+    "notifications_delay_detected": "Rilevato ritardo nelle notifiche",
+    "open_setting": "Apri Impostazioni",
+    "noJumua": "No jumua",
+    "@noJumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua": "Jumua",
+    "@jumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_sensor": "Il sensore nel tuo dispositivo che MAWAQIT utilizza per determinare la Qibla non sta funzionando come previsto, il che sta influenzando la nostra capacità di visualizzare la direzione della Qibla.",
+    "qibla_Error_retry": "Riprova",
+    "@qibla_Error_retry": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDenied": "Autorizzazione del servizio di localizzazione negata",
+    "@qibla_Error_LocationDenied": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDeniedForever": "Servizio di localizzazione negato per sempre!",
+    "@qibla_Error_LocationDeniedForever": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_PleaseEnable": "Abilita il servizio di localizzazione",
+    "@qibla_Error_PleaseEnable": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Direction": "DIREZIONE \n QIBLA",
+    "@qibla_Direction": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_FavoriteMosques": "Moschee preferite",
+    "@favorites_FavoriteMosques": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_Error": "Qualcosa è andato storto...",
+    "@favorites_Error": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Image": "Immagine",
+    "@announcement_Image": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_Video": "Video",
+    "@announcement_Type_Video": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_FlashInfo": "Info Flash",
+    "@announcement_Type_FlashInfo": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText1": "DONARE",
+    "@mosque_DonateText1": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText2": "AL MOSCHEO",
+    "@mosque_DonateText2": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Error_CouldNotLaunch": "Impossibile lanciare",
+    "@mosque_Error_CouldNotLaunch": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_PrayerTimes": "Tempi di preghiera",
+    "@mosque_PrayerTimes": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Website": "Sito web",
+    "@mosque_Website": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Address": "Indirizzo",
+    "@mosque_Address": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Phone": "Telefono",
+    "@mosque_Phone": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Email": "Email",
+    "@mosque_Email": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_ByMawaqit": "Da MAWAQIT https://mawaqit.net",
+    "@mosque_ByMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_Parking": "Parcheggio",
+    "@mosque_Facilities_Parking": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_DisabledAccess": "Accesso disabilitato",
+    "@mosque_Facilities_DisabledAccess": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AblutionsRoom": "Sala di Abluzione",
+    "@mosque_Facilities_AblutionsRoom": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_WomanSpace": "Spazio donna",
+    "@mosque_Facilities_WomanSpace": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AdultsCourse": "Corsi per adulti",
+    "@mosque_Facilities_AdultsCourse": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_ChildrenCourses": "Corsi per bambini",
+    "@mosque_Facilities_ChildrenCourses": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlAid": "Salat Al Aïd",
+    "@mosque_Facilities_SalatAlAid": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlJanaza": "Salat Al janaza",
+    "@mosque_Facilities_SalatAlJanaza": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "@mosques_Facilities_IftarRamadan": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_facilities_Info": "Tutte queste informazioni sono compilate dalla tua moschea.",
+    "@mosque_facilities_Info": {
+        "description": "_",
+        "type": "text"
+    },
+    "in_": "in",
+    "@in_": {
+        "description": "_",
+        "type": "text"
+    },
+    "imsak": "Imsak",
+    "@imsak": {
+        "description": "_",
+        "type": "text"
+    },
+    "eid": "Eid preghiera a",
+    "@eid": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes": "Minuti",
+    "@minutes": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua2": "Jumua 2",
+    "@jumua2": {
+        "description": "_",
+        "type": "text"
+    },
+    "please_update": "È disponibile una versione più recente di MAWAQIT, aggiornala",
+    "@please_update": {
+        "description": "_",
+        "type": "text"
+    },
+    "update": "Aggiornare",
+    "@update": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_skip": "Salta il tutorial",
+    "@tutorial_skip": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_next": "prossimo",
+    "@tutorial_next": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_main_mosque": "La tua moschea principale",
+    "@tutorial_title_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_main_mosque": "La tua moschea principale si presenta qui.\nPuoi scorrere verso sinistra e verso destra per passare da una moschea preferita a un'altra.",
+    "@tutorial_text_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_countdown": "Prossimo indicatore di preghiera",
+    "@tutorial_title_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_countdown": "Questo conto alla rovescia mostra il tempo rimanente prima della preghiera successiva.",
+    "@tutorial_text_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_mosque_info": "Informazioni sulla moschea",
+    "@tutorial_title_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_mosque_info": "Tutto sulla tua moschea: strutture, indirizzo, telefono, posta, donazioni e altro ancora.",
+    "@tutorial_text_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_announcements": "Messaggi e annunci della moschea",
+    "@tutorial_title_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_announcements": "Le notifiche sui messaggi e sugli annunci dalla tua moschea verranno visualizzate qui.\nQuando tocchi questo pulsante, vedrai tutti i dettagli. Questi annunci possono essere un messaggio Flash, un'immagine o anche un video.",
+    "@tutorial_text_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_1": "Seleziona la tua lingua",
+    "@onboarding_title_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_1": "Seleziona la tua lingua preferita dall'elenco sottostante e poi MAWAQIT cambierà in quella lingua.",
+    "@onboarding_text_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_2": "Benvenuto a MAWAQIT",
+    "@onboarding_title_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_2": "MAWAQIT è un ecosistema che ti offre un nuovo modo di tracciare e gestire i tempi di preghiera, l'applicazione nelle tue mani fa parte di questo ecosistema, ti permette di trovare moschee e seguire le sue notizie e tempi di preghiera.",
+    "@onboarding_text_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_3": "Seleziona un tema scuro / chiaro",
+    "@onboarding_title_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_3": "Sia che ti trovi in un ambiente con scarsa illuminazione o preferisci colori di sfondo più scuri sul tuo telefono, puoi sfruttare la modalità Scuro per migliorare il comfort visivo.",
+    "@onboarding_text_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_4": "Aggiungi la tua moschea principale",
+    "@onboarding_title_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_4": "Scegli la tua moschea principale dall'elenco sottostante o cerca una moschea vicino alla tua posizione attuale.",
+    "@onboarding_text_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading": "Caricamento in corso",
+    "@loading": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_please_wait": "Attendere il caricamento prego",
+    "@loading_please_wait": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_loaded": "Caricamento completato",
+    "@loading_loaded": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_edit": "Modifica moschee preferite",
+    "@favorites_edit": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes_to_athan": "minuti per athan",
+    "@minutes_to_athan": {
+        "description": "minutes to athan",
+        "type": "text"
+    },
+    "show_tutorial": "Rivedi il tutorial",
+    "@show_tutorial": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_chose_mosque_please": "Scegli una moschea dall'elenco di ricerca",
+    "@onboarding_chose_mosque_please": {
+        "description": "_",
+        "type": "text"
+    },
+    "done": "Fatto",
+    "@done": {
+        "description": "_",
+        "type": "text"
+    },
+    "ok": "Ok",
+    "@ok": {
+        "description": "_",
+        "type": "text"
+    },
+    "km": "km",
+    "@km": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_title": "Apri l'app",
+    "@notification_open_app_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_body": "Apri l'app per mantenere le notifiche",
+    "@notification_open_app_body": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_notification": "Seleziona una notifica ",
+    "@tutorial_title_notification": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_notification": "Qui puoi selezionare un tipo di notifica, Athan, bip o silenzioso",
+    "@tutorial_text_notification": {
+        "description": "\\",
+        "type": "text"
+    },
+    "search_no_result": "Diventa un ambasciatore MAWAQIT e offri la nostra soluzione alla tua moschea, è gratuita\nhttps://mawaqit.net",
+    "@search_no_result": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_title": "Vota MAWAQIT",
+    "@rate_popin_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_message": "Se ti piace questa app, prenditi un po 'di tempo per esaminarla!\nCi aiuta davvero.",
+    "@rate_popin_message": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_rate": "VOTA",
+    "@rate_popin_rate": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_no": "NO GRAZIE",
+    "@rate_popin_no": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_later": "FORSE PIÙ TARDI",
+    "@rate_popin_later": {
+        "description": "_",
+        "type": "text"
+    },
+    "message_see_all": "Puoi visualizzare tutti i messaggi di questa moschea facendo clic sull'altoparlante nella parte superiore dello schermo.",
+    "@message_see_all": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah": "Adhan Makkah",
+    "@adhan_Makkah": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_iqama": "Iqama",
+    "@tutorial_title_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_iqama": "Qui trovi la durata tra adhan e iqama alla moschea",
+    "@tutorial_text_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_tooltip_download": "Scarica il calendario",
+    "@calendar_tooltip_download": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_download_permission_refused": "Autorizzazione di download rifiutata definitivamente, si prega di consentire il download",
+    "@calendar_download_permission_refused": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_downloading": "Scaricare il calendario...",
+    "@calendar_downloading": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_service_disabled": "Il servizio di localizzazione è disabilitato, si prega di abilitarlo.",
+    "@location_service_disabled": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied": "Autorizzazione alla posizione negata, si prega di consentirlo.",
+    "@location_permission_denied": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied_forever": "Autorizzazione alla posizione negata per sempre, si prega di consentirlo nella pagina delle impostazioni.",
+    "@location_permission_denied_forever": {
+        "description": "_",
+        "type": "text"
+    },
+    "and": "e",
+    "continue_to_app": "Continua",
+    "add": "Aggiungere",
+    "mosque": "Moschea",
+    "on_boarding_nearest_mosque": "Troviamo la moschea più vicina",
+    "on_boarding_nearest_mosque_text": "Ecco le moschee trovate intorno a te in base alla tua geolocalizzazione",
+    "search_no_result_for_text": "Non abbiamo trovato alcun risultato per",
+    "calculate_prayer_time_from_area": "Non abbiamo trovato una moschea nelle vicinanze. Abbiamo calcolato gli orari delle preghiere in base alla tua posizione, vicino a: {locality}",
+    "surah_audio_downloading": "Scaricamento audio sura...",
+    "msg_internet_connection": "Non hai alcuna connessione a Internet",
+    "read_quran": "Leggi Corano",
+    "ayahs": "Ayahs",
+    "chapter": "Surah",
+    "meaning": "Significato",
+    "al_quran": "Al Corano",
+    "surah_information": "Informazioni sulla sura",
+    "surah_number": "Surah numero",
+    "quran_browsing": "Browsing",
+    "quran_search_placeholder": "Ricerca per nome della surah, numero...",
+    "quran_verse_search": "Ricerca per versetto",
+    "quran_translation": "Traduzione",
+    "quran_mushaf": "Mushaf",
+    "quran_juzz": "Juzz {number}",
+    "ayah": "Ayah",
+    "quran_verses": "Versetti",
+    "surah": "Surah",
+    "continue_reading": "Continua a leggere",
+    "bookmarks": "Bookmarks",
+    "juzz": "Juzz",
+    "quran_page": "Pagina {page}",
+    "quran_turning_page": "Turning page",
+    "quran_from_right_to_left": "Da destra a sinistra",
+    "quran_from_left_to_right": "Da sinistra a destra",
+    "quran_from_top_to_bottom": "Dall'alto verso il basso",
+    "quran_from_bottom_to_top": "Dal basso verso l'alto",
+    "quran_pages_color": "Colore delle pagine",
+    "english_tr": "Inglese",
+    "french_tr": "Francese",
+    "spanish_tr": "Spagnolo",
+    "muhammad_hamidullah": "Muhammad Hamidullah",
+    "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
+    "sheikh_isa_garcia": "Sheikh Isa Garcia",
+    "reciters": "Recitatori",
+    "favorite_reciters": "recitatori preferiti",
+    "surahs_downloaded": "Surahs scaricate",
+    "surahs_chapter": "Surahs - Capitolo",
+    "my_likes": "I miei gusti",
+    "cancel": "Annulla",
+    "next": "Next",
+    "search_surah": "Cerca una surah",
+    "not_downloaded_recitation": "Non hai ancora scaricato nulla",
+    "not_favorite_reciter": "Non hai ancora scelto un recitatore preferito",
+    "search_reciter": "Cerca un recitatore",
+    "al_quran_al_kareem": "Al Quran Al Kareem",
+    "surahs": "Sura",
+    "chapters": "Capitoli",
+    "calculation_info": "Le impostazioni di questa sezione riguardano solo gli orari di preghiera calcolati in base alla propria geolocalizzazione, non gli orari di preghiera delle moschee",
+    "calculation_madhab": "Giurisprudenza",
+    "calculation_madhab_shafii": "Shafi’i, Hanbali e Maliki",
+    "calculation_madhab_shafii_countries": "Giordania, Palestina, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Egitto Meridionale, Arabia Saudita, Qatar, Africa Settentrionale, Africa Occidentale, Emirati Arabi Uniti, Kuwait...",
+    "calculation_madhab_hanafi": "Hanafi",
+    "calculation_madhab_hanafi_countries": "Levante, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turchia, Russia, Cina, Balcani...",
+    "calculation_methods": "Metodi di calcolo",
+    "calculation_methods_france": "Musulmano della Francia (ex UOIF)",
+    "calculation_methods_algeria": "Ministère des affaires religieuses et des wakfs Algérien",
+    "calculation_methods_morocco": "Ministère des wakfs et affaires islamiques Marocain",
+    "calculation_methods_muslim_world": "Lega Mondiale Mussulmana",
+    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
+    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
+    "calculation_methods_umm_al_qura": "Università Umm al-Qura, Mecca",
+    "calculation_methods_dubai": "Regione del Golfo",
+    "calculation_methods_moon": "Comitato per l'osservazione della Luna",
+    "calculation_methods_north_america": "Islamic Society of North America",
+    "calculation_methods_kuwait": "Kuwait",
+    "calculation_methods_qatar": "Qatar",
+    "calculation_methods_singapore": "Singapore",
+    "calculation_methods_turkey": "Turchia",
+    "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
+    "calculation_methods_russia": "Amministrazione spirituale dei musulmani in Russia",
+    "calculation_methods_custom": "Angoli personalizzati",
+    "calculation_high_latitude": "Latitudini superiori",
+    "calculation_high_latitude_none": "Nessuna",
+    "calculation_high_latitude_middle": "Middle of the night",
+    "calculation_high_latitude_one_seventh": "Un settimo della notte",
+    "calculation_high_latitude_angle_based": "Metodo basato sull'angolo",
+    "calculation_adjustment": "Correzione manuale",
+    "calculation_adjustment_subtitle": "Regolazione della preghiera e angoli personalizzati",
+    "calculation_adjustment_prayers": "Aggiustamenti di preghiera",
+    "calculation_adjustment_prayers_minutes": "{minute} minuti",
+    "calculation_adjustment_angles": "Angoli personalizzati",
+    "calculation_prayer_custom_angle": "Angolo personalizzato {prayer}",
+    "error_download_quran_failed": "Errore durante il download del Corano",
+    "downloading_quran": "Download del Corano...",
+    "processing": "Elaborazione...",
+    "copied_to_clipboard": "Copiato negli appunti!",
+    "download_quran_popup_title": "Ultimi ritocchi",
+    "download_quran_popup_downloading_1": "Dobbiamo scaricare le pagine del Corano, ci vorranno solo pochi secondi. Utilizzeremo i vostri dati mobili, passate al Wi-Fi se necessario",
+    "download_quran_popup_downloading_2": "Stiamo preparando il Corano solo per te, per favore aspetta qualche secondo!",
+    "download_quran_popup_downloading_3": "Scopri la bellezza del Corano! Tocca 'Scarica' per accedere alla sua saggezza senza tempo e lasciati ispirare dalle sue parole divine.",
+    "download_quran_popup_confirm_cancel": "Sei sicuro di voler annullare il download? Senza questi dati non potrai leggere il Corano, le pagine non saranno disponibili",
+    "download_quran_popup_cancelled": "Qualcosa è andato storto, per favore premi di nuovo il pulsante di download!",
+    "download": "Scaricare",
+    "continue_download": "Continua il scaricare",
+    "cancel_download": "Annulla il Ssaricare",
+    "download_completed": "Scaricare completato",
+    "download_failed": "Scaricare fallito",
+    "download_pages": "Scarica le pagine",
+    "notification": "Notifica",
+    "notification_not_supported_below_7": "Non è possibile ricevere le notifiche di Athan o degli orari di preghiera perché il dispositivo utilizza Android 7 o inferiore.",
+    "battery_optimization": "Ottimizzazione della batteria",
+    "battery_optimization_subtitle": "Per ricevere le notifiche di preghiera senza problemi, è necessario disattivare l'ottimizzazione della batteria per MAWAQIT.",
+    "allow": "Consenti",
+    "deny": "Rifiuta",
+    "force_notification": "Notifiche forzate",
+    "tutorial_text_foreground_service": "Toccandolo è possibile attivare o disattivare il 'Servizio in primo piano'.",
+    "enable": "SU",
+    "disable": "SPENTO",
+    "do_not_show_again": "Non mostrarlo più",
+    "force_notification_title": "MAWAQIT è attivo per garantire che le notifiche di preghiera vengano attivate al momento giusto.",
+    "force_notification_body": "In verità, la preghiera è ingiunta ai credenti ad orari prestabiliti. Nisa(103)",
+    "force_notification_dialog1_body": "Abilitando questa opzione, l'applicazione rimarrà attiva per garantire che le notifiche di preghiera vengano attivate al momento giusto e senza ritardi. L'applicazione MAWAQIT sarà attiva solo per questo scopo e potrai disattivare tale opzione in qualsiasi momento dalle impostazioni.",
+    "force_notification_dialog2_body": "Dopo aver abilitato 'Forza notifiche', scorri verso il basso nella barra delle notifiche e vedrai questa notifica lì",
+    "notification_debugging": "Debug delle notifiche",
+    "notification_debugging_details": "Il debug delle notifiche è abilitato. Se modifichi le impostazioni di notifica, i dati di debug andranno persi e il debug verrà disabilitato.",
+    "skip": "Saltare",
+    "agree": "Essere d'accordo",
+    "return_no_search": "Non restituire nessuna ricerca",
+    "backend_environment_switch": "Cambio dell'ambiente backend",
+    "set_development_environment": "Imposta l'ambiente di sviluppo",
+    "set_production_environment": "Imposta l'ambiente di produzione",
+    "delay_notification": "Notifica del ritardo",
+    "notification_delay_debugging_is": "Il debug del ritardo di notifica è",
+    "banner_enable": "Abilitazione banner",
+    "banner": "Stendardo",
+    "show_details": "Mostra dettagli",
+    "auto_detect_location": "Suggerisci la moschea più vicina",
+    "auto_detect_explanation": "Quando sei lontano dalla tua moschea, l'app suggerirà automaticamente di cercare la moschea più vicina in base alla tua posizione.",
+    "auto_detect_location_title": "Sembra che tu sia lontano dalla tua moschea",
+    "auto_detect_location_message": "Vuoi cercare la moschea più vicina per orari di preghiera precisi?",
+    "donation_success_toast": "Donazione effettuata con successo",
+    "donation_success": "Grazie per la tua donazione, che Allah ti ricompensi",
+    "donation_failed": "Donazione fallita",
+    "donate_for_good": "DONA PER IL BENE",
+    "enter_amount_hint": "Inserire l'importo",
+    "enter_donation_amount": "Inserisci l'importo della donazione",
+    "google_pay_not_available": "Google Pay non è disponibile su questo dispositivo",
+    "error_performing_donation": "Si è verificato un errore durante il tentativo di effettuare la donazione",
+    "recurring_pay_text": "Fai questa donazione mensilmente.",
+    "adjust_angles": "Regola Angoli",
+    "debug_text": "debug_text",
+    "anas": "Anas",
+    "@anas": {
+        "description": "anas"
+    },
+    "thanks": "grazie",
+    "many": "molti"
+}
