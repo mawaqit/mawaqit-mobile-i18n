@@ -6,6 +6,9 @@ import 'package:flutter/widgets.dart';
 import 'gen_l10n/app_localizations.dart';
 import 'gen_l10n/crowdin_localizations.dart';
 
+extension AppLocalizationsX on BuildContext {
+  AppLocalizations get tr => AppLocalizations.of(this)!;
+}
 class MawaqitLocalization {
   MawaqitLocalization(this.locale);
 
