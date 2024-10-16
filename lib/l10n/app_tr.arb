@@ -1,5 +1,4 @@
 {
-    "@@locale": "tr",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -71,7 +70,8 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Namaz bildirimi",
-    "settings_PrayerPreNotifications": "Önceki Namaz bildirimleri",
+    "settings_PrayerPreNotifications": "Namaz öncesi bildirim",
+    "settings_ShuruqPreNotifications": "Şuruk öncesi bildirim",
     "settings_Calculations": "Hesaplama yöntemi",
     "settings_RateOurApp": "Uygulamamızı değerlendirin",
     "@settings_RateOurApp": {
@@ -79,6 +79,9 @@
         "type": "text"
     },
     "settings_WhatsNew": "Haberler",
+    "settings_SupportMawaqit": "Mawaqit'e Destek Ol",
+    "settings_News": "Haberler",
+    "settings_MakeADonation": "bağış yapmak",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "MAWAQIT için bağış yapın",
     "@settings_DonateToMawaqit": {
@@ -128,7 +131,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Güneş",
+    "shuruq": "Gündoğumu",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,23 +172,33 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Mekke Ezanı (Sabah Namazı)",
+    "adhan_Makkah_fajr": "Mekke (Sabah Namazı)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Medine Ezanı",
+    "adhan_Madinah": "Medine",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Kudüs Ezanı",
+    "adhan_Qods": "Kudüs",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
     "adhan_AlAfassy": "Mişari Raşid El Afasi Sesi",
     "@adhan_AlAfassy": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AlAfassy_fajr": "Mişari Raşid El Afasi (Sabah)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "Muhammed Cazi",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
         "description": "_",
         "type": "text"
     },
@@ -224,6 +237,43 @@
     "search_location_enabled_no_result": "Bir cami bulamadık. Namaz vakitlerini coğrafi konumunuza göre hesapladık, yakınında: {locality}",
     "search_location_disabled": "Lütfen bir camiyi isme veya şehre göre arayın veya ayarlarınızda konuma manuel olarak izin verin.",
     "search_settings": "Ayarlar",
+    "no_services_text": "Camiler bu bilgiyi sağlamadı",
+    "welcome": "Hoş geldiniz",
+    "mawaqit": "MAWAQIT",
+    "connecting": "Müslümanları Bağlamak",
+    "to_mosques": "Camilere",
+    "get_started": "Başla",
+    "get_prayer_notifications_for": "Namaz bildirimlerini al",
+    "turn_on_notifications": "Namaz bildirimlerini aç",
+    "no_thanks": "Hayır, teşekkürler",
+    "notification_denied": "Bildirim izinlerini reddettiniz, bu nedenle hiçbir bildirim almayacaksınız.",
+    "at_least_one_mosque": "Devam etmek için en az bir cami ekleyin",
+    "set_up_your_prayer": "Namazınızı ayarlayın",
+    "notifications": "Bildirimler",
+    "mosques_around_you": "Çevrenizdeki camiler",
+    "mosques_in_the_selected_area": "Seçilen bölgedeki camiler",
+    "mosques_with": "Camiler",
+    "allow_mawaqit_to_access_my_location": "Mawaqit'in konumuma erişmesine izin ver.",
+    "enable_location_service_from_app_settings": "Uygulama ayarlarından konum hizmetini etkinleştirin.",
+    "the_request_timeout": "İstek zaman aşımına uğradı",
+    "no_internet_connection": "İnternet bağlantısı yok",
+    "try_again": "Tekrar deneyin",
+    "virtual_mosque": "Sanal Cami",
+    "no_mosque_in_selected_area": "Seçilen bölgede cami bulunamadı",
+    "no_mosque_with": "Herhangi bir cami bulunamadı",
+    "retry": "Yeniden dene",
+    "search_here": "Burada ara",
+    "enter_at_least_3_char": "Aramak için en az 3 karakter girin",
+    "jumua1": "Cuma 1",
+    "prayer_times": "İbadet zamanları",
+    "remove_this_city": "Bu şehri kaldır",
+    "add_this_city": "Bu şehri ekle",
+    "add_this_mosque": "Bu camiyi ekle",
+    "remove_this_mosque": "Bu camiyi kaldırın",
+    "services": "Hizmetler",
+    "share": "Paylaşmak",
+    "itinerary": "Seyahat Programı",
+    "call": "Arama",
     "dnd": "Rahatsız etmeyin",
     "battery_optimize": "Pil iyileştirmesi",
     "power_saver": "Güç Tasarrufu",
@@ -242,6 +292,10 @@
         "type": "text"
     },
     "qibla_sensor": "Cihazınızdaki, MAWAQIT'in Kıble'yi belirlemek için kullandığı sensör beklenildiği gibi çalışmıyor, bu da Kıble yönünü gösterme yeteneğimizi etkiliyor.",
+    "connection_not_found": "Pusula Kalibrasyon ayarı devre dışı bırakıldı. Lütfen bağlantınızın açık olduğundan emin olun ve yönü değiştirerek tekrar deneyin.",
+    "currently_located_at": "Şu anda bulunduğu yer",
+    "facing_makkah": "Kâbe'ye yöneliyorsunuz",
+    "not_facing_Makkah": "Kâbe'ye yönelmiyorsunuz",
     "qibla_Error_retry": "Tekrar deneyininiz",
     "@qibla_Error_retry": {
         "description": "_",
@@ -617,7 +671,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Mekke Ezanı",
+    "adhan_Makkah": "Mekke",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -662,6 +716,7 @@
         "description": "_",
         "type": "text"
     },
+    "at_least_one_mosque_error": "En az bir caminiz olmalı.",
     "and": "ve",
     "continue_to_app": "Devam etmek",
     "add": "Ekle",
@@ -811,11 +866,63 @@
     "error_performing_donation": "Bağış gerçekleştirilmeye çalışılırken bir hata oluştu",
     "recurring_pay_text": "Bu bağışı aylık olarak yapın.",
     "adjust_angles": "Açıları Ayarla",
-    "debug_text": "debug_text",
-    "anas": "Anas",
-    "@anas": {
-        "description": "anas"
-    },
-    "thanks": "Teşekkürler",
-    "many": "birçok"
+    "silent": "Sessiz",
+    "default_": "Varsayılan",
+    "muazzin": "Müezzin",
+    "information": "Bilgi",
+    "news": "Haberler",
+    "calendar": "Takvim",
+    "system": "Sistem",
+    "change_mosque_order": "Sıralamayı değiştirmek ve ana camiyi ayarlamak için camileri sürükleyip bırakın",
+    "remove": "Kaldır",
+    "save": "kaydetmek",
+    "main_mosque": "Ana cami",
+    "mosques": "Camiler",
+    "no_news": "Camiden haber yok",
+    "mawaqit_notification": "Mawaqit bildirimi",
+    "no_mawaqit_notification": "Mawaqit'ten bildirim yok",
+    "meccan": "Mekkeli",
+    "medinan": "Medineli",
+    "montada_islamic_foundation": "Montada İslami Vakfı",
+    "rashid_maash": "Rashid Maash",
+    "abdul_haleem": "Abdul Haleem",
+    "dr_mustafa_khattab": "Dr. Mustafa Khattab",
+    "frank_bubenheim_and_nadeem": "Frank Bubenheim ve Nadeem",
+    "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
+    "unknown_author": "Bilinmeyen Yazar",
+    "translation_settings": "Çeviri ayarları",
+    "reading": "Okuma",
+    "listening": "Dinleme",
+    "font_size": "Yazı tipi boyutu",
+    "font_size_arabic": "Arapça yazı tipi boyutu",
+    "horizontal": "Yatay",
+    "vertical": "Dikey",
+    "add_page_bookmarks": "Sayfayı yer imlerine ekle",
+    "remove_page_bookmarks": "Sayfayı yer imlerinden kaldır",
+    "no_bookmarks": "Yer imi yok",
+    "liked": "Beğenildi",
+    "all_recitators": "Tüm kâri'ler",
+    "downloaded": "İndirildi",
+    "search_for_recitator": "Kâri' ara",
+    "search_for_surah": "Sure ara",
+    "search_for_fav_recitator": "Favori kâri' ara",
+    "listen_to_quran": "KUR'AN-I DİNLE",
+    "search_hint_text": "Bir cami veya şehir ara",
+    "downloading": "İndiriliyor",
+    "cant_download_more_than_3": "Aynı anda 3'ten fazla indirilemez.",
+    "boost": "Destekle",
+    "recitation_deleted_successfully": "Tilavet başarıyla silindi",
+    "quran": "Kur'an",
+    "qibla": "Kıble",
+    "search": "Ara",
+    "more": "Daha",
+    "download_cancelled": "İndirme iptal edildi",
+    "no_virtual_mosque_found": "Üzgünüz, çevrenizde cami bulamadık",
+    "no_surah_found": "Sure bulunamadı",
+    "no_favorite_recitor_found": "Favori kıraatçı bulunamadı",
+    "no_recitator_found": "Kıraatçı bulunamadı",
+    "empty_quran_search": "Arama sonuçları burada görünecektir",
+    "no_bookmark_ayah": "Yer işareti yok. Ayeti yer işareti yapmak için uzun süre basılı tutun.",
+    "page": "Sayfa",
+    "prayer_times_in": "Namaz vakitleri"
 }
