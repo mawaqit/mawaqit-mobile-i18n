@@ -79,7 +79,7 @@
         "type": "text"
     },
     "settings_WhatsNew": "Nieuws",
-    "bismillah": "Bismillah",
+    "bismillah": "Koekjes",
     "settings_DonateToMawaqit": "Doneer aan MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
@@ -741,7 +741,7 @@
     "calculation_methods_turkey": "Turkije",
     "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
     "calculation_methods_russia": "Geestelijk Bestuur van Moslims in Rusland",
-    "calculation_methods_custom": "Custom angles",
+    "calculation_methods_custom": "Aangepaste hoeken",
     "calculation_high_latitude": "Upper Latitudes",
     "calculation_high_latitude_none": "Geen",
     "calculation_high_latitude_middle": "Midden in de nacht",
@@ -752,7 +752,7 @@
     "calculation_adjustment_prayers": "Aanpassingen",
     "calculation_adjustment_prayers_minutes": "{minute} minuten",
     "calculation_adjustment_angles": "Hoeken",
-    "calculation_prayer_custom_angle": "{prayer} custom angle",
+    "calculation_prayer_custom_angle": "{prayer} aangepaste hoek",
     "error_download_quran_failed": "Downloaden van de Koran is mislukt",
     "downloading_quran": "Koran downloaden...",
     "processing": "Verwerken...",
@@ -760,7 +760,7 @@
     "download_quran_popup_title": "Last touch ups",
     "download_quran_popup_downloading_1": "We moeten de pagina's van de Koran downloaden, dit duurt maar een paar seconden. We zullen je mobiele data gebruiken, schakel over op Wi-Fi indien nodig.",
     "download_quran_popup_downloading_2": "We bereiden de Koran speciaal voor u voor, wacht alstublieft een paar seconden!",
-    "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
+    "download_quran_popup_downloading_3": "Ontdek de schoonheid van de Koran! Tik op 'Download' om toegang te krijgen tot de tijdloze wijsheid en geïnspireerd te zijn door zijn goddelijke woorden.",
     "download_quran_popup_confirm_cancel": "Weet u zeker dat u de download wilt annuleren? Zonder deze gegevens kunt u de Koran niet lezen, de pagina's zullen niet beschikbaar zijn.",
     "download_quran_popup_cancelled": "Er is iets misgegaan, druk nogmaals op de downloadknop!",
     "download": "Download",
@@ -811,11 +811,11 @@
     "error_performing_donation": "Er is een fout opgetreden bij het uitvoeren van de donatie",
     "recurring_pay_text": "Doe deze donatie maandelijks.",
     "adjust_angles": "Hoeken Aanpassen",
-    "debug_text": "debug_text",
-    "anas": "Anas",
+    "debug_text": "debug_tekst",
+    "anas": "Huisdier",
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "bedankt",
+    "many": "veel"
 }
