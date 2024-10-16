@@ -327,7 +327,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "البريد إلكتروني",
+    "mosque_Email": "أكتب",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -663,7 +663,7 @@
         "type": "text"
     },
     "and": "و",
-    "continue_to_app": "يكمل",
+    "continue_to_app": "واصل",
     "add": "اضافة",
     "mosque": "مسجد",
     "on_boarding_nearest_mosque": "دعونا نعثر على أقرب مسجد",
@@ -689,7 +689,7 @@
     "quran_verses": " آيات",
     "surah": "سور",
     "continue_reading": "إستمرار القراءه",
-    "bookmarks": "الإشارات المرجعية",
+    "bookmarks": "المرجعيات",
     "juzz": "أجزاء",
     "quran_page": "صفحة {page}",
     "quran_turning_page": "اتجاه الصفحة",
@@ -741,7 +741,7 @@
     "calculation_methods_turkey": "تركيا",
     "calculation_methods_tehran": "معهد الجيوفيزياء، جامعة طهران",
     "calculation_methods_russia": "الإدارة الروحية للمسلمين في روسيا",
-    "calculation_methods_custom": "Custom angles",
+    "calculation_methods_custom": "زوايا مخصصة",
     "calculation_high_latitude": "خطوط العرض العاليه",
     "calculation_high_latitude_none": "لا توجد",
     "calculation_high_latitude_middle": "منتصف الليل",
@@ -752,7 +752,7 @@
     "calculation_adjustment_prayers": "تعديلات الصلاة",
     "calculation_adjustment_prayers_minutes": "دقائق {minute}",
     "calculation_adjustment_angles": "الزوايا المخصصة",
-    "calculation_prayer_custom_angle": "{prayer} custom angle",
+    "calculation_prayer_custom_angle": "{prayer} زاوية مخصصة",
     "error_download_quran_failed": "مشكله في تحميل القران",
     "downloading_quran": "...جاري تحميل القرآن",
     "processing": "...يتم المعالجة",
@@ -812,7 +812,7 @@
     "recurring_pay_text": "قم بهذا التبرع شهريا.",
     "adjust_angles": "ضبط الزوايا",
     "debug_text": "الترجمه",
-    "anas": "Anas",
+    "anas": "أنس",
     "@anas": {
         "description": "anas"
     },
