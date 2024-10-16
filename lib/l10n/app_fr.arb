@@ -189,7 +189,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "adhan_AbdAlBassat": "Abdul Bassit d'Adhan",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -307,7 +307,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Heures de prière",
+    "mosque_PrayerTimes": "Prières",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
@@ -816,6 +816,6 @@
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "merci",
+    "many": "plusieurs"
 }
