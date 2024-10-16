@@ -617,7 +617,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Adhan Makkah",
+    "adhan_Makkah": "Adhan Makka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -741,7 +741,7 @@
     "calculation_methods_turkey": "Türkei",
     "calculation_methods_tehran": "Institut für Geophysik, Universität Teheran",
     "calculation_methods_russia": "Geistliche Verwaltung der Muslime in Russland",
-    "calculation_methods_custom": "Custom angles",
+    "calculation_methods_custom": "Eigene Winkel",
     "calculation_high_latitude": "Höhere Breitengrade",
     "calculation_high_latitude_none": "Keine",
     "calculation_high_latitude_middle": "Mitten in der Nacht",
@@ -752,7 +752,7 @@
     "calculation_adjustment_prayers": "Anpassungen",
     "calculation_adjustment_prayers_minutes": "{minute} Minuten",
     "calculation_adjustment_angles": "Winkel",
-    "calculation_prayer_custom_angle": "{prayer} custom angle",
+    "calculation_prayer_custom_angle": "{prayer} benutzerdefinierter Winkel",
     "error_download_quran_failed": "Fehler beim Herunterladen des Korans",
     "downloading_quran": "Der Koran wird heruntergeladen...",
     "processing": "Verarbeitung...",
@@ -812,10 +812,10 @@
     "recurring_pay_text": "Machen Sie diese Spende monatlich.",
     "adjust_angles": "Winkel anpassen",
     "debug_text": "debug_text",
-    "anas": "Anas",
+    "anas": "Ana",
     "@anas": {
         "description": "anas"
     },
-    "thanks": "thanks",
-    "many": "many"
+    "thanks": "danke",
+    "many": "viele"
 }
