@@ -1,5 +1,3 @@
 files:
   - source: /lib/l10n/app_en.arb
-    ignore:
-      - /lib/l10n/app_%two_letters_code%-r*.arb
     translation: /lib/l10n/app_%two_letters_code%.arb
