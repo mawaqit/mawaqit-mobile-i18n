@@ -1,5 +1,4 @@
 {
-    "@@locale": "pl",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -71,7 +70,8 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Notyfikacja modlitw",
-    "settings_PrayerPreNotifications": "Przed-Notyfikacji",
+    "settings_PrayerPreNotifications": "Powiadomienie przed modlitwą",
+    "settings_ShuruqPreNotifications": "Powiadomienie przed Shuruq",
     "settings_Calculations": "Metoda obliczania",
     "settings_RateOurApp": "Oceń aplikację",
     "@settings_RateOurApp": {
@@ -79,6 +79,9 @@
         "type": "text"
     },
     "settings_WhatsNew": "Nowości",
+    "settings_SupportMawaqit": "Wesprzyj Mawaqit",
+    "settings_News": "Aktualności",
+    "settings_MakeADonation": "Wykonaj dotację",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Wesprzyj nas",
     "@settings_DonateToMawaqit": {
@@ -169,27 +172,37 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Adan Mekka (Fadżr)",
+    "adhan_Makkah_fajr": "Mekka (Fadżr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Adan Medina",
+    "adhan_Madinah": "Medina",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Adan Kudz",
+    "adhan_Qods": " Kudz",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Adan Al Afassi",
+    "adhan_AlAfassy": "Al Afassi",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adan Abdul Bassit",
+    "adhan_AlAfassy_fajr": "Al Afassi (Fadżr)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "Muhammad Jazy",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "Abdul Bassit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -224,6 +237,43 @@
     "search_location_enabled_no_result": "Nie udało nam się znaleźć meczetu partnerskiego MAWAQIT dla Twojego wyszukiwania. Obliczyliśmy czasy modlitw na podstawie Twojej lokalizacji, w pobliżu: {locality}",
     "search_location_disabled": "Wyszukaj meczet według nazwy lub miasta albo włącz lokalizację ręcznie w ustawieniach.",
     "search_settings": "Ustawienia",
+    "no_services_text": "Meczety nie dostarczyły tych informacji",
+    "welcome": "Witamy w",
+    "mawaqit": "MAWAQIT",
+    "connecting": "Łączenie Muzułmanów",
+    "to_mosques": "z meczetami",
+    "get_started": "Zacznij",
+    "get_prayer_notifications_for": "Otrzymuj powiadomienia o modlitwie dla",
+    "turn_on_notifications": "Włącz powiadomienia modlitewne",
+    "no_thanks": "Nie, dziękuję",
+    "notification_denied": "Odrzuciłeś uprawnienia do powiadomień, więc nie otrzymasz żadnych powiadomień.",
+    "at_least_one_mosque": "Dodaj przynajmniej jeden meczet, aby kontynuować",
+    "set_up_your_prayer": "Ustaw swoją modlitwę",
+    "notifications": "Powiadomienia",
+    "mosques_around_you": "Meczety wokół ciebie",
+    "mosques_in_the_selected_area": "Meczety w wybranym obszarze",
+    "mosques_with": "Meczety z",
+    "allow_mawaqit_to_access_my_location": "Zezwól Mawaqitowi na dostęp do mojej lokalizacji.",
+    "enable_location_service_from_app_settings": "Włącz usługę lokalizacyjną w ustawieniach aplikacji.",
+    "the_request_timeout": "Upłynął limit czasu żądania",
+    "no_internet_connection": "Brak połączenia z internetem",
+    "try_again": "Spróbuj ponownie",
+    "virtual_mosque": "Wirtualny Meczet",
+    "no_mosque_in_selected_area": "Nie udało się znaleźć żadnych meczetów w wybranym obszarze",
+    "no_mosque_with": "Nie udało się znaleźć żadnych meczetów",
+    "retry": "Spróbować ponownie",
+    "search_here": "Szukaj tutaj",
+    "enter_at_least_3_char": "Wpisz co najmniej 3 znaki, aby wyszukać",
+    "jumua1": "Jum'a 1",
+    "prayer_times": "Czas modlitwy",
+    "remove_this_city": "Usuń to miasto",
+    "add_this_city": "Dodaj to miasto",
+    "add_this_mosque": "Dodaj ten meczet",
+    "remove_this_mosque": "Usuń ten meczet",
+    "services": "Usługi",
+    "share": "Udział",
+    "itinerary": "Plan podróży",
+    "call": "Dzwonić",
     "dnd": "Nie przeszkadzać",
     "battery_optimize": "Optymalizacja baterii",
     "power_saver": "Oszczędzanie energii",
@@ -231,17 +281,21 @@
     "permission_message2": ", aby otrzymać powiadomienie na czas.",
     "notifications_delay_detected": "Wykryto opóźnienie powiadomień",
     "open_setting": "Otwórz ustawienia",
-    "noJumua": "Nie ma Dżumu'a",
+    "noJumua": "Brak Jum'a",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Dżumu'a",
+    "jumua": "Jum'a",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
     "qibla_sensor": "Czujnik w twoim urządzeniu, którego MAWAQIT używa do określenia kierunku Qibla, nie działa zgodnie z oczekiwaniami, co wpływa na naszą zdolność do wyświetlania kierunku Qibla.",
+    "connection_not_found": "Ustawienie kalibracji kompasu jest wyłączone. Upewnij się, że twoje połączenie jest włączone i spróbuj ponownie zmieniając kierunek",
+    "currently_located_at": "Obecnie znajduje się w",
+    "facing_makkah": "Jesteś zwrócony w stronę Mekki",
+    "not_facing_Makkah": "Nie jesteś zwrócony w stronę Mekki",
     "qibla_Error_retry": "Spróbuj ponownie",
     "@qibla_Error_retry": {
         "description": "_",
@@ -407,7 +461,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Dżumu'a 2",
+    "jumua2": "Jum'a 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +671,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Adan Meka",
+    "adhan_Makkah": "Meka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -662,6 +716,7 @@
         "description": "_",
         "type": "text"
     },
+    "at_least_one_mosque_error": "Powinieneś mieć przynajmniej jeden meczet.",
     "and": "i",
     "continue_to_app": "Kontynuuj",
     "add": "Dodaj",
@@ -811,11 +866,63 @@
     "error_performing_donation": "Podczas próby przekazania darowizny wystąpił błąd",
     "recurring_pay_text": "Przekazuj tę darowiznę co miesiąc.",
     "adjust_angles": "Dostosuj Kąty",
-    "debug_text": "debug_tekst",
-    "anas": "Anas",
-    "@anas": {
-        "description": "anas"
-    },
-    "thanks": "podziękowania",
-    "many": "wiele"
+    "silent": "Cichy",
+    "default_": "Domyślny",
+    "muazzin": "Muezzin",
+    "information": "Informacja",
+    "news": "Wiadomości",
+    "calendar": "Kalendarz",
+    "system": "System",
+    "change_mosque_order": "Przeciągnij i upuść meczety, aby zmienić kolejność i ustawić główny meczet",
+    "remove": "Usuń",
+    "save": "zapisz",
+    "main_mosque": "Główny meczet",
+    "mosques": "Meczety",
+    "no_news": "Brak wiadomości z meczetu",
+    "mawaqit_notification": "Powiadomienie Mawaqit",
+    "no_mawaqit_notification": "Brak powiadomień od Mawaqit",
+    "meccan": "Mekkański",
+    "medinan": "Medynski",
+    "montada_islamic_foundation": "Fundacja Islamska Montada",
+    "rashid_maash": "Rashid Maash",
+    "abdul_haleem": "Abdul Haleem",
+    "dr_mustafa_khattab": "Dr. Mustafa Khattab",
+    "frank_bubenheim_and_nadeem": "Frank Bubenheim i Nadeem",
+    "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
+    "unknown_author": "Nieznany Autor",
+    "translation_settings": "Ustawienia tłumaczenia",
+    "reading": "Czytanie",
+    "listening": "Słuchanie",
+    "font_size": "Rozmiar czcionki",
+    "font_size_arabic": "Rozmiar czcionki arabskiej",
+    "horizontal": "Poziomy",
+    "vertical": "Pionowy",
+    "add_page_bookmarks": "Dodaj stronę do zakładek",
+    "remove_page_bookmarks": "Usuń stronę z zakładek",
+    "no_bookmarks": "Brak zakładek",
+    "liked": "Polubione",
+    "all_recitators": "Wszyscy recytatorzy",
+    "downloaded": "Pobrane",
+    "search_for_recitator": "Szukaj recytatora",
+    "search_for_surah": "Szukaj sury",
+    "search_for_fav_recitator": "Szukaj ulubionego recytatora",
+    "listen_to_quran": "SŁUCHAJ KORANU",
+    "search_hint_text": "Szukaj meczetu lub miasta",
+    "downloading": "Pobieranie",
+    "cant_download_more_than_3": "Nie można pobrać więcej niż 3 naraz.",
+    "boost": "Zwiększ",
+    "recitation_deleted_successfully": "Recytacja pomyślnie usunięta",
+    "quran": "Koran",
+    "qibla": "Qibla",
+    "search": "Szukaj",
+    "more": "Więcej",
+    "download_cancelled": "Pobieranie anulowane",
+    "no_virtual_mosque_found": "Przepraszamy, nie znaleźliśmy żadnego meczetu w pobliżu",
+    "no_surah_found": "Nie znaleziono sury",
+    "no_favorite_recitor_found": "Nie znaleziono ulubionego recytatora",
+    "no_recitator_found": "Nie znaleziono recytatora",
+    "empty_quran_search": "Wyniki wyszukiwania pojawią się tutaj",
+    "no_bookmark_ayah": "Brak dostępnych zakładek. Proszę długo przytrzymać ayah, który chcesz dodać do zakładek.",
+    "page": "Strona",
+    "prayer_times_in": "Czasy modlitwy w"
 }

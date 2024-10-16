@@ -1,5 +1,4 @@
 {
-    "@@locale": "nl",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -71,7 +70,8 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Gebedsmeldingen",
-    "settings_PrayerPreNotifications": "Voorgebedsmeldingen",
+    "settings_PrayerPreNotifications": "Pre-gebedsmelding",
+    "settings_ShuruqPreNotifications": "Pre-Shuruq-melding",
     "settings_Calculations": "Berekeningsmethode",
     "settings_RateOurApp": "Beoordeel onze app",
     "@settings_RateOurApp": {
@@ -79,6 +79,9 @@
         "type": "text"
     },
     "settings_WhatsNew": "Nieuws",
+    "settings_SupportMawaqit": "Steun Mawaqit",
+    "settings_News": "Nieuws",
+    "settings_MakeADonation": "Een donatie doen",
     "bismillah": "Koekjes",
     "settings_DonateToMawaqit": "Doneer aan MAWAQIT",
     "@settings_DonateToMawaqit": {
@@ -169,27 +172,37 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Adhan Makkah (Fadjr)",
+    "adhan_Makkah_fajr": "Makkah (Fadjr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Adhan Madinah",
+    "adhan_Madinah": "Madinah",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Adhan Qods",
+    "adhan_Qods": "Qods",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Adhan Al Afassy",
+    "adhan_AlAfassy": "Al Afassy",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "adhan_AlAfassy_fajr": "Al Afassy (Fadjr)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "Muhammad Jazy",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "Abdul Bassit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -224,6 +237,43 @@
     "search_location_enabled_no_result": "We hebben geen MAWAQIT-partnermoskee gevonden voor uw zoekopdracht. We hebben de gebedstijden berekend op basis van uw locatie, dichtbij: {locality}",
     "search_location_disabled": "Zoek naar een moskee op naam of stad, of sta locatie handmatig toe in uw instellingen.",
     "search_settings": "Instellingen",
+    "no_services_text": "Moskeeën hebben deze informatie niet verstrekt",
+    "welcome": "Welkom bij",
+    "mawaqit": "MAWAQIT",
+    "connecting": "Verbinden van moslims",
+    "to_mosques": "met moskeeën",
+    "get_started": "Beginnen",
+    "get_prayer_notifications_for": "Ontvang gebedsmeldingen voor",
+    "turn_on_notifications": "Schakel gebedsmeldingen in",
+    "no_thanks": "Nee, dank je",
+    "notification_denied": "Je hebt de meldingstoestemmingen geweigerd, dus je ontvangt geen meldingen.",
+    "at_least_one_mosque": "Voeg ten minste één moskee toe om door te gaan",
+    "set_up_your_prayer": "Stel je gebed in",
+    "notifications": "Meldingen",
+    "mosques_around_you": "Moskeeën om je heen",
+    "mosques_in_the_selected_area": "Moskeeën in het geselecteerde gebied",
+    "mosques_with": "Moskeeën met",
+    "allow_mawaqit_to_access_my_location": "Geef Mawaqit toegang tot mijn locatie.",
+    "enable_location_service_from_app_settings": "Schakel locatieservice in via app-instellingen.",
+    "the_request_timeout": "Het verzoek is verlopen",
+    "no_internet_connection": "Geen internet verbinding",
+    "try_again": "Probeer het nog eens",
+    "virtual_mosque": "Virtuele Moskee",
+    "no_mosque_in_selected_area": "Kon geen moskeeën vinden in het geselecteerde gebied",
+    "no_mosque_with": "Kon geen moskeeën vinden met",
+    "retry": "Opnieuw proberen",
+    "search_here": "Zoek hier",
+    "enter_at_least_3_char": "Voer minimaal 3 tekens in om te zoeken",
+    "jumua1": "Jum'a 1",
+    "prayer_times": "Gebedstijden",
+    "remove_this_city": "Verwijder deze stad",
+    "add_this_city": "Voeg deze stad toe",
+    "add_this_mosque": "Voeg deze moskee toe",
+    "remove_this_mosque": "Verwijder deze moskee",
+    "services": "Diensten",
+    "share": "Deel",
+    "itinerary": "Routebeschrijving",
+    "call": "Telefoongesprek",
     "dnd": "Niet storen",
     "battery_optimize": "Batterij-optimalisatie",
     "power_saver": "Energiebespaarder",
@@ -231,17 +281,21 @@
     "permission_message2": "om de melding op tijd te ontvangen.",
     "notifications_delay_detected": "Meldingsvertraging gedetecteerd",
     "open_setting": "Open instellingen",
-    "noJumua": "Geen Djoemoe’ah",
+    "noJumua": "Geen Jum'a",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Djoemoe’ah",
+    "jumua": "Jum'a",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
     "qibla_sensor": "De sensor in uw apparaat die MAWAQIT gebruikt om de Qibla te bepalen, werkt niet zoals verwacht, wat onze mogelijkheid om de richting van de Qibla weer te geven beïnvloedt.",
+    "connection_not_found": "De kompascalibratie-instelling is uitgeschakeld. Zorg ervoor dat uw verbinding is ingeschakeld en probeer het opnieuw door de richting te veranderen.",
+    "currently_located_at": "Momenteel gelegen op",
+    "facing_makkah": "Je kijkt naar Mekka",
+    "not_facing_Makkah": "Je kijkt niet naar Mekka",
     "qibla_Error_retry": "Opnieuw proberen",
     "@qibla_Error_retry": {
         "description": "_",
@@ -407,7 +461,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Djoemoe’ah 2",
+    "jumua2": "Jum'a 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +671,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Adhan Makkah",
+    "adhan_Makkah": "Makkah",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -662,6 +716,7 @@
         "description": "_",
         "type": "text"
     },
+    "at_least_one_mosque_error": "Je zou minstens één moskee moeten hebben.",
     "and": "en",
     "continue_to_app": "Doorgaan",
     "add": "Toevoegen",
@@ -811,11 +866,63 @@
     "error_performing_donation": "Er is een fout opgetreden bij het uitvoeren van de donatie",
     "recurring_pay_text": "Doe deze donatie maandelijks.",
     "adjust_angles": "Hoeken Aanpassen",
-    "debug_text": "debug_tekst",
-    "anas": "Huisdier",
-    "@anas": {
-        "description": "anas"
-    },
-    "thanks": "bedankt",
-    "many": "veel"
+    "silent": "Stil",
+    "default_": "Standaard",
+    "muazzin": "Muazzin",
+    "information": "Informatie",
+    "news": "Nieuws",
+    "calendar": "Kalender",
+    "system": "Systeem",
+    "change_mosque_order": "Versleep moskeeën om de volgorde te wijzigen en de hoofdmoskee in te stellen",
+    "remove": "Verwijderen",
+    "save": "opslaan",
+    "main_mosque": "Hoofdmoskee",
+    "mosques": "Moskeeën",
+    "no_news": "Geen nieuws van de moskee",
+    "mawaqit_notification": "Mawaqit-melding",
+    "no_mawaqit_notification": "Geen melding van Mawaqit",
+    "meccan": "Mekkanees",
+    "medinan": "Medinese",
+    "montada_islamic_foundation": "Montada Islamitische Stichting",
+    "rashid_maash": "Rashid Maash",
+    "abdul_haleem": "Abdul Haleem",
+    "dr_mustafa_khattab": "Dr. Mustafa Khattab",
+    "frank_bubenheim_and_nadeem": "Frank Bubenheim en Nadeem",
+    "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
+    "unknown_author": "Onbekende Auteur",
+    "translation_settings": "Vertaalinstellingen",
+    "reading": "Lezen",
+    "listening": "Luisteren",
+    "font_size": "Lettergrootte",
+    "font_size_arabic": "Lettergrootte Arabisch",
+    "horizontal": "Horizontaal",
+    "vertical": "Verticaal",
+    "add_page_bookmarks": "Pagina toevoegen aan bladwijzers",
+    "remove_page_bookmarks": "Pagina uit bladwijzers verwijderen",
+    "no_bookmarks": "Geen bladwijzers",
+    "liked": "Geliked",
+    "all_recitators": "Alle recitators",
+    "downloaded": "Gedownload",
+    "search_for_recitator": "Zoek een recitator",
+    "search_for_surah": "Zoek een soera",
+    "search_for_fav_recitator": "Zoek een favoriete recitator",
+    "listen_to_quran": "LUISTER NAAR DE KORAN",
+    "search_hint_text": "Zoek een moskee of een stad",
+    "downloading": "Bezig met downloaden",
+    "cant_download_more_than_3": "Kan niet meer dan 3 tegelijk downloaden.",
+    "boost": "Boost",
+    "recitation_deleted_successfully": "Recitatie succesvol verwijderd",
+    "quran": "Koran",
+    "qibla": "Qibla",
+    "search": "Zoeken",
+    "more": "Meer",
+    "download_cancelled": "Download geannuleerd",
+    "no_virtual_mosque_found": "Sorry, we hebben geen moskee in de buurt gevonden",
+    "no_surah_found": "Geen soera gevonden",
+    "no_favorite_recitor_found": "Geen favoriete reciteur gevonden",
+    "no_recitator_found": "Geen reciteur gevonden",
+    "empty_quran_search": "Les résultats de la recherche apparaîtront ici",
+    "no_bookmark_ayah": "Geen bladwijzers beschikbaar. Houd de ayah die u wilt bladwijzeren lang ingedrukt.",
+    "page": "Pagina",
+    "prayer_times_in": "Czasy modlitwy w"
 }

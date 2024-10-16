@@ -1,5 +1,4 @@
 {
-    "@@locale": "id",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -71,7 +70,8 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Pemberitahuan doa",
-    "settings_PrayerPreNotifications": "Pra-pemberitahuan doa",
+    "settings_PrayerPreNotifications": "Pemberitahuan sebelum shalat",
+    "settings_ShuruqPreNotifications": "Pemberitahuan sebelum syuruq",
     "settings_Calculations": "Penghitungan",
     "settings_RateOurApp": "Beri nilai aplikasi kami",
     "@settings_RateOurApp": {
@@ -79,6 +79,9 @@
         "type": "text"
     },
     "settings_WhatsNew": "Berita",
+    "settings_SupportMawaqit": "Dukung Mawaqit",
+    "settings_News": "Berita",
+    "settings_MakeADonation": "Beri Donasi",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Donasi ke MAWAQIT",
     "@settings_DonateToMawaqit": {
@@ -128,7 +131,7 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Shuruq",
+    "shuruq": "Matahari terbit",
     "@shuruq": {
         "description": "_",
         "type": "text"
@@ -169,27 +172,37 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Adzan Makkah (Subuh)",
+    "adhan_Makkah_fajr": "Makkah (Subuh)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Adzan Madinah",
+    "adhan_Madinah": "Madinah",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Adzan Qods",
+    "adhan_Qods": "Qods",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Adzan Al Afassy",
+    "adhan_AlAfassy": "Al Afassy",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Adhan Abdul Bassit",
+    "adhan_AlAfassy_fajr": "Al Afassy (Subah)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "Muhammad Jazy",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "Abdul Bassit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
@@ -224,6 +237,43 @@
     "search_location_enabled_no_result": "Kami tidak menemukan masjid mitra MAWAQIT untuk pencarian Anda. Kami telah menghitung waktu shalat berdasarkan lokasi Anda, dekat dengan: {locality}",
     "search_location_disabled": "Silakan cari masjid berdasarkan nama atau kota, atau izinkan lokasi secara manual di pengaturan Anda.",
     "search_settings": "Pengaturan",
+    "no_services_text": "Masjid tidak menyediakan info ini",
+    "welcome": "Selamat datang di",
+    "mawaqit": "MAWAQIT",
+    "connecting": "Menghubungkan Muslim",
+    "to_mosques": "ke Masjid",
+    "get_started": "Mulai",
+    "get_prayer_notifications_for": "Dapatkan notifikasi sholat untuk",
+    "turn_on_notifications": "Aktifkan notifikasi doa",
+    "no_thanks": "Tidak, terima kasih",
+    "notification_denied": "Anda telah menolak izin notifikasi, jadi Anda tidak akan menerima notifikasi apa pun.",
+    "at_least_one_mosque": "Tambahkan setidaknya satu masjid untuk melanjutkan",
+    "set_up_your_prayer": "Atur sholat Anda",
+    "notifications": "Notifikasi",
+    "mosques_around_you": "Masjid di sekitar Anda",
+    "mosques_in_the_selected_area": "Masjid di area yang dipilih",
+    "mosques_with": "Masjid dengan",
+    "allow_mawaqit_to_access_my_location": "Izinkan Mawaqit mengakses lokasi saya.",
+    "enable_location_service_from_app_settings": "Aktifkan layanan lokasi dari pengaturan aplikasi.",
+    "the_request_timeout": "Waktu permintaan telah habis",
+    "no_internet_connection": "Tidak ada koneksi internet",
+    "try_again": "Coba lagi",
+    "virtual_mosque": "Masjid Virtual",
+    "no_mosque_in_selected_area": "Tidak dapat menemukan masjid apa pun di area yang dipilih",
+    "no_mosque_with": "Tidak dapat menemukan masjid apa pun dengan",
+    "retry": "Mencoba kembali",
+    "search_here": "Cari di sini",
+    "enter_at_least_3_char": "Masukkan setidaknya 3 karakter untuk dicari",
+    "jumua1": "Jum'a 1",
+    "prayer_times": "Waktu sholat",
+    "remove_this_city": "Hapus kota ini",
+    "add_this_city": "Tambahkan kota ini",
+    "add_this_mosque": "Tambahkan masjid ini",
+    "remove_this_mosque": "Hapus masjid ini",
+    "services": "Jasa",
+    "share": "Membagikan",
+    "itinerary": "Rencana perjalanan",
+    "call": "Panggilan",
     "dnd": "Jangan ganggu",
     "battery_optimize": "Optimasi Baterai",
     "power_saver": "Penghemat Daya",
@@ -231,17 +281,21 @@
     "permission_message2": "untuk menerima pemberitahuan tepat waktu.",
     "notifications_delay_detected": "Penundaan notifikasi terdeteksi",
     "open_setting": "Buka Pengaturan",
-    "noJumua": "Tidak ada jumua",
+    "noJumua": "Tidak ada jum'a",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jumua",
+    "jumua": "Jum'a",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
     "qibla_sensor": "Sensor di perangkat Anda yang digunakan MAWAQIT untuk menentukan Qibla tidak bekerja seperti yang diharapkan, yang mempengaruhi kemampuan kami untuk menampilkan arah Qibla.",
+    "connection_not_found": "Pengaturan Kalibrasi Kompas dinonaktifkan. Pastikan koneksi Anda aktif dan coba lagi dengan mengubah arah.",
+    "currently_located_at": "Saat ini berada di",
+    "facing_makkah": "Anda menghadap Mekkah",
+    "not_facing_Makkah": "Anda tidak menghadap Mekkah",
     "qibla_Error_retry": "Coba lagi.",
     "@qibla_Error_retry": {
         "description": "_",
@@ -407,7 +461,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jumua 2",
+    "jumua2": "Jum'a 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -617,7 +671,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Adzan Makkah",
+    "adhan_Makkah": "Makkah",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -662,6 +716,7 @@
         "description": "_",
         "type": "text"
     },
+    "at_least_one_mosque_error": "Anda harus memiliki setidaknya satu masjid.",
     "and": "dan",
     "continue_to_app": "Lanjutkan",
     "add": "Tambah",
@@ -811,11 +866,63 @@
     "error_performing_donation": "Terjadi kesalahan saat mencoba melakukan donasi",
     "recurring_pay_text": "Berikan donasi ini setiap bulan.",
     "adjust_angles": "Sesuaikan Sudut",
-    "debug_text": "debug_text",
-    "anas": "Anas",
-    "@anas": {
-        "description": "anas"
-    },
-    "thanks": "Terima kasih.",
-    "many": "banyak"
+    "silent": "Diam",
+    "default_": "Default",
+    "muazzin": "Muazzin",
+    "information": "Informasi",
+    "news": "Berita",
+    "calendar": "Kalender",
+    "system": "Sistem",
+    "change_mosque_order": "Seret dan lepas masjid untuk mengubah urutan dan mengatur masjid utama",
+    "remove": "Hapus",
+    "save": "simpan",
+    "main_mosque": "Masjid utama",
+    "mosques": "Masjid",
+    "no_news": "Tidak ada berita dari masjid",
+    "mawaqit_notification": "Notifikasi Mawaqit",
+    "no_mawaqit_notification": "Tidak ada notifikasi dari Mawaqit",
+    "meccan": "Mekkah",
+    "medinan": "Madinah",
+    "montada_islamic_foundation": "Yayasan Islam Montada",
+    "rashid_maash": "Rashid Maash",
+    "abdul_haleem": "Abdul Haleem",
+    "dr_mustafa_khattab": "Dr. Mustafa Khattab",
+    "frank_bubenheim_and_nadeem": "Frank Bubenheim dan Nadeem",
+    "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
+    "unknown_author": "Pengarang Tidak Dikenal",
+    "translation_settings": "Pengaturan Terjemahan",
+    "reading": "Membaca",
+    "listening": "Mendengarkan",
+    "font_size": "Ukuran huruf",
+    "font_size_arabic": "Ukuran huruf Arab",
+    "horizontal": "Horizontal",
+    "vertical": "Vertikal",
+    "add_page_bookmarks": "Tambahkan halaman ke bookmark",
+    "remove_page_bookmarks": "Hapus halaman dari bookmark",
+    "no_bookmarks": "Tidak ada bookmark",
+    "liked": "Disukai",
+    "all_recitators": "Semua qari",
+    "downloaded": "Diunduh",
+    "search_for_recitator": "Cari qari",
+    "search_for_surah": "Cari surah",
+    "search_for_fav_recitator": "Cari qari favorit",
+    "listen_to_quran": "DENGARKAN AL-QURAN",
+    "search_hint_text": "Cari masjid atau kota",
+    "downloading": "Mengunduh",
+    "cant_download_more_than_3": "Tidak dapat mengunduh lebih dari 3 sekaligus.",
+    "boost": "Tingkatkan",
+    "recitation_deleted_successfully": "Resitasi berhasil dihapus",
+    "quran": "Quran",
+    "qibla": "Kiblat",
+    "search": "Cari",
+    "more": "Lainnya",
+    "download_cancelled": "Unduhan dibatalkan",
+    "no_virtual_mosque_found": "Maaf, kami tidak menemukan masjid di sekitar Anda",
+    "no_surah_found": "Tidak ada surah yang ditemukan",
+    "no_favorite_recitor_found": "Tidak ada qari favorit yang ditemukan",
+    "no_recitator_found": "Tidak ada qari yang ditemukan",
+    "empty_quran_search": "Hasil pencarian akan muncul di sini",
+    "no_bookmark_ayah": "Tidak ada penanda halaman tersedia. Silakan tekan lama ayat yang ingin Anda tandai.",
+    "page": "Halaman",
+    "prayer_times_in": "Waktu sholat di"
 }
