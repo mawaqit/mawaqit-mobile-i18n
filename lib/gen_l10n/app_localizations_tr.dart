@@ -695,9 +695,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get quran_mushaf => 'Mushaf';
 
   @override
-  String quran_juzz(Object number) {
-    return 'Juzz $number';
-  }
+  String get quran_juzz => 'Cüz';
 
   @override
   String get ayah => 'Ayah';
@@ -718,9 +716,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get juzz => 'Juzz';
 
   @override
-  String quran_page(Object page) {
-    return 'Sayfa $page';
-  }
+  String get quran_page => 'Sayfa';
 
   @override
   String get quran_turning_page => 'Dönen sayfa';
@@ -897,17 +893,13 @@ class AppLocalizationsTr extends AppLocalizations {
   String get calculation_adjustment_prayers => 'Ayarlamalar';
 
   @override
-  String calculation_adjustment_prayers_minutes(Object minute) {
-    return '$minute dakika';
-  }
+  String get calculation_adjustment_prayers_minutes => 'dakika';
 
   @override
   String get calculation_adjustment_angles => 'Açılar';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return '$prayer özel açı';
-  }
+  String get calculation_prayer_custom_angle => 'Özel açı için';
 
   @override
   String get error_download_quran_failed => 'Kuran indirilemedi';
