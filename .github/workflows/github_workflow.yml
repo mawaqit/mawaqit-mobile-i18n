@@ -1,25 +1,60 @@
-name: Run flutter gen-l10n
+name: Update ARB Files
 
 on:
-  push:
+  pull_request:
     branches:
       - main
 
 jobs:
-  build:
+  update-arb:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Flutter
-      uses: subosito/flutter-action@v2
-      with:
-        flutter-version: '3.16.8'
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.16.8'
 
-    - name: Install dependencies
-      run: flutter pub get
+      - name: Replace "ur-PK" with "ur" in app_ur.arb
+        run: |
+          sed -i 's/"ur-PK"/"ur"/g' lib/l10n/app_ur.arb
 
-    - name: Generate localization files
-      run: flutter gen-l10n
+      - name: Replace "es-ES" with "es" in app_es.arb
+        run: |
+          sed -i 's/"es-ES"/"es"/g' lib/l10n/app_es.arb
+
+      - name: Change intl version to 0.18.1
+        run: |
+          sed -i 's/intl: ^0.19.0/intl: ^0.18.1/g' pubspec.yaml
+          flutter pub get
+
+      - name: Run flutter gen-l10n
+        run: flutter gen-l10n
+
+      - name: Run flutter pub run crowdin_sdk:gen
+        run: flutter pub run crowdin_sdk:gen
+
+      - name: Change Flutter version to 3.22.2
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.22.2'
+
+      - name: Revert intl version back to 0.19.0
+        run: |
+          sed -i 's/intl: ^0.18.1/intl: ^0.19.0/g' pubspec.yaml
+          flutter pub get
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git rebase origin/${{ github.head_ref }}
+          git add .
+          git commit -m "Automated ARB file updates, l10n generation, Flutter version, and intl version adjustment" || echo "No changes to commit"
+          git push origin HEAD:${{ github.head_ref }}
+        continue-on-error: true
+
