@@ -26,11 +26,21 @@ jobs:
         run: |
           sed -i 's/"es-ES"/"es"/g' lib/l10n/app_es.arb
 
+      - name: Change intl version to 0.18.1
+        run: |
+          sed -i 's/intl: ^0.19.0/intl: ^0.18.1/g' pubspec.yaml
+          flutter pub get
+
       - name: Run flutter gen-l10n
         run: flutter gen-l10n
 
       - name: Run flutter pub run crowdin_sdk:gen
         run: flutter pub run crowdin_sdk:gen
+
+      - name: Revert intl version back to 0.19.0
+        run: |
+          sed -i 's/intl: ^0.18.1/intl: ^0.19.0/g' pubspec.yaml
+          flutter pub get
 
       - name: Commit and push changes
         run: |
