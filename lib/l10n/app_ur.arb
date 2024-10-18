@@ -1,4 +1,5 @@
 {
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -234,7 +235,6 @@
     "search_iOs14_message": "iOS 14 پر GPS کا استعمال کرتے ہوئے تلاش کرنے میں کچھ وقت لگ سکتا ہے، براہ کرم انتظار کریں۔",
     "search_error": "Oops an internal error has occurred'",
     "search_your_location": "Your location",
-    "search_location_enabled_no_result": "ہم نے کوئی مسجد نہیں پائے۔ ہم نے آپ کے جغرافیائی مقام کے مطابق نماز کا وقت حساب کیا ہے، قریبی: {locality}",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
     "search_settings": "Settings",
     "no_services_text": "مساجد نے یہ معلومات فراہم نہیں کیں",
@@ -724,7 +724,6 @@
     "on_boarding_nearest_mosque": "Lets find the nearest mosque",
     "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
     "search_no_result_for_text": "We did not find any result for",
-    "calculate_prayer_time_from_area": "We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: {locality}",
     "surah_audio_downloading": "Surah Audio Downloading...",
     "msg_internet_connection": "You don't have any internet connection",
     "read_quran": "Read Quran",
