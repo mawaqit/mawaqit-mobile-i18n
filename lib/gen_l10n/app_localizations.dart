@@ -1501,7 +1501,7 @@ abstract class AppLocalizations {
   ///
   /// In en, this message translates to:
   /// **'Juzz'**
-  String quran_juzz(Object number);
+  String get quran_juzz;
 
   /// No description provided for @ayah.
   ///
@@ -1543,7 +1543,7 @@ abstract class AppLocalizations {
   ///
   /// In en, this message translates to:
   /// **'Page'**
-  String quran_page(Object page);
+  String get quran_page;
 
   /// No description provided for @quran_turning_page.
   ///
@@ -1897,7 +1897,7 @@ abstract class AppLocalizations {
   ///
   /// In en, this message translates to:
   /// **'minutes'**
-  String calculation_adjustment_prayers_minutes(Object minute);
+  String get calculation_adjustment_prayers_minutes;
 
   /// No description provided for @calculation_adjustment_angles.
   ///
@@ -1909,7 +1909,7 @@ abstract class AppLocalizations {
   ///
   /// In en, this message translates to:
   /// **'Custom angle for'**
-  String calculation_prayer_custom_angle(Object prayer);
+  String get calculation_prayer_custom_angle;
 
   /// No description provided for @error_download_quran_failed.
   ///
