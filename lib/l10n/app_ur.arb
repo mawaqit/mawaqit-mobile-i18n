@@ -1,6 +1,5 @@
 {
-    "@@locale": "ur",
-
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -807,7 +806,7 @@
     "calculation_adjustment_prayers": "Prayer adjustments",
     "calculation_adjustment_prayers_minutes": "منٹ",
     "calculation_adjustment_angles": "Custom angles",
-    "calculation_prayer_custom_angle": "custom angle",
+    "calculation_prayer_custom_angle": "{prayer} custom angle",
     "error_download_quran_failed": "قرآن پاک ڈاؤن لوڈ کرنے میں ناکام",
     "downloading_quran": "قرآن ڈاؤن لوڈ ہو رہا ہے...",
     "processing": "پروسیسنگ...",
