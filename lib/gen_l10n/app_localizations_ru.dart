@@ -899,7 +899,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_adjustment_angles => 'Углы';
 
   @override
-  String get calculation_prayer_custom_angle => 'Пользовательский угол для';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Пользовательский угол для';
+  }
 
   @override
   String get error_download_quran_failed => 'Не удалось загрузить Коран.';

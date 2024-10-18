@@ -899,7 +899,9 @@ class AppLocalizationsDe extends AppLocalizations {
   String get calculation_adjustment_angles => 'Winkel';
 
   @override
-  String get calculation_prayer_custom_angle => 'Eigener Winkel für';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Eigener Winkel für';
+  }
 
   @override
   String get error_download_quran_failed => 'Fehler beim Herunterladen des Korans';

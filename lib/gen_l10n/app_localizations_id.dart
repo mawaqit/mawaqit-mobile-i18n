@@ -899,7 +899,9 @@ class AppLocalizationsId extends AppLocalizations {
   String get calculation_adjustment_angles => 'Sudut kustom';
 
   @override
-  String get calculation_prayer_custom_angle => 'Sudut khusus untuk';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Sudut khusus untuk';
+  }
 
   @override
   String get error_download_quran_failed => 'Gagal mengunduh Quran';

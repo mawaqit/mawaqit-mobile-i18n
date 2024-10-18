@@ -899,7 +899,9 @@ class AppLocalizationsNl extends AppLocalizations {
   String get calculation_adjustment_angles => 'Hoeken';
 
   @override
-  String get calculation_prayer_custom_angle => 'Aangepaste hoek voor';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Aangepaste hoek voor';
+  }
 
   @override
   String get error_download_quran_failed => 'Downloaden van de Koran is mislukt';

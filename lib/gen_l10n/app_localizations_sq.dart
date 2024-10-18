@@ -899,7 +899,9 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_adjustment_angles => 'Custom angles';
 
   @override
-  String get calculation_prayer_custom_angle => 'Custom angle for';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Custom angle for';
+  }
 
   @override
   String get error_download_quran_failed => 'Failed to download Quran';

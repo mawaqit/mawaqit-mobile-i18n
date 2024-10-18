@@ -899,7 +899,9 @@ class AppLocalizationsTr extends AppLocalizations {
   String get calculation_adjustment_angles => 'Açılar';
 
   @override
-  String get calculation_prayer_custom_angle => 'Özel açı için';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Özel açı için';
+  }
 
   @override
   String get error_download_quran_failed => 'Kuran indirilemedi';
