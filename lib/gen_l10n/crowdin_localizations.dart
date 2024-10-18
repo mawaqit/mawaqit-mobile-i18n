@@ -74,6 +74,9 @@ class CrowdinLocalization extends AppLocalizations {
   String get settings_PrayerPreNotifications => Crowdin.getText(localeName, 'settings_PrayerPreNotifications') ?? _fallbackTexts.settings_PrayerPreNotifications;
 
 	@override
+  String get settings_ShuruqPreNotifications => Crowdin.getText(localeName, 'settings_ShuruqPreNotifications') ?? _fallbackTexts.settings_ShuruqPreNotifications;
+
+	@override
   String get settings_Calculations => Crowdin.getText(localeName, 'settings_Calculations') ?? _fallbackTexts.settings_Calculations;
 
 	@override
@@ -81,6 +84,15 @@ class CrowdinLocalization extends AppLocalizations {
 
 	@override
   String get settings_WhatsNew => Crowdin.getText(localeName, 'settings_WhatsNew') ?? _fallbackTexts.settings_WhatsNew;
+
+	@override
+  String get settings_SupportMawaqit => Crowdin.getText(localeName, 'settings_SupportMawaqit') ?? _fallbackTexts.settings_SupportMawaqit;
+
+	@override
+  String get settings_News => Crowdin.getText(localeName, 'settings_News') ?? _fallbackTexts.settings_News;
+
+	@override
+  String get settings_MakeADonation => Crowdin.getText(localeName, 'settings_MakeADonation') ?? _fallbackTexts.settings_MakeADonation;
 
 	@override
   String get bismillah => Crowdin.getText(localeName, 'bismillah') ?? _fallbackTexts.bismillah;
@@ -185,6 +197,12 @@ class CrowdinLocalization extends AppLocalizations {
   String get adhan_AlAfassy => Crowdin.getText(localeName, 'adhan_AlAfassy') ?? _fallbackTexts.adhan_AlAfassy;
 
 	@override
+  String get adhan_AlAfassy_fajr => Crowdin.getText(localeName, 'adhan_AlAfassy_fajr') ?? _fallbackTexts.adhan_AlAfassy_fajr;
+
+	@override
+  String get adhan_Muhammad_jazy => Crowdin.getText(localeName, 'adhan_Muhammad_jazy') ?? _fallbackTexts.adhan_Muhammad_jazy;
+
+	@override
   String get adhan_AbdAlBassat => Crowdin.getText(localeName, 'adhan_AbdAlBassat') ?? _fallbackTexts.adhan_AbdAlBassat;
 
 	@override
@@ -220,12 +238,122 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get search_your_location => Crowdin.getText(localeName, 'search_your_location') ?? _fallbackTexts.search_your_location;
 
-
 	@override
   String get search_location_disabled => Crowdin.getText(localeName, 'search_location_disabled') ?? _fallbackTexts.search_location_disabled;
 
 	@override
   String get search_settings => Crowdin.getText(localeName, 'search_settings') ?? _fallbackTexts.search_settings;
+
+	@override
+  String get no_services_text => Crowdin.getText(localeName, 'no_services_text') ?? _fallbackTexts.no_services_text;
+
+	@override
+  String get welcome => Crowdin.getText(localeName, 'welcome') ?? _fallbackTexts.welcome;
+
+	@override
+  String get mawaqit => Crowdin.getText(localeName, 'mawaqit') ?? _fallbackTexts.mawaqit;
+
+	@override
+  String get connecting => Crowdin.getText(localeName, 'connecting') ?? _fallbackTexts.connecting;
+
+	@override
+  String get to_mosques => Crowdin.getText(localeName, 'to_mosques') ?? _fallbackTexts.to_mosques;
+
+	@override
+  String get get_started => Crowdin.getText(localeName, 'get_started') ?? _fallbackTexts.get_started;
+
+	@override
+  String get get_prayer_notifications_for => Crowdin.getText(localeName, 'get_prayer_notifications_for') ?? _fallbackTexts.get_prayer_notifications_for;
+
+	@override
+  String get turn_on_notifications => Crowdin.getText(localeName, 'turn_on_notifications') ?? _fallbackTexts.turn_on_notifications;
+
+	@override
+  String get no_thanks => Crowdin.getText(localeName, 'no_thanks') ?? _fallbackTexts.no_thanks;
+
+	@override
+  String get notification_denied => Crowdin.getText(localeName, 'notification_denied') ?? _fallbackTexts.notification_denied;
+
+	@override
+  String get at_least_one_mosque => Crowdin.getText(localeName, 'at_least_one_mosque') ?? _fallbackTexts.at_least_one_mosque;
+
+	@override
+  String get set_up_your_prayer => Crowdin.getText(localeName, 'set_up_your_prayer') ?? _fallbackTexts.set_up_your_prayer;
+
+	@override
+  String get notifications => Crowdin.getText(localeName, 'notifications') ?? _fallbackTexts.notifications;
+
+	@override
+  String get mosques_around_you => Crowdin.getText(localeName, 'mosques_around_you') ?? _fallbackTexts.mosques_around_you;
+
+	@override
+  String get mosques_in_the_selected_area => Crowdin.getText(localeName, 'mosques_in_the_selected_area') ?? _fallbackTexts.mosques_in_the_selected_area;
+
+	@override
+  String get mosques_with => Crowdin.getText(localeName, 'mosques_with') ?? _fallbackTexts.mosques_with;
+
+	@override
+  String get allow_mawaqit_to_access_my_location => Crowdin.getText(localeName, 'allow_mawaqit_to_access_my_location') ?? _fallbackTexts.allow_mawaqit_to_access_my_location;
+
+	@override
+  String get enable_location_service_from_app_settings => Crowdin.getText(localeName, 'enable_location_service_from_app_settings') ?? _fallbackTexts.enable_location_service_from_app_settings;
+
+	@override
+  String get the_request_timeout => Crowdin.getText(localeName, 'the_request_timeout') ?? _fallbackTexts.the_request_timeout;
+
+	@override
+  String get no_internet_connection => Crowdin.getText(localeName, 'no_internet_connection') ?? _fallbackTexts.no_internet_connection;
+
+	@override
+  String get try_again => Crowdin.getText(localeName, 'try_again') ?? _fallbackTexts.try_again;
+
+	@override
+  String get virtual_mosque => Crowdin.getText(localeName, 'virtual_mosque') ?? _fallbackTexts.virtual_mosque;
+
+	@override
+  String get no_mosque_in_selected_area => Crowdin.getText(localeName, 'no_mosque_in_selected_area') ?? _fallbackTexts.no_mosque_in_selected_area;
+
+	@override
+  String get no_mosque_with => Crowdin.getText(localeName, 'no_mosque_with') ?? _fallbackTexts.no_mosque_with;
+
+	@override
+  String get retry => Crowdin.getText(localeName, 'retry') ?? _fallbackTexts.retry;
+
+	@override
+  String get search_here => Crowdin.getText(localeName, 'search_here') ?? _fallbackTexts.search_here;
+
+	@override
+  String get enter_at_least_3_char => Crowdin.getText(localeName, 'enter_at_least_3_char') ?? _fallbackTexts.enter_at_least_3_char;
+
+	@override
+  String get jumua1 => Crowdin.getText(localeName, 'jumua1') ?? _fallbackTexts.jumua1;
+
+	@override
+  String get prayer_times => Crowdin.getText(localeName, 'prayer_times') ?? _fallbackTexts.prayer_times;
+
+	@override
+  String get remove_this_city => Crowdin.getText(localeName, 'remove_this_city') ?? _fallbackTexts.remove_this_city;
+
+	@override
+  String get add_this_city => Crowdin.getText(localeName, 'add_this_city') ?? _fallbackTexts.add_this_city;
+
+	@override
+  String get add_this_mosque => Crowdin.getText(localeName, 'add_this_mosque') ?? _fallbackTexts.add_this_mosque;
+
+	@override
+  String get remove_this_mosque => Crowdin.getText(localeName, 'remove_this_mosque') ?? _fallbackTexts.remove_this_mosque;
+
+	@override
+  String get services => Crowdin.getText(localeName, 'services') ?? _fallbackTexts.services;
+
+	@override
+  String get share => Crowdin.getText(localeName, 'share') ?? _fallbackTexts.share;
+
+	@override
+  String get itinerary => Crowdin.getText(localeName, 'itinerary') ?? _fallbackTexts.itinerary;
+
+	@override
+  String get call => Crowdin.getText(localeName, 'call') ?? _fallbackTexts.call;
 
 	@override
   String get dnd => Crowdin.getText(localeName, 'dnd') ?? _fallbackTexts.dnd;
@@ -256,6 +384,18 @@ class CrowdinLocalization extends AppLocalizations {
 
 	@override
   String get qibla_sensor => Crowdin.getText(localeName, 'qibla_sensor') ?? _fallbackTexts.qibla_sensor;
+
+	@override
+  String get connection_not_found => Crowdin.getText(localeName, 'connection_not_found') ?? _fallbackTexts.connection_not_found;
+
+	@override
+  String get currently_located_at => Crowdin.getText(localeName, 'currently_located_at') ?? _fallbackTexts.currently_located_at;
+
+	@override
+  String get facing_makkah => Crowdin.getText(localeName, 'facing_makkah') ?? _fallbackTexts.facing_makkah;
+
+	@override
+  String get not_facing_Makkah => Crowdin.getText(localeName, 'not_facing_Makkah') ?? _fallbackTexts.not_facing_Makkah;
 
 	@override
   String get qibla_Error_retry => Crowdin.getText(localeName, 'qibla_Error_retry') ?? _fallbackTexts.qibla_Error_retry;
@@ -510,6 +650,9 @@ class CrowdinLocalization extends AppLocalizations {
   String get location_permission_denied_forever => Crowdin.getText(localeName, 'location_permission_denied_forever') ?? _fallbackTexts.location_permission_denied_forever;
 
 	@override
+  String get at_least_one_mosque_error => Crowdin.getText(localeName, 'at_least_one_mosque_error') ?? _fallbackTexts.at_least_one_mosque_error;
+
+	@override
   String get and => Crowdin.getText(localeName, 'and') ?? _fallbackTexts.and;
 
 	@override
@@ -529,7 +672,6 @@ class CrowdinLocalization extends AppLocalizations {
 
 	@override
   String get search_no_result_for_text => Crowdin.getText(localeName, 'search_no_result_for_text') ?? _fallbackTexts.search_no_result_for_text;
-
 
 	@override
   String get surah_audio_downloading => Crowdin.getText(localeName, 'surah_audio_downloading') ?? _fallbackTexts.surah_audio_downloading;
@@ -574,6 +716,7 @@ class CrowdinLocalization extends AppLocalizations {
   String get quran_mushaf => Crowdin.getText(localeName, 'quran_mushaf') ?? _fallbackTexts.quran_mushaf;
 
 	@override
+  String get quran_juzz => Crowdin.getText(localeName, 'quran_juzz') ?? _fallbackTexts.quran_juzz;
 
 	@override
   String get ayah => Crowdin.getText(localeName, 'ayah') ?? _fallbackTexts.ayah;
@@ -593,6 +736,8 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get juzz => Crowdin.getText(localeName, 'juzz') ?? _fallbackTexts.juzz;
 
+	@override
+  String get quran_page => Crowdin.getText(localeName, 'quran_page') ?? _fallbackTexts.quran_page;
 
 	@override
   String get quran_turning_page => Crowdin.getText(localeName, 'quran_turning_page') ?? _fallbackTexts.quran_turning_page;
@@ -768,10 +913,14 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get calculation_adjustment_prayers => Crowdin.getText(localeName, 'calculation_adjustment_prayers') ?? _fallbackTexts.calculation_adjustment_prayers;
 
+	@override
+  String get calculation_adjustment_prayers_minutes => Crowdin.getText(localeName, 'calculation_adjustment_prayers_minutes') ?? _fallbackTexts.calculation_adjustment_prayers_minutes;
 
 	@override
   String get calculation_adjustment_angles => Crowdin.getText(localeName, 'calculation_adjustment_angles') ?? _fallbackTexts.calculation_adjustment_angles;
 
+	@override
+  String get calculation_prayer_custom_angle => Crowdin.getText(localeName, 'calculation_prayer_custom_angle') ?? _fallbackTexts.calculation_prayer_custom_angle;
 
 	@override
   String get error_download_quran_failed => Crowdin.getText(localeName, 'error_download_quran_failed') ?? _fallbackTexts.error_download_quran_failed;
@@ -948,63 +1097,181 @@ class CrowdinLocalization extends AppLocalizations {
   String get adjust_angles => Crowdin.getText(localeName, 'adjust_angles') ?? _fallbackTexts.adjust_angles;
 
 	@override
-  String get debug_text => Crowdin.getText(localeName, 'debug_text') ?? _fallbackTexts.debug_text;
+  String get silent => Crowdin.getText(localeName, 'silent') ?? _fallbackTexts.silent;
 
 	@override
-  String get anas => Crowdin.getText(localeName, 'anas') ?? _fallbackTexts.anas;
-
-  // String get many => Crowdin.getText(localeName, 'many') ?? _fallbackTexts.many;
+  String get default_ => Crowdin.getText(localeName, 'default_') ?? _fallbackTexts.default_;
 
 	@override
-  String get thanks => Crowdin.getText(localeName, 'thanks') ?? _fallbackTexts.thanks;
+  String get muazzin => Crowdin.getText(localeName, 'muazzin') ?? _fallbackTexts.muazzin;
 
+	@override
+  String get information => Crowdin.getText(localeName, 'information') ?? _fallbackTexts.information;
 
-  @override
-  String quran_juzz(Object number) {
-    String rawString = Crowdin.getText(localeName, 'quran_juzz') ??
-        _fallbackTexts.quran_juzz(number);
-    return rawString.replaceFirst('{number}', number.toString());
-  }
+	@override
+  String get news => Crowdin.getText(localeName, 'news') ?? _fallbackTexts.news;
 
-  @override
-  String quran_page(Object page) {
-    String rawString = Crowdin.getText(localeName, 'quran_page') ??
-        _fallbackTexts.quran_page(page);
-    return rawString.replaceFirst('{page}', page.toString());
-  }
+	@override
+  String get calendar => Crowdin.getText(localeName, 'calendar') ?? _fallbackTexts.calendar;
 
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    String rawString =
-        Crowdin.getText(localeName, 'calculate_prayer_time_from_area') ??
-            _fallbackTexts.calculate_prayer_time_from_area(locality);
-    return rawString.replaceFirst('{locality}', locality.toString());
-  }
+	@override
+  String get system => Crowdin.getText(localeName, 'system') ?? _fallbackTexts.system;
 
-  @override
-  String calculation_adjustment_prayers_minutes(Object minute) {
-    String rawString =
-        Crowdin.getText(localeName, 'calculation_adjustment_prayers_minutes') ??
-            _fallbackTexts.calculation_adjustment_prayers_minutes(minute);
-    return rawString.replaceFirst('{minute}', minute.toString());
-  }
+	@override
+  String get change_mosque_order => Crowdin.getText(localeName, 'change_mosque_order') ?? _fallbackTexts.change_mosque_order;
 
-  @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    String rawString =
-        Crowdin.getText(localeName, 'calculation_prayer_custom_angle') ??
-            _fallbackTexts.calculation_prayer_custom_angle(prayer);
-    return rawString.replaceFirst('{prayer}', prayer.toString());
-  }
+	@override
+  String get remove => Crowdin.getText(localeName, 'remove') ?? _fallbackTexts.remove;
 
-  @override
-  String search_location_enabled_no_result(Object locality) {
-    String rawString =
-        Crowdin.getText(localeName, 'search_location_enabled_no_result') ??
-            _fallbackTexts.search_location_enabled_no_result(locality);
-    return rawString.replaceFirst('{locality}', locality.toString());
-  }
+	@override
+  String get save => Crowdin.getText(localeName, 'save') ?? _fallbackTexts.save;
 
+	@override
+  String get main_mosque => Crowdin.getText(localeName, 'main_mosque') ?? _fallbackTexts.main_mosque;
+
+	@override
+  String get mosques => Crowdin.getText(localeName, 'mosques') ?? _fallbackTexts.mosques;
+
+	@override
+  String get no_news => Crowdin.getText(localeName, 'no_news') ?? _fallbackTexts.no_news;
+
+	@override
+  String get mawaqit_notification => Crowdin.getText(localeName, 'mawaqit_notification') ?? _fallbackTexts.mawaqit_notification;
+
+	@override
+  String get no_mawaqit_notification => Crowdin.getText(localeName, 'no_mawaqit_notification') ?? _fallbackTexts.no_mawaqit_notification;
+
+	@override
+  String get meccan => Crowdin.getText(localeName, 'meccan') ?? _fallbackTexts.meccan;
+
+	@override
+  String get medinan => Crowdin.getText(localeName, 'medinan') ?? _fallbackTexts.medinan;
+
+	@override
+  String get montada_islamic_foundation => Crowdin.getText(localeName, 'montada_islamic_foundation') ?? _fallbackTexts.montada_islamic_foundation;
+
+	@override
+  String get rashid_maash => Crowdin.getText(localeName, 'rashid_maash') ?? _fallbackTexts.rashid_maash;
+
+	@override
+  String get abdul_haleem => Crowdin.getText(localeName, 'abdul_haleem') ?? _fallbackTexts.abdul_haleem;
+
+	@override
+  String get dr_mustafa_khattab => Crowdin.getText(localeName, 'dr_mustafa_khattab') ?? _fallbackTexts.dr_mustafa_khattab;
+
+	@override
+  String get frank_bubenheim_and_nadeem => Crowdin.getText(localeName, 'frank_bubenheim_and_nadeem') ?? _fallbackTexts.frank_bubenheim_and_nadeem;
+
+	@override
+  String get abu_reda_muhammad_ibn_ahmad => Crowdin.getText(localeName, 'abu_reda_muhammad_ibn_ahmad') ?? _fallbackTexts.abu_reda_muhammad_ibn_ahmad;
+
+	@override
+  String get unknown_author => Crowdin.getText(localeName, 'unknown_author') ?? _fallbackTexts.unknown_author;
+
+	@override
+  String get translation_settings => Crowdin.getText(localeName, 'translation_settings') ?? _fallbackTexts.translation_settings;
+
+	@override
+  String get reading => Crowdin.getText(localeName, 'reading') ?? _fallbackTexts.reading;
+
+	@override
+  String get listening => Crowdin.getText(localeName, 'listening') ?? _fallbackTexts.listening;
+
+	@override
+  String get font_size => Crowdin.getText(localeName, 'font_size') ?? _fallbackTexts.font_size;
+
+	@override
+  String get font_size_arabic => Crowdin.getText(localeName, 'font_size_arabic') ?? _fallbackTexts.font_size_arabic;
+
+	@override
+  String get horizontal => Crowdin.getText(localeName, 'horizontal') ?? _fallbackTexts.horizontal;
+
+	@override
+  String get vertical => Crowdin.getText(localeName, 'vertical') ?? _fallbackTexts.vertical;
+
+	@override
+  String get add_page_bookmarks => Crowdin.getText(localeName, 'add_page_bookmarks') ?? _fallbackTexts.add_page_bookmarks;
+
+	@override
+  String get remove_page_bookmarks => Crowdin.getText(localeName, 'remove_page_bookmarks') ?? _fallbackTexts.remove_page_bookmarks;
+
+	@override
+  String get no_bookmarks => Crowdin.getText(localeName, 'no_bookmarks') ?? _fallbackTexts.no_bookmarks;
+
+	@override
+  String get liked => Crowdin.getText(localeName, 'liked') ?? _fallbackTexts.liked;
+
+	@override
+  String get all_recitators => Crowdin.getText(localeName, 'all_recitators') ?? _fallbackTexts.all_recitators;
+
+	@override
+  String get downloaded => Crowdin.getText(localeName, 'downloaded') ?? _fallbackTexts.downloaded;
+
+	@override
+  String get search_for_recitator => Crowdin.getText(localeName, 'search_for_recitator') ?? _fallbackTexts.search_for_recitator;
+
+	@override
+  String get search_for_surah => Crowdin.getText(localeName, 'search_for_surah') ?? _fallbackTexts.search_for_surah;
+
+	@override
+  String get search_for_fav_recitator => Crowdin.getText(localeName, 'search_for_fav_recitator') ?? _fallbackTexts.search_for_fav_recitator;
+
+	@override
+  String get listen_to_quran => Crowdin.getText(localeName, 'listen_to_quran') ?? _fallbackTexts.listen_to_quran;
+
+	@override
+  String get search_hint_text => Crowdin.getText(localeName, 'search_hint_text') ?? _fallbackTexts.search_hint_text;
+
+	@override
+  String get downloading => Crowdin.getText(localeName, 'downloading') ?? _fallbackTexts.downloading;
+
+	@override
+  String get cant_download_more_than_3 => Crowdin.getText(localeName, 'cant_download_more_than_3') ?? _fallbackTexts.cant_download_more_than_3;
+
+	@override
+  String get boost => Crowdin.getText(localeName, 'boost') ?? _fallbackTexts.boost;
+
+	@override
+  String get recitation_deleted_successfully => Crowdin.getText(localeName, 'recitation_deleted_successfully') ?? _fallbackTexts.recitation_deleted_successfully;
+
+	@override
+  String get quran => Crowdin.getText(localeName, 'quran') ?? _fallbackTexts.quran;
+
+	@override
+  String get qibla => Crowdin.getText(localeName, 'qibla') ?? _fallbackTexts.qibla;
+
+	@override
+  String get search => Crowdin.getText(localeName, 'search') ?? _fallbackTexts.search;
+
+	@override
+  String get more => Crowdin.getText(localeName, 'more') ?? _fallbackTexts.more;
+
+	@override
+  String get download_cancelled => Crowdin.getText(localeName, 'download_cancelled') ?? _fallbackTexts.download_cancelled;
+
+	@override
+  String get no_virtual_mosque_found => Crowdin.getText(localeName, 'no_virtual_mosque_found') ?? _fallbackTexts.no_virtual_mosque_found;
+
+	@override
+  String get no_surah_found => Crowdin.getText(localeName, 'no_surah_found') ?? _fallbackTexts.no_surah_found;
+
+	@override
+  String get no_favorite_recitor_found => Crowdin.getText(localeName, 'no_favorite_recitor_found') ?? _fallbackTexts.no_favorite_recitor_found;
+
+	@override
+  String get no_recitator_found => Crowdin.getText(localeName, 'no_recitator_found') ?? _fallbackTexts.no_recitator_found;
+
+	@override
+  String get empty_quran_search => Crowdin.getText(localeName, 'empty_quran_search') ?? _fallbackTexts.empty_quran_search;
+
+	@override
+  String get no_bookmark_ayah => Crowdin.getText(localeName, 'no_bookmark_ayah') ?? _fallbackTexts.no_bookmark_ayah;
+
+	@override
+  String get page => Crowdin.getText(localeName, 'page') ?? _fallbackTexts.page;
+
+	@override
+  String get prayer_times_in => Crowdin.getText(localeName, 'prayer_times_in') ?? _fallbackTexts.prayer_times_in;
 
 }
 

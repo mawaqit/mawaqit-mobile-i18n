@@ -50,7 +50,10 @@ class AppLocalizationsFr extends AppLocalizations {
   String get settings_PrayerNotifications => 'Notifications de prière';
 
   @override
-  String get settings_PrayerPreNotifications => 'Pré-Notifications';
+  String get settings_PrayerPreNotifications => 'Notification avant prière';
+
+  @override
+  String get settings_ShuruqPreNotifications => 'Notification avant Shuruq';
 
   @override
   String get settings_Calculations => 'Méthode de calcul';
@@ -60,6 +63,15 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get settings_WhatsNew => 'Nouveautés';
+
+  @override
+  String get settings_SupportMawaqit => 'Soutenir Mawaqit';
+
+  @override
+  String get settings_News => 'Nouvelles';
+
+  @override
+  String get settings_MakeADonation => 'Faire un don';
 
   @override
   String get bismillah => 'Bismillah';
@@ -125,7 +137,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get fajr => 'Fajr';
 
   @override
-  String get shuruq => 'Shuruq';
+  String get shuruq => 'Chourouk';
 
   @override
   String get duhr => 'Duhr';
@@ -152,19 +164,25 @@ class AppLocalizationsFr extends AppLocalizations {
   String get adhan => 'Adhan';
 
   @override
-  String get adhan_Makkah_fajr => 'Adhan Makkah (Fajr)';
+  String get adhan_Makkah_fajr => 'Makkah (Fajr)';
 
   @override
-  String get adhan_Madinah => 'Adhan Madinah';
+  String get adhan_Madinah => 'Madinah';
 
   @override
-  String get adhan_Qods => 'Adhan Qods';
+  String get adhan_Qods => 'Qods';
 
   @override
-  String get adhan_AlAfassy => 'Adhan Al Afassy';
+  String get adhan_AlAfassy => 'Al Afassy';
 
   @override
-  String get adhan_AbdAlBassat => 'Adhan Abdul Bassit';
+  String get adhan_AlAfassy_fajr => 'Al Afassy (Fajr)';
+
+  @override
+  String get adhan_Muhammad_jazy => 'Muhammad Jazy';
+
+  @override
+  String get adhan_AbdAlBassat => 'Abdul Bassit';
 
   @override
   String get adhan_type => 'Choisissez un type d\'adhan. Ce choix sera appliqué à toutes les prières pour lesquelles il y a une notification d\'adhan.';
@@ -200,15 +218,121 @@ class AppLocalizationsFr extends AppLocalizations {
   String get search_your_location => 'Votre position';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'Nous n\'avons pas trouvé de mosquée partenaire MAWAQIT pour votre recherche. Nous avons calculé le temps de prière selon votre position, proche de $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Veuillez rechercher une mosquée par nom ou par ville, ou autoriser la localisation manuellement dans vos réglages.';
 
   @override
   String get search_settings => 'Réglages';
+
+  @override
+  String get no_services_text => 'Les mosquées n\'ont pas fourni cette information';
+
+  @override
+  String get welcome => 'Bienvenue à';
+
+  @override
+  String get mawaqit => 'MAWAQIT';
+
+  @override
+  String get connecting => 'Connecter les musulmans';
+
+  @override
+  String get to_mosques => 'aux mosquées';
+
+  @override
+  String get get_started => 'Commencer';
+
+  @override
+  String get get_prayer_notifications_for => 'Recevoir des notifications de prière pour';
+
+  @override
+  String get turn_on_notifications => 'Activer les notifications de prière';
+
+  @override
+  String get no_thanks => 'Non merci';
+
+  @override
+  String get notification_denied => 'Vous avez refusé les autorisations de notification, vous ne recevrez donc aucune notification.';
+
+  @override
+  String get at_least_one_mosque => 'Ajoutez au moins une mosquée pour continuer';
+
+  @override
+  String get set_up_your_prayer => 'Configurez votre prière';
+
+  @override
+  String get notifications => 'Notifications';
+
+  @override
+  String get mosques_around_you => 'Mosquées autour de vous';
+
+  @override
+  String get mosques_in_the_selected_area => 'Mosquées dans la zone sélectionnée';
+
+  @override
+  String get mosques_with => 'Mosquées avec';
+
+  @override
+  String get allow_mawaqit_to_access_my_location => 'Autoriser Mawaqit à accéder à ma position.';
+
+  @override
+  String get enable_location_service_from_app_settings => 'Activer le service de localisation à partir des paramètres de l\'application.';
+
+  @override
+  String get the_request_timeout => 'La demande a expiré';
+
+  @override
+  String get no_internet_connection => 'Pas de connexion Internet';
+
+  @override
+  String get try_again => 'Essayer à nouveau';
+
+  @override
+  String get virtual_mosque => 'Mosquée virtuelle';
+
+  @override
+  String get no_mosque_in_selected_area => 'Aucune mosquée n\'a été trouvée dans la zone sélectionnée';
+
+  @override
+  String get no_mosque_with => 'Je n\'ai trouvé aucune mosquée avec';
+
+  @override
+  String get retry => 'Recommencez';
+
+  @override
+  String get search_here => 'Cherche ici';
+
+  @override
+  String get enter_at_least_3_char => 'Entrez au moins 3 caractères pour rechercher';
+
+  @override
+  String get jumua1 => 'Jumu\'a 1';
+
+  @override
+  String get prayer_times => 'Horaires de prière';
+
+  @override
+  String get remove_this_city => 'Supprimer cette ville';
+
+  @override
+  String get add_this_city => 'Ajouter cette ville';
+
+  @override
+  String get add_this_mosque => 'Ajouter cette mosquée';
+
+  @override
+  String get remove_this_mosque => 'Supprimer cette mosquée';
+
+  @override
+  String get services => 'Prestations de service';
+
+  @override
+  String get share => 'Partager';
+
+  @override
+  String get itinerary => 'Itinéraire';
+
+  @override
+  String get call => 'Appel';
 
   @override
   String get dnd => 'Ne pas déranger';
@@ -232,13 +356,25 @@ class AppLocalizationsFr extends AppLocalizations {
   String get open_setting => 'Ouvrir les paramètres';
 
   @override
-  String get noJumua => 'Pas de jumua';
+  String get noJumua => 'Pas de jumu\'a';
 
   @override
-  String get jumua => 'Jumua';
+  String get jumua => 'Jumu\'a';
 
   @override
   String get qibla_sensor => 'Le capteur dans votre appareil que MAWAQIT utilise pour déterminer la Qibla ne fonctionne pas comme prévu, ce qui affecte notre capacité à afficher la direction de la Qibla.';
+
+  @override
+  String get connection_not_found => 'Le réglage de calibration de la boussole est désactivé. Veuillez vous assurer que votre connexion est activée et réessayez en changeant la direction.';
+
+  @override
+  String get currently_located_at => 'Actuellement situé à';
+
+  @override
+  String get facing_makkah => 'Vous faites face à la Mecque';
+
+  @override
+  String get not_facing_Makkah => 'Vous ne faites pas face à la Mecque';
 
   @override
   String get qibla_Error_retry => 'Réessayez';
@@ -280,7 +416,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get mosque_Error_CouldNotLaunch => 'Impossible de lancer';
 
   @override
-  String get mosque_PrayerTimes => 'Heures de prière';
+  String get mosque_PrayerTimes => 'Prières';
 
   @override
   String get mosque_Website => 'Site web';
@@ -340,7 +476,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get minutes => 'Minutes';
 
   @override
-  String get jumua2 => 'Jumua 2';
+  String get jumua2 => 'Jumu\'a 2';
 
   @override
   String get please_update => 'Une nouvelle version de MAWAQIT est disponible, veuillez mettre à jour';
@@ -466,7 +602,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get message_see_all => 'Vous pouvez voir tous les messages de cette mosquée en cliquant sur le haut-parleur en haut de l\'écran.';
 
   @override
-  String get adhan_Makkah => 'Adhan Makkah';
+  String get adhan_Makkah => 'Makkah';
 
   @override
   String get tutorial_title_iqama => 'Iqama';
@@ -493,6 +629,9 @@ class AppLocalizationsFr extends AppLocalizations {
   String get location_permission_denied_forever => 'Accès au service de localisation définitivement refusé, veuillez l\'activer dans les options de votre smartphone.';
 
   @override
+  String get at_least_one_mosque_error => 'Vous devriez avoir au moins une mosquée.';
+
+  @override
   String get and => 'et';
 
   @override
@@ -512,11 +651,6 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'Nous n\'avons trouvé aucun résultat pour';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'Nous n\'avons pas trouvé de mosquée à proximité. Nous avons calculé le temps de prière selon votre position, proche de $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Téléchargement audio de la sourate...';
@@ -950,11 +1084,179 @@ class AppLocalizationsFr extends AppLocalizations {
   String get adjust_angles => 'Ajuster les angles';
 
   @override
-  String get debug_text => 'debug_text';
+  String get silent => 'Silencieux';
 
   @override
-  String get anas => 'Anas';
+  String get default_ => 'Par défaut';
 
   @override
-  String get thanks => 'thanks';
+  String get muazzin => 'Muazzin';
+
+  @override
+  String get information => 'Information';
+
+  @override
+  String get news => 'Actualité';
+
+  @override
+  String get calendar => 'Calendrier';
+
+  @override
+  String get system => 'Systèm';
+
+  @override
+  String get change_mosque_order => 'Faites glisser et déposer les mosquées pour changer l\'ordre et définir la mosquée principale';
+
+  @override
+  String get remove => 'Retirer';
+
+  @override
+  String get save => 'Enregistrer';
+
+  @override
+  String get main_mosque => 'Mosquée principale';
+
+  @override
+  String get mosques => 'Mosquées';
+
+  @override
+  String get no_news => 'Pas de nouvelles de la mosquée';
+
+  @override
+  String get mawaqit_notification => 'Notification de Mawaqit';
+
+  @override
+  String get no_mawaqit_notification => 'Aucune notification de Mawaqit';
+
+  @override
+  String get meccan => 'Mecquoise';
+
+  @override
+  String get medinan => 'Médinoise';
+
+  @override
+  String get montada_islamic_foundation => 'Fondation Islamique Montada';
+
+  @override
+  String get rashid_maash => 'Rashid Maash';
+
+  @override
+  String get abdul_haleem => 'Abdul Haleem';
+
+  @override
+  String get dr_mustafa_khattab => 'Dr. Mustafa Khattab';
+
+  @override
+  String get frank_bubenheim_and_nadeem => 'Frank Bubenheim et Nadeem';
+
+  @override
+  String get abu_reda_muhammad_ibn_ahmad => 'Abu Reda Muhammad ibn Ahmad';
+
+  @override
+  String get unknown_author => 'Auteur inconnu';
+
+  @override
+  String get translation_settings => 'Paramètres de traduction';
+
+  @override
+  String get reading => 'Lecture';
+
+  @override
+  String get listening => 'Écoute';
+
+  @override
+  String get font_size => 'Taille de police';
+
+  @override
+  String get font_size_arabic => 'Taille de police arabe';
+
+  @override
+  String get horizontal => 'Horizontal';
+
+  @override
+  String get vertical => 'Vertical';
+
+  @override
+  String get add_page_bookmarks => 'Ajouter la page aux favoris';
+
+  @override
+  String get remove_page_bookmarks => 'Retirer la page des favoris';
+
+  @override
+  String get no_bookmarks => 'Pas de favoris';
+
+  @override
+  String get liked => 'Aimé';
+
+  @override
+  String get all_recitators => 'Tous les récitants';
+
+  @override
+  String get downloaded => 'Téléchargé';
+
+  @override
+  String get search_for_recitator => 'Rechercher un récitant';
+
+  @override
+  String get search_for_surah => 'Rechercher une sourate';
+
+  @override
+  String get search_for_fav_recitator => 'Rechercher un récitant favori';
+
+  @override
+  String get listen_to_quran => 'ÉCOUTER LE CORAN';
+
+  @override
+  String get search_hint_text => 'Recherchez une mosquée ou une ville';
+
+  @override
+  String get downloading => 'Téléchargement';
+
+  @override
+  String get cant_download_more_than_3 => 'Impossible de télécharger plus de 3 en même temps.';
+
+  @override
+  String get boost => 'Booster';
+
+  @override
+  String get recitation_deleted_successfully => 'Récitation supprimée avec succès';
+
+  @override
+  String get quran => 'Coran';
+
+  @override
+  String get qibla => 'Qibla';
+
+  @override
+  String get search => 'Recherche';
+
+  @override
+  String get more => 'Plus';
+
+  @override
+  String get download_cancelled => 'Téléchargement annulé';
+
+  @override
+  String get no_virtual_mosque_found => 'Désolé, nous n\'avons trouvé aucune mosquée autour de vous';
+
+  @override
+  String get no_surah_found => 'Aucune sourate trouvée';
+
+  @override
+  String get no_favorite_recitor_found => 'Aucun réciteur favori trouvé';
+
+  @override
+  String get no_recitator_found => 'Aucun réciteur trouvé';
+
+  @override
+  String get empty_quran_search => 'Les résultats de la recherche apparaîtront ici';
+
+  @override
+  String get no_bookmark_ayah => 'Aucun signet disponible. Veuillez appuyer longuement sur l\'ayah que vous souhaitez marquer.';
+
+  @override
+  String get page => 'Page';
+
+  @override
+  String get prayer_times_in => 'Heures de prière à';
 }

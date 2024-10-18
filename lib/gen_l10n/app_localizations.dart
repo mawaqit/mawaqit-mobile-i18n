@@ -204,14 +204,20 @@ abstract class AppLocalizations {
   /// No description provided for @settings_PrayerNotifications.
   ///
   /// In en, this message translates to:
-  /// **'Prayer notifications'**
+  /// **'Prayer Notifications'**
   String get settings_PrayerNotifications;
 
   /// No description provided for @settings_PrayerPreNotifications.
   ///
   /// In en, this message translates to:
-  /// **'Prayer pre-notifications'**
+  /// **'Pre-Prayer notification'**
   String get settings_PrayerPreNotifications;
+
+  /// No description provided for @settings_ShuruqPreNotifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Pre-Shuruq notification'**
+  String get settings_ShuruqPreNotifications;
 
   /// No description provided for @settings_Calculations.
   ///
@@ -230,6 +236,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'What\'s new'**
   String get settings_WhatsNew;
+
+  /// No description provided for @settings_SupportMawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Support Mawaqit'**
+  String get settings_SupportMawaqit;
+
+  /// No description provided for @settings_News.
+  ///
+  /// In en, this message translates to:
+  /// **'News'**
+  String get settings_News;
+
+  /// No description provided for @settings_MakeADonation.
+  ///
+  /// In en, this message translates to:
+  /// **'Make a donation'**
+  String get settings_MakeADonation;
 
   /// No description provided for @bismillah.
   ///
@@ -360,7 +384,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Shuruq'**
+  /// **'Sunrise'**
   String get shuruq;
 
   /// _
@@ -414,31 +438,43 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Adhan Makkah (Fajr)'**
+  /// **'Makkah (Fajr)'**
   String get adhan_Makkah_fajr;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Adhan Madinah'**
+  /// **'Madinah'**
   String get adhan_Madinah;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Adhan Qods'**
+  /// **'Qods'**
   String get adhan_Qods;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Adhan Al Afassy'**
+  /// **'Al Afassy'**
   String get adhan_AlAfassy;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Adhan Abdul Bassit'**
+  /// **'Al Afassy (Fajr)'**
+  String get adhan_AlAfassy_fajr;
+
+  /// No description provided for @adhan_Muhammad_jazy.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhammad Jazy'**
+  String get adhan_Muhammad_jazy;
+
+  /// _
+  ///
+  /// In en, this message translates to:
+  /// **'Abdul Bassit'**
   String get adhan_AbdAlBassat;
 
   /// _
@@ -507,12 +543,6 @@ abstract class AppLocalizations {
   /// **'Your location'**
   String get search_your_location;
 
-  /// No description provided for @search_location_enabled_no_result.
-  ///
-  /// In en, this message translates to:
-  /// **'We couldn\'t find a MAWAQIT partner mosque for your search. We have calculated the prayer times based on your location, close to: {locality}'**
-  String search_location_enabled_no_result(Object locality);
-
   /// No description provided for @search_location_disabled.
   ///
   /// In en, this message translates to:
@@ -524,6 +554,228 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Settings'**
   String get search_settings;
+
+  /// No description provided for @no_services_text.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosques didn\'t provided this info'**
+  String get no_services_text;
+
+  /// No description provided for @welcome.
+  ///
+  /// In en, this message translates to:
+  /// **'Welcome to'**
+  String get welcome;
+
+  /// No description provided for @mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT'**
+  String get mawaqit;
+
+  /// No description provided for @connecting.
+  ///
+  /// In en, this message translates to:
+  /// **'Connecting Muslims'**
+  String get connecting;
+
+  /// No description provided for @to_mosques.
+  ///
+  /// In en, this message translates to:
+  /// **'To Mosques'**
+  String get to_mosques;
+
+  /// No description provided for @get_started.
+  ///
+  /// In en, this message translates to:
+  /// **'Get started'**
+  String get get_started;
+
+  /// No description provided for @get_prayer_notifications_for.
+  ///
+  /// In en, this message translates to:
+  /// **'Get prayer notifications for'**
+  String get get_prayer_notifications_for;
+
+  /// No description provided for @turn_on_notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Turn on prayer notifications'**
+  String get turn_on_notifications;
+
+  /// No description provided for @no_thanks.
+  ///
+  /// In en, this message translates to:
+  /// **'No thank\'s'**
+  String get no_thanks;
+
+  /// No description provided for @notification_denied.
+  ///
+  /// In en, this message translates to:
+  /// **'You have denied notification permissions, so you won\'t receive any notifications.'**
+  String get notification_denied;
+
+  /// No description provided for @at_least_one_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Add at least one mosque to continue'**
+  String get at_least_one_mosque;
+
+  /// No description provided for @set_up_your_prayer.
+  ///
+  /// In en, this message translates to:
+  /// **'Set up your prayer'**
+  String get set_up_your_prayer;
+
+  /// No description provided for @notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Notifications'**
+  String get notifications;
+
+  /// No description provided for @mosques_around_you.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosques around you'**
+  String get mosques_around_you;
+
+  /// No description provided for @mosques_in_the_selected_area.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosques in the selected area'**
+  String get mosques_in_the_selected_area;
+
+  /// No description provided for @mosques_with.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosques with'**
+  String get mosques_with;
+
+  /// No description provided for @allow_mawaqit_to_access_my_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow Mawaqit to access my location.'**
+  String get allow_mawaqit_to_access_my_location;
+
+  /// No description provided for @enable_location_service_from_app_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Enable location service from app settings.'**
+  String get enable_location_service_from_app_settings;
+
+  /// No description provided for @the_request_timeout.
+  ///
+  /// In en, this message translates to:
+  /// **'The request timed out'**
+  String get the_request_timeout;
+
+  /// No description provided for @no_internet_connection.
+  ///
+  /// In en, this message translates to:
+  /// **'No Internet Connection'**
+  String get no_internet_connection;
+
+  /// No description provided for @try_again.
+  ///
+  /// In en, this message translates to:
+  /// **'Try again'**
+  String get try_again;
+
+  /// No description provided for @virtual_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Virtual Mosque'**
+  String get virtual_mosque;
+
+  /// No description provided for @no_mosque_in_selected_area.
+  ///
+  /// In en, this message translates to:
+  /// **'Couldn\'t find any mosques in the selected area'**
+  String get no_mosque_in_selected_area;
+
+  /// No description provided for @no_mosque_with.
+  ///
+  /// In en, this message translates to:
+  /// **'Couldn\'t find any mosques with'**
+  String get no_mosque_with;
+
+  /// No description provided for @retry.
+  ///
+  /// In en, this message translates to:
+  /// **'Retry'**
+  String get retry;
+
+  /// No description provided for @search_here.
+  ///
+  /// In en, this message translates to:
+  /// **'Search Here'**
+  String get search_here;
+
+  /// No description provided for @enter_at_least_3_char.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter at-least 3 characters to search'**
+  String get enter_at_least_3_char;
+
+  /// No description provided for @jumua1.
+  ///
+  /// In en, this message translates to:
+  /// **'Jum\'a 1'**
+  String get jumua1;
+
+  /// No description provided for @prayer_times.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer times'**
+  String get prayer_times;
+
+  /// No description provided for @remove_this_city.
+  ///
+  /// In en, this message translates to:
+  /// **'Remove this city'**
+  String get remove_this_city;
+
+  /// No description provided for @add_this_city.
+  ///
+  /// In en, this message translates to:
+  /// **'Add this city'**
+  String get add_this_city;
+
+  /// No description provided for @add_this_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Add this mosque'**
+  String get add_this_mosque;
+
+  /// No description provided for @remove_this_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Remove this mosque'**
+  String get remove_this_mosque;
+
+  /// No description provided for @services.
+  ///
+  /// In en, this message translates to:
+  /// **'Services'**
+  String get services;
+
+  /// No description provided for @share.
+  ///
+  /// In en, this message translates to:
+  /// **'Share'**
+  String get share;
+
+  /// No description provided for @itinerary.
+  ///
+  /// In en, this message translates to:
+  /// **'Itinerary'**
+  String get itinerary;
+
+  /// No description provided for @call.
+  ///
+  /// In en, this message translates to:
+  /// **'Call'**
+  String get call;
 
   /// No description provided for @dnd.
   ///
@@ -570,13 +822,13 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'No jumua'**
+  /// **'No jum\'a'**
   String get noJumua;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Jumua'**
+  /// **'Jum\'a'**
   String get jumua;
 
   /// No description provided for @qibla_sensor.
@@ -584,6 +836,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.'**
   String get qibla_sensor;
+
+  /// No description provided for @connection_not_found.
+  ///
+  /// In en, this message translates to:
+  /// **'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.'**
+  String get connection_not_found;
+
+  /// No description provided for @currently_located_at.
+  ///
+  /// In en, this message translates to:
+  /// **'Currently located at'**
+  String get currently_located_at;
+
+  /// No description provided for @facing_makkah.
+  ///
+  /// In en, this message translates to:
+  /// **'You\'re facing Makkah'**
+  String get facing_makkah;
+
+  /// No description provided for @not_facing_Makkah.
+  ///
+  /// In en, this message translates to:
+  /// **'You\'re not facing Makkah'**
+  String get not_facing_Makkah;
 
   /// _
   ///
@@ -708,31 +984,31 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Disabled access'**
+  /// **'Disabled Access'**
   String get mosque_Facilities_DisabledAccess;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Ablution room'**
+  /// **'Ablution Room'**
   String get mosque_Facilities_AblutionsRoom;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Woman space'**
+  /// **'Women Space'**
   String get mosque_Facilities_WomanSpace;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Adults courses'**
+  /// **'Adults Courses'**
   String get mosque_Facilities_AdultsCourse;
 
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Children courses'**
+  /// **'Children Courses'**
   String get mosque_Facilities_ChildrenCourses;
 
   /// _
@@ -744,7 +1020,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Salat Al janaza'**
+  /// **'Salat Al Janaza'**
   String get mosque_Facilities_SalatAlJanaza;
 
   /// _
@@ -786,7 +1062,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Jumua 2'**
+  /// **'Jum\'a 2'**
   String get jumua2;
 
   /// _
@@ -930,7 +1206,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Edit Favorite mosques'**
+  /// **'Edit Favorite Mosques'**
   String get favorites_edit;
 
   /// minutes to athan
@@ -1038,7 +1314,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Adhan Makkah'**
+  /// **'Makkah'**
   String get adhan_Makkah;
 
   /// _
@@ -1089,6 +1365,12 @@ abstract class AppLocalizations {
   /// **'Location Permission Denied Forever, please allow it in the settings page.'**
   String get location_permission_denied_forever;
 
+  /// No description provided for @at_least_one_mosque_error.
+  ///
+  /// In en, this message translates to:
+  /// **'You should have at least one mosque.'**
+  String get at_least_one_mosque_error;
+
   /// No description provided for @and.
   ///
   /// In en, this message translates to:
@@ -1130,12 +1412,6 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'We did not find any result for'**
   String get search_no_result_for_text;
-
-  /// No description provided for @calculate_prayer_time_from_area.
-  ///
-  /// In en, this message translates to:
-  /// **'We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: {locality}'**
-  String calculate_prayer_time_from_area(Object locality);
 
   /// No description provided for @surah_audio_downloading.
   ///
@@ -1224,7 +1500,7 @@ abstract class AppLocalizations {
   /// No description provided for @quran_juzz.
   ///
   /// In en, this message translates to:
-  /// **'Juzz {number}'**
+  /// **'Juzz'**
   String quran_juzz(Object number);
 
   /// No description provided for @ayah.
@@ -1266,7 +1542,7 @@ abstract class AppLocalizations {
   /// No description provided for @quran_page.
   ///
   /// In en, this message translates to:
-  /// **'Page {page}'**
+  /// **'Page'**
   String quran_page(Object page);
 
   /// No description provided for @quran_turning_page.
@@ -1620,7 +1896,7 @@ abstract class AppLocalizations {
   /// No description provided for @calculation_adjustment_prayers_minutes.
   ///
   /// In en, this message translates to:
-  /// **'{minute} minutes'**
+  /// **'minutes'**
   String calculation_adjustment_prayers_minutes(Object minute);
 
   /// No description provided for @calculation_adjustment_angles.
@@ -1632,7 +1908,7 @@ abstract class AppLocalizations {
   /// No description provided for @calculation_prayer_custom_angle.
   ///
   /// In en, this message translates to:
-  /// **'{prayer} custom angle'**
+  /// **'Custom angle for'**
   String calculation_prayer_custom_angle(Object prayer);
 
   /// No description provided for @error_download_quran_failed.
@@ -1983,23 +2259,359 @@ abstract class AppLocalizations {
   /// **'Adjust Angles'**
   String get adjust_angles;
 
-  /// No description provided for @debug_text.
+  /// No description provided for @silent.
   ///
   /// In en, this message translates to:
-  /// **'debug_text'**
-  String get debug_text;
+  /// **'Silent'**
+  String get silent;
 
-  /// anas
+  /// No description provided for @default_.
   ///
   /// In en, this message translates to:
-  /// **'Anas'**
-  String get anas;
+  /// **'Default'**
+  String get default_;
 
-  /// No description provided for @thanks.
+  /// No description provided for @muazzin.
   ///
   /// In en, this message translates to:
-  /// **'thanks'**
-  String get thanks;
+  /// **'Muazzin'**
+  String get muazzin;
+
+  /// No description provided for @information.
+  ///
+  /// In en, this message translates to:
+  /// **'Information'**
+  String get information;
+
+  /// No description provided for @news.
+  ///
+  /// In en, this message translates to:
+  /// **'News'**
+  String get news;
+
+  /// No description provided for @calendar.
+  ///
+  /// In en, this message translates to:
+  /// **'Calendar'**
+  String get calendar;
+
+  /// No description provided for @system.
+  ///
+  /// In en, this message translates to:
+  /// **'System'**
+  String get system;
+
+  /// No description provided for @change_mosque_order.
+  ///
+  /// In en, this message translates to:
+  /// **'Drag and drop mosques to change order and to set the main mosque'**
+  String get change_mosque_order;
+
+  /// No description provided for @remove.
+  ///
+  /// In en, this message translates to:
+  /// **'Remove'**
+  String get remove;
+
+  /// No description provided for @save.
+  ///
+  /// In en, this message translates to:
+  /// **'Save'**
+  String get save;
+
+  /// No description provided for @main_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Main mosque'**
+  String get main_mosque;
+
+  /// No description provided for @mosques.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosques'**
+  String get mosques;
+
+  /// No description provided for @no_news.
+  ///
+  /// In en, this message translates to:
+  /// **'No news from the mosque'**
+  String get no_news;
+
+  /// No description provided for @mawaqit_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'Mawaqit Notification'**
+  String get mawaqit_notification;
+
+  /// No description provided for @no_mawaqit_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'No notification from Mawaqit'**
+  String get no_mawaqit_notification;
+
+  /// No description provided for @meccan.
+  ///
+  /// In en, this message translates to:
+  /// **'Meccan'**
+  String get meccan;
+
+  /// No description provided for @medinan.
+  ///
+  /// In en, this message translates to:
+  /// **'Medinan'**
+  String get medinan;
+
+  /// No description provided for @montada_islamic_foundation.
+  ///
+  /// In en, this message translates to:
+  /// **'Montada Islamic Foundation'**
+  String get montada_islamic_foundation;
+
+  /// No description provided for @rashid_maash.
+  ///
+  /// In en, this message translates to:
+  /// **'Rashid Maash'**
+  String get rashid_maash;
+
+  /// No description provided for @abdul_haleem.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdul Haleem'**
+  String get abdul_haleem;
+
+  /// No description provided for @dr_mustafa_khattab.
+  ///
+  /// In en, this message translates to:
+  /// **'Dr. Mustafa Khattab'**
+  String get dr_mustafa_khattab;
+
+  /// No description provided for @frank_bubenheim_and_nadeem.
+  ///
+  /// In en, this message translates to:
+  /// **'Frank Bubenheim and Nadeem'**
+  String get frank_bubenheim_and_nadeem;
+
+  /// No description provided for @abu_reda_muhammad_ibn_ahmad.
+  ///
+  /// In en, this message translates to:
+  /// **'Abu Reda Muhammad ibn Ahmad'**
+  String get abu_reda_muhammad_ibn_ahmad;
+
+  /// No description provided for @unknown_author.
+  ///
+  /// In en, this message translates to:
+  /// **'Unknown Author'**
+  String get unknown_author;
+
+  /// No description provided for @translation_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Translation settings'**
+  String get translation_settings;
+
+  /// No description provided for @reading.
+  ///
+  /// In en, this message translates to:
+  /// **'Reading'**
+  String get reading;
+
+  /// No description provided for @listening.
+  ///
+  /// In en, this message translates to:
+  /// **'Listening'**
+  String get listening;
+
+  /// No description provided for @font_size.
+  ///
+  /// In en, this message translates to:
+  /// **'Font-size'**
+  String get font_size;
+
+  /// No description provided for @font_size_arabic.
+  ///
+  /// In en, this message translates to:
+  /// **'Font-size Arabic'**
+  String get font_size_arabic;
+
+  /// No description provided for @horizontal.
+  ///
+  /// In en, this message translates to:
+  /// **'Horizontal'**
+  String get horizontal;
+
+  /// No description provided for @vertical.
+  ///
+  /// In en, this message translates to:
+  /// **'Vertical'**
+  String get vertical;
+
+  /// No description provided for @add_page_bookmarks.
+  ///
+  /// In en, this message translates to:
+  /// **'Add page to bookmarks'**
+  String get add_page_bookmarks;
+
+  /// No description provided for @remove_page_bookmarks.
+  ///
+  /// In en, this message translates to:
+  /// **'Remove the page from bookmarks'**
+  String get remove_page_bookmarks;
+
+  /// No description provided for @no_bookmarks.
+  ///
+  /// In en, this message translates to:
+  /// **'No bookmarks'**
+  String get no_bookmarks;
+
+  /// No description provided for @liked.
+  ///
+  /// In en, this message translates to:
+  /// **'Liked'**
+  String get liked;
+
+  /// No description provided for @all_recitators.
+  ///
+  /// In en, this message translates to:
+  /// **'All recitators'**
+  String get all_recitators;
+
+  /// No description provided for @downloaded.
+  ///
+  /// In en, this message translates to:
+  /// **'Downloaded'**
+  String get downloaded;
+
+  /// No description provided for @search_for_recitator.
+  ///
+  /// In en, this message translates to:
+  /// **'Search for a recitator'**
+  String get search_for_recitator;
+
+  /// No description provided for @search_for_surah.
+  ///
+  /// In en, this message translates to:
+  /// **'Search for a surah'**
+  String get search_for_surah;
+
+  /// No description provided for @search_for_fav_recitator.
+  ///
+  /// In en, this message translates to:
+  /// **'Search for a favorite recitator'**
+  String get search_for_fav_recitator;
+
+  /// No description provided for @listen_to_quran.
+  ///
+  /// In en, this message translates to:
+  /// **'LISTEN TO QURAN'**
+  String get listen_to_quran;
+
+  /// No description provided for @search_hint_text.
+  ///
+  /// In en, this message translates to:
+  /// **'Search for a mosque, or a city'**
+  String get search_hint_text;
+
+  /// No description provided for @downloading.
+  ///
+  /// In en, this message translates to:
+  /// **'Downloading'**
+  String get downloading;
+
+  /// No description provided for @cant_download_more_than_3.
+  ///
+  /// In en, this message translates to:
+  /// **'Cannot download more than 3 at the same time.'**
+  String get cant_download_more_than_3;
+
+  /// No description provided for @boost.
+  ///
+  /// In en, this message translates to:
+  /// **'Boost'**
+  String get boost;
+
+  /// No description provided for @recitation_deleted_successfully.
+  ///
+  /// In en, this message translates to:
+  /// **'Recitation deleted successfully'**
+  String get recitation_deleted_successfully;
+
+  /// No description provided for @quran.
+  ///
+  /// In en, this message translates to:
+  /// **'Quran'**
+  String get quran;
+
+  /// No description provided for @qibla.
+  ///
+  /// In en, this message translates to:
+  /// **'Qibla'**
+  String get qibla;
+
+  /// No description provided for @search.
+  ///
+  /// In en, this message translates to:
+  /// **'Search'**
+  String get search;
+
+  /// No description provided for @more.
+  ///
+  /// In en, this message translates to:
+  /// **'More'**
+  String get more;
+
+  /// No description provided for @download_cancelled.
+  ///
+  /// In en, this message translates to:
+  /// **'Download cancelled'**
+  String get download_cancelled;
+
+  /// No description provided for @no_virtual_mosque_found.
+  ///
+  /// In en, this message translates to:
+  /// **'Sorry, we don\'t find any mosque around you'**
+  String get no_virtual_mosque_found;
+
+  /// No description provided for @no_surah_found.
+  ///
+  /// In en, this message translates to:
+  /// **'No surah found'**
+  String get no_surah_found;
+
+  /// No description provided for @no_favorite_recitor_found.
+  ///
+  /// In en, this message translates to:
+  /// **'No favorite recitator found'**
+  String get no_favorite_recitor_found;
+
+  /// No description provided for @no_recitator_found.
+  ///
+  /// In en, this message translates to:
+  /// **'No recitator found'**
+  String get no_recitator_found;
+
+  /// No description provided for @empty_quran_search.
+  ///
+  /// In en, this message translates to:
+  /// **'Search results will appear here'**
+  String get empty_quran_search;
+
+  /// No description provided for @no_bookmark_ayah.
+  ///
+  /// In en, this message translates to:
+  /// **'No bookmarks available. Please long-press on the ayah you wish to bookmark.'**
+  String get no_bookmark_ayah;
+
+  /// No description provided for @page.
+  ///
+  /// In en, this message translates to:
+  /// **'Page'**
+  String get page;
+
+  /// No description provided for @prayer_times_in.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer times in'**
+  String get prayer_times_in;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

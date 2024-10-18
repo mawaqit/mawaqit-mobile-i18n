@@ -50,7 +50,10 @@ class AppLocalizationsAr extends AppLocalizations {
   String get settings_PrayerNotifications => 'إشعارات الصلاة';
 
   @override
-  String get settings_PrayerPreNotifications => 'الإشعارات المسبقة للصلاة';
+  String get settings_PrayerPreNotifications => 'إشعار ما قبل الصلاة';
+
+  @override
+  String get settings_ShuruqPreNotifications => 'إشعار ما قبل الشروق';
 
   @override
   String get settings_Calculations => 'طريقة الحساب';
@@ -60,6 +63,15 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get settings_WhatsNew => 'ما هو الجديد ؟';
+
+  @override
+  String get settings_SupportMawaqit => 'دعم مواقيت';
+
+  @override
+  String get settings_News => 'أخبار';
+
+  @override
+  String get settings_MakeADonation => 'قُم بالتبرع';
 
   @override
   String get bismillah => 'بسم الله';
@@ -152,19 +164,25 @@ class AppLocalizationsAr extends AppLocalizations {
   String get adhan => 'أذان';
 
   @override
-  String get adhan_Makkah_fajr => 'أذان مكة (فجر)';
+  String get adhan_Makkah_fajr => 'مكة (فجر)';
 
   @override
-  String get adhan_Madinah => 'أذان المدينة المنورة';
+  String get adhan_Madinah => 'المدينة المنورة';
 
   @override
-  String get adhan_Qods => 'أذان القدس';
+  String get adhan_Qods => 'القدس';
 
   @override
-  String get adhan_AlAfassy => 'أذان مشاري العفاسي';
+  String get adhan_AlAfassy => 'مشاري العفاسي';
 
   @override
-  String get adhan_AbdAlBassat => 'أذان عبد الباسط';
+  String get adhan_AlAfassy_fajr => 'مشاري العفاسي (فجر)';
+
+  @override
+  String get adhan_Muhammad_jazy => 'محمد جازي';
+
+  @override
+  String get adhan_AbdAlBassat => 'عبد الباسط';
 
   @override
   String get adhan_type => 'اختر نوع الأذان.\nيتم تطبيق هذا الاختيار في كل صلاة لها إشعار الأذان.';
@@ -200,15 +218,121 @@ class AppLocalizationsAr extends AppLocalizations {
   String get search_your_location => 'موقعك';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'لم نعثر على مسجد. لقد  قمنا بحساب وقت الصلاة وفقًا لموقعك الجغرافي قريبا من: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'الرجاء البحث عن مسجد بالاسم أو المدينة ، أو قم بتمكين الموقع يدويًا في الإعدادات الخاصة.';
 
   @override
   String get search_settings => 'الإعدادات';
+
+  @override
+  String get no_services_text => 'لم تقدم المساجد هذه المعلومات';
+
+  @override
+  String get welcome => 'مرحبًا بك في';
+
+  @override
+  String get mawaqit => 'مواقيت';
+
+  @override
+  String get connecting => 'ربط المسلمين';
+
+  @override
+  String get to_mosques => 'بالمساجد';
+
+  @override
+  String get get_started => 'ابدأ الآن';
+
+  @override
+  String get get_prayer_notifications_for => 'احصل على إشعارات الصلاة لـ';
+
+  @override
+  String get turn_on_notifications => 'تشغيل إشعارات الصلاة';
+
+  @override
+  String get no_thanks => 'لا شكرًا';
+
+  @override
+  String get notification_denied => 'لقد رفضت أذونات الإشعارات، لذا لن تتلقى أي إشعارات.';
+
+  @override
+  String get at_least_one_mosque => 'أضف على الأقل مسجدًا واحدًا للمتابعة';
+
+  @override
+  String get set_up_your_prayer => 'أقِم صلاتك';
+
+  @override
+  String get notifications => 'الإشعارات';
+
+  @override
+  String get mosques_around_you => 'المساجد من حولك';
+
+  @override
+  String get mosques_in_the_selected_area => 'المساجد في المنطقة المختارة';
+
+  @override
+  String get mosques_with => 'المساجد مع ';
+
+  @override
+  String get allow_mawaqit_to_access_my_location => 'السماح لـ مواقيت بالوصول إلى موقعي.';
+
+  @override
+  String get enable_location_service_from_app_settings => 'تمكين خدمة الموقع من إعدادات التطبيق.';
+
+  @override
+  String get the_request_timeout => 'انتهت مهلة الطلب';
+
+  @override
+  String get no_internet_connection => 'لا يوجد اتصال بالإنترنت';
+
+  @override
+  String get try_again => 'حاول ثانية';
+
+  @override
+  String get virtual_mosque => 'المسجد الافتراضي';
+
+  @override
+  String get no_mosque_in_selected_area => 'لم يتم العثور على أي مساجد في المنطقة المحددة';
+
+  @override
+  String get no_mosque_with => 'لم يتم العثور على أي مساجد بها';
+
+  @override
+  String get retry => 'أعد المحاولة';
+
+  @override
+  String get search_here => 'ابحث هنا';
+
+  @override
+  String get enter_at_least_3_char => 'أدخل 3 أحرف على الأقل للبحث';
+
+  @override
+  String get jumua1 => 'الجمعة 1';
+
+  @override
+  String get prayer_times => 'أوقات الصلاة';
+
+  @override
+  String get remove_this_city => 'إزالة هذه المدينة';
+
+  @override
+  String get add_this_city => 'أضف هذه المدينة';
+
+  @override
+  String get add_this_mosque => 'أضف هذا المسجد';
+
+  @override
+  String get remove_this_mosque => 'إزالة هذا المسجد';
+
+  @override
+  String get services => 'خدمات';
+
+  @override
+  String get share => 'أشارك';
+
+  @override
+  String get itinerary => 'أذهب';
+
+  @override
+  String get call => 'أتصل';
 
   @override
   String get dnd => 'لا تخل';
@@ -239,6 +363,18 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get qibla_sensor => 'المستشعر في جهازك الذي تستخدمه مواقيت لتحديد القبلة لا يعمل كما هو متوقع ، مما يؤثر على قدرتنا على عرض اتجاه القبلة.';
+
+  @override
+  String get connection_not_found => 'إعداد معايرة البوصلة معطل. يرجى التأكد من تشغيل الاتصال الخاص بك وحاول مرة أخرى بتغيير الاتجاه.';
+
+  @override
+  String get currently_located_at => 'حاليًا يقع في';
+
+  @override
+  String get facing_makkah => 'أنت تواجه مكة';
+
+  @override
+  String get not_facing_Makkah => 'أنت لا تواجه مكة';
 
   @override
   String get qibla_Error_retry => 'أعد المحاولة';
@@ -292,7 +428,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get mosque_Phone => 'الهاتف';
 
   @override
-  String get mosque_Email => 'البريد إلكتروني';
+  String get mosque_Email => 'أكتب';
 
   @override
   String get mosque_ByMawaqit => 'صنع مواقيت https://mawaqit.net';
@@ -493,10 +629,13 @@ class AppLocalizationsAr extends AppLocalizations {
   String get location_permission_denied_forever => 'رفض إذن الموقع للأبد، الرجاء السماح به في صفحة الإعدادات';
 
   @override
+  String get at_least_one_mosque_error => 'يجب أن يكون لديك مسجد واحد على الأقل.';
+
+  @override
   String get and => 'و';
 
   @override
-  String get continue_to_app => 'يكمل';
+  String get continue_to_app => 'واصل';
 
   @override
   String get add => 'اضافة';
@@ -512,11 +651,6 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'لم نجد أي نتائج عن';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'لم نعثر على مسجد. لقد حسبنا أوقات الصلاة من بلدتك: $locality';
-  }
 
   @override
   String get surah_audio_downloading => '...تحميل صوت السورة';
@@ -578,7 +712,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get continue_reading => 'إستمرار القراءه';
 
   @override
-  String get bookmarks => 'الإشارات المرجعية';
+  String get bookmarks => 'المرجعيات';
 
   @override
   String get juzz => 'أجزاء';
@@ -736,7 +870,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get calculation_methods_russia => 'الإدارة الروحية للمسلمين في روسيا';
 
   @override
-  String get calculation_methods_custom => 'Custom angles';
+  String get calculation_methods_custom => 'زوايا مخصصة';
 
   @override
   String get calculation_high_latitude => 'خطوط العرض العاليه';
@@ -772,7 +906,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String calculation_prayer_custom_angle(Object prayer) {
-    return '$prayer custom angle';
+    return '$prayer زاوية مخصصة';
   }
 
   @override
@@ -950,11 +1084,179 @@ class AppLocalizationsAr extends AppLocalizations {
   String get adjust_angles => 'ضبط الزوايا';
 
   @override
-  String get debug_text => 'الترجمه';
+  String get silent => 'صامت';
 
   @override
-  String get anas => 'Anas';
+  String get default_ => 'افتراضي';
 
   @override
-  String get thanks => 'شكرا';
+  String get muazzin => 'مؤذن';
+
+  @override
+  String get information => 'المعلومات';
+
+  @override
+  String get news => 'الأخبار';
+
+  @override
+  String get calendar => 'التقويم';
+
+  @override
+  String get system => 'نظام';
+
+  @override
+  String get change_mosque_order => 'اسحب وافلت المساجد لتغيير الترتيب ولتعيين المسجد الرئيسي';
+
+  @override
+  String get remove => 'إزالة';
+
+  @override
+  String get save => 'حفظ';
+
+  @override
+  String get main_mosque => 'المسجد الرئيسي';
+
+  @override
+  String get mosques => 'المساجد';
+
+  @override
+  String get no_news => 'لا يوجد اخبار من المسجد';
+
+  @override
+  String get mawaqit_notification => 'إشعارات مواقيت';
+
+  @override
+  String get no_mawaqit_notification => 'لا يوجد إشعارات من مواقيت';
+
+  @override
+  String get meccan => 'مكية';
+
+  @override
+  String get medinan => 'مدنية';
+
+  @override
+  String get montada_islamic_foundation => 'مؤسسة المنتدى الإسلامي';
+
+  @override
+  String get rashid_maash => 'رشيد معاش';
+
+  @override
+  String get abdul_haleem => 'عبد الحليم';
+
+  @override
+  String get dr_mustafa_khattab => 'الدكتور مصطفى خطاب';
+
+  @override
+  String get frank_bubenheim_and_nadeem => 'فرانك بوبيهايم ونديم';
+
+  @override
+  String get abu_reda_muhammad_ibn_ahmad => 'أبو رضا محمد بن أحمد';
+
+  @override
+  String get unknown_author => 'مؤلف غير معروف';
+
+  @override
+  String get translation_settings => 'إعدادات الترجمة';
+
+  @override
+  String get reading => 'القراءة';
+
+  @override
+  String get listening => 'الاستماع';
+
+  @override
+  String get font_size => 'حجم الخط';
+
+  @override
+  String get font_size_arabic => 'حجم الخط العربي';
+
+  @override
+  String get horizontal => 'أفقي';
+
+  @override
+  String get vertical => 'عمودي';
+
+  @override
+  String get add_page_bookmarks => 'أضف الصفحة إلى المرجعيات';
+
+  @override
+  String get remove_page_bookmarks => 'إزالة الصفحة من المرجعيات';
+
+  @override
+  String get no_bookmarks => 'لا توجد علامات مرجعية';
+
+  @override
+  String get liked => 'مُعجب';
+
+  @override
+  String get all_recitators => 'جميع المقرئين';
+
+  @override
+  String get downloaded => 'تم التنزيل';
+
+  @override
+  String get search_for_recitator => 'ابحث عن مقرئ';
+
+  @override
+  String get search_for_surah => 'ابحث عن سورة';
+
+  @override
+  String get search_for_fav_recitator => 'ابحث عن المقرئ المفضل';
+
+  @override
+  String get listen_to_quran => 'استمع إلى القرآن';
+
+  @override
+  String get search_hint_text => 'ابحث عن مسجد أو مدينة';
+
+  @override
+  String get downloading => 'جارٍ التنزيل';
+
+  @override
+  String get cant_download_more_than_3 => 'لا يمكن تنزيل أكثر من 3 في نفس الوقت.';
+
+  @override
+  String get boost => 'تعزيز';
+
+  @override
+  String get recitation_deleted_successfully => 'تم حذف التلاوة بنجاح';
+
+  @override
+  String get quran => 'القرآن';
+
+  @override
+  String get qibla => 'القبلة';
+
+  @override
+  String get search => 'بحث';
+
+  @override
+  String get more => 'المزيد';
+
+  @override
+  String get download_cancelled => 'تم إلغاء التنزيل';
+
+  @override
+  String get no_virtual_mosque_found => 'عذرًا، لم نجد أي مسجد حولك';
+
+  @override
+  String get no_surah_found => 'لم يتم العثور على أي سورة';
+
+  @override
+  String get no_favorite_recitor_found => 'لم يتم العثور على قارئ مفضل';
+
+  @override
+  String get no_recitator_found => 'لم يتم العثور على قارئ';
+
+  @override
+  String get empty_quran_search => 'ستظهر نتائج البحث هنا';
+
+  @override
+  String get no_bookmark_ayah => 'لا توجد إشارات مرجعية متاحة. يرجى الضغط لفترة طويلة على الآية التي ترغب في وضع إشارة مرجعية عليها.';
+
+  @override
+  String get page => 'صفحة';
+
+  @override
+  String get prayer_times_in => 'أوقات الصلاة في';
 }

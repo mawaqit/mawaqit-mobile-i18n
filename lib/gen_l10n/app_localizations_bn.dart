@@ -50,7 +50,10 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings_PrayerNotifications => 'প্রার্থনা বিজ্ঞপ্তি';
 
   @override
-  String get settings_PrayerPreNotifications => 'প্রার্থনা প্রাক বিজ্ঞপ্তি';
+  String get settings_PrayerPreNotifications => 'প্রাক-নামাজ বিজ্ঞপ্তি';
+
+  @override
+  String get settings_ShuruqPreNotifications => 'প্রাক-শুরুক বিজ্ঞপ্তি';
 
   @override
   String get settings_Calculations => 'Calculations';
@@ -60,6 +63,15 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get settings_WhatsNew => 'What\'s new';
+
+  @override
+  String get settings_SupportMawaqit => 'মাওয়াকিতকে সমর্থন করুন';
+
+  @override
+  String get settings_News => 'খবর';
+
+  @override
+  String get settings_MakeADonation => 'অনুদান করুন';
 
   @override
   String get bismillah => 'বিসমিল্লাহ';
@@ -125,7 +137,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get fajr => 'ফজর';
 
   @override
-  String get shuruq => 'শুরুক';
+  String get shuruq => 'সূর্যোদয়';
 
   @override
   String get duhr => 'দুহর';
@@ -152,19 +164,25 @@ class AppLocalizationsBn extends AppLocalizations {
   String get adhan => 'আযান';
 
   @override
-  String get adhan_Makkah_fajr => 'আজান মক্কা (ফজর)';
+  String get adhan_Makkah_fajr => 'মক্কা (ফজর)';
 
   @override
-  String get adhan_Madinah => 'আযান মদীনা';
+  String get adhan_Madinah => 'মদীনা';
 
   @override
-  String get adhan_Qods => 'আযান কওদস';
+  String get adhan_Qods => 'কওদস';
 
   @override
-  String get adhan_AlAfassy => 'আজান আল আফাসি';
+  String get adhan_AlAfassy => 'আল আফাসি';
 
   @override
-  String get adhan_AbdAlBassat => 'আজান আব্দুল বাসিত';
+  String get adhan_AlAfassy_fajr => 'আল আফাসি (ফজর)';
+
+  @override
+  String get adhan_Muhammad_jazy => 'মুহাম্মাদ জাযী';
+
+  @override
+  String get adhan_AbdAlBassat => 'আব্দুল বাসিত';
 
   @override
   String get adhan_type => 'এক প্রকার আযান বেছে নিন। আযান বিজ্ঞপ্তি আছে এমন প্রতিটি নামাজে এই পছন্দটি প্রয়োগ করা হবে।';
@@ -200,15 +218,121 @@ class AppLocalizationsBn extends AppLocalizations {
   String get search_your_location => 'Your location';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'আপনার অনুসন্ধানের জন্য আমরা কোনও MAWAQIT পার্টনার মসজিদ পেতে পারিনি। আমরা আপনার অবস্থানের ভিতর প্রার্থনা সময় গণনা করেছি, যা নিকটস্থ: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
 
   @override
   String get search_settings => 'Settings';
+
+  @override
+  String get no_services_text => 'মসজিদগুলি এই তথ্য সরবরাহ করেনি';
+
+  @override
+  String get welcome => 'স্বাগতম';
+
+  @override
+  String get mawaqit => 'মাওয়াকিট';
+
+  @override
+  String get connecting => 'মুসলিমদের সংযোগ স্থাপন';
+
+  @override
+  String get to_mosques => 'মসজিদের সাথে';
+
+  @override
+  String get get_started => 'শুরু করুন';
+
+  @override
+  String get get_prayer_notifications_for => 'নামাজের জন্য নোটিফিকেশন পান';
+
+  @override
+  String get turn_on_notifications => 'প্রার্থনা বিজ্ঞপ্তি চালু করুন';
+
+  @override
+  String get no_thanks => 'না ধন্যবাদ';
+
+  @override
+  String get notification_denied => 'আপনি বিজ্ঞপ্তির অনুমতি অস্বীকার করেছেন, তাই আপনি কোনো বিজ্ঞপ্তি পাবেন না।';
+
+  @override
+  String get at_least_one_mosque => 'চালিয়ে যেতে অন্তত একটি মসজিদ যোগ করুন';
+
+  @override
+  String get set_up_your_prayer => 'আপনার নামাজ স্থাপন করুন';
+
+  @override
+  String get notifications => 'বিজ্ঞপ্তিগুলি';
+
+  @override
+  String get mosques_around_you => 'আপনার চারপাশে মসজিদ';
+
+  @override
+  String get mosques_in_the_selected_area => 'নির্বাচিত এলাকায় মসজিদ';
+
+  @override
+  String get mosques_with => 'সঙ্গে মসজিদ';
+
+  @override
+  String get allow_mawaqit_to_access_my_location => 'মাওয়াকিতকে আমার অবস্থান অ্যাক্সেস করার অনুমতি দিন.';
+
+  @override
+  String get enable_location_service_from_app_settings => 'অ্যাপ সেটিংস থেকে অবস্থান পরিষেবা সক্ষম করুন.';
+
+  @override
+  String get the_request_timeout => 'অনুরোধ সময় শেষ হয়েছে';
+
+  @override
+  String get no_internet_connection => 'ইন্টারনেট সংযোগ নেই';
+
+  @override
+  String get try_again => 'আবার চেষ্টা কর';
+
+  @override
+  String get virtual_mosque => 'ভার্চুয়াল মসজিদ';
+
+  @override
+  String get no_mosque_in_selected_area => 'নির্বাচিত এলাকায় কোন মসজিদ খুঁজে পাওয়া যায়নি';
+
+  @override
+  String get no_mosque_with => 'সাথে কোন মসজিদ খুঁজে পাইনি';
+
+  @override
+  String get retry => 'পুনরায় চেষ্টা করা';
+
+  @override
+  String get search_here => 'এখানে অনুসন্ধান করুন';
+
+  @override
+  String get enter_at_least_3_char => 'অনুসন্ধান করতে কমপক্ষে 3টি অক্ষর লিখুন৷';
+
+  @override
+  String get jumua1 => 'জুমা ১';
+
+  @override
+  String get prayer_times => 'নামাজের সময়';
+
+  @override
+  String get remove_this_city => 'এই শহরকে সরিয়ে দাও';
+
+  @override
+  String get add_this_city => 'এই শহর যোগ করুন';
+
+  @override
+  String get add_this_mosque => 'এই মসজিদকে অ্যাড';
+
+  @override
+  String get remove_this_mosque => 'এই মসজিদ সরিয়ে দাও';
+
+  @override
+  String get services => 'সেবা';
+
+  @override
+  String get share => 'শেয়ার করুন';
+
+  @override
+  String get itinerary => 'ভ্রমণসূচী';
+
+  @override
+  String get call => 'কল';
 
   @override
   String get dnd => 'বিরক্ত করবেন না';
@@ -232,13 +356,25 @@ class AppLocalizationsBn extends AppLocalizations {
   String get open_setting => 'ওপেন সেটিংস';
 
   @override
-  String get noJumua => 'জুমুয়া নেই';
+  String get noJumua => 'কোনো জুমা নেই';
 
   @override
-  String get jumua => 'জুমুয়া';
+  String get jumua => 'জুমা';
 
   @override
   String get qibla_sensor => 'আপনার ডিভাইসের সেন্সরটি যা MAWAQIT কিবলা নির্ধারণের জন্য ব্যবহার করে তা প্রত্যাশিত হিসেবে কাজ করছে না, যা আমাদের কিবলা দিক প্রদর্শন ক্ষমতার উপর প্রভাব ফেলছে।';
+
+  @override
+  String get connection_not_found => 'কম্পাস ক্যালিব্রেশন সেটিংস নিষ্ক্রিয় করা হয়েছে। আপনার সংযোগ চালু আছে কিনা তা নিশ্চিত করুন এবং দিক পরিবর্তন করে আবার চেষ্টা করুন।';
+
+  @override
+  String get currently_located_at => 'Currently located at';
+
+  @override
+  String get facing_makkah => 'আপনি মক্কার দিকে মুখ করে আছেন';
+
+  @override
+  String get not_facing_Makkah => 'আপনি মক্কার দিকে মুখ করে নেই';
 
   @override
   String get qibla_Error_retry => 'পুনরায় চেষ্টা করা';
@@ -340,7 +476,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get minutes => 'মিনিট';
 
   @override
-  String get jumua2 => 'জুমুয়া ২';
+  String get jumua2 => 'জুমা ২';
 
   @override
   String get please_update => 'MAWAQIT-এর একটি নতুন সংস্করণ উপলব্ধ, অনুগ্রহ করে আপডেট করুন';
@@ -466,7 +602,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get message_see_all => 'আপনি স্ক্রিনের উপরের স্পীকারে ক্লিক করে এই মসজিদ থেকে সমস্ত বার্তা দেখতে পারেন।';
 
   @override
-  String get adhan_Makkah => 'আযান মক্কা';
+  String get adhan_Makkah => 'মক্কা';
 
   @override
   String get tutorial_title_iqama => 'ইকামা';
@@ -493,6 +629,9 @@ class AppLocalizationsBn extends AppLocalizations {
   String get location_permission_denied_forever => 'অবস্থানের অনুমতি চিরতরে অস্বীকৃত, দয়া করে সেটিংস পৃষ্ঠায় অনুমতি দিন৷';
 
   @override
+  String get at_least_one_mosque_error => 'আপনার অন্তত একটি মসজিদ থাকা উচিত।';
+
+  @override
   String get and => 'এবং';
 
   @override
@@ -512,11 +651,6 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'We did not find any result for';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Surah Audio Downloading...';
@@ -950,11 +1084,179 @@ class AppLocalizationsBn extends AppLocalizations {
   String get adjust_angles => 'কোণ সংশোধন করুন';
 
   @override
-  String get debug_text => 'debug_text';
+  String get silent => 'নীরব';
 
   @override
-  String get anas => 'Anas';
+  String get default_ => 'ডিফল্ট';
 
   @override
-  String get thanks => 'thanks';
+  String get muazzin => 'মুয়াজ্জিন';
+
+  @override
+  String get information => 'তথ্য';
+
+  @override
+  String get news => 'সংবাদ';
+
+  @override
+  String get calendar => 'ক্যালেন্ডার';
+
+  @override
+  String get system => 'সিস্টেম';
+
+  @override
+  String get change_mosque_order => 'অর্ডার পরিবর্তন এবং প্রধান মসজিদ সেট করতে মসজিদগুলি টেনে আনুন এবং ছেড়ে দিন';
+
+  @override
+  String get remove => 'সংরক্ষণ';
+
+  @override
+  String get save => 'Save';
+
+  @override
+  String get main_mosque => 'প্রধান মসজিদ';
+
+  @override
+  String get mosques => 'মসজিদগুলি';
+
+  @override
+  String get no_news => 'মসজিদ থেকে কোন খবর নেই';
+
+  @override
+  String get mawaqit_notification => 'মাওয়াকিত বিজ্ঞপ্তি';
+
+  @override
+  String get no_mawaqit_notification => 'মাওয়াকিত থেকে কোন বিজ্ঞপ্তি নেই';
+
+  @override
+  String get meccan => 'মক্কান';
+
+  @override
+  String get medinan => 'মদিনান';
+
+  @override
+  String get montada_islamic_foundation => 'মোনতাদা ইসলামিক ফাউন্ডেশন';
+
+  @override
+  String get rashid_maash => 'রশিদ মাআশ';
+
+  @override
+  String get abdul_haleem => 'আবদুল হালিম';
+
+  @override
+  String get dr_mustafa_khattab => 'ডাঃ মুস্তফা খত্তাব';
+
+  @override
+  String get frank_bubenheim_and_nadeem => 'ফ্রাঙ্ক বুবেনহেইম এবং নাদিম';
+
+  @override
+  String get abu_reda_muhammad_ibn_ahmad => 'আবু রেদা মুহাম্মদ ইবনে আহমদ';
+
+  @override
+  String get unknown_author => 'অজানা লেখক';
+
+  @override
+  String get translation_settings => 'অনুবাদ সেটিংস';
+
+  @override
+  String get reading => 'পড়া';
+
+  @override
+  String get listening => 'শুনা';
+
+  @override
+  String get font_size => 'ফন্ট সাইজ';
+
+  @override
+  String get font_size_arabic => 'আরবি ফন্ট সাইজ';
+
+  @override
+  String get horizontal => 'আনুভূমিক';
+
+  @override
+  String get vertical => 'উল্লম্ব';
+
+  @override
+  String get add_page_bookmarks => 'বুকমার্কে পাতা যোগ করুন';
+
+  @override
+  String get remove_page_bookmarks => 'বুকমার্ক থেকে পাতা সরান';
+
+  @override
+  String get no_bookmarks => 'কোন বুকমার্ক নেই';
+
+  @override
+  String get liked => 'পছন্দ হয়েছে';
+
+  @override
+  String get all_recitators => 'সমস্ত ক্বারী';
+
+  @override
+  String get downloaded => 'ডাউনলোড করা হয়েছে';
+
+  @override
+  String get search_for_recitator => 'ক্বারী সন্ধান করুন';
+
+  @override
+  String get search_for_surah => 'সূরা সন্ধান করুন';
+
+  @override
+  String get search_for_fav_recitator => 'পছন্দের ক্বারী সন্ধান করুন';
+
+  @override
+  String get listen_to_quran => 'কুরআন শুনুন';
+
+  @override
+  String get search_hint_text => 'একটি মসজিদ বা শহর খুঁজুন';
+
+  @override
+  String get downloading => 'ডাউনলোড হচ্ছে';
+
+  @override
+  String get cant_download_more_than_3 => 'একই সময়ে 3টির বেশি ডাউনলোড করা যাবে না।';
+
+  @override
+  String get boost => 'বুস্ট';
+
+  @override
+  String get recitation_deleted_successfully => 'তেলাওয়াত সফলভাবে মুছে ফেলা হয়েছে';
+
+  @override
+  String get quran => 'কুরআন';
+
+  @override
+  String get qibla => 'কিবলা';
+
+  @override
+  String get search => 'অনুসন্ধান';
+
+  @override
+  String get more => 'আরও';
+
+  @override
+  String get download_cancelled => 'ডাউনলোড বাতিল করা হয়েছে';
+
+  @override
+  String get no_virtual_mosque_found => 'দুঃখিত, আমরা আপনার আশেপাশে কোন মসজিদ খুঁজে পাইনি';
+
+  @override
+  String get no_surah_found => 'কোন সূরা পাওয়া যায়নি';
+
+  @override
+  String get no_favorite_recitor_found => 'কোন প্রিয় তেলাওয়াতকারী পাওয়া যায়নি';
+
+  @override
+  String get no_recitator_found => 'কোন তেলাওয়াতকারী পাওয়া যায়নি';
+
+  @override
+  String get empty_quran_search => 'অনুসন্ধানের ফলাফল এখানে প্রদর্শিত হবে';
+
+  @override
+  String get no_bookmark_ayah => 'কোনো বুকমার্ক উপলব্ধ নেই। দয়া করে আপনি যে আয়াতটি বুকমার্ক করতে চান সেটিতে দীর্ঘক্ষণ চাপ দিয়ে রাখুন।';
+
+  @override
+  String get page => 'পৃষ্ঠা';
+
+  @override
+  String get prayer_times_in => 'নামাজের সময়';
 }
