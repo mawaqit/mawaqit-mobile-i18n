@@ -51,10 +51,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin
-          git rebase origin/${{ github.head_ref }}
           git add .
           git commit -m "Automated ARB file updates, l10n generation, Flutter version, and intl version adjustment" || echo "No changes to commit"
+          git fetch origin
+          git rebase origin/${{ github.head_ref }} || git rebase --abort
           git push origin HEAD:${{ github.head_ref }}
         continue-on-error: true
 
