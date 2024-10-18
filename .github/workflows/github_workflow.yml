@@ -16,7 +16,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.16.8' 
+          flutter-version: '3.16.8'
 
       - name: Replace "ur-PK" with "ur" in app_ur.arb
         run: |
@@ -36,6 +36,11 @@ jobs:
 
       - name: Run flutter pub run crowdin_sdk:gen
         run: flutter pub run crowdin_sdk:gen
+
+      - name: Change Flutter version to 3.22.2
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.22.2'
 
       - name: Revert intl version back to 0.19.0
         run: |
