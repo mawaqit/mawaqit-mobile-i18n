@@ -218,11 +218,6 @@ class AppLocalizationsDe extends AppLocalizations {
   String get search_your_location => 'Ihr Standort';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'Wir konnten keine MAWAQIT-Partnermoschee für Ihre Suche finden. Wir haben die Gebetszeiten basierend auf Ihrem Standort berechnet, in der Nähe von: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Bitte suchen Sie eine Moschee nach Name oder Stadt, oder erlauben Sie die Lokalisierung manuell in Ihren Einstellungen.';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'Wir haben keine Ergebnisse für gefunden';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'Wir haben keine Moschee in der Nähe gefunden. Wir haben die Gebetszeiten basierend auf Ihrem Standort berechnet, in der Nähe von: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Sura-Audio wird heruntergeladen...';

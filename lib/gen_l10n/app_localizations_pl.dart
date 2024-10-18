@@ -218,11 +218,6 @@ class AppLocalizationsPl extends AppLocalizations {
   String get search_your_location => 'Twoja pozycja';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'Nie udało nam się znaleźć meczetu partnerskiego MAWAQIT dla Twojego wyszukiwania. Obliczyliśmy czasy modlitw na podstawie Twojej lokalizacji, w pobliżu: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Wyszukaj meczet według nazwy lub miasta albo włącz lokalizację ręcznie w ustawieniach.';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'Nie znaleźliśmy żadnych wyników dla';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'Nie znaleźliśmy żadnych meczetów w pobliżu. Obliczyliśmy czasy modlitw na podstawie Twojej lokalizacji, w pobliżu: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Pobieranie audio sury...';

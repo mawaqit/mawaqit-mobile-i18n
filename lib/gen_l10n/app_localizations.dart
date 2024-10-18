@@ -543,12 +543,6 @@ abstract class AppLocalizations {
   /// **'Your location'**
   String get search_your_location;
 
-  /// No description provided for @search_location_enabled_no_result.
-  ///
-  /// In en, this message translates to:
-  /// **'We couldn\'t find a MAWAQIT partner mosque for your search. We have calculated the prayer times based on your location, close to: {locality}'**
-  String search_location_enabled_no_result(Object locality);
-
   /// No description provided for @search_location_disabled.
   ///
   /// In en, this message translates to:
@@ -1419,12 +1413,6 @@ abstract class AppLocalizations {
   /// **'We did not find any result for'**
   String get search_no_result_for_text;
 
-  /// No description provided for @calculate_prayer_time_from_area.
-  ///
-  /// In en, this message translates to:
-  /// **'We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: {locality}'**
-  String calculate_prayer_time_from_area(Object locality);
-
   /// No description provided for @surah_audio_downloading.
   ///
   /// In en, this message translates to:
@@ -1512,7 +1500,7 @@ abstract class AppLocalizations {
   /// No description provided for @quran_juzz.
   ///
   /// In en, this message translates to:
-  /// **'Juzz {number}'**
+  /// **'Juzz'**
   String quran_juzz(Object number);
 
   /// No description provided for @ayah.
@@ -1554,7 +1542,7 @@ abstract class AppLocalizations {
   /// No description provided for @quran_page.
   ///
   /// In en, this message translates to:
-  /// **'Page {page}'**
+  /// **'Page'**
   String quran_page(Object page);
 
   /// No description provided for @quran_turning_page.
@@ -1908,7 +1896,7 @@ abstract class AppLocalizations {
   /// No description provided for @calculation_adjustment_prayers_minutes.
   ///
   /// In en, this message translates to:
-  /// **'{minute} minutes'**
+  /// **'minutes'**
   String calculation_adjustment_prayers_minutes(Object minute);
 
   /// No description provided for @calculation_adjustment_angles.
@@ -1920,7 +1908,7 @@ abstract class AppLocalizations {
   /// No description provided for @calculation_prayer_custom_angle.
   ///
   /// In en, this message translates to:
-  /// **'{prayer} custom angle'**
+  /// **'Custom angle for'**
   String calculation_prayer_custom_angle(Object prayer);
 
   /// No description provided for @error_download_quran_failed.

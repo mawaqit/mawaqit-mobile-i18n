@@ -218,11 +218,6 @@ class AppLocalizationsUr extends AppLocalizations {
   String get search_your_location => 'Your location';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'ہم نے کوئی مسجد نہیں پائے۔ ہم نے آپ کے جغرافیائی مقام کے مطابق نماز کا وقت حساب کیا ہے، قریبی: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'We did not find any result for';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Surah Audio Downloading...';

@@ -218,11 +218,6 @@ class AppLocalizationsAr extends AppLocalizations {
   String get search_your_location => 'موقعك';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'لم نعثر على مسجد. لقد  قمنا بحساب وقت الصلاة وفقًا لموقعك الجغرافي قريبا من: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'الرجاء البحث عن مسجد بالاسم أو المدينة ، أو قم بتمكين الموقع يدويًا في الإعدادات الخاصة.';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'لم نجد أي نتائج عن';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'لم نعثر على مسجد. لقد حسبنا أوقات الصلاة من بلدتك: $locality';
-  }
 
   @override
   String get surah_audio_downloading => '...تحميل صوت السورة';

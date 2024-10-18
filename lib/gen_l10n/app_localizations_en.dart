@@ -218,11 +218,6 @@ class AppLocalizationsEn extends AppLocalizations {
   String get search_your_location => 'Your location';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'We couldn\'t find a MAWAQIT partner mosque for your search. We have calculated the prayer times based on your location, close to: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
 
   @override
@@ -658,11 +653,6 @@ class AppLocalizationsEn extends AppLocalizations {
   String get search_no_result_for_text => 'We did not find any result for';
 
   @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'We did not find a mosque nearby. We have calculated the prayer times based on your location, close to: $locality';
-  }
-
-  @override
   String get surah_audio_downloading => 'Surah Audio Downloading...';
 
   @override
@@ -706,7 +696,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String quran_juzz(Object number) {
-    return 'Juzz $number';
+    return 'Juzz';
   }
 
   @override
@@ -729,7 +719,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String quran_page(Object page) {
-    return 'Page $page';
+    return 'Page';
   }
 
   @override
@@ -908,7 +898,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String calculation_adjustment_prayers_minutes(Object minute) {
-    return '$minute minutes';
+    return 'minutes';
   }
 
   @override
@@ -916,7 +906,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String calculation_prayer_custom_angle(Object prayer) {
-    return '$prayer custom angle';
+    return 'Custom angle for';
   }
 
   @override

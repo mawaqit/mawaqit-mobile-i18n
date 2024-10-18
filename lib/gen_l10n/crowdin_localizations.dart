@@ -238,7 +238,6 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get search_your_location => Crowdin.getText(localeName, 'search_your_location') ?? _fallbackTexts.search_your_location;
 
-
 	@override
   String get search_location_disabled => Crowdin.getText(localeName, 'search_location_disabled') ?? _fallbackTexts.search_location_disabled;
 
@@ -675,8 +674,6 @@ class CrowdinLocalization extends AppLocalizations {
   String get search_no_result_for_text => Crowdin.getText(localeName, 'search_no_result_for_text') ?? _fallbackTexts.search_no_result_for_text;
 
 	@override
-
-	@override
   String get surah_audio_downloading => Crowdin.getText(localeName, 'surah_audio_downloading') ?? _fallbackTexts.surah_audio_downloading;
 
 	@override
@@ -719,6 +716,7 @@ class CrowdinLocalization extends AppLocalizations {
   String get quran_mushaf => Crowdin.getText(localeName, 'quran_mushaf') ?? _fallbackTexts.quran_mushaf;
 
 	@override
+  String get quran_juzz => Crowdin.getText(localeName, 'quran_juzz') ?? _fallbackTexts.quran_juzz;
 
 	@override
   String get ayah => Crowdin.getText(localeName, 'ayah') ?? _fallbackTexts.ayah;
@@ -738,6 +736,8 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get juzz => Crowdin.getText(localeName, 'juzz') ?? _fallbackTexts.juzz;
 
+	@override
+  String get quran_page => Crowdin.getText(localeName, 'quran_page') ?? _fallbackTexts.quran_page;
 
 	@override
   String get quran_turning_page => Crowdin.getText(localeName, 'quran_turning_page') ?? _fallbackTexts.quran_turning_page;
@@ -913,10 +913,14 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get calculation_adjustment_prayers => Crowdin.getText(localeName, 'calculation_adjustment_prayers') ?? _fallbackTexts.calculation_adjustment_prayers;
 
+	@override
+  String get calculation_adjustment_prayers_minutes => Crowdin.getText(localeName, 'calculation_adjustment_prayers_minutes') ?? _fallbackTexts.calculation_adjustment_prayers_minutes;
 
 	@override
   String get calculation_adjustment_angles => Crowdin.getText(localeName, 'calculation_adjustment_angles') ?? _fallbackTexts.calculation_adjustment_angles;
 
+	@override
+  String get calculation_prayer_custom_angle => Crowdin.getText(localeName, 'calculation_prayer_custom_angle') ?? _fallbackTexts.calculation_prayer_custom_angle;
 
 	@override
   String get error_download_quran_failed => Crowdin.getText(localeName, 'error_download_quran_failed') ?? _fallbackTexts.error_download_quran_failed;
@@ -1269,51 +1273,6 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get prayer_times_in => Crowdin.getText(localeName, 'prayer_times_in') ?? _fallbackTexts.prayer_times_in;
 
-  @override
-  String quran_juzz(Object number) {
-    String rawString = Crowdin.getText(localeName, 'quran_juzz') ??
-        _fallbackTexts.quran_juzz(number);
-    return rawString.replaceFirst('{number}', number.toString());
-  }
-
-  @override
-  String quran_page(Object page) {
-    String rawString = Crowdin.getText(localeName, 'quran_page') ??
-        _fallbackTexts.quran_page(page);
-    return rawString.replaceFirst('{page}', page.toString());
-  }
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    String rawString =
-        Crowdin.getText(localeName, 'calculate_prayer_time_from_area') ??
-            _fallbackTexts.calculate_prayer_time_from_area(locality);
-    return rawString.replaceFirst('{locality}', locality.toString());
-  }
-
-  @override
-  String calculation_adjustment_prayers_minutes(Object minute) {
-    String rawString =
-        Crowdin.getText(localeName, 'calculation_adjustment_prayers_minutes') ??
-            _fallbackTexts.calculation_adjustment_prayers_minutes(minute);
-    return rawString.replaceFirst('{minute}', minute.toString());
-  }
-
-  @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    String rawString =
-        Crowdin.getText(localeName, 'calculation_prayer_custom_angle') ??
-            _fallbackTexts.calculation_prayer_custom_angle(prayer);
-    return rawString.replaceFirst('{prayer}', prayer.toString());
-  }
-
-  @override
-  String search_location_enabled_no_result(Object locality) {
-    String rawString =
-        Crowdin.getText(localeName, 'search_location_enabled_no_result') ??
-            _fallbackTexts.search_location_enabled_no_result(locality);
-    return rawString.replaceFirst('{locality}', locality.toString());
-  }
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

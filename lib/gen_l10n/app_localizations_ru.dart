@@ -218,11 +218,6 @@ class AppLocalizationsRu extends AppLocalizations {
   String get search_your_location => 'Ваше местоположение';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'Мы не смогли найти мечеть-партнера MAWAQIT для вашего запроса. Мы рассчитали время молитвы на основе вашего местоположения, рядом с: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Пожалуйста, найдите мечеть по названию или городу, или разрешите определение местоположения вручную в настройках.';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'Мы не нашли результатов для';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'Мечети поблизости мы не нашли. Мы рассчитали время молитвы на основе вашего местоположения, рядом с: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Загрузка аудиозаписей сур...';

@@ -218,11 +218,6 @@ class AppLocalizationsId extends AppLocalizations {
   String get search_your_location => 'Lokasi Anda';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'Kami tidak menemukan masjid mitra MAWAQIT untuk pencarian Anda. Kami telah menghitung waktu shalat berdasarkan lokasi Anda, dekat dengan: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Silakan cari masjid berdasarkan nama atau kota, atau izinkan lokasi secara manual di pengaturan Anda.';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'Kami tidak menemukan hasil untuk';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'Kami tidak menemukan masjid terdekat. Kami telah menghitung waktu shalat berdasarkan lokasi Anda, dekat dengan: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Mengunduh Audio Surah...';

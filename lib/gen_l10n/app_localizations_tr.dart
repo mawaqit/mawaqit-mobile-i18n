@@ -218,11 +218,6 @@ class AppLocalizationsTr extends AppLocalizations {
   String get search_your_location => 'Konumunuz';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'Bir cami bulamadık. Namaz vakitlerini coğrafi konumunuza göre hesapladık, yakınında: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Lütfen bir camiyi isme veya şehre göre arayın veya ayarlarınızda konuma manuel olarak izin verin.';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'için herhangi bir sonuç bulamadık';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'Yakınlarda bir cami bulamadık. Namaz vakitlerini coğrafi konumunuza göre hesapladık, yakınında: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Sure Sesi İndiriliyor...';

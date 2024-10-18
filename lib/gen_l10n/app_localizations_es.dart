@@ -218,11 +218,6 @@ class AppLocalizationsEs extends AppLocalizations {
   String get search_your_location => 'Tu ubicación';
 
   @override
-  String search_location_enabled_no_result(Object locality) {
-    return 'No pudimos encontrar una mezquita asociada a MAWAQIT para tu búsqueda. Hemos calculado los horarios de oración según tu ubicación, cerca de: $locality';
-  }
-
-  @override
   String get search_location_disabled => 'Por favor, busque una mezquita por nombre o ciudad, o permita la localización manualmente en su configuración';
 
   @override
@@ -656,11 +651,6 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get search_no_result_for_text => 'No encontramos ningún resultado para';
-
-  @override
-  String calculate_prayer_time_from_area(Object locality) {
-    return 'No hemos encontrado una mezquita cerca. Hemos calculado los horarios de oración según tu ubicación, cerca de: $locality';
-  }
 
   @override
   String get surah_audio_downloading => 'Surah Audio Descargando...';
