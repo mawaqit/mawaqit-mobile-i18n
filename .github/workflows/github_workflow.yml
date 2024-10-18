@@ -46,6 +46,11 @@ jobs:
         run: |
           sed -i 's/intl: ^0.18.1/intl: ^0.19.0/g' pubspec.yaml
           flutter pub get
+          
+      - name: Untrack .dart_tool and pubspec.lock
+        run: |
+          git rm --cached -r .dart_tool/ || echo ".dart_tool is not tracked"
+          git rm --cached pubspec.lock || echo "pubspec.lock is not tracked"
 
       - name: Commit and push changes
         run: |
