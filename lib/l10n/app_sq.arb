@@ -89,7 +89,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "Kontrolloni për përditësime",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
@@ -158,7 +158,7 @@
         "type": "text"
     },
     "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
+    "settings_PrayerNotification_NoNotification": "Aktualisht ju keni vendosur që të mos njoftohesh për këtë namaz.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
