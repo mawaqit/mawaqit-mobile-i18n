@@ -163,7 +163,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "Aplikimi i ziles së ziles pas njoftimit.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -208,22 +208,22 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "Zgjidhni një lloj ezani. Kjo zgjedhje do të zbatohet në çdo namaz që ka njoftimin e ezanit.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "Asnjëri",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "Ju nuk keni vendosur asnjë njoftim për këtë Namaz.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "Ky cilësim ju lejon të përcaktoni një njoftim përpara namazit.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
