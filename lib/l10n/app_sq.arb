@@ -231,7 +231,7 @@
     "search_TryParis": "Provo Paris, Essalam etj.",
     "search_ByGPS": "Kërko me GPS",
     "search_HelpText": "You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.",
-    "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
+    "search_MaxFavMosquesReached": "Keni arritur maksimumin e xhamive të preferuara.",
     "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
     "search_error": "Oops an internal error has occurred'",
     "search_your_location": "Vendndodhja juaj",
