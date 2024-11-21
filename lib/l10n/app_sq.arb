@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "Ky aplikacion është zhvilluar nga shoqata MAWAQIT.\n\nShoqata MAWAQIT është një organizatë jofitimprurëse e krijuar në vitin 2021 në Francë.\nObjektivi ynë është zhvillimi i zgjidhjeve inovative në lidhje me IT dhe teknologjinë dixhitale si softuerët dhe faqet e internetit; mësim dhe trajnim në zgjidhjet dixhitale dhe mjetet e TI-së.\n\nEkosistemi MAWAQIT është produkti ynë kryesor dhe historia e tij filloi në vitin 2016, me një aplikacion në ekrane të mëdha kushtuar xhamive, më pas një aplikacion celular, një shtesë për ndihmës në shtëpi dhe një aftësi Alexa, etj.\n\nMAWAQIT ju ofron një mënyrë të re për të gjurmuar dhe menaxhuar kohët e namazit, në fakt ne ofrojmë një sistem nga fundi në fund që u ofron menaxherëve të xhamive një mjet në internet të disponueshëm 24/24 orë duke i lejuar ata të menaxhojnë oraret, lajmet e xhamisë dhe shumë veçori të tjera. Besimtarët, nga ana e tyre, përfitojnë nga një aplikacion celular i cili u lejon atyre të konsultojnë oraret e sakta dhe jo të përafërta të xhamisë së tyre të preferuar, si dhe lajmet dhe funksionalitetet e tjera si kërkimi i një xhamie sipas vendndodhjes gjeografike, ezanit, kibla. ... etj. Ne i kemi bërë vlerat tona kryesore besueshmërinë dhe cilësinë. Ambicia jonë është e qartë: të ndërtojmë shërbimin më të mirë për xhamitë tona falë teknologjisë dhe dizajnit.\n\nNëse ju pëlqeu ky aplikacion, ju lutemi jepni mendimin tuaj në dyqan.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -157,7 +157,7 @@
         "description": "_",
         "type": "text"
     },
-    "sabah": "Sabah",
+    "sabah": "Sabahu",
     "settings_PrayerNotification_NoNotification": "Aktualisht ju keni vendosur që të mos njoftohesh për këtë namaz.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -253,7 +253,7 @@
     "mosques_around_you": "Mosques around you",
     "mosques_in_the_selected_area": "Mosques in the selected area",
     "mosques_with": "Mosques with",
-    "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
+    "allow_mawaqit_to_access_my_location": "Lejo Mawaqit të ketë qasje në vendndodhjen time.",
     "enable_location_service_from_app_settings": "Enable location service from app settings.",
     "the_request_timeout": "The request timed out",
     "no_internet_connection": "No Internet Connection",
@@ -270,7 +270,7 @@
     "add_this_city": "Add this city",
     "add_this_mosque": "Add this mosque",
     "remove_this_mosque": "Remove this mosque",
-    "services": "Services",
+    "services": "Shërbimet",
     "share": "Share",
     "itinerary": "Itinerary",
     "call": "Call",
@@ -296,7 +296,7 @@
     "currently_located_at": "Currently located at",
     "facing_makkah": "You're facing Makkah",
     "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_Error_retry": "Provo përseri",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
