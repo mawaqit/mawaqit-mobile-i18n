@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "কোনো বুকমার্ক উপলব্ধ নেই। দয়া করে আপনি যে আয়াতটি বুকমার্ক করতে চান সেটিতে দীর্ঘক্ষণ চাপ দিয়ে রাখুন।",
     "page": "পৃষ্ঠা",
     "prayer_times_in": "নামাজের সময়",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "Update Quran",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
