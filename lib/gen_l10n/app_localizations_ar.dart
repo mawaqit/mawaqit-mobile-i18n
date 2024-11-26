@@ -899,9 +899,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get calculation_adjustment_angles => 'الزوايا المخصصة';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'زاوية مخصصة لـ';
-  }
+  String get calculation_prayer_custom_angle => 'زاوية مخصصة لـ';
 
   @override
   String get error_download_quran_failed => 'مشكله في تحميل القران';

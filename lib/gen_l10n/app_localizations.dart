@@ -1909,7 +1909,7 @@ abstract class AppLocalizations {
   ///
   /// In en, this message translates to:
   /// **'Custom angle for'**
-  String calculation_prayer_custom_angle(Object prayer);
+  String get calculation_prayer_custom_angle;
 
   /// No description provided for @error_download_quran_failed.
   ///

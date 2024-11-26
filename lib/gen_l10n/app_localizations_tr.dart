@@ -899,9 +899,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get calculation_adjustment_angles => 'Açılar';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'Özel açı için';
-  }
+  String get calculation_prayer_custom_angle => 'Özel açı için';
 
   @override
   String get error_download_quran_failed => 'Kuran indirilemedi';
@@ -1255,7 +1253,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get prayer_times_in => 'Namaz vakitleri';
 
   @override
-  String get update_new_version => 'Update Quran';
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
   String get update_quran_zip => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';

@@ -899,9 +899,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get calculation_adjustment_angles => 'Kąty niestandardowe';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'Niestandardowy kąt dla';
-  }
+  String get calculation_prayer_custom_angle => 'Niestandardowy kąt dla';
 
   @override
   String get error_download_quran_failed => 'Nie udało się pobrać Koranu';
