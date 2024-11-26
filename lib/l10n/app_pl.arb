@@ -923,5 +923,9 @@
     "empty_quran_search": "Wyniki wyszukiwania pojawią się tutaj",
     "no_bookmark_ayah": "Brak dostępnych zakładek. Proszę długo przytrzymać ayah, który chcesz dodać do zakładek.",
     "page": "Strona",
-    "prayer_times_in": "Czasy modlitwy w"
+    "prayer_times_in": "Czasy modlitwy w",
+    "update_new_version": "Aktualizuj Quran",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
