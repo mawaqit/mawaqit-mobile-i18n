@@ -927,5 +927,9 @@
     "update_new_version": "Koran bijwerken",
     "@update_new_version": {
         "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "Er is een nieuwe versie van de Koran beschikbaar om te downloaden. Tik op 'Update' om toegang te krijgen tot de nieuwste verbeteringen en door te gaan met uw reis met goddelijke wijsheid.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
     }
 }
