@@ -927,5 +927,9 @@
     "update_new_version": "Mettre à jour le Coran",
     "@update_new_version": {
         "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "Une nouvelle version du Coran est disponible en téléchargement. Appuyez sur « Mettre à jour » pour accéder aux dernières améliorations et poursuivre votre voyage avec la sagesse divine.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
     }
 }
