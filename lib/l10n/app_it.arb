@@ -923,5 +923,21 @@
     "empty_quran_search": "I risultati della ricerca appariranno qui",
     "no_bookmark_ayah": "Nessun segnalibro disponibile. Si prega di tenere premuto sull'ayah che si desidera contrassegnare.",
     "page": "Pagina",
-    "prayer_times_in": "Orari di preghiera a"
+    "prayer_times_in": "Orari di preghiera a",
+    "update_new_version": "Aggiorna Corano",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "Una nuova versione del Corano è disponibile per il download. Tocca 'Aggiornamento' per accedere agli ultimi miglioramenti e continuare il tuo viaggio con saggezza divina.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
+    },
+    "update_latest_quran_version": "Una nuova versione del Corano è disponibile per il download. Tocca 'Aggiornamento' per accedere agli ultimi miglioramenti e continuare il tuo viaggio con saggezza divina.",
+    "@update_latest_quran_version": {
+        "description": "-> update_latest_quran_version"
+    },
+    "update_latest_quran": "Una nuova versione del Corano è disponibile per il download. Tocca 'Aggiornamento' per accedere agli ultimi miglioramenti e continuare il tuo viaggio con saggezza divina.",
+    "@update_latest_quran": {
+        "description": "-> update_latest_quran"
+    }
 }

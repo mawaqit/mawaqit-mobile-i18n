@@ -5,22 +5,22 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "Të preferuarat",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_qibla": "Qibla",
+    "bottomNavbar_qibla": "Kibla",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "Kërko",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "Cilësimet",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
@@ -30,32 +30,32 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "E errët",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "E ndritshme",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "Formati i kohës",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "Zgjedhja e gjuhës",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "Gjuha",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "Tema",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
@@ -70,26 +70,26 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
+    "settings_PrayerNotifications": "Njoftimet për namazin",
+    "settings_PrayerPreNotifications": "Njoftimi i para-namazit",
     "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
-    "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_Calculations": "Llogaritjet",
+    "settings_RateOurApp": "Vlerëso aplikacionin tonë",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
-    "settings_News": "News",
-    "settings_MakeADonation": "Make a donation",
-    "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donate to MAWAQIT",
+    "settings_WhatsNew": "Çfarë ka të re",
+    "settings_SupportMawaqit": "Përkrah Mawaqit",
+    "settings_News": "Risitë",
+    "settings_MakeADonation": "Bëni një donacion",
+    "bismillah": "Bismilah",
+    "settings_DonateToMawaqit": "Dhuroni MAWAQITit",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "Kontrolloni për përditësime",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
@@ -99,91 +99,91 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "About us",
+    "settings_AboutUs": "Rreth nesh",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
-    "settings_language_ar": "Arabic",
+    "settings_language_ar": "Arabisht",
     "settings_language_bn": "Bengali",
-    "settings_language_fr": "French",
-    "settings_language_nl": "Dutch",
-    "settings_language_de": "German",
+    "settings_language_fr": "Frengjisht",
+    "settings_language_nl": "Holandisht",
+    "settings_language_de": "Gjermanisht",
     "settings_language_es": "Spanish",
-    "settings_language_en": "English",
-    "settings_language_it": "Italian",
-    "settings_language_tr": "Turkish",
-    "settings_language_ru": "Russian",
-    "settings_language_id": "Indonesian",
+    "settings_language_en": "Anglisht",
+    "settings_language_it": "Italisht",
+    "settings_language_tr": "Turqisht",
+    "settings_language_ru": "Rusisht",
+    "settings_language_id": "Indonezisht",
     "settings_language_ur": "Urdu",
-    "settings_language_pl": "Polish",
+    "settings_language_pl": "Polonisht",
     "settings_CreditsText": "Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "Ky aplikacion është zhvilluar nga shoqata MAWAQIT.\n\nShoqata MAWAQIT është një organizatë jofitimprurëse e krijuar në vitin 2021 në Francë.\nObjektivi ynë është zhvillimi i zgjidhjeve inovative në lidhje me IT dhe teknologjinë dixhitale si softuerët dhe faqet e internetit; mësim dhe trajnim në zgjidhjet dixhitale dhe mjetet e TI-së.\n\nEkosistemi MAWAQIT është produkti ynë kryesor dhe historia e tij filloi në vitin 2016, me një aplikacion në ekrane të mëdha kushtuar xhamive, më pas një aplikacion celular, një shtesë për ndihmës në shtëpi dhe një aftësi Alexa, etj.\n\nMAWAQIT ju ofron një mënyrë të re për të gjurmuar dhe menaxhuar kohët e namazit, në fakt ne ofrojmë një sistem nga fundi në fund që u ofron menaxherëve të xhamive një mjet në internet të disponueshëm 24/24 orë duke i lejuar ata të menaxhojnë oraret, lajmet e xhamisë dhe shumë veçori të tjera. Besimtarët, nga ana e tyre, përfitojnë nga një aplikacion celular i cili u lejon atyre të konsultojnë oraret e sakta dhe jo të përafërta të xhamisë së tyre të preferuar, si dhe lajmet dhe funksionalitetet e tjera si kërkimi i një xhamie sipas vendndodhjes gjeografike, ezanit, kibla. ... etj. Ne i kemi bërë vlerat tona kryesore besueshmërinë dhe cilësinë. Ambicia jonë është e qartë: të ndërtojmë shërbimin më të mirë për xhamitë tona falë teknologjisë dhe dizajnit.\n\nNëse ju pëlqeu ky aplikacion, ju lutemi jepni mendimin tuaj në dyqan.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
     },
-    "fajr": "Fajr",
+    "fajr": "Imsaku",
     "@fajr": {
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Sunrise",
+    "shuruq": "Lindja e diellit",
     "@shuruq": {
         "description": "_",
         "type": "text"
     },
-    "duhr": "Duhr",
+    "duhr": "Dreka",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Asr",
+    "asr": "Ikindia",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Maghrib",
+    "maghrib": "Akshami",
     "@maghrib": {
         "description": "_",
         "type": "text"
     },
-    "isha": "Isha",
+    "isha": "Jacia",
     "@isha": {
         "description": "_",
         "type": "text"
     },
-    "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
+    "sabah": "Sabahu",
+    "settings_PrayerNotification_NoNotification": "Aktualisht ju keni vendosur që të mos njoftohesh për këtë namaz.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "Aplikimi i ziles së ziles pas njoftimit.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "Ezani",
     "@adhan": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "Meka",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "Medinas",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "Kud",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
@@ -208,44 +208,44 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "Zgjidhni një lloj ezani. Kjo zgjedhje do të zbatohet në çdo namaz që ka njoftimin e ezanit.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "Asnjëri",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "Ju nuk keni vendosur asnjë njoftim për këtë Namaz.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "Ky cilësim ju lejon të përcaktoni një njoftim përpara namazit.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "Try Paris, Essalam etc.",
-    "search_ByGPS": "Search by GPS",
-    "search_HelpText": "You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.",
-    "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
-    "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
+    "search_TryParis": "Provo Paris, Essalam etj.",
+    "search_ByGPS": "Kërko me GPS",
+    "search_HelpText": "Ju mund të kërkoni një xhami duke shkruar:\n- Emrin e xhamisë\n- Emrin e shoqatës\n- Qytetin, adresën, shtetin...etj.\n\nOse mund të shtypni butonin e vendodhjës për të gjetur xhamitë përreth.",
+    "search_MaxFavMosquesReached": "Keni arritur maksimumin e xhamive të preferuara.",
+    "search_iOs14_message": "Kërkimi duke përdorur GPS mund të marrë pak kohë në iOS 14, ju lutemi prisni.",
     "search_error": "Oops an internal error has occurred'",
-    "search_your_location": "Your location",
+    "search_your_location": "Vendndodhja juaj",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
     "search_settings": "Settings",
-    "no_services_text": "Mosques didn't provided this info",
-    "welcome": "Welcome to",
+    "no_services_text": "Xhamitë nuk e dhanë këtë informacion",
+    "welcome": "Mirë se vini në",
     "mawaqit": "MAWAQIT",
     "connecting": "Connecting Muslims",
     "to_mosques": "To Mosques",
-    "get_started": "Get started",
-    "get_prayer_notifications_for": "Get prayer notifications for",
-    "turn_on_notifications": "Turn on prayer notifications",
-    "no_thanks": "No thank's",
+    "get_started": "Filloni",
+    "get_prayer_notifications_for": "Merrni njoftimet e namazit për",
+    "turn_on_notifications": "Aktivizo njoftimet e namazit",
+    "no_thanks": "Jo, faleminderit",
     "notification_denied": "You have denied notification permissions, so you won't receive any notifications.",
     "at_least_one_mosque": "Add at least one mosque to continue",
     "set_up_your_prayer": "Set up your prayer",
@@ -253,28 +253,28 @@
     "mosques_around_you": "Mosques around you",
     "mosques_in_the_selected_area": "Mosques in the selected area",
     "mosques_with": "Mosques with",
-    "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
+    "allow_mawaqit_to_access_my_location": "Lejo Mawaqit të ketë qasje në vendndodhjen time.",
     "enable_location_service_from_app_settings": "Enable location service from app settings.",
-    "the_request_timeout": "The request timed out",
-    "no_internet_connection": "No Internet Connection",
-    "try_again": "Try again",
-    "virtual_mosque": "Virtual Mosque",
+    "the_request_timeout": "Kërkesa ka skaduar",
+    "no_internet_connection": "Nuk ka Internet",
+    "try_again": "Provo përsëri",
+    "virtual_mosque": "Xhami virtuale",
     "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
     "no_mosque_with": "Couldn't find any mosques with",
-    "retry": "Retry",
-    "search_here": "Search Here",
+    "retry": "Provo përseri",
+    "search_here": "Kërko Këtu",
     "enter_at_least_3_char": "Enter at-least 3 characters to search",
     "jumua1": "Jum'a 1",
-    "prayer_times": "Prayer times",
-    "remove_this_city": "Remove this city",
-    "add_this_city": "Add this city",
-    "add_this_mosque": "Add this mosque",
-    "remove_this_mosque": "Remove this mosque",
-    "services": "Services",
-    "share": "Share",
+    "prayer_times": "Kohët e Namazit",
+    "remove_this_city": "Hiqeni këtë qytet",
+    "add_this_city": "Shto këtë qytet",
+    "add_this_mosque": "Shto këtë xhami",
+    "remove_this_mosque": "Hiqeni këtë xhami",
+    "services": "Shërbimet",
+    "share": "Shpërndaj",
     "itinerary": "Itinerary",
-    "call": "Call",
-    "dnd": "Do Not Disturb",
+    "call": "Thirr",
+    "dnd": "Mos pengo",
     "battery_optimize": "Battery Optimization",
     "power_saver": "Power Saver",
     "permission_message1": "We detected a delayed notification, Please turn off",
@@ -296,7 +296,7 @@
     "currently_located_at": "Currently located at",
     "facing_makkah": "You're facing Makkah",
     "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_Error_retry": "Provo përseri",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
@@ -923,5 +923,21 @@
     "empty_quran_search": "Search results will appear here",
     "no_bookmark_ayah": "No bookmarks available. Please long-press on the ayah you wish to bookmark.",
     "page": "Page",
-    "prayer_times_in": "Prayer times in"
+    "prayer_times_in": "Prayer times in",
+    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
+    },
+    "update_latest_quran_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "@update_latest_quran_version": {
+        "description": "-> update_latest_quran_version"
+    },
+    "update_latest_quran": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "@update_latest_quran": {
+        "description": "-> update_latest_quran"
+    }
 }

@@ -899,7 +899,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_adjustment_angles => 'Углы';
 
   @override
-  String get calculation_prayer_custom_angle => 'Пользовательский угол для';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Пользовательский угол для';
+  }
 
   @override
   String get error_download_quran_failed => 'Не удалось загрузить Коран.';
@@ -1251,4 +1253,16 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get prayer_times_in => 'Время молитв в';
+
+  @override
+  String get update_new_version => 'Обновить Коран';
+
+  @override
+  String get update_quran_zip => 'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
+
+  @override
+  String get update_latest_quran_version => 'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
+
+  @override
+  String get update_latest_quran => 'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
 }

@@ -899,7 +899,9 @@ class AppLocalizationsDe extends AppLocalizations {
   String get calculation_adjustment_angles => 'Winkel';
 
   @override
-  String get calculation_prayer_custom_angle => 'Eigener Winkel für';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Eigener Winkel für';
+  }
 
   @override
   String get error_download_quran_failed => 'Fehler beim Herunterladen des Korans';
@@ -1251,4 +1253,16 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get prayer_times_in => 'Gebetszeiten in';
+
+  @override
+  String get update_new_version => 'Koran aktualisieren';
+
+  @override
+  String get update_quran_zip => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.';
+
+  @override
+  String get update_latest_quran_version => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.';
+
+  @override
+  String get update_latest_quran => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.';
 }

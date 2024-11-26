@@ -923,5 +923,21 @@
     "empty_quran_search": "ستظهر نتائج البحث هنا",
     "no_bookmark_ayah": "لا توجد إشارات مرجعية متاحة. يرجى الضغط لفترة طويلة على الآية التي ترغب في وضع إشارة مرجعية عليها.",
     "page": "صفحة",
-    "prayer_times_in": "أوقات الصلاة في"
+    "prayer_times_in": "أوقات الصلاة في",
+    "update_new_version": "نسخة جديدة من القرآن الكريم متاحة للتحميل. اضغط على \"تحديث\" للوصول إلى أحدث التحسينات ومواصلة رحلتك مع الحكمة الإلهية",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "نسخة جديدة من القرآن متاحة للتحميل. انقر فوق 'تحديث' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
+    },
+    "update_latest_quran_version": "نسخة جديدة من القرآن متاحة للتحميل. انقر فوق 'تحديث' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.",
+    "@update_latest_quran_version": {
+        "description": "-> update_latest_quran_version"
+    },
+    "update_latest_quran": "نسخة جديدة من القرآن متاحة للتحميل. انقر فوق 'تحديث' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.",
+    "@update_latest_quran": {
+        "description": "-> update_latest_quran"
+    }
 }

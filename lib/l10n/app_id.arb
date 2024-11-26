@@ -923,5 +923,21 @@
     "empty_quran_search": "Hasil pencarian akan muncul di sini",
     "no_bookmark_ayah": "Tidak ada penanda halaman tersedia. Silakan tekan lama ayat yang ingin Anda tandai.",
     "page": "Halaman",
-    "prayer_times_in": "Waktu sholat di"
+    "prayer_times_in": "Waktu sholat di",
+    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "Versi baru Al-Quran tersedia untuk diunduh. Ketuk 'Perbarui' untuk mengakses penyempurnaan terbaru dan lanjutkan perjalanan Anda dengan kebijaksanaan ilahi.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
+    },
+    "update_latest_quran_version": "Versi baru Al-Quran tersedia untuk diunduh. Ketuk 'Perbarui' untuk mengakses penyempurnaan terbaru dan lanjutkan perjalanan Anda dengan kebijaksanaan ilahi.",
+    "@update_latest_quran_version": {
+        "description": "-> update_latest_quran_version"
+    },
+    "update_latest_quran": "Versi baru Al-Quran tersedia untuk diunduh. Ketuk 'Perbarui' untuk mengakses penyempurnaan terbaru dan lanjutkan perjalanan Anda dengan kebijaksanaan ilahi.",
+    "@update_latest_quran": {
+        "description": "-> update_latest_quran"
+    }
 }

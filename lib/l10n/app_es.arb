@@ -1,6 +1,5 @@
 {
     "@@locale": "es",
-
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -924,5 +923,21 @@
     "empty_quran_search": "Los resultados de búsqueda aparecerán aquí",
     "no_bookmark_ayah": "No hay marcadores disponibles. Mantén presionado el ayah que deseas marcar.",
     "page": "Página",
-    "prayer_times_in": "Tiempos de oración en"
+    "prayer_times_in": "Tiempos de oración en",
+    "update_new_version": "Actualizar Corán",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "Una nueva versión del Corán está disponible para descargar. Pulsa \"Actualizar\" para acceder a las últimas mejoras y continuar tu viaje con sabiduría divina.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
+    },
+    "update_latest_quran_version": "Una nueva versión del Corán está disponible para descargar. Pulsa \"Actualizar\" para acceder a las últimas mejoras y continuar tu viaje con sabiduría divina.",
+    "@update_latest_quran_version": {
+        "description": "-> update_latest_quran_version"
+    },
+    "update_latest_quran": "Una nueva versión del Corán está disponible para descargar. Pulsa \"Actualizar\" para acceder a las últimas mejoras y continuar tu viaje con sabiduría divina.",
+    "@update_latest_quran": {
+        "description": "-> update_latest_quran"
+    }
 }

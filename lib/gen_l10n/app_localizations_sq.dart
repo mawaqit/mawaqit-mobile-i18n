@@ -8,37 +8,37 @@ class AppLocalizationsSq extends AppLocalizations {
   String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'Favorites';
+  String get bottomNavbar_favorites => 'Të preferuarat';
 
   @override
-  String get bottomNavbar_qibla => 'Qibla';
+  String get bottomNavbar_qibla => 'Kibla';
 
   @override
-  String get bottomNavbar_search => 'Search';
+  String get bottomNavbar_search => 'Kërko';
 
   @override
-  String get bottomNavbar_settings => 'Settings';
+  String get bottomNavbar_settings => 'Cilësimet';
 
   @override
   String get settings_ThemeAuto => 'Auto';
 
   @override
-  String get settings_ThemeDark => 'Dark';
+  String get settings_ThemeDark => 'E errët';
 
   @override
-  String get settings_ThemeLight => 'Light';
+  String get settings_ThemeLight => 'E ndritshme';
 
   @override
-  String get settings_TimeFormat => 'Time format';
+  String get settings_TimeFormat => 'Formati i kohës';
 
   @override
-  String get settings_LanguageSelection => 'Language selection';
+  String get settings_LanguageSelection => 'Zgjedhja e gjuhës';
 
   @override
-  String get settings_Language => 'Language';
+  String get settings_Language => 'Gjuha';
 
   @override
-  String get settings_Theme => 'Theme';
+  String get settings_Theme => 'Tema';
 
   @override
   String get settings_TimeFormat12H => '12H';
@@ -47,130 +47,130 @@ class AppLocalizationsSq extends AppLocalizations {
   String get settings_TimeFormat24H => '24H';
 
   @override
-  String get settings_PrayerNotifications => 'Prayer Notifications';
+  String get settings_PrayerNotifications => 'Njoftimet për namazin';
 
   @override
-  String get settings_PrayerPreNotifications => 'Pre-Prayer notification';
+  String get settings_PrayerPreNotifications => 'Njoftimi i para-namazit';
 
   @override
   String get settings_ShuruqPreNotifications => 'Pre-Shuruq notification';
 
   @override
-  String get settings_Calculations => 'Calculations';
+  String get settings_Calculations => 'Llogaritjet';
 
   @override
-  String get settings_RateOurApp => 'Rate our app';
+  String get settings_RateOurApp => 'Vlerëso aplikacionin tonë';
 
   @override
-  String get settings_WhatsNew => 'What\'s new';
+  String get settings_WhatsNew => 'Çfarë ka të re';
 
   @override
-  String get settings_SupportMawaqit => 'Support Mawaqit';
+  String get settings_SupportMawaqit => 'Përkrah Mawaqit';
 
   @override
-  String get settings_News => 'News';
+  String get settings_News => 'Risitë';
 
   @override
-  String get settings_MakeADonation => 'Make a donation';
+  String get settings_MakeADonation => 'Bëni një donacion';
 
   @override
-  String get bismillah => 'Bismillah';
+  String get bismillah => 'Bismilah';
 
   @override
-  String get settings_DonateToMawaqit => 'Donate to MAWAQIT';
+  String get settings_DonateToMawaqit => 'Dhuroni MAWAQITit';
 
   @override
-  String get settings_CheckForUpdates => 'Check for updates';
+  String get settings_CheckForUpdates => 'Kontrolloni për përditësime';
 
   @override
   String get settings_Credits => 'Credits';
 
   @override
-  String get settings_AboutUs => 'About us';
+  String get settings_AboutUs => 'Rreth nesh';
 
   @override
-  String get settings_language_ar => 'Arabic';
+  String get settings_language_ar => 'Arabisht';
 
   @override
   String get settings_language_bn => 'Bengali';
 
   @override
-  String get settings_language_fr => 'French';
+  String get settings_language_fr => 'Frengjisht';
 
   @override
-  String get settings_language_nl => 'Dutch';
+  String get settings_language_nl => 'Holandisht';
 
   @override
-  String get settings_language_de => 'German';
+  String get settings_language_de => 'Gjermanisht';
 
   @override
   String get settings_language_es => 'Spanish';
 
   @override
-  String get settings_language_en => 'English';
+  String get settings_language_en => 'Anglisht';
 
   @override
-  String get settings_language_it => 'Italian';
+  String get settings_language_it => 'Italisht';
 
   @override
-  String get settings_language_tr => 'Turkish';
+  String get settings_language_tr => 'Turqisht';
 
   @override
-  String get settings_language_ru => 'Russian';
+  String get settings_language_ru => 'Rusisht';
 
   @override
-  String get settings_language_id => 'Indonesian';
+  String get settings_language_id => 'Indonezisht';
 
   @override
   String get settings_language_ur => 'Urdu';
 
   @override
-  String get settings_language_pl => 'Polish';
+  String get settings_language_pl => 'Polonisht';
 
   @override
   String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
+  String get settings_AboutUsText => 'Ky aplikacion është zhvilluar nga shoqata MAWAQIT.\n\nShoqata MAWAQIT është një organizatë jofitimprurëse e krijuar në vitin 2021 në Francë.\nObjektivi ynë është zhvillimi i zgjidhjeve inovative në lidhje me IT dhe teknologjinë dixhitale si softuerët dhe faqet e internetit; mësim dhe trajnim në zgjidhjet dixhitale dhe mjetet e TI-së.\n\nEkosistemi MAWAQIT është produkti ynë kryesor dhe historia e tij filloi në vitin 2016, me një aplikacion në ekrane të mëdha kushtuar xhamive, më pas një aplikacion celular, një shtesë për ndihmës në shtëpi dhe një aftësi Alexa, etj.\n\nMAWAQIT ju ofron një mënyrë të re për të gjurmuar dhe menaxhuar kohët e namazit, në fakt ne ofrojmë një sistem nga fundi në fund që u ofron menaxherëve të xhamive një mjet në internet të disponueshëm 24/24 orë duke i lejuar ata të menaxhojnë oraret, lajmet e xhamisë dhe shumë veçori të tjera. Besimtarët, nga ana e tyre, përfitojnë nga një aplikacion celular i cili u lejon atyre të konsultojnë oraret e sakta dhe jo të përafërta të xhamisë së tyre të preferuar, si dhe lajmet dhe funksionalitetet e tjera si kërkimi i një xhamie sipas vendndodhjes gjeografike, ezanit, kibla. ... etj. Ne i kemi bërë vlerat tona kryesore besueshmërinë dhe cilësinë. Ambicia jonë është e qartë: të ndërtojmë shërbimin më të mirë për xhamitë tona falë teknologjisë dhe dizajnit.\n\nNëse ju pëlqeu ky aplikacion, ju lutemi jepni mendimin tuaj në dyqan.';
 
   @override
-  String get fajr => 'Fajr';
+  String get fajr => 'Imsaku';
 
   @override
-  String get shuruq => 'Sunrise';
+  String get shuruq => 'Lindja e diellit';
 
   @override
-  String get duhr => 'Duhr';
+  String get duhr => 'Dreka';
 
   @override
-  String get asr => 'Asr';
+  String get asr => 'Ikindia';
 
   @override
-  String get maghrib => 'Maghrib';
+  String get maghrib => 'Akshami';
 
   @override
-  String get isha => 'Isha';
+  String get isha => 'Jacia';
 
   @override
-  String get sabah => 'Sabah';
+  String get sabah => 'Sabahu';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
+  String get settings_PrayerNotification_NoNotification => 'Aktualisht ju keni vendosur që të mos njoftohesh për këtë namaz.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
+  String get settings_PrayerNotification_Bip => 'Aplikimi i ziles së ziles pas njoftimit.';
 
   @override
-  String get adhan => 'Adhan';
+  String get adhan => 'Ezani';
 
   @override
-  String get adhan_Makkah_fajr => 'Makkah (Fajr)';
+  String get adhan_Makkah_fajr => 'Meka';
 
   @override
-  String get adhan_Madinah => 'Madinah';
+  String get adhan_Madinah => 'Medinas';
 
   @override
-  String get adhan_Qods => 'Qods';
+  String get adhan_Qods => 'Kud';
 
   @override
   String get adhan_AlAfassy => 'Al Afassy';
@@ -185,37 +185,37 @@ class AppLocalizationsSq extends AppLocalizations {
   String get adhan_AbdAlBassat => 'Abdul Bassit';
 
   @override
-  String get adhan_type => 'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
+  String get adhan_type => 'Zgjidhni një lloj ezani. Kjo zgjedhje do të zbatohet në çdo namaz që ka njoftimin e ezanit.';
 
   @override
-  String get settings_prayer_Notification_None => 'None';
+  String get settings_prayer_Notification_None => 'Asnjëri';
 
   @override
-  String get prayer_Notification_NoNotification => 'You have not set any notification for this Prayer.';
+  String get prayer_Notification_NoNotification => 'Ju nuk keni vendosur asnjë njoftim për këtë Namaz.';
 
   @override
-  String get prayer_PreNotification_Description => 'This setting allows you to define a notification before the prayer.';
+  String get prayer_PreNotification_Description => 'Ky cilësim ju lejon të përcaktoni një njoftim përpara namazit.';
 
   @override
-  String get search_TryParis => 'Try Paris, Essalam etc.';
+  String get search_TryParis => 'Provo Paris, Essalam etj.';
 
   @override
-  String get search_ByGPS => 'Search by GPS';
+  String get search_ByGPS => 'Kërko me GPS';
 
   @override
-  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
+  String get search_HelpText => 'Ju mund të kërkoni një xhami duke shkruar:\n- Emrin e xhamisë\n- Emrin e shoqatës\n- Qytetin, adresën, shtetin...etj.\n\nOse mund të shtypni butonin e vendodhjës për të gjetur xhamitë përreth.';
 
   @override
-  String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
+  String get search_MaxFavMosquesReached => 'Keni arritur maksimumin e xhamive të preferuara.';
 
   @override
-  String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
+  String get search_iOs14_message => 'Kërkimi duke përdorur GPS mund të marrë pak kohë në iOS 14, ju lutemi prisni.';
 
   @override
   String get search_error => 'Oops an internal error has occurred\'';
 
   @override
-  String get search_your_location => 'Your location';
+  String get search_your_location => 'Vendndodhja juaj';
 
   @override
   String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
@@ -224,10 +224,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get search_settings => 'Settings';
 
   @override
-  String get no_services_text => 'Mosques didn\'t provided this info';
+  String get no_services_text => 'Xhamitë nuk e dhanë këtë informacion';
 
   @override
-  String get welcome => 'Welcome to';
+  String get welcome => 'Mirë se vini në';
 
   @override
   String get mawaqit => 'MAWAQIT';
@@ -239,16 +239,16 @@ class AppLocalizationsSq extends AppLocalizations {
   String get to_mosques => 'To Mosques';
 
   @override
-  String get get_started => 'Get started';
+  String get get_started => 'Filloni';
 
   @override
-  String get get_prayer_notifications_for => 'Get prayer notifications for';
+  String get get_prayer_notifications_for => 'Merrni njoftimet e namazit për';
 
   @override
-  String get turn_on_notifications => 'Turn on prayer notifications';
+  String get turn_on_notifications => 'Aktivizo njoftimet e namazit';
 
   @override
-  String get no_thanks => 'No thank\'s';
+  String get no_thanks => 'Jo, faleminderit';
 
   @override
   String get notification_denied => 'You have denied notification permissions, so you won\'t receive any notifications.';
@@ -272,22 +272,22 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mosques_with => 'Mosques with';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'Allow Mawaqit to access my location.';
+  String get allow_mawaqit_to_access_my_location => 'Lejo Mawaqit të ketë qasje në vendndodhjen time.';
 
   @override
   String get enable_location_service_from_app_settings => 'Enable location service from app settings.';
 
   @override
-  String get the_request_timeout => 'The request timed out';
+  String get the_request_timeout => 'Kërkesa ka skaduar';
 
   @override
-  String get no_internet_connection => 'No Internet Connection';
+  String get no_internet_connection => 'Nuk ka Internet';
 
   @override
-  String get try_again => 'Try again';
+  String get try_again => 'Provo përsëri';
 
   @override
-  String get virtual_mosque => 'Virtual Mosque';
+  String get virtual_mosque => 'Xhami virtuale';
 
   @override
   String get no_mosque_in_selected_area => 'Couldn\'t find any mosques in the selected area';
@@ -296,10 +296,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get no_mosque_with => 'Couldn\'t find any mosques with';
 
   @override
-  String get retry => 'Retry';
+  String get retry => 'Provo përseri';
 
   @override
-  String get search_here => 'Search Here';
+  String get search_here => 'Kërko Këtu';
 
   @override
   String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
@@ -308,34 +308,34 @@ class AppLocalizationsSq extends AppLocalizations {
   String get jumua1 => 'Jum\'a 1';
 
   @override
-  String get prayer_times => 'Prayer times';
+  String get prayer_times => 'Kohët e Namazit';
 
   @override
-  String get remove_this_city => 'Remove this city';
+  String get remove_this_city => 'Hiqeni këtë qytet';
 
   @override
-  String get add_this_city => 'Add this city';
+  String get add_this_city => 'Shto këtë qytet';
 
   @override
-  String get add_this_mosque => 'Add this mosque';
+  String get add_this_mosque => 'Shto këtë xhami';
 
   @override
-  String get remove_this_mosque => 'Remove this mosque';
+  String get remove_this_mosque => 'Hiqeni këtë xhami';
 
   @override
-  String get services => 'Services';
+  String get services => 'Shërbimet';
 
   @override
-  String get share => 'Share';
+  String get share => 'Shpërndaj';
 
   @override
   String get itinerary => 'Itinerary';
 
   @override
-  String get call => 'Call';
+  String get call => 'Thirr';
 
   @override
-  String get dnd => 'Do Not Disturb';
+  String get dnd => 'Mos pengo';
 
   @override
   String get battery_optimize => 'Battery Optimization';
@@ -377,7 +377,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get not_facing_Makkah => 'You\'re not facing Makkah';
 
   @override
-  String get qibla_Error_retry => 'Retry';
+  String get qibla_Error_retry => 'Provo përseri';
 
   @override
   String get qibla_Error_LocationDenied => 'Location service permission denied';
@@ -899,7 +899,9 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_adjustment_angles => 'Custom angles';
 
   @override
-  String get calculation_prayer_custom_angle => 'Custom angle for';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Custom angle for';
+  }
 
   @override
   String get error_download_quran_failed => 'Failed to download Quran';
@@ -1251,4 +1253,16 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get prayer_times_in => 'Prayer times in';
+
+  @override
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+
+  @override
+  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+
+  @override
+  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+
+  @override
+  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
 }

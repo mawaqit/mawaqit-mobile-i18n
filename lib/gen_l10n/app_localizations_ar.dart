@@ -899,7 +899,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String get calculation_adjustment_angles => 'الزوايا المخصصة';
 
   @override
-  String get calculation_prayer_custom_angle => 'زاوية مخصصة لـ';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'زاوية مخصصة لـ';
+  }
 
   @override
   String get error_download_quran_failed => 'مشكله في تحميل القران';
@@ -1251,4 +1253,16 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get prayer_times_in => 'أوقات الصلاة في';
+
+  @override
+  String get update_new_version => 'نسخة جديدة من القرآن الكريم متاحة للتحميل. اضغط على \"تحديث\" للوصول إلى أحدث التحسينات ومواصلة رحلتك مع الحكمة الإلهية';
+
+  @override
+  String get update_quran_zip => 'نسخة جديدة من القرآن متاحة للتحميل. انقر فوق \'تحديث\' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.';
+
+  @override
+  String get update_latest_quran_version => 'نسخة جديدة من القرآن متاحة للتحميل. انقر فوق \'تحديث\' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.';
+
+  @override
+  String get update_latest_quran => 'نسخة جديدة من القرآن متاحة للتحميل. انقر فوق \'تحديث\' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.';
 }
