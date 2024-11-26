@@ -1253,4 +1253,10 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get prayer_times_in => 'Waktu sholat di';
+
+  @override
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+
+  @override
+  String get update_quran_zip => 'Versi baru Al-Quran tersedia untuk diunduh. Ketuk \'Perbarui\' untuk mengakses penyempurnaan terbaru dan lanjutkan perjalanan Anda dengan kebijaksanaan ilahi.';
 }

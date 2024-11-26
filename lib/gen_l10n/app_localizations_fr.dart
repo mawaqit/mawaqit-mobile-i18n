@@ -1253,4 +1253,10 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get prayer_times_in => 'Heures de prière à';
+
+  @override
+  String get update_new_version => 'Mettre à jour le Coran';
+
+  @override
+  String get update_quran_zip => 'Une nouvelle version du Coran est disponible en téléchargement. Appuyez sur « Mettre à jour » pour accéder aux dernières améliorations et poursuivre votre voyage avec la sagesse divine.';
 }

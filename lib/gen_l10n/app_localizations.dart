@@ -2612,6 +2612,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Prayer times in'**
   String get prayer_times_in;
+
+  /// Update the new version availiable
+  ///
+  /// In en, this message translates to:
+  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom'**
+  String get update_new_version;
+
+  /// -> update_quran_zip
+  ///
+  /// In en, this message translates to:
+  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
+  String get update_quran_zip;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

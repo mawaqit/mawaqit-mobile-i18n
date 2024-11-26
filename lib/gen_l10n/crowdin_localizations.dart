@@ -1273,6 +1273,12 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get prayer_times_in => Crowdin.getText(localeName, 'prayer_times_in') ?? _fallbackTexts.prayer_times_in;
 
+	@override
+  String get update_new_version => Crowdin.getText(localeName, 'update_new_version') ?? _fallbackTexts.update_new_version;
+
+	@override
+  String get update_quran_zip => Crowdin.getText(localeName, 'update_quran_zip') ?? _fallbackTexts.update_quran_zip;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

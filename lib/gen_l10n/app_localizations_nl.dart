@@ -1253,4 +1253,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get prayer_times_in => 'Czasy modlitwy w';
+
+  @override
+  String get update_new_version => 'Koran bijwerken';
+
+  @override
+  String get update_quran_zip => 'Er is een nieuwe versie van de Koran beschikbaar om te downloaden. Tik op \'Update\' om toegang te krijgen tot de nieuwste verbeteringen en door te gaan met uw reis met goddelijke wijsheid.';
 }
