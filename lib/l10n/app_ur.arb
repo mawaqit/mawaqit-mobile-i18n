@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -923,5 +923,9 @@
     "empty_quran_search": "تلاش کے نتائج یہاں ظاہر ہوں گے",
     "no_bookmark_ayah": "کوئی بُک مارکس دستیاب نہیں ہیں۔ برائے مہربانی اس آیت پر لمبی دبا کر رکھیں جسے آپ بُک مارک کرنا چاہتے ہیں۔",
     "page": "صفحہ",
-    "prayer_times_in": "نماز کے اوقات"
+    "prayer_times_in": "نماز کے اوقات",
+    "update_new_version": "Update Quran",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
