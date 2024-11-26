@@ -1,7 +1,5 @@
 import 'app_localizations.dart';
 
-// ignore_for_file: type=lint
-
 /// The translations for Spanish Castilian (`es`).
 class AppLocalizationsEs extends AppLocalizations {
   AppLocalizationsEs([String locale = 'es']) : super(locale);
@@ -901,7 +899,9 @@ class AppLocalizationsEs extends AppLocalizations {
   String get calculation_adjustment_angles => 'Ángulos';
 
   @override
-  String get calculation_prayer_custom_angle => 'Ángulo personalizado para';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Ángulo personalizado para';
+  }
 
   @override
   String get error_download_quran_failed => 'Error al descargar el Corán';

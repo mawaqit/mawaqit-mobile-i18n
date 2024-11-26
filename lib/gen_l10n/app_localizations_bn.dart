@@ -1,7 +1,5 @@
 import 'app_localizations.dart';
 
-// ignore_for_file: type=lint
-
 /// The translations for Bengali Bangla (`bn`).
 class AppLocalizationsBn extends AppLocalizations {
   AppLocalizationsBn([String locale = 'bn']) : super(locale);
@@ -901,7 +899,9 @@ class AppLocalizationsBn extends AppLocalizations {
   String get calculation_adjustment_angles => 'Custom angles';
 
   @override
-  String get calculation_prayer_custom_angle => 'জন্য কাস্টম কোণ';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'জন্য কাস্টম কোণ';
+  }
 
   @override
   String get error_download_quran_failed => 'Failed to download Quran';
@@ -1255,7 +1255,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get prayer_times_in => 'নামাজের সময়';
 
   @override
-  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+  String get update_new_version => 'Update Quran';
 
   @override
   String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';

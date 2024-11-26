@@ -1,7 +1,5 @@
 import 'app_localizations.dart';
 
-// ignore_for_file: type=lint
-
 /// The translations for Italian (`it`).
 class AppLocalizationsIt extends AppLocalizations {
   AppLocalizationsIt([String locale = 'it']) : super(locale);
@@ -901,7 +899,9 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calculation_adjustment_angles => 'Angoli personalizzati';
 
   @override
-  String get calculation_prayer_custom_angle => 'Angolo personalizzato per';
+  String calculation_prayer_custom_angle(Object prayer) {
+    return 'Angolo personalizzato per';
+  }
 
   @override
   String get error_download_quran_failed => 'Errore durante il download del Corano';
