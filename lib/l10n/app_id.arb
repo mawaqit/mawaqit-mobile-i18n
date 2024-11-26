@@ -923,5 +923,9 @@
     "empty_quran_search": "Hasil pencarian akan muncul di sini",
     "no_bookmark_ayah": "Tidak ada penanda halaman tersedia. Silakan tekan lama ayat yang ingin Anda tandai.",
     "page": "Halaman",
-    "prayer_times_in": "Waktu sholat di"
+    "prayer_times_in": "Waktu sholat di",
+    "update_new_version": "Update Quran",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
