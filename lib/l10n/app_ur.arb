@@ -924,8 +924,12 @@
     "no_bookmark_ayah": "کوئی بُک مارکس دستیاب نہیں ہیں۔ برائے مہربانی اس آیت پر لمبی دبا کر رکھیں جسے آپ بُک مارک کرنا چاہتے ہیں۔",
     "page": "صفحہ",
     "prayer_times_in": "نماز کے اوقات",
-    "update_new_version": "Update Quran",
+    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
     "@update_new_version": {
         "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
     }
 }
