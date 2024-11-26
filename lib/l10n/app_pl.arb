@@ -927,5 +927,9 @@
     "update_new_version": "Aktualizuj Quran",
     "@update_new_version": {
         "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "Nowa wersja Qurana jest dostępna do pobrania. Naciśnij \"Aktualizuj\", aby uzyskać dostęp do najnowszych ulepszeń i kontynuować swoją podróż z boską mądrością.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
     }
 }
