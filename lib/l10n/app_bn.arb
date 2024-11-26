@@ -923,5 +923,9 @@
     "empty_quran_search": "অনুসন্ধানের ফলাফল এখানে প্রদর্শিত হবে",
     "no_bookmark_ayah": "কোনো বুকমার্ক উপলব্ধ নেই। দয়া করে আপনি যে আয়াতটি বুকমার্ক করতে চান সেটিতে দীর্ঘক্ষণ চাপ দিয়ে রাখুন।",
     "page": "পৃষ্ঠা",
-    "prayer_times_in": "নামাজের সময়"
+    "prayer_times_in": "নামাজের সময়",
+    "update_new_version": "Update Quran",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
