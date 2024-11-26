@@ -923,5 +923,9 @@
     "empty_quran_search": "Les résultats de la recherche apparaîtront ici",
     "no_bookmark_ayah": "Aucun signet disponible. Veuillez appuyer longuement sur l'ayah que vous souhaitez marquer.",
     "page": "Page",
-    "prayer_times_in": "Heures de prière à"
+    "prayer_times_in": "Heures de prière à",
+    "update_new_version": "Mettre à jour le Coran",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
