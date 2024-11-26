@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "No bookmarks available. Please long-press on the ayah you wish to bookmark.",
     "page": "Page",
     "prayer_times_in": "Prayer times in",
-    "update_new_version": "Update Quran",
+    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
