@@ -927,5 +927,9 @@
     "update_new_version": "تحديث القرآن",
     "@update_new_version": {
         "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "نسخة جديدة من القرآن متاحة للتحميل. انقر فوق 'تحديث' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
     }
 }
