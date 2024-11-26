@@ -927,5 +927,9 @@
     "update_new_version": "Aggiorna Corano",
     "@update_new_version": {
         "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "Una nuova versione del Corano è disponibile per il download. Tocca 'Aggiornamento' per accedere agli ultimi miglioramenti e continuare il tuo viaggio con saggezza divina.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
     }
 }
