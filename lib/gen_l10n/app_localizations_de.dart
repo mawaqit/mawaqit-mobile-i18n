@@ -1259,4 +1259,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get update_quran_zip => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.';
+
+  @override
+  String get update_latest_quran_version => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.';
+
+  @override
+  String get update_latest_quran => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.';
 }

@@ -1259,4 +1259,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get update_quran_zip => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';
+
+  @override
+  String get update_latest_quran_version => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';
+
+  @override
+  String get update_latest_quran => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';
 }

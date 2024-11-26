@@ -2624,6 +2624,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
   String get update_quran_zip;
+
+  /// -> update_latest_quran_version
+  ///
+  /// In en, this message translates to:
+  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
+  String get update_latest_quran_version;
+
+  /// -> update_latest_quran
+  ///
+  /// In en, this message translates to:
+  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
+  String get update_latest_quran;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
