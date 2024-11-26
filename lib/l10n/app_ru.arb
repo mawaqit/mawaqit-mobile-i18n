@@ -923,5 +923,9 @@
     "empty_quran_search": "Результаты поиска появятся здесь",
     "no_bookmark_ayah": "Нет доступных закладок. Пожалуйста, нажмите и удерживайте аят, который хотите добавить в закладки.",
     "page": "Страница",
-    "prayer_times_in": "Время молитв в"
+    "prayer_times_in": "Время молитв в",
+    "update_new_version": "Обновить Коран",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
