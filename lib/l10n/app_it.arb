@@ -923,5 +923,9 @@
     "empty_quran_search": "I risultati della ricerca appariranno qui",
     "no_bookmark_ayah": "Nessun segnalibro disponibile. Si prega di tenere premuto sull'ayah che si desidera contrassegnare.",
     "page": "Pagina",
-    "prayer_times_in": "Orari di preghiera a"
+    "prayer_times_in": "Orari di preghiera a",
+    "update_new_version": "Aggiorna Corano",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
