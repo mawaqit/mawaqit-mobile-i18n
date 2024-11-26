@@ -923,5 +923,9 @@
     "empty_quran_search": "Arama sonuçları burada görünecektir",
     "no_bookmark_ayah": "Yer işareti yok. Ayeti yer işareti yapmak için uzun süre basılı tutun.",
     "page": "Sayfa",
-    "prayer_times_in": "Namaz vakitleri"
+    "prayer_times_in": "Namaz vakitleri",
+    "update_new_version": "Update Quran",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
