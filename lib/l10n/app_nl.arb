@@ -923,5 +923,9 @@
     "empty_quran_search": "Les résultats de la recherche apparaîtront ici",
     "no_bookmark_ayah": "Geen bladwijzers beschikbaar. Houd de ayah die u wilt bladwijzeren lang ingedrukt.",
     "page": "Pagina",
-    "prayer_times_in": "Czasy modlitwy w"
+    "prayer_times_in": "Czasy modlitwy w",
+    "update_new_version": "Koran bijwerken",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
