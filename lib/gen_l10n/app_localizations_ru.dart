@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Russian (`ru`).
 class AppLocalizationsRu extends AppLocalizations {
   AppLocalizationsRu([String locale = 'ru']) : super(locale);
@@ -899,9 +901,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_adjustment_angles => 'Углы';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'Пользовательский угол для';
-  }
+  String get calculation_prayer_custom_angle => 'Пользовательский угол для';
 
   @override
   String get error_download_quran_failed => 'Не удалось загрузить Коран.';

@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Polish (`pl`).
 class AppLocalizationsPl extends AppLocalizations {
   AppLocalizationsPl([String locale = 'pl']) : super(locale);
@@ -899,9 +901,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get calculation_adjustment_angles => 'Kąty niestandardowe';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'Niestandardowy kąt dla';
-  }
+  String get calculation_prayer_custom_angle => 'Niestandardowy kąt dla';
 
   @override
   String get error_download_quran_failed => 'Nie udało się pobrać Koranu';

@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for German (`de`).
 class AppLocalizationsDe extends AppLocalizations {
   AppLocalizationsDe([String locale = 'de']) : super(locale);
@@ -899,9 +901,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get calculation_adjustment_angles => 'Winkel';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'Eigener Winkel für';
-  }
+  String get calculation_prayer_custom_angle => 'Eigener Winkel für';
 
   @override
   String get error_download_quran_failed => 'Fehler beim Herunterladen des Korans';

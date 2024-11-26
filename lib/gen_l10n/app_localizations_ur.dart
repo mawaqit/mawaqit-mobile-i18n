@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Urdu (`ur`).
 class AppLocalizationsUr extends AppLocalizations {
   AppLocalizationsUr([String locale = 'ur']) : super(locale);
@@ -899,9 +901,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get calculation_adjustment_angles => 'Custom angles';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return '$prayer custom angle';
-  }
+  String get calculation_prayer_custom_angle => 'زاوية مخصصة لـ';
 
   @override
   String get error_download_quran_failed => 'قرآن پاک ڈاؤن لوڈ کرنے میں ناکام';

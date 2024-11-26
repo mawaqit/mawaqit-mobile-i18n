@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for French (`fr`).
 class AppLocalizationsFr extends AppLocalizations {
   AppLocalizationsFr([String locale = 'fr']) : super(locale);
@@ -899,9 +901,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get calculation_adjustment_angles => 'Angles';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'Angle personnalisé pour';
-  }
+  String get calculation_prayer_custom_angle => 'Angle personnalisé pour';
 
   @override
   String get error_download_quran_failed => 'Erreur lors du téléchargement du Coran';

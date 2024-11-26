@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Albanian (`sq`).
 class AppLocalizationsSq extends AppLocalizations {
   AppLocalizationsSq([String locale = 'sq']) : super(locale);
@@ -899,9 +901,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_adjustment_angles => 'Custom angles';
 
   @override
-  String calculation_prayer_custom_angle(Object prayer) {
-    return 'Custom angle for';
-  }
+  String get calculation_prayer_custom_angle => 'Custom angle for';
 
   @override
   String get error_download_quran_failed => 'Failed to download Quran';
