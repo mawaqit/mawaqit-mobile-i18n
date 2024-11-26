@@ -923,5 +923,9 @@
     "empty_quran_search": "Les résultats de la recherche apparaîtront ici",
     "no_bookmark_ayah": "Keine Lesezeichen verfügbar. Bitte drücken Sie lange auf die Ayah, die Sie markieren möchten.",
     "page": "Seite",
-    "prayer_times_in": "Gebetszeiten in"
+    "prayer_times_in": "Gebetszeiten in",
+    "update_new_version": "Koran aktualisieren",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    }
 }
