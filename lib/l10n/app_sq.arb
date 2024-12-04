@@ -511,7 +511,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.",
+    "tutorial_text_mosque_info": "Gjithçka rreth xhamisë suaj: objektet, adresa, telefoni, email, dhurimi dhe më shumë.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.",
+    "tutorial_text_announcements": "Njoftimet për mesazhet dhe njoftimet nga xhamia juaj do të shfaqen këtu.\nKur prekni këtë buton, do të shihni detajet e plota. Këto njoftime mund të jenë një mesazh Flash, një imazh ose edhe një video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
