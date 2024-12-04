@@ -506,13 +506,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tutorial_title_mosque_info => 'Mosque Information';
 
   @override
-  String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
+  String get tutorial_text_mosque_info => 'Gjithçka rreth xhamisë suaj: objektet, adresa, telefoni, email, dhurimi dhe më shumë.';
 
   @override
   String get tutorial_title_announcements => 'Mosque messages and announcements';
 
   @override
-  String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
+  String get tutorial_text_announcements => 'Njoftimet për mesazhet dhe njoftimet nga xhamia juaj do të shfaqen këtu.\nKur prekni këtë buton, do të shihni detajet e plota. Këto njoftime mund të jenë një mesazh Flash, një imazh ose edhe një video.';
 
   @override
   String get onboarding_title_1 => 'Select your language';
