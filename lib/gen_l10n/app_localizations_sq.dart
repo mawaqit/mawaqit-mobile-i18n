@@ -467,7 +467,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get in_ => 'in';
 
   @override
-  String get imsak => 'Imsak';
+  String get imsak => 'Imsaku';
 
   @override
   String get eid => 'Namazi i Bajramit në';
@@ -497,7 +497,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tutorial_text_main_mosque => 'Xhamia juaj kryesore shfaqet këtu.\nMund të rrëshqisni majtas dhe djathtas për të kaluar midis xhamive tuaja të preferuara.';
 
   @override
-  String get tutorial_title_countdown => 'Next prayer indicator';
+  String get tutorial_title_countdown => 'Treguesi i namazit së radhës';
 
   @override
   String get tutorial_text_countdown => 'Ky numërim mbrapsht ju tregon kohën e mbetur para namazit tjetër.';
@@ -605,7 +605,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get adhan_Makkah => 'Mekas';
 
   @override
-  String get tutorial_title_iqama => 'Iqama';
+  String get tutorial_title_iqama => 'Ikameti';
 
   @override
   String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
