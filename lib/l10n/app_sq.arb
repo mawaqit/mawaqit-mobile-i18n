@@ -446,7 +446,7 @@
         "description": "_",
         "type": "text"
     },
-    "imsak": "Imsak",
+    "imsak": "Imsaku",
     "@imsak": {
         "description": "_",
         "type": "text"
@@ -496,7 +496,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Next prayer indicator",
+    "tutorial_title_countdown": "Treguesi i namazit së radhës",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
@@ -676,7 +676,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "Ikameti",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
