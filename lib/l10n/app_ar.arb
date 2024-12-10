@@ -939,5 +939,9 @@
     "update_latest_quran": "نسخة جديدة من القرآن متاحة للتحميل. انقر فوق 'تحديث' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
+    },
+    "set_notification_for_all_parayer": "تعيين هذا لكل صلاة",
+    "@set_notification_for_all_parayer": {
+        "description": "-> set_notification_for_all_parayer_"
     }
 }
