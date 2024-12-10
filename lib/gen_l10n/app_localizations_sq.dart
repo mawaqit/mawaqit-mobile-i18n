@@ -1263,4 +1263,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get update_latest_quran => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.';
+
+  @override
+  String get set_notification_for_all_parayer => 'Set this for every prayer';
 }

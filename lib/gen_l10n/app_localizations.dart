@@ -2636,6 +2636,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
   String get update_latest_quran;
+
+  /// -> set_notification_for_all_parayer_
+  ///
+  /// In en, this message translates to:
+  /// **'Set this for every prayer'**
+  String get set_notification_for_all_parayer;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

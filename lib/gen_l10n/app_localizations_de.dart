@@ -1263,4 +1263,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get update_latest_quran => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.';
+
+  @override
+  String get set_notification_for_all_parayer => 'Setze dies für jedes Gebet';
 }
