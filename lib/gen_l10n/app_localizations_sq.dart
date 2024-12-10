@@ -260,7 +260,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get set_up_your_prayer => 'Konfiguro namazin tënd';
 
   @override
-  String get notifications => 'Njoftim';
+  String get notifications => 'Njoftimet';
 
   @override
   String get mosques_around_you => 'Mosques around you';
@@ -1205,7 +1205,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get downloading => 'Duke u shkarkuar';
 
   @override
-  String get cant_download_more_than_3 => 'Cannot download more than 3 at the same time.';
+  String get cant_download_more_than_3 => 'Nuk mund të shkarkohën më shumë se 3 njëkohësisht.';
 
   @override
   String get boost => 'Boost';
@@ -1265,5 +1265,5 @@ class AppLocalizationsSq extends AppLocalizations {
   String get update_latest_quran => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.';
 
   @override
-  String get set_notification_for_all_parayer => 'Set this for every prayer';
+  String get set_notification_for_all_parayer => 'Vendoseni këtë për çdo namaz';
 }
