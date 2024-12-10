@@ -939,5 +939,9 @@
     "update_latest_quran": "Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
+    },
+    "set_notification_for_all_parayer": "Установить это для каждого молитвы",
+    "@set_notification_for_all_parayer": {
+        "description": "-> set_notification_for_all_parayer_"
     }
 }
