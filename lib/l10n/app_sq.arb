@@ -939,5 +939,9 @@
     "update_latest_quran": "Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni 'Përditëso' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
+    },
+    "set_notification_for_all_parayer": "Set this for every prayer",
+    "@set_notification_for_all_parayer": {
+        "description": "-> set_notification_for_all_parayer_"
     }
 }
