@@ -939,5 +939,9 @@
     "update_latest_quran": "Versi baru Al-Quran tersedia untuk diunduh. Ketuk 'Perbarui' untuk mengakses penyempurnaan terbaru dan lanjutkan perjalanan Anda dengan kebijaksanaan ilahi.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
+    },
+    "set_notification_for_all_parayer": "Tetapkan ini untuk setiap doa",
+    "@set_notification_for_all_parayer": {
+        "description": "-> set_notification_for_all_parayer_"
     }
 }
