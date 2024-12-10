@@ -164,7 +164,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get adhan => 'Ezani';
 
   @override
-  String get adhan_Makkah_fajr => 'Meka';
+  String get adhan_Makkah_fajr => 'Mekas (Sabah)';
 
   @override
   String get adhan_Madinah => 'Medinas';
@@ -608,22 +608,22 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tutorial_title_iqama => 'Ikameti';
 
   @override
-  String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
+  String get tutorial_text_iqama => 'Këtu gjeni kohëzgjatjen ndërmjet ezanit dhe ikames në xhami';
 
   @override
-  String get calendar_tooltip_download => 'Download calendar';
+  String get calendar_tooltip_download => 'Shkarkoni kalendarin';
 
   @override
-  String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
+  String get calendar_download_permission_refused => 'Leja e shkarkimit u refuzua patjetër, ju lutemi lejoni shkarkimin';
 
   @override
-  String get calendar_downloading => 'Downloading calendar...';
+  String get calendar_downloading => 'Po shkarkon kalendarin...';
 
   @override
-  String get location_service_disabled => 'Location Service is disabled, please enable it.';
+  String get location_service_disabled => 'Shërbimi i vendndodhjes është i çaktivizuar, aktivizojeni.';
 
   @override
-  String get location_permission_denied => 'Location Permission Denied, please allow it.';
+  String get location_permission_denied => 'Leja e vendndodhjes është refuzuar, ju lutemi lejojeni.';
 
   @override
   String get location_permission_denied_forever => 'Leja e vendndodhjes u refuzua përgjithmonë, lejojeni atë në faqen e cilësimeve.';
@@ -641,10 +641,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get add => 'Shto';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'Xhamia';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'Le të gjejmë xhaminë më të afërt';
 
   @override
   String get on_boarding_nearest_mosque_text => 'Këtu janë xhamitë që gjenden rreth jush sipas vendndodhjes tuaj';
@@ -662,16 +662,16 @@ class AppLocalizationsSq extends AppLocalizations {
   String get read_quran => 'Lexo Kuran';
 
   @override
-  String get ayahs => 'Ayahs';
+  String get ayahs => 'Ajetët';
 
   @override
-  String get chapter => 'Surah';
+  String get chapter => 'Surja';
 
   @override
-  String get meaning => 'Meaning';
+  String get meaning => 'Kuptimi';
 
   @override
-  String get al_quran => 'Al Quran';
+  String get al_quran => 'Kurani';
 
   @override
   String get surah_information => 'Informacioni i sures';
@@ -698,28 +698,28 @@ class AppLocalizationsSq extends AppLocalizations {
   String get quran_juzz => 'Xhuz';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'Ajeti';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'Ajetet';
 
   @override
-  String get surah => 'Surah';
+  String get surah => 'Surja';
 
   @override
   String get continue_reading => 'Vazhdo Leximin';
 
   @override
-  String get bookmarks => 'Bookmarks';
+  String get bookmarks => 'Faqeshënuesit';
 
   @override
   String get juzz => 'Xhuz';
 
   @override
-  String get quran_page => 'Page';
+  String get quran_page => 'Faqe';
 
   @override
-  String get quran_turning_page => 'Turning page';
+  String get quran_turning_page => 'Orientimi i faqes';
 
   @override
   String get quran_from_right_to_left => 'Nga e djathta në të majtë';
@@ -734,7 +734,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get quran_from_bottom_to_top => 'Nga poshtë lart';
 
   @override
-  String get quran_pages_color => 'Pages color';
+  String get quran_pages_color => 'Ngjyra e faqeve';
 
   @override
   String get english_tr => 'Anglisht';
@@ -764,16 +764,16 @@ class AppLocalizationsSq extends AppLocalizations {
   String get surahs_downloaded => 'Suret e shkarkuara';
 
   @override
-  String get surahs_chapter => 'Surahs - Chapter';
+  String get surahs_chapter => 'Suret - Kapitulli';
 
   @override
-  String get my_likes => 'My Likes';
+  String get my_likes => 'Pëlqimet e mia';
 
   @override
   String get cancel => 'Anulo';
 
   @override
-  String get next => 'Next';
+  String get next => 'Vazhdo';
 
   @override
   String get search_surah => 'Kërko suren';
@@ -794,7 +794,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get surahs => 'Suret';
 
   @override
-  String get chapters => 'Chapters';
+  String get chapters => 'Kapitujt';
 
   @override
   String get calculation_info => 'Cilësimet në këtë seksion kanë të bëjnë vetëm me kohët e namazit që llogariten nga vendndodhja juaj dhe nuk kanë të bëjnë me kohët e faljes së xhamive.';
@@ -818,7 +818,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_methods => 'Metodat e llogaritjes';
 
   @override
-  String get calculation_methods_france => 'Muslim of France (ex UOIF)';
+  String get calculation_methods_france => 'Muslimanët e Francës (ish UOIF)';
 
   @override
   String get calculation_methods_algeria => 'Ministria Algjeriane e Çështjeve Fetare dhe Vakëfeve';
