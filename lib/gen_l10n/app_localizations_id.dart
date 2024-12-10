@@ -1263,4 +1263,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get update_latest_quran => 'Versi baru Al-Quran tersedia untuk diunduh. Ketuk \'Perbarui\' untuk mengakses penyempurnaan terbaru dan lanjutkan perjalanan Anda dengan kebijaksanaan ilahi.';
+
+  @override
+  String get set_notification_for_all_parayer => 'Tetapkan ini untuk setiap doa';
 }

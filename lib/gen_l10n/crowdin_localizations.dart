@@ -1285,6 +1285,9 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get update_latest_quran => Crowdin.getText(localeName, 'update_latest_quran') ?? _fallbackTexts.update_latest_quran;
 
+	@override
+  String get set_notification_for_all_parayer => Crowdin.getText(localeName, 'set_notification_for_all_parayer') ?? _fallbackTexts.set_notification_for_all_parayer;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

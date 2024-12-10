@@ -1263,4 +1263,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get update_latest_quran => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';
+
+  @override
+  String get set_notification_for_all_parayer => 'Bunu her dua için ayarlayın';
 }

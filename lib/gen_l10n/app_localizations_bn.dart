@@ -1263,4 +1263,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+
+  @override
+  String get set_notification_for_all_parayer => 'Set this for every prayer';
 }

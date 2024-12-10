@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -939,5 +939,9 @@
     "update_latest_quran": "Una nueva versión del Corán está disponible para descargar. Pulsa \"Actualizar\" para acceder a las últimas mejoras y continuar tu viaje con sabiduría divina.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
+    },
+    "set_notification_for_all_parayer": "Establecer esto para cada oración",
+    "@set_notification_for_all_parayer": {
+        "description": "-> set_notification_for_all_parayer_"
     }
 }
