@@ -249,7 +249,7 @@
     "notification_denied": "Ju i keni refuzuar lejet e njoftimit, kështu që nuk do të merrni asnjë njoftim.",
     "at_least_one_mosque": "Shto të paktën një xhami për të vazhduar",
     "set_up_your_prayer": "Konfiguro namazin tënd",
-    "notifications": "Njoftim",
+    "notifications": "Njoftimet",
     "mosques_around_you": "Mosques around you",
     "mosques_in_the_selected_area": "Mosques in the selected area",
     "mosques_with": "Mosques with",
@@ -908,7 +908,7 @@
     "listen_to_quran": "DËGJO KURAN",
     "search_hint_text": "Kërkoni për një xhami ose një qytet",
     "downloading": "Duke u shkarkuar",
-    "cant_download_more_than_3": "Cannot download more than 3 at the same time.",
+    "cant_download_more_than_3": "Nuk mund të shkarkohën më shumë se 3 njëkohësisht.",
     "boost": "Boost",
     "recitation_deleted_successfully": "Recitimi u fshi me sukses",
     "quran": "Kuran",
@@ -940,7 +940,7 @@
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
-    "set_notification_for_all_parayer": "Set this for every prayer",
+    "set_notification_for_all_parayer": "Vendoseni këtë për çdo namaz",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     }
