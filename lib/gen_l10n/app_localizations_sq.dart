@@ -893,7 +893,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_adjustment_prayers => 'Rregullimet e namazit';
 
   @override
-  String get calculation_adjustment_prayers_minutes => 'minutes';
+  String get calculation_adjustment_prayers_minutes => 'minutat';
 
   @override
   String get calculation_adjustment_angles => 'Kënde të personalizuara';
@@ -1025,7 +1025,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get notification_delay_debugging_is => 'Korrigjimi i vonesës së njoftimit është';
 
   @override
-  String get banner_enable => 'Banner enable';
+  String get banner_enable => 'Aktivizo bannerin';
 
   @override
   String get banner => 'Banner';
@@ -1241,7 +1241,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get no_recitator_found => 'Nuk u gjet asnjë recitues';
 
   @override
-  String get empty_quran_search => 'Search results will appear here';
+  String get empty_quran_search => 'Rezultatet e kërkimit do të shfaqen këtu';
 
   @override
   String get no_bookmark_ayah => 'Nuk ka faqeshënues të disponueshëm. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.';
