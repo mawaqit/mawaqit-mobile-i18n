@@ -436,7 +436,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "Tüm bu bilgiler Cami Sorulusu tarafından Doldurulmuştur.",
+    "mosque_facilities_Info": "Tüm bu bilgiler Cami sorumlusu tarafından Doldurulmuştur",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
