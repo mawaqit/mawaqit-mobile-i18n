@@ -173,7 +173,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Meka",
+    "adhan_Makkah_fajr": "Mekas (Sabah)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
@@ -249,18 +249,18 @@
     "notification_denied": "Ju i keni refuzuar lejet e njoftimit, kështu që nuk do të merrni asnjë njoftim.",
     "at_least_one_mosque": "Shto të paktën një xhami për të vazhduar",
     "set_up_your_prayer": "Konfiguro namazin tënd",
-    "notifications": "Njoftim",
-    "mosques_around_you": "Mosques around you",
-    "mosques_in_the_selected_area": "Mosques in the selected area",
-    "mosques_with": "Mosques with",
+    "notifications": "Njoftimet",
+    "mosques_around_you": "Xhamitë rreth jush",
+    "mosques_in_the_selected_area": "Xhamitë në zonën e përzgjedhur",
+    "mosques_with": "Xhamitë me",
     "allow_mawaqit_to_access_my_location": "Lejo Mawaqit të ketë qasje në vendndodhjen time.",
-    "enable_location_service_from_app_settings": "Enable location service from app settings.",
+    "enable_location_service_from_app_settings": "Aktivizo shërbimin e vendndodhjes nga cilësimet e aplikacionit.",
     "the_request_timeout": "Kërkesa ka skaduar",
     "no_internet_connection": "Nuk ka Internet",
     "try_again": "Provo përsëri",
     "virtual_mosque": "Xhami virtuale",
     "no_mosque_in_selected_area": "Nuk u gjet asnjë xhami në zonën e zgjedhur",
-    "no_mosque_with": "Couldn't find any mosques with",
+    "no_mosque_with": "Nuk mund të gjeja asnjë xhami me",
     "retry": "Provo përseri",
     "search_here": "Kërko Këtu",
     "enter_at_least_3_char": "Futni të paktën 3 karaktere për të kërkuar",
@@ -381,7 +381,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "Emaili",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -436,12 +436,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All this information is filled in by the people in charge of the mosque",
+    "mosque_facilities_Info": "Të gjitha këto të dhëna plotësohen nga përgjegjësit e xhamisë",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "në",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -456,7 +456,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "Minutat",
     "@minutes": {
         "description": "_",
         "type": "text"
@@ -471,7 +471,7 @@
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "Përditëso",
     "@update": {
         "description": "_",
         "type": "text"
@@ -681,32 +681,32 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "Këtu gjeni kohëzgjatjen ndërmjet ezanit dhe ikames në xhami",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "Shkarkoni kalendarin",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Download permission refused definitely, please allow download",
+    "calendar_download_permission_refused": "Leja e shkarkimit u refuzua patjetër, ju lutemi lejoni shkarkimin",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "Po shkarkon kalendarin...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
     },
-    "location_service_disabled": "Location Service is disabled, please enable it.",
+    "location_service_disabled": "Shërbimi i vendndodhjes është i çaktivizuar, aktivizojeni.",
     "@location_service_disabled": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Location Permission Denied, please allow it.",
+    "location_permission_denied": "Leja e vendndodhjes është refuzuar, ju lutemi lejojeni.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
@@ -720,17 +720,17 @@
     "and": "dhe",
     "continue_to_app": "Vazhdo",
     "add": "Shto",
-    "mosque": "Mosque",
-    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
+    "mosque": "Xhamia",
+    "on_boarding_nearest_mosque": "Le të gjejmë xhaminë më të afërt",
     "on_boarding_nearest_mosque_text": "Këtu janë xhamitë që gjenden rreth jush sipas vendndodhjes tuaj",
     "search_no_result_for_text": "Nuk gjetëm asnjë rezultat për",
     "surah_audio_downloading": "Audio e surës po shkarkohet...",
     "msg_internet_connection": "Nuk ke lidhje interneti",
     "read_quran": "Lexo Kuran",
-    "ayahs": "Ayahs",
-    "chapter": "Surah",
-    "meaning": "Meaning",
-    "al_quran": "Al Quran",
+    "ayahs": "Ajetët",
+    "chapter": "Surja",
+    "meaning": "Kuptimi",
+    "al_quran": "Kurani",
     "surah_information": "Informacioni i sures",
     "surah_number": "Numri i sures",
     "quran_browsing": "Shfletimi",
@@ -739,19 +739,19 @@
     "quran_translation": "Përkthimi",
     "quran_mushaf": "Mushaf",
     "quran_juzz": "Xhuz",
-    "ayah": "Ayah",
-    "quran_verses": "Verses",
-    "surah": "Surah",
+    "ayah": "Ajeti",
+    "quran_verses": "Ajetet",
+    "surah": "Surja",
     "continue_reading": "Vazhdo Leximin",
-    "bookmarks": "Bookmarks",
+    "bookmarks": "Faqeshënuesit",
     "juzz": "Xhuz",
-    "quran_page": "Page",
-    "quran_turning_page": "Turning page",
+    "quran_page": "Faqe",
+    "quran_turning_page": "Orientimi i faqes",
     "quran_from_right_to_left": "Nga e djathta në të majtë",
     "quran_from_left_to_right": "Nga e majta në të djathtë",
     "quran_from_top_to_bottom": "Nga lart poshtë",
     "quran_from_bottom_to_top": "Nga poshtë lart",
-    "quran_pages_color": "Pages color",
+    "quran_pages_color": "Ngjyra e faqeve",
     "english_tr": "Anglisht",
     "french_tr": "Frëngjisht",
     "spanish_tr": "Spanjisht",
@@ -761,25 +761,25 @@
     "reciters": "Recituesit",
     "favorite_reciters": "Recituesit e preferuar",
     "surahs_downloaded": "Suret e shkarkuara",
-    "surahs_chapter": "Surahs - Chapter",
-    "my_likes": "My Likes",
+    "surahs_chapter": "Suret - Kapitulli",
+    "my_likes": "Pëlqimet e mia",
     "cancel": "Anulo",
-    "next": "Next",
+    "next": "Vazhdo",
     "search_surah": "Kërko suren",
     "not_downloaded_recitation": "Nuk keni shkarkuar ende asnjë recitim.",
     "not_favorite_reciter": "Nuk keni shënuar ende ndonjë recitues të preferuar.",
     "search_reciter": "Kërko Recitues",
     "al_quran_al_kareem": "Kurani Famëlartë",
     "surahs": "Suret",
-    "chapters": "Chapters",
+    "chapters": "Kapitujt",
     "calculation_info": "Cilësimet në këtë seksion kanë të bëjnë vetëm me kohët e namazit që llogariten nga vendndodhja juaj dhe nuk kanë të bëjnë me kohët e faljes së xhamive.",
-    "calculation_madhab": "Jurisprudence - Madhab",
+    "calculation_madhab": "Jurisprudencë - Medh'hebi",
     "calculation_madhab_shafii": "Shafi’i, Hambeli dhe Maliki",
     "calculation_madhab_shafii_countries": "Jordania, Palestina, Jemeni, Somalia, Eritrea, Malajzia, Indonezia, Brunei, Egjipti Jugor, Arabia Saudite, Katari, Afrika e Veriut, Afrika Perëndimore, Emiratet e Bashkuara Arabe, Kuvajti...",
     "calculation_madhab_hanafi": "Hanefi",
     "calculation_madhab_hanafi_countries": "Levanti, Pakistani, Afganistani, India, Bangladeshi, Iraku, Turqia, Rusia, Kina, Ballkani...",
     "calculation_methods": "Metodat e llogaritjes",
-    "calculation_methods_france": "Muslim of France (ex UOIF)",
+    "calculation_methods_france": "Muslimanët e Francës (ish UOIF)",
     "calculation_methods_algeria": "Ministria Algjeriane e Çështjeve Fetare dhe Vakëfeve",
     "calculation_methods_morocco": "Ministria Marokene e Vakëfeve dhe Çështjeve Islame",
     "calculation_methods_muslim_world": "Lidhja Botërore e Myslimanëve",
@@ -804,7 +804,7 @@
     "calculation_adjustment": "Korrigjim manual",
     "calculation_adjustment_subtitle": "Rregullimi i faljës dhe këndet e personalizuara",
     "calculation_adjustment_prayers": "Rregullimet e namazit",
-    "calculation_adjustment_prayers_minutes": "minutes",
+    "calculation_adjustment_prayers_minutes": "minutat",
     "calculation_adjustment_angles": "Kënde të personalizuara",
     "calculation_prayer_custom_angle": "Këndi i personalizuar për",
     "error_download_quran_failed": "Shkarkimi i Kuranit dështoi",
@@ -848,7 +848,7 @@
     "set_production_environment": "Vendos Mjedisin e Prodhimit",
     "delay_notification": "Njoftimi me vonesë",
     "notification_delay_debugging_is": "Korrigjimi i vonesës së njoftimit është",
-    "banner_enable": "Banner enable",
+    "banner_enable": "Aktivizo bannerin",
     "banner": "Banner",
     "show_details": "Shfaq Detajet",
     "auto_detect_location": "Sugjeroni xhaminë më të afërt",
@@ -908,7 +908,7 @@
     "listen_to_quran": "DËGJO KURAN",
     "search_hint_text": "Kërkoni për një xhami ose një qytet",
     "downloading": "Duke u shkarkuar",
-    "cant_download_more_than_3": "Cannot download more than 3 at the same time.",
+    "cant_download_more_than_3": "Nuk mund të shkarkohën më shumë se 3 njëkohësisht.",
     "boost": "Boost",
     "recitation_deleted_successfully": "Recitimi u fshi me sukses",
     "quran": "Kuran",
@@ -920,7 +920,7 @@
     "no_surah_found": "Nuk u gjet asnjë sure",
     "no_favorite_recitor_found": "Nuk u gjet asnjë recitues i preferuar",
     "no_recitator_found": "Nuk u gjet asnjë recitues",
-    "empty_quran_search": "Search results will appear here",
+    "empty_quran_search": "Rezultatet e kërkimit do të shfaqen këtu",
     "no_bookmark_ayah": "Nuk ka faqeshënues të disponueshëm. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.",
     "page": "Faqe",
     "prayer_times_in": "Kohët e namazit në",
@@ -940,7 +940,7 @@
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
-    "set_notification_for_all_parayer": "Set this for every prayer",
+    "set_notification_for_all_parayer": "Vendoseni këtë për çdo namaz",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     }

@@ -1265,5 +1265,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get update_latest_quran => 'نسخة جديدة من القرآن متاحة للتحميل. انقر فوق \'تحديث\' للوصول إلى أحدث التحسينات ومواصلة رحلتك بالحكمة المقدسة.';
 
   @override
-  String get set_notification_for_all_parayer => 'تفعيل الإشعارات لكل الصلوات';
+  String get set_notification_for_all_parayer => 'تعيين هذا لكل الصلوات';
 }
