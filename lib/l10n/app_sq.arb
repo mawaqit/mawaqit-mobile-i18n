@@ -260,7 +260,7 @@
     "try_again": "Provo përsëri",
     "virtual_mosque": "Xhami virtuale",
     "no_mosque_in_selected_area": "Nuk u gjet asnjë xhami në zonën e zgjedhur",
-    "no_mosque_with": "Nuk mund të gjeja asnjë xhami me",
+    "no_mosque_with": "Nuk mund të gjejë asnjë xhami me",
     "retry": "Provo përseri",
     "search_here": "Kërko Këtu",
     "enter_at_least_3_char": "Futni të paktën 3 karaktere për të kërkuar",
@@ -381,7 +381,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Emaili",
+    "mosque_Email": "E-mail",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -441,7 +441,7 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "në",
+    "in_": "pas",
     "@in_": {
         "description": "_",
         "type": "text"
