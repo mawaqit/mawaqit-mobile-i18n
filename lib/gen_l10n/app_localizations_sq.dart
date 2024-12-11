@@ -263,19 +263,19 @@ class AppLocalizationsSq extends AppLocalizations {
   String get notifications => 'Njoftimet';
 
   @override
-  String get mosques_around_you => 'Mosques around you';
+  String get mosques_around_you => 'Xhamitë rreth jush';
 
   @override
-  String get mosques_in_the_selected_area => 'Mosques in the selected area';
+  String get mosques_in_the_selected_area => 'Xhamitë në zonën e përzgjedhur';
 
   @override
-  String get mosques_with => 'Mosques with';
+  String get mosques_with => 'Xhamitë me';
 
   @override
   String get allow_mawaqit_to_access_my_location => 'Lejo Mawaqit të ketë qasje në vendndodhjen time.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location service from app settings.';
+  String get enable_location_service_from_app_settings => 'Aktivizo shërbimin e vendndodhjes nga cilësimet e aplikacionit.';
 
   @override
   String get the_request_timeout => 'Kërkesa ka skaduar';
@@ -293,7 +293,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get no_mosque_in_selected_area => 'Nuk u gjet asnjë xhami në zonën e zgjedhur';
 
   @override
-  String get no_mosque_with => 'Couldn\'t find any mosques with';
+  String get no_mosque_with => 'Nuk mund të gjeja asnjë xhami me';
 
   @override
   String get retry => 'Provo përseri';
@@ -428,7 +428,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mosque_Phone => 'Telefoni';
 
   @override
-  String get mosque_Email => 'Email';
+  String get mosque_Email => 'Emaili';
 
   @override
   String get mosque_ByMawaqit => 'Nga MAWAQIT https://mawaqit.net';
@@ -461,10 +461,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mosques_Facilities_IftarRamadan => 'Iftar Ramazan';
 
   @override
-  String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
+  String get mosque_facilities_Info => 'Të gjitha këto të dhëna plotësohen nga përgjegjësit e xhamisë';
 
   @override
-  String get in_ => 'in';
+  String get in_ => 'në';
 
   @override
   String get imsak => 'Imsaku';
@@ -473,7 +473,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get eid => 'Namazi i Bajramit në';
 
   @override
-  String get minutes => 'Minutes';
+  String get minutes => 'Minutat';
 
   @override
   String get jumua2 => 'Xhuma 2';
@@ -482,7 +482,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get please_update => 'Ekziston një version më i ri i MAWAQIT, ju lutemi përditësoni';
 
   @override
-  String get update => 'Update';
+  String get update => 'Përditëso';
 
   @override
   String get tutorial_skip => 'Kapërceje tutorialin';
@@ -800,7 +800,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_info => 'Cilësimet në këtë seksion kanë të bëjnë vetëm me kohët e namazit që llogariten nga vendndodhja juaj dhe nuk kanë të bëjnë me kohët e faljes së xhamive.';
 
   @override
-  String get calculation_madhab => 'Jurisprudence - Madhab';
+  String get calculation_madhab => 'Jurisprudencë - Medh\'hebi';
 
   @override
   String get calculation_madhab_shafii => 'Shafi’i, Hambeli dhe Maliki';
