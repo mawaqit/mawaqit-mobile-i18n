@@ -461,7 +461,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get mosques_Facilities_IftarRamadan => 'Ramazan İftarı';
 
   @override
-  String get mosque_facilities_Info => 'Tüm bu bilgiler Cami Sorulusu tarafından Doldurulmuştur.';
+  String get mosque_facilities_Info => 'Tüm bu bilgiler Cami sorumlusu tarafından Doldurulmuştur';
 
   @override
   String get in_ => 'Sonra';

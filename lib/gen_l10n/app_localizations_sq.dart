@@ -293,7 +293,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get no_mosque_in_selected_area => 'Nuk u gjet asnjë xhami në zonën e zgjedhur';
 
   @override
-  String get no_mosque_with => 'Nuk mund të gjeja asnjë xhami me';
+  String get no_mosque_with => 'Nuk mund të gjejë asnjë xhami me';
 
   @override
   String get retry => 'Provo përseri';
@@ -428,7 +428,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mosque_Phone => 'Telefoni';
 
   @override
-  String get mosque_Email => 'Emaili';
+  String get mosque_Email => 'E-mail';
 
   @override
   String get mosque_ByMawaqit => 'Nga MAWAQIT https://mawaqit.net';
@@ -464,7 +464,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mosque_facilities_Info => 'Të gjitha këto të dhëna plotësohen nga përgjegjësit e xhamisë';
 
   @override
-  String get in_ => 'në';
+  String get in_ => 'pas';
 
   @override
   String get imsak => 'Imsaku';
