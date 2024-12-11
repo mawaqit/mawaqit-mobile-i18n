@@ -250,17 +250,17 @@
     "at_least_one_mosque": "Shto të paktën një xhami për të vazhduar",
     "set_up_your_prayer": "Konfiguro namazin tënd",
     "notifications": "Njoftimet",
-    "mosques_around_you": "Mosques around you",
-    "mosques_in_the_selected_area": "Mosques in the selected area",
-    "mosques_with": "Mosques with",
+    "mosques_around_you": "Xhamitë rreth jush",
+    "mosques_in_the_selected_area": "Xhamitë në zonën e përzgjedhur",
+    "mosques_with": "Xhamitë me",
     "allow_mawaqit_to_access_my_location": "Lejo Mawaqit të ketë qasje në vendndodhjen time.",
-    "enable_location_service_from_app_settings": "Enable location service from app settings.",
+    "enable_location_service_from_app_settings": "Aktivizo shërbimin e vendndodhjes nga cilësimet e aplikacionit.",
     "the_request_timeout": "Kërkesa ka skaduar",
     "no_internet_connection": "Nuk ka Internet",
     "try_again": "Provo përsëri",
     "virtual_mosque": "Xhami virtuale",
     "no_mosque_in_selected_area": "Nuk u gjet asnjë xhami në zonën e zgjedhur",
-    "no_mosque_with": "Couldn't find any mosques with",
+    "no_mosque_with": "Nuk mund të gjeja asnjë xhami me",
     "retry": "Provo përseri",
     "search_here": "Kërko Këtu",
     "enter_at_least_3_char": "Futni të paktën 3 karaktere për të kërkuar",
@@ -381,7 +381,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "Emaili",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -436,12 +436,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All this information is filled in by the people in charge of the mosque",
+    "mosque_facilities_Info": "Të gjitha këto të dhëna plotësohen nga përgjegjësit e xhamisë",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "në",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -456,7 +456,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "Minutat",
     "@minutes": {
         "description": "_",
         "type": "text"
@@ -471,7 +471,7 @@
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "Përditëso",
     "@update": {
         "description": "_",
         "type": "text"
@@ -773,7 +773,7 @@
     "surahs": "Suret",
     "chapters": "Kapitujt",
     "calculation_info": "Cilësimet në këtë seksion kanë të bëjnë vetëm me kohët e namazit që llogariten nga vendndodhja juaj dhe nuk kanë të bëjnë me kohët e faljes së xhamive.",
-    "calculation_madhab": "Jurisprudence - Madhab",
+    "calculation_madhab": "Jurisprudencë - Medh'hebi",
     "calculation_madhab_shafii": "Shafi’i, Hambeli dhe Maliki",
     "calculation_madhab_shafii_countries": "Jordania, Palestina, Jemeni, Somalia, Eritrea, Malajzia, Indonezia, Brunei, Egjipti Jugor, Arabia Saudite, Katari, Afrika e Veriut, Afrika Perëndimore, Emiratet e Bashkuara Arabe, Kuvajti...",
     "calculation_madhab_hanafi": "Hanefi",
