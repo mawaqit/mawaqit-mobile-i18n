@@ -61,5 +61,6 @@ class MawaqitLocalization {
     Locale('ru', 'RU'),
     Locale('tr', 'TR'),
     Locale('ur', 'PK'),
+    Locale('sq', 'AL'),
   ];
 }
