@@ -281,7 +281,7 @@
     "permission_message2": "para receber a notificação na hora.",
     "notifications_delay_detected": "Atraso nas notificações encontrado",
     "open_setting": "Abrir Configurações",
-    "noJumua": "Não há JUM'A oração da sexta-feira",
+    "noJumua": "Não há JUM'A -oração da sexta-feira-",
     "@noJumua": {
         "description": "_",
         "type": "text"
@@ -326,7 +326,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "Ocorreu algo de errado.",
+    "favorites_Error": "Ocorreu algo errado...",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
@@ -586,22 +586,22 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minutos para Azan",
+    "minutes_to_athan": "minutos até Azan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Review the tutorial",
+    "show_tutorial": "Reveja o tutorial",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_chose_mosque_please": "Please choose a mosque from the search list",
+    "onboarding_chose_mosque_please": "Escolha uma mesquita da lista de pesquisa",
     "@onboarding_chose_mosque_please": {
         "description": "_",
         "type": "text"
     },
-    "done": "Done",
+    "done": "Concluído",
     "@done": {
         "description": "_",
         "type": "text"
@@ -616,32 +616,32 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_title": "Open the app",
+    "notification_open_app_title": "Abrir o aplicativo",
     "@notification_open_app_title": {
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Please open the app to maintain notifications",
+    "notification_open_app_body": "Por favor, abre o aplicativo para manter as notificações",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Select a prayer notification",
+    "tutorial_title_notification": "Selecione uma notificação de oração",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "Aqui, pode selecionar um tipo de notificação, Azan, som ou silenciosa",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Become a MAWAQIT ambassador and offer our solution to your mosque, it's free\nhttps://mawaqit.net",
+    "search_no_result": "Torne-se um embaixador Mawaqit e ofereça a nossa solução para a sua mesquita, é grátis\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Rate MAWAQIT",
+    "rate_popin_title": "Avalie MAWAQIT",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
@@ -651,17 +651,17 @@
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "RATE",
+    "rate_popin_rate": "AVALIAR",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_no": "NO THANKS",
+    "rate_popin_no": "NÃO, OBRIGADO",
     "@rate_popin_no": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_later": "MAYBE LATER",
+    "rate_popin_later": "TALVEZ MAIS TARDE",
     "@rate_popin_later": {
         "description": "_",
         "type": "text"
@@ -696,7 +696,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "Baixando calendário...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
@@ -717,20 +717,20 @@
         "type": "text"
     },
     "at_least_one_mosque_error": "You should have at least one mosque.",
-    "and": "and",
-    "continue_to_app": "Continue",
-    "add": "Add",
-    "mosque": "Mosque",
+    "and": "e",
+    "continue_to_app": "Continuar",
+    "add": "Adicionar",
+    "mosque": "Mesquita",
     "on_boarding_nearest_mosque": "Lets find the nearest mosque",
     "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
     "search_no_result_for_text": "We did not find any result for",
     "surah_audio_downloading": "Surah Audio Downloading...",
     "msg_internet_connection": "You don't have any internet connection",
-    "read_quran": "Read Quran",
-    "ayahs": "Ayahs",
-    "chapter": "Surah",
-    "meaning": "Meaning",
-    "al_quran": "Al Quran",
+    "read_quran": "Ler o Alcorão",
+    "ayahs": "Versos",
+    "chapter": "Surat (capitulo)",
+    "meaning": "Significado",
+    "al_quran": "Alcorão",
     "surah_information": "Surah Information",
     "surah_number": "Número da Surata",
     "quran_browsing": "Browsing",
@@ -823,24 +823,24 @@
     "download_completed": "Download Completed",
     "download_failed": "Download Failed",
     "download_pages": "Download the pages",
-    "notification": "Notification",
-    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
-    "battery_optimization": "Battery optimization",
+    "notification": "Notificação",
+    "notification_not_supported_below_7": "Não pôde receber notificações de Azan ou de horas de oração porque o seu dispositivo utiliza o Android 7 ou inferior.",
+    "battery_optimization": "Otimização da bateria",
     "battery_optimization_subtitle": "To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.",
-    "allow": "Allow",
-    "deny": "Deny",
+    "allow": "Permitir",
+    "deny": "Negar",
     "force_notification": "Force notifications",
     "tutorial_text_foreground_service": "Tapping on it allows you to toggle the 'Foreground Service' on or off",
-    "enable": "ON",
-    "disable": "OFF",
-    "do_not_show_again": "Don't show it again",
+    "enable": "LIGAR",
+    "disable": "DESLIGAR",
+    "do_not_show_again": "Não mostra novamente",
     "force_notification_title": "MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.",
     "force_notification_body": "Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)",
     "force_notification_dialog1_body": "By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.",
     "force_notification_dialog2_body": "After enabling the 'Force Notifications' swipe down the notification tray you see this notification there",
     "notification_debugging": "Notification Debugging",
     "notification_debugging_details": "Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.",
-    "skip": "Skip",
+    "skip": "Pular",
     "agree": "Agree",
     "return_no_search": "Return no search",
     "backend_environment_switch": "Backend environment switch",
