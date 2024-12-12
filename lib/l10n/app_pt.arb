@@ -5,7 +5,7 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "Favoritos",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
@@ -15,12 +15,12 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "Pesquisar",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "Configurações",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
@@ -30,32 +30,32 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "Escuro",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "Modo claro",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "Formato de tempo",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "Escolha o idioma",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "Idioma",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "Tema",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
@@ -70,53 +70,53 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
-    "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
-    "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_PrayerNotifications": "Notificações de oração",
+    "settings_PrayerPreNotifications": "Pré-notificações da oração",
+    "settings_ShuruqPreNotifications": "Pré-notificações de nascer do sol",
+    "settings_Calculations": "Método de cálculo",
+    "settings_RateOurApp": "Avalie o nosso aplicativo",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
-    "settings_News": "News",
-    "settings_MakeADonation": "Make a donation",
-    "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donate to MAWAQIT",
+    "settings_WhatsNew": "Novidade",
+    "settings_SupportMawaqit": "Apoiar Mawaqit",
+    "settings_News": "Notícias",
+    "settings_MakeADonation": "Faça uma doação",
+    "bismillah": "Em nome de Allah",
+    "settings_DonateToMawaqit": "Doar para MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "Verificar atualizações",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
     },
-    "settings_Credits": "Credits",
+    "settings_Credits": "Créditos",
     "@settings_Credits": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "About us",
+    "settings_AboutUs": "Sobre nós",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
-    "settings_language_ar": "Arabic",
+    "settings_language_ar": "Árabe",
     "settings_language_bn": "Bengali",
-    "settings_language_fr": "French",
-    "settings_language_nl": "Dutch",
-    "settings_language_de": "German",
-    "settings_language_es": "Spanish",
-    "settings_language_en": "English",
-    "settings_language_it": "Italian",
-    "settings_language_tr": "Turkish",
-    "settings_language_ru": "Russian",
-    "settings_language_id": "Indonesian",
+    "settings_language_fr": "Francês",
+    "settings_language_nl": "Holandês",
+    "settings_language_de": "Alemão",
+    "settings_language_es": "Espanhol",
+    "settings_language_en": "Inglês",
+    "settings_language_it": "Italiano",
+    "settings_language_tr": "Turco",
+    "settings_language_ru": "Russo",
+    "settings_language_id": "Indonésio",
     "settings_language_ur": "Urdu",
-    "settings_language_pl": "Polish",
+    "settings_language_pl": "Polonês",
     "settings_CreditsText": "Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
@@ -183,7 +183,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Quds",
+    "adhan_Qods": "Al-quds",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
@@ -857,7 +857,7 @@
     "auto_detect_location_message": "Do you want to search for the nearest mosque for accurate prayer times?",
     "donation_success_toast": "Donation successfully done",
     "donation_success": "Thank you for your donation, may Allah reward you",
-    "donation_failed": "Donation Failed",
+    "donation_failed": "Doação Falhou",
     "donate_for_good": "DONATE FOR GOOD",
     "enter_amount_hint": "Enter amount",
     "enter_donation_amount": "Enter donation amount",
@@ -903,7 +903,7 @@
     "all_recitators": "All recitators",
     "downloaded": "Downloaded",
     "search_for_recitator": "Search for a recitator",
-    "search_for_surah": "Search for a surah",
+    "search_for_surah": "Pesquisar uma Surata",
     "search_for_fav_recitator": "Search for a favorite recitator",
     "listen_to_quran": "LISTEN TO QURAN",
     "search_hint_text": "Search for a mosque, or a city",
@@ -921,26 +921,26 @@
     "no_favorite_recitor_found": "No favorite recitator found",
     "no_recitator_found": "No recitator found",
     "empty_quran_search": "Search results will appear here",
-    "no_bookmark_ayah": "No bookmarks available. Please long-press on the ayah you wish to bookmark.",
-    "page": "Page",
-    "prayer_times_in": "Prayer times in",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "no_bookmark_ayah": "Nenhum favorito disponível. Por favor, mantenha pressionado o verso que deseja marcar.",
+    "page": "Página",
+    "prayer_times_in": "Horário de Orações",
+    "update_new_version": "Está disponível para descarregar uma nova versão do Alcorão. Toque em \"Atualizar\" para aproveitar às últimas melhorias e continuar a sua viagem com a sabedoria divina",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_quran_zip": "Está disponível para descarregar uma nova versão do Alcorão. Toque em \"Atualizar\" para acessar às últimas melhorias e continuar a sua viagem com a sabedoria divina.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran_version": "Está disponível para baixar uma nova versão do Alcorão. Toque em \"Atualizar\" para acessar às últimas melhorias e continuar a sua viagem com a sabedoria divina.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran": "Está disponível para descarregar uma nova cópia do Alcorão. Toque em \"Atualizar\" para aproveitar às últimas melhorias e continuar a sua viagem com a sabedoria divina.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
-    "set_notification_for_all_parayer": "Set this for every prayer",
+    "set_notification_for_all_parayer": "Configurar isso para todas as orações",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     }
