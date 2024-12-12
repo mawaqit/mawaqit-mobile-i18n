@@ -157,7 +157,7 @@
         "description": "_",
         "type": "text"
     },
-    "sabah": "Sabah",
+    "sabah": "Alvorada",
     "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -183,12 +183,12 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "Quds",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Al Afassy",
+    "adhan_AlAfassy": "Al-Afassi",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
