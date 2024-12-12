@@ -401,7 +401,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Ablution Room",
+    "mosque_Facilities_AblutionsRoom": "Banheiros e Ablução",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
@@ -421,7 +421,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Salat Al Eid",
+    "mosque_Facilities_SalatAlAid": "Salat Al Eid (Oração de celebração)",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
@@ -671,7 +671,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "Meca",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
