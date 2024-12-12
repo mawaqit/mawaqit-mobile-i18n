@@ -122,63 +122,63 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "Ovu aplikaciju razvilo je MAWAQIT udruženje.\n\nMAWAQIT udruženje je neprofitna organizacija osnovana 2021. godine u Francuskoj. Naš cilj je razvoj inovativnih rešenja vezanih za IT i digitalnu tehnologiju, kao što su softveri i veb sajtovi; podučavanje i obuka u vezi sa digitalnim rešenjima i IT alatima.\n\nMAWAQIT Ekosistem je naš vodeći proizvod, a njegova priča počela je 2016. godine, kada je nastala aplikacija za velike ekrane posvećena džamijama, a zatim mobilna aplikacija, dodatak za kućne asistente Alexa skill, itd.\n\nMAWAQIT vam nudi novi način praćenja i upravljanja vremenima molitve. Zapravo, nudimo sveobuhvatan sistem koji moske menadžerima omogućava pristup online alatu dostupnom 24 sata dnevno, koji im pomaže u upravljanju rasporedima, vestima o džamiji i mnogim drugim funkcijama. Vernici, sa svoje strane, imaju mobilnu aplikaciju koja im omogućava da konsultuju tačna, a ne približna vremena molitve u svojoj omiljenoj džamiji, kao i vesti i druge funkcionalnosti kao što su pretraga džamija po geolokaciji, ezan, kibla itd. Pouzdanost i kvalitet su naši glavni principi. Naša ambicija je jasna: izgraditi najbolju uslugu za naše džamije uz pomoć tehnologije i dizajna.\n\nAko vam se dopala ova aplikacija, molimo vas da podelite svoje mišljenje na prodavnici.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
     },
-    "fajr": "Fajr",
+    "fajr": "Sabah",
     "@fajr": {
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Sunrise",
+    "shuruq": "Izlazak sunca",
     "@shuruq": {
         "description": "_",
         "type": "text"
     },
-    "duhr": "Duhr",
+    "duhr": "Podne",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Asr",
+    "asr": "Ikindija",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Maghrib",
+    "maghrib": "Akšam",
     "@maghrib": {
         "description": "_",
         "type": "text"
     },
-    "isha": "Isha",
+    "isha": "Jacija",
     "@isha": {
         "description": "_",
         "type": "text"
     },
     "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
+    "settings_PrayerNotification_NoNotification": "Podesili ste postavke da ne želite primati obavještenja za ovaj namaz.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "Odabran je zvučni signal (beep) za obavještenja.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "Ezan",
     "@adhan": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "Mekka(sabahski)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "Medina",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
@@ -193,7 +193,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (Fajr)",
+    "adhan_AlAfassy_fajr": "Al Afassy (sabahski)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
@@ -208,51 +208,51 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "Izaberite vrstu ezana. Ovaj izbor će biti primenjen kao primarni zvučni signal za svaki namaz.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "Nijedan",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "Niste postavili obavještenje za ovaj namaz.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "Ova postavka vam omogućava da definirate obavještenje prije namaza.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
     "search_TryParis": "Try Paris, Essalam etc.",
-    "search_ByGPS": "Search by GPS",
-    "search_HelpText": "You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.",
-    "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
-    "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
-    "search_error": "Oops an internal error has occurred'",
-    "search_your_location": "Your location",
-    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
-    "search_settings": "Settings",
-    "no_services_text": "Mosques didn't provided this info",
-    "welcome": "Welcome to",
+    "search_ByGPS": "Traženje GPS-om",
+    "search_HelpText": "Možete pretraživati ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije",
+    "search_MaxFavMosquesReached": "Dostigli ste maksimalni broj omiljenih džamija.",
+    "search_iOs14_message": "Pretraga pomoću GPS-a može potrajati neko vreme na iOS 14, molimo vas da sačekate.",
+    "search_error": "Oups, došlo je do interne greške.",
+    "search_your_location": "Vaša lokacija",
+    "search_location_disabled": "Molimo vas da potražite džamiju po imenu ili gradu, ili omogućite lokaciju ručno u vašim postavkama.",
+    "search_settings": "Postavke",
+    "no_services_text": "Džamije nisu pružile ove informacije.",
+    "welcome": "Dobrodošli u",
     "mawaqit": "MAWAQIT",
-    "connecting": "Connecting Muslims",
-    "to_mosques": "To Mosques",
-    "get_started": "Get started",
-    "get_prayer_notifications_for": "Get prayer notifications for",
-    "turn_on_notifications": "Turn on prayer notifications",
-    "no_thanks": "No thank's",
-    "notification_denied": "You have denied notification permissions, so you won't receive any notifications.",
-    "at_least_one_mosque": "Add at least one mosque to continue",
-    "set_up_your_prayer": "Set up your prayer",
-    "notifications": "Notifications",
-    "mosques_around_you": "Mosques around you",
-    "mosques_in_the_selected_area": "Mosques in the selected area",
-    "mosques_with": "Mosques with",
+    "connecting": "Povezivanje muslimana\n",
+    "to_mosques": "S džamijama",
+    "get_started": "Započnite",
+    "get_prayer_notifications_for": "Primajte obavještenja o namazu za",
+    "turn_on_notifications": "Uključite obavještenja za namaz",
+    "no_thanks": "Ne, hvala.",
+    "notification_denied": "Odbili ste dozvole za obavještavanje, tako da nećete primati nikakva obavještenja.",
+    "at_least_one_mosque": "Da biste nastavili, dodajte bar jednu džamiju.",
+    "set_up_your_prayer": "Konfigurišite vaš namaz",
+    "notifications": "Obavještenja",
+    "mosques_around_you": "Džamije u vašoj okolini",
+    "mosques_in_the_selected_area": "Džamije u odabranom području",
+    "mosques_with": "Džamije sa",
     "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
     "enable_location_service_from_app_settings": "Enable location service from app settings.",
     "the_request_timeout": "The request timed out",
