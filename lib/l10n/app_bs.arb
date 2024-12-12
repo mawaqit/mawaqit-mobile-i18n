@@ -253,85 +253,85 @@
     "mosques_around_you": "Džamije u vašoj okolini",
     "mosques_in_the_selected_area": "Džamije u odabranom području",
     "mosques_with": "Džamije sa",
-    "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
-    "enable_location_service_from_app_settings": "Enable location service from app settings.",
-    "the_request_timeout": "The request timed out",
-    "no_internet_connection": "No Internet Connection",
-    "try_again": "Try again",
-    "virtual_mosque": "Virtual Mosque",
-    "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
-    "no_mosque_with": "Couldn't find any mosques with",
-    "retry": "Retry",
-    "search_here": "Search Here",
-    "enter_at_least_3_char": "Enter at-least 3 characters to search",
-    "jumua1": "Jum'a 1",
-    "prayer_times": "Prayer times",
-    "remove_this_city": "Remove this city",
-    "add_this_city": "Add this city",
-    "add_this_mosque": "Add this mosque",
-    "remove_this_mosque": "Remove this mosque",
-    "services": "Services",
-    "share": "Share",
-    "itinerary": "Itinerary",
-    "call": "Call",
-    "dnd": "Do Not Disturb",
-    "battery_optimize": "Battery Optimization",
-    "power_saver": "Power Saver",
-    "permission_message1": "We detected a delayed notification, Please turn off",
-    "permission_message2": "to receive the notification on time.",
-    "notifications_delay_detected": "Notifications delay detected",
-    "open_setting": "Open settings",
-    "noJumua": "No jum'a",
+    "allow_mawaqit_to_access_my_location": "Dozvolite da Mawaqit pristupi vašoj lokaciji.",
+    "enable_location_service_from_app_settings": "Omogućite uslugu lokacije u postavkama aplikacije.",
+    "the_request_timeout": "Zahtjev je istekao",
+    "no_internet_connection": "Bez internet konekcije.",
+    "try_again": "Pokušajte ponovo",
+    "virtual_mosque": "Virtuelna džamija",
+    "no_mosque_in_selected_area": "Nije pronađena nijedna džamija u odabranom području",
+    "no_mosque_with": "Nije pronađena nijedna džamija sa",
+    "retry": "Pokušajte ponovo",
+    "search_here": "Pretraži ovde",
+    "enter_at_least_3_char": "Unesite barem 3 karaktera za pretragu",
+    "jumua1": "Džuma 1",
+    "prayer_times": "Namaska vremena",
+    "remove_this_city": "Uklonite ovaj grad",
+    "add_this_city": "Dodajte ovaj grad",
+    "add_this_mosque": "Dodajte ovu džamiju",
+    "remove_this_mosque": "Uklonite ovu džamiju",
+    "services": "Usluge",
+    "share": "Dijeli",
+    "itinerary": "Itinerar(vodič)",
+    "call": "Pozovi",
+    "dnd": "Ne ometaj",
+    "battery_optimize": "Optimizacija baterije",
+    "power_saver": "Štednja baterije",
+    "permission_message1": "Otkrili smo odgođeno obavještenje, molimo isključite",
+    "permission_message2": "da biste primili obavještenja na vrijeme.",
+    "notifications_delay_detected": "Otkriveno je kašnjenje obavještenja",
+    "open_setting": "Otvorite postavke",
+    "noJumua": "Nema džume",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jum'a",
+    "jumua": "Džuma",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
-    "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
-    "currently_located_at": "Currently located at",
-    "facing_makkah": "You're facing Makkah",
-    "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_sensor": "Senzor na vašem uređaju koji MAWAQIT koristi za određivanje kible ne funkcioniše kako je očekivano, ovo utječe na našu sposobnost da prikažemo tačan pravac kible.",
+    "connection_not_found": "Postavka kalibracije kompasa je onemogućena. Provjerite da li je internetska veza uključena i pokušajte ponovo promenom pravca.",
+    "currently_located_at": "Trenutno se nalazite u",
+    "facing_makkah": "Okrenuti ste prema Mekki",
+    "not_facing_Makkah": "Niste okrenuti prema Mekki",
+    "qibla_Error_retry": "Pokušajte ponovo",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Location service permission denied",
+    "qibla_Error_LocationDenied": "Dozvola za uslugu lokacije je odbijena",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Location service Denied Forever !",
+    "qibla_Error_LocationDeniedForever": "Dozvola za uslugu lokacije je trajno odbijena",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Please enable Location service",
+    "qibla_Error_PleaseEnable": "Molimo omogućite uslugu lokacije",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Direction": "QIBLA \nDIRECTION",
+    "qibla_Direction": "Pravac KIBLE",
     "@qibla_Direction": {
         "description": "_",
         "type": "text"
     },
-    "favorites_FavoriteMosques": "Favorites mosques",
+    "favorites_FavoriteMosques": "Omiljene džamije",
     "@favorites_FavoriteMosques": {
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "Something went wrong...",
+    "favorites_Error": "Nešto nije u redu...",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Image": "Image",
+    "announcement_Image": "Slike",
     "@announcement_Image": {
         "description": "_",
         "type": "text"
@@ -341,52 +341,52 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flash Info",
+    "announcement_Type_FlashInfo": "Flash info",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "DONATE",
+    "mosque_DonateText1": "UDJELI ",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "TO MOSQUE",
+    "mosque_DonateText2": "ZA DŽAMIJU",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Could not launch",
+    "mosque_Error_CouldNotLaunch": "Nije moguće pokrenuti",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Prayer times",
+    "mosque_PrayerTimes": "Namaska vremena",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Website",
+    "mosque_Website": "Web stranica",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Address": "Address",
+    "mosque_Address": "Adresa",
     "@mosque_Address": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Phone": "Phone",
+    "mosque_Phone": "Telefon",
     "@mosque_Phone": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "E-mail",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "By MAWAQIT https://mawaqit.net",
+    "mosque_ByMawaqit": "Od MAWAQIT https://mawaqit.net",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
@@ -396,32 +396,32 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled Access",
+    "mosque_Facilities_DisabledAccess": "Pristup invalidima",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Ablution Room",
+    "mosque_Facilities_AblutionsRoom": "Abdesthana",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Women Space",
+    "mosque_Facilities_WomanSpace": "Prostor za žene",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Adults Courses",
+    "mosque_Facilities_AdultsCourse": "Kursevi za odrasle",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Children Courses",
+    "mosque_Facilities_ChildrenCourses": "Kursevi za djecu",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Salat Al Eid",
+    "mosque_Facilities_SalatAlAid": "Bajram namaz",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
