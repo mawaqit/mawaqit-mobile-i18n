@@ -5,73 +5,73 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "Omiljeno",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_qibla": "Qibla",
+    "bottomNavbar_qibla": "Kibla",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "Pretraga",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "Postavke",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "Automatski",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "Tamno",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "Svijetlo",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "Format vremena",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "Izbor jezika",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "Jezik",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "Tema zaslona",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "12h",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "24h",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
+    "settings_PrayerNotifications": "Obavještenja o namazu",
+    "settings_PrayerPreNotifications": "Obavještenje prije nastupa",
     "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
     "settings_Calculations": "Calculations",
     "settings_RateOurApp": "Rate our app",
