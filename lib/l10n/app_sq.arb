@@ -506,7 +506,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Informacioni i Xhamisë",
+    "tutorial_title_mosque_info": "Informacioni për Xhaminë",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
@@ -691,7 +691,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Leja e shkarkimit u refuzua patjetër, ju lutemi lejoni shkarkimin",
+    "calendar_download_permission_refused": "Leja për shkarkim është refuzuar përfundimisht, ju lutemi lejoni shkarkimin",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
@@ -730,7 +730,7 @@
     "ayahs": "Ajetët",
     "chapter": "Surja",
     "meaning": "Kuptimi",
-    "al_quran": "Kurani",
+    "al_quran": "Kur'ani",
     "surah_information": "Informacioni i sures",
     "surah_number": "Numri i sures",
     "quran_browsing": "Shfletimi",
