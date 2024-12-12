@@ -72,24 +72,24 @@
     },
     "settings_PrayerNotifications": "Obavještenja o namazu",
     "settings_PrayerPreNotifications": "Obavještenje prije nastupa",
-    "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
-    "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_ShuruqPreNotifications": "Obavještenje-prije izlaska sunca",
+    "settings_Calculations": "Kalkulacija",
+    "settings_RateOurApp": "Ocijeni aplikaciju",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
-    "settings_News": "News",
-    "settings_MakeADonation": "Make a donation",
+    "settings_WhatsNew": "Šta je novo",
+    "settings_SupportMawaqit": "Podržite Mawaqit",
+    "settings_News": "Vijesti/Novosti",
+    "settings_MakeADonation": "Udijeli trajnu sadaku",
     "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donate to MAWAQIT",
+    "settings_DonateToMawaqit": "Doniraj za MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "Provjeri ažuriranja",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
@@ -99,13 +99,13 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "About us",
+    "settings_AboutUs": "O platformi Mawaqit",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
-    "settings_language_ar": "Arabic",
-    "settings_language_bn": "Bengali",
+    "settings_language_ar": "Arapski",
+    "settings_language_bn": "Bengalski",
     "settings_language_fr": "French",
     "settings_language_nl": "Dutch",
     "settings_language_de": "German",
