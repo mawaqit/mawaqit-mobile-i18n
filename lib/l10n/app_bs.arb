@@ -272,7 +272,7 @@
     "remove_this_mosque": "Uklonite ovu džamiju",
     "services": "Usluge",
     "share": "Dijeli",
-    "itinerary": "Itinerar(vodič)",
+    "itinerary": "Mapa(vodič)",
     "call": "Pozovi",
     "dnd": "Ne ometaj",
     "battery_optimize": "Optimizacija baterije",
@@ -426,22 +426,22 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Dženaza namaz",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "mosques_Facilities_IftarRamadan": "Ramazanski iftari",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All this information is filled in by the people in charge of the mosque",
+    "mosque_facilities_Info": "Sve ove informacije unose osobe zadužene za džamiju",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "za",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -451,157 +451,157 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid prayer at",
+    "eid": "Bajram-namaz u",
     "@eid": {
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "Minuta",
     "@minutes": {
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jum'a 2",
+    "jumua2": "Džuma 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "Dostupna je novija verzija MAWAQIT-a, molimo ažurirajte",
     "@please_update": {
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "Ažuriraj",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skip tutorial",
+    "tutorial_skip": "Preskoči tutorijal",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_next": "Next",
+    "tutorial_next": "Dalje",
     "@tutorial_next": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Your main mosque",
+    "tutorial_title_main_mosque": "Vaša glavna džamija",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.",
+    "tutorial_text_main_mosque": "Vaša glavna džamija se prikazuje ovdje.\nMožete klizati lijevo i desno za prebacivanje između svojih omiljenih džamija.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Next prayer indicator",
+    "tutorial_title_countdown": "Indikator sledećeg namaza",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "This countdown shows you the time remaining before the next prayer.",
+    "tutorial_text_countdown": "Ovo odbrojavanje vam pokazuje preostalo vrijeme do sljedećeg namaza.",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Mosque Information",
+    "tutorial_title_mosque_info": "Informacije o džamiji",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.",
+    "tutorial_text_mosque_info": "Sve o vašoj džamiji: sadržaji, prostorije, adresa, telefon, e-mail, donacije i još mnogo toga.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "Mosque messages and announcements",
+    "tutorial_title_announcements": "Džamijske poruke i najave",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.",
+    "tutorial_text_announcements": "Obavijesti o porukama i najavama iz vaše džamije pojaviće se ovde.\nKada dodirnete ovo dugme, vidjet ćete sve detalje. Ove obavještenja mogu biti Flash poruka, slike ili čak video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Select your language",
+    "onboarding_title_1": "Odaberite svoj jezik",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Select your preferred language from the list below",
+    "onboarding_text_1": "Odaberite željeni jezik sa liste ispod",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_2": "Welcome to MAWAQIT",
+    "onboarding_title_2": "Dobrodošli u MAWAQIT",
     "@onboarding_title_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times",
+    "onboarding_text_2": "MAWAQIT je ekosistem koji vam nudi novi način praćenja i upravljanja vremenom namaza, aplikacija u vašim rukama je dio ovog ekosistema, omogućava vam da pronađete džamije i pratite vijesti i vrijeme namaza",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_3": "Select a Dark/Light theme",
+    "onboarding_title_3": "Odaberite Tamnu/Svjetlu temu",
     "@onboarding_title_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort",
+    "onboarding_text_3": "Bilo da se nalazite u okruženju sa slabim svetlom ili jednostavno preferirate tamnije boje pozadine na svom telefonu, možete iskoristiti Tamni režim za poboljšan vizuelni komfor.",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_4": "Add your main Mosque",
+    "onboarding_title_4": "Dodajte svoju glavnu džamiju",
     "@onboarding_title_4": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Please pick your main mosque from the list below or search for a mosque near your current location",
+    "onboarding_text_4": "Molimo odaberite svoju glavnu džamiju sa liste ispod ili pretražite džamiju u blizini vaše trenutne lokacije.",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
     },
-    "loading": "Loading",
+    "loading": "Učitavanje",
     "@loading": {
         "description": "_",
         "type": "text"
     },
-    "loading_please_wait": "Loading... Please wait",
+    "loading_please_wait": "Učitavanje... molimo sačekajte",
     "@loading_please_wait": {
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Loading complete",
+    "loading_loaded": "Učitavanje je završeno",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite Mosques",
+    "favorites_edit": "Uredi omiljene džamije",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minutes to athan",
+    "minutes_to_athan": "minuta do ezana",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Review the tutorial",
+    "show_tutorial": "Pregledajte tutorijal",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_chose_mosque_please": "Please choose a mosque from the search list",
+    "onboarding_chose_mosque_please": "Molimo odaberite džamiju sa liste pretrage",
     "@onboarding_chose_mosque_please": {
         "description": "_",
         "type": "text"
     },
-    "done": "Done",
+    "done": "Završeno",
     "@done": {
         "description": "_",
         "type": "text"
@@ -616,112 +616,112 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_title": "Open the app",
+    "notification_open_app_title": "Otvorite aplikaciju",
     "@notification_open_app_title": {
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Please open the app to maintain notifications",
+    "notification_open_app_body": "Da biste dobijali obavještenja, molimo vas otvorite aplikaciju",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Select a prayer notification",
+    "tutorial_title_notification": "Odaberite obaviještenje o namazu",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "Ovdje možete odabrati vrstu obavijesti: Ezan, bip ili bez zvuka",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Become a MAWAQIT ambassador and offer our solution to your mosque, it's free\nhttps://mawaqit.net",
+    "search_no_result": "Postanite MAWAQIT ambasador i ponudite naše rješenje vašoj džamiji, besplatno je\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Rate MAWAQIT",
+    "rate_popin_title": "Ocijenite MAWAQIT",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "If you like this app, please take a little bit of your time to review it !\nIt really helps us.",
+    "rate_popin_message": "Ako vam se sviđa ova aplikacija, molimo vas da odvojite malo svog vremena i ostavite recenziju!\nTo nam stvarno pomaže.",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "RATE",
+    "rate_popin_rate": "OCIJENITE",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_no": "NO THANKS",
+    "rate_popin_no": "NE HVALA",
     "@rate_popin_no": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_later": "MAYBE LATER",
+    "rate_popin_later": "MOŽDA KASNIJE",
     "@rate_popin_later": {
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "You can view all messages from this mosque by clicking on the speaker at the top of the screen.",
+    "message_see_all": "Sve poruke iz ove džamije možete pregledati klikom na zvučnik koji se nalazi na vrhu ekrana.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "Mekka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "Ikamet",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "Ovdje možete pronaći trajanje između ezana i ikameta u džamiji",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "Preuzmi kalendar",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Download permission refused definitely, please allow download",
+    "calendar_download_permission_refused": "Preuzimanje je definitivno odbijeno, molimo vas dozvolite preuzimanje",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "Preuzimanje kalendara...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
     },
-    "location_service_disabled": "Location Service is disabled, please enable it.",
+    "location_service_disabled": "Usluga lokacije je onemogućena, molimo vas dopustite pristup.",
     "@location_service_disabled": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Location Permission Denied, please allow it.",
+    "location_permission_denied": "Dozvola za pristup lokaciji je odbijena, molimo omogućite je.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Location Permission Denied Forever, please allow it in the settings page.",
+    "location_permission_denied_forever": "Dozvola za lokaciju je trajno odbijena, molimo omogućite je na stranici sa postavkama.",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "You should have at least one mosque.",
-    "and": "and",
-    "continue_to_app": "Continue",
-    "add": "Add",
-    "mosque": "Mosque",
-    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
+    "at_least_one_mosque_error": "Trebate imati barem jednu džamiju.",
+    "and": "i",
+    "continue_to_app": "Nastavite",
+    "add": "Dodaj",
+    "mosque": "Džamija",
+    "on_boarding_nearest_mosque": "Hajde da pronađemo najbližu džamiju",
     "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
     "search_no_result_for_text": "We did not find any result for",
     "surah_audio_downloading": "Surah Audio Downloading...",
