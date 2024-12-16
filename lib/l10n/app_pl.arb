@@ -943,5 +943,9 @@
     "set_notification_for_all_parayer": "Ustaw to dla każdej modlitwy",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
+    },
+    "powered_by_mawaqit": "Wspierane przez MAWAQIT",
+    "@powered_by_mawaqit": {
+        "description": "-> powered_by_mawaqit_"
     }
 }
