@@ -70,9 +70,9 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Njoftimet për namazin",
-    "settings_PrayerPreNotifications": "Njoftimi i para-namazit",
-    "settings_ShuruqPreNotifications": "Njoftimi i para lindjës së diellit",
+    "settings_PrayerNotifications": "Njoftime për namaz",
+    "settings_PrayerPreNotifications": "Paranjoftimet për namaz",
+    "settings_ShuruqPreNotifications": "Njoftimi i para-namazit",
     "settings_Calculations": "Llogaritjet",
     "settings_RateOurApp": "Vlerëso aplikacionin tonë",
     "@settings_RateOurApp": {
@@ -81,7 +81,7 @@
     },
     "settings_WhatsNew": "Çfarë ka të re",
     "settings_SupportMawaqit": "Përkrah Mawaqit",
-    "settings_News": "Risitë",
+    "settings_News": "Lajmet/Risitë",
     "settings_MakeADonation": "Bëni një donacion",
     "bismillah": "Bismilah",
     "settings_DonateToMawaqit": "Dhuroni MAWAQITit",
@@ -158,12 +158,12 @@
         "type": "text"
     },
     "sabah": "Sabahu",
-    "settings_PrayerNotification_NoNotification": "Aktualisht ju keni vendosur që të mos njoftohesh për këtë namaz.",
+    "settings_PrayerNotification_NoNotification": "Aktualisht ju keni vendosur që të mos pranoni njoftime për këtë namaz.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Aplikimi i ziles së ziles pas njoftimit.",
+    "settings_PrayerNotification_Bip": "Zgjedhja e melodisë \"Beep\" për njoftime.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -173,12 +173,12 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Mekas (Sabah)",
+    "adhan_Makkah_fajr": "Mekka (Sabah)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Medinas",
+    "adhan_Madinah": "Medina",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
@@ -234,14 +234,14 @@
     "search_MaxFavMosquesReached": "Keni arritur maksimumin e xhamive të preferuara.",
     "search_iOs14_message": "Kërkimi duke përdorur GPS mund të marrë pak kohë në iOS 14, ju lutemi prisni.",
     "search_error": "Ups, një gabim i brendshëm ka ndodhur'",
-    "search_your_location": "Vendndodhja juaj",
-    "search_location_disabled": "Ju lutemi kërkoni një xhami me emër ose qytet, ose lejoni të gjendët vendndodhja manualisht në cilësimët tuaja.",
+    "search_your_location": "Lokacioni i juaj",
+    "search_location_disabled": "Ju lutemi kërkoni një xhami me emër ose qytet, ose lejoni të gjendët lokacioni manualisht në cilësimët tuaja.",
     "search_settings": "Cilësimet",
     "no_services_text": "Xhamitë nuk e dhanë këtë informacion",
     "welcome": "Mirë se vini në",
     "mawaqit": "MAWAQIT",
     "connecting": "Duke lidhur Muslimanët",
-    "to_mosques": "Tek xhamitë",
+    "to_mosques": "Me xhamitë",
     "get_started": "Filloni",
     "get_prayer_notifications_for": "Merrni njoftimet e namazit për",
     "turn_on_notifications": "Aktivizo njoftimet e namazit",
@@ -265,20 +265,20 @@
     "search_here": "Kërko Këtu",
     "enter_at_least_3_char": "Futni të paktën 3 karaktere për të kërkuar",
     "jumua1": "Xhuma 1",
-    "prayer_times": "Kohët e Namazit",
+    "prayer_times": "Takvimi",
     "remove_this_city": "Hiqeni këtë qytet",
     "add_this_city": "Shto këtë qytet",
     "add_this_mosque": "Shto këtë xhami",
     "remove_this_mosque": "Hiqeni këtë xhami",
     "services": "Shërbimet",
     "share": "Shpërndaj",
-    "itinerary": "Itinerari",
+    "itinerary": "Harta",
     "call": "Thirr",
-    "dnd": "Mos pengo",
+    "dnd": "Mos shqetësoni",
     "battery_optimize": "Optimizimi i baterisë",
-    "power_saver": "Kursyes Energjie",
+    "power_saver": "Kursime të baterisë",
     "permission_message1": "Ne zbuluam një njoftim të vonuar, Ju lutemi fikeni",
-    "permission_message2": "për të marrë njoftimin në kohë.",
+    "permission_message2": "për të marrë njoftimet në kohë.",
     "notifications_delay_detected": "U zbulua një vonesë e njoftimeve",
     "open_setting": "Hap cilësimet",
     "noJumua": "Nuk ka xhuma",
@@ -301,17 +301,17 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Leja e shërbimit të vendndodhjes u refuzua",
+    "qibla_Error_LocationDenied": "Leja e shërbimit të lokacionit u refuzua",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Shërbimi i vendndodhjes i refuzuar përgjithmonë !",
+    "qibla_Error_LocationDeniedForever": "Shërbimi i lokacionit është refuzuar përgjithmonë !",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Ju lutemi aktivizoni shërbimin e vendndodhjes",
+    "qibla_Error_PleaseEnable": "Ju lutemi aktivizoni shërbimin e lokacionit",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
@@ -361,7 +361,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Kohët e namazit",
+    "mosque_PrayerTimes": "Takvimi",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
@@ -401,7 +401,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Vend të Abdesit",
+    "mosque_Facilities_AblutionsRoom": "Abdesthana",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
@@ -431,7 +431,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramazan",
+    "mosques_Facilities_IftarRamadan": "Iftari në Ramazan",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
