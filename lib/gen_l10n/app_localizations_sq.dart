@@ -53,7 +53,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get settings_PrayerPreNotifications => 'Paranjoftimet për namaz';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Njoftimi i para-namazit';
+  String get settings_ShuruqPreNotifications => 'Paranjoftimi për-lindjen e diellit';
 
   @override
   String get settings_Calculations => 'Llogaritjet';
@@ -68,7 +68,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get settings_SupportMawaqit => 'Përkrah Mawaqit';
 
   @override
-  String get settings_News => 'Lajmet/Risitë';
+  String get settings_News => 'Lajme/Njoftime';
 
   @override
   String get settings_MakeADonation => 'Bëni një donacion';
@@ -473,7 +473,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get eid => 'Namazi i Bajramit në';
 
   @override
-  String get minutes => 'Minutat';
+  String get minutes => 'Minuta';
 
   @override
   String get jumua2 => 'Xhuma 2';
@@ -497,10 +497,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tutorial_text_main_mosque => 'Xhamia juaj kryesore shfaqet këtu.\nMund të rrëshqisni majtas dhe djathtas për të kaluar midis xhamive tuaja të preferuara.';
 
   @override
-  String get tutorial_title_countdown => 'Treguesi i namazit së radhës';
+  String get tutorial_title_countdown => 'Treguesi i namazit të ardhshëm';
 
   @override
-  String get tutorial_text_countdown => 'Ky numërim mbrapsht ju tregon kohën e mbetur para namazit tjetër.';
+  String get tutorial_text_countdown => 'Ky numërim tregon kohën që ka mbetur deri në namazin e ardhshëm';
 
   @override
   String get tutorial_title_mosque_info => 'Informacioni për Xhaminë';
@@ -662,13 +662,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get read_quran => 'Lexo Kuran';
 
   @override
-  String get ayahs => 'Ajetët';
+  String get ayahs => 'Ajete';
 
   @override
   String get chapter => 'Surja';
 
   @override
-  String get meaning => 'Kuptimi';
+  String get meaning => 'Kuptimi/Përkthimi';
 
   @override
   String get al_quran => 'Kur\'ani';
@@ -710,7 +710,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get continue_reading => 'Vazhdo Leximin';
 
   @override
-  String get bookmarks => 'Faqeshënuesit';
+  String get bookmarks => 'Shënimet';
 
   @override
   String get juzz => 'Xhuz';
@@ -779,7 +779,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get search_surah => 'Kërko suren';
 
   @override
-  String get not_downloaded_recitation => 'Nuk keni shkarkuar ende asnjë recitim.';
+  String get not_downloaded_recitation => 'Nuk keni shkarkuar ende asnjë audio inqizim';
 
   @override
   String get not_favorite_reciter => 'Nuk keni shënuar ende ndonjë recitues të preferuar.';
@@ -797,7 +797,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get chapters => 'Kapitujt';
 
   @override
-  String get calculation_info => 'Cilësimet në këtë seksion kanë të bëjnë vetëm me kohët e namazit që llogariten nga vendndodhja juaj dhe nuk kanë të bëjnë me kohët e faljes së xhamive.';
+  String get calculation_info => 'Cilësimet në këtë seksion preokupohen vetëm me oraret e namazit që llogariten nga gjeo-lokacioni juaj, dhe nuk kanë të bëjnë me oraret e namazit të xhamive.';
 
   @override
   String get calculation_madhab => 'Jurisprudencë - Medh\'hebi';
@@ -866,10 +866,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_methods_russia => 'Administrata shpirtërore e muslimanëve në Rusi';
 
   @override
-  String get calculation_methods_custom => 'Kënde të personalizuara';
+  String get calculation_methods_custom => 'Kënde(shkallë) të personalizuara';
 
   @override
-  String get calculation_high_latitude => 'Gjerësiat më të larta';
+  String get calculation_high_latitude => 'Gjerësia më e lartë';
 
   @override
   String get calculation_high_latitude_none => 'Asnjë';
@@ -881,19 +881,19 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calculation_high_latitude_one_seventh => 'Një e shtata e natës';
 
   @override
-  String get calculation_high_latitude_angle_based => 'Metoda e bazuar në kënd';
+  String get calculation_high_latitude_angle_based => 'Metoda e bazuar në kënd(shkallë)';
 
   @override
   String get calculation_adjustment => 'Korrigjim manual';
 
   @override
-  String get calculation_adjustment_subtitle => 'Rregullimi i faljës dhe këndet e personalizuara';
+  String get calculation_adjustment_subtitle => 'Rregullimi i namazit dhe këndet e personalizuara';
 
   @override
   String get calculation_adjustment_prayers => 'Rregullimet e namazit';
 
   @override
-  String get calculation_adjustment_prayers_minutes => 'minutat';
+  String get calculation_adjustment_prayers_minutes => 'minuta';
 
   @override
   String get calculation_adjustment_angles => 'Kënde të personalizuara';
@@ -905,7 +905,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get error_download_quran_failed => 'Shkarkimi i Kuranit dështoi';
 
   @override
-  String get downloading_quran => 'Duke shkarkuar Kuranin...';
+  String get downloading_quran => 'Duke shkarkuar Kur\'anin...';
 
   @override
   String get processing => 'Po përpunohet...';
@@ -914,7 +914,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get copied_to_clipboard => 'U kopjua në (clipboard-in) tuaj!';
 
   @override
-  String get download_quran_popup_title => 'Prekjet e fundit';
+  String get download_quran_popup_title => 'Rregullimet e fundit';
 
   @override
   String get download_quran_popup_downloading_1 => 'Duhet të shkarkojmë faqet e Kuranit, do të duhen vetëm disa sekonda. Ne do të përdorim të dhënat tuaja celulare, do të kalojmë në Wi-Fi nëse është e nevojshme.';
@@ -941,25 +941,25 @@ class AppLocalizationsSq extends AppLocalizations {
   String get cancel_download => 'Anulo shkarkimin';
 
   @override
-  String get download_completed => 'Shkarkimi Përfundoi';
+  String get download_completed => 'Shkarkimi përfundoi';
 
   @override
-  String get download_failed => 'Shkarkimi Dështoi';
+  String get download_failed => 'Shkarkimi dështoi';
 
   @override
   String get download_pages => 'Shkarkoni faqet';
 
   @override
-  String get notification => 'Njoftimi';
+  String get notification => 'Njoftime';
 
   @override
-  String get notification_not_supported_below_7 => 'Nuk mund të merrni njoftime për kohën e faljës ose Ezanit pasi pajisja jote përdor Android 7 ose version më të ulët.';
+  String get notification_not_supported_below_7 => 'Nuk mund të merrni njoftime për Ezan ose kohët e namazit pasi pajisja juaj përdor Android 7 ose më e ulët.';
 
   @override
   String get battery_optimization => 'Optimizimi i baterisë';
 
   @override
-  String get battery_optimization_subtitle => 'Për të marrë njoftimet e faljëve pa probleme, duhet të çaktivizoni optimizimin e baterisë për MAWAQIT.';
+  String get battery_optimization_subtitle => 'Për të marrë njoftimet e namazit pa probleme, duhet të çaktivizoni optimizimin e baterisë për MAWAQIT.';
 
   @override
   String get allow => 'Lejo';
@@ -995,10 +995,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get force_notification_dialog2_body => 'Pasi të keni aktivizuar \'Detyro njoftimet\', rrëshqitni poshtë në sirtarin e njoftimeve, do ta shihni këtë njoftim atje';
 
   @override
-  String get notification_debugging => 'Korrigjimi i njoftimeve';
+  String get notification_debugging => 'Korrigjimi i gabimit për njoftime';
 
   @override
-  String get notification_debugging_details => 'Korrigjimi i njoftimeve është aktivizuar. Nëse ndryshoni cilësimet e njoftimit, të dhënat e korrigjimit do të humbasin dhe korrigjimi do të çaktivizohet.';
+  String get notification_debugging_details => 'Korrigjimi i gabimit për njoftime është aktivizuar. Nëse ndryshoni cilësimet e njoftimit, të dhënat e korrigjimit do të humbasin dhe korrigjimi do të çaktivizohet.';
 
   @override
   String get skip => 'Kapërceni';
@@ -1046,13 +1046,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get auto_detect_location_message => 'Dëshironi të kërkoni për xhaminë më të afërt për kohët e sakta të namazit?';
 
   @override
-  String get donation_success_toast => 'Dhurimi është kryer me sukses';
+  String get donation_success_toast => 'Donacioni është kryer me sukses';
 
   @override
-  String get donation_success => 'Faleminderit për dhurimin tuaj, Allahu ju shpërbleftë';
+  String get donation_success => 'Faleminderit për donacionin tuaj, Allahu ju shpërbleftë';
 
   @override
-  String get donation_failed => 'Dhurimi dështoi';
+  String get donation_failed => 'Donacioni dështoi';
 
   @override
   String get donate_for_good => 'DHURONI PËR BAMIRËSI';
@@ -1064,19 +1064,19 @@ class AppLocalizationsSq extends AppLocalizations {
   String get enter_donation_amount => 'Shkruani shumën e dhurimit';
 
   @override
-  String get google_pay_not_available => 'Google Pay nuk ofrohet në këtë pajisje';
+  String get google_pay_not_available => 'Google Pay nuk është i disponueshëm në këtë pajisje';
 
   @override
-  String get error_performing_donation => 'Pati një gabim gjatë përpjekjes për të kryer dhurimin';
+  String get error_performing_donation => 'Ndodhi një gabim gjatë përpjekjes për të kryer donacionin';
 
   @override
-  String get recurring_pay_text => 'Bëjeni këtë dhurim çdo muaj.';
+  String get recurring_pay_text => 'Bëni këtë donacion çdo muaj.';
 
   @override
-  String get adjust_angles => 'Rregulloni këndet';
+  String get adjust_angles => 'Rregulloni këndet(shkallë)';
 
   @override
-  String get silent => 'I heshtur';
+  String get silent => 'Pa zë';
 
   @override
   String get default_ => 'E paracaktuar';
@@ -1088,7 +1088,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get information => 'Informacion';
 
   @override
-  String get news => 'Lajmet';
+  String get news => 'Lajme/Njoftime';
 
   @override
   String get calendar => 'Kalendari';
@@ -1115,16 +1115,16 @@ class AppLocalizationsSq extends AppLocalizations {
   String get no_news => 'Asnjë lajm nga xhamia';
 
   @override
-  String get mawaqit_notification => 'Njoftimi i Mawaqit';
+  String get mawaqit_notification => 'Njoftimi nga Mawaqit';
 
   @override
   String get no_mawaqit_notification => 'Asnjë njoftim nga Mawaqit';
 
   @override
-  String get meccan => 'Mekas';
+  String get meccan => 'Mekka';
 
   @override
-  String get medinan => 'Medinas';
+  String get medinan => 'Medina';
 
   @override
   String get montada_islamic_foundation => 'Fondacioni Islamik Montada';
@@ -1151,10 +1151,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get translation_settings => 'Cilësimet e përkthimit';
 
   @override
-  String get reading => 'Duke Lexuar';
+  String get reading => 'Lexo ';
 
   @override
-  String get listening => 'Duke dëgjuar';
+  String get listening => 'Dëgjo';
 
   @override
   String get font_size => 'Madhësia e shkronjave';
@@ -1169,13 +1169,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get vertical => 'Vertikal';
 
   @override
-  String get add_page_bookmarks => 'Shtoni faqen te faqeshënuesit';
+  String get add_page_bookmarks => 'Shtoni faqen në shënime';
 
   @override
-  String get remove_page_bookmarks => 'Hiqeni faqen nga faqeshënuesit';
+  String get remove_page_bookmarks => 'Hiqeni faqen nga shënime';
 
   @override
-  String get no_bookmarks => 'Nuk ka faqeshënues';
+  String get no_bookmarks => 'Nuk ka shënime';
 
   @override
   String get liked => 'Pëlqyer';
@@ -1187,19 +1187,19 @@ class AppLocalizationsSq extends AppLocalizations {
   String get downloaded => 'E shkarkuar';
 
   @override
-  String get search_for_recitator => 'Kërkoni për një recitues';
+  String get search_for_recitator => 'Kërkoni një recitues';
 
   @override
   String get search_for_surah => 'Kërkoni një sure';
 
   @override
-  String get search_for_fav_recitator => 'Kërkoni për një recitues të preferuar';
+  String get search_for_fav_recitator => 'Kërkoni recitues të preferuar';
 
   @override
-  String get listen_to_quran => 'DËGJO KURAN';
+  String get listen_to_quran => 'DËGJO KUR\'AN';
 
   @override
-  String get search_hint_text => 'Kërkoni një xhami ose një qytet';
+  String get search_hint_text => 'Kërkoni xhami ose qytet';
 
   @override
   String get downloading => 'Duke u shkarkuar';
@@ -1208,10 +1208,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get cant_download_more_than_3 => 'Nuk mund të shkarkohën më shumë se 3 njëkohësisht.';
 
   @override
-  String get boost => 'Boost';
+  String get boost => 'Boost/fuqizo';
 
   @override
-  String get recitation_deleted_successfully => 'Recitimi u fshi me sukses';
+  String get recitation_deleted_successfully => 'Audio inqizimi është fshirë me sukses';
 
   @override
   String get quran => 'Kur\'an';
@@ -1244,16 +1244,16 @@ class AppLocalizationsSq extends AppLocalizations {
   String get empty_quran_search => 'Rezultatet e kërkimit do të shfaqen këtu';
 
   @override
-  String get no_bookmark_ayah => 'Nuk ka faqeshënues të disponueshëm. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.';
+  String get no_bookmark_ayah => 'Nuk ka shënime të disponueshme. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.';
 
   @override
   String get page => 'Faqe';
 
   @override
-  String get prayer_times_in => 'Kohët e namazit në';
+  String get prayer_times_in => 'Takvimi në';
 
   @override
-  String get update_new_version => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore';
+  String get update_new_version => 'Një version i ri i Kura\'nit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore';
 
   @override
   String get update_quran_zip => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.';
