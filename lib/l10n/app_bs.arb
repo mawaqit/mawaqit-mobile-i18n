@@ -99,7 +99,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "O platformi Mawaqit",
+    "settings_AboutUs": "O aplikaciji Mawaqit",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
@@ -223,7 +223,7 @@
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "Ova postavka vam omogućava da definirate obavještenje prije namaza.",
+    "prayer_PreNotification_Description": "Ova postavka vam omogućava da definirate obavještenja prije namaza.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
