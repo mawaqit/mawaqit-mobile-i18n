@@ -20,7 +20,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get bottomNavbar_settings => 'Postavke';
 
   @override
-  String get settings_ThemeAuto => 'Automatski';
+  String get settings_ThemeAuto => 'Auto';
 
   @override
   String get settings_ThemeDark => 'Tamno';
@@ -50,7 +50,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_PrayerNotifications => 'Obavještenja o namazu';
 
   @override
-  String get settings_PrayerPreNotifications => 'Obavještenje prije nastupa';
+  String get settings_PrayerPreNotifications => 'Obavještenje-prije nastupa namaskog vremena';
 
   @override
   String get settings_ShuruqPreNotifications => 'Obavještenje-prije izlaska sunca';
@@ -1121,10 +1121,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get no_mawaqit_notification => 'Bez novih obavještenja od Mawaqit';
 
   @override
-  String get meccan => 'Mekanski';
+  String get meccan => 'Mekka';
 
   @override
-  String get medinan => 'Medinan';
+  String get medinan => 'Medina';
 
   @override
   String get montada_islamic_foundation => 'Islamska fondacija Montada';
@@ -1148,7 +1148,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get unknown_author => 'Nepoznat autor';
 
   @override
-  String get translation_settings => 'Postavke prijevoda';
+  String get translation_settings => 'Postavke za prijevod';
 
   @override
   String get reading => 'Čitanje';
@@ -1208,7 +1208,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get cant_download_more_than_3 => 'Ne možete preuzeti više od 3 istovremeno.';
 
   @override
-  String get boost => 'Boost/povećaj';
+  String get boost => 'Boost/pojačaj';
 
   @override
   String get recitation_deleted_successfully => 'Audio zapisi su je uspješno izbrisani';
@@ -1250,7 +1250,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get page => 'Stranica';
 
   @override
-  String get prayer_times_in => 'Prayer times in';
+  String get prayer_times_in => 'Vaktija u';
 
   @override
   String get update_new_version => 'Nova verzija Kur\'ana je dostupna za preuzimanje. Dodirnite \'Ažuriraj\' kako biste pristupili najnovijim unapređenjima i nastavili svoje putovanje s božanskom mudrošću';
