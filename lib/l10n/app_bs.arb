@@ -5,7 +5,7 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Omiljeno",
+    "bottomNavbar_favorites": "Favoriti",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
@@ -81,7 +81,7 @@
     },
     "settings_WhatsNew": "Šta je novo",
     "settings_SupportMawaqit": "Podržite Mawaqit",
-    "settings_News": "Vijesti/Novosti",
+    "settings_News": "Vijesti i Objave",
     "settings_MakeADonation": "Udijeli trajnu sadaku",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Doniraj za MAWAQIT",
@@ -223,14 +223,14 @@
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "Ova postavka vam omogućava da definirate obavještenja prije namaza.",
+    "prayer_PreNotification_Description": "Ova postavka vam omogućava da definirate obavještenja prije samog namaza.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
     "search_TryParis": "Try Paris, Essalam etc.",
     "search_ByGPS": "Traženje GPS-om",
-    "search_HelpText": "Možete pretraživati ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije",
+    "search_HelpText": "Možete pretražiti ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije",
     "search_MaxFavMosquesReached": "Dostigli ste maksimalni broj omiljenih džamija.",
     "search_iOs14_message": "Pretraga pomoću GPS-a može potrajati neko vreme na iOS 14, molimo vas da sačekate.",
     "search_error": "Oups, došlo je do interne greške.",
@@ -256,7 +256,7 @@
     "allow_mawaqit_to_access_my_location": "Dozvolite da Mawaqit pristupi vašoj lokaciji.",
     "enable_location_service_from_app_settings": "Omogućite uslugu lokacije u postavkama aplikacije.",
     "the_request_timeout": "Zahtjev je istekao",
-    "no_internet_connection": "Bez internet konekcije.",
+    "no_internet_connection": "Bez internet konekcije",
     "try_again": "Pokušajte ponovo",
     "virtual_mosque": "Virtuelna džamija",
     "no_mosque_in_selected_area": "Nije pronađena nijedna džamija u odabranom području",
@@ -265,7 +265,7 @@
     "search_here": "Pretraži ovde",
     "enter_at_least_3_char": "Unesite barem 3 karaktera za pretragu",
     "jumua1": "Džuma 1",
-    "prayer_times": "Namaska vremena",
+    "prayer_times": "Vaktija",
     "remove_this_city": "Uklonite ovaj grad",
     "add_this_city": "Dodajte ovaj grad",
     "add_this_mosque": "Dodajte ovu džamiju",
@@ -274,12 +274,12 @@
     "share": "Dijeli",
     "itinerary": "Mapa(vodič)",
     "call": "Pozovi",
-    "dnd": "Ne ometaj",
+    "dnd": "Ne uznemiravaj",
     "battery_optimize": "Optimizacija baterije",
     "power_saver": "Štednja baterije",
     "permission_message1": "Otkrili smo odgođeno obavještenje, molimo isključite",
     "permission_message2": "da biste primili obavještenja na vrijeme.",
-    "notifications_delay_detected": "Otkriveno je kašnjenje obavještenja",
+    "notifications_delay_detected": "Identificirano je kašnjenje u dostavi obavještenja",
     "open_setting": "Otvorite postavke",
     "noJumua": "Nema džume",
     "@noJumua": {
