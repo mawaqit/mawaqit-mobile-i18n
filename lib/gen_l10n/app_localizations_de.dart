@@ -1266,4 +1266,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Setze dies für jedes Gebet';
+
+  @override
+  String get powered_by_mawaqit => 'Powered by MAWAQIT';
 }

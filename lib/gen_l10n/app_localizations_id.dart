@@ -1266,4 +1266,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Tetapkan ini untuk setiap doa';
+
+  @override
+  String get powered_by_mawaqit => 'Didukung oleh MAWAQIT';
 }

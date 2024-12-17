@@ -1266,4 +1266,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Establecer esto para cada oración';
+
+  @override
+  String get powered_by_mawaqit => 'Desarrollado por MAWAQIT';
 }

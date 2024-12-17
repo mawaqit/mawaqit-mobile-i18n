@@ -1,44 +1,44 @@
 import 'app_localizations.dart';
 
-/// The translations for English (`en`).
-class AppLocalizationsEn extends AppLocalizations {
-  AppLocalizationsEn([String locale = 'en']) : super(locale);
+/// The translations for Bulgarian (`bg`).
+class AppLocalizationsBg extends AppLocalizations {
+  AppLocalizationsBg([String locale = 'bg']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'Favorites';
+  String get bottomNavbar_favorites => 'Любими';
 
   @override
-  String get bottomNavbar_qibla => 'Qibla';
+  String get bottomNavbar_qibla => 'Посока';
 
   @override
-  String get bottomNavbar_search => 'Search';
+  String get bottomNavbar_search => 'Търсене';
 
   @override
-  String get bottomNavbar_settings => 'Settings';
+  String get bottomNavbar_settings => 'Настройки';
 
   @override
-  String get settings_ThemeAuto => 'Auto';
+  String get settings_ThemeAuto => 'Автоматично';
 
   @override
-  String get settings_ThemeDark => 'Dark';
+  String get settings_ThemeDark => 'Нощна';
 
   @override
-  String get settings_ThemeLight => 'Light';
+  String get settings_ThemeLight => 'Дневна';
 
   @override
-  String get settings_TimeFormat => 'Time format';
+  String get settings_TimeFormat => 'Формат на времето';
 
   @override
-  String get settings_LanguageSelection => 'Language selection';
+  String get settings_LanguageSelection => 'Избор на език';
 
   @override
-  String get settings_Language => 'Language';
+  String get settings_Language => 'Език';
 
   @override
-  String get settings_Theme => 'Theme';
+  String get settings_Theme => 'Тема';
 
   @override
   String get settings_TimeFormat12H => '12H';
@@ -47,46 +47,46 @@ class AppLocalizationsEn extends AppLocalizations {
   String get settings_TimeFormat24H => '24H';
 
   @override
-  String get settings_PrayerNotifications => 'Prayer Notifications';
+  String get settings_PrayerNotifications => 'Известия за молитва';
 
   @override
-  String get settings_PrayerPreNotifications => 'Pre-Prayer notification';
+  String get settings_PrayerPreNotifications => 'Уведомления преди молитва';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Pre-Shuruq notification';
+  String get settings_ShuruqPreNotifications => 'Уведомления преди Изгрев';
 
   @override
-  String get settings_Calculations => 'Calculations';
+  String get settings_Calculations => 'Изчисления';
 
   @override
-  String get settings_RateOurApp => 'Rate our app';
+  String get settings_RateOurApp => 'Оценете нашето приложение';
 
   @override
-  String get settings_WhatsNew => 'What\'s new';
+  String get settings_WhatsNew => 'Какво ново';
 
   @override
-  String get settings_SupportMawaqit => 'Support Mawaqit';
+  String get settings_SupportMawaqit => 'Подкрепи Mawaqit';
 
   @override
-  String get settings_News => 'News';
+  String get settings_News => 'Новини';
 
   @override
-  String get settings_MakeADonation => 'Make a donation';
+  String get settings_MakeADonation => 'Направете дарение';
 
   @override
-  String get bismillah => 'Bismillah';
+  String get bismillah => 'Бисмиллях';
 
   @override
-  String get settings_DonateToMawaqit => 'Donate to MAWAQIT';
+  String get settings_DonateToMawaqit => 'Направи дарение за MAWAQIT';
 
   @override
-  String get settings_CheckForUpdates => 'Check for updates';
+  String get settings_CheckForUpdates => 'Проверка за актуализации';
 
   @override
-  String get settings_Credits => 'Credits';
+  String get settings_Credits => 'Информация за приложението';
 
   @override
-  String get settings_AboutUs => 'About us';
+  String get settings_AboutUs => 'Информация за нас';
 
   @override
   String get settings_language_ar => 'Arabic';

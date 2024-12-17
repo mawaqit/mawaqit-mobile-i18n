@@ -1266,4 +1266,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Установить это для каждого молитвы';
+
+  @override
+  String get powered_by_mawaqit => 'При поддержке MAWAQIT';
 }
