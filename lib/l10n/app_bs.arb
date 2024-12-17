@@ -25,7 +25,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Automatski",
+    "settings_ThemeAuto": "Auto",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Obavještenja o namazu",
-    "settings_PrayerPreNotifications": "Obavještenje prije nastupa",
+    "settings_PrayerPreNotifications": "Obavještenje-prije nastupa namaskog vremena",
     "settings_ShuruqPreNotifications": "Obavještenje-prije izlaska sunca",
     "settings_Calculations": "Kalkulacija",
     "settings_RateOurApp": "Ocijeni aplikaciju",
@@ -880,8 +880,8 @@
     "no_news": "Nema novih vijesti/objave iz džamije ",
     "mawaqit_notification": "Mawaqit obavještenja",
     "no_mawaqit_notification": "Bez novih obavještenja od Mawaqit",
-    "meccan": "Mekanski",
-    "medinan": "Medinan",
+    "meccan": "Mekka",
+    "medinan": "Medina",
     "montada_islamic_foundation": "Islamska fondacija Montada",
     "rashid_maash": "Rashid Maash",
     "abdul_haleem": "Abdul Haleem",
@@ -889,7 +889,7 @@
     "frank_bubenheim_and_nadeem": "Frank Bubenheim and Nadeem",
     "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
     "unknown_author": "Nepoznat autor",
-    "translation_settings": "Postavke prijevoda",
+    "translation_settings": "Postavke za prijevod",
     "reading": "Čitanje",
     "listening": "Slušanje",
     "font_size": "Veličina slova- prijevod",
@@ -909,7 +909,7 @@
     "search_hint_text": "Pretraži džamiju ili grad",
     "downloading": "Preuzimanje",
     "cant_download_more_than_3": "Ne možete preuzeti više od 3 istovremeno.",
-    "boost": "Boost/povećaj",
+    "boost": "Boost/pojačaj",
     "recitation_deleted_successfully": "Audio zapisi su je uspješno izbrisani",
     "quran": "Kur'an",
     "qibla": "Kibla",
@@ -923,7 +923,7 @@
     "empty_quran_search": "Rezultati pretrage će se prikazati ovdje",
     "no_bookmark_ayah": "Nema dostupnih bilješki. Molimo pritisnite i zadržite prst na ajetu koji želite označiti.",
     "page": "Stranica",
-    "prayer_times_in": "Prayer times in",
+    "prayer_times_in": "Vaktija u",
     "update_new_version": "Nova verzija Kur'ana je dostupna za preuzimanje. Dodirnite 'Ažuriraj' kako biste pristupili najnovijim unapređenjima i nastavili svoje putovanje s božanskom mudrošću",
     "@update_new_version": {
         "description": "Update the new version availiable"
