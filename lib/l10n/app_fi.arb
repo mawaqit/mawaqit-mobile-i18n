@@ -1,5 +1,5 @@
 {
-    "@@locale": "en",
+    "@@locale": "fi",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -944,7 +944,7 @@
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     },
-    "powered_by_mawaqit": "Powered by MAWAQIT",
+    "powered_by_mawaqit": "Palvelun tarjoaa MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     }

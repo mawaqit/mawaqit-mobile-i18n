@@ -127,7 +127,7 @@
         "description": "_",
         "type": "text"
     },
-    "fajr": "Imsaku",
+    "fajr": "Sabahu",
     "@fajr": {
         "description": "_",
         "type": "text"
@@ -506,7 +506,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Informacioni i Xhamisë",
+    "tutorial_title_mosque_info": "Informacioni për Xhaminë",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
@@ -691,7 +691,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Leja e shkarkimit u refuzua patjetër, ju lutemi lejoni shkarkimin",
+    "calendar_download_permission_refused": "Leja për shkarkim është refuzuar përfundimisht, ju lutemi lejoni shkarkimin",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
@@ -730,7 +730,7 @@
     "ayahs": "Ajetët",
     "chapter": "Surja",
     "meaning": "Kuptimi",
-    "al_quran": "Kurani",
+    "al_quran": "Kur'ani",
     "surah_information": "Informacioni i sures",
     "surah_number": "Numri i sures",
     "quran_browsing": "Shfletimi",
@@ -769,7 +769,7 @@
     "not_downloaded_recitation": "Nuk keni shkarkuar ende asnjë recitim.",
     "not_favorite_reciter": "Nuk keni shënuar ende ndonjë recitues të preferuar.",
     "search_reciter": "Kërko Recitues",
-    "al_quran_al_kareem": "Kurani Famëlartë",
+    "al_quran_al_kareem": "Kur'ani Famëlartë",
     "surahs": "Suret",
     "chapters": "Kapitujt",
     "calculation_info": "Cilësimet në këtë seksion kanë të bëjnë vetëm me kohët e namazit që llogariten nga vendndodhja juaj dhe nuk kanë të bëjnë me kohët e faljes së xhamive.",
@@ -810,12 +810,12 @@
     "error_download_quran_failed": "Shkarkimi i Kuranit dështoi",
     "downloading_quran": "Duke shkarkuar Kuranin...",
     "processing": "Po përpunohet...",
-    "copied_to_clipboard": "U kopjua në kujtesën tuaj!",
+    "copied_to_clipboard": "U kopjua në (clipboard-in) tuaj!",
     "download_quran_popup_title": "Prekjet e fundit",
     "download_quran_popup_downloading_1": "Duhet të shkarkojmë faqet e Kuranit, do të duhen vetëm disa sekonda. Ne do të përdorim të dhënat tuaja celulare, do të kalojmë në Wi-Fi nëse është e nevojshme.",
-    "download_quran_popup_downloading_2": "Ne po përgatisim Kuranin vetëm për ju, ju lutemi prisni disa sekonda!",
-    "download_quran_popup_downloading_3": "Zbuloni bukurinë e Kuranit! Prekni \"Shkarko\" për të hyrë në urtësinë e tij të përjetshme dhe për t'u frymëzuar nga fjalët e tij hyjnore.",
-    "download_quran_popup_confirm_cancel": "Jeni i sigurt që dëshironi të anuloni shkarkimin? Pa këto të dhëna nuk do të mund të lexoni Kuranin, faqet do të jenë të padisponueshme.",
+    "download_quran_popup_downloading_2": "Ne po përgatisim Kur'anin vetëm për ju, ju lutemi prisni disa sekonda!",
+    "download_quran_popup_downloading_3": "Zbuloni bukurinë e Kur'anit! Prekni \"Shkarko\" për të hyrë në urtësinë e tij të përjetshme dhe për t'u frymëzuar nga fjalët e tij hyjnore.",
+    "download_quran_popup_confirm_cancel": "Jeni të sigurt që doni të anuloni shkarkimin? Pa këto të dhëna, nuk do të mund të lexoni Kur'anin, faqet nuk do të jenë të disponueshme.",
     "download_quran_popup_cancelled": "Diçka shkoi keq, ju lutemi shtypni përsëri butonin e shkarkimit!",
     "download": "Shkarkoni",
     "continue_download": "Vazhdoni shkarkimin",
@@ -828,7 +828,7 @@
     "battery_optimization": "Optimizimi i baterisë",
     "battery_optimization_subtitle": "Për të marrë njoftimet e faljëve pa probleme, duhet të çaktivizoni optimizimin e baterisë për MAWAQIT.",
     "allow": "Lejo",
-    "deny": "Moho",
+    "deny": "Refuzo",
     "force_notification": "Detyro njoftimet",
     "tutorial_text_foreground_service": "Prekja mbi të ju lejon të aktivizoni ose çaktivizoni 'Shërbimin në plan të parë'",
     "enable": "Aktivizo",
@@ -843,7 +843,7 @@
     "skip": "Kapërceni",
     "agree": "Pajtohem",
     "return_no_search": "Kthehu pa kërkim",
-    "backend_environment_switch": "Ndërprerësi i mjedisit të prapavijës",
+    "backend_environment_switch": "Ndërrimi i mjedisit të backend-it",
     "set_development_environment": "Vendos mjedisin e zhvillimit",
     "set_production_environment": "Vendos Mjedisin e Prodhimit",
     "delay_notification": "Njoftimi me vonesë",
@@ -873,7 +873,7 @@
     "calendar": "Kalendari",
     "system": "Sistemi",
     "change_mosque_order": "Tërhiqni dhe lëshoni xhamitë për të ndryshuar rendin dhe për të vendosur xhaminë kryesore",
-    "remove": "Hiq",
+    "remove": "Largoje",
     "save": "Ruaj",
     "main_mosque": "Xhamia kryesore",
     "mosques": "Xhamitë",
@@ -903,15 +903,15 @@
     "all_recitators": "Të gjithë recituesit",
     "downloaded": "E shkarkuar",
     "search_for_recitator": "Kërkoni për një recitues",
-    "search_for_surah": "Kërkoni për një sure",
+    "search_for_surah": "Kërkoni një sure",
     "search_for_fav_recitator": "Kërkoni për një recitues të preferuar",
     "listen_to_quran": "DËGJO KURAN",
-    "search_hint_text": "Kërkoni për një xhami ose një qytet",
+    "search_hint_text": "Kërkoni një xhami ose një qytet",
     "downloading": "Duke u shkarkuar",
     "cant_download_more_than_3": "Nuk mund të shkarkohën më shumë se 3 njëkohësisht.",
     "boost": "Boost",
     "recitation_deleted_successfully": "Recitimi u fshi me sukses",
-    "quran": "Kuran",
+    "quran": "Kur'an",
     "qibla": "Kibla",
     "search": "Kërko",
     "more": "Më shumë",
@@ -943,5 +943,9 @@
     "set_notification_for_all_parayer": "Vendoseni këtë për çdo namaz",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
+    },
+    "powered_by_mawaqit": "Mundësuar nga MAWAQIT",
+    "@powered_by_mawaqit": {
+        "description": "-> powered_by_mawaqit_"
     }
 }
