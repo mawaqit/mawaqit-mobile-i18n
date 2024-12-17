@@ -5,57 +5,57 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "Любими",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_qibla": "Qibla",
+    "bottomNavbar_qibla": "Посока",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "Търсене",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "Настройки",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "Автоматично",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "Нощна",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "Дневна",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "Формат на времето",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "Избор на език",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "Език",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "Тема",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
@@ -70,36 +70,36 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
-    "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
-    "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_PrayerNotifications": "Известия за молитва",
+    "settings_PrayerPreNotifications": "Уведомления преди молитва",
+    "settings_ShuruqPreNotifications": "Уведомления преди Изгрев",
+    "settings_Calculations": "Изчисления",
+    "settings_RateOurApp": "Оценете нашето приложение",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
-    "settings_News": "News",
-    "settings_MakeADonation": "Make a donation",
-    "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donate to MAWAQIT",
+    "settings_WhatsNew": "Какво ново",
+    "settings_SupportMawaqit": "Подкрепи Mawaqit",
+    "settings_News": "Новини",
+    "settings_MakeADonation": "Направете дарение",
+    "bismillah": "Бисмиллях",
+    "settings_DonateToMawaqit": "Направи дарение за MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "Проверка за актуализации",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
     },
-    "settings_Credits": "Credits",
+    "settings_Credits": "Информация за приложението",
     "@settings_Credits": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "About us",
+    "settings_AboutUs": "Информация за нас",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
