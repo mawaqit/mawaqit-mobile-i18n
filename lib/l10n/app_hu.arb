@@ -5,7 +5,7 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "Kedvencek",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"

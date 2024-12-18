@@ -1288,6 +1288,9 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get set_notification_for_all_parayer => Crowdin.getText(localeName, 'set_notification_for_all_parayer') ?? _fallbackTexts.set_notification_for_all_parayer;
 
+	@override
+  String get powered_by_mawaqit => Crowdin.getText(localeName, 'powered_by_mawaqit') ?? _fallbackTexts.powered_by_mawaqit;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

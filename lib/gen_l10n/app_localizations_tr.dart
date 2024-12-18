@@ -1266,4 +1266,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Bunu her dua için ayarlayın';
+
+  @override
+  String get powered_by_mawaqit => 'MAWAQIT tarafından desteklenmektedir';
 }

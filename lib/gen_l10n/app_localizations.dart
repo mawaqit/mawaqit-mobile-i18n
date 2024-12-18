@@ -6,15 +6,21 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/intl.dart' as intl;
 
 import 'app_localizations_ar.dart';
+import 'app_localizations_bg.dart';
 import 'app_localizations_bn.dart';
+import 'app_localizations_bs.dart';
 import 'app_localizations_de.dart';
 import 'app_localizations_en.dart';
 import 'app_localizations_es.dart';
+import 'app_localizations_fi.dart';
 import 'app_localizations_fr.dart';
+import 'app_localizations_hi.dart';
+import 'app_localizations_hu.dart';
 import 'app_localizations_id.dart';
 import 'app_localizations_it.dart';
 import 'app_localizations_nl.dart';
 import 'app_localizations_pl.dart';
+import 'app_localizations_pt.dart';
 import 'app_localizations_ru.dart';
 import 'app_localizations_sq.dart';
 import 'app_localizations_tr.dart';
@@ -102,15 +108,21 @@ abstract class AppLocalizations {
   /// A list of this localizations delegate's supported locales.
   static const List<Locale> supportedLocales = <Locale>[
     Locale('ar'),
+    Locale('bg'),
     Locale('bn'),
+    Locale('bs'),
     Locale('de'),
     Locale('en'),
     Locale('es'),
+    Locale('fi'),
     Locale('fr'),
+    Locale('hi'),
+    Locale('hu'),
     Locale('id'),
     Locale('it'),
     Locale('nl'),
     Locale('pl'),
+    Locale('pt'),
     Locale('ru'),
     Locale('sq'),
     Locale('tr'),
@@ -2642,6 +2654,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Set this for every prayer'**
   String get set_notification_for_all_parayer;
+
+  /// -> powered_by_mawaqit_
+  ///
+  /// In en, this message translates to:
+  /// **'Powered by MAWAQIT'**
+  String get powered_by_mawaqit;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
@@ -2653,7 +2671,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'bn', 'de', 'en', 'es', 'fr', 'id', 'it', 'nl', 'pl', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'bg', 'bn', 'bs', 'de', 'en', 'es', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'nl', 'pl', 'pt', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -2665,15 +2683,21 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
   // Lookup logic when only language code is specified.
   switch (locale.languageCode) {
     case 'ar': return AppLocalizationsAr();
+    case 'bg': return AppLocalizationsBg();
     case 'bn': return AppLocalizationsBn();
+    case 'bs': return AppLocalizationsBs();
     case 'de': return AppLocalizationsDe();
     case 'en': return AppLocalizationsEn();
     case 'es': return AppLocalizationsEs();
+    case 'fi': return AppLocalizationsFi();
     case 'fr': return AppLocalizationsFr();
+    case 'hi': return AppLocalizationsHi();
+    case 'hu': return AppLocalizationsHu();
     case 'id': return AppLocalizationsId();
     case 'it': return AppLocalizationsIt();
     case 'nl': return AppLocalizationsNl();
     case 'pl': return AppLocalizationsPl();
+    case 'pt': return AppLocalizationsPt();
     case 'ru': return AppLocalizationsRu();
     case 'sq': return AppLocalizationsSq();
     case 'tr': return AppLocalizationsTr();
