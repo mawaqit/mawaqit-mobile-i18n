@@ -59,7 +59,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get settings_Calculations => 'Metodo di calcolo';
 
   @override
-  String get settings_RateOurApp => 'Vota la nostra App';
+  String get settings_RateOurApp => 'Recensisci la nostra app';
 
   @override
   String get settings_WhatsNew => 'Notizie';
@@ -77,7 +77,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get bismillah => 'Bismillah';
 
   @override
-  String get settings_DonateToMawaqit => 'Donazioni a MAWAQIT';
+  String get settings_DonateToMawaqit => 'Dona a MAWAQIT';
 
   @override
   String get settings_CheckForUpdates => 'Controlla gli aggiornamenti';
@@ -113,7 +113,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get settings_language_it => 'Italiano';
 
   @override
-  String get settings_language_tr => 'Turca';
+  String get settings_language_tr => 'Turco';
 
   @override
   String get settings_language_ru => 'Russo';
@@ -194,7 +194,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get prayer_Notification_NoNotification => 'Non hai impostato nessuna notifica per questa Preghiera.';
 
   @override
-  String get prayer_PreNotification_Description => 'Questa impostazione permette di definire una notifica prima della preghiera.';
+  String get prayer_PreNotification_Description => 'Questa impostazione ti permette di impostare una notifica prima della preghiera.';
 
   @override
   String get search_TryParis => 'Prova \"Paris\".';
@@ -251,7 +251,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get no_thanks => 'No grazie';
 
   @override
-  String get notification_denied => 'Hai negato i permessi di notifica, quindi non riceverai alcuna notifica.';
+  String get notification_denied => 'Hai negato i permessi di notifica, quindi non riceverai nessuna notifica.';
 
   @override
   String get at_least_one_mosque => 'Aggiungi almeno una moschea per continuare';
@@ -332,7 +332,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get itinerary => 'Itinerario';
 
   @override
-  String get call => 'Chiamata';
+  String get call => 'Chiama';
 
   @override
   String get dnd => 'Non disturbare';
@@ -344,7 +344,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get power_saver => 'Risparmio energetico';
 
   @override
-  String get permission_message1 => 'Abbiamo rilevato una notifica ritardata. Disattivala';
+  String get permission_message1 => 'Abbiamo rilevato una notifica in ritardo, per favore disattivala';
 
   @override
   String get permission_message2 => 'per ricevere la notifica in tempo.';
@@ -362,7 +362,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get jumua => 'Jum\'a';
 
   @override
-  String get qibla_sensor => 'Il sensore nel tuo dispositivo che MAWAQIT utilizza per determinare la Qibla non sta funzionando come previsto, il che sta influenzando la nostra capacità di visualizzare la direzione della Qibla.';
+  String get qibla_sensor => 'Il sensore del tuo dispositivo che MAWAQIT usa per determinare la Qibla non funziona correttamente, impedendo la visualizzazione della direzione della Qibla.';
 
   @override
   String get connection_not_found => 'L\'impostazione di calibrazione della bussola è disabilitata. Assicurati che la tua connessione sia attiva e riprova cambiando la direzione.';
@@ -470,7 +470,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get imsak => 'Imsak';
 
   @override
-  String get eid => 'Eid preghiera a';
+  String get eid => 'La preghiera dell\'Eid alle';
 
   @override
   String get minutes => 'Minuti';
@@ -482,7 +482,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get please_update => 'È disponibile una versione più recente di MAWAQIT, aggiornala';
 
   @override
-  String get update => 'Aggiornare';
+  String get update => 'Aggiornamento';
 
   @override
   String get tutorial_skip => 'Salta il tutorial';
@@ -497,7 +497,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get tutorial_text_main_mosque => 'La tua moschea principale si presenta qui.\nPuoi scorrere verso sinistra e verso destra per passare da una moschea preferita a un\'altra.';
 
   @override
-  String get tutorial_title_countdown => 'Prossimo indicatore di preghiera';
+  String get tutorial_title_countdown => 'Indicatore della prossima preghiera';
 
   @override
   String get tutorial_text_countdown => 'Questo conto alla rovescia mostra il tempo rimanente prima della preghiera successiva.';
