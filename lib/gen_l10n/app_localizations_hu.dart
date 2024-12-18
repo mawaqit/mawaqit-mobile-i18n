@@ -8,7 +8,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'Favorites';
+  String get bottomNavbar_favorites => 'Kedvencek';
 
   @override
   String get bottomNavbar_qibla => 'Qibla';
