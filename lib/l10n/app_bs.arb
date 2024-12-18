@@ -25,7 +25,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "Automatski",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
@@ -880,7 +880,7 @@
     "no_news": "Nema novih vijesti/objave iz džamije ",
     "mawaqit_notification": "Mawaqit obavještenja",
     "no_mawaqit_notification": "Bez novih obavještenja od Mawaqit",
-    "meccan": "Mekka",
+    "meccan": "Mekanski",
     "medinan": "Medina",
     "montada_islamic_foundation": "Islamska fondacija Montada",
     "rashid_maash": "Rashid Maash",
@@ -889,7 +889,7 @@
     "frank_bubenheim_and_nadeem": "Frank Bubenheim and Nadeem",
     "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
     "unknown_author": "Nepoznat autor",
-    "translation_settings": "Postavke za prijevod",
+    "translation_settings": "Postavke prijevoda",
     "reading": "Čitanje",
     "listening": "Slušanje",
     "font_size": "Veličina slova- prijevod",
@@ -909,7 +909,7 @@
     "search_hint_text": "Pretraži džamiju ili grad",
     "downloading": "Preuzimanje",
     "cant_download_more_than_3": "Ne možete preuzeti više od 3 istovremeno.",
-    "boost": "Boost/pojačaj",
+    "boost": "Boost/povećaj",
     "recitation_deleted_successfully": "Audio zapisi su je uspješno izbrisani",
     "quran": "Kur'an",
     "qibla": "Kibla",

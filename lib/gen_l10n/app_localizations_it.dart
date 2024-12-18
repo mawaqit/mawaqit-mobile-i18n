@@ -26,7 +26,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get settings_ThemeDark => 'Scuro';
 
   @override
-  String get settings_ThemeLight => 'Luce';
+  String get settings_ThemeLight => 'Chiaro';
 
   @override
   String get settings_TimeFormat => 'Formato tempo';

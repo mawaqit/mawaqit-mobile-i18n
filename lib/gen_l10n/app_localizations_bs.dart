@@ -20,7 +20,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get bottomNavbar_settings => 'Postavke';
 
   @override
-  String get settings_ThemeAuto => 'Auto';
+  String get settings_ThemeAuto => 'Automatski';
 
   @override
   String get settings_ThemeDark => 'Tamno';
@@ -1121,7 +1121,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get no_mawaqit_notification => 'Bez novih obavještenja od Mawaqit';
 
   @override
-  String get meccan => 'Mekka';
+  String get meccan => 'Mekanski';
 
   @override
   String get medinan => 'Medina';
@@ -1148,7 +1148,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get unknown_author => 'Nepoznat autor';
 
   @override
-  String get translation_settings => 'Postavke za prijevod';
+  String get translation_settings => 'Postavke prijevoda';
 
   @override
   String get reading => 'Čitanje';
@@ -1208,7 +1208,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get cant_download_more_than_3 => 'Ne možete preuzeti više od 3 istovremeno.';
 
   @override
-  String get boost => 'Boost/pojačaj';
+  String get boost => 'Boost/povećaj';
 
   @override
   String get recitation_deleted_successfully => 'Audio zapisi su je uspješno izbrisani';
