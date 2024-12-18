@@ -1268,5 +1268,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get set_notification_for_all_parayer => 'تعيين هذا لكل الصلوات';
 
   @override
-  String get powered_by_mawaqit => 'مدعوم من قبل المدير';
+  String get powered_by_mawaqit => 'مدعوم من مواقيت';
 }
