@@ -35,7 +35,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Luce",
+    "settings_ThemeLight": "Chiaro",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
