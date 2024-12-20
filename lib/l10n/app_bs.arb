@@ -5,7 +5,7 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Omiljeno",
+    "bottomNavbar_favorites": "Favoriti",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
@@ -25,7 +25,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Automatski",
+    "settings_ThemeAuto": "Auto",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
@@ -81,7 +81,7 @@
     },
     "settings_WhatsNew": "Šta je novo",
     "settings_SupportMawaqit": "Podržite Mawaqit",
-    "settings_News": "Vijesti/Novosti",
+    "settings_News": "Vijesti i Objave",
     "settings_MakeADonation": "Udijeli trajnu sadaku",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Doniraj za MAWAQIT",
@@ -99,13 +99,13 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "O platformi Mawaqit",
+    "settings_AboutUs": "O aplikaciji Mawaqit",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
     "settings_language_ar": "Arapski",
-    "settings_language_bn": "Bengalski",
+    "settings_language_bn": "Bengali",
     "settings_language_fr": "French",
     "settings_language_nl": "Dutch",
     "settings_language_de": "Deutsch",
