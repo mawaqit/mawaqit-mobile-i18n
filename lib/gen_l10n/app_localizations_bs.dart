@@ -8,7 +8,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'Omiljeno';
+  String get bottomNavbar_favorites => 'Favoriti';
 
   @override
   String get bottomNavbar_qibla => 'Kibla';
@@ -20,7 +20,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get bottomNavbar_settings => 'Postavke';
 
   @override
-  String get settings_ThemeAuto => 'Automatski';
+  String get settings_ThemeAuto => 'Auto';
 
   @override
   String get settings_ThemeDark => 'Tamno';
@@ -68,7 +68,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_SupportMawaqit => 'Podržite Mawaqit';
 
   @override
-  String get settings_News => 'Vijesti/Novosti';
+  String get settings_News => 'Vijesti i Objave';
 
   @override
   String get settings_MakeADonation => 'Udijeli trajnu sadaku';
@@ -86,13 +86,13 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_Credits => 'Credits';
 
   @override
-  String get settings_AboutUs => 'O platformi Mawaqit';
+  String get settings_AboutUs => 'O aplikaciji Mawaqit';
 
   @override
   String get settings_language_ar => 'Arapski';
 
   @override
-  String get settings_language_bn => 'Bengalski';
+  String get settings_language_bn => 'Bengali';
 
   @override
   String get settings_language_fr => 'French';
