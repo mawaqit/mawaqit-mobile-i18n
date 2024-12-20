@@ -512,19 +512,19 @@ class AppLocalizationsIt extends AppLocalizations {
   String get tutorial_title_announcements => 'Messaggi e annunci della moschea';
 
   @override
-  String get tutorial_text_announcements => 'Le notifiche sui messaggi e sugli annunci dalla tua moschea verranno visualizzate qui.\nQuando tocchi questo pulsante, vedrai tutti i dettagli. Questi annunci possono essere un messaggio Flash, un\'immagine o anche un video.';
+  String get tutorial_text_announcements => 'Le notifiche relative ai messaggi e agli annunci della tua moschea verranno visualizzate qui.\nQuando toccherai questo pulsante, vedrai tutti i dettagli. Questi annunci possono essere un messaggio Flash, un\'immagine o anche un video.';
 
   @override
   String get onboarding_title_1 => 'Seleziona la tua lingua';
 
   @override
-  String get onboarding_text_1 => 'Seleziona la tua lingua preferita dall\'elenco sottostante e poi MAWAQIT cambierà in quella lingua.';
+  String get onboarding_text_1 => 'Seleziona la tua lingua preferita dall\'elenco sottostante';
 
   @override
   String get onboarding_title_2 => 'Benvenuto a MAWAQIT';
 
   @override
-  String get onboarding_text_2 => 'MAWAQIT è un ecosistema che ti offre un nuovo modo di tracciare e gestire i tempi di preghiera, l\'applicazione nelle tue mani fa parte di questo ecosistema, ti permette di trovare moschee e seguire le sue notizie e tempi di preghiera.';
+  String get onboarding_text_2 => 'MAWAQIT è un ecosistema che ti offre un nuovo modo per monitorare e gestire gli orari delle preghiere. L\'applicazione nelle tue mani fa parte di questo ecosistema, e ti permette di trovare moschee e seguire notizie e orari delle preghiere';
 
   @override
   String get onboarding_title_3 => 'Seleziona un tema scuro / chiaro';
@@ -599,10 +599,10 @@ class AppLocalizationsIt extends AppLocalizations {
   String get rate_popin_later => 'FORSE PIÙ TARDI';
 
   @override
-  String get message_see_all => 'Puoi visualizzare tutti i messaggi di questa moschea facendo clic sull\'altoparlante nella parte superiore dello schermo.';
+  String get message_see_all => 'Puoi visualizzare tutti i messaggi da questa moschea cliccando sull\'altoparlante nella parte superiore dello schermo.';
 
   @override
-  String get adhan_Makkah => 'Makkah';
+  String get adhan_Makkah => 'Mecca';
 
   @override
   String get tutorial_title_iqama => 'Iqama';
