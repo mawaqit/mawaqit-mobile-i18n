@@ -35,7 +35,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Luce",
+    "settings_ThemeLight": "Chiaro",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
@@ -74,7 +74,7 @@
     "settings_PrayerPreNotifications": "Notifica pre-preghiera",
     "settings_ShuruqPreNotifications": "Notifica pre-Shuruq",
     "settings_Calculations": "Metodo di calcolo",
-    "settings_RateOurApp": "Vota la nostra App",
+    "settings_RateOurApp": "Recensisci la nostra app",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
@@ -84,7 +84,7 @@
     "settings_News": "Notizie",
     "settings_MakeADonation": "Fai una donazione",
     "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donazioni a MAWAQIT",
+    "settings_DonateToMawaqit": "Dona a MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
@@ -112,7 +112,7 @@
     "settings_language_es": "Spagnolo",
     "settings_language_en": "Inglese",
     "settings_language_it": "Italiano",
-    "settings_language_tr": "Turca",
+    "settings_language_tr": "Turco",
     "settings_language_ru": "Russo",
     "settings_language_id": "Indonesiano",
     "settings_language_ur": "Urdu",
@@ -223,7 +223,7 @@
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "Questa impostazione permette di definire una notifica prima della preghiera.",
+    "prayer_PreNotification_Description": "Questa impostazione ti permette di impostare una notifica prima della preghiera.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
@@ -246,7 +246,7 @@
     "get_prayer_notifications_for": "Ricevi notifiche di preghiera per",
     "turn_on_notifications": "Attiva le notifiche di preghiera",
     "no_thanks": "No grazie",
-    "notification_denied": "Hai negato i permessi di notifica, quindi non riceverai alcuna notifica.",
+    "notification_denied": "Hai negato i permessi di notifica, quindi non riceverai nessuna notifica.",
     "at_least_one_mosque": "Aggiungi almeno una moschea per continuare",
     "set_up_your_prayer": "Imposta la tua preghiera",
     "notifications": "Notifiche",
@@ -273,11 +273,11 @@
     "services": "Servizi",
     "share": "Condividere",
     "itinerary": "Itinerario",
-    "call": "Chiamata",
+    "call": "Chiama",
     "dnd": "Non disturbare",
     "battery_optimize": "Ottimizzazione della batteria",
     "power_saver": "Risparmio energetico",
-    "permission_message1": "Abbiamo rilevato una notifica ritardata. Disattivala",
+    "permission_message1": "Abbiamo rilevato una notifica in ritardo, per favore disattivala",
     "permission_message2": "per ricevere la notifica in tempo.",
     "notifications_delay_detected": "Rilevato ritardo nelle notifiche",
     "open_setting": "Apri Impostazioni",
@@ -291,7 +291,7 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "Il sensore nel tuo dispositivo che MAWAQIT utilizza per determinare la Qibla non sta funzionando come previsto, il che sta influenzando la nostra capacità di visualizzare la direzione della Qibla.",
+    "qibla_sensor": "Il sensore del tuo dispositivo che MAWAQIT usa per determinare la Qibla non funziona correttamente, impedendo la visualizzazione della direzione della Qibla.",
     "connection_not_found": "L'impostazione di calibrazione della bussola è disabilitata. Assicurati che la tua connessione sia attiva e riprova cambiando la direzione.",
     "currently_located_at": "Attualmente situato a",
     "facing_makkah": "Sei rivolto verso la Mecca",
@@ -451,7 +451,7 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid preghiera a",
+    "eid": "La preghiera dell'Eid alle",
     "@eid": {
         "description": "_",
         "type": "text"
@@ -471,7 +471,7 @@
         "description": "_",
         "type": "text"
     },
-    "update": "Aggiornare",
+    "update": "Aggiornamento",
     "@update": {
         "description": "_",
         "type": "text"
@@ -496,7 +496,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Prossimo indicatore di preghiera",
+    "tutorial_title_countdown": "Indicatore della prossima preghiera",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Le notifiche sui messaggi e sugli annunci dalla tua moschea verranno visualizzate qui.\nQuando tocchi questo pulsante, vedrai tutti i dettagli. Questi annunci possono essere un messaggio Flash, un'immagine o anche un video.",
+    "tutorial_text_announcements": "Le notifiche relative ai messaggi e agli annunci della tua moschea verranno visualizzate qui.\nQuando toccherai questo pulsante, vedrai tutti i dettagli. Questi annunci possono essere un messaggio Flash, un'immagine o anche un video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -531,7 +531,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Seleziona la tua lingua preferita dall'elenco sottostante e poi MAWAQIT cambierà in quella lingua.",
+    "onboarding_text_1": "Seleziona la tua lingua preferita dall'elenco sottostante",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
@@ -541,7 +541,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT è un ecosistema che ti offre un nuovo modo di tracciare e gestire i tempi di preghiera, l'applicazione nelle tue mani fa parte di questo ecosistema, ti permette di trovare moschee e seguire le sue notizie e tempi di preghiera.",
+    "onboarding_text_2": "MAWAQIT è un ecosistema che ti offre un nuovo modo per monitorare e gestire gli orari delle preghiere. L'applicazione nelle tue mani fa parte di questo ecosistema, e ti permette di trovare moschee e seguire notizie e orari delle preghiere",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
@@ -666,12 +666,12 @@
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "Puoi visualizzare tutti i messaggi di questa moschea facendo clic sull'altoparlante nella parte superiore dello schermo.",
+    "message_see_all": "Puoi visualizzare tutti i messaggi da questa moschea cliccando sull'altoparlante nella parte superiore dello schermo.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "Mecca",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"

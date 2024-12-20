@@ -5,7 +5,7 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Omiljeno",
+    "bottomNavbar_favorites": "Favoriti",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
@@ -81,7 +81,7 @@
     },
     "settings_WhatsNew": "Šta je novo",
     "settings_SupportMawaqit": "Podržite Mawaqit",
-    "settings_News": "Vijesti/Novosti",
+    "settings_News": "Vijesti i Objave",
     "settings_MakeADonation": "Udijeli trajnu sadaku",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Doniraj za MAWAQIT",
@@ -99,13 +99,13 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "O platformi Mawaqit",
+    "settings_AboutUs": "O aplikaciji Mawaqit",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
     "settings_language_ar": "Arapski",
-    "settings_language_bn": "Bengalski",
+    "settings_language_bn": "Bengali",
     "settings_language_fr": "French",
     "settings_language_nl": "Dutch",
     "settings_language_de": "Deutsch",
@@ -880,7 +880,7 @@
     "no_news": "Nema novih vijesti/objave iz džamije ",
     "mawaqit_notification": "Mawaqit obavještenja",
     "no_mawaqit_notification": "Bez novih obavještenja od Mawaqit",
-    "meccan": "Mekka",
+    "meccan": "Mekanski",
     "medinan": "Medina",
     "montada_islamic_foundation": "Islamska fondacija Montada",
     "rashid_maash": "Rashid Maash",
@@ -889,7 +889,7 @@
     "frank_bubenheim_and_nadeem": "Frank Bubenheim and Nadeem",
     "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
     "unknown_author": "Nepoznat autor",
-    "translation_settings": "Postavke za prijevod",
+    "translation_settings": "Postavke prijevoda",
     "reading": "Čitanje",
     "listening": "Slušanje",
     "font_size": "Veličina slova- prijevod",
@@ -909,7 +909,7 @@
     "search_hint_text": "Pretraži džamiju ili grad",
     "downloading": "Preuzimanje",
     "cant_download_more_than_3": "Ne možete preuzeti više od 3 istovremeno.",
-    "boost": "Boost/pojačaj",
+    "boost": "Boost/povećaj",
     "recitation_deleted_successfully": "Audio zapisi su je uspješno izbrisani",
     "quran": "Kur'an",
     "qibla": "Kibla",
