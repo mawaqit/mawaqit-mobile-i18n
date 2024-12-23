@@ -98,7 +98,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get settings_language_fr => 'Farayseere';
 
   @override
-  String get settings_language_nl => 'Dutch';
+  String get settings_language_nl => 'Holandiire';
 
   @override
   String get settings_language_de => 'Doccere';
@@ -215,19 +215,19 @@ class AppLocalizationsFf extends AppLocalizations {
   String get search_error => 'Oops an internal error has occurred\'';
 
   @override
-  String get search_your_location => 'Your location';
+  String get search_your_location => 'Nokkuure maa';
 
   @override
   String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
 
   @override
-  String get search_settings => 'Settings';
+  String get search_settings => 'Teelte';
 
   @override
   String get no_services_text => 'Mosques didn\'t provided this info';
 
   @override
-  String get welcome => 'Welcome to';
+  String get welcome => 'A jaɓɓaama e';
 
   @override
   String get mawaqit => 'MAWAQIT';
@@ -281,10 +281,10 @@ class AppLocalizationsFf extends AppLocalizations {
   String get the_request_timeout => 'The request timed out';
 
   @override
-  String get no_internet_connection => 'No Internet Connection';
+  String get no_internet_connection => 'Alaa Ceŋol Enternet';
 
   @override
-  String get try_again => 'Try again';
+  String get try_again => 'Fuɗɗito';
 
   @override
   String get virtual_mosque => 'Virtual Mosque';
@@ -308,7 +308,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get jumua1 => 'Jum\'a 1';
 
   @override
-  String get prayer_times => 'Prayer times';
+  String get prayer_times => 'Waktuuji Njuulu';
 
   @override
   String get remove_this_city => 'Remove this city';
@@ -326,7 +326,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get services => 'Services';
 
   @override
-  String get share => 'Share';
+  String get share => 'Lolin';
 
   @override
   String get itinerary => 'Itinerary';
@@ -377,7 +377,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get not_facing_Makkah => 'You\'re not facing Makkah';
 
   @override
-  String get qibla_Error_retry => 'Retry';
+  String get qibla_Error_retry => 'Fuɗɗito';
 
   @override
   String get qibla_Error_LocationDenied => 'Location service permission denied';
@@ -416,19 +416,19 @@ class AppLocalizationsFf extends AppLocalizations {
   String get mosque_Error_CouldNotLaunch => 'Could not launch';
 
   @override
-  String get mosque_PrayerTimes => 'Prayer times';
+  String get mosque_PrayerTimes => 'Waktuuji Njuulu';
 
   @override
-  String get mosque_Website => 'Website';
+  String get mosque_Website => 'Lowre';
 
   @override
-  String get mosque_Address => 'Address';
+  String get mosque_Address => 'Ñiiɓirde';
 
   @override
   String get mosque_Phone => 'Phone';
 
   @override
-  String get mosque_Email => 'Email';
+  String get mosque_Email => 'Iimeel';
 
   @override
   String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
@@ -452,46 +452,46 @@ class AppLocalizationsFf extends AppLocalizations {
   String get mosque_Facilities_ChildrenCourses => 'Children Courses';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
+  String get mosque_Facilities_SalatAlAid => 'Njuulu Pummirgal';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'Salat Al Janaza';
+  String get mosque_Facilities_SalatAlJanaza => 'Lootngo Gooski';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'Iftar Ramadan';
+  String get mosques_Facilities_IftarRamadan => 'Kumtaari Koorka';
 
   @override
   String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
 
   @override
-  String get in_ => 'in';
+  String get in_ => 'nder';
 
   @override
   String get imsak => 'Imsak';
 
   @override
-  String get eid => 'Eid prayer at';
+  String get eid => 'Njuulu Pummirgal to';
 
   @override
-  String get minutes => 'Minutes';
+  String get minutes => 'Hojomaaji';
 
   @override
   String get jumua2 => 'Jum\'a 2';
 
   @override
-  String get please_update => 'A newer version of MAWAQIT is available, please update';
+  String get please_update => 'Yamre hesere MAWAQIT ena woodi, tiiɗno hesɗitin';
 
   @override
-  String get update => 'Update';
+  String get update => 'Kesɗitinal';
 
   @override
-  String get tutorial_skip => 'Skip tutorial';
+  String get tutorial_skip => 'Diw tinndinoore';
 
   @override
-  String get tutorial_next => 'Next';
+  String get tutorial_next => 'Yeeso';
 
   @override
-  String get tutorial_title_main_mosque => 'Your main mosque';
+  String get tutorial_title_main_mosque => 'Jamaa maa gargawniijo';
 
   @override
   String get tutorial_text_main_mosque => 'Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.';
@@ -539,7 +539,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
 
   @override
-  String get loading => 'Loading';
+  String get loading => 'Nana loowa';
 
   @override
   String get loading_please_wait => 'Loading... Please wait';
@@ -602,22 +602,22 @@ class AppLocalizationsFf extends AppLocalizations {
   String get message_see_all => 'You can view all messages from this mosque by clicking on the speaker at the top of the screen.';
 
   @override
-  String get adhan_Makkah => 'Makkah';
+  String get adhan_Makkah => 'Makka';
 
   @override
-  String get tutorial_title_iqama => 'Iqama';
+  String get tutorial_title_iqama => 'Wuurnaango';
 
   @override
   String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
 
   @override
-  String get calendar_tooltip_download => 'Download calendar';
+  String get calendar_tooltip_download => 'Aawto haatumeere';
 
   @override
   String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
 
   @override
-  String get calendar_downloading => 'Downloading calendar...';
+  String get calendar_downloading => 'Nana aawtoo haatumeere...';
 
   @override
   String get location_service_disabled => 'Location Service is disabled, please enable it.';
@@ -635,16 +635,16 @@ class AppLocalizationsFf extends AppLocalizations {
   String get and => 'and';
 
   @override
-  String get continue_to_app => 'Continue';
+  String get continue_to_app => 'Jokku';
 
   @override
-  String get add => 'Add';
+  String get add => 'Ɓeydu';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'Jamaa';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'Ƴeewen yiytude jamaa ɓurɗo ɓadaade';
 
   @override
   String get on_boarding_nearest_mosque_text => 'Here are the mosques found around you according to your geolocation';
@@ -689,7 +689,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get quran_verse_search => 'Verse search';
 
   @override
-  String get quran_translation => 'Translation';
+  String get quran_translation => 'Firo';
 
   @override
   String get quran_mushaf => 'Mushaf';
@@ -698,7 +698,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get quran_juzz => 'Juzz';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'Aaye';
 
   @override
   String get quran_verses => 'Verses';
@@ -737,13 +737,13 @@ class AppLocalizationsFf extends AppLocalizations {
   String get quran_pages_color => 'Pages color';
 
   @override
-  String get english_tr => 'English';
+  String get english_tr => 'Engeleere';
 
   @override
-  String get french_tr => 'French';
+  String get french_tr => 'Farayseere';
 
   @override
-  String get spanish_tr => 'Spanish';
+  String get spanish_tr => 'Español';
 
   @override
   String get muhammad_hamidullah => 'Muhammad Hamidullah';
@@ -755,13 +755,13 @@ class AppLocalizationsFf extends AppLocalizations {
   String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
 
   @override
-  String get reciters => 'Reciters';
+  String get reciters => 'Tafsirooɓe';
 
   @override
-  String get favorite_reciters => 'Favorite reciters';
+  String get favorite_reciters => 'Tafsirooɓe hatojinaaɓe';
 
   @override
-  String get surahs_downloaded => 'Surahs downloaded';
+  String get surahs_downloaded => 'Cimooje ngaawtaama';
 
   @override
   String get surahs_chapter => 'Surahs - Chapter';
@@ -770,13 +770,13 @@ class AppLocalizationsFf extends AppLocalizations {
   String get my_likes => 'My Likes';
 
   @override
-  String get cancel => 'Cancel';
+  String get cancel => 'Haaytu';
 
   @override
-  String get next => 'Next';
+  String get next => 'Yeeso';
 
   @override
-  String get search_surah => 'Search Surah';
+  String get search_surah => 'Yiylo Simoore';
 
   @override
   String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
@@ -788,10 +788,10 @@ class AppLocalizationsFf extends AppLocalizations {
   String get search_reciter => 'Search Reciter';
 
   @override
-  String get al_quran_al_kareem => 'Al Quran Al Kareem';
+  String get al_quran_al_kareem => 'Ǧur\'aana Tedduɗo oo';
 
   @override
-  String get surahs => 'Surahs';
+  String get surahs => 'Cimooje';
 
   @override
   String get chapters => 'Chapters';
@@ -932,16 +932,16 @@ class AppLocalizationsFf extends AppLocalizations {
   String get download_quran_popup_cancelled => 'Something went wrong, please hit the download button again!';
 
   @override
-  String get download => 'Download';
+  String get download => 'Aawto';
 
   @override
-  String get continue_download => 'Continue the download';
+  String get continue_download => 'Jokku aawtagol';
 
   @override
-  String get cancel_download => 'Cancel the download';
+  String get cancel_download => 'Haaytu aawtagol';
 
   @override
-  String get download_completed => 'Download Completed';
+  String get download_completed => 'Aawtagol Timmii';
 
   @override
   String get download_failed => 'Download Failed';
