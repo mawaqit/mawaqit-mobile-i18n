@@ -117,48 +117,48 @@
     "settings_language_id": "Индонезийски",
     "settings_language_ur": "Урду",
     "settings_language_pl": "Полски",
-    "settings_CreditsText": "Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "settings_CreditsText": "Авторско право © 2021 MAWAQIT за Фондация MAWAQIT, Всички права запазени.\n\nИнтелектуалната собственост и авторските права върху това приложение или неговите компоненти, добавки или съдържание са собственост на MAWAQIT за сдружение MAWAQIT.\n\nТази версия е лицензирана само за разпространение с благотворителна цел и е вакъфска. Всякаква търговска употреба или търговско разпространение са строго забранени.\n\nТози лиценз не означава и не включва - по никакъв начин - продажбата на каквото и да е право, свързано с този продукт, която и да е от неговите части, компоненти, добавки или съдържание. По-скоро този лиценз позволява само благотворително разпространение на приложението чрез настоящата платформа на магазина за приложения.\n\nПреразпространението на приложението чрез използване на изходния код или двоичните файлове, или чрез използване на обратен инженеринг със или без внасяне на каквито и да било изменения, ще изложи нарушителя или този, който е отговорен за това нарушение на авторските права, на съдебни действия.\n\nНикоя страна няма право да разпространява приложението извън официалните магазини на Apple или Google Play без официално писмено разрешение от носителя на авторските права и собственика на приложението, MAWAQIT за сдружението The MAWAQIT. Разпространението на това приложение извън тези официални магазини би било нарушение на закона за защита на интелектуалната собственост и излага отговорния за това нарушение на авторските права на съдебни действия.\n\nНе е позволено да се използва името или марката на приложението или търговската марка или името на притежателя на авторските права, сдружение MAWAQIT for The MAWAQIT, за популяризиране на продукти, които са сходни или производни на това приложение, или на други продукти, без да е получено предварително писмено разрешение от притежателя на авторските права.\nТова приложение е лицензирано за разпространение от притежателите на авторските права и акционерите \"във вида, в който е\".\n\nКомпанията разработчик и собственик на приложението не дава никакви явни или косвени гаранции, включително - но не само - реклама и промотиране за пригодността на приложението за определена цел. Във всеки случай MAWAQIT за Сдружението MAWAQIT или акционерите не носят отговорност за каквито и да било щети, било то преки, косвени или случайни (конкретни, предпазни, последващи), включително - но не само - загуба на употреба, данни или печалби; или прекъсване на дейността, независимо от причините и отговорностите, независимо дали тези отговорности са договорни, абсолютни или деликтни (включително небрежност или други), които са възникнали - по един или друг начин - от използването на това приложение.\n\nАвторските права на трети страни върху приложението са запазени за техния притежател.\n\nИзображения и фонове\n\nАвторското право принадлежи на Shutterstock\nИкони - лиценз CC BY 4.0\n\nАвторското право принадлежи на Flaticons\nЛицензът MIT се прилага за всички файлове, които не са свързани с шрифтове и икони.\nШрифтове - SIL OFL 1.1 Лиценз\n\nАвторските права преминават към шрифтовете на Google (Roboto fonts)\nАвторски права върху пакетите на Apple, Cupertino\nКод, пакети и рамки\n\nFlutter by Google\nПакети : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "Това приложение е разработено от асоциацията Mawaqit.\n\nАсоциацията Mawaqit е организация с нестопанска цел, създадена през 2021 г. във Франция.\nНашата цел е разработването на иновативни решения, свързани с ИТ и цифрови технологии, като софтуер и уебсайтове; преподаване и обучение в областта на цифровите решения и ИТ инструментите.\n\nЕкосистемата Mawaqit е нашият водещ продукт и историята ѝ започна през 2016 г. с приложение на големи екрани, предназначени за джамии, след това мобилно приложение, добавка за домашен помощник и умение за alexa и т.н.\n\nMawaqit ви предлага нов начин за проследяване и управление на времето за молитва, всъщност ние предлагаме цялостна система, която предлага на управителите на джамии онлайн инструмент, достъпен 24 часа в денонощието, позволяващ им да управляват графици, новини за джамията и много други функции. Вярващите от своя страна се възползват от мобилно приложение, което им позволява да се консултират с точните, а не с приблизителните графици на любимата си джамия, както и с новините и други функционалности, като например търсене на джамия по геолокация, адхан, кибла... и т.н. Надеждността и качеството са нашите основни ценности. Амбицията ни е ясна: да създадем най-добрата услуга за нашите джамии благодарение на технологиите и дизайна.\n\nАко сте харесали това приложение, моля, оставете отзива си в магазина за приложения.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
     },
-    "fajr": "Fajr",
+    "fajr": "Сабах",
     "@fajr": {
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Sunrise",
+    "shuruq": "Изгрев",
     "@shuruq": {
         "description": "_",
         "type": "text"
     },
-    "duhr": "Duhr",
+    "duhr": "Пладнина",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Asr",
+    "asr": "Икиндия",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Maghrib",
+    "maghrib": "Акшам",
     "@maghrib": {
         "description": "_",
         "type": "text"
     },
-    "isha": "Isha",
+    "isha": "Ятсия",
     "@isha": {
         "description": "_",
         "type": "text"
     },
-    "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
+    "sabah": "Сабах",
+    "settings_PrayerNotification_NoNotification": "В момента сте настроили да не получавате известия за тази молитва намаз.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
