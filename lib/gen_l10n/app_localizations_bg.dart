@@ -89,43 +89,43 @@ class AppLocalizationsBg extends AppLocalizations {
   String get settings_AboutUs => 'Информация за нас';
 
   @override
-  String get settings_language_ar => 'Arabic';
+  String get settings_language_ar => 'Арабски';
 
   @override
-  String get settings_language_bn => 'Bengali';
+  String get settings_language_bn => 'Бенгалски';
 
   @override
-  String get settings_language_fr => 'French';
+  String get settings_language_fr => 'Френски';
 
   @override
-  String get settings_language_nl => 'Dutch';
+  String get settings_language_nl => 'Холандски';
 
   @override
-  String get settings_language_de => 'German';
+  String get settings_language_de => 'Немски';
 
   @override
-  String get settings_language_es => 'Spanish';
+  String get settings_language_es => 'Испански';
 
   @override
-  String get settings_language_en => 'English';
+  String get settings_language_en => 'Английски';
 
   @override
-  String get settings_language_it => 'Italian';
+  String get settings_language_it => 'Италиански';
 
   @override
-  String get settings_language_tr => 'Turkish';
+  String get settings_language_tr => 'Турски';
 
   @override
-  String get settings_language_ru => 'Russian';
+  String get settings_language_ru => 'Руски';
 
   @override
-  String get settings_language_id => 'Indonesian';
+  String get settings_language_id => 'Индонезийски';
 
   @override
-  String get settings_language_ur => 'Urdu';
+  String get settings_language_ur => 'Урду';
 
   @override
-  String get settings_language_pl => 'Polish';
+  String get settings_language_pl => 'Полски';
 
   @override
   String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
