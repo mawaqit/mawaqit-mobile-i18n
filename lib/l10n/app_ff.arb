@@ -107,7 +107,7 @@
     "settings_language_ar": "Aarabeere",
     "settings_language_bn": "Benngali",
     "settings_language_fr": "Farayseere",
-    "settings_language_nl": "Dutch",
+    "settings_language_nl": "Holandiire",
     "settings_language_de": "Doccere",
     "settings_language_es": "Español",
     "settings_language_en": "Engeleere",
@@ -234,11 +234,11 @@
     "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
     "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
     "search_error": "Oops an internal error has occurred'",
-    "search_your_location": "Your location",
+    "search_your_location": "Nokkuure maa",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
-    "search_settings": "Settings",
+    "search_settings": "Teelte",
     "no_services_text": "Mosques didn't provided this info",
-    "welcome": "Welcome to",
+    "welcome": "A jaɓɓaama e",
     "mawaqit": "MAWAQIT",
     "connecting": "Connecting Muslims",
     "to_mosques": "To Mosques",
@@ -256,8 +256,8 @@
     "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
     "enable_location_service_from_app_settings": "Enable location service from app settings.",
     "the_request_timeout": "The request timed out",
-    "no_internet_connection": "No Internet Connection",
-    "try_again": "Try again",
+    "no_internet_connection": "Alaa Ceŋol Enternet",
+    "try_again": "Fuɗɗito",
     "virtual_mosque": "Virtual Mosque",
     "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
     "no_mosque_with": "Couldn't find any mosques with",
@@ -265,13 +265,13 @@
     "search_here": "Search Here",
     "enter_at_least_3_char": "Enter at-least 3 characters to search",
     "jumua1": "Jum'a 1",
-    "prayer_times": "Prayer times",
+    "prayer_times": "Waktuuji Njuulu",
     "remove_this_city": "Remove this city",
     "add_this_city": "Add this city",
     "add_this_mosque": "Add this mosque",
     "remove_this_mosque": "Remove this mosque",
     "services": "Services",
-    "share": "Share",
+    "share": "Lolin",
     "itinerary": "Itinerary",
     "call": "Call",
     "dnd": "Do Not Disturb",
@@ -296,7 +296,7 @@
     "currently_located_at": "Currently located at",
     "facing_makkah": "You're facing Makkah",
     "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_Error_retry": "Fuɗɗito",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
@@ -361,17 +361,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Prayer times",
+    "mosque_PrayerTimes": "Waktuuji Njuulu",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Website",
+    "mosque_Website": "Lowre",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Address": "Address",
+    "mosque_Address": "Ñiiɓirde",
     "@mosque_Address": {
         "description": "_",
         "type": "text"
@@ -381,7 +381,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "Iimeel",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -421,17 +421,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Salat Al Eid",
+    "mosque_Facilities_SalatAlAid": "Njuulu Pummirgal",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Lootngo Gooski",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "mosques_Facilities_IftarRamadan": "Kumtaari Koorka",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
@@ -441,7 +441,7 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "nder",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -451,12 +451,12 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid prayer at",
+    "eid": "Njuulu Pummirgal to",
     "@eid": {
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "Hojomaaji",
     "@minutes": {
         "description": "_",
         "type": "text"
@@ -466,27 +466,27 @@
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "Yamre hesere MAWAQIT ena woodi, tiiɗno hesɗitin",
     "@please_update": {
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "Kesɗitinal",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skip tutorial",
+    "tutorial_skip": "Diw tinndinoore",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_next": "Next",
+    "tutorial_next": "Yeeso",
     "@tutorial_next": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Your main mosque",
+    "tutorial_title_main_mosque": "Jamaa maa gargawniijo",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
@@ -566,7 +566,7 @@
         "description": "_",
         "type": "text"
     },
-    "loading": "Loading",
+    "loading": "Nana loowa",
     "@loading": {
         "description": "_",
         "type": "text"
@@ -671,12 +671,12 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "Makka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "Wuurnaango",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
@@ -686,7 +686,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "Aawto haatumeere",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
@@ -696,7 +696,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "Nana aawtoo haatumeere...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
@@ -718,10 +718,10 @@
     },
     "at_least_one_mosque_error": "You should have at least one mosque.",
     "and": "and",
-    "continue_to_app": "Continue",
-    "add": "Add",
-    "mosque": "Mosque",
-    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
+    "continue_to_app": "Jokku",
+    "add": "Ɓeydu",
+    "mosque": "Jamaa",
+    "on_boarding_nearest_mosque": "Ƴeewen yiytude jamaa ɓurɗo ɓadaade",
     "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
     "search_no_result_for_text": "We did not find any result for",
     "surah_audio_downloading": "Surah Audio Downloading...",
@@ -736,10 +736,10 @@
     "quran_browsing": "Browsing",
     "quran_search_placeholder": "Search by name of surah, number...",
     "quran_verse_search": "Verse search",
-    "quran_translation": "Translation",
+    "quran_translation": "Firo",
     "quran_mushaf": "Mushaf",
     "quran_juzz": "Juzz",
-    "ayah": "Ayah",
+    "ayah": "Aaye",
     "quran_verses": "Verses",
     "surah": "Surah",
     "continue_reading": "Continue Reading",
@@ -752,25 +752,25 @@
     "quran_from_top_to_bottom": "From top to bottom",
     "quran_from_bottom_to_top": "From bottom to top",
     "quran_pages_color": "Pages color",
-    "english_tr": "English",
-    "french_tr": "French",
-    "spanish_tr": "Spanish",
+    "english_tr": "Engeleere",
+    "french_tr": "Farayseere",
+    "spanish_tr": "Español",
     "muhammad_hamidullah": "Muhammad Hamidullah",
     "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
     "sheikh_isa_garcia": "Sheikh Isa Garcia",
-    "reciters": "Reciters",
-    "favorite_reciters": "Favorite reciters",
-    "surahs_downloaded": "Surahs downloaded",
+    "reciters": "Tafsirooɓe",
+    "favorite_reciters": "Tafsirooɓe hatojinaaɓe",
+    "surahs_downloaded": "Cimooje ngaawtaama",
     "surahs_chapter": "Surahs - Chapter",
     "my_likes": "My Likes",
-    "cancel": "Cancel",
-    "next": "Next",
-    "search_surah": "Search Surah",
+    "cancel": "Haaytu",
+    "next": "Yeeso",
+    "search_surah": "Yiylo Simoore",
     "not_downloaded_recitation": "You have not downloaded any recitation yet.",
     "not_favorite_reciter": "You have not marked any reciter favorite yet.",
     "search_reciter": "Search Reciter",
-    "al_quran_al_kareem": "Al Quran Al Kareem",
-    "surahs": "Surahs",
+    "al_quran_al_kareem": "Ǧur'aana Tedduɗo oo",
+    "surahs": "Cimooje",
     "chapters": "Chapters",
     "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
     "calculation_madhab": "Jurisprudence - Madhab",
@@ -817,10 +817,10 @@
     "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
     "download_quran_popup_confirm_cancel": "Are you sure you want to cancel the download? Without this data you won't be able to read the Quran, the pages will be unavailable.",
     "download_quran_popup_cancelled": "Something went wrong, please hit the download button again!",
-    "download": "Download",
-    "continue_download": "Continue the download",
-    "cancel_download": "Cancel the download",
-    "download_completed": "Download Completed",
+    "download": "Aawto",
+    "continue_download": "Jokku aawtagol",
+    "cancel_download": "Haaytu aawtagol",
+    "download_completed": "Aawtagol Timmii",
     "download_failed": "Download Failed",
     "download_pages": "Download the pages",
     "notification": "Notification",
