@@ -77,7 +77,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get bismillah => 'Bismilah';
 
   @override
-  String get settings_DonateToMawaqit => 'Dhuroni MAWAQITit';
+  String get settings_DonateToMawaqit => 'Donacioni për MAWAQIT';
 
   @override
   String get settings_CheckForUpdates => 'Kontrolloni për përditësime';
@@ -104,7 +104,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get settings_language_de => 'Gjermanisht';
 
   @override
-  String get settings_language_es => 'Spanish';
+  String get settings_language_es => 'Spanisht';
 
   @override
   String get settings_language_en => 'Anglisht';
