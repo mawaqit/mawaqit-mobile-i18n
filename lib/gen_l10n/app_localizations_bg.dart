@@ -158,52 +158,52 @@ class AppLocalizationsBg extends AppLocalizations {
   String get settings_PrayerNotification_NoNotification => 'В момента сте настроили да не получавате известия за тази молитва намаз.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
+  String get settings_PrayerNotification_Bip => 'Приложение за звуков сигнал при известие.';
 
   @override
-  String get adhan => 'Adhan';
+  String get adhan => 'Езан';
 
   @override
-  String get adhan_Makkah_fajr => 'Makkah (Fajr)';
+  String get adhan_Makkah_fajr => 'Мекка (Феджр)';
 
   @override
-  String get adhan_Madinah => 'Madinah';
+  String get adhan_Madinah => 'Медина';
 
   @override
-  String get adhan_Qods => 'Qods';
+  String get adhan_Qods => 'Кудс';
 
   @override
-  String get adhan_AlAfassy => 'Al Afassy';
+  String get adhan_AlAfassy => 'Мешари ал-Афааси';
 
   @override
-  String get adhan_AlAfassy_fajr => 'Al Afassy (Fajr)';
+  String get adhan_AlAfassy_fajr => 'Ал-Афааси (Феджр)';
 
   @override
-  String get adhan_Muhammad_jazy => 'Muhammad Jazy';
+  String get adhan_Muhammad_jazy => 'Мухаммед Джази';
 
   @override
-  String get adhan_AbdAlBassat => 'Abdul Bassit';
+  String get adhan_AbdAlBassat => 'Абдул Басит';
 
   @override
-  String get adhan_type => 'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
+  String get adhan_type => 'Изберете вид езан. Този избор ще бъде прилаган при всяка молитва, за която има уведомление за адхан.';
 
   @override
-  String get settings_prayer_Notification_None => 'None';
+  String get settings_prayer_Notification_None => 'Няма';
 
   @override
-  String get prayer_Notification_NoNotification => 'You have not set any notification for this Prayer.';
+  String get prayer_Notification_NoNotification => 'Не сте задали известие за тази молитва намаз.';
 
   @override
-  String get prayer_PreNotification_Description => 'This setting allows you to define a notification before the prayer.';
+  String get prayer_PreNotification_Description => 'Тази настройка ви позволява да зададете известие преди молитвата намаз.';
 
   @override
-  String get search_TryParis => 'Try Paris, Essalam etc.';
+  String get search_TryParis => 'Например: Париж, Иерусалим.';
 
   @override
-  String get search_ByGPS => 'Search by GPS';
+  String get search_ByGPS => 'Търсене по GPS';
 
   @override
-  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
+  String get search_HelpText => 'Можете да търсите джамия, като напишете:\n- Името на джамията\n- Името на асоциацията\n- Град, адрес, държава... и т.н.\n\nИли можете да натиснете бутона за намиране, за да намерите околните джамии.';
 
   @override
   String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
