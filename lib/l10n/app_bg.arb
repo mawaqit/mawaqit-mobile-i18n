@@ -163,74 +163,74 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "Приложение за звуков сигнал при известие.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "Езан",
     "@adhan": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "Мекка (Феджр)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "Медина",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "Кудс",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Al Afassy",
+    "adhan_AlAfassy": "Мешари ал-Афааси",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (Fajr)",
+    "adhan_AlAfassy_fajr": "Ал-Афааси (Феджр)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Muhammad_jazy": "Muhammad Jazy",
+    "adhan_Muhammad_jazy": "Мухаммед Джази",
     "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Abdul Bassit",
+    "adhan_AbdAlBassat": "Абдул Басит",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "Изберете вид езан. Този избор ще бъде прилаган при всяка молитва, за която има уведомление за адхан.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "Няма",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "Не сте задали известие за тази молитва намаз.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "Тази настройка ви позволява да зададете известие преди молитвата намаз.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "Try Paris, Essalam etc.",
-    "search_ByGPS": "Search by GPS",
-    "search_HelpText": "You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.",
+    "search_TryParis": "Например: Париж, Иерусалим.",
+    "search_ByGPS": "Търсене по GPS",
+    "search_HelpText": "Можете да търсите джамия, като напишете:\n- Името на джамията\n- Името на асоциацията\n- Град, адрес, държава... и т.н.\n\nИли можете да натиснете бутона за намиране, за да намерите околните джамии.",
     "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
     "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
     "search_error": "Oops an internal error has occurred'",
