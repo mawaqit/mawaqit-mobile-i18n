@@ -8,7 +8,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'Omiljeno';
+  String get bottomNavbar_favorites => 'Favoriti';
 
   @override
   String get bottomNavbar_qibla => 'Kibla';
@@ -68,7 +68,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_SupportMawaqit => 'Podržite Mawaqit';
 
   @override
-  String get settings_News => 'Vijesti/Novosti';
+  String get settings_News => 'Vijesti i Objave';
 
   @override
   String get settings_MakeADonation => 'Udijeli trajnu sadaku';
@@ -86,13 +86,13 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_Credits => 'Credits';
 
   @override
-  String get settings_AboutUs => 'O platformi Mawaqit';
+  String get settings_AboutUs => 'O aplikaciji Mawaqit';
 
   @override
   String get settings_language_ar => 'Arapski';
 
   @override
-  String get settings_language_bn => 'Bengalski';
+  String get settings_language_bn => 'Bengali';
 
   @override
   String get settings_language_fr => 'French';
@@ -1121,7 +1121,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get no_mawaqit_notification => 'Bez novih obavještenja od Mawaqit';
 
   @override
-  String get meccan => 'Mekka';
+  String get meccan => 'Mekanski';
 
   @override
   String get medinan => 'Medina';
@@ -1148,7 +1148,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get unknown_author => 'Nepoznat autor';
 
   @override
-  String get translation_settings => 'Postavke za prijevod';
+  String get translation_settings => 'Postavke prijevoda';
 
   @override
   String get reading => 'Čitanje';
@@ -1208,7 +1208,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get cant_download_more_than_3 => 'Ne možete preuzeti više od 3 istovremeno.';
 
   @override
-  String get boost => 'Boost/pojačaj';
+  String get boost => 'Boost/povećaj';
 
   @override
   String get recitation_deleted_successfully => 'Audio zapisi su je uspješno izbrisani';

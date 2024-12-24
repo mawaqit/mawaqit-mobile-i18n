@@ -1,61 +1,61 @@
 {
-    "@@locale": "bg",
+    "@@locale": "ff",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Любими",
+    "bottomNavbar_favorites": "Katojinaaɗe",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_qibla": "Посока",
+    "bottomNavbar_qibla": "Ǧibla",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Търсене",
+    "bottomNavbar_search": "Yiylo",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Настройки",
+    "bottomNavbar_settings": "Teelte",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Автоматично",
+    "settings_ThemeAuto": "Jaajo",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Нощна",
+    "settings_ThemeDark": "Niɓɓo",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Дневна",
+    "settings_ThemeLight": "Laaɓtuɗo",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Формат на времето",
+    "settings_TimeFormat": "Mbayka waktu",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Избор на език",
+    "settings_LanguageSelection": "Labagol ɗemngal",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Език",
+    "settings_Language": "Ɗemngal",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Тема",
+    "settings_Theme": "Sinkoore",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
@@ -70,95 +70,95 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Известия за молитва",
-    "settings_PrayerPreNotifications": "Уведомления преди молитва",
-    "settings_ShuruqPreNotifications": "Уведомления преди Изгрев",
-    "settings_Calculations": "Изчисления",
-    "settings_RateOurApp": "Оценете нашето приложение",
+    "settings_PrayerNotifications": "Tintine Juulu",
+    "settings_PrayerPreNotifications": "Tintine hade Juulu",
+    "settings_ShuruqPreNotifications": "Tintine hade Puɗal",
+    "settings_Calculations": "Kiisagol",
+    "settings_RateOurApp": "Ɓetto jaaɓngal amen",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "Какво ново",
-    "settings_SupportMawaqit": "Подкрепи Mawaqit",
-    "settings_News": "Новини",
-    "settings_MakeADonation": "Направете дарение",
-    "bismillah": "Бисмиллях",
-    "settings_DonateToMawaqit": "Направи дарение за MAWAQIT",
+    "settings_WhatsNew": "Ko hesɗi",
+    "settings_SupportMawaqit": "Wallit Mawaqit",
+    "settings_News": "Kabaruuji",
+    "settings_MakeADonation": "Addu dokkal maa",
+    "bismillah": "Bismillah",
+    "settings_DonateToMawaqit": "Tottu MAWAQIT dokkal",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Проверка за актуализации",
+    "settings_CheckForUpdates": "Yuurno kesɗitine",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
     },
-    "settings_Credits": "Информация за приложението",
+    "settings_Credits": "Wuneeji",
     "@settings_Credits": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "Информация за нас",
+    "settings_AboutUs": "Baɗte amen",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
-    "settings_language_ar": "Арабски",
-    "settings_language_bn": "Бенгалски",
-    "settings_language_fr": "Френски",
-    "settings_language_nl": "Холандски",
-    "settings_language_de": "Немски",
-    "settings_language_es": "Испански",
-    "settings_language_en": "Английски",
-    "settings_language_it": "Италиански",
-    "settings_language_tr": "Турски",
-    "settings_language_ru": "Руски",
-    "settings_language_id": "Индонезийски",
-    "settings_language_ur": "Урду",
-    "settings_language_pl": "Полски",
-    "settings_CreditsText": "Авторско право © 2021 MAWAQIT за Фондация MAWAQIT, Всички права запазени.\n\nИнтелектуалната собственост и авторските права върху това приложение или неговите компоненти, добавки или съдържание са собственост на MAWAQIT за сдружение MAWAQIT.\n\nТази версия е лицензирана само за разпространение с благотворителна цел и е вакъфска. Всякаква търговска употреба или търговско разпространение са строго забранени.\n\nТози лиценз не означава и не включва - по никакъв начин - продажбата на каквото и да е право, свързано с този продукт, която и да е от неговите части, компоненти, добавки или съдържание. По-скоро този лиценз позволява само благотворително разпространение на приложението чрез настоящата платформа на магазина за приложения.\n\nПреразпространението на приложението чрез използване на изходния код или двоичните файлове, или чрез използване на обратен инженеринг със или без внасяне на каквито и да било изменения, ще изложи нарушителя или този, който е отговорен за това нарушение на авторските права, на съдебни действия.\n\nНикоя страна няма право да разпространява приложението извън официалните магазини на Apple или Google Play без официално писмено разрешение от носителя на авторските права и собственика на приложението, MAWAQIT за сдружението The MAWAQIT. Разпространението на това приложение извън тези официални магазини би било нарушение на закона за защита на интелектуалната собственост и излага отговорния за това нарушение на авторските права на съдебни действия.\n\nНе е позволено да се използва името или марката на приложението или търговската марка или името на притежателя на авторските права, сдружение MAWAQIT for The MAWAQIT, за популяризиране на продукти, които са сходни или производни на това приложение, или на други продукти, без да е получено предварително писмено разрешение от притежателя на авторските права.\nТова приложение е лицензирано за разпространение от притежателите на авторските права и акционерите \"във вида, в който е\".\n\nКомпанията разработчик и собственик на приложението не дава никакви явни или косвени гаранции, включително - но не само - реклама и промотиране за пригодността на приложението за определена цел. Във всеки случай MAWAQIT за Сдружението MAWAQIT или акционерите не носят отговорност за каквито и да било щети, било то преки, косвени или случайни (конкретни, предпазни, последващи), включително - но не само - загуба на употреба, данни или печалби; или прекъсване на дейността, независимо от причините и отговорностите, независимо дали тези отговорности са договорни, абсолютни или деликтни (включително небрежност или други), които са възникнали - по един или друг начин - от използването на това приложение.\n\nАвторските права на трети страни върху приложението са запазени за техния притежател.\n\nИзображения и фонове\n\nАвторското право принадлежи на Shutterstock\nИкони - лиценз CC BY 4.0\n\nАвторското право принадлежи на Flaticons\nЛицензът MIT се прилага за всички файлове, които не са свързани с шрифтове и икони.\nШрифтове - SIL OFL 1.1 Лиценз\n\nАвторските права преминават към шрифтовете на Google (Roboto fonts)\nАвторски права върху пакетите на Apple, Cupertino\nКод, пакети и рамки\n\nFlutter by Google\nПакети : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "settings_language_ar": "Aarabeere",
+    "settings_language_bn": "Benngali",
+    "settings_language_fr": "Farayseere",
+    "settings_language_nl": "Holandiire",
+    "settings_language_de": "Doccere",
+    "settings_language_es": "Español",
+    "settings_language_en": "Engeleere",
+    "settings_language_it": "Italiire",
+    "settings_language_tr": "Turkiire",
+    "settings_language_ru": "Ruusiire",
+    "settings_language_id": "Enndonesiire",
+    "settings_language_ur": "Urduure",
+    "settings_language_pl": "Poloniire",
+    "settings_CreditsText": "Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "Това приложение е разработено от асоциацията Mawaqit.\n\nАсоциацията Mawaqit е организация с нестопанска цел, създадена през 2021 г. във Франция.\nНашата цел е разработването на иновативни решения, свързани с ИТ и цифрови технологии, като софтуер и уебсайтове; преподаване и обучение в областта на цифровите решения и ИТ инструментите.\n\nЕкосистемата Mawaqit е нашият водещ продукт и историята ѝ започна през 2016 г. с приложение на големи екрани, предназначени за джамии, след това мобилно приложение, добавка за домашен помощник и умение за alexa и т.н.\n\nMawaqit ви предлага нов начин за проследяване и управление на времето за молитва, всъщност ние предлагаме цялостна система, която предлага на управителите на джамии онлайн инструмент, достъпен 24 часа в денонощието, позволяващ им да управляват графици, новини за джамията и много други функции. Вярващите от своя страна се възползват от мобилно приложение, което им позволява да се консултират с точните, а не с приблизителните графици на любимата си джамия, както и с новините и други функционалности, като например търсене на джамия по геолокация, адхан, кибла... и т.н. Надеждността и качеството са нашите основни ценности. Амбицията ни е ясна: да създадем най-добрата услуга за нашите джамии благодарение на технологиите и дизайна.\n\nАко сте харесали това приложение, моля, оставете отзива си в магазина за приложения.",
+    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
     },
-    "fajr": "Сабах",
+    "fajr": "Fajiri",
     "@fajr": {
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Изгрев",
+    "shuruq": "Puɗal",
     "@shuruq": {
         "description": "_",
         "type": "text"
     },
-    "duhr": "Пладнина",
+    "duhr": "Tisubaar",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Икиндия",
+    "asr": "Takkosaan",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Акшам",
+    "maghrib": "Futuro",
     "@maghrib": {
         "description": "_",
         "type": "text"
     },
-    "isha": "Ятсия",
+    "isha": "Geeƴe",
     "@isha": {
         "description": "_",
         "type": "text"
     },
-    "sabah": "Сабах",
-    "settings_PrayerNotification_NoNotification": "В момента сте настроили да не получавате известия за тази молитва намаз.",
+    "sabah": "Subaka",
+    "settings_PrayerNotification_NoNotification": "A suɓiima waasde heɓde tintineede oo waktu e oo sahaa.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
@@ -168,32 +168,32 @@
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "Noddinaango",
     "@adhan": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "Makka (Fajiri)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "Madiina",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "Al Ǧudsu",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Al Afassy",
+    "adhan_AlAfassy": "Al Afasi",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (Fajr)",
+    "adhan_AlAfassy_fajr": "Al Afasi (Fajiri)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
@@ -208,17 +208,17 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "Suɓo noddinaango. Haŋkadi ko kanngo arata sahaa kala nde njuulu waɗi tintinol noddinaango.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "Hay baɗte",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "A suɓaaki noddinaango e oo waktu Njuulu.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
@@ -234,11 +234,11 @@
     "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
     "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
     "search_error": "Oops an internal error has occurred'",
-    "search_your_location": "Your location",
+    "search_your_location": "Nokkuure maa",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
-    "search_settings": "Settings",
+    "search_settings": "Teelte",
     "no_services_text": "Mosques didn't provided this info",
-    "welcome": "Welcome to",
+    "welcome": "A jaɓɓaama e",
     "mawaqit": "MAWAQIT",
     "connecting": "Connecting Muslims",
     "to_mosques": "To Mosques",
@@ -256,8 +256,8 @@
     "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
     "enable_location_service_from_app_settings": "Enable location service from app settings.",
     "the_request_timeout": "The request timed out",
-    "no_internet_connection": "No Internet Connection",
-    "try_again": "Try again",
+    "no_internet_connection": "Alaa Ceŋol Enternet",
+    "try_again": "Fuɗɗito",
     "virtual_mosque": "Virtual Mosque",
     "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
     "no_mosque_with": "Couldn't find any mosques with",
@@ -265,13 +265,13 @@
     "search_here": "Search Here",
     "enter_at_least_3_char": "Enter at-least 3 characters to search",
     "jumua1": "Jum'a 1",
-    "prayer_times": "Prayer times",
+    "prayer_times": "Waktuuji Njuulu",
     "remove_this_city": "Remove this city",
     "add_this_city": "Add this city",
     "add_this_mosque": "Add this mosque",
     "remove_this_mosque": "Remove this mosque",
     "services": "Services",
-    "share": "Share",
+    "share": "Lolin",
     "itinerary": "Itinerary",
     "call": "Call",
     "dnd": "Do Not Disturb",
@@ -296,7 +296,7 @@
     "currently_located_at": "Currently located at",
     "facing_makkah": "You're facing Makkah",
     "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_Error_retry": "Fuɗɗito",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
@@ -361,17 +361,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Prayer times",
+    "mosque_PrayerTimes": "Waktuuji Njuulu",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Website",
+    "mosque_Website": "Lowre",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Address": "Address",
+    "mosque_Address": "Ñiiɓirde",
     "@mosque_Address": {
         "description": "_",
         "type": "text"
@@ -381,7 +381,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "Iimeel",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -421,17 +421,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Salat Al Eid",
+    "mosque_Facilities_SalatAlAid": "Njuulu Pummirgal",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Lootngo Gooski",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "mosques_Facilities_IftarRamadan": "Kumtaari Koorka",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
@@ -441,7 +441,7 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "nder",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -451,12 +451,12 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid prayer at",
+    "eid": "Njuulu Pummirgal to",
     "@eid": {
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "Hojomaaji",
     "@minutes": {
         "description": "_",
         "type": "text"
@@ -466,27 +466,27 @@
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "Yamre hesere MAWAQIT ena woodi, tiiɗno hesɗitin",
     "@please_update": {
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "Kesɗitinal",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skip tutorial",
+    "tutorial_skip": "Diw tinndinoore",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_next": "Next",
+    "tutorial_next": "Yeeso",
     "@tutorial_next": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Your main mosque",
+    "tutorial_title_main_mosque": "Jamaa maa gargawniijo",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
@@ -566,7 +566,7 @@
         "description": "_",
         "type": "text"
     },
-    "loading": "Loading",
+    "loading": "Nana loowa",
     "@loading": {
         "description": "_",
         "type": "text"
@@ -671,12 +671,12 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "Makka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "Wuurnaango",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
@@ -686,7 +686,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "Aawto haatumeere",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
@@ -696,7 +696,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "Nana aawtoo haatumeere...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
@@ -718,10 +718,10 @@
     },
     "at_least_one_mosque_error": "You should have at least one mosque.",
     "and": "and",
-    "continue_to_app": "Continue",
-    "add": "Add",
-    "mosque": "Mosque",
-    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
+    "continue_to_app": "Jokku",
+    "add": "Ɓeydu",
+    "mosque": "Jamaa",
+    "on_boarding_nearest_mosque": "Ƴeewen yiytude jamaa ɓurɗo ɓadaade",
     "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
     "search_no_result_for_text": "We did not find any result for",
     "surah_audio_downloading": "Surah Audio Downloading...",
@@ -736,10 +736,10 @@
     "quran_browsing": "Browsing",
     "quran_search_placeholder": "Search by name of surah, number...",
     "quran_verse_search": "Verse search",
-    "quran_translation": "Translation",
+    "quran_translation": "Firo",
     "quran_mushaf": "Mushaf",
     "quran_juzz": "Juzz",
-    "ayah": "Ayah",
+    "ayah": "Aaye",
     "quran_verses": "Verses",
     "surah": "Surah",
     "continue_reading": "Continue Reading",
@@ -752,25 +752,25 @@
     "quran_from_top_to_bottom": "From top to bottom",
     "quran_from_bottom_to_top": "From bottom to top",
     "quran_pages_color": "Pages color",
-    "english_tr": "English",
-    "french_tr": "French",
-    "spanish_tr": "Spanish",
+    "english_tr": "Engeleere",
+    "french_tr": "Farayseere",
+    "spanish_tr": "Español",
     "muhammad_hamidullah": "Muhammad Hamidullah",
     "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
     "sheikh_isa_garcia": "Sheikh Isa Garcia",
-    "reciters": "Reciters",
-    "favorite_reciters": "Favorite reciters",
-    "surahs_downloaded": "Surahs downloaded",
+    "reciters": "Tafsirooɓe",
+    "favorite_reciters": "Tafsirooɓe hatojinaaɓe",
+    "surahs_downloaded": "Cimooje ngaawtaama",
     "surahs_chapter": "Surahs - Chapter",
     "my_likes": "My Likes",
-    "cancel": "Cancel",
-    "next": "Next",
-    "search_surah": "Search Surah",
+    "cancel": "Haaytu",
+    "next": "Yeeso",
+    "search_surah": "Yiylo Simoore",
     "not_downloaded_recitation": "You have not downloaded any recitation yet.",
     "not_favorite_reciter": "You have not marked any reciter favorite yet.",
     "search_reciter": "Search Reciter",
-    "al_quran_al_kareem": "Al Quran Al Kareem",
-    "surahs": "Surahs",
+    "al_quran_al_kareem": "Ǧur'aana Tedduɗo oo",
+    "surahs": "Cimooje",
     "chapters": "Chapters",
     "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
     "calculation_madhab": "Jurisprudence - Madhab",
@@ -817,10 +817,10 @@
     "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
     "download_quran_popup_confirm_cancel": "Are you sure you want to cancel the download? Without this data you won't be able to read the Quran, the pages will be unavailable.",
     "download_quran_popup_cancelled": "Something went wrong, please hit the download button again!",
-    "download": "Download",
-    "continue_download": "Continue the download",
-    "cancel_download": "Cancel the download",
-    "download_completed": "Download Completed",
+    "download": "Aawto",
+    "continue_download": "Jokku aawtagol",
+    "cancel_download": "Haaytu aawtagol",
+    "download_completed": "Aawtagol Timmii",
     "download_failed": "Download Failed",
     "download_pages": "Download the pages",
     "notification": "Notification",
