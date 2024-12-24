@@ -84,7 +84,7 @@
     "settings_News": "Lajme/Njoftime",
     "settings_MakeADonation": "Bëni një donacion",
     "bismillah": "Bismilah",
-    "settings_DonateToMawaqit": "Dhuroni MAWAQITit",
+    "settings_DonateToMawaqit": "Donacioni për MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
@@ -109,7 +109,7 @@
     "settings_language_fr": "Frengjisht",
     "settings_language_nl": "Holandisht",
     "settings_language_de": "Gjermanisht",
-    "settings_language_es": "Spanish",
+    "settings_language_es": "Spanisht",
     "settings_language_en": "Anglisht",
     "settings_language_it": "Italisht",
     "settings_language_tr": "Turqisht",
