@@ -458,13 +458,13 @@ class AppLocalizationsBg extends AppLocalizations {
   String get mosque_Facilities_SalatAlJanaza => 'Дженазе намаз';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'Iftar Ramadan';
+  String get mosques_Facilities_IftarRamadan => 'Ифтар Рамадан';
 
   @override
-  String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
+  String get mosque_facilities_Info => 'Цялата тази информация се попълва от хората, които отговарят за джамията.';
 
   @override
-  String get in_ => 'in';
+  String get in_ => 'след';
 
   @override
   String get imsak => 'Imsak';
