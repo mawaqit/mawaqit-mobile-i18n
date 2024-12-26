@@ -626,7 +626,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get location_permission_denied => 'Autorizzazione alla posizione negata, si prega di consentirlo.';
 
   @override
-  String get location_permission_denied_forever => 'Autorizzazione alla posizione negata per sempre, si prega di consentirlo nella pagina delle impostazioni.';
+  String get location_permission_denied_forever => 'Il permesso di accesso alla posizione è stato rifiutato permanentemente, concedilo nelle impostazioni';
 
   @override
   String get at_least_one_mosque_error => 'Dovresti avere almeno una moschea.';
