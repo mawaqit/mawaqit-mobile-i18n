@@ -711,7 +711,7 @@
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Autorizzazione alla posizione negata per sempre, si prega di consentirlo nella pagina delle impostazioni.",
+    "location_permission_denied_forever": "Il permesso di accesso alla posizione è stato rifiutato permanentemente, concedilo nelle impostazioni",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
