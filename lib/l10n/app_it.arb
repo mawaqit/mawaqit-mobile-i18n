@@ -25,7 +25,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "Automatico",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Notifiche di preghiera",
-    "settings_PrayerPreNotifications": "Notifica pre-preghiera",
+    "settings_PrayerPreNotifications": "Notifica Pre-Preghiera",
     "settings_ShuruqPreNotifications": "Notifica pre-Shuruq",
     "settings_Calculations": "Metodo di calcolo",
     "settings_RateOurApp": "Recensisci la nostra app",
