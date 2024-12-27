@@ -410,7 +410,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get mosque_DonateText1 => 'DONARE';
 
   @override
-  String get mosque_DonateText2 => 'AL MOSCHEO';
+  String get mosque_DonateText2 => 'ALLA MOSCHEA';
 
   @override
   String get mosque_Error_CouldNotLaunch => 'Impossibile lanciare';
@@ -638,7 +638,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get continue_to_app => 'Continua';
 
   @override
-  String get add => 'Aggiungere';
+  String get add => 'Aggiungi';
 
   @override
   String get mosque => 'Moschea';
@@ -653,16 +653,16 @@ class AppLocalizationsIt extends AppLocalizations {
   String get search_no_result_for_text => 'Non abbiamo trovato alcun risultato per';
 
   @override
-  String get surah_audio_downloading => 'Scaricamento audio sura...';
+  String get surah_audio_downloading => 'Scaricamento audio surah...';
 
   @override
-  String get msg_internet_connection => 'Non hai alcuna connessione a Internet';
+  String get msg_internet_connection => 'Non hai connessione a Internet';
 
   @override
-  String get read_quran => 'Leggi Corano';
+  String get read_quran => 'Leggi il Corano';
 
   @override
-  String get ayahs => 'Ayahs';
+  String get ayahs => 'Ayat';
 
   @override
   String get chapter => 'Surah';
@@ -671,16 +671,16 @@ class AppLocalizationsIt extends AppLocalizations {
   String get meaning => 'Significato';
 
   @override
-  String get al_quran => 'Al Corano';
+  String get al_quran => 'Il Corano';
 
   @override
   String get surah_information => 'Informazioni sulla sura';
 
   @override
-  String get surah_number => 'Surah numero';
+  String get surah_number => 'Numero della Surah';
 
   @override
-  String get quran_browsing => 'Browsing';
+  String get quran_browsing => 'Navigazione';
 
   @override
   String get quran_search_placeholder => 'Ricerca per nome della surah, numero...';
@@ -719,7 +719,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get quran_page => 'Pagina';
 
   @override
-  String get quran_turning_page => 'Turning page';
+  String get quran_turning_page => 'Sfogliare la pagina';
 
   @override
   String get quran_from_right_to_left => 'Da destra a sinistra';
@@ -761,10 +761,10 @@ class AppLocalizationsIt extends AppLocalizations {
   String get favorite_reciters => 'recitatori preferiti';
 
   @override
-  String get surahs_downloaded => 'Surahs scaricate';
+  String get surahs_downloaded => 'Surah scaricate';
 
   @override
-  String get surahs_chapter => 'Surahs - Capitolo';
+  String get surahs_chapter => 'Surah - Capitolo';
 
   @override
   String get my_likes => 'I miei gusti';
@@ -800,7 +800,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calculation_info => 'Le impostazioni di questa sezione riguardano solo gli orari di preghiera calcolati in base alla propria geolocalizzazione, non gli orari di preghiera delle moschee';
 
   @override
-  String get calculation_madhab => 'Giurisprudenza';
+  String get calculation_madhab => 'Giurisprudenza - Madhab';
 
   @override
   String get calculation_madhab_shafii => 'Shafi’i, Hanbali e Maliki';
@@ -821,16 +821,16 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calculation_methods_france => 'Musulmano della Francia (ex UOIF)';
 
   @override
-  String get calculation_methods_algeria => 'Ministère des affaires religieuses et des wakfs Algérien';
+  String get calculation_methods_algeria => 'Ministero degli Affari Religiosi e degli Wakf dell\'Algeria';
 
   @override
-  String get calculation_methods_morocco => 'Ministère des wakfs et affaires islamiques Marocain';
+  String get calculation_methods_morocco => 'Ministero degli Wakf e degli Affari Islamici del Marocco';
 
   @override
-  String get calculation_methods_muslim_world => 'Lega Mondiale Mussulmana';
+  String get calculation_methods_muslim_world => 'Lega del Mondo Islamico';
 
   @override
-  String get calculation_methods_egyptian => 'Egyptian General Authority of Survey';
+  String get calculation_methods_egyptian => 'Autorità generale egiziana di rilevamento';
 
   @override
   String get calculation_methods_karachi => 'University of Islamic Sciences, Karachi';
@@ -845,7 +845,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calculation_methods_moon => 'Comitato per l\'osservazione della Luna';
 
   @override
-  String get calculation_methods_north_america => 'Islamic Society of North America';
+  String get calculation_methods_north_america => 'Società Islamica del Nord America';
 
   @override
   String get calculation_methods_kuwait => 'Kuwait';
@@ -860,7 +860,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calculation_methods_turkey => 'Turchia';
 
   @override
-  String get calculation_methods_tehran => 'Institute of Geophysics, University of Tehran';
+  String get calculation_methods_tehran => 'Istituto di Geofisica, Università di Teheran';
 
   @override
   String get calculation_methods_russia => 'Amministrazione spirituale dei musulmani in Russia';
@@ -875,7 +875,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calculation_high_latitude_none => 'Nessuna';
 
   @override
-  String get calculation_high_latitude_middle => 'Middle of the night';
+  String get calculation_high_latitude_middle => 'Mezzanotte';
 
   @override
   String get calculation_high_latitude_one_seventh => 'Un settimo della notte';
@@ -890,7 +890,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calculation_adjustment_subtitle => 'Regolazione della preghiera e angoli personalizzati';
 
   @override
-  String get calculation_adjustment_prayers => 'Aggiustamenti di preghiera';
+  String get calculation_adjustment_prayers => 'Aggiustamenti della preghiera';
 
   @override
   String get calculation_adjustment_prayers_minutes => 'minuti';
@@ -935,7 +935,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get download => 'Scaricare';
 
   @override
-  String get continue_download => 'Continua il scaricare';
+  String get continue_download => 'Continua il download';
 
   @override
   String get cancel_download => 'Annulla il Ssaricare';
@@ -974,10 +974,10 @@ class AppLocalizationsIt extends AppLocalizations {
   String get tutorial_text_foreground_service => 'Toccandolo è possibile attivare o disattivare il \'Servizio in primo piano\'.';
 
   @override
-  String get enable => 'SU';
+  String get enable => 'Attivo';
 
   @override
-  String get disable => 'SPENTO';
+  String get disable => 'Disattivato';
 
   @override
   String get do_not_show_again => 'Non mostrarlo più';
@@ -986,7 +986,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get force_notification_title => 'MAWAQIT è attivo per garantire che le notifiche di preghiera vengano attivate al momento giusto.';
 
   @override
-  String get force_notification_body => 'In verità, la preghiera è ingiunta ai credenti ad orari prestabiliti. Nisa(103)';
+  String get force_notification_body => 'In verità, la preghiera è prescritta per i credenti in orari fissi. An-Nisa (103)';
 
   @override
   String get force_notification_dialog1_body => 'Abilitando questa opzione, l\'applicazione rimarrà attiva per garantire che le notifiche di preghiera vengano attivate al momento giusto e senza ritardi. L\'applicazione MAWAQIT sarà attiva solo per questo scopo e potrai disattivare tale opzione in qualsiasi momento dalle impostazioni.';
@@ -995,22 +995,22 @@ class AppLocalizationsIt extends AppLocalizations {
   String get force_notification_dialog2_body => 'Dopo aver abilitato \'Forza notifiche\', scorri verso il basso nella barra delle notifiche e vedrai questa notifica lì';
 
   @override
-  String get notification_debugging => 'Debug delle notifiche';
+  String get notification_debugging => 'Debugging delle notifiche';
 
   @override
   String get notification_debugging_details => 'Il debug delle notifiche è abilitato. Se modifichi le impostazioni di notifica, i dati di debug andranno persi e il debug verrà disabilitato.';
 
   @override
-  String get skip => 'Saltare';
+  String get skip => 'Salta';
 
   @override
-  String get agree => 'Essere d\'accordo';
+  String get agree => 'Accetto';
 
   @override
   String get return_no_search => 'Non restituire nessuna ricerca';
 
   @override
-  String get backend_environment_switch => 'Cambio dell\'ambiente backend';
+  String get backend_environment_switch => 'Commutazione dell\'ambiente di backend';
 
   @override
   String get set_development_environment => 'Imposta l\'ambiente di sviluppo';
@@ -1022,7 +1022,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get delay_notification => 'Notifica del ritardo';
 
   @override
-  String get notification_delay_debugging_is => 'Il debug del ritardo di notifica è';
+  String get notification_delay_debugging_is => 'Il debug del ritardo della notifica è';
 
   @override
   String get banner_enable => 'Abilitazione banner';
@@ -1070,7 +1070,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get error_performing_donation => 'Si è verificato un errore durante il tentativo di effettuare la donazione';
 
   @override
-  String get recurring_pay_text => 'Fai questa donazione mensilmente.';
+  String get recurring_pay_text => 'Rendi questa donazione mensile.';
 
   @override
   String get adjust_angles => 'Regola Angoli';
@@ -1094,7 +1094,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calendar => 'Calendario';
 
   @override
-  String get system => 'Sistem';
+  String get system => 'Sistema';
 
   @override
   String get change_mosque_order => 'Trascina e rilascia le moschee per cambiare l\'ordine e impostare la moschea principale';
@@ -1115,7 +1115,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get no_news => 'Nessuna notizia dalla moschea';
 
   @override
-  String get mawaqit_notification => 'Notifica di Mawaqit';
+  String get mawaqit_notification => 'Notifica Mawaqit';
 
   @override
   String get no_mawaqit_notification => 'Nessuna notifica da Mawaqit';
