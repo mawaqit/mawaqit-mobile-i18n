@@ -20,7 +20,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get bottomNavbar_settings => 'Impostazioni';
 
   @override
-  String get settings_ThemeAuto => 'Auto';
+  String get settings_ThemeAuto => 'Automatico';
 
   @override
   String get settings_ThemeDark => 'Scuro';
@@ -50,7 +50,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get settings_PrayerNotifications => 'Notifiche di preghiera';
 
   @override
-  String get settings_PrayerPreNotifications => 'Notifica pre-preghiera';
+  String get settings_PrayerPreNotifications => 'Notifica Pre-Preghiera';
 
   @override
   String get settings_ShuruqPreNotifications => 'Notifica pre-Shuruq';
