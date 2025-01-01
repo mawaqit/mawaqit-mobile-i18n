@@ -264,7 +264,7 @@
     "retry": "Tentar Novamente",
     "search_here": "Pesquisa aqui",
     "enter_at_least_3_char": "Insira pelo menos 3 letras para pesquisar",
-    "jumua1": "Oração da sexta-feira 1",
+    "jumua1": "Jum'a 1",
     "prayer_times": "Horários de oração",
     "remove_this_city": "Remover esta cidade",
     "add_this_city": "Adicionar esta cidade",
@@ -281,12 +281,12 @@
     "permission_message2": "para receber a notificação na hora.",
     "notifications_delay_detected": "Atraso nas notificações encontrado",
     "open_setting": "Abrir Configurações",
-    "noJumua": "Não há JUM'A -oração da sexta-feira-",
+    "noJumua": "Não há Jum'a",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "JUM'A (oração da sexta-feira)",
+    "jumua": "Jum'a",
     "@jumua": {
         "description": "_",
         "type": "text"
