@@ -305,7 +305,7 @@ class AppLocalizationsPt extends AppLocalizations {
   String get enter_at_least_3_char => 'Insira pelo menos 3 letras para pesquisar';
 
   @override
-  String get jumua1 => 'Oração da sexta-feira 1';
+  String get jumua1 => 'Jum\'a 1';
 
   @override
   String get prayer_times => 'Horários de oração';
@@ -356,10 +356,10 @@ class AppLocalizationsPt extends AppLocalizations {
   String get open_setting => 'Abrir Configurações';
 
   @override
-  String get noJumua => 'Não há JUM\'A -oração da sexta-feira-';
+  String get noJumua => 'Não há Jum\'a';
 
   @override
-  String get jumua => 'JUM\'A (oração da sexta-feira)';
+  String get jumua => 'Jum\'a';
 
   @override
   String get qibla_sensor => 'O sensor do seu dispositivo que o MAWAQIT usa para determinar a Qibla não funciona conforme o esperado, e isso afeta a nossa capacidade de definir a direção da Qibla.';
