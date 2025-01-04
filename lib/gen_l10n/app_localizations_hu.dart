@@ -308,7 +308,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get jumua1 => 'Jum\'a 1';
 
   @override
-  String get prayer_times => 'Prayer times';
+  String get prayer_times => 'Imaidők';
 
   @override
   String get remove_this_city => 'Remove this city';
