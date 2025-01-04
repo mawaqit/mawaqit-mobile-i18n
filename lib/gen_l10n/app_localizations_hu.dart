@@ -161,7 +161,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
 
   @override
-  String get adhan => 'Adhan';
+  String get adhan => 'Imárahívás';
 
   @override
   String get adhan_Makkah_fajr => 'Makkah (Fajr)';
@@ -311,7 +311,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get prayer_times => 'Imaidők';
 
   @override
-  String get remove_this_city => 'Remove this city';
+  String get remove_this_city => 'Távolítsd el ezt a várost';
 
   @override
   String get add_this_city => 'Add this city';
@@ -329,7 +329,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get share => 'Share';
 
   @override
-  String get itinerary => 'Itinerary';
+  String get itinerary => 'Útvonalterv';
 
   @override
   String get call => 'Call';
@@ -362,7 +362,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get jumua => 'Jum\'a';
 
   @override
-  String get qibla_sensor => 'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.';
+  String get qibla_sensor => 'Az Ön készülékében lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem működik a várt módon, ami befolyásolja a Qibla irányának megjelenítését.';
 
   @override
   String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
@@ -377,7 +377,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get not_facing_Makkah => 'You\'re not facing Makkah';
 
   @override
-  String get qibla_Error_retry => 'Retry';
+  String get qibla_Error_retry => 'Újrapróbálkozás';
 
   @override
   String get qibla_Error_LocationDenied => 'Location service permission denied';
@@ -488,7 +488,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_skip => 'Skip tutorial';
 
   @override
-  String get tutorial_next => 'Next';
+  String get tutorial_next => 'Következő';
 
   @override
   String get tutorial_title_main_mosque => 'Your main mosque';
