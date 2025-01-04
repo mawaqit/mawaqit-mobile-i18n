@@ -200,10 +200,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_TryParis => 'Try Paris, Essalam etc.';
 
   @override
-  String get search_ByGPS => 'Search by GPS';
+  String get search_ByGPS => 'Keresés GPS-szel';
 
   @override
-  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
+  String get search_HelpText => 'Az alábbiak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.';
 
   @override
   String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
@@ -212,7 +212,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
 
   @override
-  String get search_error => 'Oops an internal error has occurred\'';
+  String get search_error => '';
 
   @override
   String get search_your_location => 'Your location';
