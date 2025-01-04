@@ -168,7 +168,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "Imárahívás",
     "@adhan": {
         "description": "_",
         "type": "text"
@@ -266,13 +266,13 @@
     "enter_at_least_3_char": "Enter at-least 3 characters to search",
     "jumua1": "Jum'a 1",
     "prayer_times": "Imaidők",
-    "remove_this_city": "Remove this city",
+    "remove_this_city": "Távolítsd el ezt a várost",
     "add_this_city": "Add this city",
     "add_this_mosque": "Add this mosque",
     "remove_this_mosque": "Remove this mosque",
     "services": "Services",
     "share": "Share",
-    "itinerary": "Itinerary",
+    "itinerary": "Útvonalterv",
     "call": "Call",
     "dnd": "Do Not Disturb",
     "battery_optimize": "Battery Optimization",
@@ -291,12 +291,12 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
+    "qibla_sensor": "Az Ön készülékében lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem működik a várt módon, ami befolyásolja a Qibla irányának megjelenítését.",
     "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
     "currently_located_at": "Currently located at",
     "facing_makkah": "You're facing Makkah",
     "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_Error_retry": "Újrapróbálkozás",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
@@ -481,7 +481,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_next": "Next",
+    "tutorial_next": "Következő",
     "@tutorial_next": {
         "description": "_",
         "type": "text"
