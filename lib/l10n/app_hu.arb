@@ -94,7 +94,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_Credits": "Credits",
+    "settings_Credits": "Kreditek",
     "@settings_Credits": {
         "description": "_",
         "type": "text"
@@ -273,7 +273,7 @@
     "services": "Services",
     "share": "Share",
     "itinerary": "Útvonalterv",
-    "call": "Call",
+    "call": "Hívás",
     "dnd": "Do Not Disturb",
     "battery_optimize": "Battery Optimization",
     "power_saver": "Power Saver",
@@ -501,12 +501,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "This countdown shows you the time remaining before the next prayer.",
+    "tutorial_text_countdown": "Ez a visszaszámláló mutatja a következő imáig hátralévő időt.",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Mosque Information",
+    "tutorial_title_mosque_info": "Mecset információ",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
