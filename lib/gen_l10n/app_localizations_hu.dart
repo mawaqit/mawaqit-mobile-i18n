@@ -83,7 +83,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_CheckForUpdates => 'Check for updates';
 
   @override
-  String get settings_Credits => 'Credits';
+  String get settings_Credits => 'Kreditek';
 
   @override
   String get settings_AboutUs => 'About us';
@@ -332,7 +332,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get itinerary => 'Útvonalterv';
 
   @override
-  String get call => 'Call';
+  String get call => 'Hívás';
 
   @override
   String get dnd => 'Do Not Disturb';
@@ -500,10 +500,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_title_countdown => 'Next prayer indicator';
 
   @override
-  String get tutorial_text_countdown => 'This countdown shows you the time remaining before the next prayer.';
+  String get tutorial_text_countdown => 'Ez a visszaszámláló mutatja a következő imáig hátralévő időt.';
 
   @override
-  String get tutorial_title_mosque_info => 'Mosque Information';
+  String get tutorial_title_mosque_info => 'Mecset információ';
 
   @override
   String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
