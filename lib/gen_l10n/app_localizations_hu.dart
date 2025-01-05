@@ -641,13 +641,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get add => 'Add';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'Mecset';
 
   @override
   String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'Here are the mosques found around you according to your geolocation';
+  String get on_boarding_nearest_mosque_text => '';
 
   @override
   String get search_no_result_for_text => 'We did not find any result for';
