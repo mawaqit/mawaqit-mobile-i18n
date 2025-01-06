@@ -533,7 +533,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get onboarding_text_3 => 'Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort';
 
   @override
-  String get onboarding_title_4 => 'Add your main Mosque';
+  String get onboarding_title_4 => 'Add hozzá a fő mecseted';
 
   @override
   String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
