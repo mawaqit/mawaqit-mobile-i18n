@@ -782,7 +782,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
 
   @override
-  String get not_favorite_reciter => 'You have not marked any reciter favorite yet.';
+  String get not_favorite_reciter => '.';
 
   @override
   String get search_reciter => 'Search Reciter';
@@ -986,7 +986,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get force_notification_title => 'MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.';
 
   @override
-  String get force_notification_body => 'Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)';
+  String get force_notification_body => 'Bizony, az ima elvégzése a hívők számára meghatározott időpontokban előírt. An-Niszá: 103';
 
   @override
   String get force_notification_dialog1_body => 'By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.';
