@@ -691,7 +691,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Download permission refused definitely, please allow download",
+    "calendar_download_permission_refused": "A letöltési engedély véglegesen megtagadva, kérlek, engedélyezd a letöltést",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
