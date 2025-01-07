@@ -509,7 +509,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
 
   @override
-  String get tutorial_title_announcements => 'Mosque messages and announcements';
+  String get tutorial_title_announcements => 'Mecset üzenetek és bejelentések';
 
   @override
   String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
@@ -674,7 +674,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get al_quran => 'Al Quran';
 
   @override
-  String get surah_information => 'Surah Information';
+  String get surah_information => 'Szúrah-val kapcsolatos Információ';
 
   @override
   String get surah_number => 'Surah Number';
