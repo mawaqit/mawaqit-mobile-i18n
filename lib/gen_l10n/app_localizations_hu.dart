@@ -614,7 +614,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get calendar_tooltip_download => 'Download calendar';
 
   @override
-  String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
+  String get calendar_download_permission_refused => 'A letöltési engedély véglegesen megtagadva, kérlek, engedélyezd a letöltést';
 
   @override
   String get calendar_downloading => 'Downloading calendar...';
