@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -947,5 +947,6 @@
     "powered_by_mawaqit": "Desarrollado por MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
-    }
+    },
+    "adjust_hijri_date": "Rregullo datën Hixhri"
 }
