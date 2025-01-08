@@ -947,5 +947,6 @@
     "powered_by_mawaqit": "Didukung oleh MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
-    }
+    },
+    "adjust_hijri_date": "Sesuaikan Tanggal Hijriyah"
 }
