@@ -983,7 +983,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get do_not_show_again => 'Don\'t show it again';
 
   @override
-  String get force_notification_title => 'MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.';
+  String get force_notification_title => 'A MAWAQIT aktív, hogy biztosítsa az imaidők értesítéseinek pontos időben történő megjelenését.';
 
   @override
   String get force_notification_body => 'Bizony, az ima elvégzése a hívők számára meghatározott időpontokban előírt. An-Niszá: 103';
