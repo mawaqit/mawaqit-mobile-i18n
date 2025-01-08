@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -947,5 +947,6 @@
     "powered_by_mawaqit": "Powered by MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
-    }
+    },
+    "adjust_hijri_date": "ہجری تاریخ کو ایڈجسٹ کریں"
 }
