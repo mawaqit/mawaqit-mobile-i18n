@@ -864,7 +864,7 @@
     "google_pay_not_available": "Google Pay is not available in this device",
     "error_performing_donation": "There was an error while trying to perform the donation",
     "recurring_pay_text": "Make this donation monthly.",
-    "adjust_angles": "Adjust Angles",
+    "adjust_angles": "Säädä Hijri-päivämäärä",
     "silent": "Silent",
     "default_": "Default",
     "muazzin": "Muazzin",
@@ -947,5 +947,6 @@
     "powered_by_mawaqit": "Palvelun tarjoaa MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
-    }
+    },
+    "adjust_hijri_date": "Säädä Hijri Päivämäärää"
 }

@@ -1269,4 +1269,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'Desenvolvido por MAWAQIT';
+
+  @override
+  String get adjust_hijri_date => 'Ajustar Data de Hijri';
 }

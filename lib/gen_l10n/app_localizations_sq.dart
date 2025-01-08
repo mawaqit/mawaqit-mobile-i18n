@@ -1269,4 +1269,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'Mundësuar nga MAWAQIT';
+
+  @override
+  String get adjust_hijri_date => 'Rregullo datën Hixhri';
 }

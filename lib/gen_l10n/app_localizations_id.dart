@@ -1269,4 +1269,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'Didukung oleh MAWAQIT';
+
+  @override
+  String get adjust_hijri_date => 'Sesuaikan Tanggal Hijriyah';
 }

@@ -83,7 +83,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_CheckForUpdates => 'Check for updates';
 
   @override
-  String get settings_Credits => 'Credits';
+  String get settings_Credits => 'Kreditek';
 
   @override
   String get settings_AboutUs => 'About us';
@@ -125,13 +125,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_language_ur => 'Urdu';
 
   @override
-  String get settings_language_pl => 'Polish';
+  String get settings_language_pl => 'Lengyel';
 
   @override
-  String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
+  String get settings_CreditsText => 'Szerzői jog © 2021 MAWAQIT for The MAWAQIT Alapítvány számára. Minden jog fenntartva.  \n\nAz alkalmazás, valamint bővítményei, kiegészítői vagy tartalmai szellemi tulajdonjogai és szerzői jogai a MAWAQIT for The MAWAQIT egyesület tulajdonát képezik.  \n\nEz a verzió kizárólag jótékony célú terjesztésre van engedélyezve, és Waqf-nak minősül. Bármilyen kereskedelmi célú felhasználása vagy kereskedelmi terjesztése szigorúan tilos.  \n\nEz az engedély nem jelent vagy tartalmazza – semmilyen formában – a termékhez, annak bármely részéhez, bővítményeihez, kiegészítőihez vagy tartalmaihoz kapcsolódó jogok eladását. Ehelyett ez az engedély kizárólag az alkalmazás jótékony célú terjesztését engedélyezi a jelenlegi alkalmazásáruház-platformon keresztül.  \nAz alkalmazás forráskódjának vagy bináris fájljainak újraterjesztése, illetve visszafejtése, akár módosításokkal, akár anélkül, a szerzői jogsértés elkövetőjét vagy felelősét jogi lépéseknek teszi ki. \n\nEgyetlen fél sem jogosult az alkalmazás újraterjesztésére az Apple vagy a Google Play hivatalos áruházain kívül, kivéve, ha a szerzői jog tulajdonosától és az alkalmazás tulajdonosától, a MAWAQIT for The MAWAQIT egyesülettől, hivatalos írásos engedélyt kap. Az alkalmazás terjesztése ezen hivatalos áruházakon kívül sérti a szellemi tulajdon védelmére vonatkozó törvényt, és a szerzői jogsértésért felelős személy jogi eljárás alá vonható.  \n\nTilos az alkalmazás nevét, márkáját, védjegyét vagy a szerzői jog tulajdonosának, a MAWAQIT for The MAWAQIT egyesületnek nevét felhasználni hasonló vagy származékos termékek, illetve bármilyen más termék reklámozására a szerzői jog tulajdonosának előzetes írásos engedélye nélkül. Ez az alkalmazás a szerzői jog tulajdonosai és részvényesei által \"as is\" szerinti terjesztésre van engedélyezve.\n\nAz alkalmazás fejlesztője és tulajdonos cége semmilyen kifejezett vagy hallgatólagos garanciát nem vállal, beleértve – de nem kizárólagosan – az alkalmazás meghatározott célra való alkalmasságának hirdetését vagy előmozdítását. Semmilyen esetben sem felelős a MAWAQIT for The MAWAQIT egyesület, annak részvényesei vagy képviselői semmilyen közvetlen, közvetett vagy véletlen (különleges, figyelmeztető, következményes) kárért, ideértve – de nem kizárólagosan – a használatból, adatvesztésből, nyereségkiesésből vagy üzleti tevékenység megszakadásából eredő károkat, bármilyen okból vagy felelősségből eredően. Ezek a felelősségek lehetnek szerződéses, abszolút vagy károkozási felelősségek (beleértve a gondatlanságot vagy egyéb okokat), amelyek bármilyen módon az alkalmazás használatával kapcsolatban merülnek fel.\n\nAz alkalmazásban található bármely harmadik fél szerzői jogai a jogos tulajdonosukat illetik meg.\n\nKépek és Háttérképek\nA szerzői jogok a Shutterstockot illetik\nFontok — CC BY 4.0 License\n\nA szerzői jogok a Flaticons-t illetik\nAz MIT licensz az összes nem-betűtípus és nem-ikon fájlra vonatkozik.\nFontok — SIL OFL 1.1 License\n\nA szerzői jogok a Google Fonts-ot illetik (Roboto betűtípusok).\nA szerzői jogok az Apple, Cupertino csomagokat illetik\nKód, Csomagok és Keretrendszerek\n\nFlutter a Google-tól\nCsomagok: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
+  String get settings_AboutUsText => 'Ezt az alkalmazást a MAWAQIT egyesület fejlesztette ki.\n\nA MAWAQIT egyesület egy 2021-ben Franciaországban létrehozott nonprofit szervezet. Célunk az informatikához és a digitális technológiához kapcsolódó innovatív megoldások, például szoftverek és weboldalak fejlesztése; digitális megoldások és informatikai eszközök oktatása és képzése.\n\nA MAWAQIT Ecosystem a zászlóshajó termékünk, amelynek története 2016-ban kezdődött, egy mecsetekre szánt nagy képernyőkön megjelenő alkalmazással, majd egy mobilalkalmazással, egy otthoni asszisztens-kiegészítővel és egy Alexa készséggel stb.\n\nA MAWAQIT új módot kínál az imaidők nyomon követésére és kezelésére, valójában egy végponttól végpontig tartó rendszert kínálunk, amely a mecsetek vezetőinek egy 24 / 24 órában elérhető online eszközt kínál, amely lehetővé teszi számukra a menetrendek, a mecset hírei és sok más funkció kezelését. A hívők a maguk részéről egy mobilalkalmazás előnyeit élvezhetik, amely lehetővé teszi számukra, hogy megtekinthessék kedvenc mecsetük pontos és nem hozzávetőleges menetrendjét, valamint a híreket és egyéb funkciókat, mint például a mecset keresése földrajzi helymeghatározás alapján, az imárahívás, a qibla iránya... stb. A megbízhatóságot és a minőséget tettük legfőbb értékeinkké. Ambíciónk egyértelmű: a technológiának és a tervezésnek köszönhetően a legjobb szolgáltatást nyújtani mecseteink számára.\n\nHa tetszett ez az alkalmazás, kérjük, mondd el véleményedet az áruházban.';
 
   @override
   String get fajr => 'Fajr';
@@ -155,13 +155,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get sabah => 'Sabah';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
+  String get settings_PrayerNotification_NoNotification => 'Jelenleg úgy van beállítva, hogy ne kapjon értesítést erről az imáról.\n';
 
   @override
   String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
 
   @override
-  String get adhan => 'Adhan';
+  String get adhan => 'Imárahívás';
 
   @override
   String get adhan_Makkah_fajr => 'Makkah (Fajr)';
@@ -200,10 +200,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_TryParis => 'Try Paris, Essalam etc.';
 
   @override
-  String get search_ByGPS => 'Search by GPS';
+  String get search_ByGPS => 'Keresés GPS-szel';
 
   @override
-  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
+  String get search_HelpText => 'Az alábbiak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.';
 
   @override
   String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
@@ -212,7 +212,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
 
   @override
-  String get search_error => 'Oops an internal error has occurred\'';
+  String get search_error => '';
 
   @override
   String get search_your_location => 'Your location';
@@ -308,10 +308,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get jumua1 => 'Jum\'a 1';
 
   @override
-  String get prayer_times => 'Prayer times';
+  String get prayer_times => 'Imaidők';
 
   @override
-  String get remove_this_city => 'Remove this city';
+  String get remove_this_city => 'Távolítsd el ezt a várost';
 
   @override
   String get add_this_city => 'Add this city';
@@ -329,10 +329,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get share => 'Share';
 
   @override
-  String get itinerary => 'Itinerary';
+  String get itinerary => 'Útvonalterv';
 
   @override
-  String get call => 'Call';
+  String get call => 'Hívás';
 
   @override
   String get dnd => 'Do Not Disturb';
@@ -362,7 +362,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get jumua => 'Jum\'a';
 
   @override
-  String get qibla_sensor => 'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.';
+  String get qibla_sensor => 'Az Ön készülékében lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem működik a várt módon, ami befolyásolja a Qibla irányának megjelenítését.';
 
   @override
   String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
@@ -377,7 +377,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get not_facing_Makkah => 'You\'re not facing Makkah';
 
   @override
-  String get qibla_Error_retry => 'Retry';
+  String get qibla_Error_retry => 'Újrapróbálkozás';
 
   @override
   String get qibla_Error_LocationDenied => 'Location service permission denied';
@@ -488,7 +488,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_skip => 'Skip tutorial';
 
   @override
-  String get tutorial_next => 'Next';
+  String get tutorial_next => 'Következő';
 
   @override
   String get tutorial_title_main_mosque => 'Your main mosque';
@@ -500,16 +500,16 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_title_countdown => 'Next prayer indicator';
 
   @override
-  String get tutorial_text_countdown => 'This countdown shows you the time remaining before the next prayer.';
+  String get tutorial_text_countdown => 'Ez a visszaszámláló mutatja a következő imáig hátralévő időt.';
 
   @override
-  String get tutorial_title_mosque_info => 'Mosque Information';
+  String get tutorial_title_mosque_info => 'Mecset információ';
 
   @override
   String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
 
   @override
-  String get tutorial_title_announcements => 'Mosque messages and announcements';
+  String get tutorial_title_announcements => 'Mecset üzenetek és bejelentések';
 
   @override
   String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
@@ -533,7 +533,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get onboarding_text_3 => 'Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort';
 
   @override
-  String get onboarding_title_4 => 'Add your main Mosque';
+  String get onboarding_title_4 => 'Add hozzá a fő mecseted';
 
   @override
   String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
@@ -614,7 +614,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get calendar_tooltip_download => 'Download calendar';
 
   @override
-  String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
+  String get calendar_download_permission_refused => 'A letöltési engedély véglegesen megtagadva, kérlek, engedélyezd a letöltést';
 
   @override
   String get calendar_downloading => 'Downloading calendar...';
@@ -641,13 +641,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get add => 'Add';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'Mecset';
 
   @override
   String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'Here are the mosques found around you according to your geolocation';
+  String get on_boarding_nearest_mosque_text => '';
 
   @override
   String get search_no_result_for_text => 'We did not find any result for';
@@ -674,7 +674,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get al_quran => 'Al Quran';
 
   @override
-  String get surah_information => 'Surah Information';
+  String get surah_information => 'Szúrah-val kapcsolatos Információ';
 
   @override
   String get surah_number => 'Surah Number';
@@ -782,7 +782,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
 
   @override
-  String get not_favorite_reciter => 'You have not marked any reciter favorite yet.';
+  String get not_favorite_reciter => '.';
 
   @override
   String get search_reciter => 'Search Reciter';
@@ -986,7 +986,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get force_notification_title => 'MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.';
 
   @override
-  String get force_notification_body => 'Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)';
+  String get force_notification_body => 'Bizony, az ima elvégzése a hívők számára meghatározott időpontokban előírt. An-Niszá: 103';
 
   @override
   String get force_notification_dialog1_body => 'By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.';
@@ -1269,4 +1269,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'Készítette: MAWAQIT';
+
+  @override
+  String get adjust_hijri_date => 'Állítsa be a hidzsri dátumot';
 }

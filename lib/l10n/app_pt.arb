@@ -947,5 +947,6 @@
     "powered_by_mawaqit": "Desenvolvido por MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
-    }
+    },
+    "adjust_hijri_date": "Ajustar Data de Hijri"
 }

@@ -1269,4 +1269,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'При поддержке MAWAQIT';
+
+  @override
+  String get adjust_hijri_date => 'Настроить дату Хиджры';
 }

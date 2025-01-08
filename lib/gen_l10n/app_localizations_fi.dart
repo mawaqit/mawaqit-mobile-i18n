@@ -1073,7 +1073,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get recurring_pay_text => 'Make this donation monthly.';
 
   @override
-  String get adjust_angles => 'Adjust Angles';
+  String get adjust_angles => 'Säädä Hijri-päivämäärä';
 
   @override
   String get silent => 'Silent';
@@ -1269,4 +1269,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'Palvelun tarjoaa MAWAQIT';
+
+  @override
+  String get adjust_hijri_date => 'Säädä Hijri Päivämäärää';
 }

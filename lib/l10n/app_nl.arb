@@ -947,5 +947,6 @@
     "powered_by_mawaqit": "Mogelijk gemaakt door MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
-    }
+    },
+    "adjust_hijri_date": "Stel de Hijri-datum in"
 }
