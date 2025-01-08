@@ -1269,4 +1269,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'Készítette: MAWAQIT';
+
+  @override
+  String get adjust_hijri_date => 'Állítsa be a hidzsri dátumot';
 }

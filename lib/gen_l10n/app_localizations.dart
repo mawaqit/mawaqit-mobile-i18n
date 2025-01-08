@@ -2662,6 +2662,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Powered by MAWAQIT'**
   String get powered_by_mawaqit;
+
+  /// No description provided for @adjust_hijri_date.
+  ///
+  /// In en, this message translates to:
+  /// **'Adjust Hijri Date'**
+  String get adjust_hijri_date;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

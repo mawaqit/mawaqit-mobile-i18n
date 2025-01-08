@@ -1269,4 +1269,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get powered_by_mawaqit => 'MAWAQIT tarafından desteklenmektedir';
+
+  @override
+  String get adjust_hijri_date => 'Hicri Tarihi Ayarla';
 }

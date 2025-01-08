@@ -1291,6 +1291,9 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get powered_by_mawaqit => Crowdin.getText(localeName, 'powered_by_mawaqit') ?? _fallbackTexts.powered_by_mawaqit;
 
+	@override
+  String get adjust_hijri_date => Crowdin.getText(localeName, 'adjust_hijri_date') ?? _fallbackTexts.adjust_hijri_date;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
