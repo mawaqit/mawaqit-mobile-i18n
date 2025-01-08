@@ -947,5 +947,6 @@
     "powered_by_mawaqit": "Készítette: MAWAQIT",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
-    }
+    },
+    "adjust_hijri_date": "Állítsa be a hidzsri dátumot"
 }
