@@ -212,7 +212,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
 
   @override
-  String get search_error => '';
+  String get search_error => 'Hoppá, belső hiba történt\'';
 
   @override
   String get search_your_location => 'Your location';
