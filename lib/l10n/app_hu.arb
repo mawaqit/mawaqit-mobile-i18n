@@ -233,7 +233,7 @@
     "search_HelpText": "Az alábbiak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.",
     "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
     "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
-    "search_error": "",
+    "search_error": "Hoppá, belső hiba történt'",
     "search_your_location": "Your location",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
     "search_settings": "Settings",
