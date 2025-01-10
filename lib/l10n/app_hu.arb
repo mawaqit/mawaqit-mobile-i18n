@@ -158,7 +158,7 @@
         "type": "text"
     },
     "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "Jelenleg úgy van beállítva, hogy ne kapjon értesítést erről az imáról.\n",
+    "settings_PrayerNotification_NoNotification": "Jelenleg úgy van beállítva, hogy ne kapj értesítést erről az imáról.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
@@ -229,7 +229,7 @@
         "type": "text"
     },
     "search_TryParis": "Try Paris, Essalam etc.",
-    "search_ByGPS": "Keresés GPS-szel",
+    "search_ByGPS": "Keresés GPS alapján",
     "search_HelpText": "Az alábbiak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.",
     "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
     "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
@@ -944,7 +944,7 @@
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     },
-    "powered_by_mawaqit": "Készítette: MAWAQIT",
+    "powered_by_mawaqit": "MAWAQIT által üzemeltetve",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
