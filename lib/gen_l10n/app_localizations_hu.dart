@@ -155,7 +155,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get sabah => 'Sabah';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'Jelenleg úgy van beállítva, hogy ne kapjon értesítést erről az imáról.\n';
+  String get settings_PrayerNotification_NoNotification => 'Jelenleg úgy van beállítva, hogy ne kapj értesítést erről az imáról.';
 
   @override
   String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
@@ -200,7 +200,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_TryParis => 'Try Paris, Essalam etc.';
 
   @override
-  String get search_ByGPS => 'Keresés GPS-szel';
+  String get search_ByGPS => 'Keresés GPS alapján';
 
   @override
   String get search_HelpText => 'Az alábbiak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.';
@@ -1268,7 +1268,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get set_notification_for_all_parayer => 'Set this for every prayer';
 
   @override
-  String get powered_by_mawaqit => 'Készítette: MAWAQIT';
+  String get powered_by_mawaqit => 'MAWAQIT által üzemeltetve';
 
   @override
   String get adjust_hijri_date => 'Állítsa be a hidzsri dátumot';
