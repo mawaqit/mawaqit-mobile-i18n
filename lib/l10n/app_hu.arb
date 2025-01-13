@@ -15,12 +15,12 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "Keresés",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "Beállítások",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
@@ -30,32 +30,32 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "Sötét",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "Világos",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "Időformátum",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "Nyelvválasztás",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "Nyelv",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "Téma",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
@@ -70,26 +70,26 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
-    "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
-    "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_PrayerNotifications": "Ima Értesítések",
+    "settings_PrayerPreNotifications": "Ima előtti értesítés",
+    "settings_ShuruqPreNotifications": "Napfelkelte előtti értesítés",
+    "settings_Calculations": "Számítások",
+    "settings_RateOurApp": "Értékeld az applikációnkat",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
-    "settings_News": "News",
-    "settings_MakeADonation": "Make a donation",
-    "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donate to MAWAQIT",
+    "settings_WhatsNew": "Újdonságok",
+    "settings_SupportMawaqit": "Támogasd a Mawaqít-ot",
+    "settings_News": "Hírek",
+    "settings_MakeADonation": "Adományozz",
+    "bismillah": "Allah nevében",
+    "settings_DonateToMawaqit": "Adományozz Mawaqít-nak",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "Ellenőrizd a frissítéseket",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
@@ -99,22 +99,22 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "About us",
+    "settings_AboutUs": "Rólunk",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
-    "settings_language_ar": "Arabic",
-    "settings_language_bn": "Bengali",
-    "settings_language_fr": "French",
-    "settings_language_nl": "Dutch",
-    "settings_language_de": "German",
-    "settings_language_es": "Spanish",
-    "settings_language_en": "English",
-    "settings_language_it": "Italian",
-    "settings_language_tr": "Turkish",
-    "settings_language_ru": "Russian",
-    "settings_language_id": "Indonesian",
+    "settings_language_ar": "Arab",
+    "settings_language_bn": "Bengáli",
+    "settings_language_fr": "Francia",
+    "settings_language_nl": "Holland",
+    "settings_language_de": "Német",
+    "settings_language_es": "Spanyol",
+    "settings_language_en": "Angol",
+    "settings_language_it": "Olasz",
+    "settings_language_tr": "Török",
+    "settings_language_ru": "Orosz",
+    "settings_language_id": "Indonéz",
     "settings_language_ur": "Urdu",
     "settings_language_pl": "Lengyel",
     "settings_CreditsText": "Szerzői jog © 2021 MAWAQIT for The MAWAQIT Alapítvány számára. Minden jog fenntartva.  \n\nAz alkalmazás, valamint bővítményei, kiegészítői vagy tartalmai szellemi tulajdonjogai és szerzői jogai a MAWAQIT for The MAWAQIT egyesület tulajdonát képezik.  \n\nEz a verzió kizárólag jótékony célú terjesztésre van engedélyezve, és Waqf-nak minősül. Bármilyen kereskedelmi célú felhasználása vagy kereskedelmi terjesztése szigorúan tilos.  \n\nEz az engedély nem jelent vagy tartalmazza – semmilyen formában – a termékhez, annak bármely részéhez, bővítményeihez, kiegészítőihez vagy tartalmaihoz kapcsolódó jogok eladását. Ehelyett ez az engedély kizárólag az alkalmazás jótékony célú terjesztését engedélyezi a jelenlegi alkalmazásáruház-platformon keresztül.  \nAz alkalmazás forráskódjának vagy bináris fájljainak újraterjesztése, illetve visszafejtése, akár módosításokkal, akár anélkül, a szerzői jogsértés elkövetőjét vagy felelősét jogi lépéseknek teszi ki. \n\nEgyetlen fél sem jogosult az alkalmazás újraterjesztésére az Apple vagy a Google Play hivatalos áruházain kívül, kivéve, ha a szerzői jog tulajdonosától és az alkalmazás tulajdonosától, a MAWAQIT for The MAWAQIT egyesülettől, hivatalos írásos engedélyt kap. Az alkalmazás terjesztése ezen hivatalos áruházakon kívül sérti a szellemi tulajdon védelmére vonatkozó törvényt, és a szerzői jogsértésért felelős személy jogi eljárás alá vonható.  \n\nTilos az alkalmazás nevét, márkáját, védjegyét vagy a szerzői jog tulajdonosának, a MAWAQIT for The MAWAQIT egyesületnek nevét felhasználni hasonló vagy származékos termékek, illetve bármilyen más termék reklámozására a szerzői jog tulajdonosának előzetes írásos engedélye nélkül. Ez az alkalmazás a szerzői jog tulajdonosai és részvényesei által \"as is\" szerinti terjesztésre van engedélyezve.\n\nAz alkalmazás fejlesztője és tulajdonos cége semmilyen kifejezett vagy hallgatólagos garanciát nem vállal, beleértve – de nem kizárólagosan – az alkalmazás meghatározott célra való alkalmasságának hirdetését vagy előmozdítását. Semmilyen esetben sem felelős a MAWAQIT for The MAWAQIT egyesület, annak részvényesei vagy képviselői semmilyen közvetlen, közvetett vagy véletlen (különleges, figyelmeztető, következményes) kárért, ideértve – de nem kizárólagosan – a használatból, adatvesztésből, nyereségkiesésből vagy üzleti tevékenység megszakadásából eredő károkat, bármilyen okból vagy felelősségből eredően. Ezek a felelősségek lehetnek szerződéses, abszolút vagy károkozási felelősségek (beleértve a gondatlanságot vagy egyéb okokat), amelyek bármilyen módon az alkalmazás használatával kapcsolatban merülnek fel.\n\nAz alkalmazásban található bármely harmadik fél szerzői jogai a jogos tulajdonosukat illetik meg.\n\nKépek és Háttérképek\nA szerzői jogok a Shutterstockot illetik\nFontok — CC BY 4.0 License\n\nA szerzői jogok a Flaticons-t illetik\nAz MIT licensz az összes nem-betűtípus és nem-ikon fájlra vonatkozik.\nFontok — SIL OFL 1.1 License\n\nA szerzői jogok a Google Fonts-ot illetik (Roboto betűtípusok).\nA szerzői jogok az Apple, Cupertino csomagokat illetik\nKód, Csomagok és Keretrendszerek\n\nFlutter a Google-tól\nCsomagok: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
@@ -127,43 +127,43 @@
         "description": "_",
         "type": "text"
     },
-    "fajr": "Fajr",
+    "fajr": "Hajnali Ima",
     "@fajr": {
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Sunrise",
+    "shuruq": "Napfelkelte",
     "@shuruq": {
         "description": "_",
         "type": "text"
     },
-    "duhr": "Duhr",
+    "duhr": "Déli Ima",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Asr",
+    "asr": "Délutáni Ima",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Maghrib",
+    "maghrib": "Naplementi Ima",
     "@maghrib": {
         "description": "_",
         "type": "text"
     },
-    "isha": "Isha",
+    "isha": "Esti Ima",
     "@isha": {
         "description": "_",
         "type": "text"
     },
-    "sabah": "Sabah",
+    "sabah": "Reggel",
     "settings_PrayerNotification_NoNotification": "Jelenleg úgy van beállítva, hogy ne kapj értesítést erről az imáról.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "Beep csengőhang alkalmazása értesítéskor.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -173,17 +173,17 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "Mekka (hajnali ima)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "Medína",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "Jeruzsálem",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
@@ -193,7 +193,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (Fajr)",
+    "adhan_AlAfassy_fajr": "Al Afassy (hajnali ima)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
@@ -208,175 +208,175 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "Válaszd ki az imára hívás típusát. Ez a választás minden olyan imára érvényes lesz, amelyhez 'imára hívás' értesítés van beállítva.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "Egyik sem",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "Nem állítottál be értesítést ehhez az imához.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "Ez a beállítás lehetővé teszi, hogy értesítést állíts be az ima előtt.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "Try Paris, Essalam etc.",
+    "search_TryParis": "Próbáld ki Párizs, Essalam stb.",
     "search_ByGPS": "Keresés GPS alapján",
-    "search_HelpText": "Az alábbiak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.",
-    "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
-    "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
+    "search_HelpText": "Az alábbi szavak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.",
+    "search_MaxFavMosquesReached": "Elérted a kedvenc mecsetek maximális számát.",
+    "search_iOs14_message": "A GPS használata iOS 14-en némi időt vehet igénybe, kérlek várj.",
     "search_error": "Hoppá, belső hiba történt'",
-    "search_your_location": "Your location",
-    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
-    "search_settings": "Settings",
-    "no_services_text": "Mosques didn't provided this info",
-    "welcome": "Welcome to",
+    "search_your_location": "A tartózkodási helyed",
+    "search_location_disabled": "Kérjük, keress mecsetet név vagy város alapján, vagy engedélyezd a helymeghatározást manuálisan a beállításokban.",
+    "search_settings": "Beállítások",
+    "no_services_text": "A mecsetek nem adták meg ezt az információt",
+    "welcome": "Üdvözlünk a",
     "mawaqit": "MAWAQIT",
-    "connecting": "Connecting Muslims",
-    "to_mosques": "To Mosques",
-    "get_started": "Get started",
-    "get_prayer_notifications_for": "Get prayer notifications for",
-    "turn_on_notifications": "Turn on prayer notifications",
-    "no_thanks": "No thank's",
-    "notification_denied": "You have denied notification permissions, so you won't receive any notifications.",
-    "at_least_one_mosque": "Add at least one mosque to continue",
-    "set_up_your_prayer": "Set up your prayer",
-    "notifications": "Notifications",
-    "mosques_around_you": "Mosques around you",
-    "mosques_in_the_selected_area": "Mosques in the selected area",
-    "mosques_with": "Mosques with",
-    "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
-    "enable_location_service_from_app_settings": "Enable location service from app settings.",
-    "the_request_timeout": "The request timed out",
-    "no_internet_connection": "No Internet Connection",
-    "try_again": "Try again",
-    "virtual_mosque": "Virtual Mosque",
-    "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
-    "no_mosque_with": "Couldn't find any mosques with",
-    "retry": "Retry",
-    "search_here": "Search Here",
-    "enter_at_least_3_char": "Enter at-least 3 characters to search",
-    "jumua1": "Jum'a 1",
+    "connecting": "Összekapcsoljuk a muszlimokat",
+    "to_mosques": "Mecsetekhez",
+    "get_started": "Kezdés",
+    "get_prayer_notifications_for": "Kapj értesítéseket a ... imáról  ",
+    "turn_on_notifications": "Kapcsold be az imaértesítéseket.",
+    "no_thanks": "Nem, köszönöm",
+    "notification_denied": "Elutasítottad az értesítési engedélyeket, így nem fogsz kapni értesítéseket.",
+    "at_least_one_mosque": "Folytatáshoz adj hozzá legalább egy mecsetet.\n",
+    "set_up_your_prayer": "Állítsd be az imáidat",
+    "notifications": "Értesítések",
+    "mosques_around_you": "Mecsetek körülötted",
+    "mosques_in_the_selected_area": "Mecsetek a kiválasztott területen",
+    "mosques_with": "Mecsetek, ahol",
+    "allow_mawaqit_to_access_my_location": "Engedélyezd Mawaqit számára, hogy hozzáférjen a tartózkodási helyemhez.",
+    "enable_location_service_from_app_settings": "Engedélyezd a helymeghatározási szolgáltatást az alkalmazás beállításaiban.",
+    "the_request_timeout": "A kérés időtúllépés miatt megszakadt.",
+    "no_internet_connection": "Nincs internetkapcsolat",
+    "try_again": "Próbáld újra",
+    "virtual_mosque": "Virtuális mecset",
+    "no_mosque_in_selected_area": "Nem találtunk mecsetet a kiválasztott területen.",
+    "no_mosque_with": "Nem találtam olyan mecsetet, ahol",
+    "retry": "Újrapróbálkozás",
+    "search_here": "Keresés Itt",
+    "enter_at_least_3_char": "Adj meg legalább 3 karaktert a kereséshez",
+    "jumua1": "Pénteki ima 1",
     "prayer_times": "Imaidők",
     "remove_this_city": "Távolítsd el ezt a várost",
-    "add_this_city": "Add this city",
-    "add_this_mosque": "Add this mosque",
-    "remove_this_mosque": "Remove this mosque",
-    "services": "Services",
-    "share": "Share",
+    "add_this_city": "Add hozzá ezt a várost",
+    "add_this_mosque": "Add hozzá ezt a mecsetet",
+    "remove_this_mosque": "Távolítsd el ezt a mecsetet",
+    "services": "Szolgáltatások",
+    "share": "Megosztás",
     "itinerary": "Útvonalterv",
     "call": "Hívás",
-    "dnd": "Do Not Disturb",
-    "battery_optimize": "Battery Optimization",
-    "power_saver": "Power Saver",
-    "permission_message1": "We detected a delayed notification, Please turn off",
-    "permission_message2": "to receive the notification on time.",
-    "notifications_delay_detected": "Notifications delay detected",
-    "open_setting": "Open settings",
-    "noJumua": "No jum'a",
+    "dnd": "Ne zavarjanak",
+    "battery_optimize": "Akkumulátoroptimalizálás",
+    "power_saver": "Energiatakarékos",
+    "permission_message1": "Késleltetett értesítést észleltünk, kérjük kapcsold ki",
+    "permission_message2": "hogy időben megkapd az értesítést.",
+    "notifications_delay_detected": "Értesítési késleltetés észlelve",
+    "open_setting": "Beállítások megnyitása",
+    "noJumua": "Nincs pénteki ima",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jum'a",
+    "jumua": "Pénteki ima",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "Az Ön készülékében lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem működik a várt módon, ami befolyásolja a Qibla irányának megjelenítését.",
-    "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
-    "currently_located_at": "Currently located at",
-    "facing_makkah": "You're facing Makkah",
-    "not_facing_Makkah": "You're not facing Makkah",
+    "qibla_sensor": "A készülékedben lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem az elvárt módon működik, ami befolyásolja a Qibla irányának megjelenítését.",
+    "connection_not_found": "A iránytű kalibrálás beállítás ki van kapcsolva. Kérlek, győződj meg róla, hogy az interneted be van kapcsolva, és próbáld meg újra az irányod megváltoztatásával.",
+    "currently_located_at": "Jelenleg a következő címen található",
+    "facing_makkah": "Mekka irányában állsz",
+    "not_facing_Makkah": "Nem Mekka irányában állsz",
     "qibla_Error_retry": "Újrapróbálkozás",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Location service permission denied",
+    "qibla_Error_LocationDenied": "Helymeghatározási szolgáltatás engedélye megtagadva",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Location service Denied Forever !",
+    "qibla_Error_LocationDeniedForever": "Helymeghatározási szolgáltatás örökre megtiltva !",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Please enable Location service",
+    "qibla_Error_PleaseEnable": "Kérjük, engedélyezd a helymeghatározási szolgáltatást",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Direction": "QIBLA \nDIRECTION",
+    "qibla_Direction": "QIBLA \nIRÁNY",
     "@qibla_Direction": {
         "description": "_",
         "type": "text"
     },
-    "favorites_FavoriteMosques": "Favorites mosques",
+    "favorites_FavoriteMosques": "Kedvenc mecsetek",
     "@favorites_FavoriteMosques": {
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "Something went wrong...",
+    "favorites_Error": "Hiba történt.",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Image": "Image",
+    "announcement_Image": "Kép",
     "@announcement_Image": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_Video": "Video",
+    "announcement_Type_Video": "Videó",
     "@announcement_Type_Video": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flash Info",
+    "announcement_Type_FlashInfo": "Flash információ",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "DONATE",
+    "mosque_DonateText1": "ADOMÁNYOZZ",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "TO MOSQUE",
+    "mosque_DonateText2": "MECSETHEZ",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Could not launch",
+    "mosque_Error_CouldNotLaunch": "Nem sikerült elindítani",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Prayer times",
+    "mosque_PrayerTimes": "Imaidők",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Website",
+    "mosque_Website": "Honlap",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Address": "Address",
+    "mosque_Address": "Cím",
     "@mosque_Address": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Phone": "Phone",
+    "mosque_Phone": "Telefon",
     "@mosque_Phone": {
         "description": "_",
         "type": "text"
@@ -386,62 +386,62 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "By MAWAQIT https://mawaqit.net",
+    "mosque_ByMawaqit": "Mawaqit által https://mawaqit.net",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_Parking": "Parking",
+    "mosque_Facilities_Parking": "Parkolás",
     "@mosque_Facilities_Parking": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled Access",
+    "mosque_Facilities_DisabledAccess": "Mozgáskorlátozottak hozzáférése",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Ablution Room",
+    "mosque_Facilities_AblutionsRoom": "Rituális mosakodóhelyíség",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Women Space",
+    "mosque_Facilities_WomanSpace": "Női tér",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Adults Courses",
+    "mosque_Facilities_AdultsCourse": "Tanfolyamok Felnőttek Részére",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Children Courses",
+    "mosque_Facilities_ChildrenCourses": "Tanfolyamok Gyermekek Részére",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Salat Al Eid",
+    "mosque_Facilities_SalatAlAid": "Ünnepi Ima",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Halotti Ima",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "mosques_Facilities_IftarRamadan": "Ramadáni Böjtmegtörés ",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All this information is filled in by the people in charge of the mosque",
+    "mosque_facilities_Info": "Mindezeket az információkat a mecsetért felelős személyek töltik ki.",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "ban",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -451,32 +451,32 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid prayer at",
+    "eid": "Ünnepi ima a",
     "@eid": {
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "Percek",
     "@minutes": {
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jum'a 2",
+    "jumua2": "Pénteki Ima 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "Elérhető a Mawaqit újabb verziója, kérlek frissíts.",
     "@please_update": {
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "Frissítés",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skip tutorial",
+    "tutorial_skip": "A bemutató kihagyása",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
@@ -486,17 +486,17 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Your main mosque",
+    "tutorial_title_main_mosque": "A fő mecseted",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.",
+    "tutorial_text_main_mosque": "A fő mecseted itt jelenik meg.\nBalra és jobbra húzva válthatsz kedvenc mecseteid között.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Next prayer indicator",
+    "tutorial_title_countdown": "Következő ima jelző",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
@@ -511,7 +511,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.",
+    "tutorial_text_mosque_info": "Minden a mecsetedről: Létesítmények, Cím, Telefonszám, e-mail, Adományozás és még sok egyéb informació.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
@@ -521,37 +521,37 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.",
+    "tutorial_text_announcements": "Értesítések a mecseted üzeneteiről és közleményeiről itt jelennek meg.  \nHa megérinted ezt a gombot, megtekintheted a teljes részleteket. Ezek a közlemények lehetnek villámüzenetek, képek vagy akár videók is.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Select your language",
+    "onboarding_title_1": "Válaszd ki a nyelved",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Select your preferred language from the list below",
+    "onboarding_text_1": "Válaszd ki a kívánt nyelvet az alábbi listából",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_2": "Welcome to MAWAQIT",
+    "onboarding_title_2": "Üdvözlünk a MAWAQIT-ban",
     "@onboarding_title_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times",
+    "onboarding_text_2": "A MAWAQIT egy ökoszisztéma, amely új módot kínál az imaidők nyomon követésére és kezelésére. Az alkalmazás, amely a kezedben van, ennek az ökoszisztémának a része, és lehetővé teszi, hogy mecseteket találj, valamint kövesd azok híreit és imaidőit.",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_3": "Select a Dark/Light theme",
+    "onboarding_title_3": "Sötét/világos téma kiválasztása",
     "@onboarding_title_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort",
+    "onboarding_text_3": "Akár gyenge fényviszonyok között vagy, akár a sötétebb háttérszíneket részesíted előnyben a telefonodon, kihasználhatod a Sötét módot a jobb vizuális kényelem érdekében.",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
@@ -561,47 +561,47 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Please pick your main mosque from the list below or search for a mosque near your current location",
+    "onboarding_text_4": "Kérlek, válaszd ki a fő mecsetedet az alábbi listából, vagy keress egy mecsetet a jelenlegi tartózkodási helyed közelében.",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
     },
-    "loading": "Loading",
+    "loading": "Betöltés",
     "@loading": {
         "description": "_",
         "type": "text"
     },
-    "loading_please_wait": "Loading... Please wait",
+    "loading_please_wait": "Betöltés folyamatban... Kérjük, várj",
     "@loading_please_wait": {
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Loading complete",
+    "loading_loaded": "Betöltés befejezve",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite Mosques",
+    "favorites_edit": "Kedvenc mecsetek szerkesztése",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minutes to athan",
+    "minutes_to_athan": "percek imárahívásig",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Review the tutorial",
+    "show_tutorial": "A bemutató áttekintése",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_chose_mosque_please": "Please choose a mosque from the search list",
+    "onboarding_chose_mosque_please": "Kérjük, válassz egy mecsetet a keresési listából",
     "@onboarding_chose_mosque_please": {
         "description": "_",
         "type": "text"
     },
-    "done": "Done",
+    "done": "Kész",
     "@done": {
         "description": "_",
         "type": "text"
@@ -616,77 +616,77 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_title": "Open the app",
+    "notification_open_app_title": "Nyisd meg az alkalmazást",
     "@notification_open_app_title": {
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Please open the app to maintain notifications",
+    "notification_open_app_body": "Kérlek, nyisd meg az alkalmazást az értesítések fenntartásához",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Select a prayer notification",
+    "tutorial_title_notification": "Válassz ki egy ima értesítést",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "Itt kiválaszthatod az értesítés típusát: Imárahívás, bip vagy néma.",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Become a MAWAQIT ambassador and offer our solution to your mosque, it's free\nhttps://mawaqit.net",
+    "search_no_result": "Légy MAWAQIT nagykövet, és ajánld fel megoldásunkat a mecsetednek, ez ingyenes!  \nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Rate MAWAQIT",
+    "rate_popin_title": "Értékeld a MAWAQIT-ot",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "If you like this app, please take a little bit of your time to review it !\nIt really helps us.",
+    "rate_popin_message": "Ha tetszik ez az alkalmazás, kérjük, szánj egy kis időt az értékelésére!  \nEz igazán sokat segít nekünk.",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "RATE",
+    "rate_popin_rate": "ÉRTÉKELÉS",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_no": "NO THANKS",
+    "rate_popin_no": "NEM KÖSZÖNÖM",
     "@rate_popin_no": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_later": "MAYBE LATER",
+    "rate_popin_later": "TALÁN KÉSŐBB",
     "@rate_popin_later": {
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "You can view all messages from this mosque by clicking on the speaker at the top of the screen.",
+    "message_see_all": "Az összes üzenetet megtekintheted ettől a mecsettől, ha a képernyő tetején található hangszóróra kattintasz.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "Mekka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "Ima kezdete",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "Itt találod az imárahívás és az ima kezdete közötti időtartamot a mecsetben.",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "Naptár letöltése",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
@@ -696,251 +696,251 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "Naptár letöltése...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
     },
-    "location_service_disabled": "Location Service is disabled, please enable it.",
+    "location_service_disabled": "A helymeghatározási szolgáltatás le van tiltva, kérlek, engedélyezd.",
     "@location_service_disabled": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Location Permission Denied, please allow it.",
+    "location_permission_denied": "Helymeghatározási engedély megtagadva, kérlek, engedélyezd.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Location Permission Denied Forever, please allow it in the settings page.",
+    "location_permission_denied_forever": "A helymeghatározási engedély véglegesen megtagadva, kérlek, engedélyezd a beállítások oldalon.",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "You should have at least one mosque.",
-    "and": "and",
-    "continue_to_app": "Continue",
-    "add": "Add",
+    "at_least_one_mosque_error": "Legalább egy mecsetet kellene hozzáadnod.",
+    "and": "és",
+    "continue_to_app": "Tovább",
+    "add": "Hozzáadás",
     "mosque": "Mecset",
-    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
+    "on_boarding_nearest_mosque": "Keressük meg a legközelebbi mecsetet",
     "on_boarding_nearest_mosque_text": "Itt vannak a mecsetek, amelyek az Te földrajzi elhelyezkedése szerint találhatóak meg körülötted",
-    "search_no_result_for_text": "We did not find any result for",
-    "surah_audio_downloading": "Surah Audio Downloading...",
-    "msg_internet_connection": "You don't have any internet connection",
-    "read_quran": "Read Quran",
-    "ayahs": "Ayahs",
-    "chapter": "Surah",
-    "meaning": "Meaning",
-    "al_quran": "Al Quran",
+    "search_no_result_for_text": "Nem találtunk eredményt a",
+    "surah_audio_downloading": "Szúrah Audiójának letöltése folyamatban...",
+    "msg_internet_connection": "Nem rendelkezel internetkapcsolattal",
+    "read_quran": "Korán olvasása",
+    "ayahs": "Áják",
+    "chapter": "Szúrah",
+    "meaning": "Jelentése",
+    "al_quran": "A Korán",
     "surah_information": "Szúrah-val kapcsolatos Információ",
-    "surah_number": "Surah Number",
-    "quran_browsing": "Browsing",
-    "quran_search_placeholder": "Search by name of surah, number...",
-    "quran_verse_search": "Verse search",
-    "quran_translation": "Translation",
-    "quran_mushaf": "Mushaf",
-    "quran_juzz": "Juzz",
-    "ayah": "Ayah",
-    "quran_verses": "Verses",
-    "surah": "Surah",
-    "continue_reading": "Continue Reading",
-    "bookmarks": "Bookmarks",
-    "juzz": "Juzz",
-    "quran_page": "Page",
-    "quran_turning_page": "Turning page",
-    "quran_from_right_to_left": "From right to left",
-    "quran_from_left_to_right": "From left to right",
-    "quran_from_top_to_bottom": "From top to bottom",
-    "quran_from_bottom_to_top": "From bottom to top",
-    "quran_pages_color": "Pages color",
-    "english_tr": "English",
-    "french_tr": "French",
-    "spanish_tr": "Spanish",
+    "surah_number": "Szúrah száma",
+    "quran_browsing": "Böngészés",
+    "quran_search_placeholder": "Keresés a szúrah neve, száma alapján...",
+    "quran_verse_search": "Ája keresés",
+    "quran_translation": "Fordítás",
+    "quran_mushaf": "A Korán egy nyomtatott példánya",
+    "quran_juzz": "Dzsuz",
+    "ayah": "Ája",
+    "quran_verses": "Áják",
+    "surah": "Szúrah",
+    "continue_reading": "Olvasás Folytatása",
+    "bookmarks": "Könyvjelzők",
+    "juzz": "Dzsuz",
+    "quran_page": "Oldal",
+    "quran_turning_page": "Oldal lapozása",
+    "quran_from_right_to_left": "Jobbról balra",
+    "quran_from_left_to_right": "Balról jobbra",
+    "quran_from_top_to_bottom": "Fentről lefelé",
+    "quran_from_bottom_to_top": "Lentről felfelé",
+    "quran_pages_color": "Oldalak színe",
+    "english_tr": "Angol",
+    "french_tr": "Francia",
+    "spanish_tr": "Spanyol",
     "muhammad_hamidullah": "Muhammad Hamidullah",
     "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
-    "sheikh_isa_garcia": "Sheikh Isa Garcia",
-    "reciters": "Reciters",
-    "favorite_reciters": "Favorite reciters",
-    "surahs_downloaded": "Surahs downloaded",
-    "surahs_chapter": "Surahs - Chapter",
-    "my_likes": "My Likes",
-    "cancel": "Cancel",
-    "next": "Next",
-    "search_surah": "Search Surah",
-    "not_downloaded_recitation": "You have not downloaded any recitation yet.",
+    "sheikh_isa_garcia": "Sejk Isa Garcia",
+    "reciters": "Recitálók",
+    "favorite_reciters": "Kedvenc recitálók",
+    "surahs_downloaded": "Letöltött fejezetek",
+    "surahs_chapter": "Szúrák - Fejezetek ",
+    "my_likes": "Kedvenceim",
+    "cancel": "Mégse",
+    "next": "Következő",
+    "search_surah": "Szúrah keresése",
+    "not_downloaded_recitation": "Még nem töltöttél le egyetlen recitációt sem.",
     "not_favorite_reciter": "Még nem jelöltél meg kedvenc recitálót.",
-    "search_reciter": "Search Reciter",
-    "al_quran_al_kareem": "Al Quran Al Kareem",
-    "surahs": "Surahs",
-    "chapters": "Chapters",
-    "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
-    "calculation_madhab": "Jurisprudence - Madhab",
-    "calculation_madhab_shafii": "Shafi’i, Hanbali and Maliki",
-    "calculation_madhab_shafii_countries": "Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...",
+    "search_reciter": "Recitáló Keresése",
+    "al_quran_al_kareem": "A Kegyes Korán",
+    "surahs": "Szúrák",
+    "chapters": "Fejezetek",
+    "calculation_info": "Ennek a szekciónak a beállításai kizárólag a földrajzi helyzeted alapján számított imaidőkre vonatkoznak, és nem érintik a mecsetek imaidőit.",
+    "calculation_madhab": "Vallásjogi irányzat - Madhab",
+    "calculation_madhab_shafii": "Sáfi'í, Hanbalí és Málikí",
+    "calculation_madhab_shafii_countries": "Jordánia, Palesztina, Jemen, Szomália, Eritrea, Malajzia, Indonézia, Brunei, Dél-Egyiptom, Szaúd-Arábia, Katar, Észak-Afrika, Nyugat-Afrika, Egyesült Arab Emírségek, Kuvait...",
     "calculation_madhab_hanafi": "Hanafi",
-    "calculation_madhab_hanafi_countries": "Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...",
-    "calculation_methods": "Calculation methods",
-    "calculation_methods_france": "Muslim of France (ex UOIF)",
-    "calculation_methods_algeria": "Algerian Ministry of Religious Affairs and Wakfs",
-    "calculation_methods_morocco": "Moroccan Ministry of Wakfs and Islamic Affairs",
-    "calculation_methods_muslim_world": "Muslim World League",
-    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
-    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
-    "calculation_methods_umm_al_qura": "Umm al-Qura University, Makkah",
-    "calculation_methods_dubai": "The Gulf Region",
-    "calculation_methods_moon": "Moon Sighting Committee",
-    "calculation_methods_north_america": "Islamic Society of North America",
-    "calculation_methods_kuwait": "Kuwait",
-    "calculation_methods_qatar": "Qatar",
-    "calculation_methods_singapore": "Singapore",
-    "calculation_methods_turkey": "Turkey",
-    "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
-    "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
-    "calculation_methods_custom": "Custom angles",
-    "calculation_high_latitude": "Higher latitudes",
-    "calculation_high_latitude_none": "None",
-    "calculation_high_latitude_middle": "Middle of the night",
-    "calculation_high_latitude_one_seventh": "One-seventh of the night",
-    "calculation_high_latitude_angle_based": "Angle based method",
-    "calculation_adjustment": "Manual correction",
-    "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
-    "calculation_adjustment_prayers": "Prayer adjustments",
-    "calculation_adjustment_prayers_minutes": "minutes",
-    "calculation_adjustment_angles": "Custom angles",
-    "calculation_prayer_custom_angle": "Custom angle for",
-    "error_download_quran_failed": "Failed to download Quran",
-    "downloading_quran": "Downloading Quran...",
-    "processing": "Processing...",
-    "copied_to_clipboard": "Copied to your clipboard !",
-    "download_quran_popup_title": "Last touch ups",
-    "download_quran_popup_downloading_1": "We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.",
-    "download_quran_popup_downloading_2": "We are preparing the Qur’an just for you, please wait a few seconds!",
-    "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
-    "download_quran_popup_confirm_cancel": "Are you sure you want to cancel the download? Without this data you won't be able to read the Quran, the pages will be unavailable.",
-    "download_quran_popup_cancelled": "Something went wrong, please hit the download button again!",
-    "download": "Download",
-    "continue_download": "Continue the download",
-    "cancel_download": "Cancel the download",
-    "download_completed": "Download Completed",
-    "download_failed": "Download Failed",
-    "download_pages": "Download the pages",
-    "notification": "Notification",
-    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
-    "battery_optimization": "Battery optimization",
-    "battery_optimization_subtitle": "To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.",
-    "allow": "Allow",
-    "deny": "Deny",
-    "force_notification": "Force notifications",
-    "tutorial_text_foreground_service": "Tapping on it allows you to toggle the 'Foreground Service' on or off",
-    "enable": "ON",
-    "disable": "OFF",
-    "do_not_show_again": "Don't show it again",
+    "calculation_madhab_hanafi_countries": "Levante, Pakisztán, Afganisztán, India, Banglades, Irak, Törökország, Oroszország, Kína, Balkán...",
+    "calculation_methods": "Számítási módszerek",
+    "calculation_methods_france": "Muslims of France (korábban UOIF)",
+    "calculation_methods_algeria": "Algériai Vallásügyi és Wakfok Minisztériuma",
+    "calculation_methods_morocco": "Marokkói Wakfok és Iszlám Ügyek Minisztériuma",
+    "calculation_methods_muslim_world": "Muszlim Világliga",
+    "calculation_methods_egyptian": "Egyiptomi Felmérési Főhatóság",
+    "calculation_methods_karachi": "Iszlám Tudományok Egyeteme, Karacsi",
+    "calculation_methods_umm_al_qura": "Umm al-Qura Egyetem, Mekka",
+    "calculation_methods_dubai": "Az Öböl-régió",
+    "calculation_methods_moon": "Holdmegfigyelő Bizottság",
+    "calculation_methods_north_america": "Észak-Amerikai Iszlám Társaság",
+    "calculation_methods_kuwait": "Kuvait",
+    "calculation_methods_qatar": "Katar",
+    "calculation_methods_singapore": "Szingapúr",
+    "calculation_methods_turkey": "Törökország",
+    "calculation_methods_tehran": "Geofizikai Intézet, Teheráni Egyetem",
+    "calculation_methods_russia": "Az oroszországi muszlimok sprituális igazgatósága",
+    "calculation_methods_custom": "Egyedi szögek",
+    "calculation_high_latitude": "Magasabb szélességek",
+    "calculation_high_latitude_none": "Nincs",
+    "calculation_high_latitude_middle": "Az éjszaka közepe",
+    "calculation_high_latitude_one_seventh": "Az éjszaka egyhetede",
+    "calculation_high_latitude_angle_based": "Szög alapú módszer",
+    "calculation_adjustment": "Manuális korrekció",
+    "calculation_adjustment_subtitle": "Imaidő-beállítás és egyedi szögek",
+    "calculation_adjustment_prayers": "Imaidő beállítások",
+    "calculation_adjustment_prayers_minutes": "percek",
+    "calculation_adjustment_angles": "Egyedi szögek",
+    "calculation_prayer_custom_angle": "Egyedi szög a",
+    "error_download_quran_failed": "A Korán letöltése sikertelen",
+    "downloading_quran": "Korán letöltése folyamatban...",
+    "processing": "Feldolgozás...",
+    "copied_to_clipboard": "Vágólapodra másolva !",
+    "download_quran_popup_title": "Utolsó simítások",
+    "download_quran_popup_downloading_1": "Le kell töltenünk a Korán oldalait, ez csak néhány másodpercet fog igénybe venni. A mobiladatodat fogjuk használni, szükség esetén válts át Wi-Fi-re.",
+    "download_quran_popup_downloading_2": "A Koránt csak a Te számodra készítjük elő, kérlek, várj néhány másodpercet!",
+    "download_quran_popup_downloading_3": "Fedezd fel a Korán szépségét! Érintsd meg a \"Letöltés\" gombot, hogy hozzáférjél a Korán időtlen bölcsességéhez, és ihletet meríts az isteni szavakból.",
+    "download_quran_popup_confirm_cancel": "Biztosan meg akarod szakítani a letöltést? Enélkül az adatok nélkül nem fogod tudni olvasni a Koránt, az oldalak nem lesznek elérhetők.",
+    "download_quran_popup_cancelled": "Valami hiba történt, kérlek nyomd meg újra a letöltés gombot!",
+    "download": "Letöltés",
+    "continue_download": "A letöltést folytatása",
+    "cancel_download": "A letöltés megszakítása",
+    "download_completed": "A letöltés befejeződött",
+    "download_failed": "A letöltés sikertelen",
+    "download_pages": "Az oldalak letöltése",
+    "notification": "Értesítés",
+    "notification_not_supported_below_7": "Nem tudtál imárahívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.",
+    "battery_optimization": "Akkumulátor-optimalizálás",
+    "battery_optimization_subtitle": "Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátor-optimalizálást a MAWAQIT alkalmazás számára.",
+    "allow": "Engedélyezés",
+    "deny": "Elutasítás",
+    "force_notification": "Értesítések kényszerítése",
+    "tutorial_text_foreground_service": "Rákattintva be- vagy kikapcsolhatod az „Előtérben futó szolgáltatást”.",
+    "enable": "BE",
+    "disable": "KI",
+    "do_not_show_again": "Ne mutasd újra",
     "force_notification_title": "A MAWAQIT aktív, hogy biztosítsa az imaidők értesítéseinek pontos időben történő megjelenését.",
-    "force_notification_body": "Bizony, az ima elvégzése a hívők számára meghatározott időpontokban előírt. An-Niszá: 103",
-    "force_notification_dialog1_body": "By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.",
-    "force_notification_dialog2_body": "After enabling the 'Force Notifications' swipe down the notification tray you see this notification there",
-    "notification_debugging": "Notification Debugging",
-    "notification_debugging_details": "Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.",
-    "skip": "Skip",
-    "agree": "Agree",
-    "return_no_search": "Return no search",
-    "backend_environment_switch": "Backend environment switch",
-    "set_development_environment": "Set Development Environment",
-    "set_production_environment": "Set Production Environment",
-    "delay_notification": "Delay notification",
-    "notification_delay_debugging_is": "Notification Delay debugging is",
-    "banner_enable": "Banner enable",
-    "banner": "Banner",
-    "show_details": "Show Details",
-    "auto_detect_location": "Suggest nearest mosque",
-    "auto_detect_explanation": "When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.",
-    "auto_detect_location_title": "It seems you are distant from your mosque",
-    "auto_detect_location_message": "Do you want to search for the nearest mosque for accurate prayer times?",
-    "donation_success_toast": "Donation successfully done",
-    "donation_success": "Thank you for your donation, may Allah reward you",
-    "donation_failed": "Donation Failed",
-    "donate_for_good": "DONATE FOR GOOD",
-    "enter_amount_hint": "Enter amount",
-    "enter_donation_amount": "Enter donation amount",
-    "google_pay_not_available": "Google Pay is not available in this device",
-    "error_performing_donation": "There was an error while trying to perform the donation",
-    "recurring_pay_text": "Make this donation monthly.",
-    "adjust_angles": "Adjust Angles",
-    "silent": "Silent",
-    "default_": "Default",
-    "muazzin": "Muazzin",
-    "information": "Information",
-    "news": "News",
-    "calendar": "Calendar",
-    "system": "System",
-    "change_mosque_order": "Drag and drop mosques to change order and to set the main mosque",
-    "remove": "Remove",
-    "save": "Save",
-    "main_mosque": "Main mosque",
-    "mosques": "Mosques",
-    "no_news": "No news from the mosque",
-    "mawaqit_notification": "Mawaqit Notification",
-    "no_mawaqit_notification": "No notification from Mawaqit",
-    "meccan": "Meccan",
-    "medinan": "Medinan",
-    "montada_islamic_foundation": "Montada Islamic Foundation",
+    "force_notification_body": "Bizony, az ima elvégzése a hívők számára meghatározott időpontokban előírt. An-Niszá: (103)",
+    "force_notification_dialog1_body": "Ennek az opciónak az engedélyezésével az alkalmazás aktív marad, hogy biztosítsa az imaidők értesítéseinek pontos és késedelem nélküli megjelenését. A MAWAQIT alkalmazás kizárólag erre a célra lesz aktív, és bármikor kikapcsolhatod ezt az opciót a beállításokban.",
+    "force_notification_dialog2_body": "A „Kényszerített értesítések” engedélyezése után húzd le az értesítési sávot, és ott látni fogod ezt az értesítést.",
+    "notification_debugging": "Értesítési hibakeresés",
+    "notification_debugging_details": "Az értesítési hibakeresés engedélyezve van. Ha módosítod az értesítési beállításokat, a hibakeresési adatok elvesznek, és a hibakeresés le lesz tiltva.",
+    "skip": "Kihagyás",
+    "agree": "Elfogadás",
+    "return_no_search": "Nincs találat",
+    "backend_environment_switch": "Háttér környezet váltása",
+    "set_development_environment": "Fejlesztési környezet beállítása",
+    "set_production_environment": "Éles környezet beállítása",
+    "delay_notification": "Értesítések késleltetése",
+    "notification_delay_debugging_is": "Értesítési késleltetés hibakeresés",
+    "banner_enable": "Szalagcím engedélyezése",
+    "banner": "Szalagcím",
+    "show_details": "Részletek megjelenítése",
+    "auto_detect_location": "Javasold a legközelebbi mecsetet",
+    "auto_detect_explanation": "Amikor távol vagy a mecsetedtől, az alkalmazás automatikusan javasolni fogja a legközelebbi mecset keresését a tartózkodási helyed alapján.",
+    "auto_detect_location_title": "Úgy tűnik, távol vagy a mecsetedtől.",
+    "auto_detect_location_message": "Szeretnéd megkeresni a legközelebbi mecsetet a pontos imaidőpontokért?",
+    "donation_success_toast": "Az Adományozás sikeresen megtörtént",
+    "donation_success": "Köszönjük az adományodat, Allah jutalmazzon meg érte!",
+    "donation_failed": "Az adományozás sikertelen",
+    "donate_for_good": "ADOMÁNYOZZ JÓTÉKONY CÉLRA",
+    "enter_amount_hint": "Összeg megadása",
+    "enter_donation_amount": "Add meg az adomány összegét",
+    "google_pay_not_available": "A Google Pay nem érhető el ezen a készüléken",
+    "error_performing_donation": "Hiba történt az adományozás végrehajtása során",
+    "recurring_pay_text": "Tedd ezt az adományt havi rendszeressé.",
+    "adjust_angles": "Szögek beállítása",
+    "silent": "Néma",
+    "default_": "Alapértelmezett",
+    "muazzin": "Imára hívó személy",
+    "information": "Információ",
+    "news": "Hírek",
+    "calendar": "Naptár",
+    "system": "Rendszer",
+    "change_mosque_order": "Húzd és ejtsd a mecseteket a sorrend megváltoztatásához és a fő mecset beállításához.",
+    "remove": "Eltávolítás",
+    "save": "Mentés",
+    "main_mosque": "Fő mecset",
+    "mosques": "Mecsetek",
+    "no_news": "Nincs hír a mecsettől.",
+    "mawaqit_notification": "Mawaqit Értesítés",
+    "no_mawaqit_notification": "Nincs értesítés a Mawaqit-tól",
+    "meccan": "Mekkai",
+    "medinan": "Medínai",
+    "montada_islamic_foundation": "Montada Iszlám Alapítvány",
     "rashid_maash": "Rashid Maash",
     "abdul_haleem": "Abdul Haleem",
     "dr_mustafa_khattab": "Dr. Mustafa Khattab",
-    "frank_bubenheim_and_nadeem": "Frank Bubenheim and Nadeem",
+    "frank_bubenheim_and_nadeem": "Frank Bubenheim és Nadeem",
     "abu_reda_muhammad_ibn_ahmad": "Abu Reda Muhammad ibn Ahmad",
-    "unknown_author": "Unknown Author",
-    "translation_settings": "Translation settings",
-    "reading": "Reading",
-    "listening": "Listening",
-    "font_size": "Font-size",
-    "font_size_arabic": "Font-size Arabic",
-    "horizontal": "Horizontal",
-    "vertical": "Vertical",
-    "add_page_bookmarks": "Add page to bookmarks",
-    "remove_page_bookmarks": "Remove the page from bookmarks",
-    "no_bookmarks": "No bookmarks",
-    "liked": "Liked",
-    "all_recitators": "All recitators",
-    "downloaded": "Downloaded",
-    "search_for_recitator": "Search for a recitator",
-    "search_for_surah": "Search for a surah",
-    "search_for_fav_recitator": "Search for a favorite recitator",
-    "listen_to_quran": "LISTEN TO QURAN",
-    "search_hint_text": "Search for a mosque, or a city",
-    "downloading": "Downloading",
-    "cant_download_more_than_3": "Cannot download more than 3 at the same time.",
-    "boost": "Boost",
-    "recitation_deleted_successfully": "Recitation deleted successfully",
-    "quran": "Quran",
-    "qibla": "Qibla",
-    "search": "Search",
-    "more": "More",
-    "download_cancelled": "Download cancelled",
-    "no_virtual_mosque_found": "Sorry, we don't find any mosque around you",
-    "no_surah_found": "No surah found",
-    "no_favorite_recitor_found": "No favorite recitator found",
-    "no_recitator_found": "No recitator found",
-    "empty_quran_search": "Search results will appear here",
-    "no_bookmark_ayah": "No bookmarks available. Please long-press on the ayah you wish to bookmark.",
-    "page": "Page",
-    "prayer_times_in": "Prayer times in",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "unknown_author": "Ismeretlen szerző",
+    "translation_settings": "Fordítási beállítások",
+    "reading": "Olvasás",
+    "listening": "Hallgatás",
+    "font_size": "Betűméret",
+    "font_size_arabic": "Betűméret Arab",
+    "horizontal": "Vízszintes",
+    "vertical": "Függőleges",
+    "add_page_bookmarks": "Oldal hozzáadása a könyvjelzőkhöz",
+    "remove_page_bookmarks": "Az oldal eltávolítása a könyvjelzőkből",
+    "no_bookmarks": "Nincsenek könyvjelzők",
+    "liked": "Kedvelve",
+    "all_recitators": "Minden recitáló",
+    "downloaded": "Letöltve",
+    "search_for_recitator": "Recitáló keresése",
+    "search_for_surah": "Szúrah keresése",
+    "search_for_fav_recitator": "Kedvenc recitáló keresése",
+    "listen_to_quran": "KORÁN HALLGATÁSA",
+    "search_hint_text": "Keress egy mecsetet, vagy egy várost",
+    "downloading": "Letöltés folyamatban",
+    "cant_download_more_than_3": "Egyszerre 3-nál többet nem lehet letölteni.",
+    "boost": "Gyorsítás",
+    "recitation_deleted_successfully": "Recitáció sikeresen letörölve",
+    "quran": "Korán",
+    "qibla": "Mekka iránya",
+    "search": "Keresés",
+    "more": "Egyébb",
+    "download_cancelled": "Letöltés megszakítva",
+    "no_virtual_mosque_found": "Sajnálom, de nem találunk mecsetet a környékeden.",
+    "no_surah_found": "Szúrah nem található ",
+    "no_favorite_recitor_found": "Kedvenc recitáló nem található",
+    "no_recitator_found": "Recitáló nem található",
+    "empty_quran_search": "A keresési eredmények itt jelennek meg",
+    "no_bookmark_ayah": "Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelezni szeretnél.",
+    "page": "Oldal",
+    "prayer_times_in": "Imaidők",
+    "update_new_version": "A Korán új verziója elérhető letöltésre. Kattints a 'Frissítés' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_quran_zip": "A Korán új verziója elérhető letöltésre. Kattints a 'Frissítés' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran_version": "A Korán új verziója elérhető letöltésre. Kattints a 'Frissítés' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran": "A Korán új verziója elérhető letöltésre. Kattints a 'Frissítés' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
-    "set_notification_for_all_parayer": "Set this for every prayer",
+    "set_notification_for_all_parayer": "Állítsd be ezt minden imára.",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     },
@@ -948,5 +948,6 @@
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
-    "adjust_hijri_date": "Állítsa be a hidzsri dátumot"
+    "adjust_hijri_date": "Hijri dátum beállítása",
+    "prayer_times_by_location": "Imádkozási idők hely szerint"
 }
