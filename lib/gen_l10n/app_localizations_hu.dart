@@ -467,7 +467,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get in_ => 'in';
 
   @override
-  String get imsak => 'Imsak';
+  String get imsak => 'A hajnal beköszöntével az evés és ivás abbahagyása';
 
   @override
   String get eid => 'Eid prayer at';
@@ -509,7 +509,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
 
   @override
-  String get tutorial_title_announcements => 'Mecset üzenetek és bejelentések';
+  String get tutorial_title_announcements => 'Mecset üzenetei és bejelentései';
 
   @override
   String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
@@ -647,7 +647,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
 
   @override
-  String get on_boarding_nearest_mosque_text => '';
+  String get on_boarding_nearest_mosque_text => 'Itt vannak a mecsetek, amelyek az Te földrajzi elhelyezkedése szerint találhatóak meg körülötted';
 
   @override
   String get search_no_result_for_text => 'We did not find any result for';
@@ -782,7 +782,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
 
   @override
-  String get not_favorite_reciter => '.';
+  String get not_favorite_reciter => 'Még nem jelöltél meg kedvenc recitálót.';
 
   @override
   String get search_reciter => 'Search Reciter';
