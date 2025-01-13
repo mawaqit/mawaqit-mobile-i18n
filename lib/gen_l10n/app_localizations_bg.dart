@@ -1272,4 +1272,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get adjust_hijri_date => 'Настройване на хиджрийската дата';
+
+  @override
+  String get prayer_times_by_location => 'Времена за молитва по местоположение';
 }

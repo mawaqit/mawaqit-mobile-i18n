@@ -14,31 +14,31 @@ class AppLocalizationsHu extends AppLocalizations {
   String get bottomNavbar_qibla => 'Qibla';
 
   @override
-  String get bottomNavbar_search => 'Search';
+  String get bottomNavbar_search => 'Keresés';
 
   @override
-  String get bottomNavbar_settings => 'Settings';
+  String get bottomNavbar_settings => 'Beállítások';
 
   @override
   String get settings_ThemeAuto => 'Auto';
 
   @override
-  String get settings_ThemeDark => 'Dark';
+  String get settings_ThemeDark => 'Sötét';
 
   @override
-  String get settings_ThemeLight => 'Light';
+  String get settings_ThemeLight => 'Világos';
 
   @override
-  String get settings_TimeFormat => 'Time format';
+  String get settings_TimeFormat => 'Időformátum';
 
   @override
-  String get settings_LanguageSelection => 'Language selection';
+  String get settings_LanguageSelection => 'Nyelvválasztás';
 
   @override
-  String get settings_Language => 'Language';
+  String get settings_Language => 'Nyelv';
 
   @override
-  String get settings_Theme => 'Theme';
+  String get settings_Theme => 'Téma';
 
   @override
   String get settings_TimeFormat12H => '12H';
@@ -47,79 +47,79 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_TimeFormat24H => '24H';
 
   @override
-  String get settings_PrayerNotifications => 'Prayer Notifications';
+  String get settings_PrayerNotifications => 'Ima Értesítések';
 
   @override
-  String get settings_PrayerPreNotifications => 'Pre-Prayer notification';
+  String get settings_PrayerPreNotifications => 'Ima előtti értesítés';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Pre-Shuruq notification';
+  String get settings_ShuruqPreNotifications => 'Napfelkelte előtti értesítés';
 
   @override
-  String get settings_Calculations => 'Calculations';
+  String get settings_Calculations => 'Számítások';
 
   @override
-  String get settings_RateOurApp => 'Rate our app';
+  String get settings_RateOurApp => 'Értékeld az applikációnkat';
 
   @override
-  String get settings_WhatsNew => 'What\'s new';
+  String get settings_WhatsNew => 'Újdonságok';
 
   @override
-  String get settings_SupportMawaqit => 'Support Mawaqit';
+  String get settings_SupportMawaqit => 'Támogasd a Mawaqít-ot';
 
   @override
-  String get settings_News => 'News';
+  String get settings_News => 'Hírek';
 
   @override
-  String get settings_MakeADonation => 'Make a donation';
+  String get settings_MakeADonation => 'Adományozz';
 
   @override
-  String get bismillah => 'Bismillah';
+  String get bismillah => 'Allah nevében';
 
   @override
-  String get settings_DonateToMawaqit => 'Donate to MAWAQIT';
+  String get settings_DonateToMawaqit => 'Adományozz Mawaqít-nak';
 
   @override
-  String get settings_CheckForUpdates => 'Check for updates';
+  String get settings_CheckForUpdates => 'Ellenőrizd a frissítéseket';
 
   @override
   String get settings_Credits => 'Kreditek';
 
   @override
-  String get settings_AboutUs => 'About us';
+  String get settings_AboutUs => 'Rólunk';
 
   @override
-  String get settings_language_ar => 'Arabic';
+  String get settings_language_ar => 'Arab';
 
   @override
-  String get settings_language_bn => 'Bengali';
+  String get settings_language_bn => 'Bengáli';
 
   @override
-  String get settings_language_fr => 'French';
+  String get settings_language_fr => 'Francia';
 
   @override
-  String get settings_language_nl => 'Dutch';
+  String get settings_language_nl => 'Holland';
 
   @override
-  String get settings_language_de => 'German';
+  String get settings_language_de => 'Német';
 
   @override
-  String get settings_language_es => 'Spanish';
+  String get settings_language_es => 'Spanyol';
 
   @override
-  String get settings_language_en => 'English';
+  String get settings_language_en => 'Angol';
 
   @override
-  String get settings_language_it => 'Italian';
+  String get settings_language_it => 'Olasz';
 
   @override
-  String get settings_language_tr => 'Turkish';
+  String get settings_language_tr => 'Török';
 
   @override
-  String get settings_language_ru => 'Russian';
+  String get settings_language_ru => 'Orosz';
 
   @override
-  String get settings_language_id => 'Indonesian';
+  String get settings_language_id => 'Indonéz';
 
   @override
   String get settings_language_ur => 'Urdu';
@@ -134,49 +134,49 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_AboutUsText => 'Ezt az alkalmazást a MAWAQIT egyesület fejlesztette ki.\n\nA MAWAQIT egyesület egy 2021-ben Franciaországban létrehozott nonprofit szervezet. Célunk az informatikához és a digitális technológiához kapcsolódó innovatív megoldások, például szoftverek és weboldalak fejlesztése; digitális megoldások és informatikai eszközök oktatása és képzése.\n\nA MAWAQIT Ecosystem a zászlóshajó termékünk, amelynek története 2016-ban kezdődött, egy mecsetekre szánt nagy képernyőkön megjelenő alkalmazással, majd egy mobilalkalmazással, egy otthoni asszisztens-kiegészítővel és egy Alexa készséggel stb.\n\nA MAWAQIT új módot kínál az imaidők nyomon követésére és kezelésére, valójában egy végponttól végpontig tartó rendszert kínálunk, amely a mecsetek vezetőinek egy 24 / 24 órában elérhető online eszközt kínál, amely lehetővé teszi számukra a menetrendek, a mecset hírei és sok más funkció kezelését. A hívők a maguk részéről egy mobilalkalmazás előnyeit élvezhetik, amely lehetővé teszi számukra, hogy megtekinthessék kedvenc mecsetük pontos és nem hozzávetőleges menetrendjét, valamint a híreket és egyéb funkciókat, mint például a mecset keresése földrajzi helymeghatározás alapján, az imárahívás, a qibla iránya... stb. A megbízhatóságot és a minőséget tettük legfőbb értékeinkké. Ambíciónk egyértelmű: a technológiának és a tervezésnek köszönhetően a legjobb szolgáltatást nyújtani mecseteink számára.\n\nHa tetszett ez az alkalmazás, kérjük, mondd el véleményedet az áruházban.';
 
   @override
-  String get fajr => 'Fajr';
+  String get fajr => 'Hajnali Ima';
 
   @override
-  String get shuruq => 'Sunrise';
+  String get shuruq => 'Napfelkelte';
 
   @override
-  String get duhr => 'Duhr';
+  String get duhr => 'Déli Ima';
 
   @override
-  String get asr => 'Asr';
+  String get asr => 'Délutáni Ima';
 
   @override
-  String get maghrib => 'Maghrib';
+  String get maghrib => 'Naplementi Ima';
 
   @override
-  String get isha => 'Isha';
+  String get isha => 'Esti Ima';
 
   @override
-  String get sabah => 'Sabah';
+  String get sabah => 'Reggel';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'Jelenleg úgy van beállítva, hogy ne kapjon értesítést erről az imáról.\n';
+  String get settings_PrayerNotification_NoNotification => 'Jelenleg úgy van beállítva, hogy ne kapj értesítést erről az imáról.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
+  String get settings_PrayerNotification_Bip => 'Beep csengőhang alkalmazása értesítéskor.';
 
   @override
   String get adhan => 'Imárahívás';
 
   @override
-  String get adhan_Makkah_fajr => 'Makkah (Fajr)';
+  String get adhan_Makkah_fajr => 'Mekka (hajnali ima)';
 
   @override
-  String get adhan_Madinah => 'Madinah';
+  String get adhan_Madinah => 'Medína';
 
   @override
-  String get adhan_Qods => 'Qods';
+  String get adhan_Qods => 'Jeruzsálem';
 
   @override
   String get adhan_AlAfassy => 'Al Afassy';
 
   @override
-  String get adhan_AlAfassy_fajr => 'Al Afassy (Fajr)';
+  String get adhan_AlAfassy_fajr => 'Al Afassy (hajnali ima)';
 
   @override
   String get adhan_Muhammad_jazy => 'Muhammad Jazy';
@@ -185,127 +185,127 @@ class AppLocalizationsHu extends AppLocalizations {
   String get adhan_AbdAlBassat => 'Abdul Bassit';
 
   @override
-  String get adhan_type => 'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
+  String get adhan_type => 'Válaszd ki az imára hívás típusát. Ez a választás minden olyan imára érvényes lesz, amelyhez \'imára hívás\' értesítés van beállítva.';
 
   @override
-  String get settings_prayer_Notification_None => 'None';
+  String get settings_prayer_Notification_None => 'Egyik sem';
 
   @override
-  String get prayer_Notification_NoNotification => 'You have not set any notification for this Prayer.';
+  String get prayer_Notification_NoNotification => 'Nem állítottál be értesítést ehhez az imához.';
 
   @override
-  String get prayer_PreNotification_Description => 'This setting allows you to define a notification before the prayer.';
+  String get prayer_PreNotification_Description => 'Ez a beállítás lehetővé teszi, hogy értesítést állíts be az ima előtt.';
 
   @override
-  String get search_TryParis => 'Try Paris, Essalam etc.';
+  String get search_TryParis => 'Próbáld ki Párizs, Essalam stb.';
 
   @override
-  String get search_ByGPS => 'Keresés GPS-szel';
+  String get search_ByGPS => 'Keresés GPS alapján';
 
   @override
-  String get search_HelpText => 'Az alábbiak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.';
+  String get search_HelpText => 'Az alábbi szavak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.';
 
   @override
-  String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
+  String get search_MaxFavMosquesReached => 'Elérted a kedvenc mecsetek maximális számát.';
 
   @override
-  String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
+  String get search_iOs14_message => 'A GPS használata iOS 14-en némi időt vehet igénybe, kérlek várj.';
 
   @override
-  String get search_error => '';
+  String get search_error => 'Hoppá, belső hiba történt\'';
 
   @override
-  String get search_your_location => 'Your location';
+  String get search_your_location => 'A tartózkodási helyed';
 
   @override
-  String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
+  String get search_location_disabled => 'Kérjük, keress mecsetet név vagy város alapján, vagy engedélyezd a helymeghatározást manuálisan a beállításokban.';
 
   @override
-  String get search_settings => 'Settings';
+  String get search_settings => 'Beállítások';
 
   @override
-  String get no_services_text => 'Mosques didn\'t provided this info';
+  String get no_services_text => 'A mecsetek nem adták meg ezt az információt';
 
   @override
-  String get welcome => 'Welcome to';
+  String get welcome => 'Üdvözlünk a';
 
   @override
   String get mawaqit => 'MAWAQIT';
 
   @override
-  String get connecting => 'Connecting Muslims';
+  String get connecting => 'Összekapcsoljuk a muszlimokat';
 
   @override
-  String get to_mosques => 'To Mosques';
+  String get to_mosques => 'Mecsetekhez';
 
   @override
-  String get get_started => 'Get started';
+  String get get_started => 'Kezdés';
 
   @override
-  String get get_prayer_notifications_for => 'Get prayer notifications for';
+  String get get_prayer_notifications_for => 'Kapj értesítéseket a ... imáról  ';
 
   @override
-  String get turn_on_notifications => 'Turn on prayer notifications';
+  String get turn_on_notifications => 'Kapcsold be az imaértesítéseket.';
 
   @override
-  String get no_thanks => 'No thank\'s';
+  String get no_thanks => 'Nem, köszönöm';
 
   @override
-  String get notification_denied => 'You have denied notification permissions, so you won\'t receive any notifications.';
+  String get notification_denied => 'Elutasítottad az értesítési engedélyeket, így nem fogsz kapni értesítéseket.';
 
   @override
-  String get at_least_one_mosque => 'Add at least one mosque to continue';
+  String get at_least_one_mosque => 'Folytatáshoz adj hozzá legalább egy mecsetet.\n';
 
   @override
-  String get set_up_your_prayer => 'Set up your prayer';
+  String get set_up_your_prayer => 'Állítsd be az imáidat';
 
   @override
-  String get notifications => 'Notifications';
+  String get notifications => 'Értesítések';
 
   @override
-  String get mosques_around_you => 'Mosques around you';
+  String get mosques_around_you => 'Mecsetek körülötted';
 
   @override
-  String get mosques_in_the_selected_area => 'Mosques in the selected area';
+  String get mosques_in_the_selected_area => 'Mecsetek a kiválasztott területen';
 
   @override
-  String get mosques_with => 'Mosques with';
+  String get mosques_with => 'Mecsetek, ahol';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'Allow Mawaqit to access my location.';
+  String get allow_mawaqit_to_access_my_location => 'Engedélyezd Mawaqit számára, hogy hozzáférjen a tartózkodási helyemhez.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location service from app settings.';
+  String get enable_location_service_from_app_settings => 'Engedélyezd a helymeghatározási szolgáltatást az alkalmazás beállításaiban.';
 
   @override
-  String get the_request_timeout => 'The request timed out';
+  String get the_request_timeout => 'A kérés időtúllépés miatt megszakadt.';
 
   @override
-  String get no_internet_connection => 'No Internet Connection';
+  String get no_internet_connection => 'Nincs internetkapcsolat';
 
   @override
-  String get try_again => 'Try again';
+  String get try_again => 'Próbáld újra';
 
   @override
-  String get virtual_mosque => 'Virtual Mosque';
+  String get virtual_mosque => 'Virtuális mecset';
 
   @override
-  String get no_mosque_in_selected_area => 'Couldn\'t find any mosques in the selected area';
+  String get no_mosque_in_selected_area => 'Nem találtunk mecsetet a kiválasztott területen.';
 
   @override
-  String get no_mosque_with => 'Couldn\'t find any mosques with';
+  String get no_mosque_with => 'Nem találtam olyan mecsetet, ahol';
 
   @override
-  String get retry => 'Retry';
+  String get retry => 'Újrapróbálkozás';
 
   @override
-  String get search_here => 'Search Here';
+  String get search_here => 'Keresés Itt';
 
   @override
-  String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
+  String get enter_at_least_3_char => 'Adj meg legalább 3 karaktert a kereséshez';
 
   @override
-  String get jumua1 => 'Jum\'a 1';
+  String get jumua1 => 'Pénteki ima 1';
 
   @override
   String get prayer_times => 'Imaidők';
@@ -314,19 +314,19 @@ class AppLocalizationsHu extends AppLocalizations {
   String get remove_this_city => 'Távolítsd el ezt a várost';
 
   @override
-  String get add_this_city => 'Add this city';
+  String get add_this_city => 'Add hozzá ezt a várost';
 
   @override
-  String get add_this_mosque => 'Add this mosque';
+  String get add_this_mosque => 'Add hozzá ezt a mecsetet';
 
   @override
-  String get remove_this_mosque => 'Remove this mosque';
+  String get remove_this_mosque => 'Távolítsd el ezt a mecsetet';
 
   @override
-  String get services => 'Services';
+  String get services => 'Szolgáltatások';
 
   @override
-  String get share => 'Share';
+  String get share => 'Megosztás';
 
   @override
   String get itinerary => 'Útvonalterv';
@@ -335,169 +335,169 @@ class AppLocalizationsHu extends AppLocalizations {
   String get call => 'Hívás';
 
   @override
-  String get dnd => 'Do Not Disturb';
+  String get dnd => 'Ne zavarjanak';
 
   @override
-  String get battery_optimize => 'Battery Optimization';
+  String get battery_optimize => 'Akkumulátoroptimalizálás';
 
   @override
-  String get power_saver => 'Power Saver';
+  String get power_saver => 'Energiatakarékos';
 
   @override
-  String get permission_message1 => 'We detected a delayed notification, Please turn off';
+  String get permission_message1 => 'Késleltetett értesítést észleltünk, kérjük kapcsold ki';
 
   @override
-  String get permission_message2 => 'to receive the notification on time.';
+  String get permission_message2 => 'hogy időben megkapd az értesítést.';
 
   @override
-  String get notifications_delay_detected => 'Notifications delay detected';
+  String get notifications_delay_detected => 'Értesítési késleltetés észlelve';
 
   @override
-  String get open_setting => 'Open settings';
+  String get open_setting => 'Beállítások megnyitása';
 
   @override
-  String get noJumua => 'No jum\'a';
+  String get noJumua => 'Nincs pénteki ima';
 
   @override
-  String get jumua => 'Jum\'a';
+  String get jumua => 'Pénteki ima';
 
   @override
-  String get qibla_sensor => 'Az Ön készülékében lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem működik a várt módon, ami befolyásolja a Qibla irányának megjelenítését.';
+  String get qibla_sensor => 'A készülékedben lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem az elvárt módon működik, ami befolyásolja a Qibla irányának megjelenítését.';
 
   @override
-  String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
+  String get connection_not_found => 'A iránytű kalibrálás beállítás ki van kapcsolva. Kérlek, győződj meg róla, hogy az interneted be van kapcsolva, és próbáld meg újra az irányod megváltoztatásával.';
 
   @override
-  String get currently_located_at => 'Currently located at';
+  String get currently_located_at => 'Jelenleg a következő címen található';
 
   @override
-  String get facing_makkah => 'You\'re facing Makkah';
+  String get facing_makkah => 'Mekka irányában állsz';
 
   @override
-  String get not_facing_Makkah => 'You\'re not facing Makkah';
+  String get not_facing_Makkah => 'Nem Mekka irányában állsz';
 
   @override
   String get qibla_Error_retry => 'Újrapróbálkozás';
 
   @override
-  String get qibla_Error_LocationDenied => 'Location service permission denied';
+  String get qibla_Error_LocationDenied => 'Helymeghatározási szolgáltatás engedélye megtagadva';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'Location service Denied Forever !';
+  String get qibla_Error_LocationDeniedForever => 'Helymeghatározási szolgáltatás örökre megtiltva !';
 
   @override
-  String get qibla_Error_PleaseEnable => 'Please enable Location service';
+  String get qibla_Error_PleaseEnable => 'Kérjük, engedélyezd a helymeghatározási szolgáltatást';
 
   @override
-  String get qibla_Direction => 'QIBLA \nDIRECTION';
+  String get qibla_Direction => 'QIBLA \nIRÁNY';
 
   @override
-  String get favorites_FavoriteMosques => 'Favorites mosques';
+  String get favorites_FavoriteMosques => 'Kedvenc mecsetek';
 
   @override
-  String get favorites_Error => 'Something went wrong...';
+  String get favorites_Error => 'Hiba történt.';
 
   @override
-  String get announcement_Image => 'Image';
+  String get announcement_Image => 'Kép';
 
   @override
-  String get announcement_Type_Video => 'Video';
+  String get announcement_Type_Video => 'Videó';
 
   @override
-  String get announcement_Type_FlashInfo => 'Flash Info';
+  String get announcement_Type_FlashInfo => 'Flash információ';
 
   @override
-  String get mosque_DonateText1 => 'DONATE';
+  String get mosque_DonateText1 => 'ADOMÁNYOZZ';
 
   @override
-  String get mosque_DonateText2 => 'TO MOSQUE';
+  String get mosque_DonateText2 => 'MECSETHEZ';
 
   @override
-  String get mosque_Error_CouldNotLaunch => 'Could not launch';
+  String get mosque_Error_CouldNotLaunch => 'Nem sikerült elindítani';
 
   @override
-  String get mosque_PrayerTimes => 'Prayer times';
+  String get mosque_PrayerTimes => 'Imaidők';
 
   @override
-  String get mosque_Website => 'Website';
+  String get mosque_Website => 'Honlap';
 
   @override
-  String get mosque_Address => 'Address';
+  String get mosque_Address => 'Cím';
 
   @override
-  String get mosque_Phone => 'Phone';
+  String get mosque_Phone => 'Telefon';
 
   @override
   String get mosque_Email => 'Email';
 
   @override
-  String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
+  String get mosque_ByMawaqit => 'Mawaqit által https://mawaqit.net';
 
   @override
-  String get mosque_Facilities_Parking => 'Parking';
+  String get mosque_Facilities_Parking => 'Parkolás';
 
   @override
-  String get mosque_Facilities_DisabledAccess => 'Disabled Access';
+  String get mosque_Facilities_DisabledAccess => 'Mozgáskorlátozottak hozzáférése';
 
   @override
-  String get mosque_Facilities_AblutionsRoom => 'Ablution Room';
+  String get mosque_Facilities_AblutionsRoom => 'Rituális mosakodóhelyíség';
 
   @override
-  String get mosque_Facilities_WomanSpace => 'Women Space';
+  String get mosque_Facilities_WomanSpace => 'Női tér';
 
   @override
-  String get mosque_Facilities_AdultsCourse => 'Adults Courses';
+  String get mosque_Facilities_AdultsCourse => 'Tanfolyamok Felnőttek Részére';
 
   @override
-  String get mosque_Facilities_ChildrenCourses => 'Children Courses';
+  String get mosque_Facilities_ChildrenCourses => 'Tanfolyamok Gyermekek Részére';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
+  String get mosque_Facilities_SalatAlAid => 'Ünnepi Ima';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'Salat Al Janaza';
+  String get mosque_Facilities_SalatAlJanaza => 'Halotti Ima';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'Iftar Ramadan';
+  String get mosques_Facilities_IftarRamadan => 'Ramadáni Böjtmegtörés ';
 
   @override
-  String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
+  String get mosque_facilities_Info => 'Mindezeket az információkat a mecsetért felelős személyek töltik ki.';
 
   @override
-  String get in_ => 'in';
+  String get in_ => 'ban';
 
   @override
-  String get imsak => 'Imsak';
+  String get imsak => 'A hajnal beköszöntével az evés és ivás abbahagyása';
 
   @override
-  String get eid => 'Eid prayer at';
+  String get eid => 'Ünnepi ima a';
 
   @override
-  String get minutes => 'Minutes';
+  String get minutes => 'Percek';
 
   @override
-  String get jumua2 => 'Jum\'a 2';
+  String get jumua2 => 'Pénteki Ima 2';
 
   @override
-  String get please_update => 'A newer version of MAWAQIT is available, please update';
+  String get please_update => 'Elérhető a Mawaqit újabb verziója, kérlek frissíts.';
 
   @override
-  String get update => 'Update';
+  String get update => 'Frissítés';
 
   @override
-  String get tutorial_skip => 'Skip tutorial';
+  String get tutorial_skip => 'A bemutató kihagyása';
 
   @override
   String get tutorial_next => 'Következő';
 
   @override
-  String get tutorial_title_main_mosque => 'Your main mosque';
+  String get tutorial_title_main_mosque => 'A fő mecseted';
 
   @override
-  String get tutorial_text_main_mosque => 'Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.';
+  String get tutorial_text_main_mosque => 'A fő mecseted itt jelenik meg.\nBalra és jobbra húzva válthatsz kedvenc mecseteid között.';
 
   @override
-  String get tutorial_title_countdown => 'Next prayer indicator';
+  String get tutorial_title_countdown => 'Következő ima jelző';
 
   @override
   String get tutorial_text_countdown => 'Ez a visszaszámláló mutatja a következő imáig hátralévő időt.';
@@ -506,61 +506,61 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_title_mosque_info => 'Mecset információ';
 
   @override
-  String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
+  String get tutorial_text_mosque_info => 'Minden a mecsetedről: Létesítmények, Cím, Telefonszám, e-mail, Adományozás és még sok egyéb informació.';
 
   @override
-  String get tutorial_title_announcements => 'Mecset üzenetek és bejelentések';
+  String get tutorial_title_announcements => 'Mecset üzenetei és bejelentései';
 
   @override
-  String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
+  String get tutorial_text_announcements => 'Értesítések a mecseted üzeneteiről és közleményeiről itt jelennek meg.  \nHa megérinted ezt a gombot, megtekintheted a teljes részleteket. Ezek a közlemények lehetnek villámüzenetek, képek vagy akár videók is.';
 
   @override
-  String get onboarding_title_1 => 'Select your language';
+  String get onboarding_title_1 => 'Válaszd ki a nyelved';
 
   @override
-  String get onboarding_text_1 => 'Select your preferred language from the list below';
+  String get onboarding_text_1 => 'Válaszd ki a kívánt nyelvet az alábbi listából';
 
   @override
-  String get onboarding_title_2 => 'Welcome to MAWAQIT';
+  String get onboarding_title_2 => 'Üdvözlünk a MAWAQIT-ban';
 
   @override
-  String get onboarding_text_2 => 'MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times';
+  String get onboarding_text_2 => 'A MAWAQIT egy ökoszisztéma, amely új módot kínál az imaidők nyomon követésére és kezelésére. Az alkalmazás, amely a kezedben van, ennek az ökoszisztémának a része, és lehetővé teszi, hogy mecseteket találj, valamint kövesd azok híreit és imaidőit.';
 
   @override
-  String get onboarding_title_3 => 'Select a Dark/Light theme';
+  String get onboarding_title_3 => 'Sötét/világos téma kiválasztása';
 
   @override
-  String get onboarding_text_3 => 'Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort';
+  String get onboarding_text_3 => 'Akár gyenge fényviszonyok között vagy, akár a sötétebb háttérszíneket részesíted előnyben a telefonodon, kihasználhatod a Sötét módot a jobb vizuális kényelem érdekében.';
 
   @override
   String get onboarding_title_4 => 'Add hozzá a fő mecseted';
 
   @override
-  String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
+  String get onboarding_text_4 => 'Kérlek, válaszd ki a fő mecsetedet az alábbi listából, vagy keress egy mecsetet a jelenlegi tartózkodási helyed közelében.';
 
   @override
-  String get loading => 'Loading';
+  String get loading => 'Betöltés';
 
   @override
-  String get loading_please_wait => 'Loading... Please wait';
+  String get loading_please_wait => 'Betöltés folyamatban... Kérjük, várj';
 
   @override
-  String get loading_loaded => 'Loading complete';
+  String get loading_loaded => 'Betöltés befejezve';
 
   @override
-  String get favorites_edit => 'Edit Favorite Mosques';
+  String get favorites_edit => 'Kedvenc mecsetek szerkesztése';
 
   @override
-  String get minutes_to_athan => 'minutes to athan';
+  String get minutes_to_athan => 'percek imárahívásig';
 
   @override
-  String get show_tutorial => 'Review the tutorial';
+  String get show_tutorial => 'A bemutató áttekintése';
 
   @override
-  String get onboarding_chose_mosque_please => 'Please choose a mosque from the search list';
+  String get onboarding_chose_mosque_please => 'Kérjük, válassz egy mecsetet a keresési listából';
 
   @override
-  String get done => 'Done';
+  String get done => 'Kész';
 
   @override
   String get ok => 'OK';
@@ -569,181 +569,181 @@ class AppLocalizationsHu extends AppLocalizations {
   String get km => 'km';
 
   @override
-  String get notification_open_app_title => 'Open the app';
+  String get notification_open_app_title => 'Nyisd meg az alkalmazást';
 
   @override
-  String get notification_open_app_body => 'Please open the app to maintain notifications';
+  String get notification_open_app_body => 'Kérlek, nyisd meg az alkalmazást az értesítések fenntartásához';
 
   @override
-  String get tutorial_title_notification => 'Select a prayer notification';
+  String get tutorial_title_notification => 'Válassz ki egy ima értesítést';
 
   @override
-  String get tutorial_text_notification => 'Here you can select a type of notification, Athan, bip or silent';
+  String get tutorial_text_notification => 'Itt kiválaszthatod az értesítés típusát: Imárahívás, bip vagy néma.';
 
   @override
-  String get search_no_result => 'Become a MAWAQIT ambassador and offer our solution to your mosque, it\'s free\nhttps://mawaqit.net';
+  String get search_no_result => 'Légy MAWAQIT nagykövet, és ajánld fel megoldásunkat a mecsetednek, ez ingyenes!  \nhttps://mawaqit.net';
 
   @override
-  String get rate_popin_title => 'Rate MAWAQIT';
+  String get rate_popin_title => 'Értékeld a MAWAQIT-ot';
 
   @override
-  String get rate_popin_message => 'If you like this app, please take a little bit of your time to review it !\nIt really helps us.';
+  String get rate_popin_message => 'Ha tetszik ez az alkalmazás, kérjük, szánj egy kis időt az értékelésére!  \nEz igazán sokat segít nekünk.';
 
   @override
-  String get rate_popin_rate => 'RATE';
+  String get rate_popin_rate => 'ÉRTÉKELÉS';
 
   @override
-  String get rate_popin_no => 'NO THANKS';
+  String get rate_popin_no => 'NEM KÖSZÖNÖM';
 
   @override
-  String get rate_popin_later => 'MAYBE LATER';
+  String get rate_popin_later => 'TALÁN KÉSŐBB';
 
   @override
-  String get message_see_all => 'You can view all messages from this mosque by clicking on the speaker at the top of the screen.';
+  String get message_see_all => 'Az összes üzenetet megtekintheted ettől a mecsettől, ha a képernyő tetején található hangszóróra kattintasz.';
 
   @override
-  String get adhan_Makkah => 'Makkah';
+  String get adhan_Makkah => 'Mekka';
 
   @override
-  String get tutorial_title_iqama => 'Iqama';
+  String get tutorial_title_iqama => 'Ima kezdete';
 
   @override
-  String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
+  String get tutorial_text_iqama => 'Itt találod az imárahívás és az ima kezdete közötti időtartamot a mecsetben.';
 
   @override
-  String get calendar_tooltip_download => 'Download calendar';
+  String get calendar_tooltip_download => 'Naptár letöltése';
 
   @override
   String get calendar_download_permission_refused => 'A letöltési engedély véglegesen megtagadva, kérlek, engedélyezd a letöltést';
 
   @override
-  String get calendar_downloading => 'Downloading calendar...';
+  String get calendar_downloading => 'Naptár letöltése...';
 
   @override
-  String get location_service_disabled => 'Location Service is disabled, please enable it.';
+  String get location_service_disabled => 'A helymeghatározási szolgáltatás le van tiltva, kérlek, engedélyezd.';
 
   @override
-  String get location_permission_denied => 'Location Permission Denied, please allow it.';
+  String get location_permission_denied => 'Helymeghatározási engedély megtagadva, kérlek, engedélyezd.';
 
   @override
-  String get location_permission_denied_forever => 'Location Permission Denied Forever, please allow it in the settings page.';
+  String get location_permission_denied_forever => 'A helymeghatározási engedély véglegesen megtagadva, kérlek, engedélyezd a beállítások oldalon.';
 
   @override
-  String get at_least_one_mosque_error => 'You should have at least one mosque.';
+  String get at_least_one_mosque_error => 'Legalább egy mecsetet kellene hozzáadnod.';
 
   @override
-  String get and => 'and';
+  String get and => 'és';
 
   @override
-  String get continue_to_app => 'Continue';
+  String get continue_to_app => 'Tovább';
 
   @override
-  String get add => 'Add';
+  String get add => 'Hozzáadás';
 
   @override
   String get mosque => 'Mecset';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'Keressük meg a legközelebbi mecsetet';
 
   @override
-  String get on_boarding_nearest_mosque_text => '';
+  String get on_boarding_nearest_mosque_text => 'Itt vannak a mecsetek, amelyek az Te földrajzi elhelyezkedése szerint találhatóak meg körülötted';
 
   @override
-  String get search_no_result_for_text => 'We did not find any result for';
+  String get search_no_result_for_text => 'Nem találtunk eredményt a';
 
   @override
-  String get surah_audio_downloading => 'Surah Audio Downloading...';
+  String get surah_audio_downloading => 'Szúrah Audiójának letöltése folyamatban...';
 
   @override
-  String get msg_internet_connection => 'You don\'t have any internet connection';
+  String get msg_internet_connection => 'Nem rendelkezel internetkapcsolattal';
 
   @override
-  String get read_quran => 'Read Quran';
+  String get read_quran => 'Korán olvasása';
 
   @override
-  String get ayahs => 'Ayahs';
+  String get ayahs => 'Áják';
 
   @override
-  String get chapter => 'Surah';
+  String get chapter => 'Szúrah';
 
   @override
-  String get meaning => 'Meaning';
+  String get meaning => 'Jelentése';
 
   @override
-  String get al_quran => 'Al Quran';
+  String get al_quran => 'A Korán';
 
   @override
   String get surah_information => 'Szúrah-val kapcsolatos Információ';
 
   @override
-  String get surah_number => 'Surah Number';
+  String get surah_number => 'Szúrah száma';
 
   @override
-  String get quran_browsing => 'Browsing';
+  String get quran_browsing => 'Böngészés';
 
   @override
-  String get quran_search_placeholder => 'Search by name of surah, number...';
+  String get quran_search_placeholder => 'Keresés a szúrah neve, száma alapján...';
 
   @override
-  String get quran_verse_search => 'Verse search';
+  String get quran_verse_search => 'Ája keresés';
 
   @override
-  String get quran_translation => 'Translation';
+  String get quran_translation => 'Fordítás';
 
   @override
-  String get quran_mushaf => 'Mushaf';
+  String get quran_mushaf => 'A Korán egy nyomtatott példánya';
 
   @override
-  String get quran_juzz => 'Juzz';
+  String get quran_juzz => 'Dzsuz';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'Ája';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'Áják';
 
   @override
-  String get surah => 'Surah';
+  String get surah => 'Szúrah';
 
   @override
-  String get continue_reading => 'Continue Reading';
+  String get continue_reading => 'Olvasás Folytatása';
 
   @override
-  String get bookmarks => 'Bookmarks';
+  String get bookmarks => 'Könyvjelzők';
 
   @override
-  String get juzz => 'Juzz';
+  String get juzz => 'Dzsuz';
 
   @override
-  String get quran_page => 'Page';
+  String get quran_page => 'Oldal';
 
   @override
-  String get quran_turning_page => 'Turning page';
+  String get quran_turning_page => 'Oldal lapozása';
 
   @override
-  String get quran_from_right_to_left => 'From right to left';
+  String get quran_from_right_to_left => 'Jobbról balra';
 
   @override
-  String get quran_from_left_to_right => 'From left to right';
+  String get quran_from_left_to_right => 'Balról jobbra';
 
   @override
-  String get quran_from_top_to_bottom => 'From top to bottom';
+  String get quran_from_top_to_bottom => 'Fentről lefelé';
 
   @override
-  String get quran_from_bottom_to_top => 'From bottom to top';
+  String get quran_from_bottom_to_top => 'Lentről felfelé';
 
   @override
-  String get quran_pages_color => 'Pages color';
+  String get quran_pages_color => 'Oldalak színe';
 
   @override
-  String get english_tr => 'English';
+  String get english_tr => 'Angol';
 
   @override
-  String get french_tr => 'French';
+  String get french_tr => 'Francia';
 
   @override
-  String get spanish_tr => 'Spanish';
+  String get spanish_tr => 'Spanyol';
 
   @override
   String get muhammad_hamidullah => 'Muhammad Hamidullah';
@@ -752,382 +752,382 @@ class AppLocalizationsHu extends AppLocalizations {
   String get abdullah_yusuf_ali => 'Abdullah Yusuf Ali';
 
   @override
-  String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
+  String get sheikh_isa_garcia => 'Sejk Isa Garcia';
 
   @override
-  String get reciters => 'Reciters';
+  String get reciters => 'Recitálók';
 
   @override
-  String get favorite_reciters => 'Favorite reciters';
+  String get favorite_reciters => 'Kedvenc recitálók';
 
   @override
-  String get surahs_downloaded => 'Surahs downloaded';
+  String get surahs_downloaded => 'Letöltött fejezetek';
 
   @override
-  String get surahs_chapter => 'Surahs - Chapter';
+  String get surahs_chapter => 'Szúrák - Fejezetek ';
 
   @override
-  String get my_likes => 'My Likes';
+  String get my_likes => 'Kedvenceim';
 
   @override
-  String get cancel => 'Cancel';
+  String get cancel => 'Mégse';
 
   @override
-  String get next => 'Next';
+  String get next => 'Következő';
 
   @override
-  String get search_surah => 'Search Surah';
+  String get search_surah => 'Szúrah keresése';
 
   @override
-  String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
+  String get not_downloaded_recitation => 'Még nem töltöttél le egyetlen recitációt sem.';
 
   @override
-  String get not_favorite_reciter => '.';
+  String get not_favorite_reciter => 'Még nem jelöltél meg kedvenc recitálót.';
 
   @override
-  String get search_reciter => 'Search Reciter';
+  String get search_reciter => 'Recitáló Keresése';
 
   @override
-  String get al_quran_al_kareem => 'Al Quran Al Kareem';
+  String get al_quran_al_kareem => 'A Kegyes Korán';
 
   @override
-  String get surahs => 'Surahs';
+  String get surahs => 'Szúrák';
 
   @override
-  String get chapters => 'Chapters';
+  String get chapters => 'Fejezetek';
 
   @override
-  String get calculation_info => 'The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.';
+  String get calculation_info => 'Ennek a szekciónak a beállításai kizárólag a földrajzi helyzeted alapján számított imaidőkre vonatkoznak, és nem érintik a mecsetek imaidőit.';
 
   @override
-  String get calculation_madhab => 'Jurisprudence - Madhab';
+  String get calculation_madhab => 'Vallásjogi irányzat - Madhab';
 
   @override
-  String get calculation_madhab_shafii => 'Shafi’i, Hanbali and Maliki';
+  String get calculation_madhab_shafii => 'Sáfi\'í, Hanbalí és Málikí';
 
   @override
-  String get calculation_madhab_shafii_countries => 'Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...';
+  String get calculation_madhab_shafii_countries => 'Jordánia, Palesztina, Jemen, Szomália, Eritrea, Malajzia, Indonézia, Brunei, Dél-Egyiptom, Szaúd-Arábia, Katar, Észak-Afrika, Nyugat-Afrika, Egyesült Arab Emírségek, Kuvait...';
 
   @override
   String get calculation_madhab_hanafi => 'Hanafi';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...';
+  String get calculation_madhab_hanafi_countries => 'Levante, Pakisztán, Afganisztán, India, Banglades, Irak, Törökország, Oroszország, Kína, Balkán...';
 
   @override
-  String get calculation_methods => 'Calculation methods';
+  String get calculation_methods => 'Számítási módszerek';
 
   @override
-  String get calculation_methods_france => 'Muslim of France (ex UOIF)';
+  String get calculation_methods_france => 'Muslims of France (korábban UOIF)';
 
   @override
-  String get calculation_methods_algeria => 'Algerian Ministry of Religious Affairs and Wakfs';
+  String get calculation_methods_algeria => 'Algériai Vallásügyi és Wakfok Minisztériuma';
 
   @override
-  String get calculation_methods_morocco => 'Moroccan Ministry of Wakfs and Islamic Affairs';
+  String get calculation_methods_morocco => 'Marokkói Wakfok és Iszlám Ügyek Minisztériuma';
 
   @override
-  String get calculation_methods_muslim_world => 'Muslim World League';
+  String get calculation_methods_muslim_world => 'Muszlim Világliga';
 
   @override
-  String get calculation_methods_egyptian => 'Egyptian General Authority of Survey';
+  String get calculation_methods_egyptian => 'Egyiptomi Felmérési Főhatóság';
 
   @override
-  String get calculation_methods_karachi => 'University of Islamic Sciences, Karachi';
+  String get calculation_methods_karachi => 'Iszlám Tudományok Egyeteme, Karacsi';
 
   @override
-  String get calculation_methods_umm_al_qura => 'Umm al-Qura University, Makkah';
+  String get calculation_methods_umm_al_qura => 'Umm al-Qura Egyetem, Mekka';
 
   @override
-  String get calculation_methods_dubai => 'The Gulf Region';
+  String get calculation_methods_dubai => 'Az Öböl-régió';
 
   @override
-  String get calculation_methods_moon => 'Moon Sighting Committee';
+  String get calculation_methods_moon => 'Holdmegfigyelő Bizottság';
 
   @override
-  String get calculation_methods_north_america => 'Islamic Society of North America';
+  String get calculation_methods_north_america => 'Észak-Amerikai Iszlám Társaság';
 
   @override
-  String get calculation_methods_kuwait => 'Kuwait';
+  String get calculation_methods_kuwait => 'Kuvait';
 
   @override
-  String get calculation_methods_qatar => 'Qatar';
+  String get calculation_methods_qatar => 'Katar';
 
   @override
-  String get calculation_methods_singapore => 'Singapore';
+  String get calculation_methods_singapore => 'Szingapúr';
 
   @override
-  String get calculation_methods_turkey => 'Turkey';
+  String get calculation_methods_turkey => 'Törökország';
 
   @override
-  String get calculation_methods_tehran => 'Institute of Geophysics, University of Tehran';
+  String get calculation_methods_tehran => 'Geofizikai Intézet, Teheráni Egyetem';
 
   @override
-  String get calculation_methods_russia => 'Spiritual Administration of Muslims in Russia';
+  String get calculation_methods_russia => 'Az oroszországi muszlimok sprituális igazgatósága';
 
   @override
-  String get calculation_methods_custom => 'Custom angles';
+  String get calculation_methods_custom => 'Egyedi szögek';
 
   @override
-  String get calculation_high_latitude => 'Higher latitudes';
+  String get calculation_high_latitude => 'Magasabb szélességek';
 
   @override
-  String get calculation_high_latitude_none => 'None';
+  String get calculation_high_latitude_none => 'Nincs';
 
   @override
-  String get calculation_high_latitude_middle => 'Middle of the night';
+  String get calculation_high_latitude_middle => 'Az éjszaka közepe';
 
   @override
-  String get calculation_high_latitude_one_seventh => 'One-seventh of the night';
+  String get calculation_high_latitude_one_seventh => 'Az éjszaka egyhetede';
 
   @override
-  String get calculation_high_latitude_angle_based => 'Angle based method';
+  String get calculation_high_latitude_angle_based => 'Szög alapú módszer';
 
   @override
-  String get calculation_adjustment => 'Manual correction';
+  String get calculation_adjustment => 'Manuális korrekció';
 
   @override
-  String get calculation_adjustment_subtitle => 'Prayer adjustment and custom angles';
+  String get calculation_adjustment_subtitle => 'Imaidő-beállítás és egyedi szögek';
 
   @override
-  String get calculation_adjustment_prayers => 'Prayer adjustments';
+  String get calculation_adjustment_prayers => 'Imaidő beállítások';
 
   @override
-  String get calculation_adjustment_prayers_minutes => 'minutes';
+  String get calculation_adjustment_prayers_minutes => 'percek';
 
   @override
-  String get calculation_adjustment_angles => 'Custom angles';
+  String get calculation_adjustment_angles => 'Egyedi szögek';
 
   @override
-  String get calculation_prayer_custom_angle => 'Custom angle for';
+  String get calculation_prayer_custom_angle => 'Egyedi szög a';
 
   @override
-  String get error_download_quran_failed => 'Failed to download Quran';
+  String get error_download_quran_failed => 'A Korán letöltése sikertelen';
 
   @override
-  String get downloading_quran => 'Downloading Quran...';
+  String get downloading_quran => 'Korán letöltése folyamatban...';
 
   @override
-  String get processing => 'Processing...';
+  String get processing => 'Feldolgozás...';
 
   @override
-  String get copied_to_clipboard => 'Copied to your clipboard !';
+  String get copied_to_clipboard => 'Vágólapodra másolva !';
 
   @override
-  String get download_quran_popup_title => 'Last touch ups';
+  String get download_quran_popup_title => 'Utolsó simítások';
 
   @override
-  String get download_quran_popup_downloading_1 => 'We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.';
+  String get download_quran_popup_downloading_1 => 'Le kell töltenünk a Korán oldalait, ez csak néhány másodpercet fog igénybe venni. A mobiladatodat fogjuk használni, szükség esetén válts át Wi-Fi-re.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'We are preparing the Qur’an just for you, please wait a few seconds!';
+  String get download_quran_popup_downloading_2 => 'A Koránt csak a Te számodra készítjük elő, kérlek, várj néhány másodpercet!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
+  String get download_quran_popup_downloading_3 => 'Fedezd fel a Korán szépségét! Érintsd meg a \"Letöltés\" gombot, hogy hozzáférjél a Korán időtlen bölcsességéhez, és ihletet meríts az isteni szavakból.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'Are you sure you want to cancel the download? Without this data you won\'t be able to read the Quran, the pages will be unavailable.';
+  String get download_quran_popup_confirm_cancel => 'Biztosan meg akarod szakítani a letöltést? Enélkül az adatok nélkül nem fogod tudni olvasni a Koránt, az oldalak nem lesznek elérhetők.';
 
   @override
-  String get download_quran_popup_cancelled => 'Something went wrong, please hit the download button again!';
+  String get download_quran_popup_cancelled => 'Valami hiba történt, kérlek nyomd meg újra a letöltés gombot!';
 
   @override
-  String get download => 'Download';
+  String get download => 'Letöltés';
 
   @override
-  String get continue_download => 'Continue the download';
+  String get continue_download => 'A letöltést folytatása';
 
   @override
-  String get cancel_download => 'Cancel the download';
+  String get cancel_download => 'A letöltés megszakítása';
 
   @override
-  String get download_completed => 'Download Completed';
+  String get download_completed => 'A letöltés befejeződött';
 
   @override
-  String get download_failed => 'Download Failed';
+  String get download_failed => 'A letöltés sikertelen';
 
   @override
-  String get download_pages => 'Download the pages';
+  String get download_pages => 'Az oldalak letöltése';
 
   @override
-  String get notification => 'Notification';
+  String get notification => 'Értesítés';
 
   @override
-  String get notification_not_supported_below_7 => 'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
+  String get notification_not_supported_below_7 => 'Nem tudtál imárahívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.';
 
   @override
-  String get battery_optimization => 'Battery optimization';
+  String get battery_optimization => 'Akkumulátor-optimalizálás';
 
   @override
-  String get battery_optimization_subtitle => 'To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.';
+  String get battery_optimization_subtitle => 'Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátor-optimalizálást a MAWAQIT alkalmazás számára.';
 
   @override
-  String get allow => 'Allow';
+  String get allow => 'Engedélyezés';
 
   @override
-  String get deny => 'Deny';
+  String get deny => 'Elutasítás';
 
   @override
-  String get force_notification => 'Force notifications';
+  String get force_notification => 'Értesítések kényszerítése';
 
   @override
-  String get tutorial_text_foreground_service => 'Tapping on it allows you to toggle the \'Foreground Service\' on or off';
+  String get tutorial_text_foreground_service => 'Rákattintva be- vagy kikapcsolhatod az „Előtérben futó szolgáltatást”.';
 
   @override
-  String get enable => 'ON';
+  String get enable => 'BE';
 
   @override
-  String get disable => 'OFF';
+  String get disable => 'KI';
 
   @override
-  String get do_not_show_again => 'Don\'t show it again';
+  String get do_not_show_again => 'Ne mutasd újra';
 
   @override
-  String get force_notification_title => 'MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.';
+  String get force_notification_title => 'A MAWAQIT aktív, hogy biztosítsa az imaidők értesítéseinek pontos időben történő megjelenését.';
 
   @override
-  String get force_notification_body => 'Bizony, az ima elvégzése a hívők számára meghatározott időpontokban előírt. An-Niszá: 103';
+  String get force_notification_body => 'Bizony, az ima elvégzése a hívők számára meghatározott időpontokban előírt. An-Niszá: (103)';
 
   @override
-  String get force_notification_dialog1_body => 'By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.';
+  String get force_notification_dialog1_body => 'Ennek az opciónak az engedélyezésével az alkalmazás aktív marad, hogy biztosítsa az imaidők értesítéseinek pontos és késedelem nélküli megjelenését. A MAWAQIT alkalmazás kizárólag erre a célra lesz aktív, és bármikor kikapcsolhatod ezt az opciót a beállításokban.';
 
   @override
-  String get force_notification_dialog2_body => 'After enabling the \'Force Notifications\' swipe down the notification tray you see this notification there';
+  String get force_notification_dialog2_body => 'A „Kényszerített értesítések” engedélyezése után húzd le az értesítési sávot, és ott látni fogod ezt az értesítést.';
 
   @override
-  String get notification_debugging => 'Notification Debugging';
+  String get notification_debugging => 'Értesítési hibakeresés';
 
   @override
-  String get notification_debugging_details => 'Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.';
+  String get notification_debugging_details => 'Az értesítési hibakeresés engedélyezve van. Ha módosítod az értesítési beállításokat, a hibakeresési adatok elvesznek, és a hibakeresés le lesz tiltva.';
 
   @override
-  String get skip => 'Skip';
+  String get skip => 'Kihagyás';
 
   @override
-  String get agree => 'Agree';
+  String get agree => 'Elfogadás';
 
   @override
-  String get return_no_search => 'Return no search';
+  String get return_no_search => 'Nincs találat';
 
   @override
-  String get backend_environment_switch => 'Backend environment switch';
+  String get backend_environment_switch => 'Háttér környezet váltása';
 
   @override
-  String get set_development_environment => 'Set Development Environment';
+  String get set_development_environment => 'Fejlesztési környezet beállítása';
 
   @override
-  String get set_production_environment => 'Set Production Environment';
+  String get set_production_environment => 'Éles környezet beállítása';
 
   @override
-  String get delay_notification => 'Delay notification';
+  String get delay_notification => 'Értesítések késleltetése';
 
   @override
-  String get notification_delay_debugging_is => 'Notification Delay debugging is';
+  String get notification_delay_debugging_is => 'Értesítési késleltetés hibakeresés';
 
   @override
-  String get banner_enable => 'Banner enable';
+  String get banner_enable => 'Szalagcím engedélyezése';
 
   @override
-  String get banner => 'Banner';
+  String get banner => 'Szalagcím';
 
   @override
-  String get show_details => 'Show Details';
+  String get show_details => 'Részletek megjelenítése';
 
   @override
-  String get auto_detect_location => 'Suggest nearest mosque';
+  String get auto_detect_location => 'Javasold a legközelebbi mecsetet';
 
   @override
-  String get auto_detect_explanation => 'When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.';
+  String get auto_detect_explanation => 'Amikor távol vagy a mecsetedtől, az alkalmazás automatikusan javasolni fogja a legközelebbi mecset keresését a tartózkodási helyed alapján.';
 
   @override
-  String get auto_detect_location_title => 'It seems you are distant from your mosque';
+  String get auto_detect_location_title => 'Úgy tűnik, távol vagy a mecsetedtől.';
 
   @override
-  String get auto_detect_location_message => 'Do you want to search for the nearest mosque for accurate prayer times?';
+  String get auto_detect_location_message => 'Szeretnéd megkeresni a legközelebbi mecsetet a pontos imaidőpontokért?';
 
   @override
-  String get donation_success_toast => 'Donation successfully done';
+  String get donation_success_toast => 'Az Adományozás sikeresen megtörtént';
 
   @override
-  String get donation_success => 'Thank you for your donation, may Allah reward you';
+  String get donation_success => 'Köszönjük az adományodat, Allah jutalmazzon meg érte!';
 
   @override
-  String get donation_failed => 'Donation Failed';
+  String get donation_failed => 'Az adományozás sikertelen';
 
   @override
-  String get donate_for_good => 'DONATE FOR GOOD';
+  String get donate_for_good => 'ADOMÁNYOZZ JÓTÉKONY CÉLRA';
 
   @override
-  String get enter_amount_hint => 'Enter amount';
+  String get enter_amount_hint => 'Összeg megadása';
 
   @override
-  String get enter_donation_amount => 'Enter donation amount';
+  String get enter_donation_amount => 'Add meg az adomány összegét';
 
   @override
-  String get google_pay_not_available => 'Google Pay is not available in this device';
+  String get google_pay_not_available => 'A Google Pay nem érhető el ezen a készüléken';
 
   @override
-  String get error_performing_donation => 'There was an error while trying to perform the donation';
+  String get error_performing_donation => 'Hiba történt az adományozás végrehajtása során';
 
   @override
-  String get recurring_pay_text => 'Make this donation monthly.';
+  String get recurring_pay_text => 'Tedd ezt az adományt havi rendszeressé.';
 
   @override
-  String get adjust_angles => 'Adjust Angles';
+  String get adjust_angles => 'Szögek beállítása';
 
   @override
-  String get silent => 'Silent';
+  String get silent => 'Néma';
 
   @override
-  String get default_ => 'Default';
+  String get default_ => 'Alapértelmezett';
 
   @override
-  String get muazzin => 'Muazzin';
+  String get muazzin => 'Imára hívó személy';
 
   @override
-  String get information => 'Information';
+  String get information => 'Információ';
 
   @override
-  String get news => 'News';
+  String get news => 'Hírek';
 
   @override
-  String get calendar => 'Calendar';
+  String get calendar => 'Naptár';
 
   @override
-  String get system => 'System';
+  String get system => 'Rendszer';
 
   @override
-  String get change_mosque_order => 'Drag and drop mosques to change order and to set the main mosque';
+  String get change_mosque_order => 'Húzd és ejtsd a mecseteket a sorrend megváltoztatásához és a fő mecset beállításához.';
 
   @override
-  String get remove => 'Remove';
+  String get remove => 'Eltávolítás';
 
   @override
-  String get save => 'Save';
+  String get save => 'Mentés';
 
   @override
-  String get main_mosque => 'Main mosque';
+  String get main_mosque => 'Fő mecset';
 
   @override
-  String get mosques => 'Mosques';
+  String get mosques => 'Mecsetek';
 
   @override
-  String get no_news => 'No news from the mosque';
+  String get no_news => 'Nincs hír a mecsettől.';
 
   @override
-  String get mawaqit_notification => 'Mawaqit Notification';
+  String get mawaqit_notification => 'Mawaqit Értesítés';
 
   @override
-  String get no_mawaqit_notification => 'No notification from Mawaqit';
+  String get no_mawaqit_notification => 'Nincs értesítés a Mawaqit-tól';
 
   @override
-  String get meccan => 'Meccan';
+  String get meccan => 'Mekkai';
 
   @override
-  String get medinan => 'Medinan';
+  String get medinan => 'Medínai';
 
   @override
-  String get montada_islamic_foundation => 'Montada Islamic Foundation';
+  String get montada_islamic_foundation => 'Montada Iszlám Alapítvány';
 
   @override
   String get rashid_maash => 'Rashid Maash';
@@ -1139,137 +1139,140 @@ class AppLocalizationsHu extends AppLocalizations {
   String get dr_mustafa_khattab => 'Dr. Mustafa Khattab';
 
   @override
-  String get frank_bubenheim_and_nadeem => 'Frank Bubenheim and Nadeem';
+  String get frank_bubenheim_and_nadeem => 'Frank Bubenheim és Nadeem';
 
   @override
   String get abu_reda_muhammad_ibn_ahmad => 'Abu Reda Muhammad ibn Ahmad';
 
   @override
-  String get unknown_author => 'Unknown Author';
+  String get unknown_author => 'Ismeretlen szerző';
 
   @override
-  String get translation_settings => 'Translation settings';
+  String get translation_settings => 'Fordítási beállítások';
 
   @override
-  String get reading => 'Reading';
+  String get reading => 'Olvasás';
 
   @override
-  String get listening => 'Listening';
+  String get listening => 'Hallgatás';
 
   @override
-  String get font_size => 'Font-size';
+  String get font_size => 'Betűméret';
 
   @override
-  String get font_size_arabic => 'Font-size Arabic';
+  String get font_size_arabic => 'Betűméret Arab';
 
   @override
-  String get horizontal => 'Horizontal';
+  String get horizontal => 'Vízszintes';
 
   @override
-  String get vertical => 'Vertical';
+  String get vertical => 'Függőleges';
 
   @override
-  String get add_page_bookmarks => 'Add page to bookmarks';
+  String get add_page_bookmarks => 'Oldal hozzáadása a könyvjelzőkhöz';
 
   @override
-  String get remove_page_bookmarks => 'Remove the page from bookmarks';
+  String get remove_page_bookmarks => 'Az oldal eltávolítása a könyvjelzőkből';
 
   @override
-  String get no_bookmarks => 'No bookmarks';
+  String get no_bookmarks => 'Nincsenek könyvjelzők';
 
   @override
-  String get liked => 'Liked';
+  String get liked => 'Kedvelve';
 
   @override
-  String get all_recitators => 'All recitators';
+  String get all_recitators => 'Minden recitáló';
 
   @override
-  String get downloaded => 'Downloaded';
+  String get downloaded => 'Letöltve';
 
   @override
-  String get search_for_recitator => 'Search for a recitator';
+  String get search_for_recitator => 'Recitáló keresése';
 
   @override
-  String get search_for_surah => 'Search for a surah';
+  String get search_for_surah => 'Szúrah keresése';
 
   @override
-  String get search_for_fav_recitator => 'Search for a favorite recitator';
+  String get search_for_fav_recitator => 'Kedvenc recitáló keresése';
 
   @override
-  String get listen_to_quran => 'LISTEN TO QURAN';
+  String get listen_to_quran => 'KORÁN HALLGATÁSA';
 
   @override
-  String get search_hint_text => 'Search for a mosque, or a city';
+  String get search_hint_text => 'Keress egy mecsetet, vagy egy várost';
 
   @override
-  String get downloading => 'Downloading';
+  String get downloading => 'Letöltés folyamatban';
 
   @override
-  String get cant_download_more_than_3 => 'Cannot download more than 3 at the same time.';
+  String get cant_download_more_than_3 => 'Egyszerre 3-nál többet nem lehet letölteni.';
 
   @override
-  String get boost => 'Boost';
+  String get boost => 'Gyorsítás';
 
   @override
-  String get recitation_deleted_successfully => 'Recitation deleted successfully';
+  String get recitation_deleted_successfully => 'Recitáció sikeresen letörölve';
 
   @override
-  String get quran => 'Quran';
+  String get quran => 'Korán';
 
   @override
-  String get qibla => 'Qibla';
+  String get qibla => 'Mekka iránya';
 
   @override
-  String get search => 'Search';
+  String get search => 'Keresés';
 
   @override
-  String get more => 'More';
+  String get more => 'Egyébb';
 
   @override
-  String get download_cancelled => 'Download cancelled';
+  String get download_cancelled => 'Letöltés megszakítva';
 
   @override
-  String get no_virtual_mosque_found => 'Sorry, we don\'t find any mosque around you';
+  String get no_virtual_mosque_found => 'Sajnálom, de nem találunk mecsetet a környékeden.';
 
   @override
-  String get no_surah_found => 'No surah found';
+  String get no_surah_found => 'Szúrah nem található ';
 
   @override
-  String get no_favorite_recitor_found => 'No favorite recitator found';
+  String get no_favorite_recitor_found => 'Kedvenc recitáló nem található';
 
   @override
-  String get no_recitator_found => 'No recitator found';
+  String get no_recitator_found => 'Recitáló nem található';
 
   @override
-  String get empty_quran_search => 'Search results will appear here';
+  String get empty_quran_search => 'A keresési eredmények itt jelennek meg';
 
   @override
-  String get no_bookmark_ayah => 'No bookmarks available. Please long-press on the ayah you wish to bookmark.';
+  String get no_bookmark_ayah => 'Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelezni szeretnél.';
 
   @override
-  String get page => 'Page';
+  String get page => 'Oldal';
 
   @override
-  String get prayer_times_in => 'Prayer times in';
+  String get prayer_times_in => 'Imaidők';
 
   @override
-  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+  String get update_new_version => 'A Korán új verziója elérhető letöltésre. Kattints a \'Frissítés\' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.';
 
   @override
-  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_quran_zip => 'A Korán új verziója elérhető letöltésre. Kattints a \'Frissítés\' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.';
 
   @override
-  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran_version => 'A Korán új verziója elérhető letöltésre. Kattints a \'Frissítés\' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.';
 
   @override
-  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran => 'A Korán új verziója elérhető letöltésre. Kattints a \'Frissítés\' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.';
 
   @override
-  String get set_notification_for_all_parayer => 'Set this for every prayer';
+  String get set_notification_for_all_parayer => 'Állítsd be ezt minden imára.';
 
   @override
-  String get powered_by_mawaqit => 'Készítette: MAWAQIT';
+  String get powered_by_mawaqit => 'MAWAQIT által üzemeltetve';
 
   @override
-  String get adjust_hijri_date => 'Állítsa be a hidzsri dátumot';
+  String get adjust_hijri_date => 'Hijri dátum beállítása';
+
+  @override
+  String get prayer_times_by_location => 'Imádkozási idők hely szerint';
 }

@@ -1272,4 +1272,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get adjust_hijri_date => 'Adjust Hijri Date';
+
+  @override
+  String get prayer_times_by_location => 'Prayer times by location';
 }

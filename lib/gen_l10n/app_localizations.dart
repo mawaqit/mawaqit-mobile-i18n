@@ -2668,6 +2668,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Adjust Hijri Date'**
   String get adjust_hijri_date;
+
+  /// No description provided for @prayer_times_by_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer times by location'**
+  String get prayer_times_by_location;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

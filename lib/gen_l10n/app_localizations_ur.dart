@@ -1272,4 +1272,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get adjust_hijri_date => 'ہجری تاریخ کو ایڈجسٹ کریں';
+
+  @override
+  String get prayer_times_by_location => 'مقام کے مطابق نماز کے اوقات';
 }

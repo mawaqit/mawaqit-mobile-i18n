@@ -1272,4 +1272,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get adjust_hijri_date => 'Настроить дату Хиджры';
+
+  @override
+  String get prayer_times_by_location => 'Время молитвы по местоположению';
 }

@@ -948,5 +948,6 @@
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
-    "adjust_hijri_date": "Säädä Hijri Päivämäärää"
+    "adjust_hijri_date": "Säädä Hijri Päivämäärää",
+    "prayer_times_by_location": "Rukousajat sijainnin mukaan"
 }

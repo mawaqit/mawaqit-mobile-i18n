@@ -948,5 +948,6 @@
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
-    "adjust_hijri_date": "Hicri Tarihi Ayarla"
+    "adjust_hijri_date": "Hicri Tarihi Ayarla",
+    "prayer_times_by_location": "Konuma göre namaz vakitleri"
 }

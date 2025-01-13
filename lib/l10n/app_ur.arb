@@ -948,5 +948,6 @@
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
-    "adjust_hijri_date": "ہجری تاریخ کو ایڈجسٹ کریں"
+    "adjust_hijri_date": "ہجری تاریخ کو ایڈجسٹ کریں",
+    "prayer_times_by_location": "مقام کے مطابق نماز کے اوقات"
 }
