@@ -77,7 +77,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get bismillah => 'Allah nevében';
 
   @override
-  String get settings_DonateToMawaqit => 'Adományozz Mawaqítnak';
+  String get settings_DonateToMawaqit => 'Adományozz Mawaqitnak';
 
   @override
   String get settings_CheckForUpdates => 'Ellenőrizd a frissítéseket';
@@ -161,13 +161,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_PrayerNotification_Bip => 'Beep csengőhang alkalmazása értesítéskor.';
 
   @override
-  String get adhan => 'Imárahívás';
+  String get adhan => 'Imára hívás';
 
   @override
   String get adhan_Makkah_fajr => 'Mekka (hajnali ima)';
 
   @override
-  String get adhan_Madinah => 'Medína';
+  String get adhan_Madinah => 'Medina';
 
   @override
   String get adhan_Qods => 'Jeruzsálem';
@@ -212,7 +212,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_iOs14_message => 'A GPS használata iOS 14-en némi időt vehet igénybe, kérlek várj.';
 
   @override
-  String get search_error => 'Hoppá, belső hiba történt\'';
+  String get search_error => 'Hoppá, belső hiba történt';
 
   @override
   String get search_your_location => 'A tartózkodási helyed';
@@ -272,7 +272,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get mosques_with => 'Mecsetek, ahol';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'Engedélyezd Mawaqit számára, hogy hozzáférjen a tartózkodási helyemhez.';
+  String get allow_mawaqit_to_access_my_location => 'Engedélyezd a Mawaqit számára, hogy hozzáférjen a tartózkodási helyedhez.';
 
   @override
   String get enable_location_service_from_app_settings => 'Engedélyezd a helymeghatározási szolgáltatást az alkalmazás beállításaiban.';
@@ -299,7 +299,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get retry => 'Újrapróbálkozás';
 
   @override
-  String get search_here => 'Keresés Itt';
+  String get search_here => 'Keresés itt';
 
   @override
   String get enter_at_least_3_char => 'Adj meg legalább 3 karaktert a kereséshez';
@@ -491,10 +491,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_next => 'Következő';
 
   @override
-  String get tutorial_title_main_mosque => 'A fő mecseted';
+  String get tutorial_title_main_mosque => 'A főmecseted';
 
   @override
-  String get tutorial_text_main_mosque => 'A fő mecseted itt jelenik meg.\nBalra és jobbra húzva válthatsz kedvenc mecseteid között.';
+  String get tutorial_text_main_mosque => 'A főmecseted itt jelenik meg.\nBalra és jobbra húzva válthatsz kedvenc mecseteid között.';
 
   @override
   String get tutorial_title_countdown => 'Következő ima időpontja';
@@ -533,7 +533,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get onboarding_text_3 => 'Akár gyenge fényviszonyok között vagy, akár a sötétebb háttérszíneket részesíted előnyben a telefonodon, kihasználhatod a sötét módot a jobb vizuális kényelem érdekében.';
 
   @override
-  String get onboarding_title_4 => 'Add hozzá a fő mecseted';
+  String get onboarding_title_4 => 'Add hozzá a főmecseted';
 
   @override
   String get onboarding_text_4 => 'Kérlek, válaszd ki a fő mecsetedet az alábbi listából, vagy keress egy mecsetet a jelenlegi tartózkodási helyed közelében.';
@@ -776,7 +776,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get next => 'Következő';
 
   @override
-  String get search_surah => 'Szúrah keresése';
+  String get search_surah => 'Szúra keresése';
 
   @override
   String get not_downloaded_recitation => 'Még nem töltöttél le egyetlen recitációt sem.';
@@ -785,7 +785,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get not_favorite_reciter => 'Még nem jelöltél meg kedvenc recitálót.';
 
   @override
-  String get search_reciter => 'Recitáló Keresése';
+  String get search_reciter => 'Recitáló keresése';
 
   @override
   String get al_quran_al_kareem => 'A Kegyes Korán';
@@ -812,7 +812,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get calculation_madhab_hanafi => 'Hanafi';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'Levante, Pakisztán, Afganisztán, India, Banglades, Irak, Törökország, Oroszország, Kína, Balkán...';
+  String get calculation_madhab_hanafi_countries => 'Közel-Kelet, Pakisztán, Afganisztán, India, Banglades, Irak, Törökország, Oroszország, Kína, Balkán...';
 
   @override
   String get calculation_methods => 'Számítási módszerek';
@@ -863,7 +863,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get calculation_methods_tehran => 'Geofizikai Intézet, Teheráni Egyetem';
 
   @override
-  String get calculation_methods_russia => 'Az oroszországi muszlimok sprituális igazgatósága';
+  String get calculation_methods_russia => 'Oroszországi Muszlimok Sprituális Igazgatósága';
 
   @override
   String get calculation_methods_custom => 'Egyedi szögek';
@@ -890,7 +890,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get calculation_adjustment_subtitle => 'Imaidő-beállítás és egyedi szögek';
 
   @override
-  String get calculation_adjustment_prayers => 'Imaidő beállítások';
+  String get calculation_adjustment_prayers => 'Imaidő- beállítások';
 
   @override
   String get calculation_adjustment_prayers_minutes => 'percek';
@@ -1070,7 +1070,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get error_performing_donation => 'Hiba történt az adományozás végrehajtása során';
 
   @override
-  String get recurring_pay_text => 'Tedd ezt az adományt havi rendszeressé.';
+  String get recurring_pay_text => 'Tedd ezt az adományt rendszeressé havonta.';
 
   @override
   String get adjust_angles => 'Szögek beállítása';
@@ -1082,7 +1082,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get default_ => 'Alapértelmezett';
 
   @override
-  String get muazzin => 'Imára hívó személy';
+  String get muazzin => 'Müezzin';
 
   @override
   String get information => 'Információ';
@@ -1097,7 +1097,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get system => 'Rendszer';
 
   @override
-  String get change_mosque_order => 'Húzd és ejtsd a mecseteket a sorrend megváltoztatásához és a fő mecset beállításához.';
+  String get change_mosque_order => 'Húzd és ejtsd a mecseteket a sorrend megváltoztatásához és a főmecset beállításához.';
 
   @override
   String get remove => 'Eltávolítás';
@@ -1106,7 +1106,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get save => 'Mentés';
 
   @override
-  String get main_mosque => 'Fő mecset';
+  String get main_mosque => 'Főmecset';
 
   @override
   String get mosques => 'Mecsetek';
@@ -1115,16 +1115,16 @@ class AppLocalizationsHu extends AppLocalizations {
   String get no_news => 'Nincs hír a mecsettől.';
 
   @override
-  String get mawaqit_notification => 'Mawaqit Értesítés';
+  String get mawaqit_notification => 'Mawaqit értesítés';
 
   @override
-  String get no_mawaqit_notification => 'Nincs értesítés a Mawaqit-tól';
+  String get no_mawaqit_notification => 'Nincs értesítés a Mawaqittól';
 
   @override
   String get meccan => 'Mekkai';
 
   @override
-  String get medinan => 'Medínai';
+  String get medinan => 'Medinai';
 
   @override
   String get montada_islamic_foundation => 'Montada Iszlám Alapítvány';
@@ -1160,7 +1160,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get font_size => 'Betűméret';
 
   @override
-  String get font_size_arabic => 'Betűméret Arab';
+  String get font_size_arabic => 'Betűméret arab';
 
   @override
   String get horizontal => 'Vízszintes';
@@ -1190,7 +1190,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search_for_recitator => 'Recitáló keresése';
 
   @override
-  String get search_for_surah => 'Szúrah keresése';
+  String get search_for_surah => 'Szúra keresése';
 
   @override
   String get search_for_fav_recitator => 'Kedvenc recitáló keresése';
@@ -1211,7 +1211,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get boost => 'Gyorsítás';
 
   @override
-  String get recitation_deleted_successfully => 'Recitáció sikeresen letörölve';
+  String get recitation_deleted_successfully => 'Recitáció sikeresen törölve';
 
   @override
   String get quran => 'Korán';
@@ -1223,13 +1223,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get search => 'Keresés';
 
   @override
-  String get more => 'Egyébb';
+  String get more => 'Egyéb';
 
   @override
   String get download_cancelled => 'Letöltés megszakítva';
 
   @override
-  String get no_virtual_mosque_found => 'Sajnálom, de nem találunk mecsetet a környékeden.';
+  String get no_virtual_mosque_found => 'Sajnálom, de nem találunk mecsetet a közeledben.';
 
   @override
   String get no_surah_found => 'Szúra nem található ';
