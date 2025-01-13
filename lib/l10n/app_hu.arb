@@ -80,7 +80,7 @@
         "type": "text"
     },
     "settings_WhatsNew": "Újdonságok",
-    "settings_SupportMawaqit": "Támogasd a Mawaqítot",
+    "settings_SupportMawaqit": "Támogasd a Mawaqitot",
     "settings_News": "Hírek",
     "settings_MakeADonation": "Adományozz",
     "bismillah": "Allah nevében",
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "percek imárahívásig",
+    "minutes_to_athan": "percek imára hívásig",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -626,12 +626,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Válassz ki egy ima értesítést",
+    "tutorial_title_notification": "Válassz ki egy imaértesítést",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Itt kiválaszthatod az értesítés típusát: Imárahívás, bip vagy néma.",
+    "tutorial_text_notification": "Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma.",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -641,7 +641,7 @@
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Értékeld a MAWAQIT-ot",
+    "rate_popin_title": "Értékeld a MAWAQITot",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Itt találod az imárahívás és az ima kezdete közötti időtartamot a mecsetben.",
+    "tutorial_text_iqama": "Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben.",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -716,33 +716,33 @@
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "Legalább egy mecsetet kellene hozzáadnod.",
+    "at_least_one_mosque_error": "Legalább egy mecsetet hozzá kell adnod.",
     "and": "és",
     "continue_to_app": "Tovább",
     "add": "Hozzáadás",
     "mosque": "Mecset",
     "on_boarding_nearest_mosque": "Keressük meg a legközelebbi mecsetet",
     "on_boarding_nearest_mosque_text": "Itt vannak a mecsetek, amelyek az Te földrajzi elhelyezkedése szerint találhatóak meg körülötted",
-    "search_no_result_for_text": "Nem találtunk eredményt a",
-    "surah_audio_downloading": "Szúrah Audiójának letöltése folyamatban...",
+    "search_no_result_for_text": "Nem találtunk eredményt",
+    "surah_audio_downloading": "Szúrah audiójának letöltése folyamatban...",
     "msg_internet_connection": "Nem rendelkezel internetkapcsolattal",
     "read_quran": "Korán olvasása",
     "ayahs": "Áják",
-    "chapter": "Szúrah",
+    "chapter": "Szúra",
     "meaning": "Jelentése",
     "al_quran": "A Korán",
     "surah_information": "Szúrah-val kapcsolatos Információ",
-    "surah_number": "Szúrah száma",
+    "surah_number": "Szúra száma",
     "quran_browsing": "Böngészés",
-    "quran_search_placeholder": "Keresés a szúrah neve, száma alapján...",
+    "quran_search_placeholder": "Keresés a szúra neve, száma alapján...",
     "quran_verse_search": "Ája keresés",
     "quran_translation": "Fordítás",
     "quran_mushaf": "A Korán egy nyomtatott példánya",
     "quran_juzz": "Dzsuz",
     "ayah": "Ája",
     "quran_verses": "Áják",
-    "surah": "Szúrah",
-    "continue_reading": "Olvasás Folytatása",
+    "surah": "Szúra",
+    "continue_reading": "Olvasás folytatása",
     "bookmarks": "Könyvjelzők",
     "juzz": "Dzsuz",
     "quran_page": "Oldal",
@@ -813,7 +813,7 @@
     "copied_to_clipboard": "Vágólapodra másolva !",
     "download_quran_popup_title": "Utolsó simítások",
     "download_quran_popup_downloading_1": "Le kell töltenünk a Korán oldalait, ez csak néhány másodpercet fog igénybe venni. A mobiladatodat fogjuk használni, szükség esetén válts át Wi-Fi-re.",
-    "download_quran_popup_downloading_2": "A Koránt csak a Te számodra készítjük elő, kérlek, várj néhány másodpercet!",
+    "download_quran_popup_downloading_2": "A Koránt csak számodra készítjük elő, kérlek, várj néhány másodpercet!",
     "download_quran_popup_downloading_3": "Fedezd fel a Korán szépségét! Érintsd meg a \"Letöltés\" gombot, hogy hozzáférjél a Korán időtlen bölcsességéhez, és ihletet meríts az isteni szavakból.",
     "download_quran_popup_confirm_cancel": "Biztosan meg akarod szakítani a letöltést? Enélkül az adatok nélkül nem fogod tudni olvasni a Koránt, az oldalak nem lesznek elérhetők.",
     "download_quran_popup_cancelled": "Valami hiba történt, kérlek nyomd meg újra a letöltés gombot!",
@@ -824,9 +824,9 @@
     "download_failed": "A letöltés sikertelen",
     "download_pages": "Az oldalak letöltése",
     "notification": "Értesítés",
-    "notification_not_supported_below_7": "Nem tudtál imárahívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.",
-    "battery_optimization": "Akkumulátor-optimalizálás",
-    "battery_optimization_subtitle": "Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátor-optimalizálást a MAWAQIT alkalmazás számára.",
+    "notification_not_supported_below_7": "Nem tudtál imára hívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.",
+    "battery_optimization": "Akkumulátoroptimalizálás",
+    "battery_optimization_subtitle": "Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátoroptimalizálást a MAWAQIT alkalmazás számára.",
     "allow": "Engedélyezés",
     "deny": "Elutasítás",
     "force_notification": "Értesítések kényszerítése",
@@ -855,7 +855,7 @@
     "auto_detect_explanation": "Amikor távol vagy a mecsetedtől, az alkalmazás automatikusan javasolni fogja a legközelebbi mecset keresését a tartózkodási helyed alapján.",
     "auto_detect_location_title": "Úgy tűnik, távol vagy a mecsetedtől.",
     "auto_detect_location_message": "Szeretnéd megkeresni a legközelebbi mecsetet a pontos imaidőpontokért?",
-    "donation_success_toast": "Az Adományozás sikeresen megtörtént",
+    "donation_success_toast": "Az adományozás sikeresen megtörtént",
     "donation_success": "Köszönjük az adományodat, Allah jutalmazzon meg érte!",
     "donation_failed": "Az adományozás sikertelen",
     "donate_for_good": "ADOMÁNYOZZ JÓTÉKONY CÉLRA",
@@ -917,11 +917,11 @@
     "more": "Egyébb",
     "download_cancelled": "Letöltés megszakítva",
     "no_virtual_mosque_found": "Sajnálom, de nem találunk mecsetet a környékeden.",
-    "no_surah_found": "Szúrah nem található ",
+    "no_surah_found": "Szúra nem található ",
     "no_favorite_recitor_found": "Kedvenc recitáló nem található",
     "no_recitator_found": "Recitáló nem található",
     "empty_quran_search": "A keresési eredmények itt jelennek meg",
-    "no_bookmark_ayah": "Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelezni szeretnél.",
+    "no_bookmark_ayah": "Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelzőzni szeretnél.",
     "page": "Oldal",
     "prayer_times_in": "Imaidők",
     "update_new_version": "A Korán új verziója elérhető letöltésre. Kattints a 'Frissítés' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.",
@@ -949,5 +949,5 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Hijri dátum beállítása",
-    "prayer_times_by_location": "Imádkozási idők hely szerint"
+    "prayer_times_by_location": "Imaidők hely szerint"
 }
