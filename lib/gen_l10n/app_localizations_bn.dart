@@ -1271,5 +1271,8 @@ class AppLocalizationsBn extends AppLocalizations {
   String get powered_by_mawaqit => 'Powered by MAWAQIT';
 
   @override
-  String get adjust_hijri_date => 'হিজরি তারিখ সমন্বয় করুন';
+  String get adjust_hijri_date => 'অবস্থান অনুযায়ী নামাজের সময়';
+
+  @override
+  String get prayer_times_by_location => 'Prayer times by location';
 }

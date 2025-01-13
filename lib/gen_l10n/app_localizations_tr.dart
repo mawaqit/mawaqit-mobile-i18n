@@ -1272,4 +1272,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get adjust_hijri_date => 'Hicri Tarihi Ayarla';
+
+  @override
+  String get prayer_times_by_location => 'Konuma göre namaz vakitleri';
 }

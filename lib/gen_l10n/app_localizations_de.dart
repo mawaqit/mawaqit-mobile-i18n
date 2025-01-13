@@ -1272,4 +1272,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get adjust_hijri_date => 'Hijri-Datum anpassen';
+
+  @override
+  String get prayer_times_by_location => 'Gebetszeiten nach Standort';
 }
