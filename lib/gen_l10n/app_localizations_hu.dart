@@ -65,7 +65,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_WhatsNew => 'Újdonságok';
 
   @override
-  String get settings_SupportMawaqit => 'Támogasd a Mawaqítot';
+  String get settings_SupportMawaqit => 'Támogasd a Mawaqitot';
 
   @override
   String get settings_News => 'Hírek';
@@ -551,7 +551,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get favorites_edit => 'Kedvenc mecsetek szerkesztése';
 
   @override
-  String get minutes_to_athan => 'percek imárahívásig';
+  String get minutes_to_athan => 'percek imára hívásig';
 
   @override
   String get show_tutorial => 'A bemutató áttekintése';
@@ -575,16 +575,16 @@ class AppLocalizationsHu extends AppLocalizations {
   String get notification_open_app_body => 'Kérlek, nyisd meg az alkalmazást az értesítések fenntartásához';
 
   @override
-  String get tutorial_title_notification => 'Válassz ki egy ima értesítést';
+  String get tutorial_title_notification => 'Válassz ki egy imaértesítést';
 
   @override
-  String get tutorial_text_notification => 'Itt kiválaszthatod az értesítés típusát: Imárahívás, bip vagy néma.';
+  String get tutorial_text_notification => 'Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma.';
 
   @override
   String get search_no_result => 'Légy MAWAQIT nagykövet, és ajánld fel megoldásunkat a mecsetednek, ez ingyenes!  \nhttps://mawaqit.net';
 
   @override
-  String get rate_popin_title => 'Értékeld a MAWAQIT-ot';
+  String get rate_popin_title => 'Értékeld a MAWAQITot';
 
   @override
   String get rate_popin_message => 'Ha tetszik ez az alkalmazás, kérjük, szánj egy kis időt az értékelésére!  \nEz igazán sokat segít nekünk.';
@@ -608,7 +608,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_title_iqama => 'Ima kezdete';
 
   @override
-  String get tutorial_text_iqama => 'Itt találod az imárahívás és az ima kezdete közötti időtartamot a mecsetben.';
+  String get tutorial_text_iqama => 'Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben.';
 
   @override
   String get calendar_tooltip_download => 'Naptár letöltése';
@@ -629,7 +629,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get location_permission_denied_forever => 'A helymeghatározási engedély véglegesen megtagadva, kérlek, engedélyezd a beállítások oldalon.';
 
   @override
-  String get at_least_one_mosque_error => 'Legalább egy mecsetet kellene hozzáadnod.';
+  String get at_least_one_mosque_error => 'Legalább egy mecsetet hozzá kell adnod.';
 
   @override
   String get and => 'és';
@@ -650,10 +650,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get on_boarding_nearest_mosque_text => 'Itt vannak a mecsetek, amelyek az Te földrajzi elhelyezkedése szerint találhatóak meg körülötted';
 
   @override
-  String get search_no_result_for_text => 'Nem találtunk eredményt a';
+  String get search_no_result_for_text => 'Nem találtunk eredményt';
 
   @override
-  String get surah_audio_downloading => 'Szúrah Audiójának letöltése folyamatban...';
+  String get surah_audio_downloading => 'Szúrah audiójának letöltése folyamatban...';
 
   @override
   String get msg_internet_connection => 'Nem rendelkezel internetkapcsolattal';
@@ -665,7 +665,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get ayahs => 'Áják';
 
   @override
-  String get chapter => 'Szúrah';
+  String get chapter => 'Szúra';
 
   @override
   String get meaning => 'Jelentése';
@@ -677,13 +677,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get surah_information => 'Szúrah-val kapcsolatos Információ';
 
   @override
-  String get surah_number => 'Szúrah száma';
+  String get surah_number => 'Szúra száma';
 
   @override
   String get quran_browsing => 'Böngészés';
 
   @override
-  String get quran_search_placeholder => 'Keresés a szúrah neve, száma alapján...';
+  String get quran_search_placeholder => 'Keresés a szúra neve, száma alapján...';
 
   @override
   String get quran_verse_search => 'Ája keresés';
@@ -704,10 +704,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get quran_verses => 'Áják';
 
   @override
-  String get surah => 'Szúrah';
+  String get surah => 'Szúra';
 
   @override
-  String get continue_reading => 'Olvasás Folytatása';
+  String get continue_reading => 'Olvasás folytatása';
 
   @override
   String get bookmarks => 'Könyvjelzők';
@@ -920,7 +920,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get download_quran_popup_downloading_1 => 'Le kell töltenünk a Korán oldalait, ez csak néhány másodpercet fog igénybe venni. A mobiladatodat fogjuk használni, szükség esetén válts át Wi-Fi-re.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'A Koránt csak a Te számodra készítjük elő, kérlek, várj néhány másodpercet!';
+  String get download_quran_popup_downloading_2 => 'A Koránt csak számodra készítjük elő, kérlek, várj néhány másodpercet!';
 
   @override
   String get download_quran_popup_downloading_3 => 'Fedezd fel a Korán szépségét! Érintsd meg a \"Letöltés\" gombot, hogy hozzáférjél a Korán időtlen bölcsességéhez, és ihletet meríts az isteni szavakból.';
@@ -953,13 +953,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get notification => 'Értesítés';
 
   @override
-  String get notification_not_supported_below_7 => 'Nem tudtál imárahívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.';
+  String get notification_not_supported_below_7 => 'Nem tudtál imára hívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.';
 
   @override
-  String get battery_optimization => 'Akkumulátor-optimalizálás';
+  String get battery_optimization => 'Akkumulátoroptimalizálás';
 
   @override
-  String get battery_optimization_subtitle => 'Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátor-optimalizálást a MAWAQIT alkalmazás számára.';
+  String get battery_optimization_subtitle => 'Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátoroptimalizálást a MAWAQIT alkalmazás számára.';
 
   @override
   String get allow => 'Engedélyezés';
@@ -1046,7 +1046,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get auto_detect_location_message => 'Szeretnéd megkeresni a legközelebbi mecsetet a pontos imaidőpontokért?';
 
   @override
-  String get donation_success_toast => 'Az Adományozás sikeresen megtörtént';
+  String get donation_success_toast => 'Az adományozás sikeresen megtörtént';
 
   @override
   String get donation_success => 'Köszönjük az adományodat, Allah jutalmazzon meg érte!';
@@ -1232,7 +1232,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get no_virtual_mosque_found => 'Sajnálom, de nem találunk mecsetet a környékeden.';
 
   @override
-  String get no_surah_found => 'Szúrah nem található ';
+  String get no_surah_found => 'Szúra nem található ';
 
   @override
   String get no_favorite_recitor_found => 'Kedvenc recitáló nem található';
@@ -1244,7 +1244,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get empty_quran_search => 'A keresési eredmények itt jelennek meg';
 
   @override
-  String get no_bookmark_ayah => 'Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelezni szeretnél.';
+  String get no_bookmark_ayah => 'Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelzőzni szeretnél.';
 
   @override
   String get page => 'Oldal';
@@ -1274,5 +1274,5 @@ class AppLocalizationsHu extends AppLocalizations {
   String get adjust_hijri_date => 'Hijri dátum beállítása';
 
   @override
-  String get prayer_times_by_location => 'Imádkozási idők hely szerint';
+  String get prayer_times_by_location => 'Imaidők hely szerint';
 }
