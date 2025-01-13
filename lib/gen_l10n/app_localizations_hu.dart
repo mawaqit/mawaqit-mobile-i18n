@@ -41,13 +41,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_Theme => 'Téma';
 
   @override
-  String get settings_TimeFormat12H => '12H';
+  String get settings_TimeFormat12H => '12 h';
 
   @override
-  String get settings_TimeFormat24H => '24H';
+  String get settings_TimeFormat24H => '24 h';
 
   @override
-  String get settings_PrayerNotifications => 'Ima Értesítések';
+  String get settings_PrayerNotifications => 'Imaértesítések';
 
   @override
   String get settings_PrayerPreNotifications => 'Ima előtti értesítés';
@@ -65,7 +65,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_WhatsNew => 'Újdonságok';
 
   @override
-  String get settings_SupportMawaqit => 'Támogasd a Mawaqít-ot';
+  String get settings_SupportMawaqit => 'Támogasd a Mawaqítot';
 
   @override
   String get settings_News => 'Hírek';
@@ -77,7 +77,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get bismillah => 'Allah nevében';
 
   @override
-  String get settings_DonateToMawaqit => 'Adományozz Mawaqít-nak';
+  String get settings_DonateToMawaqit => 'Adományozz Mawaqítnak';
 
   @override
   String get settings_CheckForUpdates => 'Ellenőrizd a frissítéseket';
@@ -128,28 +128,28 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_language_pl => 'Lengyel';
 
   @override
-  String get settings_CreditsText => 'Szerzői jog © 2021 MAWAQIT for The MAWAQIT Alapítvány számára. Minden jog fenntartva.  \n\nAz alkalmazás, valamint bővítményei, kiegészítői vagy tartalmai szellemi tulajdonjogai és szerzői jogai a MAWAQIT for The MAWAQIT egyesület tulajdonát képezik.  \n\nEz a verzió kizárólag jótékony célú terjesztésre van engedélyezve, és Waqf-nak minősül. Bármilyen kereskedelmi célú felhasználása vagy kereskedelmi terjesztése szigorúan tilos.  \n\nEz az engedély nem jelent vagy tartalmazza – semmilyen formában – a termékhez, annak bármely részéhez, bővítményeihez, kiegészítőihez vagy tartalmaihoz kapcsolódó jogok eladását. Ehelyett ez az engedély kizárólag az alkalmazás jótékony célú terjesztését engedélyezi a jelenlegi alkalmazásáruház-platformon keresztül.  \nAz alkalmazás forráskódjának vagy bináris fájljainak újraterjesztése, illetve visszafejtése, akár módosításokkal, akár anélkül, a szerzői jogsértés elkövetőjét vagy felelősét jogi lépéseknek teszi ki. \n\nEgyetlen fél sem jogosult az alkalmazás újraterjesztésére az Apple vagy a Google Play hivatalos áruházain kívül, kivéve, ha a szerzői jog tulajdonosától és az alkalmazás tulajdonosától, a MAWAQIT for The MAWAQIT egyesülettől, hivatalos írásos engedélyt kap. Az alkalmazás terjesztése ezen hivatalos áruházakon kívül sérti a szellemi tulajdon védelmére vonatkozó törvényt, és a szerzői jogsértésért felelős személy jogi eljárás alá vonható.  \n\nTilos az alkalmazás nevét, márkáját, védjegyét vagy a szerzői jog tulajdonosának, a MAWAQIT for The MAWAQIT egyesületnek nevét felhasználni hasonló vagy származékos termékek, illetve bármilyen más termék reklámozására a szerzői jog tulajdonosának előzetes írásos engedélye nélkül. Ez az alkalmazás a szerzői jog tulajdonosai és részvényesei által \"as is\" szerinti terjesztésre van engedélyezve.\n\nAz alkalmazás fejlesztője és tulajdonos cége semmilyen kifejezett vagy hallgatólagos garanciát nem vállal, beleértve – de nem kizárólagosan – az alkalmazás meghatározott célra való alkalmasságának hirdetését vagy előmozdítását. Semmilyen esetben sem felelős a MAWAQIT for The MAWAQIT egyesület, annak részvényesei vagy képviselői semmilyen közvetlen, közvetett vagy véletlen (különleges, figyelmeztető, következményes) kárért, ideértve – de nem kizárólagosan – a használatból, adatvesztésből, nyereségkiesésből vagy üzleti tevékenység megszakadásából eredő károkat, bármilyen okból vagy felelősségből eredően. Ezek a felelősségek lehetnek szerződéses, abszolút vagy károkozási felelősségek (beleértve a gondatlanságot vagy egyéb okokat), amelyek bármilyen módon az alkalmazás használatával kapcsolatban merülnek fel.\n\nAz alkalmazásban található bármely harmadik fél szerzői jogai a jogos tulajdonosukat illetik meg.\n\nKépek és Háttérképek\nA szerzői jogok a Shutterstockot illetik\nFontok — CC BY 4.0 License\n\nA szerzői jogok a Flaticons-t illetik\nAz MIT licensz az összes nem-betűtípus és nem-ikon fájlra vonatkozik.\nFontok — SIL OFL 1.1 License\n\nA szerzői jogok a Google Fonts-ot illetik (Roboto betűtípusok).\nA szerzői jogok az Apple, Cupertino csomagokat illetik\nKód, Csomagok és Keretrendszerek\n\nFlutter a Google-tól\nCsomagok: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
+  String get settings_CreditsText => 'Szerzői jog © 2021 MAWAQIT for The MAWAQIT Alapítvány számára. Minden jog fenntartva.  \n\nAz alkalmazás, valamint bővítményei, kiegészítői vagy tartalmai szellemi tulajdonjogai és szerzői jogai a MAWAQIT for The MAWAQIT egyesület tulajdonát képezik.  \n\nEz a verzió kizárólag jótékony célú terjesztésre engedélyezett, és waqfnak minősül. Bármilyen kereskedelmi célú felhasználása vagy kereskedelmi terjesztése szigorúan tilos.  \n\nEz az engedély nem jelenti vagy tartalmazza – semmilyen formában – a termékhez, annak bármely részéhez, bővítményeihez, kiegészítőihez vagy tartalmaihoz kapcsolódó jogok eladását. Ehelyett ez az engedély kizárólag az alkalmazás jótékony célú terjesztését engedélyezi a jelenlegi alkalmazásáruház-platformon keresztül.  \nAz alkalmazás forráskódjának vagy bináris fájljainak újraterjesztése, illetve visszafejtése, akár módosításokkal, akár anélkül, a szerzői jogsértés elkövetőjét vagy felelősét jogi lépéseknek teszi ki. \n\nEgyetlen fél sem jogosult az alkalmazás újraterjesztésére az Apple vagy a Google Play hivatalos áruházain kívül, kivéve, ha a szerzői jog tulajdonosától és az alkalmazás tulajdonosától, a MAWAQIT for The MAWAQIT egyesülettől, hivatalos, írásos engedélyt kap. Az alkalmazás terjesztése ezen hivatalos áruházakon kívül sérti a szellemi tulajdon védelmére vonatkozó törvényt, és a szerzői jogsértésért felelős személy jogi eljárás alá vonható.  \n\nTilos az alkalmazás nevét, márkáját, védjegyét vagy a szerzői jog tulajdonosának, a MAWAQIT for The MAWAQIT egyesületnek nevét felhasználni hasonló vagy származékos termékek, illetve bármilyen más termék reklámozására a szerzői jog tulajdonosának előzetes írásos engedélye nélkül. Ez az alkalmazás a szerzői jog tulajdonosai és részvényesei által ahogy van (\"as is\") terjesztésre engedélyezett.\n\nAz alkalmazás fejlesztője és tulajdonos cége semmilyen kifejezett vagy hallgatólagos garanciát nem vállal, beleértve – de nem kizárólagosan – az alkalmazás meghatározott célra való alkalmasságának hirdetését vagy előmozdítását. Semmilyen esetben sem felelős a MAWAQIT for The MAWAQIT egyesület, annak részvényesei vagy képviselői semmilyen közvetlen, közvetett vagy véletlen (különleges, figyelmeztető, következményes) kárért, ideértve – de nem kizárólagosan – a használatból, adatvesztésből, nyereségkiesésből vagy üzleti tevékenység megszakadásából eredő károkat, bármilyen okból vagy felelősségből eredően. Ezek a felelősségek lehetnek szerződéses, abszolút vagy károkozási felelősségek (beleértve a gondatlanságot vagy egyéb okokat), amelyek bármilyen módon az alkalmazás használatával kapcsolatban merülnek fel.\n\nAz alkalmazásban található bármely harmadik fél szerzői jogai a jogos tulajdonosukat illetik meg.\n\nKépek és Háttérképek\nA szerzői jogok a Shutterstockot illetik\nFontok — CC BY 4.0 License\n\nA szerzői jogok a Flaticonst illetik\nAz MIT licensz az összes nem-betűtípus és nem-ikon fájlra vonatkozik.\nFontok — SIL OFL 1.1 License\n\nA szerzői jogok a Google Fontsot illetik (Roboto betűtípusok).\nA szerzői jogok az Apple, Cupertino csomagokat illetik\nKód, Csomagok és Keretrendszerek\n\nFlutter a Google-tól\nCsomagok: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'Ezt az alkalmazást a MAWAQIT egyesület fejlesztette ki.\n\nA MAWAQIT egyesület egy 2021-ben Franciaországban létrehozott nonprofit szervezet. Célunk az informatikához és a digitális technológiához kapcsolódó innovatív megoldások, például szoftverek és weboldalak fejlesztése; digitális megoldások és informatikai eszközök oktatása és képzése.\n\nA MAWAQIT Ecosystem a zászlóshajó termékünk, amelynek története 2016-ban kezdődött, egy mecsetekre szánt nagy képernyőkön megjelenő alkalmazással, majd egy mobilalkalmazással, egy otthoni asszisztens-kiegészítővel és egy Alexa készséggel stb.\n\nA MAWAQIT új módot kínál az imaidők nyomon követésére és kezelésére, valójában egy végponttól végpontig tartó rendszert kínálunk, amely a mecsetek vezetőinek egy 24 / 24 órában elérhető online eszközt kínál, amely lehetővé teszi számukra a menetrendek, a mecset hírei és sok más funkció kezelését. A hívők a maguk részéről egy mobilalkalmazás előnyeit élvezhetik, amely lehetővé teszi számukra, hogy megtekinthessék kedvenc mecsetük pontos és nem hozzávetőleges menetrendjét, valamint a híreket és egyéb funkciókat, mint például a mecset keresése földrajzi helymeghatározás alapján, az imárahívás, a qibla iránya... stb. A megbízhatóságot és a minőséget tettük legfőbb értékeinkké. Ambíciónk egyértelmű: a technológiának és a tervezésnek köszönhetően a legjobb szolgáltatást nyújtani mecseteink számára.\n\nHa tetszett ez az alkalmazás, kérjük, mondd el véleményedet az áruházban.';
+  String get settings_AboutUsText => '';
 
   @override
-  String get fajr => 'Hajnali Ima';
+  String get fajr => 'Hajnali ima';
 
   @override
   String get shuruq => 'Napfelkelte';
 
   @override
-  String get duhr => 'Déli Ima';
+  String get duhr => 'Déli ima';
 
   @override
-  String get asr => 'Délutáni Ima';
+  String get asr => 'Délutáni ima';
 
   @override
-  String get maghrib => 'Naplementi Ima';
+  String get maghrib => 'Naplementi ima';
 
   @override
-  String get isha => 'Esti Ima';
+  String get isha => 'Esti ima';
 
   @override
   String get sabah => 'Reggel';
@@ -341,13 +341,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get battery_optimize => 'Akkumulátoroptimalizálás';
 
   @override
-  String get power_saver => 'Energiatakarékos';
+  String get power_saver => 'Energiatakarékos üzemmód';
 
   @override
   String get permission_message1 => 'Késleltetett értesítést észleltünk, kérjük kapcsold ki';
 
   @override
-  String get permission_message2 => 'hogy időben megkapd az értesítést.';
+  String get permission_message2 => 'hogy időben megkapd az értesítést!';
 
   @override
   String get notifications_delay_detected => 'Értesítési késleltetés észlelve';
@@ -365,16 +365,16 @@ class AppLocalizationsHu extends AppLocalizations {
   String get qibla_sensor => 'A készülékedben lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem az elvárt módon működik, ami befolyásolja a Qibla irányának megjelenítését.';
 
   @override
-  String get connection_not_found => 'A iránytű kalibrálás beállítás ki van kapcsolva. Kérlek, győződj meg róla, hogy az interneted be van kapcsolva, és próbáld meg újra az irányod megváltoztatásával.';
+  String get connection_not_found => 'Az iránytűkalibrálás beállítás ki van kapcsolva. Kérlek, győződj meg róla, hogy az interneted be van kapcsolva, és próbáld meg újra az irányod megváltoztatásával.';
 
   @override
   String get currently_located_at => 'Jelenleg a következő címen található';
 
   @override
-  String get facing_makkah => 'Mekka irányában állsz';
+  String get facing_makkah => 'Mekka felé nézel';
 
   @override
-  String get not_facing_Makkah => 'Nem Mekka irányában állsz';
+  String get not_facing_Makkah => 'Nem Mekka felé nézel';
 
   @override
   String get qibla_Error_retry => 'Újrapróbálkozás';
@@ -428,7 +428,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get mosque_Phone => 'Telefon';
 
   @override
-  String get mosque_Email => 'Email';
+  String get mosque_Email => 'E-mail';
 
   @override
   String get mosque_ByMawaqit => 'Mawaqit által https://mawaqit.net';
@@ -440,43 +440,43 @@ class AppLocalizationsHu extends AppLocalizations {
   String get mosque_Facilities_DisabledAccess => 'Mozgáskorlátozottak hozzáférése';
 
   @override
-  String get mosque_Facilities_AblutionsRoom => 'Rituális mosakodóhelyíség';
+  String get mosque_Facilities_AblutionsRoom => 'Rituális mosakodóhelyiség';
 
   @override
-  String get mosque_Facilities_WomanSpace => 'Női tér';
+  String get mosque_Facilities_WomanSpace => 'Női részleg';
 
   @override
-  String get mosque_Facilities_AdultsCourse => 'Tanfolyamok Felnőttek Részére';
+  String get mosque_Facilities_AdultsCourse => 'Tanfolyamok felnőttek részére';
 
   @override
-  String get mosque_Facilities_ChildrenCourses => 'Tanfolyamok Gyermekek Részére';
+  String get mosque_Facilities_ChildrenCourses => 'Tanfolyamok gyermekek részére';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Ünnepi Ima';
+  String get mosque_Facilities_SalatAlAid => 'Ünnepi ima';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'Halotti Ima';
+  String get mosque_Facilities_SalatAlJanaza => 'Halotti ima';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'Ramadáni Böjtmegtörés ';
+  String get mosques_Facilities_IftarRamadan => 'Ramadáni böjtmegtörés';
 
   @override
   String get mosque_facilities_Info => 'Mindezeket az információkat a mecsetért felelős személyek töltik ki.';
 
   @override
-  String get in_ => 'ban';
+  String get in_ => 'Be';
 
   @override
   String get imsak => 'A hajnal beköszöntével az evés és ivás abbahagyása';
 
   @override
-  String get eid => 'Ünnepi ima a';
+  String get eid => 'Ünnepi ima';
 
   @override
   String get minutes => 'Percek';
 
   @override
-  String get jumua2 => 'Pénteki Ima 2';
+  String get jumua2 => 'Pénteki ima 2';
 
   @override
   String get please_update => 'Elérhető a Mawaqit újabb verziója, kérlek frissíts.';
@@ -497,7 +497,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_text_main_mosque => 'A fő mecseted itt jelenik meg.\nBalra és jobbra húzva válthatsz kedvenc mecseteid között.';
 
   @override
-  String get tutorial_title_countdown => 'Következő ima jelző';
+  String get tutorial_title_countdown => 'Következő ima időpontja';
 
   @override
   String get tutorial_text_countdown => 'Ez a visszaszámláló mutatja a következő imáig hátralévő időt.';
@@ -506,7 +506,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tutorial_title_mosque_info => 'Mecset információ';
 
   @override
-  String get tutorial_text_mosque_info => 'Minden a mecsetedről: Létesítmények, Cím, Telefonszám, e-mail, Adományozás és még sok egyéb informació.';
+  String get tutorial_text_mosque_info => 'Minden a mecsetedről: létesítmények, cím, telefonszám, e-mail, adományozás és még sok egyéb informació.';
 
   @override
   String get tutorial_title_announcements => 'Mecset üzenetei és bejelentései';
@@ -530,7 +530,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get onboarding_title_3 => 'Sötét/világos téma kiválasztása';
 
   @override
-  String get onboarding_text_3 => 'Akár gyenge fényviszonyok között vagy, akár a sötétebb háttérszíneket részesíted előnyben a telefonodon, kihasználhatod a Sötét módot a jobb vizuális kényelem érdekében.';
+  String get onboarding_text_3 => 'Akár gyenge fényviszonyok között vagy, akár a sötétebb háttérszíneket részesíted előnyben a telefonodon, kihasználhatod a sötét módot a jobb vizuális kényelem érdekében.';
 
   @override
   String get onboarding_title_4 => 'Add hozzá a fő mecseted';
