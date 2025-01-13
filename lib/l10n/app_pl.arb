@@ -948,5 +948,6 @@
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
-    "adjust_hijri_date": "Dostosuj datę Hijri"
+    "adjust_hijri_date": "Dostosuj datę Hijri",
+    "prayer_times_by_location": "Czasy modlitwy według lokalizacji"
 }
