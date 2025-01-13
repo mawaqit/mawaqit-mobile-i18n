@@ -647,13 +647,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get on_boarding_nearest_mosque => 'Keressük meg a legközelebbi mecsetet';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'Itt vannak a mecsetek, amelyek az Te földrajzi elhelyezkedése szerint találhatóak meg körülötted';
+  String get on_boarding_nearest_mosque_text => 'Itt vannak a mecsetek, amelyek földrajzi elhelyezkedésed szerint találhatóak körülötted';
 
   @override
   String get search_no_result_for_text => 'Nem találtunk eredményt';
 
   @override
-  String get surah_audio_downloading => 'Szúrah audiójának letöltése folyamatban...';
+  String get surah_audio_downloading => 'Szúra audiójának letöltése folyamatban...';
 
   @override
   String get msg_internet_connection => 'Nem rendelkezel internetkapcsolattal';
@@ -674,7 +674,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get al_quran => 'A Korán';
 
   @override
-  String get surah_information => 'Szúrah-val kapcsolatos Információ';
+  String get surah_information => 'Szúrával kapcsolatos Információ';
 
   @override
   String get surah_number => 'Szúra száma';
@@ -935,7 +935,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get download => 'Letöltés';
 
   @override
-  String get continue_download => 'A letöltést folytatása';
+  String get continue_download => 'A letöltés folytatása';
 
   @override
   String get cancel_download => 'A letöltés megszakítása';
