@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Sesuaikan Tanggal Hijriyah",
-    "prayer_times_by_location": "Waktu salat berdasarkan lokasi"
+    "prayer_times_by_location": "Waktu salat berdasarkan lokasi",
+    "already_in_list": "sudah ada dalam daftar Anda!",
+    "got_it": "Mengerti!"
 }
