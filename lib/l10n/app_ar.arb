@@ -956,15 +956,15 @@
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
-    "mushaf_hafs": "مصحف هافس",
+    "mushaf_hafs": "مصحف حفص",
     "@mushaf_hafs": {
         "description": "-> mushaf_hafs"
     },
-    "select_rewaya": "حدد Rewaya",
+    "select_rewaya": "اختار الرواية",
     "@select_rewaya": {
         "description": "-> select_rewaya"
     },
-    "download_in_progress": "التحميل قيد التقدم، يرجى الانتظار...",
+    "download_in_progress": "التنزيل قيد التنفيذ، يرجى الانتظار...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
     }
