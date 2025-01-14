@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Настроить дату Хиджры",
-    "prayer_times_by_location": "Время молитвы по местоположению"
+    "prayer_times_by_location": "Время молитвы по местоположению",
+    "already_in_list": "уже в вашем списке!",
+    "got_it": "Понятно!"
 }
