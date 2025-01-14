@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Stel de Hijri-datum in",
-    "prayer_times_by_location": "Gebedstijden per locatie"
+    "prayer_times_by_location": "Gebedstijden per locatie",
+    "already_in_list": "staat al op je lijst!",
+    "got_it": "Ik snap het!"
 }
