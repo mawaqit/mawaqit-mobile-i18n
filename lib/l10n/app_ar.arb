@@ -71,8 +71,8 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "إشعارات الصلاة",
-    "settings_PrayerPreNotifications": "إشعار ما قبل الصلاة",
-    "settings_ShuruqPreNotifications": "إشعار ما قبل الشروق",
+    "settings_PrayerPreNotifications": "إشعارات قبل الصلاة",
+    "settings_ShuruqPreNotifications": "إشعارات قبل الشروق",
     "settings_Calculations": "طريقة الحساب",
     "settings_RateOurApp": "قيم تطبيقنا",
     "@settings_RateOurApp": {
@@ -80,8 +80,8 @@
         "type": "text"
     },
     "settings_WhatsNew": "ما هو الجديد ؟",
-    "settings_SupportMawaqit": "دعم مواقيت",
-    "settings_News": "أخبار",
+    "settings_SupportMawaqit": "ادعم مواقيت",
+    "settings_News": "الأخبار",
     "settings_MakeADonation": "قُم بالتبرع",
     "bismillah": "بسم الله",
     "settings_DonateToMawaqit": "تبرع لمواقيت",
@@ -109,7 +109,7 @@
     "settings_language_fr": "الفرنسية",
     "settings_language_nl": "الهولندية",
     "settings_language_de": "الألمانية",
-    "settings_language_es": "الأسبانية",
+    "settings_language_es": "الإسبانية",
     "settings_language_en": "الإنجليزية",
     "settings_language_it": "الإيطالية",
     "settings_language_tr": "التركية",
@@ -158,12 +158,12 @@
         "type": "text"
     },
     "sabah": "الفجر",
-    "settings_PrayerNotification_NoNotification": "لقد قمت حاليًا باختيار عدم إشعارك بحلول وقت هذه الصلاة.",
+    "settings_PrayerNotification_NoNotification": "لقد قمت حاليًا بإعداد التطبيق لعدم تلقي إشعارات لهذا الوقت من الصلاة.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "تطبيق رنة بيب عند الإشعار.",
+    "settings_PrayerNotification_Bip": "رنّة التنبيه عند تلقي الإشعار",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -183,7 +183,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "القدس",
+    "adhan_Qods": "القدس الشريف",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "اختر نوع الأذان.\nيتم تطبيق هذا الاختيار في كل صلاة لها إشعار الأذان.",
+    "adhan_type": "اختر نوع الأذان.\nسيتم تطبيق هذا الاختيار على كل صلاة تحتوي على إشعار الأذان",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -218,12 +218,12 @@
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "لم تقم باختيارأي إشعار لهذه الصلاة.",
+    "prayer_Notification_NoNotification": "لم تقم بتعيين أي إشعار لهذه الصلاة",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "يتيح لك هذا الإعداد تحديد إشعار قبل الصلاة.",
+    "prayer_PreNotification_Description": "يتيح لك هذا الإعداد تحديد إشعار قبل الصلاة",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
