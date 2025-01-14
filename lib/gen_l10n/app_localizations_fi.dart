@@ -1281,4 +1281,16 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get got_it => 'Sain sen!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Warsh';
+
+  @override
+  String get mushaf_hafs => 'Mushaf Hafs';
+
+  @override
+  String get select_rewaya => 'Valitse Rewaya';
+
+  @override
+  String get download_in_progress => 'Lataus käynnissä, odota...';
 }

@@ -1281,4 +1281,16 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get got_it => 'Megvan!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Warsh';
+
+  @override
+  String get mushaf_hafs => 'Mushaf Hafs';
+
+  @override
+  String get select_rewaya => 'Válassza ki Rewaya';
+
+  @override
+  String get download_in_progress => 'Letöltés folyamatban, kérjük várjon...';
 }

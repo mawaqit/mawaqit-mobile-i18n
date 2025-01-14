@@ -951,5 +951,21 @@
     "adjust_hijri_date": "Säädä Hijri Päivämäärää",
     "prayer_times_by_location": "Rukousajat sijainnin mukaan",
     "already_in_list": "on jo listassasi!",
-    "got_it": "Sain sen!"
+    "got_it": "Sain sen!",
+    "mushaf_warsh": "Mushaf Warsh",
+    "@mushaf_warsh": {
+        "description": "-> mushaf_warsh"
+    },
+    "mushaf_hafs": "Mushaf Hafs",
+    "@mushaf_hafs": {
+        "description": "-> mushaf_hafs"
+    },
+    "select_rewaya": "Valitse Rewaya",
+    "@select_rewaya": {
+        "description": "-> select_rewaya"
+    },
+    "download_in_progress": "Lataus käynnissä, odota...",
+    "@download_in_progress": {
+        "description": "-> download_in_progress"
+    }
 }

@@ -1281,4 +1281,16 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get got_it => 'Got it!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Warsh';
+
+  @override
+  String get mushaf_hafs => 'Mushaf Hafs';
+
+  @override
+  String get select_rewaya => 'Select Rewaya';
+
+  @override
+  String get download_in_progress => 'Download in progress, please wait...';
 }

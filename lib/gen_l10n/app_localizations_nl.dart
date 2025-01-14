@@ -1281,4 +1281,16 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get got_it => 'Ik snap het!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Warsh';
+
+  @override
+  String get mushaf_hafs => 'Mushaf Hafs';
+
+  @override
+  String get select_rewaya => 'Selecteer Rewaya';
+
+  @override
+  String get download_in_progress => 'Downloaden is bezig, even geduld a.u.b...';
 }

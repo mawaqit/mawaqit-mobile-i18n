@@ -1281,4 +1281,16 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get got_it => 'Entendi!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Encantado';
+
+  @override
+  String get mushaf_hafs => 'Cabanas de Mushaf';
+
+  @override
+  String get select_rewaya => 'Selecionar Rewaya';
+
+  @override
+  String get download_in_progress => 'Download em andamento, por favor aguarde...';
 }

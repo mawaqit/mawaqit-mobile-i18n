@@ -1281,4 +1281,16 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get got_it => 'Rozumiem!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Warsh';
+
+  @override
+  String get mushaf_hafs => 'Hafty Mushafa';
+
+  @override
+  String get select_rewaya => 'Wybierz Przekierowanie';
+
+  @override
+  String get download_in_progress => 'Pobieranie w toku, proszę czekać...';
 }
