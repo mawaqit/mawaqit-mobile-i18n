@@ -50,10 +50,10 @@ class AppLocalizationsAr extends AppLocalizations {
   String get settings_PrayerNotifications => 'إشعارات الصلاة';
 
   @override
-  String get settings_PrayerPreNotifications => 'إشعار ما قبل الصلاة';
+  String get settings_PrayerPreNotifications => 'إشعارات قبل الصلاة';
 
   @override
-  String get settings_ShuruqPreNotifications => 'إشعار ما قبل الشروق';
+  String get settings_ShuruqPreNotifications => 'إشعارات قبل الشروق';
 
   @override
   String get settings_Calculations => 'طريقة الحساب';
@@ -65,10 +65,10 @@ class AppLocalizationsAr extends AppLocalizations {
   String get settings_WhatsNew => 'ما هو الجديد ؟';
 
   @override
-  String get settings_SupportMawaqit => 'دعم مواقيت';
+  String get settings_SupportMawaqit => 'ادعم مواقيت';
 
   @override
-  String get settings_News => 'أخبار';
+  String get settings_News => 'الأخبار';
 
   @override
   String get settings_MakeADonation => 'قُم بالتبرع';
@@ -104,7 +104,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get settings_language_de => 'الألمانية';
 
   @override
-  String get settings_language_es => 'الأسبانية';
+  String get settings_language_es => 'الإسبانية';
 
   @override
   String get settings_language_en => 'الإنجليزية';
@@ -155,10 +155,10 @@ class AppLocalizationsAr extends AppLocalizations {
   String get sabah => 'الفجر';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'لقد قمت حاليًا باختيار عدم إشعارك بحلول وقت هذه الصلاة.';
+  String get settings_PrayerNotification_NoNotification => 'لقد قمت حاليًا بإعداد التطبيق لعدم تلقي إشعارات لهذا الوقت من الصلاة.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'تطبيق رنة بيب عند الإشعار.';
+  String get settings_PrayerNotification_Bip => 'رنّة التنبيه عند تلقي الإشعار';
 
   @override
   String get adhan => 'أذان';
@@ -170,7 +170,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get adhan_Madinah => 'المدينة المنورة';
 
   @override
-  String get adhan_Qods => 'القدس';
+  String get adhan_Qods => 'القدس الشريف';
 
   @override
   String get adhan_AlAfassy => 'مشاري العفاسي';
@@ -185,16 +185,16 @@ class AppLocalizationsAr extends AppLocalizations {
   String get adhan_AbdAlBassat => 'عبد الباسط';
 
   @override
-  String get adhan_type => 'اختر نوع الأذان.\nيتم تطبيق هذا الاختيار في كل صلاة لها إشعار الأذان.';
+  String get adhan_type => 'اختر نوع الأذان.\nسيتم تطبيق هذا الاختيار على كل صلاة تحتوي على إشعار الأذان';
 
   @override
   String get settings_prayer_Notification_None => 'لا إشعار';
 
   @override
-  String get prayer_Notification_NoNotification => 'لم تقم باختيارأي إشعار لهذه الصلاة.';
+  String get prayer_Notification_NoNotification => 'لم تقم بتعيين أي إشعار لهذه الصلاة';
 
   @override
-  String get prayer_PreNotification_Description => 'يتيح لك هذا الإعداد تحديد إشعار قبل الصلاة.';
+  String get prayer_PreNotification_Description => 'يتيح لك هذا الإعداد تحديد إشعار قبل الصلاة';
 
   @override
   String get search_TryParis => 'السلام, Paris, إلخ';
