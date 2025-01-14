@@ -1281,4 +1281,16 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get got_it => 'Имам го!';
+
+  @override
+  String get mushaf_warsh => 'Мушаф Уорш';
+
+  @override
+  String get mushaf_hafs => 'Мушаф Хафс';
+
+  @override
+  String get select_rewaya => 'Изберете Rewaya';
+
+  @override
+  String get download_in_progress => 'Изтеглянето е в ход, моля, изчакайте...';
 }

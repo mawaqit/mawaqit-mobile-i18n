@@ -1281,4 +1281,16 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get got_it => 'Понятно!';
+
+  @override
+  String get mushaf_warsh => 'Мушаф Варш';
+
+  @override
+  String get mushaf_hafs => 'Хафс Мушаф';
+
+  @override
+  String get select_rewaya => 'Выберите Rewaya';
+
+  @override
+  String get download_in_progress => 'Идёт загрузка, пожалуйста подождите...';
 }

@@ -1281,4 +1281,16 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get got_it => 'Mengerti!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Warsh';
+
+  @override
+  String get mushaf_hafs => 'Mushaf Hafs';
+
+  @override
+  String get select_rewaya => 'Pilih Rewaya';
+
+  @override
+  String get download_in_progress => 'Pengunduhan sedang berlangsung, harap tunggu...';
 }

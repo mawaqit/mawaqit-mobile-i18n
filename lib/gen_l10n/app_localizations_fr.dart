@@ -1281,4 +1281,16 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get got_it => 'Compris!';
+
+  @override
+  String get mushaf_warsh => 'Warsh des Mushaf';
+
+  @override
+  String get mushaf_hafs => 'Hafs de Mushaf';
+
+  @override
+  String get select_rewaya => 'Sélectionner Rewaya';
+
+  @override
+  String get download_in_progress => 'Téléchargement en cours, veuillez patienter...';
 }

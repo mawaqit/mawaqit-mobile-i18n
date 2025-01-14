@@ -2686,6 +2686,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Got it!'**
   String get got_it;
+
+  /// -> mushaf_warsh
+  ///
+  /// In en, this message translates to:
+  /// **'Mushaf Warsh'**
+  String get mushaf_warsh;
+
+  /// -> mushaf_hafs
+  ///
+  /// In en, this message translates to:
+  /// **'Mushaf Hafs'**
+  String get mushaf_hafs;
+
+  /// -> select_rewaya
+  ///
+  /// In en, this message translates to:
+  /// **'Select Rewaya'**
+  String get select_rewaya;
+
+  /// -> download_in_progress
+  ///
+  /// In en, this message translates to:
+  /// **'Download in progress, please wait...'**
+  String get download_in_progress;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

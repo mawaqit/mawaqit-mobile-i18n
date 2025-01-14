@@ -1281,4 +1281,16 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get got_it => '¡Entendido!';
+
+  @override
+  String get mushaf_warsh => 'Chispán húmedo';
+
+  @override
+  String get mushaf_hafs => 'Hafs de Mushaf';
+
+  @override
+  String get select_rewaya => 'Seleccionar Rewaya';
+
+  @override
+  String get download_in_progress => 'Descarga en curso, por favor espere...';
 }

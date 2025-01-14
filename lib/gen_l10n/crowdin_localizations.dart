@@ -1303,6 +1303,18 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get got_it => Crowdin.getText(localeName, 'got_it') ?? _fallbackTexts.got_it;
 
+	@override
+  String get mushaf_warsh => Crowdin.getText(localeName, 'mushaf_warsh') ?? _fallbackTexts.mushaf_warsh;
+
+	@override
+  String get mushaf_hafs => Crowdin.getText(localeName, 'mushaf_hafs') ?? _fallbackTexts.mushaf_hafs;
+
+	@override
+  String get select_rewaya => Crowdin.getText(localeName, 'select_rewaya') ?? _fallbackTexts.select_rewaya;
+
+	@override
+  String get download_in_progress => Crowdin.getText(localeName, 'download_in_progress') ?? _fallbackTexts.download_in_progress;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

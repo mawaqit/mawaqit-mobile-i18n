@@ -1281,4 +1281,16 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get got_it => 'Verstanden!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Krieg';
+
+  @override
+  String get mushaf_hafs => 'Mushaf Hafs';
+
+  @override
+  String get select_rewaya => 'Rewaya auswählen';
+
+  @override
+  String get download_in_progress => 'Download wird ausgeführt, bitte warten...';
 }

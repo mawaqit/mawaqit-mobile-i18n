@@ -1281,4 +1281,16 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get got_it => 'Tamamdır!';
+
+  @override
+  String get mushaf_warsh => 'Mushaf Warsh';
+
+  @override
+  String get mushaf_hafs => 'Mushaf Hafs';
+
+  @override
+  String get select_rewaya => 'Rewaya\'yı seçin';
+
+  @override
+  String get download_in_progress => 'İndirme işlemi devam ediyor, lütfen bekleyin...';
 }
