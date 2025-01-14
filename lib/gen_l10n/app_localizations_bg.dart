@@ -1275,4 +1275,10 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Времена за молитва по местоположение';
+
+  @override
+  String get already_in_list => 'вече е в списъка ви!';
+
+  @override
+  String get got_it => 'Имам го!';
 }

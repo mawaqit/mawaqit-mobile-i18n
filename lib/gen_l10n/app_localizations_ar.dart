@@ -1275,4 +1275,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'مواقيت الصلاة حسب الموقع';
+
+  @override
+  String get already_in_list => 'موجود بالفعل في قائمتك!';
+
+  @override
+  String get got_it => 'فهمت ذلك!';
 }

@@ -1275,4 +1275,10 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Prayer times by location';
+
+  @override
+  String get already_in_list => 'এটি আপনার তালিকায় ইতিমধ্যেই আছে!';
+
+  @override
+  String get got_it => 'বুঝেছি!';
 }

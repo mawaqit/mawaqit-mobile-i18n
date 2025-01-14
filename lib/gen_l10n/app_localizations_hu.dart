@@ -1275,4 +1275,10 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Imaidők hely szerint';
+
+  @override
+  String get already_in_list => 'már szerepel a listádon!';
+
+  @override
+  String get got_it => 'Megvan!';
 }

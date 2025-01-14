@@ -1275,4 +1275,10 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Waktu salat berdasarkan lokasi';
+
+  @override
+  String get already_in_list => 'sudah ada dalam daftar Anda!';
+
+  @override
+  String get got_it => 'Mengerti!';
 }

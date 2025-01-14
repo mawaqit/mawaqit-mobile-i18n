@@ -1275,4 +1275,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Czasy modlitwy według lokalizacji';
+
+  @override
+  String get already_in_list => 'jest już na Twojej liście!';
+
+  @override
+  String get got_it => 'Rozumiem!';
 }
