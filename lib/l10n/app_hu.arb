@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Hijri dátum beállítása",
-    "prayer_times_by_location": "Imaidők hely szerint"
+    "prayer_times_by_location": "Imaidők hely szerint",
+    "already_in_list": "már szerepel a listádon!",
+    "got_it": "Megvan!"
 }
