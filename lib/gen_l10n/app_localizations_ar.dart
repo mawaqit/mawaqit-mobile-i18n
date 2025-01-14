@@ -1286,11 +1286,11 @@ class AppLocalizationsAr extends AppLocalizations {
   String get mushaf_warsh => 'مصحف ورش';
 
   @override
-  String get mushaf_hafs => 'مصحف هافس';
+  String get mushaf_hafs => 'مصحف حفص';
 
   @override
-  String get select_rewaya => 'حدد Rewaya';
+  String get select_rewaya => 'اختار الرواية';
 
   @override
-  String get download_in_progress => 'التحميل قيد التقدم، يرجى الانتظار...';
+  String get download_in_progress => 'التنزيل قيد التنفيذ، يرجى الانتظار...';
 }
