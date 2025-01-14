@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "ضبط التاريخ الهجري",
-    "prayer_times_by_location": "مواقيت الصلاة حسب الموقع"
+    "prayer_times_by_location": "مواقيت الصلاة حسب الموقع",
+    "already_in_list": "موجود بالفعل في قائمتك!",
+    "got_it": "فهمت ذلك!"
 }

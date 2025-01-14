@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Ajuster la date Hijri",
-    "prayer_times_by_location": "Heures de prière par localisation"
+    "prayer_times_by_location": "Heures de prière par localisation",
+    "already_in_list": "est déjà dans votre liste!",
+    "got_it": "Compris!"
 }

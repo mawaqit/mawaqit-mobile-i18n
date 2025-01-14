@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "অবস্থান অনুযায়ী নামাজের সময়",
-    "prayer_times_by_location": "Prayer times by location"
+    "prayer_times_by_location": "Prayer times by location",
+    "already_in_list": "এটি আপনার তালিকায় ইতিমধ্যেই আছে!",
+    "got_it": "বুঝেছি!"
 }

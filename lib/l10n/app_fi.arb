@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Säädä Hijri Päivämäärää",
-    "prayer_times_by_location": "Rukousajat sijainnin mukaan"
+    "prayer_times_by_location": "Rukousajat sijainnin mukaan",
+    "already_in_list": "on jo listassasi!",
+    "got_it": "Sain sen!"
 }

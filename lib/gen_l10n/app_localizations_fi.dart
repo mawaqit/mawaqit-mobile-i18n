@@ -1275,4 +1275,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Rukousajat sijainnin mukaan';
+
+  @override
+  String get already_in_list => 'on jo listassasi!';
+
+  @override
+  String get got_it => 'Sain sen!';
 }

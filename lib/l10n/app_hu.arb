@@ -60,17 +60,17 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "12 h",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "24 h",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Ima Értesítések",
+    "settings_PrayerNotifications": "Imaértesítések",
     "settings_PrayerPreNotifications": "Ima előtti értesítés",
     "settings_ShuruqPreNotifications": "Napfelkelte előtti értesítés",
     "settings_Calculations": "Számítások",
@@ -80,11 +80,11 @@
         "type": "text"
     },
     "settings_WhatsNew": "Újdonságok",
-    "settings_SupportMawaqit": "Támogasd a Mawaqít-ot",
+    "settings_SupportMawaqit": "Támogasd a Mawaqitot",
     "settings_News": "Hírek",
     "settings_MakeADonation": "Adományozz",
     "bismillah": "Allah nevében",
-    "settings_DonateToMawaqit": "Adományozz Mawaqít-nak",
+    "settings_DonateToMawaqit": "Adományozz Mawaqitnak",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
@@ -117,7 +117,7 @@
     "settings_language_id": "Indonéz",
     "settings_language_ur": "Urdu",
     "settings_language_pl": "Lengyel",
-    "settings_CreditsText": "Szerzői jog © 2021 MAWAQIT for The MAWAQIT Alapítvány számára. Minden jog fenntartva.  \n\nAz alkalmazás, valamint bővítményei, kiegészítői vagy tartalmai szellemi tulajdonjogai és szerzői jogai a MAWAQIT for The MAWAQIT egyesület tulajdonát képezik.  \n\nEz a verzió kizárólag jótékony célú terjesztésre van engedélyezve, és Waqf-nak minősül. Bármilyen kereskedelmi célú felhasználása vagy kereskedelmi terjesztése szigorúan tilos.  \n\nEz az engedély nem jelent vagy tartalmazza – semmilyen formában – a termékhez, annak bármely részéhez, bővítményeihez, kiegészítőihez vagy tartalmaihoz kapcsolódó jogok eladását. Ehelyett ez az engedély kizárólag az alkalmazás jótékony célú terjesztését engedélyezi a jelenlegi alkalmazásáruház-platformon keresztül.  \nAz alkalmazás forráskódjának vagy bináris fájljainak újraterjesztése, illetve visszafejtése, akár módosításokkal, akár anélkül, a szerzői jogsértés elkövetőjét vagy felelősét jogi lépéseknek teszi ki. \n\nEgyetlen fél sem jogosult az alkalmazás újraterjesztésére az Apple vagy a Google Play hivatalos áruházain kívül, kivéve, ha a szerzői jog tulajdonosától és az alkalmazás tulajdonosától, a MAWAQIT for The MAWAQIT egyesülettől, hivatalos írásos engedélyt kap. Az alkalmazás terjesztése ezen hivatalos áruházakon kívül sérti a szellemi tulajdon védelmére vonatkozó törvényt, és a szerzői jogsértésért felelős személy jogi eljárás alá vonható.  \n\nTilos az alkalmazás nevét, márkáját, védjegyét vagy a szerzői jog tulajdonosának, a MAWAQIT for The MAWAQIT egyesületnek nevét felhasználni hasonló vagy származékos termékek, illetve bármilyen más termék reklámozására a szerzői jog tulajdonosának előzetes írásos engedélye nélkül. Ez az alkalmazás a szerzői jog tulajdonosai és részvényesei által \"as is\" szerinti terjesztésre van engedélyezve.\n\nAz alkalmazás fejlesztője és tulajdonos cége semmilyen kifejezett vagy hallgatólagos garanciát nem vállal, beleértve – de nem kizárólagosan – az alkalmazás meghatározott célra való alkalmasságának hirdetését vagy előmozdítását. Semmilyen esetben sem felelős a MAWAQIT for The MAWAQIT egyesület, annak részvényesei vagy képviselői semmilyen közvetlen, közvetett vagy véletlen (különleges, figyelmeztető, következményes) kárért, ideértve – de nem kizárólagosan – a használatból, adatvesztésből, nyereségkiesésből vagy üzleti tevékenység megszakadásából eredő károkat, bármilyen okból vagy felelősségből eredően. Ezek a felelősségek lehetnek szerződéses, abszolút vagy károkozási felelősségek (beleértve a gondatlanságot vagy egyéb okokat), amelyek bármilyen módon az alkalmazás használatával kapcsolatban merülnek fel.\n\nAz alkalmazásban található bármely harmadik fél szerzői jogai a jogos tulajdonosukat illetik meg.\n\nKépek és Háttérképek\nA szerzői jogok a Shutterstockot illetik\nFontok — CC BY 4.0 License\n\nA szerzői jogok a Flaticons-t illetik\nAz MIT licensz az összes nem-betűtípus és nem-ikon fájlra vonatkozik.\nFontok — SIL OFL 1.1 License\n\nA szerzői jogok a Google Fonts-ot illetik (Roboto betűtípusok).\nA szerzői jogok az Apple, Cupertino csomagokat illetik\nKód, Csomagok és Keretrendszerek\n\nFlutter a Google-tól\nCsomagok: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "settings_CreditsText": "Szerzői jog © 2021 MAWAQIT for The MAWAQIT Alapítvány számára. Minden jog fenntartva.  \n\nAz alkalmazás, valamint bővítményei, kiegészítői vagy tartalmai szellemi tulajdonjogai és szerzői jogai a MAWAQIT for The MAWAQIT egyesület tulajdonát képezik.  \n\nEz a verzió kizárólag jótékony célú terjesztésre engedélyezett, és waqfnak minősül. Bármilyen kereskedelmi célú felhasználása vagy kereskedelmi terjesztése szigorúan tilos.  \n\nEz az engedély nem jelenti vagy tartalmazza – semmilyen formában – a termékhez, annak bármely részéhez, bővítményeihez, kiegészítőihez vagy tartalmaihoz kapcsolódó jogok eladását. Ehelyett ez az engedély kizárólag az alkalmazás jótékony célú terjesztését engedélyezi a jelenlegi alkalmazásáruház-platformon keresztül.  \nAz alkalmazás forráskódjának vagy bináris fájljainak újraterjesztése, illetve visszafejtése, akár módosításokkal, akár anélkül, a szerzői jogsértés elkövetőjét vagy felelősét jogi lépéseknek teszi ki. \n\nEgyetlen fél sem jogosult az alkalmazás újraterjesztésére az Apple vagy a Google Play hivatalos áruházain kívül, kivéve, ha a szerzői jog tulajdonosától és az alkalmazás tulajdonosától, a MAWAQIT for The MAWAQIT egyesülettől, hivatalos, írásos engedélyt kap. Az alkalmazás terjesztése ezen hivatalos áruházakon kívül sérti a szellemi tulajdon védelmére vonatkozó törvényt, és a szerzői jogsértésért felelős személy jogi eljárás alá vonható.  \n\nTilos az alkalmazás nevét, márkáját, védjegyét vagy a szerzői jog tulajdonosának, a MAWAQIT for The MAWAQIT egyesületnek nevét felhasználni hasonló vagy származékos termékek, illetve bármilyen más termék reklámozására a szerzői jog tulajdonosának előzetes írásos engedélye nélkül. Ez az alkalmazás a szerzői jog tulajdonosai és részvényesei által ahogy van (\"as is\") terjesztésre engedélyezett.\n\nAz alkalmazás fejlesztője és tulajdonos cége semmilyen kifejezett vagy hallgatólagos garanciát nem vállal, beleértve – de nem kizárólagosan – az alkalmazás meghatározott célra való alkalmasságának hirdetését vagy előmozdítását. Semmilyen esetben sem felelős a MAWAQIT for The MAWAQIT egyesület, annak részvényesei vagy képviselői semmilyen közvetlen, közvetett vagy véletlen (különleges, figyelmeztető, következményes) kárért, ideértve – de nem kizárólagosan – a használatból, adatvesztésből, nyereségkiesésből vagy üzleti tevékenység megszakadásából eredő károkat, bármilyen okból vagy felelősségből eredően. Ezek a felelősségek lehetnek szerződéses, abszolút vagy károkozási felelősségek (beleértve a gondatlanságot vagy egyéb okokat), amelyek bármilyen módon az alkalmazás használatával kapcsolatban merülnek fel.\n\nAz alkalmazásban található bármely harmadik fél szerzői jogai a jogos tulajdonosukat illetik meg.\n\nKépek és Háttérképek\nA szerzői jogok a Shutterstockot illetik\nFontok — CC BY 4.0 License\n\nA szerzői jogok a Flaticonst illetik\nAz MIT licensz az összes nem-betűtípus és nem-ikon fájlra vonatkozik.\nFontok — SIL OFL 1.1 License\n\nA szerzői jogok a Google Fontsot illetik (Roboto betűtípusok).\nA szerzői jogok az Apple, Cupertino csomagokat illetik\nKód, Csomagok és Keretrendszerek\n\nFlutter a Google-tól\nCsomagok: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
         "type": "text"
@@ -127,7 +127,7 @@
         "description": "_",
         "type": "text"
     },
-    "fajr": "Hajnali Ima",
+    "fajr": "Hajnali ima",
     "@fajr": {
         "description": "_",
         "type": "text"
@@ -137,22 +137,22 @@
         "description": "_",
         "type": "text"
     },
-    "duhr": "Déli Ima",
+    "duhr": "Déli ima",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Délutáni Ima",
+    "asr": "Délutáni ima",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Naplementi Ima",
+    "maghrib": "Naplementi ima",
     "@maghrib": {
         "description": "_",
         "type": "text"
     },
-    "isha": "Esti Ima",
+    "isha": "Esti ima",
     "@isha": {
         "description": "_",
         "type": "text"
@@ -168,7 +168,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan": "Imárahívás",
+    "adhan": "Imára hívás",
     "@adhan": {
         "description": "_",
         "type": "text"
@@ -178,7 +178,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Medína",
+    "adhan_Madinah": "Medina",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
@@ -233,7 +233,7 @@
     "search_HelpText": "Az alábbi szavak beírásával kereshetsz rá egy mecsetre:\n- A mecset neve\n- Az egyesület neve\n- A város, cím, ország... stb.\n\nVagy megnyomhatod a helymeghatározó gombot a környező mecsetek megtalálásához.",
     "search_MaxFavMosquesReached": "Elérted a kedvenc mecsetek maximális számát.",
     "search_iOs14_message": "A GPS használata iOS 14-en némi időt vehet igénybe, kérlek várj.",
-    "search_error": "Hoppá, belső hiba történt'",
+    "search_error": "Hoppá, belső hiba történt",
     "search_your_location": "A tartózkodási helyed",
     "search_location_disabled": "Kérjük, keress mecsetet név vagy város alapján, vagy engedélyezd a helymeghatározást manuálisan a beállításokban.",
     "search_settings": "Beállítások",
@@ -253,7 +253,7 @@
     "mosques_around_you": "Mecsetek körülötted",
     "mosques_in_the_selected_area": "Mecsetek a kiválasztott területen",
     "mosques_with": "Mecsetek, ahol",
-    "allow_mawaqit_to_access_my_location": "Engedélyezd Mawaqit számára, hogy hozzáférjen a tartózkodási helyemhez.",
+    "allow_mawaqit_to_access_my_location": "Engedélyezd a Mawaqit számára, hogy hozzáférjen a tartózkodási helyedhez.",
     "enable_location_service_from_app_settings": "Engedélyezd a helymeghatározási szolgáltatást az alkalmazás beállításaiban.",
     "the_request_timeout": "A kérés időtúllépés miatt megszakadt.",
     "no_internet_connection": "Nincs internetkapcsolat",
@@ -262,7 +262,7 @@
     "no_mosque_in_selected_area": "Nem találtunk mecsetet a kiválasztott területen.",
     "no_mosque_with": "Nem találtam olyan mecsetet, ahol",
     "retry": "Újrapróbálkozás",
-    "search_here": "Keresés Itt",
+    "search_here": "Keresés itt",
     "enter_at_least_3_char": "Adj meg legalább 3 karaktert a kereséshez",
     "jumua1": "Pénteki ima 1",
     "prayer_times": "Imaidők",
@@ -276,9 +276,9 @@
     "call": "Hívás",
     "dnd": "Ne zavarjanak",
     "battery_optimize": "Akkumulátoroptimalizálás",
-    "power_saver": "Energiatakarékos",
+    "power_saver": "Energiatakarékos üzemmód",
     "permission_message1": "Késleltetett értesítést észleltünk, kérjük kapcsold ki",
-    "permission_message2": "hogy időben megkapd az értesítést.",
+    "permission_message2": "hogy időben megkapd az értesítést!",
     "notifications_delay_detected": "Értesítési késleltetés észlelve",
     "open_setting": "Beállítások megnyitása",
     "noJumua": "Nincs pénteki ima",
@@ -292,10 +292,10 @@
         "type": "text"
     },
     "qibla_sensor": "A készülékedben lévő érzékelő, amelyet a MAWAQIT a Qibla meghatározásához használ, nem az elvárt módon működik, ami befolyásolja a Qibla irányának megjelenítését.",
-    "connection_not_found": "A iránytű kalibrálás beállítás ki van kapcsolva. Kérlek, győződj meg róla, hogy az interneted be van kapcsolva, és próbáld meg újra az irányod megváltoztatásával.",
+    "connection_not_found": "Az iránytűkalibrálás beállítás ki van kapcsolva. Kérlek, győződj meg róla, hogy az interneted be van kapcsolva, és próbáld meg újra az irányod megváltoztatásával.",
     "currently_located_at": "Jelenleg a következő címen található",
-    "facing_makkah": "Mekka irányában állsz",
-    "not_facing_Makkah": "Nem Mekka irányában állsz",
+    "facing_makkah": "Mekka felé nézel",
+    "not_facing_Makkah": "Nem Mekka felé nézel",
     "qibla_Error_retry": "Újrapróbálkozás",
     "@qibla_Error_retry": {
         "description": "_",
@@ -381,7 +381,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "E-mail",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -401,37 +401,37 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Rituális mosakodóhelyíség",
+    "mosque_Facilities_AblutionsRoom": "Rituális mosakodóhelyiség",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Női tér",
+    "mosque_Facilities_WomanSpace": "Női részleg",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Tanfolyamok Felnőttek Részére",
+    "mosque_Facilities_AdultsCourse": "Tanfolyamok felnőttek részére",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Tanfolyamok Gyermekek Részére",
+    "mosque_Facilities_ChildrenCourses": "Tanfolyamok gyermekek részére",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Ünnepi Ima",
+    "mosque_Facilities_SalatAlAid": "Ünnepi ima",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Halotti Ima",
+    "mosque_Facilities_SalatAlJanaza": "Halotti ima",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Ramadáni Böjtmegtörés ",
+    "mosques_Facilities_IftarRamadan": "Ramadáni böjtmegtörés",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
@@ -441,7 +441,7 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "ban",
+    "in_": "Be",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -451,7 +451,7 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Ünnepi ima a",
+    "eid": "Ünnepi ima",
     "@eid": {
         "description": "_",
         "type": "text"
@@ -461,7 +461,7 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Pénteki Ima 2",
+    "jumua2": "Pénteki ima 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
@@ -486,17 +486,17 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "A fő mecseted",
+    "tutorial_title_main_mosque": "A főmecseted",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "A fő mecseted itt jelenik meg.\nBalra és jobbra húzva válthatsz kedvenc mecseteid között.",
+    "tutorial_text_main_mosque": "A főmecseted itt jelenik meg.\nBalra és jobbra húzva válthatsz kedvenc mecseteid között.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Következő ima jelző",
+    "tutorial_title_countdown": "Következő ima időpontja",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
@@ -511,7 +511,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Minden a mecsetedről: Létesítmények, Cím, Telefonszám, e-mail, Adományozás és még sok egyéb informació.",
+    "tutorial_text_mosque_info": "Minden a mecsetedről: létesítmények, cím, telefonszám, e-mail, adományozás és még sok egyéb informació.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
@@ -551,12 +551,12 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Akár gyenge fényviszonyok között vagy, akár a sötétebb háttérszíneket részesíted előnyben a telefonodon, kihasználhatod a Sötét módot a jobb vizuális kényelem érdekében.",
+    "onboarding_text_3": "Akár gyenge fényviszonyok között vagy, akár a sötétebb háttérszíneket részesíted előnyben a telefonodon, kihasználhatod a sötét módot a jobb vizuális kényelem érdekében.",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_4": "Add hozzá a fő mecseted",
+    "onboarding_title_4": "Add hozzá a főmecseted",
     "@onboarding_title_4": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "percek imárahívásig",
+    "minutes_to_athan": "percek imára hívásig",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -626,12 +626,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Válassz ki egy ima értesítést",
+    "tutorial_title_notification": "Válassz ki egy imaértesítést",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Itt kiválaszthatod az értesítés típusát: Imárahívás, bip vagy néma.",
+    "tutorial_text_notification": "Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma.",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -641,7 +641,7 @@
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Értékeld a MAWAQIT-ot",
+    "rate_popin_title": "Értékeld a MAWAQITot",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Itt találod az imárahívás és az ima kezdete közötti időtartamot a mecsetben.",
+    "tutorial_text_iqama": "Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben.",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -716,33 +716,33 @@
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "Legalább egy mecsetet kellene hozzáadnod.",
+    "at_least_one_mosque_error": "Legalább egy mecsetet hozzá kell adnod.",
     "and": "és",
     "continue_to_app": "Tovább",
     "add": "Hozzáadás",
     "mosque": "Mecset",
     "on_boarding_nearest_mosque": "Keressük meg a legközelebbi mecsetet",
-    "on_boarding_nearest_mosque_text": "Itt vannak a mecsetek, amelyek az Te földrajzi elhelyezkedése szerint találhatóak meg körülötted",
-    "search_no_result_for_text": "Nem találtunk eredményt a",
-    "surah_audio_downloading": "Szúrah Audiójának letöltése folyamatban...",
+    "on_boarding_nearest_mosque_text": "Itt vannak a mecsetek, amelyek földrajzi elhelyezkedésed szerint találhatóak körülötted",
+    "search_no_result_for_text": "Nem találtunk eredményt",
+    "surah_audio_downloading": "Szúra audiójának letöltése folyamatban...",
     "msg_internet_connection": "Nem rendelkezel internetkapcsolattal",
     "read_quran": "Korán olvasása",
     "ayahs": "Áják",
-    "chapter": "Szúrah",
+    "chapter": "Szúra",
     "meaning": "Jelentése",
     "al_quran": "A Korán",
-    "surah_information": "Szúrah-val kapcsolatos Információ",
-    "surah_number": "Szúrah száma",
+    "surah_information": "Szúrával kapcsolatos Információ",
+    "surah_number": "Szúra száma",
     "quran_browsing": "Böngészés",
-    "quran_search_placeholder": "Keresés a szúrah neve, száma alapján...",
+    "quran_search_placeholder": "Keresés a szúra neve, száma alapján...",
     "quran_verse_search": "Ája keresés",
     "quran_translation": "Fordítás",
     "quran_mushaf": "A Korán egy nyomtatott példánya",
     "quran_juzz": "Dzsuz",
     "ayah": "Ája",
     "quran_verses": "Áják",
-    "surah": "Szúrah",
-    "continue_reading": "Olvasás Folytatása",
+    "surah": "Szúra",
+    "continue_reading": "Olvasás folytatása",
     "bookmarks": "Könyvjelzők",
     "juzz": "Dzsuz",
     "quran_page": "Oldal",
@@ -765,10 +765,10 @@
     "my_likes": "Kedvenceim",
     "cancel": "Mégse",
     "next": "Következő",
-    "search_surah": "Szúrah keresése",
+    "search_surah": "Szúra keresése",
     "not_downloaded_recitation": "Még nem töltöttél le egyetlen recitációt sem.",
     "not_favorite_reciter": "Még nem jelöltél meg kedvenc recitálót.",
-    "search_reciter": "Recitáló Keresése",
+    "search_reciter": "Recitáló keresése",
     "al_quran_al_kareem": "A Kegyes Korán",
     "surahs": "Szúrák",
     "chapters": "Fejezetek",
@@ -777,7 +777,7 @@
     "calculation_madhab_shafii": "Sáfi'í, Hanbalí és Málikí",
     "calculation_madhab_shafii_countries": "Jordánia, Palesztina, Jemen, Szomália, Eritrea, Malajzia, Indonézia, Brunei, Dél-Egyiptom, Szaúd-Arábia, Katar, Észak-Afrika, Nyugat-Afrika, Egyesült Arab Emírségek, Kuvait...",
     "calculation_madhab_hanafi": "Hanafi",
-    "calculation_madhab_hanafi_countries": "Levante, Pakisztán, Afganisztán, India, Banglades, Irak, Törökország, Oroszország, Kína, Balkán...",
+    "calculation_madhab_hanafi_countries": "Közel-Kelet, Pakisztán, Afganisztán, India, Banglades, Irak, Törökország, Oroszország, Kína, Balkán...",
     "calculation_methods": "Számítási módszerek",
     "calculation_methods_france": "Muslims of France (korábban UOIF)",
     "calculation_methods_algeria": "Algériai Vallásügyi és Wakfok Minisztériuma",
@@ -794,7 +794,7 @@
     "calculation_methods_singapore": "Szingapúr",
     "calculation_methods_turkey": "Törökország",
     "calculation_methods_tehran": "Geofizikai Intézet, Teheráni Egyetem",
-    "calculation_methods_russia": "Az oroszországi muszlimok sprituális igazgatósága",
+    "calculation_methods_russia": "Oroszországi Muszlimok Sprituális Igazgatósága",
     "calculation_methods_custom": "Egyedi szögek",
     "calculation_high_latitude": "Magasabb szélességek",
     "calculation_high_latitude_none": "Nincs",
@@ -803,7 +803,7 @@
     "calculation_high_latitude_angle_based": "Szög alapú módszer",
     "calculation_adjustment": "Manuális korrekció",
     "calculation_adjustment_subtitle": "Imaidő-beállítás és egyedi szögek",
-    "calculation_adjustment_prayers": "Imaidő beállítások",
+    "calculation_adjustment_prayers": "Imaidő- beállítások",
     "calculation_adjustment_prayers_minutes": "percek",
     "calculation_adjustment_angles": "Egyedi szögek",
     "calculation_prayer_custom_angle": "Egyedi szög a",
@@ -813,20 +813,20 @@
     "copied_to_clipboard": "Vágólapodra másolva !",
     "download_quran_popup_title": "Utolsó simítások",
     "download_quran_popup_downloading_1": "Le kell töltenünk a Korán oldalait, ez csak néhány másodpercet fog igénybe venni. A mobiladatodat fogjuk használni, szükség esetén válts át Wi-Fi-re.",
-    "download_quran_popup_downloading_2": "A Koránt csak a Te számodra készítjük elő, kérlek, várj néhány másodpercet!",
+    "download_quran_popup_downloading_2": "A Koránt csak számodra készítjük elő, kérlek, várj néhány másodpercet!",
     "download_quran_popup_downloading_3": "Fedezd fel a Korán szépségét! Érintsd meg a \"Letöltés\" gombot, hogy hozzáférjél a Korán időtlen bölcsességéhez, és ihletet meríts az isteni szavakból.",
     "download_quran_popup_confirm_cancel": "Biztosan meg akarod szakítani a letöltést? Enélkül az adatok nélkül nem fogod tudni olvasni a Koránt, az oldalak nem lesznek elérhetők.",
     "download_quran_popup_cancelled": "Valami hiba történt, kérlek nyomd meg újra a letöltés gombot!",
     "download": "Letöltés",
-    "continue_download": "A letöltést folytatása",
+    "continue_download": "A letöltés folytatása",
     "cancel_download": "A letöltés megszakítása",
     "download_completed": "A letöltés befejeződött",
     "download_failed": "A letöltés sikertelen",
     "download_pages": "Az oldalak letöltése",
     "notification": "Értesítés",
-    "notification_not_supported_below_7": "Nem tudtál imárahívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.",
-    "battery_optimization": "Akkumulátor-optimalizálás",
-    "battery_optimization_subtitle": "Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátor-optimalizálást a MAWAQIT alkalmazás számára.",
+    "notification_not_supported_below_7": "Nem tudtál imára hívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.",
+    "battery_optimization": "Akkumulátoroptimalizálás",
+    "battery_optimization_subtitle": "Ahhoz, hogy az imaidő értesítéseket zökkenőmentesen megkapd, ki kell kapcsolnod az akkumulátoroptimalizálást a MAWAQIT alkalmazás számára.",
     "allow": "Engedélyezés",
     "deny": "Elutasítás",
     "force_notification": "Értesítések kényszerítése",
@@ -855,7 +855,7 @@
     "auto_detect_explanation": "Amikor távol vagy a mecsetedtől, az alkalmazás automatikusan javasolni fogja a legközelebbi mecset keresését a tartózkodási helyed alapján.",
     "auto_detect_location_title": "Úgy tűnik, távol vagy a mecsetedtől.",
     "auto_detect_location_message": "Szeretnéd megkeresni a legközelebbi mecsetet a pontos imaidőpontokért?",
-    "donation_success_toast": "Az Adományozás sikeresen megtörtént",
+    "donation_success_toast": "Az adományozás sikeresen megtörtént",
     "donation_success": "Köszönjük az adományodat, Allah jutalmazzon meg érte!",
     "donation_failed": "Az adományozás sikertelen",
     "donate_for_good": "ADOMÁNYOZZ JÓTÉKONY CÉLRA",
@@ -863,25 +863,25 @@
     "enter_donation_amount": "Add meg az adomány összegét",
     "google_pay_not_available": "A Google Pay nem érhető el ezen a készüléken",
     "error_performing_donation": "Hiba történt az adományozás végrehajtása során",
-    "recurring_pay_text": "Tedd ezt az adományt havi rendszeressé.",
+    "recurring_pay_text": "Tedd ezt az adományt rendszeressé havonta.",
     "adjust_angles": "Szögek beállítása",
     "silent": "Néma",
     "default_": "Alapértelmezett",
-    "muazzin": "Imára hívó személy",
+    "muazzin": "Müezzin",
     "information": "Információ",
     "news": "Hírek",
     "calendar": "Naptár",
     "system": "Rendszer",
-    "change_mosque_order": "Húzd és ejtsd a mecseteket a sorrend megváltoztatásához és a fő mecset beállításához.",
+    "change_mosque_order": "Húzd és ejtsd a mecseteket a sorrend megváltoztatásához és a főmecset beállításához.",
     "remove": "Eltávolítás",
     "save": "Mentés",
-    "main_mosque": "Fő mecset",
+    "main_mosque": "Főmecset",
     "mosques": "Mecsetek",
     "no_news": "Nincs hír a mecsettől.",
-    "mawaqit_notification": "Mawaqit Értesítés",
-    "no_mawaqit_notification": "Nincs értesítés a Mawaqit-tól",
+    "mawaqit_notification": "Mawaqit értesítés",
+    "no_mawaqit_notification": "Nincs értesítés a Mawaqittól",
     "meccan": "Mekkai",
-    "medinan": "Medínai",
+    "medinan": "Medinai",
     "montada_islamic_foundation": "Montada Iszlám Alapítvány",
     "rashid_maash": "Rashid Maash",
     "abdul_haleem": "Abdul Haleem",
@@ -893,7 +893,7 @@
     "reading": "Olvasás",
     "listening": "Hallgatás",
     "font_size": "Betűméret",
-    "font_size_arabic": "Betűméret Arab",
+    "font_size_arabic": "Betűméret arab",
     "horizontal": "Vízszintes",
     "vertical": "Függőleges",
     "add_page_bookmarks": "Oldal hozzáadása a könyvjelzőkhöz",
@@ -903,25 +903,25 @@
     "all_recitators": "Minden recitáló",
     "downloaded": "Letöltve",
     "search_for_recitator": "Recitáló keresése",
-    "search_for_surah": "Szúrah keresése",
+    "search_for_surah": "Szúra keresése",
     "search_for_fav_recitator": "Kedvenc recitáló keresése",
     "listen_to_quran": "KORÁN HALLGATÁSA",
     "search_hint_text": "Keress egy mecsetet, vagy egy várost",
     "downloading": "Letöltés folyamatban",
     "cant_download_more_than_3": "Egyszerre 3-nál többet nem lehet letölteni.",
     "boost": "Gyorsítás",
-    "recitation_deleted_successfully": "Recitáció sikeresen letörölve",
+    "recitation_deleted_successfully": "Recitáció sikeresen törölve",
     "quran": "Korán",
     "qibla": "Mekka iránya",
     "search": "Keresés",
-    "more": "Egyébb",
+    "more": "Egyéb",
     "download_cancelled": "Letöltés megszakítva",
-    "no_virtual_mosque_found": "Sajnálom, de nem találunk mecsetet a környékeden.",
-    "no_surah_found": "Szúrah nem található ",
+    "no_virtual_mosque_found": "Sajnálom, de nem találunk mecsetet a közeledben.",
+    "no_surah_found": "Szúra nem található ",
     "no_favorite_recitor_found": "Kedvenc recitáló nem található",
     "no_recitator_found": "Recitáló nem található",
     "empty_quran_search": "A keresési eredmények itt jelennek meg",
-    "no_bookmark_ayah": "Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelezni szeretnél.",
+    "no_bookmark_ayah": "Nincsenek könyvjelzők. Kérlek, nyomd meg hosszan azt az áját, amelyet könyvjelzőzni szeretnél.",
     "page": "Oldal",
     "prayer_times_in": "Imaidők",
     "update_new_version": "A Korán új verziója elérhető letöltésre. Kattints a 'Frissítés' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.",
@@ -949,5 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Hijri dátum beállítása",
-    "prayer_times_by_location": "Imádkozási idők hely szerint"
+    "prayer_times_by_location": "Imaidők hely szerint",
+    "already_in_list": "már szerepel a listádon!",
+    "got_it": "Megvan!"
 }

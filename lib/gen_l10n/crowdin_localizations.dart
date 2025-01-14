@@ -1297,6 +1297,12 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get prayer_times_by_location => Crowdin.getText(localeName, 'prayer_times_by_location') ?? _fallbackTexts.prayer_times_by_location;
 
+	@override
+  String get already_in_list => Crowdin.getText(localeName, 'already_in_list') ?? _fallbackTexts.already_in_list;
+
+	@override
+  String get got_it => Crowdin.getText(localeName, 'got_it') ?? _fallbackTexts.got_it;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

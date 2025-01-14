@@ -2674,6 +2674,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Prayer times by location'**
   String get prayer_times_by_location;
+
+  /// No description provided for @already_in_list.
+  ///
+  /// In en, this message translates to:
+  /// **'is already in your list!'**
+  String get already_in_list;
+
+  /// No description provided for @got_it.
+  ///
+  /// In en, this message translates to:
+  /// **'Got it!'**
+  String get got_it;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

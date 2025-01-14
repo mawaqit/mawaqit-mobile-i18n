@@ -1275,4 +1275,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Gebetszeiten nach Standort';
+
+  @override
+  String get already_in_list => 'staat al in je lijst!';
+
+  @override
+  String get got_it => 'Verstanden!';
 }

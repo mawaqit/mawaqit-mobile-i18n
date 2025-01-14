@@ -1275,4 +1275,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Konuma göre namaz vakitleri';
+
+  @override
+  String get already_in_list => 'zaten listenizde var!';
+
+  @override
+  String get got_it => 'Tamamdır!';
 }

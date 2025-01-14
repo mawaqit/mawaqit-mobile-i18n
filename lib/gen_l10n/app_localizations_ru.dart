@@ -1275,4 +1275,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get prayer_times_by_location => 'Время молитвы по местоположению';
+
+  @override
+  String get already_in_list => 'уже в вашем списке!';
+
+  @override
+  String get got_it => 'Понятно!';
 }
