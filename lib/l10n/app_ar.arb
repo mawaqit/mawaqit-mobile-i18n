@@ -228,16 +228,16 @@
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "السلام, Paris, إلخ",
+    "search_TryParis": "المسجد الأقصى, القدس, إلخ",
     "search_ByGPS": "البحث عن طريق GPS",
-    "search_HelpText": "يمكنك البحث عن مسجد بكتابة كلمة من :\n- اسم المسجد\n- اسم الجمعية\n- المدينة ، العنوان ، الدولة ... الخ.\n\nأو يمكنك الضغط على زر تحديد الموقع للعثور على المساجد المحيطة بك.",
-    "search_MaxFavMosquesReached": "لقد وصلت إلى الحد الأقصى لعدد المساجد المفضلة.",
+    "search_HelpText": "يمكنك البحث عن مسجد بكتابة كلمة من :\n- اسم المسجد\n- اسم الجمعية\n- المدينة ، العنوان ، الدولة ... الخ.\n\nأو يمكنك الضغط على زر الموقع للعثور على المساجد المحيطة",
+    "search_MaxFavMosquesReached": "لقد وصلت إلى الحد الأقصى للمساجد المفضلة",
     "search_iOs14_message": "البحث باستخدام GPS قد يأخد بعض الوقت على iOS 14. يرجى الإنتظار",
-    "search_error": "حدث خطأ. يرجى المحاولة لاحقا",
+    "search_error": "عذرًا، حدث خطأ",
     "search_your_location": "موقعك",
-    "search_location_disabled": "الرجاء البحث عن مسجد بالاسم أو المدينة ، أو قم بتمكين الموقع يدويًا في الإعدادات الخاصة.",
+    "search_location_disabled": "يرجى البحث عن مسجد بالاسم أو المدينة، أو السماح بتحديد الموقع يدويًا في الإعدادات",
     "search_settings": "الإعدادات",
-    "no_services_text": "لم تقدم المساجد هذه المعلومات",
+    "no_services_text": "لم توفر المساجد هذه المعلومات",
     "welcome": "مرحبًا بك في",
     "mawaqit": "مواقيت",
     "connecting": "ربط المسلمين",
@@ -246,8 +246,8 @@
     "get_prayer_notifications_for": "احصل على إشعارات الصلاة لـ",
     "turn_on_notifications": "تشغيل إشعارات الصلاة",
     "no_thanks": "لا شكرًا",
-    "notification_denied": "لقد رفضت أذونات الإشعارات، لذا لن تتلقى أي إشعارات.",
-    "at_least_one_mosque": "أضف على الأقل مسجدًا واحدًا للمتابعة",
+    "notification_denied": "لقد قمت برفض إذن الإشعارات، لذلك لن تتلقى أي إشعارات",
+    "at_least_one_mosque": "أضف مسجدًا واحدًا على الأقل للمتابعة",
     "set_up_your_prayer": "أقِم صلاتك",
     "notifications": "الإشعارات",
     "mosques_around_you": "المساجد من حولك",
@@ -257,31 +257,31 @@
     "enable_location_service_from_app_settings": "تمكين خدمة الموقع من إعدادات التطبيق.",
     "the_request_timeout": "انتهت مهلة الطلب",
     "no_internet_connection": "لا يوجد اتصال بالإنترنت",
-    "try_again": "حاول ثانية",
+    "try_again": "حاول مرة أخرى",
     "virtual_mosque": "المسجد الافتراضي",
     "no_mosque_in_selected_area": "لم يتم العثور على أي مساجد في المنطقة المحددة",
-    "no_mosque_with": "لم يتم العثور على أي مساجد بها",
+    "no_mosque_with": "لم يتم العثور على أي مساجد مع",
     "retry": "أعد المحاولة",
     "search_here": "ابحث هنا",
     "enter_at_least_3_char": "أدخل 3 أحرف على الأقل للبحث",
-    "jumua1": "الجمعة 1",
+    "jumua1": "الجمعة الأولى",
     "prayer_times": "أوقات الصلاة",
     "remove_this_city": "إزالة هذه المدينة",
     "add_this_city": "أضف هذه المدينة",
     "add_this_mosque": "أضف هذا المسجد",
     "remove_this_mosque": "إزالة هذا المسجد",
     "services": "خدمات",
-    "share": "أشارك",
-    "itinerary": "أذهب",
-    "call": "أتصل",
-    "dnd": "لا تخل",
+    "share": "شارك",
+    "itinerary": "اذهب",
+    "call": "اتصل",
+    "dnd": "عدم الإزعاج",
     "battery_optimize": "تحسين البطارية",
     "power_saver": "موفر الطاقة",
-    "permission_message1": "لقد اكتشفنا إشعارًا متأخرًا، يرجى إيقافه",
+    "permission_message1": "تم اكتشاف إشعار متأخر، يرجى إيقافه",
     "permission_message2": "لتلقي الإشعار في الوقت المحدد.",
     "notifications_delay_detected": "تأكيد الإشعارات",
-    "open_setting": "أفتح الإعدادات",
-    "noJumua": "لا جمعة",
+    "open_setting": "افتح الإعدادات",
+    "noJumua": "لا صلاة جمعة",
     "@noJumua": {
         "description": "_",
         "type": "text"
@@ -291,11 +291,11 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "المستشعر في جهازك الذي تستخدمه مواقيت لتحديد القبلة لا يعمل كما هو متوقع ، مما يؤثر على قدرتنا على عرض اتجاه القبلة.",
+    "qibla_sensor": "المستشعر في جهازك الذي يستخدمه مواقيت لتحديد اتجاه القبلة لا يعمل كما هو متوقع، مما يؤثر على قدرتنا في عرض اتجاه القبلة",
     "connection_not_found": "إعداد معايرة البوصلة معطل. يرجى التأكد من تشغيل الاتصال الخاص بك وحاول مرة أخرى بتغيير الاتجاه.",
     "currently_located_at": "حاليًا يقع في",
     "facing_makkah": "أنت تواجه مكة",
-    "not_facing_Makkah": "أنت لا تواجه مكة",
+    "not_facing_Makkah": "أنت لا تواجه اتجاه القبلة ( مكة )",
     "qibla_Error_retry": "أعد المحاولة",
     "@qibla_Error_retry": {
         "description": "_",
@@ -306,12 +306,12 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "رفض خدمة الموقع إلى الأبد!",
+    "qibla_Error_LocationDeniedForever": "تم رفض خدمة الموقع بشكل دائم!",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "الرجاء تمكين خدمة الموقع",
+    "qibla_Error_PleaseEnable": "يرجى تفعيل خدمة الموقع",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
@@ -326,7 +326,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "هناك خطأ ما...",
+    "favorites_Error": "حدث خطأ ما...",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
@@ -341,7 +341,7 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "معلومات عاجِلة",
+    "announcement_Type_FlashInfo": "رسالة الفلاش",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
@@ -356,7 +356,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "تعذر الإطلاق",
+    "mosque_Error_CouldNotLaunch": "تعذر الفتح",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
@@ -381,7 +381,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "أكتب",
+    "mosque_Email": "البريد إلكتروني",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -461,12 +461,12 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "الجمعة 2",
+    "jumua2": "الجمعة الثانية",
     "@jumua2": {
         "description": "_",
         "type": "text"
     },
-    "please_update": "نسخة جديدة لمواقيت متوفرة الرجاء التحديث",
+    "please_update": "هناك نسخة أحدث من مواقيت متوفرة، يرجى التحديث",
     "@please_update": {
         "description": "_",
         "type": "text"
@@ -491,17 +491,17 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "يظهر مسجدك الرئيسي هنا.\nيمكنك التمرير إلى اليسار واليمين للتبديل بين المساجد المفضلة لديك.",
+    "tutorial_text_main_mosque": "يظهر مسجدك الرئيسي يظهر هنا.\nيمكنك التمرير لليسار واليمين للتبديل بين المساجد المفضلة لديك.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "مؤشر الصلاة القادمة",
+    "tutorial_title_countdown": "مؤشر الصلاة التالية",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "يوضح لك هذا العد التنازلي الوقت المتبقي قبل الصلاة القادمة",
+    "tutorial_text_countdown": "يعرض هذا العد التنازلي الوقت المتبقي قبل الصلاة التالية",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
@@ -516,12 +516,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "رسائل وإعلانات المساجد",
+    "tutorial_title_announcements": "الرسائل والإعلانات الخاصة بالمسجد",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "ستظهر هنا الإشعارات الخاصة بالرسائل والإعلانات الواردة من مسجدك.\nعندما تضغط على هذا الزر ، سترى التفاصيل الكاملة. يمكن أن تكون هذه الإعلانات رسالة فلاش أو صورة أو حتى فيديو.",
+    "tutorial_text_announcements": "ستظهر هنا الإشعارات الخاصة بالرسائل والإعلانات الواردة من مسجدك.\nعندما تضغط على هذا الزر ، سترى التفاصيل الكاملة. يمكن أن تكون هذه الإعلانات رسالة فلاش أو صورة أو فيديو.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -541,7 +541,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "مواقيت هو نظام يوفر لك طريقة جديدة لتتبع وإدارة أوقات الصلاة ، والتطبيق بين يديك هو جزء من هذا النظام ، فهو يتيح لك العثور على المساجد ومتابعة أخبارها و أوقات الصلاة.",
+    "onboarding_text_2": "مواقيت هو نظام متكامل يوفر لك طريقة جديدة لمتابعة وإدارة مواعيد الصلاة. التطبيق الذي بين يديك هو جزء من هذا النظام، حيث يتيح لك العثور على المساجد ومتابعة أخبارها ومواعيد صلاتها",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
@@ -551,7 +551,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "سواء كنت في بيئة منخفضة الإضاءة أو تفضل ألوان خلفية داكنة على هاتفك ، يمكنك الاستفادة من الوضع الداكن لتحسين الراحة البصرية.",
+    "onboarding_text_3": "سواء كنت في بيئة منخفضة الإضاءة أو تفضل الألوان الخلفية الداكنة على هاتفك، يمكنك الاستفادة من الوضع المظلم لتحسين الراحة البصرية.",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "دقيقة لأذان",
+    "minutes_to_athan": "دقائق حتى الأذان",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,12 +631,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "هنا يمكنك تحديد نوع التنبيه ، الأذان ، بيب أو الصامت",
+    "tutorial_text_notification": "هنا يمكنك اختيار نوع الإشعار: أذان، رنين، أو صامت.",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "كن سفيراً لمواقيت واقترح نظامنا على مسجدك ، إنه مجاني\nhttps://mawaqit.net",
+    "search_no_result": "كن سفيرًا لـ MAWAQIT وقدم خدماتنا لمسجدك مجانًا، وأضف مسجدك الآن عبر\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
@@ -951,5 +951,21 @@
     "adjust_hijri_date": "ضبط التاريخ الهجري",
     "prayer_times_by_location": "مواقيت الصلاة حسب الموقع",
     "already_in_list": "موجود بالفعل في قائمتك!",
-    "got_it": "فهمت ذلك!"
+    "got_it": "فهمت ذلك!",
+    "mushaf_warsh": "مصحف ورش",
+    "@mushaf_warsh": {
+        "description": "-> mushaf_warsh"
+    },
+    "mushaf_hafs": "مصحف هافس",
+    "@mushaf_hafs": {
+        "description": "-> mushaf_hafs"
+    },
+    "select_rewaya": "حدد Rewaya",
+    "@select_rewaya": {
+        "description": "-> select_rewaya"
+    },
+    "download_in_progress": "التحميل قيد التقدم، يرجى الانتظار...",
+    "@download_in_progress": {
+        "description": "-> download_in_progress"
+    }
 }
