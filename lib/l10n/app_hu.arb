@@ -127,7 +127,7 @@
         "description": "_",
         "type": "text"
     },
-    "fajr": "Hajnali ima",
+    "fajr": "Hajnali",
     "@fajr": {
         "description": "_",
         "type": "text"
@@ -137,17 +137,17 @@
         "description": "_",
         "type": "text"
     },
-    "duhr": "Déli ima",
+    "duhr": "Déli",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Délutáni ima",
+    "asr": "Délutáni",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Naplementi ima",
+    "maghrib": "Naplementi",
     "@maghrib": {
         "description": "_",
         "type": "text"
@@ -173,7 +173,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Mekka (hajnali ima)",
+    "adhan_Makkah_fajr": "Mekka (hajnali)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
@@ -193,7 +193,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (hajnali ima)",
+    "adhan_AlAfassy_fajr": "Al Afassy (hajnali)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
@@ -446,7 +446,7 @@
         "description": "_",
         "type": "text"
     },
-    "imsak": "A hajnal beköszöntével az evés és ivás abbahagyása",
+    "imsak": "Imszák",
     "@imsak": {
         "description": "_",
         "type": "text"
