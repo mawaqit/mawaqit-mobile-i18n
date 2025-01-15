@@ -134,19 +134,19 @@ class AppLocalizationsHu extends AppLocalizations {
   String get settings_AboutUsText => 'Ezt az alkalmazást a MAWAQIT egyesület fejlesztette ki.\n\nA MAWAQIT egyesület egy 2021-ben Franciaországban létrehozott nonprofit szervezet. Célunk az informatikához és a digitális technológiához kapcsolódó innovatív megoldások, például szoftverek és weboldalak fejlesztése; digitális megoldások és informatikai eszközök oktatása és képzése.\n\nA MAWAQIT Ecosystem a zászlóshajó termékünk, amelynek története 2016-ban kezdődött, egy mecsetekre szánt nagy képernyőkön megjelenő alkalmazással, majd egy mobilalkalmazással, egy otthoni asszisztens-kiegészítővel és egy Alexa készséggel stb.\n\nA MAWAQIT új módot kínál az imaidők nyomon követésére és kezelésére, valójában egy végponttól végpontig tartó rendszert kínálunk, amely a mecsetek vezetőinek egy 24 / 24 órában elérhető online eszközt kínál, amely lehetővé teszi számukra a menetrendek, a mecset hírei és sok más funkció kezelését. A hívők a maguk részéről egy mobilalkalmazás előnyeit élvezhetik, amely lehetővé teszi számukra, hogy megtekinthessék kedvenc mecsetük pontos és nem hozzávetőleges menetrendjét, valamint a híreket és egyéb funkciókat, mint például a mecset keresése földrajzi helymeghatározás alapján, az imárahívás, a qibla iránya... stb. A megbízhatóságot és a minőséget tettük legfőbb értékeinkké. Ambíciónk egyértelmű: a technológiának és a tervezésnek köszönhetően a legjobb szolgáltatást nyújtani mecseteink számára.\n\nHa tetszett ez az alkalmazás, kérjük, mondd el véleményedet az áruházban.';
 
   @override
-  String get fajr => 'Hajnali ima';
+  String get fajr => 'Hajnali';
 
   @override
   String get shuruq => 'Napfelkelte';
 
   @override
-  String get duhr => 'Déli ima';
+  String get duhr => 'Déli';
 
   @override
-  String get asr => 'Délutáni ima';
+  String get asr => 'Délutáni';
 
   @override
-  String get maghrib => 'Naplementi ima';
+  String get maghrib => 'Naplementi';
 
   @override
   String get isha => 'Esti ima';
@@ -164,7 +164,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get adhan => 'Imára hívás';
 
   @override
-  String get adhan_Makkah_fajr => 'Mekka (hajnali ima)';
+  String get adhan_Makkah_fajr => 'Mekka (hajnali)';
 
   @override
   String get adhan_Madinah => 'Medina';
@@ -176,7 +176,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get adhan_AlAfassy => 'Al Afassy';
 
   @override
-  String get adhan_AlAfassy_fajr => 'Al Afassy (hajnali ima)';
+  String get adhan_AlAfassy_fajr => 'Al Afassy (hajnali)';
 
   @override
   String get adhan_Muhammad_jazy => 'Muhammad Jazy';
@@ -467,7 +467,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get in_ => 'Be';
 
   @override
-  String get imsak => 'A hajnal beköszöntével az evés és ivás abbahagyása';
+  String get imsak => 'Imszák';
 
   @override
   String get eid => 'Ünnepi ima';
