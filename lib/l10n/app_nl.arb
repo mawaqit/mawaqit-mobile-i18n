@@ -967,5 +967,6 @@
     "download_in_progress": "Downloaden is bezig, even geduld a.u.b...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
-    }
+    },
+    "highlight_next_prayer_after_Iqama": "Markeer volgende gebed na Iqama"
 }
