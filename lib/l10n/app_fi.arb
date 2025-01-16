@@ -967,5 +967,6 @@
     "download_in_progress": "Lataus käynnissä, odota...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
-    }
+    },
+    "highlight_next_prayer_after_Iqama": "Korosta seuraava rukous Iqaman jälkeen"
 }

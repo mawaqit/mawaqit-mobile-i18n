@@ -967,5 +967,6 @@
     "download_in_progress": "İndirme işlemi devam ediyor, lütfen bekleyin...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
-    }
+    },
+    "highlight_next_prayer_after_Iqama": "İkamadan sonraki duayı vurgulayın"
 }

@@ -1293,4 +1293,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get download_in_progress => 'Downloaden is bezig, even geduld a.u.b...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'Markeer volgende gebed na Iqama';
 }

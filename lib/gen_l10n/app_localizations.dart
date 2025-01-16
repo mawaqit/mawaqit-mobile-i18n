@@ -2710,6 +2710,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Download in progress, please wait...'**
   String get download_in_progress;
+
+  /// No description provided for @highlight_next_prayer_after_Iqama.
+  ///
+  /// In en, this message translates to:
+  /// **'Highlight next prayer after Iqama'**
+  String get highlight_next_prayer_after_Iqama;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

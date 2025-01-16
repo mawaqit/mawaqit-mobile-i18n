@@ -1293,4 +1293,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get download_in_progress => 'Download em andamento, por favor aguarde...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'Marcar a próxima oração após Iqama';
 }

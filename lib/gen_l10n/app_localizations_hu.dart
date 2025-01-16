@@ -1293,4 +1293,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get download_in_progress => 'Letöltés folyamatban, kérjük várjon...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'Kiemelje a következő imát az Iqama után';
 }

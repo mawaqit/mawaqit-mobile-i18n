@@ -1293,4 +1293,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get download_in_progress => 'التنزيل قيد التنفيذ، يرجى الانتظار...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'تحديد الصلاة التالية بعد الإقامة';
 }

@@ -967,5 +967,6 @@
     "download_in_progress": "Pengunduhan sedang berlangsung, harap tunggu...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
-    }
+    },
+    "highlight_next_prayer_after_Iqama": "Sorot doa berikutnya setelah Iqamah"
 }

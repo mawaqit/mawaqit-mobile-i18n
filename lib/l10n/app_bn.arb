@@ -967,5 +967,6 @@
     "download_in_progress": "Download in progress, please wait...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
-    }
+    },
+    "highlight_next_prayer_after_Iqama": "ইকামার পরে পরবর্তী নামাজ হাইলাইট করুন"
 }
