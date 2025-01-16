@@ -951,7 +951,7 @@
     "adjust_hijri_date": "ضبط التاريخ الهجري",
     "prayer_times_by_location": "مواقيت الصلاة حسب الموقع",
     "already_in_list": "موجود بالفعل في قائمتك!",
-    "got_it": "فهمت ذلك!",
+    "got_it": "نعم!",
     "mushaf_warsh": "مصحف ورش",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
