@@ -1315,6 +1315,9 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get download_in_progress => Crowdin.getText(localeName, 'download_in_progress') ?? _fallbackTexts.download_in_progress;
 
+	@override
+  String get highlight_next_prayer_after_Iqama => Crowdin.getText(localeName, 'highlight_next_prayer_after_Iqama') ?? _fallbackTexts.highlight_next_prayer_after_Iqama;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

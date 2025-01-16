@@ -1293,4 +1293,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get download_in_progress => 'Download in progress, please wait...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
 }

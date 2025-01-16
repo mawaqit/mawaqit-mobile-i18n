@@ -1293,4 +1293,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get download_in_progress => 'Идёт загрузка, пожалуйста подождите...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'Выделить следующее молитва после Икамы';
 }

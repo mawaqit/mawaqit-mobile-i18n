@@ -1293,4 +1293,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get download_in_progress => 'Pengunduhan sedang berlangsung, harap tunggu...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'Sorot doa berikutnya setelah Iqamah';
 }

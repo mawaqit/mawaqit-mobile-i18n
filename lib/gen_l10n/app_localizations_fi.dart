@@ -1293,4 +1293,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get download_in_progress => 'Lataus käynnissä, odota...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'Korosta seuraava rukous Iqaman jälkeen';
 }

@@ -1293,4 +1293,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get download_in_progress => 'İndirme işlemi devam ediyor, lütfen bekleyin...';
+
+  @override
+  String get highlight_next_prayer_after_Iqama => 'İkamadan sonraki duayı vurgulayın';
 }
