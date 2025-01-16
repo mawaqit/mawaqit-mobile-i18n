@@ -1280,7 +1280,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get already_in_list => 'موجود بالفعل في قائمتك!';
 
   @override
-  String get got_it => 'فهمت ذلك!';
+  String get got_it => 'نعم!';
 
   @override
   String get mushaf_warsh => 'مصحف ورش';
