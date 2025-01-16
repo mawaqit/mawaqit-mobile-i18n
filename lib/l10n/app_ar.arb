@@ -968,5 +968,5 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "تسليط الضوء على الصلاة القادمة بعد إيكاما"
+    "highlight_next_prayer_after_Iqama": "تحديد الصلاة التالية بعد الإقامة"
 }
