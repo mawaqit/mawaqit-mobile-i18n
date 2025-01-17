@@ -968,5 +968,6 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Highlight next prayer after Iqama"
+    "highlight_next_prayer_after_Iqama": "Highlight next prayer after Iqama",
+    "helmi_nasr": "ڈاکٹر حلمی نصر"
 }

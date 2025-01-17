@@ -1296,4 +1296,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get highlight_next_prayer_after_Iqama => 'Подчертаване на следващата молитва след Iqama';
+
+  @override
+  String get helmi_nasr => 'Д-р Хелми Наср';
 }

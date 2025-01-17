@@ -1296,4 +1296,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get highlight_next_prayer_after_Iqama => 'İkamadan sonraki duayı vurgulayın';
+
+  @override
+  String get helmi_nasr => 'Dr. Helmi Nasr';
 }

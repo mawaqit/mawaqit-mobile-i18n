@@ -1296,4 +1296,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
+
+  @override
+  String get helmi_nasr => 'ڈاکٹر حلمی نصر';
 }

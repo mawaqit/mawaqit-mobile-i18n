@@ -968,5 +968,6 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Evidenzia la preghiera successiva dopo Iqama"
+    "highlight_next_prayer_after_Iqama": "Evidenzia la preghiera successiva dopo Iqama",
+    "helmi_nasr": "Dr. Helmi Nasr"
 }

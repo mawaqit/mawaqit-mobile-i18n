@@ -1296,4 +1296,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get highlight_next_prayer_after_Iqama => 'Korosta seuraava rukous Iqaman jälkeen';
+
+  @override
+  String get helmi_nasr => 'Dr. Helmi Nasr';
 }

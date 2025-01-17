@@ -1296,4 +1296,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get highlight_next_prayer_after_Iqama => 'Podświetl kolejną modlitwę po Iqama';
+
+  @override
+  String get helmi_nasr => 'Dr. Helmi Nasr';
 }
