@@ -969,5 +969,6 @@
         "description": "-> download_in_progress"
     },
     "highlight_next_prayer_after_Iqama": "Als nächstes Gebet nach Iqama hervorheben",
-    "helmi_nasr": "Dr. Helmi Nasr"
+    "helmi_nasr": "Dr. Helmi Nasr",
+    "settings_language_pt": "Portugiesisch"
 }
