@@ -969,5 +969,6 @@
         "description": "-> download_in_progress"
     },
     "highlight_next_prayer_after_Iqama": "Sorot doa berikutnya setelah Iqamah",
-    "helmi_nasr": "Dr. Helmi Nasr"
+    "helmi_nasr": "Dr. Helmi Nasr",
+    "settings_language_pt": "Bahasa Portugis"
 }
