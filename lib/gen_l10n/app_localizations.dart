@@ -2716,6 +2716,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Highlight next prayer after Iqama'**
   String get highlight_next_prayer_after_Iqama;
+
+  /// No description provided for @helmi_nasr.
+  ///
+  /// In en, this message translates to:
+  /// **'Dr. Helmi Nasr'**
+  String get helmi_nasr;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
