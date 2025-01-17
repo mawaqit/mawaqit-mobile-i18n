@@ -969,5 +969,6 @@
         "description": "-> download_in_progress"
     },
     "highlight_next_prayer_after_Iqama": "ইকামার পরে পরবর্তী নামাজ হাইলাইট করুন",
-    "helmi_nasr": "ড. হেলমি নাসর"
+    "helmi_nasr": "ড. হেলমি নাসর",
+    "settings_language_pt": "Portuguese"
 }
