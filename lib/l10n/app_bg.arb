@@ -968,5 +968,6 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Подчертаване на следващата молитва след Iqama"
+    "highlight_next_prayer_after_Iqama": "Подчертаване на следващата молитва след Iqama",
+    "helmi_nasr": "Д-р Хелми Наср"
 }
