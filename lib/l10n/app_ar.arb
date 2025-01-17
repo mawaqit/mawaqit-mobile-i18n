@@ -969,5 +969,6 @@
         "description": "-> download_in_progress"
     },
     "highlight_next_prayer_after_Iqama": "تحديد الصلاة التالية بعد الإقامة",
-    "helmi_nasr": "د. حلمي نصر"
+    "helmi_nasr": "د. حلمي نصر",
+    "settings_language_pt": "البرتغالية"
 }
