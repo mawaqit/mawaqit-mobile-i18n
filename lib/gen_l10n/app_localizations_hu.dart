@@ -1299,4 +1299,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
+
+  @override
+  String get settings_language_pt => 'Portugál';
 }

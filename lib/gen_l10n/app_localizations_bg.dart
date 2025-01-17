@@ -1299,4 +1299,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get helmi_nasr => 'Д-р Хелми Наср';
+
+  @override
+  String get settings_language_pt => 'Португалски';
 }

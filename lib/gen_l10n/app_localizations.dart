@@ -2722,6 +2722,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Dr. Helmi Nasr'**
   String get helmi_nasr;
+
+  /// No description provided for @settings_language_pt.
+  ///
+  /// In en, this message translates to:
+  /// **'Portuguese'**
+  String get settings_language_pt;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
