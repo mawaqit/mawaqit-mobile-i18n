@@ -1299,4 +1299,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get helmi_nasr => 'ڈاکٹر حلمی نصر';
+
+  @override
+  String get settings_language_pt => 'Portuguese';
 }
