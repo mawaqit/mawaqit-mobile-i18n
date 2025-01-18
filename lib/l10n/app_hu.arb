@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Imaidők hely szerint",
     "already_in_list": "már szerepel a listádon!",
     "got_it": "Megvan!",
-    "mushaf_warsh": "Muszhaf Warsh",
+    "mushaf_warsh": "Muszhaf Wars",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
@@ -960,15 +960,15 @@
     "@mushaf_hafs": {
         "description": "-> mushaf_hafs"
     },
-    "select_rewaya": "Válassza ki Rewaya",
+    "select_rewaya": "Recitálási stílus",
     "@select_rewaya": {
         "description": "-> select_rewaya"
     },
-    "download_in_progress": "Letöltés folyamatban, kérjük várjon...",
+    "download_in_progress": "Letöltés folyamatban, kérjük várj...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Kiemelje a következő imát az Iqama után",
+    "highlight_next_prayer_after_Iqama": "Iqáma után jelöld ki a következő imát",
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portugál"
 }
