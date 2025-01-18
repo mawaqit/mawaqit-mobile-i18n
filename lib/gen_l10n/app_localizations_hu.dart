@@ -1283,19 +1283,19 @@ class AppLocalizationsHu extends AppLocalizations {
   String get got_it => 'Megvan!';
 
   @override
-  String get mushaf_warsh => 'Muszhaf Warsh';
+  String get mushaf_warsh => 'Muszhaf Wars';
 
   @override
   String get mushaf_hafs => 'Muszhaf Hafsz';
 
   @override
-  String get select_rewaya => 'Válassza ki Rewaya';
+  String get select_rewaya => 'Recitálási stílus';
 
   @override
-  String get download_in_progress => 'Letöltés folyamatban, kérjük várjon...';
+  String get download_in_progress => 'Letöltés folyamatban, kérjük várj...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Kiemelje a következő imát az Iqama után';
+  String get highlight_next_prayer_after_Iqama => 'Iqáma után jelöld ki a következő imát';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
