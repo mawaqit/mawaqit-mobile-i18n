@@ -692,7 +692,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get quran_translation => 'Fordítás';
 
   @override
-  String get quran_mushaf => 'A Korán egy nyomtatott példánya';
+  String get quran_mushaf => 'Mushaf';
 
   @override
   String get quran_juzz => 'Dzsuz';
@@ -1283,10 +1283,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get got_it => 'Megvan!';
 
   @override
-  String get mushaf_warsh => 'Mushaf Warsh';
+  String get mushaf_warsh => 'Muszhaf Warsh';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'Muszhaf Hafsz';
 
   @override
   String get select_rewaya => 'Válassza ki Rewaya';
