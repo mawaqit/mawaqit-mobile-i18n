@@ -1274,28 +1274,28 @@ class AppLocalizationsBs extends AppLocalizations {
   String get adjust_hijri_date => 'Prilagodite hidžretski datum';
 
   @override
-  String get prayer_times_by_location => 'Prayer times by location';
+  String get prayer_times_by_location => 'Namaska vremena prema lokaciji';
 
   @override
-  String get already_in_list => 'is already in your list!';
+  String get already_in_list => 'već je na vašoj listi!';
 
   @override
-  String get got_it => 'Got it!';
+  String get got_it => 'Razumijem!';
 
   @override
-  String get mushaf_warsh => 'Mushaf Warsh';
+  String get mushaf_warsh => 'Mus\'haf prema kiraetu Warš';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'Mus\'haf prema kiraetu Hafs';
 
   @override
-  String get select_rewaya => 'Select Rewaya';
+  String get select_rewaya => 'Izaberite Rewayu';
 
   @override
-  String get download_in_progress => 'Download in progress, please wait...';
+  String get download_in_progress => 'Preuzimanje u toku, molimo sačekajte...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
+  String get highlight_next_prayer_after_Iqama => 'Nakon ikameta istakni vrijme za sljedeću molitvu';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
