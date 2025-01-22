@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Horarios de oración por ubicación",
     "already_in_list": "ya está en tu lista!",
     "got_it": "¡Entendido!",
-    "mushaf_warsh": "Chispán húmedo",
+    "mushaf_warsh": "guerra",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
