@@ -2692,13 +2692,13 @@ abstract class AppLocalizations {
   /// -> mushaf_warsh
   ///
   /// In en, this message translates to:
-  /// **'Mushaf Warsh'**
+  /// **'Warsh'**
   String get mushaf_warsh;
 
   /// -> mushaf_hafs
   ///
   /// In en, this message translates to:
-  /// **'Mushaf Hafs'**
+  /// **'Hafs'**
   String get mushaf_hafs;
 
   /// -> select_rewaya
