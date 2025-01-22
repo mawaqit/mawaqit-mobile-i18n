@@ -1283,7 +1283,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get got_it => 'Verstanden!';
 
   @override
-  String get mushaf_warsh => 'Mushaf Krieg';
+  String get mushaf_warsh => 'Krieg';
 
   @override
   String get mushaf_hafs => 'Mushaf Hafs';

@@ -1283,7 +1283,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get got_it => 'Megvan!';
 
   @override
-  String get mushaf_warsh => 'Muszhaf Wars';
+  String get mushaf_warsh => 'Wars';
 
   @override
   String get mushaf_hafs => 'Muszhaf Hafsz';
