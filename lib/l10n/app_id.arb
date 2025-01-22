@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Waktu salat berdasarkan lokasi",
     "already_in_list": "sudah ada dalam daftar Anda!",
     "got_it": "Mengerti!",
-    "mushaf_warsh": "Mushaf Warsh",
+    "mushaf_warsh": "Warsh",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
