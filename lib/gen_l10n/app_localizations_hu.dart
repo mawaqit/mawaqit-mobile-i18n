@@ -1286,7 +1286,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get mushaf_warsh => 'Wars';
 
   @override
-  String get mushaf_hafs => 'Muszhaf Hafsz';
+  String get mushaf_hafs => 'Hafsz';
 
   @override
   String get select_rewaya => 'Recitálási stílus';

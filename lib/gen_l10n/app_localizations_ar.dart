@@ -1286,7 +1286,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get mushaf_warsh => 'ورش';
 
   @override
-  String get mushaf_hafs => 'مصحف حفص';
+  String get mushaf_hafs => 'حفص';
 
   @override
   String get select_rewaya => 'اختار الرواية';

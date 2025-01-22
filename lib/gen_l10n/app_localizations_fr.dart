@@ -1286,7 +1286,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Hafs de Mushaf';
+  String get mushaf_hafs => 'Hafs';
 
   @override
   String get select_rewaya => 'Sélectionner Rewaya';
