@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Gebedstijden per locatie",
     "already_in_list": "staat al op je lijst!",
     "got_it": "Ik snap het!",
-    "mushaf_warsh": "Mushaf Warsh",
+    "mushaf_warsh": "Warsh",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
