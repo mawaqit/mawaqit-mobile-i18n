@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Namaska vremena prema lokaciji",
     "already_in_list": "već je na vašoj listi!",
     "got_it": "Razumijem!",
-    "mushaf_warsh": "Mus'haf prema kiraetu Warš",
+    "mushaf_warsh": "Warš",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
