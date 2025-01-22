@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Kohët e namazit sipas vendndodhjes",
     "already_in_list": "Është tashmë në listën tuaj!",
     "got_it": "E kuptova!",
-    "mushaf_warsh": "Mushafi Warsh",
+    "mushaf_warsh": "Warsh",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
