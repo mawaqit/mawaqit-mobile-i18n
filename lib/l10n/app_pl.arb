@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Czasy modlitwy według lokalizacji",
     "already_in_list": "jest już na Twojej liście!",
     "got_it": "Rozumiem!",
-    "mushaf_warsh": "Mushaf Warsh",
+    "mushaf_warsh": "Warsh",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
