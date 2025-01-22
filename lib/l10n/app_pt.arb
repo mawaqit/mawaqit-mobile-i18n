@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Tempos de oração por localização",
     "already_in_list": "já está na sua lista!",
     "got_it": "Entendi!",
-    "mushaf_warsh": "Mushaf Encantado",
+    "mushaf_warsh": "Encantado",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
