@@ -20,6 +20,7 @@ import 'app_localizations_hi.dart';
 import 'app_localizations_hu.dart';
 import 'app_localizations_id.dart';
 import 'app_localizations_it.dart';
+import 'app_localizations_ku.dart';
 import 'app_localizations_nl.dart';
 import 'app_localizations_pl.dart';
 import 'app_localizations_pt.dart';
@@ -124,6 +125,7 @@ abstract class AppLocalizations {
     Locale('hu'),
     Locale('id'),
     Locale('it'),
+    Locale('ku'),
     Locale('nl'),
     Locale('pl'),
     Locale('pt'),
@@ -2741,7 +2743,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'nl', 'pl', 'pt', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'nl', 'pl', 'pt', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -2767,6 +2769,7 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
     case 'hu': return AppLocalizationsHu();
     case 'id': return AppLocalizationsId();
     case 'it': return AppLocalizationsIt();
+    case 'ku': return AppLocalizationsKu();
     case 'nl': return AppLocalizationsNl();
     case 'pl': return AppLocalizationsPl();
     case 'pt': return AppLocalizationsPt();
