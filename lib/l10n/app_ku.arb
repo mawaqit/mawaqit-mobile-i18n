@@ -311,87 +311,87 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Please enable Location service",
+    "qibla_Error_PleaseEnable": "تکایە خزمەتگوزاری دیاریکردنی جێگا کارا بکە",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Direction": "QIBLA \nDIRECTION",
+    "qibla_Direction": "ئاڕاستەی \nقیبلە",
     "@qibla_Direction": {
         "description": "_",
         "type": "text"
     },
-    "favorites_FavoriteMosques": "Favorites mosques",
+    "favorites_FavoriteMosques": "مزگەوتە دڵخوازەکان",
     "@favorites_FavoriteMosques": {
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "Something went wrong...",
+    "favorites_Error": "هەڵەیەک ڕوویدا...",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Image": "Image",
+    "announcement_Image": "وێنە",
     "@announcement_Image": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_Video": "Video",
+    "announcement_Type_Video": "ڤیدیۆ",
     "@announcement_Type_Video": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flash Info",
+    "announcement_Type_FlashInfo": "زانیاری فلاش",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "DONATE",
+    "mosque_DonateText1": "هاوکاری",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "TO MOSQUE",
+    "mosque_DonateText2": "بۆ مزگەوت",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Could not launch",
+    "mosque_Error_CouldNotLaunch": "کردنەوە سەرکەوتوو نەبوو",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Prayer times",
+    "mosque_PrayerTimes": "کاتەکانی بانگ",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Website",
+    "mosque_Website": "ماڵپەڕ",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Address": "Address",
+    "mosque_Address": "ناونیشان",
     "@mosque_Address": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Phone": "Phone",
+    "mosque_Phone": "مۆبایل",
     "@mosque_Phone": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "ناونیشانی ئەلیکترۆنی",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "By MAWAQIT https://mawaqit.net",
+    "mosque_ByMawaqit": "لەلایەن مەواقیت https://mawaqit.net",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_Parking": "Parking",
+    "mosque_Facilities_Parking": "گەراجی ئۆتۆمبێل",
     "@mosque_Facilities_Parking": {
         "description": "_",
         "type": "text"
@@ -401,7 +401,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Ablution Room",
+    "mosque_Facilities_AblutionsRoom": "جێگای دەستنوێژ",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
@@ -646,112 +646,112 @@
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "If you like this app, please take a little bit of your time to review it !\nIt really helps us.",
+    "rate_popin_message": "ئەگەر ئەم بەرنامەیەت بەدڵە، تکایە کەمێک لەکاتی خۆتمان پێ بدە و هەڵمان بسەنگێنە!\nئەمە زۆر هاوکارمان دەبێت.",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "RATE",
+    "rate_popin_rate": "هەڵسەنگاندن",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_no": "NO THANKS",
+    "rate_popin_no": "نەخێر سوپاس",
     "@rate_popin_no": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_later": "MAYBE LATER",
+    "rate_popin_later": "لەوانەیە دواتر",
     "@rate_popin_later": {
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "You can view all messages from this mosque by clicking on the speaker at the top of the screen.",
+    "message_see_all": "دەتوانیت سەرجەم ئاگادارییەکانی مزگەوتەکەت ببینیت بە کلیک کردن لە هێمای مکەبەرە لە سەرەوەی شاشەکەت.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "مەککە",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "قامەت",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "لێرە ماوەی نێوان بانگ و قامەت لە مزگەوتەکە دەدۆزیتەوە",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "داگرتنی خشتە",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Download permission refused definitely, please allow download",
+    "calendar_download_permission_refused": "ڕێگەپێدان بۆ داگرتن ڕاگیراوە، تکایە ڕێگە بە داگرتن بدە",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "داگرتنی خشتە...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
     },
-    "location_service_disabled": "Location Service is disabled, please enable it.",
+    "location_service_disabled": "خزمەتگوزاری دیاریکردنی جێگا لەکارخراوە، تکایە کارای بکە.",
     "@location_service_disabled": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Location Permission Denied, please allow it.",
+    "location_permission_denied": "گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە، تکایە ڕیگا بدە.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Location Permission Denied Forever, please allow it in the settings page.",
+    "location_permission_denied_forever": "گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە، تکایە لە پەڕەی ڕێکخستەکاندا رێگای پێ بدە.",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "You should have at least one mosque.",
-    "and": "and",
-    "continue_to_app": "Continue",
-    "add": "Add",
-    "mosque": "Mosque",
-    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
-    "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
-    "search_no_result_for_text": "We did not find any result for",
-    "surah_audio_downloading": "Surah Audio Downloading...",
-    "msg_internet_connection": "You don't have any internet connection",
-    "read_quran": "Read Quran",
-    "ayahs": "Ayahs",
-    "chapter": "Surah",
-    "meaning": "Meaning",
-    "al_quran": "Al Quran",
-    "surah_information": "Surah Information",
-    "surah_number": "Surah Number",
-    "quran_browsing": "Browsing",
-    "quran_search_placeholder": "Search by name of surah, number...",
-    "quran_verse_search": "Verse search",
-    "quran_translation": "Translation",
-    "quran_mushaf": "Mushaf",
-    "quran_juzz": "Juzz",
-    "ayah": "Ayah",
-    "quran_verses": "Verses",
-    "surah": "Surah",
-    "continue_reading": "Continue Reading",
+    "at_least_one_mosque_error": "پێویستە بەلایەنی کەمەوە یەک مزگەوتت هەبێت.",
+    "and": "وە",
+    "continue_to_app": "بەردەوامبوون",
+    "add": "زیادکردن",
+    "mosque": "مزگەوت",
+    "on_boarding_nearest_mosque": "با نزیکترین مزگەوت بدۆزینەوە",
+    "on_boarding_nearest_mosque_text": "نزیکترین مزگەوتەکان لە جێگای دیاریکراوتەوە ئەمانەن",
+    "search_no_result_for_text": "ئێمە هیچ ئەنجامێکمان نەدۆزیەوە بۆ",
+    "surah_audio_downloading": "داگرتنی دەنگی سورەت...",
+    "msg_internet_connection": "هێڵی ئینتەرنێت بوونی نیە",
+    "read_quran": "خوێندنەوەی قورئان",
+    "ayahs": "ئایەتەکان",
+    "chapter": "سورەت",
+    "meaning": "واتا",
+    "al_quran": "قورئان",
+    "surah_information": "زانیاری سورەت",
+    "surah_number": "ژمارەی سورەت",
+    "quran_browsing": "گەڕان",
+    "quran_search_placeholder": "گەڕان بەپێی ناوی سورەت، ژمارە...",
+    "quran_verse_search": "گەڕان بە ئایەت",
+    "quran_translation": "وەرگێڕان",
+    "quran_mushaf": "موسحەف",
+    "quran_juzz": "جوزء",
+    "ayah": "ئایەت",
+    "quran_verses": "ئایەتەکان",
+    "surah": "سورەت",
+    "continue_reading": "بەردەوامبوون لە خوێندنەوە",
     "bookmarks": "Bookmarks",
-    "juzz": "Juzz",
-    "quran_page": "Page",
-    "quran_turning_page": "Turning page",
-    "quran_from_right_to_left": "From right to left",
-    "quran_from_left_to_right": "From left to right",
-    "quran_from_top_to_bottom": "From top to bottom",
-    "quran_from_bottom_to_top": "From bottom to top",
-    "quran_pages_color": "Pages color",
+    "juzz": "جوزئەکان",
+    "quran_page": "پەڕە",
+    "quran_turning_page": "ئاڕاستەی پەڕە",
+    "quran_from_right_to_left": "لە ڕاست بۆ چەپ",
+    "quran_from_left_to_right": "لە چەپ بۆ ڕاست",
+    "quran_from_top_to_bottom": "لە سەرەوە بۆ خوارەوە",
+    "quran_from_bottom_to_top": "لە خوارەوە بۆ سەرەوە",
+    "quran_pages_color": "ڕەنگی پەڕەکان",
     "english_tr": "English",
     "french_tr": "French",
     "spanish_tr": "Spanish",
@@ -801,9 +801,9 @@
     "calculation_high_latitude_middle": "Middle of the night",
     "calculation_high_latitude_one_seventh": "One-seventh of the night",
     "calculation_high_latitude_angle_based": "Angle based method",
-    "calculation_adjustment": "Manual correction",
-    "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
-    "calculation_adjustment_prayers": "Prayer adjustments",
+    "calculation_adjustment": "ڕاستکردنەوەی دەستیی",
+    "calculation_adjustment_subtitle": "گۆڕانکاری کاتەکان و گۆشەی دەستکرد",
+    "calculation_adjustment_prayers": "گۆڕانکاری کاتەکانی بانگ",
     "calculation_adjustment_prayers_minutes": "minutes",
     "calculation_adjustment_angles": "Custom angles",
     "calculation_prayer_custom_angle": "Custom angle for",
