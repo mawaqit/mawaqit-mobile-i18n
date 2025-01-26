@@ -1,95 +1,95 @@
 {
     "@@locale": "ku",
-    "bottomNavbar_mawaqit": "MAWAQIT",
+    "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "دڵخوازەکان",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_qibla": "Qibla",
+    "bottomNavbar_qibla": "قیبلە",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "گەڕان",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "رێکخستنەکان",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "خۆکارانه",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "تاریک",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "ڕووناک",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "جۆری کات",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "هەڵبژاردنی زمان",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "زمان",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "ڕووکار",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "12ك",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "24ك",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
-    "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
+    "settings_PrayerNotifications": "ئاگادارییەکانی بانگ",
+    "settings_PrayerPreNotifications": "ئاگاداریی پێش بانگ",
+    "settings_ShuruqPreNotifications": "ئاگاداریی پێش خۆرهەڵاتن",
     "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_RateOurApp": "بەرنامەکەمان هەڵبسەنگێنە",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
-    "settings_News": "News",
-    "settings_MakeADonation": "Make a donation",
-    "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donate to MAWAQIT",
+    "settings_WhatsNew": "چی نوێ هەیە",
+    "settings_SupportMawaqit": "هاوکاریکردنی مەواقیت",
+    "settings_News": "هەواڵەکان",
+    "settings_MakeADonation": "هاوکارییەکانت بنێرە",
+    "bismillah": "بەناوی خوا",
+    "settings_DonateToMawaqit": "هاوکارییەکەت بنێرە بۆ مەواقیت",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "پشکنین بۆ نوێکردنەوەکان",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
@@ -99,24 +99,24 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "About us",
+    "settings_AboutUs": "دەربارەی ئێمە",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
-    "settings_language_ar": "Arabic",
-    "settings_language_bn": "Bengali",
-    "settings_language_fr": "French",
-    "settings_language_nl": "Dutch",
-    "settings_language_de": "German",
-    "settings_language_es": "Spanish",
-    "settings_language_en": "English",
-    "settings_language_it": "Italian",
-    "settings_language_tr": "Turkish",
-    "settings_language_ru": "Russian",
-    "settings_language_id": "Indonesian",
-    "settings_language_ur": "Urdu",
-    "settings_language_pl": "Polish",
+    "settings_language_ar": "عەرەبی",
+    "settings_language_bn": "بەنگالی",
+    "settings_language_fr": "فەڕەنسی",
+    "settings_language_nl": "هۆڵەندی",
+    "settings_language_de": "ئەڵمانی",
+    "settings_language_es": "ئیسپانی",
+    "settings_language_en": "ئینگلیزی",
+    "settings_language_it": "ئیتالی",
+    "settings_language_tr": "تورکی",
+    "settings_language_ru": "ڕووسی",
+    "settings_language_id": "ئیندۆنیسی",
+    "settings_language_ur": "ئۆردۆ",
+    "settings_language_pl": "پۆڵەندی",
     "settings_CreditsText": "Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
@@ -127,37 +127,37 @@
         "description": "_",
         "type": "text"
     },
-    "fajr": "Fajr",
+    "fajr": "بەیانی",
     "@fajr": {
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Sunrise",
+    "shuruq": "خۆرهەڵاتن",
     "@shuruq": {
         "description": "_",
         "type": "text"
     },
-    "duhr": "Duhr",
+    "duhr": "نیوەڕۆ",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "Asr",
+    "asr": "عەسر",
     "@asr": {
         "description": "_",
         "type": "text"
     },
-    "maghrib": "Maghrib",
+    "maghrib": "مەغریب",
     "@maghrib": {
         "description": "_",
         "type": "text"
     },
-    "isha": "Isha",
+    "isha": "خەوتنان",
     "@isha": {
         "description": "_",
         "type": "text"
     },
-    "sabah": "Sabah",
+    "sabah": "بەیانی",
     "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -260,53 +260,53 @@
     "try_again": "Try again",
     "virtual_mosque": "Virtual Mosque",
     "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
-    "no_mosque_with": "Couldn't find any mosques with",
-    "retry": "Retry",
-    "search_here": "Search Here",
-    "enter_at_least_3_char": "Enter at-least 3 characters to search",
-    "jumua1": "Jum'a 1",
-    "prayer_times": "Prayer times",
-    "remove_this_city": "Remove this city",
-    "add_this_city": "Add this city",
-    "add_this_mosque": "Add this mosque",
-    "remove_this_mosque": "Remove this mosque",
-    "services": "Services",
-    "share": "Share",
+    "no_mosque_with": "نەتوانرا هیچ مزگەوتێک بدۆزرێتەوە لە",
+    "retry": "هەوڵدانەوە",
+    "search_here": "لێرەدا بگەڕێ",
+    "enter_at_least_3_char": "بەلانی کەمەوە 3 پیت بنوسە بۆ گەڕان",
+    "jumua1": "هەینی",
+    "prayer_times": "کاتەکانی بانگ",
+    "remove_this_city": "سڕینەوەی شار",
+    "add_this_city": "زیادکردنی ئەم شارە",
+    "add_this_mosque": "زیادکردنی مزگەوت",
+    "remove_this_mosque": "سڕینەوەی مزگەوت",
+    "services": "خزمەتگوزاریەکان",
+    "share": "هاوبەشکردن",
     "itinerary": "Itinerary",
-    "call": "Call",
-    "dnd": "Do Not Disturb",
-    "battery_optimize": "Battery Optimization",
-    "power_saver": "Power Saver",
-    "permission_message1": "We detected a delayed notification, Please turn off",
-    "permission_message2": "to receive the notification on time.",
-    "notifications_delay_detected": "Notifications delay detected",
-    "open_setting": "Open settings",
-    "noJumua": "No jum'a",
+    "call": "پەیوەندیکردن",
+    "dnd": "هەراسانم مەکە",
+    "battery_optimize": "باشترکردنی پاتری",
+    "power_saver": "پاراستنی ووزە",
+    "permission_message1": "ئێمە ئاگادارییەکی دواکەوتوومان دەستنیشان کرد، تکایە بیگوژێنەوە",
+    "permission_message2": "بۆ بەدەستگەیشتنی ئاگادارییەکە لەکاتی خۆیدا.",
+    "notifications_delay_detected": "دواکەوتنی ئاگادارییەکان هەستپێکرا",
+    "open_setting": "کردنەوەی رێکخستنەکان",
+    "noJumua": "هەینی نیە",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jum'a",
+    "jumua": "هەینی",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
-    "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
-    "currently_located_at": "Currently located at",
-    "facing_makkah": "You're facing Makkah",
-    "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_sensor": "هەستەوەرێک لە مۆبایلەکەتدا کارناکات کە مەواقیت پشتی پێ دەبەستێت بۆ دیاریکردنی ئاڕاستەی قیبلە، وە ئەمە کاریگەری دەبێ لەسەر دیاریکردنی ئاڕاستەی دروستی قیبلە.",
+    "connection_not_found": "گەیشتن بە رێکختەری هەستەوەری تایبەت بە دیاریکردنی ئاڕاستە ڕاگیراوە. دڵنیابەرەوە لەوەی پەیوەندییەکە ڕێگای پێدراوە و دواتر هەوڵ بدەرەوە بە گۆڕینی ئاڕاستە.",
+    "currently_located_at": "ئێستا دەکەوێتە",
+    "facing_makkah": "تۆ ئاڕاستەت لە مەککەیە",
+    "not_facing_Makkah": "تۆ ئاڕاستەت لە مەککە نیە",
+    "qibla_Error_retry": "هەوڵدانەوە",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Location service permission denied",
+    "qibla_Error_LocationDenied": "گەیشتن بە هەستەوەر و خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Location service Denied Forever !",
+    "qibla_Error_LocationDeniedForever": "گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە!",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
