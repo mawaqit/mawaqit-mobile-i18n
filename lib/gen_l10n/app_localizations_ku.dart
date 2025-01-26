@@ -5,127 +5,127 @@ class AppLocalizationsKu extends AppLocalizations {
   AppLocalizationsKu([String locale = 'ku']) : super(locale);
 
   @override
-  String get bottomNavbar_mawaqit => 'MAWAQIT';
+  String get bottomNavbar_mawaqit => 'مەواقیت';
 
   @override
-  String get bottomNavbar_favorites => 'Favorites';
+  String get bottomNavbar_favorites => 'دڵخوازەکان';
 
   @override
-  String get bottomNavbar_qibla => 'Qibla';
+  String get bottomNavbar_qibla => 'قیبلە';
 
   @override
-  String get bottomNavbar_search => 'Search';
+  String get bottomNavbar_search => 'گەڕان';
 
   @override
-  String get bottomNavbar_settings => 'Settings';
+  String get bottomNavbar_settings => 'رێکخستنەکان';
 
   @override
-  String get settings_ThemeAuto => 'Auto';
+  String get settings_ThemeAuto => 'خۆکارانه';
 
   @override
-  String get settings_ThemeDark => 'Dark';
+  String get settings_ThemeDark => 'تاریک';
 
   @override
-  String get settings_ThemeLight => 'Light';
+  String get settings_ThemeLight => 'ڕووناک';
 
   @override
-  String get settings_TimeFormat => 'Time format';
+  String get settings_TimeFormat => 'جۆری کات';
 
   @override
-  String get settings_LanguageSelection => 'Language selection';
+  String get settings_LanguageSelection => 'هەڵبژاردنی زمان';
 
   @override
-  String get settings_Language => 'Language';
+  String get settings_Language => 'زمان';
 
   @override
-  String get settings_Theme => 'Theme';
+  String get settings_Theme => 'ڕووکار';
 
   @override
-  String get settings_TimeFormat12H => '12H';
+  String get settings_TimeFormat12H => '12ك';
 
   @override
-  String get settings_TimeFormat24H => '24H';
+  String get settings_TimeFormat24H => '24ك';
 
   @override
-  String get settings_PrayerNotifications => 'Prayer Notifications';
+  String get settings_PrayerNotifications => 'ئاگادارییەکانی بانگ';
 
   @override
-  String get settings_PrayerPreNotifications => 'Pre-Prayer notification';
+  String get settings_PrayerPreNotifications => 'ئاگاداریی پێش بانگ';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Pre-Shuruq notification';
+  String get settings_ShuruqPreNotifications => 'ئاگاداریی پێش خۆرهەڵاتن';
 
   @override
   String get settings_Calculations => 'Calculations';
 
   @override
-  String get settings_RateOurApp => 'Rate our app';
+  String get settings_RateOurApp => 'بەرنامەکەمان هەڵبسەنگێنە';
 
   @override
-  String get settings_WhatsNew => 'What\'s new';
+  String get settings_WhatsNew => 'چی نوێ هەیە';
 
   @override
-  String get settings_SupportMawaqit => 'Support Mawaqit';
+  String get settings_SupportMawaqit => 'هاوکاریکردنی مەواقیت';
 
   @override
-  String get settings_News => 'News';
+  String get settings_News => 'هەواڵەکان';
 
   @override
-  String get settings_MakeADonation => 'Make a donation';
+  String get settings_MakeADonation => 'هاوکارییەکانت بنێرە';
 
   @override
-  String get bismillah => 'Bismillah';
+  String get bismillah => 'بەناوی خوا';
 
   @override
-  String get settings_DonateToMawaqit => 'Donate to MAWAQIT';
+  String get settings_DonateToMawaqit => 'هاوکارییەکەت بنێرە بۆ مەواقیت';
 
   @override
-  String get settings_CheckForUpdates => 'Check for updates';
+  String get settings_CheckForUpdates => 'پشکنین بۆ نوێکردنەوەکان';
 
   @override
   String get settings_Credits => 'Credits';
 
   @override
-  String get settings_AboutUs => 'About us';
+  String get settings_AboutUs => 'دەربارەی ئێمە';
 
   @override
-  String get settings_language_ar => 'Arabic';
+  String get settings_language_ar => 'عەرەبی';
 
   @override
-  String get settings_language_bn => 'Bengali';
+  String get settings_language_bn => 'بەنگالی';
 
   @override
-  String get settings_language_fr => 'French';
+  String get settings_language_fr => 'فەڕەنسی';
 
   @override
-  String get settings_language_nl => 'Dutch';
+  String get settings_language_nl => 'هۆڵەندی';
 
   @override
-  String get settings_language_de => 'German';
+  String get settings_language_de => 'ئەڵمانی';
 
   @override
-  String get settings_language_es => 'Spanish';
+  String get settings_language_es => 'ئیسپانی';
 
   @override
-  String get settings_language_en => 'English';
+  String get settings_language_en => 'ئینگلیزی';
 
   @override
-  String get settings_language_it => 'Italian';
+  String get settings_language_it => 'ئیتالی';
 
   @override
-  String get settings_language_tr => 'Turkish';
+  String get settings_language_tr => 'تورکی';
 
   @override
-  String get settings_language_ru => 'Russian';
+  String get settings_language_ru => 'ڕووسی';
 
   @override
-  String get settings_language_id => 'Indonesian';
+  String get settings_language_id => 'ئیندۆنیسی';
 
   @override
-  String get settings_language_ur => 'Urdu';
+  String get settings_language_ur => 'ئۆردۆ';
 
   @override
-  String get settings_language_pl => 'Polish';
+  String get settings_language_pl => 'پۆڵەندی';
 
   @override
   String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
@@ -134,25 +134,25 @@ class AppLocalizationsKu extends AppLocalizations {
   String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
-  String get fajr => 'Fajr';
+  String get fajr => 'بەیانی';
 
   @override
-  String get shuruq => 'Sunrise';
+  String get shuruq => 'خۆرهەڵاتن';
 
   @override
-  String get duhr => 'Duhr';
+  String get duhr => 'نیوەڕۆ';
 
   @override
-  String get asr => 'Asr';
+  String get asr => 'عەسر';
 
   @override
-  String get maghrib => 'Maghrib';
+  String get maghrib => 'مەغریب';
 
   @override
-  String get isha => 'Isha';
+  String get isha => 'خەوتنان';
 
   @override
-  String get sabah => 'Sabah';
+  String get sabah => 'بەیانی';
 
   @override
   String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
@@ -293,97 +293,97 @@ class AppLocalizationsKu extends AppLocalizations {
   String get no_mosque_in_selected_area => 'Couldn\'t find any mosques in the selected area';
 
   @override
-  String get no_mosque_with => 'Couldn\'t find any mosques with';
+  String get no_mosque_with => 'نەتوانرا هیچ مزگەوتێک بدۆزرێتەوە لە';
 
   @override
-  String get retry => 'Retry';
+  String get retry => 'هەوڵدانەوە';
 
   @override
-  String get search_here => 'Search Here';
+  String get search_here => 'لێرەدا بگەڕێ';
 
   @override
-  String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
+  String get enter_at_least_3_char => 'بەلانی کەمەوە 3 پیت بنوسە بۆ گەڕان';
 
   @override
-  String get jumua1 => 'Jum\'a 1';
+  String get jumua1 => 'هەینی';
 
   @override
-  String get prayer_times => 'Prayer times';
+  String get prayer_times => 'کاتەکانی بانگ';
 
   @override
-  String get remove_this_city => 'Remove this city';
+  String get remove_this_city => 'سڕینەوەی شار';
 
   @override
-  String get add_this_city => 'Add this city';
+  String get add_this_city => 'زیادکردنی ئەم شارە';
 
   @override
-  String get add_this_mosque => 'Add this mosque';
+  String get add_this_mosque => 'زیادکردنی مزگەوت';
 
   @override
-  String get remove_this_mosque => 'Remove this mosque';
+  String get remove_this_mosque => 'سڕینەوەی مزگەوت';
 
   @override
-  String get services => 'Services';
+  String get services => 'خزمەتگوزاریەکان';
 
   @override
-  String get share => 'Share';
+  String get share => 'هاوبەشکردن';
 
   @override
   String get itinerary => 'Itinerary';
 
   @override
-  String get call => 'Call';
+  String get call => 'پەیوەندیکردن';
 
   @override
-  String get dnd => 'Do Not Disturb';
+  String get dnd => 'هەراسانم مەکە';
 
   @override
-  String get battery_optimize => 'Battery Optimization';
+  String get battery_optimize => 'باشترکردنی پاتری';
 
   @override
-  String get power_saver => 'Power Saver';
+  String get power_saver => 'پاراستنی ووزە';
 
   @override
-  String get permission_message1 => 'We detected a delayed notification, Please turn off';
+  String get permission_message1 => 'ئێمە ئاگادارییەکی دواکەوتوومان دەستنیشان کرد، تکایە بیگوژێنەوە';
 
   @override
-  String get permission_message2 => 'to receive the notification on time.';
+  String get permission_message2 => 'بۆ بەدەستگەیشتنی ئاگادارییەکە لەکاتی خۆیدا.';
 
   @override
-  String get notifications_delay_detected => 'Notifications delay detected';
+  String get notifications_delay_detected => 'دواکەوتنی ئاگادارییەکان هەستپێکرا';
 
   @override
-  String get open_setting => 'Open settings';
+  String get open_setting => 'کردنەوەی رێکخستنەکان';
 
   @override
-  String get noJumua => 'No jum\'a';
+  String get noJumua => 'هەینی نیە';
 
   @override
-  String get jumua => 'Jum\'a';
+  String get jumua => 'هەینی';
 
   @override
-  String get qibla_sensor => 'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.';
+  String get qibla_sensor => 'هەستەوەرێک لە مۆبایلەکەتدا کارناکات کە مەواقیت پشتی پێ دەبەستێت بۆ دیاریکردنی ئاڕاستەی قیبلە، وە ئەمە کاریگەری دەبێ لەسەر دیاریکردنی ئاڕاستەی دروستی قیبلە.';
 
   @override
-  String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
+  String get connection_not_found => 'گەیشتن بە رێکختەری هەستەوەری تایبەت بە دیاریکردنی ئاڕاستە ڕاگیراوە. دڵنیابەرەوە لەوەی پەیوەندییەکە ڕێگای پێدراوە و دواتر هەوڵ بدەرەوە بە گۆڕینی ئاڕاستە.';
 
   @override
-  String get currently_located_at => 'Currently located at';
+  String get currently_located_at => 'ئێستا دەکەوێتە';
 
   @override
-  String get facing_makkah => 'You\'re facing Makkah';
+  String get facing_makkah => 'تۆ ئاڕاستەت لە مەککەیە';
 
   @override
-  String get not_facing_Makkah => 'You\'re not facing Makkah';
+  String get not_facing_Makkah => 'تۆ ئاڕاستەت لە مەککە نیە';
 
   @override
-  String get qibla_Error_retry => 'Retry';
+  String get qibla_Error_retry => 'هەوڵدانەوە';
 
   @override
-  String get qibla_Error_LocationDenied => 'Location service permission denied';
+  String get qibla_Error_LocationDenied => 'گەیشتن بە هەستەوەر و خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'Location service Denied Forever !';
+  String get qibla_Error_LocationDeniedForever => 'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە!';
 
   @override
   String get qibla_Error_PleaseEnable => 'Please enable Location service';
