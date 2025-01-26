@@ -386,61 +386,61 @@ class AppLocalizationsKu extends AppLocalizations {
   String get qibla_Error_LocationDeniedForever => 'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە!';
 
   @override
-  String get qibla_Error_PleaseEnable => 'Please enable Location service';
+  String get qibla_Error_PleaseEnable => 'تکایە خزمەتگوزاری دیاریکردنی جێگا کارا بکە';
 
   @override
-  String get qibla_Direction => 'QIBLA \nDIRECTION';
+  String get qibla_Direction => 'ئاڕاستەی \nقیبلە';
 
   @override
-  String get favorites_FavoriteMosques => 'Favorites mosques';
+  String get favorites_FavoriteMosques => 'مزگەوتە دڵخوازەکان';
 
   @override
-  String get favorites_Error => 'Something went wrong...';
+  String get favorites_Error => 'هەڵەیەک ڕوویدا...';
 
   @override
-  String get announcement_Image => 'Image';
+  String get announcement_Image => 'وێنە';
 
   @override
-  String get announcement_Type_Video => 'Video';
+  String get announcement_Type_Video => 'ڤیدیۆ';
 
   @override
-  String get announcement_Type_FlashInfo => 'Flash Info';
+  String get announcement_Type_FlashInfo => 'زانیاری فلاش';
 
   @override
-  String get mosque_DonateText1 => 'DONATE';
+  String get mosque_DonateText1 => 'هاوکاری';
 
   @override
-  String get mosque_DonateText2 => 'TO MOSQUE';
+  String get mosque_DonateText2 => 'بۆ مزگەوت';
 
   @override
-  String get mosque_Error_CouldNotLaunch => 'Could not launch';
+  String get mosque_Error_CouldNotLaunch => 'کردنەوە سەرکەوتوو نەبوو';
 
   @override
-  String get mosque_PrayerTimes => 'Prayer times';
+  String get mosque_PrayerTimes => 'کاتەکانی بانگ';
 
   @override
-  String get mosque_Website => 'Website';
+  String get mosque_Website => 'ماڵپەڕ';
 
   @override
-  String get mosque_Address => 'Address';
+  String get mosque_Address => 'ناونیشان';
 
   @override
-  String get mosque_Phone => 'Phone';
+  String get mosque_Phone => 'مۆبایل';
 
   @override
-  String get mosque_Email => 'Email';
+  String get mosque_Email => 'ناونیشانی ئەلیکترۆنی';
 
   @override
-  String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
+  String get mosque_ByMawaqit => 'لەلایەن مەواقیت https://mawaqit.net';
 
   @override
-  String get mosque_Facilities_Parking => 'Parking';
+  String get mosque_Facilities_Parking => 'گەراجی ئۆتۆمبێل';
 
   @override
   String get mosque_Facilities_DisabledAccess => 'Disabled Access';
 
   @override
-  String get mosque_Facilities_AblutionsRoom => 'Ablution Room';
+  String get mosque_Facilities_AblutionsRoom => 'جێگای دەستنوێژ';
 
   @override
   String get mosque_Facilities_WomanSpace => 'Women Space';
@@ -587,154 +587,154 @@ class AppLocalizationsKu extends AppLocalizations {
   String get rate_popin_title => 'Rate MAWAQIT';
 
   @override
-  String get rate_popin_message => 'If you like this app, please take a little bit of your time to review it !\nIt really helps us.';
+  String get rate_popin_message => 'ئەگەر ئەم بەرنامەیەت بەدڵە، تکایە کەمێک لەکاتی خۆتمان پێ بدە و هەڵمان بسەنگێنە!\nئەمە زۆر هاوکارمان دەبێت.';
 
   @override
-  String get rate_popin_rate => 'RATE';
+  String get rate_popin_rate => 'هەڵسەنگاندن';
 
   @override
-  String get rate_popin_no => 'NO THANKS';
+  String get rate_popin_no => 'نەخێر سوپاس';
 
   @override
-  String get rate_popin_later => 'MAYBE LATER';
+  String get rate_popin_later => 'لەوانەیە دواتر';
 
   @override
-  String get message_see_all => 'You can view all messages from this mosque by clicking on the speaker at the top of the screen.';
+  String get message_see_all => 'دەتوانیت سەرجەم ئاگادارییەکانی مزگەوتەکەت ببینیت بە کلیک کردن لە هێمای مکەبەرە لە سەرەوەی شاشەکەت.';
 
   @override
-  String get adhan_Makkah => 'Makkah';
+  String get adhan_Makkah => 'مەککە';
 
   @override
-  String get tutorial_title_iqama => 'Iqama';
+  String get tutorial_title_iqama => 'قامەت';
 
   @override
-  String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
+  String get tutorial_text_iqama => 'لێرە ماوەی نێوان بانگ و قامەت لە مزگەوتەکە دەدۆزیتەوە';
 
   @override
-  String get calendar_tooltip_download => 'Download calendar';
+  String get calendar_tooltip_download => 'داگرتنی خشتە';
 
   @override
-  String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
+  String get calendar_download_permission_refused => 'ڕێگەپێدان بۆ داگرتن ڕاگیراوە، تکایە ڕێگە بە داگرتن بدە';
 
   @override
-  String get calendar_downloading => 'Downloading calendar...';
+  String get calendar_downloading => 'داگرتنی خشتە...';
 
   @override
-  String get location_service_disabled => 'Location Service is disabled, please enable it.';
+  String get location_service_disabled => 'خزمەتگوزاری دیاریکردنی جێگا لەکارخراوە، تکایە کارای بکە.';
 
   @override
-  String get location_permission_denied => 'Location Permission Denied, please allow it.';
+  String get location_permission_denied => 'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە، تکایە ڕیگا بدە.';
 
   @override
-  String get location_permission_denied_forever => 'Location Permission Denied Forever, please allow it in the settings page.';
+  String get location_permission_denied_forever => 'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە، تکایە لە پەڕەی ڕێکخستەکاندا رێگای پێ بدە.';
 
   @override
-  String get at_least_one_mosque_error => 'You should have at least one mosque.';
+  String get at_least_one_mosque_error => 'پێویستە بەلایەنی کەمەوە یەک مزگەوتت هەبێت.';
 
   @override
-  String get and => 'and';
+  String get and => 'وە';
 
   @override
-  String get continue_to_app => 'Continue';
+  String get continue_to_app => 'بەردەوامبوون';
 
   @override
-  String get add => 'Add';
+  String get add => 'زیادکردن';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'مزگەوت';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'با نزیکترین مزگەوت بدۆزینەوە';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'Here are the mosques found around you according to your geolocation';
+  String get on_boarding_nearest_mosque_text => 'نزیکترین مزگەوتەکان لە جێگای دیاریکراوتەوە ئەمانەن';
 
   @override
-  String get search_no_result_for_text => 'We did not find any result for';
+  String get search_no_result_for_text => 'ئێمە هیچ ئەنجامێکمان نەدۆزیەوە بۆ';
 
   @override
-  String get surah_audio_downloading => 'Surah Audio Downloading...';
+  String get surah_audio_downloading => 'داگرتنی دەنگی سورەت...';
 
   @override
-  String get msg_internet_connection => 'You don\'t have any internet connection';
+  String get msg_internet_connection => 'هێڵی ئینتەرنێت بوونی نیە';
 
   @override
-  String get read_quran => 'Read Quran';
+  String get read_quran => 'خوێندنەوەی قورئان';
 
   @override
-  String get ayahs => 'Ayahs';
+  String get ayahs => 'ئایەتەکان';
 
   @override
-  String get chapter => 'Surah';
+  String get chapter => 'سورەت';
 
   @override
-  String get meaning => 'Meaning';
+  String get meaning => 'واتا';
 
   @override
-  String get al_quran => 'Al Quran';
+  String get al_quran => 'قورئان';
 
   @override
-  String get surah_information => 'Surah Information';
+  String get surah_information => 'زانیاری سورەت';
 
   @override
-  String get surah_number => 'Surah Number';
+  String get surah_number => 'ژمارەی سورەت';
 
   @override
-  String get quran_browsing => 'Browsing';
+  String get quran_browsing => 'گەڕان';
 
   @override
-  String get quran_search_placeholder => 'Search by name of surah, number...';
+  String get quran_search_placeholder => 'گەڕان بەپێی ناوی سورەت، ژمارە...';
 
   @override
-  String get quran_verse_search => 'Verse search';
+  String get quran_verse_search => 'گەڕان بە ئایەت';
 
   @override
-  String get quran_translation => 'Translation';
+  String get quran_translation => 'وەرگێڕان';
 
   @override
-  String get quran_mushaf => 'Mushaf';
+  String get quran_mushaf => 'موسحەف';
 
   @override
-  String get quran_juzz => 'Juzz';
+  String get quran_juzz => 'جوزء';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'ئایەت';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'ئایەتەکان';
 
   @override
-  String get surah => 'Surah';
+  String get surah => 'سورەت';
 
   @override
-  String get continue_reading => 'Continue Reading';
+  String get continue_reading => 'بەردەوامبوون لە خوێندنەوە';
 
   @override
   String get bookmarks => 'Bookmarks';
 
   @override
-  String get juzz => 'Juzz';
+  String get juzz => 'جوزئەکان';
 
   @override
-  String get quran_page => 'Page';
+  String get quran_page => 'پەڕە';
 
   @override
-  String get quran_turning_page => 'Turning page';
+  String get quran_turning_page => 'ئاڕاستەی پەڕە';
 
   @override
-  String get quran_from_right_to_left => 'From right to left';
+  String get quran_from_right_to_left => 'لە ڕاست بۆ چەپ';
 
   @override
-  String get quran_from_left_to_right => 'From left to right';
+  String get quran_from_left_to_right => 'لە چەپ بۆ ڕاست';
 
   @override
-  String get quran_from_top_to_bottom => 'From top to bottom';
+  String get quran_from_top_to_bottom => 'لە سەرەوە بۆ خوارەوە';
 
   @override
-  String get quran_from_bottom_to_top => 'From bottom to top';
+  String get quran_from_bottom_to_top => 'لە خوارەوە بۆ سەرەوە';
 
   @override
-  String get quran_pages_color => 'Pages color';
+  String get quran_pages_color => 'ڕەنگی پەڕەکان';
 
   @override
   String get english_tr => 'English';
@@ -884,13 +884,13 @@ class AppLocalizationsKu extends AppLocalizations {
   String get calculation_high_latitude_angle_based => 'Angle based method';
 
   @override
-  String get calculation_adjustment => 'Manual correction';
+  String get calculation_adjustment => 'ڕاستکردنەوەی دەستیی';
 
   @override
-  String get calculation_adjustment_subtitle => 'Prayer adjustment and custom angles';
+  String get calculation_adjustment_subtitle => 'گۆڕانکاری کاتەکان و گۆشەی دەستکرد';
 
   @override
-  String get calculation_adjustment_prayers => 'Prayer adjustments';
+  String get calculation_adjustment_prayers => 'گۆڕانکاری کاتەکانی بانگ';
 
   @override
   String get calculation_adjustment_prayers_minutes => 'minutes';
