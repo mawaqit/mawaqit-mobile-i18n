@@ -131,7 +131,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get settings_CreditsText => 'مافی بڵاوکردنەوە  © 2021 پارێزراوە بۆ مەواقیت بۆ دامەزراوەی مەواقیت، هەموو مافەکان پارێزراوە.\n\nخاوەندارێتی فیکری و مافی کۆپیکردنی ئەم بەرنامەیە یان پێوەکراو، زیادکراوەکان یان ناوەڕۆکەکەی لەلایەن مەواقیت بۆ کۆمەڵەی مەواقیتەوە خاوەندارێتی دەکرێت.\n\nئەم وەشانەی تەنها مۆڵەتی هەیە بۆ دابەشکردنی خێرخوازی و وەقفە. هەر جۆرە بەکارهێنانێکی بازرگانی یان دابەشکردنی بازرگانی بە توندی قەدەغەیە.\n\nئەم مۆڵەتە ئاماژە بە فرۆشتنی هیچ مافێکی پەیوەست بەم بەرهەمە، هیچ بەشێکی، پێوەکراو، زیادکراوەکان یان ناوەڕۆک ناکات یان ناگرێتەوە. بەڵکو ئەم مۆڵەتە تەنها ڕێگە بە دابەشکردنی خێرخوازی بەرنامەکە دەدات لە ڕێگەی پلاتفۆرمی ئێستای فرۆشگای بەرنامەکەوە.\n\nدابەشکردنەوەی بەرنامەکە بە بەکارهێنانی کۆدی سەرچاوە یان فایلە دووانەییەکان، یان بەکارهێنانی ئەندازیاری پێچەوانە بە ئەنجامدانی یان بەبێ هیچ هەموارکردنەوەیەک، دەبێتە هۆی ئاشکراکردنی... پێشێلکەر یان ئەو کەسەی بەرپرسیارە لەم پێشێلکردنی مافی کۆپیکردنە بۆ ڕێکاری یاسایی.\n\nهیچ لایەنێک مافی ئەوەی نییە بەرنامەکە لە دەرەوەی فرۆشگا فەرمییەکانی ئەپڵ یان گووگڵ پلەی دابەش بکاتەوە بەبێ مۆڵەتی نووسراوی فەرمی لەلایەن خاوەن مافی کۆپی و خاوەنی بەرنامەکە، مەواقیت بۆ کۆمەڵەی مەواقیت. دابەشکردنی ئەم بەرنامەیە لە دەرەوەی ئەم فرۆشگا فەرمیانە پێشێلکردنی یاسای پاراستنی خاوەندارێتی فیکری دەبێت و ئەو کەسەی بەرپرسیارە لەم پێشێلکارییە مافی کۆپیکردنە بەرەوڕووی ڕێکاری یاسایی دەبێتەوە.\n\nڕێگەپێدراو نییە ناوی بەرنامەکە یان براندەکە یان نیشانە بازرگانییەکە یان ناوی... خاوەن مافی کۆپیکردن مەواقیت  بۆ دامەزراوەی مەواقیت بۆ پەرەپێدانی ئەو بەرهەمانەی کە هاوشێوەن یان لەم بەرنامەیە یان هەر بەرهەمێکی ترەوە وەرگیراون بەبێ وەرگرتنی مۆڵەتی نووسراوی پێشوەختە لە خاوەن مافی کۆپیکردن.\n\nئەم بەرنامەیە مۆڵەتی دابەشکردنی هەیە لەلایەن خاوەن مافی کۆپی و خاوەن پشکەکانەوە \"وەک خۆی\".\n\nکۆمپانیای گەشەپێدەر و خاوەنی بەرنامەکە هیچ گەرەنتییەکی ڕوون یان ناڕوون نادات، لەوانە - بەڵام سنووردار نەکراوە بە - ڕێکلامکردن و پەرەپێدانی گونجاوی بەرنامەکە بۆ مەبەستێکی دیاریکراو. لە هەر حاڵەتێکدا، مەواقیت بۆ کۆمەڵەی مەواقیت، یان خاوەن پشکەکان بەرپرسیار نین لە هەر زیانێک، کە ڕاستەوخۆ، ناڕاستەوخۆ، یان بەڕێکەوت بێت (تایبەت، وریایی، دەرئەنجام)، لەوانە - بەڵام سنووردار نەکراوە بە - لەدەستدانی بەکارهێنان، داتا یان قازانج؛ یان پچڕانی کار، هەر هۆکارێک و ئیلتزاماتەکان بن، ئەم ئیلتزاماتانە گرێبەستی، ڕەها یان تاوان (لەوانەش کەمتەرخەمی یان بە شێوەیەکی تر) کە - بە جۆرێک یان جۆرێکی تر - بەهۆی بەکارهێنانی ئەم بەرنامەیەوە ڕوودەدەن.\n\nمافی کۆپیکردنی هەر لایەنێکی سێیەم لەسەر بەرنامەکە تەرخانکراوە بۆ خاوەنەکەیان.\n\nوێنە و پاشبنەماکان\nمافی کۆپیکردن دەچێتە سەر Shutterstock\n\nئایکۆنەکان — مۆڵەتی CC BY 4.0\nمافی کۆپیکردن دەچێتە سەر Flaticons\n\nمۆڵەتی MIT بۆ هەموو فایلەکانی نافۆنت و نائایکۆن دەگونجێت.\n\nفۆنتەکان — مۆڵەتی SIL OFL 1.1\nمافی کۆپیکردن دەچێتە سەر فۆنتەکانی گووگڵ (فۆنتەکانی ڕۆبۆتۆ)\n\nمافی کۆپیکردن ئەپڵ، پاکێجەکانی کوپەرتینۆ\nکۆد، پاکێجەکان و چوارچێوەکان\n\nFlutter لەلایەن گووگڵ\n\nپاکێجەکان: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
+  String get settings_AboutUsText => 'ئەم ئەپڵیکەیشنە لەلایەن کۆمەڵەی مەواقیتەوە پەرەی پێدراوە.\n\nکۆمەڵەی مەواقیت ڕێکخراوێکی قازانج نەویستە لە ساڵی ٢٠٢١ لە فەرەنسا دامەزراوە.\\nئامانجمان پەرەپێدانی چارەسەری داهێنەرانەیە کە پەیوەندی بە تەکنەلۆژیای زانیاری و تەکنەلۆژیای دیجیتاڵییەوە هەیە وەک بەرنامە و ماڵپەڕ. فێرکردن و ڕاهێنان لەسەر چارەسەری دیجیتاڵی و ئامرازەکانی ئایتی.\n\nسیستەمی “مەواقیت” بەرهەمی سەرەکیمانە و چیرۆکەکەی لە ساڵی ٢٠١٦ دەستی پێکردووە، بە ئەپڵیکەیشنێک لەسەر شاشە گەورەکان کە تایبەتە بە مزگەوتەکان، پاشان ئەپڵیکەیشنێکی مۆبایل، یاریدەدەری ماڵەوە، زیرەکی دەستکردن وەک ئەلێکسا، هتد.\n\nمەواقیت ڕێگەیەکی نوێتان بۆ دابین دەکات بۆ بەدواداچوون و بەڕێوەبردنی کاتەکانی نوێژ لە ڕاستیدا ئێمە سیستەمێکی گشتگیر دابین دەکەین کە ئامرازێکی ئۆنلاین ٢٤ کاتژمێری بۆ بەڕێوەبەرانی مزگەوتەکان دابین دەکات کە ڕێگەیان پێدەدات کاتەکانی نوێژ، هەواڵی مزگەوتەکان، بەڕێوەببەن. و چەندین تایبەتمەندی تر. موسڵمانان لای خۆیانەوە سوودمەندن لە ئەپڵیکەیشنی مۆبایل کە ڕێگەیان پێدەدات کاتەکانی نوێژی ورد و نزیکی مزگەوتەکەیان ببینن، هەروەها هەواڵ و ئەرکەکانی تری وەک گەڕان بەدوای مزگەوتێکدا بەپێی شوێنی جوگرافی، بانگەوازی نوێژ، قیبلە ...هتد. ئێمە متمانەپێکردن و کوالیتیمان کردووە بە بەها سەرەکییەکانمان. تەماحی ئێمە ڕوونە: بۆ دروستکردنی باشترین خزمەتگوزاری بۆ مزگەوتەکانمان لە سایەی تەکنەلۆجیا و دیزاین.\n\nئەگەر ئەم ئەپڵیکەیشنەت بەدڵ بوو، تکایە بۆچوونی خۆت بدە.';
 
   @override
   String get fajr => 'بەیانی';
@@ -155,10 +155,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get sabah => 'بەیانی';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
+  String get settings_PrayerNotification_NoNotification => 'لە ئێستادا وەها رێکت خستووە بۆ ئەوەی ئاگادار نەکرێیتەوە بۆ ئەم نوێژە.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
+  String get settings_PrayerNotification_Bip => 'بەرنامەی زەنگی بیپ لە کاتی ئاگادارکردنەوە.';
 
   @override
   String get adhan => 'بانگ';
@@ -512,7 +512,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get tutorial_title_announcements => 'ڕێنمایی و ئاگادارییەکانی مزگەوت';
 
   @override
-  String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
+  String get tutorial_text_announcements => 'ئاگادارکردنەوەکان سەبارەت بە نامە و ڕاگەیاندنەکان لە مزگەوتەکەتەوە لێرە دەردەکەون.\nکاتێک کلیک لەسەر ئەم دوگمەیە دەکەیت، وردەکاری تەواو دەبینیت. ئەم ڕاگەیاندنانە دەتوانن پەیامی فلاش، وێنە، یان تەنانەت ڤیدیۆش بن.';
 
   @override
   String get onboarding_title_1 => 'زمانەکەت هەڵبژێرە';
@@ -524,19 +524,19 @@ class AppLocalizationsKu extends AppLocalizations {
   String get onboarding_title_2 => 'بەخێربێیت بۆ مەواقیت';
 
   @override
-  String get onboarding_text_2 => 'MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times';
+  String get onboarding_text_2 => 'مەواقیت ئیکۆسیستەمێکە کە ڕێگەیەکی نوێت پێشکەش دەکات بۆ بەدواداچوون و بەڕێوەبردنی کاتەکانی نوێژ، ئەو ئەپلیکەیشنەی لە دەستتدایە بەشێکە لەم ئیکۆسیستەمە، ڕێگەت پێدەدات مزگەوتەکان بدۆزیتەوە و بەدواداچوون بۆ هەواڵ و کاتەکانی نوێژەکەی بکەیت';
 
   @override
   String get onboarding_title_3 => 'ڕووکاری تاریک/ڕووناک هەڵبژێرە';
 
   @override
-  String get onboarding_text_3 => 'Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort';
+  String get onboarding_text_3 => 'جا لە ژینگەیەکی کەم ڕووناکیدا بیت یان ڕەنگی پاشبنەمای تۆختر لە مۆبایلەکەتدا، دەتوانیت سوود لە دۆخی تاریک وەربگریت بۆ باشترکردنی ئاسوودەیی بینین';
 
   @override
   String get onboarding_title_4 => 'مزگەوتی سەرەکیت زیاد بکە';
 
   @override
-  String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
+  String get onboarding_text_4 => 'تکایە لەم لیستەی خوارەوە مزگەوتی سەرەکی خۆت هەڵبژێرە یان بەدوای مزگەوتێکدا بگەڕێ لە نزیک شوێنی ئێستات';
 
   @override
   String get loading => 'کردنەوە';
@@ -572,16 +572,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get notification_open_app_title => 'کردنەوەی بەرنامە';
 
   @override
-  String get notification_open_app_body => 'Please open the app to maintain notifications';
+  String get notification_open_app_body => 'تکایە ئەپەکە بکەرەوە بۆ گۆڕانکاری و دەستکاری ئاگادارکردنەوەکان';
 
   @override
-  String get tutorial_title_notification => 'Select a prayer notification';
+  String get tutorial_title_notification => 'ئاگادارکردنەوەیەکی کاتێکی نوێژ هەڵبژێرە';
 
   @override
-  String get tutorial_text_notification => 'Here you can select a type of notification, Athan, bip or silent';
+  String get tutorial_text_notification => 'لێرەدا دەتوانیت جۆرێک لە ئاگادارکردنەوە هەڵبژێریت، بانگ، بیپ یان بێدەنگ';
 
   @override
-  String get search_no_result => 'Become a MAWAQIT ambassador and offer our solution to your mosque, it\'s free\nhttps://mawaqit.net';
+  String get search_no_result => 'ببە بە نوێنەری مەواقیت لای خۆتەوە و چارەسەرەکەمان پێشکەش بە مزگەوتەکەت بکە، بەخۆڕاییە\nhttps://mawaqit.net';
 
   @override
   String get rate_popin_title => 'هەڵسەنگاندنی مەواقیت';
@@ -797,7 +797,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get chapters => 'بەشەکان';
 
   @override
-  String get calculation_info => 'The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.';
+  String get calculation_info => 'ڕێکخستنەکانی ئەم بەشە تەنها پەیوەندییان بەو کاتانەی نوێژەوە هەیە کە لە شوێنی جیۆلۆکی تۆوە حیسابی بۆ دەکرێت، و پەیوەندی بە کاتی نوێژی مزگەوتەکانەوە نییە.';
 
   @override
   String get calculation_madhab => 'مەزهەبی فیقهی';
@@ -917,19 +917,19 @@ class AppLocalizationsKu extends AppLocalizations {
   String get download_quran_popup_title => 'کۆتا گرتەکان';
 
   @override
-  String get download_quran_popup_downloading_1 => 'We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.';
+  String get download_quran_popup_downloading_1 => 'پێویستە لاپەڕەکانی قورئان دابەزێنین، تەنها چەند چرکەیەکی دەوێت. ئێمە ئینتەرنێتی داتای مۆبایلەکەت بەکاردەهێنین، ئەگەر پێویست بوو بگۆڕین بۆ وای فای.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'We are preparing the Qur’an just for you, please wait a few seconds!';
+  String get download_quran_popup_downloading_2 => 'ئێمە قورئان ئامادە دەکەین تەنها بۆ ئێوە، تکایە چەند چرکەیەک چاوەڕوان بن!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
+  String get download_quran_popup_downloading_3 => 'جوانیەکانی قورئان بدۆزەرەوە! بۆ دەستگەیشتن بە حیکمەتە بێ کاتەکانی و ئیلهام وەرگرتن لە وشە ئیلاهییەکانی، پەنجە بنێ بە \'داگرتن\'.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'Are you sure you want to cancel the download? Without this data you won\'t be able to read the Quran, the pages will be unavailable.';
+  String get download_quran_popup_confirm_cancel => 'دڵنیای کە دەتەوێت دابەزاندنەکە هەڵبوەشێنیتەوە؟ بەبێ ئەم داتایە ناتوانیت قورئان بخوێنیتەوە، لاپەڕەکان بەردەست نابن.';
 
   @override
-  String get download_quran_popup_cancelled => 'Something went wrong, please hit the download button again!';
+  String get download_quran_popup_cancelled => 'شتێک بە هەڵەدا چووە، تکایە دووبارە دوگمەی دابەزاندنەکە لێبدە!';
 
   @override
   String get download => 'داگرتن';
@@ -971,7 +971,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get force_notification => 'فەرزکردنی ئاگادارییەکان';
 
   @override
-  String get tutorial_text_foreground_service => 'Tapping on it allows you to toggle the \'Foreground Service\' on or off';
+  String get tutorial_text_foreground_service => 'کلیک کردن لەسەری ڕێگەت پێدەدات \'خزمەتگوزاری پێشەوە\' دابگیرسێنیت یان بیکوژێنیتەوە';
 
   @override
   String get enable => 'کارا';
@@ -983,22 +983,22 @@ class AppLocalizationsKu extends AppLocalizations {
   String get do_not_show_again => 'دووبارە ئەمە نیشان مەدەوە';
 
   @override
-  String get force_notification_title => 'MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.';
+  String get force_notification_title => 'مەواقیت چالاکە بۆ دڵنیابوون لە دەستپێکردنی ئاگادارکردنەوەکانی بانگ و نوێژ لە کاتی دروستدا.';
 
   @override
-  String get force_notification_body => 'Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)';
+  String get force_notification_body => 'بەڕاستی نوێژ لەسەر ئیمانداران لە کاتە دیاریکراوەکاندا فەرز کراوە. نیساء (103)';
 
   @override
-  String get force_notification_dialog1_body => 'By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.';
+  String get force_notification_dialog1_body => 'بە چالاککردنی ئەم هەڵبژاردنە، بەرنامەکە چالاک دەمێنێتەوە بۆ دڵنیابوون لە دەستپێکردنی ئاگادارکردنەوەکانی نوێژ لە کاتی دروستدا بەبێ دواکەوتن. بەرنامەی MAWAQIT تەنها بۆ ئەو مەبەستە چالاک دەبێت، و دەتوانیت ئەو هەڵبژاردنە لە هەر کاتێکدا لە ڕێکخستنەکانەوە بکوژێنیتەوە.';
 
   @override
-  String get force_notification_dialog2_body => 'After enabling the \'Force Notifications\' swipe down the notification tray you see this notification there';
+  String get force_notification_dialog2_body => 'دوای چالاککردنی \'Force Notifications\' پەنجە بخەرە خوارەوە لە لیستی ئاگادارکردنەوەکەدا ئەم ئاگادارکردنەوە لەوێ دەبینیت';
 
   @override
   String get notification_debugging => 'ڕاستکردنەوەی ئاگادارییەکان';
 
   @override
-  String get notification_debugging_details => 'Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.';
+  String get notification_debugging_details => 'چاککردنەوەی ئاگادارکردنەوە چالاک کراوە. ئەگەر ڕێکخستنەکانی ئاگادارکردنەوەکە بگۆڕیت، داتاکانی هەڵەکردن لەدەست دەچێت، و چاککردنەوە لەکاردەخرێت.';
 
   @override
   String get skip => 'تێپەڕاندن';
@@ -1025,10 +1025,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get notification_delay_debugging_is => 'ڕاستکردنەوەی ئاگادارییە دواکەوتووەکان';
 
   @override
-  String get banner_enable => 'Banner enable';
+  String get banner_enable => 'بانەر چالاک بکە';
 
   @override
-  String get banner => 'Banner';
+  String get banner => 'بانەر';
 
   @override
   String get show_details => 'نیشاندانی وردەکارییەکان';
@@ -1037,7 +1037,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get auto_detect_location => 'پێشنیاری نزیکترین مزگەوت';
 
   @override
-  String get auto_detect_explanation => 'When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.';
+  String get auto_detect_explanation => 'کاتێک لە مزگەوتەکەت دوور بوویت، ئەپەکە بە شێوەیەکی ئۆتۆماتیکی پێشنیاری گەڕان بەدوای نزیکترین مزگەوتدا دەکات بە پشتبەستن بە شوێنەکەت.';
 
   @override
   String get auto_detect_location_title => 'دیارە تۆ دوریت لە مزگەوتەکەی خۆتەوە';
@@ -1097,7 +1097,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get system => 'سیستەم';
 
   @override
-  String get change_mosque_order => 'Drag and drop mosques to change order and to set the main mosque';
+  String get change_mosque_order => 'ڕاکێشان و دابەزاندنی مزگەوتەکان بۆ گۆڕینی ڕێکخستن و دانانی مزگەوتی سەرەکی';
 
   @override
   String get remove => 'سڕینەوە';
