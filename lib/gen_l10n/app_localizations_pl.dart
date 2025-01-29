@@ -1283,7 +1283,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get got_it => 'Rozumiem!';
 
   @override
-  String get mushaf_warsh => 'Warsh';
+  String get mushaf_warsh => 'Odrzut';
 
   @override
   String get mushaf_hafs => 'Hafty';
@@ -1302,4 +1302,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_language_pt => 'Portugalski';
+
+  @override
+  String get al_zikr => 'Al-Zikr';
 }

@@ -1283,10 +1283,10 @@ class AppLocalizationsHi extends AppLocalizations {
   String get got_it => 'Got it!';
 
   @override
-  String get mushaf_warsh => 'Mushaf Warsh';
+  String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'Hafs';
 
   @override
   String get select_rewaya => 'Select Rewaya';
@@ -1302,4 +1302,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get settings_language_pt => 'Portuguese';
+
+  @override
+  String get al_zikr => 'Al-Zikr';
 }

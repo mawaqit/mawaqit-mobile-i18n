@@ -1324,6 +1324,9 @@ class CrowdinLocalization extends AppLocalizations {
 	@override
   String get settings_language_pt => Crowdin.getText(localeName, 'settings_language_pt') ?? _fallbackTexts.settings_language_pt;
 
+	@override
+  String get al_zikr => Crowdin.getText(localeName, 'al_zikr') ?? _fallbackTexts.al_zikr;
+
 }
 
 class _CrowdinLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

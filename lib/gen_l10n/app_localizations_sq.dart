@@ -1286,7 +1286,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Hafs';
+  String get mushaf_hafs => 'Mushafi Hafs';
 
   @override
   String get select_rewaya => 'Zgjidh Rewayan';
@@ -1302,4 +1302,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get settings_language_pt => 'Portugalisht';
+
+  @override
+  String get al_zikr => 'Al-Zikr';
 }

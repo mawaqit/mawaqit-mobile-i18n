@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Czasy modlitwy według lokalizacji",
     "already_in_list": "jest już na Twojej liście!",
     "got_it": "Rozumiem!",
-    "mushaf_warsh": "Warsh",
+    "mushaf_warsh": "Odrzut",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
@@ -970,5 +970,6 @@
     },
     "highlight_next_prayer_after_Iqama": "Podświetl kolejną modlitwę po Iqama",
     "helmi_nasr": "Dr. Helmi Nasr",
-    "settings_language_pt": "Portugalski"
+    "settings_language_pt": "Portugalski",
+    "al_zikr": "Al-Zikr"
 }
