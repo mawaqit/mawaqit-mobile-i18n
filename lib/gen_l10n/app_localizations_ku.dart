@@ -329,7 +329,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get share => 'هاوبەشکردن';
 
   @override
-  String get itinerary => 'Itinerary';
+  String get itinerary => 'ریا گەڕێ';
 
   @override
   String get call => 'پەیوەندیکردن';
