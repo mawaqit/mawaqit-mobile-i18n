@@ -1283,10 +1283,10 @@ class AppLocalizationsFr extends AppLocalizations {
   String get got_it => 'Compris!';
 
   @override
-  String get mushaf_warsh => 'Warsh';
+  String get mushaf_warsh => 'Guerrier';
 
   @override
-  String get mushaf_hafs => 'Hafs';
+  String get mushaf_hafs => 'Hafs de Mushaf';
 
   @override
   String get select_rewaya => 'Sélectionner Rewaya';

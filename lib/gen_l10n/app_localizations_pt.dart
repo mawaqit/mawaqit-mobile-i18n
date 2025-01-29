@@ -1286,7 +1286,7 @@ class AppLocalizationsPt extends AppLocalizations {
   String get mushaf_warsh => 'Encantado';
 
   @override
-  String get mushaf_hafs => 'Hafs';
+  String get mushaf_hafs => 'Cabanas de Mushaf';
 
   @override
   String get select_rewaya => 'Selecionar Rewaya';
