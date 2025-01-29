@@ -7,6 +7,7 @@ import 'package:intl/intl.dart' as intl;
 
 import 'app_localizations_ar.dart';
 import 'app_localizations_bg.dart';
+import 'app_localizations_bm.dart';
 import 'app_localizations_bn.dart';
 import 'app_localizations_bs.dart';
 import 'app_localizations_de.dart';
@@ -19,6 +20,7 @@ import 'app_localizations_hi.dart';
 import 'app_localizations_hu.dart';
 import 'app_localizations_id.dart';
 import 'app_localizations_it.dart';
+import 'app_localizations_ku.dart';
 import 'app_localizations_nl.dart';
 import 'app_localizations_pl.dart';
 import 'app_localizations_pt.dart';
@@ -110,6 +112,7 @@ abstract class AppLocalizations {
   static const List<Locale> supportedLocales = <Locale>[
     Locale('ar'),
     Locale('bg'),
+    Locale('bm'),
     Locale('bn'),
     Locale('bs'),
     Locale('de'),
@@ -122,6 +125,7 @@ abstract class AppLocalizations {
     Locale('hu'),
     Locale('id'),
     Locale('it'),
+    Locale('ku'),
     Locale('nl'),
     Locale('pl'),
     Locale('pt'),
@@ -2690,13 +2694,13 @@ abstract class AppLocalizations {
   /// -> mushaf_warsh
   ///
   /// In en, this message translates to:
-  /// **'Mushaf Warsh'**
+  /// **'Warsh'**
   String get mushaf_warsh;
 
   /// -> mushaf_hafs
   ///
   /// In en, this message translates to:
-  /// **'Mushaf Hafs'**
+  /// **'Hafs'**
   String get mushaf_hafs;
 
   /// -> select_rewaya
@@ -2739,7 +2743,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'bg', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'nl', 'pl', 'pt', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'nl', 'pl', 'pt', 'ru', 'sq', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -2752,6 +2756,7 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
   switch (locale.languageCode) {
     case 'ar': return AppLocalizationsAr();
     case 'bg': return AppLocalizationsBg();
+    case 'bm': return AppLocalizationsBm();
     case 'bn': return AppLocalizationsBn();
     case 'bs': return AppLocalizationsBs();
     case 'de': return AppLocalizationsDe();
@@ -2764,6 +2769,7 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
     case 'hu': return AppLocalizationsHu();
     case 'id': return AppLocalizationsId();
     case 'it': return AppLocalizationsIt();
+    case 'ku': return AppLocalizationsKu();
     case 'nl': return AppLocalizationsNl();
     case 'pl': return AppLocalizationsPl();
     case 'pt': return AppLocalizationsPt();

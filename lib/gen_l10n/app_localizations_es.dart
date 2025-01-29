@@ -1283,10 +1283,10 @@ class AppLocalizationsEs extends AppLocalizations {
   String get got_it => '¡Entendido!';
 
   @override
-  String get mushaf_warsh => 'Chispán húmedo';
+  String get mushaf_warsh => 'guerra';
 
   @override
-  String get mushaf_hafs => 'Hafs de Mushaf';
+  String get mushaf_hafs => 'Hafs';
 
   @override
   String get select_rewaya => 'Seleccionar Rewaya';

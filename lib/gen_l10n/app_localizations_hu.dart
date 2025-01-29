@@ -692,7 +692,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get quran_translation => 'Fordítás';
 
   @override
-  String get quran_mushaf => 'A Korán egy nyomtatott példánya';
+  String get quran_mushaf => 'Mushaf';
 
   @override
   String get quran_juzz => 'Dzsuz';
@@ -1283,19 +1283,19 @@ class AppLocalizationsHu extends AppLocalizations {
   String get got_it => 'Megvan!';
 
   @override
-  String get mushaf_warsh => 'Mushaf Warsh';
+  String get mushaf_warsh => 'Wars';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'Hafsz';
 
   @override
-  String get select_rewaya => 'Válassza ki Rewaya';
+  String get select_rewaya => 'Recitálási stílus';
 
   @override
-  String get download_in_progress => 'Letöltés folyamatban, kérjük várjon...';
+  String get download_in_progress => 'Letöltés folyamatban, kérjük várj...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Kiemelje a következő imát az Iqama után';
+  String get highlight_next_prayer_after_Iqama => 'Iqáma után jelöld ki a következő imát';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';

@@ -1274,32 +1274,32 @@ class AppLocalizationsSq extends AppLocalizations {
   String get adjust_hijri_date => 'Rregullo datën Hixhri';
 
   @override
-  String get prayer_times_by_location => 'Prayer times by location';
+  String get prayer_times_by_location => 'Kohët e namazit sipas vendndodhjes';
 
   @override
-  String get already_in_list => 'is already in your list!';
+  String get already_in_list => 'Është tashmë në listën tuaj!';
 
   @override
-  String get got_it => 'Got it!';
+  String get got_it => 'E kuptova!';
 
   @override
-  String get mushaf_warsh => 'Mushaf Warsh';
+  String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'Hafs';
 
   @override
-  String get select_rewaya => 'Select Rewaya';
+  String get select_rewaya => 'Zgjidh Rewayan';
 
   @override
-  String get download_in_progress => 'Download in progress, please wait...';
+  String get download_in_progress => 'Po shkarkohet, ju lutemi pritni...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
+  String get highlight_next_prayer_after_Iqama => ' Pas Ikamës, theksoni kohën e ardhshme të namazit';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
 
   @override
-  String get settings_language_pt => 'Portuguese';
+  String get settings_language_pt => 'Portugalisht';
 }

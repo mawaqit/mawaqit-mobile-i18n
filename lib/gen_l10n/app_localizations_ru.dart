@@ -1283,10 +1283,10 @@ class AppLocalizationsRu extends AppLocalizations {
   String get got_it => 'Понятно!';
 
   @override
-  String get mushaf_warsh => 'Мушаф Варш';
+  String get mushaf_warsh => 'Варш';
 
   @override
-  String get mushaf_hafs => 'Хафс Мушаф';
+  String get mushaf_hafs => 'Хафс';
 
   @override
   String get select_rewaya => 'Выберите Rewaya';

@@ -1,8 +1,8 @@
 import 'app_localizations.dart';
 
-/// The translations for English (`en`).
-class AppLocalizationsEn extends AppLocalizations {
-  AppLocalizationsEn([String locale = 'en']) : super(locale);
+/// The translations for Bambara (`bm`).
+class AppLocalizationsBm extends AppLocalizations {
+  AppLocalizationsBm([String locale = 'bm']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
@@ -1283,10 +1283,10 @@ class AppLocalizationsEn extends AppLocalizations {
   String get got_it => 'Got it!';
 
   @override
-  String get mushaf_warsh => 'Warsh';
+  String get mushaf_warsh => 'Mushaf Warsh';
 
   @override
-  String get mushaf_hafs => 'Hafs';
+  String get mushaf_hafs => 'Mushaf Hafs';
 
   @override
   String get select_rewaya => 'Select Rewaya';
