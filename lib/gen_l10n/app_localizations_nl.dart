@@ -1302,4 +1302,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get settings_language_pt => 'Portugees';
+
+  @override
+  String get al_zikr => 'Al-Zikr';
 }

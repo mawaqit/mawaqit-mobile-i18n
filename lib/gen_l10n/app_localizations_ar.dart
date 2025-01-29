@@ -1302,4 +1302,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get settings_language_pt => 'البرتغالية';
+
+  @override
+  String get al_zikr => 'الذكر';
 }

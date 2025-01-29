@@ -1302,4 +1302,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get settings_language_pt => 'Portekizce';
+
+  @override
+  String get al_zikr => 'El-Zikr';
 }

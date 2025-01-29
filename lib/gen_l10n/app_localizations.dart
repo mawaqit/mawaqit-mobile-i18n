@@ -2732,6 +2732,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Portuguese'**
   String get settings_language_pt;
+
+  /// No description provided for @al_zikr.
+  ///
+  /// In en, this message translates to:
+  /// **'Al-Zikr'**
+  String get al_zikr;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

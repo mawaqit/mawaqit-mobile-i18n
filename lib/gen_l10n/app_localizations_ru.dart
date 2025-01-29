@@ -1302,4 +1302,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get settings_language_pt => 'Португальский';
+
+  @override
+  String get al_zikr => 'Аль-Зикр';
 }
