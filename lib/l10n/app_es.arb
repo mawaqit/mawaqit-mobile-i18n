@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -970,5 +970,6 @@
     },
     "highlight_next_prayer_after_Iqama": "Resaltar la siguiente oración después de Iqama",
     "helmi_nasr": "Dr. Helmi Nasr",
-    "settings_language_pt": "Portugués"
+    "settings_language_pt": "Portugués",
+    "al_zikr": "Al-Zikr"
 }
