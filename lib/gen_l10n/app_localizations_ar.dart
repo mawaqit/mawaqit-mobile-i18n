@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Arabic (`ar`).
 class AppLocalizationsAr extends AppLocalizations {
   AppLocalizationsAr([String locale = 'ar']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'تعيين هذا لكل الصلوات';
+
+  @override
+  String get powered_by_mawaqit => 'مدعوم من قبل المدير';
 }

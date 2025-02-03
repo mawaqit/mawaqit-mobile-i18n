@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for German (`de`).
 class AppLocalizationsDe extends AppLocalizations {
   AppLocalizationsDe([String locale = 'de']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Setze dies für jedes Gebet';
+
+  @override
+  String get powered_by_mawaqit => 'Powered by MAWAQIT';
 }

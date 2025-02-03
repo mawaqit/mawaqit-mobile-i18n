@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Bengali Bangla (`bn`).
 class AppLocalizationsBn extends AppLocalizations {
   AppLocalizationsBn([String locale = 'bn']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Set this for every prayer';
+
+  @override
+  String get powered_by_mawaqit => 'Powered by MAWAQIT';
 }

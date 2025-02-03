@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Italian (`it`).
 class AppLocalizationsIt extends AppLocalizations {
   AppLocalizationsIt([String locale = 'it']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Impostare questo per ogni preghiera';
+
+  @override
+  String get powered_by_mawaqit => 'Alimentato da MAWAQIT';
 }

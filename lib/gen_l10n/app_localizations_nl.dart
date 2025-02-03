@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Dutch Flemish (`nl`).
 class AppLocalizationsNl extends AppLocalizations {
   AppLocalizationsNl([String locale = 'nl']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Stel dit in voor elk gebed';
+
+  @override
+  String get powered_by_mawaqit => 'Mogelijk gemaakt door MAWAQIT';
 }

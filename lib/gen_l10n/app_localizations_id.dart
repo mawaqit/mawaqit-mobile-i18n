@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Indonesian (`id`).
 class AppLocalizationsId extends AppLocalizations {
   AppLocalizationsId([String locale = 'id']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Tetapkan ini untuk setiap doa';
+
+  @override
+  String get powered_by_mawaqit => 'Didukung oleh MAWAQIT';
 }

@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for French (`fr`).
 class AppLocalizationsFr extends AppLocalizations {
   AppLocalizationsFr([String locale = 'fr']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Définir ceci pour chaque prière';
+
+  @override
+  String get powered_by_mawaqit => 'Propulsé par MAWAQIT';
 }

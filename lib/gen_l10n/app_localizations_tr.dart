@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Turkish (`tr`).
 class AppLocalizationsTr extends AppLocalizations {
   AppLocalizationsTr([String locale = 'tr']) : super(locale);
@@ -1266,4 +1268,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get set_notification_for_all_parayer => 'Bunu her dua için ayarlayın';
+
+  @override
+  String get powered_by_mawaqit => 'MAWAQIT tarafından desteklenmektedir';
 }

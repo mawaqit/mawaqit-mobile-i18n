@@ -2,9 +2,9 @@ import 'app_localizations.dart';
 
 // ignore_for_file: type=lint
 
-/// The translations for English (`en`).
-class AppLocalizationsEn extends AppLocalizations {
-  AppLocalizationsEn([String locale = 'en']) : super(locale);
+/// The translations for Hungarian (`hu`).
+class AppLocalizationsHu extends AppLocalizations {
+  AppLocalizationsHu([String locale = 'hu']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
@@ -1270,5 +1270,5 @@ class AppLocalizationsEn extends AppLocalizations {
   String get set_notification_for_all_parayer => 'Set this for every prayer';
 
   @override
-  String get powered_by_mawaqit => 'Powered by MAWAQIT';
+  String get powered_by_mawaqit => 'Készítette: MAWAQIT';
 }
