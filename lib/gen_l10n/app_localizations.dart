@@ -29,6 +29,8 @@ import 'app_localizations_sq.dart';
 import 'app_localizations_tr.dart';
 import 'app_localizations_ur.dart';
 
+// ignore_for_file: type=lint
+
 /// Callers can lookup localized strings with an instance of AppLocalizations
 /// returned by `AppLocalizations.of(context)`.
 ///

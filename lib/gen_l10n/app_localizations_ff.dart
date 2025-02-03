@@ -1,5 +1,7 @@
 import 'app_localizations.dart';
 
+// ignore_for_file: type=lint
+
 /// The translations for Fulah (`ff`).
 class AppLocalizationsFf extends AppLocalizations {
   AppLocalizationsFf([String locale = 'ff']) : super(locale);
