@@ -1305,4 +1305,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get al_zikr => 'الذكر';
+
+  @override
+  String get favorite_azkar => 'الأذكار المفضلة';
+
+  @override
+  String get all_azkar => 'كل الأذكار';
 }

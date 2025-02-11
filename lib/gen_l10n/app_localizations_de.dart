@@ -1305,4 +1305,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get al_zikr => 'Al-Zikr';
+
+  @override
+  String get favorite_azkar => 'Lieblings-Dhikr';
+
+  @override
+  String get all_azkar => 'Alle Dhikr';
 }

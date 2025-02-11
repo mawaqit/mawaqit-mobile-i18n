@@ -1305,4 +1305,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get al_zikr => 'Аль-Зикр';
+
+  @override
+  String get favorite_azkar => 'Favorite Azkar';
+
+  @override
+  String get all_azkar => 'Все ацкар';
 }
