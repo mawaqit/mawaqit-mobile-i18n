@@ -1305,4 +1305,10 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get al_zikr => 'আল-যিকর';
+
+  @override
+  String get favorite_azkar => 'প্রিয় যিকির';
+
+  @override
+  String get all_azkar => 'সমস্ত যিকির';
 }

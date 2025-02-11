@@ -2738,6 +2738,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Al-Zikr'**
   String get al_zikr;
+
+  /// No description provided for @favorite_azkar.
+  ///
+  /// In en, this message translates to:
+  /// **'Favorite Azkar'**
+  String get favorite_azkar;
+
+  /// No description provided for @all_azkar.
+  ///
+  /// In en, this message translates to:
+  /// **'All Azkar'**
+  String get all_azkar;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
