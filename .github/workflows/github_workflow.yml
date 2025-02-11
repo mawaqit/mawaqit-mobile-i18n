@@ -16,7 +16,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.16.8'
+          flutter-version: '3.22.2'
 
       - name: Replace "ur-PK" with "ur" in app_ur.arb
         run: |
@@ -30,27 +30,8 @@ jobs:
         run: |
           sed -i 's/"pt-PT"/"pt"/g' lib/l10n/app_pt.arb
       
-
-      - name: Change intl version to 0.18.1
-        run: |
-          sed -i 's/intl: ^0.19.0/intl: ^0.18.1/g' pubspec.yaml
-          flutter pub get
-
       - name: Run flutter gen-l10n
         run: flutter gen-l10n
-
-      - name: Run flutter pub run crowdin_sdk:gen
-        run: flutter pub run crowdin_sdk:gen
-
-      - name: Change Flutter version to 3.22.2
-        uses: subosito/flutter-action@v2
-        with:
-          flutter-version: '3.22.2'
-
-      - name: Revert intl version back to 0.19.0
-        run: |
-          sed -i 's/intl: ^0.18.1/intl: ^0.19.0/g' pubspec.yaml
-          flutter pub get
           
       - name: Untrack .dart_tool and pubspec.lock
         run: |
