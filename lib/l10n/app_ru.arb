@@ -982,10 +982,6 @@
     "@device_media": {
         "description": "-> device_media"
     },
-    "no_audio_file_added": "Аудиофайлы еще не добавлены.",
-    "@no_audio_file_added": {
-        "description": "-> no_audio_file_added"
-    },
     "add_new_audio": "Добавить новый аудиофайл",
     "@add_new_audio": {
         "description": "-> add_new_audio"
@@ -1001,5 +997,9 @@
     "ios_audio_file_picking_prompt": "Пожалуйста, выберите аудио файл с максимальной длительностью 30 секунд или менее. Более длительный аудиофайл может прервать ваше уведомление о молитве.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "Выберите аудио (mp3) на устройстве.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
     }
 }
