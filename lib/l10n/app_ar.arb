@@ -982,10 +982,6 @@
     "@device_media": {
         "description": "-> device_media"
     },
-    "no_audio_file_added": "لم تتم إضافة أي ملفات صوتية حتى الآن.",
-    "@no_audio_file_added": {
-        "description": "-> no_audio_file_added"
-    },
     "add_new_audio": "إضافة ملف صوتي جديد",
     "@add_new_audio": {
         "description": "-> add_new_audio"
@@ -1001,5 +997,9 @@
     "ios_audio_file_picking_prompt": "الرجاء اختيار ملف صوتي بحد أقصى 30 ثانية أو أقل. قد يقاطع ملف صوتي أطول مدة إشعار الصلاة الخاص بك.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "حدد الصوت (mp3) من الجهاز.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
     }
 }
