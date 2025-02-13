@@ -973,5 +973,33 @@
     "settings_language_pt": "Portuguese",
     "al_zikr": "আল-যিকর",
     "favorite_azkar": "প্রিয় যিকির",
-    "all_azkar": "সমস্ত যিকির"
+    "all_azkar": "সমস্ত যিকির",
+    "device_audio_not_found": "Device audio not found",
+    "@device_audio_not_found": {
+        "description": "-> device_audio_not_found"
+    },
+    "device_media": "Device Media",
+    "@device_media": {
+        "description": "-> device_media"
+    },
+    "add_new_audio": "Add a new audio file",
+    "@add_new_audio": {
+        "description": "-> add_new_audio"
+    },
+    "selecet_audio_before_delete": "You need to add another audio file for notifications before deleting the selected audio file",
+    "@selecet_audio_before_delete": {
+        "description": "-> selecet_audio_before_delete"
+    },
+    "addding_file_prompt": "You can add multiple audio files, but please make sure not to add the same audio file.",
+    "@addding_file_prompt": {
+        "description": "-> addding_file_prompt"
+    },
+    "ios_audio_file_picking_prompt": "Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.",
+    "@ios_audio_file_picking_prompt": {
+        "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "Select audio (mp3) from device.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
+    }
 }

@@ -1311,4 +1311,25 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get all_azkar => 'كل الأذكار';
+
+  @override
+  String get device_audio_not_found => 'لم يتم العثور على صوت الجهاز';
+
+  @override
+  String get device_media => 'وسائط الجهاز';
+
+  @override
+  String get add_new_audio => 'إضافة ملف صوتي جديد';
+
+  @override
+  String get selecet_audio_before_delete => 'تحتاج إلى إضافة ملف صوتي آخر للإشعارات قبل حذف ملف الصوت المحدد';
+
+  @override
+  String get addding_file_prompt => 'يمكنك إضافة ملفات صوتية متعددة، ولكن يرجى التأكد من عدم إضافة نفس الملف الصوتي.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'الرجاء اختيار ملف صوتي بحد أقصى 30 ثانية أو أقل. قد يقاطع ملف صوتي أطول مدة إشعار الصلاة الخاص بك.';
+
+  @override
+  String get select_audio_from_device => 'حدد الصوت (mp3) من الجهاز.';
 }

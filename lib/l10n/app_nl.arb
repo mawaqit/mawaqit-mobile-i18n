@@ -973,5 +973,33 @@
     "settings_language_pt": "Portugees",
     "al_zikr": "Al-Zikr",
     "favorite_azkar": "Favorite Azkar",
-    "all_azkar": "Alle Azkar"
+    "all_azkar": "Alle Azkar",
+    "device_audio_not_found": "Apparaat audio niet gevonden",
+    "@device_audio_not_found": {
+        "description": "-> device_audio_not_found"
+    },
+    "device_media": "Apparaat Media",
+    "@device_media": {
+        "description": "-> device_media"
+    },
+    "add_new_audio": "Voeg een nieuw audio bestand toe",
+    "@add_new_audio": {
+        "description": "-> add_new_audio"
+    },
+    "selecet_audio_before_delete": "U moet een ander audiobestand toevoegen voor meldingen voordat u het geselecteerde audiobestand verwijdert",
+    "@selecet_audio_before_delete": {
+        "description": "-> selecet_audio_before_delete"
+    },
+    "addding_file_prompt": "U kunt meerdere audiobestanden toevoegen, maar zorg ervoor dat u niet hetzelfde audiobestand toevoegt.",
+    "@addding_file_prompt": {
+        "description": "-> addding_file_prompt"
+    },
+    "ios_audio_file_picking_prompt": "Kies een audiobestand met een maximale duur van 30 seconden of minder. Een langere duur audiobestand kan uw gebed notificatie onderbreken.",
+    "@ios_audio_file_picking_prompt": {
+        "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "Selecteer audio (mp3) van het apparaat.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
+    }
 }

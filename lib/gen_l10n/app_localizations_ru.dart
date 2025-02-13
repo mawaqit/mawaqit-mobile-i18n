@@ -1311,4 +1311,25 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get all_azkar => 'Все ацкар';
+
+  @override
+  String get device_audio_not_found => 'Аудио устройства не найдено';
+
+  @override
+  String get device_media => 'Медиа устройства';
+
+  @override
+  String get add_new_audio => 'Добавить новый аудиофайл';
+
+  @override
+  String get selecet_audio_before_delete => 'Перед удалением выбранного аудиофайла необходимо добавить другой аудиофайл';
+
+  @override
+  String get addding_file_prompt => 'Вы можете добавить несколько аудио файлов, но не забудьте добавить один и тот же аудио файл.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'Пожалуйста, выберите аудио файл с максимальной длительностью 30 секунд или менее. Более длительный аудиофайл может прервать ваше уведомление о молитве.';
+
+  @override
+  String get select_audio_from_device => 'Выберите аудио (mp3) на устройстве.';
 }

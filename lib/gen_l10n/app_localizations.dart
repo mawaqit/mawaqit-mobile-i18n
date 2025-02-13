@@ -2750,6 +2750,48 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'All Azkar'**
   String get all_azkar;
+
+  /// -> device_audio_not_found
+  ///
+  /// In en, this message translates to:
+  /// **'Device audio not found'**
+  String get device_audio_not_found;
+
+  /// -> device_media
+  ///
+  /// In en, this message translates to:
+  /// **'Device Media'**
+  String get device_media;
+
+  /// -> add_new_audio
+  ///
+  /// In en, this message translates to:
+  /// **'Add a new audio file'**
+  String get add_new_audio;
+
+  /// -> selecet_audio_before_delete
+  ///
+  /// In en, this message translates to:
+  /// **'You need to add another audio file for notifications before deleting the selected audio file'**
+  String get selecet_audio_before_delete;
+
+  /// -> addding_file_prompt
+  ///
+  /// In en, this message translates to:
+  /// **'You can add multiple audio files, but please make sure not to add the same audio file.'**
+  String get addding_file_prompt;
+
+  /// -> ios_audio_file_picking_prompt
+  ///
+  /// In en, this message translates to:
+  /// **'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.'**
+  String get ios_audio_file_picking_prompt;
+
+  /// -> select_audio_from_device
+  ///
+  /// In en, this message translates to:
+  /// **'Select audio (mp3) from device.'**
+  String get select_audio_from_device;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

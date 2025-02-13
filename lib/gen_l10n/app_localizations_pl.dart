@@ -1311,4 +1311,25 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get all_azkar => 'Wszystkie Azkar';
+
+  @override
+  String get device_audio_not_found => 'Nie znaleziono dźwięku urządzenia';
+
+  @override
+  String get device_media => 'Media urządzenia';
+
+  @override
+  String get add_new_audio => 'Dodaj nowy plik audio';
+
+  @override
+  String get selecet_audio_before_delete => 'Musisz dodać kolejny plik audio do powiadomień przed usunięciem wybranego pliku audio';
+
+  @override
+  String get addding_file_prompt => 'Możesz dodać wiele plików dźwiękowych, ale upewnij się, że nie dodawać tego samego pliku dźwiękowego.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'Proszę wybrać plik audio o maksymalnym czasie trwania nie dłuższym niż 30 sekund. Dłuższy plik dźwiękowy może przerwać powiadomienie o modlitwie.';
+
+  @override
+  String get select_audio_from_device => 'Wybierz dźwięk (mp3) z urządzenia.';
 }

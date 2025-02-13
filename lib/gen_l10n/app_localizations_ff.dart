@@ -1311,4 +1311,25 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get all_azkar => 'All Azkar';
+
+  @override
+  String get device_audio_not_found => 'Device audio not found';
+
+  @override
+  String get device_media => 'Device Media';
+
+  @override
+  String get add_new_audio => 'Add a new audio file';
+
+  @override
+  String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
+
+  @override
+  String get addding_file_prompt => 'You can add multiple audio files, but please make sure not to add the same audio file.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+
+  @override
+  String get select_audio_from_device => 'Select audio (mp3) from device.';
 }

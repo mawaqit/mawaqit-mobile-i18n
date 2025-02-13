@@ -1311,4 +1311,25 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get all_azkar => 'Todos os Azkar';
+
+  @override
+  String get device_audio_not_found => 'Dispositivo de áudio não encontrado';
+
+  @override
+  String get device_media => 'Mídia do dispositivo';
+
+  @override
+  String get add_new_audio => 'Adicionar um novo arquivo de áudio';
+
+  @override
+  String get selecet_audio_before_delete => 'Você precisa adicionar outro arquivo de áudio para notificações antes de apagar o arquivo de áudio selecionado';
+
+  @override
+  String get addding_file_prompt => 'Você pode adicionar vários arquivos de áudio, mas por favor, certifique-se de não adicionar o mesmo arquivo de áudio.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'Por favor, escolha um arquivo de áudio com duração máxima de 30 segundos ou menos. Um arquivo de áudio de duração mais longa poderá interromper sua notificação de oração.';
+
+  @override
+  String get select_audio_from_device => 'Selecione o áudio (mp3) do dispositivo.';
 }

@@ -973,5 +973,33 @@
     "settings_language_pt": "Portugués",
     "al_zikr": "Al-Zikr",
     "favorite_azkar": "Azkar favoritos",
-    "all_azkar": "Todos los Azkar"
+    "all_azkar": "Todos los Azkar",
+    "device_audio_not_found": "Audio del dispositivo no encontrado",
+    "@device_audio_not_found": {
+        "description": "-> device_audio_not_found"
+    },
+    "device_media": "Dispositivo multimedia",
+    "@device_media": {
+        "description": "-> device_media"
+    },
+    "add_new_audio": "Añadir un nuevo archivo de audio",
+    "@add_new_audio": {
+        "description": "-> add_new_audio"
+    },
+    "selecet_audio_before_delete": "Necesita añadir otro archivo de audio para las notificaciones antes de eliminar el archivo de audio seleccionado",
+    "@selecet_audio_before_delete": {
+        "description": "-> selecet_audio_before_delete"
+    },
+    "addding_file_prompt": "Puede añadir varios archivos de audio, pero asegúrese de no añadir el mismo archivo de audio.",
+    "@addding_file_prompt": {
+        "description": "-> addding_file_prompt"
+    },
+    "ios_audio_file_picking_prompt": "Por favor, elija un archivo de audio con una duración máxima de 30 segundos o menos. Un archivo de audio de duración más larga puede interrumpir la notificación de su oración.",
+    "@ios_audio_file_picking_prompt": {
+        "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "Seleccione audio (mp3) del dispositivo.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
+    }
 }

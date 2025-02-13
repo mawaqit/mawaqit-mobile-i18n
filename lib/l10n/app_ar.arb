@@ -973,5 +973,33 @@
     "settings_language_pt": "البرتغالية",
     "al_zikr": "الذكر",
     "favorite_azkar": "الأذكار المفضلة",
-    "all_azkar": "كل الأذكار"
+    "all_azkar": "كل الأذكار",
+    "device_audio_not_found": "لم يتم العثور على صوت الجهاز",
+    "@device_audio_not_found": {
+        "description": "-> device_audio_not_found"
+    },
+    "device_media": "وسائط الجهاز",
+    "@device_media": {
+        "description": "-> device_media"
+    },
+    "add_new_audio": "إضافة ملف صوتي جديد",
+    "@add_new_audio": {
+        "description": "-> add_new_audio"
+    },
+    "selecet_audio_before_delete": "تحتاج إلى إضافة ملف صوتي آخر للإشعارات قبل حذف ملف الصوت المحدد",
+    "@selecet_audio_before_delete": {
+        "description": "-> selecet_audio_before_delete"
+    },
+    "addding_file_prompt": "يمكنك إضافة ملفات صوتية متعددة، ولكن يرجى التأكد من عدم إضافة نفس الملف الصوتي.",
+    "@addding_file_prompt": {
+        "description": "-> addding_file_prompt"
+    },
+    "ios_audio_file_picking_prompt": "الرجاء اختيار ملف صوتي بحد أقصى 30 ثانية أو أقل. قد يقاطع ملف صوتي أطول مدة إشعار الصلاة الخاص بك.",
+    "@ios_audio_file_picking_prompt": {
+        "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "حدد الصوت (mp3) من الجهاز.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
+    }
 }
