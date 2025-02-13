@@ -1,5 +1,5 @@
 {
-    "@@locale": "ckb",
+    "@@locale": "ku",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -982,10 +982,6 @@
     "@device_media": {
         "description": "-> device_media"
     },
-    "no_audio_file_added": "No audio files have been added yet.",
-    "@no_audio_file_added": {
-        "description": "-> no_audio_file_added"
-    },
     "add_new_audio": "Add a new audio file",
     "@add_new_audio": {
         "description": "-> add_new_audio"
@@ -1001,5 +997,9 @@
     "ios_audio_file_picking_prompt": "Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "Select audio (mp3) from device.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
     }
 }
