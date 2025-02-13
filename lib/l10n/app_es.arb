@@ -982,10 +982,6 @@
     "@device_media": {
         "description": "-> device_media"
     },
-    "no_audio_file_added": "Aún no se han añadido archivos de audio.",
-    "@no_audio_file_added": {
-        "description": "-> no_audio_file_added"
-    },
     "add_new_audio": "Añadir un nuevo archivo de audio",
     "@add_new_audio": {
         "description": "-> add_new_audio"
@@ -1001,5 +997,9 @@
     "ios_audio_file_picking_prompt": "Por favor, elija un archivo de audio con una duración máxima de 30 segundos o menos. Un archivo de audio de duración más larga puede interrumpir la notificación de su oración.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "Seleccione audio (mp3) del dispositivo.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
     }
 }
