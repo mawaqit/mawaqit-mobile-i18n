@@ -1311,4 +1311,25 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get all_azkar => 'Kaikki Azkar';
+
+  @override
+  String get device_audio_not_found => 'Laitteen ääntä ei löydy';
+
+  @override
+  String get device_media => 'Laitteen Media';
+
+  @override
+  String get add_new_audio => 'Lisää uusi äänitiedosto';
+
+  @override
+  String get selecet_audio_before_delete => 'Sinun täytyy lisätä toinen äänitiedosto ilmoituksia varten ennen kuin poistat valitun äänitiedoston';
+
+  @override
+  String get addding_file_prompt => 'Voit lisätä useita äänitiedostoja, mutta varmista, että et lisää samaa äänitiedostoa.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'Ole hyvä ja valitse äänitiedosto, jonka kesto on enintään 30 sekuntia. Pitkäaikainen äänitiedosto voi keskeyttää rukousilmoituksen.';
+
+  @override
+  String get select_audio_from_device => 'Valitse ääni (mp3) laitteesta.';
 }

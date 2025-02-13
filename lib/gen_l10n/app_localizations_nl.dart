@@ -1311,4 +1311,25 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get all_azkar => 'Alle Azkar';
+
+  @override
+  String get device_audio_not_found => 'Apparaat audio niet gevonden';
+
+  @override
+  String get device_media => 'Apparaat Media';
+
+  @override
+  String get add_new_audio => 'Voeg een nieuw audio bestand toe';
+
+  @override
+  String get selecet_audio_before_delete => 'U moet een ander audiobestand toevoegen voor meldingen voordat u het geselecteerde audiobestand verwijdert';
+
+  @override
+  String get addding_file_prompt => 'U kunt meerdere audiobestanden toevoegen, maar zorg ervoor dat u niet hetzelfde audiobestand toevoegt.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'Kies een audiobestand met een maximale duur van 30 seconden of minder. Een langere duur audiobestand kan uw gebed notificatie onderbreken.';
+
+  @override
+  String get select_audio_from_device => 'Selecteer audio (mp3) van het apparaat.';
 }

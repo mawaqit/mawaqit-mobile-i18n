@@ -1311,4 +1311,25 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get all_azkar => 'Alle Dhikr';
+
+  @override
+  String get device_audio_not_found => 'Geräte-Audio nicht gefunden';
+
+  @override
+  String get device_media => 'Gerätemedien';
+
+  @override
+  String get add_new_audio => 'Neue Audiodatei hinzufügen';
+
+  @override
+  String get selecet_audio_before_delete => 'Sie müssen eine weitere Audiodatei für Benachrichtigungen hinzufügen, bevor Sie die ausgewählte Audiodatei löschen';
+
+  @override
+  String get addding_file_prompt => 'Sie können mehrere Audiodateien hinzufügen, aber stellen Sie sicher, dass Sie nicht die gleiche Audiodatei hinzufügen.';
+
+  @override
+  String get ios_audio_file_picking_prompt => 'Bitte wählen Sie eine Audiodatei mit einer maximalen Dauer von 30 Sekunden oder weniger. Eine längere Audiodatei kann Ihre Gebetsbenachrichtigung unterbrechen.';
+
+  @override
+  String get select_audio_from_device => 'Audio (mp3) vom Gerät auswählen.';
 }
