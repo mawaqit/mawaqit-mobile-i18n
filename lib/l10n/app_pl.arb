@@ -1001,5 +1001,21 @@
     "select_audio_from_device": "Wybierz dźwięk (mp3) z urządzenia.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
-    }
+    },
+    "add_ticket": "Dodaj bilet",
+    "projects": "Projekty",
+    "fill_form": "Aby dodać swój projekt tutaj, wypełnij ten",
+    "form": "formularz",
+    "updates_draw": "Otrzymuj aktualizacje i weź udział w losowaniu, aby wygrać nagrody od",
+    "email_info": "Ten e-mail zostanie użyty do kontaktu z Tobą, jeśli wygrasz losowanie",
+    "enter_email": "Wpisz swój e-mail",
+    "email_privacy": "MAWAQIT nie udostępni tego e-maila nikomu. E-mail zostanie automatycznie usunięty z naszej bazy danych po każdym losowaniu",
+    "submit": "Prześlij",
+    "disclaimer": "MAWAQIT nie ponosi odpowiedzialności za usługi lub produkty oferowane przez wymienione projekty. Proszę przeprowadzić własne badania",
+    "participating_with": "Uczestniczysz z",
+    "no_of_tickets": "Liczba biletów:",
+    "unparticipate": "Kliknij, aby zrezygnować",
+    "next_ticket": "Następny dostępny bilet za",
+    "click_here": "Kliknij tutaj",
+    "mawaqit_store": "Sklep MAWAQIT"
 }
