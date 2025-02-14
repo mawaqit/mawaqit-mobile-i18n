@@ -1380,4 +1380,16 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'Sklep MAWAQIT';
+
+  @override
+  String get no_projects => 'Brak projektów';
+
+  @override
+  String get draw_info => 'Jedno losowanie co miesiąc. Co 24 godziny możesz dodać nowy los, aby zwiększyć swoją szansę na wygraną!';
+
+  @override
+  String get enter_valid_email => 'Wpisz poprawny adres e-mail';
+
+  @override
+  String get please_enter_email => 'Proszę podać adres e-mail';
 }

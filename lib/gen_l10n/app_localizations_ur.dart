@@ -1380,4 +1380,16 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'MAWAQIT اسٹور';
+
+  @override
+  String get no_projects => 'کوئی منصوبے نہیں ہیں';
+
+  @override
+  String get draw_info => 'ہر مہینے ایک قرعہ اندازی۔ جیتنے کے اپنے امکانات بڑھانے کے لیے ہر 24 گھنٹے میں ایک نیا ٹکٹ شامل کریں!';
+
+  @override
+  String get enter_valid_email => 'درست ای میل درج کریں';
+
+  @override
+  String get please_enter_email => 'براہ کرم ای میل درج کریں';
 }

@@ -1380,4 +1380,16 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'Loja MAWAQIT';
+
+  @override
+  String get no_projects => 'There are no projects';
+
+  @override
+  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+
+  @override
+  String get enter_valid_email => 'Enter a valid email';
+
+  @override
+  String get please_enter_email => 'Please enter an email';
 }

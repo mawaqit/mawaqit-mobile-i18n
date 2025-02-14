@@ -1380,4 +1380,16 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'MAWAQIT Mağazası';
+
+  @override
+  String get no_projects => 'Proje yok';
+
+  @override
+  String get draw_info => 'Her ay bir çekiliş. Kazanma şansınızı artırmak için her 24 saatte bir yeni bir bilet ekleyebilirsiniz!';
+
+  @override
+  String get enter_valid_email => 'Geçerli bir e-posta girin';
+
+  @override
+  String get please_enter_email => 'Lütfen bir e-posta girin';
 }

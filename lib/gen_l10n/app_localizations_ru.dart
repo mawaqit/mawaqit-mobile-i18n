@@ -1380,4 +1380,16 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'Магазин MAWAQIT';
+
+  @override
+  String get no_projects => 'Нет проектов';
+
+  @override
+  String get draw_info => 'Один розыгрыш каждый месяц. Каждые 24 часа вы можете добавить новый билет, чтобы увеличить шанс на победу!';
+
+  @override
+  String get enter_valid_email => 'Введите действительный адрес электронной почты';
+
+  @override
+  String get please_enter_email => 'Пожалуйста, введите адрес электронной почты';
 }
