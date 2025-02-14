@@ -1017,5 +1017,9 @@
         "unparticipate": "Klik untuk membatalkan partisipasi",
         "next_ticket": "Tiket berikutnya tersedia dalam",
         "click_here": "Klik di sini",
-        "mawaqit_store": "Toko MAWAQIT"
+        "mawaqit_store": "Toko MAWAQIT",
+            "no_projects": "Tidak ada proyek",
+            "draw_info": "Satu undian setiap bulan. Setiap 24 jam, Anda dapat menambahkan tiket baru untuk meningkatkan peluang menang!",
+            "enter_valid_email": "Masukkan email yang valid",
+            "please_enter_email": "Harap masukkan email"
 }

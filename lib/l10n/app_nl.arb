@@ -1017,5 +1017,9 @@
         "unparticipate": "Klik om deelname te annuleren",
         "next_ticket": "Het volgende ticket beschikbaar over",
         "click_here": "Klik hier",
-        "mawaqit_store": "MAWAQIT Winkel"
+        "mawaqit_store": "MAWAQIT Winkel",
+           "no_projects": "Er zijn geen projecten",
+            "draw_info": "Eén trekking per maand. Elke 24 uur kun je een nieuw ticket toevoegen om je kans om te winnen te vergroten!",
+            "enter_valid_email": "Voer een geldig e-mailadres in",
+            "please_enter_email": "Voer alstublieft een e-mailadres in"
 }

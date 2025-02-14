@@ -1017,5 +1017,9 @@
         "unparticipate": "Fai clic per annullare la partecipazione",
         "next_ticket": "Il prossimo biglietto disponibile tra",
         "click_here": "Fai clic qui",
-        "mawaqit_store": "Negozio MAWAQIT"
+        "mawaqit_store": "Negozio MAWAQIT",
+         "no_projects": "Non ci sono progetti",
+            "draw_info": "Un'estrazione ogni mese. Ogni 24 ore puoi aggiungere un nuovo biglietto per aumentare le tue possibilità di vincere!",
+            "enter_valid_email": "Inserisci un'email valida",
+            "please_enter_email": "Per favore, inserisci un'email"
 }
