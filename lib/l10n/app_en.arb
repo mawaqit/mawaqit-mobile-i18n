@@ -1001,7 +1001,8 @@
     "select_audio_from_device": "Select audio (mp3) from device.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
-    },
+    }
+    ,
     "add_ticket": "Add ticket",
     "projects": "Projects",
     "fill_form": "To add your project here fill up this",
