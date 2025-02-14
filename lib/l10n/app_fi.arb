@@ -1017,5 +1017,9 @@
     "unparticipate": "Klikkaa poistaaksesi osallistumisesta",
     "next_ticket": "Seuraava lippu on saatavilla",
     "click_here": "Klikkaa tästä",
-    "mawaqit_store": "MAWAQIT Kauppa"
+    "mawaqit_store": "MAWAQIT Kauppa",
+    "no_projects": "Projekteja ei ole",
+    "draw_info": "Yksi piirtää joka kuukausi. Joka 24 h voit lisätä uuden lipun lisätä mahdollisuuttasi voittaa!",
+    "enter_valid_email": "Syötä voimassa oleva sähköpostiosoite",
+    "please_enter_email": "Ole hyvä ja syötä sähköposti"
 }
