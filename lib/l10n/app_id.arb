@@ -1001,5 +1001,21 @@
     "select_audio_from_device": "Select audio (mp3) from device.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
-    }
+    },
+    "add_ticket": "Tambahkan tiket",
+    "projects": "Proyek",
+    "fill_form": "Untuk menambahkan proyek Anda di sini, isi",
+    "form": "formulir",
+    "updates_draw": "Dapatkan pembaruan dan ikuti undian untuk memenangkan hadiah dari",
+    "email_info": "Email ini akan digunakan untuk menghubungi Anda jika Anda memenangkan undian",
+    "enter_email": "Masukkan email Anda",
+    "email_privacy": "MAWAQIT tidak akan membagikan email ini dengan siapa pun. Email akan dihapus secara otomatis dari database kami setelah setiap undian",
+    "submit": "Kirim",
+    "disclaimer": "MAWAQIT dibebaskan dari tanggung jawab atas layanan atau produk yang diusulkan oleh proyek yang terdaftar. Silakan lakukan riset Anda sendiri",
+    "participating_with": "Anda berpartisipasi dengan",
+    "no_of_tickets": "Jumlah tiket:",
+    "unparticipate": "Klik untuk membatalkan partisipasi",
+    "next_ticket": "Tiket berikutnya tersedia dalam",
+    "click_here": "Klik di sini",
+    "mawaqit_store": "Toko MAWAQIT"
 }
