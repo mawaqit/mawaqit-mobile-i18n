@@ -1332,4 +1332,52 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Valitse ääni (mp3) laitteesta.';
+
+  @override
+  String get add_ticket => 'Lisää lippu';
+
+  @override
+  String get projects => 'Projektit';
+
+  @override
+  String get fill_form => 'Täytä tämä lisätäksesi projektisi tähän';
+
+  @override
+  String get form => 'lomake';
+
+  @override
+  String get updates_draw => 'Hanki päivityksiä ja osallistu tasapeliin voittaaksesi herkkuja';
+
+  @override
+  String get email_info => 'Tätä sähköpostia käytetään ottamaan sinuun yhteyttä, jos voitat tasapelin';
+
+  @override
+  String get enter_email => 'Syötä sähköpostiosoitteesi';
+
+  @override
+  String get email_privacy => 'MAWAQIT ei jaa tätä sähköpostia kenellekään. Sähköposti poistetaan automaattisesti tietokannastamme jokaisen tasapelin jälkeen';
+
+  @override
+  String get submit => 'Lähetä';
+
+  @override
+  String get disclaimer => 'MAWAQIT on vapautunut vastuusta listattujen projektien ehdottamista palveluista tai tuotteista. Tee oma due diligence ja tutkimus';
+
+  @override
+  String get participating_with => 'Olet mukana';
+
+  @override
+  String get no_of_tickets => 'Lippujen määrä:';
+
+  @override
+  String get unparticipate => 'Klikkaa poistaaksesi osallistumisesta';
+
+  @override
+  String get next_ticket => 'Seuraava lippu on saatavilla';
+
+  @override
+  String get click_here => 'Klikkaa tästä';
+
+  @override
+  String get mawaqit_store => 'MAWAQIT Kauppa';
 }

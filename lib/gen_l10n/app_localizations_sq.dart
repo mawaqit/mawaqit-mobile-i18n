@@ -1332,4 +1332,52 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Select audio (mp3) from device.';
+
+  @override
+  String get add_ticket => 'Add ticket';
+
+  @override
+  String get projects => 'Projects';
+
+  @override
+  String get fill_form => 'To add your project here fill up this';
+
+  @override
+  String get form => 'form';
+
+  @override
+  String get updates_draw => 'Get updates and participate in the draw to win goodies from';
+
+  @override
+  String get email_info => 'This email will be used to contact you if you win the draw';
+
+  @override
+  String get enter_email => 'Enter your email';
+
+  @override
+  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+
+  @override
+  String get submit => 'Submit';
+
+  @override
+  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+
+  @override
+  String get participating_with => 'You\'re participating with';
+
+  @override
+  String get no_of_tickets => 'No. of tickets:';
+
+  @override
+  String get unparticipate => 'Click to unparticipate';
+
+  @override
+  String get next_ticket => 'The next ticket available in';
+
+  @override
+  String get click_here => 'Click here';
+
+  @override
+  String get mawaqit_store => 'MAWAQIT Store';
 }

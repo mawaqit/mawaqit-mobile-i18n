@@ -1332,4 +1332,52 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Select audio (mp3) from device.';
+
+  @override
+  String get add_ticket => 'Bilet ekle';
+
+  @override
+  String get projects => 'Projeler';
+
+  @override
+  String get fill_form => 'Projenizi buraya eklemek için bu';
+
+  @override
+  String get form => 'formu doldurun';
+
+  @override
+  String get updates_draw => 'Güncellemeleri alın ve ödülleri kazanmak için çekilişe katılın';
+
+  @override
+  String get email_info => 'Bu e-posta, çekilişi kazanırsanız sizinle iletişime geçmek için kullanılacaktır';
+
+  @override
+  String get enter_email => 'E-postanızı girin';
+
+  @override
+  String get email_privacy => 'MAWAQIT bu e-postayı kimseyle paylaşmayacaktır. E-posta, her çekilişten sonra otomatik olarak veritabanımızdan silinecektir';
+
+  @override
+  String get submit => 'Gönder';
+
+  @override
+  String get disclaimer => 'MAWAQIT, listelenen projeler tarafından sunulan hizmetler veya ürünler ile ilgili herhangi bir sorumluluk kabul etmez. Lütfen kendi araştırmanızı yapın';
+
+  @override
+  String get participating_with => 'Şu biletlerle katılıyorsunuz:';
+
+  @override
+  String get no_of_tickets => 'Bilet sayısı:';
+
+  @override
+  String get unparticipate => 'Katılımı iptal etmek için tıklayın';
+
+  @override
+  String get next_ticket => 'Sonraki bilet şu sürede mevcut olacak:';
+
+  @override
+  String get click_here => 'Buraya tıklayın';
+
+  @override
+  String get mawaqit_store => 'MAWAQIT Mağazası';
 }

@@ -1286,7 +1286,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Hafs';
+  String get mushaf_hafs => 'Mushaf Hafs';
 
   @override
   String get select_rewaya => 'Seleziona Rewaya';
@@ -1332,4 +1332,52 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Selezionare audio (mp3) dal dispositivo.';
+
+  @override
+  String get add_ticket => 'Aggiungi biglietto';
+
+  @override
+  String get projects => 'Progetti';
+
+  @override
+  String get fill_form => 'Per aggiungere il tuo progetto qui, compila questo';
+
+  @override
+  String get form => 'modulo';
+
+  @override
+  String get updates_draw => 'Ricevi aggiornamenti e partecipa all\'estrazione per vincere premi da';
+
+  @override
+  String get email_info => 'Questa email verrà utilizzata per contattarti se vinci l\'estrazione';
+
+  @override
+  String get enter_email => 'Inserisci la tua email';
+
+  @override
+  String get email_privacy => 'MAWAQIT non condividerà questa email con nessuno. L\'email verrà eliminata automaticamente dal nostro database dopo ogni estrazione';
+
+  @override
+  String get submit => 'Invia';
+
+  @override
+  String get disclaimer => 'MAWAQIT è esonerata da qualsiasi responsabilità riguardo ai servizi o prodotti proposti dai progetti elencati. Si prega di fare le proprie ricerche';
+
+  @override
+  String get participating_with => 'Stai partecipando con';
+
+  @override
+  String get no_of_tickets => 'Numero di biglietti:';
+
+  @override
+  String get unparticipate => 'Fai clic per annullare la partecipazione';
+
+  @override
+  String get next_ticket => 'Il prossimo biglietto disponibile tra';
+
+  @override
+  String get click_here => 'Fai clic qui';
+
+  @override
+  String get mawaqit_store => 'Negozio MAWAQIT';
 }

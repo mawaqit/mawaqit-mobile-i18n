@@ -2792,6 +2792,102 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Select audio (mp3) from device.'**
   String get select_audio_from_device;
+
+  /// No description provided for @add_ticket.
+  ///
+  /// In en, this message translates to:
+  /// **'Add ticket'**
+  String get add_ticket;
+
+  /// No description provided for @projects.
+  ///
+  /// In en, this message translates to:
+  /// **'Projects'**
+  String get projects;
+
+  /// No description provided for @fill_form.
+  ///
+  /// In en, this message translates to:
+  /// **'To add your project here fill up this'**
+  String get fill_form;
+
+  /// No description provided for @form.
+  ///
+  /// In en, this message translates to:
+  /// **'form'**
+  String get form;
+
+  /// No description provided for @updates_draw.
+  ///
+  /// In en, this message translates to:
+  /// **'Get updates and participate in the draw to win goodies from'**
+  String get updates_draw;
+
+  /// No description provided for @email_info.
+  ///
+  /// In en, this message translates to:
+  /// **'This email will be used to contact you if you win the draw'**
+  String get email_info;
+
+  /// No description provided for @enter_email.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter your email'**
+  String get enter_email;
+
+  /// No description provided for @email_privacy.
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw'**
+  String get email_privacy;
+
+  /// No description provided for @submit.
+  ///
+  /// In en, this message translates to:
+  /// **'Submit'**
+  String get submit;
+
+  /// No description provided for @disclaimer.
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research'**
+  String get disclaimer;
+
+  /// No description provided for @participating_with.
+  ///
+  /// In en, this message translates to:
+  /// **'You\'re participating with'**
+  String get participating_with;
+
+  /// No description provided for @no_of_tickets.
+  ///
+  /// In en, this message translates to:
+  /// **'No. of tickets:'**
+  String get no_of_tickets;
+
+  /// No description provided for @unparticipate.
+  ///
+  /// In en, this message translates to:
+  /// **'Click to unparticipate'**
+  String get unparticipate;
+
+  /// No description provided for @next_ticket.
+  ///
+  /// In en, this message translates to:
+  /// **'The next ticket available in'**
+  String get next_ticket;
+
+  /// No description provided for @click_here.
+  ///
+  /// In en, this message translates to:
+  /// **'Click here'**
+  String get click_here;
+
+  /// No description provided for @mawaqit_store.
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT Store'**
+  String get mawaqit_store;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

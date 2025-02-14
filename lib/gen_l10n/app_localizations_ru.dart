@@ -1332,4 +1332,52 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Выберите аудио (mp3) на устройстве.';
+
+  @override
+  String get add_ticket => 'Добавить билет';
+
+  @override
+  String get projects => 'Проекты';
+
+  @override
+  String get fill_form => 'Чтобы добавить ваш проект сюда, заполните эту';
+
+  @override
+  String get form => 'форму';
+
+  @override
+  String get updates_draw => 'Получайте обновления и участвуйте в розыгрыше, чтобы выиграть призы от';
+
+  @override
+  String get email_info => 'Этот адрес электронной почты будет использоваться для связи с вами, если вы выиграете в розыгрыше';
+
+  @override
+  String get enter_email => 'Введите вашу электронную почту';
+
+  @override
+  String get email_privacy => 'MAWAQIT не передаст этот адрес электронной почты никому. Он будет автоматически удален из нашей базы данных после каждого розыгрыша';
+
+  @override
+  String get submit => 'Отправить';
+
+  @override
+  String get disclaimer => 'MAWAQIT не несет ответственности за услуги или товары, предлагаемые указанными проектами. Пожалуйста, проводите собственное исследование';
+
+  @override
+  String get participating_with => 'Вы участвуете с';
+
+  @override
+  String get no_of_tickets => 'Количество билетов:';
+
+  @override
+  String get unparticipate => 'Нажмите, чтобы отказаться от участия';
+
+  @override
+  String get next_ticket => 'Следующий доступный билет через';
+
+  @override
+  String get click_here => 'Нажмите здесь';
+
+  @override
+  String get mawaqit_store => 'Магазин MAWAQIT';
 }

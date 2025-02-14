@@ -1332,4 +1332,52 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Seleccione audio (mp3) del dispositivo.';
+
+  @override
+  String get add_ticket => 'Añadir boleto';
+
+  @override
+  String get projects => 'Proyectos';
+
+  @override
+  String get fill_form => 'Para agregar tu proyecto aquí, completa este';
+
+  @override
+  String get form => 'formulario';
+
+  @override
+  String get updates_draw => 'Recibe actualizaciones y participa en el sorteo para ganar premios de';
+
+  @override
+  String get email_info => 'Este correo electrónico se usará para contactarte si ganas el sorteo';
+
+  @override
+  String get enter_email => 'Introduce tu correo electrónico';
+
+  @override
+  String get email_privacy => 'MAWAQIT no compartirá este correo electrónico con nadie. Se eliminará automáticamente de nuestra base de datos después de cada sorteo';
+
+  @override
+  String get submit => 'Enviar';
+
+  @override
+  String get disclaimer => 'MAWAQIT no se responsabiliza por los servicios o productos ofrecidos por los proyectos listados. Realiza tu propia investigación';
+
+  @override
+  String get participating_with => 'Estás participando con';
+
+  @override
+  String get no_of_tickets => 'Número de boletos:';
+
+  @override
+  String get unparticipate => 'Haz clic para cancelar la participación';
+
+  @override
+  String get next_ticket => 'El próximo boleto estará disponible en';
+
+  @override
+  String get click_here => 'Haz clic aquí';
+
+  @override
+  String get mawaqit_store => 'Tienda MAWAQIT';
 }
