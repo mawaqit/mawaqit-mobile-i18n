@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1017,5 +1017,9 @@
     "unparticipate": "Clique para desparticipar",
     "next_ticket": "O próximo ticket disponível em",
     "click_here": "Clique aqui",
-    "mawaqit_store": "Loja MAWAQIT"
+    "mawaqit_store": "Loja MAWAQIT",
+    "no_projects": "Não há projetos",
+    "draw_info": "Um sorteio por mês. A cada 24 horas você pode adicionar um novo bilhete para aumentar a sua chance de ganhar!",
+    "enter_valid_email": "Digite um e-mail válido",
+    "please_enter_email": "Por favor, digite um e-mail"
 }
