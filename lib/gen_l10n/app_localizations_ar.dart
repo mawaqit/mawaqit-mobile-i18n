@@ -1332,4 +1332,52 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'حدد الصوت (mp3) من الجهاز.';
+
+  @override
+  String get add_ticket => 'إضافة تذكرة';
+
+  @override
+  String get projects => 'المشاريع';
+
+  @override
+  String get fill_form => 'لإضافة مشروعك هنا، قم بملء هذا';
+
+  @override
+  String get form => 'النموذج';
+
+  @override
+  String get updates_draw => 'احصل على التحديثات وشارك في السحب للفوز بجوائز من';
+
+  @override
+  String get email_info => 'سيتم استخدام هذا البريد الإلكتروني للاتصال بك إذا فزت في السحب';
+
+  @override
+  String get enter_email => 'أدخل بريدك الإلكتروني';
+
+  @override
+  String get email_privacy => 'مواقيت لن تشارك هذا البريد الإلكتروني مع أي شخص. سيتم حذف البريد الإلكتروني تلقائيًا من قاعدة البيانات بعد كل سحب';
+
+  @override
+  String get submit => 'إرسال';
+
+  @override
+  String get disclaimer => 'مواقيت غير مسؤولة عن الخدمات أو المنتجات المقترحة من قبل المشاريع المدرجة. يرجى إجراء البحث والتحقق بنفسك';
+
+  @override
+  String get participating_with => 'أنت تشارك بـ';
+
+  @override
+  String get no_of_tickets => 'عدد التذاكر:';
+
+  @override
+  String get unparticipate => 'انقر لإلغاء المشاركة';
+
+  @override
+  String get next_ticket => 'التذكرة التالية متاحة في';
+
+  @override
+  String get click_here => 'اضغط هنا';
+
+  @override
+  String get mawaqit_store => 'متجر مواقيت';
 }

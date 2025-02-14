@@ -1332,4 +1332,52 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Select audio (mp3) from device.';
+
+  @override
+  String get add_ticket => 'Tambahkan tiket';
+
+  @override
+  String get projects => 'Proyek';
+
+  @override
+  String get fill_form => 'Untuk menambahkan proyek Anda di sini, isi';
+
+  @override
+  String get form => 'formulir';
+
+  @override
+  String get updates_draw => 'Dapatkan pembaruan dan ikuti undian untuk memenangkan hadiah dari';
+
+  @override
+  String get email_info => 'Email ini akan digunakan untuk menghubungi Anda jika Anda memenangkan undian';
+
+  @override
+  String get enter_email => 'Masukkan email Anda';
+
+  @override
+  String get email_privacy => 'MAWAQIT tidak akan membagikan email ini dengan siapa pun. Email akan dihapus secara otomatis dari database kami setelah setiap undian';
+
+  @override
+  String get submit => 'Kirim';
+
+  @override
+  String get disclaimer => 'MAWAQIT dibebaskan dari tanggung jawab atas layanan atau produk yang diusulkan oleh proyek yang terdaftar. Silakan lakukan riset Anda sendiri';
+
+  @override
+  String get participating_with => 'Anda berpartisipasi dengan';
+
+  @override
+  String get no_of_tickets => 'Jumlah tiket:';
+
+  @override
+  String get unparticipate => 'Klik untuk membatalkan partisipasi';
+
+  @override
+  String get next_ticket => 'Tiket berikutnya tersedia dalam';
+
+  @override
+  String get click_here => 'Klik di sini';
+
+  @override
+  String get mawaqit_store => 'Toko MAWAQIT';
 }

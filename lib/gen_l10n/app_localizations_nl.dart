@@ -1332,4 +1332,52 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get select_audio_from_device => 'Selecteer audio (mp3) van het apparaat.';
+
+  @override
+  String get add_ticket => 'Ticket toevoegen';
+
+  @override
+  String get projects => 'Projecten';
+
+  @override
+  String get fill_form => 'Om je project hier toe te voegen, vul dit';
+
+  @override
+  String get form => 'formulier in';
+
+  @override
+  String get updates_draw => 'Ontvang updates en neem deel aan de loterij om prijzen te winnen van';
+
+  @override
+  String get email_info => 'Deze e-mail wordt gebruikt om contact met je op te nemen als je de loterij wint';
+
+  @override
+  String get enter_email => 'Voer je e-mail in';
+
+  @override
+  String get email_privacy => 'MAWAQIT zal deze e-mail met niemand delen. De e-mail wordt na elke loterij automatisch uit onze database verwijderd';
+
+  @override
+  String get submit => 'Versturen';
+
+  @override
+  String get disclaimer => 'MAWAQIT is niet verantwoordelijk voor de diensten of producten die door de vermelde projecten worden aangeboden. Doe je eigen onderzoek';
+
+  @override
+  String get participating_with => 'Je doet mee met';
+
+  @override
+  String get no_of_tickets => 'Aantal tickets:';
+
+  @override
+  String get unparticipate => 'Klik om deelname te annuleren';
+
+  @override
+  String get next_ticket => 'Het volgende ticket beschikbaar over';
+
+  @override
+  String get click_here => 'Klik hier';
+
+  @override
+  String get mawaqit_store => 'MAWAQIT Winkel';
 }

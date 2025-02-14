@@ -1001,5 +1001,21 @@
     "select_audio_from_device": "Valitse ääni (mp3) laitteesta.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
-    }
+    },
+    "add_ticket": "Lisää lippu",
+    "projects": "Projektit",
+    "fill_form": "Täytä tämä lisätäksesi projektisi tähän",
+    "form": "lomake",
+    "updates_draw": "Hanki päivityksiä ja osallistu tasapeliin voittaaksesi herkkuja",
+    "email_info": "Tätä sähköpostia käytetään ottamaan sinuun yhteyttä, jos voitat tasapelin",
+    "enter_email": "Syötä sähköpostiosoitteesi",
+    "email_privacy": "MAWAQIT ei jaa tätä sähköpostia kenellekään. Sähköposti poistetaan automaattisesti tietokannastamme jokaisen tasapelin jälkeen",
+    "submit": "Lähetä",
+    "disclaimer": "MAWAQIT on vapautunut vastuusta listattujen projektien ehdottamista palveluista tai tuotteista. Tee oma due diligence ja tutkimus",
+    "participating_with": "Olet mukana",
+    "no_of_tickets": "Lippujen määrä:",
+    "unparticipate": "Klikkaa poistaaksesi osallistumisesta",
+    "next_ticket": "Seuraava lippu on saatavilla",
+    "click_here": "Klikkaa tästä",
+    "mawaqit_store": "MAWAQIT Kauppa"
 }

@@ -1001,5 +1001,21 @@
     "select_audio_from_device": "Select audio (mp3) from device.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
-    }
+    },
+    "add_ticket": "Add ticket",
+    "projects": "Projects",
+    "fill_form": "To add your project here fill up this",
+    "form": "form",
+    "updates_draw": "Get updates and participate in the draw to win goodies from",
+    "email_info": "This email will be used to contact you if you win the draw",
+    "enter_email": "Enter your email",
+    "email_privacy": "MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw",
+    "submit": "Submit",
+    "disclaimer": "MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research",
+    "participating_with": "You're participating with",
+    "no_of_tickets": "No. of tickets:",
+    "unparticipate": "Click to unparticipate",
+    "next_ticket": "The next ticket available in",
+    "click_here": "Click here",
+    "mawaqit_store": "MAWAQIT Store"
 }
