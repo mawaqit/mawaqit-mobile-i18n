@@ -1001,8 +1001,7 @@
     "select_audio_from_device": "Select audio (mp3) from device.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
-    }
-    ,
+    },
     "add_ticket": "Add ticket",
     "projects": "Projects",
     "fill_form": "To add your project here fill up this",
@@ -1019,8 +1018,8 @@
     "next_ticket": "The next ticket available in",
     "click_here": "Click here",
     "mawaqit_store": "MAWAQIT Store",
-        "no_projects": "There are no projects",
-        "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
-        "enter_valid_email": "Enter a valid email",
-        "please_enter_email": "Please enter an email"
+    "no_projects": "There are no projects",
+    "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
+    "enter_valid_email": "Enter a valid email",
+    "please_enter_email": "Please enter an email"
 }
