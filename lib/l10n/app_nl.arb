@@ -1001,5 +1001,21 @@
     "select_audio_from_device": "Selecteer audio (mp3) van het apparaat.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
-    }
+    },
+    "add_ticket": "Ticket toevoegen",
+    "projects": "Projecten",
+    "fill_form": "Om je project hier toe te voegen, vul dit",
+    "form": "formulier in",
+    "updates_draw": "Ontvang updates en neem deel aan de loterij om prijzen te winnen van",
+    "email_info": "Deze e-mail wordt gebruikt om contact met je op te nemen als je de loterij wint",
+    "enter_email": "Voer je e-mail in",
+    "email_privacy": "MAWAQIT zal deze e-mail met niemand delen. De e-mail wordt na elke loterij automatisch uit onze database verwijderd",
+    "submit": "Versturen",
+    "disclaimer": "MAWAQIT is niet verantwoordelijk voor de diensten of producten die door de vermelde projecten worden aangeboden. Doe je eigen onderzoek",
+    "participating_with": "Je doet mee met",
+    "no_of_tickets": "Aantal tickets:",
+    "unparticipate": "Klik om deelname te annuleren",
+    "next_ticket": "Het volgende ticket beschikbaar over",
+    "click_here": "Klik hier",
+    "mawaqit_store": "MAWAQIT Winkel"
 }
