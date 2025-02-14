@@ -1017,5 +1017,9 @@
         "unparticipate": "Cliquez pour vous désinscrire",
         "next_ticket": "Le prochain ticket disponible dans",
         "click_here": "Cliquez ici",
-        "mawaqit_store": "Boutique MAWAQIT"
+        "mawaqit_store": "Boutique MAWAQIT",
+            "no_projects": "Il n'y a pas de projets",
+            "draw_info": "Un tirage au sort chaque mois. Toutes les 24 heures, vous pouvez ajouter un nouveau ticket pour augmenter vos chances de gagner!",
+            "enter_valid_email": "Entrez une adresse e-mail valide",
+            "please_enter_email": "Veuillez entrer une adresse e-mail"
 }

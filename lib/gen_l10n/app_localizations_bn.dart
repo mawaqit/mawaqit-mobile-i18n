@@ -1380,4 +1380,16 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'MAWAQIT স্টোর';
+
+  @override
+  String get no_projects => 'কোন প্রকল্প নেই';
+
+  @override
+  String get draw_info => 'প্রতি মাসে একবার লটারি। প্রতি ২৪ ঘণ্টায় আপনি নতুন একটি টিকিট যোগ করতে পারেন আপনার জয়ের সুযোগ বাড়ানোর জন্য!';
+
+  @override
+  String get enter_valid_email => 'একটি বৈধ ইমেইল লিখুন';
+
+  @override
+  String get please_enter_email => 'অনুগ্রহ করে একটি ইমেইল লিখুন';
 }

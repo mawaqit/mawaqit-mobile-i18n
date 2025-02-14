@@ -2888,6 +2888,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'MAWAQIT Store'**
   String get mawaqit_store;
+
+  /// No description provided for @no_projects.
+  ///
+  /// In en, this message translates to:
+  /// **'There are no projects'**
+  String get no_projects;
+
+  /// No description provided for @draw_info.
+  ///
+  /// In en, this message translates to:
+  /// **'One draw every month. Every 24h you can add a new ticket to increase your chance to win!'**
+  String get draw_info;
+
+  /// No description provided for @enter_valid_email.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter a valid email'**
+  String get enter_valid_email;
+
+  /// No description provided for @please_enter_email.
+  ///
+  /// In en, this message translates to:
+  /// **'Please enter an email'**
+  String get please_enter_email;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

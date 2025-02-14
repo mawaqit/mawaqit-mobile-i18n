@@ -1017,5 +1017,9 @@
      "unparticipate": "Klicken, um die Teilnahme zu beenden",
      "next_ticket": "Das nächste Ticket ist verfügbar in",
      "click_here": "Hier klicken",
-     "mawaqit_store": "MAWAQIT Store"
+     "mawaqit_store": "MAWAQIT Store",
+         "no_projects": "Es gibt keine Projekte",
+         "draw_info": "Eine Verlosung jeden Monat. Alle 24 Stunden können Sie ein neues Ticket hinzufügen, um Ihre Gewinnchancen zu erhöhen!",
+         "enter_valid_email": "Geben Sie eine gültige E-Mail-Adresse ein",
+         "please_enter_email": "Bitte geben Sie eine E-Mail-Adresse ein"
      }

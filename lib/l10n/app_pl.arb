@@ -1017,5 +1017,9 @@
         "unparticipate": "Kliknij, aby zrezygnować",
         "next_ticket": "Następny dostępny bilet za",
         "click_here": "Kliknij tutaj",
-        "mawaqit_store": "Sklep MAWAQIT"
+        "mawaqit_store": "Sklep MAWAQIT",
+            "no_projects": "Brak projektów",
+            "draw_info": "Jedno losowanie co miesiąc. Co 24 godziny możesz dodać nowy los, aby zwiększyć swoją szansę na wygraną!",
+            "enter_valid_email": "Wpisz poprawny adres e-mail",
+            "please_enter_email": "Proszę podać adres e-mail"
 }

@@ -1380,4 +1380,16 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'Toko MAWAQIT';
+
+  @override
+  String get no_projects => 'Tidak ada proyek';
+
+  @override
+  String get draw_info => 'Satu undian setiap bulan. Setiap 24 jam, Anda dapat menambahkan tiket baru untuk meningkatkan peluang menang!';
+
+  @override
+  String get enter_valid_email => 'Masukkan email yang valid';
+
+  @override
+  String get please_enter_email => 'Harap masukkan email';
 }

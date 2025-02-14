@@ -1380,4 +1380,16 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'متجر مواقيت';
+
+  @override
+  String get no_projects => 'لا توجد مشاريع';
+
+  @override
+  String get draw_info => 'سحب واحد كل شهر. يمكنك إضافة تذكرة جديدة كل 24 ساعة لزيادة فرصك في الفوز!';
+
+  @override
+  String get enter_valid_email => 'أدخل بريدًا إلكترونيًا صالحًا';
+
+  @override
+  String get please_enter_email => 'يرجى إدخال بريد إلكتروني';
 }

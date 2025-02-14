@@ -1380,4 +1380,16 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'MAWAQIT Winkel';
+
+  @override
+  String get no_projects => 'Er zijn geen projecten';
+
+  @override
+  String get draw_info => 'Eén trekking per maand. Elke 24 uur kun je een nieuw ticket toevoegen om je kans om te winnen te vergroten!';
+
+  @override
+  String get enter_valid_email => 'Voer een geldig e-mailadres in';
+
+  @override
+  String get please_enter_email => 'Voer alstublieft een e-mailadres in';
 }

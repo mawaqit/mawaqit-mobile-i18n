@@ -1380,4 +1380,16 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get mawaqit_store => 'Boutique MAWAQIT';
+
+  @override
+  String get no_projects => 'Il n\'y a pas de projets';
+
+  @override
+  String get draw_info => 'Un tirage au sort chaque mois. Toutes les 24 heures, vous pouvez ajouter un nouveau ticket pour augmenter vos chances de gagner!';
+
+  @override
+  String get enter_valid_email => 'Entrez une adresse e-mail valide';
+
+  @override
+  String get please_enter_email => 'Veuillez entrer une adresse e-mail';
 }
