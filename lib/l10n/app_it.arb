@@ -956,7 +956,7 @@
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
-    "mushaf_hafs": "Mushaf Hafs",
+    "mushaf_hafs": "Hafs",
     "@mushaf_hafs": {
         "description": "-> mushaf_hafs"
     },
@@ -1002,24 +1002,24 @@
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-        "add_ticket": "Aggiungi biglietto",
-        "projects": "Progetti",
-        "fill_form": "Per aggiungere il tuo progetto qui, compila questo",
-        "form": "modulo",
-        "updates_draw": "Ricevi aggiornamenti e partecipa all'estrazione per vincere premi da",
-        "email_info": "Questa email verrà utilizzata per contattarti se vinci l'estrazione",
-        "enter_email": "Inserisci la tua email",
-        "email_privacy": "MAWAQIT non condividerà questa email con nessuno. L'email verrà eliminata automaticamente dal nostro database dopo ogni estrazione",
-        "submit": "Invia",
-        "disclaimer": "MAWAQIT è esonerata da qualsiasi responsabilità riguardo ai servizi o prodotti proposti dai progetti elencati. Si prega di fare le proprie ricerche",
-        "participating_with": "Stai partecipando con",
-        "no_of_tickets": "Numero di biglietti:",
-        "unparticipate": "Fai clic per annullare la partecipazione",
-        "next_ticket": "Il prossimo biglietto disponibile tra",
-        "click_here": "Fai clic qui",
-        "mawaqit_store": "Negozio MAWAQIT",
-         "no_projects": "Non ci sono progetti",
-            "draw_info": "Un'estrazione ogni mese. Ogni 24 ore puoi aggiungere un nuovo biglietto per aumentare le tue possibilità di vincere!",
-            "enter_valid_email": "Inserisci un'email valida",
-            "please_enter_email": "Per favore, inserisci un'email"
+    "add_ticket": "Aggiungi biglietto",
+    "projects": "Progetti",
+    "fill_form": "Per aggiungere il tuo progetto qui, compila questo",
+    "form": "modulo",
+    "updates_draw": "Ricevi aggiornamenti e partecipa all'estrazione per vincere premi da",
+    "email_info": "Questa email verrà utilizzata per contattarti se vinci l'estrazione",
+    "enter_email": "Inserisci la tua email",
+    "email_privacy": "MAWAQIT non condividerà questa email con nessuno. L'email verrà eliminata automaticamente dal nostro database dopo ogni estrazione",
+    "submit": "Invia",
+    "disclaimer": "MAWAQIT è esonerata da qualsiasi responsabilità riguardo ai servizi o prodotti proposti dai progetti elencati. Si prega di fare le proprie ricerche",
+    "participating_with": "Stai partecipando con",
+    "no_of_tickets": "Numero di biglietti:",
+    "unparticipate": "Fai clic per annullare la partecipazione",
+    "next_ticket": "Il prossimo biglietto disponibile tra",
+    "click_here": "Fai clic qui",
+    "mawaqit_store": "Negozio MAWAQIT",
+    "no_projects": "Non ci sono progetti",
+    "draw_info": "Un'estrazione ogni mese. Ogni 24 ore puoi aggiungere un nuovo biglietto per aumentare le tue possibilità di vincere!",
+    "enter_valid_email": "Inserisci un'email valida",
+    "please_enter_email": "Per favore, inserisci un'email"
 }
