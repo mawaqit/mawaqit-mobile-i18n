@@ -814,7 +814,7 @@
     "download_quran_popup_title": "Letzte Nachbesserungen",
     "download_quran_popup_downloading_1": "Wir müssen die Seiten des Korans herunterladen, es dauert nur ein paar Sekunden. Wir werden Ihre mobilen Daten verwenden, wechseln Sie bei Bedarf zu Wi-Fi.",
     "download_quran_popup_downloading_2": "Wir bereiten den Koran gerade für Sie vor, bitte warten Sie ein paar Sekunden!",
-    "download_quran_popup_downloading_3": "Entdecken Sie die Schönheit des Korans! Tippen Sie auf 'Herunterladen', um auf seine zeitlose Weisheit zuzugreifen und sich von seinen göttlichen Worten inspirieren zu lassen.",
+    "download_quran_popup_downloading_3": "Entdecke die Schönheit des Koran! Tippe auf 'Download', um auf seine zeitlose Weisheit zuzugreifen und von seinen göttlichen Worten inspiriert zu werden.",
     "download_quran_popup_confirm_cancel": "Sind Sie sicher, dass Sie den Download abbrechen möchten? Ohne diese Daten können Sie den Koran nicht lesen, die Seiten sind nicht verfügbar.",
     "download_quran_popup_cancelled": "Etwas ist schief gelaufen, bitte drücken Sie den Download-Button erneut!",
     "download": "Herunterladen",
@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "Keine Lesezeichen verfügbar. Bitte drücken Sie lange auf die Ayah, die Sie markieren möchten.",
     "page": "Seite",
     "prayer_times_in": "Gebetszeiten in",
-    "update_new_version": "Eine überarbeitete Version mit typografischen Verbesserungen wurde veröffentlicht. Klicken Sie auf 'Aktualisieren', um Ihre Reise des Lesens und Nachdenkens fortzusetzen.",
+    "update_new_version": "Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf 'Update', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzuführen",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
