@@ -1283,7 +1283,7 @@ class AppLocalizationsNl extends AppLocalizations {
   String get got_it => 'Ik snap het!';
 
   @override
-  String get mushaf_warsh => 'Oorlog';
+  String get mushaf_warsh => 'Warsh';
 
   @override
   String get mushaf_hafs => 'Mushaf Hafs';

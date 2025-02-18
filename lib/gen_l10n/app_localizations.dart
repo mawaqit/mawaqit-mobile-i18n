@@ -2634,7 +2634,7 @@ abstract class AppLocalizations {
   /// Update the new version availiable
   ///
   /// In en, this message translates to:
-  /// **'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection'**
+  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom'**
   String get update_new_version;
 
   /// -> update_quran_zip

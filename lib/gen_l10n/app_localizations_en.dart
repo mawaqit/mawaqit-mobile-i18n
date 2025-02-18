@@ -1253,7 +1253,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get prayer_times_in => 'Prayer times in';
 
   @override
-  String get update_new_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection';
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
   String get update_quran_zip => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
