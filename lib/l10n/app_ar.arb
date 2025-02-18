@@ -1021,5 +1021,9 @@
     "no_projects": "لا توجد مشاريع",
     "draw_info": "سحب واحد كل شهر. يمكنك إضافة تذكرة جديدة كل 24 ساعة لزيادة فرصك في الفوز!",
     "enter_valid_email": "أدخل بريدًا إلكترونيًا صالحًا",
-    "please_enter_email": "يرجى إدخال بريد إلكتروني"
+    "please_enter_email": "يرجى إدخال بريد إلكتروني",
+    "select_device_audo_for_ios_propmpt": "حدد ملف صوتي، وسنقوم بتحويله إلى تنسيق متوافق مع نظام التشغيل iOS بينما نقطعه إلى 30 ثانية بسبب قيود منصة iOS.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }
