@@ -1021,5 +1021,9 @@
     "no_projects": "কোন প্রকল্প নেই",
     "draw_info": "প্রতি মাসে একবার লটারি। প্রতি ২৪ ঘণ্টায় আপনি নতুন একটি টিকিট যোগ করতে পারেন আপনার জয়ের সুযোগ বাড়ানোর জন্য!",
     "enter_valid_email": "একটি বৈধ ইমেইল লিখুন",
-    "please_enter_email": "অনুগ্রহ করে একটি ইমেইল লিখুন"
+    "please_enter_email": "অনুগ্রহ করে একটি ইমেইল লিখুন",
+    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }

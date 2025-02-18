@@ -1392,4 +1392,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get please_enter_email => 'Ole hyvä ja syötä sähköposti';
+
+  @override
+  String get select_device_audo_for_ios_propmpt => 'Valitse äänitiedosto, ja me muunnamme sen iOS-yhteensopivaan muotoon ja leikkaamme sitä 30 sekunnin iOS-alustan rajoituksista.';
 }

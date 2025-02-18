@@ -1021,5 +1021,9 @@
     "no_projects": "Não há projetos",
     "draw_info": "Um sorteio por mês. A cada 24 horas você pode adicionar um novo bilhete para aumentar a sua chance de ganhar!",
     "enter_valid_email": "Digite um e-mail válido",
-    "please_enter_email": "Por favor, digite um e-mail"
+    "please_enter_email": "Por favor, digite um e-mail",
+    "select_device_audo_for_ios_propmpt": "Selecione um arquivo de áudio e vamos convertê-lo em um formato compatível com o iOS, enquanto o cortamos em 30 segundos devido a limitações na plataforma iOS.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }

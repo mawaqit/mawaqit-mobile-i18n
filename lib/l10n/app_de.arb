@@ -1021,5 +1021,9 @@
     "no_projects": "Es gibt keine Projekte",
     "draw_info": "Eine Verlosung jeden Monat. Alle 24 Stunden können Sie ein neues Ticket hinzufügen, um Ihre Gewinnchancen zu erhöhen!",
     "enter_valid_email": "Geben Sie eine gültige E-Mail-Adresse ein",
-    "please_enter_email": "Bitte geben Sie eine E-Mail-Adresse ein"
+    "please_enter_email": "Bitte geben Sie eine E-Mail-Adresse ein",
+    "select_device_audo_for_ios_propmpt": "Wählen Sie eine Audiodatei aus und wir konvertieren sie in ein iOS-kompatibles Format, während wir sie aufgrund von iOS-Plattformbeschränkungen auf 30 Sekunden kürzen.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }

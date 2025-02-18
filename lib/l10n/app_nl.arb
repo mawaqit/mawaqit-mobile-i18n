@@ -1021,5 +1021,9 @@
     "no_projects": "Er zijn geen projecten",
     "draw_info": "Eén trekking per maand. Elke 24 uur kun je een nieuw ticket toevoegen om je kans om te winnen te vergroten!",
     "enter_valid_email": "Voer een geldig e-mailadres in",
-    "please_enter_email": "Voer alstublieft een e-mailadres in"
+    "please_enter_email": "Voer alstublieft een e-mailadres in",
+    "select_device_audo_for_ios_propmpt": "Selecteer een audiobestand en we zullen het converteren naar een compatibel formaat voor iOS tijdens het bijsnijden naar 30 seconden vanwege de iOS-platformbeperkingen.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }

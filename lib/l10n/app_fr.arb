@@ -1021,5 +1021,9 @@
     "no_projects": "Il n'y a pas de projets",
     "draw_info": "Un tirage au sort chaque mois. Toutes les 24 heures, vous pouvez ajouter un nouveau ticket pour augmenter vos chances de gagner!",
     "enter_valid_email": "Entrez une adresse e-mail valide",
-    "please_enter_email": "Veuillez entrer une adresse e-mail"
+    "please_enter_email": "Veuillez entrer une adresse e-mail",
+    "select_device_audo_for_ios_propmpt": "Sélectionnez un fichier audio, et nous le convertirons au format compatible iOS tout en le réduisant à 30 secondes en raison des limitations de la plate-forme iOS.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }

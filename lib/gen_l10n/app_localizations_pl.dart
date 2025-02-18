@@ -1392,4 +1392,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get please_enter_email => 'Proszę podać adres e-mail';
+
+  @override
+  String get select_device_audo_for_ios_propmpt => 'Wybierz plik audio, a skonwertujemy go do formatu kompatybilnego z iOS podczas przycinania go do 30 sekund ze względu na ograniczenia platformy iOS.';
 }

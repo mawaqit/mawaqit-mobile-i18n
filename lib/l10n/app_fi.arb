@@ -1021,5 +1021,9 @@
     "no_projects": "Projekteja ei ole",
     "draw_info": "Yksi piirtää joka kuukausi. Joka 24 h voit lisätä uuden lipun lisätä mahdollisuuttasi voittaa!",
     "enter_valid_email": "Syötä voimassa oleva sähköpostiosoite",
-    "please_enter_email": "Ole hyvä ja syötä sähköposti"
+    "please_enter_email": "Ole hyvä ja syötä sähköposti",
+    "select_device_audo_for_ios_propmpt": "Valitse äänitiedosto, ja me muunnamme sen iOS-yhteensopivaan muotoon ja leikkaamme sitä 30 sekunnin iOS-alustan rajoituksista.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }
