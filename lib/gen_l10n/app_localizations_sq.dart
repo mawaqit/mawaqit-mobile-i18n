@@ -1253,16 +1253,16 @@ class AppLocalizationsSq extends AppLocalizations {
   String get prayer_times_in => 'Takvimi në';
 
   @override
-  String get update_new_version => 'Një version i ri i Kura\'nit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore';
+  String get update_new_version => 'Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni \'Përditëso\' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.';
 
   @override
-  String get update_quran_zip => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.';
+  String get update_quran_zip => 'Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni \'Përditëso\' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.';
 
   @override
-  String get update_latest_quran_version => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.';
+  String get update_latest_quran_version => 'Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni \'Përditëso\' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.';
 
   @override
-  String get update_latest_quran => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.';
+  String get update_latest_quran => 'Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni \'Përditëso\' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.';
 
   @override
   String get set_notification_for_all_parayer => 'Vendoseni këtë për çdo namaz';

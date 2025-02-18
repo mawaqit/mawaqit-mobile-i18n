@@ -2634,25 +2634,25 @@ abstract class AppLocalizations {
   /// Update the new version availiable
   ///
   /// In en, this message translates to:
-  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom'**
+  /// **'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection'**
   String get update_new_version;
 
   /// -> update_quran_zip
   ///
   /// In en, this message translates to:
-  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
+  /// **'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.'**
   String get update_quran_zip;
 
   /// -> update_latest_quran_version
   ///
   /// In en, this message translates to:
-  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
+  /// **'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.'**
   String get update_latest_quran_version;
 
   /// -> update_latest_quran
   ///
   /// In en, this message translates to:
-  /// **'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.'**
+  /// **'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.'**
   String get update_latest_quran;
 
   /// -> set_notification_for_all_parayer_

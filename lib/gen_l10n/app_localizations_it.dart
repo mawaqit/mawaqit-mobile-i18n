@@ -1253,16 +1253,16 @@ class AppLocalizationsIt extends AppLocalizations {
   String get prayer_times_in => 'Orari di preghiera a';
 
   @override
-  String get update_new_version => 'Aggiorna Corano';
+  String get update_new_version => 'È stata rilasciata una versione rivista con miglioramenti tipografici. Clicca su \'Aggiorna\' per continuare il tuo viaggio di lettura e riflessione.';
 
   @override
-  String get update_quran_zip => 'Una nuova versione del Corano è disponibile per il download. Tocca \'Aggiornamento\' per accedere agli ultimi miglioramenti e continuare il tuo viaggio con saggezza divina.';
+  String get update_quran_zip => 'È stata rilasciata una versione rivista con miglioramenti tipografici. Clicca su \'Aggiorna\' per continuare il tuo viaggio di lettura e riflessione.';
 
   @override
-  String get update_latest_quran_version => 'Una nuova versione del Corano è disponibile per il download. Tocca \'Aggiornamento\' per accedere agli ultimi miglioramenti e continuare il tuo viaggio con saggezza divina.';
+  String get update_latest_quran_version => 'È stata rilasciata una versione rivista con miglioramenti tipografici. Clicca su \'Aggiorna\' per continuare il tuo viaggio di lettura e riflessione.';
 
   @override
-  String get update_latest_quran => 'Una nuova versione del Corano è disponibile per il download. Tocca \'Aggiornamento\' per accedere agli ultimi miglioramenti e continuare il tuo viaggio con saggezza divina.';
+  String get update_latest_quran => 'È stata rilasciata una versione rivista con miglioramenti tipografici. Clicca su \'Aggiorna\' per continuare il tuo viaggio di lettura e riflessione.';
 
   @override
   String get set_notification_for_all_parayer => 'Impostare questo per ogni preghiera';
@@ -1286,7 +1286,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'Hafs';
 
   @override
   String get select_rewaya => 'Seleziona Rewaya';

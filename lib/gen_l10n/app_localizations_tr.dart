@@ -1253,16 +1253,16 @@ class AppLocalizationsTr extends AppLocalizations {
   String get prayer_times_in => 'Namaz vakitleri';
 
   @override
-  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+  String get update_new_version => 'Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için \'Güncelle\'ye tıklayın.';
 
   @override
-  String get update_quran_zip => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';
+  String get update_quran_zip => 'Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için \'Güncelle\'ye tıklayın.';
 
   @override
-  String get update_latest_quran_version => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';
+  String get update_latest_quran_version => 'Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için \'Güncelle\'ye tıklayın.';
 
   @override
-  String get update_latest_quran => 'Kur\'an\'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için \'Güncelle\'ye dokunun.';
+  String get update_latest_quran => 'Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için \'Güncelle\'ye tıklayın.';
 
   @override
   String get set_notification_for_all_parayer => 'Bunu her dua için ayarlayın';

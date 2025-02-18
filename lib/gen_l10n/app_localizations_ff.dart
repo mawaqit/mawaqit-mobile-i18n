@@ -1334,62 +1334,62 @@ class AppLocalizationsFf extends AppLocalizations {
   String get select_audio_from_device => 'Select audio (mp3) from device.';
 
   @override
-  String get add_ticket => 'Add ticket';
+  String get add_ticket => 'Ɓeydu tikket';
 
   @override
-  String get projects => 'Projects';
+  String get projects => 'Eɓɓooje';
 
   @override
-  String get fill_form => 'To add your project here fill up this';
+  String get fill_form => 'Ngam ɓeydude eɓɓore maa timmin ɗoo';
 
   @override
-  String get form => 'form';
+  String get form => 'iwdi';
 
   @override
-  String get updates_draw => 'Get updates and participate in the draw to win goodies from';
+  String get updates_draw => 'Heɓ kesɗitine nga jeyeede e kuraaje ngam heɓde njeenaari';
 
   @override
-  String get email_info => 'This email will be used to contact you if you win the draw';
+  String get email_info => 'Ndee ñiiɓirde maa huutore ngam jokkondirde e mah so a gañiima';
 
   @override
-  String get enter_email => 'Enter your email';
+  String get enter_email => 'Naatnu iimeel maa';
 
   @override
-  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+  String get email_privacy => 'MAWAQIT saaktataa iimeel maa e hay gooto. Oo iimeel maa momte e jaajol e diiñorde amen ɓaawo kuraaje kala';
 
   @override
-  String get submit => 'Submit';
+  String get submit => 'Naatnoy';
 
   @override
-  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+  String get disclaimer => 'MAWAQIT defaaki hay baɗte wonande sarwisaaji et geɗe baɗaaɗe e eɓɓooje les ɗee. Tiiɗno ƴeewtano hoore maa haa paamaa';
 
   @override
-  String get participating_with => 'You\'re participating with';
+  String get participating_with => 'A naatii huutoraade';
 
   @override
-  String get no_of_tickets => 'No. of tickets:';
+  String get no_of_tickets => 'Alaa tikket:';
 
   @override
-  String get unparticipate => 'Click to unparticipate';
+  String get unparticipate => 'Dobo ngam yaltude';
 
   @override
-  String get next_ticket => 'The next ticket available in';
+  String get next_ticket => 'Tikket goɗɗo ena ara sahnga';
 
   @override
-  String get click_here => 'Click here';
+  String get click_here => 'Dobo ɗoo';
 
   @override
-  String get mawaqit_store => 'MAWAQIT Store';
+  String get mawaqit_store => 'Yeeyirdu MAWAQIT';
 
   @override
-  String get no_projects => 'There are no projects';
+  String get no_projects => 'Eɓɓooje ngoodaani';
 
   @override
-  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+  String get draw_info => 'Kuraaje ko lewru fof. 24w fof aɗa waawi ɓeydude tikket keso ngam ɓeydude malu maa gañaade!';
 
   @override
-  String get enter_valid_email => 'Enter a valid email';
+  String get enter_valid_email => 'Naatnu iimeel jaaliiɗo';
 
   @override
-  String get please_enter_email => 'Please enter an email';
+  String get please_enter_email => 'Tiiɗno naatnu iimeel';
 }

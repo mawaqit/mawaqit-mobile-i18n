@@ -1253,16 +1253,16 @@ class AppLocalizationsEs extends AppLocalizations {
   String get prayer_times_in => 'Tiempos de oración en';
 
   @override
-  String get update_new_version => 'Actualizar Corán';
+  String get update_new_version => 'Se ha publicado una versión revisada con mejoras tipográficas. Haz clic en \'Actualizar\' para continuar tu viaje de lectura y reflexión.';
 
   @override
-  String get update_quran_zip => 'Una nueva versión del Corán está disponible para descargar. Pulsa \"Actualizar\" para acceder a las últimas mejoras y continuar tu viaje con sabiduría divina.';
+  String get update_quran_zip => 'Se ha publicado una versión revisada con mejoras tipográficas. Haz clic en \'Actualizar\' para continuar tu viaje de lectura y reflexión.';
 
   @override
-  String get update_latest_quran_version => 'Una nueva versión del Corán está disponible para descargar. Pulsa \"Actualizar\" para acceder a las últimas mejoras y continuar tu viaje con sabiduría divina.';
+  String get update_latest_quran_version => 'Se ha publicado una versión revisada con mejoras tipográficas. Haz clic en \'Actualizar\' para continuar tu viaje de lectura y reflexión.';
 
   @override
-  String get update_latest_quran => 'Una nueva versión del Corán está disponible para descargar. Pulsa \"Actualizar\" para acceder a las últimas mejoras y continuar tu viaje con sabiduría divina.';
+  String get update_latest_quran => 'Se ha publicado una versión revisada con mejoras tipográficas. Haz clic en \'Actualizar\' para continuar tu viaje de lectura y reflexión.';
 
   @override
   String get set_notification_for_all_parayer => 'Establecer esto para cada oración';

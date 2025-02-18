@@ -1382,14 +1382,14 @@ class AppLocalizationsFi extends AppLocalizations {
   String get mawaqit_store => 'MAWAQIT Kauppa';
 
   @override
-  String get no_projects => 'There are no projects';
+  String get no_projects => 'Projekteja ei ole';
 
   @override
-  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+  String get draw_info => 'Yksi piirtää joka kuukausi. Joka 24 h voit lisätä uuden lipun lisätä mahdollisuuttasi voittaa!';
 
   @override
-  String get enter_valid_email => 'Enter a valid email';
+  String get enter_valid_email => 'Syötä voimassa oleva sähköpostiosoite';
 
   @override
-  String get please_enter_email => 'Please enter an email';
+  String get please_enter_email => 'Ole hyvä ja syötä sähköposti';
 }

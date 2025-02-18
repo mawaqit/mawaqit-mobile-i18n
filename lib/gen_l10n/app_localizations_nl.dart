@@ -1253,16 +1253,16 @@ class AppLocalizationsNl extends AppLocalizations {
   String get prayer_times_in => 'Czasy modlitwy w';
 
   @override
-  String get update_new_version => 'Koran bijwerken';
+  String get update_new_version => 'Een herziene versie met typografische verbeteringen is uitgebracht. Klik op \'Bijwerken\' om uw lees- en reflectiereis voort te zetten.';
 
   @override
-  String get update_quran_zip => 'Er is een nieuwe versie van de Koran beschikbaar om te downloaden. Tik op \'Update\' om toegang te krijgen tot de nieuwste verbeteringen en door te gaan met uw reis met goddelijke wijsheid.';
+  String get update_quran_zip => 'Een herziene versie met typografische verbeteringen is uitgebracht. Klik op \'Bijwerken\' om uw lees- en reflectiereis voort te zetten.';
 
   @override
-  String get update_latest_quran_version => 'Er is een nieuwe versie van de Koran beschikbaar om te downloaden. Tik op \'Update\' om toegang te krijgen tot de nieuwste verbeteringen en door te gaan met uw reis met goddelijke wijsheid.';
+  String get update_latest_quran_version => 'Een herziene versie met typografische verbeteringen is uitgebracht. Klik op \'Bijwerken\' om uw lees- en reflectiereis voort te zetten.';
 
   @override
-  String get update_latest_quran => 'Er is een nieuwe versie van de Koran beschikbaar om te downloaden. Tik op \'Update\' om toegang te krijgen tot de nieuwste verbeteringen en door te gaan met uw reis met goddelijke wijsheid.';
+  String get update_latest_quran => 'Een herziene versie met typografische verbeteringen is uitgebracht. Klik op \'Bijwerken\' om uw lees- en reflectiereis voort te zetten.';
 
   @override
   String get set_notification_for_all_parayer => 'Stel dit in voor elk gebed';
