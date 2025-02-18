@@ -1021,5 +1021,9 @@
     "no_projects": "There are no projects",
     "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
     "enter_valid_email": "Enter a valid email",
-    "please_enter_email": "Please enter an email"
+    "please_enter_email": "Please enter an email",
+    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }
