@@ -1021,5 +1021,9 @@
     "no_projects": "Proje yok",
     "draw_info": "Her ay bir çekiliş. Kazanma şansınızı artırmak için her 24 saatte bir yeni bir bilet ekleyebilirsiniz!",
     "enter_valid_email": "Geçerli bir e-posta girin",
-    "please_enter_email": "Lütfen bir e-posta girin"
+    "please_enter_email": "Lütfen bir e-posta girin",
+    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }
