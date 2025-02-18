@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "هیچ دڵخوازێک نیە. تکایە ماوەیەک پەنجە لەسەر ئەو ئایەتە بهێڵەوە کە دەتەوێت وەک دڵخواز دیاری بکەیت.",
     "page": "پەڕە",
     "prayer_times_in": "کاتەکانی بانگ لە",
-    "update_new_version": "وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە 'نوێکردنەوە' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە",
+    "update_new_version": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
