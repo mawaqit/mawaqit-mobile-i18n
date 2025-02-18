@@ -814,7 +814,7 @@
     "download_quran_popup_title": "Rregullimet e fundit",
     "download_quran_popup_downloading_1": "Duhet të shkarkojmë faqet e Kuranit, do të duhen vetëm disa sekonda. Ne do të përdorim të dhënat tuaja celulare, do të kalojmë në Wi-Fi nëse është e nevojshme.",
     "download_quran_popup_downloading_2": "Ne po përgatisim Kur'anin vetëm për ju, ju lutemi prisni disa sekonda!",
-    "download_quran_popup_downloading_3": "Zbuloni bukurinë e Kur'anit! Prekni \"Shkarko\" për të hyrë në urtësinë e tij të përjetshme dhe për t'u frymëzuar nga fjalët e tij hyjnore.",
+    "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
     "download_quran_popup_confirm_cancel": "Jeni të sigurt që doni të anuloni shkarkimin? Pa këto të dhëna, nuk do të mund të lexoni Kur'anin, faqet nuk do të jenë të disponueshme.",
     "download_quran_popup_cancelled": "Diçka shkoi keq, ju lutemi shtypni përsëri butonin e shkarkimit!",
     "download": "Shkarkoni",
@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "Nuk ka shënime të disponueshme. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.",
     "page": "Faqe",
     "prayer_times_in": "Takvimi në",
-    "update_new_version": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
+    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },

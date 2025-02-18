@@ -923,7 +923,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'Wir bereiten den Koran gerade für Sie vor, bitte warten Sie ein paar Sekunden!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Entdecken Sie die Schönheit des Korans! Tippen Sie auf \'Herunterladen\', um auf seine zeitlose Weisheit zuzugreifen und sich von seinen göttlichen Worten inspirieren zu lassen.';
+  String get download_quran_popup_downloading_3 => 'Entdecke die Schönheit des Koran! Tippe auf \'Download\', um auf seine zeitlose Weisheit zuzugreifen und von seinen göttlichen Worten inspiriert zu werden.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'Sind Sie sicher, dass Sie den Download abbrechen möchten? Ohne diese Daten können Sie den Koran nicht lesen, die Seiten sind nicht verfügbar.';
@@ -1253,7 +1253,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get prayer_times_in => 'Gebetszeiten in';
 
   @override
-  String get update_new_version => 'Eine überarbeitete Version mit typografischen Verbesserungen wurde veröffentlicht. Klicken Sie auf \'Aktualisieren\', um Ihre Reise des Lesens und Nachdenkens fortzusetzen.';
+  String get update_new_version => 'Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf \'Update\', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzuführen';
 
   @override
   String get update_quran_zip => 'Eine überarbeitete Version mit typografischen Verbesserungen wurde veröffentlicht. Klicken Sie auf \'Aktualisieren\', um Ihre Reise des Lesens und Nachdenkens fortzusetzen.';

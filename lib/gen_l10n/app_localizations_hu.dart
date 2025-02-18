@@ -923,7 +923,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'A Koránt csak számodra készítjük elő, kérlek, várj néhány másodpercet!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Fedezd fel a Korán szépségét! Érintsd meg a \"Letöltés\" gombot, hogy hozzáférjél a Korán időtlen bölcsességéhez, és ihletet meríts az isteni szavakból.';
+  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'Biztosan meg akarod szakítani a letöltést? Enélkül az adatok nélkül nem fogod tudni olvasni a Koránt, az oldalak nem lesznek elérhetők.';
@@ -1253,7 +1253,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get prayer_times_in => 'Imaidők';
 
   @override
-  String get update_new_version => 'A Korán új verziója elérhető letöltésre. Kattints a \'Frissítés\' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.';
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
   String get update_quran_zip => 'A Korán új verziója elérhető letöltésre. Kattints a \'Frissítés\' gombra, hogy hozzáférj a legújabb frissítésekhez, és folytasd utadat az isteni bölcsességgel.';

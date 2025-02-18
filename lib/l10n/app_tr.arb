@@ -814,7 +814,7 @@
     "download_quran_popup_title": "Son rötuşlar",
     "download_quran_popup_downloading_1": "Kur'an sayfalarını indirmemiz gerekiyor, sadece birkaç saniye sürecek. Mobil verinizi kullanacağız, gerekirse Wi-Fi'ye geçin.",
     "download_quran_popup_downloading_2": "Kur'an'ı sizin için hazırlıyoruz, lütfen birkaç saniye bekleyin!",
-    "download_quran_popup_downloading_3": "Kur'an'ın güzelliğini keşfedin! Zamansız bilgeliğine erişmek ve ilahi sözlerinden ilham almak için 'İndir'e dokunun.",
+    "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
     "download_quran_popup_confirm_cancel": "İndirmeyi iptal etmek istediğinizden emin misiniz? Bu veri olmadan Kuran'ı okuyamayacaksınız, sayfalar kullanılamaz olacak.",
     "download_quran_popup_cancelled": "Bir şeyler yanlış gitti, lütfen indirme düğmesine tekrar basın!",
     "download": "İndir",
@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "Yer işareti yok. Ayeti yer işareti yapmak için uzun süre basılı tutun.",
     "page": "Sayfa",
     "prayer_times_in": "Namaz vakitleri",
-    "update_new_version": "Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için 'Güncelle'ye tıklayın.",
+    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
