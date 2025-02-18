@@ -1021,5 +1021,9 @@
     "no_projects": "Tidak ada proyek",
     "draw_info": "Satu undian setiap bulan. Setiap 24 jam, Anda dapat menambahkan tiket baru untuk meningkatkan peluang menang!",
     "enter_valid_email": "Masukkan email yang valid",
-    "please_enter_email": "Harap masukkan email"
+    "please_enter_email": "Harap masukkan email",
+    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }
