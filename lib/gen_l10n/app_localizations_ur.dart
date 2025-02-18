@@ -1283,10 +1283,10 @@ class AppLocalizationsUr extends AppLocalizations {
   String get got_it => 'Got it!';
 
   @override
-  String get mushaf_warsh => 'Mushaf Warsh';
+  String get mushaf_warsh => 'ورش';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'حفص';
 
   @override
   String get select_rewaya => 'Select Rewaya';
