@@ -1253,16 +1253,16 @@ class AppLocalizationsPt extends AppLocalizations {
   String get prayer_times_in => 'Horário de orações';
 
   @override
-  String get update_new_version => 'Está disponível para baixar uma nova versão do Alcorão. Toque em \"Atualizar\" para aproveitar às últimas melhorias e continuar a sua viagem com a sabedoria divina';
+  String get update_new_version => 'Uma versão revisada com melhorias tipográficas foi lançada. Clique em \'Atualizar\' para continuar sua jornada de leitura e reflexão.';
 
   @override
-  String get update_quran_zip => 'Está disponível para descarregar uma nova versão do Alcorão. Toque em \"Atualizar\" para acessar às últimas melhorias e continuar a sua viagem com a sabedoria divina.';
+  String get update_quran_zip => 'Uma versão revisada com melhorias tipográficas foi lançada. Clique em \'Atualizar\' para continuar sua jornada de leitura e reflexão.';
 
   @override
-  String get update_latest_quran_version => 'Está disponível para baixar uma nova versão do Alcorão. Toque em \"Atualizar\" para acessar às últimas melhorias e continuar a sua viagem com a sabedoria divina.';
+  String get update_latest_quran_version => 'Uma versão revisada com melhorias tipográficas foi lançada. Clique em \'Atualizar\' para continuar sua jornada de leitura e reflexão.';
 
   @override
-  String get update_latest_quran => 'Está disponível para descarregar uma nova cópia do Alcorão. Toque em \"Atualizar\" para aproveitar às últimas melhorias e continuar a sua viagem com a sabedoria divina.';
+  String get update_latest_quran => 'Uma versão revisada com melhorias tipográficas foi lançada. Clique em \'Atualizar\' para continuar sua jornada de leitura e reflexão.';
 
   @override
   String get set_notification_for_all_parayer => 'Configurar isso para todas as orações';
@@ -1382,14 +1382,14 @@ class AppLocalizationsPt extends AppLocalizations {
   String get mawaqit_store => 'Loja MAWAQIT';
 
   @override
-  String get no_projects => 'There are no projects';
+  String get no_projects => 'Não há projetos';
 
   @override
-  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+  String get draw_info => 'Um sorteio por mês. A cada 24 horas você pode adicionar um novo bilhete para aumentar a sua chance de ganhar!';
 
   @override
-  String get enter_valid_email => 'Enter a valid email';
+  String get enter_valid_email => 'Digite um e-mail válido';
 
   @override
-  String get please_enter_email => 'Please enter an email';
+  String get please_enter_email => 'Por favor, digite um e-mail';
 }

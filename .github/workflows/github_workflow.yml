@@ -29,6 +29,9 @@ jobs:
       - name: Replace "pt-PT" with "pt" in app_pt.arb
         run: |
           sed -i 's/"pt-PT"/"pt"/g' lib/l10n/app_pt.arb
+      - name: Replace "ckb" with "ku" in app_ku.arb
+        run: |
+          sed -i 's/"ckb"/"ku"/g' lib/l10n/app_ku.arb
       
       - name: Run flutter gen-l10n
         run: flutter gen-l10n

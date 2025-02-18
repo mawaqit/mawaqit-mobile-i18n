@@ -924,19 +924,19 @@
     "no_bookmark_ayah": "Nuk ka shënime të disponueshme. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.",
     "page": "Faqe",
     "prayer_times_in": "Takvimi në",
-    "update_new_version": "Një version i ri i Kura'nit është i disponueshëm për shkarkim. Prekni 'Përditëso' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore",
+    "update_new_version": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni 'Përditëso' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.",
+    "update_quran_zip": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni 'Përditëso' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.",
+    "update_latest_quran_version": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "Një version i ri i Kuranit është i disponueshëm për shkarkim. Prekni 'Përditëso' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me urtësinë hyjnore.",
+    "update_latest_quran": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
@@ -1017,5 +1017,9 @@
     "unparticipate": "Click to unparticipate",
     "next_ticket": "The next ticket available in",
     "click_here": "Click here",
-    "mawaqit_store": "MAWAQIT Store"
+    "mawaqit_store": "MAWAQIT Store",
+    "no_projects": "There are no projects",
+    "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
+    "enter_valid_email": "Enter a valid email",
+    "please_enter_email": "Please enter an email"
 }

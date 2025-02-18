@@ -924,19 +924,19 @@
     "no_bookmark_ayah": "Yer işareti yok. Ayeti yer işareti yapmak için uzun süre basılı tutun.",
     "page": "Sayfa",
     "prayer_times_in": "Namaz vakitleri",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için 'Güncelle'ye tıklayın.",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "Kur'an'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için 'Güncelle'ye dokunun.",
+    "update_quran_zip": "Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için 'Güncelle'ye tıklayın.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "Kur'an'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için 'Güncelle'ye dokunun.",
+    "update_latest_quran_version": "Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için 'Güncelle'ye tıklayın.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "Kur'an'ın yeni bir sürümü indirilebilir. En son geliştirmelere erişmek ve ilahi bilgelikle yolculuğunuza devam etmek için 'Güncelle'ye dokunun.",
+    "update_latest_quran": "Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için 'Güncelle'ye tıklayın.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
@@ -1002,24 +1002,24 @@
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-     "add_ticket": "Bilet ekle",
-        "projects": "Projeler",
-        "fill_form": "Projenizi buraya eklemek için bu",
-        "form": "formu doldurun",
-        "updates_draw": "Güncellemeleri alın ve ödülleri kazanmak için çekilişe katılın",
-        "email_info": "Bu e-posta, çekilişi kazanırsanız sizinle iletişime geçmek için kullanılacaktır",
-        "enter_email": "E-postanızı girin",
-        "email_privacy": "MAWAQIT bu e-postayı kimseyle paylaşmayacaktır. E-posta, her çekilişten sonra otomatik olarak veritabanımızdan silinecektir",
-        "submit": "Gönder",
-        "disclaimer": "MAWAQIT, listelenen projeler tarafından sunulan hizmetler veya ürünler ile ilgili herhangi bir sorumluluk kabul etmez. Lütfen kendi araştırmanızı yapın",
-        "participating_with": "Şu biletlerle katılıyorsunuz:",
-        "no_of_tickets": "Bilet sayısı:",
-        "unparticipate": "Katılımı iptal etmek için tıklayın",
-        "next_ticket": "Sonraki bilet şu sürede mevcut olacak:",
-        "click_here": "Buraya tıklayın",
-        "mawaqit_store": "MAWAQIT Mağazası",
-           "no_projects": "Proje yok",
-            "draw_info": "Her ay bir çekiliş. Kazanma şansınızı artırmak için her 24 saatte bir yeni bir bilet ekleyebilirsiniz!",
-            "enter_valid_email": "Geçerli bir e-posta girin",
-            "please_enter_email": "Lütfen bir e-posta girin"
+    "add_ticket": "Bilet ekle",
+    "projects": "Projeler",
+    "fill_form": "Projenizi buraya eklemek için bu",
+    "form": "formu doldurun",
+    "updates_draw": "Güncellemeleri alın ve ödülleri kazanmak için çekilişe katılın",
+    "email_info": "Bu e-posta, çekilişi kazanırsanız sizinle iletişime geçmek için kullanılacaktır",
+    "enter_email": "E-postanızı girin",
+    "email_privacy": "MAWAQIT bu e-postayı kimseyle paylaşmayacaktır. E-posta, her çekilişten sonra otomatik olarak veritabanımızdan silinecektir",
+    "submit": "Gönder",
+    "disclaimer": "MAWAQIT, listelenen projeler tarafından sunulan hizmetler veya ürünler ile ilgili herhangi bir sorumluluk kabul etmez. Lütfen kendi araştırmanızı yapın",
+    "participating_with": "Şu biletlerle katılıyorsunuz:",
+    "no_of_tickets": "Bilet sayısı:",
+    "unparticipate": "Katılımı iptal etmek için tıklayın",
+    "next_ticket": "Sonraki bilet şu sürede mevcut olacak:",
+    "click_here": "Buraya tıklayın",
+    "mawaqit_store": "MAWAQIT Mağazası",
+    "no_projects": "Proje yok",
+    "draw_info": "Her ay bir çekiliş. Kazanma şansınızı artırmak için her 24 saatte bir yeni bir bilet ekleyebilirsiniz!",
+    "enter_valid_email": "Geçerli bir e-posta girin",
+    "please_enter_email": "Lütfen bir e-posta girin"
 }

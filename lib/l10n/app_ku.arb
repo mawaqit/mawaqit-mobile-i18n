@@ -1017,5 +1017,9 @@
     "unparticipate": "Click to unparticipate",
     "next_ticket": "The next ticket available in",
     "click_here": "Click here",
-    "mawaqit_store": "MAWAQIT Store"
+    "mawaqit_store": "MAWAQIT Store",
+    "no_projects": "There are no projects",
+    "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
+    "enter_valid_email": "Enter a valid email",
+    "please_enter_email": "Please enter an email"
 }

@@ -924,19 +924,19 @@
     "no_bookmark_ayah": "Keine Lesezeichen verfügbar. Bitte drücken Sie lange auf die Ayah, die Sie markieren möchten.",
     "page": "Seite",
     "prayer_times_in": "Gebetszeiten in",
-    "update_new_version": "Koran aktualisieren",
+    "update_new_version": "Eine überarbeitete Version mit typografischen Verbesserungen wurde veröffentlicht. Klicken Sie auf 'Aktualisieren', um Ihre Reise des Lesens und Nachdenkens fortzusetzen.",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf 'Update', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.",
+    "update_quran_zip": "Eine überarbeitete Version mit typografischen Verbesserungen wurde veröffentlicht. Klicken Sie auf 'Aktualisieren', um Ihre Reise des Lesens und Nachdenkens fortzusetzen.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf 'Update', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.",
+    "update_latest_quran_version": "Eine überarbeitete Version mit typografischen Verbesserungen wurde veröffentlicht. Klicken Sie auf 'Aktualisieren', um Ihre Reise des Lesens und Nachdenkens fortzusetzen.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "Eine neue Version des Koran steht zum Download zur Verfügung. Tippe auf 'Update', um auf die neuesten Verbesserungen zuzugreifen und deine Reise mit göttlicher Weisheit fortzusetzen.",
+    "update_latest_quran": "Eine überarbeitete Version mit typografischen Verbesserungen wurde veröffentlicht. Klicken Sie auf 'Aktualisieren', um Ihre Reise des Lesens und Nachdenkens fortzusetzen.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
@@ -1002,24 +1002,24 @@
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-     "add_ticket": "Ticket hinzufügen",
-     "projects": "Projekte",
-     "fill_form": "Um Ihr Projekt hier hinzuzufügen, füllen Sie dieses",
-     "form": "Formular",
-     "updates_draw": "Erhalten Sie Updates und nehmen Sie an der Verlosung teil, um Preise zu gewinnen von",
-     "email_info": "Diese E-Mail wird verwendet, um Sie zu kontaktieren, falls Sie die Verlosung gewinnen",
-     "enter_email": "Geben Sie Ihre E-Mail-Adresse ein",
-     "email_privacy": "MAWAQIT wird diese E-Mail-Adresse nicht mit Dritten teilen. Die E-Mail wird nach jeder Verlosung automatisch aus unserer Datenbank gelöscht",
-     "submit": "Absenden",
-     "disclaimer": "MAWAQIT übernimmt keine Verantwortung für die von den gelisteten Projekten angebotenen Dienstleistungen oder Produkte. Bitte führen Sie Ihre eigene Recherche durch",
-     "participating_with": "Sie nehmen teil mit",
-     "no_of_tickets": "Anzahl der Tickets:",
-     "unparticipate": "Klicken, um die Teilnahme zu beenden",
-     "next_ticket": "Das nächste Ticket ist verfügbar in",
-     "click_here": "Hier klicken",
-     "mawaqit_store": "MAWAQIT Store",
-         "no_projects": "Es gibt keine Projekte",
-         "draw_info": "Eine Verlosung jeden Monat. Alle 24 Stunden können Sie ein neues Ticket hinzufügen, um Ihre Gewinnchancen zu erhöhen!",
-         "enter_valid_email": "Geben Sie eine gültige E-Mail-Adresse ein",
-         "please_enter_email": "Bitte geben Sie eine E-Mail-Adresse ein"
-     }
+    "add_ticket": "Ticket hinzufügen",
+    "projects": "Projekte",
+    "fill_form": "Um Ihr Projekt hier hinzuzufügen, füllen Sie dieses",
+    "form": "Formular",
+    "updates_draw": "Erhalten Sie Updates und nehmen Sie an der Verlosung teil, um Preise zu gewinnen von",
+    "email_info": "Diese E-Mail wird verwendet, um Sie zu kontaktieren, falls Sie die Verlosung gewinnen",
+    "enter_email": "Geben Sie Ihre E-Mail-Adresse ein",
+    "email_privacy": "MAWAQIT wird diese E-Mail-Adresse nicht mit Dritten teilen. Die E-Mail wird nach jeder Verlosung automatisch aus unserer Datenbank gelöscht",
+    "submit": "Absenden",
+    "disclaimer": "MAWAQIT übernimmt keine Verantwortung für die von den gelisteten Projekten angebotenen Dienstleistungen oder Produkte. Bitte führen Sie Ihre eigene Recherche durch",
+    "participating_with": "Sie nehmen teil mit",
+    "no_of_tickets": "Anzahl der Tickets:",
+    "unparticipate": "Klicken, um die Teilnahme zu beenden",
+    "next_ticket": "Das nächste Ticket ist verfügbar in",
+    "click_here": "Hier klicken",
+    "mawaqit_store": "MAWAQIT Store",
+    "no_projects": "Es gibt keine Projekte",
+    "draw_info": "Eine Verlosung jeden Monat. Alle 24 Stunden können Sie ein neues Ticket hinzufügen, um Ihre Gewinnchancen zu erhöhen!",
+    "enter_valid_email": "Geben Sie eine gültige E-Mail-Adresse ein",
+    "please_enter_email": "Bitte geben Sie eine E-Mail-Adresse ein"
+}

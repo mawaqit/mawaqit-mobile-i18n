@@ -1253,16 +1253,16 @@ class AppLocalizationsFr extends AppLocalizations {
   String get prayer_times_in => 'Heures de prière à';
 
   @override
-  String get update_new_version => 'Mettre à jour le Coran';
+  String get update_new_version => 'Une version révisée a été publiée avec des améliorations typographiques. Cliquez sur \'Mettre à jour\' pour poursuivre votre voyage de lecture et de méditation';
 
   @override
-  String get update_quran_zip => 'Une nouvelle version du Coran est disponible en téléchargement. Appuyez sur « Mettre à jour » pour accéder aux dernières améliorations et poursuivre votre voyage avec la sagesse divine.';
+  String get update_quran_zip => 'Une version révisée a été publiée avec des améliorations typographiques. Cliquez sur \'Mettre à jour\' pour poursuivre votre voyage de lecture et de méditation.';
 
   @override
-  String get update_latest_quran_version => 'Une nouvelle version du Coran est disponible en téléchargement. Appuyez sur « Mettre à jour » pour accéder aux dernières améliorations et poursuivre votre voyage avec la sagesse divine.';
+  String get update_latest_quran_version => 'Une version révisée a été publiée avec des améliorations typographiques. Cliquez sur \'Mettre à jour\' pour poursuivre votre voyage de lecture et de méditation.';
 
   @override
-  String get update_latest_quran => 'Une nouvelle version du Coran est disponible en téléchargement. Appuyez sur « Mettre à jour » pour accéder aux dernières améliorations et poursuivre votre voyage avec la sagesse divine.';
+  String get update_latest_quran => 'Une version révisée a été publiée avec des améliorations typographiques. Cliquez sur \'Mettre à jour\' pour poursuivre votre voyage de lecture et de méditation.';
 
   @override
   String get set_notification_for_all_parayer => 'Définir ceci pour chaque prière';
