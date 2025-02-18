@@ -923,7 +923,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'Kur\'an\'ı sizin için hazırlıyoruz, lütfen birkaç saniye bekleyin!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Kur\'an\'ın güzelliğini keşfedin! Zamansız bilgeliğine erişmek ve ilahi sözlerinden ilham almak için \'İndir\'e dokunun.';
+  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'İndirmeyi iptal etmek istediğinizden emin misiniz? Bu veri olmadan Kuran\'ı okuyamayacaksınız, sayfalar kullanılamaz olacak.';
@@ -1253,7 +1253,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get prayer_times_in => 'Namaz vakitleri';
 
   @override
-  String get update_new_version => 'Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için \'Güncelle\'ye tıklayın.';
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
   String get update_quran_zip => 'Tipografik iyileştirmeler içeren gözden geçirilmiş bir sürüm yayımlandı. Okuma ve tefekkür yolculuğunuza devam etmek için \'Güncelle\'ye tıklayın.';

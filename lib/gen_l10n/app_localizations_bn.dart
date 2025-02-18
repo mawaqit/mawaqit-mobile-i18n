@@ -923,7 +923,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'আমরা কেবল আপনার জন্য কোরআন তৈরি করছি, দয়া করে কিছু সেকেন্ড অপেক্ষা করুন!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'কোরআনের সৌন্দর্য আবিষ্কার করুন! \'ডাউনলোড\' ট্যাপ করে এর অমর জ্ঞানে অনুভব করুন এবং এর দিব্য শব্দ থেকে উৎসাহিত হোন।';
+  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'আপনি ডাউনলোড বাতিল করতে চান কি? এই ডেটা ছাড়া আপনি কোরআন পড়তে পারবেন না, পৃষ্ঠা অনুপলব্ধ হবে।';

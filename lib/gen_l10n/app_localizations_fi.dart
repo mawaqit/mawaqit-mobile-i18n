@@ -923,7 +923,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'We are preparing the Qur’an just for you, please wait a few seconds!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
+  String get download_quran_popup_downloading_3 => 'Tutustu Koraanin kauneuteen! Napauta \'Lataa\' päästäksesi käsiksi sen ajattomaan viisauteen ja inspiroidaksesi sen jumalallisia sanoja.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'Are you sure you want to cancel the download? Without this data you won\'t be able to read the Quran, the pages will be unavailable.';
@@ -1253,7 +1253,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get prayer_times_in => 'Prayer times in';
 
   @override
-  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+  String get update_new_version => 'Koraanin uusi versio on ladattavissa. Napauta \'Update\' päästäksesi uusimpiin parannuksiin ja jatkaaksesi matkaa jumalallisella viisaudella';
 
   @override
   String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
