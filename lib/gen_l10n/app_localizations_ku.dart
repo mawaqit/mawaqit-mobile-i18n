@@ -923,7 +923,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'ئێمە قورئان ئامادە دەکەین تەنها بۆ ئێوە، تکایە چەند چرکەیەک چاوەڕوان بن!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'جوانیەکانی قورئان بدۆزەرەوە! بۆ دەستگەیشتن بە حیکمەتە بێ کاتەکانی و ئیلهام وەرگرتن لە وشە ئیلاهییەکانی، پەنجە بنێ بە \'داگرتن\'.';
+  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'دڵنیای کە دەتەوێت دابەزاندنەکە هەڵبوەشێنیتەوە؟ بەبێ ئەم داتایە ناتوانیت قورئان بخوێنیتەوە، لاپەڕەکان بەردەست نابن.';

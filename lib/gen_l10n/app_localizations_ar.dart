@@ -923,7 +923,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'نحن نقوم بتحضير القرآن خصيصًا لك، يُرجى الانتظار بضع ثوانٍ من فضلك';
 
   @override
-  String get download_quran_popup_downloading_3 => 'اكتشف جمال القرصن! انقر فوق \'تنزيل\' للوصول إلى حكمته العتيقة و كن مستوحاة من كلماته الإلهية.';
+  String get download_quran_popup_downloading_3 => 'اضغط على \'تحميل\' لتبدأ رحلتك في القراءة والتدبر.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'هل أنت متأكد أنك تريد إلغاء التنزيل؟ بدون هذه البيانات، لن تتمكن من قراءة القرآن، وسيكون الصفحات غير متاحة';

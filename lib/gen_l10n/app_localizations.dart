@@ -1974,7 +1974,7 @@ abstract class AppLocalizations {
   /// No description provided for @download_quran_popup_downloading_3.
   ///
   /// In en, this message translates to:
-  /// **'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.'**
+  /// **'Click on \'Download\' to start your journey of reading and reflection.'**
   String get download_quran_popup_downloading_3;
 
   /// No description provided for @download_quran_popup_confirm_cancel.
