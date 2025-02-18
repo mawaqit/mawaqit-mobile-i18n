@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1021,5 +1021,9 @@
     "no_projects": "No hay proyectos",
     "draw_info": "Un sorteo cada mes. Cada 24 horas puedes agregar un nuevo boleto para aumentar tu oportunidad de ganar!",
     "enter_valid_email": "Introduce un correo electrónico válido",
-    "please_enter_email": "Por favor, introduce un correo electrónico"
+    "please_enter_email": "Por favor, introduce un correo electrónico",
+    "select_device_audo_for_ios_propmpt": "Selecciona un archivo de audio y lo convertiremos a un formato compatible con iOS durante 30 segundos debido a las limitaciones de la plataforma iOS.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }
