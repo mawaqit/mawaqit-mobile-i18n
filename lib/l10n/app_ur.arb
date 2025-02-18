@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1021,5 +1021,9 @@
     "no_projects": "کوئی منصوبے نہیں ہیں",
     "draw_info": "ہر مہینے ایک قرعہ اندازی۔ جیتنے کے اپنے امکانات بڑھانے کے لیے ہر 24 گھنٹے میں ایک نیا ٹکٹ شامل کریں!",
     "enter_valid_email": "درست ای میل درج کریں",
-    "please_enter_email": "براہ کرم ای میل درج کریں"
+    "please_enter_email": "براہ کرم ای میل درج کریں",
+    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    }
 }
