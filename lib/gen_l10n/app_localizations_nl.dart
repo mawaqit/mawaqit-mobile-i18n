@@ -1392,4 +1392,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get please_enter_email => 'Voer alstublieft een e-mailadres in';
+
+  @override
+  String get select_device_audo_for_ios_propmpt => 'Selecteer een audiobestand en we zullen het converteren naar een compatibel formaat voor iOS tijdens het bijsnijden naar 30 seconden vanwege de iOS-platformbeperkingen.';
 }

@@ -2912,6 +2912,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Please enter an email'**
   String get please_enter_email;
+
+  /// -> select_device_audo_for_ios_propmpt
+  ///
+  /// In en, this message translates to:
+  /// **'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.'**
+  String get select_device_audo_for_ios_propmpt;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

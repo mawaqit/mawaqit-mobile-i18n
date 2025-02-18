@@ -1392,4 +1392,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get please_enter_email => 'يرجى إدخال بريد إلكتروني';
+
+  @override
+  String get select_device_audo_for_ios_propmpt => 'حدد ملف صوتي، وسنقوم بتحويله إلى تنسيق متوافق مع نظام التشغيل iOS بينما نقطعه إلى 30 ثانية بسبب قيود منصة iOS.';
 }
