@@ -1025,5 +1025,7 @@
     "select_device_audo_for_ios_propmpt": "Selecteer een audiobestand en we zullen het converteren naar een compatibel formaat voor iOS tijdens het bijsnijden naar 30 seconden vanwege de iOS-platformbeperkingen.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
-    }
+    },
+    "confirm_deletion": "Verwijdering bevestigen",
+    "sure_remove_rewaya": "Weet u zeker dat u deze Rewaypoint wilt verwijderen?"
 }
