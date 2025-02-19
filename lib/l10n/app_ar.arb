@@ -1027,5 +1027,9 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "تأكيد الحذف",
-    "sure_remove_rewaya": "هل أنت متأكد أنك تريد إزالة هذه الرواية؟"
+    "sure_remove_rewaya": "هل أنت متأكد أنك تريد إزالة هذه الرواية؟",
+    "file_not_found": "لم يتم العثور على الملف",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    }
 }
