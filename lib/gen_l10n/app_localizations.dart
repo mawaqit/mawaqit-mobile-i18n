@@ -2918,6 +2918,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.'**
   String get select_device_audo_for_ios_propmpt;
+
+  /// No description provided for @confirm_deletion.
+  ///
+  /// In en, this message translates to:
+  /// **'Confirm Deletion'**
+  String get confirm_deletion;
+
+  /// No description provided for @sure_remove_rewaya.
+  ///
+  /// In en, this message translates to:
+  /// **'Are you sure you want to remove this Rewaya?'**
+  String get sure_remove_rewaya;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

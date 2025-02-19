@@ -1395,4 +1395,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt => 'Выберите аудио файл, и мы преобразуем его в совместимый с iOS формат, усекая его на 30 секунд из-за ограничений платформы iOS.';
+
+  @override
+  String get confirm_deletion => 'Подтвердите удаление';
+
+  @override
+  String get sure_remove_rewaya => 'Вы уверены, что хотите удалить эту ссылку?';
 }

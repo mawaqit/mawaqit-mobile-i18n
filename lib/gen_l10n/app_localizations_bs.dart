@@ -1395,4 +1395,10 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+
+  @override
+  String get confirm_deletion => 'Potvrdi brisanje';
+
+  @override
+  String get sure_remove_rewaya => 'Jeste li sigurni da želite ukloniti ovu Rewaya?';
 }

@@ -1025,5 +1025,7 @@
     "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
-    }
+    },
+    "confirm_deletion": "Potvrdi brisanje",
+    "sure_remove_rewaya": "Jeste li sigurni da želite ukloniti ovu Rewaya?"
 }

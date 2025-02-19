@@ -1395,4 +1395,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt => 'Wybierz plik audio, a skonwertujemy go do formatu kompatybilnego z iOS podczas przycinania go do 30 sekund ze względu na ograniczenia platformy iOS.';
+
+  @override
+  String get confirm_deletion => 'Potwierdź usunięcie';
+
+  @override
+  String get sure_remove_rewaya => 'Czy na pewno chcesz usunąć ten Reway?';
 }

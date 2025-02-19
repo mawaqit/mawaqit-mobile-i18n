@@ -1395,4 +1395,10 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt => 'Seleziona un file audio e lo convertiremo in un formato compatibile con iOS, tagliandolo a 30 secondi a causa delle limitazioni della piattaforma iOS.';
+
+  @override
+  String get confirm_deletion => 'Conferma Eliminazione';
+
+  @override
+  String get sure_remove_rewaya => 'Sei sicuro di voler rimuovere questa Rewaya?';
 }
