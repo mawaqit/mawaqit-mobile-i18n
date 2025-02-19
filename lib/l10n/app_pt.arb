@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1027,5 +1027,9 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Confirmar Exclusão",
-    "sure_remove_rewaya": "Tem certeza de que deseja remover esta Rewaya?"
+    "sure_remove_rewaya": "Tem certeza de que deseja remover esta Rewaya?",
+    "file_not_found": "Arquivo não encontrado",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    }
 }
