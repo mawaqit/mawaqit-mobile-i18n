@@ -1027,5 +1027,9 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Confirmer la suppression",
-    "sure_remove_rewaya": "Êtes-vous sûr de vouloir supprimer cette Rewaya ?"
+    "sure_remove_rewaya": "Êtes-vous sûr de vouloir supprimer cette Rewaya ?",
+    "file_not_found": "Fichier introuvable",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    }
 }
