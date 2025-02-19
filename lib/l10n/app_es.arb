@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1027,5 +1027,5 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Confirmar eliminación",
-    "sure_remove_rewaya": "¿Está seguro de que desea eliminar esta revisión?"
+    "sure_remove_rewaya": "¿Estás seguro de que quieres eliminar esta Rewaya?"
 }
