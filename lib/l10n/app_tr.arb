@@ -1027,5 +1027,9 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Silme işlemini onaylayın",
-    "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?"
+    "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?",
+    "file_not_found": "File not found",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    }
 }
