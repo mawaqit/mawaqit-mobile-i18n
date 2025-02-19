@@ -1027,5 +1027,9 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Подтвердите удаление",
-    "sure_remove_rewaya": "Вы уверены, что хотите удалить эту ссылку?"
+    "sure_remove_rewaya": "Вы уверены, что хотите удалить эту ссылку?",
+    "file_not_found": "Файл не найден",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    }
 }
