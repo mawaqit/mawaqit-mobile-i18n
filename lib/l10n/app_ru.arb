@@ -1025,5 +1025,7 @@
     "select_device_audo_for_ios_propmpt": "Выберите аудио файл, и мы преобразуем его в совместимый с iOS формат, усекая его на 30 секунд из-за ограничений платформы iOS.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
-    }
+    },
+    "confirm_deletion": "Подтвердите удаление",
+    "sure_remove_rewaya": "Вы уверены, что хотите удалить эту ссылку?"
 }
