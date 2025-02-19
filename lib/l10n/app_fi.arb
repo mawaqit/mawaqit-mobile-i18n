@@ -1027,5 +1027,9 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Vahvista Poisto",
-    "sure_remove_rewaya": "Oletko varma, että haluat poistaa tämän Reway?"
+    "sure_remove_rewaya": "Oletko varma, että haluat poistaa tämän Reway?",
+    "file_not_found": "Tiedostoa ei löydy",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    }
 }
