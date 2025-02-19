@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1026,6 +1026,6 @@
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
-    "confirm_deletion": "Confirm Deletion",
-    "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?"
+    "confirm_deletion": "حذف کی تصدیق کریں",
+    "sure_remove_rewaya": "کیا آپ واقعی اس روایت کو ہٹانا چاہتے ہیں؟"
 }
