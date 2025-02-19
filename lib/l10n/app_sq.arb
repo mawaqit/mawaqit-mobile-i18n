@@ -1027,5 +1027,9 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Konfirmo fshirjen",
-    "sure_remove_rewaya": "Jeni të sigurt që dëshironi të hiqni këtë Rewaya?"
+    "sure_remove_rewaya": "Jeni të sigurt që dëshironi të hiqni këtë Rewaya?",
+    "file_not_found": "File not found",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    }
 }
