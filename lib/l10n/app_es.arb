@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1025,5 +1025,7 @@
     "select_device_audo_for_ios_propmpt": "Selecciona un archivo de audio y lo convertiremos a un formato compatible con iOS durante 30 segundos debido a las limitaciones de la plataforma iOS.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
-    }
+    },
+    "confirm_deletion": "Confirmar eliminación",
+    "sure_remove_rewaya": "¿Está seguro de que desea eliminar esta revisión?"
 }
