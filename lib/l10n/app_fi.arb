@@ -1025,5 +1025,7 @@
     "select_device_audo_for_ios_propmpt": "Valitse äänitiedosto, ja me muunnamme sen iOS-yhteensopivaan muotoon ja leikkaamme sitä 30 sekunnin iOS-alustan rajoituksista.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
-    }
+    },
+    "confirm_deletion": "Vahvista Poisto",
+    "sure_remove_rewaya": "Oletko varma, että haluat poistaa tämän Reway?"
 }
