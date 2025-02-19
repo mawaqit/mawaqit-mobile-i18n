@@ -1395,4 +1395,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt => 'Valitse äänitiedosto, ja me muunnamme sen iOS-yhteensopivaan muotoon ja leikkaamme sitä 30 sekunnin iOS-alustan rajoituksista.';
+
+  @override
+  String get confirm_deletion => 'Vahvista Poisto';
+
+  @override
+  String get sure_remove_rewaya => 'Oletko varma, että haluat poistaa tämän Reway?';
 }

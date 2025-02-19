@@ -1395,4 +1395,10 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt => 'Selecione um arquivo de áudio e vamos convertê-lo em um formato compatível com o iOS, enquanto o cortamos em 30 segundos devido a limitações na plataforma iOS.';
+
+  @override
+  String get confirm_deletion => 'Confirmar Exclusão';
+
+  @override
+  String get sure_remove_rewaya => 'Tem certeza de que deseja remover esta Versão?';
 }

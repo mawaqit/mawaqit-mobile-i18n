@@ -1395,4 +1395,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt => 'حدد ملف صوتي، وسنقوم بتحويله إلى تنسيق متوافق مع نظام التشغيل iOS بينما نقطعه إلى 30 ثانية بسبب قيود منصة iOS.';
+
+  @override
+  String get confirm_deletion => 'تأكيد الحذف';
+
+  @override
+  String get sure_remove_rewaya => 'هل أنت متأكد من أنك تريد إزالة هذه الطريقة؟';
 }
