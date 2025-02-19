@@ -1026,6 +1026,6 @@
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
-    "confirm_deletion": "Confirm Deletion",
-    "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?"
+    "confirm_deletion": "Konfirmo fshirjen",
+    "sure_remove_rewaya": "Jeni të sigurt që dëshironi të hiqni këtë Rewaya?"
 }
