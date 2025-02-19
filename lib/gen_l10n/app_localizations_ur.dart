@@ -1401,4 +1401,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => 'کیا آپ واقعی اس روایت کو ہٹانا چاہتے ہیں؟';
+
+  @override
+  String get file_not_found => 'File not found';
 }

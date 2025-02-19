@@ -1401,4 +1401,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => 'Вы уверены, что хотите удалить эту ссылку?';
+
+  @override
+  String get file_not_found => 'Файл не найден';
 }

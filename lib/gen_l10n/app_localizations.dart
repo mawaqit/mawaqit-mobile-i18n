@@ -2930,6 +2930,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Are you sure you want to remove this Rewaya?'**
   String get sure_remove_rewaya;
+
+  /// -> file_not_found
+  ///
+  /// In en, this message translates to:
+  /// **'File not found'**
+  String get file_not_found;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

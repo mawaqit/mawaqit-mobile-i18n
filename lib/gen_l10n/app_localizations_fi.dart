@@ -1401,4 +1401,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => 'Oletko varma, että haluat poistaa tämän Reway?';
+
+  @override
+  String get file_not_found => 'Tiedostoa ei löydy';
 }

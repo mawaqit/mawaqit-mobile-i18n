@@ -1401,4 +1401,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => '¿Estás seguro de que quieres eliminar esta Rewaya?';
+
+  @override
+  String get file_not_found => 'Archivo no encontrado';
 }

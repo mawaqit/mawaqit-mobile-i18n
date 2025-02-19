@@ -1401,4 +1401,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => 'Czy na pewno chcesz usunąć ten Reway?';
+
+  @override
+  String get file_not_found => 'Nie znaleziono pliku';
 }
