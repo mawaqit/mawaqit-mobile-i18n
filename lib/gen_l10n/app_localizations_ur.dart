@@ -1397,8 +1397,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
 
   @override
-  String get confirm_deletion => 'Confirm Deletion';
+  String get confirm_deletion => 'حذف کی تصدیق کریں';
 
   @override
-  String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
+  String get sure_remove_rewaya => 'کیا آپ واقعی اس روایت کو ہٹانا چاہتے ہیں؟';
 }

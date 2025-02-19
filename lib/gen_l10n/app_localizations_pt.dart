@@ -1400,5 +1400,5 @@ class AppLocalizationsPt extends AppLocalizations {
   String get confirm_deletion => 'Confirmar Exclusão';
 
   @override
-  String get sure_remove_rewaya => 'Tem certeza de que deseja remover esta Versão?';
+  String get sure_remove_rewaya => 'Tem certeza de que deseja remover esta Rewaya?';
 }

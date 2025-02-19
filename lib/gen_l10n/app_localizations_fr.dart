@@ -1400,5 +1400,5 @@ class AppLocalizationsFr extends AppLocalizations {
   String get confirm_deletion => 'Confirmer la suppression';
 
   @override
-  String get sure_remove_rewaya => 'Êtes-vous sûr de vouloir supprimer cette Reway?';
+  String get sure_remove_rewaya => 'Êtes-vous sûr de vouloir supprimer cette Rewaya ?';
 }

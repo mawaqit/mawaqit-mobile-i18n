@@ -1400,5 +1400,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get confirm_deletion => 'تأكيد الحذف';
 
   @override
-  String get sure_remove_rewaya => 'هل أنت متأكد من أنك تريد إزالة هذه الطريقة؟';
+  String get sure_remove_rewaya => 'هل أنت متأكد أنك تريد إزالة هذه الرواية؟';
 }

@@ -1400,5 +1400,5 @@ class AppLocalizationsNl extends AppLocalizations {
   String get confirm_deletion => 'Verwijdering bevestigen';
 
   @override
-  String get sure_remove_rewaya => 'Weet u zeker dat u deze Rewaypoint wilt verwijderen?';
+  String get sure_remove_rewaya => 'Weet u zeker dat u deze Rewaya wilt verwijderen?';
 }
