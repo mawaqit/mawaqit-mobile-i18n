@@ -1025,5 +1025,7 @@
     "select_device_audo_for_ios_propmpt": "Wybierz plik audio, a skonwertujemy go do formatu kompatybilnego z iOS podczas przycinania go do 30 sekund ze względu na ograniczenia platformy iOS.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
-    }
+    },
+    "confirm_deletion": "Potwierdź usunięcie",
+    "sure_remove_rewaya": "Czy na pewno chcesz usunąć ten Reway?"
 }
