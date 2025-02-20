@@ -1031,5 +1031,6 @@
     "file_not_found": "Nie znaleziono pliku",
     "@file_not_found": {
         "description": "-> file_not_found"
-    }
+    },
+    "notified_boost": "Otrzymuj powiadomienia o najnowszych aktualizacjach projektów MAWAQIT Boost."
 }
