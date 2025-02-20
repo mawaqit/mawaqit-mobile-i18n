@@ -1027,5 +1027,11 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Potvrdi brisanje",
-    "sure_remove_rewaya": "Jeste li sigurni da želite ukloniti ovu Rewaya?"
+    "sure_remove_rewaya": "Jeste li sigurni da želite ukloniti ovu Rewaya?",
+    "file_not_found": "File not found",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    },
+    "notified_boost": "Primajte obavijesti o najnovijim ažuriranjima MAWAQIT Boost projekata.",
+    "contact_us_boost": "Da biste naveli svoj projekat ovdje, kontaktirajte nas na"
 }

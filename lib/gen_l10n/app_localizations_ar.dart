@@ -1401,4 +1401,13 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => 'هل أنت متأكد أنك تريد إزالة هذه الرواية؟';
+
+  @override
+  String get file_not_found => 'لم يتم العثور على الملف';
+
+  @override
+  String get notified_boost => 'احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost.';
+
+  @override
+  String get contact_us_boost => 'لإدراج مشروعك هنا، تواصل معنا على';
 }

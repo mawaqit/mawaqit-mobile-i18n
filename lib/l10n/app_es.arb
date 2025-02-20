@@ -1027,5 +1027,11 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Confirmar eliminación",
-    "sure_remove_rewaya": "¿Estás seguro de que quieres eliminar esta Rewaya?"
+    "sure_remove_rewaya": "¿Estás seguro de que quieres eliminar esta Rewaya?",
+    "file_not_found": "Archivo no encontrado",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    },
+    "notified_boost": "Recibe notificaciones sobre las últimas actualizaciones de los proyectos MAWAQIT Boost.",
+    "contact_us_boost": "Para listar tu proyecto aquí, contáctanos en"
 }

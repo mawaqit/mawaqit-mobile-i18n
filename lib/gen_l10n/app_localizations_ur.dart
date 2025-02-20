@@ -1401,4 +1401,13 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => 'کیا آپ واقعی اس روایت کو ہٹانا چاہتے ہیں؟';
+
+  @override
+  String get file_not_found => 'File not found';
+
+  @override
+  String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
+
+  @override
+  String get contact_us_boost => 'اپنے پروجیکٹ کو یہاں شامل کرنے کے لیے، ہم سے اس پر رابطہ کریں:';
 }

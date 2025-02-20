@@ -2930,6 +2930,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Are you sure you want to remove this Rewaya?'**
   String get sure_remove_rewaya;
+
+  /// -> file_not_found
+  ///
+  /// In en, this message translates to:
+  /// **'File not found'**
+  String get file_not_found;
+
+  /// No description provided for @notified_boost.
+  ///
+  /// In en, this message translates to:
+  /// **'Get notified about the latest updates on MAWAQIT Boost projects.'**
+  String get notified_boost;
+
+  /// No description provided for @contact_us_boost.
+  ///
+  /// In en, this message translates to:
+  /// **'To list your project here, contact us at'**
+  String get contact_us_boost;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

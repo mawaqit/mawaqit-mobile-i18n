@@ -1027,5 +1027,11 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "حذف کی تصدیق کریں",
-    "sure_remove_rewaya": "کیا آپ واقعی اس روایت کو ہٹانا چاہتے ہیں؟"
+    "sure_remove_rewaya": "کیا آپ واقعی اس روایت کو ہٹانا چاہتے ہیں؟",
+    "file_not_found": "File not found",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    },
+    "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects.",
+    "contact_us_boost": "اپنے پروجیکٹ کو یہاں شامل کرنے کے لیے، ہم سے اس پر رابطہ کریں:"
 }

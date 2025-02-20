@@ -1401,4 +1401,13 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => '¿Estás seguro de que quieres eliminar esta Rewaya?';
+
+  @override
+  String get file_not_found => 'Archivo no encontrado';
+
+  @override
+  String get notified_boost => 'Recibe notificaciones sobre las últimas actualizaciones de los proyectos MAWAQIT Boost.';
+
+  @override
+  String get contact_us_boost => 'Para listar tu proyecto aquí, contáctanos en';
 }

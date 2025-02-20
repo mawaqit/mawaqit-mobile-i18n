@@ -1401,4 +1401,13 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
+
+  @override
+  String get file_not_found => 'File not found';
+
+  @override
+  String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
+
+  @override
+  String get contact_us_boost => 'To list your project here, contact us at';
 }
