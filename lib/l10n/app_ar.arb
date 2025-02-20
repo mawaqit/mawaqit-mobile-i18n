@@ -1032,5 +1032,6 @@
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost."
+    "notified_boost": "احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost.",
+    "contact_us_boost": "لإدراج مشروعك هنا، تواصل معنا على"
 }
