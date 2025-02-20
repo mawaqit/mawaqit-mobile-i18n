@@ -1032,5 +1032,6 @@
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "Otrzymuj powiadomienia o najnowszych aktualizacjach projektów MAWAQIT Boost."
+    "notified_boost": "Otrzymuj powiadomienia o najnowszych aktualizacjach projektów MAWAQIT Boost.",
+    "contact_us_boost": "Aby wyświetlić tutaj swój projekt, skontaktuj się z nami pod adresem"
 }
