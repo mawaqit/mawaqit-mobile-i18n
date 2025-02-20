@@ -1031,5 +1031,6 @@
     "file_not_found": "لم يتم العثور على الملف",
     "@file_not_found": {
         "description": "-> file_not_found"
-    }
+    },
+    "notified_boost": "احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost."
 }
