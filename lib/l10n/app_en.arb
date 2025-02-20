@@ -1031,5 +1031,6 @@
     "file_not_found": "File not found",
     "@file_not_found": {
         "description": "-> file_not_found"
-    }
+    },
+    "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects."
 }
