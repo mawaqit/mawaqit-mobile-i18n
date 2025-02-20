@@ -2942,6 +2942,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Get notified about the latest updates on MAWAQIT Boost projects.'**
   String get notified_boost;
+
+  /// No description provided for @contact_us_boost.
+  ///
+  /// In en, this message translates to:
+  /// **'To list your project here, contact us at'**
+  String get contact_us_boost;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

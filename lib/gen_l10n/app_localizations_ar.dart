@@ -1407,4 +1407,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get notified_boost => 'احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost.';
+
+  @override
+  String get contact_us_boost => 'لإدراج مشروعك هنا، تواصل معنا على';
 }

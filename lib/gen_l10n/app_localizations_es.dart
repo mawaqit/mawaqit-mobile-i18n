@@ -1407,4 +1407,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get notified_boost => 'Recibe notificaciones sobre las últimas actualizaciones de los proyectos MAWAQIT Boost.';
+
+  @override
+  String get contact_us_boost => 'Para listar tu proyecto aquí, contáctanos en';
 }
