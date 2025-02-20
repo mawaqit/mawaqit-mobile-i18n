@@ -1404,4 +1404,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get file_not_found => 'لم يتم العثور على الملف';
+
+  @override
+  String get notified_boost => 'احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost.';
 }

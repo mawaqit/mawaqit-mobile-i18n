@@ -2936,6 +2936,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'File not found'**
   String get file_not_found;
+
+  /// No description provided for @notified_boost.
+  ///
+  /// In en, this message translates to:
+  /// **'Get notified about the latest updates on MAWAQIT Boost projects.'**
+  String get notified_boost;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

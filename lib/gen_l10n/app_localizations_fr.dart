@@ -1404,4 +1404,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get file_not_found => 'Fichier introuvable';
+
+  @override
+  String get notified_boost => 'Recevez des notifications sur les dernières mises à jour des projets MAWAQIT Boost.';
 }
