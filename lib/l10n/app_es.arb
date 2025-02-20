@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1032,5 +1032,6 @@
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "Recibe notificaciones sobre las últimas actualizaciones de los proyectos MAWAQIT Boost."
+    "notified_boost": "Recibe notificaciones sobre las últimas actualizaciones de los proyectos MAWAQIT Boost.",
+    "contact_us_boost": "Para listar tu proyecto aquí, contáctanos en"
 }
