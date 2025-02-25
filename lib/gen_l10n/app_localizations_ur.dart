@@ -1079,7 +1079,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get silent => 'خاموش';
 
   @override
-  String get default_ => 'ڈیفالٹ نوٹیفکیشن';
+  String get default_ => 'ڈیفالٹ';
 
   @override
   String get muazzin => 'موذن';
