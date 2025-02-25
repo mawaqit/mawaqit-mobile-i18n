@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -866,7 +866,7 @@
     "recurring_pay_text": "یہ عطیہ ماہانہ کریں۔",
     "adjust_angles": "زاویے ایڈجسٹ کریں",
     "silent": "خاموش",
-    "default_": "پہلے سے طے شدہ",
+    "default_": "ڈیفالٹ نوٹیفکیشن",
     "muazzin": "موذن",
     "information": "معلومات",
     "news": "خبریں",
