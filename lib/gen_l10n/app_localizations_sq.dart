@@ -1337,7 +1337,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get add_ticket => 'Add ticket';
 
   @override
-  String get projects => 'Projects';
+  String get projects => 'Projektet';
 
   @override
   String get fill_form => 'To add your project here fill up this';
@@ -1376,13 +1376,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get next_ticket => 'The next ticket available in';
 
   @override
-  String get click_here => 'Click here';
+  String get click_here => 'Kliko këtu';
 
   @override
   String get mawaqit_store => 'MAWAQIT Store';
 
   @override
-  String get no_projects => 'There are no projects';
+  String get no_projects => 'Nuk ka projekte';
 
   @override
   String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
