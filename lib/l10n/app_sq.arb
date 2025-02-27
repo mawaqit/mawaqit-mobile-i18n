@@ -1003,7 +1003,7 @@
         "description": "-> select_audio_from_device"
     },
     "add_ticket": "Add ticket",
-    "projects": "Projects",
+    "projects": "Projektet",
     "fill_form": "To add your project here fill up this",
     "form": "form",
     "updates_draw": "Get updates and participate in the draw to win goodies from",
@@ -1016,12 +1016,12 @@
     "no_of_tickets": "No. of tickets:",
     "unparticipate": "Click to unparticipate",
     "next_ticket": "The next ticket available in",
-    "click_here": "Click here",
+    "click_here": "Kliko këtu",
     "mawaqit_store": "MAWAQIT Store",
-    "no_projects": "There are no projects",
+    "no_projects": "Nuk ka projekte",
     "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
     "enter_valid_email": "Enter a valid email",
-    "please_enter_email": "Please enter an email",
+    "please_enter_email": "Shënon një email ju lutem",
     "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
