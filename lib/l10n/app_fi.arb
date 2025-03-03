@@ -1034,8 +1034,8 @@
     },
     "notified_boost": "Saat ilmoituksen MAWAQIT Boost -projektien uusimmista päivityksistä.",
     "contact_us_boost": "Jos haluat listata projektisi tähän, ota yhteyttä",
-    "prayers_added_by_mosque": "Rukouksen ajat on määritelty moskeija itse, ei MAWAQIT",
-    "@prayers_added_by_mosque": {
-        "description": "-> prayers_added_by_mosque"
+    "prayer_times_set_by_mosque": "Rukousajat ovat moskeijan asettamia, ei MAWAQIT",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
     }
 }
