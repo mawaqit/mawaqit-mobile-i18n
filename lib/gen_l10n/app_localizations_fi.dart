@@ -1410,4 +1410,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get contact_us_boost => 'Jos haluat listata projektisi tähän, ota yhteyttä';
+
+  @override
+  String get prayers_added_by_mosque => 'Rukouksen ajat on määritelty moskeija itse, ei MAWAQIT';
 }

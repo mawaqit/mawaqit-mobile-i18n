@@ -1410,4 +1410,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get contact_us_boost => 'Чтобы составить список вашего проекта, свяжитесь с нами по';
+
+  @override
+  String get prayers_added_by_mosque => 'Время молитвы определяется самой мечетью, а не MAWAQIT';
 }

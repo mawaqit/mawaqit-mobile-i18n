@@ -1410,4 +1410,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get contact_us_boost => 'Para listar tu proyecto aquí, contáctanos en';
+
+  @override
+  String get prayers_added_by_mosque => 'Los tiempos de oración son definidos por la mezquita misma, no por MAWAQIT';
 }

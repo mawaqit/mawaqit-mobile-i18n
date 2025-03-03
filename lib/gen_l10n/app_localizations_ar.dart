@@ -1410,4 +1410,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get contact_us_boost => 'لإدراج مشروعك هنا، تواصل معنا على';
+
+  @override
+  String get prayers_added_by_mosque => 'ومدة الصلاة يحددها المسجد نفسه، وليس وزارة الشؤون الخارجية';
 }

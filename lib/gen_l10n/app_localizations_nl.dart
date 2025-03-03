@@ -1410,4 +1410,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get contact_us_boost => 'Om uw project hier te vermelden, neem contact met ons op via';
+
+  @override
+  String get prayers_added_by_mosque => 'De gebedstijden worden bepaald door de moskee zelf, niet door MAWAQIT';
 }
