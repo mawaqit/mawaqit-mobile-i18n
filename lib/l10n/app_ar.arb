@@ -1034,8 +1034,8 @@
     },
     "notified_boost": "احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost.",
     "contact_us_boost": "لإدراج مشروعك هنا، تواصل معنا على",
-    "prayers_added_by_mosque": "ومدة الصلاة يحددها المسجد نفسه، وليس وزارة الشؤون الخارجية",
-    "@prayers_added_by_mosque": {
-        "description": "-> prayers_added_by_mosque"
+    "prayer_times_set_by_mosque": "يتم تعيين أوقات الصلاة من قبل المسجد، وليس من قبل المسجد",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
     }
 }
