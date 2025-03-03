@@ -1412,5 +1412,5 @@ class AppLocalizationsRu extends AppLocalizations {
   String get contact_us_boost => 'Чтобы составить список вашего проекта, свяжитесь с нами по';
 
   @override
-  String get prayers_added_by_mosque => 'Время молитвы определяется самой мечетью, а не MAWAQIT';
+  String get prayer_times_set_by_mosque => 'Время молитв установлено мечетью, а не MAWAQIT';
 }

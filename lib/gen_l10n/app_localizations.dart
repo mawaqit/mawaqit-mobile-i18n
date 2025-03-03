@@ -2949,11 +2949,11 @@ abstract class AppLocalizations {
   /// **'To list your project here, contact us at'**
   String get contact_us_boost;
 
-  /// -> prayers_added_by_mosque
+  /// -> prayer_times_set_by_mosque
   ///
   /// In en, this message translates to:
-  /// **'The prayer times are defined by the mosque itself, not by MAWAQIT'**
-  String get prayers_added_by_mosque;
+  /// **'Prayer times are set by the mosque, not MAWAQIT'**
+  String get prayer_times_set_by_mosque;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
