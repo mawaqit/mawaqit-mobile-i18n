@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1033,5 +1033,9 @@
         "description": "-> file_not_found"
     },
     "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects.",
-    "contact_us_boost": "اپنے پروجیکٹ کو یہاں شامل کرنے کے لیے، ہم سے اس پر رابطہ کریں:"
+    "contact_us_boost": "اپنے پروجیکٹ کو یہاں شامل کرنے کے لیے، ہم سے اس پر رابطہ کریں:",
+    "prayers_added_by_mosque": "The prayer times are defined by the mosque itself, not by MAWAQIT",
+    "@prayers_added_by_mosque": {
+        "description": "-> prayers_added_by_mosque"
+    }
 }
