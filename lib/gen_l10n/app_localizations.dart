@@ -2952,7 +2952,7 @@ abstract class AppLocalizations {
   /// -> prayer_times_set_by_mosque
   ///
   /// In en, this message translates to:
-  /// **'Prayer times are set by the mosque, not MAWAQIT'**
+  /// **'Prayer times and all the information here are set by the mosque, not MAWAQIT'**
   String get prayer_times_set_by_mosque;
 }
 

@@ -1034,7 +1034,7 @@
     },
     "notified_boost": "احصل على إشعارات بآخر التحديثات حول مشاريع مواقيت Boost.",
     "contact_us_boost": "لإدراج مشروعك هنا، تواصل معنا على",
-    "prayer_times_set_by_mosque": "يتم تعيين أوقات الصلاة من قبل المسجد، وليس من قبل المسجد",
+    "prayer_times_set_by_mosque": "يتم تعيين أوقات الصلاة من قبل المسجد، وليس من قبل مواقيت",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     }
