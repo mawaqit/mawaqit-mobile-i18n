@@ -1034,8 +1034,8 @@
     },
     "notified_boost": "Ontvang meldingen over de nieuwste updates van de MAWAQIT Boost-projecten.",
     "contact_us_boost": "Om uw project hier te vermelden, neem contact met ons op via",
-    "prayers_added_by_mosque": "De gebedstijden worden bepaald door de moskee zelf, niet door MAWAQIT",
-    "@prayers_added_by_mosque": {
-        "description": "-> prayers_added_by_mosque"
+    "prayer_times_set_by_mosque": "Gebedstijden worden ingesteld door de moskee, niet MAWAQIT",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
     }
 }
