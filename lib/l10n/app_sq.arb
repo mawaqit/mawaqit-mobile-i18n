@@ -1034,7 +1034,7 @@
     },
     "notified_boost": "Merrni njoftime për përditësimet më të fundit mbi projektet MAWAQIT Boost.",
     "contact_us_boost": "Për të listuar projektin tuaj këtu, na kontaktoni në",
-    "prayer_times_set_by_mosque": "Prayer times are set by the mosque, not MAWAQIT",
+    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     }
