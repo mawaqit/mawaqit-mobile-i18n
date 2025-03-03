@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1034,8 +1034,8 @@
     },
     "notified_boost": "Recibe notificaciones sobre las últimas actualizaciones de los proyectos MAWAQIT Boost.",
     "contact_us_boost": "Para listar tu proyecto aquí, contáctanos en",
-    "prayers_added_by_mosque": "Los tiempos de oración son definidos por la mezquita misma, no por MAWAQIT",
-    "@prayers_added_by_mosque": {
-        "description": "-> prayers_added_by_mosque"
+    "prayer_times_set_by_mosque": "Las horas de oración son fijadas por la mezquita, no por MAWAQIT",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
     }
 }
