@@ -1034,8 +1034,8 @@
     },
     "notified_boost": "Ricevi notifiche sugli ultimi aggiornamenti dei progetti MAWAQIT Boost.",
     "contact_us_boost": "Per elencare il tuo progetto qui, contattaci a",
-    "prayers_added_by_mosque": "I tempi di preghiera sono definiti dalla moschea stessa, non da MAWAQIT",
-    "@prayers_added_by_mosque": {
-        "description": "-> prayers_added_by_mosque"
+    "prayer_times_set_by_mosque": "Gli orari di preghiera sono fissati dalla moschea, non MAWAQIT",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
     }
 }
