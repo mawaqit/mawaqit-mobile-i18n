@@ -2948,6 +2948,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'To list your project here, contact us at'**
   String get contact_us_boost;
+
+  /// -> prayer_times_set_by_mosque
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer times are set by the mosque, not MAWAQIT'**
+  String get prayer_times_set_by_mosque;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

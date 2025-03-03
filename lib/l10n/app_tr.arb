@@ -1033,5 +1033,9 @@
         "description": "-> file_not_found"
     },
     "notified_boost": "MAWAQIT Boost projeleriyle ilgili en son güncellemelerden haberdar olun.",
-    "contact_us_boost": "Projenizi burada listelemek için, bizimle iletişime geçin:"
+    "contact_us_boost": "Projenizi burada listelemek için, bizimle iletişime geçin:",
+    "prayer_times_set_by_mosque": "Prayer times are set by the mosque, not MAWAQIT",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
+    }
 }

@@ -1033,5 +1033,9 @@
         "description": "-> file_not_found"
     },
     "notified_boost": "Saat ilmoituksen MAWAQIT Boost -projektien uusimmista päivityksistä.",
-    "contact_us_boost": "Jos haluat listata projektisi tähän, ota yhteyttä"
+    "contact_us_boost": "Jos haluat listata projektisi tähän, ota yhteyttä",
+    "prayer_times_set_by_mosque": "Rukousajat ovat moskeijan asettamia, ei MAWAQIT",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
+    }
 }
