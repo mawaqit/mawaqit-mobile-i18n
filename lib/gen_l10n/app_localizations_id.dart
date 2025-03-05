@@ -707,7 +707,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get surah => 'Surah';
 
   @override
-  String get continue_reading => 'Lanjut Membaca';
+  String get continue_reading => 'Continue reading';
 
   @override
   String get bookmarks => 'Bookmark';

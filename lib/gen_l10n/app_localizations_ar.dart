@@ -707,7 +707,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get surah => 'سور';
 
   @override
-  String get continue_reading => 'إستمرار القراءه';
+  String get continue_reading => 'متابعة القراءة';
 
   @override
   String get bookmarks => 'المرجعيات';

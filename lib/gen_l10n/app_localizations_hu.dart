@@ -707,7 +707,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get surah => 'Szúra';
 
   @override
-  String get continue_reading => 'Olvasás folytatása';
+  String get continue_reading => 'Continue reading';
 
   @override
   String get bookmarks => 'Könyvjelzők';
