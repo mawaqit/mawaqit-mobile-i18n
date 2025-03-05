@@ -707,7 +707,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get surah => 'Surah';
 
   @override
-  String get continue_reading => 'Continue Reading';
+  String get continue_reading => 'پڑھنا جاری رکھیں';
 
   @override
   String get bookmarks => 'بک مارکس';

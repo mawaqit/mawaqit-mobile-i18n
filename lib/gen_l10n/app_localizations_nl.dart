@@ -707,7 +707,7 @@ class AppLocalizationsNl extends AppLocalizations {
   String get surah => 'Surah';
 
   @override
-  String get continue_reading => 'Continue Reading';
+  String get continue_reading => 'Verder lezen';
 
   @override
   String get bookmarks => 'Bladwijzers';

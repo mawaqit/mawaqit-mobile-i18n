@@ -707,7 +707,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get surah => 'Sourate';
 
   @override
-  String get continue_reading => 'Continue Reading';
+  String get continue_reading => 'Continuer la lecture';
 
   @override
   String get bookmarks => 'Bookmarks';
