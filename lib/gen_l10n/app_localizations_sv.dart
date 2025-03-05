@@ -1,8 +1,8 @@
 import 'app_localizations.dart';
 
-/// The translations for English (`en`).
-class AppLocalizationsEn extends AppLocalizations {
-  AppLocalizationsEn([String locale = 'en']) : super(locale);
+/// The translations for Swedish (`sv`).
+class AppLocalizationsSv extends AppLocalizations {
+  AppLocalizationsSv([String locale = 'sv']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
@@ -707,7 +707,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get surah => 'Surah';
 
   @override
-  String get continue_reading => 'Continue reading';
+  String get continue_reading => 'Continue Reading';
 
   @override
   String get bookmarks => 'Bookmarks';

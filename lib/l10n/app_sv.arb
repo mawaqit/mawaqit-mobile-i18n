@@ -1,5 +1,5 @@
 {
-    "@@locale": "en",
+    "@@locale": "sv",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -742,7 +742,7 @@
     "ayah": "Ayah",
     "quran_verses": "Verses",
     "surah": "Surah",
-    "continue_reading": "Continue reading",
+    "continue_reading": "Continue Reading",
     "bookmarks": "Bookmarks",
     "juzz": "Juzz",
     "quran_page": "Page",
