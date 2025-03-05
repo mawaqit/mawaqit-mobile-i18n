@@ -707,7 +707,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get surah => 'سورەت';
 
   @override
-  String get continue_reading => 'بەردەوامبوون لە خوێندنەوە';
+  String get continue_reading => 'Continue Reading';
 
   @override
   String get bookmarks => 'دڵخوازەکان';
