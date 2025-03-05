@@ -32,7 +32,10 @@ jobs:
       - name: Replace "ckb" with "ku" in app_ku.arb
         run: |
           sed -i 's/"ckb"/"ku"/g' lib/l10n/app_ku.arb
-      
+      - name: Replace "sv-SE" with "sv" in app_sv.arb
+        run: |
+          sed -i 's/"sv-SE"/"sv"/g' lib/l10n/app_sv.arb
+          
       - name: Run flutter gen-l10n
         run: flutter gen-l10n
           
