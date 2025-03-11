@@ -707,7 +707,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get surah => 'Sura';
 
   @override
-  String get continue_reading => 'Nastavite čitati';
+  String get continue_reading => 'Continue reading';
 
   @override
   String get bookmarks => 'Bilješke';

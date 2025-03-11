@@ -707,7 +707,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get surah => 'Surja';
 
   @override
-  String get continue_reading => 'Vazhdo Leximin';
+  String get continue_reading => 'Continue reading';
 
   @override
   String get bookmarks => 'Shënimet';
