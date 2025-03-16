@@ -1,11 +1,11 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "Favoriter",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
@@ -15,12 +15,12 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "Sök",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "Inställningar",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
@@ -30,66 +30,66 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "Mörk",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "Ljus",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "Tid-format",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "Välj Språk",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "Språk",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "Tema",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "12t",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "24t",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
-    "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
-    "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_PrayerNotifications": "Bön notifikationer",
+    "settings_PrayerPreNotifications": "Innan-bön notifikation",
+    "settings_ShuruqPreNotifications": "Innan-Shuruq notifikation",
+    "settings_Calculations": "Kalkylationer",
+    "settings_RateOurApp": "Betygsätt vår app",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
-    "settings_News": "News",
-    "settings_MakeADonation": "Make a donation",
+    "settings_WhatsNew": "Vad är nytt",
+    "settings_SupportMawaqit": "Stöd Mawaqit",
+    "settings_News": "Nyheter",
+    "settings_MakeADonation": "Skicka en välgörenhet",
     "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Donate to MAWAQIT",
+    "settings_DonateToMawaqit": "Donera till MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "Check for updates",
+    "settings_CheckForUpdates": "Sök efter uppdateringar",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
@@ -99,24 +99,24 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUs": "About us",
+    "settings_AboutUs": "Om oss",
     "@settings_AboutUs": {
         "description": "_",
         "type": "text"
     },
-    "settings_language_ar": "Arabic",
-    "settings_language_bn": "Bengali",
-    "settings_language_fr": "French",
-    "settings_language_nl": "Dutch",
-    "settings_language_de": "German",
-    "settings_language_es": "Spanish",
-    "settings_language_en": "English",
-    "settings_language_it": "Italian",
-    "settings_language_tr": "Turkish",
-    "settings_language_ru": "Russian",
-    "settings_language_id": "Indonesian",
+    "settings_language_ar": "Arabiska",
+    "settings_language_bn": "Bengaliska",
+    "settings_language_fr": "Franska",
+    "settings_language_nl": "Nederländska",
+    "settings_language_de": "Tyska",
+    "settings_language_es": "Spanska",
+    "settings_language_en": "Engelska",
+    "settings_language_it": "Italienska",
+    "settings_language_tr": "Turkiska",
+    "settings_language_ru": "Ryska",
+    "settings_language_id": "Indonesiska",
     "settings_language_ur": "Urdu",
-    "settings_language_pl": "Polish",
+    "settings_language_pl": "Polska",
     "settings_CreditsText": "Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
@@ -132,12 +132,12 @@
         "description": "_",
         "type": "text"
     },
-    "shuruq": "Sunrise",
+    "shuruq": "Soluppgång",
     "@shuruq": {
         "description": "_",
         "type": "text"
     },
-    "duhr": "Duhr",
+    "duhr": "Dhuhr",
     "@duhr": {
         "description": "_",
         "type": "text"
@@ -261,42 +261,42 @@
     "virtual_mosque": "Virtual Mosque",
     "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
     "no_mosque_with": "Couldn't find any mosques with",
-    "retry": "Retry",
-    "search_here": "Search Here",
+    "retry": "Försök igen",
+    "search_here": "Sök här",
     "enter_at_least_3_char": "Enter at-least 3 characters to search",
-    "jumua1": "Jum'a 1",
-    "prayer_times": "Prayer times",
-    "remove_this_city": "Remove this city",
-    "add_this_city": "Add this city",
-    "add_this_mosque": "Add this mosque",
-    "remove_this_mosque": "Remove this mosque",
-    "services": "Services",
-    "share": "Share",
+    "jumua1": "Jumu'a 1",
+    "prayer_times": "Bönetider",
+    "remove_this_city": "Ta bort den här staden",
+    "add_this_city": "Lägg till den här staden",
+    "add_this_mosque": "Lägg till den här Moskén",
+    "remove_this_mosque": "Ta bort den här Moskén",
+    "services": "Tjänster",
+    "share": "Dela",
     "itinerary": "Itinerary",
     "call": "Call",
-    "dnd": "Do Not Disturb",
+    "dnd": "Stör ej",
     "battery_optimize": "Battery Optimization",
     "power_saver": "Power Saver",
     "permission_message1": "We detected a delayed notification, Please turn off",
     "permission_message2": "to receive the notification on time.",
     "notifications_delay_detected": "Notifications delay detected",
-    "open_setting": "Open settings",
-    "noJumua": "No jum'a",
+    "open_setting": "Öppna inställningar",
+    "noJumua": "Ingen Jumu'a",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jum'a",
+    "jumua": "Jumu'a",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
     "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
     "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
-    "currently_located_at": "Currently located at",
-    "facing_makkah": "You're facing Makkah",
-    "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "currently_located_at": "För tillfället på",
+    "facing_makkah": "Du är vänd mot Makkah",
+    "not_facing_Makkah": "Du står inte mot Makkah",
+    "qibla_Error_retry": "Försök igen",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
@@ -316,22 +316,22 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Direction": "QIBLA \nDIRECTION",
+    "qibla_Direction": "Qibla riktning",
     "@qibla_Direction": {
         "description": "_",
         "type": "text"
     },
-    "favorites_FavoriteMosques": "Favorites mosques",
+    "favorites_FavoriteMosques": "Favorit moskéer",
     "@favorites_FavoriteMosques": {
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "Something went wrong...",
+    "favorites_Error": "Något gick snett...",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Image": "Image",
+    "announcement_Image": "Bild",
     "@announcement_Image": {
         "description": "_",
         "type": "text"
@@ -346,12 +346,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "DONATE",
+    "mosque_DonateText1": "Donera",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "TO MOSQUE",
+    "mosque_DonateText2": "Till Moské",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
@@ -361,27 +361,27 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Prayer times",
+    "mosque_PrayerTimes": "Bönetider",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Website",
+    "mosque_Website": "Webbsida",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Address": "Address",
+    "mosque_Address": "Adress",
     "@mosque_Address": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Phone": "Phone",
+    "mosque_Phone": "Mobil",
     "@mosque_Phone": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "Mail",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
@@ -391,7 +391,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_Parking": "Parking",
+    "mosque_Facilities_Parking": "Perkering",
     "@mosque_Facilities_Parking": {
         "description": "_",
         "type": "text"
@@ -401,12 +401,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Ablution Room",
+    "mosque_Facilities_AblutionsRoom": "Tvagnings rum",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Women Space",
+    "mosque_Facilities_WomanSpace": "Kvinno-område",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
@@ -576,7 +576,7 @@
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Loading complete",
+    "loading_loaded": "Nedladdning klart",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minutes to athan",
+    "minutes_to_athan": "minuter till Adhan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -596,17 +596,17 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_chose_mosque_please": "Please choose a mosque from the search list",
+    "onboarding_chose_mosque_please": "Vänligen välj en moské från sök listan",
     "@onboarding_chose_mosque_please": {
         "description": "_",
         "type": "text"
     },
-    "done": "Done",
+    "done": "Klart",
     "@done": {
         "description": "_",
         "type": "text"
     },
-    "ok": "OK",
+    "ok": "Okej",
     "@ok": {
         "description": "_",
         "type": "text"
@@ -616,7 +616,7 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_title": "Open the app",
+    "notification_open_app_title": "Öppna appen",
     "@notification_open_app_title": {
         "description": "_",
         "type": "text"
@@ -626,7 +626,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Select a prayer notification",
+    "tutorial_title_notification": "Välj bön-notifikation",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
@@ -641,27 +641,27 @@
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Rate MAWAQIT",
+    "rate_popin_title": "Betygsätt MAWAQIT",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "If you like this app, please take a little bit of your time to review it !\nIt really helps us.",
+    "rate_popin_message": "Om du gillar denna app, vänligen ta lite av din tid för att betygsätta den! Det hjälper oss verkligen.",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "RATE",
+    "rate_popin_rate": "Betygsätt",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_no": "NO THANKS",
+    "rate_popin_no": "Nej tack",
     "@rate_popin_no": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_later": "MAYBE LATER",
+    "rate_popin_later": "Kanske senare",
     "@rate_popin_later": {
         "description": "_",
         "type": "text"
@@ -686,7 +686,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "Ladda ned kalender",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
