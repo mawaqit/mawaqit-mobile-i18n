@@ -629,28 +629,28 @@ class AppLocalizationsSv extends AppLocalizations {
   String get location_permission_denied_forever => 'Location Permission Denied Forever, please allow it in the settings page.';
 
   @override
-  String get at_least_one_mosque_error => 'You should have at least one mosque.';
+  String get at_least_one_mosque_error => 'Du bör minst ha en Moské.';
 
   @override
-  String get and => 'and';
+  String get and => 'och';
 
   @override
-  String get continue_to_app => 'Continue';
+  String get continue_to_app => 'Fortsätt';
 
   @override
-  String get add => 'Add';
+  String get add => 'Lägg till';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'Moské';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'Hitta närmaste Moskén';
 
   @override
   String get on_boarding_nearest_mosque_text => 'Here are the mosques found around you according to your geolocation';
 
   @override
-  String get search_no_result_for_text => 'We did not find any result for';
+  String get search_no_result_for_text => 'Vi hittade inga resultat för';
 
   @override
   String get surah_audio_downloading => 'Surah Audio Downloading...';
@@ -662,22 +662,22 @@ class AppLocalizationsSv extends AppLocalizations {
   String get read_quran => 'Read Quran';
 
   @override
-  String get ayahs => 'Ayahs';
+  String get ayahs => 'Ayaat';
 
   @override
   String get chapter => 'Surah';
 
   @override
-  String get meaning => 'Meaning';
+  String get meaning => 'Mening';
 
   @override
-  String get al_quran => 'Al Quran';
+  String get al_quran => 'Koranen';
 
   @override
-  String get surah_information => 'Surah Information';
+  String get surah_information => 'Surah information';
 
   @override
-  String get surah_number => 'Surah Number';
+  String get surah_number => 'Surah nummer';
 
   @override
   String get quran_browsing => 'Browsing';
@@ -686,10 +686,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get quran_search_placeholder => 'Search by name of surah, number...';
 
   @override
-  String get quran_verse_search => 'Verse search';
+  String get quran_verse_search => 'Vers sökning';
 
   @override
-  String get quran_translation => 'Translation';
+  String get quran_translation => 'Tolkning';
 
   @override
   String get quran_mushaf => 'Mushaf';
