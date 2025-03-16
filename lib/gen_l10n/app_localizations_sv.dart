@@ -8,124 +8,124 @@ class AppLocalizationsSv extends AppLocalizations {
   String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'Favorites';
+  String get bottomNavbar_favorites => 'Favoriter';
 
   @override
   String get bottomNavbar_qibla => 'Qibla';
 
   @override
-  String get bottomNavbar_search => 'Search';
+  String get bottomNavbar_search => 'Sök';
 
   @override
-  String get bottomNavbar_settings => 'Settings';
+  String get bottomNavbar_settings => 'Inställningar';
 
   @override
   String get settings_ThemeAuto => 'Auto';
 
   @override
-  String get settings_ThemeDark => 'Dark';
+  String get settings_ThemeDark => 'Mörk';
 
   @override
-  String get settings_ThemeLight => 'Light';
+  String get settings_ThemeLight => 'Ljus';
 
   @override
-  String get settings_TimeFormat => 'Time format';
+  String get settings_TimeFormat => 'Tid-format';
 
   @override
-  String get settings_LanguageSelection => 'Language selection';
+  String get settings_LanguageSelection => 'Välj Språk';
 
   @override
-  String get settings_Language => 'Language';
+  String get settings_Language => 'Språk';
 
   @override
-  String get settings_Theme => 'Theme';
+  String get settings_Theme => 'Tema';
 
   @override
-  String get settings_TimeFormat12H => '12H';
+  String get settings_TimeFormat12H => '12t';
 
   @override
-  String get settings_TimeFormat24H => '24H';
+  String get settings_TimeFormat24H => '24t';
 
   @override
-  String get settings_PrayerNotifications => 'Prayer Notifications';
+  String get settings_PrayerNotifications => 'Bön notifikationer';
 
   @override
-  String get settings_PrayerPreNotifications => 'Pre-Prayer notification';
+  String get settings_PrayerPreNotifications => 'Innan-bön notifikation';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Pre-Shuruq notification';
+  String get settings_ShuruqPreNotifications => 'Innan-Shuruq notifikation';
 
   @override
-  String get settings_Calculations => 'Calculations';
+  String get settings_Calculations => 'Kalkylationer';
 
   @override
-  String get settings_RateOurApp => 'Rate our app';
+  String get settings_RateOurApp => 'Betygsätt vår app';
 
   @override
-  String get settings_WhatsNew => 'What\'s new';
+  String get settings_WhatsNew => 'Vad är nytt';
 
   @override
-  String get settings_SupportMawaqit => 'Support Mawaqit';
+  String get settings_SupportMawaqit => 'Stöd Mawaqit';
 
   @override
-  String get settings_News => 'News';
+  String get settings_News => 'Nyheter';
 
   @override
-  String get settings_MakeADonation => 'Make a donation';
+  String get settings_MakeADonation => 'Skicka en välgörenhet';
 
   @override
   String get bismillah => 'Bismillah';
 
   @override
-  String get settings_DonateToMawaqit => 'Donate to MAWAQIT';
+  String get settings_DonateToMawaqit => 'Donera till MAWAQIT';
 
   @override
-  String get settings_CheckForUpdates => 'Check for updates';
+  String get settings_CheckForUpdates => 'Sök efter uppdateringar';
 
   @override
   String get settings_Credits => 'Credits';
 
   @override
-  String get settings_AboutUs => 'About us';
+  String get settings_AboutUs => 'Om oss';
 
   @override
-  String get settings_language_ar => 'Arabic';
+  String get settings_language_ar => 'Arabiska';
 
   @override
-  String get settings_language_bn => 'Bengali';
+  String get settings_language_bn => 'Bengaliska';
 
   @override
-  String get settings_language_fr => 'French';
+  String get settings_language_fr => 'Franska';
 
   @override
-  String get settings_language_nl => 'Dutch';
+  String get settings_language_nl => 'Nederländska';
 
   @override
-  String get settings_language_de => 'German';
+  String get settings_language_de => 'Tyska';
 
   @override
-  String get settings_language_es => 'Spanish';
+  String get settings_language_es => 'Spanska';
 
   @override
-  String get settings_language_en => 'English';
+  String get settings_language_en => 'Engelska';
 
   @override
-  String get settings_language_it => 'Italian';
+  String get settings_language_it => 'Italienska';
 
   @override
-  String get settings_language_tr => 'Turkish';
+  String get settings_language_tr => 'Turkiska';
 
   @override
-  String get settings_language_ru => 'Russian';
+  String get settings_language_ru => 'Ryska';
 
   @override
-  String get settings_language_id => 'Indonesian';
+  String get settings_language_id => 'Indonesiska';
 
   @override
   String get settings_language_ur => 'Urdu';
 
   @override
-  String get settings_language_pl => 'Polish';
+  String get settings_language_pl => 'Polska';
 
   @override
   String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
@@ -137,10 +137,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get fajr => 'Fajr';
 
   @override
-  String get shuruq => 'Sunrise';
+  String get shuruq => 'Soluppgång';
 
   @override
-  String get duhr => 'Duhr';
+  String get duhr => 'Dhuhr';
 
   @override
   String get asr => 'Asr';
@@ -296,37 +296,37 @@ class AppLocalizationsSv extends AppLocalizations {
   String get no_mosque_with => 'Couldn\'t find any mosques with';
 
   @override
-  String get retry => 'Retry';
+  String get retry => 'Försök igen';
 
   @override
-  String get search_here => 'Search Here';
+  String get search_here => 'Sök här';
 
   @override
   String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
 
   @override
-  String get jumua1 => 'Jum\'a 1';
+  String get jumua1 => 'Jumu\'a 1';
 
   @override
-  String get prayer_times => 'Prayer times';
+  String get prayer_times => 'Bönetider';
 
   @override
-  String get remove_this_city => 'Remove this city';
+  String get remove_this_city => 'Ta bort den här staden';
 
   @override
-  String get add_this_city => 'Add this city';
+  String get add_this_city => 'Lägg till den här staden';
 
   @override
-  String get add_this_mosque => 'Add this mosque';
+  String get add_this_mosque => 'Lägg till den här Moskén';
 
   @override
-  String get remove_this_mosque => 'Remove this mosque';
+  String get remove_this_mosque => 'Ta bort den här Moskén';
 
   @override
-  String get services => 'Services';
+  String get services => 'Tjänster';
 
   @override
-  String get share => 'Share';
+  String get share => 'Dela';
 
   @override
   String get itinerary => 'Itinerary';
@@ -335,7 +335,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get call => 'Call';
 
   @override
-  String get dnd => 'Do Not Disturb';
+  String get dnd => 'Stör ej';
 
   @override
   String get battery_optimize => 'Battery Optimization';
@@ -353,13 +353,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get notifications_delay_detected => 'Notifications delay detected';
 
   @override
-  String get open_setting => 'Open settings';
+  String get open_setting => 'Öppna inställningar';
 
   @override
-  String get noJumua => 'No jum\'a';
+  String get noJumua => 'Ingen Jumu\'a';
 
   @override
-  String get jumua => 'Jum\'a';
+  String get jumua => 'Jumu\'a';
 
   @override
   String get qibla_sensor => 'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.';
@@ -368,16 +368,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
 
   @override
-  String get currently_located_at => 'Currently located at';
+  String get currently_located_at => 'För tillfället på';
 
   @override
-  String get facing_makkah => 'You\'re facing Makkah';
+  String get facing_makkah => 'Du är vänd mot Makkah';
 
   @override
-  String get not_facing_Makkah => 'You\'re not facing Makkah';
+  String get not_facing_Makkah => 'Du står inte mot Makkah';
 
   @override
-  String get qibla_Error_retry => 'Retry';
+  String get qibla_Error_retry => 'Försök igen';
 
   @override
   String get qibla_Error_LocationDenied => 'Location service permission denied';
@@ -389,16 +389,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get qibla_Error_PleaseEnable => 'Please enable Location service';
 
   @override
-  String get qibla_Direction => 'QIBLA \nDIRECTION';
+  String get qibla_Direction => 'Qibla riktning';
 
   @override
-  String get favorites_FavoriteMosques => 'Favorites mosques';
+  String get favorites_FavoriteMosques => 'Favorit moskéer';
 
   @override
-  String get favorites_Error => 'Something went wrong...';
+  String get favorites_Error => 'Något gick snett...';
 
   @override
-  String get announcement_Image => 'Image';
+  String get announcement_Image => 'Bild';
 
   @override
   String get announcement_Type_Video => 'Video';
@@ -407,43 +407,43 @@ class AppLocalizationsSv extends AppLocalizations {
   String get announcement_Type_FlashInfo => 'Flash Info';
 
   @override
-  String get mosque_DonateText1 => 'DONATE';
+  String get mosque_DonateText1 => 'Donera';
 
   @override
-  String get mosque_DonateText2 => 'TO MOSQUE';
+  String get mosque_DonateText2 => 'Till Moské';
 
   @override
   String get mosque_Error_CouldNotLaunch => 'Could not launch';
 
   @override
-  String get mosque_PrayerTimes => 'Prayer times';
+  String get mosque_PrayerTimes => 'Bönetider';
 
   @override
-  String get mosque_Website => 'Website';
+  String get mosque_Website => 'Webbsida';
 
   @override
-  String get mosque_Address => 'Address';
+  String get mosque_Address => 'Adress';
 
   @override
-  String get mosque_Phone => 'Phone';
+  String get mosque_Phone => 'Mobil';
 
   @override
-  String get mosque_Email => 'Email';
+  String get mosque_Email => 'Mail';
 
   @override
   String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
 
   @override
-  String get mosque_Facilities_Parking => 'Parking';
+  String get mosque_Facilities_Parking => 'Perkering';
 
   @override
   String get mosque_Facilities_DisabledAccess => 'Disabled Access';
 
   @override
-  String get mosque_Facilities_AblutionsRoom => 'Ablution Room';
+  String get mosque_Facilities_AblutionsRoom => 'Tvagnings rum';
 
   @override
-  String get mosque_Facilities_WomanSpace => 'Women Space';
+  String get mosque_Facilities_WomanSpace => 'Kvinno-område';
 
   @override
   String get mosque_Facilities_AdultsCourse => 'Adults Courses';
@@ -545,37 +545,37 @@ class AppLocalizationsSv extends AppLocalizations {
   String get loading_please_wait => 'Loading... Please wait';
 
   @override
-  String get loading_loaded => 'Loading complete';
+  String get loading_loaded => 'Nedladdning klart';
 
   @override
   String get favorites_edit => 'Edit Favorite Mosques';
 
   @override
-  String get minutes_to_athan => 'minutes to athan';
+  String get minutes_to_athan => 'minuter till Adhan';
 
   @override
   String get show_tutorial => 'Review the tutorial';
 
   @override
-  String get onboarding_chose_mosque_please => 'Please choose a mosque from the search list';
+  String get onboarding_chose_mosque_please => 'Vänligen välj en moské från sök listan';
 
   @override
-  String get done => 'Done';
+  String get done => 'Klart';
 
   @override
-  String get ok => 'OK';
+  String get ok => 'Okej';
 
   @override
   String get km => 'km';
 
   @override
-  String get notification_open_app_title => 'Open the app';
+  String get notification_open_app_title => 'Öppna appen';
 
   @override
   String get notification_open_app_body => 'Please open the app to maintain notifications';
 
   @override
-  String get tutorial_title_notification => 'Select a prayer notification';
+  String get tutorial_title_notification => 'Välj bön-notifikation';
 
   @override
   String get tutorial_text_notification => 'Here you can select a type of notification, Athan, bip or silent';
@@ -584,19 +584,19 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_no_result => 'Become a MAWAQIT ambassador and offer our solution to your mosque, it\'s free\nhttps://mawaqit.net';
 
   @override
-  String get rate_popin_title => 'Rate MAWAQIT';
+  String get rate_popin_title => 'Betygsätt MAWAQIT';
 
   @override
-  String get rate_popin_message => 'If you like this app, please take a little bit of your time to review it !\nIt really helps us.';
+  String get rate_popin_message => 'Om du gillar denna app, vänligen ta lite av din tid för att betygsätta den! Det hjälper oss verkligen.';
 
   @override
-  String get rate_popin_rate => 'RATE';
+  String get rate_popin_rate => 'Betygsätt';
 
   @override
-  String get rate_popin_no => 'NO THANKS';
+  String get rate_popin_no => 'Nej tack';
 
   @override
-  String get rate_popin_later => 'MAYBE LATER';
+  String get rate_popin_later => 'Kanske senare';
 
   @override
   String get message_see_all => 'You can view all messages from this mosque by clicking on the speaker at the top of the screen.';
@@ -611,7 +611,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
 
   @override
-  String get calendar_tooltip_download => 'Download calendar';
+  String get calendar_tooltip_download => 'Ladda ned kalender';
 
   @override
   String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
