@@ -2962,6 +2962,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Prayer times and all the information here are set by the mosque, not MAWAQIT'**
   String get prayer_times_set_by_mosque;
+
+  /// No description provided for @hasan_nahi.
+  ///
+  /// In en, this message translates to:
+  /// **'Hasan Nahi'**
+  String get hasan_nahi;
+
+  /// No description provided for @albanian.
+  ///
+  /// In en, this message translates to:
+  /// **'Albanian'**
+  String get albanian;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

@@ -1417,4 +1417,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque => 'Gebedstijden worden ingesteld door de moskee, niet MAWAQIT';
+
+  @override
+  String get hasan_nahi => 'Hasan Nahi';
+
+  @override
+  String get albanian => 'Albanees';
 }

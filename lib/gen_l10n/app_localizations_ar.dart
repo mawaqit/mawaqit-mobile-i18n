@@ -1417,4 +1417,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque => 'يتم تعيين أوقات الصلاة من قبل المسجد، وليس من قبل مواقيت';
+
+  @override
+  String get hasan_nahi => 'حسن ناهي';
+
+  @override
+  String get albanian => 'الألبانية';
 }

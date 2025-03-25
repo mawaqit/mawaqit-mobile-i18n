@@ -1417,4 +1417,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque => 'Rukousajat ovat moskeijan asettamia, ei MAWAQIT';
+
+  @override
+  String get hasan_nahi => 'Hasan Nahi';
+
+  @override
+  String get albanian => 'Albanian';
 }
