@@ -1037,5 +1037,7 @@
     "prayer_times_set_by_mosque": "Gli orari di preghiera sono fissati dalla moschea, non MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+      "hasan_nahi": "Hasan Nahi",
+      "albanian": "Albanese"
 }

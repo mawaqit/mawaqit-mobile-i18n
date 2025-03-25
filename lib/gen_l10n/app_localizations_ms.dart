@@ -4,9 +4,9 @@ import 'app_localizations.dart';
 
 // ignore_for_file: type=lint
 
-/// The translations for Finnish (`fi`).
-class AppLocalizationsFi extends AppLocalizations {
-  AppLocalizationsFi([String locale = 'fi']) : super(locale);
+/// The translations for Malay (`ms`).
+class AppLocalizationsMs extends AppLocalizations {
+  AppLocalizationsMs([String locale = 'ms']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
@@ -711,7 +711,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get surah => 'Surah';
 
   @override
-  String get continue_reading => 'Jatka lukemista';
+  String get continue_reading => 'Continue reading';
 
   @override
   String get bookmarks => 'Bookmarks';
@@ -927,7 +927,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'We are preparing the Qur’an just for you, please wait a few seconds!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Tutustu Koraanin kauneuteen! Napauta \'Lataa\' päästäksesi käsiksi sen ajattomaan viisauteen ja inspiroidaksesi sen jumalallisia sanoja.';
+  String get download_quran_popup_downloading_3 => 'Click on \'Download\' to start your journey of reading and reflection.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'Are you sure you want to cancel the download? Without this data you won\'t be able to read the Quran, the pages will be unavailable.';
@@ -1077,7 +1077,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get recurring_pay_text => 'Make this donation monthly.';
 
   @override
-  String get adjust_angles => 'Säädä Hijri-päivämäärä';
+  String get adjust_angles => 'Adjust Angles';
 
   @override
   String get silent => 'Silent';
@@ -1257,55 +1257,55 @@ class AppLocalizationsFi extends AppLocalizations {
   String get prayer_times_in => 'Prayer times in';
 
   @override
-  String get update_new_version => 'Koraanin uusi versio on ladattavissa. Napauta \'Update\' päästäksesi uusimpiin parannuksiin ja jatkaaksesi matkaa jumalallisella viisaudella';
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
-  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_quran_zip => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
   String get set_notification_for_all_parayer => 'Set this for every prayer';
 
   @override
-  String get powered_by_mawaqit => 'Palvelun tarjoaa MAWAQIT';
+  String get powered_by_mawaqit => 'Powered by MAWAQIT';
 
   @override
-  String get adjust_hijri_date => 'Säädä Hijri Päivämäärää';
+  String get adjust_hijri_date => 'Adjust Hijri Date';
 
   @override
-  String get prayer_times_by_location => 'Rukousajat sijainnin mukaan';
+  String get prayer_times_by_location => 'Prayer times by location';
 
   @override
-  String get already_in_list => 'on jo listassasi!';
+  String get already_in_list => 'is already in your list!';
 
   @override
-  String get got_it => 'Sain sen!';
+  String get got_it => 'Got it!';
 
   @override
   String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Mushaf Hafs';
+  String get mushaf_hafs => 'Hafs';
 
   @override
-  String get select_rewaya => 'Valitse Rewaya';
+  String get select_rewaya => 'Select Rewaya';
 
   @override
-  String get download_in_progress => 'Lataus käynnissä, odota...';
+  String get download_in_progress => 'Download in progress, please wait...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Korosta seuraava rukous Iqaman jälkeen';
+  String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
 
   @override
-  String get settings_language_pt => 'Portugali';
+  String get settings_language_pt => 'Portuguese';
 
   @override
   String get al_zikr => 'Al-Zikr';
@@ -1314,107 +1314,107 @@ class AppLocalizationsFi extends AppLocalizations {
   String get favorite_azkar => 'Favorite Azkar';
 
   @override
-  String get all_azkar => 'Kaikki Azkar';
+  String get all_azkar => 'All Azkar';
 
   @override
-  String get device_audio_not_found => 'Laitteen ääntä ei löydy';
+  String get device_audio_not_found => 'Device audio not found';
 
   @override
-  String get device_media => 'Laitteen Media';
+  String get device_media => 'Device Media';
 
   @override
-  String get add_new_audio => 'Lisää uusi äänitiedosto';
+  String get add_new_audio => 'Add a new audio file';
 
   @override
-  String get selecet_audio_before_delete => 'Sinun täytyy lisätä toinen äänitiedosto ilmoituksia varten ennen kuin poistat valitun äänitiedoston';
+  String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
 
   @override
-  String get addding_file_prompt => 'Voit lisätä useita äänitiedostoja, mutta varmista, että et lisää samaa äänitiedostoa.';
+  String get addding_file_prompt => 'You can add multiple audio files, but please make sure not to add the same audio file.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'Ole hyvä ja valitse äänitiedosto, jonka kesto on enintään 30 sekuntia. Pitkäaikainen äänitiedosto voi keskeyttää rukousilmoituksen.';
+  String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
 
   @override
-  String get select_audio_from_device => 'Valitse ääni (mp3) laitteesta.';
+  String get select_audio_from_device => 'Select audio (mp3) from device.';
 
   @override
-  String get add_ticket => 'Lisää lippu';
+  String get add_ticket => 'Add ticket';
 
   @override
-  String get projects => 'Projektit';
+  String get projects => 'Projects';
 
   @override
-  String get fill_form => 'Täytä tämä lisätäksesi projektisi tähän';
+  String get fill_form => 'To add your project here fill up this';
 
   @override
-  String get form => 'lomake';
+  String get form => 'form';
 
   @override
-  String get updates_draw => 'Hanki päivityksiä ja osallistu tasapeliin voittaaksesi herkkuja';
+  String get updates_draw => 'Get updates and participate in the draw to win goodies from';
 
   @override
-  String get email_info => 'Tätä sähköpostia käytetään ottamaan sinuun yhteyttä, jos voitat tasapelin';
+  String get email_info => 'This email will be used to contact you if you win the draw';
 
   @override
-  String get enter_email => 'Syötä sähköpostiosoitteesi';
+  String get enter_email => 'Enter your email';
 
   @override
-  String get email_privacy => 'MAWAQIT ei jaa tätä sähköpostia kenellekään. Sähköposti poistetaan automaattisesti tietokannastamme jokaisen tasapelin jälkeen';
+  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
 
   @override
-  String get submit => 'Lähetä';
+  String get submit => 'Submit';
 
   @override
-  String get disclaimer => 'MAWAQIT on vapautunut vastuusta listattujen projektien ehdottamista palveluista tai tuotteista. Tee oma due diligence ja tutkimus';
+  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
 
   @override
-  String get participating_with => 'Olet mukana';
+  String get participating_with => 'You\'re participating with';
 
   @override
-  String get no_of_tickets => 'Lippujen määrä:';
+  String get no_of_tickets => 'No. of tickets:';
 
   @override
-  String get unparticipate => 'Klikkaa poistaaksesi osallistumisesta';
+  String get unparticipate => 'Click to unparticipate';
 
   @override
-  String get next_ticket => 'Seuraava lippu on saatavilla';
+  String get next_ticket => 'The next ticket available in';
 
   @override
-  String get click_here => 'Klikkaa tästä';
+  String get click_here => 'Click here';
 
   @override
-  String get mawaqit_store => 'MAWAQIT Kauppa';
+  String get mawaqit_store => 'MAWAQIT Store';
 
   @override
-  String get no_projects => 'Projekteja ei ole';
+  String get no_projects => 'There are no projects';
 
   @override
-  String get draw_info => 'Yksi piirtää joka kuukausi. Joka 24 h voit lisätä uuden lipun lisätä mahdollisuuttasi voittaa!';
+  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
 
   @override
-  String get enter_valid_email => 'Syötä voimassa oleva sähköpostiosoite';
+  String get enter_valid_email => 'Enter a valid email';
 
   @override
-  String get please_enter_email => 'Ole hyvä ja syötä sähköposti';
+  String get please_enter_email => 'Please enter an email';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Valitse äänitiedosto, ja me muunnamme sen iOS-yhteensopivaan muotoon ja leikkaamme sitä 30 sekunnin iOS-alustan rajoituksista.';
+  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
 
   @override
-  String get confirm_deletion => 'Vahvista Poisto';
+  String get confirm_deletion => 'Confirm Deletion';
 
   @override
-  String get sure_remove_rewaya => 'Oletko varma, että haluat poistaa tämän Reway?';
+  String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
 
   @override
-  String get file_not_found => 'Tiedostoa ei löydy';
+  String get file_not_found => 'File not found';
 
   @override
-  String get notified_boost => 'Saat ilmoituksen MAWAQIT Boost -projektien uusimmista päivityksistä.';
+  String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
 
   @override
-  String get contact_us_boost => 'Jos haluat listata projektisi tähän, ota yhteyttä';
+  String get contact_us_boost => 'To list your project here, contact us at';
 
   @override
-  String get prayer_times_set_by_mosque => 'Rukousajat ovat moskeijan asettamia, ei MAWAQIT';
+  String get prayer_times_set_by_mosque => 'Prayer times and all the information here are set by the mosque, not MAWAQIT';
 }

@@ -1037,5 +1037,8 @@
     "prayer_times_set_by_mosque": "Las horas de oración son fijadas por la mezquita, no por MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+      "hasan_nahi": "Hasan Nahi",
+      "albanian": "Albanés"
+
 }

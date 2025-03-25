@@ -1037,5 +1037,7 @@
     "prayer_times_set_by_mosque": "Время молитв установлено мечетью, а не MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+      "hasan_nahi": "Хасан Нахи",
+      "albanian": "Албанский"
 }

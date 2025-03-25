@@ -1037,5 +1037,7 @@
     "prayer_times_set_by_mosque": "Czas modlitwy jest ustawiony przez meczet, a nie MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+      "hasan_nahi": "Hasan Nahi",
+      "albanian": "Albański"
 }
