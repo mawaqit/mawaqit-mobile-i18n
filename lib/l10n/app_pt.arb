@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1038,6 +1038,6 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
-      "hasan_nahi": "Hasan Nahi",
-      "albanian": "Albanês"
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albanês"
 }
