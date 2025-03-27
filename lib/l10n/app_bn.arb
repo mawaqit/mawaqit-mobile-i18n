@@ -1038,7 +1038,6 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
-
-      "hasan_nahi": "হাসান নাহি",
-      "albanian": "আলবেনীয়"
+    "hasan_nahi": "হাসান নাহি",
+    "albanian": "আলবেনীয়"
 }
