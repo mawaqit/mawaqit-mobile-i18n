@@ -1,1 +1,46 @@
-{}
+{
+  "az": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "bg": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "bm": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "ff": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "fi": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "hi": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "ku": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "ms": [
+    "hasan_nahi",
+    "albanian"
+  ],
+
+  "sv": [
+    "hasan_nahi",
+    "albanian"
+  ]
+}

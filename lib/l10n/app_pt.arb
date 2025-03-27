@@ -1037,5 +1037,7 @@
     "prayer_times_set_by_mosque": "Os tempos de oração são definidos pela mesquita, não MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+      "hasan_nahi": "Hasan Nahi",
+      "albanian": "Albanês"
 }

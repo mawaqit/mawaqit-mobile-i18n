@@ -1,4 +1,8 @@
+// ignore: unused_import
+import 'package:intl/intl.dart' as intl;
 import 'app_localizations.dart';
+
+// ignore_for_file: type=lint
 
 /// The translations for Spanish Castilian (`es`).
 class AppLocalizationsEs extends AppLocalizations {
@@ -1413,4 +1417,10 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque => 'Las horas de oración son fijadas por la mezquita, no por MAWAQIT';
+
+  @override
+  String get hasan_nahi => 'Hasan Nahi';
+
+  @override
+  String get albanian => 'Albanés';
 }

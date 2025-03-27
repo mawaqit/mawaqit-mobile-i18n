@@ -1,4 +1,8 @@
+// ignore: unused_import
+import 'package:intl/intl.dart' as intl;
 import 'app_localizations.dart';
+
+// ignore_for_file: type=lint
 
 /// The translations for Portuguese (`pt`).
 class AppLocalizationsPt extends AppLocalizations {
@@ -1413,4 +1417,10 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque => 'Os tempos de oração são definidos pela mesquita, não MAWAQIT';
+
+  @override
+  String get hasan_nahi => 'Hasan Nahi';
+
+  @override
+  String get albanian => 'Albanês';
 }

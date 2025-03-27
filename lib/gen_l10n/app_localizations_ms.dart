@@ -4,45 +4,45 @@ import 'app_localizations.dart';
 
 // ignore_for_file: type=lint
 
-/// The translations for Bulgarian (`bg`).
-class AppLocalizationsBg extends AppLocalizations {
-  AppLocalizationsBg([String locale = 'bg']) : super(locale);
+/// The translations for Malay (`ms`).
+class AppLocalizationsMs extends AppLocalizations {
+  AppLocalizationsMs([String locale = 'ms']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'Любими';
+  String get bottomNavbar_favorites => 'Favorites';
 
   @override
-  String get bottomNavbar_qibla => 'Посока';
+  String get bottomNavbar_qibla => 'Qibla';
 
   @override
-  String get bottomNavbar_search => 'Търсене';
+  String get bottomNavbar_search => 'Search';
 
   @override
-  String get bottomNavbar_settings => 'Настройки';
+  String get bottomNavbar_settings => 'Settings';
 
   @override
-  String get settings_ThemeAuto => 'Автоматично';
+  String get settings_ThemeAuto => 'Auto';
 
   @override
-  String get settings_ThemeDark => 'Нощна';
+  String get settings_ThemeDark => 'Dark';
 
   @override
-  String get settings_ThemeLight => 'Дневна';
+  String get settings_ThemeLight => 'Light';
 
   @override
-  String get settings_TimeFormat => 'Формат на времето';
+  String get settings_TimeFormat => 'Time format';
 
   @override
-  String get settings_LanguageSelection => 'Избор на език';
+  String get settings_LanguageSelection => 'Language selection';
 
   @override
-  String get settings_Language => 'Език';
+  String get settings_Language => 'Language';
 
   @override
-  String get settings_Theme => 'Тема';
+  String get settings_Theme => 'Theme';
 
   @override
   String get settings_TimeFormat12H => '12H';
@@ -51,424 +51,424 @@ class AppLocalizationsBg extends AppLocalizations {
   String get settings_TimeFormat24H => '24H';
 
   @override
-  String get settings_PrayerNotifications => 'Известия за молитва';
+  String get settings_PrayerNotifications => 'Prayer Notifications';
 
   @override
-  String get settings_PrayerPreNotifications => 'Уведомления преди молитва';
+  String get settings_PrayerPreNotifications => 'Pre-Prayer notification';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Уведомления преди Изгрев';
+  String get settings_ShuruqPreNotifications => 'Pre-Shuruq notification';
 
   @override
-  String get settings_Calculations => 'Изчисления';
+  String get settings_Calculations => 'Calculations';
 
   @override
-  String get settings_RateOurApp => 'Оценете нашето приложение';
+  String get settings_RateOurApp => 'Rate our app';
 
   @override
-  String get settings_WhatsNew => 'Какво ново';
+  String get settings_WhatsNew => 'What\'s new';
 
   @override
-  String get settings_SupportMawaqit => 'Подкрепи Mawaqit';
+  String get settings_SupportMawaqit => 'Support Mawaqit';
 
   @override
-  String get settings_News => 'Новини';
+  String get settings_News => 'News';
 
   @override
-  String get settings_MakeADonation => 'Направете дарение';
+  String get settings_MakeADonation => 'Make a donation';
 
   @override
-  String get bismillah => 'Бисмиллях';
+  String get bismillah => 'Bismillah';
 
   @override
-  String get settings_DonateToMawaqit => 'Направи дарение за MAWAQIT';
+  String get settings_DonateToMawaqit => 'Donate to MAWAQIT';
 
   @override
-  String get settings_CheckForUpdates => 'Проверка за актуализации';
+  String get settings_CheckForUpdates => 'Check for updates';
 
   @override
-  String get settings_Credits => 'Информация за приложението';
+  String get settings_Credits => 'Credits';
 
   @override
-  String get settings_AboutUs => 'Информация за нас';
+  String get settings_AboutUs => 'About us';
 
   @override
-  String get settings_language_ar => 'Арабски';
+  String get settings_language_ar => 'Arabic';
 
   @override
-  String get settings_language_bn => 'Бенгалски';
+  String get settings_language_bn => 'Bengali';
 
   @override
-  String get settings_language_fr => 'Френски';
+  String get settings_language_fr => 'French';
 
   @override
-  String get settings_language_nl => 'Холандски';
+  String get settings_language_nl => 'Dutch';
 
   @override
-  String get settings_language_de => 'Немски';
+  String get settings_language_de => 'German';
 
   @override
-  String get settings_language_es => 'Испански';
+  String get settings_language_es => 'Spanish';
 
   @override
-  String get settings_language_en => 'Английски';
+  String get settings_language_en => 'English';
 
   @override
-  String get settings_language_it => 'Италиански';
+  String get settings_language_it => 'Italian';
 
   @override
-  String get settings_language_tr => 'Турски';
+  String get settings_language_tr => 'Turkish';
 
   @override
-  String get settings_language_ru => 'Руски';
+  String get settings_language_ru => 'Russian';
 
   @override
-  String get settings_language_id => 'Индонезийски';
+  String get settings_language_id => 'Indonesian';
 
   @override
-  String get settings_language_ur => 'Урду';
+  String get settings_language_ur => 'Urdu';
 
   @override
-  String get settings_language_pl => 'Полски';
+  String get settings_language_pl => 'Polish';
 
   @override
-  String get settings_CreditsText => 'Авторско право © 2021 MAWAQIT за Фондация MAWAQIT, Всички права запазени.\n\nИнтелектуалната собственост и авторските права върху това приложение или неговите компоненти, добавки или съдържание са собственост на MAWAQIT за сдружение MAWAQIT.\n\nТази версия е лицензирана само за разпространение с благотворителна цел и е вакъфска. Всякаква търговска употреба или търговско разпространение са строго забранени.\n\nТози лиценз не означава и не включва - по никакъв начин - продажбата на каквото и да е право, свързано с този продукт, която и да е от неговите части, компоненти, добавки или съдържание. По-скоро този лиценз позволява само благотворително разпространение на приложението чрез настоящата платформа на магазина за приложения.\n\nПреразпространението на приложението чрез използване на изходния код или двоичните файлове, или чрез използване на обратен инженеринг със или без внасяне на каквито и да било изменения, ще изложи нарушителя или този, който е отговорен за това нарушение на авторските права, на съдебни действия.\n\nНикоя страна няма право да разпространява приложението извън официалните магазини на Apple или Google Play без официално писмено разрешение от носителя на авторските права и собственика на приложението, MAWAQIT за сдружението The MAWAQIT. Разпространението на това приложение извън тези официални магазини би било нарушение на закона за защита на интелектуалната собственост и излага отговорния за това нарушение на авторските права на съдебни действия.\n\nНе е позволено да се използва името или марката на приложението или търговската марка или името на притежателя на авторските права, сдружение MAWAQIT for The MAWAQIT, за популяризиране на продукти, които са сходни или производни на това приложение, или на други продукти, без да е получено предварително писмено разрешение от притежателя на авторските права.\nТова приложение е лицензирано за разпространение от притежателите на авторските права и акционерите \"във вида, в който е\".\n\nКомпанията разработчик и собственик на приложението не дава никакви явни или косвени гаранции, включително - но не само - реклама и промотиране за пригодността на приложението за определена цел. Във всеки случай MAWAQIT за Сдружението MAWAQIT или акционерите не носят отговорност за каквито и да било щети, било то преки, косвени или случайни (конкретни, предпазни, последващи), включително - но не само - загуба на употреба, данни или печалби; или прекъсване на дейността, независимо от причините и отговорностите, независимо дали тези отговорности са договорни, абсолютни или деликтни (включително небрежност или други), които са възникнали - по един или друг начин - от използването на това приложение.\n\nАвторските права на трети страни върху приложението са запазени за техния притежател.\n\nИзображения и фонове\n\nАвторското право принадлежи на Shutterstock\nИкони - лиценз CC BY 4.0\n\nАвторското право принадлежи на Flaticons\nЛицензът MIT се прилага за всички файлове, които не са свързани с шрифтове и икони.\nШрифтове - SIL OFL 1.1 Лиценз\n\nАвторските права преминават към шрифтовете на Google (Roboto fonts)\nАвторски права върху пакетите на Apple, Cupertino\nКод, пакети и рамки\n\nFlutter by Google\nПакети : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
+  String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'Това приложение е разработено от асоциацията Mawaqit.\n\nАсоциацията Mawaqit е организация с нестопанска цел, създадена през 2021 г. във Франция.\nНашата цел е разработването на иновативни решения, свързани с ИТ и цифрови технологии, като софтуер и уебсайтове; преподаване и обучение в областта на цифровите решения и ИТ инструментите.\n\nЕкосистемата Mawaqit е нашият водещ продукт и историята ѝ започна през 2016 г. с приложение на големи екрани, предназначени за джамии, след това мобилно приложение, добавка за домашен помощник и умение за alexa и т.н.\n\nMawaqit ви предлага нов начин за проследяване и управление на времето за молитва, всъщност ние предлагаме цялостна система, която предлага на управителите на джамии онлайн инструмент, достъпен 24 часа в денонощието, позволяващ им да управляват графици, новини за джамията и много други функции. Вярващите от своя страна се възползват от мобилно приложение, което им позволява да се консултират с точните, а не с приблизителните графици на любимата си джамия, както и с новините и други функционалности, като например търсене на джамия по геолокация, адхан, кибла... и т.н. Надеждността и качеството са нашите основни ценности. Амбицията ни е ясна: да създадем най-добрата услуга за нашите джамии благодарение на технологиите и дизайна.\n\nАко сте харесали това приложение, моля, оставете отзива си в магазина за приложения.';
+  String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
-  String get fajr => 'Сабах';
+  String get fajr => 'Fajr';
 
   @override
-  String get shuruq => 'Изгрев';
+  String get shuruq => 'Sunrise';
 
   @override
-  String get duhr => 'Пладнина';
+  String get duhr => 'Duhr';
 
   @override
-  String get asr => 'Икиндия';
+  String get asr => 'Asr';
 
   @override
-  String get maghrib => 'Акшам';
+  String get maghrib => 'Maghrib';
 
   @override
-  String get isha => 'Ятсия';
+  String get isha => 'Isha';
 
   @override
-  String get sabah => 'Сабах';
+  String get sabah => 'Sabah';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'В момента сте настроили да не получавате известия за тази молитва намаз.';
+  String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Приложение за звуков сигнал при известие.';
+  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
 
   @override
-  String get adhan => 'Езан';
+  String get adhan => 'Adhan';
 
   @override
-  String get adhan_Makkah_fajr => 'Мекка (Феджр)';
+  String get adhan_Makkah_fajr => 'Makkah (Fajr)';
 
   @override
-  String get adhan_Madinah => 'Медина';
+  String get adhan_Madinah => 'Madinah';
 
   @override
-  String get adhan_Qods => 'Кудс';
+  String get adhan_Qods => 'Qods';
 
   @override
-  String get adhan_AlAfassy => 'Мешари ал-Афааси';
+  String get adhan_AlAfassy => 'Al Afassy';
 
   @override
-  String get adhan_AlAfassy_fajr => 'Ал-Афааси (Феджр)';
+  String get adhan_AlAfassy_fajr => 'Al Afassy (Fajr)';
 
   @override
-  String get adhan_Muhammad_jazy => 'Мухаммед Джази';
+  String get adhan_Muhammad_jazy => 'Muhammad Jazy';
 
   @override
-  String get adhan_AbdAlBassat => 'Абдул Басит';
+  String get adhan_AbdAlBassat => 'Abdul Bassit';
 
   @override
-  String get adhan_type => 'Изберете вид езан. Този избор ще бъде прилаган при всяка молитва, за която има уведомление за адхан.';
+  String get adhan_type => 'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
-  String get settings_prayer_Notification_None => 'Няма';
+  String get settings_prayer_Notification_None => 'None';
 
   @override
-  String get prayer_Notification_NoNotification => 'Не сте задали известие за тази молитва намаз.';
+  String get prayer_Notification_NoNotification => 'You have not set any notification for this Prayer.';
 
   @override
-  String get prayer_PreNotification_Description => 'Тази настройка ви позволява да зададете известие преди молитвата намаз.';
+  String get prayer_PreNotification_Description => 'This setting allows you to define a notification before the prayer.';
 
   @override
-  String get search_TryParis => 'Например: Париж, Иерусалим.';
+  String get search_TryParis => 'Try Paris, Essalam etc.';
 
   @override
-  String get search_ByGPS => 'Търсене по GPS';
+  String get search_ByGPS => 'Search by GPS';
 
   @override
-  String get search_HelpText => 'Можете да търсите джамия, като напишете:\n- Името на джамията\n- Името на асоциацията\n- Град, адрес, държава... и т.н.\n\nИли можете да натиснете бутона за намиране, за да намерите околните джамии.';
+  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
 
   @override
-  String get search_MaxFavMosquesReached => 'Достигнали сте максимума на любимите джамии.';
+  String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
 
   @override
-  String get search_iOs14_message => 'Търсенето чрез GPS може да отнеме известно време в iOS 14, моля, изчакайте.';
+  String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
 
   @override
-  String get search_error => 'Възникнала е вътрешна грешка';
+  String get search_error => 'Oops an internal error has occurred\'';
 
   @override
-  String get search_your_location => 'Вашето местоположение';
+  String get search_your_location => 'Your location';
 
   @override
-  String get search_location_disabled => 'Моля, потърсете джамия по име или град или разрешете местоположението ръчно в настройките си.';
+  String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
 
   @override
-  String get search_settings => 'Настройки';
+  String get search_settings => 'Settings';
 
   @override
-  String get no_services_text => 'Джамиите не са предоставили тази информация';
+  String get no_services_text => 'Mosques didn\'t provided this info';
 
   @override
-  String get welcome => 'Добре дошли в';
+  String get welcome => 'Welcome to';
 
   @override
   String get mawaqit => 'MAWAQIT';
 
   @override
-  String get connecting => 'Свързване на мюсюлманите';
+  String get connecting => 'Connecting Muslims';
 
   @override
-  String get to_mosques => 'Към джамиите';
+  String get to_mosques => 'To Mosques';
 
   @override
-  String get get_started => 'Започнете';
+  String get get_started => 'Get started';
 
   @override
-  String get get_prayer_notifications_for => 'Получавайте известия за молитва намаз за';
+  String get get_prayer_notifications_for => 'Get prayer notifications for';
 
   @override
-  String get turn_on_notifications => 'Включване на известията за молитва намаз';
+  String get turn_on_notifications => 'Turn on prayer notifications';
 
   @override
-  String get no_thanks => 'Не, благодаря';
+  String get no_thanks => 'No thank\'s';
 
   @override
-  String get notification_denied => 'Имате отказани разрешения за уведомяване, така че няма да получавате известия.';
+  String get notification_denied => 'You have denied notification permissions, so you won\'t receive any notifications.';
 
   @override
-  String get at_least_one_mosque => 'Добавете поне една джамия, за да продължите';
+  String get at_least_one_mosque => 'Add at least one mosque to continue';
 
   @override
-  String get set_up_your_prayer => 'Настройте молитвата си';
+  String get set_up_your_prayer => 'Set up your prayer';
 
   @override
-  String get notifications => 'Известия';
+  String get notifications => 'Notifications';
 
   @override
-  String get mosques_around_you => 'Джамии около вас';
+  String get mosques_around_you => 'Mosques around you';
 
   @override
-  String get mosques_in_the_selected_area => 'Джамии в избрания район';
+  String get mosques_in_the_selected_area => 'Mosques in the selected area';
 
   @override
-  String get mosques_with => 'Джамии с';
+  String get mosques_with => 'Mosques with';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'Разрешаване на достъпа на Mawaqit до моето местоположение.';
+  String get allow_mawaqit_to_access_my_location => 'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Активирайте услугата за местоположение от настройките на приложението.';
+  String get enable_location_service_from_app_settings => 'Enable location service from app settings.';
 
   @override
-  String get the_request_timeout => '';
+  String get the_request_timeout => 'The request timed out';
 
   @override
-  String get no_internet_connection => 'Няма връзка с интернет';
+  String get no_internet_connection => 'No Internet Connection';
 
   @override
-  String get try_again => 'Опитайте отново';
+  String get try_again => 'Try again';
 
   @override
-  String get virtual_mosque => 'Виртуална джамия';
+  String get virtual_mosque => 'Virtual Mosque';
 
   @override
-  String get no_mosque_in_selected_area => 'Не успяхте да намерите джамии в избрания район';
+  String get no_mosque_in_selected_area => 'Couldn\'t find any mosques in the selected area';
 
   @override
-  String get no_mosque_with => 'Не можах да намеря джамии с';
+  String get no_mosque_with => 'Couldn\'t find any mosques with';
 
   @override
-  String get retry => 'Опитайте пак';
+  String get retry => 'Retry';
 
   @override
-  String get search_here => 'Търсене тук';
+  String get search_here => 'Search Here';
 
   @override
-  String get enter_at_least_3_char => 'Въведете поне 3 символа за търсене';
+  String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
 
   @override
-  String get jumua1 => 'Джума 1';
+  String get jumua1 => 'Jum\'a 1';
 
   @override
-  String get prayer_times => 'Времена за намаз';
+  String get prayer_times => 'Prayer times';
 
   @override
-  String get remove_this_city => 'Премахване на този град';
+  String get remove_this_city => 'Remove this city';
 
   @override
-  String get add_this_city => 'Добавете този град';
+  String get add_this_city => 'Add this city';
 
   @override
-  String get add_this_mosque => 'Добавете тази джамия';
+  String get add_this_mosque => 'Add this mosque';
 
   @override
-  String get remove_this_mosque => 'Премахване на тази джамия';
+  String get remove_this_mosque => 'Remove this mosque';
 
   @override
-  String get services => 'Услуги';
+  String get services => 'Services';
 
   @override
-  String get share => 'Споделете';
+  String get share => 'Share';
 
   @override
-  String get itinerary => 'Маршрут';
+  String get itinerary => 'Itinerary';
 
   @override
-  String get call => 'Обаждане';
+  String get call => 'Call';
 
   @override
-  String get dnd => 'Не ме безпокой';
+  String get dnd => 'Do Not Disturb';
 
   @override
-  String get battery_optimize => 'Оптимизиране на батерията';
+  String get battery_optimize => 'Battery Optimization';
 
   @override
-  String get power_saver => 'Икономия на батерия';
+  String get power_saver => 'Power Saver';
 
   @override
-  String get permission_message1 => 'Открихме забавено известие, моля, изключете';
+  String get permission_message1 => 'We detected a delayed notification, Please turn off';
 
   @override
-  String get permission_message2 => 'за да получите уведомлението навреме.';
+  String get permission_message2 => 'to receive the notification on time.';
 
   @override
-  String get notifications_delay_detected => 'Открито забавяне на известията';
+  String get notifications_delay_detected => 'Notifications delay detected';
 
   @override
-  String get open_setting => 'Отвори настройките';
+  String get open_setting => 'Open settings';
 
   @override
-  String get noJumua => 'Не е необходимо да се използва';
+  String get noJumua => 'No jum\'a';
 
   @override
-  String get jumua => 'Джума';
+  String get jumua => 'Jum\'a';
 
   @override
-  String get qibla_sensor => 'Сензорът във вашето устройство, който MAWAQIT използва за определяне на Кибла, не работи както трябва, което влияе на способността ни да показваме посоката на Кибла.';
+  String get qibla_sensor => 'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.';
 
   @override
-  String get connection_not_found => 'Настройката за калибриране на компаса е деактивирана. Моля, уверете се, че връзката ви е включена, и опитайте отново, като промените посоката.';
+  String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
 
   @override
-  String get currently_located_at => 'В момента се намира в';
+  String get currently_located_at => 'Currently located at';
 
   @override
-  String get facing_makkah => 'Изправени сте пред Мекка';
+  String get facing_makkah => 'You\'re facing Makkah';
 
   @override
-  String get not_facing_Makkah => 'Не сте изправени пред Мекка';
+  String get not_facing_Makkah => 'You\'re not facing Makkah';
 
   @override
-  String get qibla_Error_retry => 'Опитайте пак';
+  String get qibla_Error_retry => 'Retry';
 
   @override
-  String get qibla_Error_LocationDenied => 'Отказано е разрешение за услугата за местоположение';
+  String get qibla_Error_LocationDenied => 'Location service permission denied';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'Услугата за местоположението е отказана завинаги !';
+  String get qibla_Error_LocationDeniedForever => 'Location service Denied Forever !';
 
   @override
-  String get qibla_Error_PleaseEnable => 'Моля, разрешете услугата за местоположение';
+  String get qibla_Error_PleaseEnable => 'Please enable Location service';
 
   @override
-  String get qibla_Direction => 'ПОСОКА НА КЪБЛЕ\n';
+  String get qibla_Direction => 'QIBLA \nDIRECTION';
 
   @override
-  String get favorites_FavoriteMosques => 'Любими джамии';
+  String get favorites_FavoriteMosques => 'Favorites mosques';
 
   @override
-  String get favorites_Error => 'Нещо се обърка...';
+  String get favorites_Error => 'Something went wrong...';
 
   @override
-  String get announcement_Image => 'Изображение';
+  String get announcement_Image => 'Image';
 
   @override
-  String get announcement_Type_Video => 'Видео';
+  String get announcement_Type_Video => 'Video';
 
   @override
-  String get announcement_Type_FlashInfo => 'Флаш-сообщение';
+  String get announcement_Type_FlashInfo => 'Flash Info';
 
   @override
-  String get mosque_DonateText1 => 'ДАРЕТЕ';
+  String get mosque_DonateText1 => 'DONATE';
 
   @override
-  String get mosque_DonateText2 => 'Към джамията';
+  String get mosque_DonateText2 => 'TO MOSQUE';
 
   @override
-  String get mosque_Error_CouldNotLaunch => 'Не може да се стартира';
+  String get mosque_Error_CouldNotLaunch => 'Could not launch';
 
   @override
-  String get mosque_PrayerTimes => 'Времена за намаз';
+  String get mosque_PrayerTimes => 'Prayer times';
 
   @override
-  String get mosque_Website => 'Уебсайт';
+  String get mosque_Website => 'Website';
 
   @override
-  String get mosque_Address => 'Адрес';
+  String get mosque_Address => 'Address';
 
   @override
-  String get mosque_Phone => 'Телефон';
+  String get mosque_Phone => 'Phone';
 
   @override
-  String get mosque_Email => 'Имейл';
+  String get mosque_Email => 'Email';
 
   @override
-  String get mosque_ByMawaqit => 'От Mawaqit https://mawaqit.net';
+  String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
 
   @override
-  String get mosque_Facilities_Parking => 'Паркинг';
+  String get mosque_Facilities_Parking => 'Parking';
 
   @override
-  String get mosque_Facilities_DisabledAccess => 'Достъп за хора с увреждания';
+  String get mosque_Facilities_DisabledAccess => 'Disabled Access';
 
   @override
-  String get mosque_Facilities_AblutionsRoom => 'Помещение за измиване';
+  String get mosque_Facilities_AblutionsRoom => 'Ablution Room';
 
   @override
-  String get mosque_Facilities_WomanSpace => 'Женско пространство';
+  String get mosque_Facilities_WomanSpace => 'Women Space';
 
   @override
-  String get mosque_Facilities_AdultsCourse => 'Курсове за възрастни';
+  String get mosque_Facilities_AdultsCourse => 'Adults Courses';
 
   @override
-  String get mosque_Facilities_ChildrenCourses => 'Курсове за деца';
+  String get mosque_Facilities_ChildrenCourses => 'Children Courses';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Байрямски намаз';
+  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'Дженазе намаз';
+  String get mosque_Facilities_SalatAlJanaza => 'Salat Al Janaza';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'Ифтар Рамадан';
+  String get mosques_Facilities_IftarRamadan => 'Iftar Ramadan';
 
   @override
-  String get mosque_facilities_Info => 'Цялата тази информация се попълва от хората, които отговарят за джамията.';
+  String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
 
   @override
-  String get in_ => 'след';
+  String get in_ => 'in';
 
   @override
   String get imsak => 'Imsak';
@@ -612,7 +612,7 @@ class AppLocalizationsBg extends AppLocalizations {
   String get tutorial_title_iqama => 'Iqama';
 
   @override
-  String get tutorial_text_iqama => 'Тук можете да намерите продължителността на периода между езана и икамета в джамията';
+  String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Download calendar';
@@ -1260,13 +1260,13 @@ class AppLocalizationsBg extends AppLocalizations {
   String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
-  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_quran_zip => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
   String get set_notification_for_all_parayer => 'Set this for every prayer';
@@ -1275,37 +1275,37 @@ class AppLocalizationsBg extends AppLocalizations {
   String get powered_by_mawaqit => 'Powered by MAWAQIT';
 
   @override
-  String get adjust_hijri_date => 'Настройване на хиджрийската дата';
+  String get adjust_hijri_date => 'Adjust Hijri Date';
 
   @override
-  String get prayer_times_by_location => 'Времена за молитва по местоположение';
+  String get prayer_times_by_location => 'Prayer times by location';
 
   @override
-  String get already_in_list => 'вече е в списъка ви!';
+  String get already_in_list => 'is already in your list!';
 
   @override
-  String get got_it => 'Имам го!';
+  String get got_it => 'Got it!';
 
   @override
-  String get mushaf_warsh => 'Уорш';
+  String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Мушаф Хафс';
+  String get mushaf_hafs => 'Hafs';
 
   @override
-  String get select_rewaya => 'Изберете Rewaya';
+  String get select_rewaya => 'Select Rewaya';
 
   @override
-  String get download_in_progress => 'Изтеглянето е в ход, моля, изчакайте...';
+  String get download_in_progress => 'Download in progress, please wait...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Подчертаване на следващата молитва след Iqama';
+  String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
 
   @override
-  String get helmi_nasr => 'Д-р Хелми Наср';
+  String get helmi_nasr => 'Dr. Helmi Nasr';
 
   @override
-  String get settings_language_pt => 'Португалски';
+  String get settings_language_pt => 'Portuguese';
 
   @override
   String get al_zikr => 'Al-Zikr';

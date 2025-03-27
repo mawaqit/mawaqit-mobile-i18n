@@ -22,6 +22,7 @@ import 'app_localizations_hu.dart';
 import 'app_localizations_id.dart';
 import 'app_localizations_it.dart';
 import 'app_localizations_ku.dart';
+import 'app_localizations_ms.dart';
 import 'app_localizations_nl.dart';
 import 'app_localizations_pl.dart';
 import 'app_localizations_pt.dart';
@@ -30,6 +31,8 @@ import 'app_localizations_sq.dart';
 import 'app_localizations_sv.dart';
 import 'app_localizations_tr.dart';
 import 'app_localizations_ur.dart';
+
+// ignore_for_file: type=lint
 
 /// Callers can lookup localized strings with an instance of AppLocalizations
 /// returned by `AppLocalizations.of(context)`.
@@ -129,6 +132,7 @@ abstract class AppLocalizations {
     Locale('id'),
     Locale('it'),
     Locale('ku'),
+    Locale('ms'),
     Locale('nl'),
     Locale('pl'),
     Locale('pt'),
@@ -2958,6 +2962,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Prayer times and all the information here are set by the mosque, not MAWAQIT'**
   String get prayer_times_set_by_mosque;
+
+  /// No description provided for @hasan_nahi.
+  ///
+  /// In en, this message translates to:
+  /// **'Hasan Nahi'**
+  String get hasan_nahi;
+
+  /// No description provided for @albanian.
+  ///
+  /// In en, this message translates to:
+  /// **'Albanian'**
+  String get albanian;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
@@ -2969,7 +2985,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'nl', 'pl', 'pt', 'ru', 'sq', 'sv', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pl', 'pt', 'ru', 'sq', 'sv', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -2997,6 +3013,7 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
     case 'id': return AppLocalizationsId();
     case 'it': return AppLocalizationsIt();
     case 'ku': return AppLocalizationsKu();
+    case 'ms': return AppLocalizationsMs();
     case 'nl': return AppLocalizationsNl();
     case 'pl': return AppLocalizationsPl();
     case 'pt': return AppLocalizationsPt();

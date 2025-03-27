@@ -1,4 +1,8 @@
+// ignore: unused_import
+import 'package:intl/intl.dart' as intl;
 import 'app_localizations.dart';
+
+// ignore_for_file: type=lint
 
 /// The translations for Arabic (`ar`).
 class AppLocalizationsAr extends AppLocalizations {
@@ -1413,4 +1417,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque => 'يتم تعيين أوقات الصلاة من قبل المسجد، وليس من قبل مواقيت';
+
+  @override
+  String get hasan_nahi => 'حسن ناهي';
+
+  @override
+  String get albanian => 'الألبانية';
 }

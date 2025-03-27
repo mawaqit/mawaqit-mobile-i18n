@@ -1037,5 +1037,8 @@
     "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+
+      "hasan_nahi": "হাসান নাহি",
+      "albanian": "আলবেনীয়"
 }

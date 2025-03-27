@@ -1,4 +1,8 @@
+// ignore: unused_import
+import 'package:intl/intl.dart' as intl;
 import 'app_localizations.dart';
+
+// ignore_for_file: type=lint
 
 /// The translations for Russian (`ru`).
 class AppLocalizationsRu extends AppLocalizations {
@@ -1413,4 +1417,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque => 'Время молитв установлено мечетью, а не MAWAQIT';
+
+  @override
+  String get hasan_nahi => 'Хасан Нахи';
+
+  @override
+  String get albanian => 'Албанский';
 }

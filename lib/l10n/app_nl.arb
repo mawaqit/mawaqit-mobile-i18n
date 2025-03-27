@@ -1037,5 +1037,7 @@
     "prayer_times_set_by_mosque": "Gebedstijden worden ingesteld door de moskee, niet MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+      "hasan_nahi": "Hasan Nahi",
+      "albanian": "Albanees"
 }
