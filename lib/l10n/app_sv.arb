@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1037,5 +1037,7 @@
     "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albanska"
 }
