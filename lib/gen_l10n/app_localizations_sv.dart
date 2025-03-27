@@ -1422,5 +1422,5 @@ class AppLocalizationsSv extends AppLocalizations {
   String get hasan_nahi => 'Hasan Nahi';
 
   @override
-  String get albanian => 'Albanian';
+  String get albanian => 'Albanska';
 }
