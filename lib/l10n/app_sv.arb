@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -158,7 +158,7 @@
         "type": "text"
     },
     "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
+    "settings_PrayerNotification_NoNotification": "Du har för tillfället bestämd att inte bli notiserad vid den här bönen.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
@@ -203,36 +203,36 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Abdul Bassit",
+    "adhan_AbdAlBassat": "AbdulBassit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "Välj en typ av Adhan. Den här valet kommer att bli applicerad för varje bön som har notifikation.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "Inget",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "Du har inte bestämt något notifikation för den här bönen.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "Den här inställningen låter dig ange en avisering före bönen.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "Try Paris, Essalam etc.",
-    "search_ByGPS": "Search by GPS",
-    "search_HelpText": "You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.",
-    "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
-    "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
+    "search_TryParis": "Prova Paris, Essalam osv.",
+    "search_ByGPS": "Sök med GPS",
+    "search_HelpText": "Du kan söka en moské genom:\n-Moskéns namn\n-Föreningens namn\n-Stad, Address, Land...osv.\n\nEller klippa på lokaliseringsknappen för att hitta Moskéer i närheten.",
+    "search_MaxFavMosquesReached": "Du har nått maximal av favorit moskéer.",
+    "search_iOs14_message": "Att ska genom GPS kan ta lite tid på IOS 14, vänligen vänta.",
     "search_error": "Oops an internal error has occurred'",
     "search_your_location": "Your location",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
