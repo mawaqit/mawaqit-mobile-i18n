@@ -159,7 +159,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get sabah => 'Sabah';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
+  String get settings_PrayerNotification_NoNotification => 'Du har för tillfället bestämd att inte bli notiserad vid den här bönen.';
 
   @override
   String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
@@ -186,34 +186,34 @@ class AppLocalizationsSv extends AppLocalizations {
   String get adhan_Muhammad_jazy => 'Muhammad Jazy';
 
   @override
-  String get adhan_AbdAlBassat => 'Abdul Bassit';
+  String get adhan_AbdAlBassat => 'AbdulBassit';
 
   @override
-  String get adhan_type => 'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
+  String get adhan_type => 'Välj en typ av Adhan. Den här valet kommer att bli applicerad för varje bön som har notifikation.';
 
   @override
-  String get settings_prayer_Notification_None => 'None';
+  String get settings_prayer_Notification_None => 'Inget';
 
   @override
-  String get prayer_Notification_NoNotification => 'You have not set any notification for this Prayer.';
+  String get prayer_Notification_NoNotification => 'Du har inte bestämt något notifikation för den här bönen.';
 
   @override
-  String get prayer_PreNotification_Description => 'This setting allows you to define a notification before the prayer.';
+  String get prayer_PreNotification_Description => 'Den här inställningen låter dig ange en avisering före bönen.';
 
   @override
-  String get search_TryParis => 'Try Paris, Essalam etc.';
+  String get search_TryParis => 'Prova Paris, Essalam osv.';
 
   @override
-  String get search_ByGPS => 'Search by GPS';
+  String get search_ByGPS => 'Sök med GPS';
 
   @override
-  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
+  String get search_HelpText => 'Du kan söka en moské genom:\n-Moskéns namn\n-Föreningens namn\n-Stad, Address, Land...osv.\n\nEller klippa på lokaliseringsknappen för att hitta Moskéer i närheten.';
 
   @override
-  String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
+  String get search_MaxFavMosquesReached => 'Du har nått maximal av favorit moskéer.';
 
   @override
-  String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
+  String get search_iOs14_message => 'Att ska genom GPS kan ta lite tid på IOS 14, vänligen vänta.';
 
   @override
   String get search_error => 'Oops an internal error has occurred\'';
