@@ -1015,26 +1015,26 @@
     "participating_with": "Jeni duke marrë pjesë me",
     "no_of_tickets": "Numri i tiketav :",
     "unparticipate": "Kliko për të tërhjekur pjesëmarrjen",
-    "next_ticket": "The next ticket available in",
+    "next_ticket": "Bileta tjetër e disponueshme në",
     "click_here": "Kliko këtu",
-    "mawaqit_store": "MAWAQIT Store",
+    "mawaqit_store": "Dyqani MAWAQIT",
     "no_projects": "Nuk ka projekte",
-    "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
-    "enter_valid_email": "Enter a valid email",
+    "draw_info": "Një short çdo muaj. Çdo 24 orë mund të shtoni një biletë të re për të rritur mundësinë tuaj për të fituar!",
+    "enter_valid_email": "Shëno një email të vlefshëm",
     "please_enter_email": "Shënon një email ju lutem",
-    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "select_device_audo_for_ios_propmpt": "Zgjidhni një skedar audio dhe ne do ta konvertojmë atë në një format të përputhshëm me iOS ndërsa e shkurtojmë në 30 sekonda për shkak të kufizimeve të platformës iOS.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Konfirmo fshirjen",
     "sure_remove_rewaya": "Jeni të sigurt që dëshironi të hiqni këtë Rewaya?",
-    "file_not_found": "File not found",
+    "file_not_found": "Skedari nuk u gjet",
     "@file_not_found": {
         "description": "-> file_not_found"
     },
     "notified_boost": "Merrni njoftime për përditësimet më të fundit mbi projektet MAWAQIT Boost.",
     "contact_us_boost": "Për të listuar projektin tuaj këtu, na kontaktoni në",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "prayer_times_set_by_mosque": "Kohët e namazit dhe të gjitha informacionet këtu përcaktohen nga xhamia, jo nga MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
