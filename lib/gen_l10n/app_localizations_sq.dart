@@ -1377,28 +1377,28 @@ class AppLocalizationsSq extends AppLocalizations {
   String get unparticipate => 'Kliko për të tërhjekur pjesëmarrjen';
 
   @override
-  String get next_ticket => 'The next ticket available in';
+  String get next_ticket => 'Bileta tjetër e disponueshme në';
 
   @override
   String get click_here => 'Kliko këtu';
 
   @override
-  String get mawaqit_store => 'MAWAQIT Store';
+  String get mawaqit_store => 'Dyqani MAWAQIT';
 
   @override
   String get no_projects => 'Nuk ka projekte';
 
   @override
-  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+  String get draw_info => 'Një short çdo muaj. Çdo 24 orë mund të shtoni një biletë të re për të rritur mundësinë tuaj për të fituar!';
 
   @override
-  String get enter_valid_email => 'Enter a valid email';
+  String get enter_valid_email => 'Shëno një email të vlefshëm';
 
   @override
   String get please_enter_email => 'Shënon një email ju lutem';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+  String get select_device_audo_for_ios_propmpt => 'Zgjidhni një skedar audio dhe ne do ta konvertojmë atë në një format të përputhshëm me iOS ndërsa e shkurtojmë në 30 sekonda për shkak të kufizimeve të platformës iOS.';
 
   @override
   String get confirm_deletion => 'Konfirmo fshirjen';
@@ -1407,7 +1407,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get sure_remove_rewaya => 'Jeni të sigurt që dëshironi të hiqni këtë Rewaya?';
 
   @override
-  String get file_not_found => 'File not found';
+  String get file_not_found => 'Skedari nuk u gjet';
 
   @override
   String get notified_boost => 'Merrni njoftime për përditësimet më të fundit mbi projektet MAWAQIT Boost.';
@@ -1416,7 +1416,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get contact_us_boost => 'Për të listuar projektin tuaj këtu, na kontaktoni në';
 
   @override
-  String get prayer_times_set_by_mosque => 'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+  String get prayer_times_set_by_mosque => 'Kohët e namazit dhe të gjitha informacionet këtu përcaktohen nga xhamia, jo nga MAWAQIT';
 
   @override
   String get hasan_nahi => 'Hasan Nahi';
