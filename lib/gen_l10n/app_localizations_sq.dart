@@ -711,7 +711,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get surah => 'Surja';
 
   @override
-  String get continue_reading => 'Continue reading';
+  String get continue_reading => 'Vazhdo leximin';
 
   @override
   String get bookmarks => 'Shënimet';
@@ -1257,7 +1257,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get prayer_times_in => 'Takvimi në';
 
   @override
-  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+  String get update_new_version => 'Një version i ri i Kuranit është i disponueshëm për shkarkim. Kliko në \'Përditëso\' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me mençurinë hyjnore';
 
   @override
   String get update_quran_zip => 'Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni \'Përditëso\' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.';
@@ -1338,43 +1338,43 @@ class AppLocalizationsSq extends AppLocalizations {
   String get select_audio_from_device => 'Select audio (mp3) from device.';
 
   @override
-  String get add_ticket => 'Add ticket';
+  String get add_ticket => 'Shto një tiket';
 
   @override
   String get projects => 'Projektet';
 
   @override
-  String get fill_form => 'To add your project here fill up this';
+  String get fill_form => 'Për të shtuar projektin tuaj këtu, plotësoni këtë';
 
   @override
-  String get form => 'form';
+  String get form => 'formular';
 
   @override
-  String get updates_draw => 'Get updates and participate in the draw to win goodies from';
+  String get updates_draw => 'Merrni përditësime dhe merrni pjesë në shortin për të fituar goodies nga';
 
   @override
-  String get email_info => 'This email will be used to contact you if you win the draw';
+  String get email_info => 'Ky email do të përdoret për t\'ju kontaktuar nëse fitoni shortin';
 
   @override
-  String get enter_email => 'Enter your email';
+  String get enter_email => 'Shkruani emailin tuaj';
 
   @override
-  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+  String get email_privacy => 'MAWAQIT nuk do ta shpërndajë këtë email me askënd. Email-i do të fshihet automatikisht nga databaza jonë pas çdo shorti';
 
   @override
   String get submit => 'Submit';
 
   @override
-  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+  String get disclaimer => 'Dërgo';
 
   @override
-  String get participating_with => 'You\'re participating with';
+  String get participating_with => 'Jeni duke marrë pjesë me';
 
   @override
-  String get no_of_tickets => 'No. of tickets:';
+  String get no_of_tickets => 'Numri i tiketav :';
 
   @override
-  String get unparticipate => 'Click to unparticipate';
+  String get unparticipate => 'Kliko për të tërhjekur pjesëmarrjen';
 
   @override
   String get next_ticket => 'The next ticket available in';
