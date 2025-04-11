@@ -411,10 +411,10 @@ class AppLocalizationsDe extends AppLocalizations {
   String get announcement_Type_FlashInfo => 'Flash-Infos';
 
   @override
-  String get mosque_DonateText1 => 'SPENDEN';
+  String get mosque_DonateText1 => 'SPENDE';
 
   @override
-  String get mosque_DonateText2 => 'ZUM MOSCHEE';
+  String get mosque_DonateText2 => 'AN MOSCHEE';
 
   @override
   String get mosque_Error_CouldNotLaunch => 'Konnte nicht starten';
