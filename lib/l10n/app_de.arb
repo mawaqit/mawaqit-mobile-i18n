@@ -346,12 +346,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "SPENDEN",
+    "mosque_DonateText1": "SPENDE",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "ZUM MOSCHEE",
+    "mosque_DonateText2": "AN MOSCHEE",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
