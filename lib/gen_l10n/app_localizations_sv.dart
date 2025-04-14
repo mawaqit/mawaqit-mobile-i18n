@@ -87,7 +87,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_CheckForUpdates => 'Sök efter uppdateringar';
 
   @override
-  String get settings_Credits => 'Credits';
+  String get settings_Credits => 'Krediter';
 
   @override
   String get settings_AboutUs => 'Om oss';
@@ -228,7 +228,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_settings => 'Inställningar';
 
   @override
-  String get no_services_text => 'Mosques didn\'t provided this info';
+  String get no_services_text => 'Moskén har inte gett denna information';
 
   @override
   String get welcome => 'Välkommen till';
@@ -261,7 +261,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get at_least_one_mosque => 'Lägg till åtminstone en moské för att fortsätta';
 
   @override
-  String get set_up_your_prayer => 'Set up your prayer';
+  String get set_up_your_prayer => 'Sätt din bön';
 
   @override
   String get notifications => 'Notifikationer';
@@ -306,7 +306,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_here => 'Sök här';
 
   @override
-  String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
+  String get enter_at_least_3_char => 'Ange minst 3 tecken för att söka';
 
   @override
   String get jumua1 => 'Jumu\'a 1';
@@ -336,13 +336,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get itinerary => 'Itinerary';
 
   @override
-  String get call => 'Call';
+  String get call => 'Samtal';
 
   @override
   String get dnd => 'Stör ej';
 
   @override
-  String get battery_optimize => 'Battery Optimization';
+  String get battery_optimize => 'Batterioptimering';
 
   @override
   String get power_saver => 'Power Saver';
@@ -417,7 +417,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get mosque_DonateText2 => 'Till Moské';
 
   @override
-  String get mosque_Error_CouldNotLaunch => 'Could not launch';
+  String get mosque_Error_CouldNotLaunch => 'Kunde inte börja';
 
   @override
   String get mosque_PrayerTimes => 'Bönetider';
@@ -522,7 +522,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get onboarding_title_1 => 'Select your language';
 
   @override
-  String get onboarding_text_1 => 'Select your preferred language from the list below';
+  String get onboarding_text_1 => 'Välj din preparerad språk från listan nere';
 
   @override
   String get onboarding_title_2 => 'Welcome to MAWAQIT';
@@ -531,28 +531,28 @@ class AppLocalizationsSv extends AppLocalizations {
   String get onboarding_text_2 => 'MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times';
 
   @override
-  String get onboarding_title_3 => 'Select a Dark/Light theme';
+  String get onboarding_title_3 => 'Välj mörk/ljus tema';
 
   @override
   String get onboarding_text_3 => 'Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort';
 
   @override
-  String get onboarding_title_4 => 'Add your main Mosque';
+  String get onboarding_title_4 => 'Lägg till din huvud Moské';
 
   @override
   String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
 
   @override
-  String get loading => 'Loading';
+  String get loading => 'Laddar';
 
   @override
-  String get loading_please_wait => 'Loading... Please wait';
+  String get loading_please_wait => 'Laddar... vänta lite';
 
   @override
   String get loading_loaded => 'Nedladdning klart';
 
   @override
-  String get favorites_edit => 'Edit Favorite Mosques';
+  String get favorites_edit => 'Ändra favorit Moské';
 
   @override
   String get minutes_to_athan => 'minuter till Adhan';
@@ -1104,19 +1104,19 @@ class AppLocalizationsSv extends AppLocalizations {
   String get change_mosque_order => 'Drag and drop mosques to change order and to set the main mosque';
 
   @override
-  String get remove => 'Remove';
+  String get remove => 'Ta bort';
 
   @override
-  String get save => 'Save';
+  String get save => 'Spara';
 
   @override
-  String get main_mosque => 'Main mosque';
+  String get main_mosque => 'Huvud valda Moskeen';
 
   @override
-  String get mosques => 'Mosques';
+  String get mosques => 'Moskeer';
 
   @override
-  String get no_news => 'No news from the mosque';
+  String get no_news => 'Inga nyheter from Moskeen';
 
   @override
   String get mawaqit_notification => 'Mawaqit Notification';
