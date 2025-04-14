@@ -450,34 +450,34 @@ class AppLocalizationsSv extends AppLocalizations {
   String get mosque_Facilities_WomanSpace => 'Kvinno-område';
 
   @override
-  String get mosque_Facilities_AdultsCourse => 'Adults Courses';
+  String get mosque_Facilities_AdultsCourse => 'Äldre kurser';
 
   @override
-  String get mosque_Facilities_ChildrenCourses => 'Children Courses';
+  String get mosque_Facilities_ChildrenCourses => 'Barn kurser';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
+  String get mosque_Facilities_SalatAlAid => 'Salatul Eid';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'Salat Al Janaza';
+  String get mosque_Facilities_SalatAlJanaza => 'Salatul Janaza';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'Iftar Ramadan';
+  String get mosques_Facilities_IftarRamadan => 'Iftar Ramdan';
 
   @override
-  String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
+  String get mosque_facilities_Info => 'All detta information är fyllt av de som tar hand om Moskén';
 
   @override
-  String get in_ => 'in';
+  String get in_ => 'i';
 
   @override
   String get imsak => 'Imsak';
 
   @override
-  String get eid => 'Eid prayer at';
+  String get eid => 'Eid Bön på';
 
   @override
-  String get minutes => 'Minutes';
+  String get minutes => 'Minuter';
 
   @override
   String get jumua2 => 'Jum\'a 2';
