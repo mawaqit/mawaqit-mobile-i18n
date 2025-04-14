@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -411,37 +411,37 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Adults Courses",
+    "mosque_Facilities_AdultsCourse": "Äldre kurser",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Children Courses",
+    "mosque_Facilities_ChildrenCourses": "Barn kurser",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Salat Al Eid",
+    "mosque_Facilities_SalatAlAid": "Salatul Eid",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Salatul Janaza",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "mosques_Facilities_IftarRamadan": "Iftar Ramdan",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All this information is filled in by the people in charge of the mosque",
+    "mosque_facilities_Info": "All detta information är fyllt av de som tar hand om Moskén",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "i",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -451,12 +451,12 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid prayer at",
+    "eid": "Eid Bön på",
     "@eid": {
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "Minuter",
     "@minutes": {
         "description": "_",
         "type": "text"
