@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -94,7 +94,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_Credits": "Credits",
+    "settings_Credits": "Krediter",
     "@settings_Credits": {
         "description": "_",
         "type": "text"
@@ -237,7 +237,7 @@
     "search_your_location": "Din plats",
     "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
     "search_settings": "Inställningar",
-    "no_services_text": "Mosques didn't provided this info",
+    "no_services_text": "Moskén har inte gett denna information",
     "welcome": "Välkommen till",
     "mawaqit": "MAWAQIT",
     "connecting": "Kopplar Muslimer",
@@ -248,7 +248,7 @@
     "no_thanks": "Nej tack",
     "notification_denied": "Du har nekat notifikation tillåtelse, så du kommer inte att få några notifikationer.",
     "at_least_one_mosque": "Lägg till åtminstone en moské för att fortsätta",
-    "set_up_your_prayer": "Set up your prayer",
+    "set_up_your_prayer": "Sätt din bön",
     "notifications": "Notifikationer",
     "mosques_around_you": "Moskéer omkring dig",
     "mosques_in_the_selected_area": "Moskéer i valda område",
@@ -263,7 +263,7 @@
     "no_mosque_with": "Kunde inte hitta moské med",
     "retry": "Försök igen",
     "search_here": "Sök här",
-    "enter_at_least_3_char": "Enter at-least 3 characters to search",
+    "enter_at_least_3_char": "Ange minst 3 tecken för att söka",
     "jumua1": "Jumu'a 1",
     "prayer_times": "Bönetider",
     "remove_this_city": "Ta bort den här staden",
@@ -273,9 +273,9 @@
     "services": "Tjänster",
     "share": "Dela",
     "itinerary": "Itinerary",
-    "call": "Call",
+    "call": "Samtal",
     "dnd": "Stör ej",
-    "battery_optimize": "Battery Optimization",
+    "battery_optimize": "Batterioptimering",
     "power_saver": "Power Saver",
     "permission_message1": "We detected a delayed notification, Please turn off",
     "permission_message2": "to receive the notification on time.",
@@ -356,7 +356,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Could not launch",
+    "mosque_Error_CouldNotLaunch": "Kunde inte börja",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
@@ -531,7 +531,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Select your preferred language from the list below",
+    "onboarding_text_1": "Välj din preparerad språk från listan nere",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
@@ -546,7 +546,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_3": "Select a Dark/Light theme",
+    "onboarding_title_3": "Välj mörk/ljus tema",
     "@onboarding_title_3": {
         "description": "_",
         "type": "text"
@@ -556,7 +556,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_4": "Add your main Mosque",
+    "onboarding_title_4": "Lägg till din huvud Moské",
     "@onboarding_title_4": {
         "description": "_",
         "type": "text"
@@ -566,12 +566,12 @@
         "description": "_",
         "type": "text"
     },
-    "loading": "Loading",
+    "loading": "Laddar",
     "@loading": {
         "description": "_",
         "type": "text"
     },
-    "loading_please_wait": "Loading... Please wait",
+    "loading_please_wait": "Laddar... vänta lite",
     "@loading_please_wait": {
         "description": "_",
         "type": "text"
@@ -581,7 +581,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite Mosques",
+    "favorites_edit": "Ändra favorit Moské",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
@@ -873,11 +873,11 @@
     "calendar": "Kalender",
     "system": "System",
     "change_mosque_order": "Drag and drop mosques to change order and to set the main mosque",
-    "remove": "Remove",
-    "save": "Save",
-    "main_mosque": "Main mosque",
-    "mosques": "Mosques",
-    "no_news": "No news from the mosque",
+    "remove": "Ta bort",
+    "save": "Spara",
+    "main_mosque": "Huvud valda Moskeen",
+    "mosques": "Moskeer",
+    "no_news": "Inga nyheter from Moskeen",
     "mawaqit_notification": "Mawaqit Notification",
     "no_mawaqit_notification": "No notification from Mawaqit",
     "meccan": "Meccan",
