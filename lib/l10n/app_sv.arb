@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -471,42 +471,42 @@
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "Uppdatering",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skip tutorial",
+    "tutorial_skip": "Skippa guiden",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_next": "Next",
+    "tutorial_next": "Nästa",
     "@tutorial_next": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Your main mosque",
+    "tutorial_title_main_mosque": "Din huvud Moské",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.",
+    "tutorial_text_main_mosque": "Din huvud Moske visar här.\nDu kan svepa åt vänster och höger för att växla mellan dina favorit Moskén.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Next prayer indicator",
+    "tutorial_title_countdown": "Nästa Bön indikator",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "This countdown shows you the time remaining before the next prayer.",
+    "tutorial_text_countdown": "Den här nedräkningen visar hur mycket är kvar till nästa bön.",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Mosque Information",
+    "tutorial_title_mosque_info": "Moske information",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
@@ -516,7 +516,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "Mosque messages and announcements",
+    "tutorial_title_announcements": "Moskéns meddelande och annonseringar",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
@@ -526,7 +526,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Select your language",
+    "onboarding_title_1": "Välj språk",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
@@ -536,7 +536,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_2": "Welcome to MAWAQIT",
+    "onboarding_title_2": "Välkommen till MAWAQIT",
     "@onboarding_title_2": {
         "description": "_",
         "type": "text"
@@ -738,9 +738,9 @@
     "quran_verse_search": "Vers sökning",
     "quran_translation": "Tolkning",
     "quran_mushaf": "Mushaf",
-    "quran_juzz": "Juzz",
+    "quran_juzz": "Juz",
     "ayah": "Ayah",
-    "quran_verses": "Verses",
+    "quran_verses": "Verser",
     "surah": "Surah",
     "continue_reading": "Continue Reading",
     "bookmarks": "Bookmarks",
@@ -752,29 +752,29 @@
     "quran_from_top_to_bottom": "From top to bottom",
     "quran_from_bottom_to_top": "From bottom to top",
     "quran_pages_color": "Pages color",
-    "english_tr": "English",
-    "french_tr": "French",
-    "spanish_tr": "Spanish",
+    "english_tr": "Engelska",
+    "french_tr": "Franska",
+    "spanish_tr": "Spanska",
     "muhammad_hamidullah": "Muhammad Hamidullah",
-    "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
-    "sheikh_isa_garcia": "Sheikh Isa Garcia",
-    "reciters": "Reciters",
-    "favorite_reciters": "Favorite reciters",
-    "surahs_downloaded": "Surahs downloaded",
-    "surahs_chapter": "Surahs - Chapter",
-    "my_likes": "My Likes",
-    "cancel": "Cancel",
-    "next": "Next",
-    "search_surah": "Search Surah",
-    "not_downloaded_recitation": "You have not downloaded any recitation yet.",
-    "not_favorite_reciter": "You have not marked any reciter favorite yet.",
-    "search_reciter": "Search Reciter",
+    "abdullah_yusuf_ali": "Abdullah Yusef Ali",
+    "sheikh_isa_garcia": "Shaykh Isa Garcia",
+    "reciters": "Recitatörer",
+    "favorite_reciters": "Favorit Recitatörer",
+    "surahs_downloaded": "Surah nedladdad",
+    "surahs_chapter": "Surahs- kapitel",
+    "my_likes": "Mina likes",
+    "cancel": "Avbryt",
+    "next": "Nästa",
+    "search_surah": "Sök Surah",
+    "not_downloaded_recitation": "Du har inte nedladdat någon recitation ännu.",
+    "not_favorite_reciter": "Du har inte markerat någon favorit recitatör ännu.",
+    "search_reciter": "Sök recitatör",
     "al_quran_al_kareem": "Al Quran Al Kareem",
     "surahs": "Surahs",
-    "chapters": "Chapters",
-    "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
-    "calculation_madhab": "Jurisprudence - Madhab",
-    "calculation_madhab_shafii": "Shafi’i, Hanbali and Maliki",
+    "chapters": "Kapitel",
+    "calculation_info": "Inställningar in den här sektionen berör endast bönetider som är kalkyleras from din geografiska plats, och påverkar inte moskéernas bönetider.",
+    "calculation_madhab": "Juridik - Madhhab",
+    "calculation_madhab_shafii": "Shafi'i, Hanbali och Maliki",
     "calculation_madhab_shafii_countries": "Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...",
     "calculation_madhab_hanafi": "Hanafi",
     "calculation_madhab_hanafi_countries": "Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...",
