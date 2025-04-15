@@ -486,46 +486,46 @@ class AppLocalizationsSv extends AppLocalizations {
   String get please_update => 'A newer version of MAWAQIT is available, please update';
 
   @override
-  String get update => 'Update';
+  String get update => 'Uppdatering';
 
   @override
-  String get tutorial_skip => 'Skip tutorial';
+  String get tutorial_skip => 'Skippa guiden';
 
   @override
-  String get tutorial_next => 'Next';
+  String get tutorial_next => 'Nästa';
 
   @override
-  String get tutorial_title_main_mosque => 'Your main mosque';
+  String get tutorial_title_main_mosque => 'Din huvud Moské';
 
   @override
-  String get tutorial_text_main_mosque => 'Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.';
+  String get tutorial_text_main_mosque => 'Din huvud Moske visar här.\nDu kan svepa åt vänster och höger för att växla mellan dina favorit Moskén.';
 
   @override
-  String get tutorial_title_countdown => 'Next prayer indicator';
+  String get tutorial_title_countdown => 'Nästa Bön indikator';
 
   @override
-  String get tutorial_text_countdown => 'This countdown shows you the time remaining before the next prayer.';
+  String get tutorial_text_countdown => 'Den här nedräkningen visar hur mycket är kvar till nästa bön.';
 
   @override
-  String get tutorial_title_mosque_info => 'Mosque Information';
+  String get tutorial_title_mosque_info => 'Moske information';
 
   @override
   String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
 
   @override
-  String get tutorial_title_announcements => 'Mosque messages and announcements';
+  String get tutorial_title_announcements => 'Moskéns meddelande och annonseringar';
 
   @override
   String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
 
   @override
-  String get onboarding_title_1 => 'Select your language';
+  String get onboarding_title_1 => 'Välj språk';
 
   @override
   String get onboarding_text_1 => 'Välj din preparerad språk från listan nere';
 
   @override
-  String get onboarding_title_2 => 'Welcome to MAWAQIT';
+  String get onboarding_title_2 => 'Välkommen till MAWAQIT';
 
   @override
   String get onboarding_text_2 => 'MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times';
@@ -699,13 +699,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get quran_mushaf => 'Mushaf';
 
   @override
-  String get quran_juzz => 'Juzz';
+  String get quran_juzz => 'Juz';
 
   @override
   String get ayah => 'Ayah';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'Verser';
 
   @override
   String get surah => 'Surah';
@@ -741,55 +741,55 @@ class AppLocalizationsSv extends AppLocalizations {
   String get quran_pages_color => 'Pages color';
 
   @override
-  String get english_tr => 'English';
+  String get english_tr => 'Engelska';
 
   @override
-  String get french_tr => 'French';
+  String get french_tr => 'Franska';
 
   @override
-  String get spanish_tr => 'Spanish';
+  String get spanish_tr => 'Spanska';
 
   @override
   String get muhammad_hamidullah => 'Muhammad Hamidullah';
 
   @override
-  String get abdullah_yusuf_ali => 'Abdullah Yusuf Ali';
+  String get abdullah_yusuf_ali => 'Abdullah Yusef Ali';
 
   @override
-  String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
+  String get sheikh_isa_garcia => 'Shaykh Isa Garcia';
 
   @override
-  String get reciters => 'Reciters';
+  String get reciters => 'Recitatörer';
 
   @override
-  String get favorite_reciters => 'Favorite reciters';
+  String get favorite_reciters => 'Favorit Recitatörer';
 
   @override
-  String get surahs_downloaded => 'Surahs downloaded';
+  String get surahs_downloaded => 'Surah nedladdad';
 
   @override
-  String get surahs_chapter => 'Surahs - Chapter';
+  String get surahs_chapter => 'Surahs- kapitel';
 
   @override
-  String get my_likes => 'My Likes';
+  String get my_likes => 'Mina likes';
 
   @override
-  String get cancel => 'Cancel';
+  String get cancel => 'Avbryt';
 
   @override
-  String get next => 'Next';
+  String get next => 'Nästa';
 
   @override
-  String get search_surah => 'Search Surah';
+  String get search_surah => 'Sök Surah';
 
   @override
-  String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
+  String get not_downloaded_recitation => 'Du har inte nedladdat någon recitation ännu.';
 
   @override
-  String get not_favorite_reciter => 'You have not marked any reciter favorite yet.';
+  String get not_favorite_reciter => 'Du har inte markerat någon favorit recitatör ännu.';
 
   @override
-  String get search_reciter => 'Search Reciter';
+  String get search_reciter => 'Sök recitatör';
 
   @override
   String get al_quran_al_kareem => 'Al Quran Al Kareem';
@@ -798,16 +798,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get surahs => 'Surahs';
 
   @override
-  String get chapters => 'Chapters';
+  String get chapters => 'Kapitel';
 
   @override
-  String get calculation_info => 'The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.';
+  String get calculation_info => 'Inställningar in den här sektionen berör endast bönetider som är kalkyleras from din geografiska plats, och påverkar inte moskéernas bönetider.';
 
   @override
-  String get calculation_madhab => 'Jurisprudence - Madhab';
+  String get calculation_madhab => 'Juridik - Madhhab';
 
   @override
-  String get calculation_madhab_shafii => 'Shafi’i, Hanbali and Maliki';
+  String get calculation_madhab_shafii => 'Shafi\'i, Hanbali och Maliki';
 
   @override
   String get calculation_madhab_shafii_countries => 'Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...';
