@@ -924,7 +924,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get download_quran_popup_downloading_1 => 'We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'We are preparing the Qur’an just for you, please wait a few seconds!';
+  String get download_quran_popup_downloading_2 => 'Vi preparerar Koranen för just dig, vänligen vänta några sekunder!';
 
   @override
   String get download_quran_popup_downloading_3 => 'Click on \'Download\' to start your journey of reading and reflection.';
@@ -1047,7 +1047,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get auto_detect_location_title => 'Det verkar som att du är långt bort ifrån din Moské';
 
   @override
-  String get auto_detect_location_message => 'Do you want to search for the nearest mosque for accurate prayer times?';
+  String get auto_detect_location_message => 'Vill du söka efter närmsta Moskén för mest korrekta bönetider?';
 
   @override
   String get donation_success_toast => 'Donationen lyckades';
@@ -1284,7 +1284,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get already_in_list => 'finns redan i din lista!';
 
   @override
-  String get got_it => 'Got it!';
+  String get got_it => 'Uppfattat!';
 
   @override
   String get mushaf_warsh => 'Warsh';
@@ -1296,7 +1296,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get select_rewaya => 'Välj Riwayah';
 
   @override
-  String get download_in_progress => 'Download in progress, please wait...';
+  String get download_in_progress => 'Nedladdning pågår, vänligen vänta...';
 
   @override
   String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
@@ -1308,10 +1308,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_language_pt => 'Portugisiska';
 
   @override
-  String get al_zikr => 'Al-Zikr';
+  String get al_zikr => 'Al Dhikr';
 
   @override
-  String get favorite_azkar => 'Favorite Azkar';
+  String get favorite_azkar => 'Favorit Adhkar';
 
   @override
   String get all_azkar => 'All Adhkar';
@@ -1323,7 +1323,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get device_media => 'Device Media';
 
   @override
-  String get add_new_audio => 'Add a new audio file';
+  String get add_new_audio => 'Lägg till en ny ljud fil';
 
   @override
   String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
