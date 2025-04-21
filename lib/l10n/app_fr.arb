@@ -1043,5 +1043,13 @@
     "delete_all": "Tout supprimer",
     "@delete_all": {
         "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Supprimer tous les téléchargements",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Êtes-vous sûr de vouloir supprimer toutes les récits téléchargés ?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
