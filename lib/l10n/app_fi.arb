@@ -1043,5 +1043,13 @@
     "delete_all": "Poista Kaikki",
     "@delete_all": {
         "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Poista Kaikki Lataukset",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Oletko varma, että haluat poistaa kaikki ladatut reseptit?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
