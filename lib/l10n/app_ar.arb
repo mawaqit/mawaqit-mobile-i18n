@@ -1043,5 +1043,13 @@
     "delete_all": "حذف الكل",
     "@delete_all": {
         "description": "-> delete_all"
+    },
+    "delete_all_downloads": "حذف جميع التنزيلات",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "هل أنت متأكد من أنك تريد حذف جميع التصويبات التي تم تنزيلها؟",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
