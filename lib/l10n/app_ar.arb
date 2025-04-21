@@ -1039,5 +1039,9 @@
         "description": "-> prayer_times_set_by_mosque"
     },
     "hasan_nahi": "حسن ناهي",
-    "albanian": "الألبانية"
+    "albanian": "الألبانية",
+    "delete_all": "حذف الكل",
+    "@delete_all": {
+        "description": "-> delete_all"
+    }
 }
