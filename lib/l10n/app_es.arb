@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1043,5 +1043,13 @@
     "delete_all": "Borrar todo",
     "@delete_all": {
         "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Borrar todas las descargas",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "¿Está seguro que desea eliminar todas las recitaciones descargadas?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
