@@ -1044,8 +1044,12 @@
     "@delete_all": {
         "description": "-> delete_all"
     },
-    "delete_all_downloads": "Delete All Downloads",
+    "delete_all_downloads": "Verwijder alle Downloads",
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Weet je zeker dat je alle gedownloade overwegingen wilt verwijderen?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
