@@ -1039,5 +1039,25 @@
         "description": "-> prayer_times_set_by_mosque"
     },
     "hasan_nahi": "Hasan Nahi",
-    "albanian": "Albania"
+    "albanian": "Albania",
+    "delete_all": "Poista Kaikki",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Poista Kaikki Lataukset",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Oletko varma, että haluat poistaa kaikki ladatut reseptit?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Kaikki reseptit poistettu onnistuneesti",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Kaikkia reseptejä ei voitu poistaa",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    }
 }

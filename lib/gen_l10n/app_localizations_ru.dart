@@ -1423,4 +1423,19 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get albanian => 'Албанский';
+
+  @override
+  String get delete_all => 'Удалить все';
+
+  @override
+  String get delete_all_downloads => 'Удалить все загрузки';
+
+  @override
+  String get delete_recitations_message => 'Вы уверены, что хотите удалить все загруженные исправления?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Все загруженные повторы успешно удалены';
+
+  @override
+  String get failed_delete_recitations => 'Не удалось удалить все повторы';
 }

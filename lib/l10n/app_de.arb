@@ -1039,5 +1039,25 @@
         "description": "-> prayer_times_set_by_mosque"
     },
     "hasan_nahi": "Hasan Nahi",
-    "albanian": "Albanisch"
+    "albanian": "Albanisch",
+    "delete_all": "Alle löschen",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Alle Downloads löschen",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Sind Sie sicher, dass Sie alle heruntergeladenen Rezitationen löschen möchten?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Alle heruntergeladenen Rezitationen erfolgreich gelöscht",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Fehler beim Löschen aller Rezitationen",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    }
 }

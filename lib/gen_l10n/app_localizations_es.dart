@@ -1423,4 +1423,19 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get albanian => 'Albanés';
+
+  @override
+  String get delete_all => 'Borrar todo';
+
+  @override
+  String get delete_all_downloads => 'Borrar todas las descargas';
+
+  @override
+  String get delete_recitations_message => '¿Está seguro que desea eliminar todas las recitaciones descargadas?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Todas las recitaciones descargadas se han eliminado correctamente';
+
+  @override
+  String get failed_delete_recitations => 'Error al eliminar todas las recetas';
 }

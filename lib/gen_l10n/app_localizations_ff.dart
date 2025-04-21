@@ -1423,4 +1423,19 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get albanian => 'Albanian';
+
+  @override
+  String get delete_all => 'Delete All';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
+
+  @override
+  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+
+  @override
+  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+
+  @override
+  String get failed_delete_recitations => 'Failed to delete all recitations';
 }

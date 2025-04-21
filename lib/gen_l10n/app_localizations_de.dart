@@ -1423,4 +1423,19 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get albanian => 'Albanisch';
+
+  @override
+  String get delete_all => 'Alle löschen';
+
+  @override
+  String get delete_all_downloads => 'Alle Downloads löschen';
+
+  @override
+  String get delete_recitations_message => 'Sind Sie sicher, dass Sie alle heruntergeladenen Rezitationen löschen möchten?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Alle heruntergeladenen Rezitationen erfolgreich gelöscht';
+
+  @override
+  String get failed_delete_recitations => 'Fehler beim Löschen aller Rezitationen';
 }

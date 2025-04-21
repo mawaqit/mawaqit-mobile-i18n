@@ -2974,6 +2974,36 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Albanian'**
   String get albanian;
+
+  /// -> delete_all
+  ///
+  /// In en, this message translates to:
+  /// **'Delete All'**
+  String get delete_all;
+
+  /// -> delete_all_downloads
+  ///
+  /// In en, this message translates to:
+  /// **'Delete All Downloads'**
+  String get delete_all_downloads;
+
+  /// -> delete_recitations_message
+  ///
+  /// In en, this message translates to:
+  /// **'Are you sure you want to delete all downloaded recitations?'**
+  String get delete_recitations_message;
+
+  /// -> downloaded_deleted_successfully
+  ///
+  /// In en, this message translates to:
+  /// **'All downloaded recitations deleted successfully'**
+  String get downloaded_deleted_successfully;
+
+  /// failed_delete_recitations
+  ///
+  /// In en, this message translates to:
+  /// **'Failed to delete all recitations'**
+  String get failed_delete_recitations;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

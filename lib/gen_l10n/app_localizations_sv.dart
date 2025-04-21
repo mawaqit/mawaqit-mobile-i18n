@@ -87,7 +87,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_CheckForUpdates => 'Sök efter uppdateringar';
 
   @override
-  String get settings_Credits => 'Credits';
+  String get settings_Credits => 'Krediter';
 
   @override
   String get settings_AboutUs => 'Om oss';
@@ -228,7 +228,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_settings => 'Inställningar';
 
   @override
-  String get no_services_text => 'Mosques didn\'t provided this info';
+  String get no_services_text => 'Moskén har inte gett denna information';
 
   @override
   String get welcome => 'Välkommen till';
@@ -261,7 +261,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get at_least_one_mosque => 'Lägg till åtminstone en moské för att fortsätta';
 
   @override
-  String get set_up_your_prayer => 'Set up your prayer';
+  String get set_up_your_prayer => 'Sätt din bön';
 
   @override
   String get notifications => 'Notifikationer';
@@ -306,7 +306,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_here => 'Sök här';
 
   @override
-  String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
+  String get enter_at_least_3_char => 'Ange minst 3 tecken för att söka';
 
   @override
   String get jumua1 => 'Jumu\'a 1';
@@ -336,13 +336,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get itinerary => 'Itinerary';
 
   @override
-  String get call => 'Call';
+  String get call => 'Samtal';
 
   @override
   String get dnd => 'Stör ej';
 
   @override
-  String get battery_optimize => 'Battery Optimization';
+  String get battery_optimize => 'Batterioptimering';
 
   @override
   String get power_saver => 'Power Saver';
@@ -417,7 +417,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get mosque_DonateText2 => 'Till Moské';
 
   @override
-  String get mosque_Error_CouldNotLaunch => 'Could not launch';
+  String get mosque_Error_CouldNotLaunch => 'Kunde inte börja';
 
   @override
   String get mosque_PrayerTimes => 'Bönetider';
@@ -438,7 +438,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
 
   @override
-  String get mosque_Facilities_Parking => 'Perkering';
+  String get mosque_Facilities_Parking => 'Parkering';
 
   @override
   String get mosque_Facilities_DisabledAccess => 'Disabled Access';
@@ -450,34 +450,34 @@ class AppLocalizationsSv extends AppLocalizations {
   String get mosque_Facilities_WomanSpace => 'Kvinno-område';
 
   @override
-  String get mosque_Facilities_AdultsCourse => 'Adults Courses';
+  String get mosque_Facilities_AdultsCourse => 'Äldre kurser';
 
   @override
-  String get mosque_Facilities_ChildrenCourses => 'Children Courses';
+  String get mosque_Facilities_ChildrenCourses => 'Barn kurser';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
+  String get mosque_Facilities_SalatAlAid => 'Salatul Eid';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'Salat Al Janaza';
+  String get mosque_Facilities_SalatAlJanaza => 'Salatul Janaza';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'Iftar Ramadan';
+  String get mosques_Facilities_IftarRamadan => 'Iftar Ramdan';
 
   @override
-  String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
+  String get mosque_facilities_Info => 'All detta information är fyllt av de som tar hand om Moskén';
 
   @override
-  String get in_ => 'in';
+  String get in_ => 'i';
 
   @override
   String get imsak => 'Imsak';
 
   @override
-  String get eid => 'Eid prayer at';
+  String get eid => 'Eid Bön på';
 
   @override
-  String get minutes => 'Minutes';
+  String get minutes => 'Minuter';
 
   @override
   String get jumua2 => 'Jum\'a 2';
@@ -486,79 +486,79 @@ class AppLocalizationsSv extends AppLocalizations {
   String get please_update => 'A newer version of MAWAQIT is available, please update';
 
   @override
-  String get update => 'Update';
+  String get update => 'Uppdatering';
 
   @override
-  String get tutorial_skip => 'Skip tutorial';
+  String get tutorial_skip => 'Skippa guiden';
 
   @override
-  String get tutorial_next => 'Next';
+  String get tutorial_next => 'Nästa';
 
   @override
-  String get tutorial_title_main_mosque => 'Your main mosque';
+  String get tutorial_title_main_mosque => 'Din huvud Moské';
 
   @override
-  String get tutorial_text_main_mosque => 'Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.';
+  String get tutorial_text_main_mosque => 'Din huvud Moske visar här.\nDu kan svepa åt vänster och höger för att växla mellan dina favorit Moskén.';
 
   @override
-  String get tutorial_title_countdown => 'Next prayer indicator';
+  String get tutorial_title_countdown => 'Nästa Bön indikator';
 
   @override
-  String get tutorial_text_countdown => 'This countdown shows you the time remaining before the next prayer.';
+  String get tutorial_text_countdown => 'Den här nedräkningen visar hur mycket är kvar till nästa bön.';
 
   @override
-  String get tutorial_title_mosque_info => 'Mosque Information';
+  String get tutorial_title_mosque_info => 'Moske information';
 
   @override
   String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
 
   @override
-  String get tutorial_title_announcements => 'Mosque messages and announcements';
+  String get tutorial_title_announcements => 'Moskéns meddelande och annonseringar';
 
   @override
   String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
 
   @override
-  String get onboarding_title_1 => 'Select your language';
+  String get onboarding_title_1 => 'Välj språk';
 
   @override
-  String get onboarding_text_1 => 'Select your preferred language from the list below';
+  String get onboarding_text_1 => 'Välj din preparerad språk från listan nere';
 
   @override
-  String get onboarding_title_2 => 'Welcome to MAWAQIT';
+  String get onboarding_title_2 => 'Välkommen till MAWAQIT';
 
   @override
   String get onboarding_text_2 => 'MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times';
 
   @override
-  String get onboarding_title_3 => 'Select a Dark/Light theme';
+  String get onboarding_title_3 => 'Välj mörk/ljus tema';
 
   @override
   String get onboarding_text_3 => 'Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort';
 
   @override
-  String get onboarding_title_4 => 'Add your main Mosque';
+  String get onboarding_title_4 => 'Lägg till din huvud Moské';
 
   @override
   String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
 
   @override
-  String get loading => 'Loading';
+  String get loading => 'Laddar';
 
   @override
-  String get loading_please_wait => 'Loading... Please wait';
+  String get loading_please_wait => 'Laddar... vänta lite';
 
   @override
   String get loading_loaded => 'Nedladdning klart';
 
   @override
-  String get favorites_edit => 'Edit Favorite Mosques';
+  String get favorites_edit => 'Ändra favorit Moské';
 
   @override
   String get minutes_to_athan => 'minuter till Adhan';
 
   @override
-  String get show_tutorial => 'Review the tutorial';
+  String get show_tutorial => 'Se över Guiden';
 
   @override
   String get onboarding_chose_mosque_please => 'Vänligen välj en moské från sök listan';
@@ -621,7 +621,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
 
   @override
-  String get calendar_downloading => 'Downloading calendar...';
+  String get calendar_downloading => 'Nedladdar kalender...';
 
   @override
   String get location_service_disabled => 'Location Service is disabled, please enable it.';
@@ -657,13 +657,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_no_result_for_text => 'Vi hittade inga resultat för';
 
   @override
-  String get surah_audio_downloading => 'Surah Audio Downloading...';
+  String get surah_audio_downloading => 'Surah ljud nedladdar...';
 
   @override
-  String get msg_internet_connection => 'You don\'t have any internet connection';
+  String get msg_internet_connection => 'Du har ingen internetanslutning';
 
   @override
-  String get read_quran => 'Read Quran';
+  String get read_quran => 'Läs Quran';
 
   @override
   String get ayahs => 'Ayaat';
@@ -684,10 +684,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get surah_number => 'Surah nummer';
 
   @override
-  String get quran_browsing => 'Browsing';
+  String get quran_browsing => 'Sök';
 
   @override
-  String get quran_search_placeholder => 'Search by name of surah, number...';
+  String get quran_search_placeholder => 'Sök med namn av Surah, nummer...';
 
   @override
   String get quran_verse_search => 'Vers sökning';
@@ -699,13 +699,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get quran_mushaf => 'Mushaf';
 
   @override
-  String get quran_juzz => 'Juzz';
+  String get quran_juzz => 'Juz';
 
   @override
   String get ayah => 'Ayah';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'Verser';
 
   @override
   String get surah => 'Surah';
@@ -714,82 +714,82 @@ class AppLocalizationsSv extends AppLocalizations {
   String get continue_reading => 'Continue Reading';
 
   @override
-  String get bookmarks => 'Bookmarks';
+  String get bookmarks => 'Bokmärken';
 
   @override
   String get juzz => 'Juzz';
 
   @override
-  String get quran_page => 'Page';
+  String get quran_page => 'Sida';
 
   @override
   String get quran_turning_page => 'Turning page';
 
   @override
-  String get quran_from_right_to_left => 'From right to left';
+  String get quran_from_right_to_left => 'Från höger till vänster';
 
   @override
-  String get quran_from_left_to_right => 'From left to right';
+  String get quran_from_left_to_right => 'Från vänster till höger';
 
   @override
-  String get quran_from_top_to_bottom => 'From top to bottom';
+  String get quran_from_top_to_bottom => 'Från toppen till botten';
 
   @override
-  String get quran_from_bottom_to_top => 'From bottom to top';
+  String get quran_from_bottom_to_top => 'Från botten till toppen';
 
   @override
-  String get quran_pages_color => 'Pages color';
+  String get quran_pages_color => 'Sidans färg';
 
   @override
-  String get english_tr => 'English';
+  String get english_tr => 'Engelska';
 
   @override
-  String get french_tr => 'French';
+  String get french_tr => 'Franska';
 
   @override
-  String get spanish_tr => 'Spanish';
+  String get spanish_tr => 'Spanska';
 
   @override
   String get muhammad_hamidullah => 'Muhammad Hamidullah';
 
   @override
-  String get abdullah_yusuf_ali => 'Abdullah Yusuf Ali';
+  String get abdullah_yusuf_ali => 'Abdullah Yusef Ali';
 
   @override
-  String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
+  String get sheikh_isa_garcia => 'Shaykh Isa Garcia';
 
   @override
-  String get reciters => 'Reciters';
+  String get reciters => 'Recitatörer';
 
   @override
-  String get favorite_reciters => 'Favorite reciters';
+  String get favorite_reciters => 'Favorit Recitatörer';
 
   @override
-  String get surahs_downloaded => 'Surahs downloaded';
+  String get surahs_downloaded => 'Surah nedladdad';
 
   @override
-  String get surahs_chapter => 'Surahs - Chapter';
+  String get surahs_chapter => 'Surahs- kapitel';
 
   @override
-  String get my_likes => 'My Likes';
+  String get my_likes => 'Mina likes';
 
   @override
-  String get cancel => 'Cancel';
+  String get cancel => 'Avbryt';
 
   @override
-  String get next => 'Next';
+  String get next => 'Nästa';
 
   @override
-  String get search_surah => 'Search Surah';
+  String get search_surah => 'Sök Surah';
 
   @override
-  String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
+  String get not_downloaded_recitation => 'Du har inte nedladdat någon recitation ännu.';
 
   @override
-  String get not_favorite_reciter => 'You have not marked any reciter favorite yet.';
+  String get not_favorite_reciter => 'Du har inte markerat någon favorit recitatör ännu.';
 
   @override
-  String get search_reciter => 'Search Reciter';
+  String get search_reciter => 'Sök recitatör';
 
   @override
   String get al_quran_al_kareem => 'Al Quran Al Kareem';
@@ -798,37 +798,37 @@ class AppLocalizationsSv extends AppLocalizations {
   String get surahs => 'Surahs';
 
   @override
-  String get chapters => 'Chapters';
+  String get chapters => 'Kapitel';
 
   @override
-  String get calculation_info => 'The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.';
+  String get calculation_info => 'Inställningar in den här sektionen berör endast bönetider som är kalkyleras from din geografiska plats, och påverkar inte moskéernas bönetider.';
 
   @override
-  String get calculation_madhab => 'Jurisprudence - Madhab';
+  String get calculation_madhab => 'Juridik - Madhhab';
 
   @override
-  String get calculation_madhab_shafii => 'Shafi’i, Hanbali and Maliki';
+  String get calculation_madhab_shafii => 'Shafi\'i, Hanbali och Maliki';
 
   @override
-  String get calculation_madhab_shafii_countries => 'Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...';
+  String get calculation_madhab_shafii_countries => 'Jordanien, Palestina, Yemen, Somalia, Eritrea, Malaysia, Indonesien, Brunei, södra Egypten, Saudi Arabien, Qatar, Nordafrika, Västafrika, Förenade Arabemiraten, Kuwait...';
 
   @override
   String get calculation_madhab_hanafi => 'Hanafi';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...';
+  String get calculation_madhab_hanafi_countries => 'Levanten, Pakistan, Afghanistan, Indien, Bangladesh, Irak, Turkiet, Ryssland, China, Balkan...';
 
   @override
-  String get calculation_methods => 'Calculation methods';
+  String get calculation_methods => 'Kalkylering Metod';
 
   @override
-  String get calculation_methods_france => 'Muslim of France (ex UOIF)';
+  String get calculation_methods_france => 'Muslimer av Frankrike (tidigare UOIF)';
 
   @override
-  String get calculation_methods_algeria => 'Algerian Ministry of Religious Affairs and Wakfs';
+  String get calculation_methods_algeria => 'Algeriets ministerium för religiösa angelägenheter och religiösa donationer (Waqf)';
 
   @override
-  String get calculation_methods_morocco => 'Moroccan Ministry of Wakfs and Islamic Affairs';
+  String get calculation_methods_morocco => 'Marockos ministerium för religiösa donationer (waqf) och islamiska angelägenheter';
 
   @override
   String get calculation_methods_muslim_world => 'Muslim World League';
@@ -843,13 +843,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_methods_umm_al_qura => 'Umm al-Qura University, Makkah';
 
   @override
-  String get calculation_methods_dubai => 'The Gulf Region';
+  String get calculation_methods_dubai => 'Gulfregionen';
 
   @override
-  String get calculation_methods_moon => 'Moon Sighting Committee';
+  String get calculation_methods_moon => 'Kommitté för månskådning';
 
   @override
-  String get calculation_methods_north_america => 'Islamic Society of North America';
+  String get calculation_methods_north_america => 'Islamiska samhället i nordamerikanska';
 
   @override
   String get calculation_methods_kuwait => 'Kuwait';
@@ -861,7 +861,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_methods_singapore => 'Singapore';
 
   @override
-  String get calculation_methods_turkey => 'Turkey';
+  String get calculation_methods_turkey => 'Turkiet';
 
   @override
   String get calculation_methods_tehran => 'Institute of Geophysics, University of Tehran';
@@ -876,19 +876,19 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_high_latitude => 'Higher latitudes';
 
   @override
-  String get calculation_high_latitude_none => 'None';
+  String get calculation_high_latitude_none => 'Ingen';
 
   @override
-  String get calculation_high_latitude_middle => 'Middle of the night';
+  String get calculation_high_latitude_middle => 'Mitten av natten';
 
   @override
-  String get calculation_high_latitude_one_seventh => 'One-seventh of the night';
+  String get calculation_high_latitude_one_seventh => 'En sjundedel av natten';
 
   @override
   String get calculation_high_latitude_angle_based => 'Angle based method';
 
   @override
-  String get calculation_adjustment => 'Manual correction';
+  String get calculation_adjustment => 'Manual korrigering';
 
   @override
   String get calculation_adjustment_subtitle => 'Prayer adjustment and custom angles';
@@ -897,7 +897,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_adjustment_prayers => 'Prayer adjustments';
 
   @override
-  String get calculation_adjustment_prayers_minutes => 'minutes';
+  String get calculation_adjustment_prayers_minutes => 'minuter';
 
   @override
   String get calculation_adjustment_angles => 'Custom angles';
@@ -906,13 +906,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_prayer_custom_angle => 'Custom angle for';
 
   @override
-  String get error_download_quran_failed => 'Failed to download Quran';
+  String get error_download_quran_failed => 'Misslyckades att nedladda Koranen';
 
   @override
-  String get downloading_quran => 'Downloading Quran...';
+  String get downloading_quran => 'Nedladdar Koranen...';
 
   @override
-  String get processing => 'Processing...';
+  String get processing => 'Processar...';
 
   @override
   String get copied_to_clipboard => 'Copied to your clipboard !';
@@ -924,7 +924,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get download_quran_popup_downloading_1 => 'We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'We are preparing the Qur’an just for you, please wait a few seconds!';
+  String get download_quran_popup_downloading_2 => 'Vi preparerar Koranen för just dig, vänligen vänta några sekunder!';
 
   @override
   String get download_quran_popup_downloading_3 => 'Click on \'Download\' to start your journey of reading and reflection.';
@@ -936,40 +936,40 @@ class AppLocalizationsSv extends AppLocalizations {
   String get download_quran_popup_cancelled => 'Something went wrong, please hit the download button again!';
 
   @override
-  String get download => 'Download';
+  String get download => 'Nedladda';
 
   @override
-  String get continue_download => 'Continue the download';
+  String get continue_download => 'Fortsätt med nedladdningen';
 
   @override
-  String get cancel_download => 'Cancel the download';
+  String get cancel_download => 'Avbryt nedladdningen';
 
   @override
-  String get download_completed => 'Download Completed';
+  String get download_completed => 'Nedladdning avslutad';
 
   @override
-  String get download_failed => 'Download Failed';
+  String get download_failed => 'Nedladdning misslyckats';
 
   @override
-  String get download_pages => 'Download the pages';
+  String get download_pages => 'Nedladda sidorna';
 
   @override
-  String get notification => 'Notification';
+  String get notification => 'Notifikation';
 
   @override
   String get notification_not_supported_below_7 => 'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
-  String get battery_optimization => 'Battery optimization';
+  String get battery_optimization => 'Batterioptimering';
 
   @override
   String get battery_optimization_subtitle => 'To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.';
 
   @override
-  String get allow => 'Allow';
+  String get allow => 'Tillåt';
 
   @override
-  String get deny => 'Deny';
+  String get deny => 'Förneka';
 
   @override
   String get force_notification => 'Force notifications';
@@ -978,19 +978,19 @@ class AppLocalizationsSv extends AppLocalizations {
   String get tutorial_text_foreground_service => 'Tapping on it allows you to toggle the \'Foreground Service\' on or off';
 
   @override
-  String get enable => 'ON';
+  String get enable => 'På';
 
   @override
-  String get disable => 'OFF';
+  String get disable => 'Av';
 
   @override
-  String get do_not_show_again => 'Don\'t show it again';
+  String get do_not_show_again => 'Visa inte det igen';
 
   @override
   String get force_notification_title => 'MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.';
 
   @override
-  String get force_notification_body => 'Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)';
+  String get force_notification_body => 'Bönen är alla troendes plikt, knuten till bestämda tider. An-Nisa\', Ayah (103)';
 
   @override
   String get force_notification_dialog1_body => 'By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.';
@@ -1005,13 +1005,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get notification_debugging_details => 'Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.';
 
   @override
-  String get skip => 'Skip';
+  String get skip => 'Skippa';
 
   @override
-  String get agree => 'Agree';
+  String get agree => 'Samtycka';
 
   @override
-  String get return_no_search => 'Return no search';
+  String get return_no_search => 'Ingen resultat returnerad';
 
   @override
   String get backend_environment_switch => 'Backend environment switch';
@@ -1023,7 +1023,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get set_production_environment => 'Set Production Environment';
 
   @override
-  String get delay_notification => 'Delay notification';
+  String get delay_notification => 'Dröj notifikation';
 
   @override
   String get notification_delay_debugging_is => 'Notification Delay debugging is';
@@ -1035,103 +1035,103 @@ class AppLocalizationsSv extends AppLocalizations {
   String get banner => 'Banner';
 
   @override
-  String get show_details => 'Show Details';
+  String get show_details => 'Visa detaljer';
 
   @override
-  String get auto_detect_location => 'Suggest nearest mosque';
+  String get auto_detect_location => 'Föreslå närmaste Moské';
 
   @override
   String get auto_detect_explanation => 'When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.';
 
   @override
-  String get auto_detect_location_title => 'It seems you are distant from your mosque';
+  String get auto_detect_location_title => 'Det verkar som att du är långt bort ifrån din Moské';
 
   @override
-  String get auto_detect_location_message => 'Do you want to search for the nearest mosque for accurate prayer times?';
+  String get auto_detect_location_message => 'Vill du söka efter närmsta Moskén för mest korrekta bönetider?';
 
   @override
-  String get donation_success_toast => 'Donation successfully done';
+  String get donation_success_toast => 'Donationen lyckades';
 
   @override
-  String get donation_success => 'Thank you for your donation, may Allah reward you';
+  String get donation_success => 'Tack för din donation, må Allah belöna dig';
 
   @override
-  String get donation_failed => 'Donation Failed';
+  String get donation_failed => 'Donation misslyckades';
 
   @override
-  String get donate_for_good => 'DONATE FOR GOOD';
+  String get donate_for_good => 'Donera för gott';
 
   @override
-  String get enter_amount_hint => 'Enter amount';
+  String get enter_amount_hint => 'Sätt in en mängd';
 
   @override
-  String get enter_donation_amount => 'Enter donation amount';
+  String get enter_donation_amount => 'Lägg till donation mängden';
 
   @override
-  String get google_pay_not_available => 'Google Pay is not available in this device';
+  String get google_pay_not_available => 'Google Pay är inte tillgänglig för denna enhet';
 
   @override
-  String get error_performing_donation => 'There was an error while trying to perform the donation';
+  String get error_performing_donation => 'Det fans ett fel vid försök av donation';
 
   @override
-  String get recurring_pay_text => 'Make this donation monthly.';
+  String get recurring_pay_text => 'Gör den här donation månadsvis.';
 
   @override
-  String get adjust_angles => 'Adjust Angles';
+  String get adjust_angles => 'Justera vinkel';
 
   @override
-  String get silent => 'Silent';
+  String get silent => 'Tyst';
 
   @override
-  String get default_ => 'Default';
+  String get default_ => 'Vanligt';
 
   @override
-  String get muazzin => 'Muazzin';
+  String get muazzin => 'Muadhin';
 
   @override
   String get information => 'Information';
 
   @override
-  String get news => 'News';
+  String get news => 'Nyheter';
 
   @override
-  String get calendar => 'Calendar';
+  String get calendar => 'Kalender';
 
   @override
   String get system => 'System';
 
   @override
-  String get change_mosque_order => 'Drag and drop mosques to change order and to set the main mosque';
+  String get change_mosque_order => 'Dra och droppa Moskén för att ändra ordning och för att bestämma huvud Moské';
 
   @override
-  String get remove => 'Remove';
+  String get remove => 'Ta bort';
 
   @override
-  String get save => 'Save';
+  String get save => 'Spara';
 
   @override
-  String get main_mosque => 'Main mosque';
+  String get main_mosque => 'Huvud valda Moskeen';
 
   @override
-  String get mosques => 'Mosques';
+  String get mosques => 'Moskeer';
 
   @override
-  String get no_news => 'No news from the mosque';
+  String get no_news => 'Inga nyheter from Moskeen';
 
   @override
-  String get mawaqit_notification => 'Mawaqit Notification';
+  String get mawaqit_notification => 'Mawaqit notifikation';
 
   @override
-  String get no_mawaqit_notification => 'No notification from Mawaqit';
+  String get no_mawaqit_notification => 'Inga notifikationer från Mawaqit';
 
   @override
-  String get meccan => 'Meccan';
+  String get meccan => 'Mekansk';
 
   @override
-  String get medinan => 'Medinan';
+  String get medinan => 'Medinsk';
 
   @override
-  String get montada_islamic_foundation => 'Montada Islamic Foundation';
+  String get montada_islamic_foundation => 'Montada Islamiska Stiftelsen';
 
   @override
   String get rashid_maash => 'Rashid Maash';
@@ -1143,22 +1143,22 @@ class AppLocalizationsSv extends AppLocalizations {
   String get dr_mustafa_khattab => 'Dr. Mustafa Khattab';
 
   @override
-  String get frank_bubenheim_and_nadeem => 'Frank Bubenheim and Nadeem';
+  String get frank_bubenheim_and_nadeem => 'Frank Bubenheim och Nadeem';
 
   @override
   String get abu_reda_muhammad_ibn_ahmad => 'Abu Reda Muhammad ibn Ahmad';
 
   @override
-  String get unknown_author => 'Unknown Author';
+  String get unknown_author => 'Okänd skribent';
 
   @override
-  String get translation_settings => 'Translation settings';
+  String get translation_settings => 'Translation inställningar';
 
   @override
-  String get reading => 'Reading';
+  String get reading => 'Läses';
 
   @override
-  String get listening => 'Listening';
+  String get listening => 'Lyssnar';
 
   @override
   String get font_size => 'Font-size';
@@ -1170,91 +1170,91 @@ class AppLocalizationsSv extends AppLocalizations {
   String get horizontal => 'Horizontal';
 
   @override
-  String get vertical => 'Vertical';
+  String get vertical => 'Vertikal';
 
   @override
-  String get add_page_bookmarks => 'Add page to bookmarks';
+  String get add_page_bookmarks => 'Lägg till sida till bokmärken';
 
   @override
-  String get remove_page_bookmarks => 'Remove the page from bookmarks';
+  String get remove_page_bookmarks => 'Ta bort sida från bokmärken';
 
   @override
-  String get no_bookmarks => 'No bookmarks';
+  String get no_bookmarks => 'Inga bokmärken';
 
   @override
-  String get liked => 'Liked';
+  String get liked => 'Gillat';
 
   @override
-  String get all_recitators => 'All recitators';
+  String get all_recitators => 'Alla Recitatörer';
 
   @override
-  String get downloaded => 'Downloaded';
+  String get downloaded => 'Nedladdad';
 
   @override
-  String get search_for_recitator => 'Search for a recitator';
+  String get search_for_recitator => 'Sök efter en recitatör';
 
   @override
-  String get search_for_surah => 'Search for a surah';
+  String get search_for_surah => 'Sök efter en Surah';
 
   @override
-  String get search_for_fav_recitator => 'Search for a favorite recitator';
+  String get search_for_fav_recitator => 'Sök för en favorit recitatör';
 
   @override
-  String get listen_to_quran => 'LISTEN TO QURAN';
+  String get listen_to_quran => 'Lyssna på Koranen';
 
   @override
-  String get search_hint_text => 'Search for a mosque, or a city';
+  String get search_hint_text => 'Sök efter en Moské, eller en stad';
 
   @override
-  String get downloading => 'Downloading';
+  String get downloading => 'Nedladdar';
 
   @override
-  String get cant_download_more_than_3 => 'Cannot download more than 3 at the same time.';
+  String get cant_download_more_than_3 => 'Kan inte Nedladda mer än 3 på samma gång.';
 
   @override
-  String get boost => 'Boost';
+  String get boost => 'Öka';
 
   @override
-  String get recitation_deleted_successfully => 'Recitation deleted successfully';
+  String get recitation_deleted_successfully => 'Recitation borttagen';
 
   @override
-  String get quran => 'Quran';
+  String get quran => 'Koran';
 
   @override
   String get qibla => 'Qibla';
 
   @override
-  String get search => 'Search';
+  String get search => 'Sök';
 
   @override
-  String get more => 'More';
+  String get more => 'Mer';
 
   @override
-  String get download_cancelled => 'Download cancelled';
+  String get download_cancelled => 'Nedladdning nekad';
 
   @override
-  String get no_virtual_mosque_found => 'Sorry, we don\'t find any mosque around you';
+  String get no_virtual_mosque_found => 'Ursäkta, vi hittade inga moskéer nära dig';
 
   @override
-  String get no_surah_found => 'No surah found';
+  String get no_surah_found => 'Ingen Surah hittades';
 
   @override
-  String get no_favorite_recitor_found => 'No favorite recitator found';
+  String get no_favorite_recitor_found => 'Ingen favorit recitatör hittades';
 
   @override
-  String get no_recitator_found => 'No recitator found';
+  String get no_recitator_found => 'Ingen recitatör hittades';
 
   @override
-  String get empty_quran_search => 'Search results will appear here';
+  String get empty_quran_search => 'Sök resultat hittas här';
 
   @override
-  String get no_bookmark_ayah => 'No bookmarks available. Please long-press on the ayah you wish to bookmark.';
+  String get no_bookmark_ayah => 'Inga bokmärken tillgängliga. Håll ned versen du vill bokmärka.';
 
   @override
-  String get page => 'Page';
+  String get page => 'Sida';
 
   @override
-  String get prayer_times_in => 'Prayer times in';
+  String get prayer_times_in => 'Bönetider i';
 
   @override
   String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
@@ -1269,22 +1269,22 @@ class AppLocalizationsSv extends AppLocalizations {
   String get update_latest_quran => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get set_notification_for_all_parayer => 'Set this for every prayer';
+  String get set_notification_for_all_parayer => 'Sätt upp för varje bön';
 
   @override
-  String get powered_by_mawaqit => 'Powered by MAWAQIT';
+  String get powered_by_mawaqit => 'Drivs av MAWAQIT';
 
   @override
-  String get adjust_hijri_date => 'Adjust Hijri Date';
+  String get adjust_hijri_date => 'Justera Hijri Datum';
 
   @override
-  String get prayer_times_by_location => 'Prayer times by location';
+  String get prayer_times_by_location => 'Bönetid bestämd beroende på lokal';
 
   @override
-  String get already_in_list => 'is already in your list!';
+  String get already_in_list => 'finns redan i din lista!';
 
   @override
-  String get got_it => 'Got it!';
+  String get got_it => 'Uppfattat!';
 
   @override
   String get mushaf_warsh => 'Warsh';
@@ -1293,10 +1293,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get mushaf_hafs => 'Hafs';
 
   @override
-  String get select_rewaya => 'Select Rewaya';
+  String get select_rewaya => 'Välj Riwayah';
 
   @override
-  String get download_in_progress => 'Download in progress, please wait...';
+  String get download_in_progress => 'Nedladdning pågår, vänligen vänta...';
 
   @override
   String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
@@ -1305,16 +1305,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get helmi_nasr => 'Dr. Helmi Nasr';
 
   @override
-  String get settings_language_pt => 'Portuguese';
+  String get settings_language_pt => 'Portugisiska';
 
   @override
-  String get al_zikr => 'Al-Zikr';
+  String get al_zikr => 'Al Dhikr';
 
   @override
-  String get favorite_azkar => 'Favorite Azkar';
+  String get favorite_azkar => 'Favorit Adhkar';
 
   @override
-  String get all_azkar => 'All Azkar';
+  String get all_azkar => 'All Adhkar';
 
   @override
   String get device_audio_not_found => 'Device audio not found';
@@ -1323,7 +1323,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get device_media => 'Device Media';
 
   @override
-  String get add_new_audio => 'Add a new audio file';
+  String get add_new_audio => 'Lägg till en ny ljud fil';
 
   @override
   String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
@@ -1335,16 +1335,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
 
   @override
-  String get select_audio_from_device => 'Select audio (mp3) from device.';
+  String get select_audio_from_device => 'Välj ljud (mp3) från enhet.';
 
   @override
   String get add_ticket => 'Add ticket';
 
   @override
-  String get projects => 'Projects';
+  String get projects => 'Projekt';
 
   @override
-  String get fill_form => 'To add your project here fill up this';
+  String get fill_form => 'För att lägga till din projekt fyll upp det här';
 
   @override
   String get form => 'form';
@@ -1356,19 +1356,19 @@ class AppLocalizationsSv extends AppLocalizations {
   String get email_info => 'This email will be used to contact you if you win the draw';
 
   @override
-  String get enter_email => 'Enter your email';
+  String get enter_email => 'Skriv din mejl';
 
   @override
   String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
 
   @override
-  String get submit => 'Submit';
+  String get submit => 'Skicka in';
 
   @override
   String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
 
   @override
-  String get participating_with => 'You\'re participating with';
+  String get participating_with => 'Du deltar med';
 
   @override
   String get no_of_tickets => 'No. of tickets:';
@@ -1398,7 +1398,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get please_enter_email => 'Vänligen skriv ett mejl';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+  String get select_device_audo_for_ios_propmpt => 'Välj en ljudfil, så konverterar vi den till ett iOS-kompatibelt format och klipper den till 30 sekunder på grund av iOS-plattformens begränsningar.';
 
   @override
   String get confirm_deletion => 'Bekräfta radering';
@@ -1423,4 +1423,19 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get albanian => 'Albanska';
+
+  @override
+  String get delete_all => 'Ta bort alla';
+
+  @override
+  String get delete_all_downloads => 'Ta bort alla nedladdningar';
+
+  @override
+  String get delete_recitations_message => 'Är du säker på att du vill ta bort alla hämtade recitationer?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Alla hämtade recitationer har tagits bort';
+
+  @override
+  String get failed_delete_recitations => 'Det gick inte att ta bort alla recitationer';
 }
