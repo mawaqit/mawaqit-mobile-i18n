@@ -1044,8 +1044,12 @@
     "@delete_all": {
         "description": "-> delete_all"
     },
-    "delete_all_downloads": "Delete All Downloads",
+    "delete_all_downloads": "Usuń wszystkie pobrania",
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Czy na pewno chcesz usunąć wszystkie pobrane motywy?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
