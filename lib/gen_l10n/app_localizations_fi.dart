@@ -1423,4 +1423,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get albanian => 'Albania';
+
+  @override
+  String get delete_all => 'Poista Kaikki';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
 }

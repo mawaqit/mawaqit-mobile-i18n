@@ -2974,6 +2974,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Albanian'**
   String get albanian;
+
+  /// -> delete_all
+  ///
+  /// In en, this message translates to:
+  /// **'Delete All'**
+  String get delete_all;
+
+  /// -> delete_all_downloads
+  ///
+  /// In en, this message translates to:
+  /// **'Delete All Downloads'**
+  String get delete_all_downloads;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

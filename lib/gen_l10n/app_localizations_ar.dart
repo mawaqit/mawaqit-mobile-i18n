@@ -1423,4 +1423,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get albanian => 'الألبانية';
+
+  @override
+  String get delete_all => 'حذف الكل';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
 }

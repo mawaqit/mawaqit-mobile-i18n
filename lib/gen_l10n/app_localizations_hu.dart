@@ -1423,4 +1423,10 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get albanian => 'Albán';
+
+  @override
+  String get delete_all => 'Delete All';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
 }

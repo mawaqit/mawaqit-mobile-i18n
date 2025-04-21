@@ -1423,4 +1423,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get albanian => 'Albanska';
+
+  @override
+  String get delete_all => 'Ta bort alla';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
 }

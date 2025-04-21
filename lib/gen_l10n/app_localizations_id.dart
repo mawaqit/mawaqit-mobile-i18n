@@ -1423,4 +1423,10 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get albanian => 'Albania';
+
+  @override
+  String get delete_all => 'Delete All';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
 }

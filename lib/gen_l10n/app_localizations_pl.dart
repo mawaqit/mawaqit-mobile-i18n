@@ -1423,4 +1423,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get albanian => 'Albański';
+
+  @override
+  String get delete_all => 'Usuń wszystkie';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
 }
