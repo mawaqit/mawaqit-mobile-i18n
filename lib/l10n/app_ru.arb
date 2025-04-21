@@ -1039,5 +1039,13 @@
         "description": "-> prayer_times_set_by_mosque"
     },
     "hasan_nahi": "Хасан Нахи",
-    "albanian": "Албанский"
+    "albanian": "Албанский",
+    "delete_all": "Удалить все",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Delete All Downloads",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    }
 }
