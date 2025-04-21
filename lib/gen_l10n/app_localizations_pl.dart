@@ -1432,4 +1432,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'Czy na pewno chcesz usunąć wszystkie pobrane motywy?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Wszystkie pobrane preambuły zostały usunięte';
+
+  @override
+  String get failed_delete_recitations => 'Nie udało się usunąć wszystkich motywów';
 }

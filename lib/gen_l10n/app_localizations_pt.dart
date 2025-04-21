@@ -1432,4 +1432,10 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'Tem certeza que deseja excluir todos os recibos baixados?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Todas as recitações baixadas excluídas com sucesso';
+
+  @override
+  String get failed_delete_recitations => 'Falha ao excluir todas as recitações';
 }

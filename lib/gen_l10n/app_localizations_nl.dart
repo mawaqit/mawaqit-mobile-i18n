@@ -1432,4 +1432,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'Weet je zeker dat je alle gedownloade overwegingen wilt verwijderen?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Alle gedownloade overwegingen zijn succesvol verwijderd';
+
+  @override
+  String get failed_delete_recitations => 'Kon niet alle overwegingen verwijderen';
 }

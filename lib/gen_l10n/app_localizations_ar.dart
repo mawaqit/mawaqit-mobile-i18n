@@ -1432,4 +1432,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'هل أنت متأكد من أنك تريد حذف جميع التصويبات التي تم تنزيلها؟';
+
+  @override
+  String get downloaded_deleted_successfully => 'تم حذف جميع الإشارات المحملة بنجاح';
+
+  @override
+  String get failed_delete_recitations => 'فشل في حذف جميع الإشارات';
 }

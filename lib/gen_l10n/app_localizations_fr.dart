@@ -1432,4 +1432,10 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'Êtes-vous sûr de vouloir supprimer toutes les récits téléchargés ?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Toutes les récitations téléchargées ont été supprimées avec succès';
+
+  @override
+  String get failed_delete_recitations => 'Impossible de supprimer toutes les récitations';
 }

@@ -1432,4 +1432,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'Вы уверены, что хотите удалить все загруженные исправления?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Все загруженные повторы успешно удалены';
+
+  @override
+  String get failed_delete_recitations => 'Не удалось удалить все повторы';
 }

@@ -1432,4 +1432,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'Är du säker på att du vill ta bort alla hämtade recitationer?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Alla hämtade recitationer har tagits bort';
+
+  @override
+  String get failed_delete_recitations => 'Det gick inte att ta bort alla recitationer';
 }

@@ -1432,4 +1432,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get delete_recitations_message => 'Oletko varma, että haluat poistaa kaikki ladatut reseptit?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Kaikki reseptit poistettu onnistuneesti';
+
+  @override
+  String get failed_delete_recitations => 'Kaikkia reseptejä ei voitu poistaa';
 }
