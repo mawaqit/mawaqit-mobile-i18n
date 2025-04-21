@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1039,5 +1039,13 @@
         "description": "-> prayer_times_set_by_mosque"
     },
     "hasan_nahi": "حسن ناہی",
-    "albanian": "البانی"
+    "albanian": "البانی",
+    "delete_all": "Delete All",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Delete All Downloads",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    }
 }
