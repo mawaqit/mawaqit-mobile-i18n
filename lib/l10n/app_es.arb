@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1051,5 +1051,13 @@
     "delete_recitations_message": "¿Está seguro que desea eliminar todas las recitaciones descargadas?",
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Todas las recitaciones descargadas se han eliminado correctamente",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Error al eliminar todas las recetas",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
     }
 }
