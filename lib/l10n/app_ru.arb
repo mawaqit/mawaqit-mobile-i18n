@@ -1051,5 +1051,13 @@
     "delete_recitations_message": "Вы уверены, что хотите удалить все загруженные исправления?",
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Все загруженные повторы успешно удалены",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Не удалось удалить все повторы",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
     }
 }
