@@ -1051,5 +1051,13 @@
     "delete_recitations_message": "Czy na pewno chcesz usunąć wszystkie pobrane motywy?",
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Wszystkie pobrane preambuły zostały usunięte",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Nie udało się usunąć wszystkich motywów",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
     }
 }
