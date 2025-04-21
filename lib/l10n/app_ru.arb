@@ -1044,8 +1044,12 @@
     "@delete_all": {
         "description": "-> delete_all"
     },
-    "delete_all_downloads": "Delete All Downloads",
+    "delete_all_downloads": "Удалить все загрузки",
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Вы уверены, что хотите удалить все загруженные исправления?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
