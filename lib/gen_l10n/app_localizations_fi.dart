@@ -1428,5 +1428,8 @@ class AppLocalizationsFi extends AppLocalizations {
   String get delete_all => 'Poista Kaikki';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'Poista Kaikki Lataukset';
+
+  @override
+  String get delete_recitations_message => 'Oletko varma, että haluat poistaa kaikki ladatut reseptit?';
 }

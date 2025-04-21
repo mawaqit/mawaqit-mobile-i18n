@@ -1429,4 +1429,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get delete_all_downloads => 'Delete All Downloads';
+
+  @override
+  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
 }

@@ -1428,5 +1428,8 @@ class AppLocalizationsDe extends AppLocalizations {
   String get delete_all => 'Alle löschen';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'Alle Downloads löschen';
+
+  @override
+  String get delete_recitations_message => 'Sind Sie sicher, dass Sie alle heruntergeladenen Rezitationen löschen möchten?';
 }

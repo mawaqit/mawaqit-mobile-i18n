@@ -1428,5 +1428,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get delete_all => 'Удалить все';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'Удалить все загрузки';
+
+  @override
+  String get delete_recitations_message => 'Вы уверены, что хотите удалить все загруженные исправления?';
 }

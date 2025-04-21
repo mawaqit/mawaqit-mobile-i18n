@@ -1428,5 +1428,8 @@ class AppLocalizationsPl extends AppLocalizations {
   String get delete_all => 'Usuń wszystkie';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'Usuń wszystkie pobrania';
+
+  @override
+  String get delete_recitations_message => 'Czy na pewno chcesz usunąć wszystkie pobrane motywy?';
 }

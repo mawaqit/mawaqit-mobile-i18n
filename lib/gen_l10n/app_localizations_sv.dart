@@ -1428,5 +1428,8 @@ class AppLocalizationsSv extends AppLocalizations {
   String get delete_all => 'Ta bort alla';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'Ta bort alla nedladdningar';
+
+  @override
+  String get delete_recitations_message => 'Är du säker på att du vill ta bort alla hämtade recitationer?';
 }

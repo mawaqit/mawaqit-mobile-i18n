@@ -2986,6 +2986,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Delete All Downloads'**
   String get delete_all_downloads;
+
+  /// -> delete_recitations_message
+  ///
+  /// In en, this message translates to:
+  /// **'Are you sure you want to delete all downloaded recitations?'**
+  String get delete_recitations_message;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

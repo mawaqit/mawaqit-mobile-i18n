@@ -1428,5 +1428,8 @@ class AppLocalizationsPt extends AppLocalizations {
   String get delete_all => 'Excluir todos os';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'Excluir todos os downloads';
+
+  @override
+  String get delete_recitations_message => 'Tem certeza que deseja excluir todos os recibos baixados?';
 }
