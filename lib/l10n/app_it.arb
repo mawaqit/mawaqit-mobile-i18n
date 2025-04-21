@@ -1043,5 +1043,13 @@
     "delete_all": "Elimina Tutto",
     "@delete_all": {
         "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Elimina Tutti Gli Scaricamenti",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Sei sicuro di voler eliminare tutte le recitazioni scaricate?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
