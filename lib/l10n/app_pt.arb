@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1044,8 +1044,12 @@
     "@delete_all": {
         "description": "-> delete_all"
     },
-    "delete_all_downloads": "Delete All Downloads",
+    "delete_all_downloads": "Excluir todos os downloads",
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Tem certeza que deseja excluir todos os recibos baixados?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
     }
 }
