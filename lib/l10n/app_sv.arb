@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -277,9 +277,9 @@
     "dnd": "Stör ej",
     "battery_optimize": "Batterioptimering",
     "power_saver": "Power Saver",
-    "permission_message1": "We detected a delayed notification, Please turn off",
-    "permission_message2": "to receive the notification on time.",
-    "notifications_delay_detected": "Notifications delay detected",
+    "permission_message1": "Vi upptäckte en försenad notifikation, vänligen stäng av",
+    "permission_message2": "För att få notifikationen på tid.",
+    "notifications_delay_detected": "Notifikations fördröjning upptäcktes ",
     "open_setting": "Öppna inställningar",
     "noJumua": "Ingen Jumu'a",
     "@noJumua": {
@@ -291,7 +291,7 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
+    "qibla_sensor": "Sensoren i din enhet som MAWAQIT använder för att bestämma Qibla funkar inte som förväntad, vilket påverkar vår kapacitet att visa Qibla riktningen.",
     "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
     "currently_located_at": "För tillfället på",
     "facing_makkah": "Du är vänd mot Makkah",
@@ -386,7 +386,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "By MAWAQIT https://mawaqit.net",
+    "mosque_ByMawaqit": "Av MAWAQIT https://mawaqit.net/",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
@@ -466,7 +466,7 @@
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "En ny version av MAWAQIT är tillgänglig, vänligen uppdatera",
     "@please_update": {
         "description": "_",
         "type": "text"
@@ -511,7 +511,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.",
+    "tutorial_text_mosque_info": "Allt om din Moské, Anläggningar, Adress, Mobil, Mejl, Donation, och mer.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "Här hittar du tiden mellan Adhan och Iqamah i Moskén",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -722,7 +722,7 @@
     "add": "Lägg till",
     "mosque": "Moské",
     "on_boarding_nearest_mosque": "Hitta närmaste Moskén",
-    "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
+    "on_boarding_nearest_mosque_text": "Här är Moskéerna som hittades baserad på din geolokalisering",
     "search_no_result_for_text": "Vi hittade inga resultat för",
     "surah_audio_downloading": "Surah ljud nedladdar...",
     "msg_internet_connection": "Du har ingen internetanslutning",
@@ -785,7 +785,7 @@
     "calculation_methods_muslim_world": "Muslim World League",
     "calculation_methods_egyptian": "Egyptian General Authority of Survey",
     "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
-    "calculation_methods_umm_al_qura": "Umm al-Qura University, Makkah",
+    "calculation_methods_umm_al_qura": "Umm Al-Qura Universititet, Makkah",
     "calculation_methods_dubai": "Gulfregionen",
     "calculation_methods_moon": "Kommitté för månskådning",
     "calculation_methods_north_america": "Islamiska samhället i nordamerikanska",
@@ -826,29 +826,29 @@
     "notification": "Notifikation",
     "notification_not_supported_below_7": "Du kan inte ta emot Athan- eller böntidsnotiser eftersom din enhet använder Android 7 eller äldre.",
     "battery_optimization": "Batterioptimering",
-    "battery_optimization_subtitle": "To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.",
+    "battery_optimization_subtitle": "För att ta emot böntidsnotiser utan avbrott måste du stänga av batterioptimering för MAWAQIT.",
     "allow": "Tillåt",
     "deny": "Förneka",
-    "force_notification": "Force notifications",
-    "tutorial_text_foreground_service": "Tapping on it allows you to toggle the 'Foreground Service' on or off",
+    "force_notification": "Tvinga fram notiser",
+    "tutorial_text_foreground_service": "Genom att trycka på den kan du slå på eller av “Förgrundstjänst”.",
     "enable": "På",
     "disable": "Av",
     "do_not_show_again": "Visa inte det igen",
-    "force_notification_title": "MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.",
+    "force_notification_title": "MAWAQIT är aktiv för att säkerställa att böntidsnotiserna triggas vid rätt tidpunkt.",
     "force_notification_body": "Bönen är alla troendes plikt, knuten till bestämda tider. An-Nisa', Ayah (103)",
-    "force_notification_dialog1_body": "By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.",
-    "force_notification_dialog2_body": "After enabling the 'Force Notifications' swipe down the notification tray you see this notification there",
-    "notification_debugging": "Notification Debugging",
-    "notification_debugging_details": "Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.",
+    "force_notification_dialog1_body": "Genom att aktivera det här alternativet kommer applikationen att förbli aktiv för att säkerställa att böntidsnotiserna triggas vid rätt tidpunkt utan fördröjning. MAWAQIT-appen kommer endast vara aktiv för detta syfte, och du kan när som helst stänga av alternativet från inställningarna.",
+    "force_notification_dialog2_body": "Efter att ha aktiverat “Tvinga notiser”, svep ner notisfältet så ser du den här notisen där.",
+    "notification_debugging": "Notisfelsökning",
+    "notification_debugging_details": "Notisfelsökning är aktiverad. Om du ändrar notisinställningarna kommer felsökningsdata att förloras och felsökningen stängs av.",
     "skip": "Skippa",
     "agree": "Samtycka",
     "return_no_search": "Ingen resultat returnerad",
-    "backend_environment_switch": "Backend environment switch",
+    "backend_environment_switch": "Byte av backend-miljö",
     "set_development_environment": "Set Development Environment",
     "set_production_environment": "Set Production Environment",
     "delay_notification": "Dröj notifikation",
     "notification_delay_debugging_is": "Notification Delay debugging is",
-    "banner_enable": "Banner enable",
+    "banner_enable": "Aktivera banner",
     "banner": "Banner",
     "show_details": "Visa detaljer",
     "auto_detect_location": "Föreslå närmaste Moské",
@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "Inga bokmärken tillgängliga. Håll ned versen du vill bokmärka.",
     "page": "Sida",
     "prayer_times_in": "Bönetider i",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "En ny versionen av Koranen är tillgänglig för nedladdning. Tryck på \"uppdatera\" för att få tillgång till nya förbättringar, och fortsätt din resa med Koranens visdom",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
