@@ -1317,22 +1317,22 @@ class AppLocalizationsSv extends AppLocalizations {
   String get all_azkar => 'All Adhkar';
 
   @override
-  String get device_audio_not_found => 'Device audio not found';
+  String get device_audio_not_found => 'Enhetsljud hittades inte';
 
   @override
-  String get device_media => 'Device Media';
+  String get device_media => 'Enhetsmedia';
 
   @override
   String get add_new_audio => 'Lägg till en ny ljud fil';
 
   @override
-  String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
+  String get selecet_audio_before_delete => 'Du måste lägga till en annan ljudfil för notiser innan du tar bort den valda ljudfilen.';
 
   @override
-  String get addding_file_prompt => 'You can add multiple audio files, but please make sure not to add the same audio file.';
+  String get addding_file_prompt => 'Du kan lägga till flera ljudfiler, men se till att inte lägga till samma ljudfil flera gånger.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+  String get ios_audio_file_picking_prompt => 'Välj en ljudfil med en maximal längd på 30 sekunder eller mindre. En längre ljudfil kan störa din böntidsnotis.';
 
   @override
   String get select_audio_from_device => 'Välj ljud (mp3) från enhet.';
