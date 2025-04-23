@@ -921,7 +921,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get download_quran_popup_title => 'Last touch ups';
 
   @override
-  String get download_quran_popup_downloading_1 => 'We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.';
+  String get download_quran_popup_downloading_1 => 'Vi behöver ladda ner sidorna från Koranen, det tar bara några sekunder. Vi kommer att använda din mobildata, byt till Wi-Fi om det behövs.';
 
   @override
   String get download_quran_popup_downloading_2 => 'Vi preparerar Koranen för just dig, vänligen vänta några sekunder!';
@@ -930,10 +930,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get download_quran_popup_downloading_3 => 'Click on \'Download\' to start your journey of reading and reflection.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'Are you sure you want to cancel the download? Without this data you won\'t be able to read the Quran, the pages will be unavailable.';
+  String get download_quran_popup_confirm_cancel => 'Är du säker att vill avbryta nedladdningen? Utan denna data kommer du inte kunna läsa Koranen, sidorna kommer att vara otillgängliga.';
 
   @override
-  String get download_quran_popup_cancelled => 'Something went wrong, please hit the download button again!';
+  String get download_quran_popup_cancelled => 'Något blev fel, vänligen klicka på ladda ned knappen igen!';
 
   @override
   String get download => 'Nedladda';
@@ -957,7 +957,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get notification => 'Notifikation';
 
   @override
-  String get notification_not_supported_below_7 => 'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
+  String get notification_not_supported_below_7 => 'Du kan inte ta emot Athan- eller böntidsnotiser eftersom din enhet använder Android 7 eller äldre.';
 
   @override
   String get battery_optimization => 'Batterioptimering';
