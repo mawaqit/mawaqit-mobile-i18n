@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -163,7 +163,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "Pip-ljud som ringsignal vid avisering",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -235,7 +235,7 @@
     "search_iOs14_message": "Att ska genom GPS kan ta lite tid på IOS 14, vänligen vänta.",
     "search_error": "Oj, ett internt fel har inträffat",
     "search_your_location": "Din plats",
-    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
+    "search_location_disabled": "Vänligen leta efter en Moské med eller stad, eller tillåt platsåtkomst manuellt i dina inställningar ",
     "search_settings": "Inställningar",
     "no_services_text": "Moskén har inte gett denna information",
     "welcome": "Välkommen till",
@@ -272,7 +272,7 @@
     "remove_this_mosque": "Ta bort den här Moskén",
     "services": "Tjänster",
     "share": "Dela",
-    "itinerary": "Itinerary",
+    "itinerary": "Resplan",
     "call": "Samtal",
     "dnd": "Stör ej",
     "battery_optimize": "Batterioptimering",
