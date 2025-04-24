@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -276,7 +276,7 @@
     "call": "Samtal",
     "dnd": "Stör ej",
     "battery_optimize": "Batterioptimering",
-    "power_saver": "Power Saver",
+    "power_saver": "Strömsparläge",
     "permission_message1": "Vi upptäckte en försenad notifikation, vänligen stäng av",
     "permission_message2": "För att få notifikationen på tid.",
     "notifications_delay_detected": "Notifikations fördröjning upptäcktes ",
@@ -292,7 +292,7 @@
         "type": "text"
     },
     "qibla_sensor": "Sensoren i din enhet som MAWAQIT använder för att bestämma Qibla funkar inte som förväntad, vilket påverkar vår kapacitet att visa Qibla riktningen.",
-    "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
+    "connection_not_found": "Inställningen för kompasskalibrering är inaktiverad. Kontrollera att din anslutning är aktiverad och försök igen genom att ändra riktning.",
     "currently_located_at": "För tillfället på",
     "facing_makkah": "Du är vänd mot Makkah",
     "not_facing_Makkah": "Du står inte mot Makkah",
@@ -301,17 +301,17 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Location service permission denied",
+    "qibla_Error_LocationDenied": "Platstjänstbehörighet nekad",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Location service Denied Forever !",
+    "qibla_Error_LocationDeniedForever": "Åtkomst till platstjänster har nekats för alltid.",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Please enable Location service",
+    "qibla_Error_PleaseEnable": "Vänligen aktivera platstjänster",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
@@ -341,7 +341,7 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flash Info",
+    "announcement_Type_FlashInfo": "Snabbinfo",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
@@ -396,7 +396,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled Access",
+    "mosque_Facilities_DisabledAccess": "Vänligen aktivera platstjänster",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.",
+    "tutorial_text_announcements": "Notifikation om meddelanden och annonseringar from din Moske kommer att synas. När du trycker på den här knappen, kommer du att se alla detaljer. Dessa annonseringar kan vara ett snabbmeddelande, en bild, eller även en video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -968,7 +968,7 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Highlight next prayer after Iqama",
+    "highlight_next_prayer_after_Iqama": "Markera nästa bön efter Iqama",
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portugisiska",
     "al_zikr": "Al Dhikr",
