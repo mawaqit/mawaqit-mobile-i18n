@@ -162,7 +162,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_PrayerNotification_NoNotification => 'Du har för tillfället bestämd att inte bli notiserad vid den här bönen.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
+  String get settings_PrayerNotification_Bip => 'Pip-ljud som ringsignal vid avisering';
 
   @override
   String get adhan => 'Adhan';
@@ -222,7 +222,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_your_location => 'Din plats';
 
   @override
-  String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
+  String get search_location_disabled => 'Vänligen leta efter en Moské med eller stad, eller tillåt platsåtkomst manuellt i dina inställningar ';
 
   @override
   String get search_settings => 'Inställningar';
@@ -333,7 +333,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get share => 'Dela';
 
   @override
-  String get itinerary => 'Itinerary';
+  String get itinerary => 'Resplan';
 
   @override
   String get call => 'Samtal';
