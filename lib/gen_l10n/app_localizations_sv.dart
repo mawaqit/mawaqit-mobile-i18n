@@ -345,7 +345,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get battery_optimize => 'Batterioptimering';
 
   @override
-  String get power_saver => 'Power Saver';
+  String get power_saver => 'Strömsparläge';
 
   @override
   String get permission_message1 => 'Vi upptäckte en försenad notifikation, vänligen stäng av';
@@ -369,7 +369,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get qibla_sensor => 'Sensoren i din enhet som MAWAQIT använder för att bestämma Qibla funkar inte som förväntad, vilket påverkar vår kapacitet att visa Qibla riktningen.';
 
   @override
-  String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
+  String get connection_not_found => 'Inställningen för kompasskalibrering är inaktiverad. Kontrollera att din anslutning är aktiverad och försök igen genom att ändra riktning.';
 
   @override
   String get currently_located_at => 'För tillfället på';
@@ -384,13 +384,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get qibla_Error_retry => 'Försök igen';
 
   @override
-  String get qibla_Error_LocationDenied => 'Location service permission denied';
+  String get qibla_Error_LocationDenied => 'Platstjänstbehörighet nekad';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'Location service Denied Forever !';
+  String get qibla_Error_LocationDeniedForever => 'Åtkomst till platstjänster har nekats för alltid.';
 
   @override
-  String get qibla_Error_PleaseEnable => 'Please enable Location service';
+  String get qibla_Error_PleaseEnable => 'Vänligen aktivera platstjänster';
 
   @override
   String get qibla_Direction => 'Qibla riktning';
@@ -408,7 +408,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get announcement_Type_Video => 'Video';
 
   @override
-  String get announcement_Type_FlashInfo => 'Flash Info';
+  String get announcement_Type_FlashInfo => 'Snabbinfo';
 
   @override
   String get mosque_DonateText1 => 'Donera';
@@ -441,7 +441,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get mosque_Facilities_Parking => 'Parkering';
 
   @override
-  String get mosque_Facilities_DisabledAccess => 'Disabled Access';
+  String get mosque_Facilities_DisabledAccess => 'Vänligen aktivera platstjänster';
 
   @override
   String get mosque_Facilities_AblutionsRoom => 'Tvagnings rum';
@@ -516,7 +516,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get tutorial_title_announcements => 'Moskéns meddelande och annonseringar';
 
   @override
-  String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
+  String get tutorial_text_announcements => 'Notifikation om meddelanden och annonseringar from din Moske kommer att synas. När du trycker på den här knappen, kommer du att se alla detaljer. Dessa annonseringar kan vara ett snabbmeddelande, en bild, eller även en video.';
 
   @override
   String get onboarding_title_1 => 'Välj språk';
@@ -1299,7 +1299,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get download_in_progress => 'Nedladdning pågår, vänligen vänta...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
+  String get highlight_next_prayer_after_Iqama => 'Markera nästa bön efter Iqama';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
