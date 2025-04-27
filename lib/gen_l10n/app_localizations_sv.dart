@@ -540,7 +540,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get onboarding_title_4 => 'Lägg till din huvud Moské';
 
   @override
-  String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
+  String get onboarding_text_4 => 'Vänligen välj din huvud Moské från listan under eller sök efter en Moské när din nuvarande plats';
 
   @override
   String get loading => 'Laddar';
@@ -576,16 +576,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get notification_open_app_title => 'Öppna appen';
 
   @override
-  String get notification_open_app_body => 'Please open the app to maintain notifications';
+  String get notification_open_app_body => 'Vänligen öppna appen för att bevara notifikationer';
 
   @override
   String get tutorial_title_notification => 'Välj bön-notifikation';
 
   @override
-  String get tutorial_text_notification => 'Here you can select a type of notification, Athan, bip or silent';
+  String get tutorial_text_notification => 'Här kan du välja en typ av notifikation, Afghan, bip eller tyst';
 
   @override
-  String get search_no_result => 'Become a MAWAQIT ambassador and offer our solution to your mosque, it\'s free\nhttps://mawaqit.net';
+  String get search_no_result => 'Bli en MAWAQIT-ambassadör och erbjud vår lösning till din moské, det är gratis\nhttps://mawaqit.net';
 
   @override
   String get rate_popin_title => 'Betygsätt MAWAQIT';
@@ -603,7 +603,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get rate_popin_later => 'Kanske senare';
 
   @override
-  String get message_see_all => 'You can view all messages from this mosque by clicking on the speaker at the top of the screen.';
+  String get message_see_all => 'Du kan kolla på alla meddelanden från denna Moské genom att klicka på högtalaren på toppen av skärmen.';
 
   @override
   String get adhan_Makkah => 'Makkah';
@@ -618,19 +618,19 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calendar_tooltip_download => 'Ladda ned kalender';
 
   @override
-  String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
+  String get calendar_download_permission_refused => 'Nedladdningsbehörighet nekades permanent, vänligen tillåt nedladdning';
 
   @override
   String get calendar_downloading => 'Nedladdar kalender...';
 
   @override
-  String get location_service_disabled => 'Location Service is disabled, please enable it.';
+  String get location_service_disabled => 'Platstjänst är inaktiverad, vänligen aktivera den.';
 
   @override
-  String get location_permission_denied => 'Location Permission Denied, please allow it.';
+  String get location_permission_denied => 'Platsbehörighet nekades, vänligen tillåt den.';
 
   @override
-  String get location_permission_denied_forever => 'Location Permission Denied Forever, please allow it in the settings page.';
+  String get location_permission_denied_forever => 'Platsbehörighet nekades för alltid, vänligen tillåt den på inställningssidan.';
 
   @override
   String get at_least_one_mosque_error => 'Du bör minst ha en Moské.';
@@ -723,7 +723,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get quran_page => 'Sida';
 
   @override
-  String get quran_turning_page => 'Turning page';
+  String get quran_turning_page => 'Bläddrar sida';
 
   @override
   String get quran_from_right_to_left => 'Från höger till vänster';
@@ -834,10 +834,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_methods_muslim_world => 'Muslim World League';
 
   @override
-  String get calculation_methods_egyptian => 'Egyptian General Authority of Survey';
+  String get calculation_methods_egyptian => 'Egyptiska allmänna kartmyndigheten';
 
   @override
-  String get calculation_methods_karachi => 'University of Islamic Sciences, Karachi';
+  String get calculation_methods_karachi => 'Universitetet för islamiska vetenskaper, Karachi';
 
   @override
   String get calculation_methods_umm_al_qura => 'Umm Al-Qura Universititet, Makkah';
@@ -864,16 +864,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_methods_turkey => 'Turkiet';
 
   @override
-  String get calculation_methods_tehran => 'Institute of Geophysics, University of Tehran';
+  String get calculation_methods_tehran => 'Institutet för geofysik, Teherans universitet';
 
   @override
-  String get calculation_methods_russia => 'Spiritual Administration of Muslims in Russia';
+  String get calculation_methods_russia => 'Den spirituella förvaltningen för muslimer i Ryssland';
 
   @override
-  String get calculation_methods_custom => 'Custom angles';
+  String get calculation_methods_custom => 'Anpassade vinklar ';
 
   @override
-  String get calculation_high_latitude => 'Higher latitudes';
+  String get calculation_high_latitude => 'Högre latituder';
 
   @override
   String get calculation_high_latitude_none => 'Ingen';
@@ -885,25 +885,25 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calculation_high_latitude_one_seventh => 'En sjundedel av natten';
 
   @override
-  String get calculation_high_latitude_angle_based => 'Angle based method';
+  String get calculation_high_latitude_angle_based => 'Vinkelbaserad metod';
 
   @override
   String get calculation_adjustment => 'Manual korrigering';
 
   @override
-  String get calculation_adjustment_subtitle => 'Prayer adjustment and custom angles';
+  String get calculation_adjustment_subtitle => 'Bönerjustering och anpassade vinklar';
 
   @override
-  String get calculation_adjustment_prayers => 'Prayer adjustments';
+  String get calculation_adjustment_prayers => 'Bönejustering';
 
   @override
   String get calculation_adjustment_prayers_minutes => 'minuter';
 
   @override
-  String get calculation_adjustment_angles => 'Custom angles';
+  String get calculation_adjustment_angles => 'Anpassade vinklar';
 
   @override
-  String get calculation_prayer_custom_angle => 'Custom angle for';
+  String get calculation_prayer_custom_angle => 'Anpassade vinklar för';
 
   @override
   String get error_download_quran_failed => 'Misslyckades att nedladda Koranen';
@@ -915,10 +915,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get processing => 'Processar...';
 
   @override
-  String get copied_to_clipboard => 'Copied to your clipboard !';
+  String get copied_to_clipboard => 'Kopierad till urklipp !';
 
   @override
-  String get download_quran_popup_title => 'Last touch ups';
+  String get download_quran_popup_title => 'Sista finputsningar';
 
   @override
   String get download_quran_popup_downloading_1 => 'Vi behöver ladda ner sidorna från Koranen, det tar bara några sekunder. Vi kommer att använda din mobildata, byt till Wi-Fi om det behövs.';
@@ -927,7 +927,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'Vi preparerar Koranen för just dig, vänligen vänta några sekunder!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Click on \'Download\' to start your journey of reading and reflection.';
+  String get download_quran_popup_downloading_3 => 'Klicka på \"ladda ned\" för att påbörja din resa av läsning och reflektion.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'Är du säker att vill avbryta nedladdningen? Utan denna data kommer du inte kunna läsa Koranen, sidorna kommer att vara otillgängliga.';
@@ -1017,16 +1017,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get backend_environment_switch => 'Byte av backend-miljö';
 
   @override
-  String get set_development_environment => 'Set Development Environment';
+  String get set_development_environment => 'Konfigurera utvecklingsmiljö ';
 
   @override
-  String get set_production_environment => 'Set Production Environment';
+  String get set_production_environment => 'Konfigurera produktionsmiljö ';
 
   @override
   String get delay_notification => 'Dröj notifikation';
 
   @override
-  String get notification_delay_debugging_is => 'Notification Delay debugging is';
+  String get notification_delay_debugging_is => 'Felsökning av fördröjning i aviseringar är';
 
   @override
   String get banner_enable => 'Aktivera banner';
@@ -1041,7 +1041,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get auto_detect_location => 'Föreslå närmaste Moské';
 
   @override
-  String get auto_detect_explanation => 'When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.';
+  String get auto_detect_explanation => 'När du är långt ifrån din moské kommer appen automatiskt att föreslå att du söker efter den närmaste moskén baserat på din plats.';
 
   @override
   String get auto_detect_location_title => 'Det verkar som att du är långt bort ifrån din Moské';
@@ -1161,10 +1161,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get listening => 'Lyssnar';
 
   @override
-  String get font_size => 'Font-size';
+  String get font_size => 'Teckenstorlek';
 
   @override
-  String get font_size_arabic => 'Font-size Arabic';
+  String get font_size_arabic => 'Arabiska teckenstorlekar';
 
   @override
   String get horizontal => 'Horizontal';
@@ -1260,13 +1260,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get update_new_version => 'En ny versionen av Koranen är tillgänglig för nedladdning. Tryck på \"uppdatera\" för att få tillgång till nya förbättringar, och fortsätt din resa med Koranens visdom';
 
   @override
-  String get update_quran_zip => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
+  String get update_quran_zip => 'En uppdaterad version har släppts med typografiska förbättringar. Klicka på ‘Uppdatera’ för att fortsätta din resa av läsning och reflektion.';
 
   @override
-  String get update_latest_quran_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
+  String get update_latest_quran_version => 'En uppdaterad version har släppts med förbättrade typografiska detaljer. Klicka på ‘Uppdatera’ för att fortsätta din läsning och reflektion.';
 
   @override
-  String get update_latest_quran => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
+  String get update_latest_quran => 'En uppdaterad version har släppts med förbättrade typografiska detaljer. Klicka på ‘Uppdatera’ för att fortsätta din läsning och reflektion.';
 
   @override
   String get set_notification_for_all_parayer => 'Sätt upp för varje bön';
