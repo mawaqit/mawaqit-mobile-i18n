@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -561,7 +561,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Please pick your main mosque from the list below or search for a mosque near your current location",
+    "onboarding_text_4": "Vänligen välj din huvud Moské från listan under eller sök efter en Moské när din nuvarande plats",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
@@ -621,7 +621,7 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Please open the app to maintain notifications",
+    "notification_open_app_body": "Vänligen öppna appen för att bevara notifikationer",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
@@ -631,12 +631,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "Här kan du välja en typ av notifikation, Afghan, bip eller tyst",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Become a MAWAQIT ambassador and offer our solution to your mosque, it's free\nhttps://mawaqit.net",
+    "search_no_result": "Bli en MAWAQIT-ambassadör och erbjud vår lösning till din moské, det är gratis\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
@@ -666,7 +666,7 @@
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "You can view all messages from this mosque by clicking on the speaker at the top of the screen.",
+    "message_see_all": "Du kan kolla på alla meddelanden från denna Moské genom att klicka på högtalaren på toppen av skärmen.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
@@ -691,7 +691,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Download permission refused definitely, please allow download",
+    "calendar_download_permission_refused": "Nedladdningsbehörighet nekades permanent, vänligen tillåt nedladdning",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
@@ -701,17 +701,17 @@
         "description": "_",
         "type": "text"
     },
-    "location_service_disabled": "Location Service is disabled, please enable it.",
+    "location_service_disabled": "Platstjänst är inaktiverad, vänligen aktivera den.",
     "@location_service_disabled": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Location Permission Denied, please allow it.",
+    "location_permission_denied": "Platsbehörighet nekades, vänligen tillåt den.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Location Permission Denied Forever, please allow it in the settings page.",
+    "location_permission_denied_forever": "Platsbehörighet nekades för alltid, vänligen tillåt den på inställningssidan.",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
@@ -746,7 +746,7 @@
     "bookmarks": "Bokmärken",
     "juzz": "Juzz",
     "quran_page": "Sida",
-    "quran_turning_page": "Turning page",
+    "quran_turning_page": "Bläddrar sida",
     "quran_from_right_to_left": "Från höger till vänster",
     "quran_from_left_to_right": "Från vänster till höger",
     "quran_from_top_to_bottom": "Från toppen till botten",
@@ -783,8 +783,8 @@
     "calculation_methods_algeria": "Algeriets ministerium för religiösa angelägenheter och religiösa donationer (Waqf)",
     "calculation_methods_morocco": "Marockos ministerium för religiösa donationer (waqf) och islamiska angelägenheter",
     "calculation_methods_muslim_world": "Muslim World League",
-    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
-    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
+    "calculation_methods_egyptian": "Egyptiska allmänna kartmyndigheten",
+    "calculation_methods_karachi": "Universitetet för islamiska vetenskaper, Karachi",
     "calculation_methods_umm_al_qura": "Umm Al-Qura Universititet, Makkah",
     "calculation_methods_dubai": "Gulfregionen",
     "calculation_methods_moon": "Kommitté för månskådning",
@@ -793,28 +793,28 @@
     "calculation_methods_qatar": "Qatar",
     "calculation_methods_singapore": "Singapore",
     "calculation_methods_turkey": "Turkiet",
-    "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
-    "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
-    "calculation_methods_custom": "Custom angles",
-    "calculation_high_latitude": "Higher latitudes",
+    "calculation_methods_tehran": "Institutet för geofysik, Teherans universitet",
+    "calculation_methods_russia": "Den spirituella förvaltningen för muslimer i Ryssland",
+    "calculation_methods_custom": "Anpassade vinklar ",
+    "calculation_high_latitude": "Högre latituder",
     "calculation_high_latitude_none": "Ingen",
     "calculation_high_latitude_middle": "Mitten av natten",
     "calculation_high_latitude_one_seventh": "En sjundedel av natten",
-    "calculation_high_latitude_angle_based": "Angle based method",
+    "calculation_high_latitude_angle_based": "Vinkelbaserad metod",
     "calculation_adjustment": "Manual korrigering",
-    "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
-    "calculation_adjustment_prayers": "Prayer adjustments",
+    "calculation_adjustment_subtitle": "Bönerjustering och anpassade vinklar",
+    "calculation_adjustment_prayers": "Bönejustering",
     "calculation_adjustment_prayers_minutes": "minuter",
-    "calculation_adjustment_angles": "Custom angles",
-    "calculation_prayer_custom_angle": "Custom angle for",
+    "calculation_adjustment_angles": "Anpassade vinklar",
+    "calculation_prayer_custom_angle": "Anpassade vinklar för",
     "error_download_quran_failed": "Misslyckades att nedladda Koranen",
     "downloading_quran": "Nedladdar Koranen...",
     "processing": "Processar...",
-    "copied_to_clipboard": "Copied to your clipboard !",
-    "download_quran_popup_title": "Last touch ups",
+    "copied_to_clipboard": "Kopierad till urklipp !",
+    "download_quran_popup_title": "Sista finputsningar",
     "download_quran_popup_downloading_1": "Vi behöver ladda ner sidorna från Koranen, det tar bara några sekunder. Vi kommer att använda din mobildata, byt till Wi-Fi om det behövs.",
     "download_quran_popup_downloading_2": "Vi preparerar Koranen för just dig, vänligen vänta några sekunder!",
-    "download_quran_popup_downloading_3": "Click on 'Download' to start your journey of reading and reflection.",
+    "download_quran_popup_downloading_3": "Klicka på \"ladda ned\" för att påbörja din resa av läsning och reflektion.",
     "download_quran_popup_confirm_cancel": "Är du säker att vill avbryta nedladdningen? Utan denna data kommer du inte kunna läsa Koranen, sidorna kommer att vara otillgängliga.",
     "download_quran_popup_cancelled": "Något blev fel, vänligen klicka på ladda ned knappen igen!",
     "download": "Nedladda",
@@ -844,15 +844,15 @@
     "agree": "Samtycka",
     "return_no_search": "Ingen resultat returnerad",
     "backend_environment_switch": "Byte av backend-miljö",
-    "set_development_environment": "Set Development Environment",
-    "set_production_environment": "Set Production Environment",
+    "set_development_environment": "Konfigurera utvecklingsmiljö ",
+    "set_production_environment": "Konfigurera produktionsmiljö ",
     "delay_notification": "Dröj notifikation",
-    "notification_delay_debugging_is": "Notification Delay debugging is",
+    "notification_delay_debugging_is": "Felsökning av fördröjning i aviseringar är",
     "banner_enable": "Aktivera banner",
     "banner": "Banner",
     "show_details": "Visa detaljer",
     "auto_detect_location": "Föreslå närmaste Moské",
-    "auto_detect_explanation": "When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.",
+    "auto_detect_explanation": "När du är långt ifrån din moské kommer appen automatiskt att föreslå att du söker efter den närmaste moskén baserat på din plats.",
     "auto_detect_location_title": "Det verkar som att du är långt bort ifrån din Moské",
     "auto_detect_location_message": "Vill du söka efter närmsta Moskén för mest korrekta bönetider?",
     "donation_success_toast": "Donationen lyckades",
@@ -892,8 +892,8 @@
     "translation_settings": "Translation inställningar",
     "reading": "Läses",
     "listening": "Lyssnar",
-    "font_size": "Font-size",
-    "font_size_arabic": "Font-size Arabic",
+    "font_size": "Teckenstorlek",
+    "font_size_arabic": "Arabiska teckenstorlekar",
     "horizontal": "Horizontal",
     "vertical": "Vertikal",
     "add_page_bookmarks": "Lägg till sida till bokmärken",
@@ -928,15 +928,15 @@
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_quran_zip": "En uppdaterad version har släppts med typografiska förbättringar. Klicka på ‘Uppdatera’ för att fortsätta din resa av läsning och reflektion.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_latest_quran_version": "En uppdaterad version har släppts med förbättrade typografiska detaljer. Klicka på ‘Uppdatera’ för att fortsätta din läsning och reflektion.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_latest_quran": "En uppdaterad version har släppts med förbättrade typografiska detaljer. Klicka på ‘Uppdatera’ för att fortsätta din läsning och reflektion.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
