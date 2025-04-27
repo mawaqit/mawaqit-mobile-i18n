@@ -1353,19 +1353,19 @@ class AppLocalizationsSv extends AppLocalizations {
   String get updates_draw => 'Få uppdateringar och delta i utlottningen för att vinna priser från';
 
   @override
-  String get email_info => 'This email will be used to contact you if you win the draw';
+  String get email_info => 'Den här e-postadressen kommer att användas för att kontakta dig om du vinner utlottningen';
 
   @override
   String get enter_email => 'Skriv din mejl';
 
   @override
-  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+  String get email_privacy => 'MAWAQIT kommer inte att dela denna e-postadress med någon. E-postadressen raderas automatiskt från vår databas efter varje utlottning';
 
   @override
   String get submit => 'Skicka in';
 
   @override
-  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+  String get disclaimer => 'MAWAQIT frånsäger sig allt ansvar för de tjänster eller produkter som erbjuds av de listade projekten. Vänligen gör din egen efterforskning och due diligence';
 
   @override
   String get participating_with => 'Du deltar med';
@@ -1389,7 +1389,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get no_projects => 'Det finns inga projekt';
 
   @override
-  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+  String get draw_info => 'En utlottning varje månad. Varje 24:e timme kan du lägga till en ny biljett för att öka dina vinstchanser';
 
   @override
   String get enter_valid_email => 'Skriv ett godkänt mejl';
