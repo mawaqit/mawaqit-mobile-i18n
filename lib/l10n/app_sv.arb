@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "Den här applikationen är utvecklad av MAWAQIT-föreningen.\n\nMAWAQIT-föreningen är en icke-vinstdrivande organisation som skapades 2021 i Frankrike. Vårt mål är att utveckla innovativa lösningar relaterade till IT och digital teknologi, såsom programvara och webbplatser; att undervisa och träna i digitala lösningar och IT-verktyg.\n\nMAWAQIT-ekosystemet är vår flaggskeppsprodukt och dess historia började 2016 med en applikation för stora skärmar dedikerad till moskéer, sedan en mobilapp, ett tillägg för hemmassistent och en Alexa-färdighet, etc.\n\nMAWAQIT erbjuder dig ett nytt sätt att följa och hantera böntider. Faktum är att vi erbjuder ett system från början till slut som ger moskéledare ett onlineverktyg tillgängligt dygnet runt, vilket gör att de kan hantera tidtabeller, nyheter om moskén och många andra funktioner. De troende, å sin sida, har en mobilapplikation som gör att de kan konsultera de exakta och inte ungefära tidtabellerna för sin favoritmoské, samt nyheter och andra funktioner såsom att söka efter en moské via geolokalisering, adhan, qibla, etc. Vi har gjort pålitlighet och kvalitet till våra huvudvärden. Vår ambition är tydlig: att bygga den bästa tjänsten för våra moskéer genom teknologi och design.\n\nOm du gillade den här applikationen, vänligen ge din åsikt på butiken.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -1002,18 +1002,18 @@
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-    "add_ticket": "Add ticket",
+    "add_ticket": "Lägg till biljett",
     "projects": "Projekt",
     "fill_form": "För att lägga till din projekt fyll upp det här",
     "form": "form",
-    "updates_draw": "Get updates and participate in the draw to win goodies from",
+    "updates_draw": "Få uppdateringar och delta i utlottningen för att vinna priser från",
     "email_info": "This email will be used to contact you if you win the draw",
     "enter_email": "Skriv din mejl",
     "email_privacy": "MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw",
     "submit": "Skicka in",
     "disclaimer": "MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research",
     "participating_with": "Du deltar med",
-    "no_of_tickets": "No. of tickets:",
+    "no_of_tickets": "Nummer av biljetter",
     "unparticipate": "Killa för att inte delta",
     "next_ticket": "Nästa tillgängliga biljett i/om",
     "click_here": "Klicka här",
