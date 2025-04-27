@@ -135,7 +135,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_CreditsText => 'Copyright © 2021 MAWAQIT för MAWAQIT Foundation. Alla rättigheter förbehållna.\n\nImmaterialrätt och upphovsrätt för denna applikation, inklusive dess tillägg, insticksprogram eller innehåll, ägs av MAWAQIT för MAWAQIT-föreningen.\n\nDenna version är endast licensierad för välgörenhetsdistribution och är ett Waqf. All kommersiell användning eller kommersiell distribution är strikt förbjuden.\n\nDenna licens innebär inte – på något sätt – försäljning av någon rättighet kopplad till denna produkt, dess delar, insticksprogram, tillägg eller innehåll. Licensen tillåter endast välgörenhetsdistribution av applikationen via nuvarande plattformar såsom appbutiker.\n\nOmfördelning av applikationen med hjälp av källkod eller binärfiler, eller genom omvänd ingenjörskonst (reverse engineering) med eller utan ändringar, utsätter överträdaren för rättsliga åtgärder.\n\nIngen part (grupp) har rätt att distribuera applikationen utanför Apples eller Google Plays officiella butiker utan skriftligt tillstånd från upphovsrättsinnehavaren och ägaren till applikationen, MAWAQIT för MAWAQIT-föreningen. Att distribuera applikationen utanför dessa officiella butiker är ett brott mot immaterialrättslig skyddslagstiftning och medför rättsligt ansvar.\n\nDet är inte tillåtet att använda applikationens namn, varumärke eller MAWAQIT:s namn för att marknadsföra liknande eller härledda produkter utan skriftligt tillstånd från upphovsrättsinnehavaren.\n\nApplikationen distribueras av upphovsrättsinnehavarna och intressenterna “i befintligt skick”.\n\nUtvecklaren och ägarföretaget till applikationen lämnar inga uttryckliga eller underförstådda garantier, inklusive – men inte begränsat till – garantier om applikationens lämplighet för något särskilt syfte. I samtliga fall ansvarar varken MAWAQIT för MAWAQIT-föreningen eller dess aktieägare för någon form av skada – direkt, indirekt eller tillfällig – inklusive (men inte begränsat till) förlust av användning, data, vinst eller affärsavbrott, oavsett orsak eller ansvar (kontraktsmässigt, strikt ansvar eller utomobligatoriskt såsom vårdslöshet).\n\nTredjepartsupphovsrätt\n\nAlla rättigheter för innehåll från tredje part i applikationen tillhör respektive innehavare.\n\nBilder och bakgrunder\nUpphovsrätt: Shutterstock\nIkoner – Licens: CC BY 4.0\nUpphovsrätt: Flaticons\nMIT-licensen gäller för alla filer som inte är typsnitt eller ikoner.\n\nTypsnitt\nLicens: SIL OFL 1.1\nUpphovsrätt: Google Fonts (Roboto)\nUpphovsrätt: Apple, Cupertino-paket\n\nKod, paket och ramverk\nFlutter av Google\nAnvända paket:\nhttp, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
+  String get settings_AboutUsText => 'Den här applikationen är utvecklad av MAWAQIT-föreningen.\n\nMAWAQIT-föreningen är en icke-vinstdrivande organisation som skapades 2021 i Frankrike. Vårt mål är att utveckla innovativa lösningar relaterade till IT och digital teknologi, såsom programvara och webbplatser; att undervisa och träna i digitala lösningar och IT-verktyg.\n\nMAWAQIT-ekosystemet är vår flaggskeppsprodukt och dess historia började 2016 med en applikation för stora skärmar dedikerad till moskéer, sedan en mobilapp, ett tillägg för hemmassistent och en Alexa-färdighet, etc.\n\nMAWAQIT erbjuder dig ett nytt sätt att följa och hantera böntider. Faktum är att vi erbjuder ett system från början till slut som ger moskéledare ett onlineverktyg tillgängligt dygnet runt, vilket gör att de kan hantera tidtabeller, nyheter om moskén och många andra funktioner. De troende, å sin sida, har en mobilapplikation som gör att de kan konsultera de exakta och inte ungefära tidtabellerna för sin favoritmoské, samt nyheter och andra funktioner såsom att söka efter en moské via geolokalisering, adhan, qibla, etc. Vi har gjort pålitlighet och kvalitet till våra huvudvärden. Vår ambition är tydlig: att bygga den bästa tjänsten för våra moskéer genom teknologi och design.\n\nOm du gillade den här applikationen, vänligen ge din åsikt på butiken.';
 
   @override
   String get fajr => 'Fajr';
@@ -1338,7 +1338,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get select_audio_from_device => 'Välj ljud (mp3) från enhet.';
 
   @override
-  String get add_ticket => 'Add ticket';
+  String get add_ticket => 'Lägg till biljett';
 
   @override
   String get projects => 'Projekt';
@@ -1350,7 +1350,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get form => 'form';
 
   @override
-  String get updates_draw => 'Get updates and participate in the draw to win goodies from';
+  String get updates_draw => 'Få uppdateringar och delta i utlottningen för att vinna priser från';
 
   @override
   String get email_info => 'This email will be used to contact you if you win the draw';
@@ -1371,7 +1371,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get participating_with => 'Du deltar med';
 
   @override
-  String get no_of_tickets => 'No. of tickets:';
+  String get no_of_tickets => 'Nummer av biljetter';
 
   @override
   String get unparticipate => 'Killa för att inte delta';
