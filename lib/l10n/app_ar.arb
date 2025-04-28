@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "لا توجد نتائج تذكارية متاحة",
+    "no_azkar_result": "لا توجد نتائج للأذكار",
     "search_title": "ابحث باستخدام العنوان"
 }
