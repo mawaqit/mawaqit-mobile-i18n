@@ -1438,4 +1438,10 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'কোনো স্মরণের ফলাফল নেই\t';
+
+  @override
+  String get search_title => 'শিরোনাম ব্যবহার করে অনুসন্ধান করুন';
 }

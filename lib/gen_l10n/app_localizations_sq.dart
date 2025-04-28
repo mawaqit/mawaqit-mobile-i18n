@@ -1438,4 +1438,10 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'Nuk ka rezultate të kujtesës në dispozicion\t';
+
+  @override
+  String get search_title => 'Kërko duke përdorur titullin';
 }

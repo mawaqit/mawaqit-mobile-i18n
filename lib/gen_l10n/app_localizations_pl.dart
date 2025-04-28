@@ -1438,4 +1438,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Nie udało się usunąć wszystkich motywów';
+
+  @override
+  String get no_azkar_result => 'Brak dostępnych wyników przypomnienia\t';
+
+  @override
+  String get search_title => 'Wyszukaj za pomocą tytułu';
 }

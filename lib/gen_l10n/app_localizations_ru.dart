@@ -1438,4 +1438,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Не удалось удалить все повторы';
+
+  @override
+  String get no_azkar_result => 'Нет доступных результатов воспоминаний\t';
+
+  @override
+  String get search_title => 'Поиск по названию';
 }

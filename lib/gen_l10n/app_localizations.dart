@@ -3004,6 +3004,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Failed to delete all recitations'**
   String get failed_delete_recitations;
+
+  /// No description provided for @no_azkar_result.
+  ///
+  /// In en, this message translates to:
+  /// **'No remembrance results available\t'**
+  String get no_azkar_result;
+
+  /// No description provided for @search_title.
+  ///
+  /// In en, this message translates to:
+  /// **'Search using the title'**
+  String get search_title;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

@@ -1438,4 +1438,10 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'Yɛnɛnin baara tɛ si\t';
+
+  @override
+  String get search_title => 'Sɔ̀rɔ tugu kan ka sɛbɛn';
 }

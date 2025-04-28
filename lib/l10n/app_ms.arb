@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Failed to delete all recitations",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Tiada hasil ingatan tersedia\t",
+    "search_title": "Cari menggunakan tajuk"
 }

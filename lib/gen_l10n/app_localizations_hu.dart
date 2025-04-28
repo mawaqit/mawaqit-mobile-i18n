@@ -1438,4 +1438,10 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'Nincs elérhető emlékezési eredmény\t';
+
+  @override
+  String get search_title => 'Keresés cím alapján';
 }

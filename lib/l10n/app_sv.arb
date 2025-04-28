@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv-SE",
+    "@@locale": "sv",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -117,12 +117,12 @@
     "settings_language_id": "Indonesiska",
     "settings_language_ur": "Urdu",
     "settings_language_pl": "Polska",
-    "settings_CreditsText": "Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "settings_CreditsText": "Copyright © 2021 MAWAQIT för MAWAQIT Foundation. Alla rättigheter förbehållna.\n\nImmaterialrätt och upphovsrätt för denna applikation, inklusive dess tillägg, insticksprogram eller innehåll, ägs av MAWAQIT för MAWAQIT-föreningen.\n\nDenna version är endast licensierad för välgörenhetsdistribution och är ett Waqf. All kommersiell användning eller kommersiell distribution är strikt förbjuden.\n\nDenna licens innebär inte – på något sätt – försäljning av någon rättighet kopplad till denna produkt, dess delar, insticksprogram, tillägg eller innehåll. Licensen tillåter endast välgörenhetsdistribution av applikationen via nuvarande plattformar såsom appbutiker.\n\nOmfördelning av applikationen med hjälp av källkod eller binärfiler, eller genom omvänd ingenjörskonst (reverse engineering) med eller utan ändringar, utsätter överträdaren för rättsliga åtgärder.\n\nIngen part (grupp) har rätt att distribuera applikationen utanför Apples eller Google Plays officiella butiker utan skriftligt tillstånd från upphovsrättsinnehavaren och ägaren till applikationen, MAWAQIT för MAWAQIT-föreningen. Att distribuera applikationen utanför dessa officiella butiker är ett brott mot immaterialrättslig skyddslagstiftning och medför rättsligt ansvar.\n\nDet är inte tillåtet att använda applikationens namn, varumärke eller MAWAQIT:s namn för att marknadsföra liknande eller härledda produkter utan skriftligt tillstånd från upphovsrättsinnehavaren.\n\nApplikationen distribueras av upphovsrättsinnehavarna och intressenterna “i befintligt skick”.\n\nUtvecklaren och ägarföretaget till applikationen lämnar inga uttryckliga eller underförstådda garantier, inklusive – men inte begränsat till – garantier om applikationens lämplighet för något särskilt syfte. I samtliga fall ansvarar varken MAWAQIT för MAWAQIT-föreningen eller dess aktieägare för någon form av skada – direkt, indirekt eller tillfällig – inklusive (men inte begränsat till) förlust av användning, data, vinst eller affärsavbrott, oavsett orsak eller ansvar (kontraktsmässigt, strikt ansvar eller utomobligatoriskt såsom vårdslöshet).\n\nTredjepartsupphovsrätt\n\nAlla rättigheter för innehåll från tredje part i applikationen tillhör respektive innehavare.\n\nBilder och bakgrunder\nUpphovsrätt: Shutterstock\nIkoner – Licens: CC BY 4.0\nUpphovsrätt: Flaticons\nMIT-licensen gäller för alla filer som inte är typsnitt eller ikoner.\n\nTypsnitt\nLicens: SIL OFL 1.1\nUpphovsrätt: Google Fonts (Roboto)\nUpphovsrätt: Apple, Cupertino-paket\n\nKod, paket och ramverk\nFlutter av Google\nAnvända paket:\nhttp, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "Den här applikationen är utvecklad av MAWAQIT-föreningen.\n\nMAWAQIT-föreningen är en icke-vinstdrivande organisation som skapades 2021 i Frankrike. Vårt mål är att utveckla innovativa lösningar relaterade till IT och digital teknologi, såsom programvara och webbplatser; att undervisa och träna i digitala lösningar och IT-verktyg.\n\nMAWAQIT-ekosystemet är vår flaggskeppsprodukt och dess historia började 2016 med en applikation för stora skärmar dedikerad till moskéer, sedan en mobilapp, ett tillägg för hemmassistent och en Alexa-färdighet, etc.\n\nMAWAQIT erbjuder dig ett nytt sätt att följa och hantera böntider. Faktum är att vi erbjuder ett system från början till slut som ger moskéledare ett onlineverktyg tillgängligt dygnet runt, vilket gör att de kan hantera tidtabeller, nyheter om moskén och många andra funktioner. De troende, å sin sida, har en mobilapplikation som gör att de kan konsultera de exakta och inte ungefära tidtabellerna för sin favoritmoské, samt nyheter och andra funktioner såsom att söka efter en moské via geolokalisering, adhan, qibla, etc. Vi har gjort pålitlighet och kvalitet till våra huvudvärden. Vår ambition är tydlig: att bygga den bästa tjänsten för våra moskéer genom teknologi och design.\n\nOm du gillade den här applikationen, vänligen ge din åsikt på butiken.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -163,7 +163,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "Pip-ljud som ringsignal vid avisering",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -235,7 +235,7 @@
     "search_iOs14_message": "Att ska genom GPS kan ta lite tid på IOS 14, vänligen vänta.",
     "search_error": "Oj, ett internt fel har inträffat",
     "search_your_location": "Din plats",
-    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
+    "search_location_disabled": "Vänligen leta efter en Moské med eller stad, eller tillåt platsåtkomst manuellt i dina inställningar ",
     "search_settings": "Inställningar",
     "no_services_text": "Moskén har inte gett denna information",
     "welcome": "Välkommen till",
@@ -272,14 +272,14 @@
     "remove_this_mosque": "Ta bort den här Moskén",
     "services": "Tjänster",
     "share": "Dela",
-    "itinerary": "Itinerary",
+    "itinerary": "Resplan",
     "call": "Samtal",
     "dnd": "Stör ej",
     "battery_optimize": "Batterioptimering",
-    "power_saver": "Power Saver",
-    "permission_message1": "We detected a delayed notification, Please turn off",
-    "permission_message2": "to receive the notification on time.",
-    "notifications_delay_detected": "Notifications delay detected",
+    "power_saver": "Strömsparläge",
+    "permission_message1": "Vi upptäckte en försenad notifikation, vänligen stäng av",
+    "permission_message2": "För att få notifikationen på tid.",
+    "notifications_delay_detected": "Notifikations fördröjning upptäcktes ",
     "open_setting": "Öppna inställningar",
     "noJumua": "Ingen Jumu'a",
     "@noJumua": {
@@ -291,8 +291,8 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
-    "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
+    "qibla_sensor": "Sensoren i din enhet som MAWAQIT använder för att bestämma Qibla funkar inte som förväntad, vilket påverkar vår kapacitet att visa Qibla riktningen.",
+    "connection_not_found": "Inställningen för kompasskalibrering är inaktiverad. Kontrollera att din anslutning är aktiverad och försök igen genom att ändra riktning.",
     "currently_located_at": "För tillfället på",
     "facing_makkah": "Du är vänd mot Makkah",
     "not_facing_Makkah": "Du står inte mot Makkah",
@@ -301,17 +301,17 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Location service permission denied",
+    "qibla_Error_LocationDenied": "Platstjänstbehörighet nekad",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Location service Denied Forever !",
+    "qibla_Error_LocationDeniedForever": "Åtkomst till platstjänster har nekats för alltid.",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Please enable Location service",
+    "qibla_Error_PleaseEnable": "Vänligen aktivera platstjänster",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
@@ -341,7 +341,7 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flash Info",
+    "announcement_Type_FlashInfo": "Snabbinfo",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
@@ -386,7 +386,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "By MAWAQIT https://mawaqit.net",
+    "mosque_ByMawaqit": "Av MAWAQIT https://mawaqit.net/",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
@@ -396,7 +396,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled Access",
+    "mosque_Facilities_DisabledAccess": "Vänligen aktivera platstjänster",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
@@ -466,7 +466,7 @@
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "En ny version av MAWAQIT är tillgänglig, vänligen uppdatera",
     "@please_update": {
         "description": "_",
         "type": "text"
@@ -511,7 +511,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.",
+    "tutorial_text_mosque_info": "Allt om din Moské, Anläggningar, Adress, Mobil, Mejl, Donation, och mer.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.",
+    "tutorial_text_announcements": "Notifikation om meddelanden och annonseringar from din Moske kommer att synas. När du trycker på den här knappen, kommer du att se alla detaljer. Dessa annonseringar kan vara ett snabbmeddelande, en bild, eller även en video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -541,7 +541,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times",
+    "onboarding_text_2": "MAWAQIT är ett ekosystem som erbjuder dig ett nytt sätt att följa och hantera böntider. Applikationen du håller i handen är en del av detta ekosystem; den låter dig hitta moskéer samt följa deras nyheter och böntider",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
@@ -551,7 +551,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort",
+    "onboarding_text_3": "Oavsett om du befinner dig i en miljö med svagt ljus eller föredrar mörkare bakgrundsfärger på din telefon, kan du dra nytta av mörkt läge för förbättrad visuell komfort",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
@@ -561,7 +561,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Please pick your main mosque from the list below or search for a mosque near your current location",
+    "onboarding_text_4": "Vänligen välj din huvud Moské från listan under eller sök efter en Moské när din nuvarande plats",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
@@ -621,7 +621,7 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Please open the app to maintain notifications",
+    "notification_open_app_body": "Vänligen öppna appen för att bevara notifikationer",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
@@ -631,12 +631,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "Här kan du välja en typ av notifikation, Afghan, bip eller tyst",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Become a MAWAQIT ambassador and offer our solution to your mosque, it's free\nhttps://mawaqit.net",
+    "search_no_result": "Bli en MAWAQIT-ambassadör och erbjud vår lösning till din moské, det är gratis\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
@@ -666,7 +666,7 @@
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "You can view all messages from this mosque by clicking on the speaker at the top of the screen.",
+    "message_see_all": "Du kan kolla på alla meddelanden från denna Moské genom att klicka på högtalaren på toppen av skärmen.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "Här hittar du tiden mellan Adhan och Iqamah i Moskén",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -691,7 +691,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Download permission refused definitely, please allow download",
+    "calendar_download_permission_refused": "Nedladdningsbehörighet nekades permanent, vänligen tillåt nedladdning",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
@@ -701,17 +701,17 @@
         "description": "_",
         "type": "text"
     },
-    "location_service_disabled": "Location Service is disabled, please enable it.",
+    "location_service_disabled": "Platstjänst är inaktiverad, vänligen aktivera den.",
     "@location_service_disabled": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Location Permission Denied, please allow it.",
+    "location_permission_denied": "Platsbehörighet nekades, vänligen tillåt den.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Location Permission Denied Forever, please allow it in the settings page.",
+    "location_permission_denied_forever": "Platsbehörighet nekades för alltid, vänligen tillåt den på inställningssidan.",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
@@ -722,7 +722,7 @@
     "add": "Lägg till",
     "mosque": "Moské",
     "on_boarding_nearest_mosque": "Hitta närmaste Moskén",
-    "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
+    "on_boarding_nearest_mosque_text": "Här är Moskéerna som hittades baserad på din geolokalisering",
     "search_no_result_for_text": "Vi hittade inga resultat för",
     "surah_audio_downloading": "Surah ljud nedladdar...",
     "msg_internet_connection": "Du har ingen internetanslutning",
@@ -746,7 +746,7 @@
     "bookmarks": "Bokmärken",
     "juzz": "Juzz",
     "quran_page": "Sida",
-    "quran_turning_page": "Turning page",
+    "quran_turning_page": "Bläddrar sida",
     "quran_from_right_to_left": "Från höger till vänster",
     "quran_from_left_to_right": "Från vänster till höger",
     "quran_from_top_to_bottom": "Från toppen till botten",
@@ -783,9 +783,9 @@
     "calculation_methods_algeria": "Algeriets ministerium för religiösa angelägenheter och religiösa donationer (Waqf)",
     "calculation_methods_morocco": "Marockos ministerium för religiösa donationer (waqf) och islamiska angelägenheter",
     "calculation_methods_muslim_world": "Muslim World League",
-    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
-    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
-    "calculation_methods_umm_al_qura": "Umm al-Qura University, Makkah",
+    "calculation_methods_egyptian": "Egyptiska allmänna kartmyndigheten",
+    "calculation_methods_karachi": "Universitetet för islamiska vetenskaper, Karachi",
+    "calculation_methods_umm_al_qura": "Umm Al-Qura Universititet, Makkah",
     "calculation_methods_dubai": "Gulfregionen",
     "calculation_methods_moon": "Kommitté för månskådning",
     "calculation_methods_north_america": "Islamiska samhället i nordamerikanska",
@@ -793,30 +793,30 @@
     "calculation_methods_qatar": "Qatar",
     "calculation_methods_singapore": "Singapore",
     "calculation_methods_turkey": "Turkiet",
-    "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
-    "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
-    "calculation_methods_custom": "Custom angles",
-    "calculation_high_latitude": "Higher latitudes",
+    "calculation_methods_tehran": "Institutet för geofysik, Teherans universitet",
+    "calculation_methods_russia": "Den spirituella förvaltningen för muslimer i Ryssland",
+    "calculation_methods_custom": "Anpassade vinklar ",
+    "calculation_high_latitude": "Högre latituder",
     "calculation_high_latitude_none": "Ingen",
     "calculation_high_latitude_middle": "Mitten av natten",
     "calculation_high_latitude_one_seventh": "En sjundedel av natten",
-    "calculation_high_latitude_angle_based": "Angle based method",
+    "calculation_high_latitude_angle_based": "Vinkelbaserad metod",
     "calculation_adjustment": "Manual korrigering",
-    "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
-    "calculation_adjustment_prayers": "Prayer adjustments",
+    "calculation_adjustment_subtitle": "Bönerjustering och anpassade vinklar",
+    "calculation_adjustment_prayers": "Bönejustering",
     "calculation_adjustment_prayers_minutes": "minuter",
-    "calculation_adjustment_angles": "Custom angles",
-    "calculation_prayer_custom_angle": "Custom angle for",
+    "calculation_adjustment_angles": "Anpassade vinklar",
+    "calculation_prayer_custom_angle": "Anpassade vinklar för",
     "error_download_quran_failed": "Misslyckades att nedladda Koranen",
     "downloading_quran": "Nedladdar Koranen...",
     "processing": "Processar...",
-    "copied_to_clipboard": "Copied to your clipboard !",
-    "download_quran_popup_title": "Last touch ups",
-    "download_quran_popup_downloading_1": "We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.",
+    "copied_to_clipboard": "Kopierad till urklipp !",
+    "download_quran_popup_title": "Sista finputsningar",
+    "download_quran_popup_downloading_1": "Vi behöver ladda ner sidorna från Koranen, det tar bara några sekunder. Vi kommer att använda din mobildata, byt till Wi-Fi om det behövs.",
     "download_quran_popup_downloading_2": "Vi preparerar Koranen för just dig, vänligen vänta några sekunder!",
-    "download_quran_popup_downloading_3": "Click on 'Download' to start your journey of reading and reflection.",
-    "download_quran_popup_confirm_cancel": "Are you sure you want to cancel the download? Without this data you won't be able to read the Quran, the pages will be unavailable.",
-    "download_quran_popup_cancelled": "Something went wrong, please hit the download button again!",
+    "download_quran_popup_downloading_3": "Klicka på \"ladda ned\" för att påbörja din resa av läsning och reflektion.",
+    "download_quran_popup_confirm_cancel": "Är du säker att vill avbryta nedladdningen? Utan denna data kommer du inte kunna läsa Koranen, sidorna kommer att vara otillgängliga.",
+    "download_quran_popup_cancelled": "Något blev fel, vänligen klicka på ladda ned knappen igen!",
     "download": "Nedladda",
     "continue_download": "Fortsätt med nedladdningen",
     "cancel_download": "Avbryt nedladdningen",
@@ -824,35 +824,35 @@
     "download_failed": "Nedladdning misslyckats",
     "download_pages": "Nedladda sidorna",
     "notification": "Notifikation",
-    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
+    "notification_not_supported_below_7": "Du kan inte ta emot Athan- eller böntidsnotiser eftersom din enhet använder Android 7 eller äldre.",
     "battery_optimization": "Batterioptimering",
-    "battery_optimization_subtitle": "To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.",
+    "battery_optimization_subtitle": "För att ta emot böntidsnotiser utan avbrott måste du stänga av batterioptimering för MAWAQIT.",
     "allow": "Tillåt",
     "deny": "Förneka",
-    "force_notification": "Force notifications",
-    "tutorial_text_foreground_service": "Tapping on it allows you to toggle the 'Foreground Service' on or off",
+    "force_notification": "Tvinga fram notiser",
+    "tutorial_text_foreground_service": "Genom att trycka på den kan du slå på eller av “Förgrundstjänst”.",
     "enable": "På",
     "disable": "Av",
     "do_not_show_again": "Visa inte det igen",
-    "force_notification_title": "MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.",
+    "force_notification_title": "MAWAQIT är aktiv för att säkerställa att böntidsnotiserna triggas vid rätt tidpunkt.",
     "force_notification_body": "Bönen är alla troendes plikt, knuten till bestämda tider. An-Nisa', Ayah (103)",
-    "force_notification_dialog1_body": "By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.",
-    "force_notification_dialog2_body": "After enabling the 'Force Notifications' swipe down the notification tray you see this notification there",
-    "notification_debugging": "Notification Debugging",
-    "notification_debugging_details": "Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.",
+    "force_notification_dialog1_body": "Genom att aktivera det här alternativet kommer applikationen att förbli aktiv för att säkerställa att böntidsnotiserna triggas vid rätt tidpunkt utan fördröjning. MAWAQIT-appen kommer endast vara aktiv för detta syfte, och du kan när som helst stänga av alternativet från inställningarna.",
+    "force_notification_dialog2_body": "Efter att ha aktiverat “Tvinga notiser”, svep ner notisfältet så ser du den här notisen där.",
+    "notification_debugging": "Notisfelsökning",
+    "notification_debugging_details": "Notisfelsökning är aktiverad. Om du ändrar notisinställningarna kommer felsökningsdata att förloras och felsökningen stängs av.",
     "skip": "Skippa",
     "agree": "Samtycka",
     "return_no_search": "Ingen resultat returnerad",
-    "backend_environment_switch": "Backend environment switch",
-    "set_development_environment": "Set Development Environment",
-    "set_production_environment": "Set Production Environment",
+    "backend_environment_switch": "Byte av backend-miljö",
+    "set_development_environment": "Konfigurera utvecklingsmiljö ",
+    "set_production_environment": "Konfigurera produktionsmiljö ",
     "delay_notification": "Dröj notifikation",
-    "notification_delay_debugging_is": "Notification Delay debugging is",
-    "banner_enable": "Banner enable",
+    "notification_delay_debugging_is": "Felsökning av fördröjning i aviseringar är",
+    "banner_enable": "Aktivera banner",
     "banner": "Banner",
     "show_details": "Visa detaljer",
     "auto_detect_location": "Föreslå närmaste Moské",
-    "auto_detect_explanation": "When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.",
+    "auto_detect_explanation": "När du är långt ifrån din moské kommer appen automatiskt att föreslå att du söker efter den närmaste moskén baserat på din plats.",
     "auto_detect_location_title": "Det verkar som att du är långt bort ifrån din Moské",
     "auto_detect_location_message": "Vill du söka efter närmsta Moskén för mest korrekta bönetider?",
     "donation_success_toast": "Donationen lyckades",
@@ -892,8 +892,8 @@
     "translation_settings": "Translation inställningar",
     "reading": "Läses",
     "listening": "Lyssnar",
-    "font_size": "Font-size",
-    "font_size_arabic": "Font-size Arabic",
+    "font_size": "Teckenstorlek",
+    "font_size_arabic": "Arabiska teckenstorlekar",
     "horizontal": "Horizontal",
     "vertical": "Vertikal",
     "add_page_bookmarks": "Lägg till sida till bokmärken",
@@ -924,19 +924,19 @@
     "no_bookmark_ayah": "Inga bokmärken tillgängliga. Håll ned versen du vill bokmärka.",
     "page": "Sida",
     "prayer_times_in": "Bönetider i",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "En ny versionen av Koranen är tillgänglig för nedladdning. Tryck på \"uppdatera\" för att få tillgång till nya förbättringar, och fortsätt din resa med Koranens visdom",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_quran_zip": "En uppdaterad version har släppts med typografiska förbättringar. Klicka på ‘Uppdatera’ för att fortsätta din resa av läsning och reflektion.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_latest_quran_version": "En uppdaterad version har släppts med förbättrade typografiska detaljer. Klicka på ‘Uppdatera’ för att fortsätta din läsning och reflektion.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_latest_quran": "En uppdaterad version har släppts med förbättrade typografiska detaljer. Klicka på ‘Uppdatera’ för att fortsätta din läsning och reflektion.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
@@ -968,17 +968,17 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Highlight next prayer after Iqama",
+    "highlight_next_prayer_after_Iqama": "Markera nästa bön efter Iqama",
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portugisiska",
     "al_zikr": "Al Dhikr",
     "favorite_azkar": "Favorit Adhkar",
     "all_azkar": "All Adhkar",
-    "device_audio_not_found": "Device audio not found",
+    "device_audio_not_found": "Enhetsljud hittades inte",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
     },
-    "device_media": "Device Media",
+    "device_media": "Enhetsmedia",
     "@device_media": {
         "description": "-> device_media"
     },
@@ -986,15 +986,15 @@
     "@add_new_audio": {
         "description": "-> add_new_audio"
     },
-    "selecet_audio_before_delete": "You need to add another audio file for notifications before deleting the selected audio file",
+    "selecet_audio_before_delete": "Du måste lägga till en annan ljudfil för notiser innan du tar bort den valda ljudfilen.",
     "@selecet_audio_before_delete": {
         "description": "-> selecet_audio_before_delete"
     },
-    "addding_file_prompt": "You can add multiple audio files, but please make sure not to add the same audio file.",
+    "addding_file_prompt": "Du kan lägga till flera ljudfiler, men se till att inte lägga till samma ljudfil flera gånger.",
     "@addding_file_prompt": {
         "description": "-> addding_file_prompt"
     },
-    "ios_audio_file_picking_prompt": "Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.",
+    "ios_audio_file_picking_prompt": "Välj en ljudfil med en maximal längd på 30 sekunder eller mindre. En längre ljudfil kan störa din böntidsnotis.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
     },
@@ -1002,24 +1002,24 @@
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-    "add_ticket": "Add ticket",
+    "add_ticket": "Lägg till biljett",
     "projects": "Projekt",
     "fill_form": "För att lägga till din projekt fyll upp det här",
     "form": "form",
-    "updates_draw": "Get updates and participate in the draw to win goodies from",
-    "email_info": "This email will be used to contact you if you win the draw",
+    "updates_draw": "Få uppdateringar och delta i utlottningen för att vinna priser från",
+    "email_info": "Den här e-postadressen kommer att användas för att kontakta dig om du vinner utlottningen",
     "enter_email": "Skriv din mejl",
-    "email_privacy": "MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw",
+    "email_privacy": "MAWAQIT kommer inte att dela denna e-postadress med någon. E-postadressen raderas automatiskt från vår databas efter varje utlottning",
     "submit": "Skicka in",
-    "disclaimer": "MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research",
+    "disclaimer": "MAWAQIT frånsäger sig allt ansvar för de tjänster eller produkter som erbjuds av de listade projekten. Vänligen gör din egen efterforskning och due diligence",
     "participating_with": "Du deltar med",
-    "no_of_tickets": "No. of tickets:",
+    "no_of_tickets": "Nummer av biljetter",
     "unparticipate": "Killa för att inte delta",
     "next_ticket": "Nästa tillgängliga biljett i/om",
     "click_here": "Klicka här",
     "mawaqit_store": "MAWAQIT Butik",
     "no_projects": "Det finns inga projekt",
-    "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
+    "draw_info": "En utlottning varje månad. Varje 24:e timme kan du lägga till en ny biljett för att öka dina vinstchanser",
     "enter_valid_email": "Skriv ett godkänt mejl",
     "please_enter_email": "Vänligen skriv ett mejl",
     "select_device_audo_for_ios_propmpt": "Välj en ljudfil, så konverterar vi den till ett iOS-kompatibelt format och klipper den till 30 sekunder på grund av iOS-plattformens begränsningar.",
@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Det gick inte att ta bort alla recitationer",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Inga minnesresultat tillgängliga\t",
+    "search_title": "Sök med hjälp av titeln"
 }

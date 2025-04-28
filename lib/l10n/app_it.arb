@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Impossibile eliminare tutte le recitazioni",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Nessun risultato di promemoria disponibile\t",
+    "search_title": "Cerca usando il titolo"
 }

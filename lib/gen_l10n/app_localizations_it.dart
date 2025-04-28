@@ -1438,4 +1438,10 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Impossibile eliminare tutte le recitazioni';
+
+  @override
+  String get no_azkar_result => 'Nessun risultato di promemoria disponibile\t';
+
+  @override
+  String get search_title => 'Cerca usando il titolo';
 }

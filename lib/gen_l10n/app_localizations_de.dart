@@ -1438,4 +1438,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Fehler beim Löschen aller Rezitationen';
+
+  @override
+  String get no_azkar_result => 'Keine Erinnerungsergebnisse verfügbar\t';
+
+  @override
+  String get search_title => 'Suche nach Titel';
 }

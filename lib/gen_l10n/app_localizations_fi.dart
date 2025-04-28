@@ -1438,4 +1438,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Kaikkia reseptejä ei voitu poistaa';
+
+  @override
+  String get no_azkar_result => 'Muistotuloksia ei saatavilla\t';
+
+  @override
+  String get search_title => 'Etsi otsikon perusteella';
 }

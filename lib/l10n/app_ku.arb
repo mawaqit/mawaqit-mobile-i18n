@@ -1,5 +1,5 @@
 {
-    "@@locale": "ckb",
+    "@@locale": "ku",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Failed to delete all recitations",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "هیچ ئەنجامی بیرەوەری نەدۆزرایەوە\t",
+    "search_title": "گەڕان بە بەکارهێنانی ناونیشان"
 }

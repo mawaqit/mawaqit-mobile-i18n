@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Nie udało się usunąć wszystkich motywów",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Brak dostępnych wyników przypomnienia\t",
+    "search_title": "Wyszukaj za pomocą tytułu"
 }

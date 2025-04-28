@@ -1,5 +1,5 @@
 {
-    "@@locale": "es-ES",
+    "@@locale": "es",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Error al eliminar todas las recetas",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "No hay resultados de recordatorio disponibles\t",
+    "search_title": "Buscar usando el título"
 }

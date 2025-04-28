@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Failed to delete all recitations",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "No remembrance results available\t",
+    "search_title": "Search using the title"
 }
