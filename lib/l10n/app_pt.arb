@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Falha ao excluir todas as recitações",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Nenhum resultado de memória disponível",
+    "search_title": "Pesquisar usando o título"
 }
