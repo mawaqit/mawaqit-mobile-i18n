@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Kon niet alle overwegingen verwijderen",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Geen resultaten voor membrance beschikbaar",
+    "search_title": "Zoeken op titel"
 }
