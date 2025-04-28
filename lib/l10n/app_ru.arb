@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Нет доступных данных о памяти",
+    "no_azkar_result": "Нет доступных результатов воспоминаний\t",
     "search_title": "Поиск по названию"
 }
