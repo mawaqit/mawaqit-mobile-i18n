@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Fehler beim Löschen aller Rezitationen",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Keine Erinnerungsergebnisse verfügbar",
+    "search_title": "Suche nach Titel"
 }
