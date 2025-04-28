@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Geen resultaten voor membrance beschikbaar",
+    "no_azkar_result": "Geen herinneringsresultaten beschikbaar\t",
     "search_title": "Zoeken op titel"
 }
