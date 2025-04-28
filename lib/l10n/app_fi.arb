@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Muistin tuloksia ei saatavilla",
+    "no_azkar_result": "Muistotuloksia ei saatavilla\t",
     "search_title": "Etsi otsikon perusteella"
 }
