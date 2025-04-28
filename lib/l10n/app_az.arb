@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "No remembrance results available",
+    "no_azkar_result": "Yaddaş nəticələri mövcud deyil\t",
     "search_title": "Başlığa görə axtarın"
 }
