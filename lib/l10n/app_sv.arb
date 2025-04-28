@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Det gick inte att ta bort alla recitationer",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Inga minnesresultat tillgängliga",
+    "search_title": "Sök med hjälp av titeln"
 }
