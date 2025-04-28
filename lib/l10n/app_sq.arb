@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "No remembrance results available",
+    "no_azkar_result": "Nuk ka rezultate të kujtesës në dispozicion\t",
     "search_title": "Kërko duke përdorur titullin"
 }
