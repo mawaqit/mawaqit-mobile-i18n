@@ -1438,4 +1438,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Det gick inte att ta bort alla recitationer';
+
+  @override
+  String get no_azkar_result => 'Inga minnesresultat tillgängliga';
+
+  @override
+  String get search_title => 'Sök med hjälp av titeln';
 }

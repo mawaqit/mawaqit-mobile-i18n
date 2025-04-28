@@ -1438,4 +1438,10 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'शीर्षक का उपयोग करके खोजें';
 }

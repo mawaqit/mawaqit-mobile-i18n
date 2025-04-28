@@ -1438,4 +1438,10 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get failed_delete_recitations => 'Falha ao excluir todas as recitações';
+
+  @override
+  String get no_azkar_result => 'Nenhum resultado de memória disponível';
+
+  @override
+  String get search_title => 'Pesquisar usando o título';
 }
