@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Impossible de supprimer toutes les récitations",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Aucun résultat de souvenir disponible",
+    "search_title": "Rechercher en utilisant le titre"
 }
