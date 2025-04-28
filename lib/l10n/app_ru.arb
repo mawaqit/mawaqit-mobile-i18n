@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Не удалось удалить все повторы",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Нет доступных данных о памяти",
+    "search_title": "Поиск по названию"
 }
