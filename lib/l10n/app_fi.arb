@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "Kaikkia reseptejä ei voitu poistaa",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "Muistin tuloksia ei saatavilla",
+    "search_title": "Etsi otsikon perusteella"
 }
