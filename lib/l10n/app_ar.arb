@@ -1059,5 +1059,7 @@
     "failed_delete_recitations": "فشل في حذف جميع الإشارات",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
-    }
+    },
+    "no_azkar_result": "لا توجد نتائج تذكارية متاحة",
+    "search_title": "ابحث باستخدام العنوان"
 }
