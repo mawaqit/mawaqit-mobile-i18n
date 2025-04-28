@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "No remembrance results available",
+    "no_azkar_result": "Tidak ada hasil pengingat yang tersedia\t",
     "search_title": "Cari menggunakan judul"
 }
