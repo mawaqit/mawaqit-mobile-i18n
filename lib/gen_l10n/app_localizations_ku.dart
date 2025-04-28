@@ -1440,7 +1440,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'No remembrance results available';
+  String get no_azkar_result => 'هیچ ئەنجامی بیرەوەری نەدۆزرایەوە\t';
 
   @override
   String get search_title => 'گەڕان بە بەکارهێنانی ناونیشان';

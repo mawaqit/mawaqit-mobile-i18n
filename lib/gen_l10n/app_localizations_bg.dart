@@ -1440,7 +1440,7 @@ class AppLocalizationsBg extends AppLocalizations {
   String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'No remembrance results available';
+  String get no_azkar_result => 'Няма налични резултати за спомени\t';
 
   @override
   String get search_title => 'Търсене по заглавие';

@@ -1440,7 +1440,7 @@ class AppLocalizationsEs extends AppLocalizations {
   String get failed_delete_recitations => 'Error al eliminar todas las recetas';
 
   @override
-  String get no_azkar_result => 'No hay resultados de recuerdo disponibles';
+  String get no_azkar_result => 'No hay resultados de recordatorio disponibles\t';
 
   @override
   String get search_title => 'Buscar usando el título';

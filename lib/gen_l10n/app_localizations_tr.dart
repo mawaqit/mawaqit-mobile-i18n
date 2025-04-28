@@ -1440,7 +1440,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'No remembrance results available';
+  String get no_azkar_result => 'Hiçbir hatırlatma sonucu bulunamadı\t';
 
   @override
   String get search_title => 'Başlığa göre ara';

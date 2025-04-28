@@ -1440,7 +1440,7 @@ class AppLocalizationsNl extends AppLocalizations {
   String get failed_delete_recitations => 'Kon niet alle overwegingen verwijderen';
 
   @override
-  String get no_azkar_result => 'Geen resultaten voor membrance beschikbaar';
+  String get no_azkar_result => 'Geen herinneringsresultaten beschikbaar\t';
 
   @override
   String get search_title => 'Zoeken op titel';

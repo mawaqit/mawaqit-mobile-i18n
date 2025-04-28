@@ -1440,7 +1440,7 @@ class AppLocalizationsPt extends AppLocalizations {
   String get failed_delete_recitations => 'Falha ao excluir todas as recitações';
 
   @override
-  String get no_azkar_result => 'Nenhum resultado de memória disponível';
+  String get no_azkar_result => 'Nenhum resultado de lembrança disponível\t';
 
   @override
   String get search_title => 'Pesquisar usando o título';

@@ -1440,7 +1440,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get failed_delete_recitations => 'فشل في حذف جميع الإشارات';
 
   @override
-  String get no_azkar_result => 'لا توجد نتائج تذكارية متاحة';
+  String get no_azkar_result => 'لا توجد نتائج للأذكار';
 
   @override
   String get search_title => 'ابحث باستخدام العنوان';
