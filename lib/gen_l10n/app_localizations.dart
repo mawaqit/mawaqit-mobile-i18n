@@ -3008,7 +3008,7 @@ abstract class AppLocalizations {
   /// No description provided for @no_azkar_result.
   ///
   /// In en, this message translates to:
-  /// **'No remembrance results available\t'**
+  /// **'No remembrance results available'**
   String get no_azkar_result;
 
   /// No description provided for @search_title.
