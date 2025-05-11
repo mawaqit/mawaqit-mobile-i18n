@@ -711,7 +711,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get surah => 'Surah';
 
   @override
-  String get continue_reading => 'Continue reading';
+  String get continue_reading => 'Lanjutkan membaca';
 
   @override
   String get bookmarks => 'Bookmark';
@@ -1278,7 +1278,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get adjust_hijri_date => 'Sesuaikan Tanggal Hijriyah';
 
   @override
-  String get prayer_times_by_location => 'Waktu salat berdasarkan lokasi';
+  String get prayer_times_by_location => 'Waktu shalat menurut lokasi';
 
   @override
   String get already_in_list => 'sudah ada dalam daftar Anda!';
@@ -1317,25 +1317,25 @@ class AppLocalizationsId extends AppLocalizations {
   String get all_azkar => 'All Azkar';
 
   @override
-  String get device_audio_not_found => 'Device audio not found';
+  String get device_audio_not_found => 'Perangkat audio tidak ditemukan';
 
   @override
-  String get device_media => 'Device Media';
+  String get device_media => 'Media Perangkat';
 
   @override
-  String get add_new_audio => 'Add a new audio file';
+  String get add_new_audio => 'Tambah file audio baru';
 
   @override
-  String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
+  String get selecet_audio_before_delete => 'Anda perlu menambahkan file audio lain untuk notifikasi sebelum menghapus file audio yang dipilih';
 
   @override
-  String get addding_file_prompt => 'You can add multiple audio files, but please make sure not to add the same audio file.';
+  String get addding_file_prompt => 'Anda dapat menambahkan beberapa file audio, tetapi pastikan untuk tidak menambahkan file audio yang sama.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+  String get ios_audio_file_picking_prompt => 'Harap pilih file audio dengan durasi maksimal 30 detik atau kurang. File audio dengan durasi lebih panjang dapat mengganggu pemberitahuan doa Anda.';
 
   @override
-  String get select_audio_from_device => 'Select audio (mp3) from device.';
+  String get select_audio_from_device => 'Pilih audio (mp3) dari perangkat.';
 
   @override
   String get add_ticket => 'Tambahkan tiket';
@@ -1344,7 +1344,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get projects => 'Proyek';
 
   @override
-  String get fill_form => 'Untuk menambahkan proyek Anda di sini, isi';
+  String get fill_form => 'Untuk menambahkan proyek Anda di sini, isi ini';
 
   @override
   String get form => 'formulir';
@@ -1392,13 +1392,13 @@ class AppLocalizationsId extends AppLocalizations {
   String get draw_info => 'Satu undian setiap bulan. Setiap 24 jam, Anda dapat menambahkan tiket baru untuk meningkatkan peluang menang!';
 
   @override
-  String get enter_valid_email => 'Masukkan email yang valid';
+  String get enter_valid_email => 'Masukkan email yang aktif';
 
   @override
   String get please_enter_email => 'Harap masukkan email';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+  String get select_device_audo_for_ios_propmpt => 'Pilih berkas audio, dan kami akan mengonversinya ke format yang kompatibel dengan iOS sambil memangkasnya menjadi 30 detik karena keterbatasan platform iOS.';
 
   @override
   String get confirm_deletion => 'Konfirmasi Penghapusan';
@@ -1407,16 +1407,16 @@ class AppLocalizationsId extends AppLocalizations {
   String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
 
   @override
-  String get file_not_found => 'File not found';
+  String get file_not_found => 'Berkas tidak Ditemukan';
 
   @override
-  String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
+  String get notified_boost => 'Dapatkan pemberitahuan tentang pembaruan terkini pada proyek MAWAQIT Boost.';
 
   @override
-  String get contact_us_boost => 'To list your project here, contact us at';
+  String get contact_us_boost => 'Untuk mendaftarkan proyek Anda di sini, hubungi kami di';
 
   @override
-  String get prayer_times_set_by_mosque => 'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+  String get prayer_times_set_by_mosque => 'Waktu sholat dan semua informasi di sini diatur oleh masjid, bukan MAWAQIT';
 
   @override
   String get hasan_nahi => 'Hasan Nahi';
@@ -1431,13 +1431,13 @@ class AppLocalizationsId extends AppLocalizations {
   String get delete_all_downloads => 'Hapus semua download';
 
   @override
-  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+  String get delete_recitations_message => 'Apakah Anda yakin ingin menghapus semua bacaan yang diunduh?';
 
   @override
-  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+  String get downloaded_deleted_successfully => 'Semua bacaan yang diunduh berhasil dihapus';
 
   @override
-  String get failed_delete_recitations => 'Failed to delete all recitations';
+  String get failed_delete_recitations => 'Gagal menghapus semua bacaan';
 
   @override
   String get no_azkar_result => 'Tidak ada hasil pengingat yang tersedia\t';
