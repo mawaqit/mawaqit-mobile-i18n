@@ -1026,7 +1026,7 @@
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
-    "confirm_deletion": "Confirm Deletion",
+    "confirm_deletion": "Konfirmasi Penghapusan",
     "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?",
     "file_not_found": "File not found",
     "@file_not_found": {
@@ -1040,11 +1040,11 @@
     },
     "hasan_nahi": "Hasan Nahi",
     "albanian": "Albania",
-    "delete_all": "Delete All",
+    "delete_all": "Hapus semua",
     "@delete_all": {
         "description": "-> delete_all"
     },
-    "delete_all_downloads": "Delete All Downloads",
+    "delete_all_downloads": "Hapus semua download",
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
     },
