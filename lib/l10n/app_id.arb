@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "Tidak ada penanda halaman tersedia. Silakan tekan lama ayat yang ingin Anda tandai.",
     "page": "Halaman",
     "prayer_times_in": "Waktu sholat di",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "Versi baru Al-Qur'an tersedia untuk diunduh. Ketuk 'Perbarui' untuk mengakses peningkatan terbaru dan lanjutkan perjalanan Anda dengan hikmah ilahi",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
@@ -1027,7 +1027,7 @@
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Konfirmasi Penghapusan",
-    "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?",
+    "sure_remove_rewaya": "Apakah Anda yakin ingin menghapus Riwayat ini?",
     "file_not_found": "Berkas tidak Ditemukan",
     "@file_not_found": {
         "description": "-> file_not_found"
