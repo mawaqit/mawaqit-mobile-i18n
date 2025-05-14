@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Yɛnɛnin baara tɛ si\t",
+    "no_azkar_result": "No remembrance results available",
     "search_title": "Sɔ̀rɔ tugu kan ka sɛbɛn"
 }
