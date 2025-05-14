@@ -1060,6 +1060,6 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Aucun résultat de souvenir disponible\t",
+    "no_azkar_result": "No remembrance results available",
     "search_title": "Rechercher en utilisant le titre"
 }
