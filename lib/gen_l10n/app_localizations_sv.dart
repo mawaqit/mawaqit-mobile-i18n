@@ -1443,5 +1443,5 @@ class AppLocalizationsSv extends AppLocalizations {
   String get no_azkar_result => 'Inga minnesresultat tillgängliga\t';
 
   @override
-  String get search_title => 'Sök med hjälp av titeln';
+  String get search_title => 'Sök med rubriken';
 }
