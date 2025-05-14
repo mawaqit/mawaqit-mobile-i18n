@@ -1440,7 +1440,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get failed_delete_recitations => 'Impossibile eliminare tutte le recitazioni';
 
   @override
-  String get no_azkar_result => 'Nessun risultato di promemoria disponibile\t';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
   String get search_title => 'Cerca usando il titolo';

@@ -711,7 +711,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get surah => 'سورەت';
 
   @override
-  String get continue_reading => 'Continue Reading';
+  String get continue_reading => 'Continue reading';
 
   @override
   String get bookmarks => 'دڵخوازەکان';
@@ -927,7 +927,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'ئێمە قورئان ئامادە دەکەین تەنها بۆ ئێوە، تکایە چەند چرکەیەک چاوەڕوان بن!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
+  String get download_quran_popup_downloading_3 => 'Click on \'Download\' to start your journey of reading and reflection.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'دڵنیای کە دەتەوێت دابەزاندنەکە هەڵبوەشێنیتەوە؟ بەبێ ئەم داتایە ناتوانیت قورئان بخوێنیتەوە، لاپەڕەکان بەردەست نابن.';
@@ -1257,16 +1257,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get prayer_times_in => 'کاتەکانی بانگ لە';
 
   @override
-  String get update_new_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
-  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_quran_zip => 'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
 
   @override
-  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran_version => 'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
 
   @override
-  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran => 'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
 
   @override
   String get set_notification_for_all_parayer => 'هەڵبژاردندنی ئەمە بۆ گشت نوێژەکان';
@@ -1440,8 +1440,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'هیچ ئەنجامی بیرەوەری نەدۆزرایەوە\t';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
-  String get search_title => 'گەڕان بە بەکارهێنانی ناونیشان';
+  String get search_title => 'Lêgerîn bi ser navê ve';
 }
