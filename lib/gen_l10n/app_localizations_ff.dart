@@ -1440,7 +1440,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'Fayde nden ndiyam waawan\t';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
   String get search_title => 'Yiylu e innde';
