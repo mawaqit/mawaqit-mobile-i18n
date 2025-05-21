@@ -1060,6 +1060,18 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "لا توجد نتائج للأذكار",
-    "search_title": "ابحث باستخدام العنوان"
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "ابحث باستخدام العنوان",
+    "compass_calibration": "إعدادات معايرة البوصلة معطلة. قم بالتمرير ونقل هاتفك 3 مرات في شكل 8 حركة مثل هذا",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "دقة البوصلة",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "منخفض",
+    "@low": {
+        "description": "-> low"
+    }
 }

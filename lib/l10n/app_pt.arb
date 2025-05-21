@@ -1061,5 +1061,17 @@
         "description": "failed_delete_recitations"
     },
     "no_azkar_result": "Nenhum resultado de lembrança disponível\t",
-    "search_title": "Pesquisar usando o título"
+    "search_title": "Pesquisar usando o título",
+    "compass_calibration": "A configuração de calibração da bússola está desativada. Incline e mova o telefone 3 vezes em um número de oito movimentos como este",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Precisão da Bússola",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "baixa",
+    "@low": {
+        "description": "-> low"
+    }
 }

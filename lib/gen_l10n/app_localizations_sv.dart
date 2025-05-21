@@ -1444,4 +1444,13 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get search_title => 'Sök med rubriken';
+
+  @override
+  String get compass_calibration => 'Kompass kalibrering inställning är inaktiverad. Luta och flytta telefonen 3 gånger i en figure-of-åtta rörelse som denna';
+
+  @override
+  String get compass_accuracy => 'Kompass noggrannhet';
+
+  @override
+  String get low => 'Låg';
 }

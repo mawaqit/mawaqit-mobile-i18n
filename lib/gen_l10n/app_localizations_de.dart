@@ -1440,8 +1440,17 @@ class AppLocalizationsDe extends AppLocalizations {
   String get failed_delete_recitations => 'Fehler beim Löschen aller Rezitationen';
 
   @override
-  String get no_azkar_result => 'Keine Erinnerungsergebnisse verfügbar\t';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
   String get search_title => 'Suche nach Titel';
+
+  @override
+  String get compass_calibration => 'Kompass-Kalibrierungseinstellungen sind deaktiviert. Drehen und verschieben Sie Ihr Telefon 3 Mal in einer Figur von acht Bewegungen wie dieser';
+
+  @override
+  String get compass_accuracy => 'Kompassgenauigkeit';
+
+  @override
+  String get low => 'Niedrig';
 }

@@ -1060,6 +1060,18 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Muistotuloksia ei saatavilla\t",
-    "search_title": "Etsi otsikon perusteella"
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Etsi otsikon perusteella",
+    "compass_calibration": "Kompassin kalibrointiasetus ei ole käytössä. Kallistele ja siirrä puhelinta 3 kertaa kahdeksankertaisessa liikkeessä kuten tässä",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Kompassin Tarkkuus",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Matala",
+    "@low": {
+        "description": "-> low"
+    }
 }

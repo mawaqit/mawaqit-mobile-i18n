@@ -1440,8 +1440,17 @@ class AppLocalizationsFi extends AppLocalizations {
   String get failed_delete_recitations => 'Kaikkia reseptejä ei voitu poistaa';
 
   @override
-  String get no_azkar_result => 'Muistotuloksia ei saatavilla\t';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
   String get search_title => 'Etsi otsikon perusteella';
+
+  @override
+  String get compass_calibration => 'Kompassin kalibrointiasetus ei ole käytössä. Kallistele ja siirrä puhelinta 3 kertaa kahdeksankertaisessa liikkeessä kuten tässä';
+
+  @override
+  String get compass_accuracy => 'Kompassin Tarkkuus';
+
+  @override
+  String get low => 'Matala';
 }

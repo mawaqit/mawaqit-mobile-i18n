@@ -1061,5 +1061,17 @@
         "description": "failed_delete_recitations"
     },
     "no_azkar_result": "No hay resultados de recordatorio disponibles\t",
-    "search_title": "Buscar usando el título"
+    "search_title": "Buscar usando el título",
+    "compass_calibration": "El ajuste de calibración de la brújula está desactivado. Incluir y mover el teléfono 3 veces en una figura-de-ocho movimiento como este",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Precisión de brújula",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Baja",
+    "@low": {
+        "description": "-> low"
+    }
 }

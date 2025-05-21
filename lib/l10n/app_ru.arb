@@ -1060,6 +1060,18 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Нет доступных результатов воспоминаний\t",
-    "search_title": "Поиск по названию"
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Поиск по названию",
+    "compass_calibration": "Настройка калибровки компаса отключена. Наклоните телефон и переместите его 3 раза в восьмерку так, как это",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Точность компаса",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Низкий",
+    "@low": {
+        "description": "-> low"
+    }
 }

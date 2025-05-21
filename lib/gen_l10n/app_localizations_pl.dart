@@ -1440,8 +1440,17 @@ class AppLocalizationsPl extends AppLocalizations {
   String get failed_delete_recitations => 'Nie udało się usunąć wszystkich motywów';
 
   @override
-  String get no_azkar_result => 'Brak dostępnych wyników przypomnienia\t';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
   String get search_title => 'Wyszukaj za pomocą tytułu';
+
+  @override
+  String get compass_calibration => 'Ustawienia kalibracji kompasu są wyłączone. Przesuń i przesuń telefon 3 razy na rysunku z ośmiu ruchów, tak jak to';
+
+  @override
+  String get compass_accuracy => 'Dokładność kompasu';
+
+  @override
+  String get low => 'Niski';
 }

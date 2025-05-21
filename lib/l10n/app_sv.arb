@@ -1061,5 +1061,17 @@
         "description": "failed_delete_recitations"
     },
     "no_azkar_result": "Inga minnesresultat tillgängliga\t",
-    "search_title": "Sök med rubriken"
+    "search_title": "Sök med rubriken",
+    "compass_calibration": "Kompass kalibrering inställning är inaktiverad. Luta och flytta telefonen 3 gånger i en figure-of-åtta rörelse som denna",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Kompass noggrannhet",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Låg",
+    "@low": {
+        "description": "-> low"
+    }
 }

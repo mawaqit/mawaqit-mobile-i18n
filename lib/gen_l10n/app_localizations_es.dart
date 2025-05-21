@@ -1444,4 +1444,13 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get search_title => 'Buscar usando el título';
+
+  @override
+  String get compass_calibration => 'El ajuste de calibración de la brújula está desactivado. Incluir y mover el teléfono 3 veces en una figura-de-ocho movimiento como este';
+
+  @override
+  String get compass_accuracy => 'Precisión de brújula';
+
+  @override
+  String get low => 'Baja';
 }

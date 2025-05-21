@@ -1440,8 +1440,17 @@ class AppLocalizationsAr extends AppLocalizations {
   String get failed_delete_recitations => 'فشل في حذف جميع الإشارات';
 
   @override
-  String get no_azkar_result => 'لا توجد نتائج للأذكار';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
   String get search_title => 'ابحث باستخدام العنوان';
+
+  @override
+  String get compass_calibration => 'إعدادات معايرة البوصلة معطلة. قم بالتمرير ونقل هاتفك 3 مرات في شكل 8 حركة مثل هذا';
+
+  @override
+  String get compass_accuracy => 'دقة البوصلة';
+
+  @override
+  String get low => 'منخفض';
 }

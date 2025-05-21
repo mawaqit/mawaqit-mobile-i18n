@@ -1060,6 +1060,18 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "Brak dostępnych wyników przypomnienia\t",
-    "search_title": "Wyszukaj za pomocą tytułu"
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Wyszukaj za pomocą tytułu",
+    "compass_calibration": "Ustawienia kalibracji kompasu są wyłączone. Przesuń i przesuń telefon 3 razy na rysunku z ośmiu ruchów, tak jak to",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Dokładność kompasu",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Niski",
+    "@low": {
+        "description": "-> low"
+    }
 }

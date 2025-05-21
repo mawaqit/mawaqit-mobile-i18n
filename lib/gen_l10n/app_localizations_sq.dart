@@ -1440,8 +1440,17 @@ class AppLocalizationsSq extends AppLocalizations {
   String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'Nuk ka rezultate të kujtesës në dispozicion\t';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
   String get search_title => 'Kërko duke përdorur titullin';
+
+  @override
+  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+
+  @override
+  String get compass_accuracy => 'Compass Accuracy';
+
+  @override
+  String get low => 'Low';
 }
