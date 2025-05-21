@@ -1061,5 +1061,17 @@
         "description": "failed_delete_recitations"
     },
     "no_azkar_result": "No remembrance results available",
-    "search_title": "Zoeken op titel"
+    "search_title": "Zoeken op titel",
+    "compass_calibration": "Kompas kalibratie-instelling is uitgeschakeld. Tilt en verplaats uw telefoon 3 keer in een figuur-van-acht beweging zoals deze",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Kompas Nauwkeurigheid",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "laag",
+    "@low": {
+        "description": "-> low"
+    }
 }
