@@ -1444,4 +1444,13 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get search_title => 'Rechercher en utilisant le titre';
+
+  @override
+  String get compass_calibration => 'Le paramètre d\'étalonnage de la boussole est désactivé. Inclinez et déplacez votre téléphone 3 fois dans un mouvement de huit chiffres comme celui-ci';
+
+  @override
+  String get compass_accuracy => 'Précision de la boussole';
+
+  @override
+  String get low => 'Bas';
 }

@@ -1444,4 +1444,13 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get search_title => 'Pretraži koristeći naslov';
+
+  @override
+  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+
+  @override
+  String get compass_accuracy => 'Compass Accuracy';
+
+  @override
+  String get low => 'Low';
 }

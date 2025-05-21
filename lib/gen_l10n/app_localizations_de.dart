@@ -1444,4 +1444,13 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get search_title => 'Suche nach Titel';
+
+  @override
+  String get compass_calibration => 'Kompass-Kalibrierungseinstellungen sind deaktiviert. Drehen und verschieben Sie Ihr Telefon 3 Mal in einer Figur von acht Bewegungen wie dieser';
+
+  @override
+  String get compass_accuracy => 'Kompassgenauigkeit';
+
+  @override
+  String get low => 'Niedrig';
 }

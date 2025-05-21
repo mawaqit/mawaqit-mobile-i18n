@@ -3016,6 +3016,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Search using the title'**
   String get search_title;
+
+  /// -> compass_calibration
+  ///
+  /// In en, this message translates to:
+  /// **'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this'**
+  String get compass_calibration;
+
+  /// -> compass_accuracy
+  ///
+  /// In en, this message translates to:
+  /// **'Compass Accuracy'**
+  String get compass_accuracy;
+
+  /// -> low
+  ///
+  /// In en, this message translates to:
+  /// **'Low'**
+  String get low;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

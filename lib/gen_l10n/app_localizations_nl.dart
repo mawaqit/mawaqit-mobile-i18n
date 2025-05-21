@@ -1444,4 +1444,13 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get search_title => 'Zoeken op titel';
+
+  @override
+  String get compass_calibration => 'Kompas kalibratie-instelling is uitgeschakeld. Tilt en verplaats uw telefoon 3 keer in een figuur-van-acht beweging zoals deze';
+
+  @override
+  String get compass_accuracy => 'Kompas Nauwkeurigheid';
+
+  @override
+  String get low => 'laag';
 }

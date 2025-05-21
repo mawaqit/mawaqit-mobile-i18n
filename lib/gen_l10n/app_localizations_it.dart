@@ -1444,4 +1444,13 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get search_title => 'Cerca usando il titolo';
+
+  @override
+  String get compass_calibration => 'L\'impostazione di calibrazione della bussola è disabilitata. Inclinare e spostare il telefono 3 volte in una figura di otto movimenti come questo';
+
+  @override
+  String get compass_accuracy => 'Precisione Bussola';
+
+  @override
+  String get low => 'Basso';
 }

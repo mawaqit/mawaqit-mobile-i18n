@@ -1444,4 +1444,13 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get search_title => 'ابحث باستخدام العنوان';
+
+  @override
+  String get compass_calibration => 'إعدادات معايرة البوصلة معطلة. قم بالتمرير ونقل هاتفك 3 مرات في شكل 8 حركة مثل هذا';
+
+  @override
+  String get compass_accuracy => 'دقة البوصلة';
+
+  @override
+  String get low => 'منخفض';
 }

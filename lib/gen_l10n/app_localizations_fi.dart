@@ -1444,4 +1444,13 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get search_title => 'Etsi otsikon perusteella';
+
+  @override
+  String get compass_calibration => 'Kompassin kalibrointiasetus ei ole käytössä. Kallistele ja siirrä puhelinta 3 kertaa kahdeksankertaisessa liikkeessä kuten tässä';
+
+  @override
+  String get compass_accuracy => 'Kompassin Tarkkuus';
+
+  @override
+  String get low => 'Matala';
 }

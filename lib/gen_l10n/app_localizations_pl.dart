@@ -1444,4 +1444,13 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get search_title => 'Wyszukaj za pomocą tytułu';
+
+  @override
+  String get compass_calibration => 'Ustawienia kalibracji kompasu są wyłączone. Przesuń i przesuń telefon 3 razy na rysunku z ośmiu ruchów, tak jak to';
+
+  @override
+  String get compass_accuracy => 'Dokładność kompasu';
+
+  @override
+  String get low => 'Niski';
 }

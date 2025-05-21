@@ -1444,4 +1444,13 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get search_title => 'Поиск по названию';
+
+  @override
+  String get compass_calibration => 'Настройка калибровки компаса отключена. Наклоните телефон и переместите его 3 раза в восьмерку так, как это';
+
+  @override
+  String get compass_accuracy => 'Точность компаса';
+
+  @override
+  String get low => 'Низкий';
 }
