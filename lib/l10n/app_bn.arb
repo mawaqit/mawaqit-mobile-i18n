@@ -1061,5 +1061,17 @@
         "description": "failed_delete_recitations"
     },
     "no_azkar_result": "No remembrance results available",
-    "search_title": "শিরোনাম ব্যবহার করে অনুসন্ধান করুন"
+    "search_title": "শিরোনাম ব্যবহার করে অনুসন্ধান করুন",
+    "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Compass Accuracy",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Low",
+    "@low": {
+        "description": "-> low"
+    }
 }
