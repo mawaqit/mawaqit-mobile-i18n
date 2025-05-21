@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1061,5 +1061,17 @@
         "description": "failed_delete_recitations"
     },
     "no_azkar_result": "کوئی یاد دہانی کے نتائج دستیاب نہیں ہیں\t",
-    "search_title": "عنوان کے ذریعے تلاش کریں"
+    "search_title": "عنوان کے ذریعے تلاش کریں",
+    "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Compass Accuracy",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Low",
+    "@low": {
+        "description": "-> low"
+    }
 }
