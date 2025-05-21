@@ -1061,5 +1061,17 @@
         "description": "failed_delete_recitations"
     },
     "no_azkar_result": "No remembrance results available",
-    "search_title": "Suche nach Titel"
+    "search_title": "Suche nach Titel",
+    "compass_calibration": "Kompass-Kalibrierungseinstellungen sind deaktiviert. Drehen und verschieben Sie Ihr Telefon 3 Mal in einer Figur von acht Bewegungen wie dieser",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Kompassgenauigkeit",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Niedrig",
+    "@low": {
+        "description": "-> low"
+    }
 }
