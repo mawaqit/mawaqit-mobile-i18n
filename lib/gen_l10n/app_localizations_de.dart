@@ -1464,5 +1464,5 @@ class AppLocalizationsDe extends AppLocalizations {
   String get no_tafsir => 'Es wurde noch kein Tafsir heruntergeladen';
 
   @override
-  String get download_tafsir => 'Tafsir herunterladen';
+  String get download_tafsir => 'Lade den Tafsir herunter';
 }

@@ -1461,7 +1461,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get copy => 'Kopiera';
 
   @override
-  String get no_tafsir => 'Ingen Tafsir har laddats ner ännu';
+  String get no_tafsir => 'Ingen Tafsir har laddats ner än';
 
   @override
   String get download_tafsir => 'Ladda ner Tafsir';

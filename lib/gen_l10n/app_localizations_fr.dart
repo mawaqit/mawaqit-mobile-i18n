@@ -1458,10 +1458,10 @@ class AppLocalizationsFr extends AppLocalizations {
   String get tafsir => 'Tafsir';
 
   @override
-  String get copy => 'Copie';
+  String get copy => 'Copier';
 
   @override
-  String get no_tafsir => 'Aucun Tafsir n\'a encore été téléchargé';
+  String get no_tafsir => 'Aucun Tafsir n’a encore été téléchargé';
 
   @override
   String get download_tafsir => 'Télécharger Tafsir';

@@ -1455,14 +1455,14 @@ class AppLocalizationsHu extends AppLocalizations {
   String get low => 'Low';
 
   @override
-  String get tafsir => 'Tafsir';
+  String get tafsir => 'Tafszír';
 
   @override
-  String get copy => 'Copy';
+  String get copy => 'Másolás';
 
   @override
-  String get no_tafsir => 'No Tafsir has been downloaded yet';
+  String get no_tafsir => 'Még nem lett letöltve egyetlen tafszír sem';
 
   @override
-  String get download_tafsir => 'Download the Tafsir';
+  String get download_tafsir => 'Töltsd le a tafszírt';
 }

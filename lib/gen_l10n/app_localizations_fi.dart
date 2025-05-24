@@ -1461,8 +1461,8 @@ class AppLocalizationsFi extends AppLocalizations {
   String get copy => 'Kopioi';
 
   @override
-  String get no_tafsir => 'Tafsiria ei ole vielä ladattu';
+  String get no_tafsir => 'Yhtään tafsiria ei ole vielä ladattu';
 
   @override
-  String get download_tafsir => 'Lataa Tafsir';
+  String get download_tafsir => 'Lataa tafsir';
 }

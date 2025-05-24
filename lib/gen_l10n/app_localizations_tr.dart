@@ -1455,14 +1455,14 @@ class AppLocalizationsTr extends AppLocalizations {
   String get low => 'Low';
 
   @override
-  String get tafsir => 'Tafsir';
+  String get tafsir => 'Tefsir';
 
   @override
-  String get copy => 'Copy';
+  String get copy => 'Kopyala';
 
   @override
-  String get no_tafsir => 'No Tafsir has been downloaded yet';
+  String get no_tafsir => 'Henüz hiçbir Tefsir indirilmedi';
 
   @override
-  String get download_tafsir => 'Download the Tafsir';
+  String get download_tafsir => 'Tefsiri indir';
 }

@@ -1458,11 +1458,11 @@ class AppLocalizationsFf extends AppLocalizations {
   String get tafsir => 'Tafsir';
 
   @override
-  String get copy => 'Copy';
+  String get copy => 'Naatal';
 
   @override
-  String get no_tafsir => 'No Tafsir has been downloaded yet';
+  String get no_tafsir => 'Tafsir so wonaa aawtude';
 
   @override
-  String get download_tafsir => 'Download the Tafsir';
+  String get download_tafsir => 'Aawtu Tafsir';
 }

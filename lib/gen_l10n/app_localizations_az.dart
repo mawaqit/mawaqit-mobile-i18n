@@ -1458,11 +1458,11 @@ class AppLocalizationsAz extends AppLocalizations {
   String get tafsir => 'Təfsir';
 
   @override
-  String get copy => 'Copy';
+  String get copy => 'Kopyala';
 
   @override
-  String get no_tafsir => 'No Tafsir has been downloaded yet';
+  String get no_tafsir => 'Hələ heç bir Təfsir yüklənməyib';
 
   @override
-  String get download_tafsir => 'Download the Tafsir';
+  String get download_tafsir => 'Təfsiri yüklə';
 }
