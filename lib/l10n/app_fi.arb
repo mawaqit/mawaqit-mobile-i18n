@@ -1073,5 +1073,9 @@
     "low": "Matala",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopioi",
+    "no_tafsir": "Tafsiria ei ole vielä ladattu",
+    "download_tafsir": "Lataa Tafsir"
 }
