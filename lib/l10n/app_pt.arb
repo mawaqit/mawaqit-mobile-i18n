@@ -1073,5 +1073,9 @@
     "low": "baixa",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "copiar",
+    "no_tafsir": "Tafsir não foi baixado ainda",
+    "download_tafsir": "Baixe o Tafsir"
 }
