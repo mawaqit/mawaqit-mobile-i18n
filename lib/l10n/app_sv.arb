@@ -1073,5 +1073,9 @@
     "low": "Låg",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopiera",
+    "no_tafsir": "Ingen Tafsir har laddats ner ännu",
+    "download_tafsir": "Ladda ner Tafsir"
 }
