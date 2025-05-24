@@ -1075,7 +1075,7 @@
         "description": "-> low"
     },
     "tafsir": "তাফসির",
-    "copy": "Copy",
-    "no_tafsir": "No Tafsir has been downloaded yet",
-    "download_tafsir": "Download the Tafsir"
+    "copy": "কপি করুন",
+    "no_tafsir": "এখনও কোনো তাফসির ডাউনলোড করা হয়নি",
+    "download_tafsir": "তাফসির ডাউনলোড করুন"
 }
