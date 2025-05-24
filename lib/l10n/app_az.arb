@@ -1075,7 +1075,7 @@
         "description": "-> low"
     },
     "tafsir": "Təfsir",
-    "copy": "Copy",
-    "no_tafsir": "No Tafsir has been downloaded yet",
-    "download_tafsir": "Download the Tafsir"
+    "copy": "Kopyala",
+    "no_tafsir": "Hələ heç bir Təfsir yüklənməyib",
+    "download_tafsir": "Təfsiri yüklə"
 }
