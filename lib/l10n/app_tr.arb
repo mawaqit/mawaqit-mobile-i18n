@@ -1074,8 +1074,8 @@
     "@low": {
         "description": "-> low"
     },
-    "tafsir": "Tafsir",
-    "copy": "Copy",
-    "no_tafsir": "No Tafsir has been downloaded yet",
-    "download_tafsir": "Download the Tafsir"
+    "tafsir": "Tefsir",
+    "copy": "Kopyala",
+    "no_tafsir": "Henüz hiçbir Tefsir indirilmedi",
+    "download_tafsir": "Tefsiri indir"
 }
