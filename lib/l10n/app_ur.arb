@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur-PK",
+    "@@locale": "ur",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1073,5 +1073,9 @@
     "low": "Low",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "تفسیر",
+    "copy": "نقل کریں",
+    "no_tafsir": "ابھی تک کوئی تفسیر ڈاؤن لوڈ نہیں کی گئی ہے",
+    "download_tafsir": "تفسیر ڈاؤن لوڈ کریں"
 }

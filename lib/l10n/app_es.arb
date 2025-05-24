@@ -1,5 +1,5 @@
 {
-    "@@locale": "es-ES",
+    "@@locale": "es",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1073,5 +1073,9 @@
     "low": "Baja",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Copiar",
+    "no_tafsir": "Aún no se ha descargado ningún Tafsir",
+    "download_tafsir": "Descargar el Tafsir"
 }

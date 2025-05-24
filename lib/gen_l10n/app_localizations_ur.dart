@@ -1453,4 +1453,16 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'تفسیر';
+
+  @override
+  String get copy => 'نقل کریں';
+
+  @override
+  String get no_tafsir => 'ابھی تک کوئی تفسیر ڈاؤن لوڈ نہیں کی گئی ہے';
+
+  @override
+  String get download_tafsir => 'تفسیر ڈاؤن لوڈ کریں';
 }

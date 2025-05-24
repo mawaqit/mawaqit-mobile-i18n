@@ -1073,5 +1073,9 @@
     "low": "Low",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafszír",
+    "copy": "Másolás",
+    "no_tafsir": "Még nem lett letöltve egyetlen tafszír sem",
+    "download_tafsir": "Töltsd le a tafszírt"
 }

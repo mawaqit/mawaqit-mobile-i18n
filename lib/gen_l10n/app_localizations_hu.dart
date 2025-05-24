@@ -1453,4 +1453,16 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'Tafszír';
+
+  @override
+  String get copy => 'Másolás';
+
+  @override
+  String get no_tafsir => 'Még nem lett letöltve egyetlen tafszír sem';
+
+  @override
+  String get download_tafsir => 'Töltsd le a tafszírt';
 }

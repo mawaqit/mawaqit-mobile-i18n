@@ -1073,5 +1073,9 @@
     "low": "Low",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kɔpi",
+    "no_tafsir": "A ni Tafsir fila ka télécharge ye",
+    "download_tafsir": "Télécharger le Tafsir"
 }

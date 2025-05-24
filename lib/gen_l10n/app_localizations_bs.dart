@@ -1453,4 +1453,16 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'Tefsir';
+
+  @override
+  String get copy => 'Kopiraj';
+
+  @override
+  String get no_tafsir => 'Još nijedan tefsir nije preuzet';
+
+  @override
+  String get download_tafsir => 'Preuzmi tefsir';
 }

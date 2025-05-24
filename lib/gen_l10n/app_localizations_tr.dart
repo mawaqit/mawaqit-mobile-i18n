@@ -1453,4 +1453,16 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'Tefsir';
+
+  @override
+  String get copy => 'Kopyala';
+
+  @override
+  String get no_tafsir => 'Henüz hiçbir Tefsir indirilmedi';
+
+  @override
+  String get download_tafsir => 'Tefsiri indir';
 }

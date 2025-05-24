@@ -1073,5 +1073,9 @@
     "low": "Low",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopjo",
+    "no_tafsir": "Asnjë Tafsir nuk është shkarkuar ende",
+    "download_tafsir": "Shkarko Tafsirin"
 }

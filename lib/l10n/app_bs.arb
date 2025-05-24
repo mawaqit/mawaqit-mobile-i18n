@@ -1073,5 +1073,9 @@
     "low": "Low",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tefsir",
+    "copy": "Kopiraj",
+    "no_tafsir": "Još nijedan tefsir nije preuzet",
+    "download_tafsir": "Preuzmi tefsir"
 }

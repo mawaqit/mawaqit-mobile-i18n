@@ -1453,4 +1453,16 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Salin';
+
+  @override
+  String get no_tafsir => 'Belum ada Tafsir yang diunduh';
+
+  @override
+  String get download_tafsir => 'Unduh Tafsir';
 }

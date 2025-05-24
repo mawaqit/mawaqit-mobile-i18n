@@ -1453,4 +1453,16 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'तफ़सीर';
+
+  @override
+  String get copy => 'कॉपी करें';
+
+  @override
+  String get no_tafsir => 'अभी तक कोई तफ़सीर डाउनलोड नहीं हुई है';
+
+  @override
+  String get download_tafsir => 'तफसीर डाउनलोड करें';
 }

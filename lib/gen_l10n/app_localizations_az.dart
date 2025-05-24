@@ -1453,4 +1453,16 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'Təfsir';
+
+  @override
+  String get copy => 'Kopyala';
+
+  @override
+  String get no_tafsir => 'Hələ heç bir Təfsir yüklənməyib';
+
+  @override
+  String get download_tafsir => 'Təfsiri yüklə';
 }

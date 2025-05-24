@@ -1453,4 +1453,16 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get low => 'Низкий';
+
+  @override
+  String get tafsir => 'Тафсир';
+
+  @override
+  String get copy => 'Копировать';
+
+  @override
+  String get no_tafsir => 'Ни один Тафсир ещё не был загружен';
+
+  @override
+  String get download_tafsir => 'Скачать Тафсир';
 }

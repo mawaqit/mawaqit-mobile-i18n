@@ -1073,5 +1073,9 @@
     "low": "Low",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Naatal",
+    "no_tafsir": "Tafsir so wonaa aawtude",
+    "download_tafsir": "Aawtu Tafsir"
 }

@@ -1453,4 +1453,16 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get low => 'Matala';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Kopioi';
+
+  @override
+  String get no_tafsir => 'Yhtään tafsiria ei ole vielä ladattu';
+
+  @override
+  String get download_tafsir => 'Lataa tafsir';
 }

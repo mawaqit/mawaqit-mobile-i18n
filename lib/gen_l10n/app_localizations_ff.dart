@@ -1453,4 +1453,16 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Naatal';
+
+  @override
+  String get no_tafsir => 'Tafsir so wonaa aawtude';
+
+  @override
+  String get download_tafsir => 'Aawtu Tafsir';
 }

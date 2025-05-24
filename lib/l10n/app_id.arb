@@ -1073,5 +1073,9 @@
     "low": "Low",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Salin",
+    "no_tafsir": "Belum ada Tafsir yang diunduh",
+    "download_tafsir": "Unduh Tafsir"
 }

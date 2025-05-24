@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv-SE",
+    "@@locale": "sv",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1073,5 +1073,9 @@
     "low": "Låg",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopiera",
+    "no_tafsir": "Ingen Tafsir har laddats ner än",
+    "download_tafsir": "Ladda ner Tafsir"
 }
