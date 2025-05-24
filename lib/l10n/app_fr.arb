@@ -1075,7 +1075,7 @@
         "description": "-> low"
     },
     "tafsir": "Tafsir",
-    "copy": "Copie",
-    "no_tafsir": "Aucun Tafsir n'a encore été téléchargé",
+    "copy": "Copier",
+    "no_tafsir": "Aucun Tafsir n’a encore été téléchargé",
     "download_tafsir": "Télécharger Tafsir"
 }
