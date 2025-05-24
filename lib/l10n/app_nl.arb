@@ -1073,5 +1073,9 @@
     "low": "laag",
     "@low": {
         "description": "-> low"
-    }
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopiëren",
+    "no_tafsir": "Er is nog geen Tafsir gedownload",
+    "download_tafsir": "Download de Tafsir"
 }
