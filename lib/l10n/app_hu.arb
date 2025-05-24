@@ -1074,8 +1074,8 @@
     "@low": {
         "description": "-> low"
     },
-    "tafsir": "Tafsir",
-    "copy": "Copy",
-    "no_tafsir": "No Tafsir has been downloaded yet",
-    "download_tafsir": "Download the Tafsir"
+    "tafsir": "Tafszír",
+    "copy": "Másolás",
+    "no_tafsir": "Még nem lett letöltve egyetlen tafszír sem",
+    "download_tafsir": "Töltsd le a tafszírt"
 }
