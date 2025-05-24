@@ -3034,6 +3034,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Low'**
   String get low;
+
+  /// No description provided for @tafsir.
+  ///
+  /// In en, this message translates to:
+  /// **'Tafsir'**
+  String get tafsir;
+
+  /// No description provided for @copy.
+  ///
+  /// In en, this message translates to:
+  /// **'Copy'**
+  String get copy;
+
+  /// No description provided for @no_tafsir.
+  ///
+  /// In en, this message translates to:
+  /// **'No Tafsir has been downloaded yet'**
+  String get no_tafsir;
+
+  /// No description provided for @download_tafsir.
+  ///
+  /// In en, this message translates to:
+  /// **'Download the Tafsir'**
+  String get download_tafsir;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

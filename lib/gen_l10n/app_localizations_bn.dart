@@ -1453,4 +1453,16 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get tafsir => 'তাফসির';
+
+  @override
+  String get copy => 'Copy';
+
+  @override
+  String get no_tafsir => 'No Tafsir has been downloaded yet';
+
+  @override
+  String get download_tafsir => 'Download the Tafsir';
 }
