@@ -1075,7 +1075,7 @@
         "description": "-> low"
     },
     "tafsir": "Tafsir",
-    "copy": "Copy",
-    "no_tafsir": "No Tafsir has been downloaded yet",
-    "download_tafsir": "Download the Tafsir"
+    "copy": "Kopjo",
+    "no_tafsir": "Asnjë Tafsir nuk është shkarkuar ende",
+    "download_tafsir": "Shkarko Tafsirin"
 }
