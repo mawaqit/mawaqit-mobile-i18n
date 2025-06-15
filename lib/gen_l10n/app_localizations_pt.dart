@@ -1467,25 +1467,25 @@ class AppLocalizationsPt extends AppLocalizations {
   String get download_tafsir => 'Baixe o Tafsir';
 
   @override
-  String get hussary => 'Mahmoud Khalil Al‑Hussary';
+  String get hussary => 'Mahmoud Khalil Al├Hussary';
 
   @override
-  String get hussary_mujawwad => 'Al‑Hussary (Mujawwad)';
+  String get hussary_mujawwad => 'Alspite Hussary (Mujawwad)';
 
   @override
-  String get shuraim => 'Saud Al‑Shuraim';
+  String get shuraim => 'Saud Al‐Shuraim';
 
   @override
   String get arrafai => 'Hani Arrafai';
 
   @override
-  String get meaqli => 'Maher Al‑Meaqli';
+  String get meaqli => 'Maher Al‐Meaqli';
 
   @override
-  String get afasy => 'Mishary Al‑Afasy';
+  String get afasy => 'Mishary Al‐Afasy';
 
   @override
-  String get minshawi => 'Al‑Minshawi';
+  String get minshawi => 'Al‐Minshawi';
 
   @override
   String get abdulbasit => 'Abdulbasit Abdulsamad';
@@ -1494,22 +1494,22 @@ class AppLocalizationsPt extends AppLocalizations {
   String get abdulbasit_mujawwad => 'Abdulbasit (Mujawwad)';
 
   @override
-  String get ghamdi => 'Saad Al‑Ghamdi';
+  String get ghamdi => 'Saad Al‐Ghamdi';
 
   @override
-  String get dosari => 'Yasser Al‑Dosari';
+  String get dosari => 'Yasser Al‐Dosari';
 
   @override
-  String get shatri => 'Abu Bakr Ash‑Shatri';
+  String get shatri => 'Abu Bakr Ash‐Shatri';
 
   @override
-  String get tunaiji => 'Khalifa Al‑Tunaiji';
+  String get tunaiji => 'Khalifa Al‐Tunaiji';
 
   @override
   String get sudais => 'Abdulrahman Alsudaes';
 
   @override
-  String get tablawi => 'Mohamed Al‑Tablawi';
+  String get tablawi => 'Mohamed Al├Tablawi';
 
   @override
   String get murattal => 'Murattal';
@@ -1521,5 +1521,5 @@ class AppLocalizationsPt extends AppLocalizations {
   String get moallim => 'Almusshaf Al Mo\'llim';
 
   @override
-  String get play => 'Play';
+  String get play => 'Reproduzir';
 }

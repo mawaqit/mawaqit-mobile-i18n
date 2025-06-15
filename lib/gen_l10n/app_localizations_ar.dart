@@ -1503,7 +1503,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get shatri => 'أبو بكر الشاطري';
 
   @override
-  String get tunaiji => 'خليفة التنيجي';
+  String get tunaiji => 'خليفة الطنيجي';
 
   @override
   String get sudais => 'عبد الرحمن السديس';
