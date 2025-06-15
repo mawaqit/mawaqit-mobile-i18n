@@ -1038,6 +1038,44 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
-      "hasan_nahi": "Hasan Nahi",
-      "albanian": "Albanês"
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albanês",
+    "delete_all": "Excluir todos os",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Excluir todos os downloads",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Tem certeza que deseja excluir todos os recibos baixados?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Todas as recitações baixadas excluídas com sucesso",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Falha ao excluir todas as recitações",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "Nenhum resultado de lembrança disponível\t",
+    "search_title": "Pesquisar usando o título",
+    "compass_calibration": "A configuração de calibração da bússola está desativada. Incline e mova o telefone 3 vezes em um número de oito movimentos como este",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Precisão da Bússola",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "baixa",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Tafsir",
+    "copy": "Copiar",
+    "no_tafsir": "Nenhum Tafsir foi baixado ainda",
+    "download_tafsir": "Baixe o Tafsir"
 }

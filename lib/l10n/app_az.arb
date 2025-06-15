@@ -1037,5 +1037,45 @@
     "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
-    }
+    },
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albanian",
+    "delete_all": "Delete All",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Delete All Downloads",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Are you sure you want to delete all downloaded recitations?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "All downloaded recitations deleted successfully",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Failed to delete all recitations",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Başlığa görə axtarın",
+    "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Compass Accuracy",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Low",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Təfsir",
+    "copy": "Kopyala",
+    "no_tafsir": "Hələ heç bir Təfsir yüklənməyib",
+    "download_tafsir": "Təfsiri yüklə"
 }

@@ -1038,6 +1038,46 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albański",
+    "delete_all": "Usuń wszystkie",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Usuń wszystkie pobrania",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Czy na pewno chcesz usunąć wszystkie pobrane motywy?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Wszystkie pobrane preambuły zostały usunięte",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Nie udało się usunąć wszystkich motywów",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Wyszukaj za pomocą tytułu",
+    "compass_calibration": "Ustawienia kalibracji kompasu są wyłączone. Przesuń i przesuń telefon 3 razy na rysunku z ośmiu ruchów, tak jak to",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Dokładność kompasu",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Niski",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopiuj",
+    "no_tafsir": "Żaden Tafsir nie został jeszcze pobrany",
+    "download_tafsir": "Pobierz Tafsir",
       "hasan_nahi": "Hasan Nahi",
       "albanian": "Albański",
       "hussary": "Mahmoud Khalil Al-Hussary",

@@ -742,7 +742,7 @@
     "ayah": "Ajeti",
     "quran_verses": "Ajetet",
     "surah": "Surja",
-    "continue_reading": "Continue reading",
+    "continue_reading": "Vazhdo leximin",
     "bookmarks": "Shënimet",
     "juzz": "Xhuz",
     "quran_page": "Faqe",
@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "Nuk ka shënime të disponueshme. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.",
     "page": "Faqe",
     "prayer_times_in": "Takvimi në",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "Një version i ri i Kuranit është i disponueshëm për shkarkim. Kliko në 'Përditëso' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me mençurinë hyjnore",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
@@ -1002,42 +1002,80 @@
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-    "add_ticket": "Add ticket",
+    "add_ticket": "Shto një tiket",
     "projects": "Projektet",
-    "fill_form": "To add your project here fill up this",
-    "form": "form",
-    "updates_draw": "Get updates and participate in the draw to win goodies from",
-    "email_info": "This email will be used to contact you if you win the draw",
-    "enter_email": "Enter your email",
-    "email_privacy": "MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw",
+    "fill_form": "Për të shtuar projektin tuaj këtu, plotësoni këtë",
+    "form": "formular",
+    "updates_draw": "Merrni përditësime dhe merrni pjesë në shortin për të fituar goodies nga",
+    "email_info": "Ky email do të përdoret për t'ju kontaktuar nëse fitoni shortin",
+    "enter_email": "Shkruani emailin tuaj",
+    "email_privacy": "MAWAQIT nuk do ta shpërndajë këtë email me askënd. Email-i do të fshihet automatikisht nga databaza jonë pas çdo shorti",
     "submit": "Submit",
-    "disclaimer": "MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research",
-    "participating_with": "You're participating with",
-    "no_of_tickets": "No. of tickets:",
-    "unparticipate": "Click to unparticipate",
-    "next_ticket": "The next ticket available in",
+    "disclaimer": "Dërgo",
+    "participating_with": "Jeni duke marrë pjesë me",
+    "no_of_tickets": "Numri i tiketav :",
+    "unparticipate": "Kliko për të tërhjekur pjesëmarrjen",
+    "next_ticket": "Bileta tjetër e disponueshme në",
     "click_here": "Kliko këtu",
-    "mawaqit_store": "MAWAQIT Store",
+    "mawaqit_store": "Dyqani MAWAQIT",
     "no_projects": "Nuk ka projekte",
-    "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
-    "enter_valid_email": "Enter a valid email",
+    "draw_info": "Një short çdo muaj. Çdo 24 orë mund të shtoni një biletë të re për të rritur mundësinë tuaj për të fituar!",
+    "enter_valid_email": "Shëno një email të vlefshëm",
     "please_enter_email": "Shënon një email ju lutem",
-    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "select_device_audo_for_ios_propmpt": "Zgjidhni një skedar audio dhe ne do ta konvertojmë atë në një format të përputhshëm me iOS ndërsa e shkurtojmë në 30 sekonda për shkak të kufizimeve të platformës iOS.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
     "confirm_deletion": "Konfirmo fshirjen",
     "sure_remove_rewaya": "Jeni të sigurt që dëshironi të hiqni këtë Rewaya?",
-    "file_not_found": "File not found",
+    "file_not_found": "Skedari nuk u gjet",
     "@file_not_found": {
         "description": "-> file_not_found"
     },
     "notified_boost": "Merrni njoftime për përditësimet më të fundit mbi projektet MAWAQIT Boost.",
     "contact_us_boost": "Për të listuar projektin tuaj këtu, na kontaktoni në",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "prayer_times_set_by_mosque": "Kohët e namazit dhe të gjitha informacionet këtu përcaktohen nga xhamia, jo nga MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
-      "hasan_nahi": "Hasan Nahi",
-      "albanian": "Shqip"
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Shqip",
+    "delete_all": "Delete All",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Delete All Downloads",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Are you sure you want to delete all downloaded recitations?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "All downloaded recitations deleted successfully",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Failed to delete all recitations",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Kërko duke përdorur titullin",
+    "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Compass Accuracy",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Low",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopjo",
+    "no_tafsir": "Asnjë Tafsir nuk është shkarkuar ende",
+    "download_tafsir": "Shkarko Tafsirin"
 }

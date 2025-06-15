@@ -1422,7 +1422,49 @@ class AppLocalizationsFi extends AppLocalizations {
   String get hasan_nahi => 'Hasan Nahi';
 
   @override
-  String get albanian => 'Albanian';
+  String get albanian => 'Albania';
+
+  @override
+  String get delete_all => 'Poista Kaikki';
+
+  @override
+  String get delete_all_downloads => 'Poista Kaikki Lataukset';
+
+  @override
+  String get delete_recitations_message => 'Oletko varma, että haluat poistaa kaikki ladatut reseptit?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Kaikki reseptit poistettu onnistuneesti';
+
+  @override
+  String get failed_delete_recitations => 'Kaikkia reseptejä ei voitu poistaa';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'Etsi otsikon perusteella';
+
+  @override
+  String get compass_calibration => 'Kompassin kalibrointiasetus ei ole käytössä. Kallistele ja siirrä puhelinta 3 kertaa kahdeksankertaisessa liikkeessä kuten tässä';
+
+  @override
+  String get compass_accuracy => 'Kompassin Tarkkuus';
+
+  @override
+  String get low => 'Matala';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Kopioi';
+
+  @override
+  String get no_tafsir => 'Yhtään tafsiria ei ole vielä ladattu';
+
+  @override
+  String get download_tafsir => 'Lataa tafsir';
 
   @override
   String get hussary => 'Mahmoud Khalil Al‑Hussary';

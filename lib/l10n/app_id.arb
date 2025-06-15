@@ -742,7 +742,7 @@
     "ayah": "Ayat",
     "quran_verses": "Ayat",
     "surah": "Surah",
-    "continue_reading": "Continue reading",
+    "continue_reading": "Lanjutkan membaca",
     "bookmarks": "Bookmark",
     "juzz": "Juz",
     "quran_page": "Halaman",
@@ -924,7 +924,7 @@
     "no_bookmark_ayah": "Tidak ada penanda halaman tersedia. Silakan tekan lama ayat yang ingin Anda tandai.",
     "page": "Halaman",
     "prayer_times_in": "Waktu sholat di",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "Versi baru Al-Qur'an tersedia untuk diunduh. Ketuk 'Perbarui' untuk mengakses peningkatan terbaru dan lanjutkan perjalanan Anda dengan hikmah ilahi",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
@@ -949,7 +949,7 @@
         "description": "-> powered_by_mawaqit_"
     },
     "adjust_hijri_date": "Sesuaikan Tanggal Hijriyah",
-    "prayer_times_by_location": "Waktu salat berdasarkan lokasi",
+    "prayer_times_by_location": "Waktu shalat menurut lokasi",
     "already_in_list": "sudah ada dalam daftar Anda!",
     "got_it": "Mengerti!",
     "mushaf_warsh": "Warsh",
@@ -974,37 +974,37 @@
     "al_zikr": "Al-Zikr",
     "favorite_azkar": "Favorite Azkar",
     "all_azkar": "All Azkar",
-    "device_audio_not_found": "Device audio not found",
+    "device_audio_not_found": "Perangkat audio tidak ditemukan",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
     },
-    "device_media": "Device Media",
+    "device_media": "Media Perangkat",
     "@device_media": {
         "description": "-> device_media"
     },
-    "add_new_audio": "Add a new audio file",
+    "add_new_audio": "Tambah file audio baru",
     "@add_new_audio": {
         "description": "-> add_new_audio"
     },
-    "selecet_audio_before_delete": "You need to add another audio file for notifications before deleting the selected audio file",
+    "selecet_audio_before_delete": "Anda perlu menambahkan file audio lain untuk notifikasi sebelum menghapus file audio yang dipilih",
     "@selecet_audio_before_delete": {
         "description": "-> selecet_audio_before_delete"
     },
-    "addding_file_prompt": "You can add multiple audio files, but please make sure not to add the same audio file.",
+    "addding_file_prompt": "Anda dapat menambahkan beberapa file audio, tetapi pastikan untuk tidak menambahkan file audio yang sama.",
     "@addding_file_prompt": {
         "description": "-> addding_file_prompt"
     },
-    "ios_audio_file_picking_prompt": "Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.",
+    "ios_audio_file_picking_prompt": "Harap pilih file audio dengan durasi maksimal 30 detik atau kurang. File audio dengan durasi lebih panjang dapat mengganggu pemberitahuan doa Anda.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
     },
-    "select_audio_from_device": "Select audio (mp3) from device.",
+    "select_audio_from_device": "Pilih audio (mp3) dari perangkat.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
     "add_ticket": "Tambahkan tiket",
     "projects": "Proyek",
-    "fill_form": "Untuk menambahkan proyek Anda di sini, isi",
+    "fill_form": "Untuk menambahkan proyek Anda di sini, isi ini",
     "form": "formulir",
     "updates_draw": "Dapatkan pembaruan dan ikuti undian untuk memenangkan hadiah dari",
     "email_info": "Email ini akan digunakan untuk menghubungi Anda jika Anda memenangkan undian",
@@ -1020,24 +1020,64 @@
     "mawaqit_store": "Toko MAWAQIT",
     "no_projects": "Tidak ada proyek",
     "draw_info": "Satu undian setiap bulan. Setiap 24 jam, Anda dapat menambahkan tiket baru untuk meningkatkan peluang menang!",
-    "enter_valid_email": "Masukkan email yang valid",
+    "enter_valid_email": "Masukkan email yang aktif",
     "please_enter_email": "Harap masukkan email",
-    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "select_device_audo_for_ios_propmpt": "Pilih berkas audio, dan kami akan mengonversinya ke format yang kompatibel dengan iOS sambil memangkasnya menjadi 30 detik karena keterbatasan platform iOS.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
-    "confirm_deletion": "Confirm Deletion",
-    "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?",
-    "file_not_found": "File not found",
+    "confirm_deletion": "Konfirmasi Penghapusan",
+    "sure_remove_rewaya": "Apakah Anda yakin ingin menghapus Riwayat ini?",
+    "file_not_found": "Berkas tidak Ditemukan",
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects.",
-    "contact_us_boost": "To list your project here, contact us at",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "notified_boost": "Dapatkan pemberitahuan tentang pembaruan terkini pada proyek MAWAQIT Boost.",
+    "contact_us_boost": "Untuk mendaftarkan proyek Anda di sini, hubungi kami di",
+    "prayer_times_set_by_mosque": "Waktu sholat dan semua informasi di sini diatur oleh masjid, bukan MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albania",
+    "delete_all": "Hapus semua",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Hapus semua download",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Apakah Anda yakin ingin menghapus semua bacaan yang diunduh?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Semua bacaan yang diunduh berhasil dihapus",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Gagal menghapus semua bacaan",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "Tidak ada hasil pengingat yang tersedia\t",
+    "search_title": "Cari menggunakan judul",
+    "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Compass Accuracy",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Low",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Tafsir",
+    "copy": "Salin",
+    "no_tafsir": "Belum ada Tafsir yang diunduh",
+    "download_tafsir": "Unduh Tafsir",
       "hasan_nahi": "Hasan Nahi",
       "albanian": "Albania",
       "hussary": "Mahmoud Khalil Al-Hussary",

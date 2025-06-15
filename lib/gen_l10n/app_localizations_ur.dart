@@ -1425,6 +1425,48 @@ class AppLocalizationsUr extends AppLocalizations {
   String get albanian => 'البانی';
 
   @override
+  String get delete_all => 'Delete All';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
+
+  @override
+  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+
+  @override
+  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+
+  @override
+  String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'کوئی یاد دہانی کے نتائج دستیاب نہیں ہیں\t';
+
+  @override
+  String get search_title => 'عنوان کے ذریعے تلاش کریں';
+
+  @override
+  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+
+  @override
+  String get compass_accuracy => 'Compass Accuracy';
+
+  @override
+  String get low => 'Low';
+
+  @override
+  String get tafsir => 'تفسیر';
+
+  @override
+  String get copy => 'نقل کریں';
+
+  @override
+  String get no_tafsir => 'ابھی تک کوئی تفسیر ڈاؤن لوڈ نہیں کی گئی ہے';
+
+  @override
+  String get download_tafsir => 'تفسیر ڈاؤن لوڈ کریں';
+
+  @override
   String get hussary => 'محمود خلیل الحصری';
 
   @override

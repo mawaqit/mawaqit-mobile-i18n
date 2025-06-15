@@ -1038,6 +1038,46 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albanés",
+    "delete_all": "Borrar todo",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Borrar todas las descargas",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "¿Está seguro que desea eliminar todas las recitaciones descargadas?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Todas las recitaciones descargadas se han eliminado correctamente",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Error al eliminar todas las recetas",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "No hay resultados de recordatorio disponibles\t",
+    "search_title": "Buscar usando el título",
+    "compass_calibration": "El ajuste de calibración de la brújula está desactivado. Incluir y mover el teléfono 3 veces en una figura-de-ocho movimiento como este",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Precisión de brújula",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Baja",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Tafsir",
+    "copy": "Copiar",
+    "no_tafsir": "Aún no se ha descargado ningún Tafsir",
+    "download_tafsir": "Descargar el Tafsir",
       "hasan_nahi": "Hasan Nahi",
       "albanian": "Albanés",
       "hussary": "Mahmoud Khalil Al-Hussary",

@@ -1038,6 +1038,46 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
+    "hasan_nahi": "Hasan Nahi",
+    "albanian": "Albanees",
+    "delete_all": "Alles verwijderen",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Verwijder alle Downloads",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Weet je zeker dat je alle gedownloade overwegingen wilt verwijderen?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Alle gedownloade overwegingen zijn succesvol verwijderd",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Kon niet alle overwegingen verwijderen",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Zoeken op titel",
+    "compass_calibration": "Kompas kalibratie-instelling is uitgeschakeld. Tilt en verplaats uw telefoon 3 keer in een figuur-van-acht beweging zoals deze",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Kompas Nauwkeurigheid",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "laag",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Tafsir",
+    "copy": "Kopiëren",
+    "no_tafsir": "Er is nog geen Tafsir gedownload",
+    "download_tafsir": "Download de Tafsir",
       "hasan_nahi": "Hasan Nahi",
       "albanian": "Albanees",
       "hussary": "Mahmoud Khalil Al-Hussary",

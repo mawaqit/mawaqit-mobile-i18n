@@ -1425,6 +1425,48 @@ class AppLocalizationsBn extends AppLocalizations {
   String get albanian => 'আলবেনীয়';
 
   @override
+  String get delete_all => 'Delete All';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
+
+  @override
+  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+
+  @override
+  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+
+  @override
+  String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'শিরোনাম ব্যবহার করে অনুসন্ধান করুন';
+
+  @override
+  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+
+  @override
+  String get compass_accuracy => 'Compass Accuracy';
+
+  @override
+  String get low => 'Low';
+
+  @override
+  String get tafsir => 'তাফসির';
+
+  @override
+  String get copy => 'কপি করুন';
+
+  @override
+  String get no_tafsir => 'এখনও কোনো তাফসির ডাউনলোড করা হয়নি';
+
+  @override
+  String get download_tafsir => 'তাফসির ডাউনলোড করুন';
+
+  @override
   String get hussary => 'মাহমুদ খালিল আল-হুসারী';
 
   @override

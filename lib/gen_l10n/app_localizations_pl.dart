@@ -1425,6 +1425,48 @@ class AppLocalizationsPl extends AppLocalizations {
   String get albanian => 'Albański';
 
   @override
+  String get delete_all => 'Usuń wszystkie';
+
+  @override
+  String get delete_all_downloads => 'Usuń wszystkie pobrania';
+
+  @override
+  String get delete_recitations_message => 'Czy na pewno chcesz usunąć wszystkie pobrane motywy?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Wszystkie pobrane preambuły zostały usunięte';
+
+  @override
+  String get failed_delete_recitations => 'Nie udało się usunąć wszystkich motywów';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'Wyszukaj za pomocą tytułu';
+
+  @override
+  String get compass_calibration => 'Ustawienia kalibracji kompasu są wyłączone. Przesuń i przesuń telefon 3 razy na rysunku z ośmiu ruchów, tak jak to';
+
+  @override
+  String get compass_accuracy => 'Dokładność kompasu';
+
+  @override
+  String get low => 'Niski';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Kopiuj';
+
+  @override
+  String get no_tafsir => 'Żaden Tafsir nie został jeszcze pobrany';
+
+  @override
+  String get download_tafsir => 'Pobierz Tafsir';
+
+  @override
   String get hussary => 'Mahmoud Khalil Al-Hussary';
 
   @override

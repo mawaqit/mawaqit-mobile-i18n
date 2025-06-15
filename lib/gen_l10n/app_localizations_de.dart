@@ -411,10 +411,10 @@ class AppLocalizationsDe extends AppLocalizations {
   String get announcement_Type_FlashInfo => 'Flash-Infos';
 
   @override
-  String get mosque_DonateText1 => 'SPENDEN';
+  String get mosque_DonateText1 => 'SPENDE';
 
   @override
-  String get mosque_DonateText2 => 'ZUM MOSCHEE';
+  String get mosque_DonateText2 => 'AN MOSCHEE';
 
   @override
   String get mosque_Error_CouldNotLaunch => 'Konnte nicht starten';
@@ -1423,6 +1423,48 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get albanian => 'Albanisch';
+
+  @override
+  String get delete_all => 'Alle löschen';
+
+  @override
+  String get delete_all_downloads => 'Alle Downloads löschen';
+
+  @override
+  String get delete_recitations_message => 'Sind Sie sicher, dass Sie alle heruntergeladenen Rezitationen löschen möchten?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Alle heruntergeladenen Rezitationen erfolgreich gelöscht';
+
+  @override
+  String get failed_delete_recitations => 'Fehler beim Löschen aller Rezitationen';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'Suche nach Titel';
+
+  @override
+  String get compass_calibration => 'Kompass-Kalibrierungseinstellungen sind deaktiviert. Drehen und verschieben Sie Ihr Telefon 3 Mal in einer Figur von acht Bewegungen wie dieser';
+
+  @override
+  String get compass_accuracy => 'Kompassgenauigkeit';
+
+  @override
+  String get low => 'Niedrig';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Kopieren';
+
+  @override
+  String get no_tafsir => 'Es wurde noch kein Tafsir heruntergeladen';
+
+  @override
+  String get download_tafsir => 'Lade den Tafsir herunter';
 
   @override
   String get hussary => 'Mahmoud Khalil Al-Hussary';

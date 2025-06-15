@@ -1,7 +1,5 @@
 {
   "az": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -24,8 +22,6 @@
   ],
 
   "bg": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -48,8 +44,6 @@
   ],
 
   "bm": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -94,8 +88,6 @@
   ],
 
   "ff": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -118,8 +110,6 @@
   ],
 
   "fi": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -142,8 +132,6 @@
   ],
 
   "hi": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -188,8 +176,6 @@
   ],
 
   "ku": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -212,8 +198,6 @@
   ],
 
   "ms": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",
@@ -280,8 +264,6 @@
   ],
 
   "sv": [
-    "hasan_nahi",
-    "albanian",
     "hussary",
     "hussary_mujawwad",
     "shuraim",

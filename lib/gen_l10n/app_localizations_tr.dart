@@ -1425,6 +1425,48 @@ class AppLocalizationsTr extends AppLocalizations {
   String get albanian => 'Arnavutça';
 
   @override
+  String get delete_all => 'Delete All';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
+
+  @override
+  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+
+  @override
+  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+
+  @override
+  String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'Başlığa göre ara';
+
+  @override
+  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+
+  @override
+  String get compass_accuracy => 'Compass Accuracy';
+
+  @override
+  String get low => 'Low';
+
+  @override
+  String get tafsir => 'Tefsir';
+
+  @override
+  String get copy => 'Kopyala';
+
+  @override
+  String get no_tafsir => 'Henüz hiçbir Tefsir indirilmedi';
+
+  @override
+  String get download_tafsir => 'Tefsiri indir';
+
+  @override
   String get hussary => 'Mahmoud Khalil Al-Hussary';
 
   @override

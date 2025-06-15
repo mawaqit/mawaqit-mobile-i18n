@@ -1425,6 +1425,48 @@ class AppLocalizationsRu extends AppLocalizations {
   String get albanian => 'Албанский';
 
   @override
+  String get delete_all => 'Удалить все';
+
+  @override
+  String get delete_all_downloads => 'Удалить все загрузки';
+
+  @override
+  String get delete_recitations_message => 'Вы уверены, что хотите удалить все загруженные исправления?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Все загруженные повторы успешно удалены';
+
+  @override
+  String get failed_delete_recitations => 'Не удалось удалить все повторы';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'Поиск по названию';
+
+  @override
+  String get compass_calibration => 'Настройка калибровки компаса отключена. Наклоните телефон и переместите его 3 раза в восьмерку так, как это';
+
+  @override
+  String get compass_accuracy => 'Точность компаса';
+
+  @override
+  String get low => 'Низкий';
+
+  @override
+  String get tafsir => 'Тафсир';
+
+  @override
+  String get copy => 'Копировать';
+
+  @override
+  String get no_tafsir => 'Ни один Тафсир ещё не был загружен';
+
+  @override
+  String get download_tafsir => 'Скачать Тафсир';
+
+  @override
   String get hussary => 'Махмуд Халиль Аль-Хуссари';
 
   @override

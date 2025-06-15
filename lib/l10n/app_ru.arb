@@ -1038,6 +1038,46 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
+    "hasan_nahi": "Хасан Нахи",
+    "albanian": "Албанский",
+    "delete_all": "Удалить все",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "Удалить все загрузки",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "Вы уверены, что хотите удалить все загруженные исправления?",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "Все загруженные повторы успешно удалены",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "Не удалось удалить все повторы",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Поиск по названию",
+    "compass_calibration": "Настройка калибровки компаса отключена. Наклоните телефон и переместите его 3 раза в восьмерку так, как это",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "Точность компаса",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "Низкий",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "Тафсир",
+    "copy": "Копировать",
+    "no_tafsir": "Ни один Тафсир ещё не был загружен",
+    "download_tafsir": "Скачать Тафсир",
       "hasan_nahi": "Хасан Нахи",
       "albanian": "Албанский",
       "hussary": "Махмуд Халиль Аль-Хуссари",

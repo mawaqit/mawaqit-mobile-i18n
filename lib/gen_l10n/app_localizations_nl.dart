@@ -1425,6 +1425,48 @@ class AppLocalizationsNl extends AppLocalizations {
   String get albanian => 'Albanees';
 
   @override
+  String get delete_all => 'Alles verwijderen';
+
+  @override
+  String get delete_all_downloads => 'Verwijder alle Downloads';
+
+  @override
+  String get delete_recitations_message => 'Weet je zeker dat je alle gedownloade overwegingen wilt verwijderen?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Alle gedownloade overwegingen zijn succesvol verwijderd';
+
+  @override
+  String get failed_delete_recitations => 'Kon niet alle overwegingen verwijderen';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'Zoeken op titel';
+
+  @override
+  String get compass_calibration => 'Kompas kalibratie-instelling is uitgeschakeld. Tilt en verplaats uw telefoon 3 keer in een figuur-van-acht beweging zoals deze';
+
+  @override
+  String get compass_accuracy => 'Kompas Nauwkeurigheid';
+
+  @override
+  String get low => 'laag';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Kopiëren';
+
+  @override
+  String get no_tafsir => 'Er is nog geen Tafsir gedownload';
+
+  @override
+  String get download_tafsir => 'Download de Tafsir';
+
+  @override
   String get hussary => 'Mahmoud Khalil Al-Hussary';
 
   @override

@@ -1038,6 +1038,46 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
+    "hasan_nahi": "حسن ناهي",
+    "albanian": "الألبانية",
+    "delete_all": "حذف الكل",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "حذف جميع التنزيلات",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "هل أنت متأكد من أنك تريد حذف جميع التصويبات التي تم تنزيلها؟",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "تم حذف جميع الإشارات المحملة بنجاح",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "فشل في حذف جميع الإشارات",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "ابحث باستخدام العنوان",
+    "compass_calibration": "إعدادات معايرة البوصلة معطلة. قم بالتمرير ونقل هاتفك 3 مرات في شكل 8 حركة مثل هذا",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "دقة البوصلة",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "منخفض",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "التفسير",
+    "copy": "نسخ",
+    "no_tafsir": "لم يتم تحميل أي تفسير حتى الآن",
+    "download_tafsir": "تحميل التفسير",
   "hasan_nahi": "حسن ناهي",
   "albanian": "الألبانية",
   "hussary": "محمود خليل الحصري",

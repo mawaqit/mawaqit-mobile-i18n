@@ -1425,6 +1425,48 @@ class AppLocalizationsBm extends AppLocalizations {
   String get albanian => 'Albanian';
 
   @override
+  String get delete_all => 'Delete All';
+
+  @override
+  String get delete_all_downloads => 'Delete All Downloads';
+
+  @override
+  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+
+  @override
+  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+
+  @override
+  String get failed_delete_recitations => 'Failed to delete all recitations';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'Sɔ̀rɔ tugu kan ka sɛbɛn';
+
+  @override
+  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+
+  @override
+  String get compass_accuracy => 'Compass Accuracy';
+
+  @override
+  String get low => 'Low';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Kɔpi';
+
+  @override
+  String get no_tafsir => 'A ni Tafsir fila ka télécharge ye';
+
+  @override
+  String get download_tafsir => 'Télécharger le Tafsir';
+
+  @override
   String get hussary => 'Mahmoud Khalil Al‑Hussary';
 
   @override

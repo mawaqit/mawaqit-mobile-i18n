@@ -2975,6 +2975,90 @@ abstract class AppLocalizations {
   /// **'Albanian'**
   String get albanian;
 
+  /// -> delete_all
+  ///
+  /// In en, this message translates to:
+  /// **'Delete All'**
+  String get delete_all;
+
+  /// -> delete_all_downloads
+  ///
+  /// In en, this message translates to:
+  /// **'Delete All Downloads'**
+  String get delete_all_downloads;
+
+  /// -> delete_recitations_message
+  ///
+  /// In en, this message translates to:
+  /// **'Are you sure you want to delete all downloaded recitations?'**
+  String get delete_recitations_message;
+
+  /// -> downloaded_deleted_successfully
+  ///
+  /// In en, this message translates to:
+  /// **'All downloaded recitations deleted successfully'**
+  String get downloaded_deleted_successfully;
+
+  /// failed_delete_recitations
+  ///
+  /// In en, this message translates to:
+  /// **'Failed to delete all recitations'**
+  String get failed_delete_recitations;
+
+  /// No description provided for @no_azkar_result.
+  ///
+  /// In en, this message translates to:
+  /// **'No remembrance results available'**
+  String get no_azkar_result;
+
+  /// No description provided for @search_title.
+  ///
+  /// In en, this message translates to:
+  /// **'Search using the title'**
+  String get search_title;
+
+  /// -> compass_calibration
+  ///
+  /// In en, this message translates to:
+  /// **'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this'**
+  String get compass_calibration;
+
+  /// -> compass_accuracy
+  ///
+  /// In en, this message translates to:
+  /// **'Compass Accuracy'**
+  String get compass_accuracy;
+
+  /// -> low
+  ///
+  /// In en, this message translates to:
+  /// **'Low'**
+  String get low;
+
+  /// No description provided for @tafsir.
+  ///
+  /// In en, this message translates to:
+  /// **'Tafsir'**
+  String get tafsir;
+
+  /// No description provided for @copy.
+  ///
+  /// In en, this message translates to:
+  /// **'Copy'**
+  String get copy;
+
+  /// No description provided for @no_tafsir.
+  ///
+  /// In en, this message translates to:
+  /// **'No Tafsir has been downloaded yet'**
+  String get no_tafsir;
+
+  /// No description provided for @download_tafsir.
+  ///
+  /// In en, this message translates to:
+  /// **'Download the Tafsir'**
+  String get download_tafsir;
+
   /// No description provided for @hussary.
   ///
   /// In en, this message translates to:

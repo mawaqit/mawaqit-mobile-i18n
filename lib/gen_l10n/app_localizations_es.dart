@@ -1425,6 +1425,48 @@ class AppLocalizationsEs extends AppLocalizations {
   String get albanian => 'Albanés';
 
   @override
+  String get delete_all => 'Borrar todo';
+
+  @override
+  String get delete_all_downloads => 'Borrar todas las descargas';
+
+  @override
+  String get delete_recitations_message => '¿Está seguro que desea eliminar todas las recitaciones descargadas?';
+
+  @override
+  String get downloaded_deleted_successfully => 'Todas las recitaciones descargadas se han eliminado correctamente';
+
+  @override
+  String get failed_delete_recitations => 'Error al eliminar todas las recetas';
+
+  @override
+  String get no_azkar_result => 'No hay resultados de recordatorio disponibles\t';
+
+  @override
+  String get search_title => 'Buscar usando el título';
+
+  @override
+  String get compass_calibration => 'El ajuste de calibración de la brújula está desactivado. Incluir y mover el teléfono 3 veces en una figura-de-ocho movimiento como este';
+
+  @override
+  String get compass_accuracy => 'Precisión de brújula';
+
+  @override
+  String get low => 'Baja';
+
+  @override
+  String get tafsir => 'Tafsir';
+
+  @override
+  String get copy => 'Copiar';
+
+  @override
+  String get no_tafsir => 'Aún no se ha descargado ningún Tafsir';
+
+  @override
+  String get download_tafsir => 'Descargar el Tafsir';
+
+  @override
   String get hussary => 'Mahmoud Khalil Al-Hussary';
 
   @override

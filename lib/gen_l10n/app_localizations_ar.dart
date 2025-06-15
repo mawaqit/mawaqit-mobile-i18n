@@ -1425,6 +1425,48 @@ class AppLocalizationsAr extends AppLocalizations {
   String get albanian => 'الألبانية';
 
   @override
+  String get delete_all => 'حذف الكل';
+
+  @override
+  String get delete_all_downloads => 'حذف جميع التنزيلات';
+
+  @override
+  String get delete_recitations_message => 'هل أنت متأكد من أنك تريد حذف جميع التصويبات التي تم تنزيلها؟';
+
+  @override
+  String get downloaded_deleted_successfully => 'تم حذف جميع الإشارات المحملة بنجاح';
+
+  @override
+  String get failed_delete_recitations => 'فشل في حذف جميع الإشارات';
+
+  @override
+  String get no_azkar_result => 'No remembrance results available';
+
+  @override
+  String get search_title => 'ابحث باستخدام العنوان';
+
+  @override
+  String get compass_calibration => 'إعدادات معايرة البوصلة معطلة. قم بالتمرير ونقل هاتفك 3 مرات في شكل 8 حركة مثل هذا';
+
+  @override
+  String get compass_accuracy => 'دقة البوصلة';
+
+  @override
+  String get low => 'منخفض';
+
+  @override
+  String get tafsir => 'التفسير';
+
+  @override
+  String get copy => 'نسخ';
+
+  @override
+  String get no_tafsir => 'لم يتم تحميل أي تفسير حتى الآن';
+
+  @override
+  String get download_tafsir => 'تحميل التفسير';
+
+  @override
   String get hussary => 'محمود خليل الحصري';
 
   @override
