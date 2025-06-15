@@ -1423,4 +1423,61 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get albanian => 'الألبانية';
+
+  @override
+  String get hussary => 'محمود خليل الحصري';
+
+  @override
+  String get hussary_mujawwad => 'الحصري (مجوّد)';
+
+  @override
+  String get shuraim => 'سعود الشريم';
+
+  @override
+  String get arrafai => 'هاني الرفاعي';
+
+  @override
+  String get meaqli => 'ماهر المعيقلي';
+
+  @override
+  String get afasy => 'مشاري العفاسي';
+
+  @override
+  String get minshawi => 'المنشاوي';
+
+  @override
+  String get abdulbasit => 'عبدالباسط عبدالصمد';
+
+  @override
+  String get abdulbasit_mujawwad => 'عبدالباسط (مجوّد)';
+
+  @override
+  String get ghamdi => 'سعد الغامدي';
+
+  @override
+  String get dosari => 'ياسر الدوسري';
+
+  @override
+  String get shatri => 'أبو بكر الشاطري';
+
+  @override
+  String get tunaiji => 'خليفة التنيجي';
+
+  @override
+  String get sudais => 'عبد الرحمن السديس';
+
+  @override
+  String get tablawi => 'محمد الطبلاوي';
+
+  @override
+  String get murattal => 'مرتل';
+
+  @override
+  String get mujawwad => 'مجوّد';
+
+  @override
+  String get moallim => 'المصحف المعلم';
+
+  @override
+  String get play => 'تشغيل';
 }

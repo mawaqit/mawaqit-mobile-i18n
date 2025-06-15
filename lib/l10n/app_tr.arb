@@ -1039,5 +1039,24 @@
         "description": "-> prayer_times_set_by_mosque"
     },
       "hasan_nahi": "Hasan Nahi",
-      "albanian": "Arnavutça"
+      "albanian": "Arnavutça",
+      "hussary": "Mahmoud Khalil Al-Hussary",
+      "hussary_mujawwad": "Al-Hussary (Mujawwad)",
+      "shuraim": "Saud Al-Shuraim",
+      "arrafai": "Hani Arrafai",
+      "meaqli": "Maher Al-Meaqli",
+      "afasy": "Mishary Al-Afasy",
+      "minshawi": "Al-Minshawi",
+      "abdulbasit": "Abdulbasit Abdulsamad",
+      "abdulbasit_mujawwad": "Abdulbasit (Mujawwad)",
+      "ghamdi": "Saad Al-Ghamdi",
+      "dosari": "Yasser Al-Dosari",
+      "shatri": "Abu Bakr Ash-Shatri",
+      "tunaiji": "Khalifa Al-Tunaiji",
+      "sudais": "Abdulrahman Alsudaes",
+      "tablawi": "Mohamed Al-Tablawi",
+      "murattal": "Murattal",
+      "mujawwad": "Mujawwad",
+      "moallim": "Öğretici Mushaf",
+      "play": "Oynat"
 }
