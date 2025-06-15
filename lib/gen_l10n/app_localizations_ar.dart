@@ -1521,5 +1521,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get moallim => 'المصحف المعلم';
 
   @override
-  String get play => 'تشغيل';
+  String get play => 'تلاوة';
 }
