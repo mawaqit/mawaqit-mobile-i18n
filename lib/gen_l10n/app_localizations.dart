@@ -3058,6 +3058,120 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Download the Tafsir'**
   String get download_tafsir;
+
+  /// No description provided for @hussary.
+  ///
+  /// In en, this message translates to:
+  /// **'Mahmoud Khalil Al‑Hussary'**
+  String get hussary;
+
+  /// No description provided for @hussary_mujawwad.
+  ///
+  /// In en, this message translates to:
+  /// **'Al‑Hussary (Mujawwad)'**
+  String get hussary_mujawwad;
+
+  /// No description provided for @shuraim.
+  ///
+  /// In en, this message translates to:
+  /// **'Saud Al‑Shuraim'**
+  String get shuraim;
+
+  /// No description provided for @arrafai.
+  ///
+  /// In en, this message translates to:
+  /// **'Hani Arrafai'**
+  String get arrafai;
+
+  /// No description provided for @meaqli.
+  ///
+  /// In en, this message translates to:
+  /// **'Maher Al‑Meaqli'**
+  String get meaqli;
+
+  /// No description provided for @afasy.
+  ///
+  /// In en, this message translates to:
+  /// **'Mishary Al‑Afasy'**
+  String get afasy;
+
+  /// No description provided for @minshawi.
+  ///
+  /// In en, this message translates to:
+  /// **'Al‑Minshawi'**
+  String get minshawi;
+
+  /// No description provided for @abdulbasit.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdulbasit Abdulsamad'**
+  String get abdulbasit;
+
+  /// No description provided for @abdulbasit_mujawwad.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdulbasit (Mujawwad)'**
+  String get abdulbasit_mujawwad;
+
+  /// No description provided for @ghamdi.
+  ///
+  /// In en, this message translates to:
+  /// **'Saad Al‑Ghamdi'**
+  String get ghamdi;
+
+  /// No description provided for @dosari.
+  ///
+  /// In en, this message translates to:
+  /// **'Yasser Al‑Dosari'**
+  String get dosari;
+
+  /// No description provided for @shatri.
+  ///
+  /// In en, this message translates to:
+  /// **'Abu Bakr Ash‑Shatri'**
+  String get shatri;
+
+  /// No description provided for @tunaiji.
+  ///
+  /// In en, this message translates to:
+  /// **'Khalifa Al‑Tunaiji'**
+  String get tunaiji;
+
+  /// No description provided for @sudais.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdulrahman Alsudaes'**
+  String get sudais;
+
+  /// No description provided for @tablawi.
+  ///
+  /// In en, this message translates to:
+  /// **'Mohamed Al‑Tablawi'**
+  String get tablawi;
+
+  /// No description provided for @murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Murattal'**
+  String get murattal;
+
+  /// No description provided for @mujawwad.
+  ///
+  /// In en, this message translates to:
+  /// **'Mujawwad'**
+  String get mujawwad;
+
+  /// No description provided for @moallim.
+  ///
+  /// In en, this message translates to:
+  /// **'Almusshaf Al Mo\'llim'**
+  String get moallim;
+
+  /// No description provided for @play.
+  ///
+  /// In en, this message translates to:
+  /// **'Play'**
+  String get play;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

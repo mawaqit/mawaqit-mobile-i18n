@@ -1465,4 +1465,61 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get download_tafsir => 'তাফসির ডাউনলোড করুন';
+
+  @override
+  String get hussary => 'মাহমুদ খালিল আল-হুসারী';
+
+  @override
+  String get hussary_mujawwad => 'হুসারী (মুজাওয়াদ)';
+
+  @override
+  String get shuraim => 'সাউদ আল-শুরাইম';
+
+  @override
+  String get arrafai => 'হানি আররাফাই';
+
+  @override
+  String get meaqli => 'মাহের আল-মেয়াকলি';
+
+  @override
+  String get afasy => 'মিশারি আল-আফাসি';
+
+  @override
+  String get minshawi => 'আল-মিনশাওয়ি';
+
+  @override
+  String get abdulbasit => 'আবদুলবাসিত আবদুসসামাদ';
+
+  @override
+  String get abdulbasit_mujawwad => 'আবদুলবাসিত (মুজাওয়াদ)';
+
+  @override
+  String get ghamdi => 'সাআদ আল-গামদি';
+
+  @override
+  String get dosari => 'ইয়াসির আল-দোসারি';
+
+  @override
+  String get shatri => 'আবু বকর আশ-শত্রি';
+
+  @override
+  String get tunaiji => 'খলিফা আল-তুনাইজি';
+
+  @override
+  String get sudais => 'আব্দুর রহমান আস-সুদাইস';
+
+  @override
+  String get tablawi => 'মোহাম্মদ আল-তাবলাওয়ি';
+
+  @override
+  String get murattal => 'মুরাত্তাল';
+
+  @override
+  String get mujawwad => 'মুজাওয়াদ';
+
+  @override
+  String get moallim => 'আল-মুসহাফ আল-মু‘াল্লিম';
+
+  @override
+  String get play => 'চালান';
 }

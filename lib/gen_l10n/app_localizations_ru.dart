@@ -1465,4 +1465,61 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get download_tafsir => 'Скачать Тафсир';
+
+  @override
+  String get hussary => 'Махмуд Халиль Аль-Хуссари';
+
+  @override
+  String get hussary_mujawwad => 'Аль-Хуссари (Муджавад)';
+
+  @override
+  String get shuraim => 'Сауд Аль-Шурайм';
+
+  @override
+  String get arrafai => 'Хани Аррафай';
+
+  @override
+  String get meaqli => 'Махер Аль-Меакли';
+
+  @override
+  String get afasy => 'Мишари Аль-Афаси';
+
+  @override
+  String get minshawi => 'Аль-Миншави';
+
+  @override
+  String get abdulbasit => 'Абдулбасит Абдуссамад';
+
+  @override
+  String get abdulbasit_mujawwad => 'Абдулбасит (Муджавад)';
+
+  @override
+  String get ghamdi => 'Саад Аль-Гамди';
+
+  @override
+  String get dosari => 'Яссер Аль-Досари';
+
+  @override
+  String get shatri => 'Абу Бакр Аш-Шатри';
+
+  @override
+  String get tunaiji => 'Халифа Аль-Тунайджи';
+
+  @override
+  String get sudais => 'Абдурахман Ас-Судайс';
+
+  @override
+  String get tablawi => 'Мухаммад Ат-Таблави';
+
+  @override
+  String get murattal => 'Муратталь';
+
+  @override
+  String get mujawwad => 'Муджавад';
+
+  @override
+  String get moallim => 'Обучающий Мусхаф';
+
+  @override
+  String get play => 'Проиграть';
 }
