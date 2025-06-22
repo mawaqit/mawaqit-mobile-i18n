@@ -1,0 +1,1100 @@
+{
+    "@@locale": "ug",
+    "bottomNavbar_mawaqit": "MAWAQIT",
+    "@bottomNavbar_mawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_favorites": "يىغقۇچ",
+    "@bottomNavbar_favorites": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_qibla": "قىبلە",
+    "@bottomNavbar_qibla": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_search": "ئىزدە",
+    "@bottomNavbar_search": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_settings": "تەڭشەك",
+    "@bottomNavbar_settings": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeAuto": "ئاپتوماتىك",
+    "@settings_ThemeAuto": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeDark": "قاراڭغۇ",
+    "@settings_ThemeDark": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeLight": "يورۇق",
+    "@settings_ThemeLight": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat": "ۋاقىت پىچىمى",
+    "@settings_TimeFormat": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_LanguageSelection": "تىل تاللىنىشى",
+    "@settings_LanguageSelection": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Language": "تىل",
+    "@settings_Language": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Theme": "ئۆرنەك",
+    "@settings_Theme": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat12H": "12 سائەت",
+    "@settings_TimeFormat12H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat24H": "24 سائەت",
+    "@settings_TimeFormat24H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotifications": "ناماز ئۇقتۇرۇشى",
+    "settings_PrayerPreNotifications": "ئالدىن ناماز ئۇقتۇرۇشى",
+    "settings_ShuruqPreNotifications": "ئالدىن كۈن چىقىش ئۇقتۇرۇشى",
+    "settings_Calculations": "ھېسابلاش",
+    "settings_RateOurApp": "ئەپ باھالاش",
+    "@settings_RateOurApp": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_WhatsNew": "يېڭىلىقلار",
+    "settings_SupportMawaqit": "MAWAQIT نى قوللاش",
+    "settings_News": "خەۋەر",
+    "settings_MakeADonation": "ئىئانە قىلىڭ",
+    "bismillah": "بىسمىللا",
+    "settings_DonateToMawaqit": "MAWAQIT قا ئىئانە قىلىڭ",
+    "@settings_DonateToMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_CheckForUpdates": "يېڭىلاشنى تەكشۈرىدۇ",
+    "@settings_CheckForUpdates": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Credits": "تۆھپىكارلار",
+    "@settings_Credits": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUs": "ھەققىمىزدە",
+    "@settings_AboutUs": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_language_ar": "ئەرەبچە",
+    "settings_language_bn": "بېنگالچە",
+    "settings_language_fr": "فىرانسۇزچە",
+    "settings_language_nl": "گوللاندىيەچە",
+    "settings_language_de": "گېرمانچە",
+    "settings_language_es": "ئىسپانچە",
+    "settings_language_en": "ئىنگلىزچە",
+    "settings_language_it": "ئىتالىيانچە",
+    "settings_language_tr": "تۈركچە",
+    "settings_language_ru": "رۇسچە",
+    "settings_language_id": "ھىندونېزىيەچە",
+    "settings_language_ur": "ئوردۇچە",
+    "settings_language_pl": "پولەكچە",
+    "settings_CreditsText": "نەشر ھوقۇقى © 2021 MAWAQIT ۋە MAWAQIT ۋەخپىسىگە تەۋە، بارلىق ھوقۇقنى ساقلاپ قالىدۇ.\n\nمەزكۇر ئەپ ياكى ئۇنىڭ قىستۇرما، كېڭەيتىلمىسى ياكى مەزمۇنىنىڭ بىلىم مۈلۈك ھوقۇقى ۋە نەشر ھوقۇقى MAWAQIT جامائىتىدىكى MAWAQIT قا تەۋە.\n\nبۇ نەشرى پەقەت ساخاۋەت ۋە ۋەخپە شەكلىدە تارقىتىلدى. ھەر قانداق سودىغا ئىشلىتىش ياكى تىجارەت مەقسىتىدە تارقىتىش چەكلىنىدۇ.\n\nبۇ ئىجازەت ھەر قانداق شەكىلدە مەزكۇر مەھسۇلات ۋە ئۇنىڭ ھەر قانداق بۆلەك، قىستۇرما، كېڭەيتىلمە ياكى مەزمۇنىغا مۇناسىۋەتلىك ھەر قانداق ھوقۇقنى سېتىشنى بىلدۈرمەيدۇ ياكى ئۆز ئىچىگە ئالمايدۇ. ئەكسىچە، مەزكۇر ئىجازەت پەقەت نۆۋەتتىكى ئەپ بازىرى سۇپىسى ئارقىلىق ساخاۋەت شەكلىدە تارقىتىلىدۇ.\n\nئەسلى كودى ياكى ئىككىلىك سىستېمىدىكى ھۆججەتنى ئەپ سۈپىتىدە قايتا تارقاتسا ياكى تەتۈر يۆنىلىش قۇرۇلۇشى (ئۆزگەرتكەن بولسۇن بولمىسۇن) ئارقىلىق نەشر ھوقۇقىغا دەخلى قىلغۇچى ياكى مەزكۇر نەشر ھوقۇقىغا دەخلى قىلىشتا مەسئۇلىيىتى بار ھەر قانداق كىشى قانۇنىي دەۋاغا دۇچ كېلىدۇ.\n\nنەشر ھوقۇقى ئىگىدارى ۋە ئەپ ئىگىدارى MAWAQIT جامائىتىدىكى MAWAQIT نىڭ يازما ئىجازىتىنى ئالماي تۇرۇپ، ھەر قانداق تەرەپنىڭ Apple ياكى Google Play رەسمىي دۇكىنىدىن باشقا جايدا ئەپنى قايتا تارقىتىش ھوقۇقى يوق. بۇ رەسمىي دۇكاندىن باشقا جايدا مەزكۇر ئەپنى تارقىتىش بىلىم مۈلۈك ھوقۇقىنى قوغداش قانۇنىغا خىلاپ، نەشر ھوقۇقىغا دەخلى قىلىش مەسئۇلىيىتى بار كىشى قانۇنىي دەۋاغا دۇچ كېلىدۇ.\n\nنەشر ھوقۇقى ئىگىدارىنىڭ يازما ئىجازىتىنى ئالماي تۇرۇپ، ئەپ ئىسمى ياكى ماركىسىنى ئىشلىتىشكە بولمايدۇ ۋە ياكى نەشر ھوقۇقى ئىگىدارى MAWAQIT ۋە MAWAQIT ۋەخپىسىنىڭ تاۋار ماركىسى ياكى ئىسمى ئارقىلىق مەزكۇر ئەپ ياكى ھەر قانداق ئوخشاپ كېتىدىغان مەھسۇلات ياكى شالغۇت مەھسۇلاتنى كېڭەيتىشكە بولمايدۇ.\nمەزكۇر ئەپ نەشر ھوقۇقى ئىگىدارى ۋە ھەسسىدارلارنىڭ «شۇ پېتى» تارقىتىش ئىجازىتىگە ئېرىشكەن.\n\nمەزكۇر ئەپ ئىجادكارى ۋە ئىگىدار شىركەت ھەر قانداق ئاشكارا ياكى يوشۇرۇن كاپالەت بىلەن تەمىنلىمەيدۇ، ئۆز ئىچىگە ئالىدىغىنى - مەزكۇر ئەپكە قارىتا مۇئەييەن شەكىلدىكى ئېلان ۋە كېڭەيتىشكە قوللىنىشقا چەكلىمە قويۇلمايدۇ. ھەر قانداق ئەھۋالدا، MAWAQIT ۋە MAWAQIT ۋەخپىسى ياكى ھەسسىدارى ھەر قانداق شەكىلدىكى بىۋاسىتە، ۋاسىتىلىك ياكى تاسادىپىي (ئالاھىدە، ئاگاھلاندۇرۇش خاراكتېرىدىكى، ئاقىۋەت خاراكتېرىدىكى) زىيانغا مەسئۇل بولمايدۇ، ئىشلىتىش زىيىنى، سانلىق مەلۇمات زىيىنى، پايدا زىيىنى ياكى كەسىپ ئۈزۈلۈش بىلەن چەكلەنمەيدۇ، مەيلى سەۋەبى ۋە مەسئۇلىيىتى قانداق بولۇشىدىن قەتئىينەزەر، مەيلى بۇ مەسئۇلىيەت توختام مەسئۇلىيىتى، مۇتلەق مەسئۇلىيەت ياكى نەشر ھوقۇقى مەسئۇلىيىتى (بىخەستەلىك ياكى باشقىنى ئۆز ئىچىگە ئالىدۇ) بولسۇن، بۇ زىيان ياكى زىيانكەشلىك مەزكۇر ئەپنى ئىشلىتىپ مەلۇم شەكىلدە پەيدا بولغان بولسۇن ھەممىسىنى ئۆز ئىچىگە ئالىدۇ.\n\nئەپتىكى ھەر قانداق ئۈچىنچى تەرەپنىڭ نەشر ھوقۇقى ئۇلارنىڭ ئىگىدارىغا تەۋە.\n\nسۈرەت ۋە تەگلىك\n\nنەشر ھوقۇقى Shutterstock قا تەۋە\n\nسىنبەلگە —  CC 4.0 ئىجازىتىدە\n\nنەشر ھوقۇقى Flaticons قا تەۋە\n\nغەيرىي خەت نۇسخا ۋە غەيرى سىنبەلگە ھۆججەتكە ماسساچۇسېتس تېخنىكا ئىنستىتۇتى (MIT) ئىجازىتى قوللىنىلىدۇ.\n\nخەت نۇسخىسى — SIL OFL 1.1 ئىجازىتى\n\nنەشر ھوقۇقى Google خەت نۇسخىسى (Roboto خەت نۇسخىسى) قا تەۋە\nنەشر ھوقۇقى Apple غا تەۋە، Cupertino بوغچىسى\nكودى، بوغچا ۋە قۇرۇلمىسى\n\nFlutter نى Google ياسىغان\n\nبوغچىلار: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "@settings_CreditsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUsText": "بۇ ئەپنى MAWAQIT جامائىتى ئىجاد قىلغان.\n\nMAWAQIT جامائىتى پايدا تاپمايدىغان ئورگان بولۇپ 2021-يىلى فىرانسىيەدە قۇرۇلغان.\nنىشانىمىز ئۇچۇر تېخنىكىسى ۋە رەقەملىك تېخنىكىغا مۇناسىۋەتلىك يېڭىلىق يارىتىدىغان ھەل قىلىش لايىھەسى ئىجادىيىتى بىلەن شۇغۇللىنىش، مەسىلەن، يۇمشاق دېتال ۋە تور بېكەت؛ رەقەملىك ھەل قىلىش لايىھەسى ۋە ئۇچۇر تېخنىكا قورالى ئوقۇتۇشى ۋە مائارىپى.\n\nMAWAQIT ئېكولوگىيەلىك سىستېمىسى بىزنىڭ بايراقدار مەھسۇلاتىمىز، ئۇنىڭ ھېكايىسى 2016-يىلى باشلانغان، ئەينى چاغدا مەسچىتنىڭ چوڭ ئېكرانىغا ئىشلىتىلىدىغان مەخسۇس بىر ئەپ بار ئىدى، ئاندىن كېيىن كۆچمە ئەپ، ئائىلە ياردەمچى قوشۇلمىسى ۋە alexa ماھارىتى قاتارلىق.\n\nMAWAQIT سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرىدىغان يېڭىچە ئۇسۇل بىلەن تەمىنلەيدۇ، ئەمەلىيەتتە، ئۇچتىن ئۇچقا سىستېما تەمىنلەپ، مەسچىت باشقۇرغۇچىلىرىغا پۈتۈن كۈنلۈك تور قورالى بىلەن تەمىنلەپ، ئۇلارنىڭ ۋاقىت جەدۋىلى، مەسچىت خەۋىرى ۋە باشقا نۇرغۇن ئىقتىدارنى باشقۇرۇشىغا قولايلىق يارىتىمىز. ئېتىقادچىلار كۆچمە ئەپتىن مەنپەئەتلىنىدۇ، مەزكۇر ئەپ ئارقىلىق ئۇلار ياقتۇرىدىغان مەسچىتىنىڭ ئېنىق ناماز ۋاقتى جەدۋىلى (تەخمىنەن ۋاقىت جەدۋىلى ئەمەس)، خەۋەر ۋە باشقا ئىقتىدارنى كۆرەلەيدۇ، مەسىلەن، جۇغراپىيەلىك ئورنى ئارقىلىق مەسچىت، ئەزان ۋاقتى، قىبلە قاتارلىقلارنى ئىزدىيەلەيدۇ. بىز ئىزچىل چىنلىق بىلەن سۈپەتنى يادرولۇق قىممەت قارىشىمىز قىلدۇق. ئېنىق نىشانىمىز: تېخنىكا ۋە لايىھە ئارقىلىق مەسچىتكە ئەلا مۇلازىمەت تەمىنلەش.\n\nئەگەر بۇ ئەپنى ياقتۇرسىڭىز، ئەپ دۇكاندا تەكلىپ بېرىڭ.",
+    "@settings_AboutUsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "fajr": "بامدات",
+    "@fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "shuruq": "كۈن چىقىش",
+    "@shuruq": {
+        "description": "_",
+        "type": "text"
+    },
+    "duhr": "پىشىن",
+    "@duhr": {
+        "description": "_",
+        "type": "text"
+    },
+    "asr": "ئەسر",
+    "@asr": {
+        "description": "_",
+        "type": "text"
+    },
+    "maghrib": "شام",
+    "@maghrib": {
+        "description": "_",
+        "type": "text"
+    },
+    "isha": "خۇفتەن",
+    "@isha": {
+        "description": "_",
+        "type": "text"
+    },
+    "sabah": "سەھەر",
+    "settings_PrayerNotification_NoNotification": "نۆۋەتتە سىز بۇ نامازنى ئەسكەرتمەسلىكنى تەڭشىگەن.",
+    "@settings_PrayerNotification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotification_Bip": "ئۇقتۇرۇش جەريانىدا قوڭغۇراق ئەپنى چىرىڭلىتىدۇ.",
+    "@settings_PrayerNotification_Bip": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan": "ئەزان",
+    "@adhan": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah_fajr": "مەككە (بامدات)",
+    "@adhan_Makkah_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Madinah": "مەدىنە",
+    "@adhan_Madinah": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Qods": "قۇددۇس",
+    "@adhan_Qods": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AlAfassy": "مىشارى راشىد ئەل ئافاسى",
+    "@adhan_AlAfassy": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AlAfassy_fajr": "مىشارى راشىد ئەل ئافاسى (بامدات)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "مۇھەممەد جازى",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "ئابدۇل باسىت",
+    "@adhan_AbdAlBassat": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_type": "ئەزان تۈرى تاللىنىدۇ. بۇ تاللاش ھەر قېتىملىق نامازدىكى ئەزان ئۇقتۇرۇشىغا قوللىنىلىدۇ.",
+    "@adhan_type": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_prayer_Notification_None": "يوق",
+    "@settings_prayer_Notification_None": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_Notification_NoNotification": "سىز بۇ نامازغا ھېچقانداق ئەسكەرتىش تەڭشىمىگەن.",
+    "@prayer_Notification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_PreNotification_Description": "بۇ تەڭشەك نامازدىن ئىلگىرى ئەسكەرتىش بەلگىلىشىڭىزگە يول قويىدۇ.",
+    "@prayer_PreNotification_Description": {
+        "description": "_",
+        "type": "text"
+    },
+    "search_TryParis": "پارىژ، ئەسسالام قاتارلىقلارنى سىناڭ.",
+    "search_ByGPS": "GPS بويىچە ئىزدە",
+    "search_HelpText": "تۆۋەندىكىلەرنى يېزىپ مەسچىت ئىزدىگىلى بولىدۇ:\n- مەسچىت ئىسمى\n- جامائەت ئىسمى\n- شەھەر، ئادرېس، دۆلەت قاتارلىق …\n\nياكى ئورۇن توپچىنى چېكىپ ئەترەپتىكى مەسچىتنى تاپالايسىز.",
+    "search_MaxFavMosquesReached": "سىز ئەڭ ياقتۇرىدىغان مەسچىت ساقلاشنىڭ يۇقىرى چېكىگە يەتتىڭىز.",
+    "search_iOs14_message": "iOS 14 تە GPS ئارقىلىق ئىزدەشكە بىر ئاز ۋاقىت كېتىشى مۇمكىن، سەل كۈتۈڭ.",
+    "search_error": "ئاپلا ئىچكى خاتالىق كۆرۈلدى",
+    "search_your_location": "ئورنىڭىز",
+    "search_location_disabled": "ئىسىم ياكى شەھەر بويىچە مەسچىت ئىزدەڭ ياكى تەڭشەكتە ئورۇن ئۇچۇرىنى ئىشلىتىشكە يول قويۇڭ.",
+    "search_settings": "تەڭشەك",
+    "no_services_text": "مەسچىت بۇ ئۇچۇرنى تەمىنلىمىگەن",
+    "welcome": "خۇش كەلدىڭىز",
+    "mawaqit": "MAWAQIT",
+    "connecting": "مۇسۇلمانلارنى ئۆزئارا باغلايدۇ",
+    "to_mosques": "مەسچىت",
+    "get_started": "باشلاش",
+    "get_prayer_notifications_for": "ناماز ئەسكەرتىشىگە ئېرىشىدۇ",
+    "turn_on_notifications": "ناماز ئەسكەرتىشىنى ئاچىدۇ",
+    "no_thanks": "ياق رەھمەت",
+    "notification_denied": "سىز ئۇقتۇرۇش ئىجازىتىنى رەت قىلدىڭىز، شۇڭا ھېچقانداق ئۇقتۇرۇش تاپشۇرۇۋالمايسىز.",
+    "at_least_one_mosque": "داۋاملاشتۇرۇش ئۈچۈن كەم دېگەندە بىر مەسچىت تاللىنىدۇ",
+    "set_up_your_prayer": "نامازنى تەڭشەيدۇ",
+    "notifications": "ئۇقتۇرۇش",
+    "mosques_around_you": "ئەتراپىڭىزدىكى مەسچىت",
+    "mosques_in_the_selected_area": "تاللىغان جايدىكى مەسچىت",
+    "mosques_with": "مەسچىتلەر",
+    "allow_mawaqit_to_access_my_location": "Mawaqit نىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.",
+    "enable_location_service_from_app_settings": "ئەپ تەڭشىكىدىن ئورۇن مۇلازىمىتىنى قوزغىتىدۇ.",
+    "the_request_timeout": "ئىلتىماس ۋاقتى ئۆتتى",
+    "no_internet_connection": "ئىنتېرنېت باغلىنىشى يوق",
+    "try_again": "قايتا سىناڭ",
+    "virtual_mosque": "تەقلىدىي مەسچىت",
+    "no_mosque_in_selected_area": "تاللىغان جايدىن ھېچقانداق مەسچىتنى تاپالمىدى",
+    "no_mosque_with": "ھېچقانداق مەسچىتنى تاپالمىدى",
+    "retry": "قايتا سىناڭ",
+    "search_here": "بۇ جايدىن ئىزدە",
+    "enter_at_least_3_char": "ئىزدىگەندە كەم دېگەندە 3 ھەرپ كىرگۈزۈلىدۇ",
+    "jumua1": "1-جۈمە",
+    "prayer_times": "ناماز ۋاقتى",
+    "remove_this_city": "بۇ شەھەرنى چىقىرىۋەت",
+    "add_this_city": "بۇ شەھەرنى قوش",
+    "add_this_mosque": "بۇ مەسچىتنى قوش",
+    "remove_this_mosque": "بۇ مەسچىتنى چىقىرىۋەت",
+    "services": "مۇلازىمەت",
+    "share": "ھەمبەھىر",
+    "itinerary": "ساياھەت",
+    "call": "چاقىر",
+    "dnd": "دەخلى قىلماڭ",
+    "battery_optimize": "توكدان ئەلالاشتۇرۇش",
+    "power_saver": "توك تېجىگۈچ",
+    "permission_message1": "كېچىكتۈرۈلگەن ئۇقتۇرۇشنى بايقىدۇق، تاقاڭ",
+    "permission_message2": "ئۇقتۇرۇشنى ۋاقتىدا تاپشۇرۇۋالىدۇ.",
+    "notifications_delay_detected": "ئۇقتۇرۇشنى كېچىكتۈرۈش بايقالدى",
+    "open_setting": "تەڭشەكنى ئاچىدۇ",
+    "noJumua": "جۈمە يوق",
+    "@noJumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua": "جۈمە",
+    "@jumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_sensor": "MAWAQIT قىبلىنى توغرىلاشتا ئىشلىتىدىغان ئۈسكۈنىڭىزدىكى سەزگۈچ مۆلچەردىكىدەك ئىشلىمىدى، بۇ بىزنىڭ قىبلىنىڭ يۆنىلىشىنى توغرىلىشىمىزغا تەسىر كۆرسىتىدۇ.",
+    "connection_not_found": "كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. باغلىنىشىڭىزنىڭ ئوچۇق ئىكەنلىكىنى جەزملەپ ئاندىن يۆنىلىشنى ئۆزگەرتىپ قايتا سىناڭ.",
+    "currently_located_at": "نۆۋەتتىكى ئورنى",
+    "facing_makkah": "مەككە تەرەپكە يۈزلەندىڭىز",
+    "not_facing_Makkah": "مەككە تەرەپكە يۈزلەنمىدىڭىز",
+    "qibla_Error_retry": "قايتا سىنا",
+    "@qibla_Error_retry": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDenied": "ئورۇن ئۇچۇر مۇلازىمىتىنىڭ ئىجازىتى رەت قىلىندى",
+    "@qibla_Error_LocationDenied": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDeniedForever": "ئورۇن ئۇچۇرى مۇلازىمىتىنىڭ ئىجازىتى مەڭگۈلۈك رەت قىلىندى!",
+    "@qibla_Error_LocationDeniedForever": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_PleaseEnable": "ئورۇن ئۇچۇرى مۇلازىمىتىنى قوزغىتىڭ",
+    "@qibla_Error_PleaseEnable": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Direction": "قىبلە يۆنىلىشى",
+    "@qibla_Direction": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_FavoriteMosques": "يىغقۇچتىكى مەسچىت",
+    "@favorites_FavoriteMosques": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_Error": "كاشىلا كۆرۈلدى…",
+    "@favorites_Error": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Image": "سۈرەت",
+    "@announcement_Image": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_Video": "سىن",
+    "@announcement_Type_Video": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_FlashInfo": "جىددىي ئۇچۇر",
+    "@announcement_Type_FlashInfo": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText1": "ئىئانە",
+    "@mosque_DonateText1": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText2": "مەسچىت ئۈچۈن",
+    "@mosque_DonateText2": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Error_CouldNotLaunch": "قوزغىتالمايدۇ",
+    "@mosque_Error_CouldNotLaunch": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_PrayerTimes": "ناماز ۋاقتى",
+    "@mosque_PrayerTimes": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Website": "تور بېكەت",
+    "@mosque_Website": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Address": "ئادرېس",
+    "@mosque_Address": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Phone": "تېلېفون",
+    "@mosque_Phone": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Email": "ئېلخەت",
+    "@mosque_Email": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_ByMawaqit": "MAWAQIT ئۆگەتكۈچى https://mawaqit.net",
+    "@mosque_ByMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_Parking": "ماشىنا توختىتىش",
+    "@mosque_Facilities_Parking": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_DisabledAccess": "زىيارەت چەكلەندى",
+    "@mosque_Facilities_DisabledAccess": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AblutionsRoom": "مۇستەھەپخانا",
+    "@mosque_Facilities_AblutionsRoom": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_WomanSpace": "ئاياللار رايونى",
+    "@mosque_Facilities_WomanSpace": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AdultsCourse": "چوڭلار دەرسى",
+    "@mosque_Facilities_AdultsCourse": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_ChildrenCourses": "بالىلار دەرسى",
+    "@mosque_Facilities_ChildrenCourses": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlAid": "ھېيت نامىزى",
+    "@mosque_Facilities_SalatAlAid": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlJanaza": "جىنازا نامىزى",
+    "@mosque_Facilities_SalatAlJanaza": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosques_Facilities_IftarRamadan": "ئىفتار رامىزان",
+    "@mosques_Facilities_IftarRamadan": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_facilities_Info": "بۇ ئۇچۇرلارنىڭ ھەممىسىنى مەسچىتكە مەسئۇل كىشىلەر تولدۇرغان",
+    "@mosque_facilities_Info": {
+        "description": "_",
+        "type": "text"
+    },
+    "in_": "دا",
+    "@in_": {
+        "description": "_",
+        "type": "text"
+    },
+    "imsak": "زولۇق",
+    "@imsak": {
+        "description": "_",
+        "type": "text"
+    },
+    "eid": "ھېيت ناماز ۋاقتى",
+    "@eid": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes": "مىنۇت",
+    "@minutes": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua2": "2-جۈمە",
+    "@jumua2": {
+        "description": "_",
+        "type": "text"
+    },
+    "please_update": "MAWAQIT نىڭ يېڭى نەشرى بار، يېڭىلاڭ",
+    "@please_update": {
+        "description": "_",
+        "type": "text"
+    },
+    "update": "يېڭىلا",
+    "@update": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_skip": "دەرسلىكتىن ئاتلا",
+    "@tutorial_skip": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_next": "كېيىنكى",
+    "@tutorial_next": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_main_mosque": "ئاساسىي مەسچىت",
+    "@tutorial_title_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_main_mosque": "ئاساسىي مەسچىتىڭىز بۇ جايدا كۆرۈنىدۇ.\nسىز ئوڭ ۋە سولغا سۈرۈپ يىغقۇچتىكى مەسچىتلىرىڭىزنى ئالماشتۇرالايسىز.",
+    "@tutorial_text_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_countdown": "كېيىنكى ناماز كۆرسەتكۈچ",
+    "@tutorial_title_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_countdown": "كېيىنكى ناماز ۋاقتىغا قانچىلىك ۋاقىت قالغانلىقىنىڭ تەتۈر سانىقىنى كۆرسىتىدۇ.",
+    "@tutorial_text_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_mosque_info": "مەسچىت ئۇچۇرى",
+    "@tutorial_title_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_mosque_info": "مەسچىت ھەققىدىكى بارلىق ئۇچۇرلار: ئەسلىھە، ئادرېس، تېلېفون، خەت ساندۇقى، ئىئانە ۋە باشقىلار.",
+    "@tutorial_text_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_announcements": "مەسچىت ئۇچۇرى ۋە ئۇقتۇرۇش",
+    "@tutorial_title_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_announcements": "مەسچىتنىڭ ئۇچۇر ۋە ئۇقتۇرۇشلىرى بۇ جايدا كۆرۈنىدۇ.\nبۇ توپچە چېكىلسە، تولۇق تەپسىلاتى كۆرۈنىدۇ. بۇ ئۇقتۇرۇش سىيرىلما ئۇچۇر، سۈرەت ياكى سىن بولۇشىمۇ مۇمكىن.",
+    "@tutorial_text_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_1": "تىل تاللىنىدۇ",
+    "@onboarding_title_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_1": "تۆۋەندىكى تىل تىزىمىدىن ياقتۇرىدىغان تىلنى تاللاڭ",
+    "@onboarding_text_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_2": "MAWAQIT قا خۇش كەلدىڭىز",
+    "@onboarding_title_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_2": "MAWAQIT سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرۇشتا يېڭى ئۇسۇل تەمىنلەيدىغان ئېكولوگىيەلىك سىستېما، قولىڭىزدىكى بۇ ئەپ مەزكۇر ئېكولوگىيەلىك سىستېمىنىڭ بىر قىسمى، ئۇ سىزنىڭ مەسچىت ئىزدەپ، ئۇنىڭ خەۋەر ۋە ناماز ۋاقتىغا ئەگىشىشىڭىزگە يول قويىدۇ",
+    "@onboarding_text_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_3": "قاراڭغۇ/يورۇق ئۆرنەك تاللىنىدۇ",
+    "@onboarding_title_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_3": "سىز تېلېفونىڭىزنى قاراڭغۇ مۇھىت ياكى قاراڭغۇ تەگلىك رەڭگىدە ئىشلىتىپ، قاراڭغۇ ئۇسلۇبتىن پايدىلىنىپ كۆرۈش سەزگۈسىنى ياخشىلىيالايسىز",
+    "@onboarding_text_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_4": "ئاساسىي مەسچىتنى تاللاڭ",
+    "@onboarding_title_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_4": "تۆۋەندىكى تىزىمدىن ئاساسىي مەسچىتنى تاللاڭ ياكى ھازىرقى ئورنىڭىزغا يېقىن جايدىكى مەسچىتنى ئىزدەڭ",
+    "@onboarding_text_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading": "يۈكلەۋاتىدۇ",
+    "@loading": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_please_wait": "يۈكلەۋاتىدۇ… سەل كۈتۈڭ",
+    "@loading_please_wait": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_loaded": "يۈكلەش تامام",
+    "@loading_loaded": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_edit": "يىغقۇچتىكى مەسچىتنى تەھرىرلەيدۇ",
+    "@favorites_edit": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes_to_athan": "مىنۇت ئەزان",
+    "@minutes_to_athan": {
+        "description": "minutes to athan",
+        "type": "text"
+    },
+    "show_tutorial": "دەرسنى كۆرسىتىدۇ",
+    "@show_tutorial": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_chose_mosque_please": "ئىزدەش تىزىمىدىن مەسچىت تاللاڭ",
+    "@onboarding_chose_mosque_please": {
+        "description": "_",
+        "type": "text"
+    },
+    "done": "تامام",
+    "@done": {
+        "description": "_",
+        "type": "text"
+    },
+    "ok": "جەزملە",
+    "@ok": {
+        "description": "_",
+        "type": "text"
+    },
+    "km": "كىلومېتىر",
+    "@km": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_title": "ئەپنى ئاچ",
+    "@notification_open_app_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_body": "ئەسكەرتىشنى ئاسراش ئۈچۈن ئەپنى ئېچىڭ",
+    "@notification_open_app_body": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_notification": "ناماز ئەسكەرتىشى تاللىنىدۇ",
+    "@tutorial_title_notification": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_notification": "بۇ جايدا ئەزان، قوڭغۇراق ياكى ئۈنسىز قاتارلىق تۈرلەرنى تاللىيالايسىز",
+    "@tutorial_text_notification": {
+        "description": "\\",
+        "type": "text"
+    },
+    "search_no_result": "MAWAQIT ئەلچىسى بولۇپ، مەسچىتىڭىزگە ھەل قىلىش لايىھەسى تەمىنلەڭ، ئۇ ھەقسىز\nhttps://mawaqit.net",
+    "@search_no_result": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_title": "MAWAQIT نى باھالاش",
+    "@rate_popin_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_message": "ئەگەر بۇ ئەپنى ياقتۇرسىڭىز، ئازراق ۋاقتىڭىزنى چىقىرىپ ئۇنى تەكشۈرۈڭ!\nبۇنىڭ بىزگە ھەقىقەتەن پايدىسى بار.",
+    "@rate_popin_message": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_rate": "باھالاش",
+    "@rate_popin_rate": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_no": "ياق رەھمەت",
+    "@rate_popin_no": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_later": "بەلكىم كېيىن",
+    "@rate_popin_later": {
+        "description": "_",
+        "type": "text"
+    },
+    "message_see_all": "ئېكراننىڭ چوققىسىدىكى ياڭراتقۇنى چىكىپ بۇ مەسچىت تارقاتقان بارلىق ئۇچۇرنى كۆرەلەيسىز.",
+    "@message_see_all": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah": "مەككە",
+    "@adhan_Makkah": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_iqama": "تەكبىر",
+    "@tutorial_title_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_iqama": "بۇ جايدا مەسچىتتىكى ئەزان بىلەن تەكبىر ئارىسىدا داۋاملىشىدىغان ۋاقىتنى تاللىيالايسىز",
+    "@tutorial_text_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_tooltip_download": "چۈشۈرۈلگەن يىلنامە",
+    "@calendar_tooltip_download": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_download_permission_refused": "چۈشۈرۈش ئىجازىتى قەتئىي رەت قىلىندى، چۈشۈرۈشكە يول قويۇڭ",
+    "@calendar_download_permission_refused": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_downloading": "يىلنامەنى چۈشۈرۈۋاتىدۇ…",
+    "@calendar_downloading": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_service_disabled": "ئورۇن ئۇچۇرى مۇلازىمىتى چەكلەنگەن. ئۇنى قوزغىتىڭ.",
+    "@location_service_disabled": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied": "ئورۇن ئۇچۇرى ئىجازىتى رەت قىلىندى، ئۇنىڭغا يول قويۇڭ.",
+    "@location_permission_denied": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied_forever": "ئورۇن ئۇچۇرى ئىجازىتى مەڭگۈلۈك رەت قىلىندى. تەڭشەك بېتىدىن ئۇنىڭغا يول قويۇڭ.",
+    "@location_permission_denied_forever": {
+        "description": "_",
+        "type": "text"
+    },
+    "at_least_one_mosque_error": "كەم دېگەندە بىر مەسچىت تەڭشىشىڭىز كېرەك.",
+    "and": "ۋە",
+    "continue_to_app": "داۋاملاشتۇر",
+    "add": "قوش",
+    "mosque": "مەسچىت",
+    "on_boarding_nearest_mosque": "يېقىن ئەتراپتىكى مەسچىتنى ئىزدەيلى",
+    "on_boarding_nearest_mosque_text": "جۇغراپىيەلىك ئورنىڭىزغا ئاساسەن ئەتراپىڭىزدا تېپىلغان مەسچىتلەر",
+    "search_no_result_for_text": "ھېچقانداق نەتىجە تاپالمىدۇق",
+    "surah_audio_downloading": "سۈرە ئاۋازىنى چۈشۈرۈۋاتىدۇ…",
+    "msg_internet_connection": "ھېچقانداق ئىنتېرنېت باغلىنىشىڭىز يوق",
+    "read_quran": "قۇرئان ئوقۇش",
+    "ayahs": "ئايەت",
+    "chapter": "سۈرە",
+    "meaning": "مەنىسى",
+    "al_quran": "قۇرئان",
+    "surah_information": "سۈرە ئۇچۇرى",
+    "surah_number": "سۈرە نومۇرى",
+    "quran_browsing": "كۆز يۈگۈرتۈش",
+    "quran_search_placeholder": "سۈرە ئىسمى، نومۇرى بويىچە ئىزدەيدۇ…",
+    "quran_verse_search": "ئايەت ئىزدە",
+    "quran_translation": "تەرجىمە",
+    "quran_mushaf": "تەجۋىدلىك قۇرئان (مۇسھەف)",
+    "quran_juzz": "پارە",
+    "ayah": "ئايەت",
+    "quran_verses": "ئايەت",
+    "surah": "سۈرە",
+    "continue_reading": "ئوقۇشنى داۋاملاشتۇرىدۇ",
+    "bookmarks": "خەتكۈچ",
+    "juzz": "پارە",
+    "quran_page": "بەت",
+    "quran_turning_page": "بەت ئۆرۈش",
+    "quran_from_right_to_left": "ئوڭدىن سولغا",
+    "quran_from_left_to_right": "سولدىن ئوڭغا",
+    "quran_from_top_to_bottom": "ئۈستىدىن ئاستىغا",
+    "quran_from_bottom_to_top": "ئاستىدىن ئۈستىگە",
+    "quran_pages_color": "بەت رەڭگى",
+    "english_tr": "ئىنگلىزچە",
+    "french_tr": "فىرانسۇزچە",
+    "spanish_tr": "ئىسپانچە",
+    "muhammad_hamidullah": "مۇھەممەد ھەمىدۇللا",
+    "abdullah_yusuf_ali": "ئابدۇللا يۈسۈف ئەلى",
+    "sheikh_isa_garcia": "شەيخ ئىسا گارسىيا",
+    "reciters": "قىرائەت قىلغۇچى",
+    "favorite_reciters": "ياقتۇرىدىغان قىرائەت قىلغۇچى",
+    "surahs_downloaded": "سۈرە چۈشۈرۈلدى",
+    "surahs_chapter": "سۈرە - باب",
+    "my_likes": "ياقتۇرغانلىرىم",
+    "cancel": "ۋاز كەچ",
+    "next": "كېيىنكى",
+    "search_surah": "سۈرە ئىزدە",
+    "not_downloaded_recitation": "سىز تېخى ھېچقانداق قىرائەتنى چۈشۈرمىگەن.",
+    "not_favorite_reciter": "سىز تېخى ھېچقانداق قىرائەت قىلغۇچىنى يىغقۇچقا قوشمىغان.",
+    "search_reciter": "قىرائەت قىلغۇچىنى ئىزدەيدۇ",
+    "al_quran_al_kareem": "قۇرئان كەرىم",
+    "surahs": "سۈرە",
+    "chapters": "باب",
+    "calculation_info": "بۇ بۆلەكتىكى تەڭشەك پەقەت جۇغراپىيەلىك ئورنىڭىزغا ئاساسەن ھېسابلاپ چىققان ناماز ۋاقتى، مەسچىتنىڭ ناماز ۋاقتى بىلەن مۇناسىۋەتسىز.",
+    "calculation_madhab": "قانۇنشۇناسلىق - مەزھەپ",
+    "calculation_madhab_shafii": "شافىي، ھەنبەلى ۋە مالىكى",
+    "calculation_madhab_shafii_countries": "ئىئوردانىيە، پەلەستىن، يەمەن، سۇمالى، ئېرىتىرىيە، مالايسىيا، ھىندونېزىيە، بىرۇنىي، جەنۇبىي مىسىر، سەئۇدى ئەرەبىستان، قاتار، شىمالىي ئافرىقا، غەربىي ئافرىقا، ئەرەب بىرلەشمە خەلىپىلىكى،",
+    "calculation_madhab_hanafi": "ھەنەفى",
+    "calculation_madhab_hanafi_countries": "لىۋان، پاكىستان، ئافغانىستان، ھىندىستان، بېنگال، ئىراق، تۈركىيە، رۇسىيە، خىتاي، بالقان…",
+    "calculation_methods": "ھېسابلاش ئۇسۇلى",
+    "calculation_methods_france": "فىرانسىيەدىكى مۇسۇلمانلار (كونا UOIF)",
+    "calculation_methods_algeria": "ئالجېرىيە دىنىي ئىشلار مىنىستىرلىقى ۋە ۋەخپىسى",
+    "calculation_methods_morocco": "ماراكەش دىنىي ئىشلار مىنىستىرلىقى ۋە ۋەخپىسى",
+    "calculation_methods_muslim_world": "مۇسۇلمان دۇنياسى بىرلەشمىسى",
+    "calculation_methods_egyptian": "مىسىر ئۆلچەپ سىزىش باش ئىدارىسى",
+    "calculation_methods_karachi": "كاراچى ئىسلام ئىلىمى ئۇنىۋېرسىتېتى",
+    "calculation_methods_umm_al_qura": "مەككە ئۇم ئەل قۇرە ئۇنىۋېرسىتېتى",
+    "calculation_methods_dubai": "پارس قولتۇقى رايونى",
+    "calculation_methods_moon": "ئاي كۆزىتىش كومىتېتى",
+    "calculation_methods_north_america": "شىمالىي ئامېرىكا ئىسلام جامائىتى",
+    "calculation_methods_kuwait": "كۈۋەيت",
+    "calculation_methods_qatar": "قاتار",
+    "calculation_methods_singapore": "سىنگاپور",
+    "calculation_methods_turkey": "تۈركىيە",
+    "calculation_methods_tehran": "تېھران ئۇنىۋېرسىتېتى گىئوفىزىكا تەتقىقات جەمئىيىتى",
+    "calculation_methods_russia": "روسىيە مۇسۇلمانلىرىنىڭ مەنىۋى مەجلىسى",
+    "calculation_methods_custom": "ئىختىيارىي بۇلۇڭ",
+    "calculation_high_latitude": "يۇقىرى كەڭلىكتىكى جايلار",
+    "calculation_high_latitude_none": "يوق",
+    "calculation_high_latitude_middle": "يېرىم كېچە",
+    "calculation_high_latitude_one_seventh": "كېچىنىڭ يەتتىدىن بىرى",
+    "calculation_high_latitude_angle_based": "بۇلۇڭ ئاساسىدىكى ئۇسۇل",
+    "calculation_adjustment": "قولدا توغرىلاش",
+    "calculation_adjustment_subtitle": "ناماز ۋاقتىنى تەڭشەش ۋە ئىختىيارى بۇلۇڭ",
+    "calculation_adjustment_prayers": "ناماز ۋاقتىنى تەڭشەش",
+    "calculation_adjustment_prayers_minutes": "مىنۇت",
+    "calculation_adjustment_angles": "ئىختىيارىي بۇلۇڭ",
+    "calculation_prayer_custom_angle": "ئىختىيارى بۇلۇڭى",
+    "error_download_quran_failed": "قۇرئاننى چۈشۈرەلمىدى",
+    "downloading_quran": "قۇرئاننى چۈشۈرۈۋاتىدۇ…",
+    "processing": "بىر تەرەپ قىلىۋاتىدۇ…",
+    "copied_to_clipboard": "چاپلاش تاختىڭىزغا كۆچۈرۈلدى!",
+    "download_quran_popup_title": "ئاخىرقى ئوقۇغان ۋاقىت",
+    "download_quran_popup_downloading_1": "بىز قۇرئان بەتلىرىنى چۈشۈرۈشىمىز كېرەك، ئۇنىڭغا بىر قانچە سېكۇنت كېتىدۇ. تېلېفونىڭىزنىڭ كۆچمە سانلىق مەلۇمات ئېقىمىنى ئىشلىتىمىز، ئەگەر زۆرۈر بولسا Wi-Fi غا ئالماشتۇرۇڭ.",
+    "download_quran_popup_downloading_2": "قۇرئاننى سىز ئۈچۈن تەييارلاۋاتىمىز، بىر قانچە سېكۇنت كۈتۈڭ!",
+    "download_quran_popup_downloading_3": "«چۈشۈر» نى چېكىپ ئوقۇش ۋە ئەسلەش سەپىرىڭىزنى باشلاڭ.",
+    "download_quran_popup_confirm_cancel": "چۈشۈرۈشتىن راستتىنلا ۋاز كېچەمسىز؟ بۇ سانلىق مەلۇماتلارنى چۈشۈرمەي قۇرئان ئوقۇيالمايسىز، بەتلەرنى ئىشلەتكىلى بولمايدۇ.",
+    "download_quran_popup_cancelled": "مەسىلە كۆرۈلدى، چۈشۈر توپچىنى قايتا چېكىڭ!",
+    "download": "چۈشۈر",
+    "continue_download": "چۈشۈرۈشنى داۋاملاشتۇر",
+    "cancel_download": "چۈشۈرۈشتىن ۋاز كەچ",
+    "download_completed": "چۈشۈرۈشتىن ۋاز كەچتى",
+    "download_failed": "چۈشۈرەلمىدى",
+    "download_pages": "چۈشۈرگەن بەت",
+    "notification": "ئەسكەرتىش",
+    "notification_not_supported_below_7": "ئۈسكۈنىڭىز Android 7 ياكى تۆۋەن نەشرى بولسا ئەزان ياكى ناماز ۋاقتى ئەسكەرتىشىنى تاپشۇرۇۋالالمايسىز.",
+    "battery_optimization": "توكدان ئەلالاشتۇرۇش",
+    "battery_optimization_subtitle": "يوچۇقسىز ناماز ۋاقتى ئۇقتۇرۇشىنى تاپشۇرۇۋېلىش ئۈچۈن، MAWAQIT نىڭ توكدان ئەلالاشتۇرۇشىنى تاقاڭ.",
+    "allow": "يول قوي",
+    "deny": "رەت قىل",
+    "force_notification": "مەجبۇرىي ئەسكەرتىش",
+    "tutorial_text_foreground_service": "ئۇنى چەكسىڭىز «ئالدى سۇپا مۇلازىمىتى» نى ئېچىپ ياكى تاقاشقا يول قويىدۇ",
+    "enable": "ئوچۇق",
+    "disable": "تاقاق",
+    "do_not_show_again": "قايتا كۆرسەتمە",
+    "force_notification_title": "MAWAQIT ئاكتىپ ھالەتتە بولسا ناماز ئۇقتۇرۇشىنىڭ دەل ۋاقتىدا قوزغىتىلىشىغا كاپالەتلىك قىلىدۇ.",
+    "force_notification_body": "شۈبھىسىزكى، ناماز مۆمىنلەرگە ۋاقتى بەلگىلەنگەن پەرز قىلىندى.(سۈرە نىسا 103-ئايەت)",
+    "force_notification_dialog1_body": "بۇ تاللانمىنى قوزغىتىش ئارقىلىق ئەپنى ئاكتىپ ھالەتتە ساقلاپ، دەل ئەزان ۋاقتىدا ناماز ئۇقتۇرۇشىنى قوزغىتىدۇ. MAWAQIT ئەپى پەقەت مۇشۇ مەقسەتتە ئاكتىپ ھالەتتە تۇرىدۇ، تەڭشەكتىن ئۇ تاللانمىنى خالىغان ۋاقىتتا تاقىيالايسىز.",
+    "force_notification_dialog2_body": "«مەجبۇرىي ئۇقتۇرۇش» نى قوزغاتقاندىن كېيىن، ئۇقتۇرۇش بالداقنى تۆۋەنگە سىيرىپ ئۇقتۇرۇشنى ئۇ جايدا كۆرەلەيسىز",
+    "notification_debugging": "سازلاش ئۇقتۇرۇشى",
+    "notification_debugging_details": "سازلاش ئۇقتۇرۇشى قوزغىتىلدى. ئەگەر ئۇقتۇرۇش تەڭشىكىنى ئۆزگەرتسىڭىز، سازلاش سانلىق مەلۇماتى يوقىلىدۇ ۋە سازلاش چەكلىنىدۇ.",
+    "skip": "ئاتلا",
+    "agree": "قوشۇل",
+    "return_no_search": "ئىزدەشكە قايت",
+    "backend_environment_switch": "ئارقا ئۇچ مۇھىت ئالماشتۇرغۇچ",
+    "set_development_environment": "ئىجادكار مۇھىت تەڭشىكى",
+    "set_production_environment": "مەھسۇلات مۇھىت تەڭشىكى",
+    "delay_notification": "ئۇقتۇرۇش كېچىكتۈرۈش",
+    "notification_delay_debugging_is": "ئۇقتۇرۇشنى كېچىكتۈرۈپ سازلاش",
+    "banner_enable": "بالداق قوزغات",
+    "banner": "بالداق",
+    "show_details": "تەپسىلاتىنى كۆرسەت",
+    "auto_detect_location": "يېقىن مەسچىتنى تەۋسىيە قىلىدۇ",
+    "auto_detect_explanation": "مەسچىتىڭىزدىن يىراق جايدا بولسىڭىز، ئەپ ھازىرقى ئورنىڭىزغا ئاساسەن يېقىن ئەتراپتىكى مەسچىتنى ئۆزلۈكىدىن تەۋسىيە قىلىدۇ.",
+    "auto_detect_location_title": "قارىغاندا مەسچىتىڭىزدىن يىراق جايدا ئوخشايسىز.",
+    "auto_detect_location_message": "يېقىن ئەتراپتىكى مەسچىتنىڭ توغرا ناماز ۋاقتىنى ئىزدەمسىز؟",
+    "donation_success_toast": "ئىئانە مۇۋەپپەقىيەتلىك تاماملاندى",
+    "donation_success": "ئىئانە قىلغىنىڭىزغا رەھمەت، ئاللاھ ئەجرىڭىزنى بەرسۇن",
+    "donation_failed": "ئىئانە مەغلۇپ بولدى",
+    "donate_for_good": "ياخشىلىق ئۈچۈن ئىئانە قىلىڭ",
+    "enter_amount_hint": "مىقدارى كىرگۈزۈلىدۇ",
+    "enter_donation_amount": "ئىئانە قىلىدىغان مىقدار كىرگۈزۈلىدۇ",
+    "google_pay_not_available": "بۇ ئۈسكۈنىدە Google چىقىمدانىنى ئىشلەتكىلى بولمايدۇ",
+    "error_performing_donation": "ئىئانە قىلماقچى بولغاندا خاتالىق كۆرۈلدى",
+    "recurring_pay_text": "ھەر ئايدا ئىنائە قىلىشقا تەڭشەيدۇ.",
+    "adjust_angles": "بۇلۇڭ تەڭشەيدۇ",
+    "silent": "ئۈنسىز",
+    "default_": "كۆڭۈلدىكى",
+    "muazzin": "مەزىن",
+    "information": "ئۇچۇر",
+    "news": "خەۋەر",
+    "calendar": "يىلنامە",
+    "system": "سىستېما",
+    "change_mosque_order": "سۆرەپ تاشلانسا مەسچىت تەرتىپىنى ئۆزگەرتىدۇ ۋە ئاساسىي مەسچىتنى تەڭشەيدۇ",
+    "remove": "چىقىرىۋەت",
+    "save": "ساقلا",
+    "main_mosque": "ئاساسىي مەسچىت",
+    "mosques": "مەسچىت",
+    "no_news": "مەسچىتنىڭ يېڭى خەۋىرى يوق",
+    "mawaqit_notification": "Mawaqit ئۇقتۇرۇشى",
+    "no_mawaqit_notification": "Mawaqit نىڭ ھېچقانداق ئۇقتۇرۇشى يوق",
+    "meccan": "مەككە",
+    "medinan": "مەدىنە",
+    "montada_islamic_foundation": "مونتادا ئىسلام ۋەخپىسى",
+    "rashid_maash": "راشىد مائاش",
+    "abdul_haleem": "ئابدۇل ھەلېم",
+    "dr_mustafa_khattab": "دوكتور مۇستافا خەتتاب",
+    "frank_bubenheim_and_nadeem": "فرانك بۇبېنخېيم ۋە نادېم",
+    "abu_reda_muhammad_ibn_ahmad": "ئەبۇ رېدا مۇھەممەد ئىبىن ئەھمەد",
+    "unknown_author": "يوچۇن ئاپتور",
+    "translation_settings": "تەرجىمە تەڭشىكى",
+    "reading": "ئوقۇش",
+    "listening": "ئاڭلاش",
+    "font_size": "خەت نۇسخا",
+    "font_size_arabic": "ئەرەبچە خەت نۇسخا",
+    "horizontal": "توغرىسىغا",
+    "vertical": "بويىغا",
+    "add_page_bookmarks": "بەتنى خەتكۈشكە قوشىدۇ",
+    "remove_page_bookmarks": "بەتنى خەتكۈشتىن چىقىرىۋېتىدۇ",
+    "no_bookmarks": "خەتكۈش يوق",
+    "liked": "ياقتۇرغان",
+    "all_recitators": "بارلىق قارىلار",
+    "downloaded": "چۈشۈردى",
+    "search_for_recitator": "قارى ئىزدەيدۇ",
+    "search_for_surah": "سۈرە ئىزدەيدۇ",
+    "search_for_fav_recitator": "ياقتۇرىدىغان قارى ئىزدەيدۇ",
+    "listen_to_quran": "قۇرئان تىڭشاش",
+    "search_hint_text": "مەسچىت ياكى شەھەر ئىزدەيدۇ",
+    "downloading": "چۈشۈرۈۋاتىدۇ",
+    "cant_download_more_than_3": "بىرلا ۋاقىتتا 3 تىن ئارتۇق چۈشۈرەلمەيدۇ.",
+    "boost": "تەشۋىق",
+    "recitation_deleted_successfully": "قىرائەت مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى",
+    "quran": "قۇرئان",
+    "qibla": "قىبلە",
+    "search": "ئىزدە",
+    "more": "كۆپ",
+    "download_cancelled": "چۈشۈرۈشتىن ۋاز كەچتى",
+    "no_virtual_mosque_found": "كەچۈرۈڭ، ئەتراپىڭىزدىن ھېچقانداق مەسچىت تاپالمىدۇق",
+    "no_surah_found": "ھېچقانداق سۈرە تېپىلمىدى",
+    "no_favorite_recitor_found": "ياقتۇرىدىغان قارى تېپىلمىدى",
+    "no_recitator_found": "قارى تېپىلمىدى",
+    "empty_quran_search": "ئىزدەش نەتىجىسى بۇ جايدا كۆرۈنىدۇ",
+    "no_bookmark_ayah": "ئىشلەتكىلى بولىدىغان ھېچقانداق خەتكۈش يوق. خەتكۈشكە قوشماقچى بولغان ئايەتنى ئۇزۇن بېسىپ تۇرۇڭ.",
+    "page": "بەت",
+    "prayer_times_in": "ناماز ۋاقتى",
+    "update_new_version": "قۇرئاننىڭ يېڭى نەشرىنى چۈشۈرگىلى بولىدۇ. «يېڭىلا» نى چېكىپ ئەڭ يېڭى نەشرىگە يېڭىلاپ، ئىلاھىي ھېكمەت سەپىرىنى داۋاملاشتۇرۇڭ",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
+    },
+    "update_latest_quran_version": "مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.",
+    "@update_latest_quran_version": {
+        "description": "-> update_latest_quran_version"
+    },
+    "update_latest_quran": "مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.",
+    "@update_latest_quran": {
+        "description": "-> update_latest_quran"
+    },
+    "set_notification_for_all_parayer": "بۇنى ھەر نامازغا تەڭشەيدۇ",
+    "@set_notification_for_all_parayer": {
+        "description": "-> set_notification_for_all_parayer_"
+    },
+    "powered_by_mawaqit": "MAWAQIT دا ياسالغان",
+    "@powered_by_mawaqit": {
+        "description": "-> powered_by_mawaqit_"
+    },
+    "adjust_hijri_date": "ھىجرىيە يىلنامىسىگە ئالماشتۇر",
+    "prayer_times_by_location": "ئورۇن ئاساسىدىكى ناماز ۋاقتى",
+    "already_in_list": "تىزىمىڭىزدا بار!",
+    "got_it": "بىلدىم!",
+    "mushaf_warsh": "تەجۋىدلىك قۇرئان (ۋەرش)",
+    "@mushaf_warsh": {
+        "description": "-> mushaf_warsh"
+    },
+    "mushaf_hafs": "تەجۋىدلىك قۇرئان (ھەفزە)",
+    "@mushaf_hafs": {
+        "description": "-> mushaf_hafs"
+    },
+    "select_rewaya": "رىۋايەت تاللىنىدۇ",
+    "@select_rewaya": {
+        "description": "-> select_rewaya"
+    },
+    "download_in_progress": "چۈشۈرۈش ئىجرا قىلىنىۋاتىدۇ، سەل كۈتۈڭ…",
+    "@download_in_progress": {
+        "description": "-> download_in_progress"
+    },
+    "highlight_next_prayer_after_Iqama": "تەكبىردىن كېيىن كېيىنكى ناماز ۋاقتىنى يورۇتىدۇ",
+    "helmi_nasr": "دوكتور ھېلمى ناسىر",
+    "settings_language_pt": "پورتۇگالچە",
+    "al_zikr": "زىكىر",
+    "favorite_azkar": "ياقتۇرىدىغان قىرائەت",
+    "all_azkar": "بارلىق قىرائەت",
+    "device_audio_not_found": "ئۈسكۈنىدە ئاۋاز تېپىلمىدى",
+    "@device_audio_not_found": {
+        "description": "-> device_audio_not_found"
+    },
+    "device_media": "ئۈسكۈنە ۋاسىتىسى",
+    "@device_media": {
+        "description": "-> device_media"
+    },
+    "add_new_audio": "يېڭى ئاۋاز ھۆججىتى قوشىدۇ",
+    "@add_new_audio": {
+        "description": "-> add_new_audio"
+    },
+    "selecet_audio_before_delete": "ئۇقتۇرۇش ئاۋازى ئۈچۈن، تاللىغان ئاۋاز ھۆججىتىنى ئۆچۈرۈشتىن ئىلگىرى باشقا بىر ئاۋاز ھۆججىتىنى يۈكلىشىڭىز كېرەك",
+    "@selecet_audio_before_delete": {
+        "description": "-> selecet_audio_before_delete"
+    },
+    "addding_file_prompt": "كۆپ ئاۋاز ھۆججىتى قوشالايسىز ئەمما ئوخشاش ئاۋاز ھۆججىتىنى قوشماسلىققا كاپالەتلىك قىلىڭ.",
+    "@addding_file_prompt": {
+        "description": "-> addding_file_prompt"
+    },
+    "ios_audio_file_picking_prompt": "داۋاملىشىش ۋاقتى 30 سېكۇنت ياكى ئۇنىڭدىن قىسقا ئاۋاز ھۆججىتىنى تاللاڭ. داۋاملىشىش ۋاقتى ئۇزۇن ئاۋاز ھۆججىتى ناماز ۋاقتى ئۇقتۇرۇشىنى ئۈزۈۋېتىشى مۇمكىن.",
+    "@ios_audio_file_picking_prompt": {
+        "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "ئۈسكۈنىدىن ئاۋاز (mp3) تاللىنىدۇ.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
+    },
+    "add_ticket": "بىلەت قوش",
+    "projects": "قۇرۇلۇش",
+    "fill_form": "بۇ جايغا قۇرۇلۇشىڭىزنى قوشۇپ بۇنى تولدۇرۇڭ",
+    "form": "جەدۋەل",
+    "updates_draw": "يېڭىلاشقا ئېرىشىپ، ساۋابقا ئېرىشىش ئۈچۈن چەك تارتىڭ",
+    "email_info": "ئەگەر چەك تارتىشتا ئۇتسىڭىز بۇ تورخەت ئالاقىلىشىشكە ئىشلىتىلىدۇ",
+    "enter_email": "تورخەت كىرگۈزۈڭ",
+    "email_privacy": "MAWAQIT بۇ تورخەتنى ھېچكىمگە ھەمبەھىرلىمەيدۇ. بۇ تورخەت ھەر قېتىملىق چەك تارتىشتىن كېيىن ساندانىمىزدىن ئۆزلۈكىدىن ئۆچۈرۈلىدۇ",
+    "submit": "تاپشۇر",
+    "disclaimer": "MAWAQIT تىزىملىكتىكى قۇرۇلۇش تەمىنلىگەن مۇلازىمەت ياكى مەھسۇلات ئۈچۈن ھېچقانداق مەسئۇلىيەتنى ئۈستىگە ئالمايدۇ. ئۆزىڭىز تەكشۈرۈپ ۋە تەتقىق قىلىڭ.",
+    "participating_with": "قاتناشقىنىڭىز",
+    "no_of_tickets": "بېلەت:",
+    "unparticipate": "قاتناشماسلىق ئۈچۈن چېكىلىدۇ",
+    "next_ticket": "كېيىنكى بېلەتنىڭ ۋاقتى",
+    "click_here": "بۇ جاي چېكىلىدۇ",
+    "mawaqit_store": "MAWAQIT دۇكىنى",
+    "no_projects": "ھېچقانداق قۇرۇلۇش يوق",
+    "draw_info": "ھەر ئايدا بىر قېتىم چەك تارتىلىدۇ. ھەر 24 سائەتتە بىر يېڭى بېلەت قوشۇپ ئۇتۇش پۇرسىتىڭىزنى ئۆستۈرەلەيسىز!",
+    "enter_valid_email": "ئىناۋەتلىك تورخەت كىرگۈزۈڭ",
+    "please_enter_email": "تورخەت كىرگۈزۈڭ",
+    "select_device_audo_for_ios_propmpt": "ئاۋاز ھۆججىتى تاللاڭ، بىز iOS بىلەن ماسلىشىدىغان پىچىمغا ئايلاندۇرۇپ،  iOS سۇپىسىنىڭ چەكلىمىسى تۈپەيلىدىن 30 سېكۇنتقا قىسقارتىمىز.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    },
+    "confirm_deletion": "ئۆچۈرۈشنى جەزملەش",
+    "sure_remove_rewaya": "بۇ رىۋايەتنى راستتىنلا چىقىرىۋېتەمسىز؟",
+    "file_not_found": "ھۆججەت تېپىلمىدى",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    },
+    "notified_boost": "MAWAQIT نى ياخشىلاش قۇرۇلۇشىنىڭ ئاخىرقى يېڭىلىنىشى ھەققىدىكى ئۇقتۇرۇشىغا ئېرىشىڭ",
+    "contact_us_boost": "قۇرۇلۇشىڭىزنى بۇ جايدا كۆرسىتىش ئۈچۈن، بىلەن بىلەن ئالاقىلىشىڭ",
+    "prayer_times_set_by_mosque": "بۇ جايدىكى ناماز ۋاقتى ۋە باشقا بارلىق ئۇچۇرنى MAWAQIT ئەمەس بەلكى مەسچىت تەڭشەيدۇ",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
+    },
+    "hasan_nahi": "ھەسەن نەھى",
+    "albanian": "ئالبانچە",
+    "delete_all": "ھەممىنى ئۆچۈر",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "بارلىق چۈشۈرۈلمىنى ئۆچۈرىدۇ",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "چۈشۈرۈلگەن بارلىق قىرائەتلەرنى راستتىنلا ئۆچۈرەمسىز؟",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "چۈشۈرۈلگەن بارلىق قىرائەت مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "بارلىق قىرائەتنى ئۆچۈرەلمىدى",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "ئەستە تۇتۇش نەتىجىسى يوق",
+    "search_title": "ماۋزۇ ئارقىلىق ئىزدە",
+    "compass_calibration": "كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. تېلېفونىڭىزنى قىيسايتىپ 8 شەكلىدە 3 قېتىم يۆتكەپ ھەرىكەتلەندۈرۈڭ",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "كومپاس دەللىكى",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "تۆۋەن",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "تەپسىر",
+    "copy": "كۆچۈر",
+    "no_tafsir": "تېخى ھېچقانداق تەپسىر چۈشۈرۈلمىگەن",
+    "download_tafsir": "تەپسىر چۈشۈر",
+    "hussary": "مەھمۇد خەلىل ئەل ھۇسسارى",
+    "hussary_mujawwad": "ئەل ھۇسسارى (مۇجاۋۋاد)",
+    "shuraim": "سەئۇد ئەل شۇرائىن",
+    "arrafai": "ھانى ئاررافائى",
+    "meaqli": "ماھەر ئەل ماقلى",
+    "afasy": "مىشارى ئەل ئافاسى",
+    "minshawi": "ئەل مىنشاۋى",
+    "abdulbasit": "ئابدۇلباسىت ئابدۇلسەمەد",
+    "abdulbasit_mujawwad": "ئابدۇلباسىت (مۇجاۋۋاد)",
+    "ghamdi": "سەئدى ئەل غامىدى",
+    "dosari": "ياسىر ئەل دوسارى",
+    "shatri": "ئەبۇ بەكر ئەششاترى",
+    "tunaiji": "خالىفە ئەل تۇنايجى",
+    "sudais": "ئابدۇلراھمان ئەلسۇدەيس",
+    "tablawi": "مۇھەممەد ئەل تابلاۋى",
+    "murattal": "مۇراتتال",
+    "mujawwad": "مۇجاۋۋاد",
+    "moallim": "ئەلمۇسشاف ئەل موللىن",
+    "play": "قوي"
+}
