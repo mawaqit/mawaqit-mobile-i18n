@@ -1522,4 +1522,28 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get play => 'چلائیں';
+
+  @override
+  String get playback_settings => 'پلے بیک ترتیبات';
+
+  @override
+  String get from => 'شروع';
+
+  @override
+  String get to => 'اختتام';
+
+  @override
+  String get range => 'حد';
+
+  @override
+  String get select_starting_verse => 'ابتدائی آیت منتخب کریں';
+
+  @override
+  String get select_ending_verse => 'اختتامی آیت منتخب کریں';
+
+  @override
+  String get range_repeat => 'حد دہرائیں';
+
+  @override
+  String get verse_repeat => 'آیت دہرائیں';
 }

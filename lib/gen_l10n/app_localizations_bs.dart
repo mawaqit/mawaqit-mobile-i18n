@@ -1522,4 +1522,28 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get play => 'Play';
+
+  @override
+  String get playback_settings => 'Postavke reprodukcije';
+
+  @override
+  String get from => 'Od';
+
+  @override
+  String get to => 'Do';
+
+  @override
+  String get range => 'Opseg';
+
+  @override
+  String get select_starting_verse => 'Odaberi početni ajet';
+
+  @override
+  String get select_ending_verse => 'Odaberi završni ajet';
+
+  @override
+  String get range_repeat => 'Ponavljaj opseg';
+
+  @override
+  String get verse_repeat => 'Ponavljaj ajet';
 }

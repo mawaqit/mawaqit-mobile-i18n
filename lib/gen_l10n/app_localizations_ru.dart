@@ -1522,4 +1522,28 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get play => 'Проиграть';
+
+  @override
+  String get playback_settings => 'Настройки воспроизведения';
+
+  @override
+  String get from => 'От';
+
+  @override
+  String get to => 'До';
+
+  @override
+  String get range => 'Диапазон';
+
+  @override
+  String get select_starting_verse => 'Выбрать начальный аят';
+
+  @override
+  String get select_ending_verse => 'Выбрать конечный аят';
+
+  @override
+  String get range_repeat => 'Повтор диапазона';
+
+  @override
+  String get verse_repeat => 'Повтор аята';
 }

@@ -1522,4 +1522,28 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get play => 'Reproducir';
+
+  @override
+  String get playback_settings => 'Configuración de reproducción';
+
+  @override
+  String get from => 'Desde';
+
+  @override
+  String get to => 'Hasta';
+
+  @override
+  String get range => 'Rango';
+
+  @override
+  String get select_starting_verse => 'Seleccionar versículo inicial';
+
+  @override
+  String get select_ending_verse => 'Seleccionar versículo final';
+
+  @override
+  String get range_repeat => 'Repetir rango';
+
+  @override
+  String get verse_repeat => 'Repetir versículo';
 }

@@ -1522,4 +1522,28 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get play => 'Afspelen';
+
+  @override
+  String get playback_settings => 'Afspeelinstellingen';
+
+  @override
+  String get from => 'Van';
+
+  @override
+  String get to => 'Tot';
+
+  @override
+  String get range => 'Bereik';
+
+  @override
+  String get select_starting_verse => 'Selecteer beginvers';
+
+  @override
+  String get select_ending_verse => 'Selecteer eindvers';
+
+  @override
+  String get range_repeat => 'Bereik herhalen';
+
+  @override
+  String get verse_repeat => 'Vers herhalen';
 }

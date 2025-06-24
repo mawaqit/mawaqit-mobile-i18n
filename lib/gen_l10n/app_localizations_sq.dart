@@ -1522,4 +1522,28 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get play => 'Play';
+
+  @override
+  String get playback_settings => 'Cilësimet e riprodhimit';
+
+  @override
+  String get from => 'Nga';
+
+  @override
+  String get to => 'Deri';
+
+  @override
+  String get range => 'Shtrirje';
+
+  @override
+  String get select_starting_verse => 'Zgjidh vargun fillestar';
+
+  @override
+  String get select_ending_verse => 'Zgjidh vargun përfundimtar';
+
+  @override
+  String get range_repeat => 'Përsërit shtrirjen';
+
+  @override
+  String get verse_repeat => 'Përsërit vargun';
 }
