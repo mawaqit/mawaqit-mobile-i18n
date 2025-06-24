@@ -27,8 +27,10 @@ import 'app_localizations_nl.dart';
 import 'app_localizations_pl.dart';
 import 'app_localizations_pt.dart';
 import 'app_localizations_ru.dart';
+import 'app_localizations_si.dart';
 import 'app_localizations_sq.dart';
 import 'app_localizations_sv.dart';
+import 'app_localizations_ta.dart';
 import 'app_localizations_tr.dart';
 import 'app_localizations_ur.dart';
 
@@ -137,8 +139,10 @@ abstract class AppLocalizations {
     Locale('pl'),
     Locale('pt'),
     Locale('ru'),
+    Locale('si'),
     Locale('sq'),
     Locale('sv'),
+    Locale('ta'),
     Locale('tr'),
     Locale('ur')
   ];
@@ -3183,7 +3187,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pl', 'pt', 'ru', 'sq', 'sv', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pl', 'pt', 'ru', 'si', 'sq', 'sv', 'ta', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -3216,8 +3220,10 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
     case 'pl': return AppLocalizationsPl();
     case 'pt': return AppLocalizationsPt();
     case 'ru': return AppLocalizationsRu();
+    case 'si': return AppLocalizationsSi();
     case 'sq': return AppLocalizationsSq();
     case 'sv': return AppLocalizationsSv();
+    case 'ta': return AppLocalizationsTa();
     case 'tr': return AppLocalizationsTr();
     case 'ur': return AppLocalizationsUr();
   }
