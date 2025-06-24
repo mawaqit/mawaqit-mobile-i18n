@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Playback Settings",
+    "from": "From",
+    "to": "To",
+    "range": "Range",
+    "select_starting_verse": "Select Starting Verse",
+    "select_ending_verse": "Select Ending Verse",
+    "range_repeat": "Range Repeat",
+    "verse_repeat": "Verse Repeat"
 }
