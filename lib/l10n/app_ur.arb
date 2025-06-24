@@ -1096,5 +1096,13 @@
     "murattal": "مرتل",
     "mujawwad": "مجوّد",
     "moallim": "المصحف المعلم",
-    "play": "چلائیں"
+    "play": "چلائیں",
+    "playback_settings": "پلے بیک ترتیبات",
+    "from": "شروع",
+    "to": "اختتام",
+    "range": "حد",
+    "select_starting_verse": "ابتدائی آیت منتخب کریں",
+    "select_ending_verse": "اختتامی آیت منتخب کریں",
+    "range_repeat": "حد دہرائیں",
+    "verse_repeat": "آیت دہرائیں"
 }

@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "De onderwijzende Mushaf",
-    "play": "Afspelen"
+    "play": "Afspelen",
+    "playback_settings": "Afspeelinstellingen",
+    "from": "Van",
+    "to": "Tot",
+    "range": "Bereik",
+    "select_starting_verse": "Selecteer beginvers",
+    "select_ending_verse": "Selecteer eindvers",
+    "range_repeat": "Bereik herhalen",
+    "verse_repeat": "Vers herhalen"
 }

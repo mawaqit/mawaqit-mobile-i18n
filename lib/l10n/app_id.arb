@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Al-Qur'an Pengajar",
-    "play": "Putar"
+    "play": "Putar",
+    "playback_settings": "Pengaturan pemutaran",
+    "from": "Dari",
+    "to": "Ke",
+    "range": "Rentang",
+    "select_starting_verse": "Pilih ayat awal",
+    "select_ending_verse": "Pilih ayat akhir",
+    "range_repeat": "Ulangi rentang",
+    "verse_repeat": "Ulangi ayat"
 }

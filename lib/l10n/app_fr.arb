@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Le Coran Enseignant",
-    "play": "Jouer"
+    "play": "Jouer",
+    "playback_settings": "Paramètres de lecture",
+    "from": "De",
+    "to": "À",
+    "range": "Plage",
+    "select_starting_verse": "Sélectionner le verset de début",
+    "select_ending_verse": "Sélectionner le verset de fin",
+    "range_repeat": "Répéter la plage",
+    "verse_repeat": "Répéter le verset"
 }

@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Postavke reprodukcije",
+    "from": "Od",
+    "to": "Do",
+    "range": "Opseg",
+    "select_starting_verse": "Odaberi početni ajet",
+    "select_ending_verse": "Odaberi završni ajet",
+    "range_repeat": "Ponavljaj opseg",
+    "verse_repeat": "Ponavljaj ajet"
 }

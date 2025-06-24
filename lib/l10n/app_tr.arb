@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Öğretici Mushaf",
-    "play": "Oynat"
+    "play": "Oynat",
+    "playback_settings": "Oynatma ayarları",
+    "from": "Başlangıç",
+    "to": "Bitiş",
+    "range": "Aralık",
+    "select_starting_verse": "Başlangıç ayetini seçin",
+    "select_ending_verse": "Bitiş ayetini seçin",
+    "range_repeat": "Aralığı tekrarla",
+    "verse_repeat": "Ayeti tekrarla"
 }

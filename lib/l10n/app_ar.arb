@@ -1096,5 +1096,13 @@
     "murattal": "مرتل",
     "mujawwad": "مجوّد",
     "moallim": "المصحف المعلم",
-    "play": "تلاوة"
+    "play": "تلاوة",
+    "playback_settings": "إعدادات التشغيل",
+    "from": "من",
+    "to": "إلى",
+    "range": "النطاق",
+    "select_starting_verse": "اختر الآية الأولى",
+    "select_ending_verse": "اختر الآية الأخيرة",
+    "range_repeat": "تكرار النطاق",
+    "verse_repeat": "تكرار الآية"
 }

@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Lejátszási beállítások",
+    "from": "Tól",
+    "to": "Ig",
+    "range": "Tartomány",
+    "select_starting_verse": "Válassza ki a kezdő verset",
+    "select_ending_verse": "Válassza ki a záró verset",
+    "range_repeat": "Tartomány megismétlése",
+    "verse_repeat": "Vers megismétlése"
 }
