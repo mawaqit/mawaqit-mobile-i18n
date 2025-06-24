@@ -742,7 +742,7 @@
     "ayah": "ئایەت",
     "quran_verses": "ئایەتەکان",
     "surah": "سورەت",
-    "continue_reading": "Continue Reading",
+    "continue_reading": "Continue reading",
     "bookmarks": "دڵخوازەکان",
     "juzz": "جوزئەکان",
     "quran_page": "پەڕە",
@@ -814,7 +814,7 @@
     "download_quran_popup_title": "کۆتا گرتەکان",
     "download_quran_popup_downloading_1": "پێویستە لاپەڕەکانی قورئان دابەزێنین، تەنها چەند چرکەیەکی دەوێت. ئێمە ئینتەرنێتی داتای مۆبایلەکەت بەکاردەهێنین، ئەگەر پێویست بوو بگۆڕین بۆ وای فای.",
     "download_quran_popup_downloading_2": "ئێمە قورئان ئامادە دەکەین تەنها بۆ ئێوە، تکایە چەند چرکەیەک چاوەڕوان بن!",
-    "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
+    "download_quran_popup_downloading_3": "Click on 'Download' to start your journey of reading and reflection.",
     "download_quran_popup_confirm_cancel": "دڵنیای کە دەتەوێت دابەزاندنەکە هەڵبوەشێنیتەوە؟ بەبێ ئەم داتایە ناتوانیت قورئان بخوێنیتەوە، لاپەڕەکان بەردەست نابن.",
     "download_quran_popup_cancelled": "شتێک بە هەڵەدا چووە، تکایە دووبارە دوگمەی دابەزاندنەکە لێبدە!",
     "download": "داگرتن",
@@ -924,19 +924,19 @@
     "no_bookmark_ayah": "هیچ دڵخوازێک نیە. تکایە ماوەیەک پەنجە لەسەر ئەو ئایەتە بهێڵەوە کە دەتەوێت وەک دڵخواز دیاری بکەیت.",
     "page": "پەڕە",
     "prayer_times_in": "کاتەکانی بانگ لە",
-    "update_new_version": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_quran_zip": "وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە 'نوێکردنەوە' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran_version": "وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە 'نوێکردنەوە' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran": "وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە 'نوێکردنەوە' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
@@ -1060,8 +1060,8 @@
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "هیچ ئەنجامی بیرەوەری نەدۆزرایەوە\t",
-    "search_title": "گەڕان بە بەکارهێنانی ناونیشان",
+    "no_azkar_result": "No remembrance results available",
+    "search_title": "Lêgerîn bi ser navê ve",
     "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
     "@compass_calibration": {
         "description": "-> compass_calibration"
@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Playback Settings",
+    "from": "From",
+    "to": "To",
+    "range": "Range",
+    "select_starting_verse": "Select Starting Verse",
+    "select_ending_verse": "Select Ending Verse",
+    "range_repeat": "Range Repeat",
+    "verse_repeat": "Verse Repeat"
 }
