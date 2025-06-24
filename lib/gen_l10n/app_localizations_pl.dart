@@ -1522,4 +1522,28 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get play => 'Odtwórz';
+
+  @override
+  String get playback_settings => 'Ustawienia odtwarzania';
+
+  @override
+  String get from => 'Od';
+
+  @override
+  String get to => 'Do';
+
+  @override
+  String get range => 'Zakres';
+
+  @override
+  String get select_starting_verse => 'Wybierz werset początkowy';
+
+  @override
+  String get select_ending_verse => 'Wybierz werset końcowy';
+
+  @override
+  String get range_repeat => 'Powtarzaj zakres';
+
+  @override
+  String get verse_repeat => 'Powtarzaj werset';
 }

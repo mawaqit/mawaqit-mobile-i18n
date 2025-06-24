@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Reproduzir"
+    "play": "Reproduzir",
+    "playback_settings": "Configurações de reprodução",
+    "from": "De",
+    "to": "Para",
+    "range": "Intervalo",
+    "select_starting_verse": "Selecionar versículo inicial",
+    "select_ending_verse": "Selecionar versículo final",
+    "range_repeat": "Repetir intervalo",
+    "verse_repeat": "Repetir versículo"
 }

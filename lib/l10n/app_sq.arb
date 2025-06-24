@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Cilësimet e riprodhimit",
+    "from": "Nga",
+    "to": "Deri",
+    "range": "Shtrirje",
+    "select_starting_verse": "Zgjidh vargun fillestar",
+    "select_ending_verse": "Zgjidh vargun përfundimtar",
+    "range_repeat": "Përsërit shtrirjen",
+    "verse_repeat": "Përsërit vargun"
 }

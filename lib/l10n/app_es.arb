@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "El Mus'haf Enseñante",
-    "play": "Reproducir"
+    "play": "Reproducir",
+    "playback_settings": "Configuración de reproducción",
+    "from": "Desde",
+    "to": "Hasta",
+    "range": "Rango",
+    "select_starting_verse": "Seleccionar versículo inicial",
+    "select_ending_verse": "Seleccionar versículo final",
+    "range_repeat": "Repetir rango",
+    "verse_repeat": "Repetir versículo"
 }

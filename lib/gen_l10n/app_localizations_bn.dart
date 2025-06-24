@@ -1522,4 +1522,28 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get play => 'চালান';
+
+  @override
+  String get playback_settings => 'প্লেব্যাক সেটিংস';
+
+  @override
+  String get from => 'থেকে';
+
+  @override
+  String get to => 'প্রতি';
+
+  @override
+  String get range => 'পরিসর';
+
+  @override
+  String get select_starting_verse => 'শুরু আয়াত নির্বাচন করুন';
+
+  @override
+  String get select_ending_verse => 'শেষ আয়াত নির্বাচন করুন';
+
+  @override
+  String get range_repeat => 'পরিসর পুনরাবৃত্তি';
+
+  @override
+  String get verse_repeat => 'আয়াত পুনরাবৃত্তি';
 }

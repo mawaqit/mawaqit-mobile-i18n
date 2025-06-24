@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Der lehrende Mushaf",
-    "play": "Abspielen"
+    "play": "Abspielen",
+    "playback_settings": "Wiedergabeeinstellungen",
+    "from": "Von",
+    "to": "Bis",
+    "range": "Bereich",
+    "select_starting_verse": "Anfangsvers auswählen",
+    "select_ending_verse": "Endvers auswählen",
+    "range_repeat": "Bereich wiederholen",
+    "verse_repeat": "Vers wiederholen"
 }

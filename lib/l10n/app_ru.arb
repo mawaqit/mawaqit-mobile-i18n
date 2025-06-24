@@ -1096,5 +1096,13 @@
     "murattal": "Муратталь",
     "mujawwad": "Муджавад",
     "moallim": "Обучающий Мусхаф",
-    "play": "Проиграть"
+    "play": "Проиграть",
+    "playback_settings": "Настройки воспроизведения",
+    "from": "От",
+    "to": "До",
+    "range": "Диапазон",
+    "select_starting_verse": "Выбрать начальный аят",
+    "select_ending_verse": "Выбрать конечный аят",
+    "range_repeat": "Повтор диапазона",
+    "verse_repeat": "Повтор аята"
 }

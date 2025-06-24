@@ -1522,4 +1522,28 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get play => 'Play';
+
+  @override
+  String get playback_settings => 'Lejátszási beállítások';
+
+  @override
+  String get from => 'Tól';
+
+  @override
+  String get to => 'Ig';
+
+  @override
+  String get range => 'Tartomány';
+
+  @override
+  String get select_starting_verse => 'Válassza ki a kezdő verset';
+
+  @override
+  String get select_ending_verse => 'Válassza ki a záró verset';
+
+  @override
+  String get range_repeat => 'Tartomány megismétlése';
+
+  @override
+  String get verse_repeat => 'Vers megismétlése';
 }

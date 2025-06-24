@@ -1522,4 +1522,28 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get play => 'Jouer';
+
+  @override
+  String get playback_settings => 'Paramètres de lecture';
+
+  @override
+  String get from => 'De';
+
+  @override
+  String get to => 'À';
+
+  @override
+  String get range => 'Plage';
+
+  @override
+  String get select_starting_verse => 'Sélectionner le verset de début';
+
+  @override
+  String get select_ending_verse => 'Sélectionner le verset de fin';
+
+  @override
+  String get range_repeat => 'Répéter la plage';
+
+  @override
+  String get verse_repeat => 'Répéter le verset';
 }

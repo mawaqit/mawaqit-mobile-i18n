@@ -1522,4 +1522,28 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get play => 'Oynat';
+
+  @override
+  String get playback_settings => 'Oynatma ayarları';
+
+  @override
+  String get from => 'Başlangıç';
+
+  @override
+  String get to => 'Bitiş';
+
+  @override
+  String get range => 'Aralık';
+
+  @override
+  String get select_starting_verse => 'Başlangıç ayetini seçin';
+
+  @override
+  String get select_ending_verse => 'Bitiş ayetini seçin';
+
+  @override
+  String get range_repeat => 'Aralığı tekrarla';
+
+  @override
+  String get verse_repeat => 'Ayeti tekrarla';
 }

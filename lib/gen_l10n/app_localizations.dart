@@ -3176,6 +3176,54 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Play'**
   String get play;
+
+  /// No description provided for @playback_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Playback Settings'**
+  String get playback_settings;
+
+  /// No description provided for @from.
+  ///
+  /// In en, this message translates to:
+  /// **'From'**
+  String get from;
+
+  /// No description provided for @to.
+  ///
+  /// In en, this message translates to:
+  /// **'To'**
+  String get to;
+
+  /// No description provided for @range.
+  ///
+  /// In en, this message translates to:
+  /// **'Range'**
+  String get range;
+
+  /// No description provided for @select_starting_verse.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Starting Verse'**
+  String get select_starting_verse;
+
+  /// No description provided for @select_ending_verse.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Ending Verse'**
+  String get select_ending_verse;
+
+  /// No description provided for @range_repeat.
+  ///
+  /// In en, this message translates to:
+  /// **'Range Repeat'**
+  String get range_repeat;
+
+  /// No description provided for @verse_repeat.
+  ///
+  /// In en, this message translates to:
+  /// **'Verse Repeat'**
+  String get verse_repeat;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

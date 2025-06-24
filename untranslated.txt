@@ -1,1 +1,122 @@
-{}
+{
+  "az": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "bg": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "bm": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "ff": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "fi": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "hi": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "ku": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "ms": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "si": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "sv": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ],
+
+  "ta": [
+    "playback_settings",
+    "from",
+    "to",
+    "range",
+    "select_starting_verse",
+    "select_ending_verse",
+    "range_repeat",
+    "verse_repeat"
+  ]
+}

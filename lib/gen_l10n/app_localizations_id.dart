@@ -1522,4 +1522,28 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get play => 'Putar';
+
+  @override
+  String get playback_settings => 'Pengaturan pemutaran';
+
+  @override
+  String get from => 'Dari';
+
+  @override
+  String get to => 'Ke';
+
+  @override
+  String get range => 'Rentang';
+
+  @override
+  String get select_starting_verse => 'Pilih ayat awal';
+
+  @override
+  String get select_ending_verse => 'Pilih ayat akhir';
+
+  @override
+  String get range_repeat => 'Ulangi rentang';
+
+  @override
+  String get verse_repeat => 'Ulangi ayat';
 }

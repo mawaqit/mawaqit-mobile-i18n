@@ -1522,4 +1522,28 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get play => 'Play';
+
+  @override
+  String get playback_settings => 'Playback Settings';
+
+  @override
+  String get from => 'From';
+
+  @override
+  String get to => 'To';
+
+  @override
+  String get range => 'Range';
+
+  @override
+  String get select_starting_verse => 'Select Starting Verse';
+
+  @override
+  String get select_ending_verse => 'Select Ending Verse';
+
+  @override
+  String get range_repeat => 'Range Repeat';
+
+  @override
+  String get verse_repeat => 'Verse Repeat';
 }

@@ -1522,4 +1522,28 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get play => 'Reproduzir';
+
+  @override
+  String get playback_settings => 'Configurações de reprodução';
+
+  @override
+  String get from => 'De';
+
+  @override
+  String get to => 'Para';
+
+  @override
+  String get range => 'Intervalo';
+
+  @override
+  String get select_starting_verse => 'Selecionar versículo inicial';
+
+  @override
+  String get select_ending_verse => 'Selecionar versículo final';
+
+  @override
+  String get range_repeat => 'Repetir intervalo';
+
+  @override
+  String get verse_repeat => 'Repetir versículo';
 }

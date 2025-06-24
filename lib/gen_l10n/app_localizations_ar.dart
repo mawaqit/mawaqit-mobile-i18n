@@ -1522,4 +1522,28 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get play => 'تلاوة';
+
+  @override
+  String get playback_settings => 'إعدادات التشغيل';
+
+  @override
+  String get from => 'من';
+
+  @override
+  String get to => 'إلى';
+
+  @override
+  String get range => 'النطاق';
+
+  @override
+  String get select_starting_verse => 'اختر الآية الأولى';
+
+  @override
+  String get select_ending_verse => 'اختر الآية الأخيرة';
+
+  @override
+  String get range_repeat => 'تكرار النطاق';
+
+  @override
+  String get verse_repeat => 'تكرار الآية';
 }

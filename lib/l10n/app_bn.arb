@@ -1096,5 +1096,13 @@
     "murattal": "মুরাত্তাল",
     "mujawwad": "মুজাওয়াদ",
     "moallim": "আল-মুসহাফ আল-মু‘াল্লিম",
-    "play": "চালান"
+    "play": "চালান",
+    "playback_settings": "প্লেব্যাক সেটিংস",
+    "from": "থেকে",
+    "to": "প্রতি",
+    "range": "পরিসর",
+    "select_starting_verse": "শুরু আয়াত নির্বাচন করুন",
+    "select_ending_verse": "শেষ আয়াত নির্বাচন করুন",
+    "range_repeat": "পরিসর পুনরাবৃত্তি",
+    "verse_repeat": "আয়াত পুনরাবৃত্তি"
 }
