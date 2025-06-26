@@ -1524,7 +1524,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get play => 'تلاوة';
 
   @override
-  String get playback_settings => 'إعدادات التشغيل';
+  String get playback_settings => 'إعدادات التلاوة';
 
   @override
   String get from => 'من';

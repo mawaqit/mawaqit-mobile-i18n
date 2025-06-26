@@ -1524,26 +1524,26 @@ class AppLocalizationsSv extends AppLocalizations {
   String get play => 'Spela';
 
   @override
-  String get playback_settings => 'Playback Settings';
+  String get playback_settings => 'Inställningar för uppspelning';
 
   @override
-  String get from => 'From';
+  String get from => 'Från';
 
   @override
-  String get to => 'To';
+  String get to => 'Till';
 
   @override
   String get range => 'Range';
 
   @override
-  String get select_starting_verse => 'Select Starting Verse';
+  String get select_starting_verse => 'Välj Start Verse';
 
   @override
-  String get select_ending_verse => 'Select Ending Verse';
+  String get select_ending_verse => 'Välj avslutningsvers';
 
   @override
-  String get range_repeat => 'Range Repeat';
+  String get range_repeat => 'Upprepa intervall';
 
   @override
-  String get verse_repeat => 'Verse Repeat';
+  String get verse_repeat => 'Upprepa vers';
 }

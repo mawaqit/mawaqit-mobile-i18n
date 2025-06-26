@@ -1524,26 +1524,26 @@ class AppLocalizationsFi extends AppLocalizations {
   String get play => 'Toista';
 
   @override
-  String get playback_settings => 'Playback Settings';
+  String get playback_settings => 'Soiton Asetukset';
 
   @override
-  String get from => 'From';
+  String get from => 'Alkaen';
 
   @override
-  String get to => 'To';
+  String get to => 'Vastaanottaja';
 
   @override
   String get range => 'Range';
 
   @override
-  String get select_starting_verse => 'Select Starting Verse';
+  String get select_starting_verse => 'Valitse Aloitusjae';
 
   @override
-  String get select_ending_verse => 'Select Ending Verse';
+  String get select_ending_verse => 'Valitse Päättyvä Jae';
 
   @override
-  String get range_repeat => 'Range Repeat';
+  String get range_repeat => 'Vaihteluvälin Toisto';
 
   @override
-  String get verse_repeat => 'Verse Repeat';
+  String get verse_repeat => 'Jae Toisto';
 }
