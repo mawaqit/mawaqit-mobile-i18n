@@ -1449,7 +1449,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
 
   @override
-  String get compass_accuracy => 'Compass Accuracy';
+  String get compass_accuracy => 'ووردی قیبلە نامە';
 
   @override
   String get low => 'Low';
@@ -1545,5 +1545,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get range_repeat => 'Range Repeat';
 
   @override
-  String get verse_repeat => 'Verse Repeat';
+  String get verse_repeat => 'دووبارە کردنەوەی ئایەت';
 }
