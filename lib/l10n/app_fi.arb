@@ -1096,5 +1096,13 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Toista"
+    "play": "Toista",
+    "playback_settings": "Soiton Asetukset",
+    "from": "Alkaen",
+    "to": "Vastaanottaja",
+    "range": "Range",
+    "select_starting_verse": "Valitse Aloitusjae",
+    "select_ending_verse": "Valitse Päättyvä Jae",
+    "range_repeat": "Vaihteluvälin Toisto",
+    "verse_repeat": "Jae Toisto"
 }
