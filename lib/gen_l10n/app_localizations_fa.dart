@@ -132,31 +132,31 @@ class AppLocalizationsFa extends AppLocalizations {
   String get settings_language_pl => 'لهستانی';
 
   @override
-  String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
+  String get settings_CreditsText => 'حق نشر و مالکیت معنوی\n\nکپی‌رایت © ۲۰۲۱ برای مواقیت متعلق به بنیاد مواقیت، تمامی حقوق محفوظ است.\nمالکیت معنوی و حقوق کپی‌رایت این برنامه، افزونه‌ها، افزودنی‌ها یا محتوای آن متعلق به مواقیت برای انجمن مواقیت است.\nاین نسخه از برنامه تنها برای توزیع خیریه و به عنوان وقف مجاز است. هرگونه استفاده یا توزیع تجاری اکیداً ممنوع است.\nاین مجوز به هیچ عنوان به معنی فروش یا واگذاری هیچ‌یک از حقوق مربوط به این محصول یا اجزای آن، افزونه‌ها، افزودنی‌ها یا محتوا نمی‌باشد. بلکه فقط اجازه توزیع خیریه از طریق پلتفرم فعلی فروشگاه‌های اپلیکیشن را می‌دهد.\n\n محدودیت‌ها و ممنوعیت‌ها:\nتوزیع مجدد برنامه، چه از طریق کد منبع یا فایل‌های باینری، یا مهندسی معکوس آن، چه با تغییرات و چه بدون آن، تخلف از کپی‌رایت محسوب می‌شود و فرد متخلف در معرض پیگرد قانونی قرار می‌گیرد.\nهیچ شخصی حق ندارد این برنامه را خارج از فروشگاه‌های رسمی اپل یا گوگل پلی بدون کسب مجوز رسمی کتبی از صاحب کپی‌رایت، یعنی مواقیت، توزیع کند. این کار نقض قانون حمایت از مالکیت فکری است و مسئول آن در معرض اقدامات قانونی قرار خواهد گرفت.\nاستفاده از نام برنامه، برند، نشان تجاری، یا نام صاحب کپی‌رایت مواقیت برای تبلیغ محصولات مشابه یا مشتق‌شده از این برنامه، یا هر محصول دیگر، بدون کسب اجازه کتبی قبلی ممنوع است.\n\n سلب مسئولیت:\nاین برنامه به همان صورت که هست (\"as is\") توسط مالکین و سهام‌داران منتشر شده است.\nشرکت توسعه‌دهنده و مالک برنامه هیچگونه ضمانت صریح یا ضمنی ارائه نمی‌دهد؛ از جمله ولی نه محدود به ضمانت کاربرد برنامه برای اهداف خاص یا تجاری.\nدر هیچ حالتی، بنیاد مواقیت یا سهام‌داران آن، در برابر هیچ‌گونه خسارتی مسئول نیستند؛ چه مستقیم، چه غیرمستقیم یا اتفاقی، از جمله اما نه محدود به:\nاز دست رفتن داده‌ها\nقطع فعالیت‌های تجاری\nاز دست رفتن سود\nیا سایر زیان‌ها (خواه بر اساس قرارداد، تقصیر، سهل‌انگاری یا دلایل دیگر)\n\n حقوق اشخاص ثالث:\nحقوق کپی‌رایت مربوط به هرگونه محتوای اشخاص ثالث داخل برنامه محفوظ بوده و متعلق به صاحبان آن است.\n\nتصاویر و پس‌زمینه‌ها:\nتصاویر: کپی‌رایت متعلق به Shutterstock است.\nآیکون‌ها: تحت مجوز Creative Commons BY 4.0 از Flaticon استفاده شده است.\nفایل‌های غیرفونت و غیرآیکون تحت مجوز MIT هستند.\nفونت‌ها: Roboto از Google Fonts تحت مجوز SIL Open Font License 1.1 (OFL) منتشر شده‌اند.\nبسته‌های Cupertino متعلق به شرکت Apple هستند.\n\n کد، بسته‌ها و چارچوب‌ها:\nبرنامه با استفاده از فریم‌ورک Flutter از Google توسعه یافته است و شامل بسته‌های زیر است:\n\nhttp\n\ngeolocator\n\nflutter_platform_widgets\n\nshared_preferences\n\nprovider\n\nflutter_local_notifications\n\naudioplayers\n\ntoggle_switch\n\ncupertino_icons\n\nmarquee_widget\n\nintl\n\nflutter_switch\n\njson_annotation';
 
   @override
-  String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
+  String get settings_AboutUsText => 'این برنامه توسط انجمن MAWAQIT توسعه داده شده است.\n\nانجمن MAWAQIT یک سازمان غیرانتفاعی است که در سال ۲۰۲۱ در فرانسه تأسیس شد. هدف ما توسعه راه‌حل‌های نوآورانه در زمینه فناوری اطلاعات و فناوری دیجیتال، مانند نرم‌افزارها و وب‌سایت‌ها، و همچنین آموزش و تربیت در زمینه راه‌حل‌های دیجیتال و ابزارهای IT است.\n\nاکوسیستم MAWAQIT محصول اصلی ما است و داستان آن از سال ۲۰۱۶ آغاز شد، با یک برنامه برای صفحه‌نمایش‌های بزرگ مختص مساجد، سپس یک اپلیکیشن موبایل، افزونه دستیار خانگی و مهارت الکسا، و غیره.\n\nMAWAQIT راهی جدید برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. در واقع، ما یک سیستم جامع فراهم می‌آوریم که به مدیران مساجد ابزاری آنلاین و در دسترس ۲۴ ساعته ارائه می‌دهد تا بتوانند برنامه‌ها، اخبار مساجد و بسیاری ویژگی‌های دیگر را مدیریت کنند. از سوی دیگر، مومنان از طریق یک اپلیکیشن موبایل می‌توانند برنامه‌های دقیق نه تقریبی مسجد مورد علاقه خود را مشاهده کرده و از اخبار و سایر امکانات مانند جستجوی مسجد با استفاده از موقعیت مکانی، اذان، قبله و غیره بهره‌مند شوند. ما قابلیت اطمینان و کیفیت را به عنوان ارزش‌های اصلی خود قرار داده‌ایم. هدف ما روشن است: ساخت بهترین خدمت برای مساجد با استفاده از فناوری و طراحی.\n\nاگر از این برنامه خوشتان آمده است، لطفاً نظر خود را در فروشگاه مربوطه به اشتراک بگذارید.';
 
   @override
-  String get fajr => 'Fajr';
+  String get fajr => 'صبح';
 
   @override
-  String get shuruq => 'Sunrise';
+  String get shuruq => 'طلوع آفتاب';
 
   @override
-  String get duhr => 'Duhr';
+  String get duhr => 'ظهر';
 
   @override
-  String get asr => 'Asr';
+  String get asr => 'عصر';
 
   @override
-  String get maghrib => 'Maghrib';
+  String get maghrib => 'مغرب';
 
   @override
-  String get isha => 'Isha';
+  String get isha => 'عشا';
 
   @override
-  String get sabah => 'Sabah';
+  String get sabah => 'صباح';
 
   @override
   String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
@@ -309,154 +309,154 @@ class AppLocalizationsFa extends AppLocalizations {
   String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
 
   @override
-  String get jumua1 => 'Jum\'a 1';
+  String get jumua1 => 'جمعه\"1';
 
   @override
-  String get prayer_times => 'Prayer times';
+  String get prayer_times => 'اوقات نماز';
 
   @override
-  String get remove_this_city => 'Remove this city';
+  String get remove_this_city => 'این شهر را حذف کن';
 
   @override
-  String get add_this_city => 'Add this city';
+  String get add_this_city => 'این شهر را اضافه کن';
 
   @override
-  String get add_this_mosque => 'Add this mosque';
+  String get add_this_mosque => 'این مسجد را اضافه کن';
 
   @override
-  String get remove_this_mosque => 'Remove this mosque';
+  String get remove_this_mosque => 'این مسجد را حذف کن';
 
   @override
-  String get services => 'Services';
+  String get services => 'سرویس‌ها';
 
   @override
-  String get share => 'Share';
+  String get share => 'اشتراک گذاشتن';
 
   @override
-  String get itinerary => 'Itinerary';
+  String get itinerary => 'برنامه سفر';
 
   @override
-  String get call => 'Call';
+  String get call => 'تماس بگیرید';
 
   @override
-  String get dnd => 'Do Not Disturb';
+  String get dnd => 'مزاحم نشوید';
 
   @override
-  String get battery_optimize => 'Battery Optimization';
+  String get battery_optimize => 'بهینه‌سازی مصرف باتری';
 
   @override
-  String get power_saver => 'Power Saver';
+  String get power_saver => 'بهینه‌ساز باتری';
 
   @override
-  String get permission_message1 => 'We detected a delayed notification, Please turn off';
+  String get permission_message1 => 'ما یک اعلان با تأخیر شناسایی کردیم، لطفاً آن را غیرفعال کنید';
 
   @override
-  String get permission_message2 => 'to receive the notification on time.';
+  String get permission_message2 => 'تا اعلان را به‌موقع دریافت کنید.';
 
   @override
-  String get notifications_delay_detected => 'Notifications delay detected';
+  String get notifications_delay_detected => 'تاخیر در دریافت اعلان‌ها تشخیص داده شد';
 
   @override
-  String get open_setting => 'Open settings';
+  String get open_setting => 'تنظیمات را باز کنید';
 
   @override
-  String get noJumua => 'No jum\'a';
+  String get noJumua => 'جمعه نیست';
 
   @override
-  String get jumua => 'Jum\'a';
+  String get jumua => 'جمعه\"';
 
   @override
-  String get qibla_sensor => 'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.';
+  String get qibla_sensor => 'حسگری که دستگاه شما برای تعیین قبله توسط مواقیت استفاده می‌کند، به‌درستی کار نمی‌کند و این موضوع بر توانایی ما در نمایش جهت قبله تأثیر گذاشته است.';
 
   @override
-  String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
+  String get connection_not_found => 'تنظیم کالیبره‌کردن قطب‌نما غیرفعال است. لطفاً مطمئن شوید اتصال شما روشن است و با تغییر جهت، دوباره تلاش کنید.';
 
   @override
-  String get currently_located_at => 'Currently located at';
+  String get currently_located_at => 'مکان فعلی';
 
   @override
-  String get facing_makkah => 'You\'re facing Makkah';
+  String get facing_makkah => 'شما در جهت مکه قرار دارید';
 
   @override
-  String get not_facing_Makkah => 'You\'re not facing Makkah';
+  String get not_facing_Makkah => 'شما در جهت مکه قرار ندارید';
 
   @override
-  String get qibla_Error_retry => 'Retry';
+  String get qibla_Error_retry => 'تلاش مجدد';
 
   @override
-  String get qibla_Error_LocationDenied => 'Location service permission denied';
+  String get qibla_Error_LocationDenied => 'مجوز دسترسی به موقعیت مکانی داده نشده است';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'Location service Denied Forever !';
+  String get qibla_Error_LocationDeniedForever => 'مجوز دسترسی به موقعیت مکانی به‌طور دائمی رد شده است!';
 
   @override
-  String get qibla_Error_PleaseEnable => 'Please enable Location service';
+  String get qibla_Error_PleaseEnable => 'لطفاً سرویس مکان یاب را فعال کنید';
 
   @override
-  String get qibla_Direction => 'QIBLA \nDIRECTION';
+  String get qibla_Direction => 'جهت قبله';
 
   @override
-  String get favorites_FavoriteMosques => 'Favorites mosques';
+  String get favorites_FavoriteMosques => 'مساجد مورد علاقه';
 
   @override
-  String get favorites_Error => 'Something went wrong...';
+  String get favorites_Error => 'خطایی رخ داده است...';
 
   @override
-  String get announcement_Image => 'Image';
+  String get announcement_Image => 'تصویر';
 
   @override
-  String get announcement_Type_Video => 'Video';
+  String get announcement_Type_Video => 'ویدیو';
 
   @override
-  String get announcement_Type_FlashInfo => 'Flash Info';
+  String get announcement_Type_FlashInfo => 'خبر فوری';
 
   @override
-  String get mosque_DonateText1 => 'DONATE';
+  String get mosque_DonateText1 => 'حمایت مالی';
 
   @override
-  String get mosque_DonateText2 => 'TO MOSQUE';
+  String get mosque_DonateText2 => 'به مسجد';
 
   @override
-  String get mosque_Error_CouldNotLaunch => 'Could not launch';
+  String get mosque_Error_CouldNotLaunch => 'راه‌اندازی انجام نشد';
 
   @override
-  String get mosque_PrayerTimes => 'Prayer times';
+  String get mosque_PrayerTimes => 'اوقات نماز';
 
   @override
-  String get mosque_Website => 'Website';
+  String get mosque_Website => 'وب سایت';
 
   @override
-  String get mosque_Address => 'Address';
+  String get mosque_Address => 'آدرس';
 
   @override
-  String get mosque_Phone => 'Phone';
+  String get mosque_Phone => 'تلفن';
 
   @override
-  String get mosque_Email => 'Email';
+  String get mosque_Email => 'ایمیل';
 
   @override
-  String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
+  String get mosque_ByMawaqit => 'از طرف مواقیت https://mawaqit.net';
 
   @override
-  String get mosque_Facilities_Parking => 'Parking';
+  String get mosque_Facilities_Parking => 'پارکینگ';
 
   @override
-  String get mosque_Facilities_DisabledAccess => 'Disabled Access';
+  String get mosque_Facilities_DisabledAccess => 'دسترسی برای افراد دارای معلولیت';
 
   @override
-  String get mosque_Facilities_AblutionsRoom => 'Ablution Room';
+  String get mosque_Facilities_AblutionsRoom => 'وضوخانه';
 
   @override
-  String get mosque_Facilities_WomanSpace => 'Women Space';
+  String get mosque_Facilities_WomanSpace => 'مسجد زنانه';
 
   @override
-  String get mosque_Facilities_AdultsCourse => 'Adults Courses';
+  String get mosque_Facilities_AdultsCourse => 'کلاس‌های ویژه بزرگسالان';
 
   @override
-  String get mosque_Facilities_ChildrenCourses => 'Children Courses';
+  String get mosque_Facilities_ChildrenCourses => 'کلاس‌های ویژه کودکان';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
+  String get mosque_Facilities_SalatAlAid => 'نماز عید';
 
   @override
   String get mosque_Facilities_SalatAlJanaza => 'Salat Al Janaza';
@@ -609,85 +609,85 @@ class AppLocalizationsFa extends AppLocalizations {
   String get adhan_Makkah => 'Makkah';
 
   @override
-  String get tutorial_title_iqama => 'Iqama';
+  String get tutorial_title_iqama => 'اقامه';
 
   @override
-  String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
+  String get tutorial_text_iqama => 'مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید';
 
   @override
-  String get calendar_tooltip_download => 'Download calendar';
+  String get calendar_tooltip_download => 'دانلود تقویم';
 
   @override
-  String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
+  String get calendar_download_permission_refused => 'مجوز دانلود به‌صورت دائم رد شده است، لطفاً دانلود را مجاز کنید';
 
   @override
-  String get calendar_downloading => 'Downloading calendar...';
+  String get calendar_downloading => 'دانلود تقویم...';
 
   @override
-  String get location_service_disabled => 'Location Service is disabled, please enable it.';
+  String get location_service_disabled => 'خدمات موقعیت مکانی غیرفعال است، لطفاً آن را فعال کنید.';
 
   @override
-  String get location_permission_denied => 'Location Permission Denied, please allow it.';
+  String get location_permission_denied => 'مجوز دسترسی به موقعیت مکانی رد شده است، لطفاً آن را فعال کنید.';
 
   @override
-  String get location_permission_denied_forever => 'Location Permission Denied Forever, please allow it in the settings page.';
+  String get location_permission_denied_forever => 'مجوز دسترسی به موقعیت مکانی برای همیشه رد شده است، لطفاً در صفحه تنظیمات آن را فعال کنید.';
 
   @override
-  String get at_least_one_mosque_error => 'You should have at least one mosque.';
+  String get at_least_one_mosque_error => 'شما باید حداقل یک مسجد داشته باشید.';
 
   @override
-  String get and => 'and';
+  String get and => 'و';
 
   @override
-  String get continue_to_app => 'Continue';
+  String get continue_to_app => 'ادامه دادن';
 
   @override
-  String get add => 'Add';
+  String get add => 'اضافه کردن';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'مسجد';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'بیایید نزدیک‌ترین مسجد را پیدا کنیم';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'Here are the mosques found around you according to your geolocation';
+  String get on_boarding_nearest_mosque_text => 'مساجد اطراف شما بر اساس موقعیت مکانی شما در اینجا نمایش داده شده‌اند';
 
   @override
-  String get search_no_result_for_text => 'We did not find any result for';
+  String get search_no_result_for_text => 'هیچ نتیجه‌ای پیدا نکردیم';
 
   @override
-  String get surah_audio_downloading => 'Surah Audio Downloading...';
+  String get surah_audio_downloading => 'در حال دانلود فایل صوتی سوره...';
 
   @override
-  String get msg_internet_connection => 'You don\'t have any internet connection';
+  String get msg_internet_connection => 'اتصال اینترنت شما قطع است';
 
   @override
-  String get read_quran => 'Read Quran';
+  String get read_quran => 'قران بخوان';
 
   @override
-  String get ayahs => 'Ayahs';
+  String get ayahs => 'آیات';
 
   @override
-  String get chapter => 'Surah';
+  String get chapter => 'سورة';
 
   @override
-  String get meaning => 'Meaning';
+  String get meaning => 'به معنای';
 
   @override
-  String get al_quran => 'Al Quran';
+  String get al_quran => 'قران';
 
   @override
-  String get surah_information => 'Surah Information';
+  String get surah_information => 'اطلاعات سورة';
 
   @override
-  String get surah_number => 'Surah Number';
+  String get surah_number => 'شماره سورة';
 
   @override
-  String get quran_browsing => 'Browsing';
+  String get quran_browsing => 'مرور';
 
   @override
-  String get quran_search_placeholder => 'Search by name of surah, number...';
+  String get quran_search_placeholder => 'جستجوی نام ، شماره و... سورة...';
 
   @override
   String get quran_verse_search => 'Verse search';
