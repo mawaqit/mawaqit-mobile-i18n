@@ -690,73 +690,73 @@ class AppLocalizationsFa extends AppLocalizations {
   String get quran_search_placeholder => 'جستجوی نام ، شماره و... سورة...';
 
   @override
-  String get quran_verse_search => 'Verse search';
+  String get quran_verse_search => 'جستجوی آیه';
 
   @override
-  String get quran_translation => 'Translation';
+  String get quran_translation => 'ترجمه';
 
   @override
-  String get quran_mushaf => 'Mushaf';
+  String get quran_mushaf => 'قران';
 
   @override
-  String get quran_juzz => 'Juzz';
+  String get quran_juzz => 'جز';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'آيه';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'آيات';
 
   @override
-  String get surah => 'Surah';
+  String get surah => 'سورة';
 
   @override
-  String get continue_reading => 'Continue reading';
+  String get continue_reading => 'ادامه مطلب';
 
   @override
-  String get bookmarks => 'Bookmarks';
+  String get bookmarks => 'نشانک ها';
 
   @override
-  String get juzz => 'Juzz';
+  String get juzz => 'جز';
 
   @override
-  String get quran_page => 'Page';
+  String get quran_page => 'صفحه';
 
   @override
-  String get quran_turning_page => 'Turning page';
+  String get quran_turning_page => 'ورق زدن صفحه';
 
   @override
-  String get quran_from_right_to_left => 'From right to left';
+  String get quran_from_right_to_left => 'از راست به چپ';
 
   @override
-  String get quran_from_left_to_right => 'From left to right';
+  String get quran_from_left_to_right => 'از چپ به راست';
 
   @override
-  String get quran_from_top_to_bottom => 'From top to bottom';
+  String get quran_from_top_to_bottom => 'از بالا به پایین';
 
   @override
-  String get quran_from_bottom_to_top => 'From bottom to top';
+  String get quran_from_bottom_to_top => 'از پایین به بالا';
 
   @override
-  String get quran_pages_color => 'Pages color';
+  String get quran_pages_color => 'رنگ صفحه';
 
   @override
-  String get english_tr => 'English';
+  String get english_tr => 'انگلیسی';
 
   @override
-  String get french_tr => 'French';
+  String get french_tr => 'فرانسوی';
 
   @override
-  String get spanish_tr => 'Spanish';
+  String get spanish_tr => 'اسپانیایی';
 
   @override
-  String get muhammad_hamidullah => 'Muhammad Hamidullah';
+  String get muhammad_hamidullah => 'محمد حمید الله';
 
   @override
-  String get abdullah_yusuf_ali => 'Abdullah Yusuf Ali';
+  String get abdullah_yusuf_ali => 'عبدالله یوسف علی';
 
   @override
-  String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
+  String get sheikh_isa_garcia => 'شیخ عیسی گارسیا';
 
   @override
   String get reciters => 'Reciters';
