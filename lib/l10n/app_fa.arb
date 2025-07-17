@@ -158,94 +158,94 @@
         "type": "text"
     },
     "sabah": "صباح",
-    "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
+    "settings_PrayerNotification_NoNotification": "شما اعلان این نماز را غیرفعال کرده‌اید.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "اجرای صدای بوق هنگام دریافت اعلان.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "اذان",
     "@adhan": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "مکه(صبح)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "مدینه",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "قدس",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Al Afassy",
+    "adhan_AlAfassy": "العفاسی",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (Fajr)",
+    "adhan_AlAfassy_fajr": "العفاسی(صبح)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Muhammad_jazy": "Muhammad Jazy",
+    "adhan_Muhammad_jazy": "محمد جازی",
     "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Abdul Bassit",
+    "adhan_AbdAlBassat": "عبدالباسط",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "نوع اذان را انتخاب کنید. این انتخاب برای تمام نمازهایی که اعلان اذان دارند، اعمال خواهد شد.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "هیچ کدام",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "شما هیچ اعلانی برای این نماز تنظیم نکرده‌اید.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "این تنظیم به شما اجازه می‌دهد که اعلانی قبل از وقت نماز تعیین کنید.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "Try Paris, Essalam etc.",
-    "search_ByGPS": "Search by GPS",
-    "search_HelpText": "You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.",
-    "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
-    "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
-    "search_error": "Oops an internal error has occurred'",
-    "search_your_location": "Your location",
-    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
-    "search_settings": "Settings",
-    "no_services_text": "Mosques didn't provided this info",
-    "welcome": "Welcome to",
-    "mawaqit": "MAWAQIT",
-    "connecting": "Connecting Muslims",
-    "to_mosques": "To Mosques",
-    "get_started": "Get started",
-    "get_prayer_notifications_for": "Get prayer notifications for",
-    "turn_on_notifications": "Turn on prayer notifications",
-    "no_thanks": "No thank's",
+    "search_TryParis": "مثلاً پاریس، السلام و غیره را امتحان کنید.",
+    "search_ByGPS": "جستجو بر اساس موقعیت مکانی GPS",
+    "search_HelpText": "شما می‌توانید برای جستجوی مسجد، موارد زیر را وارد کنید:\n\nنام مسجد\n\nنام انجمن\n\nشهر، آدرس، کشور و...\n\nیا می‌توانید با زدن دکمه مکان‌یاب، مساجد اطراف را پیدا کنید.",
+    "search_MaxFavMosquesReached": "شما به حداکثر تعداد مساجد مورد علاقه رسیده‌اید.",
+    "search_iOs14_message": "جستجو با استفاده از GPS در iOS 14 ممکن است کمی زمان ببرد، لطفاً صبر کنید.",
+    "search_error": "متأسفانه خطای داخلی اتفاق افتاده است",
+    "search_your_location": "موقعیت شما",
+    "search_location_disabled": "لطفاً مسجد را با نام یا شهر جستجو کنید، یا به صورت دستی اجازه استفاده از موقعیت مکانی را در تنظیمات خود فعال کنید.",
+    "search_settings": "تنظیمات",
+    "no_services_text": "مساجد این اطلاعات را ارائه نکرده‌اند",
+    "welcome": "خوش آمدید به",
+    "mawaqit": "مواقیت",
+    "connecting": "ایجاد ارتباط میان مسلمانان",
+    "to_mosques": "به مساجد",
+    "get_started": "شروع کنید",
+    "get_prayer_notifications_for": "اعلان‌های نماز را برای... دریافت کنید",
+    "turn_on_notifications": "اعلان‌های نماز را فعال کنید",
+    "no_thanks": "خیر، متشکرم",
     "notification_denied": "You have denied notification permissions, so you won't receive any notifications.",
     "at_least_one_mosque": "Add at least one mosque to continue",
     "set_up_your_prayer": "Set up your prayer",
