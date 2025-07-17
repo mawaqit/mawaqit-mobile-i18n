@@ -159,100 +159,100 @@ class AppLocalizationsFa extends AppLocalizations {
   String get sabah => 'صباح';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
+  String get settings_PrayerNotification_NoNotification => 'شما اعلان این نماز را غیرفعال کرده‌اید.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
+  String get settings_PrayerNotification_Bip => 'اجرای صدای بوق هنگام دریافت اعلان.';
 
   @override
-  String get adhan => 'Adhan';
+  String get adhan => 'اذان';
 
   @override
-  String get adhan_Makkah_fajr => 'Makkah (Fajr)';
+  String get adhan_Makkah_fajr => 'مکه(صبح)';
 
   @override
-  String get adhan_Madinah => 'Madinah';
+  String get adhan_Madinah => 'مدینه';
 
   @override
-  String get adhan_Qods => 'Qods';
+  String get adhan_Qods => 'قدس';
 
   @override
-  String get adhan_AlAfassy => 'Al Afassy';
+  String get adhan_AlAfassy => 'العفاسی';
 
   @override
-  String get adhan_AlAfassy_fajr => 'Al Afassy (Fajr)';
+  String get adhan_AlAfassy_fajr => 'العفاسی(صبح)';
 
   @override
-  String get adhan_Muhammad_jazy => 'Muhammad Jazy';
+  String get adhan_Muhammad_jazy => 'محمد جازی';
 
   @override
-  String get adhan_AbdAlBassat => 'Abdul Bassit';
+  String get adhan_AbdAlBassat => 'عبدالباسط';
 
   @override
-  String get adhan_type => 'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
+  String get adhan_type => 'نوع اذان را انتخاب کنید. این انتخاب برای تمام نمازهایی که اعلان اذان دارند، اعمال خواهد شد.';
 
   @override
-  String get settings_prayer_Notification_None => 'None';
+  String get settings_prayer_Notification_None => 'هیچ کدام';
 
   @override
-  String get prayer_Notification_NoNotification => 'You have not set any notification for this Prayer.';
+  String get prayer_Notification_NoNotification => 'شما هیچ اعلانی برای این نماز تنظیم نکرده‌اید.';
 
   @override
-  String get prayer_PreNotification_Description => 'This setting allows you to define a notification before the prayer.';
+  String get prayer_PreNotification_Description => 'این تنظیم به شما اجازه می‌دهد که اعلانی قبل از وقت نماز تعیین کنید.';
 
   @override
-  String get search_TryParis => 'Try Paris, Essalam etc.';
+  String get search_TryParis => 'مثلاً پاریس، السلام و غیره را امتحان کنید.';
 
   @override
-  String get search_ByGPS => 'Search by GPS';
+  String get search_ByGPS => 'جستجو بر اساس موقعیت مکانی GPS';
 
   @override
-  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
+  String get search_HelpText => 'شما می‌توانید برای جستجوی مسجد، موارد زیر را وارد کنید:\n\nنام مسجد\n\nنام انجمن\n\nشهر، آدرس، کشور و...\n\nیا می‌توانید با زدن دکمه مکان‌یاب، مساجد اطراف را پیدا کنید.';
 
   @override
-  String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
+  String get search_MaxFavMosquesReached => 'شما به حداکثر تعداد مساجد مورد علاقه رسیده‌اید.';
 
   @override
-  String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
+  String get search_iOs14_message => 'جستجو با استفاده از GPS در iOS 14 ممکن است کمی زمان ببرد، لطفاً صبر کنید.';
 
   @override
-  String get search_error => 'Oops an internal error has occurred\'';
+  String get search_error => 'متأسفانه خطای داخلی اتفاق افتاده است';
 
   @override
-  String get search_your_location => 'Your location';
+  String get search_your_location => 'موقعیت شما';
 
   @override
-  String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
+  String get search_location_disabled => 'لطفاً مسجد را با نام یا شهر جستجو کنید، یا به صورت دستی اجازه استفاده از موقعیت مکانی را در تنظیمات خود فعال کنید.';
 
   @override
-  String get search_settings => 'Settings';
+  String get search_settings => 'تنظیمات';
 
   @override
-  String get no_services_text => 'Mosques didn\'t provided this info';
+  String get no_services_text => 'مساجد این اطلاعات را ارائه نکرده‌اند';
 
   @override
-  String get welcome => 'Welcome to';
+  String get welcome => 'خوش آمدید به';
 
   @override
-  String get mawaqit => 'MAWAQIT';
+  String get mawaqit => 'مواقیت';
 
   @override
-  String get connecting => 'Connecting Muslims';
+  String get connecting => 'ایجاد ارتباط میان مسلمانان';
 
   @override
-  String get to_mosques => 'To Mosques';
+  String get to_mosques => 'به مساجد';
 
   @override
-  String get get_started => 'Get started';
+  String get get_started => 'شروع کنید';
 
   @override
-  String get get_prayer_notifications_for => 'Get prayer notifications for';
+  String get get_prayer_notifications_for => 'اعلان‌های نماز را برای... دریافت کنید';
 
   @override
-  String get turn_on_notifications => 'Turn on prayer notifications';
+  String get turn_on_notifications => 'اعلان‌های نماز را فعال کنید';
 
   @override
-  String get no_thanks => 'No thank\'s';
+  String get no_thanks => 'خیر، متشکرم';
 
   @override
   String get notification_denied => 'You have denied notification permissions, so you won\'t receive any notifications.';
