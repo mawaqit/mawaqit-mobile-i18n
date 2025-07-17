@@ -711,7 +711,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get surah => 'سورەت';
 
   @override
-  String get continue_reading => 'بەردەوامبوونی خوێندنەوە';
+  String get continue_reading => 'Continue Reading';
 
   @override
   String get bookmarks => 'دڵخوازەکان';
@@ -927,7 +927,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get download_quran_popup_downloading_2 => 'ئێمە قورئان ئامادە دەکەین تەنها بۆ ئێوە، تکایە چەند چرکەیەک چاوەڕوان بن!';
 
   @override
-  String get download_quran_popup_downloading_3 => '.';
+  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
 
   @override
   String get download_quran_popup_confirm_cancel => 'دڵنیای کە دەتەوێت دابەزاندنەکە هەڵبوەشێنیتەوە؟ بەبێ ئەم داتایە ناتوانیت قورئان بخوێنیتەوە، لاپەڕەکان بەردەست نابن.';
@@ -1257,16 +1257,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get prayer_times_in => 'کاتەکانی بانگ لە';
 
   @override
-  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+  String get update_new_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_quran_zip => 'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
+  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
 
   @override
-  String get update_latest_quran_version => 'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
+  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
 
   @override
-  String get update_latest_quran => 'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
+  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
 
   @override
   String get set_notification_for_all_parayer => 'هەڵبژاردندنی ئەمە بۆ گشت نوێژەکان';
@@ -1308,22 +1308,22 @@ class AppLocalizationsKu extends AppLocalizations {
   String get settings_language_pt => 'پۆرتوگالی';
 
   @override
-  String get al_zikr => 'ویرد';
+  String get al_zikr => 'Al-Zikr';
 
   @override
-  String get favorite_azkar => 'ویردی دڵخواز';
+  String get favorite_azkar => 'Favorite Azkar';
 
   @override
-  String get all_azkar => 'ویردەکان';
+  String get all_azkar => 'All Azkar';
 
   @override
-  String get device_audio_not_found => 'دەنگی ئامێرەکە نەدۆزرایەوە';
+  String get device_audio_not_found => 'Device audio not found';
 
   @override
   String get device_media => 'Device Media';
 
   @override
-  String get add_new_audio => 'فایلێکی نوێی دەنگی زیادبکە';
+  String get add_new_audio => 'Add a new audio file';
 
   @override
   String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
@@ -1335,19 +1335,19 @@ class AppLocalizationsKu extends AppLocalizations {
   String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
 
   @override
-  String get select_audio_from_device => 'لە ئامێر دیاریبکە (mp3) فایلی دەنگی.';
+  String get select_audio_from_device => 'Select audio (mp3) from device.';
 
   @override
-  String get add_ticket => 'تیکێت زیادبکە';
+  String get add_ticket => 'Add ticket';
 
   @override
-  String get projects => 'پرۆژەکان';
+  String get projects => 'Projects';
 
   @override
-  String get fill_form => 'ئەوە پڕبکەوە بۆ زیادکردنی پڕۆژەکەت لێرە';
+  String get fill_form => 'To add your project here fill up this';
 
   @override
-  String get form => 'فۆڕم';
+  String get form => 'form';
 
   @override
   String get updates_draw => 'Get updates and participate in the draw to win goodies from';
@@ -1356,7 +1356,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get email_info => 'This email will be used to contact you if you win the draw';
 
   @override
-  String get enter_email => 'ئیمێلی خۆت داخل بکە';
+  String get enter_email => 'Enter your email';
 
   @override
   String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
@@ -1380,10 +1380,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get next_ticket => 'The next ticket available in';
 
   @override
-  String get click_here => 'لێرە کلیک بکە';
+  String get click_here => 'Click here';
 
   @override
-  String get mawaqit_store => 'کۆگای مەواقیت';
+  String get mawaqit_store => 'MAWAQIT Store';
 
   @override
   String get no_projects => 'There are no projects';
@@ -1395,28 +1395,28 @@ class AppLocalizationsKu extends AppLocalizations {
   String get enter_valid_email => 'Enter a valid email';
 
   @override
-  String get please_enter_email => 'ئیمێلێک داخل بکە';
+  String get please_enter_email => 'Please enter an email';
 
   @override
   String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
 
   @override
-  String get confirm_deletion => 'دڵنیابوون لە سڕینەوە';
+  String get confirm_deletion => 'Confirm Deletion';
 
   @override
   String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
 
   @override
-  String get file_not_found => 'فایل نەدۆزرایەوە';
+  String get file_not_found => 'File not found';
 
   @override
   String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
 
   @override
-  String get contact_us_boost => 'پەیوەندیمان پێوەبکە بۆ لیستکردنی پڕۆژە لێرە';
+  String get contact_us_boost => 'To list your project here, contact us at';
 
   @override
-  String get prayer_times_set_by_mosque => 'کاتی بانگەکان و هەموو زانیارییەکان لێرە لەگەڵ مزگەوت داندراوە، نەوەک مەواقیت';
+  String get prayer_times_set_by_mosque => 'Prayer times and all the information here are set by the mosque, not MAWAQIT';
 
   @override
   String get hasan_nahi => 'Hasan Nahi';
@@ -1425,10 +1425,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get albanian => 'Albanian';
 
   @override
-  String get delete_all => 'هەمووی بسڕەوە';
+  String get delete_all => 'Delete All';
 
   @override
-  String get delete_all_downloads => 'هەموو داگرتنەکان بسڕەوە';
+  String get delete_all_downloads => 'Delete All Downloads';
 
   @override
   String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
@@ -1440,61 +1440,61 @@ class AppLocalizationsKu extends AppLocalizations {
   String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'No remembrance results available';
+  String get no_azkar_result => 'هیچ ئەنجامی بیرەوەری نەدۆزرایەوە\t';
 
   @override
-  String get search_title => 'Lêgerîn bi ser navê ve';
+  String get search_title => 'گەڕان بە بەکارهێنانی ناونیشان';
 
   @override
   String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
 
   @override
-  String get compass_accuracy => 'ووردی قیبلە نامە';
+  String get compass_accuracy => 'Compass Accuracy';
 
   @override
   String get low => 'Low';
 
   @override
-  String get tafsir => 'تەفسیر';
+  String get tafsir => 'Tafsir';
 
   @override
-  String get copy => 'کۆپی';
+  String get copy => 'Copy';
 
   @override
-  String get no_tafsir => 'تا ئێستا هیچ تەفسیرێک دانەگیراوە';
+  String get no_tafsir => 'No Tafsir has been downloaded yet';
 
   @override
-  String get download_tafsir => 'تەفسیرەکە دابگرە';
+  String get download_tafsir => 'Download the Tafsir';
 
   @override
-  String get hussary => 'محمد خلیل الحسری';
+  String get hussary => 'Mahmoud Khalil Al‑Hussary';
 
   @override
-  String get hussary_mujawwad => 'الحسری (موجەوەد)';
+  String get hussary_mujawwad => 'Al‑Hussary (Mujawwad)';
 
   @override
-  String get shuraim => 'سعود الشریم';
+  String get shuraim => 'Saud Al‑Shuraim';
 
   @override
-  String get arrafai => 'هانی ئارافی';
+  String get arrafai => 'Hani Arrafai';
 
   @override
-  String get meaqli => 'ماهر المعقلی';
+  String get meaqli => 'Maher Al‑Meaqli';
 
   @override
-  String get afasy => 'مشاری العفاسی';
+  String get afasy => 'Mishary Al‑Afasy';
 
   @override
-  String get minshawi => 'مەنشاوی';
+  String get minshawi => 'Al‑Minshawi';
 
   @override
-  String get abdulbasit => 'عبدالباست عبدالصمد';
+  String get abdulbasit => 'Abdulbasit Abdulsamad';
 
   @override
   String get abdulbasit_mujawwad => 'Abdulbasit (Mujawwad)';
 
   @override
-  String get ghamdi => 'سعد الغامدی';
+  String get ghamdi => 'Saad Al‑Ghamdi';
 
   @override
   String get dosari => 'Yasser Al‑Dosari';
@@ -1527,10 +1527,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get playback_settings => 'Playback Settings';
 
   @override
-  String get from => 'لە';
+  String get from => 'From';
 
   @override
-  String get to => 'بۆ';
+  String get to => 'To';
 
   @override
   String get range => 'Range';
@@ -1545,5 +1545,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get range_repeat => 'Range Repeat';
 
   @override
-  String get verse_repeat => 'دووبارە کردنەوەی ئایەت';
+  String get verse_repeat => 'Verse Repeat';
 }
