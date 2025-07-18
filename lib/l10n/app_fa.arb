@@ -1009,50 +1009,50 @@
     "updates_draw": "Get updates and participate in the draw to win goodies from",
     "email_info": "This email will be used to contact you if you win the draw",
     "enter_email": "Enter your email",
-    "email_privacy": "MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw",
-    "submit": "Submit",
-    "disclaimer": "MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research",
-    "participating_with": "You're participating with",
-    "no_of_tickets": "No. of tickets:",
-    "unparticipate": "Click to unparticipate",
-    "next_ticket": "The next ticket available in",
-    "click_here": "Click here",
-    "mawaqit_store": "MAWAQIT Store",
-    "no_projects": "There are no projects",
-    "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
-    "enter_valid_email": "Enter a valid email",
-    "please_enter_email": "Please enter an email",
-    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "email_privacy": "مواقیت این ایمیل را با هیچ‌کس به اشتراک نخواهد گذاشت. این ایمیل پس از هر قرعه‌کشی به‌صورت خودکار از پایگاه داده ما حذف خواهد شد",
+    "submit": "ثبت کردن",
+    "disclaimer": "مواقیت هیچ‌گونه مسئولیتی در قبال خدمات یا محصولات ارائه‌شده توسط پروژه‌های فهرست‌شده ندارد. لطفاً تحقیقات و بررسی‌های لازم را شخصاً انجام دهید",
+    "participating_with": "شما در حال مشارکت هستید با",
+    "no_of_tickets": "تعداد بلیت‌ها:",
+    "unparticipate": "برای شرکت کلیک کنید",
+    "next_ticket": "بلیت بعدی در دسترس خواهد بود در",
+    "click_here": "اینجا کلیک کنید",
+    "mawaqit_store": "فروشگاه مواقیت",
+    "no_projects": "پروژه ای وجود ندارد",
+    "draw_info": "یک قرعه‌کشی در هر ماه برگزار می‌شود. هر بیست و چهار ساعت می‌توانید یک بلیت جدید اضافه کنید تا شانس برنده شدن خود را افزایش دهید!",
+    "enter_valid_email": "لطفا یک آدرس ایمیل معتبر وارد کنید",
+    "please_enter_email": "لطفاً یک ایمیل وارد کنید",
+    "select_device_audo_for_ios_propmpt": "یک فایل صوتی انتخاب کنید؛ ما آن را به فرمتی سازگار با iOS تبدیل می‌کنیم و به دلیل محدودیت‌های این پلتفرم، آن را به ۳۰ ثانیه کوتاه می‌کنیم.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
-    "confirm_deletion": "Confirm Deletion",
-    "sure_remove_rewaya": "Are you sure you want to remove this Rewaya?",
-    "file_not_found": "File not found",
+    "confirm_deletion": "تایید حذف",
+    "sure_remove_rewaya": "آیا مطمئن هستید که می‌خواهید این روایت را حذف کنید؟",
+    "file_not_found": "فایل یافت نشد",
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects.",
-    "contact_us_boost": "To list your project here, contact us at",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "notified_boost": "از جدیدترین به‌روزرسانی‌های پروژه‌های MAWAQIT Boost مطلع شوید.",
+    "contact_us_boost": "برای درج پروژه خود در اینجا، با ما از طریق [اینجا شماره یا ایمیل را وارد کنید] تماس بگیرید",
+    "prayer_times_set_by_mosque": "اوقات نماز و تمام اطلاعات موجود در اینجا توسط مسجد تعیین می‌شوند، نه MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
-    "hasan_nahi": "Hasan Nahi",
-    "albanian": "Albanian",
-    "delete_all": "Delete All",
+    "hasan_nahi": "حسن ناهی",
+    "albanian": "آلبانیایی",
+    "delete_all": "حذف همه",
     "@delete_all": {
         "description": "-> delete_all"
     },
-    "delete_all_downloads": "Delete All Downloads",
+    "delete_all_downloads": "حذف همه بارگیری‌ها از تاریخچه",
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
     },
-    "delete_recitations_message": "Are you sure you want to delete all downloaded recitations?",
+    "delete_recitations_message": "آیا مطمئن هستید که می‌خواهید همه قرائت‌های دانلود شده را حذف کنید؟",
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
     },
-    "downloaded_deleted_successfully": "All downloaded recitations deleted successfully",
+    "downloaded_deleted_successfully": "تمام قرائت‌های دانلود شده با موفقیت حذف شدند",
     "@downloaded_deleted_successfully": {
         "description": "-> downloaded_deleted_successfully"
     },
