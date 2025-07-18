@@ -1515,94 +1515,94 @@ class AppLocalizationsRu extends AppLocalizations {
   String get abdul_rashid_ali_sufi => 'Абдул Рашид Али Суфи';
 
   @override
-  String get abdullaah_ajuhaynee_murattal => 'Абдулла Аюхайне';
+  String get abdullaah_ajuhaynee_murattal => 'Абдуллах Аджухайни';
 
   @override
-  String get abdullaah_basfar_murattal => 'Abdullah Basfar';
+  String get abdullaah_basfar_murattal => 'Абдуллах Басфар';
 
   @override
-  String get abdullah_matroud_murattal => 'Абдулла Матруд';
+  String get abdullah_matroud_murattal => 'Абдуллах Матруд';
 
   @override
-  String get ahmed_al_ajamy_murattal => 'Ахмед аль-Аджами';
+  String get ahmed_al_ajamy_murattal => 'Ахмад Аль-Аджами';
 
   @override
-  String get ahmed_neana_murattal => 'Ахмед Неана';
+  String get ahmed_neana_murattal => 'Ахмад Неана';
 
   @override
-  String get akram_alaqimy_murattal => 'Akram Alaqimy';
+  String get akram_alaqimy_murattal => 'Акрам Алякими';
 
   @override
-  String get ali_hajjaj_suesy_murattal => 'Ali Hajjaj Suesy';
+  String get ali_hajjaj_suesy_murattal => 'Али Хаджжадж Суеси';
 
   @override
-  String get ali_jaber_murattal => 'Ali Jaber';
+  String get ali_jaber_murattal => 'Али Джабер';
 
   @override
-  String get ayman_sowaid_murattal => 'Ayman Sowaid';
+  String get ayman_sowaid_murattal => 'Айман Сувайд';
 
   @override
-  String get aziz_alii_murattal => 'Aziz Alii';
+  String get aziz_alii_murattal => 'Азиз Алили';
 
   @override
-  String get fares_abbad_murattal => 'Fares Abbad';
+  String get fares_abbad_murattal => 'Фарес Аббад';
 
   @override
-  String get hudhaify_murattal => 'Hudhaify';
+  String get hudhaify_murattal => 'Хузайфи';
 
   @override
-  String get husary_muallim => 'Хусари (Mu\'allim)';
+  String get husary_muallim => 'Хусари (обучающий стиль)';
 
   @override
-  String get ibrahim_akhdar_murattal => 'Ibrahim Akhdar';
+  String get ibrahim_akhdar_murattal => 'Ибрахим Ахдар';
 
   @override
-  String get khaalid_qahataanee_murattal => 'Khaalid Qahataanee';
+  String get khaalid_qahataanee_murattal => 'Халид Кахтани';
 
   @override
-  String get khalid_al_mohanna => 'Khalid Al Mohanna';
+  String get khalid_al_mohanna => 'Халид Аль-Моханна';
 
   @override
-  String get mahmoud_ali_al_banna_murattal => 'Махмуд Али Аль Банна';
+  String get mahmoud_ali_al_banna_murattal => 'Махмуд Али Аль-Банна';
 
   @override
-  String get minshawy_mujawwad => 'Миншави (Mujawwad)';
+  String get minshawy_mujawwad => 'Миншawi (муджаввад)';
 
   @override
-  String get mohammad_rashad_alshareef => 'Mohammad Rashad Alshareef';
+  String get mohammad_rashad_alshareef => 'Мухаммад Рашад Аш-Шариф';
 
   @override
-  String get muhammad_abdulKareem_murattal => 'Мухаммад Абдул Кареем';
+  String get muhammad_abdulKareem_murattal => 'Мухаммад Абдул-Карим';
 
   @override
   String get muhammad_ayyoub_murattal => 'Мухаммад Айюб';
 
   @override
-  String get muhammad_jibreel_murattal => 'Muhammad Jibreel';
+  String get muhammad_jibreel_murattal => 'Мухаммад Джибрил';
 
   @override
-  String get muhsin_al_qasim_murattal => 'Мухсин аль-Казим';
+  String get muhsin_al_qasim_murattal => 'Абдуль-Мухсин Аль-Касим';
 
   @override
-  String get nabil_rifai3_murattal => 'Nabil Rifai';
+  String get nabil_rifai3_murattal => 'Набиль Рифаи';
 
   @override
-  String get nasser_alqatami_murattal => 'Nasser Alqatami';
+  String get nasser_alqatami_murattal => 'Нассер Аль-Катами';
 
   @override
-  String get sahl_yassin_murattal => 'Сахл Ясин';
+  String get sahl_yassin_murattal => 'Сахль Ясин';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal => 'Салаах АбдулРахман Бухатир';
+  String get salaah_abdulRahman_bukhatir_murattal => 'Салах Абдуррахман Бухатир';
 
   @override
-  String get salah_albudair_murattal => 'Salah AlBudair';
+  String get salah_albudair_murattal => 'Салах Аль-Будейр';
 
   @override
-  String get tawfeeq_assayegh => 'Тауфук Ассаег';
+  String get tawfeeq_assayegh => 'Тауфик Ас-Саййег';
 
   @override
-  String get yaser_salamah_murattal => 'Язерный Салама';
+  String get yaser_salamah_murattal => 'Ясер Салама';
 
   @override
   String get murattal => 'Муратталь';

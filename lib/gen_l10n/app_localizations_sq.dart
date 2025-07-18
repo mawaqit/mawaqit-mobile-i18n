@@ -1515,94 +1515,94 @@ class AppLocalizationsSq extends AppLocalizations {
   String get abdul_rashid_ali_sufi => 'Abdul Rashid Ali Sufi';
 
   @override
-  String get abdullaah_ajuhaynee_murattal => 'Abdullaah Ajuhaynee';
+  String get abdullaah_ajuhaynee_murattal => 'Abdullah Axhuhajni';
 
   @override
   String get abdullaah_basfar_murattal => 'Abdullah Basfar';
 
   @override
-  String get abdullah_matroud_murattal => 'Abdullah Matroud';
+  String get abdullah_matroud_murattal => 'Abdullah Matrudi';
 
   @override
-  String get ahmed_al_ajamy_murattal => 'Ahmed Al Ajamy';
+  String get ahmed_al_ajamy_murattal => 'Ahmed Al-Axhami';
 
   @override
   String get ahmed_neana_murattal => 'Ahmed Neana';
 
   @override
-  String get akram_alaqimy_murattal => 'Akram Alaqimy';
+  String get akram_alaqimy_murattal => 'Akram Alakimi';
 
   @override
-  String get ali_hajjaj_suesy_murattal => 'Ali Hajjaj Suesy';
+  String get ali_hajjaj_suesy_murattal => 'Ali Haxhaxh Suesi';
 
   @override
-  String get ali_jaber_murattal => 'Ali Jaber';
+  String get ali_jaber_murattal => 'Ali Xhabeer';
 
   @override
-  String get ayman_sowaid_murattal => 'Ayman Sowaid';
+  String get ayman_sowaid_murattal => 'Ajman Suveid';
 
   @override
-  String get aziz_alii_murattal => 'Aziz Alii';
+  String get aziz_alii_murattal => 'Aziz Alili';
 
   @override
   String get fares_abbad_murattal => 'Fares Abbad';
 
   @override
-  String get hudhaify_murattal => 'Hudhaify';
+  String get hudhaify_murattal => 'Hudejfi';
 
   @override
-  String get husary_muallim => 'Husary (Mu\'allim)';
+  String get husary_muallim => 'Husary (stil mësimor)';
 
   @override
   String get ibrahim_akhdar_murattal => 'Ibrahim Akhdar';
 
   @override
-  String get khaalid_qahataanee_murattal => 'Khaalid Qahataanee';
+  String get khaalid_qahataanee_murattal => 'Halid Kahtani';
 
   @override
-  String get khalid_al_mohanna => 'Khalid Al Mohanna';
+  String get khalid_al_mohanna => 'Halid Al-Mohanna';
 
   @override
-  String get mahmoud_ali_al_banna_murattal => 'Mahmoud Ali Al Banna';
+  String get mahmoud_ali_al_banna_murattal => 'Mahmud Ali Al-Benna';
 
   @override
-  String get minshawy_mujawwad => 'Minshawy (Mujawwad)';
+  String get minshawy_mujawwad => 'Minshawi (Muxhevvad)';
 
   @override
-  String get mohammad_rashad_alshareef => 'Mohammad Rashad Alshareef';
+  String get mohammad_rashad_alshareef => 'Muhamed Rashad Al-Sharif';
 
   @override
-  String get muhammad_abdulKareem_murattal => 'Muhammad Abdul Kareem';
+  String get muhammad_abdulKareem_murattal => 'Muhamed Abdulkerim';
 
   @override
-  String get muhammad_ayyoub_murattal => 'Muhammad Ayyoub';
+  String get muhammad_ayyoub_murattal => 'Muhamed Ajub';
 
   @override
-  String get muhammad_jibreel_murattal => 'Muhammad Jibreel';
+  String get muhammad_jibreel_murattal => 'Muhamed Xhibril';
 
   @override
-  String get muhsin_al_qasim_murattal => 'Muhsin Al Qasim';
+  String get muhsin_al_qasim_murattal => 'Abdul Muhsin Al-Qasim';
 
   @override
   String get nabil_rifai3_murattal => 'Nabil Rifai';
 
   @override
-  String get nasser_alqatami_murattal => 'Nasser Alqatami';
+  String get nasser_alqatami_murattal => 'Naser Al-Katami';
 
   @override
-  String get sahl_yassin_murattal => 'Sahl Yassin';
+  String get sahl_yassin_murattal => 'Sahl Jasin';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal => 'Salaah AbdulRahman Bukhatir';
+  String get salaah_abdulRahman_bukhatir_murattal => 'Salah Abdulrahman Bukhatir';
 
   @override
-  String get salah_albudair_murattal => 'Salah AlBudair';
+  String get salah_albudair_murattal => 'Salah Al-Budeir';
 
   @override
-  String get tawfeeq_assayegh => 'Tawfeeq Assayegh';
+  String get tawfeeq_assayegh => 'Tawfik As-Sajeg';
 
   @override
-  String get yaser_salamah_murattal => 'Yaser Salamah';
+  String get yaser_salamah_murattal => 'Jaser Salame';
 
   @override
   String get murattal => 'Murattal';
