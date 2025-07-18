@@ -1512,64 +1512,64 @@ class AppLocalizationsAr extends AppLocalizations {
   String get tablawi => 'محمد الطبلاوي';
 
   @override
-  String get abdul_rashid_ali_sufi => 'عبد الرشيد علي صوفي';
+  String get abdul_rashid_ali_sufi => 'عبد الرشيد صوفي';
 
   @override
-  String get abdullaah_ajuhaynee_murattal => 'عبد الله أجوهايني';
+  String get abdullaah_ajuhaynee_murattal => 'عبد الله الجهني';
 
   @override
-  String get abdullaah_basfar_murattal => 'Abdullah Basfar';
+  String get abdullaah_basfar_murattal => 'عبد الله بصفر';
 
   @override
-  String get abdullah_matroud_murattal => 'عبد الله مترود';
+  String get abdullah_matroud_murattal => 'عبد الله المطرود';
 
   @override
   String get ahmed_al_ajamy_murattal => 'أحمد العجمي';
 
   @override
-  String get ahmed_neana_murattal => 'أحمد نانا';
+  String get ahmed_neana_murattal => 'أحمد نعينع';
 
   @override
-  String get akram_alaqimy_murattal => 'Akram Alaqimy';
+  String get akram_alaqimy_murattal => 'أكرم العلاقمي';
 
   @override
-  String get ali_hajjaj_suesy_murattal => 'Ali Hajjaj Suesy';
+  String get ali_hajjaj_suesy_murattal => 'علي حجاج السويسي';
 
   @override
-  String get ali_jaber_murattal => 'Ali Jaber';
+  String get ali_jaber_murattal => 'علي جابر';
 
   @override
-  String get ayman_sowaid_murattal => 'Ayman Sowaid';
+  String get ayman_sowaid_murattal => 'أيمن سويد';
 
   @override
-  String get aziz_alii_murattal => 'Aziz Alii';
+  String get aziz_alii_murattal => 'عزيز عليلى';
 
   @override
-  String get fares_abbad_murattal => 'Fares Abbad';
+  String get fares_abbad_murattal => 'فارس عباد';
 
   @override
-  String get hudhaify_murattal => 'Hudhaify';
+  String get hudhaify_murattal => 'الحذيفي';
 
   @override
-  String get husary_muallim => 'حمري (المعالم)';
+  String get husary_muallim => 'الحصري (المعلم)';
 
   @override
-  String get ibrahim_akhdar_murattal => 'Ibrahim Akhdar';
+  String get ibrahim_akhdar_murattal => 'إبراهيم الأخضر';
 
   @override
-  String get khaalid_qahataanee_murattal => 'Khaalid Qahataanee';
+  String get khaalid_qahataanee_murattal => 'خالد القحطاني';
 
   @override
-  String get khalid_al_mohanna => 'Khalid Al Mohanna';
+  String get khalid_al_mohanna => 'خالد المهنا';
 
   @override
-  String get mahmoud_ali_al_banna_murattal => 'محمود علي البانا';
+  String get mahmoud_ali_al_banna_murattal => 'محمود علي البنا';
 
   @override
-  String get minshawy_mujawwad => 'مينشاوي (موجاواد)';
+  String get minshawy_mujawwad => 'المنشاوي (مجوّد)';
 
   @override
-  String get mohammad_rashad_alshareef => '1 - محمد رشد الشريف';
+  String get mohammad_rashad_alshareef => 'محمد رشاد الشريف';
 
   @override
   String get muhammad_abdulKareem_murattal => 'محمد عبد الكريم';
@@ -1578,28 +1578,28 @@ class AppLocalizationsAr extends AppLocalizations {
   String get muhammad_ayyoub_murattal => 'محمد أيوب';
 
   @override
-  String get muhammad_jibreel_murattal => 'Muhammad Jibreel';
+  String get muhammad_jibreel_murattal => 'محمد جبريل';
 
   @override
-  String get muhsin_al_qasim_murattal => 'محسن القاسم';
+  String get muhsin_al_qasim_murattal => 'عبد المحسن القاسم';
 
   @override
-  String get nabil_rifai3_murattal => 'Nabil Rifai';
+  String get nabil_rifai3_murattal => 'نبيل الرفاعي';
 
   @override
-  String get nasser_alqatami_murattal => 'Nasser Alqatami';
+  String get nasser_alqatami_murattal => 'ناصر القطامي';
 
   @override
-  String get sahl_yassin_murattal => 'ساهل ياسين';
+  String get sahl_yassin_murattal => 'سهل ياسين';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal => '1 - صلاح عبد الرحمن بخاتير';
+  String get salaah_abdulRahman_bukhatir_murattal => 'صلاح بو خاطر';
 
   @override
-  String get salah_albudair_murattal => 'Salah AlBudair';
+  String get salah_albudair_murattal => 'صلاح البدير';
 
   @override
-  String get tawfeeq_assayegh => 'توفيق عسايغ';
+  String get tawfeeq_assayegh => 'توفيق الصايغ';
 
   @override
   String get yaser_salamah_murattal => 'ياسر سلامة';
