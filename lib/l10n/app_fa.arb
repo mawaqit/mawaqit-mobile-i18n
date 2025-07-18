@@ -1,0 +1,1108 @@
+{
+    "@@locale": "fa",
+    "bottomNavbar_mawaqit": "مواقیت",
+    "@bottomNavbar_mawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_favorites": "علاقه مندی ها",
+    "@bottomNavbar_favorites": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_qibla": "قبله",
+    "@bottomNavbar_qibla": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_search": "جستجو",
+    "@bottomNavbar_search": {
+        "description": "_",
+        "type": "text"
+    },
+    "bottomNavbar_settings": "تنظیمات",
+    "@bottomNavbar_settings": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeAuto": "خودکار",
+    "@settings_ThemeAuto": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeDark": "تاریک",
+    "@settings_ThemeDark": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_ThemeLight": "روشن",
+    "@settings_ThemeLight": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat": "قالب زمان",
+    "@settings_TimeFormat": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_LanguageSelection": "انتخاب زبان",
+    "@settings_LanguageSelection": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Language": "زبان",
+    "@settings_Language": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Theme": "زمینه",
+    "@settings_Theme": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat12H": "دوازده ساعته",
+    "@settings_TimeFormat12H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_TimeFormat24H": "بیست و چهار ساعته",
+    "@settings_TimeFormat24H": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotifications": "هشدارهای نماز",
+    "settings_PrayerPreNotifications": "هشدار قبل از اذان",
+    "settings_ShuruqPreNotifications": "هشدار قبل از طلوع",
+    "settings_Calculations": "محاسبه",
+    "settings_RateOurApp": "به برنامه ما امتیاز دهید",
+    "@settings_RateOurApp": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_WhatsNew": "موارد جدید",
+    "settings_SupportMawaqit": "حمایت از مواقیت",
+    "settings_News": "اخبار",
+    "settings_MakeADonation": "اهدای کمک های مالی",
+    "bismillah": "بنام خدا",
+    "settings_DonateToMawaqit": "کمک مالی به مواقیت",
+    "@settings_DonateToMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_CheckForUpdates": "بررسي بروزرساني",
+    "@settings_CheckForUpdates": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_Credits": "اعتبار نامه ها",
+    "@settings_Credits": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUs": "درباره ما",
+    "@settings_AboutUs": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_language_ar": "عربی",
+    "settings_language_bn": "بنگلادشی",
+    "settings_language_fr": "فرانسوی",
+    "settings_language_nl": "هلندی",
+    "settings_language_de": "آلمانی",
+    "settings_language_es": "اسپانیایی",
+    "settings_language_en": "انگلیسی",
+    "settings_language_it": "ایتالیایی",
+    "settings_language_tr": "ترکی",
+    "settings_language_ru": "روسی",
+    "settings_language_id": "اندونزیایی",
+    "settings_language_ur": "اردو",
+    "settings_language_pl": "لهستانی",
+    "settings_CreditsText": "حق نشر و مالکیت معنوی\n\nکپی‌رایت © ۲۰۲۱ برای مواقیت متعلق به بنیاد مواقیت، تمامی حقوق محفوظ است.\nمالکیت معنوی و حقوق کپی‌رایت این برنامه، افزونه‌ها، افزودنی‌ها یا محتوای آن متعلق به مواقیت برای انجمن مواقیت است.\nاین نسخه از برنامه تنها برای توزیع خیریه و به عنوان وقف مجاز است. هرگونه استفاده یا توزیع تجاری اکیداً ممنوع است.\nاین مجوز به هیچ عنوان به معنی فروش یا واگذاری هیچ‌یک از حقوق مربوط به این محصول یا اجزای آن، افزونه‌ها، افزودنی‌ها یا محتوا نمی‌باشد. بلکه فقط اجازه توزیع خیریه از طریق پلتفرم فعلی فروشگاه‌های اپلیکیشن را می‌دهد.\n\n محدودیت‌ها و ممنوعیت‌ها:\nتوزیع مجدد برنامه، چه از طریق کد منبع یا فایل‌های باینری، یا مهندسی معکوس آن، چه با تغییرات و چه بدون آن، تخلف از کپی‌رایت محسوب می‌شود و فرد متخلف در معرض پیگرد قانونی قرار می‌گیرد.\nهیچ شخصی حق ندارد این برنامه را خارج از فروشگاه‌های رسمی اپل یا گوگل پلی بدون کسب مجوز رسمی کتبی از صاحب کپی‌رایت، یعنی مواقیت، توزیع کند. این کار نقض قانون حمایت از مالکیت فکری است و مسئول آن در معرض اقدامات قانونی قرار خواهد گرفت.\nاستفاده از نام برنامه، برند، نشان تجاری، یا نام صاحب کپی‌رایت مواقیت برای تبلیغ محصولات مشابه یا مشتق‌شده از این برنامه، یا هر محصول دیگر، بدون کسب اجازه کتبی قبلی ممنوع است.\n\n سلب مسئولیت:\nاین برنامه به همان صورت که هست (\"as is\") توسط مالکین و سهام‌داران منتشر شده است.\nشرکت توسعه‌دهنده و مالک برنامه هیچگونه ضمانت صریح یا ضمنی ارائه نمی‌دهد؛ از جمله ولی نه محدود به ضمانت کاربرد برنامه برای اهداف خاص یا تجاری.\nدر هیچ حالتی، بنیاد مواقیت یا سهام‌داران آن، در برابر هیچ‌گونه خسارتی مسئول نیستند؛ چه مستقیم، چه غیرمستقیم یا اتفاقی، از جمله اما نه محدود به:\nاز دست رفتن داده‌ها\nقطع فعالیت‌های تجاری\nاز دست رفتن سود\nیا سایر زیان‌ها (خواه بر اساس قرارداد، تقصیر، سهل‌انگاری یا دلایل دیگر)\n\n حقوق اشخاص ثالث:\nحقوق کپی‌رایت مربوط به هرگونه محتوای اشخاص ثالث داخل برنامه محفوظ بوده و متعلق به صاحبان آن است.\n\nتصاویر و پس‌زمینه‌ها:\nتصاویر: کپی‌رایت متعلق به Shutterstock است.\nآیکون‌ها: تحت مجوز Creative Commons BY 4.0 از Flaticon استفاده شده است.\nفایل‌های غیرفونت و غیرآیکون تحت مجوز MIT هستند.\nفونت‌ها: Roboto از Google Fonts تحت مجوز SIL Open Font License 1.1 (OFL) منتشر شده‌اند.\nبسته‌های Cupertino متعلق به شرکت Apple هستند.\n\n کد، بسته‌ها و چارچوب‌ها:\nبرنامه با استفاده از فریم‌ورک Flutter از Google توسعه یافته است و شامل بسته‌های زیر است:\n\nhttp\n\ngeolocator\n\nflutter_platform_widgets\n\nshared_preferences\n\nprovider\n\nflutter_local_notifications\n\naudioplayers\n\ntoggle_switch\n\ncupertino_icons\n\nmarquee_widget\n\nintl\n\nflutter_switch\n\njson_annotation",
+    "@settings_CreditsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_AboutUsText": "این برنامه توسط انجمن MAWAQIT توسعه داده شده است.\n\nانجمن MAWAQIT یک سازمان غیرانتفاعی است که در سال ۲۰۲۱ در فرانسه تأسیس شد. هدف ما توسعه راه‌حل‌های نوآورانه در زمینه فناوری اطلاعات و فناوری دیجیتال، مانند نرم‌افزارها و وب‌سایت‌ها، و همچنین آموزش و تربیت در زمینه راه‌حل‌های دیجیتال و ابزارهای IT است.\n\nاکوسیستم MAWAQIT محصول اصلی ما است و داستان آن از سال ۲۰۱۶ آغاز شد، با یک برنامه برای صفحه‌نمایش‌های بزرگ مختص مساجد، سپس یک اپلیکیشن موبایل، افزونه دستیار خانگی و مهارت الکسا، و غیره.\n\nMAWAQIT راهی جدید برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. در واقع، ما یک سیستم جامع فراهم می‌آوریم که به مدیران مساجد ابزاری آنلاین و در دسترس ۲۴ ساعته ارائه می‌دهد تا بتوانند برنامه‌ها، اخبار مساجد و بسیاری ویژگی‌های دیگر را مدیریت کنند. از سوی دیگر، مومنان از طریق یک اپلیکیشن موبایل می‌توانند برنامه‌های دقیق نه تقریبی مسجد مورد علاقه خود را مشاهده کرده و از اخبار و سایر امکانات مانند جستجوی مسجد با استفاده از موقعیت مکانی، اذان، قبله و غیره بهره‌مند شوند. ما قابلیت اطمینان و کیفیت را به عنوان ارزش‌های اصلی خود قرار داده‌ایم. هدف ما روشن است: ساخت بهترین خدمت برای مساجد با استفاده از فناوری و طراحی.\n\nاگر از این برنامه خوشتان آمده است، لطفاً نظر خود را در فروشگاه مربوطه به اشتراک بگذارید.",
+    "@settings_AboutUsText": {
+        "description": "_",
+        "type": "text"
+    },
+    "fajr": "صبح",
+    "@fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "shuruq": "طلوع آفتاب",
+    "@shuruq": {
+        "description": "_",
+        "type": "text"
+    },
+    "duhr": "ظهر",
+    "@duhr": {
+        "description": "_",
+        "type": "text"
+    },
+    "asr": "عصر",
+    "@asr": {
+        "description": "_",
+        "type": "text"
+    },
+    "maghrib": "مغرب",
+    "@maghrib": {
+        "description": "_",
+        "type": "text"
+    },
+    "isha": "عشا",
+    "@isha": {
+        "description": "_",
+        "type": "text"
+    },
+    "sabah": "صباح",
+    "settings_PrayerNotification_NoNotification": "شما اعلان این نماز را غیرفعال کرده‌اید.",
+    "@settings_PrayerNotification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_PrayerNotification_Bip": "اجرای صدای بوق هنگام دریافت اعلان.",
+    "@settings_PrayerNotification_Bip": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan": "اذان",
+    "@adhan": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah_fajr": "مکه(صبح)",
+    "@adhan_Makkah_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Madinah": "مدینه",
+    "@adhan_Madinah": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Qods": "قدس",
+    "@adhan_Qods": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AlAfassy": "العفاسی",
+    "@adhan_AlAfassy": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AlAfassy_fajr": "العفاسی(صبح)",
+    "@adhan_AlAfassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Muhammad_jazy": "محمد جازی",
+    "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_AbdAlBassat": "عبدالباسط",
+    "@adhan_AbdAlBassat": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_type": "نوع اذان را انتخاب کنید. این انتخاب برای تمام نمازهایی که اعلان اذان دارند، اعمال خواهد شد.",
+    "@adhan_type": {
+        "description": "_",
+        "type": "text"
+    },
+    "settings_prayer_Notification_None": "هیچ کدام",
+    "@settings_prayer_Notification_None": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_Notification_NoNotification": "شما هیچ اعلانی برای این نماز تنظیم نکرده‌اید.",
+    "@prayer_Notification_NoNotification": {
+        "description": "_",
+        "type": "text"
+    },
+    "prayer_PreNotification_Description": "این تنظیم به شما اجازه می‌دهد که اعلانی قبل از وقت نماز تعیین کنید.",
+    "@prayer_PreNotification_Description": {
+        "description": "_",
+        "type": "text"
+    },
+    "search_TryParis": "مثلاً پاریس، السلام و غیره را امتحان کنید.",
+    "search_ByGPS": "جستجو بر اساس موقعیت مکانی GPS",
+    "search_HelpText": "شما می‌توانید برای جستجوی مسجد، موارد زیر را وارد کنید:\n\nنام مسجد\n\nنام انجمن\n\nشهر، آدرس، کشور و...\n\nیا می‌توانید با زدن دکمه مکان‌یاب، مساجد اطراف را پیدا کنید.",
+    "search_MaxFavMosquesReached": "شما به حداکثر تعداد مساجد مورد علاقه رسیده‌اید.",
+    "search_iOs14_message": "جستجو با استفاده از GPS در iOS 14 ممکن است کمی زمان ببرد، لطفاً صبر کنید.",
+    "search_error": "متأسفانه خطای داخلی اتفاق افتاده است'",
+    "search_your_location": "موقعیت شما",
+    "search_location_disabled": "لطفاً مسجد را با نام یا شهر جستجو کنید، یا به صورت دستی اجازه استفاده از موقعیت مکانی را در تنظیمات خود فعال کنید.",
+    "search_settings": "تنظیمات",
+    "no_services_text": "مساجد این اطلاعات را ارائه نکرده‌اند",
+    "welcome": "خوش آمدید به",
+    "mawaqit": "مواقیت",
+    "connecting": "ایجاد ارتباط میان مسلمانان",
+    "to_mosques": "به مساجد",
+    "get_started": "شروع کنید",
+    "get_prayer_notifications_for": "اعلان‌های نماز را برای... دریافت کنید",
+    "turn_on_notifications": "اعلان‌های نماز را فعال کنید",
+    "no_thanks": "خیر، متشکرم",
+    "notification_denied": "شما اجازه دسترسی به اعلان‌ها را رد کرده‌اید، بنابراین هیچ اعلانی دریافت نخواهید کرد.",
+    "at_least_one_mosque": "برای ادامه، حداقل یک مسجد اضافه کنید",
+    "set_up_your_prayer": "نماز خود را تنظیم کنید",
+    "notifications": "اعلان‌ها",
+    "mosques_around_you": "مساجد اطراف شما",
+    "mosques_in_the_selected_area": "مساجد در محدوده انتخاب شده",
+    "mosques_with": "مساجد با",
+    "allow_mawaqit_to_access_my_location": "اجازه دهید مواقیت به موقعیت مکانی من دسترسی داشته باشد.",
+    "enable_location_service_from_app_settings": "موقعیت مکانی را از تنظیمات اپلیکیشن روشن کنید.",
+    "the_request_timeout": "زمان درخواست منقضی شد",
+    "no_internet_connection": "اتصالی به اینترنت وجود ندارد",
+    "try_again": "دوباره سعی کنید",
+    "virtual_mosque": "مسجد مجازی",
+    "no_mosque_in_selected_area": "هیچ مسجدی در منطقه انتخاب شده پیدا نشد",
+    "no_mosque_with": "هیچ مسجدی با... پیدا نشد",
+    "retry": "تلاش مجدد",
+    "search_here": "اینجا جستجو کنید",
+    "enter_at_least_3_char": "برای جستجو حداقل ۳ کاراکتر وارد کنید",
+    "jumua1": "جمعه\"1",
+    "prayer_times": "اوقات نماز",
+    "remove_this_city": "این شهر را حذف کن",
+    "add_this_city": "این شهر را اضافه کن",
+    "add_this_mosque": "این مسجد را اضافه کن",
+    "remove_this_mosque": "این مسجد را حذف کن",
+    "services": "سرویس‌ها",
+    "share": "اشتراک گذاشتن",
+    "itinerary": "برنامه سفر",
+    "call": "تماس بگیرید",
+    "dnd": "مزاحم نشوید",
+    "battery_optimize": "بهینه‌سازی مصرف باتری",
+    "power_saver": "بهینه‌ساز باتری",
+    "permission_message1": "ما یک اعلان با تأخیر شناسایی کردیم، لطفاً آن را غیرفعال کنید",
+    "permission_message2": "تا اعلان را به‌موقع دریافت کنید.",
+    "notifications_delay_detected": "تاخیر در دریافت اعلان‌ها تشخیص داده شد",
+    "open_setting": "تنظیمات را باز کنید",
+    "noJumua": "جمعه نیست",
+    "@noJumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua": "جمعه\"",
+    "@jumua": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_sensor": "حسگری که دستگاه شما برای تعیین قبله توسط مواقیت استفاده می‌کند، به‌درستی کار نمی‌کند و این موضوع بر توانایی ما در نمایش جهت قبله تأثیر گذاشته است.",
+    "connection_not_found": "تنظیم کالیبره‌کردن قطب‌نما غیرفعال است. لطفاً مطمئن شوید اتصال شما روشن است و با تغییر جهت، دوباره تلاش کنید.",
+    "currently_located_at": "مکان فعلی",
+    "facing_makkah": "شما در جهت مکه قرار دارید",
+    "not_facing_Makkah": "شما در جهت مکه قرار ندارید",
+    "qibla_Error_retry": "تلاش مجدد",
+    "@qibla_Error_retry": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDenied": "مجوز دسترسی به موقعیت مکانی داده نشده است",
+    "@qibla_Error_LocationDenied": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_LocationDeniedForever": "مجوز دسترسی به موقعیت مکانی به‌طور دائمی رد شده است!",
+    "@qibla_Error_LocationDeniedForever": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Error_PleaseEnable": "لطفاً سرویس مکان یاب را فعال کنید",
+    "@qibla_Error_PleaseEnable": {
+        "description": "_",
+        "type": "text"
+    },
+    "qibla_Direction": "جهت قبله",
+    "@qibla_Direction": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_FavoriteMosques": "مساجد مورد علاقه",
+    "@favorites_FavoriteMosques": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_Error": "خطایی رخ داده است...",
+    "@favorites_Error": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Image": "تصویر",
+    "@announcement_Image": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_Video": "ویدیو",
+    "@announcement_Type_Video": {
+        "description": "_",
+        "type": "text"
+    },
+    "announcement_Type_FlashInfo": "خبر فوری",
+    "@announcement_Type_FlashInfo": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText1": "حمایت مالی",
+    "@mosque_DonateText1": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_DonateText2": "به مسجد",
+    "@mosque_DonateText2": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Error_CouldNotLaunch": "راه‌اندازی انجام نشد",
+    "@mosque_Error_CouldNotLaunch": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_PrayerTimes": "اوقات نماز",
+    "@mosque_PrayerTimes": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Website": "وب سایت",
+    "@mosque_Website": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Address": "آدرس",
+    "@mosque_Address": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Phone": "تلفن",
+    "@mosque_Phone": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Email": "ایمیل",
+    "@mosque_Email": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_ByMawaqit": "از طرف مواقیت https://mawaqit.net",
+    "@mosque_ByMawaqit": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_Parking": "پارکینگ",
+    "@mosque_Facilities_Parking": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_DisabledAccess": "دسترسی برای افراد دارای معلولیت",
+    "@mosque_Facilities_DisabledAccess": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AblutionsRoom": "وضوخانه",
+    "@mosque_Facilities_AblutionsRoom": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_WomanSpace": "مسجد زنانه",
+    "@mosque_Facilities_WomanSpace": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_AdultsCourse": "کلاس‌های ویژه بزرگسالان",
+    "@mosque_Facilities_AdultsCourse": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_ChildrenCourses": "دوره‌های کودکان",
+    "@mosque_Facilities_ChildrenCourses": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlAid": "نماز عید",
+    "@mosque_Facilities_SalatAlAid": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_Facilities_SalatAlJanaza": "نماز میت",
+    "@mosque_Facilities_SalatAlJanaza": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosques_Facilities_IftarRamadan": "افطار رمضان",
+    "@mosques_Facilities_IftarRamadan": {
+        "description": "_",
+        "type": "text"
+    },
+    "mosque_facilities_Info": "تمام این اطلاعات توسط مسئولان مسجد وارد شده است",
+    "@mosque_facilities_Info": {
+        "description": "_",
+        "type": "text"
+    },
+    "in_": "پس از",
+    "@in_": {
+        "description": "_",
+        "type": "text"
+    },
+    "imsak": "روزه",
+    "@imsak": {
+        "description": "_",
+        "type": "text"
+    },
+    "eid": "نماز عید در",
+    "@eid": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes": "دقایق",
+    "@minutes": {
+        "description": "_",
+        "type": "text"
+    },
+    "jumua2": "جمعه\"2",
+    "@jumua2": {
+        "description": "_",
+        "type": "text"
+    },
+    "please_update": "نسخه جدیدتری از MAWAQIT موجود است، لطفاً به‌روزرسانی کنید",
+    "@please_update": {
+        "description": "_",
+        "type": "text"
+    },
+    "update": "بروزرسانی",
+    "@update": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_skip": "رد کردن آموزش",
+    "@tutorial_skip": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_next": "بعدی",
+    "@tutorial_next": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_main_mosque": "مسجد اصلی شما",
+    "@tutorial_title_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_main_mosque": "مسجد اصلی شما اینجا نمایش داده می‌شود.\nمی‌توانید با کشیدن به چپ و راست بین مساجد مورد علاقه‌تان جابجا شوید.",
+    "@tutorial_text_main_mosque": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_countdown": "نمایشگر نماز بعدی",
+    "@tutorial_title_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_countdown": "این شمارش معکوس زمان باقی‌مانده تا نماز بعدی را به شما نشان می‌دهد.",
+    "@tutorial_text_countdown": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_mosque_info": "اطلاعات مسجد",
+    "@tutorial_title_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_mosque_info": "همه چیز درباره مسجد شما: امکانات، آدرس، تلفن، ایمیل، کمک‌های مالی و موارد دیگر.",
+    "@tutorial_text_mosque_info": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_announcements": "پیام‌ها و اطلاعیه‌های مسجد",
+    "@tutorial_title_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_announcements": "اطلاع‌رسانی‌ها درباره پیام‌ها و اطلاعیه‌های مسجد شما در اینجا نمایش داده می‌شوند.\nوقتی روی این دکمه ضربه بزنید، جزئیات کامل را خواهید دید. این اطلاعیه‌ها می‌توانند شامل پیام فوری، تصویر یا حتی ویدئو باشند.",
+    "@tutorial_text_announcements": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_1": "زبان خود را انتخاب کنید",
+    "@onboarding_title_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_1": "زبان مورد نظر خود را از فهرست زیر انتخاب کنید",
+    "@onboarding_text_1": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_2": "به مواقیت خوش آمدید",
+    "@onboarding_title_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_2": "مواقیت یک اکوسیستم است که راهی نوین برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. اپلیکیشنی که در دست دارید بخشی از این اکوسیستم است و به شما امکان می‌دهد مساجد را پیدا کنید و از اخبار و اوقات نماز آن‌ها مطلع شوید",
+    "@onboarding_text_2": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_3": "یک قالب تاریک/روشن انتخاب کنید",
+    "@onboarding_title_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_3": "چه در محیط کم‌نور باشید و چه ترجیح دهید پس‌زمینه‌های تاریک‌تر روی گوشی‌تان داشته باشید، می‌توانید از حالت تاریک برای راحتی بیشتر دیداری بهره‌مند شوید",
+    "@onboarding_text_3": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_title_4": "مسجد اصلی خود را اضافه کنید",
+    "@onboarding_title_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_text_4": "لطفاً مسجد اصلی خود را از فهرست زیر انتخاب کنید یا مسجدی نزدیک به موقعیت فعلی خود جستجو کنید",
+    "@onboarding_text_4": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading": "بارگذاری",
+    "@loading": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_please_wait": "درحال بارگزاری... صبورباشید",
+    "@loading_please_wait": {
+        "description": "_",
+        "type": "text"
+    },
+    "loading_loaded": "بارگذاری تکمیل شد",
+    "@loading_loaded": {
+        "description": "_",
+        "type": "text"
+    },
+    "favorites_edit": "ویرایش مساجد مورد علاقه",
+    "@favorites_edit": {
+        "description": "_",
+        "type": "text"
+    },
+    "minutes_to_athan": "دقایق مانده تا اذان",
+    "@minutes_to_athan": {
+        "description": "minutes to athan",
+        "type": "text"
+    },
+    "show_tutorial": "مرور آموزش",
+    "@show_tutorial": {
+        "description": "_",
+        "type": "text"
+    },
+    "onboarding_chose_mosque_please": "لطفاً یک مسجد را از فهرست جستجو انتخاب کنید",
+    "@onboarding_chose_mosque_please": {
+        "description": "_",
+        "type": "text"
+    },
+    "done": "انجام شد",
+    "@done": {
+        "description": "_",
+        "type": "text"
+    },
+    "ok": "تایید",
+    "@ok": {
+        "description": "_",
+        "type": "text"
+    },
+    "km": "کیلومتر",
+    "@km": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_title": "برنامه را باز کنید",
+    "@notification_open_app_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "notification_open_app_body": "لطفاً برای دریافت اطلاع‌رسانی‌ها برنامه را باز کنید",
+    "@notification_open_app_body": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_notification": "یک اعلان نماز را انتخاب کنید",
+    "@tutorial_title_notification": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_notification": "اینجا می‌توانید نوع اعلان را انتخاب کنید: اذان، بوق یا بی‌صدا",
+    "@tutorial_text_notification": {
+        "description": "\\",
+        "type": "text"
+    },
+    "search_no_result": "سفیر مواقیت شوید و راه‌حل ما را به مسجد خود ارائه دهید، این خدمت رایگان است\nhttps://mawaqit.net»",
+    "@search_no_result": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_title": "امتیاز دادن به مواقیت",
+    "@rate_popin_title": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_message": "اگر این برنامه را دوست دارید، لطفاً کمی از وقت خود را برای بررسی آن اختصاص دهید!\nاین واقعاً به ما کمک می‌کند.",
+    "@rate_popin_message": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_rate": "امتیاز",
+    "@rate_popin_rate": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_no": "خیر متشکرم",
+    "@rate_popin_no": {
+        "description": "_",
+        "type": "text"
+    },
+    "rate_popin_later": "شاید بعداً",
+    "@rate_popin_later": {
+        "description": "_",
+        "type": "text"
+    },
+    "message_see_all": "می‌توانید با کلیک روی آیکون بلندگو در بالای صفحه، تمام پیام‌های این مسجد را مشاهده کنید.",
+    "@message_see_all": {
+        "description": "_",
+        "type": "text"
+    },
+    "adhan_Makkah": "مکه",
+    "@adhan_Makkah": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_title_iqama": "اقامه",
+    "@tutorial_title_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "tutorial_text_iqama": "مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید",
+    "@tutorial_text_iqama": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_tooltip_download": "دانلود تقویم",
+    "@calendar_tooltip_download": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_download_permission_refused": "مجوز دانلود به‌صورت دائم رد شده است، لطفاً دانلود را مجاز کنید",
+    "@calendar_download_permission_refused": {
+        "description": "_",
+        "type": "text"
+    },
+    "calendar_downloading": "دانلود تقویم...",
+    "@calendar_downloading": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_service_disabled": "خدمات موقعیت مکانی غیرفعال است، لطفاً آن را فعال کنید.",
+    "@location_service_disabled": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied": "مجوز دسترسی به موقعیت مکانی رد شده است، لطفاً آن را فعال کنید.",
+    "@location_permission_denied": {
+        "description": "_",
+        "type": "text"
+    },
+    "location_permission_denied_forever": "مجوز دسترسی به موقعیت مکانی برای همیشه رد شده است، لطفاً در صفحه تنظیمات آن را فعال کنید.",
+    "@location_permission_denied_forever": {
+        "description": "_",
+        "type": "text"
+    },
+    "at_least_one_mosque_error": "شما باید حداقل یک مسجد داشته باشید.",
+    "and": "و",
+    "continue_to_app": "ادامه دادن",
+    "add": "اضافه کردن",
+    "mosque": "مسجد",
+    "on_boarding_nearest_mosque": "بیایید نزدیک‌ترین مسجد را پیدا کنیم",
+    "on_boarding_nearest_mosque_text": "مساجد اطراف شما بر اساس موقعیت مکانی شما در اینجا نمایش داده شده‌اند",
+    "search_no_result_for_text": "هیچ نتیجه‌ای پیدا نکردیم",
+    "surah_audio_downloading": "در حال دانلود فایل صوتی سوره...",
+    "msg_internet_connection": "اتصال اینترنت شما قطع است",
+    "read_quran": "قران بخوان",
+    "ayahs": "آیات",
+    "chapter": "سورة",
+    "meaning": "به معنای",
+    "al_quran": "قران",
+    "surah_information": "اطلاعات سورة",
+    "surah_number": "شماره سورة",
+    "quran_browsing": "مرور",
+    "quran_search_placeholder": "جستجوی نام ، شماره و... سورة...",
+    "quran_verse_search": "جستجوی آیه",
+    "quran_translation": "ترجمه",
+    "quran_mushaf": "قران",
+    "quran_juzz": "جز",
+    "ayah": "آيه",
+    "quran_verses": "آيات",
+    "surah": "سورة",
+    "continue_reading": "ادامه مطلب",
+    "bookmarks": "نشانک ها",
+    "juzz": "جز",
+    "quran_page": "صفحه",
+    "quran_turning_page": "ورق زدن صفحه",
+    "quran_from_right_to_left": "از راست به چپ",
+    "quran_from_left_to_right": "از چپ به راست",
+    "quran_from_top_to_bottom": "از بالا به پایین",
+    "quran_from_bottom_to_top": "از پایین به بالا",
+    "quran_pages_color": "رنگ صفحه",
+    "english_tr": "انگلیسی",
+    "french_tr": "فرانسوی",
+    "spanish_tr": "اسپانیایی",
+    "muhammad_hamidullah": "محمد حمید الله",
+    "abdullah_yusuf_ali": "عبدالله یوسف علی",
+    "sheikh_isa_garcia": "شیخ عیسی گارسیا",
+    "reciters": "قرائت‌کنندگان",
+    "favorite_reciters": "قاریان مورد علاقه",
+    "surahs_downloaded": "سوره‌ها دانلود شده",
+    "surahs_chapter": "سوره‌ها - بخش",
+    "my_likes": "علاقه‌مندی‌های من",
+    "cancel": "لغو",
+    "next": "بعدی",
+    "search_surah": "جستجوی سوره",
+    "not_downloaded_recitation": "شما هنوز هیچ قرائتی دانلود نکرده‌اید.",
+    "not_favorite_reciter": "شما هنوز هیچ قاری‌ای را به عنوان مورد علاقه علامت‌گذاری نکرده‌اید.",
+    "search_reciter": "جستجوی قاری",
+    "al_quran_al_kareem": "القرآن الکریم",
+    "surahs": "سورة ها",
+    "chapters": "بخش‌ها",
+    "calculation_info": "تنظیمات این بخش فقط مربوط به اوقات نمازهایی است که بر اساس موقعیت مکانی شما محاسبه می‌شوند و مربوط به اوقات نماز مساجد نمی‌شود.",
+    "calculation_madhab": "فقه - مذهب فقهی",
+    "calculation_madhab_shafii": "شافعی\n\nحنبلی\n\nمالکی",
+    "calculation_madhab_shafii_countries": "اردن\n\nفلسطین\n\nیمن\n\nسومالی\n\nاریتره\n\nمالزی\n\nاندونزی\n\nبرونئی\n\nجنوب مصر\n\nعربستان سعودی\n\nقطر\n\nشمال آفریقا\n\nغرب آفریقا\n\nامارات متحده عربی\n\nکویت...",
+    "calculation_madhab_hanafi": "حنفی",
+    "calculation_madhab_hanafi_countries": "شام \n\nپاکستان\n\nافغانستان\n\nهند\n\nبنگلادش\n\nعراق\n\nترکیه\n\nروسیه\n\nچین\n\nبالکان‌ها...",
+    "calculation_methods": "روش‌های محاسبه",
+    "calculation_methods_france": "مسلمانان فرانسه(اتحادیه سازمان‌های اسلامی فرانسه)",
+    "calculation_methods_algeria": "وزارت امور دینی و اوقاف الجزایر",
+    "calculation_methods_morocco": "وزارت اوقاف و امور اسلامی مراکش",
+    "calculation_methods_muslim_world": "مجمع جهانی مسلمانان",
+    "calculation_methods_egyptian": "سازمان کل نقشه‌برداری مصر",
+    "calculation_methods_karachi": "دانشگاه علوم اسلامی کراچی",
+    "calculation_methods_umm_al_qura": "دانشگاه ام القُرى، مکه",
+    "calculation_methods_dubai": "منطقه خلیج فارس",
+    "calculation_methods_moon": "کمیته رویت هلال",
+    "calculation_methods_north_america": "جامعه اسلامی آمریکای شمالی",
+    "calculation_methods_kuwait": "کویت",
+    "calculation_methods_qatar": "قطر",
+    "calculation_methods_singapore": "سنگاپور",
+    "calculation_methods_turkey": "ترکیه",
+    "calculation_methods_tehran": "انستیتو ژئوفیزیک، دانشگاه تهران",
+    "calculation_methods_russia": "اداره مرکزی امور دینی مسلمانان روسیه",
+    "calculation_methods_custom": "زاویه‌های دلخواه",
+    "calculation_high_latitude": "عرض‌های جغرافیایی بالاتر",
+    "calculation_high_latitude_none": "هیچ کدام",
+    "calculation_high_latitude_middle": "نیمه شب",
+    "calculation_high_latitude_one_seventh": "یک‌هفتم شب",
+    "calculation_high_latitude_angle_based": "روش مبتنی بر زاویه",
+    "calculation_adjustment": "راهنمای تصحیح",
+    "calculation_adjustment_subtitle": "تنظیمات اوقات نماز و زاویه‌های دلخواه",
+    "calculation_adjustment_prayers": "تنظیم اوقات شرعی نماز",
+    "calculation_adjustment_prayers_minutes": "دقایق",
+    "calculation_adjustment_angles": "زاویه‌های دلخواه",
+    "calculation_prayer_custom_angle": "زاویه‌های دلخواه برای",
+    "error_download_quran_failed": "دانلود قرآن انجام نشد",
+    "downloading_quran": "در حال دانلود قران...",
+    "processing": "در حال پردازش...",
+    "copied_to_clipboard": "در کلیپ‌بورد شما کپی شد!",
+    "download_quran_popup_title": "آخرین اصلاحات",
+    "download_quran_popup_downloading_1": "نیاز است صفحات قرآن را دانلود کنیم، فقط چند ثانیه طول می‌کشد. از اینترنت همراه شما استفاده خواهیم کرد، در صورت نیاز به وای‌فای سوئیچ کنید.",
+    "download_quran_popup_downloading_2": "قرآن را فقط برای شما آماده می‌کنیم، لطفاً چند ثانیه صبر کنید!",
+    "download_quran_popup_downloading_3": "برای شروع مسیر خواندن و تأمل، روی «دانلود» کلیک کنید.",
+    "download_quran_popup_confirm_cancel": "آیا مطمئن هستید که می‌خواهید دانلود را لغو کنید؟ بدون این داده‌ها قادر به خواندن قرآن نخواهید بود و صفحات در دسترس نخواهند بود.",
+    "download_quran_popup_cancelled": "مشکلی پیش آمد، لطفاً دوباره روی دکمه دانلود کلیک کنید!",
+    "download": "دانلود",
+    "continue_download": "ادامه دانلود",
+    "cancel_download": "لغو دانلود",
+    "download_completed": "دانلود تکمیل شد",
+    "download_failed": "بارگیری ناموفق بود",
+    "download_pages": "صفحات را دانلود کنید",
+    "notification": "اعلان",
+    "notification_not_supported_below_7": "شما نمی‌توانید اعلان‌های اذان یا اوقات نماز را دریافت کنید زیرا دستگاه شما از اندروید ۷ یا نسخه‌های پایین‌تر استفاده می‌کند.",
+    "battery_optimization": "بهینه‌سازی مصرف باتری",
+    "battery_optimization_subtitle": "برای دریافت بدون مشکل اعلان‌های نماز، باید بهینه‌سازی باتری برای مواقیت را خاموش کنید.",
+    "allow": "اجازه دادن",
+    "deny": "رد کردن",
+    "force_notification": "اعلان‌ها را اجباری کنید",
+    "tutorial_text_foreground_service": "ضربه زدن روی آن به شما امکان می‌دهد سرویس «Foreground» را روشن یا خاموش کنید",
+    "enable": "روشن",
+    "disable": "خاموش",
+    "do_not_show_again": "دوباره نمایش نده",
+    "force_notification_title": "مواقیت فعال است تا اطمینان حاصل شود اعلان‌های نماز در زمان درست فعال می‌شوند.",
+    "force_notification_body": "همانا نماز بر مؤمنان در اوقات معینی واجب شده است.» (نساء، آیه ۱۰۳)",
+    "force_notification_dialog1_body": "با فعال کردن این گزینه، برنامه در حالت فعال باقی می‌ماند تا اطمینان حاصل شود اعلان‌های نماز در زمان صحیح و بدون تأخیر اجرا شوند. برنامه مواقیت فقط برای این منظور فعال خواهد بود و شما می‌توانید هر زمان که خواستید این گزینه را از تنظیمات غیرفعال کنید.",
+    "force_notification_dialog2_body": "بعد از فعال کردن «اعلان‌های اجباری»، با کشیدن نوار اعلان‌ها به پایین، این اعلان را مشاهده خواهید کرد",
+    "notification_debugging": "رفع اشکال اعلان‌ها",
+    "notification_debugging_details": "عیب‌یابی اعلان‌ها فعال است. اگر تنظیمات اعلان را تغییر دهید، داده‌های عیب‌یابی حذف شده و این قابلیت غیرفعال خواهد شد.",
+    "skip": "بعدی",
+    "agree": "قبول",
+    "return_no_search": "هیچ موردی یافت نشد",
+    "backend_environment_switch": "تعویض محیط پشتیبانی",
+    "set_development_environment": "تنظیم محیط توسعه",
+    "set_production_environment": "تنظیم محیط تولید",
+    "delay_notification": "تاخیر در اعلان",
+    "notification_delay_debugging_is": "عیب‌یابی تأخیر اعلان فعال است",
+    "banner_enable": "فعال‌سازی تبلیغات",
+    "banner": "تبلیغات",
+    "show_details": "نمایش جزئیات",
+    "auto_detect_location": "پیشنهاد مسجد نزدیک",
+    "auto_detect_explanation": "وقتی از مسجد خود دور هستید، برنامه به‌طور خودکار پیشنهاد می‌کند بر اساس موقعیت مکانی‌تان به دنبال نزدیک‌ترین مسجد بگردید.",
+    "auto_detect_location_title": "به نظر می‌رسد که از مسجد خود فاصله دارید",
+    "auto_detect_location_message": "آیا می‌خواهید برای دریافت اوقات دقیق نماز، نزدیک‌ترین مسجد را جستجو کنید؟",
+    "donation_success_toast": "اهدا با موفقیت انجام شد",
+    "donation_success": "از اهدای شما سپاسگزاریم، خداوند به شما جزای خیر دهد",
+    "donation_failed": "اهدا ناموفق بود",
+    "donate_for_good": "اهدای کمک برای نیکی",
+    "enter_amount_hint": "مبلغ را وارد کنید",
+    "enter_donation_amount": "مقدار کمک مالی را وارد کنید",
+    "google_pay_not_available": "خدمات Google Pay در این دستگاه فعال نمی‌باشد",
+    "error_performing_donation": "هنگام تلاش برای انجام اهداء، خطایی رخ داد",
+    "recurring_pay_text": "کمک خود را به صورت ماهیانه تنظیم کنید.",
+    "adjust_angles": "تنظیم زاویه‌ها",
+    "silent": "بی‌صدا",
+    "default_": "پیش فرض",
+    "muazzin": "موذنین",
+    "information": "اطلاعات",
+    "news": "اخبار",
+    "calendar": "تقویم",
+    "system": "سیستم",
+    "change_mosque_order": "مسجدها را بکشید و رها کنید تا ترتیبشان را تغییر دهید و مسجد اصلی را تعیین کنید",
+    "remove": "حذف",
+    "save": "ذخیره",
+    "main_mosque": "مسجد اصلی",
+    "mosques": "مساجد",
+    "no_news": "هیچ خبری از مسجد دریافت نشده است",
+    "mawaqit_notification": "اعلانات مواقیت",
+    "no_mawaqit_notification": "هیچ اعلانی از طرف مواقیت وجود ندارد",
+    "meccan": "مکی",
+    "medinan": "مدنی",
+    "montada_islamic_foundation": "بنیاد اسلامی مونتادا",
+    "rashid_maash": "راشد معاش",
+    "abdul_haleem": "عبدالحلیم",
+    "dr_mustafa_khattab": "دکتر مصطفی خطاب",
+    "frank_bubenheim_and_nadeem": "فرانک بو بن هایم و ندیم",
+    "abu_reda_muhammad_ibn_ahmad": "ابو رضا محمد بن احمد",
+    "unknown_author": "مولف ناشناخته",
+    "translation_settings": "تنظيمات ترجمه",
+    "reading": "مطالعه",
+    "listening": "در حال گوش دادن",
+    "font_size": "اندازه‌ی قلم",
+    "font_size_arabic": "اندازه قلم عربی",
+    "horizontal": "افقی",
+    "vertical": "عمودی",
+    "add_page_bookmarks": "افزودن صفحه به نشانک‌ها",
+    "remove_page_bookmarks": "حذف صفحه از نشانک‌ها",
+    "no_bookmarks": "هیچ نشانکی وجود ندارد",
+    "liked": "پسندیده شده",
+    "all_recitators": "قاریان قران",
+    "downloaded": "دانلود شده",
+    "search_for_recitator": "قاری قران را جستجو کنید",
+    "search_for_surah": "جستجوی یک سوره",
+    "search_for_fav_recitator": "قاری قران را جستجو کنید",
+    "listen_to_quran": "گوش دادن به قرآن",
+    "search_hint_text": "جستجوی مسجد یا شهر",
+    "downloading": "در حال دانلود",
+    "cant_download_more_than_3": "امکان دانلود بیش از ۳ مورد به‌صورت همزمان وجود ندارد.",
+    "boost": "تقویت",
+    "recitation_deleted_successfully": "قرائت با موفقیت حذف شد",
+    "quran": "قران",
+    "qibla": "قبله",
+    "search": "جستجو",
+    "more": "بیشتر",
+    "download_cancelled": "دانلود لغو شد",
+    "no_virtual_mosque_found": "متأسفیم، هیچ مسجدی در اطراف شما یافت نشد",
+    "no_surah_found": "هیچ سوره‌ای یافت نشد",
+    "no_favorite_recitor_found": "قرائت‌کننده محبوبی یافت نشد",
+    "no_recitator_found": "هیچ قرائت‌کننده‌ای یافت نشد",
+    "empty_quran_search": "نتایج جستجو اینجا نمایش داده خواهند شد",
+    "no_bookmark_ayah": "هیچ نشانکی موجود نیست. لطفاً روی آیه‌ای که می‌خواهید نشانک بگذارید، به‌طور طولانی لمس کنید.",
+    "page": "صفحه",
+    "prayer_times_in": "اوقات نماز در",
+    "update_new_version": "نسخه جدیدی از قرآن برای دانلود موجود است. برای دسترسی به بهبودهای جدید و ادامه مسیر با حکمت الهی، روی «به‌روزرسانی» ضربه بزنید",
+    "@update_new_version": {
+        "description": "Update the new version availiable"
+    },
+    "update_quran_zip": "نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.",
+    "@update_quran_zip": {
+        "description": "-> update_quran_zip"
+    },
+    "update_latest_quran_version": "نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.",
+    "@update_latest_quran_version": {
+        "description": "-> update_latest_quran_version"
+    },
+    "update_latest_quran": "نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.",
+    "@update_latest_quran": {
+        "description": "-> update_latest_quran"
+    },
+    "set_notification_for_all_parayer": "این را برای هر نماز تنظیم کنید",
+    "@set_notification_for_all_parayer": {
+        "description": "-> set_notification_for_all_parayer_"
+    },
+    "powered_by_mawaqit": "توسط مواقیت پشتیبانی می‌شود",
+    "@powered_by_mawaqit": {
+        "description": "-> powered_by_mawaqit_"
+    },
+    "adjust_hijri_date": "تنظیم تاریخ هجری",
+    "prayer_times_by_location": "اوقات نماز بر اساس موقعیت",
+    "already_in_list": "قبلاً در فهرست شما وجود دارد!",
+    "got_it": "متوجه شدم!",
+    "mushaf_warsh": "قرائت ورش",
+    "@mushaf_warsh": {
+        "description": "-> mushaf_warsh"
+    },
+    "mushaf_hafs": "قرائت حفص",
+    "@mushaf_hafs": {
+        "description": "-> mushaf_hafs"
+    },
+    "select_rewaya": "انتخاب روایت",
+    "@select_rewaya": {
+        "description": "-> select_rewaya"
+    },
+    "download_in_progress": "دانلود در حال انجام است، لطفاً صبر کنید...",
+    "@download_in_progress": {
+        "description": "-> download_in_progress"
+    },
+    "highlight_next_prayer_after_Iqama": "نماز بعدی پس از اقامه را برجسته کن",
+    "helmi_nasr": "دکتر حلمی نصر",
+    "settings_language_pt": "پرتغالی",
+    "al_zikr": "ذکر",
+    "favorite_azkar": "اذکار مورد علاقه",
+    "all_azkar": "اذکار",
+    "device_audio_not_found": "صدای دستگاه یافت نشد",
+    "@device_audio_not_found": {
+        "description": "-> device_audio_not_found"
+    },
+    "device_media": "رسانه‌های دستگاه",
+    "@device_media": {
+        "description": "-> device_media"
+    },
+    "add_new_audio": "افزودن فایل صوتی جدید",
+    "@add_new_audio": {
+        "description": "-> add_new_audio"
+    },
+    "selecet_audio_before_delete": "برای حذف فایل صوتی انتخاب‌شده، باید ابتدا یک فایل صوتی دیگر برای اعلان‌ها اضافه کنید",
+    "@selecet_audio_before_delete": {
+        "description": "-> selecet_audio_before_delete"
+    },
+    "addding_file_prompt": "می‌توانید چندین فایل صوتی اضافه کنید، اما لطفاً مطمئن شوید که فایل صوتی تکراری اضافه نکنید.",
+    "@addding_file_prompt": {
+        "description": "-> addding_file_prompt"
+    },
+    "ios_audio_file_picking_prompt": "لطفاً یک فایل صوتی با حداکثر مدت زمان ۳۰ ثانیه یا کمتر انتخاب کنید. فایل صوتی با مدت زمان بیشتر ممکن است اعلان نماز شما را دچار اختلال کند.",
+    "@ios_audio_file_picking_prompt": {
+        "description": "-> ios_audio_file_picking_prompt"
+    },
+    "select_audio_from_device": "فایل صوتی (mp3) را از دستگاه انتخاب کنید.",
+    "@select_audio_from_device": {
+        "description": "-> select_audio_from_device"
+    },
+    "add_ticket": "افزودن تیکت",
+    "projects": "پروژه ها",
+    "fill_form": "برای افزودن پروژه خود در اینجا، این فرم را تکمیل کنید",
+    "form": "فرم",
+    "updates_draw": "به‌روزرسانی‌ها را دریافت کنید و در قرعه‌کشی برای برنده شدن هدایا از طرف [نام یا منبع] شرکت کنید",
+    "email_info": "اگر در قرعه‌کشی برنده شدید، از این ایمیل برای تماس با شما استفاده خواهد شد",
+    "enter_email": "ایمیل خود را وارد کنید",
+    "email_privacy": "مواقیت این ایمیل را با هیچ‌کس به اشتراک نخواهد گذاشت. این ایمیل پس از هر قرعه‌کشی به‌صورت خودکار از پایگاه داده ما حذف خواهد شد",
+    "submit": "ثبت کردن",
+    "disclaimer": "مواقیت هیچ‌گونه مسئولیتی در قبال خدمات یا محصولات ارائه‌شده توسط پروژه‌های فهرست‌شده ندارد. لطفاً تحقیقات و بررسی‌های لازم را شخصاً انجام دهید",
+    "participating_with": "شما در حال مشارکت هستید با",
+    "no_of_tickets": "تعداد بلیت‌ها:",
+    "unparticipate": "برای شرکت کلیک کنید",
+    "next_ticket": "بلیت بعدی در دسترس خواهد بود در",
+    "click_here": "اینجا کلیک کنید",
+    "mawaqit_store": "فروشگاه مواقیت",
+    "no_projects": "پروژه ای وجود ندارد",
+    "draw_info": "یک قرعه‌کشی در هر ماه برگزار می‌شود. هر بیست و چهار ساعت می‌توانید یک بلیت جدید اضافه کنید تا شانس برنده شدن خود را افزایش دهید!",
+    "enter_valid_email": "لطفا یک آدرس ایمیل معتبر وارد کنید",
+    "please_enter_email": "لطفاً یک ایمیل وارد کنید",
+    "select_device_audo_for_ios_propmpt": "یک فایل صوتی انتخاب کنید؛ ما آن را به فرمتی سازگار با iOS تبدیل می‌کنیم و به دلیل محدودیت‌های این پلتفرم، آن را به ۳۰ ثانیه کوتاه می‌کنیم.",
+    "@select_device_audo_for_ios_propmpt": {
+        "description": "-> select_device_audo_for_ios_propmpt"
+    },
+    "confirm_deletion": "تایید حذف",
+    "sure_remove_rewaya": "آیا مطمئن هستید که می‌خواهید این روایت را حذف کنید؟",
+    "file_not_found": "فایل یافت نشد",
+    "@file_not_found": {
+        "description": "-> file_not_found"
+    },
+    "notified_boost": "از جدیدترین به‌روزرسانی‌های پروژه‌های MAWAQIT Boost مطلع شوید.",
+    "contact_us_boost": "برای درج پروژه خود در اینجا، با ما از طریق [اینجا شماره یا ایمیل را وارد کنید] تماس بگیرید",
+    "prayer_times_set_by_mosque": "اوقات نماز و تمام اطلاعات موجود در اینجا توسط مسجد تعیین می‌شوند، نه MAWAQIT",
+    "@prayer_times_set_by_mosque": {
+        "description": "-> prayer_times_set_by_mosque"
+    },
+    "hasan_nahi": "حسن ناهی",
+    "albanian": "آلبانیایی",
+    "delete_all": "حذف همه",
+    "@delete_all": {
+        "description": "-> delete_all"
+    },
+    "delete_all_downloads": "حذف همه بارگیری‌ها از تاریخچه",
+    "@delete_all_downloads": {
+        "description": "-> delete_all_downloads"
+    },
+    "delete_recitations_message": "آیا مطمئن هستید که می‌خواهید همه قرائت‌های دانلود شده را حذف کنید؟",
+    "@delete_recitations_message": {
+        "description": "-> delete_recitations_message"
+    },
+    "downloaded_deleted_successfully": "تمام قرائت‌های دانلود شده با موفقیت حذف شدند",
+    "@downloaded_deleted_successfully": {
+        "description": "-> downloaded_deleted_successfully"
+    },
+    "failed_delete_recitations": "حذف همه قرائت‌ها ناموفق بود",
+    "@failed_delete_recitations": {
+        "description": "failed_delete_recitations"
+    },
+    "no_azkar_result": "هیچ نتیجه‌ای برای ذکر موجود نیست",
+    "search_title": "جستجو با استفاده از عنوان",
+    "compass_calibration": "تنظیمات کالیبراسیون قطب‌نما غیرفعال است. گوشی خود را 3 بار به صورت حرکت عدد هشت‌ انگلیسی بصورت کج حرکت دهید، مانند این",
+    "@compass_calibration": {
+        "description": "-> compass_calibration"
+    },
+    "compass_accuracy": "دقت قطب‌نما",
+    "@compass_accuracy": {
+        "description": "-> compass_accuracy"
+    },
+    "low": "کم",
+    "@low": {
+        "description": "-> low"
+    },
+    "tafsir": "تفسیر",
+    "copy": "کپی",
+    "no_tafsir": "هنوز هیچ تفسیری دانلود نشده است",
+    "download_tafsir": "تفسیری را دانلود کنید",
+    "hussary": "محمود خلیل الحصری",
+    "hussary_mujawwad": "الحصری (مجوّد)",
+    "shuraim": "سعود الشریم",
+    "arrafai": "هانی الرفاعی",
+    "meaqli": "ماهر المعیقلی",
+    "afasy": "مشاري بن راشد العفاسي",
+    "minshawi": "المنشاوی",
+    "abdulbasit": "عبدالباسط عبدالصمد",
+    "abdulbasit_mujawwad": "عبدالباسط(مجود)",
+    "ghamdi": "سعد الغامدي",
+    "dosari": "یاسر الدوسری",
+    "shatri": "أبو بكر الشاطري",
+    "tunaiji": "خلیفه الطنّیجی",
+    "sudais": "عبدالرحمن السدیس",
+    "tablawi": "محمد الطبلاوی",
+    "murattal": "مرتّل",
+    "mujawwad": "مجوّد",
+    "moallim": "قرآن آموزشی",
+    "play": "پخش",
+    "playback_settings": "تنظیمات پخش",
+    "from": "از",
+    "to": "به",
+    "range": "محدوده",
+    "select_starting_verse": "آیه شروع را انتخاب کنید",
+    "select_ending_verse": "آیه پایان را انتخاب کنید",
+    "range_repeat": "تکرار محدوده",
+    "verse_repeat": "تکرار آیه"
+}
