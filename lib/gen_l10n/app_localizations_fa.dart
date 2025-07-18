@@ -1359,82 +1359,82 @@ class AppLocalizationsFa extends AppLocalizations {
   String get enter_email => 'Enter your email';
 
   @override
-  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+  String get email_privacy => 'مواقیت این ایمیل را با هیچ‌کس به اشتراک نخواهد گذاشت. این ایمیل پس از هر قرعه‌کشی به‌صورت خودکار از پایگاه داده ما حذف خواهد شد';
 
   @override
-  String get submit => 'Submit';
+  String get submit => 'ثبت کردن';
 
   @override
-  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+  String get disclaimer => 'مواقیت هیچ‌گونه مسئولیتی در قبال خدمات یا محصولات ارائه‌شده توسط پروژه‌های فهرست‌شده ندارد. لطفاً تحقیقات و بررسی‌های لازم را شخصاً انجام دهید';
 
   @override
-  String get participating_with => 'You\'re participating with';
+  String get participating_with => 'شما در حال مشارکت هستید با';
 
   @override
-  String get no_of_tickets => 'No. of tickets:';
+  String get no_of_tickets => 'تعداد بلیت‌ها:';
 
   @override
-  String get unparticipate => 'Click to unparticipate';
+  String get unparticipate => 'برای شرکت کلیک کنید';
 
   @override
-  String get next_ticket => 'The next ticket available in';
+  String get next_ticket => 'بلیت بعدی در دسترس خواهد بود در';
 
   @override
-  String get click_here => 'Click here';
+  String get click_here => 'اینجا کلیک کنید';
 
   @override
-  String get mawaqit_store => 'MAWAQIT Store';
+  String get mawaqit_store => 'فروشگاه مواقیت';
 
   @override
-  String get no_projects => 'There are no projects';
+  String get no_projects => 'پروژه ای وجود ندارد';
 
   @override
-  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+  String get draw_info => 'یک قرعه‌کشی در هر ماه برگزار می‌شود. هر بیست و چهار ساعت می‌توانید یک بلیت جدید اضافه کنید تا شانس برنده شدن خود را افزایش دهید!';
 
   @override
-  String get enter_valid_email => 'Enter a valid email';
+  String get enter_valid_email => 'لطفا یک آدرس ایمیل معتبر وارد کنید';
 
   @override
-  String get please_enter_email => 'Please enter an email';
+  String get please_enter_email => 'لطفاً یک ایمیل وارد کنید';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+  String get select_device_audo_for_ios_propmpt => 'یک فایل صوتی انتخاب کنید؛ ما آن را به فرمتی سازگار با iOS تبدیل می‌کنیم و به دلیل محدودیت‌های این پلتفرم، آن را به ۳۰ ثانیه کوتاه می‌کنیم.';
 
   @override
-  String get confirm_deletion => 'Confirm Deletion';
+  String get confirm_deletion => 'تایید حذف';
 
   @override
-  String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
+  String get sure_remove_rewaya => 'آیا مطمئن هستید که می‌خواهید این روایت را حذف کنید؟';
 
   @override
-  String get file_not_found => 'File not found';
+  String get file_not_found => 'فایل یافت نشد';
 
   @override
-  String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
+  String get notified_boost => 'از جدیدترین به‌روزرسانی‌های پروژه‌های MAWAQIT Boost مطلع شوید.';
 
   @override
-  String get contact_us_boost => 'To list your project here, contact us at';
+  String get contact_us_boost => 'برای درج پروژه خود در اینجا، با ما از طریق [اینجا شماره یا ایمیل را وارد کنید] تماس بگیرید';
 
   @override
-  String get prayer_times_set_by_mosque => 'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+  String get prayer_times_set_by_mosque => 'اوقات نماز و تمام اطلاعات موجود در اینجا توسط مسجد تعیین می‌شوند، نه MAWAQIT';
 
   @override
-  String get hasan_nahi => 'Hasan Nahi';
+  String get hasan_nahi => 'حسن ناهی';
 
   @override
-  String get albanian => 'Albanian';
+  String get albanian => 'آلبانیایی';
 
   @override
-  String get delete_all => 'Delete All';
+  String get delete_all => 'حذف همه';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'حذف همه بارگیری‌ها از تاریخچه';
 
   @override
-  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+  String get delete_recitations_message => 'آیا مطمئن هستید که می‌خواهید همه قرائت‌های دانلود شده را حذف کنید؟';
 
   @override
-  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+  String get downloaded_deleted_successfully => 'تمام قرائت‌های دانلود شده با موفقیت حذف شدند';
 
   @override
   String get failed_delete_recitations => 'Failed to delete all recitations';
