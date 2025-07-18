@@ -233,7 +233,7 @@
     "search_HelpText": "شما می‌توانید برای جستجوی مسجد، موارد زیر را وارد کنید:\n\nنام مسجد\n\nنام انجمن\n\nشهر، آدرس، کشور و...\n\nیا می‌توانید با زدن دکمه مکان‌یاب، مساجد اطراف را پیدا کنید.",
     "search_MaxFavMosquesReached": "شما به حداکثر تعداد مساجد مورد علاقه رسیده‌اید.",
     "search_iOs14_message": "جستجو با استفاده از GPS در iOS 14 ممکن است کمی زمان ببرد، لطفاً صبر کنید.",
-    "search_error": "متأسفانه خطای داخلی اتفاق افتاده است",
+    "search_error": "متأسفانه خطای داخلی اتفاق افتاده است'",
     "search_your_location": "موقعیت شما",
     "search_location_disabled": "لطفاً مسجد را با نام یا شهر جستجو کنید، یا به صورت دستی اجازه استفاده از موقعیت مکانی را در تنظیمات خود فعال کنید.",
     "search_settings": "تنظیمات",
@@ -416,7 +416,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "کلاس‌های ویژه کودکان",
+    "mosque_Facilities_ChildrenCourses": "دوره‌های کودکان",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
@@ -426,252 +426,252 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "نماز میت",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "mosques_Facilities_IftarRamadan": "افطار رمضان",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All this information is filled in by the people in charge of the mosque",
+    "mosque_facilities_Info": "تمام این اطلاعات توسط مسئولان مسجد وارد شده است",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "پس از",
     "@in_": {
         "description": "_",
         "type": "text"
     },
-    "imsak": "Imsak",
+    "imsak": "روزه",
     "@imsak": {
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid prayer at",
+    "eid": "نماز عید در",
     "@eid": {
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "دقایق",
     "@minutes": {
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jum'a 2",
+    "jumua2": "جمعه\"2",
     "@jumua2": {
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "نسخه جدیدتری از MAWAQIT موجود است، لطفاً به‌روزرسانی کنید",
     "@please_update": {
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "بروزرسانی",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skip tutorial",
+    "tutorial_skip": "رد کردن آموزش",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_next": "Next",
+    "tutorial_next": "بعدی",
     "@tutorial_next": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Your main mosque",
+    "tutorial_title_main_mosque": "مسجد اصلی شما",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.",
+    "tutorial_text_main_mosque": "مسجد اصلی شما اینجا نمایش داده می‌شود.\nمی‌توانید با کشیدن به چپ و راست بین مساجد مورد علاقه‌تان جابجا شوید.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Next prayer indicator",
+    "tutorial_title_countdown": "نمایشگر نماز بعدی",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "This countdown shows you the time remaining before the next prayer.",
+    "tutorial_text_countdown": "این شمارش معکوس زمان باقی‌مانده تا نماز بعدی را به شما نشان می‌دهد.",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Mosque Information",
+    "tutorial_title_mosque_info": "اطلاعات مسجد",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.",
+    "tutorial_text_mosque_info": "همه چیز درباره مسجد شما: امکانات، آدرس، تلفن، ایمیل، کمک‌های مالی و موارد دیگر.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "Mosque messages and announcements",
+    "tutorial_title_announcements": "پیام‌ها و اطلاعیه‌های مسجد",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.",
+    "tutorial_text_announcements": "اطلاع‌رسانی‌ها درباره پیام‌ها و اطلاعیه‌های مسجد شما در اینجا نمایش داده می‌شوند.\nوقتی روی این دکمه ضربه بزنید، جزئیات کامل را خواهید دید. این اطلاعیه‌ها می‌توانند شامل پیام فوری، تصویر یا حتی ویدئو باشند.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Select your language",
+    "onboarding_title_1": "زبان خود را انتخاب کنید",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Select your preferred language from the list below",
+    "onboarding_text_1": "زبان مورد نظر خود را از فهرست زیر انتخاب کنید",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_2": "Welcome to MAWAQIT",
+    "onboarding_title_2": "به مواقیت خوش آمدید",
     "@onboarding_title_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times",
+    "onboarding_text_2": "مواقیت یک اکوسیستم است که راهی نوین برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. اپلیکیشنی که در دست دارید بخشی از این اکوسیستم است و به شما امکان می‌دهد مساجد را پیدا کنید و از اخبار و اوقات نماز آن‌ها مطلع شوید",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_3": "Select a Dark/Light theme",
+    "onboarding_title_3": "یک قالب تاریک/روشن انتخاب کنید",
     "@onboarding_title_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort",
+    "onboarding_text_3": "چه در محیط کم‌نور باشید و چه ترجیح دهید پس‌زمینه‌های تاریک‌تر روی گوشی‌تان داشته باشید، می‌توانید از حالت تاریک برای راحتی بیشتر دیداری بهره‌مند شوید",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_4": "Add your main Mosque",
+    "onboarding_title_4": "مسجد اصلی خود را اضافه کنید",
     "@onboarding_title_4": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Please pick your main mosque from the list below or search for a mosque near your current location",
+    "onboarding_text_4": "لطفاً مسجد اصلی خود را از فهرست زیر انتخاب کنید یا مسجدی نزدیک به موقعیت فعلی خود جستجو کنید",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
     },
-    "loading": "Loading",
+    "loading": "بارگذاری",
     "@loading": {
         "description": "_",
         "type": "text"
     },
-    "loading_please_wait": "Loading... Please wait",
+    "loading_please_wait": "درحال بارگزاری... صبورباشید",
     "@loading_please_wait": {
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Loading complete",
+    "loading_loaded": "بارگذاری تکمیل شد",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite Mosques",
+    "favorites_edit": "ویرایش مساجد مورد علاقه",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minutes to athan",
+    "minutes_to_athan": "دقایق مانده تا اذان",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Review the tutorial",
+    "show_tutorial": "مرور آموزش",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_chose_mosque_please": "Please choose a mosque from the search list",
+    "onboarding_chose_mosque_please": "لطفاً یک مسجد را از فهرست جستجو انتخاب کنید",
     "@onboarding_chose_mosque_please": {
         "description": "_",
         "type": "text"
     },
-    "done": "Done",
+    "done": "انجام شد",
     "@done": {
         "description": "_",
         "type": "text"
     },
-    "ok": "OK",
+    "ok": "تایید",
     "@ok": {
         "description": "_",
         "type": "text"
     },
-    "km": "km",
+    "km": "کیلومتر",
     "@km": {
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_title": "Open the app",
+    "notification_open_app_title": "برنامه را باز کنید",
     "@notification_open_app_title": {
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Please open the app to maintain notifications",
+    "notification_open_app_body": "لطفاً برای دریافت اطلاع‌رسانی‌ها برنامه را باز کنید",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Select a prayer notification",
+    "tutorial_title_notification": "یک اعلان نماز را انتخاب کنید",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "اینجا می‌توانید نوع اعلان را انتخاب کنید: اذان، بوق یا بی‌صدا",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Become a MAWAQIT ambassador and offer our solution to your mosque, it's free\nhttps://mawaqit.net",
+    "search_no_result": "سفیر مواقیت شوید و راه‌حل ما را به مسجد خود ارائه دهید، این خدمت رایگان است\nhttps://mawaqit.net»",
     "@search_no_result": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Rate MAWAQIT",
+    "rate_popin_title": "امتیاز دادن به مواقیت",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "If you like this app, please take a little bit of your time to review it !\nIt really helps us.",
+    "rate_popin_message": "اگر این برنامه را دوست دارید، لطفاً کمی از وقت خود را برای بررسی آن اختصاص دهید!\nاین واقعاً به ما کمک می‌کند.",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "RATE",
+    "rate_popin_rate": "امتیاز",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_no": "NO THANKS",
+    "rate_popin_no": "خیر متشکرم",
     "@rate_popin_no": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_later": "MAYBE LATER",
+    "rate_popin_later": "شاید بعداً",
     "@rate_popin_later": {
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "You can view all messages from this mosque by clicking on the speaker at the top of the screen.",
+    "message_see_all": "می‌توانید با کلیک روی آیکون بلندگو در بالای صفحه، تمام پیام‌های این مسجد را مشاهده کنید.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "مکه",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -808,10 +808,10 @@
     "calculation_adjustment_angles": "زاویه‌های دلخواه",
     "calculation_prayer_custom_angle": "زاویه‌های دلخواه برای",
     "error_download_quran_failed": "دانلود قرآن انجام نشد",
-    "downloading_quran": "Downloading Quran...",
-    "processing": "Processing...",
-    "copied_to_clipboard": "Copied to your clipboard !",
-    "download_quran_popup_title": "Last touch ups",
+    "downloading_quran": "در حال دانلود قران...",
+    "processing": "در حال پردازش...",
+    "copied_to_clipboard": "در کلیپ‌بورد شما کپی شد!",
+    "download_quran_popup_title": "آخرین اصلاحات",
     "download_quran_popup_downloading_1": "We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.",
     "download_quran_popup_downloading_2": "We are preparing the Qur’an just for you, please wait a few seconds!",
     "download_quran_popup_downloading_3": "Click on 'Download' to start your journey of reading and reflection.",
@@ -886,7 +886,7 @@
     "rashid_maash": "راشد معاش",
     "abdul_haleem": "عبدالحلیم",
     "dr_mustafa_khattab": "دکتر مصطفی خطاب",
-    "frank_bubenheim_and_nadeem": "فرانک بو بن هیم و ندیم",
+    "frank_bubenheim_and_nadeem": "فرانک بو بن هایم و ندیم",
     "abu_reda_muhammad_ibn_ahmad": "ابو رضا محمد بن احمد",
     "unknown_author": "مولف ناشناخته",
     "translation_settings": "تنظيمات ترجمه",
@@ -908,107 +908,107 @@
     "listen_to_quran": "گوش دادن به قرآن",
     "search_hint_text": "جستجوی مسجد یا شهر",
     "downloading": "در حال دانلود",
-    "cant_download_more_than_3": "Cannot download more than 3 at the same time.",
-    "boost": "Boost",
-    "recitation_deleted_successfully": "Recitation deleted successfully",
-    "quran": "Quran",
-    "qibla": "Qibla",
-    "search": "Search",
-    "more": "More",
-    "download_cancelled": "Download cancelled",
-    "no_virtual_mosque_found": "Sorry, we don't find any mosque around you",
-    "no_surah_found": "No surah found",
-    "no_favorite_recitor_found": "No favorite recitator found",
-    "no_recitator_found": "No recitator found",
-    "empty_quran_search": "Search results will appear here",
-    "no_bookmark_ayah": "No bookmarks available. Please long-press on the ayah you wish to bookmark.",
-    "page": "Page",
-    "prayer_times_in": "Prayer times in",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "cant_download_more_than_3": "امکان دانلود بیش از ۳ مورد به‌صورت همزمان وجود ندارد.",
+    "boost": "تقویت",
+    "recitation_deleted_successfully": "قرائت با موفقیت حذف شد",
+    "quran": "قران",
+    "qibla": "قبله",
+    "search": "جستجو",
+    "more": "بیشتر",
+    "download_cancelled": "دانلود لغو شد",
+    "no_virtual_mosque_found": "متأسفیم، هیچ مسجدی در اطراف شما یافت نشد",
+    "no_surah_found": "هیچ سوره‌ای یافت نشد",
+    "no_favorite_recitor_found": "قرائت‌کننده محبوبی یافت نشد",
+    "no_recitator_found": "هیچ قرائت‌کننده‌ای یافت نشد",
+    "empty_quran_search": "نتایج جستجو اینجا نمایش داده خواهند شد",
+    "no_bookmark_ayah": "هیچ نشانکی موجود نیست. لطفاً روی آیه‌ای که می‌خواهید نشانک بگذارید، به‌طور طولانی لمس کنید.",
+    "page": "صفحه",
+    "prayer_times_in": "اوقات نماز در",
+    "update_new_version": "نسخه جدیدی از قرآن برای دانلود موجود است. برای دسترسی به بهبودهای جدید و ادامه مسیر با حکمت الهی، روی «به‌روزرسانی» ضربه بزنید",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_quran_zip": "نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_latest_quran_version": "نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "A revised version has been released with typographical improvements. Click 'Update' to continue your journey of reading and reflection.",
+    "update_latest_quran": "نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
-    "set_notification_for_all_parayer": "Set this for every prayer",
+    "set_notification_for_all_parayer": "این را برای هر نماز تنظیم کنید",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     },
-    "powered_by_mawaqit": "Powered by MAWAQIT",
+    "powered_by_mawaqit": "توسط مواقیت پشتیبانی می‌شود",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
-    "adjust_hijri_date": "Adjust Hijri Date",
-    "prayer_times_by_location": "Prayer times by location",
-    "already_in_list": "is already in your list!",
-    "got_it": "Got it!",
-    "mushaf_warsh": "Warsh",
+    "adjust_hijri_date": "تنظیم تاریخ هجری",
+    "prayer_times_by_location": "اوقات نماز بر اساس موقعیت",
+    "already_in_list": "قبلاً در فهرست شما وجود دارد!",
+    "got_it": "متوجه شدم!",
+    "mushaf_warsh": "قرائت ورش",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
-    "mushaf_hafs": "Hafs",
+    "mushaf_hafs": "قرائت حفص",
     "@mushaf_hafs": {
         "description": "-> mushaf_hafs"
     },
-    "select_rewaya": "Select Rewaya",
+    "select_rewaya": "انتخاب روایت",
     "@select_rewaya": {
         "description": "-> select_rewaya"
     },
-    "download_in_progress": "Download in progress, please wait...",
+    "download_in_progress": "دانلود در حال انجام است، لطفاً صبر کنید...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Highlight next prayer after Iqama",
-    "helmi_nasr": "Dr. Helmi Nasr",
-    "settings_language_pt": "Portuguese",
-    "al_zikr": "Al-Zikr",
-    "favorite_azkar": "Favorite Azkar",
-    "all_azkar": "All Azkar",
-    "device_audio_not_found": "Device audio not found",
+    "highlight_next_prayer_after_Iqama": "نماز بعدی پس از اقامه را برجسته کن",
+    "helmi_nasr": "دکتر حلمی نصر",
+    "settings_language_pt": "پرتغالی",
+    "al_zikr": "ذکر",
+    "favorite_azkar": "اذکار مورد علاقه",
+    "all_azkar": "اذکار",
+    "device_audio_not_found": "صدای دستگاه یافت نشد",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
     },
-    "device_media": "Device Media",
+    "device_media": "رسانه‌های دستگاه",
     "@device_media": {
         "description": "-> device_media"
     },
-    "add_new_audio": "Add a new audio file",
+    "add_new_audio": "افزودن فایل صوتی جدید",
     "@add_new_audio": {
         "description": "-> add_new_audio"
     },
-    "selecet_audio_before_delete": "You need to add another audio file for notifications before deleting the selected audio file",
+    "selecet_audio_before_delete": "برای حذف فایل صوتی انتخاب‌شده، باید ابتدا یک فایل صوتی دیگر برای اعلان‌ها اضافه کنید",
     "@selecet_audio_before_delete": {
         "description": "-> selecet_audio_before_delete"
     },
-    "addding_file_prompt": "You can add multiple audio files, but please make sure not to add the same audio file.",
+    "addding_file_prompt": "می‌توانید چندین فایل صوتی اضافه کنید، اما لطفاً مطمئن شوید که فایل صوتی تکراری اضافه نکنید.",
     "@addding_file_prompt": {
         "description": "-> addding_file_prompt"
     },
-    "ios_audio_file_picking_prompt": "Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.",
+    "ios_audio_file_picking_prompt": "لطفاً یک فایل صوتی با حداکثر مدت زمان ۳۰ ثانیه یا کمتر انتخاب کنید. فایل صوتی با مدت زمان بیشتر ممکن است اعلان نماز شما را دچار اختلال کند.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
     },
-    "select_audio_from_device": "Select audio (mp3) from device.",
+    "select_audio_from_device": "فایل صوتی (mp3) را از دستگاه انتخاب کنید.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-    "add_ticket": "Add ticket",
-    "projects": "Projects",
-    "fill_form": "To add your project here fill up this",
-    "form": "form",
-    "updates_draw": "Get updates and participate in the draw to win goodies from",
-    "email_info": "This email will be used to contact you if you win the draw",
-    "enter_email": "Enter your email",
+    "add_ticket": "افزودن تیکت",
+    "projects": "پروژه ها",
+    "fill_form": "برای افزودن پروژه خود در اینجا، این فرم را تکمیل کنید",
+    "form": "فرم",
+    "updates_draw": "به‌روزرسانی‌ها را دریافت کنید و در قرعه‌کشی برای برنده شدن هدایا از طرف [نام یا منبع] شرکت کنید",
+    "email_info": "اگر در قرعه‌کشی برنده شدید، از این ایمیل برای تماس با شما استفاده خواهد شد",
+    "enter_email": "ایمیل خود را وارد کنید",
     "email_privacy": "مواقیت این ایمیل را با هیچ‌کس به اشتراک نخواهد گذاشت. این ایمیل پس از هر قرعه‌کشی به‌صورت خودکار از پایگاه داده ما حذف خواهد شد",
     "submit": "ثبت کردن",
     "disclaimer": "مواقیت هیچ‌گونه مسئولیتی در قبال خدمات یا محصولات ارائه‌شده توسط پروژه‌های فهرست‌شده ندارد. لطفاً تحقیقات و بررسی‌های لازم را شخصاً انجام دهید",
@@ -1056,42 +1056,42 @@
     "@downloaded_deleted_successfully": {
         "description": "-> downloaded_deleted_successfully"
     },
-    "failed_delete_recitations": "Failed to delete all recitations",
+    "failed_delete_recitations": "حذف همه قرائت‌ها ناموفق بود",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "No remembrance results available",
-    "search_title": "Search using the title",
-    "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
+    "no_azkar_result": "هیچ نتیجه‌ای برای ذکر موجود نیست",
+    "search_title": "جستجو با استفاده از عنوان",
+    "compass_calibration": "تنظیمات کالیبراسیون قطب‌نما غیرفعال است. گوشی خود را 3 بار به صورت حرکت عدد هشت‌ انگلیسی بصورت کج حرکت دهید، مانند این",
     "@compass_calibration": {
         "description": "-> compass_calibration"
     },
-    "compass_accuracy": "Compass Accuracy",
+    "compass_accuracy": "دقت قطب‌نما",
     "@compass_accuracy": {
         "description": "-> compass_accuracy"
     },
-    "low": "Low",
+    "low": "کم",
     "@low": {
         "description": "-> low"
     },
-    "tafsir": "Tafsir",
-    "copy": "Copy",
-    "no_tafsir": "No Tafsir has been downloaded yet",
-    "download_tafsir": "Download the Tafsir",
-    "hussary": "Mahmoud Khalil Al‑Hussary",
-    "hussary_mujawwad": "Al‑Hussary (Mujawwad)",
-    "shuraim": "Saud Al‑Shuraim",
-    "arrafai": "Hani Arrafai",
-    "meaqli": "Maher Al‑Meaqli",
-    "afasy": "Mishary Al‑Afasy",
-    "minshawi": "Al‑Minshawi",
-    "abdulbasit": "Abdulbasit Abdulsamad",
-    "abdulbasit_mujawwad": "Abdulbasit (Mujawwad)",
-    "ghamdi": "Saad Al‑Ghamdi",
-    "dosari": "Yasser Al‑Dosari",
-    "shatri": "Abu Bakr Ash‑Shatri",
-    "tunaiji": "Khalifa Al‑Tunaiji",
-    "sudais": "Abdulrahman Alsudaes",
+    "tafsir": "تفسیر",
+    "copy": "کپی",
+    "no_tafsir": "هنوز هیچ تفسیری دانلود نشده است",
+    "download_tafsir": "تفسیری را دانلود کنید",
+    "hussary": "محمود خلیل الحصری",
+    "hussary_mujawwad": "الحصری (مجوّد)",
+    "shuraim": "سعود الشریم",
+    "arrafai": "هانی الرفاعی",
+    "meaqli": "ماهر المعیقلی",
+    "afasy": "مشاري بن راشد العفاسي",
+    "minshawi": "المنشاوی",
+    "abdulbasit": "عبدالباسط عبدالصمد",
+    "abdulbasit_mujawwad": "عبدالباسط(مجود)",
+    "ghamdi": "سعد الغامدي",
+    "dosari": "یاسر الدوسری",
+    "shatri": "أبو بكر الشاطري",
+    "tunaiji": "خلیفه الطنّیجی",
+    "sudais": "عبدالرحمن السدیس",
     "tablawi": "Mohamed Al‑Tablawi",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
