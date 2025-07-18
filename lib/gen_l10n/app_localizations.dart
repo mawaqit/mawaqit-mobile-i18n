@@ -3155,6 +3155,192 @@ abstract class AppLocalizations {
   /// **'Mohamed Al‑Tablawi'**
   String get tablawi;
 
+  /// No description provided for @abdul_rashid_ali_sufi.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdul Rashid Ali Sufi'**
+  String get abdul_rashid_ali_sufi;
+
+  /// No description provided for @abdullaah_ajuhaynee_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdullaah Ajuhaynee'**
+  String get abdullaah_ajuhaynee_murattal;
+
+  /// No description provided for @abdullaah_basfar_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdullah Basfar'**
+  String get abdullaah_basfar_murattal;
+
+  /// No description provided for @abdullah_matroud_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdullah Matroud'**
+  String get abdullah_matroud_murattal;
+
+  /// No description provided for @ahmed_al_ajamy_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ahmed Al Ajamy'**
+  String get ahmed_al_ajamy_murattal;
+
+  /// No description provided for @ahmed_neana_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ahmed Neana'**
+  String get ahmed_neana_murattal;
+
+  /// No description provided for @akram_alaqimy_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Akram Alaqimy'**
+  String get akram_alaqimy_murattal;
+
+  /// No description provided for @ali_hajjaj_suesy_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ali Hajjaj Suesy'**
+  String get ali_hajjaj_suesy_murattal;
+
+  /// No description provided for @ali_jaber_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ali Jaber'**
+  String get ali_jaber_murattal;
+
+  /// No description provided for @ayman_sowaid_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayman Sowaid'**
+  String get ayman_sowaid_murattal;
+
+  /// No description provided for @aziz_alii_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Aziz Alii'**
+  String get aziz_alii_murattal;
+
+  /// No description provided for @fares_abbad_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Fares Abbad'**
+  String get fares_abbad_murattal;
+
+  /// No description provided for @hudhaify_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Hudhaify'**
+  String get hudhaify_murattal;
+
+  /// No description provided for @husary_muallim.
+  ///
+  /// In en, this message translates to:
+  /// **'Husary (Mu\'allim)'**
+  String get husary_muallim;
+
+  /// No description provided for @ibrahim_akhdar_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ibrahim Akhdar'**
+  String get ibrahim_akhdar_murattal;
+
+  /// No description provided for @khaalid_qahataanee_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Khaalid Qahataanee'**
+  String get khaalid_qahataanee_murattal;
+
+  /// No description provided for @khalid_al_mohanna.
+  ///
+  /// In en, this message translates to:
+  /// **'Khalid Al Mohanna'**
+  String get khalid_al_mohanna;
+
+  /// No description provided for @mahmoud_ali_al_banna_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Mahmoud Ali Al Banna'**
+  String get mahmoud_ali_al_banna_murattal;
+
+  /// No description provided for @minshawy_mujawwad.
+  ///
+  /// In en, this message translates to:
+  /// **'Minshawy (Mujawwad)'**
+  String get minshawy_mujawwad;
+
+  /// No description provided for @mohammad_rashad_alshareef.
+  ///
+  /// In en, this message translates to:
+  /// **'Mohammad Rashad Alshareef'**
+  String get mohammad_rashad_alshareef;
+
+  /// No description provided for @muhammad_abdulKareem_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhammad Abdul Kareem'**
+  String get muhammad_abdulKareem_murattal;
+
+  /// No description provided for @muhammad_ayyoub_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhammad Ayyoub'**
+  String get muhammad_ayyoub_murattal;
+
+  /// No description provided for @muhammad_jibreel_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhammad Jibreel'**
+  String get muhammad_jibreel_murattal;
+
+  /// No description provided for @muhsin_al_qasim_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhsin Al Qasim'**
+  String get muhsin_al_qasim_murattal;
+
+  /// No description provided for @nabil_rifai3_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Nabil Rifai'**
+  String get nabil_rifai3_murattal;
+
+  /// No description provided for @nasser_alqatami_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Nasser Alqatami'**
+  String get nasser_alqatami_murattal;
+
+  /// No description provided for @sahl_yassin_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Sahl Yassin'**
+  String get sahl_yassin_murattal;
+
+  /// No description provided for @salaah_abdulRahman_bukhatir_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Salaah AbdulRahman Bukhatir'**
+  String get salaah_abdulRahman_bukhatir_murattal;
+
+  /// No description provided for @salah_albudair_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Salah AlBudair'**
+  String get salah_albudair_murattal;
+
+  /// No description provided for @tawfeeq_assayegh.
+  ///
+  /// In en, this message translates to:
+  /// **'Tawfeeq Assayegh'**
+  String get tawfeeq_assayegh;
+
+  /// No description provided for @yaser_salamah_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Yaser Salamah'**
+  String get yaser_salamah_murattal;
+
   /// No description provided for @murattal.
   ///
   /// In en, this message translates to:
