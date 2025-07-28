@@ -1,6 +1,6 @@
 {
     "@@locale": "ur-PK",
-    "bottomNavbar_mawaqit": "MAWAQIT",
+    "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
@@ -10,7 +10,7 @@
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_qibla": "Qibla",
+    "bottomNavbar_qibla": "قِبلہ",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
@@ -30,12 +30,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "اندھیرا",
+    "settings_ThemeDark": "گہرا پن",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "روشنی",
+    "settings_ThemeLight": "ہلکا پن",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
@@ -73,23 +73,23 @@
     "settings_PrayerNotifications": "نماز کی اطلاع",
     "settings_PrayerPreNotifications": "نماز سے پہلے کی اطلاع",
     "settings_ShuruqPreNotifications": "اشراق سے پہلے کی اطلاع",
-    "settings_Calculations": "Calculations",
+    "settings_Calculations": "حساب کتاب",
     "settings_RateOurApp": "ہماری ایپ کو ریٹ کریں",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "مواقیت کا حصہ بنیں",
+    "settings_WhatsNew": "نیا کیا ہے",
+    "settings_SupportMawaqit": "مَواقیت کی حمایت کریں",
     "settings_News": "خبریں",
     "settings_MakeADonation": "عطیہ کریں",
-    "bismillah": "Bismillah",
+    "bismillah": "بِسمِ اللہ",
     "settings_DonateToMawaqit": "مواقیت کو عطیہ کریں",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "settings_CheckForUpdates": "اپ ڈیٹ کی جانچ کریں",
+    "settings_CheckForUpdates": "اَپ ڈیٹس چیک کریں",
     "@settings_CheckForUpdates": {
         "description": "_",
         "type": "text"
@@ -111,9 +111,9 @@
     "settings_language_de": "جرمن",
     "settings_language_es": "ہسپانوی",
     "settings_language_en": "انگریزی",
-    "settings_language_it": "اطالوی",
-    "settings_language_tr": "ترکی",
-    "settings_language_ru": "روسی",
+    "settings_language_it": "اِطالوی",
+    "settings_language_tr": "تُرکی",
+    "settings_language_ru": "رُوسی",
     "settings_language_id": "انڈونیشین",
     "settings_language_ur": "اردو",
     "settings_language_pl": "پولش",
@@ -157,8 +157,8 @@
         "description": "_",
         "type": "text"
     },
-    "sabah": "فجر",
-    "settings_PrayerNotification_NoNotification": "آپ نے فی الحال اس دعا کے لیے مطلع نہ ہونے کے لیے ترتیب دی ہے۔",
+    "sabah": "صبح",
+    "settings_PrayerNotification_NoNotification": "آپ نے فی الوقت اس نماز کی اطلاع نہ دینے کا انتخاب کیا ہوا ہے.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
