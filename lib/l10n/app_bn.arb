@@ -60,7 +60,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "১২ ঘন্টা",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
