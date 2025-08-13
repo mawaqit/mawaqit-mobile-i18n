@@ -1135,5 +1135,13 @@
     "select_starting_verse": "Odaberi početni ajet",
     "select_ending_verse": "Odaberi završni ajet",
     "range_repeat": "Ponavljaj opseg",
-    "verse_repeat": "Ponavljaj ajet"
+    "verse_repeat": "Ponavljaj ajet",
+    "improved_Hafs_Rewaya_Force_Update": "We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty": {
+        "description": "-> mawaqit_three_sixty"
+    }
 }

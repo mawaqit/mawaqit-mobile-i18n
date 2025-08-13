@@ -1135,5 +1135,13 @@
     "select_starting_verse": "Sélectionner le verset de début",
     "select_ending_verse": "Sélectionner le verset de fin",
     "range_repeat": "Répéter la plage",
-    "verse_repeat": "Répéter le verset"
+    "verse_repeat": "Répéter le verset",
+    "improved_Hafs_Rewaya_Force_Update": "Nous avons amélioré votre Hafs Rewaya. Téléchargez maintenant pour explorer Tafsir et écouter des récitations en cliquant sur n'importe quelle Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty": "MAWAQIT 360",
+    "@mawaqit_three_sixty": {
+        "description": "-> mawaqit_three_sixty"
+    }
 }

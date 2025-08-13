@@ -35,7 +35,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "আলো",
+    "settings_ThemeLight": "উজ্জ্বল",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
@@ -60,7 +60,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "১২ ঘন্টা",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
@@ -268,7 +268,7 @@
     "prayer_times": "নামাজের সময়",
     "remove_this_city": "এই শহরকে সরিয়ে দাও",
     "add_this_city": "এই শহর যোগ করুন",
-    "add_this_mosque": "এই মসজিদকে অ্যাড",
+    "add_this_mosque": "এই মসজিদকে যোগ করুন",
     "remove_this_mosque": "এই মসজিদ সরিয়ে দাও",
     "services": "সেবা",
     "share": "শেয়ার করুন",
@@ -276,7 +276,7 @@
     "call": "কল",
     "dnd": "বিরক্ত করবেন না",
     "battery_optimize": "ব্যাটারি অপ্টিমাইজেশান",
-    "power_saver": "শক্তি বাঁচায়",
+    "power_saver": "পাওয়ার সেভার",
     "permission_message1": "আমরা একটি বিলম্বিত বিজ্ঞপ্তি সনাক্ত করেছি, দয়া করে বন্ধ করুন৷",
     "permission_message2": "বিজ্ঞপ্তি বিলম্ব সনাক্ত করা হয়েছে",
     "notifications_delay_detected": "Notifications delay detected",
@@ -772,31 +772,31 @@
     "al_quran_al_kareem": "Al Quran Al Kareem",
     "surahs": "Surahs",
     "chapters": "Chapters",
-    "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
+    "calculation_info": "এই অংশের সেটিংস শুধুমাত্র আপনার অবস্থানের (জিওলোকেশন) ভিত্তিতে হিসাব করা নামাজের সময়ের সাথে সম্পর্কিত, মসজিদের নামাজের সময়ের সাথে নয়.",
     "calculation_madhab": "Jurisprudence - Madhab",
     "calculation_madhab_shafii": "Shafi’i, Hanbali and Maliki",
     "calculation_madhab_shafii_countries": "Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...",
     "calculation_madhab_hanafi": "Hanafi",
-    "calculation_madhab_hanafi_countries": "Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...",
+    "calculation_madhab_hanafi_countries": "লেভান্ট, পাকিস্তান, আফগানিস্তান, ভারত, বাংলাদেশ, ইরাক, তুরস্ক, রাশিয়া, চীন, বালকান...",
     "calculation_methods": "Calculation methods",
     "calculation_methods_france": "Muslim of France (ex UOIF)",
-    "calculation_methods_algeria": "Algerian Ministry of Religious Affairs and Wakfs",
-    "calculation_methods_morocco": "Moroccan Ministry of Wakfs and Islamic Affairs",
-    "calculation_methods_muslim_world": "Muslim World League",
-    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
-    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
-    "calculation_methods_umm_al_qura": "Umm al-Qura University, Makkah",
-    "calculation_methods_dubai": "The Gulf Region",
-    "calculation_methods_moon": "Moon Sighting Committee",
-    "calculation_methods_north_america": "Islamic Society of North America",
+    "calculation_methods_algeria": "আলজেরিয়ান মিনিস্ট্রি অফ রিলিজিয়াস এফেয়ার এন্ড ওয়াকফ",
+    "calculation_methods_morocco": "আলজেরিয়ান মিনিস্ট্রি অফ ওয়াকফ এন্ড রিলিজিয়াস এফেয়ারস",
+    "calculation_methods_muslim_world": "মুসলিম ওয়ার্ল্ড লীগ",
+    "calculation_methods_egyptian": "মিশরীয় জেনারেল অথরিটি অফ সার্ভে",
+    "calculation_methods_karachi": "ইউনিভার্সিটি অব ইসলামিক সায়েন্সেস, করাচি",
+    "calculation_methods_umm_al_qura": "উম্মুল কুরা বিশ্ববিদ্যালয়, মক্কা",
+    "calculation_methods_dubai": "গালফ অঞ্চল",
+    "calculation_methods_moon": "চাঁদ দেখা কমিটি",
+    "calculation_methods_north_america": "ইসলামিক সোসাইটি অফ নর্থ আমেরিকা",
     "calculation_methods_kuwait": "Kuwait",
     "calculation_methods_qatar": "Qatar",
     "calculation_methods_singapore": "Singapore",
     "calculation_methods_turkey": "Turkey",
     "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
-    "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
-    "calculation_methods_custom": "Custom angles",
-    "calculation_high_latitude": "Higher latitudes",
+    "calculation_methods_russia": "স্পিরিচুয়াল এডমিনিস্ট্রেশন অফ মুসলিমস ইন রাশিয়া",
+    "calculation_methods_custom": "কাস্টম এংগেল",
+    "calculation_high_latitude": "উচ্চতর অক্ষাংশ",
     "calculation_high_latitude_none": "None",
     "calculation_high_latitude_middle": "Middle of the night",
     "calculation_high_latitude_one_seventh": "One-seventh of the night",
@@ -1135,5 +1135,13 @@
     "select_starting_verse": "শুরু আয়াত নির্বাচন করুন",
     "select_ending_verse": "শেষ আয়াত নির্বাচন করুন",
     "range_repeat": "পরিসর পুনরাবৃত্তি",
-    "verse_repeat": "আয়াত পুনরাবৃত্তি"
+    "verse_repeat": "আয়াত পুনরাবৃত্তি",
+    "improved_Hafs_Rewaya_Force_Update": "We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty": {
+        "description": "-> mawaqit_three_sixty"
+    }
 }

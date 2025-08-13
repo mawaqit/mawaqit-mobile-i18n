@@ -1639,4 +1639,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get verse_repeat => 'Повтор аята';
+
+  @override
+  String get improved_Hafs_Rewaya_Force_Update => 'Мы улучшили ваш Хафс Ревайя. Загрузите теперь, чтобы исследовать Тафсир и послушать чтения, нажав на любой аят';
+
+  @override
+  String get mawaqit_three_sixty => 'MAWAQIT 360';
 }

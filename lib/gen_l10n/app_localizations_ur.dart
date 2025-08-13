@@ -9,13 +9,13 @@ class AppLocalizationsUr extends AppLocalizations {
   AppLocalizationsUr([String locale = 'ur']) : super(locale);
 
   @override
-  String get bottomNavbar_mawaqit => 'MAWAQIT';
+  String get bottomNavbar_mawaqit => 'مواقیت';
 
   @override
   String get bottomNavbar_favorites => 'پسندیدہ';
 
   @override
-  String get bottomNavbar_qibla => 'Qibla';
+  String get bottomNavbar_qibla => 'قِبلہ';
 
   @override
   String get bottomNavbar_search => 'تلاش کریں';
@@ -27,10 +27,10 @@ class AppLocalizationsUr extends AppLocalizations {
   String get settings_ThemeAuto => 'آٹو';
 
   @override
-  String get settings_ThemeDark => 'اندھیرا';
+  String get settings_ThemeDark => 'گہرا پن';
 
   @override
-  String get settings_ThemeLight => 'روشنی';
+  String get settings_ThemeLight => 'ہلکا پن';
 
   @override
   String get settings_TimeFormat => 'وقت کی ترتیب';
@@ -60,16 +60,16 @@ class AppLocalizationsUr extends AppLocalizations {
   String get settings_ShuruqPreNotifications => 'اشراق سے پہلے کی اطلاع';
 
   @override
-  String get settings_Calculations => 'Calculations';
+  String get settings_Calculations => 'حساب کتاب';
 
   @override
   String get settings_RateOurApp => 'ہماری ایپ کو ریٹ کریں';
 
   @override
-  String get settings_WhatsNew => 'What\'s new';
+  String get settings_WhatsNew => 'نیا کیا ہے';
 
   @override
-  String get settings_SupportMawaqit => 'مواقیت کا حصہ بنیں';
+  String get settings_SupportMawaqit => 'مَواقیت کی حمایت کریں';
 
   @override
   String get settings_News => 'خبریں';
@@ -78,13 +78,13 @@ class AppLocalizationsUr extends AppLocalizations {
   String get settings_MakeADonation => 'عطیہ کریں';
 
   @override
-  String get bismillah => 'Bismillah';
+  String get bismillah => 'بِسمِ اللہ';
 
   @override
   String get settings_DonateToMawaqit => 'مواقیت کو عطیہ کریں';
 
   @override
-  String get settings_CheckForUpdates => 'اپ ڈیٹ کی جانچ کریں';
+  String get settings_CheckForUpdates => 'اَپ ڈیٹس چیک کریں';
 
   @override
   String get settings_Credits => 'کریڈٹ';
@@ -114,13 +114,13 @@ class AppLocalizationsUr extends AppLocalizations {
   String get settings_language_en => 'انگریزی';
 
   @override
-  String get settings_language_it => 'اطالوی';
+  String get settings_language_it => 'اِطالوی';
 
   @override
-  String get settings_language_tr => 'ترکی';
+  String get settings_language_tr => 'تُرکی';
 
   @override
-  String get settings_language_ru => 'روسی';
+  String get settings_language_ru => 'رُوسی';
 
   @override
   String get settings_language_id => 'انڈونیشین';
@@ -156,10 +156,10 @@ class AppLocalizationsUr extends AppLocalizations {
   String get isha => 'عشاء';
 
   @override
-  String get sabah => 'فجر';
+  String get sabah => 'صبح';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'آپ نے فی الحال اس دعا کے لیے مطلع نہ ہونے کے لیے ترتیب دی ہے۔';
+  String get settings_PrayerNotification_NoNotification => 'آپ نے فی الوقت اس نماز کی اطلاع نہ دینے کا انتخاب کیا ہوا ہے.';
 
   @override
   String get settings_PrayerNotification_Bip => 'اطلاع پر بیپ رنگ ٹون ایپلی کیشن۔';
@@ -1639,4 +1639,10 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get verse_repeat => 'آیت دہرائیں';
+
+  @override
+  String get improved_Hafs_Rewaya_Force_Update => 'We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah';
+
+  @override
+  String get mawaqit_three_sixty => 'MAWAQIT 360 (Beta)';
 }

@@ -25,6 +25,7 @@ import 'app_localizations_it.dart';
 import 'app_localizations_ku.dart';
 import 'app_localizations_ms.dart';
 import 'app_localizations_nl.dart';
+import 'app_localizations_pa.dart';
 import 'app_localizations_pl.dart';
 import 'app_localizations_pt.dart';
 import 'app_localizations_ru.dart';
@@ -138,6 +139,7 @@ abstract class AppLocalizations {
     Locale('ku'),
     Locale('ms'),
     Locale('nl'),
+    Locale('pa'),
     Locale('pl'),
     Locale('pt'),
     Locale('ru'),
@@ -3412,6 +3414,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Verse Repeat'**
   String get verse_repeat;
+
+  /// -> improved_ Hafs_Rewaya_Force_Update
+  ///
+  /// In en, this message translates to:
+  /// **'We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah'**
+  String get improved_Hafs_Rewaya_Force_Update;
+
+  /// -> mawaqit_three_sixty
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT 360 (Beta)'**
+  String get mawaqit_three_sixty;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
@@ -3423,7 +3437,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'fa', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pl', 'pt', 'ru', 'si', 'sq', 'sv', 'ta', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'fa', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pa', 'pl', 'pt', 'ru', 'si', 'sq', 'sv', 'ta', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -3454,6 +3468,7 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
     case 'ku': return AppLocalizationsKu();
     case 'ms': return AppLocalizationsMs();
     case 'nl': return AppLocalizationsNl();
+    case 'pa': return AppLocalizationsPa();
     case 'pl': return AppLocalizationsPl();
     case 'pt': return AppLocalizationsPt();
     case 'ru': return AppLocalizationsRu();

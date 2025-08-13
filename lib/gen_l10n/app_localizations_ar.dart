@@ -1639,4 +1639,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get verse_repeat => 'تكرار الآية';
+
+  @override
+  String get improved_Hafs_Rewaya_Force_Update => 'لقد قمنا بتحسين معركة \"هافز\". قم بالتحميل الآن لاستكشاف \"تفسير\" والاستماع إلى التصحيحات بالنقر على أي آية';
+
+  @override
+  String get mawaqit_three_sixty => 'MAWAQIT 360';
 }

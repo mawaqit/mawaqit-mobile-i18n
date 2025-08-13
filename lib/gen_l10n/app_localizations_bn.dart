@@ -30,7 +30,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings_ThemeDark => 'অন্ধকার';
 
   @override
-  String get settings_ThemeLight => 'আলো';
+  String get settings_ThemeLight => 'উজ্জ্বল';
 
   @override
   String get settings_TimeFormat => 'সময় ফর্ম্যাট';
@@ -45,7 +45,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings_Theme => 'থিম';
 
   @override
-  String get settings_TimeFormat12H => '12H';
+  String get settings_TimeFormat12H => '১২ ঘন্টা';
 
   @override
   String get settings_TimeFormat24H => '24H';
@@ -321,7 +321,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get add_this_city => 'এই শহর যোগ করুন';
 
   @override
-  String get add_this_mosque => 'এই মসজিদকে অ্যাড';
+  String get add_this_mosque => 'এই মসজিদকে যোগ করুন';
 
   @override
   String get remove_this_mosque => 'এই মসজিদ সরিয়ে দাও';
@@ -345,7 +345,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get battery_optimize => 'ব্যাটারি অপ্টিমাইজেশান';
 
   @override
-  String get power_saver => 'শক্তি বাঁচায়';
+  String get power_saver => 'পাওয়ার সেভার';
 
   @override
   String get permission_message1 => 'আমরা একটি বিলম্বিত বিজ্ঞপ্তি সনাক্ত করেছি, দয়া করে বন্ধ করুন৷';
@@ -801,7 +801,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get chapters => 'Chapters';
 
   @override
-  String get calculation_info => 'The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.';
+  String get calculation_info => 'এই অংশের সেটিংস শুধুমাত্র আপনার অবস্থানের (জিওলোকেশন) ভিত্তিতে হিসাব করা নামাজের সময়ের সাথে সম্পর্কিত, মসজিদের নামাজের সময়ের সাথে নয়.';
 
   @override
   String get calculation_madhab => 'Jurisprudence - Madhab';
@@ -816,7 +816,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get calculation_madhab_hanafi => 'Hanafi';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...';
+  String get calculation_madhab_hanafi_countries => 'লেভান্ট, পাকিস্তান, আফগানিস্তান, ভারত, বাংলাদেশ, ইরাক, তুরস্ক, রাশিয়া, চীন, বালকান...';
 
   @override
   String get calculation_methods => 'Calculation methods';
@@ -825,31 +825,31 @@ class AppLocalizationsBn extends AppLocalizations {
   String get calculation_methods_france => 'Muslim of France (ex UOIF)';
 
   @override
-  String get calculation_methods_algeria => 'Algerian Ministry of Religious Affairs and Wakfs';
+  String get calculation_methods_algeria => 'আলজেরিয়ান মিনিস্ট্রি অফ রিলিজিয়াস এফেয়ার এন্ড ওয়াকফ';
 
   @override
-  String get calculation_methods_morocco => 'Moroccan Ministry of Wakfs and Islamic Affairs';
+  String get calculation_methods_morocco => 'আলজেরিয়ান মিনিস্ট্রি অফ ওয়াকফ এন্ড রিলিজিয়াস এফেয়ারস';
 
   @override
-  String get calculation_methods_muslim_world => 'Muslim World League';
+  String get calculation_methods_muslim_world => 'মুসলিম ওয়ার্ল্ড লীগ';
 
   @override
-  String get calculation_methods_egyptian => 'Egyptian General Authority of Survey';
+  String get calculation_methods_egyptian => 'মিশরীয় জেনারেল অথরিটি অফ সার্ভে';
 
   @override
-  String get calculation_methods_karachi => 'University of Islamic Sciences, Karachi';
+  String get calculation_methods_karachi => 'ইউনিভার্সিটি অব ইসলামিক সায়েন্সেস, করাচি';
 
   @override
-  String get calculation_methods_umm_al_qura => 'Umm al-Qura University, Makkah';
+  String get calculation_methods_umm_al_qura => 'উম্মুল কুরা বিশ্ববিদ্যালয়, মক্কা';
 
   @override
-  String get calculation_methods_dubai => 'The Gulf Region';
+  String get calculation_methods_dubai => 'গালফ অঞ্চল';
 
   @override
-  String get calculation_methods_moon => 'Moon Sighting Committee';
+  String get calculation_methods_moon => 'চাঁদ দেখা কমিটি';
 
   @override
-  String get calculation_methods_north_america => 'Islamic Society of North America';
+  String get calculation_methods_north_america => 'ইসলামিক সোসাইটি অফ নর্থ আমেরিকা';
 
   @override
   String get calculation_methods_kuwait => 'Kuwait';
@@ -867,13 +867,13 @@ class AppLocalizationsBn extends AppLocalizations {
   String get calculation_methods_tehran => 'Institute of Geophysics, University of Tehran';
 
   @override
-  String get calculation_methods_russia => 'Spiritual Administration of Muslims in Russia';
+  String get calculation_methods_russia => 'স্পিরিচুয়াল এডমিনিস্ট্রেশন অফ মুসলিমস ইন রাশিয়া';
 
   @override
-  String get calculation_methods_custom => 'Custom angles';
+  String get calculation_methods_custom => 'কাস্টম এংগেল';
 
   @override
-  String get calculation_high_latitude => 'Higher latitudes';
+  String get calculation_high_latitude => 'উচ্চতর অক্ষাংশ';
 
   @override
   String get calculation_high_latitude_none => 'None';
@@ -1639,4 +1639,10 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get verse_repeat => 'আয়াত পুনরাবৃত্তি';
+
+  @override
+  String get improved_Hafs_Rewaya_Force_Update => 'We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah';
+
+  @override
+  String get mawaqit_three_sixty => 'MAWAQIT 360 (Beta)';
 }

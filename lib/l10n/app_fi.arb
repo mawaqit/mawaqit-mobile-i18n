@@ -1135,5 +1135,13 @@
     "select_starting_verse": "Valitse Aloitusjae",
     "select_ending_verse": "Valitse Päättyvä Jae",
     "range_repeat": "Vaihteluvälin Toisto",
-    "verse_repeat": "Jae Toisto"
+    "verse_repeat": "Jae Toisto",
+    "improved_Hafs_Rewaya_Force_Update": "Olemme parantaneet Hafs Rewaya. Lataa nyt tutustua Tafsir ja kuunnella reseptejä klikkaamalla mitä tahansa Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty": "MAWAQIT 360",
+    "@mawaqit_three_sixty": {
+        "description": "-> mawaqit_three_sixty"
+    }
 }
