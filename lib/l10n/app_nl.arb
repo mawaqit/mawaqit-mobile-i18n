@@ -1139,5 +1139,9 @@
     "improved_Hafs_Rewaya_Force_Update": "We hebben uw Hafs Rewaya verbeterd. Download nu om Tafsir te ontdekken en naar overwegingen te luisteren door op een Ayah te klikken",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty": "MAWAQIT 360",
+    "@mawaqit_three_sixty": {
+        "description": "-> mawaqit_three_sixty"
     }
 }
