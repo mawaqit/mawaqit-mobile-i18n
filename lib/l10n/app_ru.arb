@@ -1136,8 +1136,8 @@
     "select_ending_verse": "Выбрать конечный аят",
     "range_repeat": "Повтор диапазона",
     "verse_repeat": "Повтор аята",
-    "improved_ Hafs_Rewaya_Force_Update": "Мы улучшили ваш Хафс Ревайя. Загрузите теперь, чтобы исследовать Тафсир и послушать чтения, нажав на любой аят",
-    "@improved_ Hafs_Rewaya_Force_Update": {
+    "improved_Hafs_Rewaya_Force_Update": "Мы улучшили ваш Хафс Ревайя. Загрузите теперь, чтобы исследовать Тафсир и послушать чтения, нажав на любой аят",
+    "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     }
 }
