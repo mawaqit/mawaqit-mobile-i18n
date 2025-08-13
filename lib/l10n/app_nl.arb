@@ -1135,5 +1135,9 @@
     "select_starting_verse": "Selecteer beginvers",
     "select_ending_verse": "Selecteer eindvers",
     "range_repeat": "Bereik herhalen",
-    "verse_repeat": "Vers herhalen"
+    "verse_repeat": "Vers herhalen",
+    "improved_ Hafs_Rewaya_Force_Update": "We hebben uw Hafs Rewaya verbeterd. Download nu om Tafsir te ontdekken en naar overwegingen te luisteren door op een Ayah te klikken",
+    "@improved_ Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    }
 }
