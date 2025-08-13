@@ -1136,8 +1136,8 @@
     "select_ending_verse": "শেষ আয়াত নির্বাচন করুন",
     "range_repeat": "পরিসর পুনরাবৃত্তি",
     "verse_repeat": "আয়াত পুনরাবৃত্তি",
-    "improved_ Hafs_Rewaya_Force_Update": "We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah",
-    "@improved_ Hafs_Rewaya_Force_Update": {
+    "improved_Hafs_Rewaya_Force_Update": "We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     }
 }
