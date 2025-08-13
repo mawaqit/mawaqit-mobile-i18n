@@ -1143,5 +1143,9 @@
     "mawaqit_three_sixty": "MAWAQIT 360 (Beta)",
     "@mawaqit_three_sixty": {
         "description": "-> mawaqit_three_sixty"
+    },
+    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
     }
 }
