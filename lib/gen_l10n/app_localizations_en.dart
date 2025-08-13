@@ -1645,4 +1645,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty => 'MAWAQIT 360 (Beta)';
+
+  @override
+  String get mawaqit_three_sixty_description => 'See prayer times come to life with our new animated clock';
 }

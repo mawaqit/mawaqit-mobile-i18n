@@ -1143,5 +1143,9 @@
     "mawaqit_three_sixty": "MAWAQIT 360",
     "@mawaqit_three_sixty": {
         "description": "-> mawaqit_three_sixty"
+    },
+    "mawaqit_three_sixty_description": "Ver los tiempos de oración cobran vida con nuestro nuevo reloj animado",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
     }
 }

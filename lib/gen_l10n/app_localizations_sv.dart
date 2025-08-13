@@ -1645,4 +1645,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty => 'MAWAQIT 360';
+
+  @override
+  String get mawaqit_three_sixty_description => 'Se bönen tider komma till liv med vår nya animerade klocka';
 }
