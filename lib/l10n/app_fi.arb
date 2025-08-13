@@ -1136,8 +1136,8 @@
     "select_ending_verse": "Valitse Päättyvä Jae",
     "range_repeat": "Vaihteluvälin Toisto",
     "verse_repeat": "Jae Toisto",
-    "improved_ Hafs_Rewaya_Force_Update": "Olemme parantaneet Hafs Rewaya. Lataa nyt tutustua Tafsir ja kuunnella reseptejä klikkaamalla mitä tahansa Ayah",
-    "@improved_ Hafs_Rewaya_Force_Update": {
+    "improved_Hafs_Rewaya_Force_Update": "Olemme parantaneet Hafs Rewaya. Lataa nyt tutustua Tafsir ja kuunnella reseptejä klikkaamalla mitä tahansa Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     }
 }
