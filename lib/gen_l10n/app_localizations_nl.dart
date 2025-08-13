@@ -1645,4 +1645,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty => 'MAWAQIT 360';
+
+  @override
+  String get mawaqit_three_sixty_description => 'Zie gebedstijden die tot leven komen met onze nieuwe geanimeerde klok';
 }

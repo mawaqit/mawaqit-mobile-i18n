@@ -3426,6 +3426,13 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'MAWAQIT 360 (Beta)'**
   String get mawaqit_three_sixty;
+
+  /// -> mawaqit_three_sixty_description
+  /// _
+  ///
+  /// In en, this message translates to:
+  /// **'See prayer times come to life with our new animated clock'**
+  String get mawaqit_three_sixty_description;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

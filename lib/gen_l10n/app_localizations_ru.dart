@@ -1645,4 +1645,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty => 'MAWAQIT 360';
+
+  @override
+  String get mawaqit_three_sixty_description => 'Посмотрите время молитвы в жизни с нашими новыми анимированными часами';
 }
