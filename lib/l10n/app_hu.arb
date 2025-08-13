@@ -1135,5 +1135,9 @@
     "select_starting_verse": "Válassza ki a kezdő verset",
     "select_ending_verse": "Válassza ki a záró verset",
     "range_repeat": "Tartomány megismétlése",
-    "verse_repeat": "Vers megismétlése"
+    "verse_repeat": "Vers megismétlése",
+    "improved_ Hafs_Rewaya_Force_Update": "We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah",
+    "@improved_ Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    }
 }
