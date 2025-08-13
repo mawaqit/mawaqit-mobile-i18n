@@ -1139,5 +1139,9 @@
     "improved_Hafs_Rewaya_Force_Update": "لقد قمنا بتحسين معركة \"هافز\". قم بالتحميل الآن لاستكشاف \"تفسير\" والاستماع إلى التصحيحات بالنقر على أي آية",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty": "MAWAQIT 360",
+    "@mawaqit_three_sixty": {
+        "description": "-> mawaqit_three_sixty"
     }
 }
