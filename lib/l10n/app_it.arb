@@ -1136,8 +1136,8 @@
     "select_ending_verse": "Seleziona versetto finale",
     "range_repeat": "Ripeti intervallo",
     "verse_repeat": "Ripeti versetto",
-    "improved_ Hafs_Rewaya_Force_Update": "Abbiamo migliorato il tuo Hafs Rewaya. Scarica ora per esplorare Tafsir e ascoltare le recitazioni cliccando su qualsiasi Ayah",
-    "@improved_ Hafs_Rewaya_Force_Update": {
+    "improved_Hafs_Rewaya_Force_Update": "Abbiamo migliorato il tuo Hafs Rewaya. Scarica ora per esplorare Tafsir e ascoltare le recitazioni cliccando su qualsiasi Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     }
 }
