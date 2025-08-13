@@ -1136,8 +1136,8 @@
     "select_ending_verse": "Endvers auswählen",
     "range_repeat": "Bereich wiederholen",
     "verse_repeat": "Vers wiederholen",
-    "improved_ Hafs_Rewaya_Force_Update": "Wir haben deine Hafs Rewaya verbessert. Jetzt herunterladen um Tafsir zu erkunden und Rezitationen zu hören, indem du auf Ayah klickst",
-    "@improved_ Hafs_Rewaya_Force_Update": {
+    "improved_Hafs_Rewaya_Force_Update": "Wir haben deine Hafs Rewaya verbessert. Jetzt herunterladen um Tafsir zu erkunden und Rezitationen zu hören, indem du auf Ayah klickst",
+    "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     }
 }
