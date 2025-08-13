@@ -1136,8 +1136,8 @@
     "select_ending_verse": "Välj avslutningsvers",
     "range_repeat": "Upprepa intervall",
     "verse_repeat": "Upprepa vers",
-    "improved_ Hafs_Rewaya_Force_Update": "Vi har förbättrat din Hafs Rewaya. Ladda ner nu för att utforska Tafsir och lyssna på recitationer genom att klicka på någon Ayah",
-    "@improved_ Hafs_Rewaya_Force_Update": {
+    "improved_Hafs_Rewaya_Force_Update": "Vi har förbättrat din Hafs Rewaya. Ladda ner nu för att utforska Tafsir och lyssna på recitationer genom att klicka på någon Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     }
 }
