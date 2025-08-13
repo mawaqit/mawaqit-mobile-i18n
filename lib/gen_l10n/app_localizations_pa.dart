@@ -4,9 +4,9 @@ import 'app_localizations.dart';
 
 // ignore_for_file: type=lint
 
-/// The translations for Malay (`ms`).
-class AppLocalizationsMs extends AppLocalizations {
-  AppLocalizationsMs([String locale = 'ms']) : super(locale);
+/// The translations for Panjabi Punjabi (`pa`).
+class AppLocalizationsPa extends AppLocalizations {
+  AppLocalizationsPa([String locale = 'pa']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
@@ -1443,7 +1443,7 @@ class AppLocalizationsMs extends AppLocalizations {
   String get no_azkar_result => 'No remembrance results available';
 
   @override
-  String get search_title => 'Cari menggunakan tajuk';
+  String get search_title => 'Search using the title';
 
   @override
   String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';

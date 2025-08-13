@@ -1639,4 +1639,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get verse_repeat => 'Vers wiederholen';
+
+  @override
+  String get improved_Hafs_Rewaya_Force_Update => 'Wir haben deine Hafs Rewaya verbessert. Jetzt herunterladen um Tafsir zu erkunden und Rezitationen zu hören, indem du auf Ayah klickst';
+
+  @override
+  String get mawaqit_three_sixty => 'MAWAQIT 360';
 }

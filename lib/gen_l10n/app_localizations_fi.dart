@@ -1639,4 +1639,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get verse_repeat => 'Jae Toisto';
+
+  @override
+  String get improved_Hafs_Rewaya_Force_Update => 'Olemme parantaneet Hafs Rewaya. Lataa nyt tutustua Tafsir ja kuunnella reseptejä klikkaamalla mitä tahansa Ayah';
+
+  @override
+  String get mawaqit_three_sixty => 'MAWAQIT 360';
 }
