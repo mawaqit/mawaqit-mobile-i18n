@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1147,5 +1147,9 @@
     "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "HNPAI_user_guidance_MAWAQIT_360": "This feature remains enabled while the 360° view is active and cannot be turned off",
+    "@HNPAI_user_guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     }
 }
