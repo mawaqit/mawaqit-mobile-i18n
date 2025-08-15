@@ -1147,5 +1147,9 @@
     "mawaqit_three_sixty_description": "Sehen Sie, wie die Gebetszeiten mit unserer neuen animierten Uhr zum Leben kommen",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "HNPAI_user_guidance_MAWAQIT_360": "Diese Funktion bleibt aktiviert, während die 360°-Ansicht aktiv ist und nicht ausgeschaltet werden kann",
+    "@HNPAI_user_guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     }
 }
