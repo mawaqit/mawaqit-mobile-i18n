@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1147,5 +1147,9 @@
     "mawaqit_three_sixty_description": "Se bönen tider komma till liv med vår nya animerade klocka",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "HNPAI_user_guidance_MAWAQIT_360": "Den här funktionen är aktiverad medan 360° vyn är aktiv och kan inte stängas av",
+    "@HNPAI_user_guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     }
 }
