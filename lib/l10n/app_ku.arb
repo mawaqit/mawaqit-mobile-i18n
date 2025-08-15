@@ -1011,7 +1011,7 @@
     "enter_email": "ئیمێلی خۆت داخل بکە",
     "email_privacy": "MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw",
     "submit": "Submit",
-    "disclaimer": "MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research",
+    "disclaimer": "MAWAQIT لە هەر بەرپرسیارێتییەک بێبەرییە سەبارەت بەو خزمەتگوزارییانەی کە لەلایەن پڕۆژەکانی لیستکراوەوە پێشنیارکراون. تکایە خۆتان وردبینی و لێکۆڵینەوە بکەن",
     "participating_with": "You're participating with",
     "no_of_tickets": "No. of tickets:",
     "unparticipate": "Click to unparticipate",
@@ -1022,7 +1022,7 @@
     "draw_info": "One draw every month. Every 24h you can add a new ticket to increase your chance to win!",
     "enter_valid_email": "ئیمەیڵێکی دروست دابنێ",
     "please_enter_email": "ئیمێلێک داخل بکە",
-    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "select_device_audo_for_ios_propmpt": "",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
@@ -1052,7 +1052,7 @@
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
     },
-    "downloaded_deleted_successfully": "All downloaded recitations deleted successfully",
+    "downloaded_deleted_successfully": "هەموو قورئان خوێنە دابەزێندراوەکان بەسەرکەتووی سرێندرانەوە",
     "@downloaded_deleted_successfully": {
         "description": "-> downloaded_deleted_successfully"
     },
