@@ -1365,7 +1365,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get submit => 'Submit';
 
   @override
-  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+  String get disclaimer => 'MAWAQIT لە هەر بەرپرسیارێتییەک بێبەرییە سەبارەت بەو خزمەتگوزارییانەی کە لەلایەن پڕۆژەکانی لیستکراوەوە پێشنیارکراون. تکایە خۆتان وردبینی و لێکۆڵینەوە بکەن';
 
   @override
   String get participating_with => 'You\'re participating with';
@@ -1398,7 +1398,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get please_enter_email => 'ئیمێلێک داخل بکە';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+  String get select_device_audo_for_ios_propmpt => '';
 
   @override
   String get confirm_deletion => 'دڵنیابوون لە سڕینەوە';
@@ -1434,7 +1434,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
 
   @override
-  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+  String get downloaded_deleted_successfully => 'هەموو قورئان خوێنە دابەزێندراوەکان بەسەرکەتووی سرێندرانەوە';
 
   @override
   String get failed_delete_recitations => '';
