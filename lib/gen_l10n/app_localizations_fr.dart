@@ -1648,4 +1648,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'Voir les heures de prière s\'animer avec notre nouvelle horloge animée';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Cette fonctionnalité reste activée lorsque la vue 360° est active et ne peut pas être désactivée';
 }

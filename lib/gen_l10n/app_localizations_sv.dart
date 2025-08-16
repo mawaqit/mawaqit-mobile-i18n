@@ -1648,4 +1648,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'Se bönen tider komma till liv med vår nya animerade klocka';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Den här funktionen är aktiverad medan 360° vyn är aktiv och kan inte stängas av';
 }

@@ -1648,4 +1648,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'Посмотрите время молитвы в жизни с нашими новыми анимированными часами';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Эта функция остается включенной при активном просмотре 360° и не может быть отключена';
 }

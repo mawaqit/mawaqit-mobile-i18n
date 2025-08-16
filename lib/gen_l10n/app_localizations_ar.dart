@@ -1648,4 +1648,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'شاهد أوقات الصلاة تأتي للحياة مع ساعتنا المتحركة الجديدة';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'تبقى هذه الميزة مفعلة في حين أن العرض 360° نشط ولا يمكن إيقافه';
 }
