@@ -3433,6 +3433,13 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'See prayer times come to life with our new animated clock'**
   String get mawaqit_three_sixty_description;
+
+  /// -> HNPAI_user_guidance_MAWAQIT_360
+  /// _
+  ///
+  /// In en, this message translates to:
+  /// **'While using 360 view you cannot off this setting'**
+  String get hnpai_User_Guidance_MAWAQIT_360;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

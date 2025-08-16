@@ -1147,5 +1147,9 @@
     "mawaqit_three_sixty_description": "Katso rukouksen ajat tulevat elämään uuden animoituja kello",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "Tämä ominaisuus on käytössä 360° näkymän ollessa käytössä eikä sitä voi kytkeä pois päältä",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     }
 }

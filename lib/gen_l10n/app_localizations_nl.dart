@@ -1648,4 +1648,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'Zie gebedstijden die tot leven komen met onze nieuwe geanimeerde klok';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Deze functie blijft ingeschakeld zolang de 360° weergave actief is en niet kan worden uitgeschakeld';
 }

@@ -1648,4 +1648,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'Sehen Sie, wie die Gebetszeiten mit unserer neuen animierten Uhr zum Leben kommen';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Diese Funktion bleibt aktiviert, während die 360°-Ansicht aktiv ist und nicht ausgeschaltet werden kann';
 }

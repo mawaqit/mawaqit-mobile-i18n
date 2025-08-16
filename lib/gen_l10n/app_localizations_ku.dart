@@ -1648,4 +1648,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'See prayer times come to life with our new animated clock';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'While using 360 view you cannot off this setting';
 }

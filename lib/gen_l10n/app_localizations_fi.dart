@@ -1648,4 +1648,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description => 'Katso rukouksen ajat tulevat elämään uuden animoituja kello';
+
+  @override
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Tämä ominaisuus on käytössä 360° näkymän ollessa käytössä eikä sitä voi kytkeä pois päältä';
 }
