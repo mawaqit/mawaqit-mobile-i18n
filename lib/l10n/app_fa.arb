@@ -1140,15 +1140,15 @@
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "mawaqit_three_sixty_description": "اوقات نماز را با ساعت متحرک جدید ما زنده ببینید.",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "hnpai_User_Guidance_MAWAQIT_360": "هنگام استفاده از نمای ۳۶۰، نمی‌توانید این تنظیم را خاموش کنید",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
-    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "mawaqit_three_sixty_beta": "MAWAQIT 360",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     }
