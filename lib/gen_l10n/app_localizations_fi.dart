@@ -1651,4 +1651,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 => 'Tämä ominaisuus on käytössä 360° näkymän ollessa käytössä eikä sitä voi kytkeä pois päältä';
+
+  @override
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
 }

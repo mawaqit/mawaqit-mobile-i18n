@@ -1651,4 +1651,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 => 'Diese Funktion bleibt aktiviert, während die 360°-Ansicht aktiv ist und nicht ausgeschaltet werden kann';
+
+  @override
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
 }

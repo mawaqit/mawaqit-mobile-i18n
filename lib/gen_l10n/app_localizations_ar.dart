@@ -1651,4 +1651,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 => 'تبقى هذه الميزة مفعلة في حين أن العرض 360° نشط ولا يمكن إيقافه';
+
+  @override
+  String get mawaqit_three_sixty_beta => 'مايكت 360 (بيتا)';
 }

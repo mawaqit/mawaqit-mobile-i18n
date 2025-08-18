@@ -3440,6 +3440,13 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'While using 360 view you cannot off this setting'**
   String get hnpai_User_Guidance_MAWAQIT_360;
+
+  /// ->mawaqit_three_sixty_beta
+  /// _
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT 360 (Beta)'**
+  String get mawaqit_three_sixty_beta;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
