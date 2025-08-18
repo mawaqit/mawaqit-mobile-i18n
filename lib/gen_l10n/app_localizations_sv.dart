@@ -1644,9 +1644,6 @@ class AppLocalizationsSv extends AppLocalizations {
   String get improved_Hafs_Rewaya_Force_Update => 'Vi har förbättrat din Hafs Rewaya. Ladda ner nu för att utforska Tafsir och lyssna på recitationer genom att klicka på någon Ayah';
 
   @override
-  String get mawaqit_three_sixty => 'MAWAQIT 360';
-
-  @override
   String get mawaqit_three_sixty_description => 'Se bönen tider komma till liv med vår nya animerade klocka';
 
   @override

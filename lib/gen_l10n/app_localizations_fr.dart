@@ -1641,17 +1641,14 @@ class AppLocalizationsFr extends AppLocalizations {
   String get verse_repeat => 'Répéter le verset';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'Nous avons amélioré votre Hafs Rewaya. Téléchargez maintenant pour explorer Tafsir et écouter des récitations en cliquant sur n\'importe quelle Ayah';
+  String get improved_Hafs_Rewaya_Force_Update => 'Nous avons amélioré votre récitation Hafs. Téléchargez-la maintenant pour explorer le Tafsir et écouter les récitations en maintenant appuyé sur n’importe quelle Ayah';
 
   @override
-  String get mawaqit_three_sixty => 'MAWAQIT 360';
+  String get mawaqit_three_sixty_description => 'Découvrez les horaires de prière prendre vie avec notre nouvelle horloge animée';
 
   @override
-  String get mawaqit_three_sixty_description => 'Voir les heures de prière s\'animer avec notre nouvelle horloge animée';
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'En mode vue 360, vous ne pouvez pas désactiver ce paramètre';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'Cette fonctionnalité reste activée lorsque la vue 360° est active et ne peut pas être désactivée';
-
-  @override
-  String get mawaqit_three_sixty_beta => 'format@@0 MAWAQIT 360 (Beta)';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Bêta)';
 }

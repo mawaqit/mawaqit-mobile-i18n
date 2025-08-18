@@ -1644,9 +1644,6 @@ class AppLocalizationsPl extends AppLocalizations {
   String get improved_Hafs_Rewaya_Force_Update => 'Poprawiliśmy Twoje hafy Rewaya. Pobierz teraz, aby odkrywać Tafsir i słuchać motywów klikając na dowolną Ayah';
 
   @override
-  String get mawaqit_three_sixty => 'MAWAQIT 360';
-
-  @override
   String get mawaqit_three_sixty_description => 'Zobacz czasy modlitwy przychodzi do życia z naszym nowym animowanym zegarem';
 
   @override
