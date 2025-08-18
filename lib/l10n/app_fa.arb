@@ -60,12 +60,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "دوازده ساعته",
+    "settings_TimeFormat12H": "۱۲س",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "بیست و چهار ساعته",
+    "settings_TimeFormat24H": "۲۴س",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
