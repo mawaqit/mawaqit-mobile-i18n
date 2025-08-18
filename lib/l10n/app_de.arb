@@ -1136,19 +1136,15 @@
     "select_ending_verse": "Endvers auswählen",
     "range_repeat": "Bereich wiederholen",
     "verse_repeat": "Vers wiederholen",
-    "improved_Hafs_Rewaya_Force_Update": "Wir haben deine Hafs Rewaya verbessert. Jetzt herunterladen um Tafsir zu erkunden und Rezitationen zu hören, indem du auf Ayah klickst",
+    "improved_Hafs_Rewaya_Force_Update": "Wir haben Ihre Hafs-Rezitation verbessert. Laden Sie jetzt herunter, um den Tafsir zu erkunden und Rezitationen anzuhören, indem Sie lange auf eine beliebige Ayah drücken",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty": "MAWAQIT 360",
-    "@mawaqit_three_sixty": {
-        "description": "-> mawaqit_three_sixty"
-    },
-    "mawaqit_three_sixty_description": "Sehen Sie, wie die Gebetszeiten mit unserer neuen animierten Uhr zum Leben kommen",
+    "mawaqit_three_sixty_description": "Erleben Sie, wie die Gebetszeiten mit unserer neuen animierten Uhr zum Leben erwachen",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "Diese Funktion bleibt aktiviert, während die 360°-Ansicht aktiv ist und nicht ausgeschaltet werden kann",
+    "hnpai_User_Guidance_MAWAQIT_360": "Während der 360-Ansicht können Sie diese Einstellung nicht deaktivieren",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
