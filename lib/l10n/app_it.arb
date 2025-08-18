@@ -1136,13 +1136,9 @@
     "select_ending_verse": "Seleziona versetto finale",
     "range_repeat": "Ripeti intervallo",
     "verse_repeat": "Ripeti versetto",
-    "improved_Hafs_Rewaya_Force_Update": "Abbiamo migliorato il tuo Hafs Rewaya. Scarica ora per esplorare Tafsir e ascoltare le recitazioni cliccando su qualsiasi Ayah",
+    "improved_Hafs_Rewaya_Force_Update": "Abbiamo migliorato la tua Riwaya di Hafs. Scarica ora per esplorare il Tafsir e ascoltare le recitazioni tenendo premuto su qualsiasi Ayah",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
-    },
-    "mawaqit_three_sixty": "MAWAQIT 360",
-    "@mawaqit_three_sixty": {
-        "description": "-> mawaqit_three_sixty"
     },
     "mawaqit_three_sixty_description": "Guarda i tempi di preghiera che prendono vita con il nostro nuovo orologio animato",
     "@mawaqit_three_sixty_description": {
