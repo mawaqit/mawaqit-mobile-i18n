@@ -45,10 +45,10 @@ class AppLocalizationsFa extends AppLocalizations {
   String get settings_Theme => 'زمینه';
 
   @override
-  String get settings_TimeFormat12H => 'دوازده ساعته';
+  String get settings_TimeFormat12H => '۱۲س';
 
   @override
-  String get settings_TimeFormat24H => 'بیست و چهار ساعته';
+  String get settings_TimeFormat24H => '۲۴س';
 
   @override
   String get settings_PrayerNotifications => 'هشدارهای نماز';
