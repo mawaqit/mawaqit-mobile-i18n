@@ -1641,17 +1641,14 @@ class AppLocalizationsAr extends AppLocalizations {
   String get verse_repeat => 'تكرار الآية';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'لقد قمنا بتحسين معركة \"هافز\". قم بالتحميل الآن لاستكشاف \"تفسير\" والاستماع إلى التصحيحات بالنقر على أي آية';
+  String get improved_Hafs_Rewaya_Force_Update => 'لقد قمنا بتحسين رواية حفص الخاصة بك. قم بالتحميل الآن لاستكشاف التفسير والاستماع إلى التلاوات من خلال الضغط المطول على أي آية';
 
   @override
-  String get mawaqit_three_sixty => 'MAWAQIT 360';
+  String get mawaqit_three_sixty_description => 'شاهد أوقات الصلاة تنبض بالحياة مع ساعتنا المتحركة الجديدة';
 
   @override
-  String get mawaqit_three_sixty_description => 'شاهد أوقات الصلاة تأتي للحياة مع ساعتنا المتحركة الجديدة';
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'أثناء استخدام عرض 360 لا يمكنك إيقاف هذا الإعداد';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'تبقى هذه الميزة مفعلة في حين أن العرض 360° نشط ولا يمكن إيقافه';
-
-  @override
-  String get mawaqit_three_sixty_beta => 'مايكت 360 (بيتا)';
+  String get mawaqit_three_sixty_beta => 'مواقيت 360 (تجريبي)';
 }

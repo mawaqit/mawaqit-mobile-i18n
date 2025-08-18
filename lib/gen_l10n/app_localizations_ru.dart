@@ -1644,9 +1644,6 @@ class AppLocalizationsRu extends AppLocalizations {
   String get improved_Hafs_Rewaya_Force_Update => 'Мы улучшили ваш Хафс Ревайя. Загрузите теперь, чтобы исследовать Тафсир и послушать чтения, нажав на любой аят';
 
   @override
-  String get mawaqit_three_sixty => 'MAWAQIT 360';
-
-  @override
   String get mawaqit_three_sixty_description => 'Посмотрите время молитвы в жизни с нашими новыми анимированными часами';
 
   @override

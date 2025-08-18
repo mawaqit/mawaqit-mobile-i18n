@@ -1641,10 +1641,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get verse_repeat => 'Ripeti versetto';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'Abbiamo migliorato il tuo Hafs Rewaya. Scarica ora per esplorare Tafsir e ascoltare le recitazioni cliccando su qualsiasi Ayah';
-
-  @override
-  String get mawaqit_three_sixty => 'MAWAQIT 360';
+  String get improved_Hafs_Rewaya_Force_Update => 'Abbiamo migliorato la tua Riwaya di Hafs. Scarica ora per esplorare il Tafsir e ascoltare le recitazioni tenendo premuto su qualsiasi Ayah';
 
   @override
   String get mawaqit_three_sixty_description => 'Guarda i tempi di preghiera che prendono vita con il nostro nuovo orologio animato';

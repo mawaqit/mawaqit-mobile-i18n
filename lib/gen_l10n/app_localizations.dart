@@ -3418,14 +3418,8 @@ abstract class AppLocalizations {
   /// -> improved_ Hafs_Rewaya_Force_Update
   ///
   /// In en, this message translates to:
-  /// **'We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah'**
+  /// **'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah'**
   String get improved_Hafs_Rewaya_Force_Update;
-
-  /// -> mawaqit_three_sixty
-  ///
-  /// In en, this message translates to:
-  /// **'MAWAQIT 360 (Beta)'**
-  String get mawaqit_three_sixty;
 
   /// -> mawaqit_three_sixty_description
   /// _

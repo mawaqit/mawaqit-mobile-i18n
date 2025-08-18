@@ -1136,23 +1136,19 @@
     "select_ending_verse": "اختتامی آیت منتخب کریں",
     "range_repeat": "حد دہرائیں",
     "verse_repeat": "آیت دہرائیں",
-    "improved_Hafs_Rewaya_Force_Update": "We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah",
+    "improved_Hafs_Rewaya_Force_Update": "ہم نے آپ کی حفص روایت کو بہتر بنا دیا ہے۔ ابھی ڈاؤن لوڈ کریں، تفسیر دریافت کریں اور کسی بھی آیت پر لمبا دباکر تلاوت سنیں۔",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty": "MAWAQIT 360",
-    "@mawaqit_three_sixty": {
-        "description": "-> mawaqit_three_sixty"
-    },
-    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "mawaqit_three_sixty_description": "نئی متحرک گھڑی کے ساتھ نماز کے اوقات کو جیتا جاگتا دیکھیں۔",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "hnpai_User_Guidance_MAWAQIT_360": "ویو استعمال کرتے وقت آپ اس سیٹنگ کو بند نہیں کر سکتے۔ 360",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
-    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "mawaqit_three_sixty_beta": "مواقيت 360 (بیٹا)",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     }

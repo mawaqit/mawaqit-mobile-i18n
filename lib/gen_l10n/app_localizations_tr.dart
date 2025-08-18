@@ -1641,16 +1641,13 @@ class AppLocalizationsTr extends AppLocalizations {
   String get verse_repeat => 'Ayeti tekrarla';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah';
+  String get improved_Hafs_Rewaya_Force_Update => 'Hafs Rivayenizi geliştirdik. Şimdi indirin, Tefsiri keşfedin ve herhangi bir Ayet’e uzun basarak kıraatleri dinleyin';
 
   @override
-  String get mawaqit_three_sixty => 'MAWAQIT 360';
+  String get mawaqit_three_sixty_description => 'Namaz vakitlerinin yeni animasyonlu saatimizle nasıl canlandığını görün';
 
   @override
-  String get mawaqit_three_sixty_description => 'See prayer times come to life with our new animated clock';
-
-  @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'While using 360 view you cannot off this setting';
+  String get hnpai_User_Guidance_MAWAQIT_360 => '360 görünümünü kullanırken bu ayarı kapatamazsınız.';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';

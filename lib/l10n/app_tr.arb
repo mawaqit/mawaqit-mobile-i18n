@@ -1136,19 +1136,15 @@
     "select_ending_verse": "Bitiş ayetini seçin",
     "range_repeat": "Aralığı tekrarla",
     "verse_repeat": "Ayeti tekrarla",
-    "improved_Hafs_Rewaya_Force_Update": "We’ve improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by clicking on any Ayah",
+    "improved_Hafs_Rewaya_Force_Update": "Hafs Rivayenizi geliştirdik. Şimdi indirin, Tefsiri keşfedin ve herhangi bir Ayet’e uzun basarak kıraatleri dinleyin",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty": "MAWAQIT 360",
-    "@mawaqit_three_sixty": {
-        "description": "-> mawaqit_three_sixty"
-    },
-    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "mawaqit_three_sixty_description": "Namaz vakitlerinin yeni animasyonlu saatimizle nasıl canlandığını görün",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "hnpai_User_Guidance_MAWAQIT_360": "360 görünümünü kullanırken bu ayarı kapatamazsınız.",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
