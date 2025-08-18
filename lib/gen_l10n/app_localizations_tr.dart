@@ -1644,10 +1644,10 @@ class AppLocalizationsTr extends AppLocalizations {
   String get improved_Hafs_Rewaya_Force_Update => 'Hafs Rivayenizi geliştirdik. Şimdi indirin, Tefsiri keşfedin ve herhangi bir Ayet’e uzun basarak kıraatleri dinleyin';
 
   @override
-  String get mawaqit_three_sixty_description => 'See prayer times come to life with our new animated clock';
+  String get mawaqit_three_sixty_description => 'Namaz vakitlerinin yeni animasyonlu saatimizle nasıl canlandığını görün';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'While using 360 view you cannot off this setting';
+  String get hnpai_User_Guidance_MAWAQIT_360 => '360 görünümünü kullanırken bu ayarı kapatamazsınız.';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';

@@ -1644,11 +1644,11 @@ class AppLocalizationsNl extends AppLocalizations {
   String get improved_Hafs_Rewaya_Force_Update => 'We hebben uw Hafs Rewaya verbeterd. Download nu om Tafsir te ontdekken en naar overwegingen te luisteren door op een Ayah te klikken';
 
   @override
-  String get mawaqit_three_sixty_description => 'Zie gebedstijden die tot leven komen met onze nieuwe geanimeerde klok';
+  String get mawaqit_three_sixty_description => 'Zie hoe de gebedstijden tot leven komen met onze nieuwe geanimeerde klok';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'Deze functie blijft ingeschakeld zolang de 360° weergave actief is en niet kan worden uitgeschakeld';
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Tijdens het gebruik van de 360-weergave kunt u deze instelling niet uitschakelen';
 
   @override
-  String get mawaqit_three_sixty_beta => 'BEWAQIT 360 (beta)';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
 }

@@ -1647,7 +1647,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mawaqit_three_sixty_description => 'Shihni oraret e faljeve të marrin jetë me orën tonë të re të animuar';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'While using 360 view you cannot off this setting';
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Gjatë përdorimit të pamjes 360, nuk mund ta çaktivizoni këtë cilësim';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
