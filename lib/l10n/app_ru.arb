@@ -1151,5 +1151,9 @@
     "hnpai_User_Guidance_MAWAQIT_360": "Эта функция остается включенной при активном просмотре 360° и не может быть отключена",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (бета)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
     }
 }

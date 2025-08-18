@@ -1651,4 +1651,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 => 'Deze functie blijft ingeschakeld zolang de 360° weergave actief is en niet kan worden uitgeschakeld';
+
+  @override
+  String get mawaqit_three_sixty_beta => 'BEWAQIT 360 (beta)';
 }
