@@ -968,7 +968,7 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Nakon ikameta istakni vrijme za sljedeću molitvu",
+    "highlight_next_prayer_after_Iqama": "Nakon ikameta istakni vrijeme za sljedeću molitvu",
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portuguese",
     "al_zikr": "Al-Zikr",
@@ -1136,19 +1136,19 @@
     "select_ending_verse": "Odaberi završni ajet",
     "range_repeat": "Ponavljaj opseg",
     "verse_repeat": "Ponavljaj ajet",
-    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "improved_Hafs_Rewaya_Force_Update": "Vaša Hafs Rewaja je poboljšana. Preuzmite odmah da pristupite Tefsiru i slušate učenje dugim pritiskom na bilo koji ajet.",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "mawaqit_three_sixty_description": "Doživite prikaz namaskih vremena uz naš novi animirani sat.",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "hnpai_User_Guidance_MAWAQIT_360": "Tokom korištenja 360 pregleda, ova opcija se ne može isključiti.",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
-    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta verzija)",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     }
