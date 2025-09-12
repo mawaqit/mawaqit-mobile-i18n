@@ -230,7 +230,7 @@
     },
     "search_TryParis": "Try Paris, Essalam etc.",
     "search_ByGPS": "Traženje GPS-om",
-    "search_HelpText": "Možete pretraživati ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije",
+    "search_HelpText": "Možete pretražiti ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije",
     "search_MaxFavMosquesReached": "Dostigli ste maksimalni broj omiljenih džamija.",
     "search_iOs14_message": "Pretraga pomoću GPS-a može potrajati neko vreme na iOS 14, molimo vas da sačekate.",
     "search_error": "Oups, došlo je do interne greške.",
@@ -526,7 +526,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Odaberite svoj jezik",
+    "onboarding_title_1": "Odaberite jezik",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
