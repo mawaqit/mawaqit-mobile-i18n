@@ -1155,5 +1155,29 @@
     "three_sixty_setting": "360 Inställningar",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
+    },
+    "behavior": "Beteende",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "all_prayer_chips_open": "Alla öppna",
+    "@all_prayer_chips_open": {
+        "description": "-> all_prayer_chips_open"
+    },
+    "next_prayer_open": "Nästa bön",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Alla stängda",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Rekommenderat: Endast nästa bön",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Förhandsgranska live",
+    "@live_preview": {
+        "description": "-> live_preview"
     }
 }
