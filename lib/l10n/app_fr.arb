@@ -1151,5 +1151,9 @@
     "mawaqit_three_sixty_beta": "MAWAQIT 360 (Bêta)",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "Réglages 360",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
     }
 }
