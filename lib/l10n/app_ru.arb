@@ -1155,5 +1155,29 @@
     "three_sixty_setting": "Настройки 360",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
+    },
+    "behavior": "Поведение",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "all_prayer_chips_open": "Все открытые",
+    "@all_prayer_chips_open": {
+        "description": "-> all_prayer_chips_open"
+    },
+    "next_prayer_open": "Следующая молитва",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Все закрытые",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Рекомендуется: только следующая молитва",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Просмотр в реальном времени",
+    "@live_preview": {
+        "description": "-> live_preview"
     }
 }
