@@ -1155,5 +1155,29 @@
     "three_sixty_setting": "Impostazioni 360",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
+    },
+    "behavior": "Comportamento",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "all_prayer_chips_open": "Tutto aperto",
+    "@all_prayer_chips_open": {
+        "description": "-> all_prayer_chips_open"
+    },
+    "next_prayer_open": "Prossima preghiera",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Tutto chiuso",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Consigliato: Solo la prossima preghiera",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Anteprima Live",
+    "@live_preview": {
+        "description": "-> live_preview"
     }
 }
