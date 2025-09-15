@@ -1155,5 +1155,29 @@
     "three_sixty_setting": "360 Einstellungen",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
+    },
+    "behavior": "Verhalten",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "all_prayer_chips_open": "Alle offen",
+    "@all_prayer_chips_open": {
+        "description": "-> all_prayer_chips_open"
+    },
+    "next_prayer_open": "Nächstes Gebet",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Alle geschlossen",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Empfohlen: Nur nächstes Gebet",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live-Vorschau",
+    "@live_preview": {
+        "description": "-> live_preview"
     }
 }
