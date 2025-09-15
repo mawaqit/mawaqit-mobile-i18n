@@ -1155,5 +1155,29 @@
     "three_sixty_setting": "360 إعدادات",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
+    },
+    "behavior": "السلوك",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "all_prayer_chips_open": "كل الفتح",
+    "@all_prayer_chips_open": {
+        "description": "-> all_prayer_chips_open"
+    },
+    "next_prayer_open": "الصلاة التالية",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "تم إغلاق الكل",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "موصى به: الصلاة التالية فقط",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "معاينة حية",
+    "@live_preview": {
+        "description": "-> live_preview"
     }
 }
