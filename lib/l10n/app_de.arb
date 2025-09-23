@@ -1151,5 +1151,45 @@
     "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Einstellungen",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Verhalten",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Nächstes Gebet",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Alle geschlossen",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Empfohlen: Nur nächstes Gebet",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live-Vorschau",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Groß",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "Alle offen",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
     }
 }

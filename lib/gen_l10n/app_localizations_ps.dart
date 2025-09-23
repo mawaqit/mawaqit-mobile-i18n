@@ -4,9 +4,9 @@ import 'app_localizations.dart';
 
 // ignore_for_file: type=lint
 
-/// The translations for Hindi (`hi`).
-class AppLocalizationsHi extends AppLocalizations {
-  AppLocalizationsHi([String locale = 'hi']) : super(locale);
+/// The translations for Pushto Pashto (`ps`).
+class AppLocalizationsPs extends AppLocalizations {
+  AppLocalizationsPs([String locale = 'ps']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
@@ -1260,13 +1260,13 @@ class AppLocalizationsHi extends AppLocalizations {
   String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
-  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_quran_zip => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
   String get set_notification_for_all_parayer => 'Set this for every prayer';
@@ -1275,7 +1275,7 @@ class AppLocalizationsHi extends AppLocalizations {
   String get powered_by_mawaqit => 'Powered by MAWAQIT';
 
   @override
-  String get adjust_hijri_date => 'हिजरी तारीख समायोजित करें';
+  String get adjust_hijri_date => 'Adjust Hijri Date';
 
   @override
   String get prayer_times_by_location => 'Prayer times by location';
@@ -1443,7 +1443,7 @@ class AppLocalizationsHi extends AppLocalizations {
   String get no_azkar_result => 'No remembrance results available';
 
   @override
-  String get search_title => 'शीर्षक का उपयोग करके खोजें';
+  String get search_title => 'Search using the title';
 
   @override
   String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
@@ -1455,16 +1455,16 @@ class AppLocalizationsHi extends AppLocalizations {
   String get low => 'Low';
 
   @override
-  String get tafsir => 'तफ़सीर';
+  String get tafsir => 'Tafsir';
 
   @override
-  String get copy => 'कॉपी करें';
+  String get copy => 'Copy';
 
   @override
-  String get no_tafsir => 'अभी तक कोई तफ़सीर डाउनलोड नहीं हुई है';
+  String get no_tafsir => 'No Tafsir has been downloaded yet';
 
   @override
-  String get download_tafsir => 'तफसीर डाउनलोड करें';
+  String get download_tafsir => 'Download the Tafsir';
 
   @override
   String get hussary => 'Mahmoud Khalil Al‑Hussary';

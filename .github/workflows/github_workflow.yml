@@ -41,6 +41,9 @@ jobs:
       - name: Replace "pa-PK" with "pa" in app_pa.arb
         run: |
           sed -i 's/"pa-PK"/"pa"/g' lib/l10n/app_pa.arb
+      - name: Replace "fa-AF" with "pa" in app_fa.arb
+        run: |
+          sed -i 's/"fa-AF"/"fa"/g' lib/l10n/app_fa.arb
       - name: Run flutter gen-l10n
         run: flutter gen-l10n
           

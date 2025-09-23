@@ -230,7 +230,7 @@
     },
     "search_TryParis": "Try Paris, Essalam etc.",
     "search_ByGPS": "Traženje GPS-om",
-    "search_HelpText": "Možete pretraživati ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije",
+    "search_HelpText": "Možete pretražiti ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije",
     "search_MaxFavMosquesReached": "Dostigli ste maksimalni broj omiljenih džamija.",
     "search_iOs14_message": "Pretraga pomoću GPS-a može potrajati neko vreme na iOS 14, molimo vas da sačekate.",
     "search_error": "Oups, došlo je do interne greške.",
@@ -526,7 +526,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Odaberite svoj jezik",
+    "onboarding_title_1": "Odaberite jezik",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
@@ -968,7 +968,7 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "Nakon ikameta istakni vrijme za sljedeću molitvu",
+    "highlight_next_prayer_after_Iqama": "Nakon ikameta istakni vrijeme za sljedeću molitvu",
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portuguese",
     "al_zikr": "Al-Zikr",
@@ -1136,20 +1136,60 @@
     "select_ending_verse": "Odaberi završni ajet",
     "range_repeat": "Ponavljaj opseg",
     "verse_repeat": "Ponavljaj ajet",
-    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "improved_Hafs_Rewaya_Force_Update": "Vaša Hafs Rewaja je poboljšana. Preuzmite odmah da pristupite Tefsiru i slušate učenje dugim pritiskom na bilo koji ajet.",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "mawaqit_three_sixty_description": "Doživite prikaz namaskih vremena uz naš novi animirani sat.",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "hnpai_User_Guidance_MAWAQIT_360": "Tokom korištenja 360 pregleda, ova opcija se ne može isključiti.",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
-    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta verzija)",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Settings",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Behavior",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Next prayer",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "All closed",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommended: Next prayer only",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Preview",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "All open",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
     }
 }

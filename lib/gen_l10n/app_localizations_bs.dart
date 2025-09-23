@@ -207,7 +207,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get search_ByGPS => 'Traženje GPS-om';
 
   @override
-  String get search_HelpText => 'Možete pretraživati ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije';
+  String get search_HelpText => 'Možete pretražiti ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije';
 
   @override
   String get search_MaxFavMosquesReached => 'Dostigli ste maksimalni broj omiljenih džamija.';
@@ -519,7 +519,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get tutorial_text_announcements => 'Obavijesti o porukama i najavama iz vaše džamije pojaviće se ovde.\nKada dodirnete ovo dugme, vidjet ćete sve detalje. Ove obavještenja mogu biti Flash poruka, slike ili čak video.';
 
   @override
-  String get onboarding_title_1 => 'Odaberite svoj jezik';
+  String get onboarding_title_1 => 'Odaberite jezik';
 
   @override
   String get onboarding_text_1 => 'Odaberite željeni jezik sa liste ispod';
@@ -1299,7 +1299,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get download_in_progress => 'Preuzimanje u toku, molimo sačekajte...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Nakon ikameta istakni vrijme za sljedeću molitvu';
+  String get highlight_next_prayer_after_Iqama => 'Nakon ikameta istakni vrijeme za sljedeću molitvu';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
@@ -1641,14 +1641,44 @@ class AppLocalizationsBs extends AppLocalizations {
   String get verse_repeat => 'Ponavljaj ajet';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
+  String get improved_Hafs_Rewaya_Force_Update => 'Vaša Hafs Rewaja je poboljšana. Preuzmite odmah da pristupite Tefsiru i slušate učenje dugim pritiskom na bilo koji ajet.';
 
   @override
-  String get mawaqit_three_sixty_description => 'See prayer times come to life with our new animated clock';
+  String get mawaqit_three_sixty_description => 'Doživite prikaz namaskih vremena uz naš novi animirani sat.';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'While using 360 view you cannot off this setting';
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'Tokom korištenja 360 pregleda, ova opcija se ne može isključiti.';
 
   @override
-  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta verzija)';
+
+  @override
+  String get three_sixty_setting => '360 Settings';
+
+  @override
+  String get behavior => 'Behavior';
+
+  @override
+  String get next_prayer_open => 'Next prayer';
+
+  @override
+  String get all_prayer_closed => 'All closed';
+
+  @override
+  String get recomended_next_prayer => 'Recommended: Next prayer only';
+
+  @override
+  String get live_preview => 'Live Preview';
+
+  @override
+  String get font_Size_Normal => 'Normal';
+
+  @override
+  String get font_Size_Large => 'Large';
+
+  @override
+  String get all_Prayer_Open => 'All open';
+
+  @override
+  String get settingFontSize => 'Font Size';
 }

@@ -1651,4 +1651,34 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_beta => 'مواقيت 360 (تجريبي)';
+
+  @override
+  String get three_sixty_setting => '360 إعدادات';
+
+  @override
+  String get behavior => 'السلوك';
+
+  @override
+  String get next_prayer_open => 'الصلاة التالية';
+
+  @override
+  String get all_prayer_closed => 'تم إغلاق الكل';
+
+  @override
+  String get recomended_next_prayer => 'موصى به: الصلاة التالية فقط';
+
+  @override
+  String get live_preview => 'معاينة حية';
+
+  @override
+  String get font_Size_Normal => 'عادي';
+
+  @override
+  String get font_Size_Large => 'كبير';
+
+  @override
+  String get all_Prayer_Open => 'كل الفتح';
+
+  @override
+  String get settingFontSize => 'Font Size';
 }

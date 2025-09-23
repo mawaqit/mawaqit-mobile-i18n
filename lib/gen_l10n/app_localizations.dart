@@ -27,12 +27,14 @@ import 'app_localizations_ms.dart';
 import 'app_localizations_nl.dart';
 import 'app_localizations_pa.dart';
 import 'app_localizations_pl.dart';
+import 'app_localizations_ps.dart';
 import 'app_localizations_pt.dart';
 import 'app_localizations_ru.dart';
 import 'app_localizations_si.dart';
 import 'app_localizations_sq.dart';
 import 'app_localizations_sv.dart';
 import 'app_localizations_ta.dart';
+import 'app_localizations_th.dart';
 import 'app_localizations_tr.dart';
 import 'app_localizations_ur.dart';
 
@@ -141,12 +143,14 @@ abstract class AppLocalizations {
     Locale('nl'),
     Locale('pa'),
     Locale('pl'),
+    Locale('ps'),
     Locale('pt'),
     Locale('ru'),
     Locale('si'),
     Locale('sq'),
     Locale('sv'),
     Locale('ta'),
+    Locale('th'),
     Locale('tr'),
     Locale('ur')
   ];
@@ -3441,6 +3445,66 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'MAWAQIT 360 (Beta)'**
   String get mawaqit_three_sixty_beta;
+
+  /// -> three_sixty_setting
+  ///
+  /// In en, this message translates to:
+  /// **'360 Settings'**
+  String get three_sixty_setting;
+
+  /// -> behavior
+  ///
+  /// In en, this message translates to:
+  /// **'Behavior'**
+  String get behavior;
+
+  /// -> next_prayer_open
+  ///
+  /// In en, this message translates to:
+  /// **'Next prayer'**
+  String get next_prayer_open;
+
+  /// -> all_prayer_closed
+  ///
+  /// In en, this message translates to:
+  /// **'All closed'**
+  String get all_prayer_closed;
+
+  /// -> recomended_next_prayer
+  ///
+  /// In en, this message translates to:
+  /// **'Recommended: Next prayer only'**
+  String get recomended_next_prayer;
+
+  /// -> live_preview
+  ///
+  /// In en, this message translates to:
+  /// **'Live Preview'**
+  String get live_preview;
+
+  /// -> font_Size_Normal
+  ///
+  /// In en, this message translates to:
+  /// **'Normal'**
+  String get font_Size_Normal;
+
+  /// -> font_Size_Large
+  ///
+  /// In en, this message translates to:
+  /// **'Large'**
+  String get font_Size_Large;
+
+  /// -> all_Prayer_Open
+  ///
+  /// In en, this message translates to:
+  /// **'All open'**
+  String get all_Prayer_Open;
+
+  /// -> font_Size
+  ///
+  /// In en, this message translates to:
+  /// **'Font Size'**
+  String get settingFontSize;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
@@ -3452,7 +3516,7 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'fa', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pa', 'pl', 'pt', 'ru', 'si', 'sq', 'sv', 'ta', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'fa', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pa', 'pl', 'ps', 'pt', 'ru', 'si', 'sq', 'sv', 'ta', 'th', 'tr', 'ur'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -3485,12 +3549,14 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
     case 'nl': return AppLocalizationsNl();
     case 'pa': return AppLocalizationsPa();
     case 'pl': return AppLocalizationsPl();
+    case 'ps': return AppLocalizationsPs();
     case 'pt': return AppLocalizationsPt();
     case 'ru': return AppLocalizationsRu();
     case 'si': return AppLocalizationsSi();
     case 'sq': return AppLocalizationsSq();
     case 'sv': return AppLocalizationsSv();
     case 'ta': return AppLocalizationsTa();
+    case 'th': return AppLocalizationsTh();
     case 'tr': return AppLocalizationsTr();
     case 'ur': return AppLocalizationsUr();
   }
