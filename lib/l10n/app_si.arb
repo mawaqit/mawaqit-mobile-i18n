@@ -1191,5 +1191,29 @@
     "font_Size_Normal": "Normal",
     "@font_Size_Normal": {
         "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "360_Settings_Behavior": "Behavior",
+    "@360_Settings_Behavior": {
+        "description": "-> 360_Settings_Behavior"
+    },
+    "behavior_All_Open": "All open",
+    "@behavior_All_Open": {
+        "description": "-> behavior_All_open"
+    },
+    "behavior_Next_Prayer": "Next prayer",
+    "@behavior_Next_Prayer": {
+        "description": "-> behavior_Next_Prayer\r\n_"
+    },
+    "behavior_All_Closed": "All closed",
+    "@behavior_All_Closed": {
+        "description": "-> behavior_All_Closed"
+    },
+    "360_Setiings_Live_Preview": "Live Preview",
+    "@360_Setiings_Live_Preview": {
+        "description": "-> 360_Setiings_Live_Preview"
     }
 }
