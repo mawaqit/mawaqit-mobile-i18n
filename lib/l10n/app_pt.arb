@@ -1179,5 +1179,13 @@
     "live_preview": "Pré-visualização ao vivo",
     "@live_preview": {
         "description": "-> live_preview"
+    },
+    "360_Settings": "Configurações do 360",
+    "@360_Settings": {
+        "description": "-> 360_Settings"
+    },
+    "360_Settings_Font_Size": "Font Size",
+    "@360_Settings_Font_Size": {
+        "description": "-> font_Size"
     }
 }
