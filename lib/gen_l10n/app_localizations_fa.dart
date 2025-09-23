@@ -1605,6 +1605,18 @@ class AppLocalizationsFa extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
+  String get yassin_aljazairi => 'یاسین الجزایری';
+
+  @override
+  String get mohammed_abdelkarim => 'محمد عبدکریم';
+
+  @override
+  String get alayoun_elkouchi => 'العیون الکوشی';
+
+  @override
+  String get abdelkarim_daghoush => 'عبدالکریم داغوش';
+
+  @override
   String get murattal => 'Murattal';
 
   @override

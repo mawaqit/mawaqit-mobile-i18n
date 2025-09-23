@@ -1605,6 +1605,18 @@ class AppLocalizationsUr extends AppLocalizations {
   String get yaser_salamah_murattal => 'یاسر سلامہ';
 
   @override
+  String get yassin_aljazairi => 'یاسن الجزائری';
+
+  @override
+  String get mohammed_abdelkarim => 'محمد عبد الکریم';
+
+  @override
+  String get alayoun_elkouchi => 'العیون الکوشی';
+
+  @override
+  String get abdelkarim_daghoush => 'عبد الکریم داغوش';
+
+  @override
   String get murattal => 'مرتل';
 
   @override

@@ -1605,6 +1605,18 @@ class AppLocalizationsPa extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
+  String get yassin_aljazairi => 'ਯਾਸਿਨ ਅਲ-ਜਜ਼ੈਰੀ';
+
+  @override
+  String get mohammed_abdelkarim => 'ਮੋਹੰਮਦ ਅਬਦਲਕਰਿਮ';
+
+  @override
+  String get alayoun_elkouchi => 'ਅਲ-ਆਯੁਨ ਐਲ-ਕੂਸ਼ੀ';
+
+  @override
+  String get abdelkarim_daghoush => 'ਅਬਦਲਕਰਿਮ ਡਗੂਸ਼';
+
+  @override
   String get murattal => 'Murattal';
 
   @override

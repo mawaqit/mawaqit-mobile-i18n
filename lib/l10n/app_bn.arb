@@ -1191,5 +1191,9 @@
     "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
-    }
+    },
+    "yassin_aljazairi": "ইয়াসিন আল-জাযাইরি",
+    "mohammed_abdelkarim": "মোহাম্মদ আব্দেলকারিম",
+    "alayoun_elkouchi": "আল-আয়ুন এল-কুশি",
+    "abdelkarim_daghoush": "আবদেলকারিম দাগ্শ"
 }

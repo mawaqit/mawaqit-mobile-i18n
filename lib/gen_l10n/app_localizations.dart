@@ -3347,6 +3347,30 @@ abstract class AppLocalizations {
   /// **'Yaser Salamah'**
   String get yaser_salamah_murattal;
 
+  /// No description provided for @yassin_aljazairi.
+  ///
+  /// In en, this message translates to:
+  /// **'Yassin Al-Jazairi'**
+  String get yassin_aljazairi;
+
+  /// No description provided for @mohammed_abdelkarim.
+  ///
+  /// In en, this message translates to:
+  /// **'Mohammed Abdelkarim'**
+  String get mohammed_abdelkarim;
+
+  /// No description provided for @alayoun_elkouchi.
+  ///
+  /// In en, this message translates to:
+  /// **'Al-Ayoun El-Kouchi'**
+  String get alayoun_elkouchi;
+
+  /// No description provided for @abdelkarim_daghoush.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdelkarim Daghoush'**
+  String get abdelkarim_daghoush;
+
   /// No description provided for @murattal.
   ///
   /// In en, this message translates to:

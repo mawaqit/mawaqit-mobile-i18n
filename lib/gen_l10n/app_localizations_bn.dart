@@ -1605,6 +1605,18 @@ class AppLocalizationsBn extends AppLocalizations {
   String get yaser_salamah_murattal => 'ইয়াসির সালামাহ';
 
   @override
+  String get yassin_aljazairi => 'ইয়াসিন আল-জাযাইরি';
+
+  @override
+  String get mohammed_abdelkarim => 'মোহাম্মদ আব্দেলকারিম';
+
+  @override
+  String get alayoun_elkouchi => 'আল-আয়ুন এল-কুশি';
+
+  @override
+  String get abdelkarim_daghoush => 'আবদেলকারিম দাগ্শ';
+
+  @override
   String get murattal => 'মুরাত্তাল';
 
   @override
