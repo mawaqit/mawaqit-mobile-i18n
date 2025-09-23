@@ -1160,10 +1160,6 @@
     "@behavior": {
         "description": "-> behavior"
     },
-    "all_prayer_chips_open": "All open",
-    "@all_prayer_chips_open": {
-        "description": "-> all_prayer_chips_open"
-    },
     "next_prayer_open": "Next prayer",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
@@ -1180,10 +1176,6 @@
     "@live_preview": {
         "description": "-> live_preview"
     },
-    "360_Settings": "360 Settings",
-    "@360_Settings": {
-        "description": "-> 360_Settings"
-    },
     "360_Settings_Font_Size": "Font Size",
     "@360_Settings_Font_Size": {
         "description": "-> font_Size"
@@ -1196,24 +1188,8 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "360_Settings_Behavior": "Behavior",
-    "@360_Settings_Behavior": {
-        "description": "-> 360_Settings_Behavior"
-    },
-    "behavior_All_Open": "All open",
-    "@behavior_All_Open": {
-        "description": "-> behavior_All_open"
-    },
-    "behavior_Next_Prayer": "Next prayer",
-    "@behavior_Next_Prayer": {
-        "description": "-> behavior_Next_Prayer\r\n_"
-    },
-    "behavior_All_Closed": "All closed",
-    "@behavior_All_Closed": {
-        "description": "-> behavior_All_Closed"
-    },
-    "360_Setiings_Live_Preview": "Live Preview",
-    "@360_Setiings_Live_Preview": {
-        "description": "-> 360_Setiings_Live_Preview"
+    "all_Prayer_Open": "All open",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
     }
 }
