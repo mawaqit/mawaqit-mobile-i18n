@@ -1187,5 +1187,33 @@
     "360_Settings_Font_Size": "Font Size",
     "@360_Settings_Font_Size": {
         "description": "-> font_Size"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Grande",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "360_Settings_Behavior": "Comportamiento",
+    "@360_Settings_Behavior": {
+        "description": "-> 360_Settings_Behavior"
+    },
+    "behavior_All_Open": "Todo abierto",
+    "@behavior_All_Open": {
+        "description": "-> behavior_All_open"
+    },
+    "behavior_Next_Prayer": "Siguiente oración",
+    "@behavior_Next_Prayer": {
+        "description": "-> behavior_Next_Prayer\r\n_"
+    },
+    "behavior_All_Closed": "Todo cerrado",
+    "@behavior_All_Closed": {
+        "description": "-> behavior_All_Closed"
+    },
+    "360_Setiings_Live_Preview": "Vista previa en vivo",
+    "@360_Setiings_Live_Preview": {
+        "description": "-> 360_Setiings_Live_Preview"
     }
 }
