@@ -1188,8 +1188,8 @@
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
-    "Settings_Font_Size": "Font Size",
-    "@Settings_Font_Size": {
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
         "description": "-> font_Size"
     }
 }
