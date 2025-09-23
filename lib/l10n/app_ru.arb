@@ -1124,6 +1124,10 @@
     "salah_albudair_murattal": "Салах Аль-Будейр",
     "tawfeeq_assayegh": "Тауфик Ас-Саййег",
     "yaser_salamah_murattal": "Ясер Салама",
+    "yassin_aljazairi": "Яссин Аль-Джазайри",
+    "mohammed_abdelkarim": "Мохаммед Абделькарим",
+    "alayoun_elkouchi": "Аль-Аюн Эль-Кучи",
+    "abdelkarim_daghoush": "Абделькарим Дагуш",
     "murattal": "Муратталь",
     "mujawwad": "Муджавад",
     "moallim": "Обучающий Мусхаф",
@@ -1191,9 +1195,5 @@
     "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
-    },
-          "yassin_aljazairi": "Яссин Аль-Джазайри",
-          "mohammed_abdelkarim": "Мохаммед Абделькарим",
-          "alayoun_elkouchi": "Аль-Аюн Эль-Кучи",
-          "abdelkarim_daghoush": "Абделькарим Дагуш"
+    }
 }
