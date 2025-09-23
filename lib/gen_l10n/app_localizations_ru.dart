@@ -1605,6 +1605,18 @@ class AppLocalizationsRu extends AppLocalizations {
   String get yaser_salamah_murattal => 'Ясер Салама';
 
   @override
+  String get yassin_aljazairi => 'Яссин Аль-Джазайри';
+
+  @override
+  String get mohammed_abdelkarim => 'Мохаммед Абделькарим';
+
+  @override
+  String get alayoun_elkouchi => 'Аль-Аюн Эль-Кучи';
+
+  @override
+  String get abdelkarim_daghoush => 'Абделькарим Дагуш';
+
+  @override
   String get murattal => 'Муратталь';
 
   @override

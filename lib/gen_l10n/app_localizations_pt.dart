@@ -1605,6 +1605,18 @@ class AppLocalizationsPt extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
+  String get yassin_aljazairi => 'Yassin Al-Jazairi';
+
+  @override
+  String get mohammed_abdelkarim => 'Mohammed Abdelkarim';
+
+  @override
+  String get alayoun_elkouchi => 'Al-Ayoun El-Kouchi';
+
+  @override
+  String get abdelkarim_daghoush => 'Abdelkarim Dagoush';
+
+  @override
   String get murattal => 'Murattal';
 
   @override

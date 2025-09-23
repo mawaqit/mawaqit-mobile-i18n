@@ -1605,6 +1605,18 @@ class AppLocalizationsKu extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
+  String get yassin_aljazairi => 'Yassin Al-Jazairî';
+
+  @override
+  String get mohammed_abdelkarim => 'Mehmed Abdelekrem';
+
+  @override
+  String get alayoun_elkouchi => 'Al-Ayûn El-Kuçî';
+
+  @override
+  String get abdelkarim_daghoush => 'Abdelekrem Dağûş';
+
+  @override
   String get murattal => 'Murattal';
 
   @override

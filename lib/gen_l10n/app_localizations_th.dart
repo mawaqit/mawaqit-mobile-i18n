@@ -1605,6 +1605,18 @@ class AppLocalizationsTh extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
+  String get yassin_aljazairi => 'ยาสซิน อัล-จาซาอีรี';
+
+  @override
+  String get mohammed_abdelkarim => 'โมฮัมเหม็ด อับเดลคารีม';
+
+  @override
+  String get alayoun_elkouchi => 'อัล-อายูน เอล-คูชี';
+
+  @override
+  String get abdelkarim_daghoush => 'อับเดลคารีม ดากูช';
+
+  @override
   String get murattal => 'Murattal';
 
   @override

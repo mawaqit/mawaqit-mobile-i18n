@@ -1605,6 +1605,18 @@ class AppLocalizationsAr extends AppLocalizations {
   String get yaser_salamah_murattal => 'ياسر سلامة';
 
   @override
+  String get yassin_aljazairi => 'ياسين الجزائري';
+
+  @override
+  String get mohammed_abdelkarim => 'محمد عبد الكريم';
+
+  @override
+  String get alayoun_elkouchi => 'العيون الكوشي';
+
+  @override
+  String get abdelkarim_daghoush => 'عبد الكريم الدغوش';
+
+  @override
   String get murattal => 'مرتل';
 
   @override

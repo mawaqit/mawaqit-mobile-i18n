@@ -1605,6 +1605,18 @@ class AppLocalizationsAz extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
+  String get yassin_aljazairi => 'Yassin əl-Cezayiri';
+
+  @override
+  String get mohammed_abdelkarim => 'Məhəmməd Əbdül-Kərim';
+
+  @override
+  String get alayoun_elkouchi => 'Al-Ayoun əl-Kuçi';
+
+  @override
+  String get abdelkarim_daghoush => 'Əbdül-Kərim Daquş';
+
+  @override
   String get murattal => 'Murattal';
 
   @override
