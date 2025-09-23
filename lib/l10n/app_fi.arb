@@ -1187,5 +1187,33 @@
     "360_Settings_Font_Size": "Font Size",
     "@360_Settings_Font_Size": {
         "description": "-> font_Size"
+    },
+    "font_Size_Normal": "Normaali",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Suuri",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "360_Settings_Behavior": "Käyttäytyminen",
+    "@360_Settings_Behavior": {
+        "description": "-> 360_Settings_Behavior"
+    },
+    "behavior_All_Open": "Kaikki auki",
+    "@behavior_All_Open": {
+        "description": "-> behavior_All_open"
+    },
+    "behavior_Next_Prayer": "Seuraava rukous",
+    "@behavior_Next_Prayer": {
+        "description": "-> behavior_Next_Prayer\r\n_"
+    },
+    "behavior_All_Closed": "Kaikki suljettu",
+    "@behavior_All_Closed": {
+        "description": "-> behavior_All_Closed"
+    },
+    "360_Setiings_Live_Preview": "Live Esikatselu",
+    "@360_Setiings_Live_Preview": {
+        "description": "-> 360_Setiings_Live_Preview"
     }
 }
