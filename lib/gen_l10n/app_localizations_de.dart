@@ -1651,4 +1651,34 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
+
+  @override
+  String get three_sixty_setting => '360 Einstellungen';
+
+  @override
+  String get behavior => 'Verhalten';
+
+  @override
+  String get next_prayer_open => 'Nächstes Gebet';
+
+  @override
+  String get all_prayer_closed => 'Alle geschlossen';
+
+  @override
+  String get recomended_next_prayer => 'Empfohlen: Nur nächstes Gebet';
+
+  @override
+  String get live_preview => 'Live-Vorschau';
+
+  @override
+  String get font_Size_Normal => 'Normal';
+
+  @override
+  String get font_Size_Large => 'Groß';
+
+  @override
+  String get all_Prayer_Open => 'Alle offen';
+
+  @override
+  String get settingFontSize => 'Font Size';
 }
