@@ -1176,10 +1176,6 @@
     "@live_preview": {
         "description": "-> live_preview"
     },
-    "360_Settings_Font_Size": "Font Size",
-    "@360_Settings_Font_Size": {
-        "description": "-> font_Size"
-    },
     "font_Size_Normal": "normal",
     "@font_Size_Normal": {
         "description": "-> font_Size_Normal"
@@ -1191,5 +1187,9 @@
     "all_Prayer_Open": "Tudo aberto",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
     }
 }
