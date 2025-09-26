@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1124,6 +1124,10 @@
     "salah_albudair_murattal": "صلاح البدیر",
     "tawfeeq_assayegh": "توفیق الصائغ",
     "yaser_salamah_murattal": "یاسر سلامہ",
+    "yassin_aljazairi": "یاسن الجزائری",
+    "mohammed_abdelkarim": "محمد عبد الکریم",
+    "alayoun_elkouchi": "العیون الکوشی",
+    "abdelkarim_daghoush": "عبد الکریم داغوش",
     "murattal": "مرتل",
     "mujawwad": "مجوّد",
     "moallim": "المصحف المعلم",
@@ -1191,9 +1195,5 @@
     "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
-    },
-          "yassin_aljazairi": "یاسن الجزائری",
-          "mohammed_abdelkarim": "محمد عبد الکریم",
-          "alayoun_elkouchi": "العیون الکوشی",
-          "abdelkarim_daghoush": "عبد الکریم داغوش"
+    }
 }

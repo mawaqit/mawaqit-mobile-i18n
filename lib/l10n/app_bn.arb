@@ -1124,6 +1124,10 @@
     "salah_albudair_murattal": "সালাহ আল-বুদাইর",
     "tawfeeq_assayegh": "তৌফিক আস-সাইঘ",
     "yaser_salamah_murattal": "ইয়াসির সালামাহ",
+    "yassin_aljazairi": "ইয়াসিন আল-জাযাইরি",
+    "mohammed_abdelkarim": "মোহাম্মদ আব্দেলকারিম",
+    "alayoun_elkouchi": "আল-আয়ুন এল-কুশি",
+    "abdelkarim_daghoush": "আবদেলকারিম দাগ্শ",
     "murattal": "মুরাত্তাল",
     "mujawwad": "মুজাওয়াদ",
     "moallim": "আল-মুসহাফ আল-মু‘াল্লিম",
@@ -1191,9 +1195,5 @@
     "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
-    },
-    "yassin_aljazairi": "ইয়াসিন আল-জাযাইরি",
-    "mohammed_abdelkarim": "মোহাম্মদ আব্দেলকারিম",
-    "alayoun_elkouchi": "আল-আয়ুন এল-কুশি",
-    "abdelkarim_daghoush": "আবদেলকারিম দাগ্শ"
+    }
 }
