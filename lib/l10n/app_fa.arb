@@ -1,8 +1,6 @@
 {
-
     "@@locale": "fa",
     "bottomNavbar_mawaqit": "مواقیت",
-
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
@@ -1126,6 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Daghoush",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
@@ -1138,8 +1140,6 @@
     "select_ending_verse": "آیه پایان را انتخاب کنید",
     "range_repeat": "تکرار محدوده",
     "verse_repeat": "تکرار آیه",
-
-
     "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
@@ -1195,9 +1195,5 @@
     "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
-
     }
-
-
-
 }
