@@ -1,1 +1,8 @@
-{}
+{
+  "fa": [
+    "yassin_aljazairi",
+    "mohammed_abdelkarim",
+    "alayoun_elkouchi",
+    "abdelkarim_daghoush"
+  ]
+}
