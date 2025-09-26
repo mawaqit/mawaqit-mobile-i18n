@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1124,6 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "یاسین الجزایری",
+    "mohammed_abdelkarim": "محمد عبدکریم",
+    "alayoun_elkouchi": "العیون الکوشی",
+    "abdelkarim_daghoush": "عبدالکریم داغوش",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
@@ -1191,9 +1195,5 @@
     "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
-    },
-    "yassin_aljazairi": "یاسین الجزایری",
-    "mohammed_abdelkarim": "محمد عبدکریم",
-    "alayoun_elkouchi": "العیون الکوشی",
-    "abdelkarim_daghoush": "عبدالکریم داغوش"
+    }
 }
