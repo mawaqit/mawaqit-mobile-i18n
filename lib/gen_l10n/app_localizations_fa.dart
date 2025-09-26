@@ -9,1507 +9,1507 @@ class AppLocalizationsFa extends AppLocalizations {
   AppLocalizationsFa([String locale = 'fa']) : super(locale);
 
   @override
-  String get bottomNavbar_mawaqit => 'مواقیت';
+  String get bottomNavbar_mawaqit => 'MAWAQIT';
 
   @override
-  String get bottomNavbar_favorites => 'علاقه مندی ها';
+  String get bottomNavbar_favorites => 'Favorites';
 
   @override
-  String get bottomNavbar_qibla => 'قبله';
+  String get bottomNavbar_qibla => 'Qibla';
 
   @override
-  String get bottomNavbar_search => 'جستجو';
+  String get bottomNavbar_search => 'Search';
 
   @override
-  String get bottomNavbar_settings => 'تنظیمات';
+  String get bottomNavbar_settings => 'Settings';
 
   @override
-  String get settings_ThemeAuto => 'خودکار';
+  String get settings_ThemeAuto => 'Auto';
 
   @override
-  String get settings_ThemeDark => 'تاریک';
+  String get settings_ThemeDark => 'Dark';
 
   @override
-  String get settings_ThemeLight => 'روشن';
+  String get settings_ThemeLight => 'Light';
 
   @override
-  String get settings_TimeFormat => 'قالب زمان';
+  String get settings_TimeFormat => 'Time format';
 
   @override
-  String get settings_LanguageSelection => 'انتخاب زبان';
+  String get settings_LanguageSelection => 'Language selection';
 
   @override
-  String get settings_Language => 'زبان';
+  String get settings_Language => 'Language';
 
   @override
-  String get settings_Theme => 'زمینه';
+  String get settings_Theme => 'Theme';
 
   @override
-  String get settings_TimeFormat12H => '۱۲س';
+  String get settings_TimeFormat12H => '12H';
 
   @override
-  String get settings_TimeFormat24H => '۲۴س';
+  String get settings_TimeFormat24H => '24H';
 
   @override
-  String get settings_PrayerNotifications => 'هشدارهای نماز';
+  String get settings_PrayerNotifications => 'Prayer Notifications';
 
   @override
-  String get settings_PrayerPreNotifications => 'هشدار قبل از اذان';
+  String get settings_PrayerPreNotifications => 'Pre-Prayer notification';
 
   @override
-  String get settings_ShuruqPreNotifications => 'هشدار قبل از طلوع';
+  String get settings_ShuruqPreNotifications => 'Pre-Shuruq notification';
 
   @override
-  String get settings_Calculations => 'محاسبه';
+  String get settings_Calculations => 'Calculations';
 
   @override
-  String get settings_RateOurApp => 'به برنامه ما امتیاز دهید';
+  String get settings_RateOurApp => 'Rate our app';
 
   @override
-  String get settings_WhatsNew => 'موارد جدید';
+  String get settings_WhatsNew => 'What\'s new';
 
   @override
-  String get settings_SupportMawaqit => 'حمایت از مواقیت';
+  String get settings_SupportMawaqit => 'Support Mawaqit';
 
   @override
-  String get settings_News => 'اخبار';
+  String get settings_News => 'News';
 
   @override
-  String get settings_MakeADonation => 'اهدای کمک های مالی';
+  String get settings_MakeADonation => 'Make a donation';
 
   @override
-  String get bismillah => 'بنام خدا';
+  String get bismillah => 'Bismillah';
 
   @override
-  String get settings_DonateToMawaqit => 'کمک مالی به مواقیت';
+  String get settings_DonateToMawaqit => 'Donate to MAWAQIT';
 
   @override
-  String get settings_CheckForUpdates => 'بررسي بروزرساني';
+  String get settings_CheckForUpdates => 'Check for updates';
 
   @override
-  String get settings_Credits => 'اعتبار نامه ها';
+  String get settings_Credits => 'Credits';
 
   @override
-  String get settings_AboutUs => 'درباره ما';
+  String get settings_AboutUs => 'About us';
 
   @override
-  String get settings_language_ar => 'عربی';
+  String get settings_language_ar => 'Arabic';
 
   @override
-  String get settings_language_bn => 'بنگلادشی';
+  String get settings_language_bn => 'Bengali';
 
   @override
-  String get settings_language_fr => 'فرانسوی';
+  String get settings_language_fr => 'French';
 
   @override
-  String get settings_language_nl => 'هلندی';
+  String get settings_language_nl => 'Dutch';
 
   @override
-  String get settings_language_de => 'آلمانی';
+  String get settings_language_de => 'German';
 
   @override
-  String get settings_language_es => 'اسپانیایی';
+  String get settings_language_es => 'Spanish';
 
   @override
-  String get settings_language_en => 'انگلیسی';
+  String get settings_language_en => 'English';
 
   @override
-  String get settings_language_it => 'ایتالیایی';
+  String get settings_language_it => 'Italian';
 
   @override
-  String get settings_language_tr => 'ترکی';
+  String get settings_language_tr => 'Turkish';
 
   @override
-  String get settings_language_ru => 'روسی';
+  String get settings_language_ru => 'Russian';
 
   @override
-  String get settings_language_id => 'اندونزیایی';
+  String get settings_language_id => 'Indonesian';
 
   @override
-  String get settings_language_ur => 'اردو';
+  String get settings_language_ur => 'Urdu';
 
   @override
-  String get settings_language_pl => 'لهستانی';
+  String get settings_language_pl => 'Polish';
 
   @override
-  String get settings_CreditsText => 'حق نشر و مالکیت معنوی\n\nکپی‌رایت © ۲۰۲۱ برای مواقیت متعلق به بنیاد مواقیت، تمامی حقوق محفوظ است.\nمالکیت معنوی و حقوق کپی‌رایت این برنامه، افزونه‌ها، افزودنی‌ها یا محتوای آن متعلق به مواقیت برای انجمن مواقیت است.\nاین نسخه از برنامه تنها برای توزیع خیریه و به عنوان وقف مجاز است. هرگونه استفاده یا توزیع تجاری اکیداً ممنوع است.\nاین مجوز به هیچ عنوان به معنی فروش یا واگذاری هیچ‌یک از حقوق مربوط به این محصول یا اجزای آن، افزونه‌ها، افزودنی‌ها یا محتوا نمی‌باشد. بلکه فقط اجازه توزیع خیریه از طریق پلتفرم فعلی فروشگاه‌های اپلیکیشن را می‌دهد.\n\n محدودیت‌ها و ممنوعیت‌ها:\nتوزیع مجدد برنامه، چه از طریق کد منبع یا فایل‌های باینری، یا مهندسی معکوس آن، چه با تغییرات و چه بدون آن، تخلف از کپی‌رایت محسوب می‌شود و فرد متخلف در معرض پیگرد قانونی قرار می‌گیرد.\nهیچ شخصی حق ندارد این برنامه را خارج از فروشگاه‌های رسمی اپل یا گوگل پلی بدون کسب مجوز رسمی کتبی از صاحب کپی‌رایت، یعنی مواقیت، توزیع کند. این کار نقض قانون حمایت از مالکیت فکری است و مسئول آن در معرض اقدامات قانونی قرار خواهد گرفت.\nاستفاده از نام برنامه، برند، نشان تجاری، یا نام صاحب کپی‌رایت مواقیت برای تبلیغ محصولات مشابه یا مشتق‌شده از این برنامه، یا هر محصول دیگر، بدون کسب اجازه کتبی قبلی ممنوع است.\n\n سلب مسئولیت:\nاین برنامه به همان صورت که هست (\"as is\") توسط مالکین و سهام‌داران منتشر شده است.\nشرکت توسعه‌دهنده و مالک برنامه هیچگونه ضمانت صریح یا ضمنی ارائه نمی‌دهد؛ از جمله ولی نه محدود به ضمانت کاربرد برنامه برای اهداف خاص یا تجاری.\nدر هیچ حالتی، بنیاد مواقیت یا سهام‌داران آن، در برابر هیچ‌گونه خسارتی مسئول نیستند؛ چه مستقیم، چه غیرمستقیم یا اتفاقی، از جمله اما نه محدود به:\nاز دست رفتن داده‌ها\nقطع فعالیت‌های تجاری\nاز دست رفتن سود\nیا سایر زیان‌ها (خواه بر اساس قرارداد، تقصیر، سهل‌انگاری یا دلایل دیگر)\n\n حقوق اشخاص ثالث:\nحقوق کپی‌رایت مربوط به هرگونه محتوای اشخاص ثالث داخل برنامه محفوظ بوده و متعلق به صاحبان آن است.\n\nتصاویر و پس‌زمینه‌ها:\nتصاویر: کپی‌رایت متعلق به Shutterstock است.\nآیکون‌ها: تحت مجوز Creative Commons BY 4.0 از Flaticon استفاده شده است.\nفایل‌های غیرفونت و غیرآیکون تحت مجوز MIT هستند.\nفونت‌ها: Roboto از Google Fonts تحت مجوز SIL Open Font License 1.1 (OFL) منتشر شده‌اند.\nبسته‌های Cupertino متعلق به شرکت Apple هستند.\n\n کد، بسته‌ها و چارچوب‌ها:\nبرنامه با استفاده از فریم‌ورک Flutter از Google توسعه یافته است و شامل بسته‌های زیر است:\n\nhttp\n\ngeolocator\n\nflutter_platform_widgets\n\nshared_preferences\n\nprovider\n\nflutter_local_notifications\n\naudioplayers\n\ntoggle_switch\n\ncupertino_icons\n\nmarquee_widget\n\nintl\n\nflutter_switch\n\njson_annotation';
+  String get settings_CreditsText => 'Copyright © 2021 MAWAQIT for The MAWAQIT Foundation, All Rights Reserved.\n\nIntellectual property and copyrights of this application or its plug-ins, add-ons or content are owned by MAWAQIT for MAWAQIT association.\n\nThis version is licensed only for charitable distribution and is a Waqf. Any commercial use or commercial distribution is strictly prohibited.\n\nThis license does not indicate or include - by any means – the sale of any right relating to this product, any of its parts, plug-ins, add-ons or content. Rather, this license allows only charitable distribution of the application through the current platform of application store.\n\nRedistribution of the application using the source code or binary files, or using the reverse engineering with or without making any amendments, would expose the infringer or the one responsible for the this copyright infringement to legal action.\n\nNo party is entitled to redistribute the application outside the official stores of Apple or Google Play without an official written permission from the copyright holder and the owner of the application, MAWAQIT for The MAWAQIT association. Distributing this application outside these official stores would be a violation of the intellectual property protection law and exposes the one responsible for this copyright infringement to legal action.\n\nIt is not allowed to use the application name or brand or the trademark or name of the copyright holder MAWAQIT for The MAWAQIT Foundation to promote products which are similar or derived from this application or any other products without obtaining prior written permission from the copyright owner.\nThis application is licensed to be distributed by the copyright holders and shareholders \"as is\".\n\nThe developer and owner company of the application does not give any explicit or implicit warranties, including - but not limited to - advertising and promoting for the suitability of the application for a particular purpose. In any case, MAWAQIT for The MAWAQIT association, or the shareholders are not responsible for any damage, being direct, indirect, or accidental (particular, cautionary, consequential), including - but not limited to - loss of use, data or profits; or business interruption, whatever the causes and the liabilities, be these liabilities contractual, absolute or tort (including negligence or otherwise) which are incurred - in one way or another – by the use of this application.\n\nCopyrights of any third party on the application are reserved to their holder.\n\nImages and Backgrounds\n\nCopyright goes to Shutterstock\nIcons — CC BY 4.0 License\n\nCopyright goes to Flaticons\nMIT license applies to all non-font and non-icon files.\nFonts — SIL OFL 1.1 License\n\nCopyright goes to Google fonts (Roboto fonts)\nCopyright Apple, Cupertino packages\nCode, Packages and Frameworks\n\nFlutter by Google\nPackages : http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'این برنامه توسط انجمن MAWAQIT توسعه داده شده است.\n\nانجمن MAWAQIT یک سازمان غیرانتفاعی است که در سال ۲۰۲۱ در فرانسه تأسیس شد. هدف ما توسعه راه‌حل‌های نوآورانه در زمینه فناوری اطلاعات و فناوری دیجیتال، مانند نرم‌افزارها و وب‌سایت‌ها، و همچنین آموزش و تربیت در زمینه راه‌حل‌های دیجیتال و ابزارهای IT است.\n\nاکوسیستم MAWAQIT محصول اصلی ما است و داستان آن از سال ۲۰۱۶ آغاز شد، با یک برنامه برای صفحه‌نمایش‌های بزرگ مختص مساجد، سپس یک اپلیکیشن موبایل، افزونه دستیار خانگی و مهارت الکسا، و غیره.\n\nMAWAQIT راهی جدید برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. در واقع، ما یک سیستم جامع فراهم می‌آوریم که به مدیران مساجد ابزاری آنلاین و در دسترس ۲۴ ساعته ارائه می‌دهد تا بتوانند برنامه‌ها، اخبار مساجد و بسیاری ویژگی‌های دیگر را مدیریت کنند. از سوی دیگر، مومنان از طریق یک اپلیکیشن موبایل می‌توانند برنامه‌های دقیق نه تقریبی مسجد مورد علاقه خود را مشاهده کرده و از اخبار و سایر امکانات مانند جستجوی مسجد با استفاده از موقعیت مکانی، اذان، قبله و غیره بهره‌مند شوند. ما قابلیت اطمینان و کیفیت را به عنوان ارزش‌های اصلی خود قرار داده‌ایم. هدف ما روشن است: ساخت بهترین خدمت برای مساجد با استفاده از فناوری و طراحی.\n\nاگر از این برنامه خوشتان آمده است، لطفاً نظر خود را در فروشگاه مربوطه به اشتراک بگذارید.';
+  String get settings_AboutUsText => 'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
-  String get fajr => 'صبح';
+  String get fajr => 'Fajr';
 
   @override
-  String get shuruq => 'طلوع آفتاب';
+  String get shuruq => 'Sunrise';
 
   @override
-  String get duhr => 'ظهر';
+  String get duhr => 'Duhr';
 
   @override
-  String get asr => 'عصر';
+  String get asr => 'Asr';
 
   @override
-  String get maghrib => 'مغرب';
+  String get maghrib => 'Maghrib';
 
   @override
-  String get isha => 'عشا';
+  String get isha => 'Isha';
 
   @override
-  String get sabah => 'صباح';
+  String get sabah => 'Sabah';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'شما اعلان این نماز را غیرفعال کرده‌اید.';
+  String get settings_PrayerNotification_NoNotification => 'You have currently set up not to be notified for this prayer.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'اجرای صدای بوق هنگام دریافت اعلان.';
+  String get settings_PrayerNotification_Bip => 'Beep ringtone application upon notification.';
 
   @override
-  String get adhan => 'اذان';
+  String get adhan => 'Adhan';
 
   @override
-  String get adhan_Makkah_fajr => 'مکه(صبح)';
+  String get adhan_Makkah_fajr => 'Makkah (Fajr)';
 
   @override
-  String get adhan_Madinah => 'مدینه';
+  String get adhan_Madinah => 'Madinah';
 
   @override
-  String get adhan_Qods => 'قدس';
+  String get adhan_Qods => 'Qods';
 
   @override
-  String get adhan_AlAfassy => 'العفاسی';
+  String get adhan_AlAfassy => 'Al Afassy';
 
   @override
-  String get adhan_AlAfassy_fajr => 'العفاسی(صبح)';
+  String get adhan_AlAfassy_fajr => 'Al Afassy (Fajr)';
 
   @override
-  String get adhan_Muhammad_jazy => 'محمد جازی';
+  String get adhan_Muhammad_jazy => 'Muhammad Jazy';
 
   @override
-  String get adhan_AbdAlBassat => 'عبدالباسط';
+  String get adhan_AbdAlBassat => 'Abdul Bassit';
 
   @override
-  String get adhan_type => 'نوع اذان را انتخاب کنید. این انتخاب برای تمام نمازهایی که اعلان اذان دارند، اعمال خواهد شد.';
+  String get adhan_type => 'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
-  String get settings_prayer_Notification_None => 'هیچ کدام';
+  String get settings_prayer_Notification_None => 'None';
 
   @override
-  String get prayer_Notification_NoNotification => 'شما هیچ اعلانی برای این نماز تنظیم نکرده‌اید.';
+  String get prayer_Notification_NoNotification => 'You have not set any notification for this Prayer.';
 
   @override
-  String get prayer_PreNotification_Description => 'این تنظیم به شما اجازه می‌دهد که اعلانی قبل از وقت نماز تعیین کنید.';
+  String get prayer_PreNotification_Description => 'This setting allows you to define a notification before the prayer.';
 
   @override
-  String get search_TryParis => 'مثلاً پاریس، السلام و غیره را امتحان کنید.';
+  String get search_TryParis => 'Try Paris, Essalam etc.';
 
   @override
-  String get search_ByGPS => 'جستجو بر اساس موقعیت مکانی GPS';
+  String get search_ByGPS => 'Search by GPS';
 
   @override
-  String get search_HelpText => 'شما می‌توانید برای جستجوی مسجد، موارد زیر را وارد کنید:\n\nنام مسجد\n\nنام انجمن\n\nشهر، آدرس، کشور و...\n\nیا می‌توانید با زدن دکمه مکان‌یاب، مساجد اطراف را پیدا کنید.';
+  String get search_HelpText => 'You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.';
 
   @override
-  String get search_MaxFavMosquesReached => 'شما به حداکثر تعداد مساجد مورد علاقه رسیده‌اید.';
+  String get search_MaxFavMosquesReached => 'You have reached the maximum of the favorite mosques.';
 
   @override
-  String get search_iOs14_message => 'جستجو با استفاده از GPS در iOS 14 ممکن است کمی زمان ببرد، لطفاً صبر کنید.';
+  String get search_iOs14_message => 'Searching using GPS may take some time on iOS 14, please wait.';
 
   @override
-  String get search_error => 'متأسفانه خطای داخلی اتفاق افتاده است\'';
+  String get search_error => 'Oops an internal error has occurred\'';
 
   @override
-  String get search_your_location => 'موقعیت شما';
+  String get search_your_location => 'Your location';
 
   @override
-  String get search_location_disabled => 'لطفاً مسجد را با نام یا شهر جستجو کنید، یا به صورت دستی اجازه استفاده از موقعیت مکانی را در تنظیمات خود فعال کنید.';
+  String get search_location_disabled => 'Please look up for a mosque by name or city, or allow location manually in your settings.';
 
   @override
-  String get search_settings => 'تنظیمات';
+  String get search_settings => 'Settings';
 
   @override
-  String get no_services_text => 'مساجد این اطلاعات را ارائه نکرده‌اند';
+  String get no_services_text => 'Mosques didn\'t provided this info';
 
   @override
-  String get welcome => 'خوش آمدید به';
+  String get welcome => 'Welcome to';
 
   @override
-  String get mawaqit => 'مواقیت';
+  String get mawaqit => 'MAWAQIT';
 
   @override
-  String get connecting => 'ایجاد ارتباط میان مسلمانان';
+  String get connecting => 'Connecting Muslims';
 
   @override
-  String get to_mosques => 'به مساجد';
+  String get to_mosques => 'To Mosques';
 
   @override
-  String get get_started => 'شروع کنید';
+  String get get_started => 'Get started';
 
   @override
-  String get get_prayer_notifications_for => 'اعلان‌های نماز را برای... دریافت کنید';
+  String get get_prayer_notifications_for => 'Get prayer notifications for';
 
   @override
-  String get turn_on_notifications => 'اعلان‌های نماز را فعال کنید';
+  String get turn_on_notifications => 'Turn on prayer notifications';
 
   @override
-  String get no_thanks => 'خیر، متشکرم';
+  String get no_thanks => 'No thank\'s';
 
   @override
-  String get notification_denied => 'شما اجازه دسترسی به اعلان‌ها را رد کرده‌اید، بنابراین هیچ اعلانی دریافت نخواهید کرد.';
+  String get notification_denied => 'You have denied notification permissions, so you won\'t receive any notifications.';
 
   @override
-  String get at_least_one_mosque => 'برای ادامه، حداقل یک مسجد اضافه کنید';
+  String get at_least_one_mosque => 'Add at least one mosque to continue';
 
   @override
-  String get set_up_your_prayer => 'نماز خود را تنظیم کنید';
+  String get set_up_your_prayer => 'Set up your prayer';
 
   @override
-  String get notifications => 'اعلان‌ها';
+  String get notifications => 'Notifications';
 
   @override
-  String get mosques_around_you => 'مساجد اطراف شما';
+  String get mosques_around_you => 'Mosques around you';
 
   @override
-  String get mosques_in_the_selected_area => 'مساجد در محدوده انتخاب شده';
+  String get mosques_in_the_selected_area => 'Mosques in the selected area';
 
   @override
-  String get mosques_with => 'مساجد با';
+  String get mosques_with => 'Mosques with';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'اجازه دهید مواقیت به موقعیت مکانی من دسترسی داشته باشد.';
+  String get allow_mawaqit_to_access_my_location => 'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings => 'موقعیت مکانی را از تنظیمات اپلیکیشن روشن کنید.';
+  String get enable_location_service_from_app_settings => 'Enable location service from app settings.';
 
   @override
-  String get the_request_timeout => 'زمان درخواست منقضی شد';
+  String get the_request_timeout => 'The request timed out';
 
   @override
-  String get no_internet_connection => 'اتصالی به اینترنت وجود ندارد';
+  String get no_internet_connection => 'No Internet Connection';
 
   @override
-  String get try_again => 'دوباره سعی کنید';
+  String get try_again => 'Try again';
 
   @override
-  String get virtual_mosque => 'مسجد مجازی';
+  String get virtual_mosque => 'Virtual Mosque';
 
   @override
-  String get no_mosque_in_selected_area => 'هیچ مسجدی در منطقه انتخاب شده پیدا نشد';
+  String get no_mosque_in_selected_area => 'Couldn\'t find any mosques in the selected area';
 
   @override
-  String get no_mosque_with => 'هیچ مسجدی با... پیدا نشد';
+  String get no_mosque_with => 'Couldn\'t find any mosques with';
 
   @override
-  String get retry => 'تلاش مجدد';
+  String get retry => 'Retry';
 
   @override
-  String get search_here => 'اینجا جستجو کنید';
+  String get search_here => 'Search Here';
 
   @override
-  String get enter_at_least_3_char => 'برای جستجو حداقل ۳ کاراکتر وارد کنید';
+  String get enter_at_least_3_char => 'Enter at-least 3 characters to search';
 
   @override
-  String get jumua1 => 'جمعه\"1';
+  String get jumua1 => 'Jum\'a 1';
 
   @override
-  String get prayer_times => 'اوقات نماز';
+  String get prayer_times => 'Prayer times';
 
   @override
-  String get remove_this_city => 'این شهر را حذف کن';
+  String get remove_this_city => 'Remove this city';
 
   @override
-  String get add_this_city => 'این شهر را اضافه کن';
+  String get add_this_city => 'Add this city';
 
   @override
-  String get add_this_mosque => 'این مسجد را اضافه کن';
+  String get add_this_mosque => 'Add this mosque';
 
   @override
-  String get remove_this_mosque => 'این مسجد را حذف کن';
+  String get remove_this_mosque => 'Remove this mosque';
 
   @override
-  String get services => 'سرویس‌ها';
+  String get services => 'Services';
 
   @override
-  String get share => 'اشتراک گذاشتن';
+  String get share => 'Share';
 
   @override
-  String get itinerary => 'برنامه سفر';
+  String get itinerary => 'Itinerary';
 
   @override
-  String get call => 'تماس بگیرید';
+  String get call => 'Call';
 
   @override
-  String get dnd => 'مزاحم نشوید';
+  String get dnd => 'Do Not Disturb';
 
   @override
-  String get battery_optimize => 'بهینه‌سازی مصرف باتری';
+  String get battery_optimize => 'Battery Optimization';
 
   @override
-  String get power_saver => 'بهینه‌ساز باتری';
+  String get power_saver => 'Power Saver';
 
   @override
-  String get permission_message1 => 'ما یک اعلان با تأخیر شناسایی کردیم، لطفاً آن را غیرفعال کنید';
+  String get permission_message1 => 'We detected a delayed notification, Please turn off';
 
   @override
-  String get permission_message2 => 'تا اعلان را به‌موقع دریافت کنید.';
+  String get permission_message2 => 'to receive the notification on time.';
 
   @override
-  String get notifications_delay_detected => 'تاخیر در دریافت اعلان‌ها تشخیص داده شد';
+  String get notifications_delay_detected => 'Notifications delay detected';
 
   @override
-  String get open_setting => 'تنظیمات را باز کنید';
+  String get open_setting => 'Open settings';
 
   @override
-  String get noJumua => 'جمعه نیست';
+  String get noJumua => 'No jum\'a';
 
   @override
-  String get jumua => 'جمعه\"';
+  String get jumua => 'Jum\'a';
 
   @override
-  String get qibla_sensor => 'حسگری که دستگاه شما برای تعیین قبله توسط مواقیت استفاده می‌کند، به‌درستی کار نمی‌کند و این موضوع بر توانایی ما در نمایش جهت قبله تأثیر گذاشته است.';
+  String get qibla_sensor => 'The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.';
 
   @override
-  String get connection_not_found => 'تنظیم کالیبره‌کردن قطب‌نما غیرفعال است. لطفاً مطمئن شوید اتصال شما روشن است و با تغییر جهت، دوباره تلاش کنید.';
+  String get connection_not_found => 'Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.';
 
   @override
-  String get currently_located_at => 'مکان فعلی';
+  String get currently_located_at => 'Currently located at';
 
   @override
-  String get facing_makkah => 'شما در جهت مکه قرار دارید';
+  String get facing_makkah => 'You\'re facing Makkah';
 
   @override
-  String get not_facing_Makkah => 'شما در جهت مکه قرار ندارید';
+  String get not_facing_Makkah => 'You\'re not facing Makkah';
 
   @override
-  String get qibla_Error_retry => 'تلاش مجدد';
+  String get qibla_Error_retry => 'Retry';
 
   @override
-  String get qibla_Error_LocationDenied => 'مجوز دسترسی به موقعیت مکانی داده نشده است';
+  String get qibla_Error_LocationDenied => 'Location service permission denied';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'مجوز دسترسی به موقعیت مکانی به‌طور دائمی رد شده است!';
+  String get qibla_Error_LocationDeniedForever => 'Location service Denied Forever !';
 
   @override
-  String get qibla_Error_PleaseEnable => 'لطفاً سرویس مکان یاب را فعال کنید';
+  String get qibla_Error_PleaseEnable => 'Please enable Location service';
 
   @override
-  String get qibla_Direction => 'جهت قبله';
+  String get qibla_Direction => 'QIBLA \nDIRECTION';
 
   @override
-  String get favorites_FavoriteMosques => 'مساجد مورد علاقه';
+  String get favorites_FavoriteMosques => 'Favorites mosques';
 
   @override
-  String get favorites_Error => 'خطایی رخ داده است...';
+  String get favorites_Error => 'Something went wrong...';
 
   @override
-  String get announcement_Image => 'تصویر';
+  String get announcement_Image => 'Image';
 
   @override
-  String get announcement_Type_Video => 'ویدیو';
+  String get announcement_Type_Video => 'Video';
 
   @override
-  String get announcement_Type_FlashInfo => 'خبر فوری';
+  String get announcement_Type_FlashInfo => 'Flash Info';
 
   @override
-  String get mosque_DonateText1 => 'حمایت مالی';
+  String get mosque_DonateText1 => 'DONATE';
 
   @override
-  String get mosque_DonateText2 => 'به مسجد';
+  String get mosque_DonateText2 => 'TO MOSQUE';
 
   @override
-  String get mosque_Error_CouldNotLaunch => 'راه‌اندازی انجام نشد';
+  String get mosque_Error_CouldNotLaunch => 'Could not launch';
 
   @override
-  String get mosque_PrayerTimes => 'اوقات نماز';
+  String get mosque_PrayerTimes => 'Prayer times';
 
   @override
-  String get mosque_Website => 'وب سایت';
+  String get mosque_Website => 'Website';
 
   @override
-  String get mosque_Address => 'آدرس';
+  String get mosque_Address => 'Address';
 
   @override
-  String get mosque_Phone => 'تلفن';
+  String get mosque_Phone => 'Phone';
 
   @override
-  String get mosque_Email => 'ایمیل';
+  String get mosque_Email => 'Email';
 
   @override
-  String get mosque_ByMawaqit => 'از طرف مواقیت https://mawaqit.net';
+  String get mosque_ByMawaqit => 'By MAWAQIT https://mawaqit.net';
 
   @override
-  String get mosque_Facilities_Parking => 'پارکینگ';
+  String get mosque_Facilities_Parking => 'Parking';
 
   @override
-  String get mosque_Facilities_DisabledAccess => 'دسترسی برای افراد دارای معلولیت';
+  String get mosque_Facilities_DisabledAccess => 'Disabled Access';
 
   @override
-  String get mosque_Facilities_AblutionsRoom => 'وضوخانه';
+  String get mosque_Facilities_AblutionsRoom => 'Ablution Room';
 
   @override
-  String get mosque_Facilities_WomanSpace => 'مسجد زنانه';
+  String get mosque_Facilities_WomanSpace => 'Women Space';
 
   @override
-  String get mosque_Facilities_AdultsCourse => 'کلاس‌های ویژه بزرگسالان';
+  String get mosque_Facilities_AdultsCourse => 'Adults Courses';
 
   @override
-  String get mosque_Facilities_ChildrenCourses => 'دوره‌های کودکان';
+  String get mosque_Facilities_ChildrenCourses => 'Children Courses';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'نماز عید';
+  String get mosque_Facilities_SalatAlAid => 'Salat Al Eid';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'نماز میت';
+  String get mosque_Facilities_SalatAlJanaza => 'Salat Al Janaza';
 
   @override
-  String get mosques_Facilities_IftarRamadan => 'افطار رمضان';
+  String get mosques_Facilities_IftarRamadan => 'Iftar Ramadan';
 
   @override
-  String get mosque_facilities_Info => 'تمام این اطلاعات توسط مسئولان مسجد وارد شده است';
+  String get mosque_facilities_Info => 'All this information is filled in by the people in charge of the mosque';
 
   @override
-  String get in_ => 'پس از';
+  String get in_ => 'in';
 
   @override
-  String get imsak => 'روزه';
+  String get imsak => 'Imsak';
 
   @override
-  String get eid => 'نماز عید در';
+  String get eid => 'Eid prayer at';
 
   @override
-  String get minutes => 'دقایق';
+  String get minutes => 'Minutes';
 
   @override
-  String get jumua2 => 'جمعه\"2';
+  String get jumua2 => 'Jum\'a 2';
 
   @override
-  String get please_update => 'نسخه جدیدتری از MAWAQIT موجود است، لطفاً به‌روزرسانی کنید';
+  String get please_update => 'A newer version of MAWAQIT is available, please update';
 
   @override
-  String get update => 'بروزرسانی';
+  String get update => 'Update';
 
   @override
-  String get tutorial_skip => 'رد کردن آموزش';
+  String get tutorial_skip => 'Skip tutorial';
 
   @override
-  String get tutorial_next => 'بعدی';
+  String get tutorial_next => 'Next';
 
   @override
-  String get tutorial_title_main_mosque => 'مسجد اصلی شما';
+  String get tutorial_title_main_mosque => 'Your main mosque';
 
   @override
-  String get tutorial_text_main_mosque => 'مسجد اصلی شما اینجا نمایش داده می‌شود.\nمی‌توانید با کشیدن به چپ و راست بین مساجد مورد علاقه‌تان جابجا شوید.';
+  String get tutorial_text_main_mosque => 'Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.';
 
   @override
-  String get tutorial_title_countdown => 'نمایشگر نماز بعدی';
+  String get tutorial_title_countdown => 'Next prayer indicator';
 
   @override
-  String get tutorial_text_countdown => 'این شمارش معکوس زمان باقی‌مانده تا نماز بعدی را به شما نشان می‌دهد.';
+  String get tutorial_text_countdown => 'This countdown shows you the time remaining before the next prayer.';
 
   @override
-  String get tutorial_title_mosque_info => 'اطلاعات مسجد';
+  String get tutorial_title_mosque_info => 'Mosque Information';
 
   @override
-  String get tutorial_text_mosque_info => 'همه چیز درباره مسجد شما: امکانات، آدرس، تلفن، ایمیل، کمک‌های مالی و موارد دیگر.';
+  String get tutorial_text_mosque_info => 'Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.';
 
   @override
-  String get tutorial_title_announcements => 'پیام‌ها و اطلاعیه‌های مسجد';
+  String get tutorial_title_announcements => 'Mosque messages and announcements';
 
   @override
-  String get tutorial_text_announcements => 'اطلاع‌رسانی‌ها درباره پیام‌ها و اطلاعیه‌های مسجد شما در اینجا نمایش داده می‌شوند.\nوقتی روی این دکمه ضربه بزنید، جزئیات کامل را خواهید دید. این اطلاعیه‌ها می‌توانند شامل پیام فوری، تصویر یا حتی ویدئو باشند.';
+  String get tutorial_text_announcements => 'Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.';
 
   @override
-  String get onboarding_title_1 => 'زبان خود را انتخاب کنید';
+  String get onboarding_title_1 => 'Select your language';
 
   @override
-  String get onboarding_text_1 => 'زبان مورد نظر خود را از فهرست زیر انتخاب کنید';
+  String get onboarding_text_1 => 'Select your preferred language from the list below';
 
   @override
-  String get onboarding_title_2 => 'به مواقیت خوش آمدید';
+  String get onboarding_title_2 => 'Welcome to MAWAQIT';
 
   @override
-  String get onboarding_text_2 => 'مواقیت یک اکوسیستم است که راهی نوین برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. اپلیکیشنی که در دست دارید بخشی از این اکوسیستم است و به شما امکان می‌دهد مساجد را پیدا کنید و از اخبار و اوقات نماز آن‌ها مطلع شوید';
+  String get onboarding_text_2 => 'MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times';
 
   @override
-  String get onboarding_title_3 => 'یک قالب تاریک/روشن انتخاب کنید';
+  String get onboarding_title_3 => 'Select a Dark/Light theme';
 
   @override
-  String get onboarding_text_3 => 'چه در محیط کم‌نور باشید و چه ترجیح دهید پس‌زمینه‌های تاریک‌تر روی گوشی‌تان داشته باشید، می‌توانید از حالت تاریک برای راحتی بیشتر دیداری بهره‌مند شوید';
+  String get onboarding_text_3 => 'Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort';
 
   @override
-  String get onboarding_title_4 => 'مسجد اصلی خود را اضافه کنید';
+  String get onboarding_title_4 => 'Add your main Mosque';
 
   @override
-  String get onboarding_text_4 => 'لطفاً مسجد اصلی خود را از فهرست زیر انتخاب کنید یا مسجدی نزدیک به موقعیت فعلی خود جستجو کنید';
+  String get onboarding_text_4 => 'Please pick your main mosque from the list below or search for a mosque near your current location';
 
   @override
-  String get loading => 'بارگذاری';
+  String get loading => 'Loading';
 
   @override
-  String get loading_please_wait => 'درحال بارگزاری... صبورباشید';
+  String get loading_please_wait => 'Loading... Please wait';
 
   @override
-  String get loading_loaded => 'بارگذاری تکمیل شد';
+  String get loading_loaded => 'Loading complete';
 
   @override
-  String get favorites_edit => 'ویرایش مساجد مورد علاقه';
+  String get favorites_edit => 'Edit Favorite Mosques';
 
   @override
-  String get minutes_to_athan => 'دقایق مانده تا اذان';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
-  String get show_tutorial => 'مرور آموزش';
+  String get show_tutorial => 'Review the tutorial';
 
   @override
-  String get onboarding_chose_mosque_please => 'لطفاً یک مسجد را از فهرست جستجو انتخاب کنید';
+  String get onboarding_chose_mosque_please => 'Please choose a mosque from the search list';
 
   @override
-  String get done => 'انجام شد';
+  String get done => 'Done';
 
   @override
-  String get ok => 'تایید';
+  String get ok => 'OK';
 
   @override
-  String get km => 'کیلومتر';
+  String get km => 'km';
 
   @override
-  String get notification_open_app_title => 'برنامه را باز کنید';
+  String get notification_open_app_title => 'Open the app';
 
   @override
-  String get notification_open_app_body => 'لطفاً برای دریافت اطلاع‌رسانی‌ها برنامه را باز کنید';
+  String get notification_open_app_body => 'Please open the app to maintain notifications';
 
   @override
-  String get tutorial_title_notification => 'یک اعلان نماز را انتخاب کنید';
+  String get tutorial_title_notification => 'Select a prayer notification';
 
   @override
-  String get tutorial_text_notification => 'اینجا می‌توانید نوع اعلان را انتخاب کنید: اذان، بوق یا بی‌صدا';
+  String get tutorial_text_notification => 'Here you can select a type of notification, Athan, bip or silent';
 
   @override
-  String get search_no_result => 'سفیر مواقیت شوید و راه‌حل ما را به مسجد خود ارائه دهید، این خدمت رایگان است\nhttps://mawaqit.net»';
+  String get search_no_result => 'Become a MAWAQIT ambassador and offer our solution to your mosque, it\'s free\nhttps://mawaqit.net';
 
   @override
-  String get rate_popin_title => 'امتیاز دادن به مواقیت';
+  String get rate_popin_title => 'Rate MAWAQIT';
 
   @override
-  String get rate_popin_message => 'اگر این برنامه را دوست دارید، لطفاً کمی از وقت خود را برای بررسی آن اختصاص دهید!\nاین واقعاً به ما کمک می‌کند.';
+  String get rate_popin_message => 'If you like this app, please take a little bit of your time to review it !\nIt really helps us.';
 
   @override
-  String get rate_popin_rate => 'امتیاز';
+  String get rate_popin_rate => 'RATE';
 
   @override
-  String get rate_popin_no => 'خیر متشکرم';
+  String get rate_popin_no => 'NO THANKS';
 
   @override
-  String get rate_popin_later => 'شاید بعداً';
+  String get rate_popin_later => 'MAYBE LATER';
 
   @override
-  String get message_see_all => 'می‌توانید با کلیک روی آیکون بلندگو در بالای صفحه، تمام پیام‌های این مسجد را مشاهده کنید.';
+  String get message_see_all => 'You can view all messages from this mosque by clicking on the speaker at the top of the screen.';
 
   @override
-  String get adhan_Makkah => 'مکه';
+  String get adhan_Makkah => 'Makkah';
 
   @override
-  String get tutorial_title_iqama => 'اقامه';
+  String get tutorial_title_iqama => 'Iqama';
 
   @override
-  String get tutorial_text_iqama => 'مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید';
+  String get tutorial_text_iqama => 'Here you find the duration between adhan and iqama at the mosque';
 
   @override
-  String get calendar_tooltip_download => 'دانلود تقویم';
+  String get calendar_tooltip_download => 'Download calendar';
 
   @override
-  String get calendar_download_permission_refused => 'مجوز دانلود به‌صورت دائم رد شده است، لطفاً دانلود را مجاز کنید';
+  String get calendar_download_permission_refused => 'Download permission refused definitely, please allow download';
 
   @override
-  String get calendar_downloading => 'دانلود تقویم...';
+  String get calendar_downloading => 'Downloading calendar...';
 
   @override
-  String get location_service_disabled => 'خدمات موقعیت مکانی غیرفعال است، لطفاً آن را فعال کنید.';
+  String get location_service_disabled => 'Location Service is disabled, please enable it.';
 
   @override
-  String get location_permission_denied => 'مجوز دسترسی به موقعیت مکانی رد شده است، لطفاً آن را فعال کنید.';
+  String get location_permission_denied => 'Location Permission Denied, please allow it.';
 
   @override
-  String get location_permission_denied_forever => 'مجوز دسترسی به موقعیت مکانی برای همیشه رد شده است، لطفاً در صفحه تنظیمات آن را فعال کنید.';
+  String get location_permission_denied_forever => 'Location Permission Denied Forever, please allow it in the settings page.';
 
   @override
-  String get at_least_one_mosque_error => 'شما باید حداقل یک مسجد داشته باشید.';
+  String get at_least_one_mosque_error => 'You should have at least one mosque.';
 
   @override
-  String get and => 'و';
+  String get and => 'and';
 
   @override
-  String get continue_to_app => 'ادامه دادن';
+  String get continue_to_app => 'Continue';
 
   @override
-  String get add => 'اضافه کردن';
+  String get add => 'Add';
 
   @override
-  String get mosque => 'مسجد';
+  String get mosque => 'Mosque';
 
   @override
-  String get on_boarding_nearest_mosque => 'بیایید نزدیک‌ترین مسجد را پیدا کنیم';
+  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'مساجد اطراف شما بر اساس موقعیت مکانی شما در اینجا نمایش داده شده‌اند';
+  String get on_boarding_nearest_mosque_text => 'Here are the mosques found around you according to your geolocation';
 
   @override
-  String get search_no_result_for_text => 'هیچ نتیجه‌ای پیدا نکردیم';
+  String get search_no_result_for_text => 'We did not find any result for';
 
   @override
-  String get surah_audio_downloading => 'در حال دانلود فایل صوتی سوره...';
+  String get surah_audio_downloading => 'Surah Audio Downloading...';
 
   @override
-  String get msg_internet_connection => 'اتصال اینترنت شما قطع است';
+  String get msg_internet_connection => 'You don\'t have any internet connection';
 
   @override
-  String get read_quran => 'قران بخوان';
+  String get read_quran => 'Read Quran';
 
   @override
-  String get ayahs => 'آیات';
+  String get ayahs => 'Ayahs';
 
   @override
-  String get chapter => 'سورة';
+  String get chapter => 'Surah';
 
   @override
-  String get meaning => 'به معنای';
+  String get meaning => 'Meaning';
 
   @override
-  String get al_quran => 'قران';
+  String get al_quran => 'Al Quran';
 
   @override
-  String get surah_information => 'اطلاعات سورة';
+  String get surah_information => 'Surah Information';
 
   @override
-  String get surah_number => 'شماره سورة';
+  String get surah_number => 'Surah Number';
 
   @override
-  String get quran_browsing => 'مرور';
+  String get quran_browsing => 'Browsing';
 
   @override
-  String get quran_search_placeholder => 'جستجوی نام ، شماره و... سورة...';
+  String get quran_search_placeholder => 'Search by name of surah, number...';
 
   @override
-  String get quran_verse_search => 'جستجوی آیه';
+  String get quran_verse_search => 'Verse search';
 
   @override
-  String get quran_translation => 'ترجمه';
+  String get quran_translation => 'Translation';
 
   @override
-  String get quran_mushaf => 'قران';
+  String get quran_mushaf => 'Mushaf';
 
   @override
-  String get quran_juzz => 'جز';
+  String get quran_juzz => 'Juzz';
 
   @override
-  String get ayah => 'آيه';
+  String get ayah => 'Ayah';
 
   @override
-  String get quran_verses => 'آيات';
+  String get quran_verses => 'Verses';
 
   @override
-  String get surah => 'سورة';
+  String get surah => 'Surah';
 
   @override
-  String get continue_reading => 'ادامه مطلب';
+  String get continue_reading => 'Continue reading';
 
   @override
-  String get bookmarks => 'نشانک ها';
+  String get bookmarks => 'Bookmarks';
 
   @override
-  String get juzz => 'جز';
+  String get juzz => 'Juzz';
 
   @override
-  String get quran_page => 'صفحه';
+  String get quran_page => 'Page';
 
   @override
-  String get quran_turning_page => 'ورق زدن صفحه';
+  String get quran_turning_page => 'Turning page';
 
   @override
-  String get quran_from_right_to_left => 'از راست به چپ';
+  String get quran_from_right_to_left => 'From right to left';
 
   @override
-  String get quran_from_left_to_right => 'از چپ به راست';
+  String get quran_from_left_to_right => 'From left to right';
 
   @override
-  String get quran_from_top_to_bottom => 'از بالا به پایین';
+  String get quran_from_top_to_bottom => 'From top to bottom';
 
   @override
-  String get quran_from_bottom_to_top => 'از پایین به بالا';
+  String get quran_from_bottom_to_top => 'From bottom to top';
 
   @override
-  String get quran_pages_color => 'رنگ صفحه';
+  String get quran_pages_color => 'Pages color';
 
   @override
-  String get english_tr => 'انگلیسی';
+  String get english_tr => 'English';
 
   @override
-  String get french_tr => 'فرانسوی';
+  String get french_tr => 'French';
 
   @override
-  String get spanish_tr => 'اسپانیایی';
+  String get spanish_tr => 'Spanish';
 
   @override
-  String get muhammad_hamidullah => 'محمد حمید الله';
+  String get muhammad_hamidullah => 'Muhammad Hamidullah';
 
   @override
-  String get abdullah_yusuf_ali => 'عبدالله یوسف علی';
+  String get abdullah_yusuf_ali => 'Abdullah Yusuf Ali';
 
   @override
-  String get sheikh_isa_garcia => 'شیخ عیسی گارسیا';
+  String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
 
   @override
-  String get reciters => 'قرائت‌کنندگان';
+  String get reciters => 'Reciters';
 
   @override
-  String get favorite_reciters => 'قاریان مورد علاقه';
+  String get favorite_reciters => 'Favorite reciters';
 
   @override
-  String get surahs_downloaded => 'سوره‌ها دانلود شده';
+  String get surahs_downloaded => 'Surahs downloaded';
 
   @override
-  String get surahs_chapter => 'سوره‌ها - بخش';
+  String get surahs_chapter => 'Surahs - Chapter';
 
   @override
-  String get my_likes => 'علاقه‌مندی‌های من';
+  String get my_likes => 'My Likes';
 
   @override
-  String get cancel => 'لغو';
+  String get cancel => 'Cancel';
 
   @override
-  String get next => 'بعدی';
+  String get next => 'Next';
 
   @override
-  String get search_surah => 'جستجوی سوره';
+  String get search_surah => 'Search Surah';
 
   @override
-  String get not_downloaded_recitation => 'شما هنوز هیچ قرائتی دانلود نکرده‌اید.';
+  String get not_downloaded_recitation => 'You have not downloaded any recitation yet.';
 
   @override
-  String get not_favorite_reciter => 'شما هنوز هیچ قاری‌ای را به عنوان مورد علاقه علامت‌گذاری نکرده‌اید.';
+  String get not_favorite_reciter => 'You have not marked any reciter favorite yet.';
 
   @override
-  String get search_reciter => 'جستجوی قاری';
+  String get search_reciter => 'Search Reciter';
 
   @override
-  String get al_quran_al_kareem => 'القرآن الکریم';
+  String get al_quran_al_kareem => 'Al Quran Al Kareem';
 
   @override
-  String get surahs => 'سورة ها';
+  String get surahs => 'Surahs';
 
   @override
-  String get chapters => 'بخش‌ها';
+  String get chapters => 'Chapters';
 
   @override
-  String get calculation_info => 'تنظیمات این بخش فقط مربوط به اوقات نمازهایی است که بر اساس موقعیت مکانی شما محاسبه می‌شوند و مربوط به اوقات نماز مساجد نمی‌شود.';
+  String get calculation_info => 'The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.';
 
   @override
-  String get calculation_madhab => 'فقه - مذهب فقهی';
+  String get calculation_madhab => 'Jurisprudence - Madhab';
 
   @override
-  String get calculation_madhab_shafii => 'شافعی\n\nحنبلی\n\nمالکی';
+  String get calculation_madhab_shafii => 'Shafi’i, Hanbali and Maliki';
 
   @override
-  String get calculation_madhab_shafii_countries => 'اردن\n\nفلسطین\n\nیمن\n\nسومالی\n\nاریتره\n\nمالزی\n\nاندونزی\n\nبرونئی\n\nجنوب مصر\n\nعربستان سعودی\n\nقطر\n\nشمال آفریقا\n\nغرب آفریقا\n\nامارات متحده عربی\n\nکویت...';
+  String get calculation_madhab_shafii_countries => 'Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...';
 
   @override
-  String get calculation_madhab_hanafi => 'حنفی';
+  String get calculation_madhab_hanafi => 'Hanafi';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'شام \n\nپاکستان\n\nافغانستان\n\nهند\n\nبنگلادش\n\nعراق\n\nترکیه\n\nروسیه\n\nچین\n\nبالکان‌ها...';
+  String get calculation_madhab_hanafi_countries => 'Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...';
 
   @override
-  String get calculation_methods => 'روش‌های محاسبه';
+  String get calculation_methods => 'Calculation methods';
 
   @override
-  String get calculation_methods_france => 'مسلمانان فرانسه(اتحادیه سازمان‌های اسلامی فرانسه)';
+  String get calculation_methods_france => 'Muslim of France (ex UOIF)';
 
   @override
-  String get calculation_methods_algeria => 'وزارت امور دینی و اوقاف الجزایر';
+  String get calculation_methods_algeria => 'Algerian Ministry of Religious Affairs and Wakfs';
 
   @override
-  String get calculation_methods_morocco => 'وزارت اوقاف و امور اسلامی مراکش';
+  String get calculation_methods_morocco => 'Moroccan Ministry of Wakfs and Islamic Affairs';
 
   @override
-  String get calculation_methods_muslim_world => 'مجمع جهانی مسلمانان';
+  String get calculation_methods_muslim_world => 'Muslim World League';
 
   @override
-  String get calculation_methods_egyptian => 'سازمان کل نقشه‌برداری مصر';
+  String get calculation_methods_egyptian => 'Egyptian General Authority of Survey';
 
   @override
-  String get calculation_methods_karachi => 'دانشگاه علوم اسلامی کراچی';
+  String get calculation_methods_karachi => 'University of Islamic Sciences, Karachi';
 
   @override
-  String get calculation_methods_umm_al_qura => 'دانشگاه ام القُرى، مکه';
+  String get calculation_methods_umm_al_qura => 'Umm al-Qura University, Makkah';
 
   @override
-  String get calculation_methods_dubai => 'منطقه خلیج فارس';
+  String get calculation_methods_dubai => 'The Gulf Region';
 
   @override
-  String get calculation_methods_moon => 'کمیته رویت هلال';
+  String get calculation_methods_moon => 'Moon Sighting Committee';
 
   @override
-  String get calculation_methods_north_america => 'جامعه اسلامی آمریکای شمالی';
+  String get calculation_methods_north_america => 'Islamic Society of North America';
 
   @override
-  String get calculation_methods_kuwait => 'کویت';
+  String get calculation_methods_kuwait => 'Kuwait';
 
   @override
-  String get calculation_methods_qatar => 'قطر';
+  String get calculation_methods_qatar => 'Qatar';
 
   @override
-  String get calculation_methods_singapore => 'سنگاپور';
+  String get calculation_methods_singapore => 'Singapore';
 
   @override
-  String get calculation_methods_turkey => 'ترکیه';
+  String get calculation_methods_turkey => 'Turkey';
 
   @override
-  String get calculation_methods_tehran => 'انستیتو ژئوفیزیک، دانشگاه تهران';
+  String get calculation_methods_tehran => 'Institute of Geophysics, University of Tehran';
 
   @override
-  String get calculation_methods_russia => 'اداره مرکزی امور دینی مسلمانان روسیه';
+  String get calculation_methods_russia => 'Spiritual Administration of Muslims in Russia';
 
   @override
-  String get calculation_methods_custom => 'زاویه‌های دلخواه';
+  String get calculation_methods_custom => 'Custom angles';
 
   @override
-  String get calculation_high_latitude => 'عرض‌های جغرافیایی بالاتر';
+  String get calculation_high_latitude => 'Higher latitudes';
 
   @override
-  String get calculation_high_latitude_none => 'هیچ کدام';
+  String get calculation_high_latitude_none => 'None';
 
   @override
-  String get calculation_high_latitude_middle => 'نیمه شب';
+  String get calculation_high_latitude_middle => 'Middle of the night';
 
   @override
-  String get calculation_high_latitude_one_seventh => 'یک‌هفتم شب';
+  String get calculation_high_latitude_one_seventh => 'One-seventh of the night';
 
   @override
-  String get calculation_high_latitude_angle_based => 'روش مبتنی بر زاویه';
+  String get calculation_high_latitude_angle_based => 'Angle based method';
 
   @override
-  String get calculation_adjustment => 'راهنمای تصحیح';
+  String get calculation_adjustment => 'Manual correction';
 
   @override
-  String get calculation_adjustment_subtitle => 'تنظیمات اوقات نماز و زاویه‌های دلخواه';
+  String get calculation_adjustment_subtitle => 'Prayer adjustment and custom angles';
 
   @override
-  String get calculation_adjustment_prayers => 'تنظیم اوقات شرعی نماز';
+  String get calculation_adjustment_prayers => 'Prayer adjustments';
 
   @override
-  String get calculation_adjustment_prayers_minutes => 'دقایق';
+  String get calculation_adjustment_prayers_minutes => 'minutes';
 
   @override
-  String get calculation_adjustment_angles => 'زاویه‌های دلخواه';
+  String get calculation_adjustment_angles => 'Custom angles';
 
   @override
-  String get calculation_prayer_custom_angle => 'زاویه‌های دلخواه برای';
+  String get calculation_prayer_custom_angle => 'Custom angle for';
 
   @override
-  String get error_download_quran_failed => 'دانلود قرآن انجام نشد';
+  String get error_download_quran_failed => 'Failed to download Quran';
 
   @override
-  String get downloading_quran => 'در حال دانلود قران...';
+  String get downloading_quran => 'Downloading Quran...';
 
   @override
-  String get processing => 'در حال پردازش...';
+  String get processing => 'Processing...';
 
   @override
-  String get copied_to_clipboard => 'در کلیپ‌بورد شما کپی شد!';
+  String get copied_to_clipboard => 'Copied to your clipboard !';
 
   @override
-  String get download_quran_popup_title => 'آخرین اصلاحات';
+  String get download_quran_popup_title => 'Last touch ups';
 
   @override
-  String get download_quran_popup_downloading_1 => 'نیاز است صفحات قرآن را دانلود کنیم، فقط چند ثانیه طول می‌کشد. از اینترنت همراه شما استفاده خواهیم کرد، در صورت نیاز به وای‌فای سوئیچ کنید.';
+  String get download_quran_popup_downloading_1 => 'We need to download the pages of the Quran, it will only take a few seconds. We will use your mobile data, switch to Wi-Fi if needed.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'قرآن را فقط برای شما آماده می‌کنیم، لطفاً چند ثانیه صبر کنید!';
+  String get download_quran_popup_downloading_2 => 'We are preparing the Qur’an just for you, please wait a few seconds!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'برای شروع مسیر خواندن و تأمل، روی «دانلود» کلیک کنید.';
+  String get download_quran_popup_downloading_3 => 'Click on \'Download\' to start your journey of reading and reflection.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'آیا مطمئن هستید که می‌خواهید دانلود را لغو کنید؟ بدون این داده‌ها قادر به خواندن قرآن نخواهید بود و صفحات در دسترس نخواهند بود.';
+  String get download_quran_popup_confirm_cancel => 'Are you sure you want to cancel the download? Without this data you won\'t be able to read the Quran, the pages will be unavailable.';
 
   @override
-  String get download_quran_popup_cancelled => 'مشکلی پیش آمد، لطفاً دوباره روی دکمه دانلود کلیک کنید!';
+  String get download_quran_popup_cancelled => 'Something went wrong, please hit the download button again!';
 
   @override
-  String get download => 'دانلود';
+  String get download => 'Download';
 
   @override
-  String get continue_download => 'ادامه دانلود';
+  String get continue_download => 'Continue the download';
 
   @override
-  String get cancel_download => 'لغو دانلود';
+  String get cancel_download => 'Cancel the download';
 
   @override
-  String get download_completed => 'دانلود تکمیل شد';
+  String get download_completed => 'Download Completed';
 
   @override
-  String get download_failed => 'بارگیری ناموفق بود';
+  String get download_failed => 'Download Failed';
 
   @override
-  String get download_pages => 'صفحات را دانلود کنید';
+  String get download_pages => 'Download the pages';
 
   @override
-  String get notification => 'اعلان';
+  String get notification => 'Notification';
 
   @override
-  String get notification_not_supported_below_7 => 'شما نمی‌توانید اعلان‌های اذان یا اوقات نماز را دریافت کنید زیرا دستگاه شما از اندروید ۷ یا نسخه‌های پایین‌تر استفاده می‌کند.';
+  String get notification_not_supported_below_7 => 'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
-  String get battery_optimization => 'بهینه‌سازی مصرف باتری';
+  String get battery_optimization => 'Battery optimization';
 
   @override
-  String get battery_optimization_subtitle => 'برای دریافت بدون مشکل اعلان‌های نماز، باید بهینه‌سازی باتری برای مواقیت را خاموش کنید.';
+  String get battery_optimization_subtitle => 'To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.';
 
   @override
-  String get allow => 'اجازه دادن';
+  String get allow => 'Allow';
 
   @override
-  String get deny => 'رد کردن';
+  String get deny => 'Deny';
 
   @override
-  String get force_notification => 'اعلان‌ها را اجباری کنید';
+  String get force_notification => 'Force notifications';
 
   @override
-  String get tutorial_text_foreground_service => 'ضربه زدن روی آن به شما امکان می‌دهد سرویس «Foreground» را روشن یا خاموش کنید';
+  String get tutorial_text_foreground_service => 'Tapping on it allows you to toggle the \'Foreground Service\' on or off';
 
   @override
-  String get enable => 'روشن';
+  String get enable => 'ON';
 
   @override
-  String get disable => 'خاموش';
+  String get disable => 'OFF';
 
   @override
-  String get do_not_show_again => 'دوباره نمایش نده';
+  String get do_not_show_again => 'Don\'t show it again';
 
   @override
-  String get force_notification_title => 'مواقیت فعال است تا اطمینان حاصل شود اعلان‌های نماز در زمان درست فعال می‌شوند.';
+  String get force_notification_title => 'MAWAQIT is active to ensure the prayer notifications are triggered at the correct time.';
 
   @override
-  String get force_notification_body => 'همانا نماز بر مؤمنان در اوقات معینی واجب شده است.» (نساء، آیه ۱۰۳)';
+  String get force_notification_body => 'Verily, the prayer is enjoined on the believers at fixed hours. Nisa(103)';
 
   @override
-  String get force_notification_dialog1_body => 'با فعال کردن این گزینه، برنامه در حالت فعال باقی می‌ماند تا اطمینان حاصل شود اعلان‌های نماز در زمان صحیح و بدون تأخیر اجرا شوند. برنامه مواقیت فقط برای این منظور فعال خواهد بود و شما می‌توانید هر زمان که خواستید این گزینه را از تنظیمات غیرفعال کنید.';
+  String get force_notification_dialog1_body => 'By enabling this option, the application will stay active to ensure the prayer notifications are triggered at the correct time without delay.The MAWAQIT Application will be active only for that purpose, and you can turn off that option anytime from the settings.';
 
   @override
-  String get force_notification_dialog2_body => 'بعد از فعال کردن «اعلان‌های اجباری»، با کشیدن نوار اعلان‌ها به پایین، این اعلان را مشاهده خواهید کرد';
+  String get force_notification_dialog2_body => 'After enabling the \'Force Notifications\' swipe down the notification tray you see this notification there';
 
   @override
-  String get notification_debugging => 'رفع اشکال اعلان‌ها';
+  String get notification_debugging => 'Notification Debugging';
 
   @override
-  String get notification_debugging_details => 'عیب‌یابی اعلان‌ها فعال است. اگر تنظیمات اعلان را تغییر دهید، داده‌های عیب‌یابی حذف شده و این قابلیت غیرفعال خواهد شد.';
+  String get notification_debugging_details => 'Notification debugging is enabled. If you change the notification settings, the debugging data will be lost, and debugging will be disabled.';
 
   @override
-  String get skip => 'بعدی';
+  String get skip => 'Skip';
 
   @override
-  String get agree => 'قبول';
+  String get agree => 'Agree';
 
   @override
-  String get return_no_search => 'هیچ موردی یافت نشد';
+  String get return_no_search => 'Return no search';
 
   @override
-  String get backend_environment_switch => 'تعویض محیط پشتیبانی';
+  String get backend_environment_switch => 'Backend environment switch';
 
   @override
-  String get set_development_environment => 'تنظیم محیط توسعه';
+  String get set_development_environment => 'Set Development Environment';
 
   @override
-  String get set_production_environment => 'تنظیم محیط تولید';
+  String get set_production_environment => 'Set Production Environment';
 
   @override
-  String get delay_notification => 'تاخیر در اعلان';
+  String get delay_notification => 'Delay notification';
 
   @override
-  String get notification_delay_debugging_is => 'عیب‌یابی تأخیر اعلان فعال است';
+  String get notification_delay_debugging_is => 'Notification Delay debugging is';
 
   @override
-  String get banner_enable => 'فعال‌سازی تبلیغات';
+  String get banner_enable => 'Banner enable';
 
   @override
-  String get banner => 'تبلیغات';
+  String get banner => 'Banner';
 
   @override
-  String get show_details => 'نمایش جزئیات';
+  String get show_details => 'Show Details';
 
   @override
-  String get auto_detect_location => 'پیشنهاد مسجد نزدیک';
+  String get auto_detect_location => 'Suggest nearest mosque';
 
   @override
-  String get auto_detect_explanation => 'وقتی از مسجد خود دور هستید، برنامه به‌طور خودکار پیشنهاد می‌کند بر اساس موقعیت مکانی‌تان به دنبال نزدیک‌ترین مسجد بگردید.';
+  String get auto_detect_explanation => 'When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.';
 
   @override
-  String get auto_detect_location_title => 'به نظر می‌رسد که از مسجد خود فاصله دارید';
+  String get auto_detect_location_title => 'It seems you are distant from your mosque';
 
   @override
-  String get auto_detect_location_message => 'آیا می‌خواهید برای دریافت اوقات دقیق نماز، نزدیک‌ترین مسجد را جستجو کنید؟';
+  String get auto_detect_location_message => 'Do you want to search for the nearest mosque for accurate prayer times?';
 
   @override
-  String get donation_success_toast => 'اهدا با موفقیت انجام شد';
+  String get donation_success_toast => 'Donation successfully done';
 
   @override
-  String get donation_success => 'از اهدای شما سپاسگزاریم، خداوند به شما جزای خیر دهد';
+  String get donation_success => 'Thank you for your donation, may Allah reward you';
 
   @override
-  String get donation_failed => 'اهدا ناموفق بود';
+  String get donation_failed => 'Donation Failed';
 
   @override
-  String get donate_for_good => 'اهدای کمک برای نیکی';
+  String get donate_for_good => 'DONATE FOR GOOD';
 
   @override
-  String get enter_amount_hint => 'مبلغ را وارد کنید';
+  String get enter_amount_hint => 'Enter amount';
 
   @override
-  String get enter_donation_amount => 'مقدار کمک مالی را وارد کنید';
+  String get enter_donation_amount => 'Enter donation amount';
 
   @override
-  String get google_pay_not_available => 'خدمات Google Pay در این دستگاه فعال نمی‌باشد';
+  String get google_pay_not_available => 'Google Pay is not available in this device';
 
   @override
-  String get error_performing_donation => 'هنگام تلاش برای انجام اهداء، خطایی رخ داد';
+  String get error_performing_donation => 'There was an error while trying to perform the donation';
 
   @override
-  String get recurring_pay_text => 'کمک خود را به صورت ماهیانه تنظیم کنید.';
+  String get recurring_pay_text => 'Make this donation monthly.';
 
   @override
-  String get adjust_angles => 'تنظیم زاویه‌ها';
+  String get adjust_angles => 'Adjust Angles';
 
   @override
-  String get silent => 'بی‌صدا';
+  String get silent => 'Silent';
 
   @override
-  String get default_ => 'پیش فرض';
+  String get default_ => 'Default';
 
   @override
-  String get muazzin => 'موذنین';
+  String get muazzin => 'Muazzin';
 
   @override
-  String get information => 'اطلاعات';
+  String get information => 'Information';
 
   @override
-  String get news => 'اخبار';
+  String get news => 'News';
 
   @override
-  String get calendar => 'تقویم';
+  String get calendar => 'Calendar';
 
   @override
-  String get system => 'سیستم';
+  String get system => 'System';
 
   @override
-  String get change_mosque_order => 'مسجدها را بکشید و رها کنید تا ترتیبشان را تغییر دهید و مسجد اصلی را تعیین کنید';
+  String get change_mosque_order => 'Drag and drop mosques to change order and to set the main mosque';
 
   @override
-  String get remove => 'حذف';
+  String get remove => 'Remove';
 
   @override
-  String get save => 'ذخیره';
+  String get save => 'Save';
 
   @override
-  String get main_mosque => 'مسجد اصلی';
+  String get main_mosque => 'Main mosque';
 
   @override
-  String get mosques => 'مساجد';
+  String get mosques => 'Mosques';
 
   @override
-  String get no_news => 'هیچ خبری از مسجد دریافت نشده است';
+  String get no_news => 'No news from the mosque';
 
   @override
-  String get mawaqit_notification => 'اعلانات مواقیت';
+  String get mawaqit_notification => 'Mawaqit Notification';
 
   @override
-  String get no_mawaqit_notification => 'هیچ اعلانی از طرف مواقیت وجود ندارد';
+  String get no_mawaqit_notification => 'No notification from Mawaqit';
 
   @override
-  String get meccan => 'مکی';
+  String get meccan => 'Meccan';
 
   @override
-  String get medinan => 'مدنی';
+  String get medinan => 'Medinan';
 
   @override
-  String get montada_islamic_foundation => 'بنیاد اسلامی مونتادا';
+  String get montada_islamic_foundation => 'Montada Islamic Foundation';
 
   @override
-  String get rashid_maash => 'راشد معاش';
+  String get rashid_maash => 'Rashid Maash';
 
   @override
-  String get abdul_haleem => 'عبدالحلیم';
+  String get abdul_haleem => 'Abdul Haleem';
 
   @override
-  String get dr_mustafa_khattab => 'دکتر مصطفی خطاب';
+  String get dr_mustafa_khattab => 'Dr. Mustafa Khattab';
 
   @override
-  String get frank_bubenheim_and_nadeem => 'فرانک بو بن هایم و ندیم';
+  String get frank_bubenheim_and_nadeem => 'Frank Bubenheim and Nadeem';
 
   @override
-  String get abu_reda_muhammad_ibn_ahmad => 'ابو رضا محمد بن احمد';
+  String get abu_reda_muhammad_ibn_ahmad => 'Abu Reda Muhammad ibn Ahmad';
 
   @override
-  String get unknown_author => 'مولف ناشناخته';
+  String get unknown_author => 'Unknown Author';
 
   @override
-  String get translation_settings => 'تنظيمات ترجمه';
+  String get translation_settings => 'Translation settings';
 
   @override
-  String get reading => 'مطالعه';
+  String get reading => 'Reading';
 
   @override
-  String get listening => 'در حال گوش دادن';
+  String get listening => 'Listening';
 
   @override
-  String get font_size => 'اندازه‌ی قلم';
+  String get font_size => 'Font-size';
 
   @override
-  String get font_size_arabic => 'اندازه قلم عربی';
+  String get font_size_arabic => 'Font-size Arabic';
 
   @override
-  String get horizontal => 'افقی';
+  String get horizontal => 'Horizontal';
 
   @override
-  String get vertical => 'عمودی';
+  String get vertical => 'Vertical';
 
   @override
-  String get add_page_bookmarks => 'افزودن صفحه به نشانک‌ها';
+  String get add_page_bookmarks => 'Add page to bookmarks';
 
   @override
-  String get remove_page_bookmarks => 'حذف صفحه از نشانک‌ها';
+  String get remove_page_bookmarks => 'Remove the page from bookmarks';
 
   @override
-  String get no_bookmarks => 'هیچ نشانکی وجود ندارد';
+  String get no_bookmarks => 'No bookmarks';
 
   @override
-  String get liked => 'پسندیده شده';
+  String get liked => 'Liked';
 
   @override
-  String get all_recitators => 'قاریان قران';
+  String get all_recitators => 'All recitators';
 
   @override
-  String get downloaded => 'دانلود شده';
+  String get downloaded => 'Downloaded';
 
   @override
-  String get search_for_recitator => 'قاری قران را جستجو کنید';
+  String get search_for_recitator => 'Search for a recitator';
 
   @override
-  String get search_for_surah => 'جستجوی یک سوره';
+  String get search_for_surah => 'Search for a surah';
 
   @override
-  String get search_for_fav_recitator => 'قاری قران را جستجو کنید';
+  String get search_for_fav_recitator => 'Search for a favorite recitator';
 
   @override
-  String get listen_to_quran => 'گوش دادن به قرآن';
+  String get listen_to_quran => 'LISTEN TO QURAN';
 
   @override
-  String get search_hint_text => 'جستجوی مسجد یا شهر';
+  String get search_hint_text => 'Search for a mosque, or a city';
 
   @override
-  String get downloading => 'در حال دانلود';
+  String get downloading => 'Downloading';
 
   @override
-  String get cant_download_more_than_3 => 'امکان دانلود بیش از ۳ مورد به‌صورت همزمان وجود ندارد.';
+  String get cant_download_more_than_3 => 'Cannot download more than 3 at the same time.';
 
   @override
-  String get boost => 'تقویت';
+  String get boost => 'Boost';
 
   @override
-  String get recitation_deleted_successfully => 'قرائت با موفقیت حذف شد';
+  String get recitation_deleted_successfully => 'Recitation deleted successfully';
 
   @override
-  String get quran => 'قران';
+  String get quran => 'Quran';
 
   @override
-  String get qibla => 'قبله';
+  String get qibla => 'Qibla';
 
   @override
-  String get search => 'جستجو';
+  String get search => 'Search';
 
   @override
-  String get more => 'بیشتر';
+  String get more => 'More';
 
   @override
-  String get download_cancelled => 'دانلود لغو شد';
+  String get download_cancelled => 'Download cancelled';
 
   @override
-  String get no_virtual_mosque_found => 'متأسفیم، هیچ مسجدی در اطراف شما یافت نشد';
+  String get no_virtual_mosque_found => 'Sorry, we don\'t find any mosque around you';
 
   @override
-  String get no_surah_found => 'هیچ سوره‌ای یافت نشد';
+  String get no_surah_found => 'No surah found';
 
   @override
-  String get no_favorite_recitor_found => 'قرائت‌کننده محبوبی یافت نشد';
+  String get no_favorite_recitor_found => 'No favorite recitator found';
 
   @override
-  String get no_recitator_found => 'هیچ قرائت‌کننده‌ای یافت نشد';
+  String get no_recitator_found => 'No recitator found';
 
   @override
-  String get empty_quran_search => 'نتایج جستجو اینجا نمایش داده خواهند شد';
+  String get empty_quran_search => 'Search results will appear here';
 
   @override
-  String get no_bookmark_ayah => 'هیچ نشانکی موجود نیست. لطفاً روی آیه‌ای که می‌خواهید نشانک بگذارید، به‌طور طولانی لمس کنید.';
+  String get no_bookmark_ayah => 'No bookmarks available. Please long-press on the ayah you wish to bookmark.';
 
   @override
-  String get page => 'صفحه';
+  String get page => 'Page';
 
   @override
-  String get prayer_times_in => 'اوقات نماز در';
+  String get prayer_times_in => 'Prayer times in';
 
   @override
-  String get update_new_version => 'نسخه جدیدی از قرآن برای دانلود موجود است. برای دسترسی به بهبودهای جدید و ادامه مسیر با حکمت الهی، روی «به‌روزرسانی» ضربه بزنید';
+  String get update_new_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
 
   @override
-  String get update_quran_zip => 'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
+  String get update_quran_zip => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran_version => 'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
+  String get update_latest_quran_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_latest_quran => 'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
+  String get update_latest_quran => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get set_notification_for_all_parayer => 'این را برای هر نماز تنظیم کنید';
+  String get set_notification_for_all_parayer => 'Set this for every prayer';
 
   @override
-  String get powered_by_mawaqit => 'توسط مواقیت پشتیبانی می‌شود';
+  String get powered_by_mawaqit => 'Powered by MAWAQIT';
 
   @override
-  String get adjust_hijri_date => 'تنظیم تاریخ هجری';
+  String get adjust_hijri_date => 'Adjust Hijri Date';
 
   @override
-  String get prayer_times_by_location => 'اوقات نماز بر اساس موقعیت';
+  String get prayer_times_by_location => 'Prayer times by location';
 
   @override
-  String get already_in_list => 'قبلاً در فهرست شما وجود دارد!';
+  String get already_in_list => 'is already in your list!';
 
   @override
-  String get got_it => 'متوجه شدم!';
+  String get got_it => 'Got it!';
 
   @override
-  String get mushaf_warsh => 'قرائت ورش';
+  String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'قرائت حفص';
+  String get mushaf_hafs => 'Hafs';
 
   @override
-  String get select_rewaya => 'انتخاب روایت';
+  String get select_rewaya => 'Select Rewaya';
 
   @override
-  String get download_in_progress => 'دانلود در حال انجام است، لطفاً صبر کنید...';
+  String get download_in_progress => 'Download in progress, please wait...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'نماز بعدی پس از اقامه را برجسته کن';
+  String get highlight_next_prayer_after_Iqama => 'Highlight next prayer after Iqama';
 
   @override
-  String get helmi_nasr => 'دکتر حلمی نصر';
+  String get helmi_nasr => 'Dr. Helmi Nasr';
 
   @override
-  String get settings_language_pt => 'پرتغالی';
+  String get settings_language_pt => 'Portuguese';
 
   @override
-  String get al_zikr => 'ذکر';
+  String get al_zikr => 'Al-Zikr';
 
   @override
-  String get favorite_azkar => 'اذکار مورد علاقه';
+  String get favorite_azkar => 'Favorite Azkar';
 
   @override
-  String get all_azkar => 'اذکار';
+  String get all_azkar => 'All Azkar';
 
   @override
-  String get device_audio_not_found => 'صدای دستگاه یافت نشد';
+  String get device_audio_not_found => 'Device audio not found';
 
   @override
-  String get device_media => 'رسانه‌های دستگاه';
+  String get device_media => 'Device Media';
 
   @override
-  String get add_new_audio => 'افزودن فایل صوتی جدید';
+  String get add_new_audio => 'Add a new audio file';
 
   @override
-  String get selecet_audio_before_delete => 'برای حذف فایل صوتی انتخاب‌شده، باید ابتدا یک فایل صوتی دیگر برای اعلان‌ها اضافه کنید';
+  String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
 
   @override
-  String get addding_file_prompt => 'می‌توانید چندین فایل صوتی اضافه کنید، اما لطفاً مطمئن شوید که فایل صوتی تکراری اضافه نکنید.';
+  String get addding_file_prompt => 'You can add multiple audio files, but please make sure not to add the same audio file.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'لطفاً یک فایل صوتی با حداکثر مدت زمان ۳۰ ثانیه یا کمتر انتخاب کنید. فایل صوتی با مدت زمان بیشتر ممکن است اعلان نماز شما را دچار اختلال کند.';
+  String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
 
   @override
-  String get select_audio_from_device => 'فایل صوتی (mp3) را از دستگاه انتخاب کنید.';
+  String get select_audio_from_device => 'Select audio (mp3) from device.';
 
   @override
-  String get add_ticket => 'افزودن تیکت';
+  String get add_ticket => 'Add ticket';
 
   @override
-  String get projects => 'پروژه ها';
+  String get projects => 'Projects';
 
   @override
-  String get fill_form => 'برای افزودن پروژه خود در اینجا، این فرم را تکمیل کنید';
+  String get fill_form => 'To add your project here fill up this';
 
   @override
-  String get form => 'فرم';
+  String get form => 'form';
 
   @override
-  String get updates_draw => 'به‌روزرسانی‌ها را دریافت کنید و در قرعه‌کشی برای برنده شدن هدایا از طرف [نام یا منبع] شرکت کنید';
+  String get updates_draw => 'Get updates and participate in the draw to win goodies from';
 
   @override
-  String get email_info => 'اگر در قرعه‌کشی برنده شدید، از این ایمیل برای تماس با شما استفاده خواهد شد';
+  String get email_info => 'This email will be used to contact you if you win the draw';
 
   @override
-  String get enter_email => 'ایمیل خود را وارد کنید';
+  String get enter_email => 'Enter your email';
 
   @override
-  String get email_privacy => 'مواقیت این ایمیل را با هیچ‌کس به اشتراک نخواهد گذاشت. این ایمیل پس از هر قرعه‌کشی به‌صورت خودکار از پایگاه داده ما حذف خواهد شد';
+  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
 
   @override
-  String get submit => 'ثبت کردن';
+  String get submit => 'Submit';
 
   @override
-  String get disclaimer => 'مواقیت هیچ‌گونه مسئولیتی در قبال خدمات یا محصولات ارائه‌شده توسط پروژه‌های فهرست‌شده ندارد. لطفاً تحقیقات و بررسی‌های لازم را شخصاً انجام دهید';
+  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
 
   @override
-  String get participating_with => 'شما در حال مشارکت هستید با';
+  String get participating_with => 'You\'re participating with';
 
   @override
-  String get no_of_tickets => 'تعداد بلیت‌ها:';
+  String get no_of_tickets => 'No. of tickets:';
 
   @override
-  String get unparticipate => 'برای شرکت کلیک کنید';
+  String get unparticipate => 'Click to unparticipate';
 
   @override
-  String get next_ticket => 'بلیت بعدی در دسترس خواهد بود در';
+  String get next_ticket => 'The next ticket available in';
 
   @override
-  String get click_here => 'اینجا کلیک کنید';
+  String get click_here => 'Click here';
 
   @override
-  String get mawaqit_store => 'فروشگاه مواقیت';
+  String get mawaqit_store => 'MAWAQIT Store';
 
   @override
-  String get no_projects => 'پروژه ای وجود ندارد';
+  String get no_projects => 'There are no projects';
 
   @override
-  String get draw_info => 'یک قرعه‌کشی در هر ماه برگزار می‌شود. هر بیست و چهار ساعت می‌توانید یک بلیت جدید اضافه کنید تا شانس برنده شدن خود را افزایش دهید!';
+  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
 
   @override
-  String get enter_valid_email => 'لطفا یک آدرس ایمیل معتبر وارد کنید';
+  String get enter_valid_email => 'Enter a valid email';
 
   @override
-  String get please_enter_email => 'لطفاً یک ایمیل وارد کنید';
+  String get please_enter_email => 'Please enter an email';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'یک فایل صوتی انتخاب کنید؛ ما آن را به فرمتی سازگار با iOS تبدیل می‌کنیم و به دلیل محدودیت‌های این پلتفرم، آن را به ۳۰ ثانیه کوتاه می‌کنیم.';
+  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
 
   @override
-  String get confirm_deletion => 'تایید حذف';
+  String get confirm_deletion => 'Confirm Deletion';
 
   @override
-  String get sure_remove_rewaya => 'آیا مطمئن هستید که می‌خواهید این روایت را حذف کنید؟';
+  String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
 
   @override
-  String get file_not_found => 'فایل یافت نشد';
+  String get file_not_found => 'File not found';
 
   @override
-  String get notified_boost => 'از جدیدترین به‌روزرسانی‌های پروژه‌های MAWAQIT Boost مطلع شوید.';
+  String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
 
   @override
-  String get contact_us_boost => 'برای درج پروژه خود در اینجا، با ما از طریق [اینجا شماره یا ایمیل را وارد کنید] تماس بگیرید';
+  String get contact_us_boost => 'To list your project here, contact us at';
 
   @override
-  String get prayer_times_set_by_mosque => 'اوقات نماز و تمام اطلاعات موجود در اینجا توسط مسجد تعیین می‌شوند، نه MAWAQIT';
+  String get prayer_times_set_by_mosque => 'Prayer times and all the information here are set by the mosque, not MAWAQIT';
 
   @override
-  String get hasan_nahi => 'حسن ناهی';
+  String get hasan_nahi => 'Hasan Nahi';
 
   @override
-  String get albanian => 'آلبانیایی';
+  String get albanian => 'Albanian';
 
   @override
-  String get delete_all => 'حذف همه';
+  String get delete_all => 'Delete All';
 
   @override
-  String get delete_all_downloads => 'حذف همه بارگیری‌ها از تاریخچه';
+  String get delete_all_downloads => 'Delete All Downloads';
 
   @override
-  String get delete_recitations_message => 'آیا مطمئن هستید که می‌خواهید همه قرائت‌های دانلود شده را حذف کنید؟';
+  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
 
   @override
-  String get downloaded_deleted_successfully => 'تمام قرائت‌های دانلود شده با موفقیت حذف شدند';
+  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
 
   @override
-  String get failed_delete_recitations => 'حذف همه قرائت‌ها ناموفق بود';
+  String get failed_delete_recitations => 'Failed to delete all recitations';
 
   @override
-  String get no_azkar_result => 'هیچ نتیجه‌ای برای ذکر موجود نیست';
+  String get no_azkar_result => 'No remembrance results available';
 
   @override
-  String get search_title => 'جستجو با استفاده از عنوان';
+  String get search_title => 'Search using the title';
 
   @override
-  String get compass_calibration => 'تنظیمات کالیبراسیون قطب‌نما غیرفعال است. گوشی خود را 3 بار به صورت حرکت عدد هشت‌ انگلیسی بصورت کج حرکت دهید، مانند این';
+  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
 
   @override
-  String get compass_accuracy => 'دقت قطب‌نما';
+  String get compass_accuracy => 'Compass Accuracy';
 
   @override
-  String get low => 'کم';
+  String get low => 'Low';
 
   @override
-  String get tafsir => 'تفسیر';
+  String get tafsir => 'Tafsir';
 
   @override
-  String get copy => 'کپی';
+  String get copy => 'Copy';
 
   @override
-  String get no_tafsir => 'هنوز هیچ تفسیری دانلود نشده است';
+  String get no_tafsir => 'No Tafsir has been downloaded yet';
 
   @override
-  String get download_tafsir => 'تفسیری را دانلود کنید';
+  String get download_tafsir => 'Download the Tafsir';
 
   @override
-  String get hussary => 'محمود خلیل الحصری';
+  String get hussary => 'Mahmoud Khalil Al‑Hussary';
 
   @override
-  String get hussary_mujawwad => 'الحصری (مجوّد)';
+  String get hussary_mujawwad => 'Al‑Hussary (Mujawwad)';
 
   @override
-  String get shuraim => 'سعود الشریم';
+  String get shuraim => 'Saud Al‑Shuraim';
 
   @override
-  String get arrafai => 'هانی الرفاعی';
+  String get arrafai => 'Hani Arrafai';
 
   @override
-  String get meaqli => 'ماهر المعیقلی';
+  String get meaqli => 'Maher Al‑Meaqli';
 
   @override
-  String get afasy => 'مشاري بن راشد العفاسي';
+  String get afasy => 'Mishary Al‑Afasy';
 
   @override
-  String get minshawi => 'المنشاوی';
+  String get minshawi => 'Al‑Minshawi';
 
   @override
-  String get abdulbasit => 'عبدالباسط عبدالصمد';
+  String get abdulbasit => 'Abdulbasit Abdulsamad';
 
   @override
-  String get abdulbasit_mujawwad => 'عبدالباسط(مجود)';
+  String get abdulbasit_mujawwad => 'Abdulbasit (Mujawwad)';
 
   @override
-  String get ghamdi => 'سعد الغامدي';
+  String get ghamdi => 'Saad Al‑Ghamdi';
 
   @override
-  String get dosari => 'یاسر الدوسری';
+  String get dosari => 'Yasser Al‑Dosari';
 
   @override
-  String get shatri => 'أبو بكر الشاطري';
+  String get shatri => 'Abu Bakr Ash‑Shatri';
 
   @override
-  String get tunaiji => 'خلیفه الطنّیجی';
+  String get tunaiji => 'Khalifa Al‑Tunaiji';
 
   @override
-  String get sudais => 'عبدالرحمن السدیس';
+  String get sudais => 'Abdulrahman Alsudaes';
 
   @override
-  String get tablawi => 'محمد الطبلاوی';
+  String get tablawi => 'Mohamed Al‑Tablawi';
 
   @override
   String get abdul_rashid_ali_sufi => 'Abdul Rashid Ali Sufi';
@@ -1605,64 +1605,64 @@ class AppLocalizationsFa extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
-  String get yassin_aljazairi => 'Yassin Al-Jazairi';
+  String get yassin_aljazairi => 'یاسین الجزایری';
 
   @override
-  String get mohammed_abdelkarim => 'Mohammed Abdelkarim';
+  String get mohammed_abdelkarim => 'محمد عبدکریم';
 
   @override
-  String get alayoun_elkouchi => 'Al-Ayoun El-Kouchi';
+  String get alayoun_elkouchi => 'العیون الکوشی';
 
   @override
-  String get abdelkarim_daghoush => 'Abdelkarim Daghoush';
+  String get abdelkarim_daghoush => 'عبدالکریم داغوش';
 
   @override
-  String get murattal => 'مرتّل';
+  String get murattal => 'Murattal';
 
   @override
-  String get mujawwad => 'مجوّد';
+  String get mujawwad => 'Mujawwad';
 
   @override
-  String get moallim => 'قرآن آموزشی';
+  String get moallim => 'Almusshaf Al Mo\'llim';
 
   @override
-  String get play => 'پخش';
+  String get play => 'Play';
 
   @override
-  String get playback_settings => 'تنظیمات پخش';
+  String get playback_settings => 'Playback Settings';
 
   @override
-  String get from => 'از';
+  String get from => 'From';
 
   @override
-  String get to => 'به';
+  String get to => 'To';
 
   @override
-  String get range => 'محدوده';
+  String get range => 'Range';
 
   @override
-  String get select_starting_verse => 'آیه شروع را انتخاب کنید';
+  String get select_starting_verse => 'Select Starting Verse';
 
   @override
-  String get select_ending_verse => 'آیه پایان را انتخاب کنید';
+  String get select_ending_verse => 'Select Ending Verse';
 
   @override
-  String get range_repeat => 'تکرار محدوده';
+  String get range_repeat => 'Range Repeat';
 
   @override
-  String get verse_repeat => 'تکرار آیه';
+  String get verse_repeat => 'Verse Repeat';
 
   @override
   String get improved_Hafs_Rewaya_Force_Update => 'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
 
   @override
-  String get mawaqit_three_sixty_description => 'اوقات نماز را با ساعت متحرک جدید ما زنده ببینید.';
+  String get mawaqit_three_sixty_description => 'See prayer times come to life with our new animated clock';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'هنگام استفاده از نمای ۳۶۰، نمی‌توانید این تنظیم را خاموش کنید';
+  String get hnpai_User_Guidance_MAWAQIT_360 => 'While using 360 view you cannot off this setting';
 
   @override
-  String get mawaqit_three_sixty_beta => 'MAWAQIT 360';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
 
   @override
   String get three_sixty_setting => '360 Settings';
