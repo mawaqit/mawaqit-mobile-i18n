@@ -1195,5 +1195,9 @@
     "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Viimeinen Kolmas Yö",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
     }
 }
