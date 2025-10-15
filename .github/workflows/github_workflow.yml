@@ -16,7 +16,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.29.1'
+          flutter-version: '3.35.5'
 
       - name: Replace "ur-PK" with "ur" in app_ur.arb
         run: |
