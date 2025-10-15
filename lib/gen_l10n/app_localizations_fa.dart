@@ -132,10 +132,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get settings_language_pl => 'لهستانی';
 
   @override
-  String get settings_CreditsText => 'حق نشر و مالکیت معنوی\n\nکپی‌رایت © ۲۰۲۱ برای مواقیت متعلق به بنیاد مواقیت، تمامی حقوق محفوظ است.\nمالکیت معنوی و حقوق کپی‌رایت این برنامه، افزونه‌ها، افزودنی‌ها یا محتوای آن متعلق به مواقیت برای انجمن مواقیت است.\nاین نسخه از برنامه تنها برای توزیع خیریه و به عنوان وقف مجاز است. هرگونه استفاده یا توزیع تجاری اکیداً ممنوع است.\nاین مجوز به هیچ عنوان به معنی فروش یا واگذاری هیچ‌یک از حقوق مربوط به این محصول یا اجزای آن، افزونه‌ها، افزودنی‌ها یا محتوا نمی‌باشد. بلکه فقط اجازه توزیع خیریه از طریق پلتفرم فعلی فروشگاه‌های اپلیکیشن را می‌دهد.\n\n محدودیت‌ها و ممنوعیت‌ها:\nتوزیع مجدد برنامه، چه از طریق کد منبع یا فایل‌های باینری، یا مهندسی معکوس آن، چه با تغییرات و چه بدون آن، تخلف از کپی‌رایت محسوب می‌شود و فرد متخلف در معرض پیگرد قانونی قرار می‌گیرد.\nهیچ شخصی حق ندارد این برنامه را خارج از فروشگاه‌های رسمی اپل یا گوگل پلی بدون کسب مجوز رسمی کتبی از صاحب کپی‌رایت، یعنی مواقیت، توزیع کند. این کار نقض قانون حمایت از مالکیت فکری است و مسئول آن در معرض اقدامات قانونی قرار خواهد گرفت.\nاستفاده از نام برنامه، برند، نشان تجاری، یا نام صاحب کپی‌رایت مواقیت برای تبلیغ محصولات مشابه یا مشتق‌شده از این برنامه، یا هر محصول دیگر، بدون کسب اجازه کتبی قبلی ممنوع است.\n\n سلب مسئولیت:\nاین برنامه به همان صورت که هست (\"as is\") توسط مالکین و سهام‌داران منتشر شده است.\nشرکت توسعه‌دهنده و مالک برنامه هیچگونه ضمانت صریح یا ضمنی ارائه نمی‌دهد؛ از جمله ولی نه محدود به ضمانت کاربرد برنامه برای اهداف خاص یا تجاری.\nدر هیچ حالتی، بنیاد مواقیت یا سهام‌داران آن، در برابر هیچ‌گونه خسارتی مسئول نیستند؛ چه مستقیم، چه غیرمستقیم یا اتفاقی، از جمله اما نه محدود به:\nاز دست رفتن داده‌ها\nقطع فعالیت‌های تجاری\nاز دست رفتن سود\nیا سایر زیان‌ها (خواه بر اساس قرارداد، تقصیر، سهل‌انگاری یا دلایل دیگر)\n\n حقوق اشخاص ثالث:\nحقوق کپی‌رایت مربوط به هرگونه محتوای اشخاص ثالث داخل برنامه محفوظ بوده و متعلق به صاحبان آن است.\n\nتصاویر و پس‌زمینه‌ها:\nتصاویر: کپی‌رایت متعلق به Shutterstock است.\nآیکون‌ها: تحت مجوز Creative Commons BY 4.0 از Flaticon استفاده شده است.\nفایل‌های غیرفونت و غیرآیکون تحت مجوز MIT هستند.\nفونت‌ها: Roboto از Google Fonts تحت مجوز SIL Open Font License 1.1 (OFL) منتشر شده‌اند.\nبسته‌های Cupertino متعلق به شرکت Apple هستند.\n\n کد، بسته‌ها و چارچوب‌ها:\nبرنامه با استفاده از فریم‌ورک Flutter از Google توسعه یافته است و شامل بسته‌های زیر است:\n\nhttp\n\ngeolocator\n\nflutter_platform_widgets\n\nshared_preferences\n\nprovider\n\nflutter_local_notifications\n\naudioplayers\n\ntoggle_switch\n\ncupertino_icons\n\nmarquee_widget\n\nintl\n\nflutter_switch\n\njson_annotation';
+  String get settings_CreditsText =>
+      'حق نشر و مالکیت معنوی\n\nکپی‌رایت © ۲۰۲۱ برای مواقیت متعلق به بنیاد مواقیت، تمامی حقوق محفوظ است.\nمالکیت معنوی و حقوق کپی‌رایت این برنامه، افزونه‌ها، افزودنی‌ها یا محتوای آن متعلق به مواقیت برای انجمن مواقیت است.\nاین نسخه از برنامه تنها برای توزیع خیریه و به عنوان وقف مجاز است. هرگونه استفاده یا توزیع تجاری اکیداً ممنوع است.\nاین مجوز به هیچ عنوان به معنی فروش یا واگذاری هیچ‌یک از حقوق مربوط به این محصول یا اجزای آن، افزونه‌ها، افزودنی‌ها یا محتوا نمی‌باشد. بلکه فقط اجازه توزیع خیریه از طریق پلتفرم فعلی فروشگاه‌های اپلیکیشن را می‌دهد.\n\n محدودیت‌ها و ممنوعیت‌ها:\nتوزیع مجدد برنامه، چه از طریق کد منبع یا فایل‌های باینری، یا مهندسی معکوس آن، چه با تغییرات و چه بدون آن، تخلف از کپی‌رایت محسوب می‌شود و فرد متخلف در معرض پیگرد قانونی قرار می‌گیرد.\nهیچ شخصی حق ندارد این برنامه را خارج از فروشگاه‌های رسمی اپل یا گوگل پلی بدون کسب مجوز رسمی کتبی از صاحب کپی‌رایت، یعنی مواقیت، توزیع کند. این کار نقض قانون حمایت از مالکیت فکری است و مسئول آن در معرض اقدامات قانونی قرار خواهد گرفت.\nاستفاده از نام برنامه، برند، نشان تجاری، یا نام صاحب کپی‌رایت مواقیت برای تبلیغ محصولات مشابه یا مشتق‌شده از این برنامه، یا هر محصول دیگر، بدون کسب اجازه کتبی قبلی ممنوع است.\n\n سلب مسئولیت:\nاین برنامه به همان صورت که هست (\"as is\") توسط مالکین و سهام‌داران منتشر شده است.\nشرکت توسعه‌دهنده و مالک برنامه هیچگونه ضمانت صریح یا ضمنی ارائه نمی‌دهد؛ از جمله ولی نه محدود به ضمانت کاربرد برنامه برای اهداف خاص یا تجاری.\nدر هیچ حالتی، بنیاد مواقیت یا سهام‌داران آن، در برابر هیچ‌گونه خسارتی مسئول نیستند؛ چه مستقیم، چه غیرمستقیم یا اتفاقی، از جمله اما نه محدود به:\nاز دست رفتن داده‌ها\nقطع فعالیت‌های تجاری\nاز دست رفتن سود\nیا سایر زیان‌ها (خواه بر اساس قرارداد، تقصیر، سهل‌انگاری یا دلایل دیگر)\n\n حقوق اشخاص ثالث:\nحقوق کپی‌رایت مربوط به هرگونه محتوای اشخاص ثالث داخل برنامه محفوظ بوده و متعلق به صاحبان آن است.\n\nتصاویر و پس‌زمینه‌ها:\nتصاویر: کپی‌رایت متعلق به Shutterstock است.\nآیکون‌ها: تحت مجوز Creative Commons BY 4.0 از Flaticon استفاده شده است.\nفایل‌های غیرفونت و غیرآیکون تحت مجوز MIT هستند.\nفونت‌ها: Roboto از Google Fonts تحت مجوز SIL Open Font License 1.1 (OFL) منتشر شده‌اند.\nبسته‌های Cupertino متعلق به شرکت Apple هستند.\n\n کد، بسته‌ها و چارچوب‌ها:\nبرنامه با استفاده از فریم‌ورک Flutter از Google توسعه یافته است و شامل بسته‌های زیر است:\n\nhttp\n\ngeolocator\n\nflutter_platform_widgets\n\nshared_preferences\n\nprovider\n\nflutter_local_notifications\n\naudioplayers\n\ntoggle_switch\n\ncupertino_icons\n\nmarquee_widget\n\nintl\n\nflutter_switch\n\njson_annotation';
 
   @override
-  String get settings_AboutUsText => 'این برنامه توسط انجمن MAWAQIT توسعه داده شده است.\n\nانجمن MAWAQIT یک سازمان غیرانتفاعی است که در سال ۲۰۲۱ در فرانسه تأسیس شد. هدف ما توسعه راه‌حل‌های نوآورانه در زمینه فناوری اطلاعات و فناوری دیجیتال، مانند نرم‌افزارها و وب‌سایت‌ها، و همچنین آموزش و تربیت در زمینه راه‌حل‌های دیجیتال و ابزارهای IT است.\n\nاکوسیستم MAWAQIT محصول اصلی ما است و داستان آن از سال ۲۰۱۶ آغاز شد، با یک برنامه برای صفحه‌نمایش‌های بزرگ مختص مساجد، سپس یک اپلیکیشن موبایل، افزونه دستیار خانگی و مهارت الکسا، و غیره.\n\nMAWAQIT راهی جدید برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. در واقع، ما یک سیستم جامع فراهم می‌آوریم که به مدیران مساجد ابزاری آنلاین و در دسترس ۲۴ ساعته ارائه می‌دهد تا بتوانند برنامه‌ها، اخبار مساجد و بسیاری ویژگی‌های دیگر را مدیریت کنند. از سوی دیگر، مومنان از طریق یک اپلیکیشن موبایل می‌توانند برنامه‌های دقیق نه تقریبی مسجد مورد علاقه خود را مشاهده کرده و از اخبار و سایر امکانات مانند جستجوی مسجد با استفاده از موقعیت مکانی، اذان، قبله و غیره بهره‌مند شوند. ما قابلیت اطمینان و کیفیت را به عنوان ارزش‌های اصلی خود قرار داده‌ایم. هدف ما روشن است: ساخت بهترین خدمت برای مساجد با استفاده از فناوری و طراحی.\n\nاگر از این برنامه خوشتان آمده است، لطفاً نظر خود را در فروشگاه مربوطه به اشتراک بگذارید.';
+  String get settings_AboutUsText =>
+      'این برنامه توسط انجمن MAWAQIT توسعه داده شده است.\n\nانجمن MAWAQIT یک سازمان غیرانتفاعی است که در سال ۲۰۲۱ در فرانسه تأسیس شد. هدف ما توسعه راه‌حل‌های نوآورانه در زمینه فناوری اطلاعات و فناوری دیجیتال، مانند نرم‌افزارها و وب‌سایت‌ها، و همچنین آموزش و تربیت در زمینه راه‌حل‌های دیجیتال و ابزارهای IT است.\n\nاکوسیستم MAWAQIT محصول اصلی ما است و داستان آن از سال ۲۰۱۶ آغاز شد، با یک برنامه برای صفحه‌نمایش‌های بزرگ مختص مساجد، سپس یک اپلیکیشن موبایل، افزونه دستیار خانگی و مهارت الکسا، و غیره.\n\nMAWAQIT راهی جدید برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. در واقع، ما یک سیستم جامع فراهم می‌آوریم که به مدیران مساجد ابزاری آنلاین و در دسترس ۲۴ ساعته ارائه می‌دهد تا بتوانند برنامه‌ها، اخبار مساجد و بسیاری ویژگی‌های دیگر را مدیریت کنند. از سوی دیگر، مومنان از طریق یک اپلیکیشن موبایل می‌توانند برنامه‌های دقیق نه تقریبی مسجد مورد علاقه خود را مشاهده کرده و از اخبار و سایر امکانات مانند جستجوی مسجد با استفاده از موقعیت مکانی، اذان، قبله و غیره بهره‌مند شوند. ما قابلیت اطمینان و کیفیت را به عنوان ارزش‌های اصلی خود قرار داده‌ایم. هدف ما روشن است: ساخت بهترین خدمت برای مساجد با استفاده از فناوری و طراحی.\n\nاگر از این برنامه خوشتان آمده است، لطفاً نظر خود را در فروشگاه مربوطه به اشتراک بگذارید.';
 
   @override
   String get fajr => 'صبح';
@@ -159,10 +161,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get sabah => 'صباح';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'شما اعلان این نماز را غیرفعال کرده‌اید.';
+  String get settings_PrayerNotification_NoNotification =>
+      'شما اعلان این نماز را غیرفعال کرده‌اید.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'اجرای صدای بوق هنگام دریافت اعلان.';
+  String get settings_PrayerNotification_Bip =>
+      'اجرای صدای بوق هنگام دریافت اعلان.';
 
   @override
   String get adhan => 'اذان';
@@ -189,16 +193,19 @@ class AppLocalizationsFa extends AppLocalizations {
   String get adhan_AbdAlBassat => 'عبدالباسط';
 
   @override
-  String get adhan_type => 'نوع اذان را انتخاب کنید. این انتخاب برای تمام نمازهایی که اعلان اذان دارند، اعمال خواهد شد.';
+  String get adhan_type =>
+      'نوع اذان را انتخاب کنید. این انتخاب برای تمام نمازهایی که اعلان اذان دارند، اعمال خواهد شد.';
 
   @override
   String get settings_prayer_Notification_None => 'هیچ کدام';
 
   @override
-  String get prayer_Notification_NoNotification => 'شما هیچ اعلانی برای این نماز تنظیم نکرده‌اید.';
+  String get prayer_Notification_NoNotification =>
+      'شما هیچ اعلانی برای این نماز تنظیم نکرده‌اید.';
 
   @override
-  String get prayer_PreNotification_Description => 'این تنظیم به شما اجازه می‌دهد که اعلانی قبل از وقت نماز تعیین کنید.';
+  String get prayer_PreNotification_Description =>
+      'این تنظیم به شما اجازه می‌دهد که اعلانی قبل از وقت نماز تعیین کنید.';
 
   @override
   String get search_TryParis => 'مثلاً پاریس، السلام و غیره را امتحان کنید.';
@@ -207,13 +214,16 @@ class AppLocalizationsFa extends AppLocalizations {
   String get search_ByGPS => 'جستجو بر اساس موقعیت مکانی GPS';
 
   @override
-  String get search_HelpText => 'شما می‌توانید برای جستجوی مسجد، موارد زیر را وارد کنید:\n\nنام مسجد\n\nنام انجمن\n\nشهر، آدرس، کشور و...\n\nیا می‌توانید با زدن دکمه مکان‌یاب، مساجد اطراف را پیدا کنید.';
+  String get search_HelpText =>
+      'شما می‌توانید برای جستجوی مسجد، موارد زیر را وارد کنید:\n\nنام مسجد\n\nنام انجمن\n\nشهر، آدرس، کشور و...\n\nیا می‌توانید با زدن دکمه مکان‌یاب، مساجد اطراف را پیدا کنید.';
 
   @override
-  String get search_MaxFavMosquesReached => 'شما به حداکثر تعداد مساجد مورد علاقه رسیده‌اید.';
+  String get search_MaxFavMosquesReached =>
+      'شما به حداکثر تعداد مساجد مورد علاقه رسیده‌اید.';
 
   @override
-  String get search_iOs14_message => 'جستجو با استفاده از GPS در iOS 14 ممکن است کمی زمان ببرد، لطفاً صبر کنید.';
+  String get search_iOs14_message =>
+      'جستجو با استفاده از GPS در iOS 14 ممکن است کمی زمان ببرد، لطفاً صبر کنید.';
 
   @override
   String get search_error => 'متأسفانه خطای داخلی اتفاق افتاده است\'';
@@ -222,7 +232,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get search_your_location => 'موقعیت شما';
 
   @override
-  String get search_location_disabled => 'لطفاً مسجد را با نام یا شهر جستجو کنید، یا به صورت دستی اجازه استفاده از موقعیت مکانی را در تنظیمات خود فعال کنید.';
+  String get search_location_disabled =>
+      'لطفاً مسجد را با نام یا شهر جستجو کنید، یا به صورت دستی اجازه استفاده از موقعیت مکانی را در تنظیمات خود فعال کنید.';
 
   @override
   String get search_settings => 'تنظیمات';
@@ -246,7 +257,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get get_started => 'شروع کنید';
 
   @override
-  String get get_prayer_notifications_for => 'اعلان‌های نماز را برای... دریافت کنید';
+  String get get_prayer_notifications_for =>
+      'اعلان‌های نماز را برای... دریافت کنید';
 
   @override
   String get turn_on_notifications => 'اعلان‌های نماز را فعال کنید';
@@ -255,7 +267,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get no_thanks => 'خیر، متشکرم';
 
   @override
-  String get notification_denied => 'شما اجازه دسترسی به اعلان‌ها را رد کرده‌اید، بنابراین هیچ اعلانی دریافت نخواهید کرد.';
+  String get notification_denied =>
+      'شما اجازه دسترسی به اعلان‌ها را رد کرده‌اید، بنابراین هیچ اعلانی دریافت نخواهید کرد.';
 
   @override
   String get at_least_one_mosque => 'برای ادامه، حداقل یک مسجد اضافه کنید';
@@ -276,10 +289,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get mosques_with => 'مساجد با';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'اجازه دهید مواقیت به موقعیت مکانی من دسترسی داشته باشد.';
+  String get allow_mawaqit_to_access_my_location =>
+      'اجازه دهید مواقیت به موقعیت مکانی من دسترسی داشته باشد.';
 
   @override
-  String get enable_location_service_from_app_settings => 'موقعیت مکانی را از تنظیمات اپلیکیشن روشن کنید.';
+  String get enable_location_service_from_app_settings =>
+      'موقعیت مکانی را از تنظیمات اپلیکیشن روشن کنید.';
 
   @override
   String get the_request_timeout => 'زمان درخواست منقضی شد';
@@ -294,7 +309,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get virtual_mosque => 'مسجد مجازی';
 
   @override
-  String get no_mosque_in_selected_area => 'هیچ مسجدی در منطقه انتخاب شده پیدا نشد';
+  String get no_mosque_in_selected_area =>
+      'هیچ مسجدی در منطقه انتخاب شده پیدا نشد';
 
   @override
   String get no_mosque_with => 'هیچ مسجدی با... پیدا نشد';
@@ -348,13 +364,15 @@ class AppLocalizationsFa extends AppLocalizations {
   String get power_saver => 'بهینه‌ساز باتری';
 
   @override
-  String get permission_message1 => 'ما یک اعلان با تأخیر شناسایی کردیم، لطفاً آن را غیرفعال کنید';
+  String get permission_message1 =>
+      'ما یک اعلان با تأخیر شناسایی کردیم، لطفاً آن را غیرفعال کنید';
 
   @override
   String get permission_message2 => 'تا اعلان را به‌موقع دریافت کنید.';
 
   @override
-  String get notifications_delay_detected => 'تاخیر در دریافت اعلان‌ها تشخیص داده شد';
+  String get notifications_delay_detected =>
+      'تاخیر در دریافت اعلان‌ها تشخیص داده شد';
 
   @override
   String get open_setting => 'تنظیمات را باز کنید';
@@ -366,10 +384,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get jumua => 'جمعه\"';
 
   @override
-  String get qibla_sensor => 'حسگری که دستگاه شما برای تعیین قبله توسط مواقیت استفاده می‌کند، به‌درستی کار نمی‌کند و این موضوع بر توانایی ما در نمایش جهت قبله تأثیر گذاشته است.';
+  String get qibla_sensor =>
+      'حسگری که دستگاه شما برای تعیین قبله توسط مواقیت استفاده می‌کند، به‌درستی کار نمی‌کند و این موضوع بر توانایی ما در نمایش جهت قبله تأثیر گذاشته است.';
 
   @override
-  String get connection_not_found => 'تنظیم کالیبره‌کردن قطب‌نما غیرفعال است. لطفاً مطمئن شوید اتصال شما روشن است و با تغییر جهت، دوباره تلاش کنید.';
+  String get connection_not_found =>
+      'تنظیم کالیبره‌کردن قطب‌نما غیرفعال است. لطفاً مطمئن شوید اتصال شما روشن است و با تغییر جهت، دوباره تلاش کنید.';
 
   @override
   String get currently_located_at => 'مکان فعلی';
@@ -384,10 +404,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get qibla_Error_retry => 'تلاش مجدد';
 
   @override
-  String get qibla_Error_LocationDenied => 'مجوز دسترسی به موقعیت مکانی داده نشده است';
+  String get qibla_Error_LocationDenied =>
+      'مجوز دسترسی به موقعیت مکانی داده نشده است';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'مجوز دسترسی به موقعیت مکانی به‌طور دائمی رد شده است!';
+  String get qibla_Error_LocationDeniedForever =>
+      'مجوز دسترسی به موقعیت مکانی به‌طور دائمی رد شده است!';
 
   @override
   String get qibla_Error_PleaseEnable => 'لطفاً سرویس مکان یاب را فعال کنید';
@@ -441,7 +463,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get mosque_Facilities_Parking => 'پارکینگ';
 
   @override
-  String get mosque_Facilities_DisabledAccess => 'دسترسی برای افراد دارای معلولیت';
+  String get mosque_Facilities_DisabledAccess =>
+      'دسترسی برای افراد دارای معلولیت';
 
   @override
   String get mosque_Facilities_AblutionsRoom => 'وضوخانه';
@@ -465,7 +488,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get mosques_Facilities_IftarRamadan => 'افطار رمضان';
 
   @override
-  String get mosque_facilities_Info => 'تمام این اطلاعات توسط مسئولان مسجد وارد شده است';
+  String get mosque_facilities_Info =>
+      'تمام این اطلاعات توسط مسئولان مسجد وارد شده است';
 
   @override
   String get in_ => 'پس از';
@@ -483,7 +507,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get jumua2 => 'جمعه\"2';
 
   @override
-  String get please_update => 'نسخه جدیدتری از MAWAQIT موجود است، لطفاً به‌روزرسانی کنید';
+  String get please_update =>
+      'نسخه جدیدتری از MAWAQIT موجود است، لطفاً به‌روزرسانی کنید';
 
   @override
   String get update => 'بروزرسانی';
@@ -498,49 +523,57 @@ class AppLocalizationsFa extends AppLocalizations {
   String get tutorial_title_main_mosque => 'مسجد اصلی شما';
 
   @override
-  String get tutorial_text_main_mosque => 'مسجد اصلی شما اینجا نمایش داده می‌شود.\nمی‌توانید با کشیدن به چپ و راست بین مساجد مورد علاقه‌تان جابجا شوید.';
+  String get tutorial_text_main_mosque =>
+      'مسجد اصلی شما اینجا نمایش داده می‌شود.\nمی‌توانید با کشیدن به چپ و راست بین مساجد مورد علاقه‌تان جابجا شوید.';
 
   @override
   String get tutorial_title_countdown => 'نمایشگر نماز بعدی';
 
   @override
-  String get tutorial_text_countdown => 'این شمارش معکوس زمان باقی‌مانده تا نماز بعدی را به شما نشان می‌دهد.';
+  String get tutorial_text_countdown =>
+      'این شمارش معکوس زمان باقی‌مانده تا نماز بعدی را به شما نشان می‌دهد.';
 
   @override
   String get tutorial_title_mosque_info => 'اطلاعات مسجد';
 
   @override
-  String get tutorial_text_mosque_info => 'همه چیز درباره مسجد شما: امکانات، آدرس، تلفن، ایمیل، کمک‌های مالی و موارد دیگر.';
+  String get tutorial_text_mosque_info =>
+      'همه چیز درباره مسجد شما: امکانات، آدرس، تلفن، ایمیل، کمک‌های مالی و موارد دیگر.';
 
   @override
   String get tutorial_title_announcements => 'پیام‌ها و اطلاعیه‌های مسجد';
 
   @override
-  String get tutorial_text_announcements => 'اطلاع‌رسانی‌ها درباره پیام‌ها و اطلاعیه‌های مسجد شما در اینجا نمایش داده می‌شوند.\nوقتی روی این دکمه ضربه بزنید، جزئیات کامل را خواهید دید. این اطلاعیه‌ها می‌توانند شامل پیام فوری، تصویر یا حتی ویدئو باشند.';
+  String get tutorial_text_announcements =>
+      'اطلاع‌رسانی‌ها درباره پیام‌ها و اطلاعیه‌های مسجد شما در اینجا نمایش داده می‌شوند.\nوقتی روی این دکمه ضربه بزنید، جزئیات کامل را خواهید دید. این اطلاعیه‌ها می‌توانند شامل پیام فوری، تصویر یا حتی ویدئو باشند.';
 
   @override
   String get onboarding_title_1 => 'زبان خود را انتخاب کنید';
 
   @override
-  String get onboarding_text_1 => 'زبان مورد نظر خود را از فهرست زیر انتخاب کنید';
+  String get onboarding_text_1 =>
+      'زبان مورد نظر خود را از فهرست زیر انتخاب کنید';
 
   @override
   String get onboarding_title_2 => 'به مواقیت خوش آمدید';
 
   @override
-  String get onboarding_text_2 => 'مواقیت یک اکوسیستم است که راهی نوین برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. اپلیکیشنی که در دست دارید بخشی از این اکوسیستم است و به شما امکان می‌دهد مساجد را پیدا کنید و از اخبار و اوقات نماز آن‌ها مطلع شوید';
+  String get onboarding_text_2 =>
+      'مواقیت یک اکوسیستم است که راهی نوین برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. اپلیکیشنی که در دست دارید بخشی از این اکوسیستم است و به شما امکان می‌دهد مساجد را پیدا کنید و از اخبار و اوقات نماز آن‌ها مطلع شوید';
 
   @override
   String get onboarding_title_3 => 'یک قالب تاریک/روشن انتخاب کنید';
 
   @override
-  String get onboarding_text_3 => 'چه در محیط کم‌نور باشید و چه ترجیح دهید پس‌زمینه‌های تاریک‌تر روی گوشی‌تان داشته باشید، می‌توانید از حالت تاریک برای راحتی بیشتر دیداری بهره‌مند شوید';
+  String get onboarding_text_3 =>
+      'چه در محیط کم‌نور باشید و چه ترجیح دهید پس‌زمینه‌های تاریک‌تر روی گوشی‌تان داشته باشید، می‌توانید از حالت تاریک برای راحتی بیشتر دیداری بهره‌مند شوید';
 
   @override
   String get onboarding_title_4 => 'مسجد اصلی خود را اضافه کنید';
 
   @override
-  String get onboarding_text_4 => 'لطفاً مسجد اصلی خود را از فهرست زیر انتخاب کنید یا مسجدی نزدیک به موقعیت فعلی خود جستجو کنید';
+  String get onboarding_text_4 =>
+      'لطفاً مسجد اصلی خود را از فهرست زیر انتخاب کنید یا مسجدی نزدیک به موقعیت فعلی خود جستجو کنید';
 
   @override
   String get loading => 'بارگذاری';
@@ -561,7 +594,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get show_tutorial => 'مرور آموزش';
 
   @override
-  String get onboarding_chose_mosque_please => 'لطفاً یک مسجد را از فهرست جستجو انتخاب کنید';
+  String get onboarding_chose_mosque_please =>
+      'لطفاً یک مسجد را از فهرست جستجو انتخاب کنید';
 
   @override
   String get done => 'انجام شد';
@@ -576,22 +610,26 @@ class AppLocalizationsFa extends AppLocalizations {
   String get notification_open_app_title => 'برنامه را باز کنید';
 
   @override
-  String get notification_open_app_body => 'لطفاً برای دریافت اطلاع‌رسانی‌ها برنامه را باز کنید';
+  String get notification_open_app_body =>
+      'لطفاً برای دریافت اطلاع‌رسانی‌ها برنامه را باز کنید';
 
   @override
   String get tutorial_title_notification => 'یک اعلان نماز را انتخاب کنید';
 
   @override
-  String get tutorial_text_notification => 'اینجا می‌توانید نوع اعلان را انتخاب کنید: اذان، بوق یا بی‌صدا';
+  String get tutorial_text_notification =>
+      'اینجا می‌توانید نوع اعلان را انتخاب کنید: اذان، بوق یا بی‌صدا';
 
   @override
-  String get search_no_result => 'سفیر مواقیت شوید و راه‌حل ما را به مسجد خود ارائه دهید، این خدمت رایگان است\nhttps://mawaqit.net»';
+  String get search_no_result =>
+      'سفیر مواقیت شوید و راه‌حل ما را به مسجد خود ارائه دهید، این خدمت رایگان است\nhttps://mawaqit.net»';
 
   @override
   String get rate_popin_title => 'امتیاز دادن به مواقیت';
 
   @override
-  String get rate_popin_message => 'اگر این برنامه را دوست دارید، لطفاً کمی از وقت خود را برای بررسی آن اختصاص دهید!\nاین واقعاً به ما کمک می‌کند.';
+  String get rate_popin_message =>
+      'اگر این برنامه را دوست دارید، لطفاً کمی از وقت خود را برای بررسی آن اختصاص دهید!\nاین واقعاً به ما کمک می‌کند.';
 
   @override
   String get rate_popin_rate => 'امتیاز';
@@ -603,7 +641,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get rate_popin_later => 'شاید بعداً';
 
   @override
-  String get message_see_all => 'می‌توانید با کلیک روی آیکون بلندگو در بالای صفحه، تمام پیام‌های این مسجد را مشاهده کنید.';
+  String get message_see_all =>
+      'می‌توانید با کلیک روی آیکون بلندگو در بالای صفحه، تمام پیام‌های این مسجد را مشاهده کنید.';
 
   @override
   String get adhan_Makkah => 'مکه';
@@ -612,25 +651,30 @@ class AppLocalizationsFa extends AppLocalizations {
   String get tutorial_title_iqama => 'اقامه';
 
   @override
-  String get tutorial_text_iqama => 'مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید';
+  String get tutorial_text_iqama =>
+      'مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید';
 
   @override
   String get calendar_tooltip_download => 'دانلود تقویم';
 
   @override
-  String get calendar_download_permission_refused => 'مجوز دانلود به‌صورت دائم رد شده است، لطفاً دانلود را مجاز کنید';
+  String get calendar_download_permission_refused =>
+      'مجوز دانلود به‌صورت دائم رد شده است، لطفاً دانلود را مجاز کنید';
 
   @override
   String get calendar_downloading => 'دانلود تقویم...';
 
   @override
-  String get location_service_disabled => 'خدمات موقعیت مکانی غیرفعال است، لطفاً آن را فعال کنید.';
+  String get location_service_disabled =>
+      'خدمات موقعیت مکانی غیرفعال است، لطفاً آن را فعال کنید.';
 
   @override
-  String get location_permission_denied => 'مجوز دسترسی به موقعیت مکانی رد شده است، لطفاً آن را فعال کنید.';
+  String get location_permission_denied =>
+      'مجوز دسترسی به موقعیت مکانی رد شده است، لطفاً آن را فعال کنید.';
 
   @override
-  String get location_permission_denied_forever => 'مجوز دسترسی به موقعیت مکانی برای همیشه رد شده است، لطفاً در صفحه تنظیمات آن را فعال کنید.';
+  String get location_permission_denied_forever =>
+      'مجوز دسترسی به موقعیت مکانی برای همیشه رد شده است، لطفاً در صفحه تنظیمات آن را فعال کنید.';
 
   @override
   String get at_least_one_mosque_error => 'شما باید حداقل یک مسجد داشته باشید.';
@@ -648,10 +692,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get mosque => 'مسجد';
 
   @override
-  String get on_boarding_nearest_mosque => 'بیایید نزدیک‌ترین مسجد را پیدا کنیم';
+  String get on_boarding_nearest_mosque =>
+      'بیایید نزدیک‌ترین مسجد را پیدا کنیم';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'مساجد اطراف شما بر اساس موقعیت مکانی شما در اینجا نمایش داده شده‌اند';
+  String get on_boarding_nearest_mosque_text =>
+      'مساجد اطراف شما بر اساس موقعیت مکانی شما در اینجا نمایش داده شده‌اند';
 
   @override
   String get search_no_result_for_text => 'هیچ نتیجه‌ای پیدا نکردیم';
@@ -783,10 +829,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get search_surah => 'جستجوی سوره';
 
   @override
-  String get not_downloaded_recitation => 'شما هنوز هیچ قرائتی دانلود نکرده‌اید.';
+  String get not_downloaded_recitation =>
+      'شما هنوز هیچ قرائتی دانلود نکرده‌اید.';
 
   @override
-  String get not_favorite_reciter => 'شما هنوز هیچ قاری‌ای را به عنوان مورد علاقه علامت‌گذاری نکرده‌اید.';
+  String get not_favorite_reciter =>
+      'شما هنوز هیچ قاری‌ای را به عنوان مورد علاقه علامت‌گذاری نکرده‌اید.';
 
   @override
   String get search_reciter => 'جستجوی قاری';
@@ -801,7 +849,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get chapters => 'بخش‌ها';
 
   @override
-  String get calculation_info => 'تنظیمات این بخش فقط مربوط به اوقات نمازهایی است که بر اساس موقعیت مکانی شما محاسبه می‌شوند و مربوط به اوقات نماز مساجد نمی‌شود.';
+  String get calculation_info =>
+      'تنظیمات این بخش فقط مربوط به اوقات نمازهایی است که بر اساس موقعیت مکانی شما محاسبه می‌شوند و مربوط به اوقات نماز مساجد نمی‌شود.';
 
   @override
   String get calculation_madhab => 'فقه - مذهب فقهی';
@@ -810,19 +859,22 @@ class AppLocalizationsFa extends AppLocalizations {
   String get calculation_madhab_shafii => 'شافعی\n\nحنبلی\n\nمالکی';
 
   @override
-  String get calculation_madhab_shafii_countries => 'اردن\n\nفلسطین\n\nیمن\n\nسومالی\n\nاریتره\n\nمالزی\n\nاندونزی\n\nبرونئی\n\nجنوب مصر\n\nعربستان سعودی\n\nقطر\n\nشمال آفریقا\n\nغرب آفریقا\n\nامارات متحده عربی\n\nکویت...';
+  String get calculation_madhab_shafii_countries =>
+      'اردن\n\nفلسطین\n\nیمن\n\nسومالی\n\nاریتره\n\nمالزی\n\nاندونزی\n\nبرونئی\n\nجنوب مصر\n\nعربستان سعودی\n\nقطر\n\nشمال آفریقا\n\nغرب آفریقا\n\nامارات متحده عربی\n\nکویت...';
 
   @override
   String get calculation_madhab_hanafi => 'حنفی';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'شام \n\nپاکستان\n\nافغانستان\n\nهند\n\nبنگلادش\n\nعراق\n\nترکیه\n\nروسیه\n\nچین\n\nبالکان‌ها...';
+  String get calculation_madhab_hanafi_countries =>
+      'شام \n\nپاکستان\n\nافغانستان\n\nهند\n\nبنگلادش\n\nعراق\n\nترکیه\n\nروسیه\n\nچین\n\nبالکان‌ها...';
 
   @override
   String get calculation_methods => 'روش‌های محاسبه';
 
   @override
-  String get calculation_methods_france => 'مسلمانان فرانسه(اتحادیه سازمان‌های اسلامی فرانسه)';
+  String get calculation_methods_france =>
+      'مسلمانان فرانسه(اتحادیه سازمان‌های اسلامی فرانسه)';
 
   @override
   String get calculation_methods_algeria => 'وزارت امور دینی و اوقاف الجزایر';
@@ -867,7 +919,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get calculation_methods_tehran => 'انستیتو ژئوفیزیک، دانشگاه تهران';
 
   @override
-  String get calculation_methods_russia => 'اداره مرکزی امور دینی مسلمانان روسیه';
+  String get calculation_methods_russia =>
+      'اداره مرکزی امور دینی مسلمانان روسیه';
 
   @override
   String get calculation_methods_custom => 'زاویه‌های دلخواه';
@@ -891,7 +944,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get calculation_adjustment => 'راهنمای تصحیح';
 
   @override
-  String get calculation_adjustment_subtitle => 'تنظیمات اوقات نماز و زاویه‌های دلخواه';
+  String get calculation_adjustment_subtitle =>
+      'تنظیمات اوقات نماز و زاویه‌های دلخواه';
 
   @override
   String get calculation_adjustment_prayers => 'تنظیم اوقات شرعی نماز';
@@ -921,19 +975,24 @@ class AppLocalizationsFa extends AppLocalizations {
   String get download_quran_popup_title => 'آخرین اصلاحات';
 
   @override
-  String get download_quran_popup_downloading_1 => 'نیاز است صفحات قرآن را دانلود کنیم، فقط چند ثانیه طول می‌کشد. از اینترنت همراه شما استفاده خواهیم کرد، در صورت نیاز به وای‌فای سوئیچ کنید.';
+  String get download_quran_popup_downloading_1 =>
+      'نیاز است صفحات قرآن را دانلود کنیم، فقط چند ثانیه طول می‌کشد. از اینترنت همراه شما استفاده خواهیم کرد، در صورت نیاز به وای‌فای سوئیچ کنید.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'قرآن را فقط برای شما آماده می‌کنیم، لطفاً چند ثانیه صبر کنید!';
+  String get download_quran_popup_downloading_2 =>
+      'قرآن را فقط برای شما آماده می‌کنیم، لطفاً چند ثانیه صبر کنید!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'برای شروع مسیر خواندن و تأمل، روی «دانلود» کلیک کنید.';
+  String get download_quran_popup_downloading_3 =>
+      'برای شروع مسیر خواندن و تأمل، روی «دانلود» کلیک کنید.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'آیا مطمئن هستید که می‌خواهید دانلود را لغو کنید؟ بدون این داده‌ها قادر به خواندن قرآن نخواهید بود و صفحات در دسترس نخواهند بود.';
+  String get download_quran_popup_confirm_cancel =>
+      'آیا مطمئن هستید که می‌خواهید دانلود را لغو کنید؟ بدون این داده‌ها قادر به خواندن قرآن نخواهید بود و صفحات در دسترس نخواهند بود.';
 
   @override
-  String get download_quran_popup_cancelled => 'مشکلی پیش آمد، لطفاً دوباره روی دکمه دانلود کلیک کنید!';
+  String get download_quran_popup_cancelled =>
+      'مشکلی پیش آمد، لطفاً دوباره روی دکمه دانلود کلیک کنید!';
 
   @override
   String get download => 'دانلود';
@@ -957,13 +1016,15 @@ class AppLocalizationsFa extends AppLocalizations {
   String get notification => 'اعلان';
 
   @override
-  String get notification_not_supported_below_7 => 'شما نمی‌توانید اعلان‌های اذان یا اوقات نماز را دریافت کنید زیرا دستگاه شما از اندروید ۷ یا نسخه‌های پایین‌تر استفاده می‌کند.';
+  String get notification_not_supported_below_7 =>
+      'شما نمی‌توانید اعلان‌های اذان یا اوقات نماز را دریافت کنید زیرا دستگاه شما از اندروید ۷ یا نسخه‌های پایین‌تر استفاده می‌کند.';
 
   @override
   String get battery_optimization => 'بهینه‌سازی مصرف باتری';
 
   @override
-  String get battery_optimization_subtitle => 'برای دریافت بدون مشکل اعلان‌های نماز، باید بهینه‌سازی باتری برای مواقیت را خاموش کنید.';
+  String get battery_optimization_subtitle =>
+      'برای دریافت بدون مشکل اعلان‌های نماز، باید بهینه‌سازی باتری برای مواقیت را خاموش کنید.';
 
   @override
   String get allow => 'اجازه دادن';
@@ -975,7 +1036,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get force_notification => 'اعلان‌ها را اجباری کنید';
 
   @override
-  String get tutorial_text_foreground_service => 'ضربه زدن روی آن به شما امکان می‌دهد سرویس «Foreground» را روشن یا خاموش کنید';
+  String get tutorial_text_foreground_service =>
+      'ضربه زدن روی آن به شما امکان می‌دهد سرویس «Foreground» را روشن یا خاموش کنید';
 
   @override
   String get enable => 'روشن';
@@ -987,22 +1049,27 @@ class AppLocalizationsFa extends AppLocalizations {
   String get do_not_show_again => 'دوباره نمایش نده';
 
   @override
-  String get force_notification_title => 'مواقیت فعال است تا اطمینان حاصل شود اعلان‌های نماز در زمان درست فعال می‌شوند.';
+  String get force_notification_title =>
+      'مواقیت فعال است تا اطمینان حاصل شود اعلان‌های نماز در زمان درست فعال می‌شوند.';
 
   @override
-  String get force_notification_body => 'همانا نماز بر مؤمنان در اوقات معینی واجب شده است.» (نساء، آیه ۱۰۳)';
+  String get force_notification_body =>
+      'همانا نماز بر مؤمنان در اوقات معینی واجب شده است.» (نساء، آیه ۱۰۳)';
 
   @override
-  String get force_notification_dialog1_body => 'با فعال کردن این گزینه، برنامه در حالت فعال باقی می‌ماند تا اطمینان حاصل شود اعلان‌های نماز در زمان صحیح و بدون تأخیر اجرا شوند. برنامه مواقیت فقط برای این منظور فعال خواهد بود و شما می‌توانید هر زمان که خواستید این گزینه را از تنظیمات غیرفعال کنید.';
+  String get force_notification_dialog1_body =>
+      'با فعال کردن این گزینه، برنامه در حالت فعال باقی می‌ماند تا اطمینان حاصل شود اعلان‌های نماز در زمان صحیح و بدون تأخیر اجرا شوند. برنامه مواقیت فقط برای این منظور فعال خواهد بود و شما می‌توانید هر زمان که خواستید این گزینه را از تنظیمات غیرفعال کنید.';
 
   @override
-  String get force_notification_dialog2_body => 'بعد از فعال کردن «اعلان‌های اجباری»، با کشیدن نوار اعلان‌ها به پایین، این اعلان را مشاهده خواهید کرد';
+  String get force_notification_dialog2_body =>
+      'بعد از فعال کردن «اعلان‌های اجباری»، با کشیدن نوار اعلان‌ها به پایین، این اعلان را مشاهده خواهید کرد';
 
   @override
   String get notification_debugging => 'رفع اشکال اعلان‌ها';
 
   @override
-  String get notification_debugging_details => 'عیب‌یابی اعلان‌ها فعال است. اگر تنظیمات اعلان را تغییر دهید، داده‌های عیب‌یابی حذف شده و این قابلیت غیرفعال خواهد شد.';
+  String get notification_debugging_details =>
+      'عیب‌یابی اعلان‌ها فعال است. اگر تنظیمات اعلان را تغییر دهید، داده‌های عیب‌یابی حذف شده و این قابلیت غیرفعال خواهد شد.';
 
   @override
   String get skip => 'بعدی';
@@ -1041,19 +1108,23 @@ class AppLocalizationsFa extends AppLocalizations {
   String get auto_detect_location => 'پیشنهاد مسجد نزدیک';
 
   @override
-  String get auto_detect_explanation => 'وقتی از مسجد خود دور هستید، برنامه به‌طور خودکار پیشنهاد می‌کند بر اساس موقعیت مکانی‌تان به دنبال نزدیک‌ترین مسجد بگردید.';
+  String get auto_detect_explanation =>
+      'وقتی از مسجد خود دور هستید، برنامه به‌طور خودکار پیشنهاد می‌کند بر اساس موقعیت مکانی‌تان به دنبال نزدیک‌ترین مسجد بگردید.';
 
   @override
-  String get auto_detect_location_title => 'به نظر می‌رسد که از مسجد خود فاصله دارید';
+  String get auto_detect_location_title =>
+      'به نظر می‌رسد که از مسجد خود فاصله دارید';
 
   @override
-  String get auto_detect_location_message => 'آیا می‌خواهید برای دریافت اوقات دقیق نماز، نزدیک‌ترین مسجد را جستجو کنید؟';
+  String get auto_detect_location_message =>
+      'آیا می‌خواهید برای دریافت اوقات دقیق نماز، نزدیک‌ترین مسجد را جستجو کنید؟';
 
   @override
   String get donation_success_toast => 'اهدا با موفقیت انجام شد';
 
   @override
-  String get donation_success => 'از اهدای شما سپاسگزاریم، خداوند به شما جزای خیر دهد';
+  String get donation_success =>
+      'از اهدای شما سپاسگزاریم، خداوند به شما جزای خیر دهد';
 
   @override
   String get donation_failed => 'اهدا ناموفق بود';
@@ -1068,10 +1139,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get enter_donation_amount => 'مقدار کمک مالی را وارد کنید';
 
   @override
-  String get google_pay_not_available => 'خدمات Google Pay در این دستگاه فعال نمی‌باشد';
+  String get google_pay_not_available =>
+      'خدمات Google Pay در این دستگاه فعال نمی‌باشد';
 
   @override
-  String get error_performing_donation => 'هنگام تلاش برای انجام اهداء، خطایی رخ داد';
+  String get error_performing_donation =>
+      'هنگام تلاش برای انجام اهداء، خطایی رخ داد';
 
   @override
   String get recurring_pay_text => 'کمک خود را به صورت ماهیانه تنظیم کنید.';
@@ -1101,7 +1174,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get system => 'سیستم';
 
   @override
-  String get change_mosque_order => 'مسجدها را بکشید و رها کنید تا ترتیبشان را تغییر دهید و مسجد اصلی را تعیین کنید';
+  String get change_mosque_order =>
+      'مسجدها را بکشید و رها کنید تا ترتیبشان را تغییر دهید و مسجد اصلی را تعیین کنید';
 
   @override
   String get remove => 'حذف';
@@ -1209,7 +1283,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get downloading => 'در حال دانلود';
 
   @override
-  String get cant_download_more_than_3 => 'امکان دانلود بیش از ۳ مورد به‌صورت همزمان وجود ندارد.';
+  String get cant_download_more_than_3 =>
+      'امکان دانلود بیش از ۳ مورد به‌صورت همزمان وجود ندارد.';
 
   @override
   String get boost => 'تقویت';
@@ -1233,7 +1308,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get download_cancelled => 'دانلود لغو شد';
 
   @override
-  String get no_virtual_mosque_found => 'متأسفیم، هیچ مسجدی در اطراف شما یافت نشد';
+  String get no_virtual_mosque_found =>
+      'متأسفیم، هیچ مسجدی در اطراف شما یافت نشد';
 
   @override
   String get no_surah_found => 'هیچ سوره‌ای یافت نشد';
@@ -1248,7 +1324,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get empty_quran_search => 'نتایج جستجو اینجا نمایش داده خواهند شد';
 
   @override
-  String get no_bookmark_ayah => 'هیچ نشانکی موجود نیست. لطفاً روی آیه‌ای که می‌خواهید نشانک بگذارید، به‌طور طولانی لمس کنید.';
+  String get no_bookmark_ayah =>
+      'هیچ نشانکی موجود نیست. لطفاً روی آیه‌ای که می‌خواهید نشانک بگذارید، به‌طور طولانی لمس کنید.';
 
   @override
   String get page => 'صفحه';
@@ -1257,19 +1334,24 @@ class AppLocalizationsFa extends AppLocalizations {
   String get prayer_times_in => 'اوقات نماز در';
 
   @override
-  String get update_new_version => 'نسخه جدیدی از قرآن برای دانلود موجود است. برای دسترسی به بهبودهای جدید و ادامه مسیر با حکمت الهی، روی «به‌روزرسانی» ضربه بزنید';
+  String get update_new_version =>
+      'نسخه جدیدی از قرآن برای دانلود موجود است. برای دسترسی به بهبودهای جدید و ادامه مسیر با حکمت الهی، روی «به‌روزرسانی» ضربه بزنید';
 
   @override
-  String get update_quran_zip => 'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
+  String get update_quran_zip =>
+      'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
 
   @override
-  String get update_latest_quran_version => 'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
+  String get update_latest_quran_version =>
+      'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
 
   @override
-  String get update_latest_quran => 'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
+  String get update_latest_quran =>
+      'نسخه بازبینی شده‌ای با بهبودهای تایپی منتشر شده است. برای ادامه مسیر خواندن و تأمل، روی «به‌روزرسانی» کلیک کنید.';
 
   @override
-  String get set_notification_for_all_parayer => 'این را برای هر نماز تنظیم کنید';
+  String get set_notification_for_all_parayer =>
+      'این را برای هر نماز تنظیم کنید';
 
   @override
   String get powered_by_mawaqit => 'توسط مواقیت پشتیبانی می‌شود';
@@ -1296,10 +1378,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get select_rewaya => 'انتخاب روایت';
 
   @override
-  String get download_in_progress => 'دانلود در حال انجام است، لطفاً صبر کنید...';
+  String get download_in_progress =>
+      'دانلود در حال انجام است، لطفاً صبر کنید...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'نماز بعدی پس از اقامه را برجسته کن';
+  String get highlight_next_prayer_after_Iqama =>
+      'نماز بعدی پس از اقامه را برجسته کن';
 
   @override
   String get helmi_nasr => 'دکتر حلمی نصر';
@@ -1326,16 +1410,20 @@ class AppLocalizationsFa extends AppLocalizations {
   String get add_new_audio => 'افزودن فایل صوتی جدید';
 
   @override
-  String get selecet_audio_before_delete => 'برای حذف فایل صوتی انتخاب‌شده، باید ابتدا یک فایل صوتی دیگر برای اعلان‌ها اضافه کنید';
+  String get selecet_audio_before_delete =>
+      'برای حذف فایل صوتی انتخاب‌شده، باید ابتدا یک فایل صوتی دیگر برای اعلان‌ها اضافه کنید';
 
   @override
-  String get addding_file_prompt => 'می‌توانید چندین فایل صوتی اضافه کنید، اما لطفاً مطمئن شوید که فایل صوتی تکراری اضافه نکنید.';
+  String get addding_file_prompt =>
+      'می‌توانید چندین فایل صوتی اضافه کنید، اما لطفاً مطمئن شوید که فایل صوتی تکراری اضافه نکنید.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'لطفاً یک فایل صوتی با حداکثر مدت زمان ۳۰ ثانیه یا کمتر انتخاب کنید. فایل صوتی با مدت زمان بیشتر ممکن است اعلان نماز شما را دچار اختلال کند.';
+  String get ios_audio_file_picking_prompt =>
+      'لطفاً یک فایل صوتی با حداکثر مدت زمان ۳۰ ثانیه یا کمتر انتخاب کنید. فایل صوتی با مدت زمان بیشتر ممکن است اعلان نماز شما را دچار اختلال کند.';
 
   @override
-  String get select_audio_from_device => 'فایل صوتی (mp3) را از دستگاه انتخاب کنید.';
+  String get select_audio_from_device =>
+      'فایل صوتی (mp3) را از دستگاه انتخاب کنید.';
 
   @override
   String get add_ticket => 'افزودن تیکت';
@@ -1344,28 +1432,33 @@ class AppLocalizationsFa extends AppLocalizations {
   String get projects => 'پروژه ها';
 
   @override
-  String get fill_form => 'برای افزودن پروژه خود در اینجا، این فرم را تکمیل کنید';
+  String get fill_form =>
+      'برای افزودن پروژه خود در اینجا، این فرم را تکمیل کنید';
 
   @override
   String get form => 'فرم';
 
   @override
-  String get updates_draw => 'به‌روزرسانی‌ها را دریافت کنید و در قرعه‌کشی برای برنده شدن هدایا از طرف [نام یا منبع] شرکت کنید';
+  String get updates_draw =>
+      'به‌روزرسانی‌ها را دریافت کنید و در قرعه‌کشی برای برنده شدن هدایا از طرف [نام یا منبع] شرکت کنید';
 
   @override
-  String get email_info => 'اگر در قرعه‌کشی برنده شدید، از این ایمیل برای تماس با شما استفاده خواهد شد';
+  String get email_info =>
+      'اگر در قرعه‌کشی برنده شدید، از این ایمیل برای تماس با شما استفاده خواهد شد';
 
   @override
   String get enter_email => 'ایمیل خود را وارد کنید';
 
   @override
-  String get email_privacy => 'مواقیت این ایمیل را با هیچ‌کس به اشتراک نخواهد گذاشت. این ایمیل پس از هر قرعه‌کشی به‌صورت خودکار از پایگاه داده ما حذف خواهد شد';
+  String get email_privacy =>
+      'مواقیت این ایمیل را با هیچ‌کس به اشتراک نخواهد گذاشت. این ایمیل پس از هر قرعه‌کشی به‌صورت خودکار از پایگاه داده ما حذف خواهد شد';
 
   @override
   String get submit => 'ثبت کردن';
 
   @override
-  String get disclaimer => 'مواقیت هیچ‌گونه مسئولیتی در قبال خدمات یا محصولات ارائه‌شده توسط پروژه‌های فهرست‌شده ندارد. لطفاً تحقیقات و بررسی‌های لازم را شخصاً انجام دهید';
+  String get disclaimer =>
+      'مواقیت هیچ‌گونه مسئولیتی در قبال خدمات یا محصولات ارائه‌شده توسط پروژه‌های فهرست‌شده ندارد. لطفاً تحقیقات و بررسی‌های لازم را شخصاً انجام دهید';
 
   @override
   String get participating_with => 'شما در حال مشارکت هستید با';
@@ -1389,7 +1482,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get no_projects => 'پروژه ای وجود ندارد';
 
   @override
-  String get draw_info => 'یک قرعه‌کشی در هر ماه برگزار می‌شود. هر بیست و چهار ساعت می‌توانید یک بلیت جدید اضافه کنید تا شانس برنده شدن خود را افزایش دهید!';
+  String get draw_info =>
+      'یک قرعه‌کشی در هر ماه برگزار می‌شود. هر بیست و چهار ساعت می‌توانید یک بلیت جدید اضافه کنید تا شانس برنده شدن خود را افزایش دهید!';
 
   @override
   String get enter_valid_email => 'لطفا یک آدرس ایمیل معتبر وارد کنید';
@@ -1398,25 +1492,30 @@ class AppLocalizationsFa extends AppLocalizations {
   String get please_enter_email => 'لطفاً یک ایمیل وارد کنید';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'یک فایل صوتی انتخاب کنید؛ ما آن را به فرمتی سازگار با iOS تبدیل می‌کنیم و به دلیل محدودیت‌های این پلتفرم، آن را به ۳۰ ثانیه کوتاه می‌کنیم.';
+  String get select_device_audo_for_ios_propmpt =>
+      'یک فایل صوتی انتخاب کنید؛ ما آن را به فرمتی سازگار با iOS تبدیل می‌کنیم و به دلیل محدودیت‌های این پلتفرم، آن را به ۳۰ ثانیه کوتاه می‌کنیم.';
 
   @override
   String get confirm_deletion => 'تایید حذف';
 
   @override
-  String get sure_remove_rewaya => 'آیا مطمئن هستید که می‌خواهید این روایت را حذف کنید؟';
+  String get sure_remove_rewaya =>
+      'آیا مطمئن هستید که می‌خواهید این روایت را حذف کنید؟';
 
   @override
   String get file_not_found => 'فایل یافت نشد';
 
   @override
-  String get notified_boost => 'از جدیدترین به‌روزرسانی‌های پروژه‌های MAWAQIT Boost مطلع شوید.';
+  String get notified_boost =>
+      'از جدیدترین به‌روزرسانی‌های پروژه‌های MAWAQIT Boost مطلع شوید.';
 
   @override
-  String get contact_us_boost => 'برای درج پروژه خود در اینجا، با ما از طریق [اینجا شماره یا ایمیل را وارد کنید] تماس بگیرید';
+  String get contact_us_boost =>
+      'برای درج پروژه خود در اینجا، با ما از طریق [اینجا شماره یا ایمیل را وارد کنید] تماس بگیرید';
 
   @override
-  String get prayer_times_set_by_mosque => 'اوقات نماز و تمام اطلاعات موجود در اینجا توسط مسجد تعیین می‌شوند، نه MAWAQIT';
+  String get prayer_times_set_by_mosque =>
+      'اوقات نماز و تمام اطلاعات موجود در اینجا توسط مسجد تعیین می‌شوند، نه MAWAQIT';
 
   @override
   String get hasan_nahi => 'حسن ناهی';
@@ -1431,10 +1530,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get delete_all_downloads => 'حذف همه بارگیری‌ها از تاریخچه';
 
   @override
-  String get delete_recitations_message => 'آیا مطمئن هستید که می‌خواهید همه قرائت‌های دانلود شده را حذف کنید؟';
+  String get delete_recitations_message =>
+      'آیا مطمئن هستید که می‌خواهید همه قرائت‌های دانلود شده را حذف کنید؟';
 
   @override
-  String get downloaded_deleted_successfully => 'تمام قرائت‌های دانلود شده با موفقیت حذف شدند';
+  String get downloaded_deleted_successfully =>
+      'تمام قرائت‌های دانلود شده با موفقیت حذف شدند';
 
   @override
   String get failed_delete_recitations => 'حذف همه قرائت‌ها ناموفق بود';
@@ -1446,7 +1547,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get search_title => 'جستجو با استفاده از عنوان';
 
   @override
-  String get compass_calibration => 'تنظیمات کالیبراسیون قطب‌نما غیرفعال است. گوشی خود را 3 بار به صورت حرکت عدد هشت‌ انگلیسی بصورت کج حرکت دهید، مانند این';
+  String get compass_calibration =>
+      'تنظیمات کالیبراسیون قطب‌نما غیرفعال است. گوشی خود را 3 بار به صورت حرکت عدد هشت‌ انگلیسی بصورت کج حرکت دهید، مانند این';
 
   @override
   String get compass_accuracy => 'دقت قطب‌نما';
@@ -1593,7 +1695,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get sahl_yassin_murattal => 'Sahl Yassin';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal => 'Salaah AbdulRahman Bukhatir';
+  String get salaah_abdulRahman_bukhatir_murattal =>
+      'Salaah AbdulRahman Bukhatir';
 
   @override
   String get salah_albudair_murattal => 'Salah AlBudair';
@@ -1653,13 +1756,16 @@ class AppLocalizationsFa extends AppLocalizations {
   String get verse_repeat => 'تکرار آیه';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
+  String get improved_Hafs_Rewaya_Force_Update =>
+      'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
 
   @override
-  String get mawaqit_three_sixty_description => 'اوقات نماز را با ساعت متحرک جدید ما زنده ببینید.';
+  String get mawaqit_three_sixty_description =>
+      'اوقات نماز را با ساعت متحرک جدید ما زنده ببینید.';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'هنگام استفاده از نمای ۳۶۰، نمی‌توانید این تنظیم را خاموش کنید';
+  String get hnpai_User_Guidance_MAWAQIT_360 =>
+      'هنگام استفاده از نمای ۳۶۰، نمی‌توانید این تنظیم را خاموش کنید';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360';
@@ -1693,4 +1799,10 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get settingFontSize => 'Font Size';
+
+  @override
+  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+
+  @override
+  String get shaykh_aminuddin_muhammad => 'شیخ امین‌الدین محمد';
 }
