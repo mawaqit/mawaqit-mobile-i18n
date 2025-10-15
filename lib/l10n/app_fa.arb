@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1124,10 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
-    "yassin_aljazairi": "Yassin Al-Jazairi",
-    "mohammed_abdelkarim": "Mohammed Abdelkarim",
-    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
-    "abdelkarim_daghoush": "Abdelkarim Daghoush",
+    "yassin_aljazairi": "یاسین الجزایری",
+    "mohammed_abdelkarim": "محمد عبدکریم",
+    "alayoun_elkouchi": "العیون الکوشی",
+    "abdelkarim_daghoush": "عبدالکریم داغوش",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
