@@ -132,10 +132,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get settings_language_pl => 'پۆڵەندی';
 
   @override
-  String get settings_CreditsText => 'مافی بڵاوکردنەوە  © 2021 پارێزراوە بۆ مەواقیت بۆ دامەزراوەی مەواقیت، هەموو مافەکان پارێزراوە.\n\nخاوەندارێتی فیکری و مافی کۆپیکردنی ئەم بەرنامەیە یان پێوەکراو، زیادکراوەکان یان ناوەڕۆکەکەی لەلایەن مەواقیت بۆ کۆمەڵەی مەواقیتەوە خاوەندارێتی دەکرێت.\n\nئەم وەشانەی تەنها مۆڵەتی هەیە بۆ دابەشکردنی خێرخوازی و وەقفە. هەر جۆرە بەکارهێنانێکی بازرگانی یان دابەشکردنی بازرگانی بە توندی قەدەغەیە.\n\nئەم مۆڵەتە ئاماژە بە فرۆشتنی هیچ مافێکی پەیوەست بەم بەرهەمە، هیچ بەشێکی، پێوەکراو، زیادکراوەکان یان ناوەڕۆک ناکات یان ناگرێتەوە. بەڵکو ئەم مۆڵەتە تەنها ڕێگە بە دابەشکردنی خێرخوازی بەرنامەکە دەدات لە ڕێگەی پلاتفۆرمی ئێستای فرۆشگای بەرنامەکەوە.\n\nدابەشکردنەوەی بەرنامەکە بە بەکارهێنانی کۆدی سەرچاوە یان فایلە دووانەییەکان، یان بەکارهێنانی ئەندازیاری پێچەوانە بە ئەنجامدانی یان بەبێ هیچ هەموارکردنەوەیەک، دەبێتە هۆی ئاشکراکردنی... پێشێلکەر یان ئەو کەسەی بەرپرسیارە لەم پێشێلکردنی مافی کۆپیکردنە بۆ ڕێکاری یاسایی.\n\nهیچ لایەنێک مافی ئەوەی نییە بەرنامەکە لە دەرەوەی فرۆشگا فەرمییەکانی ئەپڵ یان گووگڵ پلەی دابەش بکاتەوە بەبێ مۆڵەتی نووسراوی فەرمی لەلایەن خاوەن مافی کۆپی و خاوەنی بەرنامەکە، مەواقیت بۆ کۆمەڵەی مەواقیت. دابەشکردنی ئەم بەرنامەیە لە دەرەوەی ئەم فرۆشگا فەرمیانە پێشێلکردنی یاسای پاراستنی خاوەندارێتی فیکری دەبێت و ئەو کەسەی بەرپرسیارە لەم پێشێلکارییە مافی کۆپیکردنە بەرەوڕووی ڕێکاری یاسایی دەبێتەوە.\n\nڕێگەپێدراو نییە ناوی بەرنامەکە یان براندەکە یان نیشانە بازرگانییەکە یان ناوی... خاوەن مافی کۆپیکردن مەواقیت  بۆ دامەزراوەی مەواقیت بۆ پەرەپێدانی ئەو بەرهەمانەی کە هاوشێوەن یان لەم بەرنامەیە یان هەر بەرهەمێکی ترەوە وەرگیراون بەبێ وەرگرتنی مۆڵەتی نووسراوی پێشوەختە لە خاوەن مافی کۆپیکردن.\n\nئەم بەرنامەیە مۆڵەتی دابەشکردنی هەیە لەلایەن خاوەن مافی کۆپی و خاوەن پشکەکانەوە \"وەک خۆی\".\n\nکۆمپانیای گەشەپێدەر و خاوەنی بەرنامەکە هیچ گەرەنتییەکی ڕوون یان ناڕوون نادات، لەوانە - بەڵام سنووردار نەکراوە بە - ڕێکلامکردن و پەرەپێدانی گونجاوی بەرنامەکە بۆ مەبەستێکی دیاریکراو. لە هەر حاڵەتێکدا، مەواقیت بۆ کۆمەڵەی مەواقیت، یان خاوەن پشکەکان بەرپرسیار نین لە هەر زیانێک، کە ڕاستەوخۆ، ناڕاستەوخۆ، یان بەڕێکەوت بێت (تایبەت، وریایی، دەرئەنجام)، لەوانە - بەڵام سنووردار نەکراوە بە - لەدەستدانی بەکارهێنان، داتا یان قازانج؛ یان پچڕانی کار، هەر هۆکارێک و ئیلتزاماتەکان بن، ئەم ئیلتزاماتانە گرێبەستی، ڕەها یان تاوان (لەوانەش کەمتەرخەمی یان بە شێوەیەکی تر) کە - بە جۆرێک یان جۆرێکی تر - بەهۆی بەکارهێنانی ئەم بەرنامەیەوە ڕوودەدەن.\n\nمافی کۆپیکردنی هەر لایەنێکی سێیەم لەسەر بەرنامەکە تەرخانکراوە بۆ خاوەنەکەیان.\n\nوێنە و پاشبنەماکان\nمافی کۆپیکردن دەچێتە سەر Shutterstock\n\nئایکۆنەکان — مۆڵەتی CC BY 4.0\nمافی کۆپیکردن دەچێتە سەر Flaticons\n\nمۆڵەتی MIT بۆ هەموو فایلەکانی نافۆنت و نائایکۆن دەگونجێت.\n\nفۆنتەکان — مۆڵەتی SIL OFL 1.1\nمافی کۆپیکردن دەچێتە سەر فۆنتەکانی گووگڵ (فۆنتەکانی ڕۆبۆتۆ)\n\nمافی کۆپیکردن ئەپڵ، پاکێجەکانی کوپەرتینۆ\nکۆد، پاکێجەکان و چوارچێوەکان\n\nFlutter لەلایەن گووگڵ\n\nپاکێجەکان: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
+  String get settings_CreditsText =>
+      'مافی بڵاوکردنەوە  © 2021 پارێزراوە بۆ مەواقیت بۆ دامەزراوەی مەواقیت، هەموو مافەکان پارێزراوە.\n\nخاوەندارێتی فیکری و مافی کۆپیکردنی ئەم بەرنامەیە یان پێوەکراو، زیادکراوەکان یان ناوەڕۆکەکەی لەلایەن مەواقیت بۆ کۆمەڵەی مەواقیتەوە خاوەندارێتی دەکرێت.\n\nئەم وەشانەی تەنها مۆڵەتی هەیە بۆ دابەشکردنی خێرخوازی و وەقفە. هەر جۆرە بەکارهێنانێکی بازرگانی یان دابەشکردنی بازرگانی بە توندی قەدەغەیە.\n\nئەم مۆڵەتە ئاماژە بە فرۆشتنی هیچ مافێکی پەیوەست بەم بەرهەمە، هیچ بەشێکی، پێوەکراو، زیادکراوەکان یان ناوەڕۆک ناکات یان ناگرێتەوە. بەڵکو ئەم مۆڵەتە تەنها ڕێگە بە دابەشکردنی خێرخوازی بەرنامەکە دەدات لە ڕێگەی پلاتفۆرمی ئێستای فرۆشگای بەرنامەکەوە.\n\nدابەشکردنەوەی بەرنامەکە بە بەکارهێنانی کۆدی سەرچاوە یان فایلە دووانەییەکان، یان بەکارهێنانی ئەندازیاری پێچەوانە بە ئەنجامدانی یان بەبێ هیچ هەموارکردنەوەیەک، دەبێتە هۆی ئاشکراکردنی... پێشێلکەر یان ئەو کەسەی بەرپرسیارە لەم پێشێلکردنی مافی کۆپیکردنە بۆ ڕێکاری یاسایی.\n\nهیچ لایەنێک مافی ئەوەی نییە بەرنامەکە لە دەرەوەی فرۆشگا فەرمییەکانی ئەپڵ یان گووگڵ پلەی دابەش بکاتەوە بەبێ مۆڵەتی نووسراوی فەرمی لەلایەن خاوەن مافی کۆپی و خاوەنی بەرنامەکە، مەواقیت بۆ کۆمەڵەی مەواقیت. دابەشکردنی ئەم بەرنامەیە لە دەرەوەی ئەم فرۆشگا فەرمیانە پێشێلکردنی یاسای پاراستنی خاوەندارێتی فیکری دەبێت و ئەو کەسەی بەرپرسیارە لەم پێشێلکارییە مافی کۆپیکردنە بەرەوڕووی ڕێکاری یاسایی دەبێتەوە.\n\nڕێگەپێدراو نییە ناوی بەرنامەکە یان براندەکە یان نیشانە بازرگانییەکە یان ناوی... خاوەن مافی کۆپیکردن مەواقیت  بۆ دامەزراوەی مەواقیت بۆ پەرەپێدانی ئەو بەرهەمانەی کە هاوشێوەن یان لەم بەرنامەیە یان هەر بەرهەمێکی ترەوە وەرگیراون بەبێ وەرگرتنی مۆڵەتی نووسراوی پێشوەختە لە خاوەن مافی کۆپیکردن.\n\nئەم بەرنامەیە مۆڵەتی دابەشکردنی هەیە لەلایەن خاوەن مافی کۆپی و خاوەن پشکەکانەوە \"وەک خۆی\".\n\nکۆمپانیای گەشەپێدەر و خاوەنی بەرنامەکە هیچ گەرەنتییەکی ڕوون یان ناڕوون نادات، لەوانە - بەڵام سنووردار نەکراوە بە - ڕێکلامکردن و پەرەپێدانی گونجاوی بەرنامەکە بۆ مەبەستێکی دیاریکراو. لە هەر حاڵەتێکدا، مەواقیت بۆ کۆمەڵەی مەواقیت، یان خاوەن پشکەکان بەرپرسیار نین لە هەر زیانێک، کە ڕاستەوخۆ، ناڕاستەوخۆ، یان بەڕێکەوت بێت (تایبەت، وریایی، دەرئەنجام)، لەوانە - بەڵام سنووردار نەکراوە بە - لەدەستدانی بەکارهێنان، داتا یان قازانج؛ یان پچڕانی کار، هەر هۆکارێک و ئیلتزاماتەکان بن، ئەم ئیلتزاماتانە گرێبەستی، ڕەها یان تاوان (لەوانەش کەمتەرخەمی یان بە شێوەیەکی تر) کە - بە جۆرێک یان جۆرێکی تر - بەهۆی بەکارهێنانی ئەم بەرنامەیەوە ڕوودەدەن.\n\nمافی کۆپیکردنی هەر لایەنێکی سێیەم لەسەر بەرنامەکە تەرخانکراوە بۆ خاوەنەکەیان.\n\nوێنە و پاشبنەماکان\nمافی کۆپیکردن دەچێتە سەر Shutterstock\n\nئایکۆنەکان — مۆڵەتی CC BY 4.0\nمافی کۆپیکردن دەچێتە سەر Flaticons\n\nمۆڵەتی MIT بۆ هەموو فایلەکانی نافۆنت و نائایکۆن دەگونجێت.\n\nفۆنتەکان — مۆڵەتی SIL OFL 1.1\nمافی کۆپیکردن دەچێتە سەر فۆنتەکانی گووگڵ (فۆنتەکانی ڕۆبۆتۆ)\n\nمافی کۆپیکردن ئەپڵ، پاکێجەکانی کوپەرتینۆ\nکۆد، پاکێجەکان و چوارچێوەکان\n\nFlutter لەلایەن گووگڵ\n\nپاکێجەکان: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'ئەم ئەپڵیکەیشنە لەلایەن کۆمەڵەی مەواقیتەوە پەرەی پێدراوە.\n\nکۆمەڵەی مەواقیت ڕێکخراوێکی قازانج نەویستە لە ساڵی ٢٠٢١ لە فەرەنسا دامەزراوە.\\nئامانجمان پەرەپێدانی چارەسەری داهێنەرانەیە کە پەیوەندی بە تەکنەلۆژیای زانیاری و تەکنەلۆژیای دیجیتاڵییەوە هەیە وەک بەرنامە و ماڵپەڕ. فێرکردن و ڕاهێنان لەسەر چارەسەری دیجیتاڵی و ئامرازەکانی ئایتی.\n\nسیستەمی “مەواقیت” بەرهەمی سەرەکیمانە و چیرۆکەکەی لە ساڵی ٢٠١٦ دەستی پێکردووە، بە ئەپڵیکەیشنێک لەسەر شاشە گەورەکان کە تایبەتە بە مزگەوتەکان، پاشان ئەپڵیکەیشنێکی مۆبایل، یاریدەدەری ماڵەوە، زیرەکی دەستکردن وەک ئەلێکسا، هتد.\n\nمەواقیت ڕێگەیەکی نوێتان بۆ دابین دەکات بۆ بەدواداچوون و بەڕێوەبردنی کاتەکانی نوێژ لە ڕاستیدا ئێمە سیستەمێکی گشتگیر دابین دەکەین کە ئامرازێکی ئۆنلاین ٢٤ کاتژمێری بۆ بەڕێوەبەرانی مزگەوتەکان دابین دەکات کە ڕێگەیان پێدەدات کاتەکانی نوێژ، هەواڵی مزگەوتەکان، بەڕێوەببەن. و چەندین تایبەتمەندی تر. موسڵمانان لای خۆیانەوە سوودمەندن لە ئەپڵیکەیشنی مۆبایل کە ڕێگەیان پێدەدات کاتەکانی نوێژی ورد و نزیکی مزگەوتەکەیان ببینن، هەروەها هەواڵ و ئەرکەکانی تری وەک گەڕان بەدوای مزگەوتێکدا بەپێی شوێنی جوگرافی، بانگەوازی نوێژ، قیبلە ...هتد. ئێمە متمانەپێکردن و کوالیتیمان کردووە بە بەها سەرەکییەکانمان. تەماحی ئێمە ڕوونە: بۆ دروستکردنی باشترین خزمەتگوزاری بۆ مزگەوتەکانمان لە سایەی تەکنەلۆجیا و دیزاین.\n\nئەگەر ئەم ئەپڵیکەیشنەت بەدڵ بوو، تکایە بۆچوونی خۆت بدە.';
+  String get settings_AboutUsText =>
+      'ئەم ئەپڵیکەیشنە لەلایەن کۆمەڵەی مەواقیتەوە پەرەی پێدراوە.\n\nکۆمەڵەی مەواقیت ڕێکخراوێکی قازانج نەویستە لە ساڵی ٢٠٢١ لە فەرەنسا دامەزراوە.\\nئامانجمان پەرەپێدانی چارەسەری داهێنەرانەیە کە پەیوەندی بە تەکنەلۆژیای زانیاری و تەکنەلۆژیای دیجیتاڵییەوە هەیە وەک بەرنامە و ماڵپەڕ. فێرکردن و ڕاهێنان لەسەر چارەسەری دیجیتاڵی و ئامرازەکانی ئایتی.\n\nسیستەمی “مەواقیت” بەرهەمی سەرەکیمانە و چیرۆکەکەی لە ساڵی ٢٠١٦ دەستی پێکردووە، بە ئەپڵیکەیشنێک لەسەر شاشە گەورەکان کە تایبەتە بە مزگەوتەکان، پاشان ئەپڵیکەیشنێکی مۆبایل، یاریدەدەری ماڵەوە، زیرەکی دەستکردن وەک ئەلێکسا، هتد.\n\nمەواقیت ڕێگەیەکی نوێتان بۆ دابین دەکات بۆ بەدواداچوون و بەڕێوەبردنی کاتەکانی نوێژ لە ڕاستیدا ئێمە سیستەمێکی گشتگیر دابین دەکەین کە ئامرازێکی ئۆنلاین ٢٤ کاتژمێری بۆ بەڕێوەبەرانی مزگەوتەکان دابین دەکات کە ڕێگەیان پێدەدات کاتەکانی نوێژ، هەواڵی مزگەوتەکان، بەڕێوەببەن. و چەندین تایبەتمەندی تر. موسڵمانان لای خۆیانەوە سوودمەندن لە ئەپڵیکەیشنی مۆبایل کە ڕێگەیان پێدەدات کاتەکانی نوێژی ورد و نزیکی مزگەوتەکەیان ببینن، هەروەها هەواڵ و ئەرکەکانی تری وەک گەڕان بەدوای مزگەوتێکدا بەپێی شوێنی جوگرافی، بانگەوازی نوێژ، قیبلە ...هتد. ئێمە متمانەپێکردن و کوالیتیمان کردووە بە بەها سەرەکییەکانمان. تەماحی ئێمە ڕوونە: بۆ دروستکردنی باشترین خزمەتگوزاری بۆ مزگەوتەکانمان لە سایەی تەکنەلۆجیا و دیزاین.\n\nئەگەر ئەم ئەپڵیکەیشنەت بەدڵ بوو، تکایە بۆچوونی خۆت بدە.';
 
   @override
   String get fajr => 'بەیانی';
@@ -159,10 +161,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get sabah => 'بەیانی';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'لە ئێستادا وەها رێکت خستووە بۆ ئەوەی ئاگادار نەکرێیتەوە بۆ ئەم نوێژە.';
+  String get settings_PrayerNotification_NoNotification =>
+      'لە ئێستادا وەها رێکت خستووە بۆ ئەوەی ئاگادار نەکرێیتەوە بۆ ئەم نوێژە.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'بەرنامەی زەنگی بیپ لە کاتی ئاگادارکردنەوە.';
+  String get settings_PrayerNotification_Bip =>
+      'بەرنامەی زەنگی بیپ لە کاتی ئاگادارکردنەوە.';
 
   @override
   String get adhan => 'بانگ';
@@ -189,16 +193,19 @@ class AppLocalizationsKu extends AppLocalizations {
   String get adhan_AbdAlBassat => 'عبدالباسط';
 
   @override
-  String get adhan_type => 'جۆری بانگدان هەڵبژێرە. ئەم هەڵبژاردەیە جێبەجێ دەکرێت لەسەر ئەو نوێژانەی کە دۆخی بانگدانیان بۆ چالاک کراوە.';
+  String get adhan_type =>
+      'جۆری بانگدان هەڵبژێرە. ئەم هەڵبژاردەیە جێبەجێ دەکرێت لەسەر ئەو نوێژانەی کە دۆخی بانگدانیان بۆ چالاک کراوە.';
 
   @override
   String get settings_prayer_Notification_None => 'هیچ';
 
   @override
-  String get prayer_Notification_NoNotification => 'هیچ ئاگادارییەکت بۆ ئەم نوێژە دیاری نەکردووە.';
+  String get prayer_Notification_NoNotification =>
+      'هیچ ئاگادارییەکت بۆ ئەم نوێژە دیاری نەکردووە.';
 
   @override
-  String get prayer_PreNotification_Description => 'ئەم خزمەتگوزارییە دەتوانێت ئاگادارییەک دابنێت لەپێش کاتی بانگ.';
+  String get prayer_PreNotification_Description =>
+      'ئەم خزمەتگوزارییە دەتوانێت ئاگادارییەک دابنێت لەپێش کاتی بانگ.';
 
   @override
   String get search_TryParis => 'مزگەوتی ئەقصا، قودس، مەدینە، هتد.';
@@ -207,13 +214,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get search_ByGPS => 'گەڕان بەپێی GPS';
 
   @override
-  String get search_HelpText => 'دەتوانیت بگەڕێیت بۆ مزگەوت بەپێێ:\n- ناوی مزگەوت\n- ناوی دامەزراوە\n- ناوی شار، ناونیشان، وڵات، هتد\n\nیاخود دەتوانیت کلیک لە دوگمەی هەستەوەری جێگا بکەیت تاوەکوو مزگەوتە نزیکەکانت نیشان بدات.';
+  String get search_HelpText =>
+      'دەتوانیت بگەڕێیت بۆ مزگەوت بەپێێ:\n- ناوی مزگەوت\n- ناوی دامەزراوە\n- ناوی شار، ناونیشان، وڵات، هتد\n\nیاخود دەتوانیت کلیک لە دوگمەی هەستەوەری جێگا بکەیت تاوەکوو مزگەوتە نزیکەکانت نیشان بدات.';
 
   @override
-  String get search_MaxFavMosquesReached => 'گەیشتویت بە زۆرترین ڕێژەی مزگەوتە دڵخوازەکان.';
+  String get search_MaxFavMosquesReached =>
+      'گەیشتویت بە زۆرترین ڕێژەی مزگەوتە دڵخوازەکان.';
 
   @override
-  String get search_iOs14_message => 'گەڕان بە بەکارهێنانی هەستەوەری جێگا ڕەنگە هەندێک کاتی پێ بچێت لە سۆفتوێری ١٤ی ئایفۆندا.';
+  String get search_iOs14_message =>
+      'گەڕان بە بەکارهێنانی هەستەوەری جێگا ڕەنگە هەندێک کاتی پێ بچێت لە سۆفتوێری ١٤ی ئایفۆندا.';
 
   @override
   String get search_error => 'ببورە، هەڵەیەک ڕوویدا\'';
@@ -222,7 +232,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get search_your_location => 'شوێنی تۆ';
 
   @override
-  String get search_location_disabled => 'تکایە بگەڕێ بۆ مزگەوت بەپێی ناو یاخود شار، یان ڕێگابدە بەهەستەوەری دیاریکردی جێگا لە ڕێکخستەکانتدا.';
+  String get search_location_disabled =>
+      'تکایە بگەڕێ بۆ مزگەوت بەپێی ناو یاخود شار، یان ڕێگابدە بەهەستەوەری دیاریکردی جێگا لە ڕێکخستەکانتدا.';
 
   @override
   String get search_settings => 'رێکخستنەکان';
@@ -255,10 +266,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get no_thanks => 'نا سوپاس';
 
   @override
-  String get notification_denied => 'ئاگادارییەکان لەکارخراون، بۆیە بەڕێزت هیچ ئاگادارییەکت پێ ناگات.';
+  String get notification_denied =>
+      'ئاگادارییەکان لەکارخراون، بۆیە بەڕێزت هیچ ئاگادارییەکت پێ ناگات.';
 
   @override
-  String get at_least_one_mosque => 'بەلایەنی کەمەوە یەک مزگەوت زیاد بکە بۆ بەردەوام بوون';
+  String get at_least_one_mosque =>
+      'بەلایەنی کەمەوە یەک مزگەوت زیاد بکە بۆ بەردەوام بوون';
 
   @override
   String get set_up_your_prayer => 'نوێژەکەت ڕێک بخە';
@@ -276,10 +289,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get mosques_with => 'مزگەوتەکان لە';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'رێگەدان بە مەواقیت بۆ گەیشتن بە هەستەوەری دیاریکردنی جێگا.';
+  String get allow_mawaqit_to_access_my_location =>
+      'رێگەدان بە مەواقیت بۆ گەیشتن بە هەستەوەری دیاریکردنی جێگا.';
 
   @override
-  String get enable_location_service_from_app_settings => 'خزمەتگوزاری دیاریکردنی جێگا لە رێکخستنەکانی بەرنامەوە کارا بکە.';
+  String get enable_location_service_from_app_settings =>
+      'خزمەتگوزاری دیاریکردنی جێگا لە رێکخستنەکانی بەرنامەوە کارا بکە.';
 
   @override
   String get the_request_timeout => 'ئەم داواکارییە هەڵوەشایەوە';
@@ -294,7 +309,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get virtual_mosque => 'مزگەوتی وەهمی';
 
   @override
-  String get no_mosque_in_selected_area => 'هیچ مزگەوتێک لە ناوچەی دیاریکراودا نەدۆزرایەوە';
+  String get no_mosque_in_selected_area =>
+      'هیچ مزگەوتێک لە ناوچەی دیاریکراودا نەدۆزرایەوە';
 
   @override
   String get no_mosque_with => 'نەتوانرا هیچ مزگەوتێک بدۆزرێتەوە لە';
@@ -348,13 +364,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get power_saver => 'پاراستنی ووزە';
 
   @override
-  String get permission_message1 => 'ئێمە ئاگادارییەکی دواکەوتوومان دەستنیشان کرد، تکایە بیگوژێنەوە';
+  String get permission_message1 =>
+      'ئێمە ئاگادارییەکی دواکەوتوومان دەستنیشان کرد، تکایە بیگوژێنەوە';
 
   @override
-  String get permission_message2 => 'بۆ بەدەستگەیشتنی ئاگادارییەکە لەکاتی خۆیدا.';
+  String get permission_message2 =>
+      'بۆ بەدەستگەیشتنی ئاگادارییەکە لەکاتی خۆیدا.';
 
   @override
-  String get notifications_delay_detected => 'دواکەوتنی ئاگادارییەکان هەستپێکرا';
+  String get notifications_delay_detected =>
+      'دواکەوتنی ئاگادارییەکان هەستپێکرا';
 
   @override
   String get open_setting => 'کردنەوەی رێکخستنەکان';
@@ -366,10 +385,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get jumua => 'هەینی';
 
   @override
-  String get qibla_sensor => 'هەستەوەرێک لە مۆبایلەکەتدا کارناکات کە مەواقیت پشتی پێ دەبەستێت بۆ دیاریکردنی ئاڕاستەی قیبلە، وە ئەمە کاریگەری دەبێ لەسەر دیاریکردنی ئاڕاستەی دروستی قیبلە.';
+  String get qibla_sensor =>
+      'هەستەوەرێک لە مۆبایلەکەتدا کارناکات کە مەواقیت پشتی پێ دەبەستێت بۆ دیاریکردنی ئاڕاستەی قیبلە، وە ئەمە کاریگەری دەبێ لەسەر دیاریکردنی ئاڕاستەی دروستی قیبلە.';
 
   @override
-  String get connection_not_found => 'گەیشتن بە رێکختەری هەستەوەری تایبەت بە دیاریکردنی ئاڕاستە ڕاگیراوە. دڵنیابەرەوە لەوەی پەیوەندییەکە ڕێگای پێدراوە و دواتر هەوڵ بدەرەوە بە گۆڕینی ئاڕاستە.';
+  String get connection_not_found =>
+      'گەیشتن بە رێکختەری هەستەوەری تایبەت بە دیاریکردنی ئاڕاستە ڕاگیراوە. دڵنیابەرەوە لەوەی پەیوەندییەکە ڕێگای پێدراوە و دواتر هەوڵ بدەرەوە بە گۆڕینی ئاڕاستە.';
 
   @override
   String get currently_located_at => 'ئێستا دەکەوێتە';
@@ -384,13 +405,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get qibla_Error_retry => 'هەوڵدانەوە';
 
   @override
-  String get qibla_Error_LocationDenied => 'گەیشتن بە هەستەوەر و خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە';
+  String get qibla_Error_LocationDenied =>
+      'گەیشتن بە هەستەوەر و خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە!';
+  String get qibla_Error_LocationDeniedForever =>
+      'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە!';
 
   @override
-  String get qibla_Error_PleaseEnable => 'تکایە خزمەتگوزاری دیاریکردنی جێگا کارا بکە';
+  String get qibla_Error_PleaseEnable =>
+      'تکایە خزمەتگوزاری دیاریکردنی جێگا کارا بکە';
 
   @override
   String get qibla_Direction => 'ئاڕاستەی \nقیبلە';
@@ -465,7 +489,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get mosques_Facilities_IftarRamadan => 'بەربانگی ڕەمەزان';
 
   @override
-  String get mosque_facilities_Info => 'سەرجەم ئەم زانیارییانە لەلایەن کەسانی سەرپەرشتیاری مزگەوتەوە پڕ دەکرێنەوە';
+  String get mosque_facilities_Info =>
+      'سەرجەم ئەم زانیارییانە لەلایەن کەسانی سەرپەرشتیاری مزگەوتەوە پڕ دەکرێنەوە';
 
   @override
   String get in_ => 'لە';
@@ -483,7 +508,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get jumua2 => 'هەینی 2';
 
   @override
-  String get please_update => 'وەشانێکی نوێی مەواقیت بەردەستە، تکایە نوێی بکەرەوە';
+  String get please_update =>
+      'وەشانێکی نوێی مەواقیت بەردەستە، تکایە نوێی بکەرەوە';
 
   @override
   String get update => 'نوێکردنەوە';
@@ -498,25 +524,29 @@ class AppLocalizationsKu extends AppLocalizations {
   String get tutorial_title_main_mosque => 'مزگەوتی سەرەکی تۆ';
 
   @override
-  String get tutorial_text_main_mosque => 'مزگەوتی سەرەکی لێرەدا دەردەکەوێت.\nدەتوانیت بەلادان بۆ ئاڕاستەی ڕاست و چەپ مزگەوتە دڵخوازەکانت بگۆڕیت.';
+  String get tutorial_text_main_mosque =>
+      'مزگەوتی سەرەکی لێرەدا دەردەکەوێت.\nدەتوانیت بەلادان بۆ ئاڕاستەی ڕاست و چەپ مزگەوتە دڵخوازەکانت بگۆڕیت.';
 
   @override
   String get tutorial_title_countdown => 'نیشانەی نوێژی دواتر';
 
   @override
-  String get tutorial_text_countdown => 'ئەم کاتە کاتی ماوە بۆ نوێژی دواتر نیشان دەدات.';
+  String get tutorial_text_countdown =>
+      'ئەم کاتە کاتی ماوە بۆ نوێژی دواتر نیشان دەدات.';
 
   @override
   String get tutorial_title_mosque_info => 'زانیارییەکانی مزگەوت';
 
   @override
-  String get tutorial_text_mosque_info => 'هەمووشتێک دەربارەی مزگەوتەکەت: تەوالێت، ناونیشان، مۆبایل، بەخشین و هتد.';
+  String get tutorial_text_mosque_info =>
+      'هەمووشتێک دەربارەی مزگەوتەکەت: تەوالێت، ناونیشان، مۆبایل، بەخشین و هتد.';
 
   @override
   String get tutorial_title_announcements => 'ڕێنمایی و ئاگادارییەکانی مزگەوت';
 
   @override
-  String get tutorial_text_announcements => 'ئاگادارکردنەوەکان سەبارەت بە نامە و ڕاگەیاندنەکان لە مزگەوتەکەتەوە لێرە دەردەکەون.\nکاتێک کلیک لەسەر ئەم دوگمەیە دەکەیت، وردەکاری تەواو دەبینیت. ئەم ڕاگەیاندنانە دەتوانن پەیامی فلاش، وێنە، یان تەنانەت ڤیدیۆش بن.';
+  String get tutorial_text_announcements =>
+      'ئاگادارکردنەوەکان سەبارەت بە نامە و ڕاگەیاندنەکان لە مزگەوتەکەتەوە لێرە دەردەکەون.\nکاتێک کلیک لەسەر ئەم دوگمەیە دەکەیت، وردەکاری تەواو دەبینیت. ئەم ڕاگەیاندنانە دەتوانن پەیامی فلاش، وێنە، یان تەنانەت ڤیدیۆش بن.';
 
   @override
   String get onboarding_title_1 => 'زمانەکەت هەڵبژێرە';
@@ -528,19 +558,22 @@ class AppLocalizationsKu extends AppLocalizations {
   String get onboarding_title_2 => 'بەخێربێیت بۆ مەواقیت';
 
   @override
-  String get onboarding_text_2 => 'مەواقیت ئیکۆسیستەمێکە کە ڕێگەیەکی نوێت پێشکەش دەکات بۆ بەدواداچوون و بەڕێوەبردنی کاتەکانی نوێژ، ئەو ئەپلیکەیشنەی لە دەستتدایە بەشێکە لەم ئیکۆسیستەمە، ڕێگەت پێدەدات مزگەوتەکان بدۆزیتەوە و بەدواداچوون بۆ هەواڵ و کاتەکانی نوێژەکەی بکەیت';
+  String get onboarding_text_2 =>
+      'مەواقیت ئیکۆسیستەمێکە کە ڕێگەیەکی نوێت پێشکەش دەکات بۆ بەدواداچوون و بەڕێوەبردنی کاتەکانی نوێژ، ئەو ئەپلیکەیشنەی لە دەستتدایە بەشێکە لەم ئیکۆسیستەمە، ڕێگەت پێدەدات مزگەوتەکان بدۆزیتەوە و بەدواداچوون بۆ هەواڵ و کاتەکانی نوێژەکەی بکەیت';
 
   @override
   String get onboarding_title_3 => 'ڕووکاری تاریک/ڕووناک هەڵبژێرە';
 
   @override
-  String get onboarding_text_3 => 'جا لە ژینگەیەکی کەم ڕووناکیدا بیت یان ڕەنگی پاشبنەمای تۆختر لە مۆبایلەکەتدا، دەتوانیت سوود لە دۆخی تاریک وەربگریت بۆ باشترکردنی ئاسوودەیی بینین';
+  String get onboarding_text_3 =>
+      'جا لە ژینگەیەکی کەم ڕووناکیدا بیت یان ڕەنگی پاشبنەمای تۆختر لە مۆبایلەکەتدا، دەتوانیت سوود لە دۆخی تاریک وەربگریت بۆ باشترکردنی ئاسوودەیی بینین';
 
   @override
   String get onboarding_title_4 => 'مزگەوتی سەرەکیت زیاد بکە';
 
   @override
-  String get onboarding_text_4 => 'تکایە لەم لیستەی خوارەوە مزگەوتی سەرەکی خۆت هەڵبژێرە یان بەدوای مزگەوتێکدا بگەڕێ لە نزیک شوێنی ئێستات';
+  String get onboarding_text_4 =>
+      'تکایە لەم لیستەی خوارەوە مزگەوتی سەرەکی خۆت هەڵبژێرە یان بەدوای مزگەوتێکدا بگەڕێ لە نزیک شوێنی ئێستات';
 
   @override
   String get loading => 'کردنەوە';
@@ -561,7 +594,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get show_tutorial => 'ڕێنماییەکان هەڵبسەنگێنە';
 
   @override
-  String get onboarding_chose_mosque_please => 'تکایە مزگەوتێک لە لیستی گەڕاندا هەڵبژێرە';
+  String get onboarding_chose_mosque_please =>
+      'تکایە مزگەوتێک لە لیستی گەڕاندا هەڵبژێرە';
 
   @override
   String get done => 'تەواو';
@@ -576,22 +610,27 @@ class AppLocalizationsKu extends AppLocalizations {
   String get notification_open_app_title => 'کردنەوەی بەرنامە';
 
   @override
-  String get notification_open_app_body => 'تکایە ئەپەکە بکەرەوە بۆ گۆڕانکاری و دەستکاری ئاگادارکردنەوەکان';
+  String get notification_open_app_body =>
+      'تکایە ئەپەکە بکەرەوە بۆ گۆڕانکاری و دەستکاری ئاگادارکردنەوەکان';
 
   @override
-  String get tutorial_title_notification => 'ئاگادارکردنەوەیەکی کاتێکی نوێژ هەڵبژێرە';
+  String get tutorial_title_notification =>
+      'ئاگادارکردنەوەیەکی کاتێکی نوێژ هەڵبژێرە';
 
   @override
-  String get tutorial_text_notification => 'لێرەدا دەتوانیت جۆرێک لە ئاگادارکردنەوە هەڵبژێریت، بانگ، بیپ یان بێدەنگ';
+  String get tutorial_text_notification =>
+      'لێرەدا دەتوانیت جۆرێک لە ئاگادارکردنەوە هەڵبژێریت، بانگ، بیپ یان بێدەنگ';
 
   @override
-  String get search_no_result => 'ببە بە نوێنەری مەواقیت لای خۆتەوە و چارەسەرەکەمان پێشکەش بە مزگەوتەکەت بکە، بەخۆڕاییە\nhttps://mawaqit.net';
+  String get search_no_result =>
+      'ببە بە نوێنەری مەواقیت لای خۆتەوە و چارەسەرەکەمان پێشکەش بە مزگەوتەکەت بکە، بەخۆڕاییە\nhttps://mawaqit.net';
 
   @override
   String get rate_popin_title => 'هەڵسەنگاندنی مەواقیت';
 
   @override
-  String get rate_popin_message => 'ئەگەر ئەم بەرنامەیەت بەدڵە، تکایە کەمێک لەکاتی خۆتمان پێ بدە و هەڵمان بسەنگێنە!\nئەمە زۆر هاوکارمان دەبێت.';
+  String get rate_popin_message =>
+      'ئەگەر ئەم بەرنامەیەت بەدڵە، تکایە کەمێک لەکاتی خۆتمان پێ بدە و هەڵمان بسەنگێنە!\nئەمە زۆر هاوکارمان دەبێت.';
 
   @override
   String get rate_popin_rate => 'هەڵسەنگاندن';
@@ -603,7 +642,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get rate_popin_later => 'لەوانەیە دواتر';
 
   @override
-  String get message_see_all => 'دەتوانیت سەرجەم ئاگادارییەکانی مزگەوتەکەت ببینیت بە کلیک کردن لە هێمای مکەبەرە لە سەرەوەی شاشەکەت.';
+  String get message_see_all =>
+      'دەتوانیت سەرجەم ئاگادارییەکانی مزگەوتەکەت ببینیت بە کلیک کردن لە هێمای مکەبەرە لە سەرەوەی شاشەکەت.';
 
   @override
   String get adhan_Makkah => 'مەککە';
@@ -612,28 +652,34 @@ class AppLocalizationsKu extends AppLocalizations {
   String get tutorial_title_iqama => 'قامەت';
 
   @override
-  String get tutorial_text_iqama => 'لێرە ماوەی نێوان بانگ و قامەت لە مزگەوتەکە دەدۆزیتەوە';
+  String get tutorial_text_iqama =>
+      'لێرە ماوەی نێوان بانگ و قامەت لە مزگەوتەکە دەدۆزیتەوە';
 
   @override
   String get calendar_tooltip_download => 'داگرتنی خشتە';
 
   @override
-  String get calendar_download_permission_refused => 'ڕێگەپێدان بۆ داگرتن ڕاگیراوە، تکایە ڕێگە بە داگرتن بدە';
+  String get calendar_download_permission_refused =>
+      'ڕێگەپێدان بۆ داگرتن ڕاگیراوە، تکایە ڕێگە بە داگرتن بدە';
 
   @override
   String get calendar_downloading => 'داگرتنی خشتە...';
 
   @override
-  String get location_service_disabled => 'خزمەتگوزاری دیاریکردنی جێگا لەکارخراوە، تکایە کارای بکە.';
+  String get location_service_disabled =>
+      'خزمەتگوزاری دیاریکردنی جێگا لەکارخراوە، تکایە کارای بکە.';
 
   @override
-  String get location_permission_denied => 'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە، تکایە ڕیگا بدە.';
+  String get location_permission_denied =>
+      'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە، تکایە ڕیگا بدە.';
 
   @override
-  String get location_permission_denied_forever => 'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە، تکایە لە پەڕەی ڕێکخستەکاندا رێگای پێ بدە.';
+  String get location_permission_denied_forever =>
+      'گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا بۆ هەمیشە ڕاگیراوە، تکایە لە پەڕەی ڕێکخستەکاندا رێگای پێ بدە.';
 
   @override
-  String get at_least_one_mosque_error => 'پێویستە بەلایەنی کەمەوە یەک مزگەوتت هەبێت.';
+  String get at_least_one_mosque_error =>
+      'پێویستە بەلایەنی کەمەوە یەک مزگەوتت هەبێت.';
 
   @override
   String get and => 'وە';
@@ -651,7 +697,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get on_boarding_nearest_mosque => 'با نزیکترین مزگەوت بدۆزینەوە';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'نزیکترین مزگەوتەکان لە جێگای دیاریکراوتەوە ئەمانەن';
+  String get on_boarding_nearest_mosque_text =>
+      'نزیکترین مزگەوتەکان لە جێگای دیاریکراوتەوە ئەمانەن';
 
   @override
   String get search_no_result_for_text => 'ئێمە هیچ ئەنجامێکمان نەدۆزیەوە بۆ';
@@ -783,10 +830,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get search_surah => 'گەڕان بۆ سورەت';
 
   @override
-  String get not_downloaded_recitation => 'هیچ قورئانخوێنێک دانەگیراوە تا ئێستا.';
+  String get not_downloaded_recitation =>
+      'هیچ قورئانخوێنێک دانەگیراوە تا ئێستا.';
 
   @override
-  String get not_favorite_reciter => 'هیچ قورئانخوێنێکت بە دڵخواز دیاری نەکردووە تا ئێستا.';
+  String get not_favorite_reciter =>
+      'هیچ قورئانخوێنێکت بە دڵخواز دیاری نەکردووە تا ئێستا.';
 
   @override
   String get search_reciter => 'گەڕان بۆ قورئانخوێن';
@@ -801,7 +850,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get chapters => 'بەشەکان';
 
   @override
-  String get calculation_info => 'ڕێکخستنەکانی ئەم بەشە تەنها پەیوەندییان بەو کاتانەی نوێژەوە هەیە کە لە شوێنی جیۆلۆکی تۆوە حیسابی بۆ دەکرێت، و پەیوەندی بە کاتی نوێژی مزگەوتەکانەوە نییە.';
+  String get calculation_info =>
+      'ڕێکخستنەکانی ئەم بەشە تەنها پەیوەندییان بەو کاتانەی نوێژەوە هەیە کە لە شوێنی جیۆلۆکی تۆوە حیسابی بۆ دەکرێت، و پەیوەندی بە کاتی نوێژی مزگەوتەکانەوە نییە.';
 
   @override
   String get calculation_madhab => 'مەزهەبی فیقهی';
@@ -810,13 +860,15 @@ class AppLocalizationsKu extends AppLocalizations {
   String get calculation_madhab_shafii => 'شافیعی، حەنبلی، وە مالیكي';
 
   @override
-  String get calculation_madhab_shafii_countries => 'ئەردەن، فەلەسطین، یەمەن، سۆماڵ، ئیريتريا، ماليزيا، ئیندونيسيا، برۆناي، باشوری میسر، شانشینی عەرەبی سعودی، قەتەر، باکوری ئەفريقيا، ڕۆژئاوای ئەفريقيا، ئیمارات، کوەیت...';
+  String get calculation_madhab_shafii_countries =>
+      'ئەردەن، فەلەسطین، یەمەن، سۆماڵ، ئیريتريا، ماليزيا، ئیندونيسيا، برۆناي، باشوری میسر، شانشینی عەرەبی سعودی، قەتەر، باکوری ئەفريقيا، ڕۆژئاوای ئەفريقيا، ئیمارات، کوەیت...';
 
   @override
   String get calculation_madhab_hanafi => 'حەنەفی';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'ڕۆژهەڵات، پاكستان، ئەفغانستان، هیند، بەنگلاديش، عێراق، توركيا، ڕوسيا، سين، بولکان...';
+  String get calculation_madhab_hanafi_countries =>
+      'ڕۆژهەڵات، پاكستان، ئەفغانستان، هیند، بەنگلاديش، عێراق، توركيا، ڕوسيا، سين، بولکان...';
 
   @override
   String get calculation_methods => 'شێوازەکانی هەژمارکردن';
@@ -825,10 +877,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get calculation_methods_france => 'موسوڵمانانی فەڕەنسا';
 
   @override
-  String get calculation_methods_algeria => 'وەزارەتی کاروباری دینی و ئەوقاف لە جەزائیر';
+  String get calculation_methods_algeria =>
+      'وەزارەتی کاروباری دینی و ئەوقاف لە جەزائیر';
 
   @override
-  String get calculation_methods_morocco => 'وەزارەتی ئەوقاف و کاروباری ئیسلامی مەغریب';
+  String get calculation_methods_morocco =>
+      'وەزارەتی ئەوقاف و کاروباری ئیسلامی مەغریب';
 
   @override
   String get calculation_methods_muslim_world => 'ڕێکخراوی ئیسلامی جیهانی';
@@ -837,7 +891,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get calculation_methods_egyptian => 'وەزارەتی ڕووپێوی گشتی لە میسر';
 
   @override
-  String get calculation_methods_karachi => 'زانکۆی زانستە ئیسلامییەکان لە کراتشی';
+  String get calculation_methods_karachi =>
+      'زانکۆی زانستە ئیسلامییەکان لە کراتشی';
 
   @override
   String get calculation_methods_umm_al_qura => 'زانکۆی ئوم ئەلقورا لە مەککە';
@@ -849,7 +904,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get calculation_methods_moon => 'لیژنەی بینینی مانگ';
 
   @override
-  String get calculation_methods_north_america => 'زانکۆی ئیسلامی لە ئەمریکای باکور';
+  String get calculation_methods_north_america =>
+      'زانکۆی ئیسلامی لە ئەمریکای باکور';
 
   @override
   String get calculation_methods_kuwait => 'کوەیت';
@@ -867,7 +923,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get calculation_methods_tehran => 'کۆلێژی جوگرافیا، زانکۆی تاران';
 
   @override
-  String get calculation_methods_russia => 'ڕێکخراوەیی ڕۆحیی موسوڵمانان لە ڕوسیا';
+  String get calculation_methods_russia =>
+      'ڕێکخراوەیی ڕۆحیی موسوڵمانان لە ڕوسیا';
 
   @override
   String get calculation_methods_custom => 'گۆشەی تایبەت';
@@ -885,13 +942,15 @@ class AppLocalizationsKu extends AppLocalizations {
   String get calculation_high_latitude_one_seventh => 'سێ یەکی شەو';
 
   @override
-  String get calculation_high_latitude_angle_based => 'هەژمارکردن بە گۆشەی تایبەت';
+  String get calculation_high_latitude_angle_based =>
+      'هەژمارکردن بە گۆشەی تایبەت';
 
   @override
   String get calculation_adjustment => 'ڕاستکردنەوەی دەستیی';
 
   @override
-  String get calculation_adjustment_subtitle => 'گۆڕانکاری کاتەکان و گۆشەی تایبەت';
+  String get calculation_adjustment_subtitle =>
+      'گۆڕانکاری کاتەکان و گۆشەی تایبەت';
 
   @override
   String get calculation_adjustment_prayers => 'گۆڕانکاری کاتەکانی بانگ';
@@ -921,19 +980,24 @@ class AppLocalizationsKu extends AppLocalizations {
   String get download_quran_popup_title => 'کۆتا گرتەکان';
 
   @override
-  String get download_quran_popup_downloading_1 => 'پێویستە لاپەڕەکانی قورئان دابەزێنین، تەنها چەند چرکەیەکی دەوێت. ئێمە ئینتەرنێتی داتای مۆبایلەکەت بەکاردەهێنین، ئەگەر پێویست بوو بگۆڕین بۆ وای فای.';
+  String get download_quran_popup_downloading_1 =>
+      'پێویستە لاپەڕەکانی قورئان دابەزێنین، تەنها چەند چرکەیەکی دەوێت. ئێمە ئینتەرنێتی داتای مۆبایلەکەت بەکاردەهێنین، ئەگەر پێویست بوو بگۆڕین بۆ وای فای.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'ئێمە قورئان ئامادە دەکەین تەنها بۆ ئێوە، تکایە چەند چرکەیەک چاوەڕوان بن!';
+  String get download_quran_popup_downloading_2 =>
+      'ئێمە قورئان ئامادە دەکەین تەنها بۆ ئێوە، تکایە چەند چرکەیەک چاوەڕوان بن!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
+  String get download_quran_popup_downloading_3 =>
+      'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'دڵنیای کە دەتەوێت دابەزاندنەکە هەڵبوەشێنیتەوە؟ بەبێ ئەم داتایە ناتوانیت قورئان بخوێنیتەوە، لاپەڕەکان بەردەست نابن.';
+  String get download_quran_popup_confirm_cancel =>
+      'دڵنیای کە دەتەوێت دابەزاندنەکە هەڵبوەشێنیتەوە؟ بەبێ ئەم داتایە ناتوانیت قورئان بخوێنیتەوە، لاپەڕەکان بەردەست نابن.';
 
   @override
-  String get download_quran_popup_cancelled => 'شتێک بە هەڵەدا چووە، تکایە دووبارە دوگمەی دابەزاندنەکە لێبدە!';
+  String get download_quran_popup_cancelled =>
+      'شتێک بە هەڵەدا چووە، تکایە دووبارە دوگمەی دابەزاندنەکە لێبدە!';
 
   @override
   String get download => 'داگرتن';
@@ -957,13 +1021,15 @@ class AppLocalizationsKu extends AppLocalizations {
   String get notification => 'ئاگاداری';
 
   @override
-  String get notification_not_supported_below_7 => 'تۆ ناتوانیت بانگ یاخود کاتەکانی بانگ یاخود ئاگادارییەکان بەدەستت بگات ئەگەر مۆبایلەکەت ئەندرۆید ٧ یاخود کەمتر بەکاربهێنێت.';
+  String get notification_not_supported_below_7 =>
+      'تۆ ناتوانیت بانگ یاخود کاتەکانی بانگ یاخود ئاگادارییەکان بەدەستت بگات ئەگەر مۆبایلەکەت ئەندرۆید ٧ یاخود کەمتر بەکاربهێنێت.';
 
   @override
   String get battery_optimization => 'باشترکردنی پاتری';
 
   @override
-  String get battery_optimization_subtitle => 'بۆ بەدەستگەیشتنی کاتەکانی بانگ بە دروستی، تکایە بەشی باشترکردنی پاتری بۆ بەرنامەی مەواقیت بگوژێنەوە.';
+  String get battery_optimization_subtitle =>
+      'بۆ بەدەستگەیشتنی کاتەکانی بانگ بە دروستی، تکایە بەشی باشترکردنی پاتری بۆ بەرنامەی مەواقیت بگوژێنەوە.';
 
   @override
   String get allow => 'ڕێگەپێدان';
@@ -975,7 +1041,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get force_notification => 'فەرزکردنی ئاگادارییەکان';
 
   @override
-  String get tutorial_text_foreground_service => 'کلیک کردن لەسەری ڕێگەت پێدەدات \'خزمەتگوزاری پێشەوە\' دابگیرسێنیت یان بیکوژێنیتەوە';
+  String get tutorial_text_foreground_service =>
+      'کلیک کردن لەسەری ڕێگەت پێدەدات \'خزمەتگوزاری پێشەوە\' دابگیرسێنیت یان بیکوژێنیتەوە';
 
   @override
   String get enable => 'کارا';
@@ -987,22 +1054,27 @@ class AppLocalizationsKu extends AppLocalizations {
   String get do_not_show_again => 'دووبارە ئەمە نیشان مەدەوە';
 
   @override
-  String get force_notification_title => 'مەواقیت چالاکە بۆ دڵنیابوون لە دەستپێکردنی ئاگادارکردنەوەکانی بانگ و نوێژ لە کاتی دروستدا.';
+  String get force_notification_title =>
+      'مەواقیت چالاکە بۆ دڵنیابوون لە دەستپێکردنی ئاگادارکردنەوەکانی بانگ و نوێژ لە کاتی دروستدا.';
 
   @override
-  String get force_notification_body => 'بەڕاستی نوێژ لەسەر ئیمانداران لە کاتە دیاریکراوەکاندا فەرز کراوە. نیساء (103)';
+  String get force_notification_body =>
+      'بەڕاستی نوێژ لەسەر ئیمانداران لە کاتە دیاریکراوەکاندا فەرز کراوە. نیساء (103)';
 
   @override
-  String get force_notification_dialog1_body => 'بە چالاککردنی ئەم هەڵبژاردنە، بەرنامەکە چالاک دەمێنێتەوە بۆ دڵنیابوون لە دەستپێکردنی ئاگادارکردنەوەکانی نوێژ لە کاتی دروستدا بەبێ دواکەوتن. بەرنامەی MAWAQIT تەنها بۆ ئەو مەبەستە چالاک دەبێت، و دەتوانیت ئەو هەڵبژاردنە لە هەر کاتێکدا لە ڕێکخستنەکانەوە بکوژێنیتەوە.';
+  String get force_notification_dialog1_body =>
+      'بە چالاککردنی ئەم هەڵبژاردنە، بەرنامەکە چالاک دەمێنێتەوە بۆ دڵنیابوون لە دەستپێکردنی ئاگادارکردنەوەکانی نوێژ لە کاتی دروستدا بەبێ دواکەوتن. بەرنامەی MAWAQIT تەنها بۆ ئەو مەبەستە چالاک دەبێت، و دەتوانیت ئەو هەڵبژاردنە لە هەر کاتێکدا لە ڕێکخستنەکانەوە بکوژێنیتەوە.';
 
   @override
-  String get force_notification_dialog2_body => 'دوای چالاککردنی \'Force Notifications\' پەنجە بخەرە خوارەوە لە لیستی ئاگادارکردنەوەکەدا ئەم ئاگادارکردنەوە لەوێ دەبینیت';
+  String get force_notification_dialog2_body =>
+      'دوای چالاککردنی \'Force Notifications\' پەنجە بخەرە خوارەوە لە لیستی ئاگادارکردنەوەکەدا ئەم ئاگادارکردنەوە لەوێ دەبینیت';
 
   @override
   String get notification_debugging => 'ڕاستکردنەوەی ئاگادارییەکان';
 
   @override
-  String get notification_debugging_details => 'چاککردنەوەی ئاگادارکردنەوە چالاک کراوە. ئەگەر ڕێکخستنەکانی ئاگادارکردنەوەکە بگۆڕیت، داتاکانی هەڵەکردن لەدەست دەچێت، و چاککردنەوە لەکاردەخرێت.';
+  String get notification_debugging_details =>
+      'چاککردنەوەی ئاگادارکردنەوە چالاک کراوە. ئەگەر ڕێکخستنەکانی ئاگادارکردنەوەکە بگۆڕیت، داتاکانی هەڵەکردن لەدەست دەچێت، و چاککردنەوە لەکاردەخرێت.';
 
   @override
   String get skip => 'تێپەڕاندن';
@@ -1026,7 +1098,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get delay_notification => 'دواخستنی ئاگادارییەکان';
 
   @override
-  String get notification_delay_debugging_is => 'ڕاستکردنەوەی ئاگادارییە دواکەوتووەکان';
+  String get notification_delay_debugging_is =>
+      'ڕاستکردنەوەی ئاگادارییە دواکەوتووەکان';
 
   @override
   String get banner_enable => 'بانەر چالاک بکە';
@@ -1041,19 +1114,23 @@ class AppLocalizationsKu extends AppLocalizations {
   String get auto_detect_location => 'پێشنیاری نزیکترین مزگەوت';
 
   @override
-  String get auto_detect_explanation => 'کاتێک لە مزگەوتەکەت دوور بوویت، ئەپەکە بە شێوەیەکی ئۆتۆماتیکی پێشنیاری گەڕان بەدوای نزیکترین مزگەوتدا دەکات بە پشتبەستن بە شوێنەکەت.';
+  String get auto_detect_explanation =>
+      'کاتێک لە مزگەوتەکەت دوور بوویت، ئەپەکە بە شێوەیەکی ئۆتۆماتیکی پێشنیاری گەڕان بەدوای نزیکترین مزگەوتدا دەکات بە پشتبەستن بە شوێنەکەت.';
 
   @override
-  String get auto_detect_location_title => 'دیارە تۆ دوریت لە مزگەوتەکەی خۆتەوە';
+  String get auto_detect_location_title =>
+      'دیارە تۆ دوریت لە مزگەوتەکەی خۆتەوە';
 
   @override
-  String get auto_detect_location_message => 'دەتەوێت بگەڕێیت بۆ نزیکترین مزگەوت بۆ بەدەستهێنانی کاتی دروستی بانگ؟';
+  String get auto_detect_location_message =>
+      'دەتەوێت بگەڕێیت بۆ نزیکترین مزگەوت بۆ بەدەستهێنانی کاتی دروستی بانگ؟';
 
   @override
   String get donation_success_toast => 'بەخشین سەرکەوتوو بوو';
 
   @override
-  String get donation_success => 'سوپاس بۆ بەخشینەکەت. خودا پاداشتی خێرتان بداتەوە';
+  String get donation_success =>
+      'سوپاس بۆ بەخشینەکەت. خودا پاداشتی خێرتان بداتەوە';
 
   @override
   String get donation_failed => 'بەخشین هەڵوەشایەوە';
@@ -1071,7 +1148,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get google_pay_not_available => 'گووگل پلەی بۆ ئەم ئامێڕە بەردەست نیە';
 
   @override
-  String get error_performing_donation => 'کێشەیەک ڕوویدا لەکاتی هەوڵدان بۆ ئەنجامدانی بەخشین';
+  String get error_performing_donation =>
+      'کێشەیەک ڕوویدا لەکاتی هەوڵدان بۆ ئەنجامدانی بەخشین';
 
   @override
   String get recurring_pay_text => 'بەخشین مانگانە ئەنجام بدە.';
@@ -1101,7 +1179,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get system => 'سیستەم';
 
   @override
-  String get change_mosque_order => 'ڕاکێشان و دابەزاندنی مزگەوتەکان بۆ گۆڕینی ڕێکخستن و دانانی مزگەوتی سەرەکی';
+  String get change_mosque_order =>
+      'ڕاکێشان و دابەزاندنی مزگەوتەکان بۆ گۆڕینی ڕێکخستن و دانانی مزگەوتی سەرەکی';
 
   @override
   String get remove => 'سڕینەوە';
@@ -1209,13 +1288,15 @@ class AppLocalizationsKu extends AppLocalizations {
   String get downloading => 'داگرتن';
 
   @override
-  String get cant_download_more_than_3 => 'ناتوانیت لەیەک کاتدا زیاتر لە 3 دانە دابگریت.';
+  String get cant_download_more_than_3 =>
+      'ناتوانیت لەیەک کاتدا زیاتر لە 3 دانە دابگریت.';
 
   @override
   String get boost => 'بەهێزکردن';
 
   @override
-  String get recitation_deleted_successfully => 'قورئانخوێن بەسەرکەوتوویی لابرا';
+  String get recitation_deleted_successfully =>
+      'قورئانخوێن بەسەرکەوتوویی لابرا';
 
   @override
   String get quran => 'قورئان';
@@ -1233,13 +1314,15 @@ class AppLocalizationsKu extends AppLocalizations {
   String get download_cancelled => 'داگرتن ڕاگیرا';
 
   @override
-  String get no_virtual_mosque_found => 'ببورە، هیچ مزگەوتێکمان لە نزیکتەوە نەدۆزییەوە';
+  String get no_virtual_mosque_found =>
+      'ببورە، هیچ مزگەوتێکمان لە نزیکتەوە نەدۆزییەوە';
 
   @override
   String get no_surah_found => 'هیچ سورەتێک نەدۆزرایەوە';
 
   @override
-  String get no_favorite_recitor_found => 'هیچ قورئانخوێنێکی دڵخواز نەدۆزرایەوە';
+  String get no_favorite_recitor_found =>
+      'هیچ قورئانخوێنێکی دڵخواز نەدۆزرایەوە';
 
   @override
   String get no_recitator_found => 'هیچ قورئانخوێنێک نەدۆزرایەوە';
@@ -1248,7 +1331,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get empty_quran_search => 'ئەنجامەکانی گەڕان لێرە نیشان دەدرێت';
 
   @override
-  String get no_bookmark_ayah => 'هیچ دڵخوازێک نیە. تکایە ماوەیەک پەنجە لەسەر ئەو ئایەتە بهێڵەوە کە دەتەوێت وەک دڵخواز دیاری بکەیت.';
+  String get no_bookmark_ayah =>
+      'هیچ دڵخوازێک نیە. تکایە ماوەیەک پەنجە لەسەر ئەو ئایەتە بهێڵەوە کە دەتەوێت وەک دڵخواز دیاری بکەیت.';
 
   @override
   String get page => 'پەڕە';
@@ -1257,19 +1341,24 @@ class AppLocalizationsKu extends AppLocalizations {
   String get prayer_times_in => 'کاتەکانی بانگ لە';
 
   @override
-  String get update_new_version => 'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
+  String get update_new_version =>
+      'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
 
   @override
-  String get update_quran_zip => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_quran_zip =>
+      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
 
   @override
-  String get update_latest_quran_version => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran_version =>
+      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
 
   @override
-  String get update_latest_quran => 'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+  String get update_latest_quran =>
+      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
 
   @override
-  String get set_notification_for_all_parayer => 'هەڵبژاردندنی ئەمە بۆ گشت نوێژەکان';
+  String get set_notification_for_all_parayer =>
+      'هەڵبژاردندنی ئەمە بۆ گشت نوێژەکان';
 
   @override
   String get powered_by_mawaqit => 'لەلایەن مەواقیتەوە';
@@ -1296,10 +1385,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get select_rewaya => 'ریوایەت هەڵبژێرە';
 
   @override
-  String get download_in_progress => 'داگرتن لە جێبەجێکردندایە، تکایە چاوەڕوانبە...';
+  String get download_in_progress =>
+      'داگرتن لە جێبەجێکردندایە، تکایە چاوەڕوانبە...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'نوێژی دواتر دیاری بکە پاش قامەت';
+  String get highlight_next_prayer_after_Iqama =>
+      'نوێژی دواتر دیاری بکە پاش قامەت';
 
   @override
   String get helmi_nasr => 'د. حلمی نصر';
@@ -1326,13 +1417,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get add_new_audio => 'Add a new audio file';
 
   @override
-  String get selecet_audio_before_delete => 'You need to add another audio file for notifications before deleting the selected audio file';
+  String get selecet_audio_before_delete =>
+      'You need to add another audio file for notifications before deleting the selected audio file';
 
   @override
-  String get addding_file_prompt => 'You can add multiple audio files, but please make sure not to add the same audio file.';
+  String get addding_file_prompt =>
+      'You can add multiple audio files, but please make sure not to add the same audio file.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+  String get ios_audio_file_picking_prompt =>
+      'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
 
   @override
   String get select_audio_from_device => 'Select audio (mp3) from device.';
@@ -1350,22 +1444,26 @@ class AppLocalizationsKu extends AppLocalizations {
   String get form => 'form';
 
   @override
-  String get updates_draw => 'Get updates and participate in the draw to win goodies from';
+  String get updates_draw =>
+      'Get updates and participate in the draw to win goodies from';
 
   @override
-  String get email_info => 'This email will be used to contact you if you win the draw';
+  String get email_info =>
+      'This email will be used to contact you if you win the draw';
 
   @override
   String get enter_email => 'Enter your email';
 
   @override
-  String get email_privacy => 'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+  String get email_privacy =>
+      'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
 
   @override
   String get submit => 'Submit';
 
   @override
-  String get disclaimer => 'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+  String get disclaimer =>
+      'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
 
   @override
   String get participating_with => 'You\'re participating with';
@@ -1389,7 +1487,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get no_projects => 'There are no projects';
 
   @override
-  String get draw_info => 'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+  String get draw_info =>
+      'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
 
   @override
   String get enter_valid_email => 'Enter a valid email';
@@ -1398,25 +1497,29 @@ class AppLocalizationsKu extends AppLocalizations {
   String get please_enter_email => 'Please enter an email';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+  String get select_device_audo_for_ios_propmpt =>
+      'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
 
   @override
   String get confirm_deletion => 'Confirm Deletion';
 
   @override
-  String get sure_remove_rewaya => 'Are you sure you want to remove this Rewaya?';
+  String get sure_remove_rewaya =>
+      'Are you sure you want to remove this Rewaya?';
 
   @override
   String get file_not_found => 'File not found';
 
   @override
-  String get notified_boost => 'Get notified about the latest updates on MAWAQIT Boost projects.';
+  String get notified_boost =>
+      'Get notified about the latest updates on MAWAQIT Boost projects.';
 
   @override
   String get contact_us_boost => 'To list your project here, contact us at';
 
   @override
-  String get prayer_times_set_by_mosque => 'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+  String get prayer_times_set_by_mosque =>
+      'Prayer times and all the information here are set by the mosque, not MAWAQIT';
 
   @override
   String get hasan_nahi => 'Hasan Nahi';
@@ -1431,10 +1534,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get delete_all_downloads => 'Delete All Downloads';
 
   @override
-  String get delete_recitations_message => 'Are you sure you want to delete all downloaded recitations?';
+  String get delete_recitations_message =>
+      'Are you sure you want to delete all downloaded recitations?';
 
   @override
-  String get downloaded_deleted_successfully => 'All downloaded recitations deleted successfully';
+  String get downloaded_deleted_successfully =>
+      'All downloaded recitations deleted successfully';
 
   @override
   String get failed_delete_recitations => 'Failed to delete all recitations';
@@ -1446,7 +1551,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get search_title => 'گەڕان بە بەکارهێنانی ناونیشان';
 
   @override
-  String get compass_calibration => 'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+  String get compass_calibration =>
+      'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
 
   @override
   String get compass_accuracy => 'Compass Accuracy';
@@ -1593,7 +1699,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get sahl_yassin_murattal => 'Sahl Yassin';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal => 'Salaah AbdulRahman Bukhatir';
+  String get salaah_abdulRahman_bukhatir_murattal =>
+      'Salaah AbdulRahman Bukhatir';
 
   @override
   String get salah_albudair_murattal => 'Salah AlBudair';
@@ -1653,13 +1760,16 @@ class AppLocalizationsKu extends AppLocalizations {
   String get verse_repeat => 'Verse Repeat';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
+  String get improved_Hafs_Rewaya_Force_Update =>
+      'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
 
   @override
-  String get mawaqit_three_sixty_description => 'See prayer times come to life with our new animated clock';
+  String get mawaqit_three_sixty_description =>
+      'See prayer times come to life with our new animated clock';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'While using 360 view you cannot off this setting';
+  String get hnpai_User_Guidance_MAWAQIT_360 =>
+      'While using 360 view you cannot off this setting';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
@@ -1693,4 +1803,10 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get settingFontSize => 'Font Size';
+
+  @override
+  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+
+  @override
+  String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
 }
