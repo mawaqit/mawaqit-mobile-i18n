@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa-AF",
+    "@@locale": "fa",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1124,10 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
-    "yassin_aljazairi": "یاسین الجزایری",
-    "mohammed_abdelkarim": "محمد عبدکریم",
-    "alayoun_elkouchi": "العیون الکوشی",
-    "abdelkarim_daghoush": "عبدالکریم داغوش",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Daghoush",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
@@ -1200,5 +1200,5 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin _muhammad": "شیخ امین‌الدین محمد"
+    "shaykh_aminuddin_muhammad": "شیخ امین‌الدین محمد"
 }
