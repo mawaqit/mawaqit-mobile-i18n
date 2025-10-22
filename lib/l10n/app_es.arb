@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1201,8 +1201,8 @@
         "description": "->last_Third_Of_The_Night\r\n-"
     },
     "shaykh_aminuddin_muhammad": "Jeque Aminuddin Muhammad",
-      "hafs_an_asim": "Hafs ʿan ʿĀṣim",
-      "most_widespread_riwayah": "La recitación más difundida en el mundo",
-      "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
-      "popular_across_north_west_africa": "Popular en el norte y oeste de África"
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "La recitación más difundida en el mundo",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Popular en el norte y oeste de África"
 }
