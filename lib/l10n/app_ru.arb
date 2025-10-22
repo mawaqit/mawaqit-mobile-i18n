@@ -1200,5 +1200,9 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Шейх Аминуддин Мухаммад"
+    "shaykh_aminuddin_muhammad": "Шейх Аминуддин Мухаммад",
+      "hafs_an_asim": "Хафс ан ‘Асим",
+      "most_widespread_riwayah": "Самое распространённое чтение в мире",
+      "warsh_an_nafi": "Уарш ан Нафи‘",
+      "popular_across_north_west_africa": "Популярно в Северной и Западной Африке"
 }

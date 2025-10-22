@@ -1200,5 +1200,13 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Šejh Eminuddin Muhammed"
+    "shaykh_aminuddin_muhammad": "Šejh Eminuddin Muhammed",
+      "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+      "most_widespread_riwayah": "Najraširenija rivaja u svijetu",
+      "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+      "popular_across_north_west_africa": "Popularna u sjevernoj i zapadnoj Africi",
+        "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+        "most_widespread_riwayah": "Die weltweit am weitesten verbreitete Rezitation",
+        "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+        "popular_across_north_west_africa": "Weit verbreitet in Nord- und Westafrika"
 }

@@ -1200,5 +1200,9 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "শেখ আমিনুদ্দিন মুহাম্মদ"
+    "shaykh_aminuddin_muhammad": "শেখ আমিনুদ্দিন মুহাম্মদ",
+      "hafs_an_asim": "হাফস আন আসিম",
+      "most_widespread_riwayah": "বিশ্বব্যাপী সর্বাধিক প্রচলিত রিওয়ায়াহ",
+      "warsh_an_nafi": "ওয়ারশ আন নাফি",
+      "popular_across_north_west_africa": "উত্তর ও পশ্চিম আফ্রিকা জুড়ে জনপ্রিয়"
 }
