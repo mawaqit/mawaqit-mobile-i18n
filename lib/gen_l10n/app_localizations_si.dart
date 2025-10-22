@@ -1807,4 +1807,18 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
+
+  @override
+  String get hafs_an_asim => 'හෆ්ස් අන් ආසිම්';
+
+  @override
+  String get most_widespread_riwayah =>
+      'ලෝකය පුරා විශාල වශයෙන් භාවිත වන රිවායාව';
+
+  @override
+  String get warsh_an_nafi => 'වර්ෂ් අන් නාෆි';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'උතුරු සහ බටහිර ආප්‍රිකාවේ ජනප්‍රිය';
 }

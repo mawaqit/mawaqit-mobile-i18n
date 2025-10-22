@@ -1,1 +1,8 @@
-{}
+{
+  "fr": [
+    "hafs_an_asim",
+    "most_widespread_riwayah",
+    "warsh_an_nafi",
+    "popular_across_north_west_africa"
+  ]
+}

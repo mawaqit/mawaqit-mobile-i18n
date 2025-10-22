@@ -1809,4 +1809,17 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
+
+  @override
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+
+  @override
+  String get most_widespread_riwayah => 'Riwāyahê herî berfireh li dinyayê';
+
+  @override
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'Bilez e Başûr û Rojavayê Afrîkaye';
 }

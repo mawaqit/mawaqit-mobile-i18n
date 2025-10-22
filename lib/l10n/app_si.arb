@@ -1200,5 +1200,9 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Shaykh Aminuddin Muhammad"
+    "shaykh_aminuddin_muhammad": "Shaykh Aminuddin Muhammad",
+      "hafs_an_asim": "හෆ්ස් අන් ආසිම්",
+      "most_widespread_riwayah": "ලෝකය පුරා විශාල වශයෙන් භාවිත වන රිවායාව",
+      "warsh_an_nafi": "වර්ෂ් අන් නාෆි",
+      "popular_across_north_west_africa": "උතුරු සහ බටහිර ආප්‍රිකාවේ ජනප්‍රිය"
 }

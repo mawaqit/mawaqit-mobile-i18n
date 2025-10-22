@@ -1807,4 +1807,18 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'ஷைக் அமீனுத்தீன் முஹம்மது';
+
+  @override
+  String get hafs_an_asim => 'ஹப்ஸ் அன ஆசிம்';
+
+  @override
+  String get most_widespread_riwayah =>
+      'உலகளவில் மிகவும் பரவலாகப் பயன்படும் ரிவாயா';
+
+  @override
+  String get warsh_an_nafi => 'வர்ஷ் அன நாஃபி';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'வடக்கு மற்றும் மேற்கு ஆப்பிரிக்காவில் பிரபலமானது';
 }

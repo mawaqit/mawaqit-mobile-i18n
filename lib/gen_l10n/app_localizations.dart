@@ -3545,6 +3545,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Shaykh Aminuddin Muhammad'**
   String get shaykh_aminuddin_muhammad;
+
+  /// No description provided for @hafs_an_asim.
+  ///
+  /// In en, this message translates to:
+  /// **'Hafs ʿan ʿĀṣim'**
+  String get hafs_an_asim;
+
+  /// No description provided for @most_widespread_riwayah.
+  ///
+  /// In en, this message translates to:
+  /// **'The most widespread riwāyah worldwide'**
+  String get most_widespread_riwayah;
+
+  /// No description provided for @warsh_an_nafi.
+  ///
+  /// In en, this message translates to:
+  /// **'Warsh ʿan Nāfiʿ'**
+  String get warsh_an_nafi;
+
+  /// No description provided for @popular_across_north_west_africa.
+  ///
+  /// In en, this message translates to:
+  /// **'Popular across North & West Africa'**
+  String get popular_across_north_west_africa;
 }
 
 class _AppLocalizationsDelegate

@@ -1807,4 +1807,17 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
+
+  @override
+  String get hafs_an_asim => 'حفص عن عاصم';
+
+  @override
+  String get most_widespread_riwayah => 'په نړۍ کې تر ټولو ډېره خپره شوې روايت';
+
+  @override
+  String get warsh_an_nafi => 'ورش عن نافع';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'په شمالي او لوېديځه افريقا کې مشهوره';
 }

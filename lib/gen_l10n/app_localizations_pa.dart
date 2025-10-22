@@ -1807,4 +1807,18 @@ class AppLocalizationsPa extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'شیخ امین الدین محمد';
+
+  @override
+  String get hafs_an_asim => 'ਹਫ਼ਸ ਅਨ ਆਸਿਮ';
+
+  @override
+  String get most_widespread_riwayah =>
+      'ਦੁਨੀਆ ਭਰ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਪ੍ਰਚਲਿਤ ਰਿਵਾਇਆ';
+
+  @override
+  String get warsh_an_nafi => 'ਵਰਸ਼ ਅਨ ਨਾਫੀ';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'ਉੱਤਰੀ ਅਤੇ ਪੱਛਮੀ ਅਫ਼ਰੀਕਾ ਵਿੱਚ ਲੋਕਪ੍ਰਿਯ';
 }

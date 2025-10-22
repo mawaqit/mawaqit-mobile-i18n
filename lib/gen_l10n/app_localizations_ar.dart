@@ -1784,4 +1784,16 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'الشيخ أمينُ الدِّينِ محمد';
+
+  @override
+  String get hafs_an_asim => 'حفص عن عاصم';
+
+  @override
+  String get most_widespread_riwayah => 'أكثر رواية انتشارًا في العالم';
+
+  @override
+  String get warsh_an_nafi => 'ورش عن نافع';
+
+  @override
+  String get popular_across_north_west_africa => 'شائعة في شمال وغرب أفريقيا';
 }

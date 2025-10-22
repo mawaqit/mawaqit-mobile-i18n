@@ -1200,5 +1200,9 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Şeyx Əminəddin Məhəmməd"
+    "shaykh_aminuddin_muhammad": "Şeyx Əminəddin Məhəmməd",
+      "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+      "most_widespread_riwayah": "Dünyada ən geniş yayılmış rəvayə",
+      "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+      "popular_across_north_west_africa": "Şimali və Qərbi Afrikada məşhurdur"
 }

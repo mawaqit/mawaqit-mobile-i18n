@@ -1200,5 +1200,9 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Shejh Aminudin Muhamed"
+    "shaykh_aminuddin_muhammad": "Shejh Aminudin Muhamed",
+      "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+      "most_widespread_riwayah": "Riwāya më e përhapur në botë",
+      "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+      "popular_across_north_west_africa": "E njohur në Afrikën Veriore dhe Perëndimore"
 }

@@ -1799,4 +1799,17 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Şeyh Eminüddin Muhammed';
+
+  @override
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+
+  @override
+  String get most_widespread_riwayah => 'Dünyada en yaygın kıraat';
+
+  @override
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'Kuzey ve Batı Afrika’da yaygındır';
 }
