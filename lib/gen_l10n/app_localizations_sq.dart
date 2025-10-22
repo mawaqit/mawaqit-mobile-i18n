@@ -1811,4 +1811,17 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Shejh Aminudin Muhamed';
+
+  @override
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+
+  @override
+  String get most_widespread_riwayah => 'Riwāya më e përhapur në botë';
+
+  @override
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'E njohur në Afrikën Veriore dhe Perëndimore';
 }

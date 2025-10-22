@@ -1806,4 +1806,16 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Seeku Aminuddin Muhammadu';
+
+  @override
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+
+  @override
+  String get most_widespread_riwayah => 'Riwaya nde ɓuri fow golle e aduna';
+
+  @override
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+
+  @override
+  String get popular_across_north_west_africa => 'Laɓɓi e Saare e Gine Afrik';
 }

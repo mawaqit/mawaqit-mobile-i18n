@@ -1807,4 +1807,18 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'শেখ আমিনুদ্দিন মুহাম্মদ';
+
+  @override
+  String get hafs_an_asim => 'হাফস আন আসিম';
+
+  @override
+  String get most_widespread_riwayah =>
+      'বিশ্বব্যাপী সর্বাধিক প্রচলিত রিওয়ায়াহ';
+
+  @override
+  String get warsh_an_nafi => 'ওয়ারশ আন নাফি';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'উত্তর ও পশ্চিম আফ্রিকা জুড়ে জনপ্রিয়';
 }

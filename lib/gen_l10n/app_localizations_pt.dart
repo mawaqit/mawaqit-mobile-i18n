@@ -1823,4 +1823,17 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Xeque Aminuddin Muhammad';
+
+  @override
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+
+  @override
+  String get most_widespread_riwayah => 'A recitação mais difundida no mundo';
+
+  @override
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'Popular no norte e oeste da África';
 }

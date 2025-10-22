@@ -1807,4 +1807,17 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Şeyx Əminəddin Məhəmməd';
+
+  @override
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+
+  @override
+  String get most_widespread_riwayah => 'Dünyada ən geniş yayılmış rəvayə';
+
+  @override
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'Şimali və Qərbi Afrikada məşhurdur';
 }

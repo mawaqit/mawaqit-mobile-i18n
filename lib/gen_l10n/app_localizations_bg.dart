@@ -1812,4 +1812,17 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Шейх Аминуддин Мухаммад';
+
+  @override
+  String get hafs_an_asim => 'Хафс ан Асим';
+
+  @override
+  String get most_widespread_riwayah => 'Най-разпространеното предание в света';
+
+  @override
+  String get warsh_an_nafi => 'Уарш ан Нафи';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'Популярно в Северна и Западна Африка';
 }

@@ -1811,4 +1811,17 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get shaykh_aminuddin_muhammad => 'Sejk Aminuddin Mohamed';
+
+  @override
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+
+  @override
+  String get most_widespread_riwayah => 'A világon legelterjedtebb riwāyah';
+
+  @override
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+
+  @override
+  String get popular_across_north_west_africa =>
+      'Népszerű Észak- és Nyugat-Afrikában';
 }
