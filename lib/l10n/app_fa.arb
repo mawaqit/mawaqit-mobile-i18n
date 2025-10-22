@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1124,10 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
-    "yassin_aljazairi": "Yassin Al-Jazairi",
-    "mohammed_abdelkarim": "Mohammed Abdelkarim",
-    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
-    "abdelkarim_daghoush": "Abdelkarim Daghoush",
+    "yassin_aljazairi": "یاسین الجزایری",
+    "mohammed_abdelkarim": "محمد عبدکریم",
+    "alayoun_elkouchi": "العیون الکوشی",
+    "abdelkarim_daghoush": "عبدالکریم داغوش",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
@@ -1201,8 +1201,8 @@
         "description": "->last_Third_Of_The_Night\r\n-"
     },
     "shaykh_aminuddin_muhammad": "شیخ امین‌الدین محمد",
-    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
-    "most_widespread_riwayah": "The most widespread riwāyah worldwide",
-    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
-    "popular_across_north_west_africa": "Popular across North & West Africa"
+    "hafs_an_asim": "حفص عن عاصم",
+    "most_widespread_riwayah": "رایج‌ترین قرائت در سراسر جهان",
+    "warsh_an_nafi": "ورش عن نافع",
+    "popular_across_north_west_africa": "محبوب در سراسر شمال و غرب آفریقا"
 }
