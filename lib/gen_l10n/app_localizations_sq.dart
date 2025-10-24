@@ -1824,4 +1824,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'E njohur në Afrikën Veriore dhe Perëndimore';
+
+  @override
+  String get select => 'Select';
 }

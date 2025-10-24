@@ -1812,4 +1812,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Kuzey ve Batı Afrika’da yaygındır';
+
+  @override
+  String get select => 'Select';
 }

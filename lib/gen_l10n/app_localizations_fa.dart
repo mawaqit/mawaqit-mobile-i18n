@@ -1818,4 +1818,7 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'محبوب در سراسر شمال و غرب آفریقا';
+
+  @override
+  String get select => 'Select';
 }

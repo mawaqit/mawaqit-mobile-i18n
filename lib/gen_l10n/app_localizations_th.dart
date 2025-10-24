@@ -1820,4 +1820,7 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'เป็นที่นิยมทั่วแอฟริกาเหนือและตะวันตก';
+
+  @override
+  String get select => 'Select';
 }

@@ -1822,4 +1822,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Популярно в Северной и Западной Африке';
+
+  @override
+  String get select => 'Выбрать';
 }

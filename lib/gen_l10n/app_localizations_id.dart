@@ -1822,4 +1822,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Populer di Afrika Utara dan Barat';
+
+  @override
+  String get select => 'Select';
 }

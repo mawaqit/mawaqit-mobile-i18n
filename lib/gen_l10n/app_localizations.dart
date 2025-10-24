@@ -3569,6 +3569,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Popular across North & West Africa'**
   String get popular_across_north_west_africa;
+
+  /// No description provided for @select.
+  ///
+  /// In en, this message translates to:
+  /// **'Select'**
+  String get select;
 }
 
 class _AppLocalizationsDelegate

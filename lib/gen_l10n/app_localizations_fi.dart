@@ -1821,4 +1821,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Suosittu Pohjois- ja Länsi-Afrikassa';
+
+  @override
+  String get select => 'Valitse';
 }
