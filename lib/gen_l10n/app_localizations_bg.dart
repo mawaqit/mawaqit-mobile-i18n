@@ -1825,4 +1825,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Популярно в Северна и Западна Африка';
+
+  @override
+  String get select => 'Select';
 }

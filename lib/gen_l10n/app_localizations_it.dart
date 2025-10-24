@@ -1833,4 +1833,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Popolare nel Nord e nell’Ovest dell’Africa';
+
+  @override
+  String get select => 'Seleziona';
 }

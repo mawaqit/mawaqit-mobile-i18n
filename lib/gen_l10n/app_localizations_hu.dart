@@ -1824,4 +1824,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Népszerű Észak- és Nyugat-Afrikában';
+
+  @override
+  String get select => 'Select';
 }

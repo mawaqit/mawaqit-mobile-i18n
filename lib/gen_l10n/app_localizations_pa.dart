@@ -1821,4 +1821,7 @@ class AppLocalizationsPa extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'ਉੱਤਰੀ ਅਤੇ ਪੱਛਮੀ ਅਫ਼ਰੀਕਾ ਵਿੱਚ ਲੋਕਪ੍ਰਿਯ';
+
+  @override
+  String get select => 'Select';
 }

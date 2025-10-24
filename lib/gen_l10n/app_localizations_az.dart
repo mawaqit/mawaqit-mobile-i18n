@@ -1820,4 +1820,7 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Şimali və Qərbi Afrikada məşhurdur';
+
+  @override
+  String get select => 'Select';
 }

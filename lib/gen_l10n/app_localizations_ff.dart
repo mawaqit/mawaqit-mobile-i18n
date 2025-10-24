@@ -1818,4 +1818,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get popular_across_north_west_africa => 'Laɓɓi e Saare e Gine Afrik';
+
+  @override
+  String get select => 'Select';
 }

@@ -1820,4 +1820,7 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'A bɛ kɛ kɔfɛ ni tilebɔgɔ Afrikala la';
+
+  @override
+  String get select => 'Select';
 }

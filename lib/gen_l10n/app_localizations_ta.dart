@@ -1821,4 +1821,7 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'வடக்கு மற்றும் மேற்கு ஆப்பிரிக்காவில் பிரபலமானது';
+
+  @override
+  String get select => 'Select';
 }

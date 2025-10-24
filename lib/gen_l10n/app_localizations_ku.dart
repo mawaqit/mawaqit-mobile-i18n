@@ -1822,4 +1822,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'Bilez e Başûr û Rojavayê Afrîkaye';
+
+  @override
+  String get select => 'Select';
 }

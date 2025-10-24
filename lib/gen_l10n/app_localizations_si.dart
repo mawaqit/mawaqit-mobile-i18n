@@ -1821,4 +1821,7 @@ class AppLocalizationsSi extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'උතුරු සහ බටහිර ආප්‍රිකාවේ ජනප්‍රිය';
+
+  @override
+  String get select => 'Select';
 }

@@ -1820,4 +1820,7 @@ class AppLocalizationsPs extends AppLocalizations {
   @override
   String get popular_across_north_west_africa =>
       'په شمالي او لوېديځه افريقا کې مشهوره';
+
+  @override
+  String get select => 'Select';
 }

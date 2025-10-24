@@ -1796,4 +1796,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get popular_across_north_west_africa => 'شائعة في شمال وغرب أفريقيا';
+
+  @override
+  String get select => 'حدد';
 }
