@@ -1798,5 +1798,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get popular_across_north_west_africa => 'شائعة في شمال وغرب أفريقيا';
 
   @override
-  String get select => 'حدد';
+  String get select => 'اختر';
 }
