@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1204,5 +1204,6 @@
     "hafs_an_asim": "Hafs ʿan ʿĀṣim",
     "most_widespread_riwayah": "La recitación más difundida en el mundo",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
-    "popular_across_north_west_africa": "Popular en el norte y oeste de África"
+    "popular_across_north_west_africa": "Popular en el norte y oeste de África",
+    "select": "Seleccionar"
 }
