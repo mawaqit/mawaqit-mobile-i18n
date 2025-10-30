@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -740,7 +740,7 @@
     "quran_mushaf": "Mushaf",
     "quran_juzz": "پارہ",
     "ayah": "Ayah",
-    "quran_verses": "Verses",
+    "quran_verses": "آیاتہا",
     "surah": "Surah",
     "continue_reading": "پڑھنا جاری رکھیں",
     "bookmarks": "بک مارکس",
