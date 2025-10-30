@@ -751,7 +751,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get ayah => 'Ayah';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'آیاتہا';
 
   @override
   String get surah => 'Surah';
