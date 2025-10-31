@@ -1799,4 +1799,13 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get select => 'اختر';
+
+  @override
+  String get unknown_smartwatch => 'ساعة ذكية غير معروفة';
+
+  @override
+  String get connected_watch => 'الساعة المتصلة';
+
+  @override
+  String get ready_play_watch => 'جاهزة للتلاوة على ساعتك';
 }

@@ -1824,4 +1824,13 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'නොදන්නා ස්මාර්ට් ඔරලෝසුව';
+
+  @override
+  String get connected_watch => 'සම්බන්ධිත ඔරලෝසුව';
+
+  @override
+  String get ready_play_watch => 'ඔබගේ ඔරලෝසුවේ ධාවනය සඳහා සූදානම්';
 }

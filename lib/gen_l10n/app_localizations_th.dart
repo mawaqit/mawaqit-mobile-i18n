@@ -1823,4 +1823,13 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'สมาร์ตวอชที่ไม่รู้จัก';
+
+  @override
+  String get connected_watch => 'นาฬิกาที่เชื่อมต่อแล้ว';
+
+  @override
+  String get ready_play_watch => 'พร้อมเล่นบน นาฬิกาของคุณ';
 }

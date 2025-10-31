@@ -1824,4 +1824,13 @@ class AppLocalizationsPa extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'نامعلوم سمارٹ واچ';
+
+  @override
+  String get connected_watch => 'منسلک گھڑی';
+
+  @override
+  String get ready_play_watch => 'آپ کی گھڑی پر چلانے کے لیے تیار ہے';
 }

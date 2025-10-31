@@ -1824,4 +1824,13 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'அறியப்படாத ஸ்மார்ட்வாட்ச்';
+
+  @override
+  String get connected_watch => 'இணைக்கப்பட்ட கடிகாரம்';
+
+  @override
+  String get ready_play_watch => 'உங்கள் கடிகாரத்தில் இயங்கத் தயாராக உள்ளது';
 }

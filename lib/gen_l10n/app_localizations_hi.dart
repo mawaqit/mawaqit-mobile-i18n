@@ -1824,4 +1824,13 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'अज्ञात स्मार्टवॉच';
+
+  @override
+  String get connected_watch => 'कनेक्टेड घड़ी';
+
+  @override
+  String get ready_play_watch => 'आपकी घड़ी पर चलाने के लिए तैयार है';
 }

@@ -1825,4 +1825,13 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Nepoznati pametni sat';
+
+  @override
+  String get connected_watch => 'Povezani sat';
+
+  @override
+  String get ready_play_watch => 'je spremno za reprodukciju na vašem satu';
 }

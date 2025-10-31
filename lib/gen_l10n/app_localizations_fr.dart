@@ -1845,4 +1845,13 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get select => 'Sélectionner';
+
+  @override
+  String get unknown_smartwatch => 'Montre intelligente inconnue';
+
+  @override
+  String get connected_watch => 'Montre connectée';
+
+  @override
+  String get ready_play_watch => 'est prête à être lue sur votre montre';
 }

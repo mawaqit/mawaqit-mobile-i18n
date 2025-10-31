@@ -1821,4 +1821,13 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'ساعت هوشمند نامشخص';
+
+  @override
+  String get connected_watch => 'ساعت متصل';
+
+  @override
+  String get ready_play_watch => 'برای پخش روی ساعت شما آماده است';
 }

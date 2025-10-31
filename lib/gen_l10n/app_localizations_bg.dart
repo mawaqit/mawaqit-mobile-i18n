@@ -1828,4 +1828,14 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Непознат смартчасовник';
+
+  @override
+  String get connected_watch => 'Свързан часовник';
+
+  @override
+  String get ready_play_watch =>
+      'е готово за възпроизвеждане на вашия часовник';
 }

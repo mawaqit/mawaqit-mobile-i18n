@@ -1827,4 +1827,13 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Ismeretlen okosóra';
+
+  @override
+  String get connected_watch => 'Csatlakoztatott óra';
+
+  @override
+  String get ready_play_watch => 'Csatlakoztatott óra';
 }

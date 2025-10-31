@@ -1836,4 +1836,14 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get select => 'Seleziona';
+
+  @override
+  String get unknown_smartwatch => 'Smartwatch sconosciuto';
+
+  @override
+  String get connected_watch => 'Orologio connesso';
+
+  @override
+  String get ready_play_watch =>
+      'è pronto per la riproduzione sul tuo orologio';
 }

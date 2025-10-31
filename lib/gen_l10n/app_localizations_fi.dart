@@ -1824,4 +1824,13 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get select => 'Valitse';
+
+  @override
+  String get unknown_smartwatch => 'Tuntematon älykello';
+
+  @override
+  String get connected_watch => 'Yhdistetty kello';
+
+  @override
+  String get ready_play_watch => 'on valmis pelaamaan kellosi';
 }

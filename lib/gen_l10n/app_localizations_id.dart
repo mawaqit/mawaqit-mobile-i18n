@@ -1825,4 +1825,13 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Smartwatch tidak dikenal';
+
+  @override
+  String get connected_watch => 'Jam tersambung';
+
+  @override
+  String get ready_play_watch => 'siap diputar di arloji Anda';
 }

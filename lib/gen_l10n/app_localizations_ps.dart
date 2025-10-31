@@ -1823,4 +1823,13 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'نااشنا سمارټ واچ';
+
+  @override
+  String get connected_watch => 'نښلول شوی ساعت';
+
+  @override
+  String get ready_play_watch => 'ستاسو په ساعت کې د غږولو لپاره چمتو دی';
 }

@@ -1823,4 +1823,13 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'نامەلۇم ئەقىللىق سائەت';
+
+  @override
+  String get connected_watch => 'ئۇلانغان سائەت';
+
+  @override
+  String get ready_play_watch => 'سائىتىڭىزدا قويۇشقا تەييار';
 }

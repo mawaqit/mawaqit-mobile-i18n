@@ -1823,4 +1823,13 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Unknown smartwatch';
+
+  @override
+  String get connected_watch => 'Connected watch';
+
+  @override
+  String get ready_play_watch => 'is ready to play on your watch';
 }
