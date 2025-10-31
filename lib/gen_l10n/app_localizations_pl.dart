@@ -1821,4 +1821,13 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get select => 'Wybierz';
+
+  @override
+  String get unknown_smartwatch => 'Nieznany smartwatch';
+
+  @override
+  String get connected_watch => 'Połączony zegarek';
+
+  @override
+  String get ready_play_watch => 'jest gotowe do odtwarzania na Twoim zegarku';
 }

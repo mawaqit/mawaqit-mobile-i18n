@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "A világon legelterjedtebb riwāyah",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
     "popular_across_north_west_africa": "Népszerű Észak- és Nyugat-Afrikában",
-    "select": "Select"
+    "select": "Select",
+    "unknown_smartwatch": "Ismeretlen okosóra",
+    "connected_watch": "Csatlakoztatott óra",
+    "ready_play_watch": "Csatlakoztatott óra"
 }

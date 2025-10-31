@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "Dünyada en yaygın kıraat",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
     "popular_across_north_west_africa": "Kuzey ve Batı Afrika’da yaygındır",
-    "select": "Select"
+    "select": "Select",
+    "unknown_smartwatch": "Bilinmeyen akıllı saat",
+    "connected_watch": "Bağlı saat",
+    "ready_play_watch": "saatinizde oynatmaya hazır"
 }

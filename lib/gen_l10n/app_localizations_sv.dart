@@ -1823,4 +1823,13 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get select => 'Välj';
+
+  @override
+  String get unknown_smartwatch => 'Okänd smartklocka';
+
+  @override
+  String get connected_watch => 'Ansluten klocka';
+
+  @override
+  String get ready_play_watch => 'är redo att spelas upp på din klocka';
 }

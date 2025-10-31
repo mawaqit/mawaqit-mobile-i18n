@@ -1815,4 +1815,13 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Bilinmeyen akıllı saat';
+
+  @override
+  String get connected_watch => 'Bağlı saat';
+
+  @override
+  String get ready_play_watch => 'saatinizde oynatmaya hazır';
 }

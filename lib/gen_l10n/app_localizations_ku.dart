@@ -1825,4 +1825,13 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'کاتژمێری زیرەکی نەناسراو';
+
+  @override
+  String get connected_watch => 'کاتژمێرەکە پەیوەستە';
+
+  @override
+  String get ready_play_watch => 'ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت';
 }

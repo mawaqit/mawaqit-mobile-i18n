@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "உலகளவில் மிகவும் பரவலாகப் பயன்படும் ரிவாயா",
     "warsh_an_nafi": "வர்ஷ் அன நாஃபி",
     "popular_across_north_west_africa": "வடக்கு மற்றும் மேற்கு ஆப்பிரிக்காவில் பிரபலமானது",
-    "select": "Select"
+    "select": "Select",
+    "unknown_smartwatch": "அறியப்படாத ஸ்மார்ட்வாட்ச்",
+    "connected_watch": "இணைக்கப்பட்ட கடிகாரம்",
+    "ready_play_watch": "உங்கள் கடிகாரத்தில் இயங்கத் தயாராக உள்ளது"
 }

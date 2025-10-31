@@ -1824,4 +1824,13 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Jam tangan pintar tidak diketahui';
+
+  @override
+  String get connected_watch => 'Jam tangan tersambung';
+
+  @override
+  String get ready_play_watch => 'sedia dimainkan pada jam tangan anda';
 }

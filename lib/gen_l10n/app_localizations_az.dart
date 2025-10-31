@@ -1823,4 +1823,13 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Naməlum ağıllı saat';
+
+  @override
+  String get connected_watch => 'Qoşulmuş saat';
+
+  @override
+  String get ready_play_watch => 'saatınızda çalmaq üçün hazırdır';
 }

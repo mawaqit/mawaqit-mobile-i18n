@@ -1824,4 +1824,13 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'অজানা স্মার্টওয়াচ';
+
+  @override
+  String get connected_watch => 'সংযুক্ত ঘড়ি';
+
+  @override
+  String get ready_play_watch => 'আপনার ঘড়িতে চালানোর জন্য প্রস্তুত';
 }

@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "Maailman laajimmin levinnyt riwāyah",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
     "popular_across_north_west_africa": "Suosittu Pohjois- ja Länsi-Afrikassa",
-    "select": "Valitse"
+    "select": "Valitse",
+    "unknown_smartwatch": "Tuntematon älykello",
+    "connected_watch": "Yhdistetty kello",
+    "ready_play_watch": "on valmis pelaamaan kellosi"
 }

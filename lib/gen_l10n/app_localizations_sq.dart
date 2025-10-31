@@ -1827,4 +1827,13 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get select => 'Select';
+
+  @override
+  String get unknown_smartwatch => 'Orë inteligjente e panjohur';
+
+  @override
+  String get connected_watch => 'Orë e lidhur';
+
+  @override
+  String get ready_play_watch => 'gati për t’u luajtur në orën tënde';
 }

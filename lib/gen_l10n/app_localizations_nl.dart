@@ -1836,4 +1836,13 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get select => 'Selecteren';
+
+  @override
+  String get unknown_smartwatch => 'Onbekende smartwatch';
+
+  @override
+  String get connected_watch => 'Verbonden horloge';
+
+  @override
+  String get ready_play_watch => 'is klaar om op je horloge te spelen';
 }

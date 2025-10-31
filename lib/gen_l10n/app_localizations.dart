@@ -3577,6 +3577,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Select'**
   String get select;
+
+  /// No description provided for @unknown_smartwatch.
+  ///
+  /// In en, this message translates to:
+  /// **'Unknown smartwatch'**
+  String get unknown_smartwatch;
+
+  /// No description provided for @connected_watch.
+  ///
+  /// In en, this message translates to:
+  /// **'Connected watch'**
+  String get connected_watch;
+
+  /// No description provided for @ready_play_watch.
+  ///
+  /// In en, this message translates to:
+  /// **'is ready to play on your watch'**
+  String get ready_play_watch;
 }
 
 class _AppLocalizationsDelegate

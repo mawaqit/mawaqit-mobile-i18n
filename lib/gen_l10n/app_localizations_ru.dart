@@ -1825,4 +1825,13 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get select => 'Выбрать';
+
+  @override
+  String get unknown_smartwatch => 'Неизвестные смарт-часы';
+
+  @override
+  String get connected_watch => 'Подключённые часы';
+
+  @override
+  String get ready_play_watch => 'готово к воспроизведению на ваших часах';
 }

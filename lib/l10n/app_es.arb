@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "La recitación más difundida en el mundo",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
     "popular_across_north_west_africa": "Popular en el norte y oeste de África",
-    "select": "Seleccionar"
+    "select": "Seleccionar",
+    "unknown_smartwatch": "Smartwatch desconocido",
+    "connected_watch": "Reloj conectado",
+    "ready_play_watch": "está listo para reproducirse en tu reloj"
 }

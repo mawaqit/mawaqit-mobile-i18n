@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "رایج‌ترین قرائت در سراسر جهان",
     "warsh_an_nafi": "ورش عن نافع",
     "popular_across_north_west_africa": "محبوب در سراسر شمال و غرب آفریقا",
-    "select": "Select"
+    "select": "Select",
+    "unknown_smartwatch": "ساعت هوشمند نامشخص",
+    "connected_watch": "ساعت متصل",
+    "ready_play_watch": "برای پخش روی ساعت شما آماده است"
 }

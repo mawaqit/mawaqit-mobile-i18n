@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "أكثر رواية انتشارًا في العالم",
     "warsh_an_nafi": "ورش عن نافع",
     "popular_across_north_west_africa": "شائعة في شمال وغرب أفريقيا",
-    "select": "اختر"
+    "select": "اختر",
+    "unknown_smartwatch": "ساعة ذكية غير معروفة",
+    "connected_watch": "الساعة المتصلة",
+    "ready_play_watch": "جاهزة للتلاوة على ساعتك"
 }
