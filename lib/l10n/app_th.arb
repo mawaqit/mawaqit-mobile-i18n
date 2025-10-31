@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "ริวายะห์ที่แพร่หลายที่สุดทั่วโลก",
     "warsh_an_nafi": "วอร์ช อัน นาฟิ",
     "popular_across_north_west_africa": "เป็นที่นิยมทั่วแอฟริกาเหนือและตะวันตก",
-    "select": "Select"
+    "select": "Select",
+    "unknown_smartwatch": "สมาร์ตวอชที่ไม่รู้จัก",
+    "connected_watch": "นาฬิกาที่เชื่อมต่อแล้ว",
+    "ready_play_watch": "พร้อมเล่นบน นาฬิกาของคุณ"
 }
