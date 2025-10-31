@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "Самое распространённое чтение в мире",
     "warsh_an_nafi": "Уарш ан Нафи‘",
     "popular_across_north_west_africa": "Популярно в Северной и Западной Африке",
-    "select": "Выбрать"
+    "select": "Выбрать",
+    "unknown_smartwatch": "Неизвестные смарт-часы",
+    "connected_watch": "Подключённые часы",
+    "ready_play_watch": "готово к воспроизведению на ваших часах"
 }
