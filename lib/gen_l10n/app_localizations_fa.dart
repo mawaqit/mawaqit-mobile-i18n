@@ -1823,7 +1823,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get select => 'Select';
 
   @override
-  String get unknown_smartwatch => 'ساعت هوشمند نامشخص';
+  String get unknown_smartwatch => 'ساعت هوشمند ناشناخته';
 
   @override
   String get connected_watch => 'ساعت متصل';
