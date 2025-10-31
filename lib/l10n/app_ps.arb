@@ -1205,5 +1205,8 @@
     "most_widespread_riwayah": "په نړۍ کې تر ټولو ډېره خپره شوې روايت",
     "warsh_an_nafi": "ورش عن نافع",
     "popular_across_north_west_africa": "په شمالي او لوېديځه افريقا کې مشهوره",
-    "select": "Select"
+    "select": "Select",
+    "unknown_smartwatch": "نااشنا سمارټ واچ",
+    "connected_watch": "نښلول شوی ساعت",
+    "ready_play_watch": "ستاسو په ساعت کې د غږولو لپاره چمتو دی"
 }
