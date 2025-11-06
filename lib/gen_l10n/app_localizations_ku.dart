@@ -1836,5 +1836,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get ready_play_watch => 'ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت';
 
   @override
-  String get transliteration => 'ترانسلیترە';
+  String get transliteration => 'Transliterasyon';
 }
