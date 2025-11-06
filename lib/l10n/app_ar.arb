@@ -1208,5 +1208,6 @@
     "select": "اختر",
     "unknown_smartwatch": "ساعة ذكية غير معروفة",
     "connected_watch": "الساعة المتصلة",
-    "ready_play_watch": "جاهزة للتلاوة على ساعتك"
+    "ready_play_watch": "جاهزة للتلاوة على ساعتك",
+    "transliteration": "الترجمة اللفظية"
 }
