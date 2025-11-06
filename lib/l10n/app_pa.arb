@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "نامعلوم سمارٹ واچ",
     "connected_watch": "منسلک گھڑی",
-    "ready_play_watch": "آپ کی گھڑی پر چلانے کے لیے تیار ہے"
+    "ready_play_watch": "آپ کی گھڑی پر چلانے کے لیے تیار ہے",
+    "transliteration": "ٹرانسلِٹریشن"
 }
