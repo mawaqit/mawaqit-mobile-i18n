@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Bilinmeyen akıllı saat",
     "connected_watch": "Bağlı saat",
-    "ready_play_watch": "saatinizde oynatmaya hazır"
+    "ready_play_watch": "saatinizde oynatmaya hazır",
+    "transliteration": "Çeviriyazı"
 }
