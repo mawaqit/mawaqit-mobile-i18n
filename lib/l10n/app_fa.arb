@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "ساعت هوشمند ناشناخته",
     "connected_watch": "ساعت متصل",
-    "ready_play_watch": "برای پخش روی ساعت شما آماده است"
+    "ready_play_watch": "برای پخش روی ساعت شما آماده است",
+    "transliteration": "ترجمۀ لفظی"
 }
