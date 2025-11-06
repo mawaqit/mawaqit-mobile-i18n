@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Unknown smartwatch",
     "connected_watch": "Connected watch",
-    "ready_play_watch": "is ready to play on your watch"
+    "ready_play_watch": "is ready to play on your watch",
+    "transliteration": "Transliteration"
 }
