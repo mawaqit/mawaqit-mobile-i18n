@@ -1850,4 +1850,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'está listo para reproducirse en tu reloj';
+
+  @override
+  String get transliteration => 'Transliteración';
 }

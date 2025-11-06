@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "کاتژمێری زیرەکی نەناسراو",
     "connected_watch": "کاتژمێرەکە پەیوەستە",
-    "ready_play_watch": "ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت"
+    "ready_play_watch": "ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت",
+    "transliteration": "ترانسلیترە"
 }

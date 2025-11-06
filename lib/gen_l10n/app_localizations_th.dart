@@ -1832,4 +1832,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'พร้อมเล่นบน นาฬิกาของคุณ';
+
+  @override
+  String get transliteration => 'Transliteration';
 }

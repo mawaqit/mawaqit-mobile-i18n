@@ -1832,4 +1832,7 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'ستاسو په ساعت کې د غږولو لپاره چمتو دی';
+
+  @override
+  String get transliteration => 'ټرانسلېتراسیون';
 }

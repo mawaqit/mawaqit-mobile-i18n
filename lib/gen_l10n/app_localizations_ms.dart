@@ -1833,4 +1833,7 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'sedia dimainkan pada jam tangan anda';
+
+  @override
+  String get transliteration => 'Transliterasi';
 }

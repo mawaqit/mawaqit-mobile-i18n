@@ -1854,4 +1854,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'est prête à être lue sur votre montre';
+
+  @override
+  String get transliteration => 'Translittération';
 }

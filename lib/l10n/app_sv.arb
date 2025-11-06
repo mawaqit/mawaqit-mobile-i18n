@@ -1208,5 +1208,6 @@
     "select": "Välj",
     "unknown_smartwatch": "Okänd smartklocka",
     "connected_watch": "Ansluten klocka",
-    "ready_play_watch": "är redo att spelas upp på din klocka"
+    "ready_play_watch": "är redo att spelas upp på din klocka",
+    "transliteration": "Translitterering"
 }

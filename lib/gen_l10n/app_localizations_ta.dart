@@ -1833,4 +1833,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'உங்கள் கடிகாரத்தில் இயங்கத் தயாராக உள்ளது';
+
+  @override
+  String get transliteration => 'Transliteration';
 }

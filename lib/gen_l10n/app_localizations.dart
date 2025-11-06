@@ -3595,6 +3595,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'is ready to play on your watch'**
   String get ready_play_watch;
+
+  /// No description provided for @transliteration.
+  ///
+  /// In en, this message translates to:
+  /// **'Transliteration'**
+  String get transliteration;
 }
 
 class _AppLocalizationsDelegate

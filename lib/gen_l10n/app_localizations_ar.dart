@@ -1808,4 +1808,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'جاهزة للتلاوة على ساعتك';
+
+  @override
+  String get transliteration => 'الترجمة اللفظية';
 }

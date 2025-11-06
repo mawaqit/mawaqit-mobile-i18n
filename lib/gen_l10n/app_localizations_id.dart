@@ -1834,4 +1834,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'siap diputar di arloji Anda';
+
+  @override
+  String get transliteration => 'Transliterasi';
 }

@@ -1830,4 +1830,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'jest gotowe do odtwarzania na Twoim zegarku';
+
+  @override
+  String get transliteration => 'Translitacja';
 }

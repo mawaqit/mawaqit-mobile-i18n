@@ -1836,4 +1836,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'gati për t’u luajtur në orën tënde';
+
+  @override
+  String get transliteration => 'Transkriptim';
 }

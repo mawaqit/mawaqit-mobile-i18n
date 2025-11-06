@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Jam tangan pintar tidak diketahui",
     "connected_watch": "Jam tangan tersambung",
-    "ready_play_watch": "sedia dimainkan pada jam tangan anda"
+    "ready_play_watch": "sedia dimainkan pada jam tangan anda",
+    "transliteration": "Transliterasi"
 }

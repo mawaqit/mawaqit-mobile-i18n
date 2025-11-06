@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Smartwatch tidak dikenal",
     "connected_watch": "Jam tersambung",
-    "ready_play_watch": "siap diputar di arloji Anda"
+    "ready_play_watch": "siap diputar di arloji Anda",
+    "transliteration": "Transliterasi"
 }

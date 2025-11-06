@@ -1208,5 +1208,6 @@
     "select": "Sélectionner",
     "unknown_smartwatch": "Montre intelligente inconnue",
     "connected_watch": "Montre connectée",
-    "ready_play_watch": "est prête à être lue sur votre montre"
+    "ready_play_watch": "est prête à être lue sur votre montre",
+    "transliteration": "Translittération"
 }

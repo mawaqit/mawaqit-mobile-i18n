@@ -1208,5 +1208,6 @@
     "select": "Valitse",
     "unknown_smartwatch": "Tuntematon älykello",
     "connected_watch": "Yhdistetty kello",
-    "ready_play_watch": "on valmis pelaamaan kellosi"
+    "ready_play_watch": "on valmis pelaamaan kellosi",
+    "transliteration": "Translitterointi"
 }

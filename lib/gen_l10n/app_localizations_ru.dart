@@ -1834,4 +1834,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'готово к воспроизведению на ваших часах';
+
+  @override
+  String get transliteration => 'Транслитерация';
 }

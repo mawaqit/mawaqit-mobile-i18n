@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Ismeretlen okosóra",
     "connected_watch": "Csatlakoztatott óra",
-    "ready_play_watch": "Csatlakoztatott óra"
+    "ready_play_watch": "Csatlakoztatott óra",
+    "transliteration": "Transzliteráció"
 }

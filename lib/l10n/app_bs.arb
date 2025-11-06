@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Nepoznati pametni sat",
     "connected_watch": "Povezani sat",
-    "ready_play_watch": "je spremno za reprodukciju na vašem satu"
+    "ready_play_watch": "je spremno za reprodukciju na vašem satu",
+    "transliteration": "Transliteracija"
 }

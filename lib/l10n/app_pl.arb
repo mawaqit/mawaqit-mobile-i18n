@@ -1208,5 +1208,6 @@
     "select": "Wybierz",
     "unknown_smartwatch": "Nieznany smartwatch",
     "connected_watch": "Połączony zegarek",
-    "ready_play_watch": "jest gotowe do odtwarzania na Twoim zegarku"
+    "ready_play_watch": "jest gotowe do odtwarzania na Twoim zegarku",
+    "transliteration": "Translitacja"
 }

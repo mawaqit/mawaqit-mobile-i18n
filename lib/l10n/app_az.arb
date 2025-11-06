@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Naməlum ağıllı saat",
     "connected_watch": "Qoşulmuş saat",
-    "ready_play_watch": "saatınızda çalmaq üçün hazırdır"
+    "ready_play_watch": "saatınızda çalmaq üçün hazırdır",
+    "transliteration": "Transliterasiya"
 }

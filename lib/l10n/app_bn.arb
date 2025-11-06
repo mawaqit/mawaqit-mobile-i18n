@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "অজানা স্মার্টওয়াচ",
     "connected_watch": "সংযুক্ত ঘড়ি",
-    "ready_play_watch": "আপনার ঘড়িতে চালানোর জন্য প্রস্তুত"
+    "ready_play_watch": "আপনার ঘড়িতে চালানোর জন্য প্রস্তুত",
+    "transliteration": "ধ্বনিলিপি"
 }

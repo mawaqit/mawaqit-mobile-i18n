@@ -1832,4 +1832,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'är redo att spelas upp på din klocka';
+
+  @override
+  String get transliteration => 'Translitterering';
 }

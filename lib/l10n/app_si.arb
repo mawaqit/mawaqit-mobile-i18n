@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "නොදන්නා ස්මාර්ට් ඔරලෝසුව",
     "connected_watch": "සම්බන්ධිත ඔරලෝසුව",
-    "ready_play_watch": "ඔබගේ ඔරලෝසුවේ ධාවනය සඳහා සූදානම්"
+    "ready_play_watch": "ඔබගේ ඔරලෝසුවේ ධාවනය සඳහා සූදානම්",
+    "transliteration": "ට්‍රාන්ස්ලිතරේෂන්"
 }

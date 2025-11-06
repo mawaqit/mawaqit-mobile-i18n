@@ -1832,4 +1832,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'saatınızda çalmaq üçün hazırdır';
+
+  @override
+  String get transliteration => 'Transliterasiya';
 }

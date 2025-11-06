@@ -1845,4 +1845,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'is klaar om op je horloge te spelen';
+
+  @override
+  String get transliteration => 'Translitteratie';
 }
