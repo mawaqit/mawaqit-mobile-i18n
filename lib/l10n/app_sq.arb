@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Orë inteligjente e panjohur",
     "connected_watch": "Orë e lidhur",
-    "ready_play_watch": "gati për t’u luajtur në orën tënde"
+    "ready_play_watch": "gati për t’u luajtur në orën tënde",
+    "transliteration": "Transkriptim"
 }
