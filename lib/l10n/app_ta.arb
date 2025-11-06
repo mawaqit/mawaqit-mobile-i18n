@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "அறியப்படாத ஸ்மார்ட்வாட்ச்",
     "connected_watch": "இணைக்கப்பட்ட கடிகாரம்",
-    "ready_play_watch": "உங்கள் கடிகாரத்தில் இயங்கத் தயாராக உள்ளது"
+    "ready_play_watch": "உங்கள் கடிகாரத்தில் இயங்கத் தயாராக உள்ளது",
+    "transliteration": "Transliteration"
 }
