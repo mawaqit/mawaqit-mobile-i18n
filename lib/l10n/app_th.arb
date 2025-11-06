@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "สมาร์ตวอชที่ไม่รู้จัก",
     "connected_watch": "นาฬิกาที่เชื่อมต่อแล้ว",
-    "ready_play_watch": "พร้อมเล่นบน นาฬิกาของคุณ"
+    "ready_play_watch": "พร้อมเล่นบน นาฬิกาของคุณ",
+    "transliteration": "Transliteration"
 }
