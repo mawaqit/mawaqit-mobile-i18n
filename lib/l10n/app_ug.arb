@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "نامەلۇم ئەقىللىق سائەت",
     "connected_watch": "ئۇلانغان سائەت",
-    "ready_play_watch": "سائىتىڭىزدا قويۇشقا تەييار"
+    "ready_play_watch": "سائىتىڭىزدا قويۇشقا تەييار",
+    "transliteration": "Transliteration"
 }
