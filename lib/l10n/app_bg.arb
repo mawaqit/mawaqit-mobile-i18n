@@ -1208,5 +1208,6 @@
     "select": "Select",
     "unknown_smartwatch": "Непознат смартчасовник",
     "connected_watch": "Свързан часовник",
-    "ready_play_watch": "е готово за възпроизвеждане на вашия часовник"
+    "ready_play_watch": "е готово за възпроизвеждане на вашия часовник",
+    "transliteration": "Транслитерация"
 }
