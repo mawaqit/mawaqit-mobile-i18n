@@ -1832,4 +1832,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'آپ کی گھڑی پر چلانے کے لیے تیار ہے';
+
+  @override
+  String get transliteration => 'ٹرانسلِٹریشن';
 }

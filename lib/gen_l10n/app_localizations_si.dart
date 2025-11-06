@@ -1833,4 +1833,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'ඔබගේ ඔරලෝසුවේ ධාවනය සඳහා සූදානම්';
+
+  @override
+  String get transliteration => 'ට්‍රාන්ස්ලිතරේෂන්';
 }

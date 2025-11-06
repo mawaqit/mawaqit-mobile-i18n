@@ -1852,4 +1852,7 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get ready_play_watch =>
       'ist bereit, auf deiner Uhr wiedergegeben zu werden';
+
+  @override
+  String get transliteration => 'Transliteration';
 }

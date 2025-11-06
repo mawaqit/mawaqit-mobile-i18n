@@ -1833,4 +1833,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'आपकी घड़ी पर चलाने के लिए तैयार है';
+
+  @override
+  String get transliteration => 'लिप्यंतरण';
 }

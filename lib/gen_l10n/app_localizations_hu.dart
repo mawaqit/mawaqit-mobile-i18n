@@ -1836,4 +1836,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'Csatlakoztatott óra';
+
+  @override
+  String get transliteration => 'Transzliteráció';
 }

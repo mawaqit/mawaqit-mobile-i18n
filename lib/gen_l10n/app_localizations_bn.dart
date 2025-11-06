@@ -1833,4 +1833,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'আপনার ঘড়িতে চালানোর জন্য প্রস্তুত';
+
+  @override
+  String get transliteration => 'ধ্বনিলিপি';
 }

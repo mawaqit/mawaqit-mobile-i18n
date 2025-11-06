@@ -1838,4 +1838,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get ready_play_watch =>
       'е готово за възпроизвеждане на вашия часовник';
+
+  @override
+  String get transliteration => 'Транслитерация';
 }

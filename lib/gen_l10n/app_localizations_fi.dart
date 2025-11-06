@@ -1833,4 +1833,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'on valmis pelaamaan kellosi';
+
+  @override
+  String get transliteration => 'Translitterointi';
 }

@@ -751,7 +751,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get ayah => 'آيه';
 
   @override
-  String get quran_verses => 'آيات';
+  String get quran_verses => 'آیاتها';
 
   @override
   String get surah => 'سورة';
@@ -1708,16 +1708,16 @@ class AppLocalizationsFa extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
-  String get yassin_aljazairi => 'یاسین الجزایری';
+  String get yassin_aljazairi => 'Yassin Al-Jazairi';
 
   @override
-  String get mohammed_abdelkarim => 'محمد عبدکریم';
+  String get mohammed_abdelkarim => 'Mohammed Abdelkarim';
 
   @override
-  String get alayoun_elkouchi => 'العیون الکوشی';
+  String get alayoun_elkouchi => 'Al-Ayoun El-Kouchi';
 
   @override
-  String get abdelkarim_daghoush => 'عبدالکریم داغوش';
+  String get abdelkarim_daghoush => 'Abdelkarim Daghoush';
 
   @override
   String get murattal => 'مرتّل';
@@ -1807,17 +1807,17 @@ class AppLocalizationsFa extends AppLocalizations {
   String get shaykh_aminuddin_muhammad => 'شیخ امین‌الدین محمد';
 
   @override
-  String get hafs_an_asim => 'حفص عن عاصم';
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
 
   @override
-  String get most_widespread_riwayah => 'رایج‌ترین قرائت در سراسر جهان';
+  String get most_widespread_riwayah => 'The most widespread riwāyah worldwide';
 
   @override
-  String get warsh_an_nafi => 'ورش عن نافع';
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
 
   @override
   String get popular_across_north_west_africa =>
-      'محبوب در سراسر شمال و غرب آفریقا';
+      'Popular across North & West Africa';
 
   @override
   String get select => 'Select';
@@ -1830,4 +1830,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'برای پخش روی ساعت شما آماده است';
+
+  @override
+  String get transliteration => 'ترانویسی';
 }

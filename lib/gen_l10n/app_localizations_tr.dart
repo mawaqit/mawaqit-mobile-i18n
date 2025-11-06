@@ -1824,4 +1824,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'saatinizde oynatmaya hazır';
+
+  @override
+  String get transliteration => 'Çeviriyazı';
 }

@@ -1834,4 +1834,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'je spremno za reprodukciju na vašem satu';
+
+  @override
+  String get transliteration => 'Transliteracija';
 }

@@ -1832,4 +1832,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get ready_play_watch => 'سائىتىڭىزدا قويۇشقا تەييار';
+
+  @override
+  String get transliteration => 'Transliteration';
 }

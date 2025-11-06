@@ -1846,4 +1846,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get ready_play_watch =>
       'è pronto per la riproduzione sul tuo orologio';
+
+  @override
+  String get transliteration => 'Traslitterazione';
 }
