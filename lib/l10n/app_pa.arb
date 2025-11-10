@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "نامعلوم سمارٹ واچ",
     "connected_watch": "منسلک گھڑی",
     "ready_play_watch": "آپ کی گھڑی پر چلانے کے لیے تیار ہے",
-    "transliteration": "ٹرانسلِٹریشن"
+    "transliteration": "ٹرانسلِٹریشن",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
