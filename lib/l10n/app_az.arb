@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Naməlum ağıllı saat",
     "connected_watch": "Qoşulmuş saat",
     "ready_play_watch": "saatınızda çalmaq üçün hazırdır",
-    "transliteration": "Transliterasiya"
+    "transliteration": "Transliterasiya",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
