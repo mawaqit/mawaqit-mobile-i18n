@@ -1210,7 +1210,7 @@
     "connected_watch": "الساعة المتصلة",
     "ready_play_watch": "جاهزة للتلاوة على ساعتك",
     "transliteration": "الترجمة اللفظية",
-    "highlight_Tahajjud_Time": "تسليط الضوء على وقت تاجاجود",
+    "highlight_Tahajjud_Time": "إبراز وقت التهجد",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     }
