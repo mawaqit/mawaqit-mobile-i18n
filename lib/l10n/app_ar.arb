@@ -1196,7 +1196,7 @@
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "الثالث من الليل الأخير",
+    "last_Third_Of_The_Night": "الثلث الأخير من الليل",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
