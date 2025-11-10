@@ -1780,7 +1780,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get settingFontSize => 'Font Size';
 
   @override
-  String get last_Third_Of_The_Night => 'الثالث من الليل الأخير';
+  String get last_Third_Of_The_Night => 'الثلث الأخير من الليل';
 
   @override
   String get shaykh_aminuddin_muhammad => 'الشيخ أمينُ الدِّينِ محمد';
