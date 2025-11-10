@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv-SE",
+    "@@locale": "sv",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Okänd smartklocka",
     "connected_watch": "Ansluten klocka",
     "ready_play_watch": "är redo att spelas upp på din klocka",
-    "transliteration": "Translitterering"
+    "transliteration": "Translitterering",
+    "highlight_Tahajjud_Time": "Markera Tahajjud Tid",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

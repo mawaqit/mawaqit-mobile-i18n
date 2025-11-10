@@ -1811,4 +1811,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get transliteration => 'الترجمة اللفظية';
+
+  @override
+  String get highlight_Tahajjud_Time => 'تسليط الضوء على وقت تاجاجود';
 }

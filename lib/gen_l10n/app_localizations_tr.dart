@@ -1827,4 +1827,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get transliteration => 'Çeviriyazı';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

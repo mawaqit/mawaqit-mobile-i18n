@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Tuntematon älykello",
     "connected_watch": "Yhdistetty kello",
     "ready_play_watch": "on valmis pelaamaan kellosi",
-    "transliteration": "Translitterointi"
+    "transliteration": "Translitterointi",
+    "highlight_Tahajjud_Time": "Korosta Tahajjud-aika",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

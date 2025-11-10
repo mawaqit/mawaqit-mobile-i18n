@@ -1,5 +1,5 @@
 {
-    "@@locale": "ckb",
+    "@@locale": "ku",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "کاتژمێری زیرەکی نەناسراو",
     "connected_watch": "کاتژمێرەکە پەیوەستە",
     "ready_play_watch": "ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت",
-    "transliteration": "Transliterasyon"
+    "transliteration": "Transliterasyon",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

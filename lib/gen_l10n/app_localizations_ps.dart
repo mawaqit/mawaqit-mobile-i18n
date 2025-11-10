@@ -1835,4 +1835,7 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get transliteration => 'ټرانسلېتراسیون';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

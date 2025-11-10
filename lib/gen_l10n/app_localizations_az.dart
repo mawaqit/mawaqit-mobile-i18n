@@ -1835,4 +1835,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get transliteration => 'Transliterasiya';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

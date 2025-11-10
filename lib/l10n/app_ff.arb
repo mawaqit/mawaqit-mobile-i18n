@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Unknown smartwatch",
     "connected_watch": "Connected watch",
     "ready_play_watch": "is ready to play on your watch",
-    "transliteration": "Translittération"
+    "transliteration": "Translittération",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

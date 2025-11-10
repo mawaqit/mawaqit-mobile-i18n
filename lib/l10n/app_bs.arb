@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Nepoznati pametni sat",
     "connected_watch": "Povezani sat",
     "ready_play_watch": "je spremno za reprodukciju na vašem satu",
-    "transliteration": "Transliteracija"
+    "transliteration": "Transliteracija",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

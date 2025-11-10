@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Nieznany smartwatch",
     "connected_watch": "Połączony zegarek",
     "ready_play_watch": "jest gotowe do odtwarzania na Twoim zegarku",
-    "transliteration": "Translitacja"
+    "transliteration": "Translitacja",
+    "highlight_Tahajjud_Time": "Podświetl czas Tahajjud",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

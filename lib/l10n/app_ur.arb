@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur-PK",
+    "@@locale": "ur",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "نامعلوم اسمارٹ واچ",
     "connected_watch": "منسلک گھڑی",
     "ready_play_watch": "آپ کی گھڑی پر چلانے کے لیے تیار ہے",
-    "transliteration": "ٹرانسلِٹریشن"
+    "transliteration": "ٹرانسلِٹریشن",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

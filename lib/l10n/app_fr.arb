@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Montre intelligente inconnue",
     "connected_watch": "Montre connectée",
     "ready_play_watch": "est prête à être lue sur votre montre",
-    "transliteration": "Translittération"
+    "transliteration": "Translittération",
+    "highlight_Tahajjud_Time": "Surligner l'heure de Tahajjud",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

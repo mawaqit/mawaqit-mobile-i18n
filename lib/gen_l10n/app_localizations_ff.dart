@@ -1833,4 +1833,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get transliteration => 'Translittération';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

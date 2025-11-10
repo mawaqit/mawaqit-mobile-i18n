@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Непознат смартчасовник",
     "connected_watch": "Свързан часовник",
     "ready_play_watch": "е готово за възпроизвеждане на вашия часовник",
-    "transliteration": "Транслитерация"
+    "transliteration": "Транслитерация",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }

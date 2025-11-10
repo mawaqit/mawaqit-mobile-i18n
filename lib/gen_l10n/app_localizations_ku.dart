@@ -1837,4 +1837,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get transliteration => 'Transliterasyon';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

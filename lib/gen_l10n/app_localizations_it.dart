@@ -1849,4 +1849,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get transliteration => 'Traslitterazione';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Evidenzia Tahajjud Ora';
 }

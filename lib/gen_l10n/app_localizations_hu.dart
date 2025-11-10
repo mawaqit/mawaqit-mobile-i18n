@@ -1839,4 +1839,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get transliteration => 'Transzliteráció';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }
