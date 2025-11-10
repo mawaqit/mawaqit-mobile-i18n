@@ -758,7 +758,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get surah => 'سورەت';
 
   @override
-  String get continue_reading => 'Continue Reading';
+  String get continue_reading => 'بەردەوامبوونی خوێندنەوە';
 
   @override
   String get bookmarks => 'دڵخوازەکان';
@@ -989,7 +989,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get download_quran_popup_downloading_3 =>
-      'Discover the Quran\'s beauty! Tap \'Download\' to access its timeless wisdom and be inspired by its divine words.';
+      '.کرتە لەسەر \'دابەزاندن\' بکە بۆ دەستپێکی گەشتی خوێندنەوەکەت';
 
   @override
   String get download_quran_popup_confirm_cancel =>
@@ -1342,19 +1342,19 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get update_new_version =>
-      'A revised version has been released with typographical improvements. Click \'Update\' to continue your journey of reading and reflection.';
+      'وەشانێکی نوێی قورئان بەردەستە بۆ داگرتن. بۆ دەستگەیشتن بە نوێترین پێشکەوتنەکان و بەردەوامبوون لە گەشتەکەت بە حیکمەتی خودایی، پەنجە بنێ بە \'نوێکردنەوە\'';
 
   @override
   String get update_quran_zip =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
 
   @override
   String get update_latest_quran_version =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
 
   @override
   String get update_latest_quran =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'وەشانێکی نوێ بۆ قورئان بەردەستە بۆ داگرتن. کلیک کە \'نوێکردنەوە\' بکە بۆ گەیشتن بە کۆتا وەشانی باشترکراو و پەیوەست بوون و بەردەوامبوون لەگەڵ حیکمەتە خوداییەکە.';
 
   @override
   String get set_notification_for_all_parayer =>
@@ -1399,71 +1399,71 @@ class AppLocalizationsKu extends AppLocalizations {
   String get settings_language_pt => 'پۆرتوگالی';
 
   @override
-  String get al_zikr => 'Al-Zikr';
+  String get al_zikr => 'ویرد';
 
   @override
-  String get favorite_azkar => 'Favorite Azkar';
+  String get favorite_azkar => 'ویردی دڵخواز';
 
   @override
-  String get all_azkar => 'All Azkar';
+  String get all_azkar => 'ویردەکان';
 
   @override
-  String get device_audio_not_found => 'Device audio not found';
+  String get device_audio_not_found => 'دەنگی ئامێرەکە نەدۆزرایەوە';
 
   @override
-  String get device_media => 'Device Media';
+  String get device_media => 'ئامێری میدیا';
 
   @override
-  String get add_new_audio => 'Add a new audio file';
+  String get add_new_audio => 'فایلێکی نوێی دەنگی زیادبکە';
 
   @override
   String get selecet_audio_before_delete =>
-      'You need to add another audio file for notifications before deleting the selected audio file';
+      'پێویستە فایلیکیتری دەنگی زیاد بکەی بۆ ئاگانامەکان پێش ئەوەی فایلی دەنگی دیاریکراو بسڕیتەوە';
 
   @override
   String get addding_file_prompt =>
-      'You can add multiple audio files, but please make sure not to add the same audio file.';
+      'دەتوانیت چەندین فایلی دەنگی زیاد بکەیت، بەڵام تکایە دڵنیابە هەمان فایلی دەنگی زیاد نەکەیت.';
 
   @override
   String get ios_audio_file_picking_prompt =>
-      'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+      'تکایە فایلێکی دەنگی هەڵبژێرە کە زۆرترین ماوەی ٣٠ چرکە یان کەمتر بێت. فایلێکی دەنگی ماوەی درێژتر لەوانەیە ئاگانامەی نوێژەکەت ببڕێت.';
 
   @override
-  String get select_audio_from_device => 'Select audio (mp3) from device.';
+  String get select_audio_from_device => 'لە ئامێر دیاریبکە (mp3) فایلی دەنگی.';
 
   @override
-  String get add_ticket => 'Add ticket';
+  String get add_ticket => 'تیکێت زیادبکە';
 
   @override
-  String get projects => 'Projects';
+  String get projects => 'پرۆژەکان';
 
   @override
-  String get fill_form => 'To add your project here fill up this';
+  String get fill_form => 'ئەوە پڕبکەوە بۆ زیادکردنی پڕۆژەکەت لێرە';
 
   @override
-  String get form => 'form';
+  String get form => 'فۆڕم';
 
   @override
   String get updates_draw =>
-      'Get updates and participate in the draw to win goodies from';
+      'نوێکارییەکان بەدەست بهێنە و بەشداری تیروپشکەکە بکە بۆ بردنەوەی شتە باشەکان لە';
 
   @override
   String get email_info =>
-      'This email will be used to contact you if you win the draw';
+      'ئەم ئیمەیڵە بەکاردێت بۆ پەیوەندیکردنت ئەگەر براوەی تیروپشکەکە بوویت';
 
   @override
-  String get enter_email => 'Enter your email';
+  String get enter_email => 'ئیمێلی خۆت داخل بکە';
 
   @override
   String get email_privacy =>
-      'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+      'MAWAQIT ئەم ئیمەیڵە لەگەڵ کەسدا بڵاو ناکاتەوە. دوای هەر تیروپشکێک ئیمەیڵەکە بە شێوەیەکی ئۆتۆماتیکی لە بنکەی زانیاریەکانی ئێمە دەسڕدرێتەوە';
 
   @override
   String get submit => 'Submit';
 
   @override
   String get disclaimer =>
-      'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+      'MAWAQIT لە هەر بەرپرسیارێتییەک بێبەرییە سەبارەت بەو خزمەتگوزارییانەی کە لەلایەن پڕۆژەکانی لیستکراوەوە پێشنیارکراون. تکایە خۆتان وردبینی و لێکۆڵینەوە بکەن';
 
   @override
   String get participating_with => 'You\'re participating with';
@@ -1478,271 +1478,269 @@ class AppLocalizationsKu extends AppLocalizations {
   String get next_ticket => 'The next ticket available in';
 
   @override
-  String get click_here => 'Click here';
+  String get click_here => 'لێرە کلیک بکە';
 
   @override
-  String get mawaqit_store => 'MAWAQIT Store';
+  String get mawaqit_store => 'کۆگای مەواقیت';
 
   @override
-  String get no_projects => 'There are no projects';
+  String get no_projects => 'هیچ پڕۆژەیەک لەبەردەستدا نییە';
 
   @override
   String get draw_info =>
       'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
 
   @override
-  String get enter_valid_email => 'Enter a valid email';
+  String get enter_valid_email => 'ئیمەیڵێکی دروست دابنێ';
 
   @override
-  String get please_enter_email => 'Please enter an email';
+  String get please_enter_email => 'ئیمێلێک داخل بکە';
 
   @override
   String get select_device_audo_for_ios_propmpt =>
-      'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+      'فایلێکی دەنگی هەڵبژێرە، ئێمە دەیگۆڕین بۆ فۆرماتێکی گونجاوی iOS لەکاتێکدا کەمی دەکەینەوە بۆ 30 چرکە بەهۆی سنوورداربوونی پلاتفۆرمی iOS.';
 
   @override
-  String get confirm_deletion => 'Confirm Deletion';
+  String get confirm_deletion => 'دڵنیابوون لە سڕینەوە';
 
   @override
-  String get sure_remove_rewaya =>
-      'Are you sure you want to remove this Rewaya?';
+  String get sure_remove_rewaya => 'دڵنیای کە دەتەوێت ئەم ڕێوایایە لاببەیت؟';
 
   @override
-  String get file_not_found => 'File not found';
+  String get file_not_found => 'فایل نەدۆزرایەوە';
 
   @override
   String get notified_boost =>
       'Get notified about the latest updates on MAWAQIT Boost projects.';
 
   @override
-  String get contact_us_boost => 'To list your project here, contact us at';
+  String get contact_us_boost => 'پەیوەندیمان پێوەبکە بۆ لیستکردنی پڕۆژە لێرە';
 
   @override
   String get prayer_times_set_by_mosque =>
-      'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+      'کاتی بانگەکان و هەموو زانیارییەکان لێرە لەگەڵ مزگەوت داندراوە، نەوەک مەواقیت';
 
   @override
-  String get hasan_nahi => 'Hasan Nahi';
+  String get hasan_nahi => 'حەسەن ناهی';
 
   @override
-  String get albanian => 'Albanian';
+  String get albanian => 'ئەلبانی';
 
   @override
-  String get delete_all => 'Delete All';
+  String get delete_all => 'هەمووی بسڕەوە';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'هەموو داگرتنەکان بسڕەوە';
 
   @override
   String get delete_recitations_message =>
-      'Are you sure you want to delete all downloaded recitations?';
+      'ئایا دڵنیایی لەوەی کە دەتەوێت هەموو قورئان خوێنە دابەزێندراوەکان بسریتەوە?';
 
   @override
   String get downloaded_deleted_successfully =>
-      'All downloaded recitations deleted successfully';
+      'هەموو قورئان خوێنە دابەزێندراوەکان بەسەرکەتووی سرێندرانەوە';
 
   @override
-  String get failed_delete_recitations => 'Failed to delete all recitations';
+  String get failed_delete_recitations => '';
 
   @override
-  String get no_azkar_result => 'هیچ ئەنجامی بیرەوەری نەدۆزرایەوە\t';
+  String get no_azkar_result => '';
 
   @override
-  String get search_title => 'گەڕان بە بەکارهێنانی ناونیشان';
+  String get search_title => 'Lêgerîn bi ser navê ve';
 
   @override
   String get compass_calibration =>
       'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
 
   @override
-  String get compass_accuracy => 'Compass Accuracy';
+  String get compass_accuracy => 'ووردی قیبلە نامە';
 
   @override
-  String get low => 'Low';
+  String get low => 'نزم';
 
   @override
-  String get tafsir => 'Tafsir';
+  String get tafsir => 'تەفسیر';
 
   @override
-  String get copy => 'Copy';
+  String get copy => 'کۆپی';
 
   @override
-  String get no_tafsir => 'No Tafsir has been downloaded yet';
+  String get no_tafsir => 'تا ئێستا هیچ تەفسیرێک دانەگیراوە';
 
   @override
-  String get download_tafsir => 'Download the Tafsir';
+  String get download_tafsir => 'تەفسیرەکە دابگرە';
 
   @override
-  String get hussary => 'Mahmoud Khalil Al‑Hussary';
+  String get hussary => 'محمد خلیل الحسری';
 
   @override
-  String get hussary_mujawwad => 'Al‑Hussary (Mujawwad)';
+  String get hussary_mujawwad => 'الحسری (موجەوەد)';
 
   @override
-  String get shuraim => 'Saud Al‑Shuraim';
+  String get shuraim => 'سعود الشریم';
 
   @override
-  String get arrafai => 'Hani Arrafai';
+  String get arrafai => 'هانی ئارافی';
 
   @override
-  String get meaqli => 'Maher Al‑Meaqli';
+  String get meaqli => 'ماهر المعقلی';
 
   @override
-  String get afasy => 'Mishary Al‑Afasy';
+  String get afasy => 'مشاری العفاسی';
 
   @override
-  String get minshawi => 'Al‑Minshawi';
+  String get minshawi => 'مەنشاوی';
 
   @override
-  String get abdulbasit => 'Abdulbasit Abdulsamad';
+  String get abdulbasit => 'عبدالباست عبدالصمد';
 
   @override
-  String get abdulbasit_mujawwad => 'Abdulbasit (Mujawwad)';
+  String get abdulbasit_mujawwad => 'عبدالله ماترود';
 
   @override
-  String get ghamdi => 'Saad Al‑Ghamdi';
+  String get ghamdi => 'سعد الغامدی';
 
   @override
-  String get dosari => 'Yasser Al‑Dosari';
+  String get dosari => 'یاسر الدوسری';
 
   @override
-  String get shatri => 'Abu Bakr Ash‑Shatri';
+  String get shatri => 'ئەبو بەکر شاتری';
 
   @override
-  String get tunaiji => 'Khalifa Al‑Tunaiji';
+  String get tunaiji => 'خەلیفە ئەلتونەیجی';
 
   @override
-  String get sudais => 'Abdulrahman Alsudaes';
+  String get sudais => 'عبدالرحمان السودەیسی';
 
   @override
-  String get tablawi => 'Mohamed Al‑Tablawi';
+  String get tablawi => 'محمد الطبلی';
 
   @override
-  String get abdul_rashid_ali_sufi => 'Abdul Rashid Ali Sufi';
+  String get abdul_rashid_ali_sufi => 'عبدالرشید علی سوفی';
 
   @override
-  String get abdullaah_ajuhaynee_murattal => 'Abdullaah Ajuhaynee';
+  String get abdullaah_ajuhaynee_murattal => 'عبدالله ئەجوحەینی';
 
   @override
-  String get abdullaah_basfar_murattal => 'Abdullah Basfar';
+  String get abdullaah_basfar_murattal => 'عبدالله بەسفەر';
 
   @override
-  String get abdullah_matroud_murattal => 'Abdullah Matroud';
+  String get abdullah_matroud_murattal => 'عبدالله ماترود';
 
   @override
-  String get ahmed_al_ajamy_murattal => 'Ahmed Al Ajamy';
+  String get ahmed_al_ajamy_murattal => 'ئەحمەد العجەمی';
 
   @override
-  String get ahmed_neana_murattal => 'Ahmed Neana';
+  String get ahmed_neana_murattal => 'ئەحمەد نیانا';
 
   @override
-  String get akram_alaqimy_murattal => 'Akram Alaqimy';
+  String get akram_alaqimy_murattal => 'ئەکرەم ئەقیمی';
 
   @override
-  String get ali_hajjaj_suesy_murattal => 'Ali Hajjaj Suesy';
+  String get ali_hajjaj_suesy_murattal => 'علی حەجاجی';
 
   @override
-  String get ali_jaber_murattal => 'Ali Jaber';
+  String get ali_jaber_murattal => 'علی جابر';
 
   @override
-  String get ayman_sowaid_murattal => 'Ayman Sowaid';
+  String get ayman_sowaid_murattal => 'ئەیمان سوەید';
 
   @override
-  String get aziz_alii_murattal => 'Aziz Alii';
+  String get aziz_alii_murattal => 'عەزیز علی';
 
   @override
-  String get fares_abbad_murattal => 'Fares Abbad';
+  String get fares_abbad_murattal => 'فارس عباد';
 
   @override
-  String get hudhaify_murattal => 'Hudhaify';
+  String get hudhaify_murattal => 'حوزەیفی';
 
   @override
-  String get husary_muallim => 'Husary (Mu\'allim)';
+  String get husary_muallim => 'حوسەری (مامۆستا)';
 
   @override
-  String get ibrahim_akhdar_murattal => 'Ibrahim Akhdar';
+  String get ibrahim_akhdar_murattal => 'ئیبراهیم ئەخدەر';
 
   @override
-  String get khaalid_qahataanee_murattal => 'Khaalid Qahataanee';
+  String get khaalid_qahataanee_murattal => 'خالید قەهتانی';
 
   @override
-  String get khalid_al_mohanna => 'Khalid Al Mohanna';
+  String get khalid_al_mohanna => 'خالید الموحەننا';
 
   @override
-  String get mahmoud_ali_al_banna_murattal => 'Mahmoud Ali Al Banna';
+  String get mahmoud_ali_al_banna_murattal => 'محمد علی البنا';
 
   @override
-  String get minshawy_mujawwad => 'Minshawy (Mujawwad)';
+  String get minshawy_mujawwad => 'مەنشاوی (تەجوید)';
 
   @override
-  String get mohammad_rashad_alshareef => 'Mohammad Rashad Alshareef';
+  String get mohammad_rashad_alshareef => 'محمد رشید الشریف';
 
   @override
-  String get muhammad_abdulKareem_murattal => 'Muhammad Abdul Kareem';
+  String get muhammad_abdulKareem_murattal => 'محمد عبدالکریم';
 
   @override
-  String get muhammad_ayyoub_murattal => 'Muhammad Ayyoub';
+  String get muhammad_ayyoub_murattal => 'محمد ئەیوب';
 
   @override
-  String get muhammad_jibreel_murattal => 'Muhammad Jibreel';
+  String get muhammad_jibreel_murattal => 'محمد جبریل';
 
   @override
-  String get muhsin_al_qasim_murattal => 'Muhsin Al Qasim';
+  String get muhsin_al_qasim_murattal => '';
 
   @override
-  String get nabil_rifai3_murattal => 'Nabil Rifai';
+  String get nabil_rifai3_murattal => 'نەبیل ریفای';
 
   @override
-  String get nasser_alqatami_murattal => 'Nasser Alqatami';
+  String get nasser_alqatami_murattal => 'ناسر قوتامی';
 
   @override
-  String get sahl_yassin_murattal => 'Sahl Yassin';
+  String get sahl_yassin_murattal => 'ساحل یاسین';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal =>
-      'Salaah AbdulRahman Bukhatir';
+  String get salaah_abdulRahman_bukhatir_murattal => 'سەلاح عبدالرحمن بوخاتر';
 
   @override
-  String get salah_albudair_murattal => 'Salah AlBudair';
+  String get salah_albudair_murattal => 'سەلاح بودەیر';
 
   @override
-  String get tawfeeq_assayegh => 'Tawfeeq Assayegh';
+  String get tawfeeq_assayegh => 'تەوفیق ئەسیاغ';
 
   @override
-  String get yaser_salamah_murattal => 'Yaser Salamah';
+  String get yaser_salamah_murattal => 'یاسر سەلامە';
 
   @override
-  String get yassin_aljazairi => 'Yassin Al-Jazairî';
+  String get yassin_aljazairi => 'یاسین جەزەری';
 
   @override
-  String get mohammed_abdelkarim => 'Mehmed Abdelekrem';
+  String get mohammed_abdelkarim => 'محمد عبدالکریم';
 
   @override
-  String get alayoun_elkouchi => 'Al-Ayûn El-Kuçî';
+  String get alayoun_elkouchi => 'عیون کۆچی';
 
   @override
-  String get abdelkarim_daghoush => 'Abdelekrem Dağûş';
+  String get abdelkarim_daghoush => 'عبدالكريم داخوش';
 
   @override
-  String get murattal => 'Murattal';
+  String get murattal => 'مورەتەل';
 
   @override
-  String get mujawwad => 'Mujawwad';
+  String get mujawwad => '';
 
   @override
-  String get moallim => 'Almusshaf Al Mo\'llim';
+  String get moallim => 'موسحەفی مامۆستا';
 
   @override
-  String get play => 'Play';
+  String get play => 'کارپێکردن';
 
   @override
-  String get playback_settings => 'Playback Settings';
+  String get playback_settings => 'رێکخستەناکنی کارپێکردن';
 
   @override
-  String get from => 'From';
+  String get from => 'لە';
 
   @override
-  String get to => 'To';
+  String get to => 'بۆ';
 
   @override
   String get range => 'Range';
@@ -1757,7 +1755,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get range_repeat => 'Range Repeat';
 
   @override
-  String get verse_repeat => 'Verse Repeat';
+  String get verse_repeat => 'دووبارە کردنەوەی ئایەت';
 
   @override
   String get improved_Hafs_Rewaya_Force_Update =>
@@ -1765,7 +1763,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description =>
-      'See prayer times come to life with our new animated clock';
+      'سەیری کاتەکانی بانگ بکە لەگەڵ کاتژمێری جولاوەکەمان';
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
@@ -1814,30 +1812,30 @@ class AppLocalizationsKu extends AppLocalizations {
   String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
 
   @override
-  String get most_widespread_riwayah => 'Riwāyahê herî berfireh li dinyayê';
+  String get most_widespread_riwayah => 'The most widespread riwāyah worldwide';
 
   @override
   String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
 
   @override
   String get popular_across_north_west_africa =>
-      'Bilez e Başûr û Rojavayê Afrîkaye';
+      'Popular across North & West Africa';
 
   @override
-  String get select => 'دیاری کردن';
+  String get select => 'Select';
 
   @override
   String get unknown_smartwatch => 'کاتژمێری زیرەکی نەناسراو';
 
   @override
-  String get connected_watch => 'کاتژمێرەکە پەیوەستە';
+  String get connected_watch => 'کاتژمێری پەیوەستاو';
 
   @override
-  String get ready_play_watch => 'ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت';
+  String get ready_play_watch => 'بۆ لێدان لەسەر کاتژمێرەکەت ئامادەیە';
 
   @override
-  String get transliteration => 'Transliterasyon';
+  String get transliteration => 'وەرگێڕان';
 
   @override
-  String get highlight_Tahajjud_Time => 'تیشک بخەرە سەر کاتی تەحجود';
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }
