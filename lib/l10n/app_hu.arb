@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Ismeretlen okosóra",
     "connected_watch": "Csatlakoztatott óra",
     "ready_play_watch": "Csatlakoztatott óra",
-    "transliteration": "Transzliteráció"
+    "transliteration": "Transzliteráció",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
