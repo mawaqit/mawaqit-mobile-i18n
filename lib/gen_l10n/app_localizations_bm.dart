@@ -1835,4 +1835,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get transliteration => 'Transliteration';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

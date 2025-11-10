@@ -1848,4 +1848,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get transliteration => 'Translitteratie';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Markeer de Tahajjud Tijd';
 }

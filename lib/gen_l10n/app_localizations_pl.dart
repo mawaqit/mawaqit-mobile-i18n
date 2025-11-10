@@ -1833,4 +1833,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get transliteration => 'Translitacja';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Podświetl czas Tahajjud';
 }

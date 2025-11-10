@@ -1836,4 +1836,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get transliteration => 'Translitterointi';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Korosta Tahajjud-aika';
 }

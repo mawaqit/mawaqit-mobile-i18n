@@ -1839,4 +1839,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get transliteration => 'Transkriptim';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

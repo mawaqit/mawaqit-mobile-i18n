@@ -1835,4 +1835,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get transliteration => 'Translitterering';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Markera Tahajjud Tid';
 }

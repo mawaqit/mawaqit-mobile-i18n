@@ -3601,6 +3601,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Transliteration'**
   String get transliteration;
+
+  /// ->highlight_Tahajjud_Time
+  ///
+  /// In en, this message translates to:
+  /// **'Highlight Tahajjud Time'**
+  String get highlight_Tahajjud_Time;
 }
 
 class _AppLocalizationsDelegate

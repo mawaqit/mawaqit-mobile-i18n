@@ -1833,4 +1833,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get transliteration => 'ترانویسی';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }

@@ -1837,4 +1837,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get transliteration => 'Transliterasi';
+
+  @override
+  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
 }
