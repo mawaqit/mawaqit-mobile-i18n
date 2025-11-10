@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Неизвестные смарт-часы",
     "connected_watch": "Подключённые часы",
     "ready_play_watch": "готово к воспроизведению на ваших часах",
-    "transliteration": "Транслитерация"
+    "transliteration": "Транслитерация",
+    "highlight_Tahajjud_Time": "Подсветить время Тахаджуда",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
