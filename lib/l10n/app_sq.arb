@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Orë inteligjente e panjohur",
     "connected_watch": "Orë e lidhur",
     "ready_play_watch": "gati për t’u luajtur në orën tënde",
-    "transliteration": "Transkriptim"
+    "transliteration": "Transkriptim",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
