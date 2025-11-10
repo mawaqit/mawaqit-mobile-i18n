@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "अज्ञात स्मार्टवॉच",
     "connected_watch": "कनेक्टेड घड़ी",
     "ready_play_watch": "आपकी घड़ी पर चलाने के लिए तैयार है",
-    "transliteration": "लिप्यंतरण"
+    "transliteration": "लिप्यंतरण",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
