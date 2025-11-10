@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Onbekende smartwatch",
     "connected_watch": "Verbonden horloge",
     "ready_play_watch": "is klaar om op je horloge te spelen",
-    "transliteration": "Translitteratie"
+    "transliteration": "Translitteratie",
+    "highlight_Tahajjud_Time": "Markeer de Tahajjud Tijd",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
