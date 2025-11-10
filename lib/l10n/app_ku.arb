@@ -1010,12 +1010,12 @@
     "email_info": "ئەم ئیمەیڵە بەکاردێت بۆ پەیوەندیکردنت ئەگەر براوەی تیروپشکەکە بوویت",
     "enter_email": "ئیمێلی خۆت داخل بکە",
     "email_privacy": "MAWAQIT ئەم ئیمەیڵە لەگەڵ کەسدا بڵاو ناکاتەوە. دوای هەر تیروپشکێک ئیمەیڵەکە بە شێوەیەکی ئۆتۆماتیکی لە بنکەی زانیاریەکانی ئێمە دەسڕدرێتەوە",
-    "submit": "Submit",
+    "submit": "پێشکەشکردن",
     "disclaimer": "MAWAQIT لە هەر بەرپرسیارێتییەک بێبەرییە سەبارەت بەو خزمەتگوزارییانەی کە لەلایەن پڕۆژەکانی لیستکراوەوە پێشنیارکراون. تکایە خۆتان وردبینی و لێکۆڵینەوە بکەن",
-    "participating_with": "You're participating with",
-    "no_of_tickets": "No. of tickets:",
-    "unparticipate": "Click to unparticipate",
-    "next_ticket": "The next ticket available in",
+    "participating_with": "تۆ بەژداریتکردووە لەگەڵ",
+    "no_of_tickets": "کلیک بکە بۆ بەژدارنەکردن:",
+    "unparticipate": "کلیک بکە بۆ بەژدارنەکردن",
+    "next_ticket": "تیکێتی داهاتوو بەردەستە لە",
     "click_here": "لێرە کلیک بکە",
     "mawaqit_store": "کۆگای مەواقیت",
     "no_projects": "هیچ پڕۆژەیەک لەبەردەستدا نییە",
@@ -1135,10 +1135,10 @@
     "playback_settings": "رێکخستەناکنی کارپێکردن",
     "from": "لە",
     "to": "بۆ",
-    "range": "Range",
+    "range": "مەودا",
     "select_starting_verse": "Select Starting Verse",
     "select_ending_verse": "Select Ending Verse",
-    "range_repeat": "Range Repeat",
+    "range_repeat": "دووبارەکردنەوەی مەودا",
     "verse_repeat": "دووبارە کردنەوەی ئایەت",
     "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
     "@improved_Hafs_Rewaya_Force_Update": {
@@ -1164,7 +1164,7 @@
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "Next prayer",
+    "next_prayer_open": "نوێژی داهاتوو",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
@@ -1180,11 +1180,11 @@
     "@live_preview": {
         "description": "-> live_preview"
     },
-    "font_Size_Normal": "Normal",
+    "font_Size_Normal": "ئاسایی",
     "@font_Size_Normal": {
         "description": "-> font_Size_Normal"
     },
-    "font_Size_Large": "Large",
+    "font_Size_Large": "گەورە",
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
@@ -1192,11 +1192,11 @@
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
-    "settingFontSize": "Font Size",
+    "settingFontSize": "فۆنتی گەورە",
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "last_Third_Of_The_Night": "سێیەکی شەو",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
