@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "نااشنا سمارټ واچ",
     "connected_watch": "نښلول شوی ساعت",
     "ready_play_watch": "ستاسو په ساعت کې د غږولو لپاره چمتو دی",
-    "transliteration": "ټرانسلېتراسیون"
+    "transliteration": "ټرانسلېتراسیون",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
