@@ -1209,5 +1209,9 @@
     "unknown_smartwatch": "Smartwatch tidak dikenal",
     "connected_watch": "Jam tersambung",
     "ready_play_watch": "siap diputar di arloji Anda",
-    "transliteration": "Transliterasi"
+    "transliteration": "Transliterasi",
+    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    }
 }
