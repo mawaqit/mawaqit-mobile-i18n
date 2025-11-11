@@ -1136,11 +1136,11 @@
     "from": "لە",
     "to": "بۆ",
     "range": "مەودا",
-    "select_starting_verse": "Select Starting Verse",
+    "select_starting_verse": "ئایەتی دەستپێکردن هەڵبژێرە",
     "select_ending_verse": "ئایەتی کۆتایی هەڵبژێرە",
     "range_repeat": "دووبارەکردنەوەی مەودا",
     "verse_repeat": "دووبارە کردنەوەی ئایەت",
-    "improved_Hafs_Rewaya_Force_Update": "",
+    "improved_Hafs_Rewaya_Force_Update": "ئێمە حەفس ڕێوایاتان باشتر کردووە. ئێستا دایبەزێنە بۆ گەڕان بەدوای تەفسیر و گوێگرتن لە قورئانخوێنەکان بە داگرتنی پەنجە لەسەر هەر ئایەتێک",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
@@ -1205,7 +1205,7 @@
     "most_widespread_riwayah": "The most widespread riwāyah worldwide",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
     "popular_across_north_west_africa": "Popular across North & West Africa",
-    "select": "Select",
+    "select": "دیاریکردن",
     "unknown_smartwatch": "کاتژمێری زیرەکی نەناسراو",
     "connected_watch": "کاتژمێری پەیوەستاو",
     "ready_play_watch": "بۆ لێدان لەسەر کاتژمێرەکەت ئامادەیە",
