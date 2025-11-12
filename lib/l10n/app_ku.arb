@@ -1148,19 +1148,19 @@
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "",
+    "hnpai_User_Guidance_MAWAQIT_360": "لەکاتی بەکارهێنانی دیمەنی 360 تۆ ناتوانی ئەو ڕێکخستەنە بکوژێنیتەوە",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
-    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "mawaqit_three_sixty_beta": "مەواقیت 360 (تاقیکاری)",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "360 Settings",
+    "three_sixty_setting": "ڕێکخستنەکانی 360",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "Behavior",
+    "behavior": "هەڵسوکەوت",
     "@behavior": {
         "description": "-> behavior"
     },
@@ -1168,15 +1168,15 @@
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "All closed",
+    "all_prayer_closed": "هەمووی داخراوە",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
-    "recomended_next_prayer": "Recommended: Next prayer only",
+    "recomended_next_prayer": "پێشنیارکراو: تەنها بۆ نوێژی داهاتوو",
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "Live Preview",
+    "live_preview": "پێشبینینی ڕاستەوخۆ",
     "@live_preview": {
         "description": "-> live_preview"
     },
@@ -1188,7 +1188,7 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "All open",
+    "all_Prayer_Open": "هەموویان کراوەن",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
@@ -1200,17 +1200,17 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Shaykh Aminuddin Muhammad",
-    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
-    "most_widespread_riwayah": "The most widespread riwāyah worldwide",
-    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
-    "popular_across_north_west_africa": "Popular across North & West Africa",
+    "shaykh_aminuddin_muhammad": "شێخ ئەمینودین محمد",
+    "hafs_an_asim": "حفس و عاسم",
+    "most_widespread_riwayah": "بەربڵاوترین ڕیوایە لە سەرانسەری جیهاندا",
+    "warsh_an_nafi": "وەرش و نافع",
+    "popular_across_north_west_africa": "لە سەرانسەری باکوور و ڕۆژئاوای ئەفریقادا بەناوبانگە",
     "select": "دیاریکردن",
     "unknown_smartwatch": "کاتژمێری زیرەکی نەناسراو",
     "connected_watch": "کاتژمێری پەیوەستاو",
     "ready_play_watch": "بۆ لێدان لەسەر کاتژمێرەکەت ئامادەیە",
     "transliteration": "وەرگێڕان",
-    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "highlight_Tahajjud_Time": "تیشکبخەرە سەر کاتی تەجوید",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     }
