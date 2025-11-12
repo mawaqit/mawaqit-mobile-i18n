@@ -1765,28 +1765,29 @@ class AppLocalizationsKu extends AppLocalizations {
       'سەیری کاتەکانی بانگ بکە لەگەڵ کاتژمێری جولاوەکەمان';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => '';
+  String get hnpai_User_Guidance_MAWAQIT_360 =>
+      'لەکاتی بەکارهێنانی دیمەنی 360 تۆ ناتوانی ئەو ڕێکخستەنە بکوژێنیتەوە';
 
   @override
-  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
+  String get mawaqit_three_sixty_beta => 'مەواقیت 360 (تاقیکاری)';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => 'ڕێکخستنەکانی 360';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'هەڵسوکەوت';
 
   @override
   String get next_prayer_open => 'نوێژی داهاتوو';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'هەمووی داخراوە';
 
   @override
-  String get recomended_next_prayer => 'Recommended: Next prayer only';
+  String get recomended_next_prayer => 'پێشنیارکراو: تەنها بۆ نوێژی داهاتوو';
 
   @override
-  String get live_preview => 'Live Preview';
+  String get live_preview => 'پێشبینینی ڕاستەوخۆ';
 
   @override
   String get font_Size_Normal => 'ئاسایی';
@@ -1795,7 +1796,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get font_Size_Large => 'گەورە';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'هەموویان کراوەن';
 
   @override
   String get settingFontSize => 'فۆنتی گەورە';
@@ -1804,20 +1805,21 @@ class AppLocalizationsKu extends AppLocalizations {
   String get last_Third_Of_The_Night => 'سێیەکی شەو';
 
   @override
-  String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
+  String get shaykh_aminuddin_muhammad => 'شێخ ئەمینودین محمد';
 
   @override
-  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+  String get hafs_an_asim => 'حفس و عاسم';
 
   @override
-  String get most_widespread_riwayah => 'The most widespread riwāyah worldwide';
+  String get most_widespread_riwayah =>
+      'بەربڵاوترین ڕیوایە لە سەرانسەری جیهاندا';
 
   @override
-  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+  String get warsh_an_nafi => 'وەرش و نافع';
 
   @override
   String get popular_across_north_west_africa =>
-      'Popular across North & West Africa';
+      'لە سەرانسەری باکوور و ڕۆژئاوای ئەفریقادا بەناوبانگە';
 
   @override
   String get select => 'دیاریکردن';
@@ -1835,5 +1837,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get transliteration => 'وەرگێڕان';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'تیشکبخەرە سەر کاتی تەجوید';
 }
