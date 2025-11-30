@@ -1719,7 +1719,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get alayoun_elkouchi => 'ئەلئەيۇن ئەلكوشى';
 
   @override
-  String get abdelkarim_daghoush => 'Abdelkarim Daghoush';
+  String get abdelkarim_daghoush => 'ئابدېلكەرىم داغۇش';
 
   @override
   String get murattal => 'مرتل';
@@ -1734,95 +1734,95 @@ class AppLocalizationsUg extends AppLocalizations {
   String get play => 'چلائیں';
 
   @override
-  String get playback_settings => 'Playback Settings';
+  String get playback_settings => 'ياڭرىتىش تەڭشىكى';
 
   @override
-  String get from => 'From';
+  String get from => 'باشلىنىش';
 
   @override
-  String get to => 'To';
+  String get to => 'ئاخىرلىشىش';
 
   @override
-  String get range => 'Range';
+  String get range => 'دائىرە';
 
   @override
-  String get select_starting_verse => 'Select Starting Verse';
+  String get select_starting_verse => 'باشلىنىش ئايىتى تاللىنىدۇ';
 
   @override
-  String get select_ending_verse => 'Select Ending Verse';
+  String get select_ending_verse => 'ئاخىرلىشىش ئايىتى تاللىنىدۇ';
 
   @override
-  String get range_repeat => 'Range Repeat';
+  String get range_repeat => 'تەكرارلايدىغان دائىرە';
 
   @override
-  String get verse_repeat => 'Verse Repeat';
+  String get verse_repeat => 'ئايەتنى تەكرارلا';
 
   @override
   String get improved_Hafs_Rewaya_Force_Update =>
-      'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
+      'ھافىز رىۋايىتىنى ياخشىلىدۇق. تەپسىرنى ھازىر چۈشۈرۈپ ۋە خالىغان ئايەتنى ئۇزۇن بېسىپ قىرائىتىنى ئاڭلاڭ';
 
   @override
   String get mawaqit_three_sixty_description =>
-      'See prayer times come to life with our new animated clock';
+      'ناماز ۋاقتىنىڭ يېڭى جانلاندۇرۇم سائەتتە قانداق ھەرىكەتلىنىدىغانلىقىنى كۆرۈڭ';
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
-      'While using 360 view you cannot off this setting';
+      '360 كۆرۈنۈشنى ئىشلەتكەندە بۇ تەڭشەكنى تاقىيالمايسىز';
 
   @override
-  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (سىناق)';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => '360 تەڭشەك';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'مەشغۇلات';
 
   @override
-  String get next_prayer_open => 'Next prayer';
+  String get next_prayer_open => 'كېيىنكى ناماز';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'ھەممىسى يېپىلدى';
 
   @override
-  String get recomended_next_prayer => 'Recommended: Next prayer only';
+  String get recomended_next_prayer => 'تەۋسىيە: كېيىنكى نامازلا';
 
   @override
-  String get live_preview => 'Live Preview';
+  String get live_preview => 'شۇئان ئالدىن كۆزىتىش';
 
   @override
-  String get font_Size_Normal => 'Normal';
+  String get font_Size_Normal => 'ئادەتتىكى';
 
   @override
-  String get font_Size_Large => 'Large';
+  String get font_Size_Large => 'چوڭ';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'ھەممىسى ئېچىلدى';
 
   @override
-  String get settingFontSize => 'Font Size';
+  String get settingFontSize => 'خەت چوڭلۇقى';
 
   @override
-  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+  String get last_Third_Of_The_Night => 'كېچىنىڭ ئاخىرقى ئۈچتىن بىرى';
 
   @override
-  String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
+  String get shaykh_aminuddin_muhammad => 'قارى ئەمىنۇددىن مۇھەممەد';
 
   @override
-  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+  String get hafs_an_asim => 'قارى ئەن ئاسىن';
 
   @override
-  String get most_widespread_riwayah => 'The most widespread riwāyah worldwide';
+  String get most_widespread_riwayah => 'دۇنياغا ئەڭ كەڭ تارقالغان رىۋايەت';
 
   @override
-  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+  String get warsh_an_nafi => 'تەجۋىدلىك قۇرئان ۋارش ۋە نەفى';
 
   @override
   String get popular_across_north_west_africa =>
-      'Popular across North & West Africa';
+      'شىمالىي ۋە غەربىي ئافرىقىدا كەڭ تارقالغان';
 
   @override
-  String get select => 'Select';
+  String get select => 'تاللىنىدۇ';
 
   @override
   String get unknown_smartwatch => 'نامەلۇم ئەقىللىق سائەت';
@@ -1834,8 +1834,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get ready_play_watch => 'سائىتىڭىزدا قويۇشقا تەييار';
 
   @override
-  String get transliteration => 'Transliteration';
+  String get transliteration => 'تەرجىمىسى';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'تەھەججۇد ۋاقتىنى يورۇتىدۇ';
 }
