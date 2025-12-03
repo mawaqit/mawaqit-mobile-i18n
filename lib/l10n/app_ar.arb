@@ -1168,7 +1168,7 @@
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "تم إغلاق الكل",
+    "all_prayer_closed": "إغلاق الكل",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
@@ -1188,7 +1188,7 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "كل الفتح",
+    "all_Prayer_Open": "فتح الكل",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
