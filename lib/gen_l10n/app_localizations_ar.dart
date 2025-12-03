@@ -1759,7 +1759,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get next_prayer_open => 'الصلاة التالية';
 
   @override
-  String get all_prayer_closed => 'تم إغلاق الكل';
+  String get all_prayer_closed => 'إغلاق الكل';
 
   @override
   String get recomended_next_prayer => 'موصى به: الصلاة التالية فقط';
@@ -1774,7 +1774,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get font_Size_Large => 'كبير';
 
   @override
-  String get all_Prayer_Open => 'كل الفتح';
+  String get all_Prayer_Open => 'فتح الكل';
 
   @override
   String get settingFontSize => 'Font Size';
