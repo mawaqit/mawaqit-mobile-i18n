@@ -1160,7 +1160,7 @@
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "السلوك",
+    "behavior": "نمط الفتح",
     "@behavior": {
         "description": "-> behavior"
     },
