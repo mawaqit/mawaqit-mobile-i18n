@@ -1753,7 +1753,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get three_sixty_setting => 'إعدادات مواقيت 360';
 
   @override
-  String get behavior => 'السلوك';
+  String get behavior => 'نمط الفتح';
 
   @override
   String get next_prayer_open => 'الصلاة التالية';

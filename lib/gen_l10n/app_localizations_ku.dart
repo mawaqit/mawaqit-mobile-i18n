@@ -1824,7 +1824,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'Bilez e Başûr û Rojavayê Afrîkaye';
 
   @override
-  String get select => 'دیاری کردن';
+  String get select => 'دیاریکردن';
 
   @override
   String get unknown_smartwatch => 'کاتژمێری زیرەکی نەناسراو';
@@ -1836,10 +1836,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get ready_play_watch => 'ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت';
 
   @override
-  String get transliteration => 'Transliterasyon';
+  String get transliteration => 'وەرگێڕان';
 
   @override
-  String get highlight_Tahajjud_Time => 'تیشک بخەرە سەر کاتی تەحجود';
+  String get highlight_Tahajjud_Time => 'تیشکبخەرە سەر کاتی تەجوید';
 
   @override
   String get calendar_access_not_available =>
