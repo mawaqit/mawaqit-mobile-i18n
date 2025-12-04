@@ -1213,5 +1213,18 @@
     "highlight_Tahajjud_Time": "Korosta Tahajjud-aika",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "Kalenterin käyttö ei ole käytettävissä.",
+    "calendar_allow_access_mawaqit": "Ole hyvä ja salli kalenterin pääsy näyttämään tapahtumasi MAWAQIT 360.",
+    "calendar_access_required": "Kalenterin käyttö vaaditaan tapahtumien näyttämiseen.",
+    "calendar_allow_access_button": "Salli kalenterin käyttö",
+    "calendar_loading": "Loading calendars…",
+    "calendar_select_for_mawaqit": "Valitse kalenterit, jotka haluat näyttää MAWAQIT 360.",
+    "calendar_enable_all": "Ota kaikki käyttöön",
+    "calendar_disable_all": "Poista kaikki käytöstä",
+    "calendar_other_calendars": "Muut kalenterit",
+    "calendar_times_shown_in": "Ajat näytetään",
+    "calendar_starts_on": "Aloittaa",
+    "calendar_ends_on": "Päättyy päälle",
+    "calendar_events_at_this_time": "Tällä hetkellä tapahtumat"
 }
