@@ -1213,5 +1213,18 @@
     "highlight_Tahajjud_Time": "إبراز وقت التهجد",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "الوصول إلى التقويم غير متاح.",
+    "calendar_allow_access_mawaqit": "يرجى السماح بالوصول إلى التقويم لعرض أحداثك على مواقيت 360.",
+    "calendar_access_required": "يلزم الوصول إلى التقويم لعرض أحداثك.",
+    "calendar_allow_access_button": "السماح بالوصول إلى التقويم",
+    "calendar_loading": "جاري تحميل التقويمات…",
+    "calendar_select_for_mawaqit": "اختر التقاويم التي تريد عرضها على مواقيت 360.",
+    "calendar_enable_all": "تفعيل الكل",
+    "calendar_disable_all": "تعطيل الكل",
+    "calendar_other_calendars": "تقويمات أخرى",
+    "calendar_times_shown_in": "الأوقات معروضة بـ",
+    "calendar_starts_on": "يبدأ في",
+    "calendar_ends_on": "ينتهي في",
+    "calendar_events_at_this_time": "أحداث في هذا الوقت"
 }
