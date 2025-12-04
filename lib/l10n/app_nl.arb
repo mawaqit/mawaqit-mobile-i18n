@@ -1213,5 +1213,18 @@
     "highlight_Tahajjud_Time": "Markeer de Tahajjud Tijd",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "Kalender toegang is niet beschikbaar.",
+    "calendar_allow_access_mawaqit": "Geef a.u.b. toegang tot uw afspraken op MAWAQIT 360.",
+    "calendar_access_required": "Kalender heeft toegang nodig om je afspraken te tonen.",
+    "calendar_allow_access_button": "Agenda-toegang toestaan",
+    "calendar_loading": "Kalenders laden…",
+    "calendar_select_for_mawaqit": "Selecteer de kalenders die u wilt weergeven op MAWAQIT 360.",
+    "calendar_enable_all": "Alles inschakelen",
+    "calendar_disable_all": "Alles uitschakelen",
+    "calendar_other_calendars": "Andere kalenders",
+    "calendar_times_shown_in": "Tijden getoond in",
+    "calendar_starts_on": "Begint op",
+    "calendar_ends_on": "Eindigt op",
+    "calendar_events_at_this_time": "Gebeurtenissen op dit moment"
 }
