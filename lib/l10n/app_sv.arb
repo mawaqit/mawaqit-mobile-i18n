@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1213,5 +1213,18 @@
     "highlight_Tahajjud_Time": "Markera Tahajjud Tid",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "Kalenderåtkomst är inte tillgänglig.",
+    "calendar_allow_access_mawaqit": "Ge kalenderåtkomst för att visa dina händelser på MAWAQIT 360.",
+    "calendar_access_required": "Kalenderåtkomst krävs för att visa dina händelser.",
+    "calendar_allow_access_button": "Tillåt åtkomst till kalender",
+    "calendar_loading": "Laddar kalendrar…",
+    "calendar_select_for_mawaqit": "Välj de kalendrar du vill visa på MAWAQIT 360.",
+    "calendar_enable_all": "Aktivera alla",
+    "calendar_disable_all": "Inaktivera alla",
+    "calendar_other_calendars": "Andra kalendrar",
+    "calendar_times_shown_in": "Tider som visas i",
+    "calendar_starts_on": "Börjar på",
+    "calendar_ends_on": "Slutar på",
+    "calendar_events_at_this_time": "Händelser vid denna tid"
 }
