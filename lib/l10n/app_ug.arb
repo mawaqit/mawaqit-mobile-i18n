@@ -1214,17 +1214,17 @@
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
-    "calendar_access_not_available": "Calendar access is not available.",
-    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
-    "calendar_access_required": "Calendar access is required to show your events.",
-    "calendar_allow_access_button": "Allow calendar access",
-    "calendar_loading": "Loading calendars…",
-    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
-    "calendar_enable_all": "Enable all",
-    "calendar_disable_all": "Disable all",
-    "calendar_other_calendars": "Other calendars",
-    "calendar_times_shown_in": "Times shown in",
-    "calendar_starts_on": "Starts on",
-    "calendar_ends_on": "Ends on",
-    "calendar_events_at_this_time": "Events at this time"
+    "calendar_access_not_available": "يىلنامە ئىجازىتىنى ئىشلەتكىلى بولمايدۇ.",
+    "calendar_allow_access_mawaqit": "MAWAQIT 360 تا يىلنامەدىكى پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن ئىجازەت بېرىڭ.",
+    "calendar_access_required": "پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن يىلنامە زىيارەت ئىجازىتى زۆرۈر.",
+    "calendar_allow_access_button": "يىلنامە ئىجازىتىگە يول قوي",
+    "calendar_loading": "يىلنامە يۈكلەۋاتىدۇ…",
+    "calendar_select_for_mawaqit": "سىز MAWAQIT 360 تا كۆرسەتمەكچى بولغان يىلنامەنى تاللاڭ.",
+    "calendar_enable_all": "ھەممىنى قوزغات",
+    "calendar_disable_all": "ھەممىنى چەكلە",
+    "calendar_other_calendars": "باشقا يىلنامە",
+    "calendar_times_shown_in": "كۆرسىتىلگەن ۋاقىت",
+    "calendar_starts_on": "باشلىنىش ۋاقتى",
+    "calendar_ends_on": "ئاخىرلىشىش ۋاقتى",
+    "calendar_events_at_this_time": "بۇ ۋاقىتتىكى پائالىيەت"
 }
