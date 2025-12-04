@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1213,5 +1213,18 @@
     "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "Calendar access is not available.",
+    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
+    "calendar_access_required": "Calendar access is required to show your events.",
+    "calendar_allow_access_button": "Allow calendar access",
+    "calendar_loading": "Loading calendars…",
+    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
+    "calendar_enable_all": "Enable all",
+    "calendar_disable_all": "Disable all",
+    "calendar_other_calendars": "Other calendars",
+    "calendar_times_shown_in": "Times shown in",
+    "calendar_starts_on": "Starts on",
+    "calendar_ends_on": "Ends on",
+    "calendar_events_at_this_time": "Events at this time"
 }
