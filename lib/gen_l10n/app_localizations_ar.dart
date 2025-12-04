@@ -1814,4 +1814,45 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get highlight_Tahajjud_Time => 'إبراز وقت التهجد';
+
+  @override
+  String get calendar_access_not_available => 'الوصول إلى التقويم غير متاح.';
+
+  @override
+  String get calendar_allow_access_mawaqit =>
+      'يرجى السماح بالوصول إلى التقويم لعرض أحداثك على مواقيت 360.';
+
+  @override
+  String get calendar_access_required => 'يلزم الوصول إلى التقويم لعرض أحداثك.';
+
+  @override
+  String get calendar_allow_access_button => 'السماح بالوصول إلى التقويم';
+
+  @override
+  String get calendar_loading => 'جاري تحميل التقويمات…';
+
+  @override
+  String get calendar_select_for_mawaqit =>
+      'اختر التقاويم التي تريد عرضها على مواقيت 360.';
+
+  @override
+  String get calendar_enable_all => 'تفعيل الكل';
+
+  @override
+  String get calendar_disable_all => 'تعطيل الكل';
+
+  @override
+  String get calendar_other_calendars => 'تقويمات أخرى';
+
+  @override
+  String get calendar_times_shown_in => 'الأوقات معروضة بـ';
+
+  @override
+  String get calendar_starts_on => 'يبدأ في';
+
+  @override
+  String get calendar_ends_on => 'ينتهي في';
+
+  @override
+  String get calendar_events_at_this_time => 'أحداث في هذا الوقت';
 }

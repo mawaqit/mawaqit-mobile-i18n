@@ -1860,4 +1860,47 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get highlight_Tahajjud_Time => 'Surligner l\'heure de Tahajjud';
+
+  @override
+  String get calendar_access_not_available =>
+      'L’accès au calendrier n’est pas disponible.';
+
+  @override
+  String get calendar_allow_access_mawaqit =>
+      'Veuillez autoriser l’accès au calendrier pour afficher vos événements sur MAWAQIT 360.';
+
+  @override
+  String get calendar_access_required =>
+      'L’accès au calendrier est requis pour afficher vos événements.';
+
+  @override
+  String get calendar_allow_access_button => 'Autoriser l’accès au calendrier';
+
+  @override
+  String get calendar_loading => 'Chargement des calendriers…';
+
+  @override
+  String get calendar_select_for_mawaqit =>
+      'Sélectionnez les calendriers à afficher sur MAWAQIT 360.';
+
+  @override
+  String get calendar_enable_all => 'Tout activer';
+
+  @override
+  String get calendar_disable_all => 'Tout désactiver';
+
+  @override
+  String get calendar_other_calendars => 'Autres calendriers';
+
+  @override
+  String get calendar_times_shown_in => 'Heures affichées en';
+
+  @override
+  String get calendar_starts_on => 'Commence le';
+
+  @override
+  String get calendar_ends_on => 'Se termine le';
+
+  @override
+  String get calendar_events_at_this_time => 'Événements à cette heure';
 }
