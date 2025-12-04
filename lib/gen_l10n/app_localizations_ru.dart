@@ -1840,4 +1840,46 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get highlight_Tahajjud_Time => 'Подсветить время Тахаджуда';
+
+  @override
+  String get calendar_access_not_available => 'Доступ к календарю недоступен.';
+
+  @override
+  String get calendar_allow_access_mawaqit =>
+      'Пожалуйста, разрешите доступ к календарю для отображения ваших событий на MAWAQIT 360.';
+
+  @override
+  String get calendar_access_required =>
+      'Для отображения событий необходим доступ к календарю.';
+
+  @override
+  String get calendar_allow_access_button => 'Разрешить доступ к календарю';
+
+  @override
+  String get calendar_loading => 'Загрузка календарей…';
+
+  @override
+  String get calendar_select_for_mawaqit =>
+      'Выберите календари, которые вы хотите отобразить на MAWAQIT 360.';
+
+  @override
+  String get calendar_enable_all => 'Включить все';
+
+  @override
+  String get calendar_disable_all => 'Отключить все';
+
+  @override
+  String get calendar_other_calendars => 'Другие календари';
+
+  @override
+  String get calendar_times_shown_in => 'Количество отображается в';
+
+  @override
+  String get calendar_starts_on => 'Начинается с';
+
+  @override
+  String get calendar_ends_on => 'Окончание';
+
+  @override
+  String get calendar_events_at_this_time => 'События в это время';
 }

@@ -1205,13 +1205,26 @@
     "most_widespread_riwayah": "Riwāyahê herî berfireh li dinyayê",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
     "popular_across_north_west_africa": "Bilez e Başûr û Rojavayê Afrîkaye",
-    "select": "Select",
+    "select": "دیاری کردن",
     "unknown_smartwatch": "کاتژمێری زیرەکی نەناسراو",
     "connected_watch": "کاتژمێرەکە پەیوەستە",
     "ready_play_watch": "ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت",
     "transliteration": "Transliterasyon",
-    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "highlight_Tahajjud_Time": "تیشک بخەرە سەر کاتی تەحجود",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "Calendar access is not available.",
+    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
+    "calendar_access_required": "Calendar access is required to show your events.",
+    "calendar_allow_access_button": "Allow calendar access",
+    "calendar_loading": "Loading calendars…",
+    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
+    "calendar_enable_all": "Enable all",
+    "calendar_disable_all": "Disable all",
+    "calendar_other_calendars": "Other calendars",
+    "calendar_times_shown_in": "Times shown in",
+    "calendar_starts_on": "Starts on",
+    "calendar_ends_on": "Ends on",
+    "calendar_events_at_this_time": "Events at this time"
 }

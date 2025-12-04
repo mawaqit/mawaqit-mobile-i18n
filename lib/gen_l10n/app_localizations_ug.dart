@@ -1616,110 +1616,110 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tablawi => 'محمد الطبلاوی';
 
   @override
-  String get abdul_rashid_ali_sufi => 'Abdul Rashid Ali Sufi';
+  String get abdul_rashid_ali_sufi => 'ئابدۇل راشىد ئەلى سۇفى';
 
   @override
-  String get abdullaah_ajuhaynee_murattal => 'Abdullaah Ajuhaynee';
+  String get abdullaah_ajuhaynee_murattal => 'ئابدۇللاھ ئاجۇخەينې';
 
   @override
-  String get abdullaah_basfar_murattal => 'Abdullah Basfar';
+  String get abdullaah_basfar_murattal => 'ئابدۇللاھ باسفار';
 
   @override
-  String get abdullah_matroud_murattal => 'Abdullah Matroud';
+  String get abdullah_matroud_murattal => 'ئابدۇللاھ مەترود';
 
   @override
-  String get ahmed_al_ajamy_murattal => 'Ahmed Al Ajamy';
+  String get ahmed_al_ajamy_murattal => 'ئەخمەد ئەل ئەجەمى';
 
   @override
-  String get ahmed_neana_murattal => 'Ahmed Neana';
+  String get ahmed_neana_murattal => 'ئەھمەد نېئانا';
 
   @override
-  String get akram_alaqimy_murattal => 'Akram Alaqimy';
+  String get akram_alaqimy_murattal => 'ئەكرەم ئەلئاقىمى';
 
   @override
-  String get ali_hajjaj_suesy_murattal => 'Ali Hajjaj Suesy';
+  String get ali_hajjaj_suesy_murattal => 'ئەلى ھەججاج سۇئېسى';
 
   @override
-  String get ali_jaber_murattal => 'Ali Jaber';
+  String get ali_jaber_murattal => 'ئەلى جابېر';
 
   @override
-  String get ayman_sowaid_murattal => 'Ayman Sowaid';
+  String get ayman_sowaid_murattal => 'ئايمان سوۋەئىد';
 
   @override
-  String get aziz_alii_murattal => 'Aziz Alii';
+  String get aziz_alii_murattal => 'ئەزىز ئالىئى';
 
   @override
-  String get fares_abbad_murattal => 'Fares Abbad';
+  String get fares_abbad_murattal => 'فارېس ئابباد';
 
   @override
-  String get hudhaify_murattal => 'Hudhaify';
+  String get hudhaify_murattal => 'ھۇدھەيفى';
 
   @override
-  String get husary_muallim => 'Husary (Mu\'allim)';
+  String get husary_muallim => 'ھۇسارى (مۇئەللىم)';
 
   @override
-  String get ibrahim_akhdar_murattal => 'Ibrahim Akhdar';
+  String get ibrahim_akhdar_murattal => 'ئىبراھىم ئاقدار';
 
   @override
-  String get khaalid_qahataanee_murattal => 'Khaalid Qahataanee';
+  String get khaalid_qahataanee_murattal => 'خالىد قاخاتانې';
 
   @override
-  String get khalid_al_mohanna => 'Khalid Al Mohanna';
+  String get khalid_al_mohanna => 'خالىد ئەل موھاننا';
 
   @override
-  String get mahmoud_ali_al_banna_murattal => 'Mahmoud Ali Al Banna';
+  String get mahmoud_ali_al_banna_murattal => 'مەھمۇد ئەلى ئەل باننا';
 
   @override
-  String get minshawy_mujawwad => 'Minshawy (Mujawwad)';
+  String get minshawy_mujawwad => 'مىنشاۋى (مۇجاۋۋاد)';
 
   @override
-  String get mohammad_rashad_alshareef => 'Mohammad Rashad Alshareef';
+  String get mohammad_rashad_alshareef => 'مۇھەممەد راشاد ئەلشارېف';
 
   @override
-  String get muhammad_abdulKareem_murattal => 'Muhammad Abdul Kareem';
+  String get muhammad_abdulKareem_murattal => 'مۇھەممەد ئابدۇل كەرېم';
 
   @override
-  String get muhammad_ayyoub_murattal => 'Muhammad Ayyoub';
+  String get muhammad_ayyoub_murattal => 'مۇھەممەد ئەييۇب';
 
   @override
-  String get muhammad_jibreel_murattal => 'Muhammad Jibreel';
+  String get muhammad_jibreel_murattal => 'مۇھەممەد جىبرېل';
 
   @override
-  String get muhsin_al_qasim_murattal => 'Muhsin Al Qasim';
+  String get muhsin_al_qasim_murattal => 'مۇھسىن ئەل قاسىم';
 
   @override
-  String get nabil_rifai3_murattal => 'Nabil Rifai';
+  String get nabil_rifai3_murattal => 'نەبىل رىفائى';
 
   @override
-  String get nasser_alqatami_murattal => 'Nasser Alqatami';
+  String get nasser_alqatami_murattal => 'ناسىر ئەلقاتامى';
 
   @override
-  String get sahl_yassin_murattal => 'Sahl Yassin';
+  String get sahl_yassin_murattal => 'سەھل ياسىن';
 
   @override
   String get salaah_abdulRahman_bukhatir_murattal =>
-      'Salaah AbdulRahman Bukhatir';
+      'سالاھ ئابدۇلراھمان بۇخاتىر';
 
   @override
-  String get salah_albudair_murattal => 'Salah AlBudair';
+  String get salah_albudair_murattal => 'سالاھ ئەلبۇدىر';
 
   @override
-  String get tawfeeq_assayegh => 'Tawfeeq Assayegh';
+  String get tawfeeq_assayegh => 'تەۋفىق ئەسسايىغ';
 
   @override
-  String get yaser_salamah_murattal => 'Yaser Salamah';
+  String get yaser_salamah_murattal => 'ياسېر سالاماھ';
 
   @override
-  String get yassin_aljazairi => 'Yassin Al-Jazairi';
+  String get yassin_aljazairi => 'ياسىن ئەل جەزائىرى';
 
   @override
-  String get mohammed_abdelkarim => 'Mohammed Abdelkarim';
+  String get mohammed_abdelkarim => 'مۇھەممەد ئابدىلكەرىم';
 
   @override
-  String get alayoun_elkouchi => 'Al-Ayoun El-Kouchi';
+  String get alayoun_elkouchi => 'ئەلئەيۇن ئەلكوشى';
 
   @override
-  String get abdelkarim_daghoush => 'Abdelkarim Daghoush';
+  String get abdelkarim_daghoush => 'ئابدېلكەرىم داغۇش';
 
   @override
   String get murattal => 'مرتل';
@@ -1734,95 +1734,95 @@ class AppLocalizationsUg extends AppLocalizations {
   String get play => 'چلائیں';
 
   @override
-  String get playback_settings => 'Playback Settings';
+  String get playback_settings => 'ياڭرىتىش تەڭشىكى';
 
   @override
-  String get from => 'From';
+  String get from => 'باشلىنىش';
 
   @override
-  String get to => 'To';
+  String get to => 'ئاخىرلىشىش';
 
   @override
-  String get range => 'Range';
+  String get range => 'دائىرە';
 
   @override
-  String get select_starting_verse => 'Select Starting Verse';
+  String get select_starting_verse => 'باشلىنىش ئايىتى تاللىنىدۇ';
 
   @override
-  String get select_ending_verse => 'Select Ending Verse';
+  String get select_ending_verse => 'ئاخىرلىشىش ئايىتى تاللىنىدۇ';
 
   @override
-  String get range_repeat => 'Range Repeat';
+  String get range_repeat => 'تەكرارلايدىغان دائىرە';
 
   @override
-  String get verse_repeat => 'Verse Repeat';
+  String get verse_repeat => 'ئايەتنى تەكرارلا';
 
   @override
   String get improved_Hafs_Rewaya_Force_Update =>
-      'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
+      'ھافىز رىۋايىتىنى ياخشىلىدۇق. تەپسىرنى ھازىر چۈشۈرۈپ ۋە خالىغان ئايەتنى ئۇزۇن بېسىپ قىرائىتىنى ئاڭلاڭ';
 
   @override
   String get mawaqit_three_sixty_description =>
-      'See prayer times come to life with our new animated clock';
+      'ناماز ۋاقتىنىڭ يېڭى جانلاندۇرۇم سائەتتە قانداق ھەرىكەتلىنىدىغانلىقىنى كۆرۈڭ';
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
-      'While using 360 view you cannot off this setting';
+      '360 كۆرۈنۈشنى ئىشلەتكەندە بۇ تەڭشەكنى تاقىيالمايسىز';
 
   @override
-  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (سىناق)';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => '360 تەڭشەك';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'مەشغۇلات';
 
   @override
-  String get next_prayer_open => 'Next prayer';
+  String get next_prayer_open => 'كېيىنكى ناماز';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'ھەممىسى يېپىلدى';
 
   @override
-  String get recomended_next_prayer => 'Recommended: Next prayer only';
+  String get recomended_next_prayer => 'تەۋسىيە: كېيىنكى نامازلا';
 
   @override
-  String get live_preview => 'Live Preview';
+  String get live_preview => 'شۇئان ئالدىن كۆزىتىش';
 
   @override
-  String get font_Size_Normal => 'Normal';
+  String get font_Size_Normal => 'ئادەتتىكى';
 
   @override
-  String get font_Size_Large => 'Large';
+  String get font_Size_Large => 'چوڭ';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'ھەممىسى ئېچىلدى';
 
   @override
-  String get settingFontSize => 'Font Size';
+  String get settingFontSize => 'خەت چوڭلۇقى';
 
   @override
-  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+  String get last_Third_Of_The_Night => 'كېچىنىڭ ئاخىرقى ئۈچتىن بىرى';
 
   @override
-  String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
+  String get shaykh_aminuddin_muhammad => 'قارى ئەمىنۇددىن مۇھەممەد';
 
   @override
-  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
+  String get hafs_an_asim => 'قارى ئەن ئاسىن';
 
   @override
-  String get most_widespread_riwayah => 'The most widespread riwāyah worldwide';
+  String get most_widespread_riwayah => 'دۇنياغا ئەڭ كەڭ تارقالغان رىۋايەت';
 
   @override
-  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
+  String get warsh_an_nafi => 'تەجۋىدلىك قۇرئان ۋارش ۋە نەفى';
 
   @override
   String get popular_across_north_west_africa =>
-      'Popular across North & West Africa';
+      'شىمالىي ۋە غەربىي ئافرىقىدا كەڭ تارقالغان';
 
   @override
-  String get select => 'Select';
+  String get select => 'تاللىنىدۇ';
 
   @override
   String get unknown_smartwatch => 'نامەلۇم ئەقىللىق سائەت';
@@ -1834,8 +1834,51 @@ class AppLocalizationsUg extends AppLocalizations {
   String get ready_play_watch => 'سائىتىڭىزدا قويۇشقا تەييار';
 
   @override
-  String get transliteration => 'Transliteration';
+  String get transliteration => 'تەرجىمىسى';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'تەھەججۇد ۋاقتىنى يورۇتىدۇ';
+
+  @override
+  String get calendar_access_not_available =>
+      'Calendar access is not available.';
+
+  @override
+  String get calendar_allow_access_mawaqit =>
+      'Please allow calendar access to show your events on MAWAQIT 360.';
+
+  @override
+  String get calendar_access_required =>
+      'Calendar access is required to show your events.';
+
+  @override
+  String get calendar_allow_access_button => 'Allow calendar access';
+
+  @override
+  String get calendar_loading => 'Loading calendars…';
+
+  @override
+  String get calendar_select_for_mawaqit =>
+      'Select the calendars you want to display on MAWAQIT 360.';
+
+  @override
+  String get calendar_enable_all => 'Enable all';
+
+  @override
+  String get calendar_disable_all => 'Disable all';
+
+  @override
+  String get calendar_other_calendars => 'Other calendars';
+
+  @override
+  String get calendar_times_shown_in => 'Times shown in';
+
+  @override
+  String get calendar_starts_on => 'Starts on';
+
+  @override
+  String get calendar_ends_on => 'Ends on';
+
+  @override
+  String get calendar_events_at_this_time => 'Events at this time';
 }

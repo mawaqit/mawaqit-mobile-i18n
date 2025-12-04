@@ -1839,4 +1839,47 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get highlight_Tahajjud_Time => 'Korosta Tahajjud-aika';
+
+  @override
+  String get calendar_access_not_available =>
+      'Kalenterin käyttö ei ole käytettävissä.';
+
+  @override
+  String get calendar_allow_access_mawaqit =>
+      'Ole hyvä ja salli kalenterin pääsy näyttämään tapahtumasi MAWAQIT 360.';
+
+  @override
+  String get calendar_access_required =>
+      'Kalenterin käyttö vaaditaan tapahtumien näyttämiseen.';
+
+  @override
+  String get calendar_allow_access_button => 'Salli kalenterin käyttö';
+
+  @override
+  String get calendar_loading => 'Loading calendars…';
+
+  @override
+  String get calendar_select_for_mawaqit =>
+      'Valitse kalenterit, jotka haluat näyttää MAWAQIT 360.';
+
+  @override
+  String get calendar_enable_all => 'Ota kaikki käyttöön';
+
+  @override
+  String get calendar_disable_all => 'Poista kaikki käytöstä';
+
+  @override
+  String get calendar_other_calendars => 'Muut kalenterit';
+
+  @override
+  String get calendar_times_shown_in => 'Ajat näytetään';
+
+  @override
+  String get calendar_starts_on => 'Aloittaa';
+
+  @override
+  String get calendar_ends_on => 'Päättyy päälle';
+
+  @override
+  String get calendar_events_at_this_time => 'Tällä hetkellä tapahtumat';
 }

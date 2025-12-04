@@ -3607,6 +3607,84 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Highlight Tahajjud Time'**
   String get highlight_Tahajjud_Time;
+
+  /// No description provided for @calendar_access_not_available.
+  ///
+  /// In en, this message translates to:
+  /// **'Calendar access is not available.'**
+  String get calendar_access_not_available;
+
+  /// No description provided for @calendar_allow_access_mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Please allow calendar access to show your events on MAWAQIT 360.'**
+  String get calendar_allow_access_mawaqit;
+
+  /// No description provided for @calendar_access_required.
+  ///
+  /// In en, this message translates to:
+  /// **'Calendar access is required to show your events.'**
+  String get calendar_access_required;
+
+  /// No description provided for @calendar_allow_access_button.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow calendar access'**
+  String get calendar_allow_access_button;
+
+  /// No description provided for @calendar_loading.
+  ///
+  /// In en, this message translates to:
+  /// **'Loading calendars…'**
+  String get calendar_loading;
+
+  /// No description provided for @calendar_select_for_mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Select the calendars you want to display on MAWAQIT 360.'**
+  String get calendar_select_for_mawaqit;
+
+  /// No description provided for @calendar_enable_all.
+  ///
+  /// In en, this message translates to:
+  /// **'Enable all'**
+  String get calendar_enable_all;
+
+  /// No description provided for @calendar_disable_all.
+  ///
+  /// In en, this message translates to:
+  /// **'Disable all'**
+  String get calendar_disable_all;
+
+  /// No description provided for @calendar_other_calendars.
+  ///
+  /// In en, this message translates to:
+  /// **'Other calendars'**
+  String get calendar_other_calendars;
+
+  /// No description provided for @calendar_times_shown_in.
+  ///
+  /// In en, this message translates to:
+  /// **'Times shown in'**
+  String get calendar_times_shown_in;
+
+  /// No description provided for @calendar_starts_on.
+  ///
+  /// In en, this message translates to:
+  /// **'Starts on'**
+  String get calendar_starts_on;
+
+  /// No description provided for @calendar_ends_on.
+  ///
+  /// In en, this message translates to:
+  /// **'Ends on'**
+  String get calendar_ends_on;
+
+  /// No description provided for @calendar_events_at_this_time.
+  ///
+  /// In en, this message translates to:
+  /// **'Events at this time'**
+  String get calendar_events_at_this_time;
 }
 
 class _AppLocalizationsDelegate

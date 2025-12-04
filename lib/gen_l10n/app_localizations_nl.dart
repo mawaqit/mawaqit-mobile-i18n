@@ -1851,4 +1851,47 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get highlight_Tahajjud_Time => 'Markeer de Tahajjud Tijd';
+
+  @override
+  String get calendar_access_not_available =>
+      'Kalender toegang is niet beschikbaar.';
+
+  @override
+  String get calendar_allow_access_mawaqit =>
+      'Geef a.u.b. toegang tot uw afspraken op MAWAQIT 360.';
+
+  @override
+  String get calendar_access_required =>
+      'Kalender heeft toegang nodig om je afspraken te tonen.';
+
+  @override
+  String get calendar_allow_access_button => 'Agenda-toegang toestaan';
+
+  @override
+  String get calendar_loading => 'Kalenders laden…';
+
+  @override
+  String get calendar_select_for_mawaqit =>
+      'Selecteer de kalenders die u wilt weergeven op MAWAQIT 360.';
+
+  @override
+  String get calendar_enable_all => 'Alles inschakelen';
+
+  @override
+  String get calendar_disable_all => 'Alles uitschakelen';
+
+  @override
+  String get calendar_other_calendars => 'Andere kalenders';
+
+  @override
+  String get calendar_times_shown_in => 'Tijden getoond in';
+
+  @override
+  String get calendar_starts_on => 'Begint op';
+
+  @override
+  String get calendar_ends_on => 'Eindigt op';
+
+  @override
+  String get calendar_events_at_this_time => 'Gebeurtenissen op dit moment';
 }

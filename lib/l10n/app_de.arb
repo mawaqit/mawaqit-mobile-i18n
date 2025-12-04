@@ -1213,5 +1213,18 @@
     "highlight_Tahajjud_Time": "Tahajjud Zeit hervorheben",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "Der Kalenderzugriff ist nicht verfügbar.",
+    "calendar_allow_access_mawaqit": "Bitte erlauben Sie den Kalenderzugriff, um Ihre Termine auf MAWAQIT 360 anzuzeigen.",
+    "calendar_access_required": "Zum Anzeigen Ihrer Termine ist Kalenderzugriff erforderlich.",
+    "calendar_allow_access_button": "Kalenderzugriff erlauben",
+    "calendar_loading": "Kalender werden geladen…",
+    "calendar_select_for_mawaqit": "Wählen Sie die Kalender aus, die auf MAWAQIT 360 angezeigt werden sollen.",
+    "calendar_enable_all": "Alle aktivieren",
+    "calendar_disable_all": "Alle deaktivieren",
+    "calendar_other_calendars": "Weitere Kalender",
+    "calendar_times_shown_in": "Zeiten angezeigt in",
+    "calendar_starts_on": "Beginnt am",
+    "calendar_ends_on": "Endet am",
+    "calendar_events_at_this_time": "Ereignisse zu dieser Zeit"
 }

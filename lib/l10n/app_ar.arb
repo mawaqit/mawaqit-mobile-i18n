@@ -1156,7 +1156,7 @@
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "360 إعدادات",
+    "three_sixty_setting": "إعدادات مواقيت 360",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
@@ -1168,7 +1168,7 @@
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "تم إغلاق الكل",
+    "all_prayer_closed": "إغلاق الكل",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
@@ -1188,7 +1188,7 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "كل الفتح",
+    "all_Prayer_Open": "فتح الكل",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
@@ -1213,5 +1213,18 @@
     "highlight_Tahajjud_Time": "إبراز وقت التهجد",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
-    }
+    },
+    "calendar_access_not_available": "الوصول إلى التقويم غير متاح.",
+    "calendar_allow_access_mawaqit": "يرجى السماح بالوصول إلى التقويم لعرض أحداثك على مواقيت 360.",
+    "calendar_access_required": "يلزم الوصول إلى التقويم لعرض أحداثك.",
+    "calendar_allow_access_button": "السماح بالوصول إلى التقويم",
+    "calendar_loading": "جاري تحميل التقويمات…",
+    "calendar_select_for_mawaqit": "اختر التقاويم التي تريد عرضها على مواقيت 360.",
+    "calendar_enable_all": "تفعيل الكل",
+    "calendar_disable_all": "تعطيل الكل",
+    "calendar_other_calendars": "تقويمات أخرى",
+    "calendar_times_shown_in": "الأوقات معروضة بـ",
+    "calendar_starts_on": "يبدأ في",
+    "calendar_ends_on": "ينتهي في",
+    "calendar_events_at_this_time": "أحداث في هذا الوقت"
 }
