@@ -1750,7 +1750,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get mawaqit_three_sixty_beta => 'مواقيت 360 (تجريبي)';
 
   @override
-  String get three_sixty_setting => '360 إعدادات';
+  String get three_sixty_setting => 'إعدادات مواقيت 360';
 
   @override
   String get behavior => 'السلوك';
