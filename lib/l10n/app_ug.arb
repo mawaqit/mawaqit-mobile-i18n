@@ -1227,13 +1227,13 @@
     "calendar_starts_on": "باشلىنىش ۋاقتى",
     "calendar_ends_on": "ئاخىرلىشىش ۋاقتى",
     "calendar_events_at_this_time": "بۇ ۋاقىتتىكى پائالىيەت",
-    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "hamza_roberto_piccardo": "ھەمزە روبېرتو پىككاردو",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
-    "open_in_mawaqit_app": "Open this mosque in MAWAQIT app",
-    "mosque_name": "Mosque name",
-    "mosque_not_found": "Mosque not found",
-    "invalid_mosque_link": "Invalid mosque link",
-    "not_open_mosque_link": "Could not open this mosque link. Please try again."
+    "open_in_mawaqit_app": "بۇ مەسچىتنى MAWAQIT ئەپتە ئاچىدۇ",
+    "mosque_name": "مەسچىت ئىسمى",
+    "mosque_not_found": "مەسچىتنى تاپالمىدى",
+    "invalid_mosque_link": "مەسچىت ئۇلانمىسى ئىناۋەتسىز",
+    "not_open_mosque_link": "بۇ مەسچىت ئۇلانمىسىنى ئاچالمىدى. قايتا سىناڭ."
 }
