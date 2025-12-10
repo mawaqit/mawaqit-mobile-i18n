@@ -1884,4 +1884,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+
+  @override
+  String get open_in_mawaqit_app => 'Öppna denna moské i appen MAWAQIT';
+
+  @override
+  String get mosque_name => 'Moskén namn';
 }

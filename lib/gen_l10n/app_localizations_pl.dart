@@ -1882,4 +1882,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+
+  @override
+  String get open_in_mawaqit_app => 'Otwórz ten meczet w aplikacji MAWAQIT';
+
+  @override
+  String get mosque_name => 'Nazwa meczetu';
 }

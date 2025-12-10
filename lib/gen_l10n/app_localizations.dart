@@ -3691,6 +3691,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Hamza Roberto Piccardo'**
   String get hamza_roberto_piccardo;
+
+  /// No description provided for @open_in_mawaqit_app.
+  ///
+  /// In en, this message translates to:
+  /// **'Open this mosque in MAWAQIT app'**
+  String get open_in_mawaqit_app;
+
+  /// No description provided for @mosque_name.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque name'**
+  String get mosque_name;
 }
 
 class _AppLocalizationsDelegate

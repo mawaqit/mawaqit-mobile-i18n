@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa-AF",
+    "@@locale": "fa",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1230,5 +1230,7 @@
     "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
-    }
+    },
+    "open_in_mawaqit_app": "Open this mosque in MAWAQIT app",
+    "mosque_name": "Mosque name"
 }
