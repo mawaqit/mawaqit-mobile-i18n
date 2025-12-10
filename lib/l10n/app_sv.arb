@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "Tider som visas i",
     "calendar_starts_on": "Börjar på",
     "calendar_ends_on": "Slutar på",
-    "calendar_events_at_this_time": "Händelser vid denna tid"
+    "calendar_events_at_this_time": "Händelser vid denna tid",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }
