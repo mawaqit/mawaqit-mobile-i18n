@@ -1883,21 +1883,21 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calendar_events_at_this_time => 'بۇ ۋاقىتتىكى پائالىيەت';
 
   @override
-  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+  String get hamza_roberto_piccardo => 'ھەمزە روبېرتو پىككاردو';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app => 'بۇ مەسچىتنى MAWAQIT ئەپتە ئاچىدۇ';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'مەسچىت ئىسمى';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'مەسچىتنى تاپالمىدى';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'مەسچىت ئۇلانمىسى ئىناۋەتسىز';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'بۇ مەسچىت ئۇلانمىسىنى ئاچالمىدى. قايتا سىناڭ.';
 }
