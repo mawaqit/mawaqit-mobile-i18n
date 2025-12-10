@@ -1896,4 +1896,14 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get mosque_name => 'Mosque name';
+
+  @override
+  String get mosque_not_found => 'Mosque not found';
+
+  @override
+  String get invalid_mosque_link => 'Invalid mosque link';
+
+  @override
+  String get not_open_mosque_link =>
+      'Could not open this mosque link. Please try again.';
 }

@@ -3703,6 +3703,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Mosque name'**
   String get mosque_name;
+
+  /// No description provided for @mosque_not_found.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque not found'**
+  String get mosque_not_found;
+
+  /// No description provided for @invalid_mosque_link.
+  ///
+  /// In en, this message translates to:
+  /// **'Invalid mosque link'**
+  String get invalid_mosque_link;
+
+  /// No description provided for @not_open_mosque_link.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not open this mosque link. Please try again.'**
+  String get not_open_mosque_link;
 }
 
 class _AppLocalizationsDelegate

@@ -1888,4 +1888,14 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get mosque_name => 'Nazwa meczetu';
+
+  @override
+  String get mosque_not_found => 'Nie znaleziono meczetu';
+
+  @override
+  String get invalid_mosque_link => 'Nieprawidłowy link mosque';
+
+  @override
+  String get not_open_mosque_link =>
+      'Nie można otworzyć tego linku meczetowego. Spróbuj ponownie.';
 }

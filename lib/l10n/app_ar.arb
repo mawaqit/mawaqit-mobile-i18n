@@ -1232,5 +1232,8 @@
         "description": "-≥ hamza_roberto_piccardo"
     },
     "open_in_mawaqit_app": "افتح هذا المسجد في تطبيق مواقيت",
-    "mosque_name": "اسم المسجد"
+    "mosque_name": "اسم المسجد",
+    "mosque_not_found": "لم يتم العثور على المسجد",
+    "invalid_mosque_link": "رابط المسجد غير صالح",
+    "not_open_mosque_link": "تعذر فتح رابط المسجد هذا. الرجاء المحاولة مرة أخرى."
 }

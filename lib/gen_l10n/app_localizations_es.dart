@@ -1909,4 +1909,14 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get mosque_name => 'Nombre de la mezquita';
+
+  @override
+  String get mosque_not_found => 'Mezquita no encontrada';
+
+  @override
+  String get invalid_mosque_link => 'Enlace de mezquita no válido';
+
+  @override
+  String get not_open_mosque_link =>
+      'No se pudo abrir este enlace de la mezquita. Por favor, inténtelo de nuevo.';
 }

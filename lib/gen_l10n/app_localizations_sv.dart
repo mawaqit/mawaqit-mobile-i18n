@@ -1890,4 +1890,14 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get mosque_name => 'Moskén namn';
+
+  @override
+  String get mosque_not_found => 'Moskén hittades inte';
+
+  @override
+  String get invalid_mosque_link => 'Ogiltig moskélänk';
+
+  @override
+  String get not_open_mosque_link =>
+      'Kunde inte öppna denna moskélänk. Försök igen.';
 }

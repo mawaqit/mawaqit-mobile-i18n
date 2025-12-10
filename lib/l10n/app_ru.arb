@@ -1232,5 +1232,8 @@
         "description": "-≥ hamza_roberto_piccardo"
     },
     "open_in_mawaqit_app": "Откройте эту мечеть в приложении MAWAQIT",
-    "mosque_name": "Название мечети"
+    "mosque_name": "Название мечети",
+    "mosque_not_found": "Мечеть не найдена",
+    "invalid_mosque_link": "Неверная ссылка на мечеть",
+    "not_open_mosque_link": "Не удалось открыть ссылку на эту мечеть. Пожалуйста, попробуйте еще раз."
 }
