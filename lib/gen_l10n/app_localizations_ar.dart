@@ -1744,7 +1744,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
-      'أثناء استخدام عرض 360 لا يمكنك إيقاف هذا الإعداد';
+      'في وضع مواقيت 360 تظل هذه الميزة مفعّلة';
 
   @override
   String get mawaqit_three_sixty_beta => 'مواقيت 360 (تجريبي)';
