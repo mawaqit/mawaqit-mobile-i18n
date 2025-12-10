@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "Times shown in",
     "calendar_starts_on": "Starts on",
     "calendar_ends_on": "Ends on",
-    "calendar_events_at_this_time": "Events at this time"
+    "calendar_events_at_this_time": "Events at this time",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }
