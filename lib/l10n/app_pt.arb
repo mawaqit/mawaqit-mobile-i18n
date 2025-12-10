@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1232,5 +1232,8 @@
         "description": "-≥ hamza_roberto_piccardo"
     },
     "open_in_mawaqit_app": "Abra esta mesquita no aplicativo MAWAQIT",
-    "mosque_name": "Nome da mesquita"
+    "mosque_name": "Nome da mesquita",
+    "mosque_not_found": "Mesquita não encontrada",
+    "invalid_mosque_link": "Link de mosca inválido",
+    "not_open_mosque_link": "Não foi possível abrir este link de mesquita. Por favor, tente novamente."
 }
