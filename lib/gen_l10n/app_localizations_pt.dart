@@ -1906,4 +1906,14 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get mosque_name => 'Nome da mesquita';
+
+  @override
+  String get mosque_not_found => 'Mesquita não encontrada';
+
+  @override
+  String get invalid_mosque_link => 'Link de mosca inválido';
+
+  @override
+  String get not_open_mosque_link =>
+      'Não foi possível abrir este link de mesquita. Por favor, tente novamente.';
 }

@@ -1864,4 +1864,14 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get mosque_name => 'اسم المسجد';
+
+  @override
+  String get mosque_not_found => 'لم يتم العثور على المسجد';
+
+  @override
+  String get invalid_mosque_link => 'رابط المسجد غير صالح';
+
+  @override
+  String get not_open_mosque_link =>
+      'تعذر فتح رابط المسجد هذا. الرجاء المحاولة مرة أخرى.';
 }

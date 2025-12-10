@@ -1903,4 +1903,14 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get mosque_name => 'Moskee naam';
+
+  @override
+  String get mosque_not_found => 'Moskee niet gevonden';
+
+  @override
+  String get invalid_mosque_link => 'Ongeldige moske-link';
+
+  @override
+  String get not_open_mosque_link =>
+      'Kan deze moske-link niet openen. Probeer het opnieuw.';
 }

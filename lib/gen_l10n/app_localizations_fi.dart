@@ -1891,4 +1891,14 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get mosque_name => 'Moskeija nimi';
+
+  @override
+  String get mosque_not_found => 'Moskia ei löydy';
+
+  @override
+  String get invalid_mosque_link => 'Virheellinen moskeija linkki';
+
+  @override
+  String get not_open_mosque_link =>
+      'Tätä moskeija linkkiä ei voitu avata. Yritä uudelleen.';
 }

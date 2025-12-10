@@ -1891,4 +1891,14 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get mosque_name => 'Название мечети';
+
+  @override
+  String get mosque_not_found => 'Мечеть не найдена';
+
+  @override
+  String get invalid_mosque_link => 'Неверная ссылка на мечеть';
+
+  @override
+  String get not_open_mosque_link =>
+      'Не удалось открыть ссылку на эту мечеть. Пожалуйста, попробуйте еще раз.';
 }
