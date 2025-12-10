@@ -1857,5 +1857,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get calendar_events_at_this_time => 'أحداث في هذا الوقت';
 
   @override
-  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+  String get hamza_roberto_piccardo => 'حمزة روبيرتو بيكّاردو';
 }
