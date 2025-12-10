@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "Количество отображается в",
     "calendar_starts_on": "Начинается с",
     "calendar_ends_on": "Окончание",
-    "calendar_events_at_this_time": "События в это время"
+    "calendar_events_at_this_time": "События в это время",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }
