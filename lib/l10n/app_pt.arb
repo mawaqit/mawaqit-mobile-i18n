@@ -1230,5 +1230,7 @@
     "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
-    }
+    },
+    "open_in_mawaqit_app": "Abra esta mesquita no aplicativo MAWAQIT",
+    "mosque_name": "Nome da mesquita"
 }
