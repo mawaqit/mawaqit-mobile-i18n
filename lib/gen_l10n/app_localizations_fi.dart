@@ -1882,4 +1882,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get calendar_events_at_this_time => 'Tällä hetkellä tapahtumat';
+
+  @override
+  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 }

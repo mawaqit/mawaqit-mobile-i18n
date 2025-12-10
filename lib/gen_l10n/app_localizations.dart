@@ -3685,6 +3685,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Events at this time'**
   String get calendar_events_at_this_time;
+
+  /// -≥ hamza_roberto_piccardo
+  ///
+  /// In en, this message translates to:
+  /// **'Hamza Roberto Piccardo'**
+  String get hamza_roberto_piccardo;
 }
 
 class _AppLocalizationsDelegate
