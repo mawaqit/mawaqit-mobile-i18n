@@ -1148,7 +1148,7 @@
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "أثناء استخدام عرض 360 لا يمكنك إيقاف هذا الإعداد",
+    "hnpai_User_Guidance_MAWAQIT_360": "في وضع مواقيت 360 تظل هذه الميزة مفعّلة",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
