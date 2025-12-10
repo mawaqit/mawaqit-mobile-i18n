@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "Tijden getoond in",
     "calendar_starts_on": "Begint op",
     "calendar_ends_on": "Eindigt op",
-    "calendar_events_at_this_time": "Gebeurtenissen op dit moment"
+    "calendar_events_at_this_time": "Gebeurtenissen op dit moment",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }

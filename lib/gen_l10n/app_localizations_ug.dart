@@ -1841,44 +1841,47 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get calendar_access_not_available =>
-      'Calendar access is not available.';
+      'يىلنامە ئىجازىتىنى ئىشلەتكىلى بولمايدۇ.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'MAWAQIT 360 تا يىلنامەدىكى پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن ئىجازەت بېرىڭ.';
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن يىلنامە زىيارەت ئىجازىتى زۆرۈر.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'يىلنامە ئىجازىتىگە يول قوي';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'يىلنامە يۈكلەۋاتىدۇ…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'سىز MAWAQIT 360 تا كۆرسەتمەكچى بولغان يىلنامەنى تاللاڭ.';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'ھەممىنى قوزغات';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'ھەممىنى چەكلە';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'باشقا يىلنامە';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'كۆرسىتىلگەن ۋاقىت';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'باشلىنىش ۋاقتى';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'ئاخىرلىشىش ۋاقتى';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'بۇ ۋاقىتتىكى پائالىيەت';
+
+  @override
+  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 }

@@ -1897,4 +1897,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get calendar_events_at_this_time => 'Eventos neste momento';
+
+  @override
+  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 }

@@ -1148,7 +1148,7 @@
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "أثناء استخدام عرض 360 لا يمكنك إيقاف هذا الإعداد",
+    "hnpai_User_Guidance_MAWAQIT_360": "في وضع مواقيت 360 تظل هذه الميزة مفعّلة",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "الأوقات معروضة بـ",
     "calendar_starts_on": "يبدأ في",
     "calendar_ends_on": "ينتهي في",
-    "calendar_events_at_this_time": "أحداث في هذا الوقت"
+    "calendar_events_at_this_time": "أحداث في هذا الوقت",
+    "hamza_roberto_piccardo": "حمزة روبيرتو بيكّاردو",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }

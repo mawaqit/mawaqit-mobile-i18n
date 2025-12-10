@@ -1894,4 +1894,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get calendar_events_at_this_time => 'Gebeurtenissen op dit moment';
+
+  @override
+  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 }

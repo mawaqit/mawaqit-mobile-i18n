@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "Ajat näytetään",
     "calendar_starts_on": "Aloittaa",
     "calendar_ends_on": "Päättyy päälle",
-    "calendar_events_at_this_time": "Tällä hetkellä tapahtumat"
+    "calendar_events_at_this_time": "Tällä hetkellä tapahtumat",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }

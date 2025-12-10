@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "Heures affichées en",
     "calendar_starts_on": "Commence le",
     "calendar_ends_on": "Se termine le",
-    "calendar_events_at_this_time": "Événements à cette heure"
+    "calendar_events_at_this_time": "Événements à cette heure",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }
