@@ -1232,5 +1232,8 @@
         "description": "-≥ hamza_roberto_piccardo"
     },
     "open_in_mawaqit_app": "Avaa tämä moskeija MAWAQIT sovelluksessa",
-    "mosque_name": "Moskeija nimi"
+    "mosque_name": "Moskeija nimi",
+    "mosque_not_found": "Moskia ei löydy",
+    "invalid_mosque_link": "Virheellinen moskeija linkki",
+    "not_open_mosque_link": "Tätä moskeija linkkiä ei voitu avata. Yritä uudelleen."
 }
