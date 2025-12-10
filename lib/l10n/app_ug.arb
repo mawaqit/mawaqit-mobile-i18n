@@ -1226,5 +1226,9 @@
     "calendar_times_shown_in": "كۆرسىتىلگەن ۋاقىت",
     "calendar_starts_on": "باشلىنىش ۋاقتى",
     "calendar_ends_on": "ئاخىرلىشىش ۋاقتى",
-    "calendar_events_at_this_time": "بۇ ۋاقىتتىكى پائالىيەت"
+    "calendar_events_at_this_time": "بۇ ۋاقىتتىكى پائالىيەت",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    }
 }
