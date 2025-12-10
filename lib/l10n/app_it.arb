@@ -1232,5 +1232,8 @@
         "description": "-≥ hamza_roberto_piccardo"
     },
     "open_in_mawaqit_app": "Apri questa moschea nell'app MAWAQIT",
-    "mosque_name": "Nome della moschea"
+    "mosque_name": "Nome della moschea",
+    "mosque_not_found": "Moschea non trovata",
+    "invalid_mosque_link": "Link moschea non valido",
+    "not_open_mosque_link": "Impossibile aprire questo link della moschea. Per favore riprova."
 }
