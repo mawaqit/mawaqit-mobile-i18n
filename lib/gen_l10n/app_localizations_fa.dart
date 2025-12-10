@@ -1882,4 +1882,10 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+
+  @override
+  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+
+  @override
+  String get mosque_name => 'Mosque name';
 }

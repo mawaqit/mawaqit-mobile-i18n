@@ -1858,4 +1858,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get hamza_roberto_piccardo => 'حمزة روبيرتو بيكّاردو';
+
+  @override
+  String get open_in_mawaqit_app => 'افتح هذا المسجد في تطبيق مواقيت';
+
+  @override
+  String get mosque_name => 'اسم المسجد';
 }

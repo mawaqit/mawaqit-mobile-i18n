@@ -1897,4 +1897,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+
+  @override
+  String get open_in_mawaqit_app => 'Open deze moskee in MAWAQIT app';
+
+  @override
+  String get mosque_name => 'Moskee naam';
 }

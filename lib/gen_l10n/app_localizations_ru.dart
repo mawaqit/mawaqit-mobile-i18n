@@ -1885,4 +1885,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+
+  @override
+  String get open_in_mawaqit_app => 'Откройте эту мечеть в приложении MAWAQIT';
+
+  @override
+  String get mosque_name => 'Название мечети';
 }
