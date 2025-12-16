@@ -249,12 +249,12 @@
     "notification_denied": "ئاگادارییەکان لەکارخراون، بۆیە بەڕێزت هیچ ئاگادارییەکت پێ ناگات.",
     "at_least_one_mosque": "بەلایەنی کەمەوە یەک مزگەوت زیاد بکە بۆ بەردەوام بوون",
     "set_up_your_prayer": "نوێژەکەت ڕێک بخە",
-    "notifications": "ئاگادارییەکان",
+    "notifications": "ئاگانامەکان",
     "mosques_around_you": "مزگەوتەکانی نزیک لەتۆ",
     "mosques_in_the_selected_area": "مزگەوتەکان لە ناوچەی دیاریکراودا",
     "mosques_with": "مزگەوتەکان لە",
     "allow_mawaqit_to_access_my_location": "رێگەدان بە مەواقیت بۆ گەیشتن بە هەستەوەری دیاریکردنی جێگا.",
-    "enable_location_service_from_app_settings": "خزمەتگوزاری دیاریکردنی جێگا لە رێکخستنەکانی بەرنامەوە کارا بکە.",
+    "enable_location_service_from_app_settings": "خزمەتگوزاری دیاریکردنی شوێن لە رێکخستنەکانی بەرنامەوە کارا بکە.",
     "the_request_timeout": "ئەم داواکارییە هەڵوەشایەوە",
     "no_internet_connection": "هێلی ئینتەرنێت نیە",
     "try_again": "دواتر هەوڵبدەرەوە",
@@ -311,7 +311,7 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "تکایە خزمەتگوزاری دیاریکردنی جێگا کارا بکە",
+    "qibla_Error_PleaseEnable": "تکایە خزمەتگوزاری دیاریکردنی شوێن کارا بکە",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "ئاگادارکردنەوەکان سەبارەت بە نامە و ڕاگەیاندنەکان لە مزگەوتەکەتەوە لێرە دەردەکەون.\nکاتێک کلیک لەسەر ئەم دوگمەیە دەکەیت، وردەکاری تەواو دەبینیت. ئەم ڕاگەیاندنانە دەتوانن پەیامی فلاش، وێنە، یان تەنانەت ڤیدیۆش بن.",
+    "tutorial_text_announcements": "ئاگانامەکان سەبارەت بە نامە و ڕاگەیاندنەکان لە مزگەوتەکەتەوە لێرە دەردەکەون.\nکاتێک کلیک لەسەر ئەم دوگمەیە دەکەیت، وردەکاری تەواو دەبینیت. ئەم ڕاگەیاندنانە دەتوانن پەیامی فلاش، وێنە، یان تەنانەت ڤیدیۆش بن.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -626,7 +626,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "ئاگادارکردنەوەیەکی کاتێکی نوێژ هەڵبژێرە",
+    "tutorial_title_notification": "ئاگانامەیەکی کاتی نوێژ هەڵبژێرە",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
@@ -666,7 +666,7 @@
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "دەتوانیت سەرجەم ئاگادارییەکانی مزگەوتەکەت ببینیت بە کلیک کردن لە هێمای مکەبەرە لە سەرەوەی شاشەکەت.",
+    "message_see_all": "دەتوانیت سەرجەم نامەکانی مزگەوتەکەت ببینیت بە کلیک کردن لە هێمای مکەبەرە لە سەرەوەی شاشەکەت.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
@@ -686,7 +686,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "داگرتنی خشتە",
+    "calendar_tooltip_download": "ساڵنامە دابەزێنە",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
@@ -706,7 +706,7 @@
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "گەیشتن بە خزمەتگوزاری دیاریکردنی جێگا ڕاگیراوە، تکایە ڕیگا بدە.",
+    "location_permission_denied": "گەیشتن بە خزمەتگوزاری دیاریکردنی شوێن ڕاگیراوە، تکایە ڕیگا بدە.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
@@ -722,7 +722,7 @@
     "add": "زیادکردن",
     "mosque": "مزگەوت",
     "on_boarding_nearest_mosque": "با نزیکترین مزگەوت بدۆزینەوە",
-    "on_boarding_nearest_mosque_text": "نزیکترین مزگەوتەکان لە جێگای دیاریکراوتەوە ئەمانەن",
+    "on_boarding_nearest_mosque_text": "لێرەدا ئەو مزگەوتانە دەخەینەڕوو کە لە دەوروبەرت دۆزراونەتەوە بەپێی شوێنی جیۆگرافی",
     "search_no_result_for_text": "ئێمە هیچ ئەنجامێکمان نەدۆزیەوە بۆ",
     "surah_audio_downloading": "داگرتنی دەنگی سورەت...",
     "msg_internet_connection": "هێڵی ئینتەرنێت بوونی نیە",
@@ -746,7 +746,7 @@
     "bookmarks": "دڵخوازەکان",
     "juzz": "جوزئەکان",
     "quran_page": "پەڕە",
-    "quran_turning_page": "ئاڕاستەی پەڕە",
+    "quran_turning_page": "ئاڕاستەی لاپەڕە",
     "quran_from_right_to_left": "لە ڕاست بۆ چەپ",
     "quran_from_left_to_right": "لە چەپ بۆ ڕاست",
     "quran_from_top_to_bottom": "لە سەرەوە بۆ خوارەوە",
@@ -807,7 +807,7 @@
     "calculation_adjustment_prayers_minutes": "خولەک",
     "calculation_adjustment_angles": "گۆشەی تایبەت",
     "calculation_prayer_custom_angle": "گۆشەی تایبەت بۆ",
-    "error_download_quran_failed": "داگرتنی قورئان سەرکەوتوو نەبوو",
+    "error_download_quran_failed": "دابەزاندنی قورئان سەرکەوتوو نەبوو",
     "downloading_quran": "داگرتنی قورئان...",
     "processing": "ڕێکخستن...",
     "copied_to_clipboard": "کۆپی کرا بۆ لیستی پاشەکەوتکراوەکان!",
@@ -838,7 +838,7 @@
     "force_notification_body": "بەڕاستی نوێژ لەسەر ئیمانداران لە کاتە دیاریکراوەکاندا فەرز کراوە. نیساء (103)",
     "force_notification_dialog1_body": "بە چالاککردنی ئەم هەڵبژاردنە، بەرنامەکە چالاک دەمێنێتەوە بۆ دڵنیابوون لە دەستپێکردنی ئاگادارکردنەوەکانی نوێژ لە کاتی دروستدا بەبێ دواکەوتن. بەرنامەی MAWAQIT تەنها بۆ ئەو مەبەستە چالاک دەبێت، و دەتوانیت ئەو هەڵبژاردنە لە هەر کاتێکدا لە ڕێکخستنەکانەوە بکوژێنیتەوە.",
     "force_notification_dialog2_body": "دوای چالاککردنی 'Force Notifications' پەنجە بخەرە خوارەوە لە لیستی ئاگادارکردنەوەکەدا ئەم ئاگادارکردنەوە لەوێ دەبینیت",
-    "notification_debugging": "ڕاستکردنەوەی ئاگادارییەکان",
+    "notification_debugging": "ڕاستکردنەوەی ئاگانامەکان",
     "notification_debugging_details": "چاککردنەوەی ئاگادارکردنەوە چالاک کراوە. ئەگەر ڕێکخستنەکانی ئاگادارکردنەوەکە بگۆڕیت، داتاکانی هەڵەکردن لەدەست دەچێت، و چاککردنەوە لەکاردەخرێت.",
     "skip": "تێپەڕاندن",
     "agree": "ڕازی بوون",
@@ -857,7 +857,7 @@
     "auto_detect_location_message": "دەتەوێت بگەڕێیت بۆ نزیکترین مزگەوت بۆ بەدەستهێنانی کاتی دروستی بانگ؟",
     "donation_success_toast": "بەخشین سەرکەوتوو بوو",
     "donation_success": "سوپاس بۆ بەخشینەکەت. خودا پاداشتی خێرتان بداتەوە",
-    "donation_failed": "بەخشین هەڵوەشایەوە",
+    "donation_failed": "بەخشین سەرکەوتوونەبوو",
     "donate_for_good": "ببەخشە لەپێناو خێردا",
     "enter_amount_hint": "بڕ دیاری بکە",
     "enter_donation_amount": "بڕی بەخشین دیاری بکە",
@@ -870,7 +870,7 @@
     "muazzin": "بانگبێژ",
     "information": "زانیاری",
     "news": "هەواڵەکان",
-    "calendar": "خشتە",
+    "calendar": "ساڵنامە",
     "system": "سیستەم",
     "change_mosque_order": "ڕاکێشان و دابەزاندنی مزگەوتەکان بۆ گۆڕینی ڕێکخستن و دانانی مزگەوتی سەرەکی",
     "remove": "سڕینەوە",
@@ -879,7 +879,7 @@
     "mosques": "مزگەوتەکان",
     "no_news": "هیچ هەواڵێک لە مزگەوتەوە نیە",
     "mawaqit_notification": "ئاگادارییەکانی مەواقیت",
-    "no_mawaqit_notification": "هیچ ئاگادارییەک لە مەواقیتەوە نیە",
+    "no_mawaqit_notification": "هیچ ئاگانامەیەک لە مەواقیتەوە نیە",
     "meccan": "مەککی",
     "medinan": "مەدەنی",
     "montada_islamic_foundation": "دامەزراوەی مونتەدای ئیسلامی",
@@ -907,7 +907,7 @@
     "search_for_fav_recitator": "گەڕان بۆ قورئانخوێنی دڵخواز",
     "listen_to_quran": "گوێگرتن لە قورئان",
     "search_hint_text": "گەڕان بکە بۆ مزگەوت یان شار",
-    "downloading": "داگرتن",
+    "downloading": "دابەزاندن",
     "cant_download_more_than_3": "ناتوانیت لەیەک کاتدا زیاتر لە 3 دانە دابگریت.",
     "boost": "بەهێزکردن",
     "recitation_deleted_successfully": "قورئانخوێن بەسەرکەوتوویی لابرا",
@@ -915,14 +915,14 @@
     "qibla": "قیبلە",
     "search": "گەڕان",
     "more": "زیاتر",
-    "download_cancelled": "داگرتن ڕاگیرا",
+    "download_cancelled": "داگرتن هەڵوەشایەوە",
     "no_virtual_mosque_found": "ببورە، هیچ مزگەوتێکمان لە نزیکتەوە نەدۆزییەوە",
     "no_surah_found": "هیچ سورەتێک نەدۆزرایەوە",
     "no_favorite_recitor_found": "هیچ قورئانخوێنێکی دڵخواز نەدۆزرایەوە",
     "no_recitator_found": "هیچ قورئانخوێنێک نەدۆزرایەوە",
     "empty_quran_search": "ئەنجامەکانی گەڕان لێرە نیشان دەدرێت",
     "no_bookmark_ayah": "هیچ دڵخوازێک نیە. تکایە ماوەیەک پەنجە لەسەر ئەو ئایەتە بهێڵەوە کە دەتەوێت وەک دڵخواز دیاری بکەیت.",
-    "page": "پەڕە",
+    "page": "لاپەڕە",
     "prayer_times_in": "کاتەکانی بانگ لە",
     "update_new_version": "وەشانێکی نوێی قورئان بەردەستە بۆ داگرتن. بۆ دەستگەیشتن بە نوێترین پێشکەوتنەکان و بەردەوامبوون لە گەشتەکەت بە حیکمەتی خودایی، پەنجە بنێ بە 'نوێکردنەوە'",
     "@update_new_version": {
@@ -968,7 +968,7 @@
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
-    "highlight_next_prayer_after_Iqama": "نوێژی دواتر دیاری بکە پاش قامەت",
+    "highlight_next_prayer_after_Iqama": "نوێژی دواتر دیاری بکە لەدوای قامەت",
     "helmi_nasr": "د. حلمی نصر",
     "settings_language_pt": "پۆرتوگالی",
     "al_zikr": "ویرد",
@@ -1019,7 +1019,7 @@
     "click_here": "لێرە کلیک بکە",
     "mawaqit_store": "کۆگای مەواقیت",
     "no_projects": "هیچ پڕۆژەیەک لەبەردەستدا نییە",
-    "draw_info": "!",
+    "draw_info": "مانگانە یەک تیروپشک. هەر ٢٤ سەعاتێک دەتوانیت بلیتێکی نوێ زیاد بکەیت بۆ ئەوەی چانسی بردنەوەت زیاد بکات!",
     "enter_valid_email": "ئیمەیڵێکی دروست دابنێ",
     "please_enter_email": "ئیمێلێک داخل بکە",
     "select_device_audo_for_ios_propmpt": "فایلێکی دەنگی هەڵبژێرە، ئێمە دەیگۆڕین بۆ فۆرماتێکی گونجاوی iOS لەکاتێکدا کەمی دەکەینەوە بۆ 30 چرکە بەهۆی سنوورداربوونی پلاتفۆرمی iOS.",
@@ -1077,7 +1077,7 @@
     "tafsir": "تەفسیر",
     "copy": "کۆپی",
     "no_tafsir": "تا ئێستا هیچ تەفسیرێک دانەگیراوە",
-    "download_tafsir": "تەفسیرەکە دابگرە",
+    "download_tafsir": "تەفسیرەکە دابەزێنە",
     "hussary": "محمد خلیل الحسری",
     "hussary_mujawwad": "الحسری (موجەوەد)",
     "shuraim": "سعود الشریم",
@@ -1116,7 +1116,7 @@
     "muhammad_abdulKareem_murattal": "محمد عبدالکریم",
     "muhammad_ayyoub_murattal": "محمد ئەیوب",
     "muhammad_jibreel_murattal": "محمد جبریل",
-    "muhsin_al_qasim_murattal": "",
+    "muhsin_al_qasim_murattal": "موحسین قاسم",
     "nabil_rifai3_murattal": "نەبیل ریفای",
     "nasser_alqatami_murattal": "ناسر قوتامی",
     "sahl_yassin_murattal": "ساحل یاسین",
@@ -1129,7 +1129,7 @@
     "alayoun_elkouchi": "عیون کۆچی",
     "abdelkarim_daghoush": "عبدالكريم داخوش",
     "murattal": "مورەتەل",
-    "mujawwad": "موژەوواد",
+    "mujawwad": "تەجویدکراو",
     "moallim": "موسحەفی مامۆستا",
     "play": "کارپێکردن",
     "playback_settings": "رێکخستەناکنی کارپێکردن",
@@ -1215,11 +1215,11 @@
         "description": "->highlight_Tahajjud_Time"
     },
     "calendar_access_not_available": "دەستگەیشتن بە ڕۆژنامە بەردەست نیە.",
-    "calendar_allow_access_mawaqit": "تکایە ڕێگە بدە دەستگەیشتن بە ڕۆژنامە بۆ نیشاندانی چالاکییەکانت لە MAWAQIT 360.",
+    "calendar_allow_access_mawaqit": "تکایە ڕێگە بە چوونەژوورەوەی ساڵنامە بدە بۆ پیشاندانی ڕووداوەکانت لە MAWAQIT 360.",
     "calendar_access_required": "تکایە ڕێگە بدە دەستگەیشتن بە ڕۆژنامە بۆ نیشاندانی چالاکییەکانت لە Mawaqit 360.",
     "calendar_allow_access_button": "ڕێگە بدە بە دەستگەیشتن بە ڕۆژنامە",
     "calendar_loading": "ڕێگە بدە دەستگەیشتن بە ڕۆژنامە…",
-    "calendar_select_for_mawaqit": "ڕۆژنامەکان هەڵبژێرە کە دەتەوێت لە MAWAQIT 360 نیشان بدەیت.",
+    "calendar_select_for_mawaqit": "ئەو ساڵنامانە هەڵبژێرە کە دەتەوێت لە MAWAQIT 360 پیشانی بدەیت.",
     "calendar_enable_all": "بەگشتی دەگونجێت",
     "calendar_disable_all": "لەکارخستنی هەموو",
     "calendar_other_calendars": "ڕۆژنامەی دیکە",
