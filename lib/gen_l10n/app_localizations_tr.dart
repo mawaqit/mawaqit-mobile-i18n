@@ -1509,7 +1509,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque =>
-      'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+      'Namaz vakitleri ve buradaki tüm bilgiler MAWAQIT tarafından değil, cami tarafından belirlenmektedir';
 
   @override
   String get hasan_nahi => 'Hasan Nahi';

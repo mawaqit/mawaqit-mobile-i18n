@@ -48,7 +48,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings_TimeFormat12H => '১২ ঘন্টা';
 
   @override
-  String get settings_TimeFormat24H => '24H';
+  String get settings_TimeFormat24H => '২৪ ঘণ্টা';
 
   @override
   String get settings_PrayerNotifications => 'প্রার্থনা বিজ্ঞপ্তি';
@@ -390,7 +390,7 @@ class AppLocalizationsBn extends AppLocalizations {
       'কম্পাস ক্যালিব্রেশন সেটিংস নিষ্ক্রিয় করা হয়েছে। আপনার সংযোগ চালু আছে কিনা তা নিশ্চিত করুন এবং দিক পরিবর্তন করে আবার চেষ্টা করুন।';
 
   @override
-  String get currently_located_at => 'Currently located at';
+  String get currently_located_at => 'বর্তমানে অবস্থান করছে';
 
   @override
   String get facing_makkah => 'আপনি মক্কার দিকে মুখ করে আছেন';
@@ -1517,7 +1517,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque =>
-      'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+      'নামাজের সময়সূচি এবং এখানে থাকা সব তথ্য মসজিদ কর্তৃক নির্ধারিত, MAWAQIT দ্বারা নয়।';
 
   @override
   String get hasan_nahi => 'হাসান নাহি';
@@ -1763,14 +1763,14 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description =>
-      'See prayer times come to life with our new animated clock';
+      'আমাদের নতুন অ্যানিমেটেড ঘড়ির মাধ্যমে নামাজের সময়গুলোকে জীবন্তভাবে দেখুন';
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
       'While using 360 view you cannot off this setting';
 
   @override
-  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (বেটা)';
 
   @override
   String get three_sixty_setting => '360 Settings';

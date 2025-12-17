@@ -1517,7 +1517,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque =>
-      'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+      'نماز کے اوقات اور یہاں موجود تمام معلومات مسجد کی طرف سے مقرر کی جاتی ہیں، نہ کہ MAWAQIT کی طرف سے';
 
   @override
   String get hasan_nahi => 'حسن ناہی';
