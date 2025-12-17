@@ -65,7 +65,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "২৪ ঘণ্টা",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
@@ -293,7 +293,7 @@
     },
     "qibla_sensor": "আপনার ডিভাইসের সেন্সরটি যা MAWAQIT কিবলা নির্ধারণের জন্য ব্যবহার করে তা প্রত্যাশিত হিসেবে কাজ করছে না, যা আমাদের কিবলা দিক প্রদর্শন ক্ষমতার উপর প্রভাব ফেলছে।",
     "connection_not_found": "কম্পাস ক্যালিব্রেশন সেটিংস নিষ্ক্রিয় করা হয়েছে। আপনার সংযোগ চালু আছে কিনা তা নিশ্চিত করুন এবং দিক পরিবর্তন করে আবার চেষ্টা করুন।",
-    "currently_located_at": "Currently located at",
+    "currently_located_at": "বর্তমানে অবস্থান করছে",
     "facing_makkah": "আপনি মক্কার দিকে মুখ করে আছেন",
     "not_facing_Makkah": "আপনি মক্কার দিকে মুখ করে নেই",
     "qibla_Error_retry": "পুনরায় চেষ্টা করা",
@@ -1034,7 +1034,7 @@
     },
     "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects.",
     "contact_us_boost": "To list your project here, contact us at",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "prayer_times_set_by_mosque": "নামাজের সময়সূচি এবং এখানে থাকা সব তথ্য মসজিদ কর্তৃক নির্ধারিত, MAWAQIT দ্বারা নয়।",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
@@ -1144,7 +1144,7 @@
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "mawaqit_three_sixty_description": "আমাদের নতুন অ্যানিমেটেড ঘড়ির মাধ্যমে নামাজের সময়গুলোকে জীবন্তভাবে দেখুন",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
@@ -1152,7 +1152,7 @@
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
-    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (বেটা)",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
@@ -1160,15 +1160,15 @@
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "Behavior",
+    "behavior": "আচরণ",
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "Next prayer",
+    "next_prayer_open": "পরবর্তী নামাজ",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "All closed",
+    "all_prayer_closed": "সব বন্ধ",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
@@ -1188,7 +1188,7 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "All open",
+    "all_Prayer_Open": "সব খোলা",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
@@ -1196,7 +1196,7 @@
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "last_Third_Of_The_Night": "রাতের শেষ তৃতীয়াংশ",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
@@ -1210,18 +1210,18 @@
     "connected_watch": "সংযুক্ত ঘড়ি",
     "ready_play_watch": "আপনার ঘড়িতে চালানোর জন্য প্রস্তুত",
     "transliteration": "ধ্বনিলিপি",
-    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "highlight_Tahajjud_Time": "তাহাজ্জুদ সময় হাইলাইট করুন",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
-    "calendar_access_not_available": "Calendar access is not available.",
-    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
+    "calendar_access_not_available": "ক্যালেন্ডার অ্যাক্সেস উপলব্ধ নয়।",
+    "calendar_allow_access_mawaqit": "MAWAQIT 360-এ আপনার ইভেন্ট দেখানোর জন্য অনুগ্রহ করে ক্যালেন্ডার অ্যাক্সেসের অনুমতি দিন।",
     "calendar_access_required": "Calendar access is required to show your events.",
-    "calendar_allow_access_button": "Allow calendar access",
-    "calendar_loading": "Loading calendars…",
-    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
-    "calendar_enable_all": "Enable all",
-    "calendar_disable_all": "Disable all",
+    "calendar_allow_access_button": "ক্যালেন্ডার অ্যাক্সেস অনুমোদন করুন",
+    "calendar_loading": "ক্যালেন্ডার লোড হচ্ছে…",
+    "calendar_select_for_mawaqit": "যে ক্যালেন্ডারগুলি আপনি MAWAQIT 360-এ দেখাতে চান সেগুলি নির্বাচন করুন।",
+    "calendar_enable_all": "সব সক্ষম করুন",
+    "calendar_disable_all": "সব অক্ষম করুন",
     "calendar_other_calendars": "Other calendars",
     "calendar_times_shown_in": "Times shown in",
     "calendar_starts_on": "Starts on",

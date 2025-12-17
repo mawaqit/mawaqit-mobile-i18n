@@ -48,7 +48,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings_TimeFormat12H => '১২ ঘন্টা';
 
   @override
-  String get settings_TimeFormat24H => '24H';
+  String get settings_TimeFormat24H => '২৪ ঘণ্টা';
 
   @override
   String get settings_PrayerNotifications => 'প্রার্থনা বিজ্ঞপ্তি';
@@ -390,7 +390,7 @@ class AppLocalizationsBn extends AppLocalizations {
       'কম্পাস ক্যালিব্রেশন সেটিংস নিষ্ক্রিয় করা হয়েছে। আপনার সংযোগ চালু আছে কিনা তা নিশ্চিত করুন এবং দিক পরিবর্তন করে আবার চেষ্টা করুন।';
 
   @override
-  String get currently_located_at => 'Currently located at';
+  String get currently_located_at => 'বর্তমানে অবস্থান করছে';
 
   @override
   String get facing_makkah => 'আপনি মক্কার দিকে মুখ করে আছেন';
@@ -1517,7 +1517,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get prayer_times_set_by_mosque =>
-      'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+      'নামাজের সময়সূচি এবং এখানে থাকা সব তথ্য মসজিদ কর্তৃক নির্ধারিত, MAWAQIT দ্বারা নয়।';
 
   @override
   String get hasan_nahi => 'হাসান নাহি';
@@ -1763,26 +1763,26 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get mawaqit_three_sixty_description =>
-      'See prayer times come to life with our new animated clock';
+      'আমাদের নতুন অ্যানিমেটেড ঘড়ির মাধ্যমে নামাজের সময়গুলোকে জীবন্তভাবে দেখুন';
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
       'While using 360 view you cannot off this setting';
 
   @override
-  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
+  String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (বেটা)';
 
   @override
   String get three_sixty_setting => '360 Settings';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'আচরণ';
 
   @override
-  String get next_prayer_open => 'Next prayer';
+  String get next_prayer_open => 'পরবর্তী নামাজ';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'সব বন্ধ';
 
   @override
   String get recomended_next_prayer => 'Recommended: Next prayer only';
@@ -1797,13 +1797,13 @@ class AppLocalizationsBn extends AppLocalizations {
   String get font_Size_Large => 'Large';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'সব খোলা';
 
   @override
   String get settingFontSize => 'Font Size';
 
   @override
-  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+  String get last_Third_Of_The_Night => 'রাতের শেষ তৃতীয়াংশ';
 
   @override
   String get shaykh_aminuddin_muhammad => 'শেখ আমিনুদ্দিন মুহাম্মদ';
@@ -1838,35 +1838,36 @@ class AppLocalizationsBn extends AppLocalizations {
   String get transliteration => 'ধ্বনিলিপি';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'তাহাজ্জুদ সময় হাইলাইট করুন';
 
   @override
   String get calendar_access_not_available =>
-      'Calendar access is not available.';
+      'ক্যালেন্ডার অ্যাক্সেস উপলব্ধ নয়।';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'MAWAQIT 360-এ আপনার ইভেন্ট দেখানোর জন্য অনুগ্রহ করে ক্যালেন্ডার অ্যাক্সেসের অনুমতি দিন।';
 
   @override
   String get calendar_access_required =>
       'Calendar access is required to show your events.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button =>
+      'ক্যালেন্ডার অ্যাক্সেস অনুমোদন করুন';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'ক্যালেন্ডার লোড হচ্ছে…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'যে ক্যালেন্ডারগুলি আপনি MAWAQIT 360-এ দেখাতে চান সেগুলি নির্বাচন করুন।';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'সব সক্ষম করুন';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'সব অক্ষম করুন';
 
   @override
   String get calendar_other_calendars => 'Other calendars';

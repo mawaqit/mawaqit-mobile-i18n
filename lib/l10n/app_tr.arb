@@ -972,8 +972,8 @@
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portekizce",
     "al_zikr": "El-Zikr",
-    "favorite_azkar": "Favorite Azkar",
-    "all_azkar": "All Azkar",
+    "favorite_azkar": "Favori Zikirler",
+    "all_azkar": "Tüm Zikirler",
     "device_audio_not_found": "Device audio not found",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
@@ -1034,7 +1034,7 @@
     },
     "notified_boost": "MAWAQIT Boost projeleriyle ilgili en son güncellemelerden haberdar olun.",
     "contact_us_boost": "Projenizi burada listelemek için, bizimle iletişime geçin:",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "prayer_times_set_by_mosque": "Namaz vakitleri ve buradaki tüm bilgiler MAWAQIT tarafından değil, cami tarafından belirlenmektedir",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
@@ -1160,15 +1160,15 @@
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "Behavior",
+    "behavior": "Davranış",
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "Next prayer",
+    "next_prayer_open": "Sonraki Namaz",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "All closed",
+    "all_prayer_closed": "Hepsi Kapalı",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
@@ -1188,7 +1188,7 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "All open",
+    "all_Prayer_Open": "Hepsi Açık",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
@@ -1196,7 +1196,7 @@
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "last_Third_Of_The_Night": "Gecenin Son Üçte Biri",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
@@ -1210,18 +1210,18 @@
     "connected_watch": "Bağlı saat",
     "ready_play_watch": "saatinizde oynatmaya hazır",
     "transliteration": "Çeviriyazı",
-    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "highlight_Tahajjud_Time": "Teheccüd Vaktini Vurgula",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
-    "calendar_access_not_available": "Calendar access is not available.",
-    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
+    "calendar_access_not_available": "Takvim erişimi mevcut değil.",
+    "calendar_allow_access_mawaqit": "Lütfen MAWAQIT 360’ta etkinliklerinizi gösterebilmek için takvim erişimine izin verin.",
     "calendar_access_required": "Calendar access is required to show your events.",
-    "calendar_allow_access_button": "Allow calendar access",
-    "calendar_loading": "Loading calendars…",
-    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
-    "calendar_enable_all": "Enable all",
-    "calendar_disable_all": "Disable all",
+    "calendar_allow_access_button": "Takvim erişimine izin ver",
+    "calendar_loading": "Takvimler yükleniyor…",
+    "calendar_select_for_mawaqit": "MAWAQIT 360’ta göstermek istediğiniz takvimleri seçin.",
+    "calendar_enable_all": "Hepsini Etkinleştir",
+    "calendar_disable_all": "Hepsini Devre Dışı Bırak",
     "calendar_other_calendars": "Other calendars",
     "calendar_times_shown_in": "Times shown in",
     "calendar_starts_on": "Starts on",
