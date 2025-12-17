@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -972,8 +972,8 @@
     "helmi_nasr": "ڈاکٹر حلمی نصر",
     "settings_language_pt": "Portuguese",
     "al_zikr": "الذکر",
-    "favorite_azkar": "Favorite Azkar",
-    "all_azkar": "All Azkar",
+    "favorite_azkar": "پسندیدہ اذکار",
+    "all_azkar": "تمام اذکار",
     "device_audio_not_found": "Device audio not found",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
@@ -1160,15 +1160,15 @@
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "Behavior",
+    "behavior": "رویہ",
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "Next prayer",
+    "next_prayer_open": "اگلی نماز",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "All closed",
+    "all_prayer_closed": "سب بند",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
@@ -1188,7 +1188,7 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "All open",
+    "all_Prayer_Open": "سب کھلے",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
@@ -1196,7 +1196,7 @@
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "last_Third_Of_The_Night": "رات کا آخری تہائی حصہ",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
@@ -1210,18 +1210,18 @@
     "connected_watch": "منسلک گھڑی",
     "ready_play_watch": "آپ کی گھڑی پر چلانے کے لیے تیار ہے",
     "transliteration": "ٹرانسلِٹریشن",
-    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "highlight_Tahajjud_Time": "تہجد کے وقت کو نمایاں کریں",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
-    "calendar_access_not_available": "Calendar access is not available.",
-    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
+    "calendar_access_not_available": "کیلنڈر تک رسائی دستیاب نہیں ہے۔",
+    "calendar_allow_access_mawaqit": "\"براہ کرم اپنے ایونٹس MAWAQIT 360 پر دکھانے کے لیے کیلنڈر کی رسائی کی اجازت دیں۔\"",
     "calendar_access_required": "Calendar access is required to show your events.",
-    "calendar_allow_access_button": "Allow calendar access",
-    "calendar_loading": "Loading calendars…",
-    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
-    "calendar_enable_all": "Enable all",
-    "calendar_disable_all": "Disable all",
+    "calendar_allow_access_button": "کیلنڈر کی رسائی کی اجازت دیں",
+    "calendar_loading": "کیلنڈر لوڈ ہو رہے ہیں…",
+    "calendar_select_for_mawaqit": "وہ کیلنڈرز منتخب کریں جو آپ MAWAQIT 360 پر دکھانا چاہتے ہیں۔",
+    "calendar_enable_all": "سب فعال کریں",
+    "calendar_disable_all": "سب غیر فعال کریں",
     "calendar_other_calendars": "Other calendars",
     "calendar_times_shown_in": "Times shown in",
     "calendar_starts_on": "Starts on",
