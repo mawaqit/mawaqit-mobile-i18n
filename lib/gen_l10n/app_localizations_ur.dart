@@ -1400,10 +1400,10 @@ class AppLocalizationsUr extends AppLocalizations {
   String get al_zikr => 'الذکر';
 
   @override
-  String get favorite_azkar => 'Favorite Azkar';
+  String get favorite_azkar => 'پسندیدہ اذکار';
 
   @override
-  String get all_azkar => 'All Azkar';
+  String get all_azkar => 'تمام اذکار';
 
   @override
   String get device_audio_not_found => 'Device audio not found';
@@ -1775,13 +1775,13 @@ class AppLocalizationsUr extends AppLocalizations {
   String get three_sixty_setting => '360 Settings';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'رویہ';
 
   @override
-  String get next_prayer_open => 'Next prayer';
+  String get next_prayer_open => 'اگلی نماز';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'سب بند';
 
   @override
   String get recomended_next_prayer => 'Recommended: Next prayer only';
@@ -1796,13 +1796,13 @@ class AppLocalizationsUr extends AppLocalizations {
   String get font_Size_Large => 'Large';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'سب کھلے';
 
   @override
   String get settingFontSize => 'Font Size';
 
   @override
-  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+  String get last_Third_Of_The_Night => 'رات کا آخری تہائی حصہ';
 
   @override
   String get shaykh_aminuddin_muhammad => 'شیخ امینُ الدین محمد';
@@ -1837,35 +1837,34 @@ class AppLocalizationsUr extends AppLocalizations {
   String get transliteration => 'ٹرانسلِٹریشن';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'تہجد کے وقت کو نمایاں کریں';
 
   @override
-  String get calendar_access_not_available =>
-      'Calendar access is not available.';
+  String get calendar_access_not_available => 'کیلنڈر تک رسائی دستیاب نہیں ہے۔';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      '\"براہ کرم اپنے ایونٹس MAWAQIT 360 پر دکھانے کے لیے کیلنڈر کی رسائی کی اجازت دیں۔\"';
 
   @override
   String get calendar_access_required =>
       'Calendar access is required to show your events.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'کیلنڈر کی رسائی کی اجازت دیں';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'کیلنڈر لوڈ ہو رہے ہیں…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'وہ کیلنڈرز منتخب کریں جو آپ MAWAQIT 360 پر دکھانا چاہتے ہیں۔';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'سب فعال کریں';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'سب غیر فعال کریں';
 
   @override
   String get calendar_other_calendars => 'Other calendars';

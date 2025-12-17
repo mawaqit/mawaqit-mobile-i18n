@@ -1391,10 +1391,10 @@ class AppLocalizationsTr extends AppLocalizations {
   String get al_zikr => 'El-Zikr';
 
   @override
-  String get favorite_azkar => 'Favorite Azkar';
+  String get favorite_azkar => 'Favori Zikirler';
 
   @override
-  String get all_azkar => 'All Azkar';
+  String get all_azkar => 'Tüm Zikirler';
 
   @override
   String get device_audio_not_found => 'Device audio not found';
@@ -1768,13 +1768,13 @@ class AppLocalizationsTr extends AppLocalizations {
   String get three_sixty_setting => '360 Settings';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'Davranış';
 
   @override
-  String get next_prayer_open => 'Next prayer';
+  String get next_prayer_open => 'Sonraki Namaz';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'Hepsi Kapalı';
 
   @override
   String get recomended_next_prayer => 'Recommended: Next prayer only';
@@ -1789,13 +1789,13 @@ class AppLocalizationsTr extends AppLocalizations {
   String get font_Size_Large => 'Large';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'Hepsi Açık';
 
   @override
   String get settingFontSize => 'Font Size';
 
   @override
-  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+  String get last_Third_Of_The_Night => 'Gecenin Son Üçte Biri';
 
   @override
   String get shaykh_aminuddin_muhammad => 'Şeyh Eminüddin Muhammed';
@@ -1829,35 +1829,34 @@ class AppLocalizationsTr extends AppLocalizations {
   String get transliteration => 'Çeviriyazı';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'Teheccüd Vaktini Vurgula';
 
   @override
-  String get calendar_access_not_available =>
-      'Calendar access is not available.';
+  String get calendar_access_not_available => 'Takvim erişimi mevcut değil.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'Lütfen MAWAQIT 360’ta etkinliklerinizi gösterebilmek için takvim erişimine izin verin.';
 
   @override
   String get calendar_access_required =>
       'Calendar access is required to show your events.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'Takvim erişimine izin ver';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'Takvimler yükleniyor…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'MAWAQIT 360’ta göstermek istediğiniz takvimleri seçin.';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'Hepsini Etkinleştir';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'Hepsini Devre Dışı Bırak';
 
   @override
   String get calendar_other_calendars => 'Other calendars';
