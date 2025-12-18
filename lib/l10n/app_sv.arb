@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1235,5 +1235,6 @@
     "mosque_name": "Moskén namn",
     "mosque_not_found": "Moskén hittades inte",
     "invalid_mosque_link": "Ogiltig moskélänk",
-    "not_open_mosque_link": "Kunde inte öppna denna moskélänk. Försök igen."
+    "not_open_mosque_link": "Kunde inte öppna denna moskélänk. Försök igen.",
+    "no_calendars_on_this_device.": "Inga kalendrar hittades på den här enheten."
 }
