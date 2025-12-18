@@ -132,10 +132,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get settings_language_pl => 'پولەكچە';
 
   @override
-  String get settings_CreditsText => 'نەشر ھوقۇقى © 2021 MAWAQIT ۋە MAWAQIT ۋەخپىسىگە تەۋە، بارلىق ھوقۇقنى ساقلاپ قالىدۇ.\n\nمەزكۇر ئەپ ياكى ئۇنىڭ قىستۇرما، كېڭەيتىلمىسى ياكى مەزمۇنىنىڭ بىلىم مۈلۈك ھوقۇقى ۋە نەشر ھوقۇقى MAWAQIT جامائىتىدىكى MAWAQIT قا تەۋە.\n\nبۇ نەشرى پەقەت ساخاۋەت ۋە ۋەخپە شەكلىدە تارقىتىلدى. ھەر قانداق سودىغا ئىشلىتىش ياكى تىجارەت مەقسىتىدە تارقىتىش چەكلىنىدۇ.\n\nبۇ ئىجازەت ھەر قانداق شەكىلدە مەزكۇر مەھسۇلات ۋە ئۇنىڭ ھەر قانداق بۆلەك، قىستۇرما، كېڭەيتىلمە ياكى مەزمۇنىغا مۇناسىۋەتلىك ھەر قانداق ھوقۇقنى سېتىشنى بىلدۈرمەيدۇ ياكى ئۆز ئىچىگە ئالمايدۇ. ئەكسىچە، مەزكۇر ئىجازەت پەقەت نۆۋەتتىكى ئەپ بازىرى سۇپىسى ئارقىلىق ساخاۋەت شەكلىدە تارقىتىلىدۇ.\n\nئەسلى كودى ياكى ئىككىلىك سىستېمىدىكى ھۆججەتنى ئەپ سۈپىتىدە قايتا تارقاتسا ياكى تەتۈر يۆنىلىش قۇرۇلۇشى (ئۆزگەرتكەن بولسۇن بولمىسۇن) ئارقىلىق نەشر ھوقۇقىغا دەخلى قىلغۇچى ياكى مەزكۇر نەشر ھوقۇقىغا دەخلى قىلىشتا مەسئۇلىيىتى بار ھەر قانداق كىشى قانۇنىي دەۋاغا دۇچ كېلىدۇ.\n\nنەشر ھوقۇقى ئىگىدارى ۋە ئەپ ئىگىدارى MAWAQIT جامائىتىدىكى MAWAQIT نىڭ يازما ئىجازىتىنى ئالماي تۇرۇپ، ھەر قانداق تەرەپنىڭ Apple ياكى Google Play رەسمىي دۇكىنىدىن باشقا جايدا ئەپنى قايتا تارقىتىش ھوقۇقى يوق. بۇ رەسمىي دۇكاندىن باشقا جايدا مەزكۇر ئەپنى تارقىتىش بىلىم مۈلۈك ھوقۇقىنى قوغداش قانۇنىغا خىلاپ، نەشر ھوقۇقىغا دەخلى قىلىش مەسئۇلىيىتى بار كىشى قانۇنىي دەۋاغا دۇچ كېلىدۇ.\n\nنەشر ھوقۇقى ئىگىدارىنىڭ يازما ئىجازىتىنى ئالماي تۇرۇپ، ئەپ ئىسمى ياكى ماركىسىنى ئىشلىتىشكە بولمايدۇ ۋە ياكى نەشر ھوقۇقى ئىگىدارى MAWAQIT ۋە MAWAQIT ۋەخپىسىنىڭ تاۋار ماركىسى ياكى ئىسمى ئارقىلىق مەزكۇر ئەپ ياكى ھەر قانداق ئوخشاپ كېتىدىغان مەھسۇلات ياكى شالغۇت مەھسۇلاتنى كېڭەيتىشكە بولمايدۇ.\nمەزكۇر ئەپ نەشر ھوقۇقى ئىگىدارى ۋە ھەسسىدارلارنىڭ «شۇ پېتى» تارقىتىش ئىجازىتىگە ئېرىشكەن.\n\nمەزكۇر ئەپ ئىجادكارى ۋە ئىگىدار شىركەت ھەر قانداق ئاشكارا ياكى يوشۇرۇن كاپالەت بىلەن تەمىنلىمەيدۇ، ئۆز ئىچىگە ئالىدىغىنى - مەزكۇر ئەپكە قارىتا مۇئەييەن شەكىلدىكى ئېلان ۋە كېڭەيتىشكە قوللىنىشقا چەكلىمە قويۇلمايدۇ. ھەر قانداق ئەھۋالدا، MAWAQIT ۋە MAWAQIT ۋەخپىسى ياكى ھەسسىدارى ھەر قانداق شەكىلدىكى بىۋاسىتە، ۋاسىتىلىك ياكى تاسادىپىي (ئالاھىدە، ئاگاھلاندۇرۇش خاراكتېرىدىكى، ئاقىۋەت خاراكتېرىدىكى) زىيانغا مەسئۇل بولمايدۇ، ئىشلىتىش زىيىنى، سانلىق مەلۇمات زىيىنى، پايدا زىيىنى ياكى كەسىپ ئۈزۈلۈش بىلەن چەكلەنمەيدۇ، مەيلى سەۋەبى ۋە مەسئۇلىيىتى قانداق بولۇشىدىن قەتئىينەزەر، مەيلى بۇ مەسئۇلىيەت توختام مەسئۇلىيىتى، مۇتلەق مەسئۇلىيەت ياكى نەشر ھوقۇقى مەسئۇلىيىتى (بىخەستەلىك ياكى باشقىنى ئۆز ئىچىگە ئالىدۇ) بولسۇن، بۇ زىيان ياكى زىيانكەشلىك مەزكۇر ئەپنى ئىشلىتىپ مەلۇم شەكىلدە پەيدا بولغان بولسۇن ھەممىسىنى ئۆز ئىچىگە ئالىدۇ.\n\nئەپتىكى ھەر قانداق ئۈچىنچى تەرەپنىڭ نەشر ھوقۇقى ئۇلارنىڭ ئىگىدارىغا تەۋە.\n\nسۈرەت ۋە تەگلىك\n\nنەشر ھوقۇقى Shutterstock قا تەۋە\n\nسىنبەلگە —  CC 4.0 ئىجازىتىدە\n\nنەشر ھوقۇقى Flaticons قا تەۋە\n\nغەيرىي خەت نۇسخا ۋە غەيرى سىنبەلگە ھۆججەتكە ماسساچۇسېتس تېخنىكا ئىنستىتۇتى (MIT) ئىجازىتى قوللىنىلىدۇ.\n\nخەت نۇسخىسى — SIL OFL 1.1 ئىجازىتى\n\nنەشر ھوقۇقى Google خەت نۇسخىسى (Roboto خەت نۇسخىسى) قا تەۋە\nنەشر ھوقۇقى Apple غا تەۋە، Cupertino بوغچىسى\nكودى، بوغچا ۋە قۇرۇلمىسى\n\nFlutter نى Google ياسىغان\n\nبوغچىلار: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
+  String get settings_CreditsText =>
+      'نەشر ھوقۇقى © 2021 MAWAQIT ۋە MAWAQIT ۋەخپىسىگە تەۋە، بارلىق ھوقۇقنى ساقلاپ قالىدۇ.\n\nمەزكۇر ئەپ ياكى ئۇنىڭ قىستۇرما، كېڭەيتىلمىسى ياكى مەزمۇنىنىڭ بىلىم مۈلۈك ھوقۇقى ۋە نەشر ھوقۇقى MAWAQIT جامائىتىدىكى MAWAQIT قا تەۋە.\n\nبۇ نەشرى پەقەت ساخاۋەت ۋە ۋەخپە شەكلىدە تارقىتىلدى. ھەر قانداق سودىغا ئىشلىتىش ياكى تىجارەت مەقسىتىدە تارقىتىش چەكلىنىدۇ.\n\nبۇ ئىجازەت ھەر قانداق شەكىلدە مەزكۇر مەھسۇلات ۋە ئۇنىڭ ھەر قانداق بۆلەك، قىستۇرما، كېڭەيتىلمە ياكى مەزمۇنىغا مۇناسىۋەتلىك ھەر قانداق ھوقۇقنى سېتىشنى بىلدۈرمەيدۇ ياكى ئۆز ئىچىگە ئالمايدۇ. ئەكسىچە، مەزكۇر ئىجازەت پەقەت نۆۋەتتىكى ئەپ بازىرى سۇپىسى ئارقىلىق ساخاۋەت شەكلىدە تارقىتىلىدۇ.\n\nئەسلى كودى ياكى ئىككىلىك سىستېمىدىكى ھۆججەتنى ئەپ سۈپىتىدە قايتا تارقاتسا ياكى تەتۈر يۆنىلىش قۇرۇلۇشى (ئۆزگەرتكەن بولسۇن بولمىسۇن) ئارقىلىق نەشر ھوقۇقىغا دەخلى قىلغۇچى ياكى مەزكۇر نەشر ھوقۇقىغا دەخلى قىلىشتا مەسئۇلىيىتى بار ھەر قانداق كىشى قانۇنىي دەۋاغا دۇچ كېلىدۇ.\n\nنەشر ھوقۇقى ئىگىدارى ۋە ئەپ ئىگىدارى MAWAQIT جامائىتىدىكى MAWAQIT نىڭ يازما ئىجازىتىنى ئالماي تۇرۇپ، ھەر قانداق تەرەپنىڭ Apple ياكى Google Play رەسمىي دۇكىنىدىن باشقا جايدا ئەپنى قايتا تارقىتىش ھوقۇقى يوق. بۇ رەسمىي دۇكاندىن باشقا جايدا مەزكۇر ئەپنى تارقىتىش بىلىم مۈلۈك ھوقۇقىنى قوغداش قانۇنىغا خىلاپ، نەشر ھوقۇقىغا دەخلى قىلىش مەسئۇلىيىتى بار كىشى قانۇنىي دەۋاغا دۇچ كېلىدۇ.\n\nنەشر ھوقۇقى ئىگىدارىنىڭ يازما ئىجازىتىنى ئالماي تۇرۇپ، ئەپ ئىسمى ياكى ماركىسىنى ئىشلىتىشكە بولمايدۇ ۋە ياكى نەشر ھوقۇقى ئىگىدارى MAWAQIT ۋە MAWAQIT ۋەخپىسىنىڭ تاۋار ماركىسى ياكى ئىسمى ئارقىلىق مەزكۇر ئەپ ياكى ھەر قانداق ئوخشاپ كېتىدىغان مەھسۇلات ياكى شالغۇت مەھسۇلاتنى كېڭەيتىشكە بولمايدۇ.\nمەزكۇر ئەپ نەشر ھوقۇقى ئىگىدارى ۋە ھەسسىدارلارنىڭ «شۇ پېتى» تارقىتىش ئىجازىتىگە ئېرىشكەن.\n\nمەزكۇر ئەپ ئىجادكارى ۋە ئىگىدار شىركەت ھەر قانداق ئاشكارا ياكى يوشۇرۇن كاپالەت بىلەن تەمىنلىمەيدۇ، ئۆز ئىچىگە ئالىدىغىنى - مەزكۇر ئەپكە قارىتا مۇئەييەن شەكىلدىكى ئېلان ۋە كېڭەيتىشكە قوللىنىشقا چەكلىمە قويۇلمايدۇ. ھەر قانداق ئەھۋالدا، MAWAQIT ۋە MAWAQIT ۋەخپىسى ياكى ھەسسىدارى ھەر قانداق شەكىلدىكى بىۋاسىتە، ۋاسىتىلىك ياكى تاسادىپىي (ئالاھىدە، ئاگاھلاندۇرۇش خاراكتېرىدىكى، ئاقىۋەت خاراكتېرىدىكى) زىيانغا مەسئۇل بولمايدۇ، ئىشلىتىش زىيىنى، سانلىق مەلۇمات زىيىنى، پايدا زىيىنى ياكى كەسىپ ئۈزۈلۈش بىلەن چەكلەنمەيدۇ، مەيلى سەۋەبى ۋە مەسئۇلىيىتى قانداق بولۇشىدىن قەتئىينەزەر، مەيلى بۇ مەسئۇلىيەت توختام مەسئۇلىيىتى، مۇتلەق مەسئۇلىيەت ياكى نەشر ھوقۇقى مەسئۇلىيىتى (بىخەستەلىك ياكى باشقىنى ئۆز ئىچىگە ئالىدۇ) بولسۇن، بۇ زىيان ياكى زىيانكەشلىك مەزكۇر ئەپنى ئىشلىتىپ مەلۇم شەكىلدە پەيدا بولغان بولسۇن ھەممىسىنى ئۆز ئىچىگە ئالىدۇ.\n\nئەپتىكى ھەر قانداق ئۈچىنچى تەرەپنىڭ نەشر ھوقۇقى ئۇلارنىڭ ئىگىدارىغا تەۋە.\n\nسۈرەت ۋە تەگلىك\n\nنەشر ھوقۇقى Shutterstock قا تەۋە\n\nسىنبەلگە —  CC 4.0 ئىجازىتىدە\n\nنەشر ھوقۇقى Flaticons قا تەۋە\n\nغەيرىي خەت نۇسخا ۋە غەيرى سىنبەلگە ھۆججەتكە ماسساچۇسېتس تېخنىكا ئىنستىتۇتى (MIT) ئىجازىتى قوللىنىلىدۇ.\n\nخەت نۇسخىسى — SIL OFL 1.1 ئىجازىتى\n\nنەشر ھوقۇقى Google خەت نۇسخىسى (Roboto خەت نۇسخىسى) قا تەۋە\nنەشر ھوقۇقى Apple غا تەۋە، Cupertino بوغچىسى\nكودى، بوغچا ۋە قۇرۇلمىسى\n\nFlutter نى Google ياسىغان\n\nبوغچىلار: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'بۇ ئەپنى MAWAQIT جامائىتى ئىجاد قىلغان.\n\nMAWAQIT جامائىتى پايدا تاپمايدىغان ئورگان بولۇپ 2021-يىلى فىرانسىيەدە قۇرۇلغان.\nنىشانىمىز ئۇچۇر تېخنىكىسى ۋە رەقەملىك تېخنىكىغا مۇناسىۋەتلىك يېڭىلىق يارىتىدىغان ھەل قىلىش لايىھەسى ئىجادىيىتى بىلەن شۇغۇللىنىش، مەسىلەن، يۇمشاق دېتال ۋە تور بېكەت؛ رەقەملىك ھەل قىلىش لايىھەسى ۋە ئۇچۇر تېخنىكا قورالى ئوقۇتۇشى ۋە مائارىپى.\n\nMAWAQIT ئېكولوگىيەلىك سىستېمىسى بىزنىڭ بايراقدار مەھسۇلاتىمىز، ئۇنىڭ ھېكايىسى 2016-يىلى باشلانغان، ئەينى چاغدا مەسچىتنىڭ چوڭ ئېكرانىغا ئىشلىتىلىدىغان مەخسۇس بىر ئەپ بار ئىدى، ئاندىن كېيىن كۆچمە ئەپ، ئائىلە ياردەمچى قوشۇلمىسى ۋە alexa ماھارىتى قاتارلىق.\n\nMAWAQIT سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرىدىغان يېڭىچە ئۇسۇل بىلەن تەمىنلەيدۇ، ئەمەلىيەتتە، ئۇچتىن ئۇچقا سىستېما تەمىنلەپ، مەسچىت باشقۇرغۇچىلىرىغا پۈتۈن كۈنلۈك تور قورالى بىلەن تەمىنلەپ، ئۇلارنىڭ ۋاقىت جەدۋىلى، مەسچىت خەۋىرى ۋە باشقا نۇرغۇن ئىقتىدارنى باشقۇرۇشىغا قولايلىق يارىتىمىز. ئېتىقادچىلار كۆچمە ئەپتىن مەنپەئەتلىنىدۇ، مەزكۇر ئەپ ئارقىلىق ئۇلار ياقتۇرىدىغان مەسچىتىنىڭ ئېنىق ناماز ۋاقتى جەدۋىلى (تەخمىنەن ۋاقىت جەدۋىلى ئەمەس)، خەۋەر ۋە باشقا ئىقتىدارنى كۆرەلەيدۇ، مەسىلەن، جۇغراپىيەلىك ئورنى ئارقىلىق مەسچىت، ئەزان ۋاقتى، قىبلە قاتارلىقلارنى ئىزدىيەلەيدۇ. بىز ئىزچىل چىنلىق بىلەن سۈپەتنى يادرولۇق قىممەت قارىشىمىز قىلدۇق. ئېنىق نىشانىمىز: تېخنىكا ۋە لايىھە ئارقىلىق مەسچىتكە ئەلا مۇلازىمەت تەمىنلەش.\n\nئەگەر بۇ ئەپنى ياقتۇرسىڭىز، ئەپ دۇكاندا تەكلىپ بېرىڭ.';
+  String get settings_AboutUsText =>
+      'بۇ ئەپنى MAWAQIT جامائىتى ئىجاد قىلغان.\n\nMAWAQIT جامائىتى پايدا تاپمايدىغان ئورگان بولۇپ 2021-يىلى فىرانسىيەدە قۇرۇلغان.\nنىشانىمىز ئۇچۇر تېخنىكىسى ۋە رەقەملىك تېخنىكىغا مۇناسىۋەتلىك يېڭىلىق يارىتىدىغان ھەل قىلىش لايىھەسى ئىجادىيىتى بىلەن شۇغۇللىنىش، مەسىلەن، يۇمشاق دېتال ۋە تور بېكەت؛ رەقەملىك ھەل قىلىش لايىھەسى ۋە ئۇچۇر تېخنىكا قورالى ئوقۇتۇشى ۋە مائارىپى.\n\nMAWAQIT ئېكولوگىيەلىك سىستېمىسى بىزنىڭ بايراقدار مەھسۇلاتىمىز، ئۇنىڭ ھېكايىسى 2016-يىلى باشلانغان، ئەينى چاغدا مەسچىتنىڭ چوڭ ئېكرانىغا ئىشلىتىلىدىغان مەخسۇس بىر ئەپ بار ئىدى، ئاندىن كېيىن كۆچمە ئەپ، ئائىلە ياردەمچى قوشۇلمىسى ۋە alexa ماھارىتى قاتارلىق.\n\nMAWAQIT سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرىدىغان يېڭىچە ئۇسۇل بىلەن تەمىنلەيدۇ، ئەمەلىيەتتە، ئۇچتىن ئۇچقا سىستېما تەمىنلەپ، مەسچىت باشقۇرغۇچىلىرىغا پۈتۈن كۈنلۈك تور قورالى بىلەن تەمىنلەپ، ئۇلارنىڭ ۋاقىت جەدۋىلى، مەسچىت خەۋىرى ۋە باشقا نۇرغۇن ئىقتىدارنى باشقۇرۇشىغا قولايلىق يارىتىمىز. ئېتىقادچىلار كۆچمە ئەپتىن مەنپەئەتلىنىدۇ، مەزكۇر ئەپ ئارقىلىق ئۇلار ياقتۇرىدىغان مەسچىتىنىڭ ئېنىق ناماز ۋاقتى جەدۋىلى (تەخمىنەن ۋاقىت جەدۋىلى ئەمەس)، خەۋەر ۋە باشقا ئىقتىدارنى كۆرەلەيدۇ، مەسىلەن، جۇغراپىيەلىك ئورنى ئارقىلىق مەسچىت، ئەزان ۋاقتى، قىبلە قاتارلىقلارنى ئىزدىيەلەيدۇ. بىز ئىزچىل چىنلىق بىلەن سۈپەتنى يادرولۇق قىممەت قارىشىمىز قىلدۇق. ئېنىق نىشانىمىز: تېخنىكا ۋە لايىھە ئارقىلىق مەسچىتكە ئەلا مۇلازىمەت تەمىنلەش.\n\nئەگەر بۇ ئەپنى ياقتۇرسىڭىز، ئەپ دۇكاندا تەكلىپ بېرىڭ.';
 
   @override
   String get fajr => 'بامدات';
@@ -159,10 +161,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get sabah => 'سۈبھى';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'نۆۋەتتە سىز بۇ نامازنى ئەسكەرتمەسلىكنى تەڭشىگەن.';
+  String get settings_PrayerNotification_NoNotification =>
+      'نۆۋەتتە سىز بۇ نامازنى ئەسكەرتمەسلىكنى تەڭشىگەن.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'ئۇقتۇرۇش جەريانىدا قوڭغۇراق ئەپنى چىرىڭلىتىدۇ.';
+  String get settings_PrayerNotification_Bip =>
+      'ئۇقتۇرۇش جەريانىدا قوڭغۇراق ئەپنى چىرىڭلىتىدۇ.';
 
   @override
   String get adhan => 'ئەزان';
@@ -189,16 +193,19 @@ class AppLocalizationsUg extends AppLocalizations {
   String get adhan_AbdAlBassat => 'ئابدۇل باسىت';
 
   @override
-  String get adhan_type => 'ئەزان تۈرى تاللىنىدۇ. بۇ تاللاش ھەر قېتىملىق نامازدىكى ئەزان ئۇقتۇرۇشىغا قوللىنىلىدۇ.';
+  String get adhan_type =>
+      'ئەزان تۈرى تاللىنىدۇ. بۇ تاللاش ھەر قېتىملىق نامازدىكى ئەزان ئۇقتۇرۇشىغا قوللىنىلىدۇ.';
 
   @override
   String get settings_prayer_Notification_None => 'يوق';
 
   @override
-  String get prayer_Notification_NoNotification => 'سىز بۇ نامازغا ھېچقانداق ئەسكەرتىش تەڭشىمىگەن.';
+  String get prayer_Notification_NoNotification =>
+      'سىز بۇ نامازغا ھېچقانداق ئەسكەرتىش تەڭشىمىگەن.';
 
   @override
-  String get prayer_PreNotification_Description => 'بۇ تەڭشەك نامازدىن ئىلگىرى ئەسكەرتىش بەلگىلىشىڭىزگە يول قويىدۇ.';
+  String get prayer_PreNotification_Description =>
+      'بۇ تەڭشەك نامازدىن ئىلگىرى ئەسكەرتىش بەلگىلىشىڭىزگە يول قويىدۇ.';
 
   @override
   String get search_TryParis => 'پارىژ، ئەسسالام قاتارلىقلارنى سىناڭ.';
@@ -207,13 +214,16 @@ class AppLocalizationsUg extends AppLocalizations {
   String get search_ByGPS => 'GPS بويىچە ئىزدە';
 
   @override
-  String get search_HelpText => 'تۆۋەندىكىلەرنى يېزىپ مەسچىت ئىزدىگىلى بولىدۇ:\n- مەسچىت ئىسمى\n- جامائەت ئىسمى\n- شەھەر، ئادرېس، دۆلەت قاتارلىق …\n\nياكى ئورۇن توپچىنى چېكىپ ئەترەپتىكى مەسچىتنى تاپالايسىز.';
+  String get search_HelpText =>
+      'تۆۋەندىكىلەرنى يېزىپ مەسچىت ئىزدىگىلى بولىدۇ:\n- مەسچىت ئىسمى\n- جامائەت ئىسمى\n- شەھەر، ئادرېس، دۆلەت قاتارلىق …\n\nياكى ئورۇن توپچىنى چېكىپ ئەترەپتىكى مەسچىتنى تاپالايسىز.';
 
   @override
-  String get search_MaxFavMosquesReached => 'سىز ئەڭ ياقتۇرىدىغان مەسچىت ساقلاشنىڭ يۇقىرى چېكىگە يەتتىڭىز.';
+  String get search_MaxFavMosquesReached =>
+      'سىز ئەڭ ياقتۇرىدىغان مەسچىت ساقلاشنىڭ يۇقىرى چېكىگە يەتتىڭىز.';
 
   @override
-  String get search_iOs14_message => 'iOS 14 تە GPS ئارقىلىق ئىزدەشكە بىر ئاز ۋاقىت كېتىشى مۇمكىن، سەل كۈتۈڭ.';
+  String get search_iOs14_message =>
+      'iOS 14 تە GPS ئارقىلىق ئىزدەشكە بىر ئاز ۋاقىت كېتىشى مۇمكىن، سەل كۈتۈڭ.';
 
   @override
   String get search_error => 'ئاپلا ئىچكى خاتالىق كۆرۈلدى';
@@ -222,7 +232,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get search_your_location => 'ئورنىڭىز';
 
   @override
-  String get search_location_disabled => 'ئىسىم ياكى شەھەر بويىچە مەسچىت ئىزدەڭ ياكى تەڭشەكتە ئورۇن ئۇچۇرىنى ئىشلىتىشكە يول قويۇڭ.';
+  String get search_location_disabled =>
+      'ئىسىم ياكى شەھەر بويىچە مەسچىت ئىزدەڭ ياكى تەڭشەكتە ئورۇن ئۇچۇرىنى ئىشلىتىشكە يول قويۇڭ.';
 
   @override
   String get search_settings => 'تەڭشەك';
@@ -255,10 +266,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get no_thanks => 'ياق رەھمەت';
 
   @override
-  String get notification_denied => 'سىز ئۇقتۇرۇش ئىجازىتىنى رەت قىلدىڭىز، شۇڭا ھېچقانداق ئۇقتۇرۇش تاپشۇرۇۋالمايسىز.';
+  String get notification_denied =>
+      'سىز ئۇقتۇرۇش ئىجازىتىنى رەت قىلدىڭىز، شۇڭا ھېچقانداق ئۇقتۇرۇش تاپشۇرۇۋالمايسىز.';
 
   @override
-  String get at_least_one_mosque => 'داۋاملاشتۇرۇش ئۈچۈن كەم دېگەندە بىر مەسچىت تاللىنىدۇ';
+  String get at_least_one_mosque =>
+      'داۋاملاشتۇرۇش ئۈچۈن كەم دېگەندە بىر مەسچىت تاللىنىدۇ';
 
   @override
   String get set_up_your_prayer => 'نامازنى تەڭشەيدۇ';
@@ -276,10 +289,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get mosques_with => 'مەسچىتلەر';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.';
+  String get allow_mawaqit_to_access_my_location =>
+      'مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.';
 
   @override
-  String get enable_location_service_from_app_settings => 'ئەپ تەڭشىكىدىن ئورۇن مۇلازىمىتىنى قوزغىتىدۇ.';
+  String get enable_location_service_from_app_settings =>
+      'ئەپ تەڭشىكىدىن ئورۇن مۇلازىمىتىنى قوزغىتىدۇ.';
 
   @override
   String get the_request_timeout => 'ئىلتىماس ۋاقتى ئۆتتى';
@@ -294,7 +309,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get virtual_mosque => 'تەقلىدىي مەسچىت';
 
   @override
-  String get no_mosque_in_selected_area => 'تاللىغان جايدىن ھېچقانداق مەسچىتنى تاپالمىدى';
+  String get no_mosque_in_selected_area =>
+      'تاللىغان جايدىن ھېچقانداق مەسچىتنى تاپالمىدى';
 
   @override
   String get no_mosque_with => 'ھېچقانداق مەسچىتنى تاپالمىدى';
@@ -306,7 +322,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get search_here => 'بۇ جايدىن ئىزدە';
 
   @override
-  String get enter_at_least_3_char => 'ئىزدىگەندە كەم دېگەندە 3 ھەرپ كىرگۈزۈلىدۇ';
+  String get enter_at_least_3_char =>
+      'ئىزدىگەندە كەم دېگەندە 3 ھەرپ كىرگۈزۈلىدۇ';
 
   @override
   String get jumua1 => '1-جۈمە';
@@ -366,10 +383,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get jumua => 'جۈمە';
 
   @override
-  String get qibla_sensor => 'مەۋاقىت قىبلىنى توغرىلاشتا ئىشلىتىدىغان ئۈسكۈنىڭىزدىكى سەزگۈچ مۆلچەردىكىدەك ئىشلىمىدى، بۇ بىزنىڭ قىبلىنىڭ يۆنىلىشىنى توغرىلىشىمىزغا تەسىر كۆرسىتىدۇ.';
+  String get qibla_sensor =>
+      'مەۋاقىت قىبلىنى توغرىلاشتا ئىشلىتىدىغان ئۈسكۈنىڭىزدىكى سەزگۈچ مۆلچەردىكىدەك ئىشلىمىدى، بۇ بىزنىڭ قىبلىنىڭ يۆنىلىشىنى توغرىلىشىمىزغا تەسىر كۆرسىتىدۇ.';
 
   @override
-  String get connection_not_found => 'كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. باغلىنىشىڭىزنىڭ ئوچۇق ئىكەنلىكىنى جەزملەپ ئاندىن يۆنىلىشنى ئۆزگەرتىپ قايتا سىناڭ.';
+  String get connection_not_found =>
+      'كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. باغلىنىشىڭىزنىڭ ئوچۇق ئىكەنلىكىنى جەزملەپ ئاندىن يۆنىلىشنى ئۆزگەرتىپ قايتا سىناڭ.';
 
   @override
   String get currently_located_at => 'نۆۋەتتىكى ئورنى';
@@ -384,10 +403,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get qibla_Error_retry => 'قايتا سىنا';
 
   @override
-  String get qibla_Error_LocationDenied => 'ئورۇن ئۇچۇر مۇلازىمىتىنىڭ ئىجازىتى رەت قىلىندى';
+  String get qibla_Error_LocationDenied =>
+      'ئورۇن ئۇچۇر مۇلازىمىتىنىڭ ئىجازىتى رەت قىلىندى';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'ئورۇن ئۇچۇرى مۇلازىمىتىنىڭ ئىجازىتى مەڭگۈلۈك رەت قىلىندى!';
+  String get qibla_Error_LocationDeniedForever =>
+      'ئورۇن ئۇچۇرى مۇلازىمىتىنىڭ ئىجازىتى مەڭگۈلۈك رەت قىلىندى!';
 
   @override
   String get qibla_Error_PleaseEnable => 'ئورۇن ئۇچۇرى مۇلازىمىتىنى قوزغىتىڭ';
@@ -465,7 +486,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get mosques_Facilities_IftarRamadan => 'ئىفتار رامىزان';
 
   @override
-  String get mosque_facilities_Info => 'بۇ ئۇچۇرلارنىڭ ھەممىسىنى مەسچىتكە مەسئۇل كىشىلەر تولدۇرغان';
+  String get mosque_facilities_Info =>
+      'بۇ ئۇچۇرلارنىڭ ھەممىسىنى مەسچىتكە مەسئۇل كىشىلەر تولدۇرغان';
 
   @override
   String get in_ => 'كېيىن';
@@ -498,49 +520,57 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tutorial_title_main_mosque => 'ئاساسىي مەسچىت';
 
   @override
-  String get tutorial_text_main_mosque => 'ئاساسىي مەسچىتىڭىز بۇ جايدا كۆرۈنىدۇ.\nسىز ئوڭ ۋە سولغا سۈرۈپ يىغقۇچتىكى مەسچىتلىرىڭىزنى ئالماشتۇرالايسىز.';
+  String get tutorial_text_main_mosque =>
+      'ئاساسىي مەسچىتىڭىز بۇ جايدا كۆرۈنىدۇ.\nسىز ئوڭ ۋە سولغا سۈرۈپ يىغقۇچتىكى مەسچىتلىرىڭىزنى ئالماشتۇرالايسىز.';
 
   @override
   String get tutorial_title_countdown => 'كېيىنكى ناماز كۆرسەتكۈچ';
 
   @override
-  String get tutorial_text_countdown => 'كېيىنكى ناماز ۋاقتىغا قانچىلىك ۋاقىت قالغانلىقىنىڭ تەتۈر سانىقىنى كۆرسىتىدۇ.';
+  String get tutorial_text_countdown =>
+      'كېيىنكى ناماز ۋاقتىغا قانچىلىك ۋاقىت قالغانلىقىنىڭ تەتۈر سانىقىنى كۆرسىتىدۇ.';
 
   @override
   String get tutorial_title_mosque_info => 'مەسچىت ئۇچۇرى';
 
   @override
-  String get tutorial_text_mosque_info => 'مەسچىت ھەققىدىكى بارلىق ئۇچۇرلار: ئەسلىھە، ئادرېس، تېلېفون، خەت ساندۇقى، ئىئانە ۋە باشقىلار.';
+  String get tutorial_text_mosque_info =>
+      'مەسچىت ھەققىدىكى بارلىق ئۇچۇرلار: ئەسلىھە، ئادرېس، تېلېفون، خەت ساندۇقى، ئىئانە ۋە باشقىلار.';
 
   @override
   String get tutorial_title_announcements => 'مەسچىت ئۇچۇرى ۋە ئۇقتۇرۇش';
 
   @override
-  String get tutorial_text_announcements => 'مەسچىتنىڭ ئۇچۇر ۋە ئۇقتۇرۇشلىرى بۇ جايدا كۆرۈنىدۇ.\nبۇ توپچە چېكىلسە، تولۇق تەپسىلاتى كۆرۈنىدۇ. بۇ ئۇقتۇرۇش سىيرىلما ئۇچۇر، سۈرەت ياكى سىن بولۇشىمۇ مۇمكىن.';
+  String get tutorial_text_announcements =>
+      'مەسچىتنىڭ ئۇچۇر ۋە ئۇقتۇرۇشلىرى بۇ جايدا كۆرۈنىدۇ.\nبۇ توپچە چېكىلسە، تولۇق تەپسىلاتى كۆرۈنىدۇ. بۇ ئۇقتۇرۇش سىيرىلما ئۇچۇر، سۈرەت ياكى سىن بولۇشىمۇ مۇمكىن.';
 
   @override
   String get onboarding_title_1 => 'تىل تاللىنىدۇ';
 
   @override
-  String get onboarding_text_1 => 'تۆۋەندىكى تىل تىزىمىدىن ياقتۇرىدىغان تىلنى تاللاڭ';
+  String get onboarding_text_1 =>
+      'تۆۋەندىكى تىل تىزىمىدىن ياقتۇرىدىغان تىلنى تاللاڭ';
 
   @override
   String get onboarding_title_2 => 'مەۋاقىتقا خۇش كەلدىڭىز';
 
   @override
-  String get onboarding_text_2 => 'مەۋاقىت سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرۇشتا يېڭى ئۇسۇل تەمىنلەيدىغان ئېكولوگىيەلىك سىستېما، قولىڭىزدىكى بۇ ئەپ مەزكۇر ئېكولوگىيەلىك سىستېمىنىڭ بىر قىسمى، ئۇ سىزنىڭ مەسچىت ئىزدەپ، ئۇنىڭ خەۋەر ۋە ناماز ۋاقتىغا ئەگىشىشىڭىزگە يول قويىدۇ';
+  String get onboarding_text_2 =>
+      'مەۋاقىت سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرۇشتا يېڭى ئۇسۇل تەمىنلەيدىغان ئېكولوگىيەلىك سىستېما، قولىڭىزدىكى بۇ ئەپ مەزكۇر ئېكولوگىيەلىك سىستېمىنىڭ بىر قىسمى، ئۇ سىزنىڭ مەسچىت ئىزدەپ، ئۇنىڭ خەۋەر ۋە ناماز ۋاقتىغا ئەگىشىشىڭىزگە يول قويىدۇ';
 
   @override
   String get onboarding_title_3 => 'قاراڭغۇ/يورۇق ئۆرنەك تاللىنىدۇ';
 
   @override
-  String get onboarding_text_3 => 'سىز تېلېفونىڭىزنى قاراڭغۇ مۇھىت ياكى قاراڭغۇ تەگلىك رەڭگىدە ئىشلىتىپ، قاراڭغۇ ئۇسلۇبتىن پايدىلىنىپ كۆرۈش سەزگۈسىنى ياخشىلىيالايسىز';
+  String get onboarding_text_3 =>
+      'سىز تېلېفونىڭىزنى قاراڭغۇ مۇھىت ياكى قاراڭغۇ تەگلىك رەڭگىدە ئىشلىتىپ، قاراڭغۇ ئۇسلۇبتىن پايدىلىنىپ كۆرۈش سەزگۈسىنى ياخشىلىيالايسىز';
 
   @override
   String get onboarding_title_4 => 'ئاساسىي مەسچىتنى تاللاڭ';
 
   @override
-  String get onboarding_text_4 => 'تۆۋەندىكى تىزىمدىن ئاساسىي مەسچىتنى تاللاڭ ياكى ھازىرقى ئورنىڭىزغا يېقىن جايدىكى مەسچىتنى ئىزدەڭ';
+  String get onboarding_text_4 =>
+      'تۆۋەندىكى تىزىمدىن ئاساسىي مەسچىتنى تاللاڭ ياكى ھازىرقى ئورنىڭىزغا يېقىن جايدىكى مەسچىتنى ئىزدەڭ';
 
   @override
   String get loading => 'يۈكلەۋاتىدۇ';
@@ -576,22 +606,26 @@ class AppLocalizationsUg extends AppLocalizations {
   String get notification_open_app_title => 'ئەپنى ئاچ';
 
   @override
-  String get notification_open_app_body => 'ئەسكەرتىشنى ئاسراش ئۈچۈن ئەپنى ئېچىڭ';
+  String get notification_open_app_body =>
+      'ئەسكەرتىشنى ئاسراش ئۈچۈن ئەپنى ئېچىڭ';
 
   @override
   String get tutorial_title_notification => 'ناماز ئەسكەرتىشى تاللىنىدۇ';
 
   @override
-  String get tutorial_text_notification => 'بۇ جايدا ئەزان، قوڭغۇراق ياكى ئۈنسىز قاتارلىق تۈرلەرنى تاللىيالايسىز';
+  String get tutorial_text_notification =>
+      'بۇ جايدا ئەزان، قوڭغۇراق ياكى ئۈنسىز قاتارلىق تۈرلەرنى تاللىيالايسىز';
 
   @override
-  String get search_no_result => 'مەۋاقىت ئەلچىسى بولۇپ، مەسچىتىڭىزگە ھەل قىلىش لايىھەسى تەمىنلەڭ، ئۇ ھەقسىز\nhttps://mawaqit.net';
+  String get search_no_result =>
+      'مەۋاقىت ئەلچىسى بولۇپ، مەسچىتىڭىزگە ھەل قىلىش لايىھەسى تەمىنلەڭ، ئۇ ھەقسىز\nhttps://mawaqit.net';
 
   @override
   String get rate_popin_title => 'مەۋاقىتنى باھالاش';
 
   @override
-  String get rate_popin_message => 'ئەگەر بۇ ئەپنى ياقتۇرسىڭىز، ئازراق ۋاقتىڭىزنى چىقىرىپ ئۇنى تەكشۈرۈڭ!\nبۇنىڭ بىزگە ھەقىقەتەن پايدىسى بار.';
+  String get rate_popin_message =>
+      'ئەگەر بۇ ئەپنى ياقتۇرسىڭىز، ئازراق ۋاقتىڭىزنى چىقىرىپ ئۇنى تەكشۈرۈڭ!\nبۇنىڭ بىزگە ھەقىقەتەن پايدىسى بار.';
 
   @override
   String get rate_popin_rate => 'باھالاش';
@@ -603,7 +637,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get rate_popin_later => 'بەلكىم كېيىن';
 
   @override
-  String get message_see_all => 'ئېكراننىڭ چوققىسىدىكى ياڭراتقۇنى چىكىپ بۇ مەسچىت تارقاتقان بارلىق ئۇچۇرنى كۆرەلەيسىز.';
+  String get message_see_all =>
+      'ئېكراننىڭ چوققىسىدىكى ياڭراتقۇنى چىكىپ بۇ مەسچىت تارقاتقان بارلىق ئۇچۇرنى كۆرەلەيسىز.';
 
   @override
   String get adhan_Makkah => 'مەككە';
@@ -612,28 +647,34 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tutorial_title_iqama => 'تەكبىر';
 
   @override
-  String get tutorial_text_iqama => 'بۇ جايدا مەسچىتتىكى ئەزان بىلەن تەكبىر ئارىسىدا داۋاملىشىدىغان ۋاقىتنى تاللىيالايسىز';
+  String get tutorial_text_iqama =>
+      'بۇ جايدا مەسچىتتىكى ئەزان بىلەن تەكبىر ئارىسىدا داۋاملىشىدىغان ۋاقىتنى تاللىيالايسىز';
 
   @override
   String get calendar_tooltip_download => 'چۈشۈرۈلگەن يىلنامە';
 
   @override
-  String get calendar_download_permission_refused => 'چۈشۈرۈش ئىجازىتى قەتئىي رەت قىلىندى، چۈشۈرۈشكە يول قويۇڭ';
+  String get calendar_download_permission_refused =>
+      'چۈشۈرۈش ئىجازىتى قەتئىي رەت قىلىندى، چۈشۈرۈشكە يول قويۇڭ';
 
   @override
   String get calendar_downloading => 'يىلنامەنى چۈشۈرۈۋاتىدۇ…';
 
   @override
-  String get location_service_disabled => 'ئورۇن ئۇچۇرى مۇلازىمىتى چەكلەنگەن. ئۇنى قوزغىتىڭ.';
+  String get location_service_disabled =>
+      'ئورۇن ئۇچۇرى مۇلازىمىتى چەكلەنگەن. ئۇنى قوزغىتىڭ.';
 
   @override
-  String get location_permission_denied => 'ئورۇن ئۇچۇرى ئىجازىتى رەت قىلىندى، ئۇنىڭغا يول قويۇڭ.';
+  String get location_permission_denied =>
+      'ئورۇن ئۇچۇرى ئىجازىتى رەت قىلىندى، ئۇنىڭغا يول قويۇڭ.';
 
   @override
-  String get location_permission_denied_forever => 'ئورۇن ئۇچۇرى ئىجازىتى مەڭگۈلۈك رەت قىلىندى. تەڭشەك بېتىدىن ئۇنىڭغا يول قويۇڭ.';
+  String get location_permission_denied_forever =>
+      'ئورۇن ئۇچۇرى ئىجازىتى مەڭگۈلۈك رەت قىلىندى. تەڭشەك بېتىدىن ئۇنىڭغا يول قويۇڭ.';
 
   @override
-  String get at_least_one_mosque_error => 'كەم دېگەندە بىر مەسچىت تەڭشىشىڭىز كېرەك.';
+  String get at_least_one_mosque_error =>
+      'كەم دېگەندە بىر مەسچىت تەڭشىشىڭىز كېرەك.';
 
   @override
   String get and => 'ۋە';
@@ -651,7 +692,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get on_boarding_nearest_mosque => 'يېقىن ئەتراپتىكى مەسچىتنى ئىزدەيلى';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'جۇغراپىيەلىك ئورنىڭىزغا ئاساسەن ئەتراپىڭىزدا تېپىلغان مەسچىتلەر';
+  String get on_boarding_nearest_mosque_text =>
+      'جۇغراپىيەلىك ئورنىڭىزغا ئاساسەن ئەتراپىڭىزدا تېپىلغان مەسچىتلەر';
 
   @override
   String get search_no_result_for_text => 'ھېچقانداق نەتىجە تاپالمىدۇق';
@@ -783,10 +825,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get search_surah => 'سۈرە ئىزدە';
 
   @override
-  String get not_downloaded_recitation => 'سىز تېخى ھېچقانداق قىرائەتنى چۈشۈرمىگەن.';
+  String get not_downloaded_recitation =>
+      'سىز تېخى ھېچقانداق قىرائەتنى چۈشۈرمىگەن.';
 
   @override
-  String get not_favorite_reciter => 'سىز تېخى ھېچقانداق قىرائەت قىلغۇچىنى يىغقۇچقا قوشمىغان.';
+  String get not_favorite_reciter =>
+      'سىز تېخى ھېچقانداق قىرائەت قىلغۇچىنى يىغقۇچقا قوشمىغان.';
 
   @override
   String get search_reciter => 'قىرائەت قىلغۇچىنى ئىزدەيدۇ';
@@ -801,7 +845,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get chapters => 'باب';
 
   @override
-  String get calculation_info => 'بۇ بۆلەكتىكى تەڭشەك پەقەت جۇغراپىيەلىك ئورنىڭىزغا ئاساسەن ھېسابلاپ چىققان ناماز ۋاقتى، مەسچىتنىڭ ناماز ۋاقتى بىلەن مۇناسىۋەتسىز.';
+  String get calculation_info =>
+      'بۇ بۆلەكتىكى تەڭشەك پەقەت جۇغراپىيەلىك ئورنىڭىزغا ئاساسەن ھېسابلاپ چىققان ناماز ۋاقتى، مەسچىتنىڭ ناماز ۋاقتى بىلەن مۇناسىۋەتسىز.';
 
   @override
   String get calculation_madhab => 'قانۇنشۇناسلىق - مەزھەپ';
@@ -810,25 +855,30 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calculation_madhab_shafii => 'شافىي، ھەنبەلى ۋە مالىكى';
 
   @override
-  String get calculation_madhab_shafii_countries => 'ئىئوردانىيە، پەلەستىن، يەمەن، سۇمالى، ئېرىتىرىيە، مالايسىيا، ھىندونېزىيە، بىرۇنىي، جەنۇبىي مىسىر، سەئۇدى ئەرەبىستان، قاتار، شىمالىي ئافرىقا، غەربىي ئافرىقا، ئەرەب بىرلەشمە خەلىپىلىكى،';
+  String get calculation_madhab_shafii_countries =>
+      'ئىئوردانىيە، پەلەستىن، يەمەن، سۇمالى، ئېرىتىرىيە، مالايسىيا، ھىندونېزىيە، بىرۇنىي، جەنۇبىي مىسىر، سەئۇدى ئەرەبىستان، قاتار، شىمالىي ئافرىقا، غەربىي ئافرىقا، ئەرەب بىرلەشمە خەلىپىلىكى،';
 
   @override
   String get calculation_madhab_hanafi => 'ھەنەفى';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'لىۋان، پاكىستان، ئافغانىستان، ھىندىستان، بېنگال، ئىراق، تۈركىيە، رۇسىيە، خىتاي، بالقان…';
+  String get calculation_madhab_hanafi_countries =>
+      'لىۋان، پاكىستان، ئافغانىستان، ھىندىستان، بېنگال، ئىراق، تۈركىيە، رۇسىيە، خىتاي، بالقان…';
 
   @override
   String get calculation_methods => 'ھېسابلاش ئۇسۇلى';
 
   @override
-  String get calculation_methods_france => 'فىرانسىيەدىكى مۇسۇلمانلار (كونا UOIF)';
+  String get calculation_methods_france =>
+      'فىرانسىيەدىكى مۇسۇلمانلار (كونا UOIF)';
 
   @override
-  String get calculation_methods_algeria => 'ئالجېرىيە دىنىي ئىشلار مىنىستىرلىقى ۋە ۋەخپىسى';
+  String get calculation_methods_algeria =>
+      'ئالجېرىيە دىنىي ئىشلار مىنىستىرلىقى ۋە ۋەخپىسى';
 
   @override
-  String get calculation_methods_morocco => 'ماراكەش دىنىي ئىشلار مىنىستىرلىقى ۋە ۋەخپىسى';
+  String get calculation_methods_morocco =>
+      'ماراكەش دىنىي ئىشلار مىنىستىرلىقى ۋە ۋەخپىسى';
 
   @override
   String get calculation_methods_muslim_world => 'مۇسۇلمان دۇنياسى بىرلەشمىسى';
@@ -837,10 +887,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calculation_methods_egyptian => 'مىسىر ئۆلچەپ سىزىش باش ئىدارىسى';
 
   @override
-  String get calculation_methods_karachi => 'كاراچى ئىسلام ئىلىمى ئۇنىۋېرسىتېتى';
+  String get calculation_methods_karachi =>
+      'كاراچى ئىسلام ئىلىمى ئۇنىۋېرسىتېتى';
 
   @override
-  String get calculation_methods_umm_al_qura => 'مەككە ئۇم ئەل قۇرە ئۇنىۋېرسىتېتى';
+  String get calculation_methods_umm_al_qura =>
+      'مەككە ئۇم ئەل قۇرە ئۇنىۋېرسىتېتى';
 
   @override
   String get calculation_methods_dubai => 'پارس قولتۇقى رايونى';
@@ -849,7 +901,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calculation_methods_moon => 'ئاي كۆزىتىش كومىتېتى';
 
   @override
-  String get calculation_methods_north_america => 'شىمالىي ئامېرىكا ئىسلام جامائىتى';
+  String get calculation_methods_north_america =>
+      'شىمالىي ئامېرىكا ئىسلام جامائىتى';
 
   @override
   String get calculation_methods_kuwait => 'كۈۋەيت';
@@ -864,10 +917,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calculation_methods_turkey => 'تۈركىيە';
 
   @override
-  String get calculation_methods_tehran => 'تېھران ئۇنىۋېرسىتېتى گىئوفىزىكا تەتقىقات جەمئىيىتى';
+  String get calculation_methods_tehran =>
+      'تېھران ئۇنىۋېرسىتېتى گىئوفىزىكا تەتقىقات جەمئىيىتى';
 
   @override
-  String get calculation_methods_russia => 'روسىيە مۇسۇلمانلىرىنىڭ مەنىۋى مەجلىسى';
+  String get calculation_methods_russia =>
+      'روسىيە مۇسۇلمانلىرىنىڭ مەنىۋى مەجلىسى';
 
   @override
   String get calculation_methods_custom => 'ئىختىيارىي بۇلۇڭ';
@@ -891,7 +946,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calculation_adjustment => 'قولدا توغرىلاش';
 
   @override
-  String get calculation_adjustment_subtitle => 'ناماز ۋاقتىنى تەڭشەش ۋە ئىختىيارى بۇلۇڭ';
+  String get calculation_adjustment_subtitle =>
+      'ناماز ۋاقتىنى تەڭشەش ۋە ئىختىيارى بۇلۇڭ';
 
   @override
   String get calculation_adjustment_prayers => 'ناماز ۋاقتىنى تەڭشەش';
@@ -921,19 +977,24 @@ class AppLocalizationsUg extends AppLocalizations {
   String get download_quran_popup_title => 'آخری ٹچ اپس';
 
   @override
-  String get download_quran_popup_downloading_1 => 'بىز قۇرئان بەتلىرىنى چۈشۈرۈشىمىز كېرەك، ئۇنىڭغا بىر قانچە سېكۇنت كېتىدۇ. تېلېفونىڭىزنىڭ كۆچمە سانلىق مەلۇمات ئېقىمىنى ئىشلىتىمىز، ئەگەر زۆرۈر بولسا Wi-Fi غا ئالماشتۇرۇڭ.';
+  String get download_quran_popup_downloading_1 =>
+      'بىز قۇرئان بەتلىرىنى چۈشۈرۈشىمىز كېرەك، ئۇنىڭغا بىر قانچە سېكۇنت كېتىدۇ. تېلېفونىڭىزنىڭ كۆچمە سانلىق مەلۇمات ئېقىمىنى ئىشلىتىمىز، ئەگەر زۆرۈر بولسا Wi-Fi غا ئالماشتۇرۇڭ.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'قۇرئاننى سىز ئۈچۈن تەييارلاۋاتىمىز، بىر قانچە سېكۇنت كۈتۈڭ!';
+  String get download_quran_popup_downloading_2 =>
+      'قۇرئاننى سىز ئۈچۈن تەييارلاۋاتىمىز، بىر قانچە سېكۇنت كۈتۈڭ!';
 
   @override
-  String get download_quran_popup_downloading_3 => '«چۈشۈر» نى چېكىپ ئوقۇش ۋە ئەسلەش سەپىرىڭىزنى باشلاڭ.';
+  String get download_quran_popup_downloading_3 =>
+      '«چۈشۈر» نى چېكىپ ئوقۇش ۋە ئەسلەش سەپىرىڭىزنى باشلاڭ.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'چۈشۈرۈشتىن راستتىنلا ۋاز كېچەمسىز؟ بۇ سانلىق مەلۇماتلارنى چۈشۈرمەي قۇرئان ئوقۇيالمايسىز، بەتلەرنى ئىشلەتكىلى بولمايدۇ.';
+  String get download_quran_popup_confirm_cancel =>
+      'چۈشۈرۈشتىن راستتىنلا ۋاز كېچەمسىز؟ بۇ سانلىق مەلۇماتلارنى چۈشۈرمەي قۇرئان ئوقۇيالمايسىز، بەتلەرنى ئىشلەتكىلى بولمايدۇ.';
 
   @override
-  String get download_quran_popup_cancelled => 'مەسىلە كۆرۈلدى، چۈشۈر توپچىنى قايتا چېكىڭ!';
+  String get download_quran_popup_cancelled =>
+      'مەسىلە كۆرۈلدى، چۈشۈر توپچىنى قايتا چېكىڭ!';
 
   @override
   String get download => 'چۈشۈر';
@@ -957,13 +1018,15 @@ class AppLocalizationsUg extends AppLocalizations {
   String get notification => 'ئەسكەرتىش';
 
   @override
-  String get notification_not_supported_below_7 => 'ئۈسكۈنىڭىز Android 7 ياكى تۆۋەن نەشرى بولسا ئەزان ياكى ناماز ۋاقتى ئەسكەرتىشىنى تاپشۇرۇۋالالمايسىز.';
+  String get notification_not_supported_below_7 =>
+      'ئۈسكۈنىڭىز Android 7 ياكى تۆۋەن نەشرى بولسا ئەزان ياكى ناماز ۋاقتى ئەسكەرتىشىنى تاپشۇرۇۋالالمايسىز.';
 
   @override
   String get battery_optimization => 'توكدان ئەلالاشتۇرۇش';
 
   @override
-  String get battery_optimization_subtitle => 'يوچۇقسىز ناماز ۋاقتى ئۇقتۇرۇشىنى تاپشۇرۇۋېلىش ئۈچۈن، مەۋاقىتنىڭ توكدان ئەلالاشتۇرۇشىنى تاقاڭ.';
+  String get battery_optimization_subtitle =>
+      'يوچۇقسىز ناماز ۋاقتى ئۇقتۇرۇشىنى تاپشۇرۇۋېلىش ئۈچۈن، مەۋاقىتنىڭ توكدان ئەلالاشتۇرۇشىنى تاقاڭ.';
 
   @override
   String get allow => 'يول قوي';
@@ -975,7 +1038,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get force_notification => 'مەجبۇرىي ئەسكەرتىش';
 
   @override
-  String get tutorial_text_foreground_service => 'ئۇنى چەكسىڭىز «ئالدى سۇپا مۇلازىمىتى» نى ئېچىپ ياكى تاقاشقا يول قويىدۇ';
+  String get tutorial_text_foreground_service =>
+      'ئۇنى چەكسىڭىز «ئالدى سۇپا مۇلازىمىتى» نى ئېچىپ ياكى تاقاشقا يول قويىدۇ';
 
   @override
   String get enable => 'ئوچۇق';
@@ -987,22 +1051,27 @@ class AppLocalizationsUg extends AppLocalizations {
   String get do_not_show_again => 'قايتا كۆرسەتمە';
 
   @override
-  String get force_notification_title => 'مەۋاقىت ئاكتىپ ھالەتتە بولسا ناماز ئۇقتۇرۇشىنىڭ دەل ۋاقتىدا قوزغىتىلىشىغا كاپالەتلىك قىلىدۇ.';
+  String get force_notification_title =>
+      'مەۋاقىت ئاكتىپ ھالەتتە بولسا ناماز ئۇقتۇرۇشىنىڭ دەل ۋاقتىدا قوزغىتىلىشىغا كاپالەتلىك قىلىدۇ.';
 
   @override
-  String get force_notification_body => 'شۈبھىسىزكى، ناماز مۆمىنلەرگە ۋاقتى بەلگىلەنگەن پەرز قىلىندى.(سۈرە نىسا 103-ئايەت)';
+  String get force_notification_body =>
+      'شۈبھىسىزكى، ناماز مۆمىنلەرگە ۋاقتى بەلگىلەنگەن پەرز قىلىندى.(سۈرە نىسا 103-ئايەت)';
 
   @override
-  String get force_notification_dialog1_body => 'بۇ تاللانمىنى قوزغىتىش ئارقىلىق ئەپنى ئاكتىپ ھالەتتە ساقلاپ، دەل ئەزان ۋاقتىدا ناماز ئۇقتۇرۇشىنى قوزغىتىدۇ. مەۋاقىت ئەپى پەقەت مۇشۇ مەقسەتتە ئاكتىپ ھالەتتە تۇرىدۇ، تەڭشەكتىن ئۇ تاللانمىنى خالىغان ۋاقىتتا تاقىيالايسىز.';
+  String get force_notification_dialog1_body =>
+      'بۇ تاللانمىنى قوزغىتىش ئارقىلىق ئەپنى ئاكتىپ ھالەتتە ساقلاپ، دەل ئەزان ۋاقتىدا ناماز ئۇقتۇرۇشىنى قوزغىتىدۇ. مەۋاقىت ئەپى پەقەت مۇشۇ مەقسەتتە ئاكتىپ ھالەتتە تۇرىدۇ، تەڭشەكتىن ئۇ تاللانمىنى خالىغان ۋاقىتتا تاقىيالايسىز.';
 
   @override
-  String get force_notification_dialog2_body => '«مەجبۇرىي ئۇقتۇرۇش» نى قوزغاتقاندىن كېيىن، ئۇقتۇرۇش بالداقنى تۆۋەنگە سىيرىپ ئۇقتۇرۇشنى ئۇ جايدا كۆرەلەيسىز';
+  String get force_notification_dialog2_body =>
+      '«مەجبۇرىي ئۇقتۇرۇش» نى قوزغاتقاندىن كېيىن، ئۇقتۇرۇش بالداقنى تۆۋەنگە سىيرىپ ئۇقتۇرۇشنى ئۇ جايدا كۆرەلەيسىز';
 
   @override
   String get notification_debugging => 'سازلاش ئۇقتۇرۇشى';
 
   @override
-  String get notification_debugging_details => 'سازلاش ئۇقتۇرۇشى قوزغىتىلدى. ئەگەر ئۇقتۇرۇش تەڭشىكىنى ئۆزگەرتسىڭىز، سازلاش سانلىق مەلۇماتى يوقىلىدۇ ۋە سازلاش چەكلىنىدۇ.';
+  String get notification_debugging_details =>
+      'سازلاش ئۇقتۇرۇشى قوزغىتىلدى. ئەگەر ئۇقتۇرۇش تەڭشىكىنى ئۆزگەرتسىڭىز، سازلاش سانلىق مەلۇماتى يوقىلىدۇ ۋە سازلاش چەكلىنىدۇ.';
 
   @override
   String get skip => 'ئاتلا';
@@ -1041,19 +1110,23 @@ class AppLocalizationsUg extends AppLocalizations {
   String get auto_detect_location => 'يېقىن مەسچىتنى تەۋسىيە قىلىدۇ';
 
   @override
-  String get auto_detect_explanation => 'مەسچىتىڭىزدىن يىراق جايدا بولسىڭىز، ئەپ ھازىرقى ئورنىڭىزغا ئاساسەن يېقىن ئەتراپتىكى مەسچىتنى ئۆزلۈكىدىن تەۋسىيە قىلىدۇ.';
+  String get auto_detect_explanation =>
+      'مەسچىتىڭىزدىن يىراق جايدا بولسىڭىز، ئەپ ھازىرقى ئورنىڭىزغا ئاساسەن يېقىن ئەتراپتىكى مەسچىتنى ئۆزلۈكىدىن تەۋسىيە قىلىدۇ.';
 
   @override
-  String get auto_detect_location_title => 'قارىغاندا مەسچىتىڭىزدىن يىراق جايدا ئوخشايسىز.';
+  String get auto_detect_location_title =>
+      'قارىغاندا مەسچىتىڭىزدىن يىراق جايدا ئوخشايسىز.';
 
   @override
-  String get auto_detect_location_message => 'يېقىن ئەتراپتىكى مەسچىتنىڭ توغرا ناماز ۋاقتىنى ئىزدەمسىز؟';
+  String get auto_detect_location_message =>
+      'يېقىن ئەتراپتىكى مەسچىتنىڭ توغرا ناماز ۋاقتىنى ئىزدەمسىز؟';
 
   @override
   String get donation_success_toast => 'ئىئانە مۇۋەپپەقىيەتلىك تاماملاندى';
 
   @override
-  String get donation_success => 'ئىئانە قىلغىنىڭىزغا رەھمەت، ئاللاھ ئەجرىڭىزنى بەرسۇن';
+  String get donation_success =>
+      'ئىئانە قىلغىنىڭىزغا رەھمەت، ئاللاھ ئەجرىڭىزنى بەرسۇن';
 
   @override
   String get donation_failed => 'ئىئانە مەغلۇپ بولدى';
@@ -1068,10 +1141,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get enter_donation_amount => 'ئىئانە قىلىدىغان مىقدار كىرگۈزۈلىدۇ';
 
   @override
-  String get google_pay_not_available => 'بۇ ئۈسكۈنىدە Google چىقىمدانىنى ئىشلەتكىلى بولمايدۇ';
+  String get google_pay_not_available =>
+      'بۇ ئۈسكۈنىدە Google چىقىمدانىنى ئىشلەتكىلى بولمايدۇ';
 
   @override
-  String get error_performing_donation => 'ئىئانە قىلماقچى بولغاندا خاتالىق كۆرۈلدى';
+  String get error_performing_donation =>
+      'ئىئانە قىلماقچى بولغاندا خاتالىق كۆرۈلدى';
 
   @override
   String get recurring_pay_text => 'ھەر ئايدا ئىنائە قىلىشقا تەڭشەيدۇ.';
@@ -1101,7 +1176,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get system => 'سىستېما';
 
   @override
-  String get change_mosque_order => 'سۆرەپ تاشلانسا مەسچىت تەرتىپىنى ئۆزگەرتىدۇ ۋە ئاساسىي مەسچىتنى تەڭشەيدۇ';
+  String get change_mosque_order =>
+      'سۆرەپ تاشلانسا مەسچىت تەرتىپىنى ئۆزگەرتىدۇ ۋە ئاساسىي مەسچىتنى تەڭشەيدۇ';
 
   @override
   String get remove => 'چىقىرىۋەت';
@@ -1209,13 +1285,15 @@ class AppLocalizationsUg extends AppLocalizations {
   String get downloading => 'چۈشۈرۈۋاتىدۇ';
 
   @override
-  String get cant_download_more_than_3 => 'بىرلا ۋاقىتتا 3 تىن ئارتۇق چۈشۈرەلمەيدۇ.';
+  String get cant_download_more_than_3 =>
+      'بىرلا ۋاقىتتا 3 تىن ئارتۇق چۈشۈرەلمەيدۇ.';
 
   @override
   String get boost => 'تەشۋىق';
 
   @override
-  String get recitation_deleted_successfully => 'قىرائەت مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى';
+  String get recitation_deleted_successfully =>
+      'قىرائەت مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى';
 
   @override
   String get quran => 'قۇرئان';
@@ -1233,7 +1311,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get download_cancelled => 'چۈشۈرۈشتىن ۋاز كەچتى';
 
   @override
-  String get no_virtual_mosque_found => 'كەچۈرۈڭ، ئەتراپىڭىزدىن ھېچقانداق مەسچىت تاپالمىدۇق';
+  String get no_virtual_mosque_found =>
+      'كەچۈرۈڭ، ئەتراپىڭىزدىن ھېچقانداق مەسچىت تاپالمىدۇق';
 
   @override
   String get no_surah_found => 'ھېچقانداق سۈرە تېپىلمىدى';
@@ -1248,7 +1327,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get empty_quran_search => 'ئىزدەش نەتىجىسى بۇ جايدا كۆرۈنىدۇ';
 
   @override
-  String get no_bookmark_ayah => 'ئىشلەتكىلى بولىدىغان ھېچقانداق خەتكۈش يوق. خەتكۈشكە قوشماقچى بولغان ئايەتنى ئۇزۇن بېسىپ تۇرۇڭ.';
+  String get no_bookmark_ayah =>
+      'ئىشلەتكىلى بولىدىغان ھېچقانداق خەتكۈش يوق. خەتكۈشكە قوشماقچى بولغان ئايەتنى ئۇزۇن بېسىپ تۇرۇڭ.';
 
   @override
   String get page => 'بەت';
@@ -1257,16 +1337,20 @@ class AppLocalizationsUg extends AppLocalizations {
   String get prayer_times_in => 'ناماز ۋاقتى';
 
   @override
-  String get update_new_version => 'قۇرئاننىڭ يېڭى نەشرىنى چۈشۈرگىلى بولىدۇ. «يېڭىلا» نى چېكىپ ئەڭ يېڭى نەشرىگە يېڭىلاپ، ئىلاھىي ھېكمەت سەپىرىنى داۋاملاشتۇرۇڭ';
+  String get update_new_version =>
+      'قۇرئاننىڭ يېڭى نەشرىنى چۈشۈرگىلى بولىدۇ. «يېڭىلا» نى چېكىپ ئەڭ يېڭى نەشرىگە يېڭىلاپ، ئىلاھىي ھېكمەت سەپىرىنى داۋاملاشتۇرۇڭ';
 
   @override
-  String get update_quran_zip => 'مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.';
+  String get update_quran_zip =>
+      'مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.';
 
   @override
-  String get update_latest_quran_version => 'مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.';
+  String get update_latest_quran_version =>
+      'مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.';
 
   @override
-  String get update_latest_quran => 'مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.';
+  String get update_latest_quran =>
+      'مەتبەسى ياخشىلانغان تۈزىتىلگەن نەشرى ئېلان قىلىندى. «يېڭىلا» نى چېكىپ ئوقۇش ۋە ئويلىنىش سەپىرىڭىزنى داۋاملاشتۇرۇڭ.';
 
   @override
   String get set_notification_for_all_parayer => 'بۇنى ھەر نامازغا تەڭشەيدۇ';
@@ -1299,7 +1383,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get download_in_progress => 'چۈشۈرۈش ئىجرا قىلىنىۋاتىدۇ، سەل كۈتۈڭ…';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'تەكبىردىن كېيىن كېيىنكى ناماز ۋاقتىنى يورۇتىدۇ';
+  String get highlight_next_prayer_after_Iqama =>
+      'تەكبىردىن كېيىن كېيىنكى ناماز ۋاقتىنى يورۇتىدۇ';
 
   @override
   String get helmi_nasr => 'دوكتور ھېلمى ناسىر';
@@ -1326,13 +1411,16 @@ class AppLocalizationsUg extends AppLocalizations {
   String get add_new_audio => 'يېڭى ئاۋاز ھۆججىتى قوشىدۇ';
 
   @override
-  String get selecet_audio_before_delete => 'ئۇقتۇرۇش ئاۋازى ئۈچۈن، تاللىغان ئاۋاز ھۆججىتىنى ئۆچۈرۈشتىن ئىلگىرى باشقا بىر ئاۋاز ھۆججىتىنى يۈكلىشىڭىز كېرەك';
+  String get selecet_audio_before_delete =>
+      'ئۇقتۇرۇش ئاۋازى ئۈچۈن، تاللىغان ئاۋاز ھۆججىتىنى ئۆچۈرۈشتىن ئىلگىرى باشقا بىر ئاۋاز ھۆججىتىنى يۈكلىشىڭىز كېرەك';
 
   @override
-  String get addding_file_prompt => 'كۆپ ئاۋاز ھۆججىتى قوشالايسىز ئەمما ئوخشاش ئاۋاز ھۆججىتىنى قوشماسلىققا كاپالەتلىك قىلىڭ.';
+  String get addding_file_prompt =>
+      'كۆپ ئاۋاز ھۆججىتى قوشالايسىز ئەمما ئوخشاش ئاۋاز ھۆججىتىنى قوشماسلىققا كاپالەتلىك قىلىڭ.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'داۋاملىشىش ۋاقتى 30 سېكۇنت ياكى ئۇنىڭدىن قىسقا ئاۋاز ھۆججىتىنى تاللاڭ. داۋاملىشىش ۋاقتى ئۇزۇن ئاۋاز ھۆججىتى ناماز ۋاقتى ئۇقتۇرۇشىنى ئۈزۈۋېتىشى مۇمكىن.';
+  String get ios_audio_file_picking_prompt =>
+      'داۋاملىشىش ۋاقتى 30 سېكۇنت ياكى ئۇنىڭدىن قىسقا ئاۋاز ھۆججىتىنى تاللاڭ. داۋاملىشىش ۋاقتى ئۇزۇن ئاۋاز ھۆججىتى ناماز ۋاقتى ئۇقتۇرۇشىنى ئۈزۈۋېتىشى مۇمكىن.';
 
   @override
   String get select_audio_from_device => 'ئۈسكۈنىدىن ئاۋاز (mp3) تاللىنىدۇ.';
@@ -1350,22 +1438,26 @@ class AppLocalizationsUg extends AppLocalizations {
   String get form => 'جەدۋەل';
 
   @override
-  String get updates_draw => 'يېڭىلاشقا ئېرىشىپ، ساۋابقا ئېرىشىش ئۈچۈن چەك تارتىڭ';
+  String get updates_draw =>
+      'يېڭىلاشقا ئېرىشىپ، ساۋابقا ئېرىشىش ئۈچۈن چەك تارتىڭ';
 
   @override
-  String get email_info => 'ئەگەر چەك تارتىشتا ئۇتسىڭىز بۇ تورخەت ئالاقىلىشىشكە ئىشلىتىلىدۇ';
+  String get email_info =>
+      'ئەگەر چەك تارتىشتا ئۇتسىڭىز بۇ تورخەت ئالاقىلىشىشكە ئىشلىتىلىدۇ';
 
   @override
   String get enter_email => 'تورخەت كىرگۈزۈڭ';
 
   @override
-  String get email_privacy => 'مەۋاقىت بۇ تورخەتنى ھېچكىمگە ھەمبەھىرلىمەيدۇ. بۇ تورخەت ھەر قېتىملىق چەك تارتىشتىن كېيىن ساندانىمىزدىن ئۆزلۈكىدىن ئۆچۈرۈلىدۇ';
+  String get email_privacy =>
+      'مەۋاقىت بۇ تورخەتنى ھېچكىمگە ھەمبەھىرلىمەيدۇ. بۇ تورخەت ھەر قېتىملىق چەك تارتىشتىن كېيىن ساندانىمىزدىن ئۆزلۈكىدىن ئۆچۈرۈلىدۇ';
 
   @override
   String get submit => 'تاپشۇر';
 
   @override
-  String get disclaimer => 'مەۋاقىت تىزىملىكتىكى قۇرۇلۇش تەمىنلىگەن مۇلازىمەت ياكى مەھسۇلات ئۈچۈن ھېچقانداق مەسئۇلىيەتنى ئۈستىگە ئالمايدۇ. ئۆزىڭىز تەكشۈرۈپ ۋە تەتقىق قىلىڭ';
+  String get disclaimer =>
+      'مەۋاقىت تىزىملىكتىكى قۇرۇلۇش تەمىنلىگەن مۇلازىمەت ياكى مەھسۇلات ئۈچۈن ھېچقانداق مەسئۇلىيەتنى ئۈستىگە ئالمايدۇ. ئۆزىڭىز تەكشۈرۈپ ۋە تەتقىق قىلىڭ';
 
   @override
   String get participating_with => 'قاتناشقىنىڭىز';
@@ -1389,7 +1481,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get no_projects => 'ھېچقانداق قۇرۇلۇش يوق';
 
   @override
-  String get draw_info => 'ھەر ئايدا بىر قېتىم چەك تارتىلىدۇ. ھەر 24 سائەتتە بىر يېڭى بېلەت قوشۇپ ئۇتۇش پۇرسىتىڭىزنى ئۆستۈرەلەيسىز!';
+  String get draw_info =>
+      'ھەر ئايدا بىر قېتىم چەك تارتىلىدۇ. ھەر 24 سائەتتە بىر يېڭى بېلەت قوشۇپ ئۇتۇش پۇرسىتىڭىزنى ئۆستۈرەلەيسىز!';
 
   @override
   String get enter_valid_email => 'ئىناۋەتلىك تورخەت كىرگۈزۈڭ';
@@ -1398,7 +1491,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get please_enter_email => 'تورخەت كىرگۈزۈڭ';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'ئاۋاز ھۆججىتى تاللاڭ، بىز iOS بىلەن ماسلىشىدىغان پىچىمغا ئايلاندۇرۇپ،  iOS سۇپىسىنىڭ چەكلىمىسى تۈپەيلىدىن 30 سېكۇنتقا قىسقارتىمىز.';
+  String get select_device_audo_for_ios_propmpt =>
+      'ئاۋاز ھۆججىتى تاللاڭ، بىز iOS بىلەن ماسلىشىدىغان پىچىمغا ئايلاندۇرۇپ،  iOS سۇپىسىنىڭ چەكلىمىسى تۈپەيلىدىن 30 سېكۇنتقا قىسقارتىمىز.';
 
   @override
   String get confirm_deletion => 'ئۆچۈرۈشنى جەزملەش';
@@ -1410,13 +1504,16 @@ class AppLocalizationsUg extends AppLocalizations {
   String get file_not_found => 'ھۆججەت تېپىلمىدى';
 
   @override
-  String get notified_boost => 'مەۋاقىتنى ياخشىلاش قۇرۇلۇشىنىڭ ئاخىرقى يېڭىلىنىشى ھەققىدىكى ئۇقتۇرۇشىغا ئېرىشىڭ.';
+  String get notified_boost =>
+      'مەۋاقىتنى ياخشىلاش قۇرۇلۇشىنىڭ ئاخىرقى يېڭىلىنىشى ھەققىدىكى ئۇقتۇرۇشىغا ئېرىشىڭ.';
 
   @override
-  String get contact_us_boost => 'قۇرۇلۇشىڭىزنى بۇ جايدا كۆرسىتىش ئۈچۈن، بىلەن بىلەن ئالاقىلىشىڭ';
+  String get contact_us_boost =>
+      'قۇرۇلۇشىڭىزنى بۇ جايدا كۆرسىتىش ئۈچۈن، بىلەن بىلەن ئالاقىلىشىڭ';
 
   @override
-  String get prayer_times_set_by_mosque => 'بۇ جايدىكى ناماز ۋاقتى ۋە باشقا بارلىق ئۇچۇرنى مەۋاقىت ئەمەس بەلكى مەسچىت تەڭشەيدۇ';
+  String get prayer_times_set_by_mosque =>
+      'بۇ جايدىكى ناماز ۋاقتى ۋە باشقا بارلىق ئۇچۇرنى مەۋاقىت ئەمەس بەلكى مەسچىت تەڭشەيدۇ';
 
   @override
   String get hasan_nahi => 'ھەسەن نەھى';
@@ -1431,10 +1528,12 @@ class AppLocalizationsUg extends AppLocalizations {
   String get delete_all_downloads => 'بارلىق چۈشۈرۈلمىنى ئۆچۈرىدۇ';
 
   @override
-  String get delete_recitations_message => 'چۈشۈرۈلگەن بارلىق قىرائەتلەرنى راستتىنلا ئۆچۈرەمسىز؟';
+  String get delete_recitations_message =>
+      'چۈشۈرۈلگەن بارلىق قىرائەتلەرنى راستتىنلا ئۆچۈرەمسىز؟';
 
   @override
-  String get downloaded_deleted_successfully => 'چۈشۈرۈلگەن بارلىق قىرائەت مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى';
+  String get downloaded_deleted_successfully =>
+      'چۈشۈرۈلگەن بارلىق قىرائەت مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى';
 
   @override
   String get failed_delete_recitations => 'بارلىق قىرائەتنى ئۆچۈرەلمىدى';
@@ -1446,7 +1545,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get search_title => 'ماۋزۇ ئارقىلىق ئىزدە';
 
   @override
-  String get compass_calibration => 'كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. تېلېفونىڭىزنى قىيسايتىپ 8 شەكلىدە 3 قېتىم يۆتكەپ ھەرىكەتلەندۈرۈڭ';
+  String get compass_calibration =>
+      'كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. تېلېفونىڭىزنى قىيسايتىپ 8 شەكلىدە 3 قېتىم يۆتكەپ ھەرىكەتلەندۈرۈڭ';
 
   @override
   String get compass_accuracy => 'كومپاس دەللىكى';
@@ -1593,7 +1693,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get sahl_yassin_murattal => 'سەھل ياسىن';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal => 'سالاھ ئابدۇلراھمان بۇخاتىر';
+  String get salaah_abdulRahman_bukhatir_murattal =>
+      'سالاھ ئابدۇلراھمان بۇخاتىر';
 
   @override
   String get salah_albudair_murattal => 'سالاھ ئەلبۇدىر';
@@ -1653,13 +1754,16 @@ class AppLocalizationsUg extends AppLocalizations {
   String get verse_repeat => 'ئايەتنى تەكرارلا';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'ھافىز رىۋايىتىنى ياخشىلىدۇق. تەپسىرنى ھازىر چۈشۈرۈپ ۋە خالىغان ئايەتنى ئۇزۇن بېسىپ قىرائىتىنى ئاڭلاڭ';
+  String get improved_Hafs_Rewaya_Force_Update =>
+      'ھافىز رىۋايىتىنى ياخشىلىدۇق. تەپسىرنى ھازىر چۈشۈرۈپ ۋە خالىغان ئايەتنى ئۇزۇن بېسىپ قىرائىتىنى ئاڭلاڭ';
 
   @override
-  String get mawaqit_three_sixty_description => 'ناماز ۋاقتىنىڭ يېڭى جانلاندۇرۇم سائەتتە قانداق ھەرىكەتلىنىدىغانلىقىنى كۆرۈڭ';
+  String get mawaqit_three_sixty_description =>
+      'ناماز ۋاقتىنىڭ يېڭى جانلاندۇرۇم سائەتتە قانداق ھەرىكەتلىنىدىغانلىقىنى كۆرۈڭ';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => '360 كۆرۈنۈشنى ئىشلەتكەندە بۇ تەڭشەكنى تاقىيالمايسىز';
+  String get hnpai_User_Guidance_MAWAQIT_360 =>
+      '360 كۆرۈنۈشنى ئىشلەتكەندە بۇ تەڭشەكنى تاقىيالمايسىز';
 
   @override
   String get mawaqit_three_sixty_beta => 'مەۋاقىت 360 (سىناق)';
@@ -1710,7 +1814,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get warsh_an_nafi => 'تەجۋىدلىك قۇرئان ۋارش ۋە نەفى';
 
   @override
-  String get popular_across_north_west_africa => 'شىمالىي ۋە غەربىي ئافرىقىدا كەڭ تارقالغان';
+  String get popular_across_north_west_africa =>
+      'شىمالىي ۋە غەربىي ئافرىقىدا كەڭ تارقالغان';
 
   @override
   String get select => 'تاللىنىدۇ';
@@ -1731,13 +1836,16 @@ class AppLocalizationsUg extends AppLocalizations {
   String get highlight_Tahajjud_Time => 'تەھەججۇد ۋاقتىنى يورۇتىدۇ';
 
   @override
-  String get calendar_access_not_available => 'يىلنامە ئىجازىتىنى ئىشلەتكىلى بولمايدۇ.';
+  String get calendar_access_not_available =>
+      'يىلنامە ئىجازىتىنى ئىشلەتكىلى بولمايدۇ.';
 
   @override
-  String get calendar_allow_access_mawaqit => 'مەۋاقىت 360 تا يىلنامەدىكى پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن ئىجازەت بېرىڭ.';
+  String get calendar_allow_access_mawaqit =>
+      'مەۋاقىت 360 تا يىلنامەدىكى پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن ئىجازەت بېرىڭ.';
 
   @override
-  String get calendar_access_required => 'پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن يىلنامە زىيارەت ئىجازىتى زۆرۈر.';
+  String get calendar_access_required =>
+      'پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن يىلنامە زىيارەت ئىجازىتى زۆرۈر.';
 
   @override
   String get calendar_allow_access_button => 'يىلنامە ئىجازىتىگە يول قوي';
@@ -1746,7 +1854,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calendar_loading => 'يىلنامە يۈكلەۋاتىدۇ…';
 
   @override
-  String get calendar_select_for_mawaqit => 'سىز مەۋاقىت 360 تا كۆرسەتمەكچى بولغان يىلنامەنى تاللاڭ.';
+  String get calendar_select_for_mawaqit =>
+      'سىز مەۋاقىت 360 تا كۆرسەتمەكچى بولغان يىلنامەنى تاللاڭ.';
 
   @override
   String get calendar_enable_all => 'ھەممىنى قوزغات';
@@ -1785,5 +1894,10 @@ class AppLocalizationsUg extends AppLocalizations {
   String get invalid_mosque_link => 'مەسچىت ئۇلانمىسى ئىناۋەتسىز';
 
   @override
-  String get not_open_mosque_link => 'بۇ مەسچىت ئۇلانمىسىنى ئاچالمىدى. قايتا سىناڭ.';
+  String get not_open_mosque_link =>
+      'بۇ مەسچىت ئۇلانمىسىنى ئاچالمىدى. قايتا سىناڭ.';
+
+  @override
+  String get no_calendars_on_this_device =>
+      'No calendars found on this device.';
 }
