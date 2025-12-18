@@ -581,7 +581,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get favorites_edit => 'تعديل المساجد المفضلة';
 
   @override
-  String get minutes_to_athan => 'دقائق حتى الأذان';
+  String get minutes_to_athan => 'دقائق حتى آذان';
 
   @override
   String get show_tutorial => 'راجع البرنامج التعليمي';
