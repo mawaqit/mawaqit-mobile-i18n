@@ -1236,5 +1236,5 @@
     "mosque_not_found": "Moskén hittades inte",
     "invalid_mosque_link": "Ogiltig moskélänk",
     "not_open_mosque_link": "Kunde inte öppna denna moskélänk. Försök igen.",
-    "no_calendars_on_this_device.": "Inga kalendrar hittades på den här enheten."
+    "no_calendars_on_this_device": "Inga kalendrar hittades på den här enheten."
 }
