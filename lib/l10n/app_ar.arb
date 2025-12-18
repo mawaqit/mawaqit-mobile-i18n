@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "دقائق حتى الأذان",
+    "minutes_to_athan": "دقائق حتى آذان",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
