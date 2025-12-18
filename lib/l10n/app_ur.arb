@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1235,5 +1235,6 @@
     "mosque_name": "Mosque name",
     "mosque_not_found": "Mosque not found",
     "invalid_mosque_link": "Invalid mosque link",
-    "not_open_mosque_link": "Could not open this mosque link. Please try again."
+    "not_open_mosque_link": "Could not open this mosque link. Please try again.",
+    "no_calendars_on_this_device.": "اس ڈیوائس پر کوئی کیلنڈر نہیں ملا۔."
 }
