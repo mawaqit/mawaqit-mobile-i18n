@@ -1235,5 +1235,6 @@
     "mosque_name": "Nazwa meczetu",
     "mosque_not_found": "Nie znaleziono meczetu",
     "invalid_mosque_link": "Nieprawidłowy link mosque",
-    "not_open_mosque_link": "Nie można otworzyć tego linku meczetowego. Spróbuj ponownie."
+    "not_open_mosque_link": "Nie można otworzyć tego linku meczetowego. Spróbuj ponownie.",
+    "no_calendars_on_this_device.": "Nie znaleziono kalendarzy na tym urządzeniu."
 }
