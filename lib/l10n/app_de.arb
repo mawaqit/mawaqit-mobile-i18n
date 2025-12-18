@@ -1235,5 +1235,6 @@
     "mosque_name": "Name der Moschee",
     "mosque_not_found": "Moschee nicht gefunden",
     "invalid_mosque_link": "Ungültiger Mosche-Link",
-    "not_open_mosque_link": "Konnte diesen Mosche-Link nicht öffnen. Bitte versuchen Sie es erneut."
+    "not_open_mosque_link": "Konnte diesen Mosche-Link nicht öffnen. Bitte versuchen Sie es erneut.",
+    "no_calendars_on_this_device.": "Auf diesem Gerät wurden keine Kalender gefunden."
 }
