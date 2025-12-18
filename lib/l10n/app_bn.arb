@@ -1148,7 +1148,7 @@
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "hnpai_User_Guidance_MAWAQIT_360": "৩৬০ ভিউ ব্যবহার করার সময় আপনি এই সেটিংটি বন্ধ করতে পারবেন না",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
@@ -1156,7 +1156,7 @@
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "360 Settings",
+    "three_sixty_setting": "৩৬০ সেটিংস",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
