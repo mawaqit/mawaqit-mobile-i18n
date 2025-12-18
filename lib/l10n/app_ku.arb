@@ -1,5 +1,5 @@
 {
-    "@@locale": "ku",
+    "@@locale": "ckb",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1215,11 +1215,11 @@
         "description": "->highlight_Tahajjud_Time"
     },
     "calendar_access_not_available": "دەستگەیشتن بە ڕۆژنامە بەردەست نیە.",
-    "calendar_allow_access_mawaqit": "تکایە ڕێگە بدە دەستگەیشتن بە ڕۆژنامە بۆ نیشاندانی چالاکییەکانت لە MAWAQIT 360.",
+    "calendar_allow_access_mawaqit": "تکایە ڕێگە بە چوونەژوورەوەی ساڵنامە بدە بۆ پیشاندانی ڕووداوەکانت لە MAWAQIT 360.",
     "calendar_access_required": "تکایە ڕێگە بدە دەستگەیشتن بە ڕۆژنامە بۆ نیشاندانی چالاکییەکانت لە Mawaqit 360.",
     "calendar_allow_access_button": "ڕێگە بدە بە دەستگەیشتن بە ڕۆژنامە",
     "calendar_loading": "ڕێگە بدە دەستگەیشتن بە ڕۆژنامە…",
-    "calendar_select_for_mawaqit": "ڕۆژنامەکان هەڵبژێرە کە دەتەوێت لە MAWAQIT 360 نیشان بدەیت.",
+    "calendar_select_for_mawaqit": "ئەو ساڵنامانە هەڵبژێرە کە دەتەوێت لە MAWAQIT 360 پیشانی بدەیت.",
     "calendar_enable_all": "بەگشتی دەگونجێت",
     "calendar_disable_all": "لەکارخستنی هەموو",
     "calendar_other_calendars": "ڕۆژنامەی دیکە",
@@ -1231,9 +1231,9 @@
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
-    "open_in_mawaqit_app": "ئەم مەسجدە بکەرەوە لە بەرنامەی MAWAQIT",
-    "mosque_name": "ناوی مەسجد",
-    "mosque_not_found": "مەسجد نەدۆزرایەوە",
-    "invalid_mosque_link": "لینکی مەسجد نادروستە",
-    "not_open_mosque_link": "نەتوانرا ئەم لینکی مەسجدە بکەرێتەوە. تکایە دووبارە هەوڵ بدە."
+    "open_in_mawaqit_app": "ئەم مزگەوتە بکەوە لە بەرنامەی MAWAQIT",
+    "mosque_name": "ناوی مزگەوت",
+    "mosque_not_found": "مزگەوتەکە نەدۆزرایەوە",
+    "invalid_mosque_link": "بەستەری مزگەوتەکە نادروستە",
+    "not_open_mosque_link": "بەستەری ئەم مزگەوتە نەکرایەوە. تکایە دووبارە هەوڵ بدە."
 }

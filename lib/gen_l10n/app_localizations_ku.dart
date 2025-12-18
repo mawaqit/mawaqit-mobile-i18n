@@ -1847,7 +1847,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'تکایە ڕێگە بدە دەستگەیشتن بە ڕۆژنامە بۆ نیشاندانی چالاکییەکانت لە MAWAQIT 360.';
+      'تکایە ڕێگە بە چوونەژوورەوەی ساڵنامە بدە بۆ پیشاندانی ڕووداوەکانت لە MAWAQIT 360.';
 
   @override
   String get calendar_access_required =>
@@ -1862,7 +1862,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get calendar_select_for_mawaqit =>
-      'ڕۆژنامەکان هەڵبژێرە کە دەتەوێت لە MAWAQIT 360 نیشان بدەیت.';
+      'ئەو ساڵنامانە هەڵبژێرە کە دەتەوێت لە MAWAQIT 360 پیشانی بدەیت.';
 
   @override
   String get calendar_enable_all => 'بەگشتی دەگونجێت';
@@ -1889,18 +1889,18 @@ class AppLocalizationsKu extends AppLocalizations {
   String get hamza_roberto_piccardo => 'چالاکییەکان لە ئەم کاتەوە';
 
   @override
-  String get open_in_mawaqit_app => 'ئەم مەسجدە بکەرەوە لە بەرنامەی MAWAQIT';
+  String get open_in_mawaqit_app => 'ئەم مزگەوتە بکەوە لە بەرنامەی MAWAQIT';
 
   @override
-  String get mosque_name => 'ناوی مەسجد';
+  String get mosque_name => 'ناوی مزگەوت';
 
   @override
-  String get mosque_not_found => 'مەسجد نەدۆزرایەوە';
+  String get mosque_not_found => 'مزگەوتەکە نەدۆزرایەوە';
 
   @override
-  String get invalid_mosque_link => 'لینکی مەسجد نادروستە';
+  String get invalid_mosque_link => 'بەستەری مزگەوتەکە نادروستە';
 
   @override
   String get not_open_mosque_link =>
-      'نەتوانرا ئەم لینکی مەسجدە بکەرێتەوە. تکایە دووبارە هەوڵ بدە.';
+      'بەستەری ئەم مزگەوتە نەکرایەوە. تکایە دووبارە هەوڵ بدە.';
 }

@@ -1765,7 +1765,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta)';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => '360 Ayarları';
 
   @override
   String get behavior => 'Davranış';
