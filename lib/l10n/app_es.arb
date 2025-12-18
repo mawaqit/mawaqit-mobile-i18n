@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1235,5 +1235,6 @@
     "mosque_name": "Nombre de la mezquita",
     "mosque_not_found": "Mezquita no encontrada",
     "invalid_mosque_link": "Enlace de mezquita no válido",
-    "not_open_mosque_link": "No se pudo abrir este enlace de la mezquita. Por favor, inténtelo de nuevo."
+    "not_open_mosque_link": "No se pudo abrir este enlace de la mezquita. Por favor, inténtelo de nuevo.",
+    "no_calendars_on_this_device.": "No se han encontrado calendarios en este dispositivo."
 }
