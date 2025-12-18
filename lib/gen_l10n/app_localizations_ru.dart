@@ -132,10 +132,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get settings_language_pl => 'Польский';
 
   @override
-  String get settings_CreditsText => '© 2021 Ассоциация MAWAQIT, Все права защищены.\n\nИнтеллектуальная собственность и авторские права на это приложение или его подключаемые модули, надстройки или контент принадлежат ассоциации MAWAQIT.\n\nЭта версия приложения лицензирована только для распространения в благотворительных целях и является вакфом. Использование этого приложения в коммерческих целях запрещено.\n\nДанная лицензия никоим образом не указывает и не включает продажу каких-либо прав, связанных с этим продуктом, любой его части, подключаемых модулей, надстройками или контентом. Скорее, эта лицензия разрешает только благотворительное распространение приложения через текущую платформу магазина приложений.\n\nНи одна из сторон не имеет права распространять приложение за пределами официальных магазинов Apple или Google Play без официального письменного разрешения правообладателя и владельца приложения, ассоциации MAWAQIT.\n\nРаспространение этого приложения за пределами этих официальных магазинов будет нарушением закона о защите интеллектуальной собственности и приведет к судебному преследованию лица, ответственного за это нарушение.\nРазработчик и компания-владелец приложения не дают никаких гарантий, включая, помимо прочего, рекламу и продвижение пригодности приложения для конкретной цели. В любом случае, ассоциация MAWAQIT или акционеры не несут ответственности за любой ущерб, прямой, косвенный или случайный, нанесённый в результате использования этого приложения.\n\nАвторские права третьих сторон принадлежат их владельцам.\n\nИзображения и фоновые рисунки\n\nАвторские права принадлежат Shutterstock\nИконки – по лицензии CC BY 4.0\nАвторские права принадлежат Flaticons\nЛицензия MIT применяется ко всем файлам без шрифтов и значков.\nШрифты – по лицензии SIL OFL 1.1\n\nАвторские права принадлежат Google Fonts (Roboto fonts).\nАвторское право Apple, код пакетов Cupertino, пакеты и фреймворки\n\nFlutter by Google\nПакеты: http, геолокатор, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
+  String get settings_CreditsText =>
+      '© 2021 Ассоциация MAWAQIT, Все права защищены.\n\nИнтеллектуальная собственность и авторские права на это приложение или его подключаемые модули, надстройки или контент принадлежат ассоциации MAWAQIT.\n\nЭта версия приложения лицензирована только для распространения в благотворительных целях и является вакфом. Использование этого приложения в коммерческих целях запрещено.\n\nДанная лицензия никоим образом не указывает и не включает продажу каких-либо прав, связанных с этим продуктом, любой его части, подключаемых модулей, надстройками или контентом. Скорее, эта лицензия разрешает только благотворительное распространение приложения через текущую платформу магазина приложений.\n\nНи одна из сторон не имеет права распространять приложение за пределами официальных магазинов Apple или Google Play без официального письменного разрешения правообладателя и владельца приложения, ассоциации MAWAQIT.\n\nРаспространение этого приложения за пределами этих официальных магазинов будет нарушением закона о защите интеллектуальной собственности и приведет к судебному преследованию лица, ответственного за это нарушение.\nРазработчик и компания-владелец приложения не дают никаких гарантий, включая, помимо прочего, рекламу и продвижение пригодности приложения для конкретной цели. В любом случае, ассоциация MAWAQIT или акционеры не несут ответственности за любой ущерб, прямой, косвенный или случайный, нанесённый в результате использования этого приложения.\n\nАвторские права третьих сторон принадлежат их владельцам.\n\nИзображения и фоновые рисунки\n\nАвторские права принадлежат Shutterstock\nИконки – по лицензии CC BY 4.0\nАвторские права принадлежат Flaticons\nЛицензия MIT применяется ко всем файлам без шрифтов и значков.\nШрифты – по лицензии SIL OFL 1.1\n\nАвторские права принадлежат Google Fonts (Roboto fonts).\nАвторское право Apple, код пакетов Cupertino, пакеты и фреймворки\n\nFlutter by Google\nПакеты: http, геолокатор, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation';
 
   @override
-  String get settings_AboutUsText => 'Это приложение разработано ассоциацией MAWAQIT.\n\nАссоциация MAWAQIT — это некоммерческая организация, созданная в 2021 году во Франции.\nНаша цель – разработка инновационных решений, связанных с ИТ и цифровыми технологиями, таких как программное обеспечение и веб-сайты; обучение работе с цифровыми решениями и ИТ-инструментами.\n\nЭкосистема MAWAQIT – это наш флагманский продукт, история которого началась в 2016 году с приложения для больших экранов, посвящённого мечетям, затем появилось полноценное мобильное приложение, позволяющее быть в курсе точного времени молитвы, а также находить близлежайщие мечети и связанную с ними информацию. Наша цель ясна: создать наилучший сервис для мечетей благодаря технологиям и дизайнерским решениям.\n\nЕсли вам понравилось это приложение, то, пожалуйста, оставьте свой отзыв в магазине приложений.';
+  String get settings_AboutUsText =>
+      'Это приложение разработано ассоциацией MAWAQIT.\n\nАссоциация MAWAQIT — это некоммерческая организация, созданная в 2021 году во Франции.\nНаша цель – разработка инновационных решений, связанных с ИТ и цифровыми технологиями, таких как программное обеспечение и веб-сайты; обучение работе с цифровыми решениями и ИТ-инструментами.\n\nЭкосистема MAWAQIT – это наш флагманский продукт, история которого началась в 2016 году с приложения для больших экранов, посвящённого мечетям, затем появилось полноценное мобильное приложение, позволяющее быть в курсе точного времени молитвы, а также находить близлежайщие мечети и связанную с ними информацию. Наша цель ясна: создать наилучший сервис для мечетей благодаря технологиям и дизайнерским решениям.\n\nЕсли вам понравилось это приложение, то, пожалуйста, оставьте свой отзыв в магазине приложений.';
 
   @override
   String get fajr => 'Фаджр';
@@ -159,10 +161,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get sabah => 'утро';
 
   @override
-  String get settings_PrayerNotification_NoNotification => 'В настоящее время вы настроили таким образом, чтобы не получать уведомления об этой молитве.';
+  String get settings_PrayerNotification_NoNotification =>
+      'В настоящее время вы настроили таким образом, чтобы не получать уведомления об этой молитве.';
 
   @override
-  String get settings_PrayerNotification_Bip => 'Звуковой сигнал при уведомлении.';
+  String get settings_PrayerNotification_Bip =>
+      'Звуковой сигнал при уведомлении.';
 
   @override
   String get adhan => 'Азан';
@@ -189,16 +193,19 @@ class AppLocalizationsRu extends AppLocalizations {
   String get adhan_AbdAlBassat => 'Абдул Басит';
 
   @override
-  String get adhan_type => 'Выберите тип азана. Это параметр будет активен для каждой молитвы, для которой включено уведомление';
+  String get adhan_type =>
+      'Выберите тип азана. Это параметр будет активен для каждой молитвы, для которой включено уведомление';
 
   @override
   String get settings_prayer_Notification_None => 'Нет';
 
   @override
-  String get prayer_Notification_NoNotification => 'Вы не настроили уведомления для этой молитвы';
+  String get prayer_Notification_NoNotification =>
+      'Вы не настроили уведомления для этой молитвы';
 
   @override
-  String get prayer_PreNotification_Description => 'Этот параметр позволяет включить уведомление перед молитвой';
+  String get prayer_PreNotification_Description =>
+      'Этот параметр позволяет включить уведомление перед молитвой';
 
   @override
   String get search_TryParis => 'Например: Париж, Иерусалим.';
@@ -207,22 +214,27 @@ class AppLocalizationsRu extends AppLocalizations {
   String get search_ByGPS => 'Искать с помощью GPS';
 
   @override
-  String get search_HelpText => 'Вы можете искать мечеть по имени:\n- имя мечети\n- название ассоциации\n- город, адрес, страна...и т.д.\n\nИли вы можете нажать кнопку определения местоположения, чтобы найти близлежащие мечети.';
+  String get search_HelpText =>
+      'Вы можете искать мечеть по имени:\n- имя мечети\n- название ассоциации\n- город, адрес, страна...и т.д.\n\nИли вы можете нажать кнопку определения местоположения, чтобы найти близлежащие мечети.';
 
   @override
-  String get search_MaxFavMosquesReached => 'Добавлено максимальное количество любимых мечетей.';
+  String get search_MaxFavMosquesReached =>
+      'Добавлено максимальное количество любимых мечетей.';
 
   @override
-  String get search_iOs14_message => 'Поиск с помощью GPS в iOS 14 может занять время. Пожалуйста, подождите';
+  String get search_iOs14_message =>
+      'Поиск с помощью GPS в iOS 14 может занять время. Пожалуйста, подождите';
 
   @override
-  String get search_error => 'Произошла ошибка. Пожалуйста, повторите попытку позже';
+  String get search_error =>
+      'Произошла ошибка. Пожалуйста, повторите попытку позже';
 
   @override
   String get search_your_location => 'Ваше местоположение';
 
   @override
-  String get search_location_disabled => 'Пожалуйста, найдите мечеть по названию или городу, или разрешите определение местоположения вручную в настройках.';
+  String get search_location_disabled =>
+      'Пожалуйста, найдите мечеть по названию или городу, или разрешите определение местоположения вручную в настройках.';
 
   @override
   String get search_settings => 'Настройки';
@@ -246,7 +258,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get get_started => 'Начать';
 
   @override
-  String get get_prayer_notifications_for => 'Получать уведомления о молитве для';
+  String get get_prayer_notifications_for =>
+      'Получать уведомления о молитве для';
 
   @override
   String get turn_on_notifications => 'Включить уведомления о молитвах';
@@ -255,10 +268,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get no_thanks => 'Нет, спасибо';
 
   @override
-  String get notification_denied => 'Вы отклонили разрешения на уведомления, поэтому вы не будете получать никаких уведомлений.';
+  String get notification_denied =>
+      'Вы отклонили разрешения на уведомления, поэтому вы не будете получать никаких уведомлений.';
 
   @override
-  String get at_least_one_mosque => 'Добавьте хотя бы одну мечеть, чтобы продолжить';
+  String get at_least_one_mosque =>
+      'Добавьте хотя бы одну мечеть, чтобы продолжить';
 
   @override
   String get set_up_your_prayer => 'Настройте свою молитву';
@@ -276,10 +291,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get mosques_with => 'Мечети с';
 
   @override
-  String get allow_mawaqit_to_access_my_location => 'Разрешить Mawaqit получать доступ к моему местоположению.';
+  String get allow_mawaqit_to_access_my_location =>
+      'Разрешить Mawaqit получать доступ к моему местоположению.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Включите службу определения местоположения в настройках приложения..';
+  String get enable_location_service_from_app_settings =>
+      'Включите службу определения местоположения в настройках приложения..';
 
   @override
   String get the_request_timeout => 'Время запроса истекло';
@@ -294,7 +311,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get virtual_mosque => 'Виртуальная мечеть';
 
   @override
-  String get no_mosque_in_selected_area => 'Не удалось найти мечети в выбранном районе.';
+  String get no_mosque_in_selected_area =>
+      'Не удалось найти мечети в выбранном районе.';
 
   @override
   String get no_mosque_with => 'Не удалось найти мечети с';
@@ -348,7 +366,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get power_saver => 'Экономия энергии';
 
   @override
-  String get permission_message1 => 'Мы обнаружили задержанное уведомление. Пожалуйста, отключите';
+  String get permission_message1 =>
+      'Мы обнаружили задержанное уведомление. Пожалуйста, отключите';
 
   @override
   String get permission_message2 => 'чтобы получить уведомление вовремя.';
@@ -366,10 +385,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get jumua => 'Джума';
 
   @override
-  String get qibla_sensor => 'Датчик в вашем устройстве, который MAWAQIT использует для определения Киблы, не работает так, как ожидалось, что влияет на';
+  String get qibla_sensor =>
+      'Датчик в вашем устройстве, который MAWAQIT использует для определения Киблы, не работает так, как ожидалось, что влияет на';
 
   @override
-  String get connection_not_found => 'Настройка калибровки компаса отключена. Пожалуйста, убедитесь, что ваше соединение включено, и попробуйте снова, изменив направление.';
+  String get connection_not_found =>
+      'Настройка калибровки компаса отключена. Пожалуйста, убедитесь, что ваше соединение включено, и попробуйте снова, изменив направление.';
 
   @override
   String get currently_located_at => 'В настоящее время находится в';
@@ -384,13 +405,16 @@ class AppLocalizationsRu extends AppLocalizations {
   String get qibla_Error_retry => 'Повтор';
 
   @override
-  String get qibla_Error_LocationDenied => 'Нет разрешения к службе определения местоположения';
+  String get qibla_Error_LocationDenied =>
+      'Нет разрешения к службе определения местоположения';
 
   @override
-  String get qibla_Error_LocationDeniedForever => 'Службы определения местоположения запрещены навсегда!';
+  String get qibla_Error_LocationDeniedForever =>
+      'Службы определения местоположения запрещены навсегда!';
 
   @override
-  String get qibla_Error_PleaseEnable => 'Пожалуйста, включите службы геолокации';
+  String get qibla_Error_PleaseEnable =>
+      'Пожалуйста, включите службы геолокации';
 
   @override
   String get qibla_Direction => 'Кибла \nНаправление';
@@ -465,7 +489,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get mosques_Facilities_IftarRamadan => 'Ифтар';
 
   @override
-  String get mosque_facilities_Info => 'Вся эта информация заполняется ответственными лицами и представителями мечетей.';
+  String get mosque_facilities_Info =>
+      'Вся эта информация заполняется ответственными лицами и представителями мечетей.';
 
   @override
   String get in_ => 'в';
@@ -483,7 +508,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get jumua2 => 'Джума 2';
 
   @override
-  String get please_update => 'Доступна новая версия приложения! Пожалуйста, обновите приложение.';
+  String get please_update =>
+      'Доступна новая версия приложения! Пожалуйста, обновите приложение.';
 
   @override
   String get update => 'Обновить';
@@ -498,25 +524,29 @@ class AppLocalizationsRu extends AppLocalizations {
   String get tutorial_title_main_mosque => 'Ваша основная мечеть';
 
   @override
-  String get tutorial_text_main_mosque => 'Ваша основная мечеть будет отображена здесь.\nСвайпами влево и вправо вы можете переключаться между любимыми мечетями.';
+  String get tutorial_text_main_mosque =>
+      'Ваша основная мечеть будет отображена здесь.\nСвайпами влево и вправо вы можете переключаться между любимыми мечетями.';
 
   @override
   String get tutorial_title_countdown => 'Время следующей молитвы';
 
   @override
-  String get tutorial_text_countdown => 'Этот таймер отображает оставшееся время до следующей молитвы';
+  String get tutorial_text_countdown =>
+      'Этот таймер отображает оставшееся время до следующей молитвы';
 
   @override
   String get tutorial_title_mosque_info => 'Информация о мечети';
 
   @override
-  String get tutorial_text_mosque_info => 'Всё о вашей мечети: удобства, адрес, номер телефона, почта, пожертвования и многое другое.';
+  String get tutorial_text_mosque_info =>
+      'Всё о вашей мечети: удобства, адрес, номер телефона, почта, пожертвования и многое другое.';
 
   @override
   String get tutorial_title_announcements => 'Сообщения и объявления мечети';
 
   @override
-  String get tutorial_text_announcements => 'Сообщения и анонсы мечети будут отображены в виде уведомлений. Нажмите на эту кнопку, чтобы отобразить всю информацию. Эти объявления могут быть в виде флэш-сообщения, изображения или даже видео.';
+  String get tutorial_text_announcements =>
+      'Сообщения и анонсы мечети будут отображены в виде уведомлений. Нажмите на эту кнопку, чтобы отобразить всю информацию. Эти объявления могут быть в виде флэш-сообщения, изображения или даже видео.';
 
   @override
   String get onboarding_title_1 => 'Выберите ваш язык';
@@ -528,19 +558,22 @@ class AppLocalizationsRu extends AppLocalizations {
   String get onboarding_title_2 => 'Добро пожаловать в MAWAQIT!';
 
   @override
-  String get onboarding_text_2 => 'MAWAQIT – это экосистема, которая предлагает вам новый способ управления и отслеживания времени молитв. Приложение, которое вы используется, является частью этой экосистемы, и оно может помочь вам в поиске близлежайщих мечетей, событий и времени молитв.';
+  String get onboarding_text_2 =>
+      'MAWAQIT – это экосистема, которая предлагает вам новый способ управления и отслеживания времени молитв. Приложение, которое вы используется, является частью этой экосистемы, и оно может помочь вам в поиске близлежайщих мечетей, событий и времени молитв.';
 
   @override
   String get onboarding_title_3 => 'Выбрать Тёмную/Светлую тему';
 
   @override
-  String get onboarding_text_3 => 'Независимо от того, находитесь ли вы в условиях низкой освещенности или предпочитаете более тёмные цвета фона на своем телефоне, вы можете воспользоваться темным режимом для улучшения визуального отображения.';
+  String get onboarding_text_3 =>
+      'Независимо от того, находитесь ли вы в условиях низкой освещенности или предпочитаете более тёмные цвета фона на своем телефоне, вы можете воспользоваться темным режимом для улучшения визуального отображения.';
 
   @override
   String get onboarding_title_4 => 'Добавьте вашу избранную мечеть';
 
   @override
-  String get onboarding_text_4 => 'Пожалуйста, выберите вашу основную мечеть из списка выше, или найдите близлежайшую мечеть с помощью службы определения местоположения.';
+  String get onboarding_text_4 =>
+      'Пожалуйста, выберите вашу основную мечеть из списка выше, или найдите близлежайшую мечеть с помощью службы определения местоположения.';
 
   @override
   String get loading => 'Загрузка';
@@ -561,7 +594,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get show_tutorial => 'Посмотреть руководство';
 
   @override
-  String get onboarding_chose_mosque_please => 'Пожалуйста, выберите мечеть из списка поиска';
+  String get onboarding_chose_mosque_please =>
+      'Пожалуйста, выберите мечеть из списка поиска';
 
   @override
   String get done => 'Готово';
@@ -576,22 +610,26 @@ class AppLocalizationsRu extends AppLocalizations {
   String get notification_open_app_title => 'Открыть приложение';
 
   @override
-  String get notification_open_app_body => 'Пожалуйста, откройте приложение, чтобы получать уведомления';
+  String get notification_open_app_body =>
+      'Пожалуйста, откройте приложение, чтобы получать уведомления';
 
   @override
   String get tutorial_title_notification => 'Выберите уведомление о молитве';
 
   @override
-  String get tutorial_text_notification => 'Здесь вы можете выбрать тип уведомления: азан, звуковой сигнал или беззвучный';
+  String get tutorial_text_notification =>
+      'Здесь вы можете выбрать тип уведомления: азан, звуковой сигнал или беззвучный';
 
   @override
-  String get search_no_result => 'Вы можете стать послом MAWAQIT и предложить наши решения вашей мечети. Это совершенно бесплатно.\nhttps://mawaqit.net';
+  String get search_no_result =>
+      'Вы можете стать послом MAWAQIT и предложить наши решения вашей мечети. Это совершенно бесплатно.\nhttps://mawaqit.net';
 
   @override
   String get rate_popin_title => 'Оценить MAWAQIT';
 
   @override
-  String get rate_popin_message => 'Если вам нравится наше приложение, то, пожалуйста, уделите несколько минут вашего времени и оставьте отзыв! \nЭто поможет нам сделать приложение ещё лучше.';
+  String get rate_popin_message =>
+      'Если вам нравится наше приложение, то, пожалуйста, уделите несколько минут вашего времени и оставьте отзыв! \nЭто поможет нам сделать приложение ещё лучше.';
 
   @override
   String get rate_popin_rate => 'ОЦЕНИТЬ';
@@ -603,7 +641,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get rate_popin_later => 'ВОЗМОЖНО ПОЗЖЕ';
 
   @override
-  String get message_see_all => 'Вы можете просмотреть все сообщения этой мечети, нажав на динамик в верхней части экрана.';
+  String get message_see_all =>
+      'Вы можете просмотреть все сообщения этой мечети, нажав на динамик в верхней части экрана.';
 
   @override
   String get adhan_Makkah => 'Мекка';
@@ -612,28 +651,34 @@ class AppLocalizationsRu extends AppLocalizations {
   String get tutorial_title_iqama => 'Икама';
 
   @override
-  String get tutorial_text_iqama => 'Здесь вы найдёте продолжительность времени между азаном и икамой мечети.';
+  String get tutorial_text_iqama =>
+      'Здесь вы найдёте продолжительность времени между азаном и икамой мечети.';
 
   @override
   String get calendar_tooltip_download => 'Скачать календарь';
 
   @override
-  String get calendar_download_permission_refused => 'Загрузки не разрешены. Пожауйста, дайте приложению права на скачивание';
+  String get calendar_download_permission_refused =>
+      'Загрузки не разрешены. Пожауйста, дайте приложению права на скачивание';
 
   @override
   String get calendar_downloading => 'Загрузка календаря...';
 
   @override
-  String get location_service_disabled => 'Геолокация выключена. Пожалуйста, включите службу определения местоположения.';
+  String get location_service_disabled =>
+      'Геолокация выключена. Пожалуйста, включите службу определения местоположения.';
 
   @override
-  String get location_permission_denied => 'Использование местоположения запрещено. Пожалуйста, дайте приложению права на использование местоположения.';
+  String get location_permission_denied =>
+      'Использование местоположения запрещено. Пожалуйста, дайте приложению права на использование местоположения.';
 
   @override
-  String get location_permission_denied_forever => 'Служба определения местоположения запрещена навсегда. Пожалуйста, разрешите приложению использовать службы определения местоположения.';
+  String get location_permission_denied_forever =>
+      'Служба определения местоположения запрещена навсегда. Пожалуйста, разрешите приложению использовать службы определения местоположения.';
 
   @override
-  String get at_least_one_mosque_error => 'У вас должна быть хотя бы одна мечеть.';
+  String get at_least_one_mosque_error =>
+      'У вас должна быть хотя бы одна мечеть.';
 
   @override
   String get and => 'и';
@@ -651,7 +696,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get on_boarding_nearest_mosque => 'Найдем ближайшую мечеть';
 
   @override
-  String get on_boarding_nearest_mosque_text => 'Вот мечети, найденные вокруг вас согласно вашей геолокации';
+  String get on_boarding_nearest_mosque_text =>
+      'Вот мечети, найденные вокруг вас согласно вашей геолокации';
 
   @override
   String get search_no_result_for_text => 'Мы не нашли результатов для';
@@ -801,7 +847,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get chapters => 'Главы';
 
   @override
-  String get calculation_info => 'Настройки в этом разделе относятся только к времени молитвы, рассчитанному по вашей геолокации, а не к времени молитвы в мечети';
+  String get calculation_info =>
+      'Настройки в этом разделе относятся только к времени молитвы, рассчитанному по вашей геолокации, а не к времени молитвы в мечети';
 
   @override
   String get calculation_madhab => 'Юриспруденция';
@@ -810,13 +857,15 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_madhab_shafii => 'Шафи\'и, Ханбали и Малики';
 
   @override
-  String get calculation_madhab_shafii_countries => 'Иордания, Палестина, Йемен, Сомали, Эритрея, Малайзия, Индонезия, Бруней, Южный Египет, Саудовская Аравия, Катар, Северная Африка, Западная Африка, Объединенные Арабские Эмираты, Кувейт...';
+  String get calculation_madhab_shafii_countries =>
+      'Иордания, Палестина, Йемен, Сомали, Эритрея, Малайзия, Индонезия, Бруней, Южный Египет, Саудовская Аравия, Катар, Северная Африка, Западная Африка, Объединенные Арабские Эмираты, Кувейт...';
 
   @override
   String get calculation_madhab_hanafi => 'Ханафи';
 
   @override
-  String get calculation_madhab_hanafi_countries => 'Левант, Пакистан, Афганистан, Индия, Бангладеш, Ирак, Турция, Россия, Китай, Балканы...';
+  String get calculation_madhab_hanafi_countries =>
+      'Левант, Пакистан, Афганистан, Индия, Бангладеш, Ирак, Турция, Россия, Китай, Балканы...';
 
   @override
   String get calculation_methods => 'Методы расчета';
@@ -825,22 +874,27 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_methods_france => 'Мусульмане Франции (бывший UOIF)';
 
   @override
-  String get calculation_methods_algeria => 'Министерство по делам религий и вакфов Алжира';
+  String get calculation_methods_algeria =>
+      'Министерство по делам религий и вакфов Алжира';
 
   @override
-  String get calculation_methods_morocco => 'Ministère des wakfs et affaires islamiques Marocain';
+  String get calculation_methods_morocco =>
+      'Ministère des wakfs et affaires islamiques Marocain';
 
   @override
   String get calculation_methods_muslim_world => 'Лига мусульманского мира';
 
   @override
-  String get calculation_methods_egyptian => 'Египетское генеральное управление по обследованию';
+  String get calculation_methods_egyptian =>
+      'Египетское генеральное управление по обследованию';
 
   @override
-  String get calculation_methods_karachi => 'Университет исламских наук, Карачи';
+  String get calculation_methods_karachi =>
+      'Университет исламских наук, Карачи';
 
   @override
-  String get calculation_methods_umm_al_qura => 'Университет Умм аль-Кура, Мекка';
+  String get calculation_methods_umm_al_qura =>
+      'Университет Умм аль-Кура, Мекка';
 
   @override
   String get calculation_methods_dubai => 'Регион Персидского залива';
@@ -849,7 +903,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_methods_moon => 'Комитет по наблюдению за Луной';
 
   @override
-  String get calculation_methods_north_america => 'Исламское общество Северной Америки';
+  String get calculation_methods_north_america =>
+      'Исламское общество Северной Америки';
 
   @override
   String get calculation_methods_kuwait => 'Кувейт';
@@ -864,10 +919,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_methods_turkey => 'Турция';
 
   @override
-  String get calculation_methods_tehran => 'Институт геофизики, Тегеранский университет';
+  String get calculation_methods_tehran =>
+      'Институт геофизики, Тегеранский университет';
 
   @override
-  String get calculation_methods_russia => 'Духовное управление мусульман России';
+  String get calculation_methods_russia =>
+      'Духовное управление мусульман России';
 
   @override
   String get calculation_methods_custom => 'Пользовательские углы';
@@ -885,13 +942,15 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calculation_high_latitude_one_seventh => 'Одна седьмая ночи';
 
   @override
-  String get calculation_high_latitude_angle_based => 'Метод, основанный на угле';
+  String get calculation_high_latitude_angle_based =>
+      'Метод, основанный на угле';
 
   @override
   String get calculation_adjustment => 'Ручная корректировка';
 
   @override
-  String get calculation_adjustment_subtitle => 'Молитвенные корректировки и пользовательские углы';
+  String get calculation_adjustment_subtitle =>
+      'Молитвенные корректировки и пользовательские углы';
 
   @override
   String get calculation_adjustment_prayers => 'Корректировки';
@@ -921,19 +980,24 @@ class AppLocalizationsRu extends AppLocalizations {
   String get download_quran_popup_title => 'Последние штрихи';
 
   @override
-  String get download_quran_popup_downloading_1 => 'Нам нужно загрузить страницы Корана, это займет всего несколько секунд. Мы будем использовать ваши мобильные данные, при необходимости переключитесь на Wi-Fi.';
+  String get download_quran_popup_downloading_1 =>
+      'Нам нужно загрузить страницы Корана, это займет всего несколько секунд. Мы будем использовать ваши мобильные данные, при необходимости переключитесь на Wi-Fi.';
 
   @override
-  String get download_quran_popup_downloading_2 => 'Мы готовим Коран специально для вас, пожалуйста, подождите несколько секунд!';
+  String get download_quran_popup_downloading_2 =>
+      'Мы готовим Коран специально для вас, пожалуйста, подождите несколько секунд!';
 
   @override
-  String get download_quran_popup_downloading_3 => 'Откройте для себя красоту Корана! Нажмите \'Загрузить\', чтобы получить доступ к его бессрочной мудрости и вдохновиться божественными словами.';
+  String get download_quran_popup_downloading_3 =>
+      'Откройте для себя красоту Корана! Нажмите \'Загрузить\', чтобы получить доступ к его бессрочной мудрости и вдохновиться божественными словами.';
 
   @override
-  String get download_quran_popup_confirm_cancel => 'Вы уверены, что хотите отменить загрузку? Без этих данных вы не сможете читать Коран, страницы будут недоступны.';
+  String get download_quran_popup_confirm_cancel =>
+      'Вы уверены, что хотите отменить загрузку? Без этих данных вы не сможете читать Коран, страницы будут недоступны.';
 
   @override
-  String get download_quran_popup_cancelled => 'Что-то пошло не так, пожалуйста, нажмите кнопку загрузки еще раз!';
+  String get download_quran_popup_cancelled =>
+      'Что-то пошло не так, пожалуйста, нажмите кнопку загрузки еще раз!';
 
   @override
   String get download => 'Загрузить';
@@ -957,13 +1021,15 @@ class AppLocalizationsRu extends AppLocalizations {
   String get notification => 'Уведомление';
 
   @override
-  String get notification_not_supported_below_7 => 'Вы не можете получать уведомления об Атане или времени молитвы, поскольку ваше устройство использует Android 7 или ниже.';
+  String get notification_not_supported_below_7 =>
+      'Вы не можете получать уведомления об Атане или времени молитвы, поскольку ваше устройство использует Android 7 или ниже.';
 
   @override
   String get battery_optimization => 'Оптимизация батареи';
 
   @override
-  String get battery_optimization_subtitle => 'Чтобы бесперебойно получать уведомления о молитве, необходимо отключить оптимизацию батареи для MAWAQIT.';
+  String get battery_optimization_subtitle =>
+      'Чтобы бесперебойно получать уведомления о молитве, необходимо отключить оптимизацию батареи для MAWAQIT.';
 
   @override
   String get allow => 'Разрешить';
@@ -975,7 +1041,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get force_notification => 'Принудительные уведомления';
 
   @override
-  String get tutorial_text_foreground_service => 'Нажатие на него позволяет включить или выключить «Службу переднего плана».';
+  String get tutorial_text_foreground_service =>
+      'Нажатие на него позволяет включить или выключить «Службу переднего плана».';
 
   @override
   String get enable => 'НА';
@@ -987,22 +1054,27 @@ class AppLocalizationsRu extends AppLocalizations {
   String get do_not_show_again => 'Не показывать это снова';
 
   @override
-  String get force_notification_title => 'MAWAQIT активен, чтобы уведомления о молитвах появлялись в нужное время.';
+  String get force_notification_title =>
+      'MAWAQIT активен, чтобы уведомления о молитвах появлялись в нужное время.';
 
   @override
-  String get force_notification_body => 'Воистину, молитва предписана верующим в определенные часы. Ниса(103)';
+  String get force_notification_body =>
+      'Воистину, молитва предписана верующим в определенные часы. Ниса(103)';
 
   @override
-  String get force_notification_dialog1_body => 'Включив эту опцию, приложение останется активным, чтобы уведомления о молитвах появлялись в нужное время без задержек. Приложение MAWAQIT будет активно только для этой цели, и вы можете отключить эту опцию в любое время в настройках.';
+  String get force_notification_dialog1_body =>
+      'Включив эту опцию, приложение останется активным, чтобы уведомления о молитвах появлялись в нужное время без задержек. Приложение MAWAQIT будет активно только для этой цели, и вы можете отключить эту опцию в любое время в настройках.';
 
   @override
-  String get force_notification_dialog2_body => 'После включения «Принудительных уведомлений» проведите пальцем вниз по панели уведомлений, и вы увидите там это уведомление.';
+  String get force_notification_dialog2_body =>
+      'После включения «Принудительных уведомлений» проведите пальцем вниз по панели уведомлений, и вы увидите там это уведомление.';
 
   @override
   String get notification_debugging => 'Отладка уведомлений';
 
   @override
-  String get notification_debugging_details => 'Отладка уведомлений включена. Если вы измените настройки уведомлений, данные отладки будут потеряны, а отладка будет отключена.';
+  String get notification_debugging_details =>
+      'Отладка уведомлений включена. Если вы измените настройки уведомлений, данные отладки будут потеряны, а отладка будет отключена.';
 
   @override
   String get skip => 'Пропускать';
@@ -1041,19 +1113,23 @@ class AppLocalizationsRu extends AppLocalizations {
   String get auto_detect_location => 'Предложить ближайшую мечеть';
 
   @override
-  String get auto_detect_explanation => 'Когда вы находитесь далеко от своей мечети, приложение автоматически предложит искать ближайшую мечеть на основе вашего местоположения.';
+  String get auto_detect_explanation =>
+      'Когда вы находитесь далеко от своей мечети, приложение автоматически предложит искать ближайшую мечеть на основе вашего местоположения.';
 
   @override
-  String get auto_detect_location_title => 'Похоже, что вы далеко от своей мечети';
+  String get auto_detect_location_title =>
+      'Похоже, что вы далеко от своей мечети';
 
   @override
-  String get auto_detect_location_message => 'Хотите ли вы найти ближайшую мечеть для точного времени молитвы?';
+  String get auto_detect_location_message =>
+      'Хотите ли вы найти ближайшую мечеть для точного времени молитвы?';
 
   @override
   String get donation_success_toast => 'Пожертвование успешно совершено';
 
   @override
-  String get donation_success => 'Спасибо за пожертвование, да вознаградит вас Аллах';
+  String get donation_success =>
+      'Спасибо за пожертвование, да вознаградит вас Аллах';
 
   @override
   String get donation_failed => 'Пожертвование не удалось';
@@ -1068,10 +1144,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get enter_donation_amount => 'Введите сумму пожертвования';
 
   @override
-  String get google_pay_not_available => 'Google Pay недоступен на этом устройстве';
+  String get google_pay_not_available =>
+      'Google Pay недоступен на этом устройстве';
 
   @override
-  String get error_performing_donation => 'При попытке совершить пожертвование произошла ошибка';
+  String get error_performing_donation =>
+      'При попытке совершить пожертвование произошла ошибка';
 
   @override
   String get recurring_pay_text => 'Делайте это пожертвование ежемесячно.';
@@ -1101,7 +1179,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get system => 'система';
 
   @override
-  String get change_mosque_order => 'Перетащите мечети, чтобы изменить порядок и установить главную мечеть';
+  String get change_mosque_order =>
+      'Перетащите мечети, чтобы изменить порядок и установить главную мечеть';
 
   @override
   String get remove => 'Удалить';
@@ -1209,7 +1288,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get downloading => 'Скачивание';
 
   @override
-  String get cant_download_more_than_3 => 'Нельзя скачивать больше 3 одновременно.';
+  String get cant_download_more_than_3 =>
+      'Нельзя скачивать больше 3 одновременно.';
 
   @override
   String get boost => 'Усилить';
@@ -1233,7 +1313,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get download_cancelled => 'Загрузка отменена';
 
   @override
-  String get no_virtual_mosque_found => 'Извините, мы не нашли мечетей рядом с вами';
+  String get no_virtual_mosque_found =>
+      'Извините, мы не нашли мечетей рядом с вами';
 
   @override
   String get no_surah_found => 'Сура не найдена';
@@ -1248,7 +1329,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get empty_quran_search => 'Результаты поиска появятся здесь';
 
   @override
-  String get no_bookmark_ayah => 'Нет доступных закладок. Пожалуйста, нажмите и удерживайте аят, который хотите добавить в закладки.';
+  String get no_bookmark_ayah =>
+      'Нет доступных закладок. Пожалуйста, нажмите и удерживайте аят, который хотите добавить в закладки.';
 
   @override
   String get page => 'Страница';
@@ -1257,19 +1339,24 @@ class AppLocalizationsRu extends AppLocalizations {
   String get prayer_times_in => 'Время молитв в';
 
   @override
-  String get update_new_version => 'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью';
+  String get update_new_version =>
+      'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью';
 
   @override
-  String get update_quran_zip => 'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
+  String get update_quran_zip =>
+      'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
 
   @override
-  String get update_latest_quran_version => 'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
+  String get update_latest_quran_version =>
+      'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
 
   @override
-  String get update_latest_quran => 'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
+  String get update_latest_quran =>
+      'Доступна новая версия Корана для скачивания. Нажмите «Обновить», чтобы получить доступ к последним улучшениям и продолжите свое путешествие с божественной мудростью.';
 
   @override
-  String get set_notification_for_all_parayer => 'Установить это для каждого молитвы';
+  String get set_notification_for_all_parayer =>
+      'Установить это для каждого молитвы';
 
   @override
   String get powered_by_mawaqit => 'При поддержке MAWAQIT';
@@ -1299,7 +1386,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get download_in_progress => 'Идёт загрузка, пожалуйста подождите...';
 
   @override
-  String get highlight_next_prayer_after_Iqama => 'Выделить следующее молитва после Икамы';
+  String get highlight_next_prayer_after_Iqama =>
+      'Выделить следующее молитва после Икамы';
 
   @override
   String get helmi_nasr => 'Др. Хельми Наср';
@@ -1326,13 +1414,16 @@ class AppLocalizationsRu extends AppLocalizations {
   String get add_new_audio => 'Добавить новый аудиофайл';
 
   @override
-  String get selecet_audio_before_delete => 'Перед удалением выбранного аудиофайла необходимо добавить другой аудиофайл';
+  String get selecet_audio_before_delete =>
+      'Перед удалением выбранного аудиофайла необходимо добавить другой аудиофайл';
 
   @override
-  String get addding_file_prompt => 'Вы можете добавить несколько аудио файлов, но не забудьте добавить один и тот же аудио файл.';
+  String get addding_file_prompt =>
+      'Вы можете добавить несколько аудио файлов, но не забудьте добавить один и тот же аудио файл.';
 
   @override
-  String get ios_audio_file_picking_prompt => 'Пожалуйста, выберите аудио файл с максимальной длительностью 30 секунд или менее. Более длительный аудиофайл может прервать ваше уведомление о молитве.';
+  String get ios_audio_file_picking_prompt =>
+      'Пожалуйста, выберите аудио файл с максимальной длительностью 30 секунд или менее. Более длительный аудиофайл может прервать ваше уведомление о молитве.';
 
   @override
   String get select_audio_from_device => 'Выберите аудио (mp3) на устройстве.';
@@ -1350,22 +1441,26 @@ class AppLocalizationsRu extends AppLocalizations {
   String get form => 'форму';
 
   @override
-  String get updates_draw => 'Получайте обновления и участвуйте в розыгрыше, чтобы выиграть призы от';
+  String get updates_draw =>
+      'Получайте обновления и участвуйте в розыгрыше, чтобы выиграть призы от';
 
   @override
-  String get email_info => 'Этот адрес электронной почты будет использоваться для связи с вами, если вы выиграете в розыгрыше';
+  String get email_info =>
+      'Этот адрес электронной почты будет использоваться для связи с вами, если вы выиграете в розыгрыше';
 
   @override
   String get enter_email => 'Введите вашу электронную почту';
 
   @override
-  String get email_privacy => 'MAWAQIT не передаст этот адрес электронной почты никому. Он будет автоматически удален из нашей базы данных после каждого розыгрыша';
+  String get email_privacy =>
+      'MAWAQIT не передаст этот адрес электронной почты никому. Он будет автоматически удален из нашей базы данных после каждого розыгрыша';
 
   @override
   String get submit => 'Отправить';
 
   @override
-  String get disclaimer => 'MAWAQIT не несет ответственности за услуги или товары, предлагаемые указанными проектами. Пожалуйста, проводите собственное исследование';
+  String get disclaimer =>
+      'MAWAQIT не несет ответственности за услуги или товары, предлагаемые указанными проектами. Пожалуйста, проводите собственное исследование';
 
   @override
   String get participating_with => 'Вы участвуете с';
@@ -1389,16 +1484,20 @@ class AppLocalizationsRu extends AppLocalizations {
   String get no_projects => 'Нет проектов';
 
   @override
-  String get draw_info => 'Один розыгрыш каждый месяц. Каждые 24 часа вы можете добавить новый билет, чтобы увеличить шанс на победу!';
+  String get draw_info =>
+      'Один розыгрыш каждый месяц. Каждые 24 часа вы можете добавить новый билет, чтобы увеличить шанс на победу!';
 
   @override
-  String get enter_valid_email => 'Введите действительный адрес электронной почты';
+  String get enter_valid_email =>
+      'Введите действительный адрес электронной почты';
 
   @override
-  String get please_enter_email => 'Пожалуйста, введите адрес электронной почты';
+  String get please_enter_email =>
+      'Пожалуйста, введите адрес электронной почты';
 
   @override
-  String get select_device_audo_for_ios_propmpt => 'Выберите аудио файл, и мы преобразуем его в совместимый с iOS формат, усекая его на 30 секунд из-за ограничений платформы iOS.';
+  String get select_device_audo_for_ios_propmpt =>
+      'Выберите аудио файл, и мы преобразуем его в совместимый с iOS формат, усекая его на 30 секунд из-за ограничений платформы iOS.';
 
   @override
   String get confirm_deletion => 'Подтвердите удаление';
@@ -1410,13 +1509,16 @@ class AppLocalizationsRu extends AppLocalizations {
   String get file_not_found => 'Файл не найден';
 
   @override
-  String get notified_boost => 'Получайте уведомления о последних обновлениях в проектах MAWAQIT Boost .';
+  String get notified_boost =>
+      'Получайте уведомления о последних обновлениях в проектах MAWAQIT Boost .';
 
   @override
-  String get contact_us_boost => 'Чтобы составить список вашего проекта, свяжитесь с нами по';
+  String get contact_us_boost =>
+      'Чтобы составить список вашего проекта, свяжитесь с нами по';
 
   @override
-  String get prayer_times_set_by_mosque => 'Время молитв установлено мечетью, а не MAWAQIT';
+  String get prayer_times_set_by_mosque =>
+      'Время молитв установлено мечетью, а не MAWAQIT';
 
   @override
   String get hasan_nahi => 'Хасан Нахи';
@@ -1431,10 +1533,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get delete_all_downloads => 'Удалить все загрузки';
 
   @override
-  String get delete_recitations_message => 'Вы уверены, что хотите удалить все загруженные исправления?';
+  String get delete_recitations_message =>
+      'Вы уверены, что хотите удалить все загруженные исправления?';
 
   @override
-  String get downloaded_deleted_successfully => 'Все загруженные повторы успешно удалены';
+  String get downloaded_deleted_successfully =>
+      'Все загруженные повторы успешно удалены';
 
   @override
   String get failed_delete_recitations => 'Не удалось удалить все повторы';
@@ -1446,7 +1550,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get search_title => 'Поиск по названию';
 
   @override
-  String get compass_calibration => 'Настройка калибровки компаса отключена. Наклоните телефон и переместите его 3 раза в восьмерку так, как это';
+  String get compass_calibration =>
+      'Настройка калибровки компаса отключена. Наклоните телефон и переместите его 3 раза в восьмерку так, как это';
 
   @override
   String get compass_accuracy => 'Точность компаса';
@@ -1593,7 +1698,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get sahl_yassin_murattal => 'Сахль Ясин';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal => 'Салах Абдуррахман Бухатир';
+  String get salaah_abdulRahman_bukhatir_murattal =>
+      'Салах Абдуррахман Бухатир';
 
   @override
   String get salah_albudair_murattal => 'Салах Аль-Будейр';
@@ -1653,13 +1759,16 @@ class AppLocalizationsRu extends AppLocalizations {
   String get verse_repeat => 'Повтор аята';
 
   @override
-  String get improved_Hafs_Rewaya_Force_Update => 'Мы улучшили ваш Хафс Ревайя. Загрузите теперь, чтобы исследовать Тафсир и послушать чтения, нажав на любой аят';
+  String get improved_Hafs_Rewaya_Force_Update =>
+      'Мы улучшили ваш Хафс Ревайя. Загрузите теперь, чтобы исследовать Тафсир и послушать чтения, нажав на любой аят';
 
   @override
-  String get mawaqit_three_sixty_description => 'Посмотрите время молитвы в жизни с нашими новыми анимированными часами';
+  String get mawaqit_three_sixty_description =>
+      'Посмотрите время молитвы в жизни с нашими новыми анимированными часами';
 
   @override
-  String get hnpai_User_Guidance_MAWAQIT_360 => 'Эта функция остается включенной при активном просмотре 360° и не может быть отключена';
+  String get hnpai_User_Guidance_MAWAQIT_360 =>
+      'Эта функция остается включенной при активном просмотре 360° и не может быть отключена';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (бета)';
@@ -1677,7 +1786,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get all_prayer_closed => 'Все закрытые';
 
   @override
-  String get recomended_next_prayer => 'Рекомендуется: только следующая молитва';
+  String get recomended_next_prayer =>
+      'Рекомендуется: только следующая молитва';
 
   @override
   String get live_preview => 'Просмотр в реальном времени';
@@ -1710,7 +1820,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get warsh_an_nafi => 'Уарш ан Нафи‘';
 
   @override
-  String get popular_across_north_west_africa => 'Популярно в Северной и Западной Африке';
+  String get popular_across_north_west_africa =>
+      'Популярно в Северной и Западной Африке';
 
   @override
   String get select => 'Выбрать';
@@ -1734,10 +1845,12 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calendar_access_not_available => 'Доступ к календарю недоступен.';
 
   @override
-  String get calendar_allow_access_mawaqit => 'Пожалуйста, разрешите доступ к календарю для отображения ваших событий на MAWAQIT 360.';
+  String get calendar_allow_access_mawaqit =>
+      'Пожалуйста, разрешите доступ к календарю для отображения ваших событий на MAWAQIT 360.';
 
   @override
-  String get calendar_access_required => 'Для отображения событий необходим доступ к календарю.';
+  String get calendar_access_required =>
+      'Для отображения событий необходим доступ к календарю.';
 
   @override
   String get calendar_allow_access_button => 'Разрешить доступ к календарю';
@@ -1746,7 +1859,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get calendar_loading => 'Загрузка календарей…';
 
   @override
-  String get calendar_select_for_mawaqit => 'Выберите календари, которые вы хотите отобразить на MAWAQIT 360.';
+  String get calendar_select_for_mawaqit =>
+      'Выберите календари, которые вы хотите отобразить на MAWAQIT 360.';
 
   @override
   String get calendar_enable_all => 'Включить все';
@@ -1785,5 +1899,10 @@ class AppLocalizationsRu extends AppLocalizations {
   String get invalid_mosque_link => 'Неверная ссылка на мечеть';
 
   @override
-  String get not_open_mosque_link => 'Не удалось открыть ссылку на эту мечеть. Пожалуйста, попробуйте еще раз.';
+  String get not_open_mosque_link =>
+      'Не удалось открыть ссылку на эту мечеть. Пожалуйста, попробуйте еще раз.';
+
+  @override
+  String get no_calendars_on_this_device =>
+      'На этом устройстве не найдено календарей.';
 }

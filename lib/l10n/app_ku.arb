@@ -1235,5 +1235,6 @@
     "mosque_name": "ناوی مزگەوت",
     "mosque_not_found": "مزگەوتەکە نەدۆزرایەوە",
     "invalid_mosque_link": "بەستەری مزگەوتەکە نادروستە",
-    "not_open_mosque_link": "بەستەری ئەم مزگەوتە نەکرایەوە. تکایە دووبارە هەوڵ بدە."
+    "not_open_mosque_link": "بەستەری ئەم مزگەوتە نەکرایەوە. تکایە دووبارە هەوڵ بدە.",
+    "no_calendars_on_this_device": "No calendars found on this device."
 }

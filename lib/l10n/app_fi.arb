@@ -1235,5 +1235,6 @@
     "mosque_name": "Moskeija nimi",
     "mosque_not_found": "Moskia ei löydy",
     "invalid_mosque_link": "Virheellinen moskeija linkki",
-    "not_open_mosque_link": "Tätä moskeija linkkiä ei voitu avata. Yritä uudelleen."
+    "not_open_mosque_link": "Tätä moskeija linkkiä ei voitu avata. Yritä uudelleen.",
+    "no_calendars_on_this_device": "Tällä laitteella ei löytynyt kalentereita."
 }

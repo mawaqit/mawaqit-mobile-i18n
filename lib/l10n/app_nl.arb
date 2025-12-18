@@ -1235,5 +1235,6 @@
     "mosque_name": "Moskee naam",
     "mosque_not_found": "Moskee niet gevonden",
     "invalid_mosque_link": "Ongeldige moske-link",
-    "not_open_mosque_link": "Kan deze moske-link niet openen. Probeer het opnieuw."
+    "not_open_mosque_link": "Kan deze moske-link niet openen. Probeer het opnieuw.",
+    "no_calendars_on_this_device": "Geen kalenders gevonden op dit apparaat."
 }
