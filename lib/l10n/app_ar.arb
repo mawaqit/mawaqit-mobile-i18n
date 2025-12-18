@@ -1236,5 +1236,5 @@
     "mosque_not_found": "لم يتم العثور على المسجد",
     "invalid_mosque_link": "رابط المسجد غير صالح",
     "not_open_mosque_link": "تعذر فتح رابط المسجد هذا. الرجاء المحاولة مرة أخرى.",
-    "no_calendars_on_this_device.": "لم يتم العثور على أي تقاويم على هذا الجهاز."
+    "no_calendars_on_this_device": "لم يتم العثور على أي تقاويم على هذا الجهاز."
 }
