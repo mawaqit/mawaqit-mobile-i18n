@@ -1767,13 +1767,13 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
-      'While using 360 view you cannot off this setting';
+      '৩৬০ ভিউ ব্যবহার করার সময় আপনি এই সেটিংটি বন্ধ করতে পারবেন না';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (বেটা)';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => '৩৬০ সেটিংস';
 
   @override
   String get behavior => 'আচরণ';

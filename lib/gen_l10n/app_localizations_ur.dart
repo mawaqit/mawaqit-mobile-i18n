@@ -1772,7 +1772,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get mawaqit_three_sixty_beta => 'مواقيت 360 (بیٹا)';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => '360 سیٹنگز';
 
   @override
   String get behavior => 'رویہ';
