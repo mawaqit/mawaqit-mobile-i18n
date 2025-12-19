@@ -1236,5 +1236,9 @@
     "mosque_not_found": "Мечеть не найдена",
     "invalid_mosque_link": "Неверная ссылка на мечеть",
     "not_open_mosque_link": "Не удалось открыть ссылку на эту мечеть. Пожалуйста, попробуйте еще раз.",
-    "no_calendars_on_this_device": "На этом устройстве не найдено календарей."
+    "no_calendars_on_this_device": "На этом устройстве не найдено календарей.",
+    "calendar_event_at_this_time": "Событие в это время",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    }
 }

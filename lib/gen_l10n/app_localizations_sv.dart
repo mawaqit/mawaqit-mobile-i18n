@@ -1904,4 +1904,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'Inga kalendrar hittades på den här enheten.';
+
+  @override
+  String get calendar_event_at_this_time => 'Händelse just nu';
 }

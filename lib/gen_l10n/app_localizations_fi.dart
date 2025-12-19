@@ -1905,4 +1905,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'Tällä laitteella ei löytynyt kalentereita.';
+
+  @override
+  String get calendar_event_at_this_time => 'Tapahtuma tällä hetkellä';
 }

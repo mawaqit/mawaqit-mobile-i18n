@@ -45,10 +45,10 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings_Theme => 'থিম';
 
   @override
-  String get settings_TimeFormat12H => '১২ ঘন্টা';
+  String get settings_TimeFormat12H => '১২ H';
 
   @override
-  String get settings_TimeFormat24H => '২৪ ঘণ্টা';
+  String get settings_TimeFormat24H => '২৪ H';
 
   @override
   String get settings_PrayerNotifications => 'প্রার্থনা বিজ্ঞপ্তি';
@@ -1873,16 +1873,16 @@ class AppLocalizationsBn extends AppLocalizations {
   String get calendar_other_calendars => 'Other calendars';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'সময় দেখানো হয়েছে';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'শুরু হয়';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'শেষ হয়';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'এই সময়ের ইভেন্টসমূহ';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
@@ -1906,4 +1906,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'No calendars found on this device.';
+
+  @override
+  String get calendar_event_at_this_time => 'এই সময়ের ইভেন্ট';
 }

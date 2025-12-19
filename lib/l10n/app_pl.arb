@@ -1236,5 +1236,9 @@
     "mosque_not_found": "Nie znaleziono meczetu",
     "invalid_mosque_link": "Nieprawidłowy link mosque",
     "not_open_mosque_link": "Nie można otworzyć tego linku meczetowego. Spróbuj ponownie.",
-    "no_calendars_on_this_device": "Nie znaleziono kalendarzy na tym urządzeniu."
+    "no_calendars_on_this_device": "Nie znaleziono kalendarzy na tym urządzeniu.",
+    "calendar_event_at_this_time": "Wydarzenie w tej chwili",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    }
 }

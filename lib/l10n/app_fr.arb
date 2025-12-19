@@ -1236,5 +1236,9 @@
     "mosque_not_found": "Mosquée introuvable",
     "invalid_mosque_link": "Lien de mosquée invalide",
     "not_open_mosque_link": "Impossible d'ouvrir ce lien de mosquée. Veuillez réessayer.",
-    "no_calendars_on_this_device": "Aucun calendrier n’a été trouvé sur cet appareil."
+    "no_calendars_on_this_device": "Aucun calendrier n’a été trouvé sur cet appareil.",
+    "calendar_event_at_this_time": "Événement en ce moment",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    }
 }

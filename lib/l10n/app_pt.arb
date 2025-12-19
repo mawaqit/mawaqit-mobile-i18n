@@ -1236,5 +1236,9 @@
     "mosque_not_found": "Mesquita não encontrada",
     "invalid_mosque_link": "Link de mosca inválido",
     "not_open_mosque_link": "Não foi possível abrir este link de mesquita. Por favor, tente novamente.",
-    "no_calendars_on_this_device": "Nenhum calendário encontrado neste dispositivo."
+    "no_calendars_on_this_device": "Nenhum calendário encontrado neste dispositivo.",
+    "calendar_event_at_this_time": "Evento neste momento",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    }
 }

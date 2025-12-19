@@ -60,12 +60,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "১২ ঘন্টা",
+    "settings_TimeFormat12H": "১২ H",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "২৪ ঘণ্টা",
+    "settings_TimeFormat24H": "২৪ H",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
@@ -1223,10 +1223,10 @@
     "calendar_enable_all": "সব সক্ষম করুন",
     "calendar_disable_all": "সব অক্ষম করুন",
     "calendar_other_calendars": "Other calendars",
-    "calendar_times_shown_in": "Times shown in",
-    "calendar_starts_on": "Starts on",
-    "calendar_ends_on": "Ends on",
-    "calendar_events_at_this_time": "Events at this time",
+    "calendar_times_shown_in": "সময় দেখানো হয়েছে",
+    "calendar_starts_on": "শুরু হয়",
+    "calendar_ends_on": "শেষ হয়",
+    "calendar_events_at_this_time": "এই সময়ের ইভেন্টসমূহ",
     "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
@@ -1236,5 +1236,9 @@
     "mosque_not_found": "Mosque not found",
     "invalid_mosque_link": "Invalid mosque link",
     "not_open_mosque_link": "Could not open this mosque link. Please try again.",
-    "no_calendars_on_this_device": "No calendars found on this device."
+    "no_calendars_on_this_device": "No calendars found on this device.",
+    "calendar_event_at_this_time": "এই সময়ের ইভেন্ট",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    }
 }

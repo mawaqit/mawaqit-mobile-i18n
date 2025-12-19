@@ -3727,6 +3727,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'No calendars found on this device.'**
   String get no_calendars_on_this_device;
+
+  /// -> calendar_event_at_this_time
+  ///
+  /// In en, this message translates to:
+  /// **'Event at this time'**
+  String get calendar_event_at_this_time;
 }
 
 class _AppLocalizationsDelegate

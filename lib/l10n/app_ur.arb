@@ -1223,10 +1223,10 @@
     "calendar_enable_all": "سب فعال کریں",
     "calendar_disable_all": "سب غیر فعال کریں",
     "calendar_other_calendars": "Other calendars",
-    "calendar_times_shown_in": "Times shown in",
-    "calendar_starts_on": "Starts on",
-    "calendar_ends_on": "Ends on",
-    "calendar_events_at_this_time": "Events at this time",
+    "calendar_times_shown_in": "اوقات دکھائے گئے ہیں",
+    "calendar_starts_on": "شروع ہوتا ہے",
+    "calendar_ends_on": "ختم ہوتا ہے",
+    "calendar_events_at_this_time": "اس وقت کے ایونٹس",
     "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
@@ -1236,5 +1236,9 @@
     "mosque_not_found": "Mosque not found",
     "invalid_mosque_link": "Invalid mosque link",
     "not_open_mosque_link": "Could not open this mosque link. Please try again.",
-    "no_calendars_on_this_device": "اس ڈیوائس پر کوئی کیلنڈر نہیں ملا۔."
+    "no_calendars_on_this_device": "اس ڈیوائس پر کوئی کیلنڈر نہیں ملا۔.",
+    "calendar_event_at_this_time": "اس وقت کا ایونٹ",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    }
 }

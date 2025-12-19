@@ -1927,4 +1927,7 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'Aucun calendrier n’a été trouvé sur cet appareil.';
+
+  @override
+  String get calendar_event_at_this_time => 'Événement en ce moment';
 }

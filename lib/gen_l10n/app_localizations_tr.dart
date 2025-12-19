@@ -1862,16 +1862,17 @@ class AppLocalizationsTr extends AppLocalizations {
   String get calendar_other_calendars => 'Other calendars';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in =>
+      'Saatler şu zaman diliminde gösterilmektedir';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'Başlangıç tarihi';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'Bitiş tarihi';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'Bu zamandaki etkinlikler';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
@@ -1895,4 +1896,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'No calendars found on this device.';
+
+  @override
+  String get calendar_event_at_this_time => 'Bu zamandaki etkinlik';
 }
