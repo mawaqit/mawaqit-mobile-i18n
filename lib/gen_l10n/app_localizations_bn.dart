@@ -45,10 +45,10 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings_Theme => 'থিম';
 
   @override
-  String get settings_TimeFormat12H => '১২ ঘন্টা';
+  String get settings_TimeFormat12H => '১২ H';
 
   @override
-  String get settings_TimeFormat24H => '২৪ ঘণ্টা';
+  String get settings_TimeFormat24H => '২৪ H';
 
   @override
   String get settings_PrayerNotifications => 'প্রার্থনা বিজ্ঞপ্তি';
