@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1236,5 +1236,9 @@
     "mosque_not_found": "Moskén hittades inte",
     "invalid_mosque_link": "Ogiltig moskélänk",
     "not_open_mosque_link": "Kunde inte öppna denna moskélänk. Försök igen.",
-    "no_calendars_on_this_device": "Inga kalendrar hittades på den här enheten."
+    "no_calendars_on_this_device": "Inga kalendrar hittades på den här enheten.",
+    "calendar_event_at_this_time": "Händelse just nu",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    }
 }
