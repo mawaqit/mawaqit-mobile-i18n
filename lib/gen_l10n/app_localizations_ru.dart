@@ -1905,4 +1905,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'На этом устройстве не найдено календарей.';
+
+  @override
+  String get calendar_event_at_this_time => 'Событие в это время';
 }

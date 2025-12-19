@@ -1870,16 +1870,16 @@ class AppLocalizationsUr extends AppLocalizations {
   String get calendar_other_calendars => 'Other calendars';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'اوقات دکھائے گئے ہیں';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'شروع ہوتا ہے';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'ختم ہوتا ہے';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'اس وقت کے ایونٹس';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
@@ -1903,4 +1903,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'اس ڈیوائس پر کوئی کیلنڈر نہیں ملا۔.';
+
+  @override
+  String get calendar_event_at_this_time => 'اس وقت کا ایونٹ';
 }

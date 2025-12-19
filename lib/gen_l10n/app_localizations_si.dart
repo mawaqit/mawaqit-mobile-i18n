@@ -1905,4 +1905,7 @@ class AppLocalizationsSi extends AppLocalizations {
   @override
   String get no_calendars_on_this_device =>
       'No calendars found on this device.';
+
+  @override
+  String get calendar_event_at_this_time => 'Event at this time';
 }
