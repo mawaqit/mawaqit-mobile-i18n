@@ -60,12 +60,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "১২ ঘন্টা",
+    "settings_TimeFormat12H": "১২ H",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "২৪ ঘণ্টা",
+    "settings_TimeFormat24H": "২৪ H",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
