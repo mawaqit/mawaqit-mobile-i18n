@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1240,5 +1240,6 @@
     "calendar_event_at_this_time": "Event at this time",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
-    }
+    },
+    "search_ayah_surah": "Search by Ayah or Surah"
 }
