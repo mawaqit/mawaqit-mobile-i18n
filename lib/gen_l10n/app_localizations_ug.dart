@@ -1903,4 +1903,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'بۇ ۋاقىتتىكى پائالىيەت';
+
+  @override
+  String get search_ayah_surah => 'Search by Ayah or Surah';
 }

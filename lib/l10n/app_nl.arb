@@ -1240,5 +1240,6 @@
     "calendar_event_at_this_time": "Evenement op dit moment",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
-    }
+    },
+    "search_ayah_surah": "Zoek op Ayah of Surah"
 }

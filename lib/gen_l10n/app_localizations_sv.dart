@@ -1907,4 +1907,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Händelse just nu';
+
+  @override
+  String get search_ayah_surah => 'Sök på Ayah eller Surah';
 }

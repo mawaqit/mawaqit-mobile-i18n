@@ -1908,4 +1908,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Событие в это время';
+
+  @override
+  String get search_ayah_surah => 'Искать по аяту или Суре';
 }
