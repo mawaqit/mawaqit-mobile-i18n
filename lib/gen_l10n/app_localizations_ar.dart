@@ -675,7 +675,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get and => 'و';
 
   @override
-  String get continue_to_app => 'واصل';
+  String get continue_to_app => 'متابعة';
 
   @override
   String get add => 'اضافة';
