@@ -1906,4 +1906,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'اس وقت کا ایونٹ';
+
+  @override
+  String get search_ayah_surah => 'آیت یا سورت کے ذریعے تلاش کریں';
 }

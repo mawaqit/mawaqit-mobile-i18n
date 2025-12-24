@@ -1909,4 +1909,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'এই সময়ের ইভেন্ট';
+
+  @override
+  String get search_ayah_surah => 'Search by Ayah or Surah';
 }

@@ -1923,4 +1923,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Evento neste momento';
+
+  @override
+  String get search_ayah_surah => 'Pesquise por Ayah ou Surá';
 }

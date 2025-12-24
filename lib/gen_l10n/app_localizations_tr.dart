@@ -1899,4 +1899,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Bu zamandaki etkinlik';
+
+  @override
+  String get search_ayah_surah => 'Ayet veya sureye göre ara';
 }

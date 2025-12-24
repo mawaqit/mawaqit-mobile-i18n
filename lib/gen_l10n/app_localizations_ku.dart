@@ -1910,4 +1910,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Event at this time';
+
+  @override
+  String get search_ayah_surah => 'Search by Ayah or Surah';
 }

@@ -3733,6 +3733,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Event at this time'**
   String get calendar_event_at_this_time;
+
+  /// No description provided for @search_ayah_surah.
+  ///
+  /// In en, this message translates to:
+  /// **'Search by Ayah or Surah'**
+  String get search_ayah_surah;
 }
 
 class _AppLocalizationsDelegate

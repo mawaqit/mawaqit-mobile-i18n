@@ -1908,4 +1908,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Tapahtuma tällä hetkellä';
+
+  @override
+  String get search_ayah_surah => 'Etsi Ayahin tai Suran toimesta';
 }

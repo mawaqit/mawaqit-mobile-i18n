@@ -1926,4 +1926,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Evento en este momento';
+
+  @override
+  String get search_ayah_surah => 'Buscar por Ayah o Surah';
 }

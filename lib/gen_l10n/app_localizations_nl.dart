@@ -1920,4 +1920,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get calendar_event_at_this_time => 'Evenement op dit moment';
+
+  @override
+  String get search_ayah_surah => 'Zoek op Ayah of Surah';
 }
