@@ -1905,5 +1905,5 @@ class AppLocalizationsUg extends AppLocalizations {
   String get calendar_event_at_this_time => 'بۇ ۋاقىتتىكى پائالىيەت';
 
   @override
-  String get search_ayah_surah => 'Search by Ayah or Surah';
+  String get search_ayah_surah => 'ئايەت ياكى سۈرە بويىچە ئىزدەيدۇ';
 }
