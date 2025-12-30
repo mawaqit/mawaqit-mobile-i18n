@@ -1241,5 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Искать по аяту или Суре"
+    "search_ayah_surah": "Искать по аяту или Суре",
+    "matching_surahs": "Подходящие суры",
+    "matching_ayahs": "Соответствующие аяты"
 }
