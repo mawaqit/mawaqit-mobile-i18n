@@ -1241,5 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Ayet veya sureye göre ara"
+    "search_ayah_surah": "Ayet veya sureye göre ara",
+    "matching_surahs": "Eşleşen Sureler",
+    "matching_ayahs": "Eşleşen Ayetler"
 }
