@@ -1933,4 +1933,10 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Rechercher par verset ou sourate';
+
+  @override
+  String get matching_surahs => 'Sourates correspondantes';
+
+  @override
+  String get matching_ayahs => 'Versets correspondants';
 }

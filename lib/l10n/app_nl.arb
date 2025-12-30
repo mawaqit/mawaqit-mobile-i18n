@@ -1241,5 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Zoek op Ayah of Surah"
+    "search_ayah_surah": "Zoek op Ayah of Surah",
+    "matching_surahs": "Overeenkomende Surahs",
+    "matching_ayahs": "Overeenkomende Ayahs"
 }

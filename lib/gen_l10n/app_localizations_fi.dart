@@ -1911,4 +1911,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Etsi Ayahin tai Suran toimesta';
+
+  @override
+  String get matching_surahs => 'Vastaavat Surahs';
+
+  @override
+  String get matching_ayahs => 'Täsmäävä Ajah';
 }

@@ -1902,4 +1902,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Ayet veya sureye göre ara';
+
+  @override
+  String get matching_surahs => 'Eşleşen Sureler';
+
+  @override
+  String get matching_ayahs => 'Eşleşen Ayetler';
 }

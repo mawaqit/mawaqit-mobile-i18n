@@ -1926,4 +1926,10 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Pesquise por Ayah ou Surá';
+
+  @override
+  String get matching_surahs => 'Apelidos Surpresa';
+
+  @override
+  String get matching_ayahs => 'Correspondendo Ayahs';
 }

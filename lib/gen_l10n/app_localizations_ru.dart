@@ -1911,4 +1911,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Искать по аяту или Суре';
+
+  @override
+  String get matching_surahs => 'Подходящие суры';
+
+  @override
+  String get matching_ayahs => 'Соответствующие аяты';
 }

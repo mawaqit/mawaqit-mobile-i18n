@@ -1241,5 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Search by Ayah or Surah"
+    "search_ayah_surah": "ئايەت ياكى سۈرە بويىچە ئىزدەيدۇ",
+    "matching_surahs": "Matching Surahs",
+    "matching_ayahs": "Matching Ayahs"
 }

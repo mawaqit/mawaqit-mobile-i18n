@@ -1241,5 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "البحث بالآية أو السورة"
+    "search_ayah_surah": "البحث بالآية أو السورة",
+    "matching_surahs": "السور الموافقة",
+    "matching_ayahs": "الآيات الموافقة"
 }

@@ -1241,5 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Rechercher par verset ou sourate"
+    "search_ayah_surah": "Rechercher par verset ou sourate",
+    "matching_surahs": "Sourates correspondantes",
+    "matching_ayahs": "Versets correspondants"
 }
