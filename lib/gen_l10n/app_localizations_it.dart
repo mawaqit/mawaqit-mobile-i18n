@@ -1925,4 +1925,10 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Cerca per versetto o sura';
+
+  @override
+  String get matching_surahs => 'Surah Corrispondenti';
+
+  @override
+  String get matching_ayahs => 'Ayah Corrispondenti';
 }

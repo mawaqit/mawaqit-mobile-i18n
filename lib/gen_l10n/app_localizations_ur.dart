@@ -1909,4 +1909,10 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'آیت یا سورت کے ذریعے تلاش کریں';
+
+  @override
+  String get matching_surahs => 'مطابقت والی سورتیں';
+
+  @override
+  String get matching_ayahs => 'مطابقت والی آیات';
 }

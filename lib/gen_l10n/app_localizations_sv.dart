@@ -1910,4 +1910,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Sök på Ayah eller Surah';
+
+  @override
+  String get matching_surahs => 'Matchande Surahs';
+
+  @override
+  String get matching_ayahs => 'Matchande ayahs';
 }

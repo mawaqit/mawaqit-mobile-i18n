@@ -1929,4 +1929,10 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Buscar por Ayah o Surah';
+
+  @override
+  String get matching_surahs => 'Surahs coincidentes';
+
+  @override
+  String get matching_ayahs => 'Ayahs coincidentes';
 }

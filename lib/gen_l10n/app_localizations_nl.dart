@@ -1923,4 +1923,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Zoek op Ayah of Surah';
+
+  @override
+  String get matching_surahs => 'Overeenkomende Surahs';
+
+  @override
+  String get matching_ayahs => 'Overeenkomende Ayahs';
 }

@@ -3739,6 +3739,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Search by Ayah or Surah'**
   String get search_ayah_surah;
+
+  /// No description provided for @matching_surahs.
+  ///
+  /// In en, this message translates to:
+  /// **'Matching Surahs'**
+  String get matching_surahs;
+
+  /// No description provided for @matching_ayahs.
+  ///
+  /// In en, this message translates to:
+  /// **'Matching Ayahs'**
+  String get matching_ayahs;
 }
 
 class _AppLocalizationsDelegate

@@ -1930,4 +1930,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Nach Vers oder Sure suchen';
+
+  @override
+  String get matching_surahs => 'Passende Suren';
+
+  @override
+  String get matching_ayahs => 'Passende Verse';
 }

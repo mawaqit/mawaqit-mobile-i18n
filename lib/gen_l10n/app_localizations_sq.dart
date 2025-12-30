@@ -1914,4 +1914,10 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'Search by Ayah or Surah';
+
+  @override
+  String get matching_surahs => 'Matching Surahs';
+
+  @override
+  String get matching_ayahs => 'Matching Ayahs';
 }

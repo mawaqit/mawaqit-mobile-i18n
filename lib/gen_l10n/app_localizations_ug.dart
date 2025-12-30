@@ -1906,4 +1906,10 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'ئايەت ياكى سۈرە بويىچە ئىزدەيدۇ';
+
+  @override
+  String get matching_surahs => 'Matching Surahs';
+
+  @override
+  String get matching_ayahs => 'Matching Ayahs';
 }

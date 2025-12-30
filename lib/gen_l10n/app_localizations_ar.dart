@@ -1884,4 +1884,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get search_ayah_surah => 'البحث بالآية أو السورة';
+
+  @override
+  String get matching_surahs => 'السور الموافقة';
+
+  @override
+  String get matching_ayahs => 'الآيات الموافقة';
 }
