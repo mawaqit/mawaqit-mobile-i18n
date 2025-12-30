@@ -1241,5 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Etsi Ayahin tai Suran toimesta"
+    "search_ayah_surah": "Etsi Ayahin tai Suran toimesta",
+    "matching_surahs": "Vastaavat Surahs",
+    "matching_ayahs": "Täsmäävä Ajah"
 }
