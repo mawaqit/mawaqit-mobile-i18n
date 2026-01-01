@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "البحث بالآية أو السورة",
     "matching_surahs": "السور الموافقة",
-    "matching_ayahs": "الآيات الموافقة"
+    "matching_ayahs": "الآيات الموافقة",
+    "live_timer": "مؤقت مباشر",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
