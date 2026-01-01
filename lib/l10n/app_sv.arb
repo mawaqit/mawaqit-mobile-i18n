@@ -1247,5 +1247,9 @@
     "live_timer": "Timer live",
     "@live_timer": {
         "description": "live_timer"
+    },
+    "notify_before": "Notifiera före",
+    "@notify_before": {
+        "description": "notify_before"
     }
 }
