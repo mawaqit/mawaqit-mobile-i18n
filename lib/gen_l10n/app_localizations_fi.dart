@@ -1920,4 +1920,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get live_timer => 'Live-ajastin';
+
+  @override
+  String get notify_before => 'Ilmoita ennen';
 }

@@ -1938,4 +1938,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get live_timer => 'Temporizador';
+
+  @override
+  String get notify_before => 'Notificar antes';
 }

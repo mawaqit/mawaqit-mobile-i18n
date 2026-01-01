@@ -1934,4 +1934,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get live_timer => 'Timer Live';
+
+  @override
+  String get notify_before => 'Notifica prima';
 }

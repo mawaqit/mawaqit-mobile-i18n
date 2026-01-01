@@ -1917,4 +1917,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get live_timer => 'Czas na żywo';
+
+  @override
+  String get notify_before => 'Powiadom przed';
 }

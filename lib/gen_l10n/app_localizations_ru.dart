@@ -1920,4 +1920,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get live_timer => 'Прямой таймер';
+
+  @override
+  String get notify_before => 'Уведомлять перед';
 }

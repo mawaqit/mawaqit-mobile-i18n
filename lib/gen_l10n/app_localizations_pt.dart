@@ -1935,4 +1935,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get live_timer => 'Temporizador ao vivo';
+
+  @override
+  String get notify_before => 'Notificar antes';
 }

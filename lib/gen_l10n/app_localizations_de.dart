@@ -1939,4 +1939,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get live_timer => 'Live-Timer';
+
+  @override
+  String get notify_before => 'Benachrichtigen vor';
 }

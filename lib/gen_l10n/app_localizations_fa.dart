@@ -1917,4 +1917,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get live_timer => 'Live Timer';
+
+  @override
+  String get notify_before => 'Notify before';
 }
