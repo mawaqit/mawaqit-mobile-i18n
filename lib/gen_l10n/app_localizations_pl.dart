@@ -1914,4 +1914,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Pasujące Ayahs';
+
+  @override
+  String get live_timer => 'Czas na żywo';
 }

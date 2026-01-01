@@ -1917,4 +1917,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Соответствующие аяты';
+
+  @override
+  String get live_timer => 'Прямой таймер';
 }

@@ -1920,4 +1920,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'Live Timer';
 }

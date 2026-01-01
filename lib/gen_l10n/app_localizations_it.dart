@@ -1931,4 +1931,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Ayah Corrispondenti';
+
+  @override
+  String get live_timer => 'Timer Live';
 }

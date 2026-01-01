@@ -3751,6 +3751,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Matching Ayahs'**
   String get matching_ayahs;
+
+  /// live_timer
+  ///
+  /// In en, this message translates to:
+  /// **'Live Timer'**
+  String get live_timer;
 }
 
 class _AppLocalizationsDelegate

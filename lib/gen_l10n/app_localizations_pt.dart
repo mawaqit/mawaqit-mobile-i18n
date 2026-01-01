@@ -1932,4 +1932,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Correspondendo Ayahs';
+
+  @override
+  String get live_timer => 'Temporizador ao vivo';
 }

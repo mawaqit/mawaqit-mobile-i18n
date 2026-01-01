@@ -1890,4 +1890,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'الآيات الموافقة';
+
+  @override
+  String get live_timer => 'مؤقت مباشر';
 }

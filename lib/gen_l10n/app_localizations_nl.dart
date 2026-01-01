@@ -1929,4 +1929,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Overeenkomende Ayahs';
+
+  @override
+  String get live_timer => 'Live Timer';
 }
