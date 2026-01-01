@@ -1244,11 +1244,11 @@
     "search_ayah_surah": "ئايەت ياكى سۈرە بويىچە ئىزدەيدۇ",
     "matching_surahs": "Matching Surahs",
     "matching_ayahs": "Matching Ayahs",
-    "live_timer": "Live Timer",
+    "live_timer": "نەق مەيدان ۋاقىت سانىغۇچ",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Notify before",
+    "notify_before": "ئالدىن ئۇقتۇرۇش",
     "@notify_before": {
         "description": "notify_before"
     }
