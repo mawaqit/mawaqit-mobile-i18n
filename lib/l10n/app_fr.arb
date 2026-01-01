@@ -1247,5 +1247,9 @@
     "live_timer": "Minuterie en direct",
     "@live_timer": {
         "description": "live_timer"
+    },
+    "notify_before": "Notifier avant",
+    "@notify_before": {
+        "description": "notify_before"
     }
 }
