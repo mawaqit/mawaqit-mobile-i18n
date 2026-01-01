@@ -1934,5 +1934,5 @@ class AppLocalizationsNl extends AppLocalizations {
   String get live_timer => 'Live Timer';
 
   @override
-  String get notify_before => 'Waarschuw voor';
+  String get notify_before => 'Vooraf melden';
 }
