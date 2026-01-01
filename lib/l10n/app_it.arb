@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Cerca per versetto o sura",
     "matching_surahs": "Surah Corrispondenti",
-    "matching_ayahs": "Ayah Corrispondenti"
+    "matching_ayahs": "Ayah Corrispondenti",
+    "live_timer": "Timer Live",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
