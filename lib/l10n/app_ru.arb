@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Искать по аяту или Суре",
     "matching_surahs": "Подходящие суры",
-    "matching_ayahs": "Соответствующие аяты"
+    "matching_ayahs": "Соответствующие аяты",
+    "live_timer": "Прямой таймер",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
