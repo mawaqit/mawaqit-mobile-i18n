@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Buscar por Ayah o Surah",
     "matching_surahs": "Surahs coincidentes",
-    "matching_ayahs": "Ayahs coincidentes"
+    "matching_ayahs": "Ayahs coincidentes",
+    "live_timer": "Temporizador",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
