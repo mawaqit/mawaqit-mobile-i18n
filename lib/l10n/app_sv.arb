@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Sök på Ayah eller Surah",
     "matching_surahs": "Matchande Surahs",
-    "matching_ayahs": "Matchande ayahs"
+    "matching_ayahs": "Matchande ayahs",
+    "live_timer": "Timer live",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
