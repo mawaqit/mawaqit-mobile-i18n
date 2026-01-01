@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Szukaj przez Ayah lub Surah",
     "matching_surahs": "Pasujące surahy",
-    "matching_ayahs": "Pasujące Ayahs"
+    "matching_ayahs": "Pasujące Ayahs",
+    "live_timer": "Czas na żywo",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
