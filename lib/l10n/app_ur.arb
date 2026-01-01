@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1244,11 +1244,11 @@
     "search_ayah_surah": "آیت یا سورت کے ذریعے تلاش کریں",
     "matching_surahs": "مطابقت والی سورتیں",
     "matching_ayahs": "مطابقت والی آیات",
-    "live_timer": "Live Timer",
+    "live_timer": "براہِ راست ٹائمر",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Notify before",
+    "notify_before": "پہلے اطلاع دیں",
     "@notify_before": {
         "description": "notify_before"
     }
