@@ -1921,8 +1921,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get matching_ayahs => 'Matching Ayahs';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'کاتژمێری ڕاستەوخۆ';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'پێشووتر ئاگادار بکە';
 }

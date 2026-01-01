@@ -1918,8 +1918,8 @@ class AppLocalizationsTh extends AppLocalizations {
   String get matching_ayahs => 'Matching Ayahs';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'ตัวจับเวลาสด';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'แจ้งเตือนล่วงหน้า';
 }

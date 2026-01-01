@@ -1917,8 +1917,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String get matching_ayahs => 'مطابقت والی آیات';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'براہِ راست ٹائمر';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'پہلے اطلاع دیں';
 }

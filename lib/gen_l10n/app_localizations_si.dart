@@ -1919,8 +1919,8 @@ class AppLocalizationsSi extends AppLocalizations {
   String get matching_ayahs => 'Matching Ayahs';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'සජීවී ටයිමරය';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'කලින් දැනුම් දෙන්න';
 }

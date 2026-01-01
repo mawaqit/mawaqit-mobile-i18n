@@ -1918,8 +1918,8 @@ class AppLocalizationsPs extends AppLocalizations {
   String get matching_ayahs => 'Matching Ayahs';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'ژوندی ټایمر';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'مخکې خبر ورکړئ';
 }

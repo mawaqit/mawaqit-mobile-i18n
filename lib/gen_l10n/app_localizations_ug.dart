@@ -1914,8 +1914,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get matching_ayahs => 'Matching Ayahs';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'نەق مەيدان ۋاقىت سانىغۇچ';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'ئالدىن ئۇقتۇرۇش';
 }
