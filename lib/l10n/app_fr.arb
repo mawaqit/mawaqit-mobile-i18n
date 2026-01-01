@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Rechercher par verset ou sourate",
     "matching_surahs": "Sourates correspondantes",
-    "matching_ayahs": "Versets correspondants"
+    "matching_ayahs": "Versets correspondants",
+    "live_timer": "Minuterie en direct",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
