@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -740,7 +740,7 @@
     "quran_mushaf": "قران",
     "quran_juzz": "جز",
     "ayah": "آيه",
-    "quran_verses": "آیاتها",
+    "quran_verses": "آيات",
     "surah": "سورة",
     "continue_reading": "ادامه مطلب",
     "bookmarks": "نشانک ها",
@@ -1124,10 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
-    "yassin_aljazairi": "Yassin Al-Jazairi",
-    "mohammed_abdelkarim": "Mohammed Abdelkarim",
-    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
-    "abdelkarim_daghoush": "Abdelkarim Daghoush",
+    "yassin_aljazairi": "یاسین الجزایری",
+    "mohammed_abdelkarim": "محمد عبدکریم",
+    "alayoun_elkouchi": "العیون الکوشی",
+    "abdelkarim_daghoush": "عبدالکریم داغوش",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
@@ -1176,7 +1176,7 @@
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "تایمر زنده",
+    "live_preview": "Live Preview",
     "@live_preview": {
         "description": "-> live_preview"
     },
@@ -1201,10 +1201,10 @@
         "description": "->last_Third_Of_The_Night\r\n-"
     },
     "shaykh_aminuddin_muhammad": "شیخ امین‌الدین محمد",
-    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
-    "most_widespread_riwayah": "The most widespread riwāyah worldwide",
-    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
-    "popular_across_north_west_africa": "Popular across North & West Africa",
+    "hafs_an_asim": "حفص عن عاصم",
+    "most_widespread_riwayah": "رایج‌ترین قرائت در سراسر جهان",
+    "warsh_an_nafi": "ورش عن نافع",
+    "popular_across_north_west_africa": "محبوب در سراسر شمال و غرب آفریقا",
     "select": "Select",
     "unknown_smartwatch": "ساعت هوشمند ناشناخته",
     "connected_watch": "ساعت متصل",
@@ -1244,11 +1244,11 @@
     "search_ayah_surah": "Search by Ayah or Surah",
     "matching_surahs": "Matching Surahs",
     "matching_ayahs": "Matching Ayahs",
-    "live_timer": "تایمر زنده",
+    "live_timer": "Live Timer",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "اطلاع قبلی",
+    "notify_before": "Notify before",
     "@notify_before": {
         "description": "notify_before"
     }
