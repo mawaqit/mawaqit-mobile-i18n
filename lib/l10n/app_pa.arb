@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1244,11 +1244,11 @@
     "search_ayah_surah": "Search by Ayah or Surah",
     "matching_surahs": "Matching Surahs",
     "matching_ayahs": "Matching Ayahs",
-    "live_timer": "Live Timer",
+    "live_timer": "لائیو ٹائمر",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Notify before",
+    "notify_before": "پہلاں اطلاع دیو",
     "@notify_before": {
         "description": "notify_before"
     }
