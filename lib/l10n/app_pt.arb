@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Pesquise por Ayah ou Surá",
     "matching_surahs": "Apelidos Surpresa",
-    "matching_ayahs": "Correspondendo Ayahs"
+    "matching_ayahs": "Correspondendo Ayahs",
+    "live_timer": "Temporizador ao vivo",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
