@@ -1243,5 +1243,9 @@
     },
     "search_ayah_surah": "Nach Vers oder Sure suchen",
     "matching_surahs": "Passende Suren",
-    "matching_ayahs": "Passende Verse"
+    "matching_ayahs": "Passende Verse",
+    "live_timer": "Live-Timer",
+    "@live_timer": {
+        "description": "live_timer"
+    }
 }
