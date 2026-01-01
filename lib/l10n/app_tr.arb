@@ -1244,11 +1244,11 @@
     "search_ayah_surah": "Ayet veya sureye göre ara",
     "matching_surahs": "Eşleşen Sureler",
     "matching_ayahs": "Eşleşen Ayetler",
-    "live_timer": "Live Timer",
+    "live_timer": "Canlı Zamanlayıcı",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Notify before",
+    "notify_before": "Önceden Bildir",
     "@notify_before": {
         "description": "notify_before"
     }
