@@ -1251,5 +1251,6 @@
     "notify_before": "پہلے اطلاع دیں",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "آپ کی گھڑی پر ظاہر ہونے میں چند سیکنڈ لگ سکتے ہیں۔."
 }

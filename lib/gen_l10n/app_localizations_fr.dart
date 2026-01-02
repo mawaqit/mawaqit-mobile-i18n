@@ -1945,4 +1945,8 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get notify_before => 'Notifier avant';
+
+  @override
+  String get take_time_appear_watch =>
+      'Cela peut prendre quelques secondes pour apparaître sur votre montre.';
 }

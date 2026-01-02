@@ -1251,5 +1251,6 @@
     "notify_before": "Vooraf melden",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "Het kan enkele seconden duren voordat je op je horloge verschijnt."
 }

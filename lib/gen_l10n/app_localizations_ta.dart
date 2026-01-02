@@ -1923,4 +1923,8 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get notify_before => 'முன்கூட்டியே அறிவிக்கவும்';
+
+  @override
+  String get take_time_appear_watch =>
+      'It may take a few seconds to appear on your watch.';
 }

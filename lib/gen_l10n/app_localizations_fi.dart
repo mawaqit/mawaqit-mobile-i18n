@@ -1923,4 +1923,8 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get notify_before => 'Ilmoita ennen';
+
+  @override
+  String get take_time_appear_watch =>
+      'Kellosi voi ilmetä vain muutaman sekunnin ajan.';
 }

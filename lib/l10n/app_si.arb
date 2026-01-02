@@ -1251,5 +1251,6 @@
     "notify_before": "කලින් දැනුම් දෙන්න",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "It may take a few seconds to appear on your watch."
 }

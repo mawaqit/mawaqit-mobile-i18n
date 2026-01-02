@@ -1924,4 +1924,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get notify_before => 'Beri tahu sebelumnya';
+
+  @override
+  String get take_time_appear_watch =>
+      'It may take a few seconds to appear on your watch.';
 }

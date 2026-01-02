@@ -1924,4 +1924,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get notify_before => 'আগে থেকে জানান';
+
+  @override
+  String get take_time_appear_watch =>
+      'It may take a few seconds to appear on your watch.';
 }

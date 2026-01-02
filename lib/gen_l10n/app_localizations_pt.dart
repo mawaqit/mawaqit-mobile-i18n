@@ -1938,4 +1938,8 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get notify_before => 'Notificar antes';
+
+  @override
+  String get take_time_appear_watch =>
+      'Pode levar alguns segundos para aparecer no seu relógio.';
 }

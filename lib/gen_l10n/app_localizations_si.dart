@@ -1923,4 +1923,8 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get notify_before => 'කලින් දැනුම් දෙන්න';
+
+  @override
+  String get take_time_appear_watch =>
+      'It may take a few seconds to appear on your watch.';
 }

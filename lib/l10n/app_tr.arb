@@ -1251,5 +1251,6 @@
     "notify_before": "Önceden Bildir",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "Saatinizde görünmesi birkaç saniye sürebilir."
 }

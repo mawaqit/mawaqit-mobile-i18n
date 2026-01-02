@@ -1251,5 +1251,6 @@
     "notify_before": "Powiadom przed",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "Pojawienie się na zegarku może zająć kilka sekund."
 }

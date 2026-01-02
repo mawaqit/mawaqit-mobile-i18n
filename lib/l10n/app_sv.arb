@@ -1251,5 +1251,6 @@
     "notify_before": "Notifiera före",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "Det kan ta några sekunder att visas på din klocka."
 }

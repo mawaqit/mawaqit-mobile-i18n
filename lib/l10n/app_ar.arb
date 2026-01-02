@@ -1251,5 +1251,6 @@
     "notify_before": "اشعار قبل",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "قد يستغرق الظهور على ساعتك بضع ثوان."
 }
