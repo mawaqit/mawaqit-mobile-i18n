@@ -1923,4 +1923,8 @@ class AppLocalizationsPa extends AppLocalizations {
 
   @override
   String get notify_before => 'پہلاں اطلاع دیو';
+
+  @override
+  String get take_time_appear_watch =>
+      'It may take a few seconds to appear on your watch.';
 }

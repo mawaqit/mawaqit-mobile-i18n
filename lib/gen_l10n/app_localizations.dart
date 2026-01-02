@@ -3763,6 +3763,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Notify before'**
   String get notify_before;
+
+  /// No description provided for @take_time_appear_watch.
+  ///
+  /// In en, this message translates to:
+  /// **'It may take a few seconds to appear on your watch.'**
+  String get take_time_appear_watch;
 }
 
 class _AppLocalizationsDelegate

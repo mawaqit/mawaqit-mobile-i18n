@@ -1922,4 +1922,8 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get notify_before => 'Notifiera före';
+
+  @override
+  String get take_time_appear_watch =>
+      'Det kan ta några sekunder att visas på din klocka.';
 }

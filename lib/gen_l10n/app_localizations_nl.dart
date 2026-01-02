@@ -1935,4 +1935,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get notify_before => 'Vooraf melden';
+
+  @override
+  String get take_time_appear_watch =>
+      'Het kan enkele seconden duren voordat je op je horloge verschijnt.';
 }

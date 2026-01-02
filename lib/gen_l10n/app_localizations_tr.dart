@@ -1914,4 +1914,8 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get notify_before => 'Önceden Bildir';
+
+  @override
+  String get take_time_appear_watch =>
+      'Saatinizde görünmesi birkaç saniye sürebilir.';
 }

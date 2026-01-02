@@ -1918,4 +1918,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get notify_before => 'ئالدىن ئۇقتۇرۇش';
+
+  @override
+  String get take_time_appear_watch =>
+      'It may take a few seconds to appear on your watch.';
 }

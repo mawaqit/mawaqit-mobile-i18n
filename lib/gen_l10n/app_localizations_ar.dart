@@ -1896,4 +1896,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get notify_before => 'اشعار قبل';
+
+  @override
+  String get take_time_appear_watch => 'قد يستغرق الظهور على ساعتك بضع ثوان.';
 }
