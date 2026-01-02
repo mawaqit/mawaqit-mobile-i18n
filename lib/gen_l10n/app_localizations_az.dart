@@ -1916,4 +1916,10 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'Live Timer';
+
+  @override
+  String get notify_before => 'Notify before';
 }

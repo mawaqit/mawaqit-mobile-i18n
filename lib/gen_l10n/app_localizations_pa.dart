@@ -1917,4 +1917,10 @@ class AppLocalizationsPa extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'لائیو ٹائمر';
+
+  @override
+  String get notify_before => 'پہلاں اطلاع دیو';
 }

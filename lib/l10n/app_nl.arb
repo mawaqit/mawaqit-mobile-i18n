@@ -1243,5 +1243,13 @@
     },
     "search_ayah_surah": "Zoek op Ayah of Surah",
     "matching_surahs": "Overeenkomende Surahs",
-    "matching_ayahs": "Overeenkomende Ayahs"
+    "matching_ayahs": "Overeenkomende Ayahs",
+    "live_timer": "Live Timer",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Vooraf melden",
+    "@notify_before": {
+        "description": "notify_before"
+    }
 }

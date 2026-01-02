@@ -1917,4 +1917,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Täsmäävä Ajah';
+
+  @override
+  String get live_timer => 'Live-ajastin';
+
+  @override
+  String get notify_before => 'Ilmoita ennen';
 }

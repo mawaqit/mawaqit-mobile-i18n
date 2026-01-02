@@ -1935,4 +1935,10 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Ayahs coincidentes';
+
+  @override
+  String get live_timer => 'Temporizador';
+
+  @override
+  String get notify_before => 'Notificar antes';
 }

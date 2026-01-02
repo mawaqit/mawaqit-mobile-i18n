@@ -1916,4 +1916,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matchande ayahs';
+
+  @override
+  String get live_timer => 'Timer live';
+
+  @override
+  String get notify_before => 'Notifiera före';
 }

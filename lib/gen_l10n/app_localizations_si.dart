@@ -1917,4 +1917,10 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'සජීවී ටයිමරය';
+
+  @override
+  String get notify_before => 'කලින් දැනුම් දෙන්න';
 }

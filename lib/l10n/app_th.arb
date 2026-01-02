@@ -1243,5 +1243,13 @@
     },
     "search_ayah_surah": "Search by Ayah or Surah",
     "matching_surahs": "Matching Surahs",
-    "matching_ayahs": "Matching Ayahs"
+    "matching_ayahs": "Matching Ayahs",
+    "live_timer": "ตัวจับเวลาสด",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "แจ้งเตือนล่วงหน้า",
+    "@notify_before": {
+        "description": "notify_before"
+    }
 }

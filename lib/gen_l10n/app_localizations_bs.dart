@@ -1918,4 +1918,10 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'Uživo tajmer';
+
+  @override
+  String get notify_before => 'Obavijesti unaprijed';
 }

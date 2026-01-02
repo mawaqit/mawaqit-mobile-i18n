@@ -1939,4 +1939,10 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Versets correspondants';
+
+  @override
+  String get live_timer => 'Minuterie en direct';
+
+  @override
+  String get notify_before => 'Notifier avant';
 }

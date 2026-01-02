@@ -1916,4 +1916,10 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'ژوندی ټایمر';
+
+  @override
+  String get notify_before => 'مخکې خبر ورکړئ';
 }

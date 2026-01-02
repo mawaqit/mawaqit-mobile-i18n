@@ -1918,4 +1918,10 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'Timer Langsung';
+
+  @override
+  String get notify_before => 'Beri tahu sebelumnya';
 }

@@ -1243,5 +1243,13 @@
     },
     "search_ayah_surah": "Search by Ayah or Surah",
     "matching_surahs": "Matching Surahs",
-    "matching_ayahs": "Matching Ayahs"
+    "matching_ayahs": "Matching Ayahs",
+    "live_timer": "Kohëmatës i drejtpërdrejtë",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Njofto paraprakisht",
+    "@notify_before": {
+        "description": "notify_before"
+    }
 }

@@ -1915,4 +1915,10 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'مطابقت والی آیات';
+
+  @override
+  String get live_timer => 'براہِ راست ٹائمر';
+
+  @override
+  String get notify_before => 'پہلے اطلاع دیں';
 }

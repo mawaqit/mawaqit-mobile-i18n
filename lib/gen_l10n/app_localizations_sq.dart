@@ -1920,4 +1920,10 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'Kohëmatës i drejtpërdrejtë';
+
+  @override
+  String get notify_before => 'Njofto paraprakisht';
 }

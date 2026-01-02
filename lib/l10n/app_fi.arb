@@ -1243,5 +1243,13 @@
     },
     "search_ayah_surah": "Etsi Ayahin tai Suran toimesta",
     "matching_surahs": "Vastaavat Surahs",
-    "matching_ayahs": "Täsmäävä Ajah"
+    "matching_ayahs": "Täsmäävä Ajah",
+    "live_timer": "Live-ajastin",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Ilmoita ennen",
+    "@notify_before": {
+        "description": "notify_before"
+    }
 }

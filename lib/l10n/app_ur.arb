@@ -1243,5 +1243,13 @@
     },
     "search_ayah_surah": "آیت یا سورت کے ذریعے تلاش کریں",
     "matching_surahs": "مطابقت والی سورتیں",
-    "matching_ayahs": "مطابقت والی آیات"
+    "matching_ayahs": "مطابقت والی آیات",
+    "live_timer": "براہِ راست ٹائمر",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "پہلے اطلاع دیں",
+    "@notify_before": {
+        "description": "notify_before"
+    }
 }

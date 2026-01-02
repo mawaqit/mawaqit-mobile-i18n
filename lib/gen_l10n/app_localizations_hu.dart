@@ -1920,4 +1920,10 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Matching Ayahs';
+
+  @override
+  String get live_timer => 'Élő időzítő';
+
+  @override
+  String get notify_before => 'Értesíts előre';
 }

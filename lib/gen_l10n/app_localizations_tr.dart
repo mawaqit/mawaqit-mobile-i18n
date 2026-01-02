@@ -1908,4 +1908,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get matching_ayahs => 'Eşleşen Ayetler';
+
+  @override
+  String get live_timer => 'Canlı Zamanlayıcı';
+
+  @override
+  String get notify_before => 'Önceden Bildir';
 }
