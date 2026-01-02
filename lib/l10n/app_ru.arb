@@ -1251,5 +1251,6 @@
     "notify_before": "Уведомлять перед",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "Это может занять несколько секунд, чтобы появиться на ваших часах."
 }
