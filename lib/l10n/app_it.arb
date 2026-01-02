@@ -1251,5 +1251,6 @@
     "notify_before": "Notifica prima",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "Potrebbe volerci qualche secondo per apparire sul tuo orologio."
 }
