@@ -1251,5 +1251,6 @@
     "notify_before": "Ilmoita ennen",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "Kellosi voi ilmetä vain muutaman sekunnin ajan."
 }
