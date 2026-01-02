@@ -1242,8 +1242,8 @@
         "description": "-> calendar_event_at_this_time"
     },
     "search_ayah_surah": "ئايەت ياكى سۈرە بويىچە ئىزدەيدۇ",
-    "matching_surahs": "Matching Surahs",
-    "matching_ayahs": "Matching Ayahs",
+    "matching_surahs": "ماس كەلگەن سۈرە",
+    "matching_ayahs": "ماس كەلگەن ئايەت",
     "live_timer": "نەق مەيدان ۋاقىت سانىغۇچ",
     "@live_timer": {
         "description": "live_timer"
