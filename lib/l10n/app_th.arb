@@ -1251,5 +1251,6 @@
     "notify_before": "แจ้งเตือนล่วงหน้า",
     "@notify_before": {
         "description": "notify_before"
-    }
+    },
+    "take_time_appear_watch": "It may take a few seconds to appear on your watch."
 }
