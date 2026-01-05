@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1252,5 +1252,6 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "آپ کی گھڑی پر ظاہر ہونے میں چند سیکنڈ لگ سکتے ہیں۔."
+    "take_time_appear_watch": "آپ کی گھڑی پر ظاہر ہونے میں چند سیکنڈ لگ سکتے ہیں۔.",
+    "eid1": "Eid"
 }
