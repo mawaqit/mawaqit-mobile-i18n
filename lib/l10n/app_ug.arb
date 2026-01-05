@@ -1252,5 +1252,6 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "سائىتىڭىزدە كۆرۈنۈشكە بىر قانچە سېكۇنت كېتىشى مۇمكىن."
+    "take_time_appear_watch": "سائىتىڭىزدە كۆرۈنۈشكە بىر قانچە سېكۇنت كېتىشى مۇمكىن.",
+    "eid1": "Eid"
 }
