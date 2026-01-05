@@ -1252,5 +1252,6 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "قد يستغرق الظهور على ساعتك بضع ثوان."
+    "take_time_appear_watch": "قد يستغرق الظهور على ساعتك بضع ثوان.",
+    "eid1": "العيد"
 }
