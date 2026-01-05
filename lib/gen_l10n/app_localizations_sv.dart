@@ -1926,4 +1926,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'Det kan ta några sekunder att visas på din klocka.';
+
+  @override
+  String get eid1 => 'Eid';
 }

@@ -1927,4 +1927,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'Это может занять несколько секунд, чтобы появиться на ваших часах.';
+
+  @override
+  String get eid1 => 'Eid';
 }

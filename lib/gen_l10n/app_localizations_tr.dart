@@ -1918,4 +1918,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'Saatinizde görünmesi birkaç saniye sürebilir.';
+
+  @override
+  String get eid1 => 'Eid';
 }

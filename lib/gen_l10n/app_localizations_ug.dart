@@ -1922,4 +1922,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'سائىتىڭىزدە كۆرۈنۈشكە بىر قانچە سېكۇنت كېتىشى مۇمكىن.';
+
+  @override
+  String get eid1 => 'Eid';
 }

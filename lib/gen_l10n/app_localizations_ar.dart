@@ -1899,4 +1899,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get take_time_appear_watch => 'قد يستغرق الظهور على ساعتك بضع ثوان.';
+
+  @override
+  String get eid1 => 'العيد';
 }

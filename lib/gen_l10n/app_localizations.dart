@@ -3769,6 +3769,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'It may take a few seconds to appear on your watch.'**
   String get take_time_appear_watch;
+
+  /// No description provided for @eid1.
+  ///
+  /// In en, this message translates to:
+  /// **'Eid'**
+  String get eid1;
 }
 
 class _AppLocalizationsDelegate

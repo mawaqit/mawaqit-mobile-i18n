@@ -1927,4 +1927,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'Kellosi voi ilmetä vain muutaman sekunnin ajan.';
+
+  @override
+  String get eid1 => 'Eid';
 }
