@@ -1925,4 +1925,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'آپ کی گھڑی پر ظاہر ہونے میں چند سیکنڈ لگ سکتے ہیں۔.';
+
+  @override
+  String get eid1 => 'Eid';
 }

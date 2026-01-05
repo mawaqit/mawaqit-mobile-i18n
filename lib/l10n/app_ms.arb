@@ -1252,5 +1252,6 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "It may take a few seconds to appear on your watch."
+    "take_time_appear_watch": "It may take a few seconds to appear on your watch.",
+    "eid1": "Eid"
 }

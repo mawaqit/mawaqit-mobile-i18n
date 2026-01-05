@@ -1252,5 +1252,6 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "Det kan ta några sekunder att visas på din klocka."
+    "take_time_appear_watch": "Det kan ta några sekunder att visas på din klocka.",
+    "eid1": "Eid"
 }

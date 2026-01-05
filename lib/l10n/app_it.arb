@@ -1252,5 +1252,6 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "Potrebbe volerci qualche secondo per apparire sul tuo orologio."
+    "take_time_appear_watch": "Potrebbe volerci qualche secondo per apparire sul tuo orologio.",
+    "eid1": "Eid"
 }

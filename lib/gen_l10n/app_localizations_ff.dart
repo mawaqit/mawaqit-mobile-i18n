@@ -1924,4 +1924,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'It may take a few seconds to appear on your watch.';
+
+  @override
+  String get eid1 => 'Eid';
 }

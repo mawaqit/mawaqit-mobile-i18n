@@ -1941,4 +1941,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'Potrebbe volerci qualche secondo per apparire sul tuo orologio.';
+
+  @override
+  String get eid1 => 'Eid';
 }

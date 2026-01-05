@@ -1252,5 +1252,6 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "Kellosi voi ilmetä vain muutaman sekunnin ajan."
+    "take_time_appear_watch": "Kellosi voi ilmetä vain muutaman sekunnin ajan.",
+    "eid1": "Eid"
 }

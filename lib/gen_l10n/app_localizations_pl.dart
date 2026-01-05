@@ -1924,4 +1924,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get take_time_appear_watch =>
       'Pojawienie się na zegarku może zająć kilka sekund.';
+
+  @override
+  String get eid1 => 'Eid';
 }
