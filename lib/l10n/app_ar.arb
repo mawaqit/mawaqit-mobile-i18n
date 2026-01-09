@@ -1257,5 +1257,13 @@
     "hide_live_activity_for_prayer": "إخفاء النشاط المباشر لهذه الصلاة فقط",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "تشغيل النشاط المباشر دائماً",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "تظهر الأنشطة المباشرة على شاشة القفل والجزيرة الديناميكية (إذا كانت مدعومة). اضغط على أيقونة الساعة على الشاشة الرئيسية لتبديل هذه الميزة تشغيل/إيقافها. عند التمكين، يظل الإشعار مرئيًا في جميع الأوقات مع المؤقت حتى الصلاة التالية.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
     }
 }
