@@ -1257,5 +1257,13 @@
     "hide_live_activity_for_prayer": "Nur für dieses Gebet Live-Aktivitäten ausblenden",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Live-Aktivität immer an",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Live Aktivitäten erscheinen auf deinem Sperrbildschirm und Dynamic Island (falls unterstützt). Tippen Sie auf das Uhr-Symbol auf dem Hauptbildschirm, um diese Funktion ein-/auszuschalten. Wenn aktiviert, bleibt die Benachrichtigung jederzeit mit einem Timer bis zum nächsten Gebet sichtbar.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
     }
 }
