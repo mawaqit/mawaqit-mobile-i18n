@@ -1257,5 +1257,13 @@
     "hide_live_activity_for_prayer": "Скрыть активность только для этого молитвы",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Онлайн активность всегда включена",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Появится активность на экране блокировки и острове Динамика (если поддерживается). Нажмите на значок часов на главном экране, чтобы включить/выключить эту функцию. Когда включено, уведомление остается видимым в любое время с таймером до следующей молитвы.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
     }
 }
