@@ -1262,7 +1262,7 @@
     "@live_activity_always_on": {
         "description": "live_activity_always_on"
     },
-    "live_activities_appear": "Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.",
+    "live_activities_appear": "شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. ئاساسىي ئېكراندىكى سائەتنى چېكىپ بۇ ئىقتىدارنى ئاچ/تاقا ھالىتىنى ئالماشتۇرغىلى بولىدۇ. قوزغىتىلغاندا، ئۇقتۇرۇش كېيىنكى ناماز ۋاقتىغىچە ھەمىشە كۆرۈنۈپ تۇرىدۇ.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
     }
