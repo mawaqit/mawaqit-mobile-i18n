@@ -1253,5 +1253,9 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "قد يستغرق الظهور على ساعتك بضع ثوان.",
-    "eid1": "العيد"
+    "eid1": "العيد",
+    "hide_live_activity_for_prayer": "إخفاء النشاط المباشر لهذه الصلاة فقط",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    }
 }
