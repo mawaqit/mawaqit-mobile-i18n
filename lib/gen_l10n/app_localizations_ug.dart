@@ -1924,14 +1924,14 @@ class AppLocalizationsUg extends AppLocalizations {
       'سائىتىڭىزدە كۆرۈنۈشكە بىر قانچە سېكۇنت كېتىشى مۇمكىن.';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'ھېيت';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'بۇ نامازغىلا شۇئان پائالىيەتنى يوشۇر';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'شۇئان پائالىيەت ھەمىشە ئوچۇق';
 
   @override
   String get live_activities_appear =>
