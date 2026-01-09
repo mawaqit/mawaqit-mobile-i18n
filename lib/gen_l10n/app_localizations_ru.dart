@@ -1930,4 +1930,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get eid1 => 'Eid';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'Скрыть активность только для этого молитвы';
 }

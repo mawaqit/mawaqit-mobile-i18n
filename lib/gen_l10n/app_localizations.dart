@@ -3775,6 +3775,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Eid'**
   String get eid1;
+
+  /// hide_live_activity_for_prayer
+  ///
+  /// In en, this message translates to:
+  /// **'Hide live activity for this prayer only'**
+  String get hide_live_activity_for_prayer;
 }
 
 class _AppLocalizationsDelegate

@@ -1945,4 +1945,8 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get eid1 => 'Eid';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'Ocultar apenas atividade ao vivo para esta oração';
 }

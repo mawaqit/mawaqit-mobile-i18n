@@ -1921,4 +1921,8 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get eid1 => 'Eid';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'Hide live activity for this prayer only';
 }

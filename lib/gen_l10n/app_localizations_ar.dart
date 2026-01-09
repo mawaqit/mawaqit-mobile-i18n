@@ -1902,4 +1902,8 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get eid1 => 'العيد';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'إخفاء النشاط المباشر لهذه الصلاة فقط';
 }
