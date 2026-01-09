@@ -1945,4 +1945,15 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get eid1 => 'Eid';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'Ocultar apenas atividade ao vivo para esta oração';
+
+  @override
+  String get live_activity_always_on => 'Atividade ao vivo sempre ligada';
+
+  @override
+  String get live_activities_appear =>
+      'Atividades ao vivo aparecem na sua tela de bloqueio e Ilha Dinâmica (se suportada). Toque no ícone do relógio na tela principal para ligar/desligar esta função. Quando habilitada, a notificação permanece visível em todos os momentos com um temporizador até a próxima oração.';
 }

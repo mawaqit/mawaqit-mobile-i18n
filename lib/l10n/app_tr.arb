@@ -1253,5 +1253,17 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "Saatinizde görünmesi birkaç saniye sürebilir.",
-    "eid1": "Eid"
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Yalnızca bu namaz için canlı etkinliği gizle",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Canlı Etkinlik Her Zaman Açık",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
+    }
 }

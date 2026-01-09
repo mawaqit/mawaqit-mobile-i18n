@@ -1942,4 +1942,15 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get eid1 => 'Eid';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'Verberg enkel live activiteit voor dit gebed';
+
+  @override
+  String get live_activity_always_on => 'Live Activiteit altijd aan';
+
+  @override
+  String get live_activities_appear =>
+      'Live activiteiten verschijnen op je vergrendelscherm en dynamisch eiland (indien ondersteund). Tik op het klokpictogram op het hoofdscherm om deze functie in/uit te zetten. Wanneer ingeschakeld, blijft de melding altijd zichtbaar met een timer tot het volgende gebed.';
 }

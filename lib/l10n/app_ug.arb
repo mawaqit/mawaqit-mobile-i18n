@@ -1253,5 +1253,17 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "سائىتىڭىزدە كۆرۈنۈشكە بىر قانچە سېكۇنت كېتىشى مۇمكىن.",
-    "eid1": "Eid"
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Hide live activity for this prayer only",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Live Activity Always On",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
+    }
 }

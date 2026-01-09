@@ -1253,5 +1253,17 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "Det kan ta några sekunder att visas på din klocka.",
-    "eid1": "Eid"
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Dölj levande aktivitet endast för denna bön",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Live aktivitet alltid på",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
+    }
 }

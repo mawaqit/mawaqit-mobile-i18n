@@ -1944,4 +1944,15 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get eid1 => 'Eid';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'Nascondi attività dal vivo solo per questa preghiera';
+
+  @override
+  String get live_activity_always_on => 'Attività Dal Vivo Sempre Accesa';
+
+  @override
+  String get live_activities_appear =>
+      'Le attività Live appaiono sulla tua schermata di blocco e sull\'isola dinamica (se supportato). Tocca l\'icona dell\'orologio nella schermata principale per attivare/disattivare questa funzione. Se abilitata, la notifica rimane visibile in ogni momento con un timer fino alla prossima preghiera.';
 }

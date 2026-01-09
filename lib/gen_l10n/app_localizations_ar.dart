@@ -1902,4 +1902,15 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get eid1 => 'العيد';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'إخفاء النشاط المباشر لهذه الصلاة فقط';
+
+  @override
+  String get live_activity_always_on => 'تشغيل النشاط المباشر دائماً';
+
+  @override
+  String get live_activities_appear =>
+      'تظهر الأنشطة المباشرة على شاشة القفل والجزيرة الديناميكية (إذا كانت مدعومة). اضغط على أيقونة الساعة على الشاشة الرئيسية لتبديل هذه الميزة تشغيل/إيقافها. عند التمكين، يظل الإشعار مرئيًا في جميع الأوقات مع المؤقت حتى الصلاة التالية.';
 }

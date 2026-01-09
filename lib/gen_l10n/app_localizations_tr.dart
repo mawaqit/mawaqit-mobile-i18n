@@ -1921,4 +1921,15 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get eid1 => 'Eid';
+
+  @override
+  String get hide_live_activity_for_prayer =>
+      'Yalnızca bu namaz için canlı etkinliği gizle';
+
+  @override
+  String get live_activity_always_on => 'Canlı Etkinlik Her Zaman Açık';
+
+  @override
+  String get live_activities_appear =>
+      'Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।';
 }

@@ -1253,5 +1253,17 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "Pode levar alguns segundos para aparecer no seu relógio.",
-    "eid1": "Eid"
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Ocultar apenas atividade ao vivo para esta oração",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Atividade ao vivo sempre ligada",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Atividades ao vivo aparecem na sua tela de bloqueio e Ilha Dinâmica (se suportada). Toque no ícone do relógio na tela principal para ligar/desligar esta função. Quando habilitada, a notificação permanece visível em todos os momentos com um temporizador até a próxima oração.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
+    }
 }

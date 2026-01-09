@@ -1253,5 +1253,17 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "Pojawienie się na zegarku może zająć kilka sekund.",
-    "eid1": "Eid"
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Ukryj aktywność na żywo tylko dla tej modlitwy",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Aktywność na żywo zawsze włączona",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Aktywności na żywo pojawiają się na ekranie blokady i Dynamicznej Wyspie (jeśli są obsługiwane). Dotknij ikony zegara na ekranie głównym, aby włączyć lub wyłączyć tę funkcję. Gdy włączone, powiadomienie pozostaje widoczne przez cały czas z timerem aż do następnej modlitwy.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
+    }
 }
