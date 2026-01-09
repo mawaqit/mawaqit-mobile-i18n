@@ -1253,5 +1253,9 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "Pojawienie się na zegarku może zająć kilka sekund.",
-    "eid1": "Eid"
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Ukryj aktywność na żywo tylko dla tej modlitwy",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    }
 }
