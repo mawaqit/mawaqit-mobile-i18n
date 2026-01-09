@@ -1935,5 +1935,5 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. ئاساسىي ئېكراندىكى سائەتنى چېكىپ بۇ ئىقتىدارنى ئاچ/تاقا ھالىتىنى ئالماشتۇرغىلى بولىدۇ. قوزغىتىلغاندا، ئۇقتۇرۇش كېيىنكى ناماز ۋاقتىغىچە ھەمىشە كۆرۈنۈپ تۇرىدۇ.';
 }
