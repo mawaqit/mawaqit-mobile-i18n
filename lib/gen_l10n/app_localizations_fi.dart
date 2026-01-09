@@ -1934,4 +1934,11 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get hide_live_activity_for_prayer =>
       'Piilota elävä toiminta vain tälle rukoukselle';
+
+  @override
+  String get live_activity_always_on => 'Live-aktiviteetti Aina Käytössä';
+
+  @override
+  String get live_activities_appear =>
+      'Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.';
 }

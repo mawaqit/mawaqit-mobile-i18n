@@ -1952,4 +1952,11 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get hide_live_activity_for_prayer =>
       'Ocultar actividad en vivo sólo para esta oración';
+
+  @override
+  String get live_activity_always_on => 'Actividad en vivo siempre activada';
+
+  @override
+  String get live_activities_appear =>
+      'Las actividades en vivo aparecen en tu pantalla de bloqueo y en la isla dinámica (si son compatibles). Pulsa el icono del reloj en la pantalla principal para encender/apagar esta función. Cuando está activada, la notificación permanece visible en todo momento con un temporizador hasta la siguiente oración.';
 }

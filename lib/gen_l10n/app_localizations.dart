@@ -3781,6 +3781,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Hide live activity for this prayer only'**
   String get hide_live_activity_for_prayer;
+
+  /// live_activity_always_on
+  ///
+  /// In en, this message translates to:
+  /// **'Live Activity Always On'**
+  String get live_activity_always_on;
+
+  /// live_activities_appear
+  ///
+  /// In en, this message translates to:
+  /// **'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.'**
+  String get live_activities_appear;
 }
 
 class _AppLocalizationsDelegate

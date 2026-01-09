@@ -1934,4 +1934,11 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get hide_live_activity_for_prayer =>
       'Скрыть активность только для этого молитвы';
+
+  @override
+  String get live_activity_always_on => 'Онлайн активность всегда включена';
+
+  @override
+  String get live_activities_appear =>
+      'Появится активность на экране блокировки и острове Динамика (если поддерживается). Нажмите на значок часов на главном экране, чтобы включить/выключить эту функцию. Когда включено, уведомление остается видимым в любое время с таймером до следующей молитвы.';
 }

@@ -1933,4 +1933,11 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get hide_live_activity_for_prayer =>
       'Dölj levande aktivitet endast för denna bön';
+
+  @override
+  String get live_activity_always_on => 'Live aktivitet alltid på';
+
+  @override
+  String get live_activities_appear =>
+      'Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.';
 }
