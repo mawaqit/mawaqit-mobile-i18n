@@ -1257,5 +1257,13 @@
     "hide_live_activity_for_prayer": "Piilota elävä toiminta vain tälle rukoukselle",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
+    },
+    "live_activity_always_on": "Live-aktiviteetti Aina Käytössä",
+    "@live_activity_always_on": {
+        "description": "live_activity_always_on"
+    },
+    "live_activities_appear": "Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.",
+    "@live_activities_appear": {
+        "description": "live_activities_appear"
     }
 }
