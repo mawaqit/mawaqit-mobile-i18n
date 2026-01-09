@@ -1934,12 +1934,12 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'এই নামাজের জন্য শুধুমাত্র লাইভ অ্যাক্টিভিটি লুকান';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'লাইভ অ্যাক্টিভিটি সবসময় চালু';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'লাইভ অ্যাক্টিভিটিগুলো আপনার লক স্ক্রিন এবং ডায়নামিক আইল্যান্ডে (যদি সমর্থিত হয়) প্রদর্শিত হয়। এই ফিচারটি চালু বা বন্ধ করতে প্রধান স্ক্রিনে থাকা ঘড়ির আইকনে ট্যাপ করুন। চালু থাকলে, পরবর্তী নামাজ পর্যন্ত একটি টাইমারসহ নোটিফিকেশনটি সবসময় দৃশ্যমান থাকবে।';
 }

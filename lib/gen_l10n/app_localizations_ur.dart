@@ -1931,12 +1931,12 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'صرف اس نماز کے لیے لائیو ایکٹیویٹی چھپائیں';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'لائیو ایکٹیویٹی ہمیشہ آن';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'لائیو ایکٹیویٹیز آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ پر (اگر سپورٹ ہو) ظاہر ہوتی ہیں۔ اس فیچر کو آن یا آف کرنے کے لیے مین اسکرین پر گھڑی کے آئیکن پر ٹیپ کریں۔ جب یہ فعال ہو، تو اگلی نماز تک ٹائمر کے ساتھ نوٹیفکیشن ہر وقت نظر آتا رہتا ہے۔';
 }

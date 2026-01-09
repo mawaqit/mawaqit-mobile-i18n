@@ -1924,12 +1924,12 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'Yalnızca bu namaz için canlı etkinliği gizle';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'Canlı Etkinlik Her Zaman Açık';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।';
 }
