@@ -1253,5 +1253,9 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "Это может занять несколько секунд, чтобы появиться на ваших часах.",
-    "eid1": "Eid"
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Скрыть активность только для этого молитвы",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    }
 }
