@@ -1265,5 +1265,9 @@
     "live_activities_appear": "Les activités en direct apparaissent sur votre écran de verrouillage et sur votre île dynamique (si compatible). Appuyez sur l'icône de l'horloge sur l'écran principal pour activer/désactiver cette fonctionnalité. Lorsque cette option est activée, la notification reste visible à tout moment avec un minuteur jusqu'à la prochaine prière.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
+    },
+    "settings": "Réglages",
+    "@settings": {
+        "description": "-> settings"
     }
 }
