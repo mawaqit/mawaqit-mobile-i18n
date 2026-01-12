@@ -1956,4 +1956,7 @@ class AppLocalizationsPt extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Atividades ao vivo aparecem na sua tela de bloqueio e Ilha Dinâmica (se suportada). Toque no ícone do relógio na tela principal para ligar/desligar esta função. Quando habilitada, a notificação permanece visível em todos os momentos com um temporizador até a próxima oração.';
+
+  @override
+  String get settings => 'Confirgurações';
 }

@@ -1938,4 +1938,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+
+  @override
+  String get settings => 'Settings';
 }

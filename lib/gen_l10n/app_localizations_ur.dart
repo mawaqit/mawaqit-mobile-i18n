@@ -1939,4 +1939,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'لائیو ایکٹیویٹیز آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ پر (اگر سپورٹ ہو) ظاہر ہوتی ہیں۔ اس فیچر کو آن یا آف کرنے کے لیے مین اسکرین پر گھڑی کے آئیکن پر ٹیپ کریں۔ جب یہ فعال ہو، تو اگلی نماز تک ٹائمر کے ساتھ نوٹیفکیشن ہر وقت نظر آتا رہتا ہے۔';
+
+  @override
+  String get settings => 'Settings';
 }

@@ -1941,4 +1941,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.';
+
+  @override
+  String get settings => 'Asetukset';
 }

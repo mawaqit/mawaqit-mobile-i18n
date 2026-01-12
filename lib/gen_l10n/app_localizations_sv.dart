@@ -1940,4 +1940,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.';
+
+  @override
+  String get settings => 'Inställningar';
 }

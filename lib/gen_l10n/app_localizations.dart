@@ -3793,6 +3793,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.'**
   String get live_activities_appear;
+
+  /// -> settings
+  ///
+  /// In en, this message translates to:
+  /// **'Settings'**
+  String get settings;
 }
 
 class _AppLocalizationsDelegate

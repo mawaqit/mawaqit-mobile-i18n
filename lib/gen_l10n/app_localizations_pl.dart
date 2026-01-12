@@ -1938,4 +1938,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Aktywności na żywo pojawiają się na ekranie blokady i Dynamicznej Wyspie (jeśli są obsługiwane). Dotknij ikony zegara na ekranie głównym, aby włączyć lub wyłączyć tę funkcję. Gdy włączone, powiadomienie pozostaje widoczne przez cały czas z timerem aż do następnej modlitwy.';
+
+  @override
+  String get settings => 'Ustawienia';
 }

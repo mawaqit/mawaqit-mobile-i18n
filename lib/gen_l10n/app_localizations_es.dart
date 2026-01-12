@@ -1959,4 +1959,7 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Las actividades en vivo aparecen en tu pantalla de bloqueo y en la isla dinámica (si son compatibles). Pulsa el icono del reloj en la pantalla principal para encender/apagar esta función. Cuando está activada, la notificación permanece visible en todo momento con un temporizador hasta la siguiente oración.';
+
+  @override
+  String get settings => 'Ajustes';
 }

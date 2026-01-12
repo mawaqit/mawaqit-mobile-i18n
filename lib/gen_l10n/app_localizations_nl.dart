@@ -1953,4 +1953,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live activiteiten verschijnen op je vergrendelscherm en dynamisch eiland (indien ondersteund). Tik op het klokpictogram op het hoofdscherm om deze functie in/uit te zetten. Wanneer ingeschakeld, blijft de melding altijd zichtbaar met een timer tot het volgende gebed.';
+
+  @override
+  String get settings => 'Instellingen';
 }
