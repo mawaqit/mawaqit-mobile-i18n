@@ -1265,5 +1265,9 @@
     "live_activities_appear": "Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।",
     "@live_activities_appear": {
         "description": "live_activities_appear"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "-> settings"
     }
 }
