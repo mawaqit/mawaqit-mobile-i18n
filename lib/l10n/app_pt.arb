@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1265,5 +1265,9 @@
     "live_activities_appear": "Atividades ao vivo aparecem na sua tela de bloqueio e Ilha Dinâmica (se suportada). Toque no ícone do relógio na tela principal para ligar/desligar esta função. Quando habilitada, a notificação permanece visível em todos os momentos com um temporizador até a próxima oração.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
+    },
+    "settings": "Confirgurações",
+    "@settings": {
+        "description": "-> settings"
     }
 }
