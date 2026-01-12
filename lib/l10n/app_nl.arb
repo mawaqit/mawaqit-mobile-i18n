@@ -1265,5 +1265,9 @@
     "live_activities_appear": "Live activiteiten verschijnen op je vergrendelscherm en dynamisch eiland (indien ondersteund). Tik op het klokpictogram op het hoofdscherm om deze functie in/uit te zetten. Wanneer ingeschakeld, blijft de melding altijd zichtbaar met een timer tot het volgende gebed.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
+    },
+    "settings": "Instellingen",
+    "@settings": {
+        "description": "-> settings"
     }
 }
