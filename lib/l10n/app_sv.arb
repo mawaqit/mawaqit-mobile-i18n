@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1265,5 +1265,9 @@
     "live_activities_appear": "Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
+    },
+    "settings": "Inställningar",
+    "@settings": {
+        "description": "-> settings"
     }
 }
