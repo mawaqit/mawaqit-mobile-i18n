@@ -3799,6 +3799,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Settings'**
   String get settings;
+
+  /// -> azkar
+  ///
+  /// In en, this message translates to:
+  /// **'Azkar'**
+  String get azkar;
 }
 
 class _AppLocalizationsDelegate

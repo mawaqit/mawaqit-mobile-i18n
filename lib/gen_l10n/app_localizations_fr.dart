@@ -1966,4 +1966,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get settings => 'Réglages';
+
+  @override
+  String get azkar => 'Azkar';
 }

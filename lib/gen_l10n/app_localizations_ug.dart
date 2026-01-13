@@ -1938,5 +1938,8 @@ class AppLocalizationsUg extends AppLocalizations {
       'شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. ئاساسىي ئېكراندىكى سائەتنى چېكىپ بۇ ئىقتىدارنى ئاچ/تاقا ھالىتىنى ئالماشتۇرغىلى بولىدۇ. قوزغىتىلغاندا، ئۇقتۇرۇش كېيىنكى ناماز ۋاقتىغىچە ھەمىشە كۆرۈنۈپ تۇرىدۇ.';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'تەڭشەك';
+
+  @override
+  String get azkar => 'Azkar';
 }

@@ -1947,4 +1947,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get settings => 'Settings';
+
+  @override
+  String get azkar => 'Azkar';
 }

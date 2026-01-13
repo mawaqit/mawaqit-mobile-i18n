@@ -1944,4 +1944,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get settings => 'Настройки';
+
+  @override
+  String get azkar => 'Azkar';
 }

@@ -1916,4 +1916,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get settings => 'الإعدادات';
+
+  @override
+  String get azkar => 'الأذكار';
 }

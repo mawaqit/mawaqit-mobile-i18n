@@ -1944,4 +1944,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get settings => 'Asetukset';
+
+  @override
+  String get azkar => 'Azkar';
 }

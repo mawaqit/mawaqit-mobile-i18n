@@ -1958,4 +1958,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get settings => 'Impostazioni';
+
+  @override
+  String get azkar => 'Azkar';
 }

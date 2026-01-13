@@ -1943,4 +1943,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get settings => 'Inställningar';
+
+  @override
+  String get azkar => 'Azkar';
 }

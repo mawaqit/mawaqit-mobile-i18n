@@ -1941,4 +1941,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings => 'Ustawienia';
+
+  @override
+  String get azkar => 'Azkar';
 }

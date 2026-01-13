@@ -1959,4 +1959,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get settings => 'Confirgurações';
+
+  @override
+  String get azkar => 'Azkar';
 }

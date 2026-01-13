@@ -1962,4 +1962,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get settings => 'Ajustes';
+
+  @override
+  String get azkar => 'Azkar';
 }
