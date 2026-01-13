@@ -1269,5 +1269,9 @@
     "settings": "الإعدادات",
     "@settings": {
         "description": "-> settings"
+    },
+    "azkar": "الأذكار",
+    "@azkar": {
+        "description": "-> azkar"
     }
 }
