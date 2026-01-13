@@ -1266,8 +1266,12 @@
     "@live_activities_appear": {
         "description": "live_activities_appear"
     },
-    "settings": "Settings",
+    "settings": "تەڭشەك",
     "@settings": {
         "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
     }
 }
