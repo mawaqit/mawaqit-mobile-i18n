@@ -1937,5 +1937,5 @@ class AppLocalizationsTr extends AppLocalizations {
   String get settings => 'Settings';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'Zikirler';
 }

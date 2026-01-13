@@ -1947,5 +1947,5 @@ class AppLocalizationsBn extends AppLocalizations {
   String get settings => 'Settings';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'আযকার';
 }
