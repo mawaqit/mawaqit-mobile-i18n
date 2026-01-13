@@ -1270,7 +1270,7 @@
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Azkar",
+    "azkar": "Zikirler",
     "@azkar": {
         "description": "-> azkar"
     }
