@@ -1269,5 +1269,9 @@
     "settings": "Einstellungen",
     "@settings": {
         "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
     }
 }
