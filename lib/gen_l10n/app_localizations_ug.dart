@@ -1941,5 +1941,5 @@ class AppLocalizationsUg extends AppLocalizations {
   String get settings => 'تەڭشەك';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'زىكىر';
 }
