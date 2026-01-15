@@ -1273,5 +1273,7 @@
     "azkar": "Azkar",
     "@azkar": {
         "description": "-> azkar"
-    }
+    },
+    "quran_tajweed": "Corano Tajwīd",
+    "tajweed_description": "Regole di tajwīd codificate a colori per aiutarti a recitare con precisione"
 }
