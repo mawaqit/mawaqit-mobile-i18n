@@ -1913,4 +1913,17 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'تظهر الأنشطة المباشرة على شاشة القفل والجزيرة الديناميكية (إذا كانت مدعومة). اضغط على أيقونة الساعة على الشاشة الرئيسية لتبديل هذه الميزة تشغيل/إيقافها. عند التمكين، يظل الإشعار مرئيًا في جميع الأوقات مع المؤقت حتى الصلاة التالية.';
+
+  @override
+  String get settings => 'الإعدادات';
+
+  @override
+  String get azkar => 'الأذكار';
+
+  @override
+  String get quran_tajweed => 'القرآن بالتجويد';
+
+  @override
+  String get tajweed_description =>
+      'أحكام التجويد ملوّنة بالألوان لمساعدتك على التلاوة بدقّة';
 }

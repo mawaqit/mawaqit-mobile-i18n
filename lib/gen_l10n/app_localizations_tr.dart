@@ -1932,4 +1932,17 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।';
+
+  @override
+  String get settings => 'Settings';
+
+  @override
+  String get azkar => 'Zikirler';
+
+  @override
+  String get quran_tajweed => 'Kur’an Tecvid';
+
+  @override
+  String get tajweed_description =>
+      'Renk kodlu tecvid kuralları, doğru okumanıza yardımcı olur';
 }

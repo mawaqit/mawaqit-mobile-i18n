@@ -1924,16 +1924,29 @@ class AppLocalizationsUg extends AppLocalizations {
       'سائىتىڭىزدە كۆرۈنۈشكە بىر قانچە سېكۇنت كېتىشى مۇمكىن.';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'ھېيت';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'بۇ نامازغىلا شۇئان پائالىيەتنى يوشۇر';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'شۇئان پائالىيەت ھەمىشە ئوچۇق';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. ئاساسىي ئېكراندىكى سائەتنى چېكىپ بۇ ئىقتىدارنى ئاچ/تاقا ھالىتىنى ئالماشتۇرغىلى بولىدۇ. قوزغىتىلغاندا، ئۇقتۇرۇش كېيىنكى ناماز ۋاقتىغىچە ھەمىشە كۆرۈنۈپ تۇرىدۇ.';
+
+  @override
+  String get settings => 'تەڭشەك';
+
+  @override
+  String get azkar => 'زىكىر';
+
+  @override
+  String get quran_tajweed => 'Qur’an Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Color-coded tajwīd rules to help you recite accurately';
 }

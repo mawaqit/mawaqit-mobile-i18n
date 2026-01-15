@@ -1942,4 +1942,17 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'লাইভ অ্যাক্টিভিটিগুলো আপনার লক স্ক্রিন এবং ডায়নামিক আইল্যান্ডে (যদি সমর্থিত হয়) প্রদর্শিত হয়। এই ফিচারটি চালু বা বন্ধ করতে প্রধান স্ক্রিনে থাকা ঘড়ির আইকনে ট্যাপ করুন। চালু থাকলে, পরবর্তী নামাজ পর্যন্ত একটি টাইমারসহ নোটিফিকেশনটি সবসময় দৃশ্যমান থাকবে।';
+
+  @override
+  String get settings => 'Settings';
+
+  @override
+  String get azkar => 'আযকার';
+
+  @override
+  String get quran_tajweed => 'কুরআন তাজবীদ।';
+
+  @override
+  String get tajweed_description =>
+      'রঙের মাধ্যমে চিহ্নিত তাজবীদের নিয়ম, যাতে আপনি সঠিকভাবে তিলাওয়াত করতে পারেন।';
 }

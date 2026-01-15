@@ -1265,5 +1265,15 @@
     "live_activities_appear": "Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
-    }
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Al-Qur’an Tajwid",
+    "tajweed_description": "Aturan tajwid berkode warna untuk membantu Anda membaca dengan tepat"
 }

@@ -1941,4 +1941,17 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.';
+
+  @override
+  String get settings => 'Asetukset';
+
+  @override
+  String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Qur’an Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Värikoodattu tajwi•d säännöt, joiden avulla voit täsmällisesti kuvata';
 }

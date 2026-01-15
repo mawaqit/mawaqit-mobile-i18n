@@ -1265,5 +1265,15 @@
     "live_activities_appear": "لائیو ایکٹیویٹیز آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ پر (اگر سپورٹ ہو) ظاہر ہوتی ہیں۔ اس فیچر کو آن یا آف کرنے کے لیے مین اسکرین پر گھڑی کے آئیکن پر ٹیپ کریں۔ جب یہ فعال ہو، تو اگلی نماز تک ٹائمر کے ساتھ نوٹیفکیشن ہر وقت نظر آتا رہتا ہے۔",
     "@live_activities_appear": {
         "description": "live_activities_appear"
-    }
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "اذکار",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "قرآنِ تجوید",
+    "tajweed_description": "رنگوں سے نشان زد تجوید کے قواعد تاکہ آپ درستگی سے تلاوت کر سکیں"
 }

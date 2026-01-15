@@ -1940,4 +1940,17 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.';
+
+  @override
+  String get settings => 'Inställningar';
+
+  @override
+  String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Qur’an Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt';
 }

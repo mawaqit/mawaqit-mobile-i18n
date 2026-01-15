@@ -3793,6 +3793,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.'**
   String get live_activities_appear;
+
+  /// -> settings
+  ///
+  /// In en, this message translates to:
+  /// **'Settings'**
+  String get settings;
+
+  /// -> azkar
+  ///
+  /// In en, this message translates to:
+  /// **'Azkar'**
+  String get azkar;
+
+  /// No description provided for @quran_tajweed.
+  ///
+  /// In en, this message translates to:
+  /// **'Qur’an Tajwīd'**
+  String get quran_tajweed;
+
+  /// No description provided for @tajweed_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Color-coded tajwīd rules to help you recite accurately'**
+  String get tajweed_description;
 }
 
 class _AppLocalizationsDelegate

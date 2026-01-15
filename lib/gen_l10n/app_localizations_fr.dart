@@ -1963,4 +1963,17 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Les activités en direct apparaissent sur votre écran de verrouillage et sur votre île dynamique (si compatible). Appuyez sur l\'icône de l\'horloge sur l\'écran principal pour activer/désactiver cette fonctionnalité. Lorsque cette option est activée, la notification reste visible à tout moment avec un minuteur jusqu\'à la prochaine prière.';
+
+  @override
+  String get settings => 'Réglages';
+
+  @override
+  String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Coran Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Règles de tajwīd codées par couleur pour vous aider à réciter avec précision';
 }

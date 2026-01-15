@@ -1960,4 +1960,17 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live Aktivitäten erscheinen auf deinem Sperrbildschirm und Dynamic Island (falls unterstützt). Tippen Sie auf das Uhr-Symbol auf dem Hauptbildschirm, um diese Funktion ein-/auszuschalten. Wenn aktiviert, bleibt die Benachrichtigung jederzeit mit einem Timer bis zum nächsten Gebet sichtbar.';
+
+  @override
+  String get settings => 'Einstellungen';
+
+  @override
+  String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Koran Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Farbcodierte Tajwīd-Regeln, die dir helfen, korrekt zu rezitieren';
 }

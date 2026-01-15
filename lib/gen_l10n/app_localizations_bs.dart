@@ -1942,4 +1942,17 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+
+  @override
+  String get settings => 'Settings';
+
+  @override
+  String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Kur’an Tadžvid';
+
+  @override
+  String get tajweed_description =>
+      'Pravila tadžvida označena bojama kako bi vam pomogla da učite tačno';
 }

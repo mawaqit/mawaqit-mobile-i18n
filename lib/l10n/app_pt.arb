@@ -1265,5 +1265,15 @@
     "live_activities_appear": "Atividades ao vivo aparecem na sua tela de bloqueio e Ilha Dinâmica (se suportada). Toque no ícone do relógio na tela principal para ligar/desligar esta função. Quando habilitada, a notificação permanece visível em todos os momentos com um temporizador até a próxima oração.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
-    }
+    },
+    "settings": "Confirgurações",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Alcorão Tajwīd",
+    "tajweed_description": "Regras de tajwīd codificadas por cores para ajudar você a recitar com precisão"
 }

@@ -1956,4 +1956,17 @@ class AppLocalizationsPt extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Atividades ao vivo aparecem na sua tela de bloqueio e Ilha Dinâmica (se suportada). Toque no ícone do relógio na tela principal para ligar/desligar esta função. Quando habilitada, a notificação permanece visível em todos os momentos com um temporizador até a próxima oração.';
+
+  @override
+  String get settings => 'Confirgurações';
+
+  @override
+  String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Alcorão Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Regras de tajwīd codificadas por cores para ajudar você a recitar com precisão';
 }

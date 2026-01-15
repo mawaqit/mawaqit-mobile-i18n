@@ -1955,4 +1955,17 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get live_activities_appear =>
       'Le attività Live appaiono sulla tua schermata di blocco e sull\'isola dinamica (se supportato). Tocca l\'icona dell\'orologio nella schermata principale per attivare/disattivare questa funzione. Se abilitata, la notifica rimane visibile in ogni momento con un timer fino alla prossima preghiera.';
+
+  @override
+  String get settings => 'Impostazioni';
+
+  @override
+  String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Corano Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Regole di tajwīd codificate a colori per aiutarti a recitare con precisione';
 }
