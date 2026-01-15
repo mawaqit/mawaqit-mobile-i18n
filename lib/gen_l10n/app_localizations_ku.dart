@@ -1948,12 +1948,12 @@ class AppLocalizationsKu extends AppLocalizations {
   String get settings => 'Settings';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'ئەذکار';
 
   @override
-  String get quran_tajweed => 'Qur’an Tajwīd';
+  String get quran_tajweed => 'قورئان (تەجوید)';
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules to help you recite accurately';
+      'یاساکانی تەجوید بە ڕەنگەکان نیشانکراون بۆ ئەوەی یارمەتیت بدەن بە وردی تلاوەت بکەیت';
 }

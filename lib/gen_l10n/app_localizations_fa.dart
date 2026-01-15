@@ -1946,9 +1946,9 @@ class AppLocalizationsFa extends AppLocalizations {
   String get azkar => 'Azkar';
 
   @override
-  String get quran_tajweed => 'Qur’an Tajwīd';
+  String get quran_tajweed => 'قرآنِ تجوید';
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules to help you recite accurately';
+      'قواعد تجویدِ رنگ‌بندی‌شده برای کمک به قرائت دقیق';
 }
