@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1273,5 +1273,7 @@
     "azkar": "Azkar",
     "@azkar": {
         "description": "-> azkar"
-    }
+    },
+    "quran_tajweed": "Qur’an Tajwīd",
+    "tajweed_description": "Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt"
 }
