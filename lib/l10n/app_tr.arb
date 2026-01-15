@@ -1273,5 +1273,7 @@
     "azkar": "Zikirler",
     "@azkar": {
         "description": "-> azkar"
-    }
+    },
+    "quran_tajweed": "Kur’an Tecvid",
+    "tajweed_description": "Renk kodlu tecvid kuralları, doğru okumanıza yardımcı olur"
 }
