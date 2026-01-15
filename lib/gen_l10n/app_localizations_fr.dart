@@ -1975,5 +1975,5 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Règles de tajwīd codées par couleur pour vous aider à réciter avec précision';
+      'Règles de tajwīd codées par couleur pour une récitation correcte';
 }

@@ -1944,9 +1944,9 @@ class AppLocalizationsUg extends AppLocalizations {
   String get azkar => 'زىكىر';
 
   @override
-  String get quran_tajweed => 'Qur’an Tajwīd';
+  String get quran_tajweed => 'قۇرئان تەجۋىد';
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules to help you recite accurately';
+      'رەڭ كودى قوشۇلغان تەجۋىد قائىدىسى توغرا يادلىشىڭىزغا ياردەم بېرىدۇ';
 }

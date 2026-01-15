@@ -1270,10 +1270,10 @@
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Azkar",
+    "azkar": "ئەذکار",
     "@azkar": {
         "description": "-> azkar"
     },
-    "quran_tajweed": "Qur’an Tajwīd",
-    "tajweed_description": "Color-coded tajwīd rules to help you recite accurately"
+    "quran_tajweed": "قورئان (تەجوید)",
+    "tajweed_description": "یاساکانی تەجوید بە ڕەنگەکان نیشانکراون بۆ ئەوەی یارمەتیت بدەن بە وردی تلاوەت بکەیت"
 }
