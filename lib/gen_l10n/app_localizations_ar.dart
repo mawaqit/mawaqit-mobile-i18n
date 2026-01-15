@@ -1919,4 +1919,11 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get azkar => 'الأذكار';
+
+  @override
+  String get quran_tajweed => 'القرآن بالتجويد';
+
+  @override
+  String get tajweed_description =>
+      'أحكام التجويد ملوّنة بالألوان لمساعدتك على التلاوة بدقّة';
 }

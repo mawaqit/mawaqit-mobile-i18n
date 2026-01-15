@@ -1947,4 +1947,11 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Qur’an Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Värikoodattu tajwi•d säännöt, joiden avulla voit täsmällisesti kuvata';
 }

@@ -1969,4 +1969,11 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Coran Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Règles de tajwīd codées par couleur pour vous aider à réciter avec précision';
 }

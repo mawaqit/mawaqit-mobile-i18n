@@ -1947,4 +1947,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Коран: таджвид';
+
+  @override
+  String get tajweed_description =>
+      'Цветовая разметка правил таджвида, чтобы помочь вам читать точно';
 }

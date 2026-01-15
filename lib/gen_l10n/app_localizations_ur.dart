@@ -1945,4 +1945,11 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get azkar => 'اذکار';
+
+  @override
+  String get quran_tajweed => 'قرآنِ تجوید';
+
+  @override
+  String get tajweed_description =>
+      'رنگوں سے نشان زد تجوید کے قواعد تاکہ آپ درستگی سے تلاوت کر سکیں';
 }

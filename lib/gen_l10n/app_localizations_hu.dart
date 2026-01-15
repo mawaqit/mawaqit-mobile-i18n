@@ -1950,4 +1950,11 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Korán Tadzsvíd';
+
+  @override
+  String get tajweed_description =>
+      'Színkódolt tadzsvíd-szabályok, hogy pontosan tudj recitálni';
 }

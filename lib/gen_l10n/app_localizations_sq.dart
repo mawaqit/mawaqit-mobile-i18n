@@ -1950,4 +1950,11 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Kurani Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Rregulla të tajwīdit të koduara me ngjyra për t’ju ndihmuar të recitoni saktë';
 }

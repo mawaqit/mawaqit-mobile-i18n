@@ -1938,4 +1938,11 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get azkar => 'Zikirler';
+
+  @override
+  String get quran_tajweed => 'Kur’an Tecvid';
+
+  @override
+  String get tajweed_description =>
+      'Renk kodlu tecvid kuralları, doğru okumanıza yardımcı olur';
 }

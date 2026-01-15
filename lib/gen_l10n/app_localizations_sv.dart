@@ -1946,4 +1946,11 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Qur’an Tajwīd';
+
+  @override
+  String get tajweed_description =>
+      'Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt';
 }

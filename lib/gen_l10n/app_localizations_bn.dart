@@ -1948,4 +1948,11 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get azkar => 'আযকার';
+
+  @override
+  String get quran_tajweed => 'কুরআন তাজবীদ।';
+
+  @override
+  String get tajweed_description =>
+      'রঙের মাধ্যমে চিহ্নিত তাজবীদের নিয়ম, যাতে আপনি সঠিকভাবে তিলাওয়াত করতে পারেন।';
 }

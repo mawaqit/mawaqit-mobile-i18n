@@ -1948,4 +1948,11 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get azkar => 'Azkar';
+
+  @override
+  String get quran_tajweed => 'Al-Qur’an Tajwid';
+
+  @override
+  String get tajweed_description =>
+      'Aturan tajwid berkode warna untuk membantu Anda membaca dengan tepat';
 }

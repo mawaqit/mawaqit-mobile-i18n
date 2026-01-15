@@ -3805,6 +3805,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Azkar'**
   String get azkar;
+
+  /// No description provided for @quran_tajweed.
+  ///
+  /// In en, this message translates to:
+  /// **'Qur’an Tajwīd'**
+  String get quran_tajweed;
+
+  /// No description provided for @tajweed_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Color-coded tajwīd rules to help you recite accurately'**
+  String get tajweed_description;
 }
 
 class _AppLocalizationsDelegate
