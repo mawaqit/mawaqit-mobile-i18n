@@ -1953,4 +1953,7 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String get tajweed_description =>
       'Color-coded tajwīd rules for correct recitation';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

@@ -1949,4 +1949,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get tajweed_description =>
       'رەڭ كودى قوشۇلغان تەجۋىد قائىدىسى توغرا يادلىشىڭىزغا ياردەم بېرىدۇ';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

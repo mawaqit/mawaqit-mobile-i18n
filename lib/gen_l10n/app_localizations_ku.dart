@@ -1956,4 +1956,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get tajweed_description =>
       'یاساکانی تەجوید بە ڕەنگەکان نیشانکراون بۆ ئەوەی یارمەتیت بدەن بە وردی تلاوەت بکەیت';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

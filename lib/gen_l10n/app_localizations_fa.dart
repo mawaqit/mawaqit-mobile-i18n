@@ -1951,4 +1951,7 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get tajweed_description =>
       'قواعد تجویدِ رنگ‌بندی‌شده برای کمک به قرائت دقیق';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

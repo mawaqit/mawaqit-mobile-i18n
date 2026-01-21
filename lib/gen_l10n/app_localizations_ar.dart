@@ -1926,4 +1926,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get tajweed_description =>
       'أحكام التجويد مميّزة بالألوان لقراءةٍ صحيحة';
+
+  @override
+  String get tajwid_rules => 'أحكام التجويد';
 }

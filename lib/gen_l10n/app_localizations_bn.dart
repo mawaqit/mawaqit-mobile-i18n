@@ -1954,5 +1954,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'রঙের মাধ্যমে চিহ্নিত তাজবীদের নিয়ম, যাতে আপনি সঠিকভাবে তিলাওয়াত করতে পারেন।';
+      'Color-coded tajwīd rules for correct recitation';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

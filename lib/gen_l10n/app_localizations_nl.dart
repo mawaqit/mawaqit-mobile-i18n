@@ -1965,5 +1965,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Kleurgecodeerde tajwīd-regels om je te helpen nauwkeurig te reciteren';
+      'Gekleurde tajbreedde regels voor correcte recitatie';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }
