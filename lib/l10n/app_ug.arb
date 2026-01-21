@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "قۇرئان تەجۋىد",
-    "tajweed_description": "رەڭ كودى قوشۇلغان تەجۋىد قائىدىسى توغرا يادلىشىڭىزغا ياردەم بېرىدۇ"
+    "tajweed_description": "رەڭ كودى قوشۇلغان تەجۋىد قائىدىسى توغرا يادلىشىڭىزغا ياردەم بېرىدۇ",
+    "tajwid_rules": "Tajwid rules"
 }
