@@ -1944,5 +1944,8 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Renk kodlu tecvid kuralları, doğru okumanıza yardımcı olur';
+      'Color-coded tajwīd rules for correct recitation';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

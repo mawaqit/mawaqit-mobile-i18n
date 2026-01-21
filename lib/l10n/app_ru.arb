@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "Коран: таджвид",
-    "tajweed_description": "Цветовая разметка правил таджвида, чтобы помочь вам читать точно"
+    "tajweed_description": "Правила правильной обработки таджвида с цветными кодами",
+    "tajwid_rules": "Tajwid rules"
 }

@@ -1954,5 +1954,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Aturan tajwid berkode warna untuk membantu Anda membaca dengan tepat';
+      'Color-coded tajwīd rules for correct recitation';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

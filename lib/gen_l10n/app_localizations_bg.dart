@@ -1958,5 +1958,8 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules to help you recite accurately';
+      'Color-coded tajwīd rules for correct recitation';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

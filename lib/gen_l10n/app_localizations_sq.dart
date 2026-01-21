@@ -1956,5 +1956,8 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Rregulla të tajwīdit të koduara me ngjyra për t’ju ndihmuar të recitoni saktë';
+      'Color-coded tajwīd rules for correct recitation';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

@@ -1953,5 +1953,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Цветовая разметка правил таджвида, чтобы помочь вам читать точно';
+      'Правила правильной обработки таджвида с цветными кодами';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

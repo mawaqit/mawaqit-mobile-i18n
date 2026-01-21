@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "Qur’an Tajwīd",
-    "tajweed_description": "Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt"
+    "tajweed_description": "Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt",
+    "tajwid_rules": "Tajwid rules"
 }

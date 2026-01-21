@@ -1952,4 +1952,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get tajweed_description =>
       'رنگوں سے نشان زد تجوید کے قواعد تاکہ آپ درستگی سے تلاوت کر سکیں';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

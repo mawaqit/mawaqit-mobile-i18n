@@ -1953,5 +1953,8 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Värikoodattu tajwi•d säännöt, joiden avulla voit täsmällisesti kuvata';
+      'Värikoodattu tajwi- d säännöt oikeanlaiseen reseptiin';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

@@ -1950,5 +1950,8 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Oznaczone kolorami zasady tadżwidu, które pomagają recytować dokładnie';
+      'Zakodowane kolorami reguły tajwi<unk> dla poprawnej regeneracji';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

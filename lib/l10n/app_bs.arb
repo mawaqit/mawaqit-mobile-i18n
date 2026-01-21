@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "Kur’an Tadžvid",
-    "tajweed_description": "Pravila tadžvida označena bojama kako bi vam pomogla da učite tačno"
+    "tajweed_description": "Color-coded tajwīd rules for correct recitation",
+    "tajwid_rules": "Tajwid rules"
 }

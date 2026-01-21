@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "কুরআন তাজবীদ।",
-    "tajweed_description": "রঙের মাধ্যমে চিহ্নিত তাজবীদের নিয়ম, যাতে আপনি সঠিকভাবে তিলাওয়াত করতে পারেন।"
+    "tajweed_description": "Color-coded tajwīd rules for correct recitation",
+    "tajwid_rules": "Tajwid rules"
 }

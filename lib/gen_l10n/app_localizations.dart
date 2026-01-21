@@ -3817,6 +3817,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Color-coded tajwīd rules for correct recitation'**
   String get tajweed_description;
+
+  /// No description provided for @tajwid_rules.
+  ///
+  /// In en, this message translates to:
+  /// **'Tajwid rules'**
+  String get tajwid_rules;
 }
 
 class _AppLocalizationsDelegate

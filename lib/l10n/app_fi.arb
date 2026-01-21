@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "Qur’an Tajwīd",
-    "tajweed_description": "Värikoodattu tajwi•d säännöt, joiden avulla voit täsmällisesti kuvata"
+    "tajweed_description": "Värikoodattu tajwi- d säännöt oikeanlaiseen reseptiin",
+    "tajwid_rules": "Tajwid rules"
 }

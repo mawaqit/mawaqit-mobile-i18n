@@ -1956,5 +1956,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Színkódolt tadzsvíd-szabályok, hogy pontosan tudj recitálni';
+      'Color-coded tajwīd rules for correct recitation';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

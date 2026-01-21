@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "قرآنِ تجوید",
-    "tajweed_description": "قواعد تجویدِ رنگ‌بندی‌شده برای کمک به قرائت دقیق"
+    "tajweed_description": "قواعد تجویدِ رنگ‌بندی‌شده برای کمک به قرائت دقیق",
+    "tajwid_rules": "Tajwid rules"
 }

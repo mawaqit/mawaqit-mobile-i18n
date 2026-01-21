@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "Kur’an Tecvid",
-    "tajweed_description": "Renk kodlu tecvid kuralları, doğru okumanıza yardımcı olur"
+    "tajweed_description": "Color-coded tajwīd rules for correct recitation",
+    "tajwid_rules": "Tajwid rules"
 }

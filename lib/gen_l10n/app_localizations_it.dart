@@ -1967,5 +1967,8 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Regole di tajwīd codificate a colori per aiutarti a recitare con precisione';
+      'Regole tajwi<unk> d codificate a colori per una corretta recitazione';
+
+  @override
+  String get tajwid_rules => 'Tajwid rules';
 }

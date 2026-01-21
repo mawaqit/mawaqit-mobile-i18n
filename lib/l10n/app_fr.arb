@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "Coran Tajwīd",
-    "tajweed_description": "Règles de tajwīd codées par couleur pour une récitation correcte"
+    "tajweed_description": "Règles de tajwīd codées par couleur pour une récitation correcte",
+    "tajwid_rules": "Règles de Tajwid"
 }
