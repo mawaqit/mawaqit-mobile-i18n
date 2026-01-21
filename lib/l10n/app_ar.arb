@@ -1275,5 +1275,6 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "القرآن بالتجويد",
-    "tajweed_description": "أحكام التجويد مميّزة بالألوان لقراءةٍ صحيحة"
+    "tajweed_description": "أحكام التجويد مميّزة بالألوان لقراءةٍ صحيحة",
+    "tajwid_rules": "أحكام التجويد"
 }
