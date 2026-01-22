@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "Qur’an Tajwīd",
     "tajweed_description": "Color-coded tajwīd rules to help you recite accurately",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Examples"
 }
