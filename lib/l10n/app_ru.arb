@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "Коран: таджвид",
     "tajweed_description": "Правила правильной обработки таджвида с цветными кодами",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Примеры"
 }
