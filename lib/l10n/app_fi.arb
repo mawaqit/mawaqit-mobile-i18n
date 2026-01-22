@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "Qur’an Tajwīd",
     "tajweed_description": "Värikoodattu tajwi- d säännöt oikeanlaiseen reseptiin",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Esimerkkejä"
 }
