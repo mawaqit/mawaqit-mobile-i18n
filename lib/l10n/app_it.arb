@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "Corano Tajwīd",
     "tajweed_description": "Regole tajwi<unk> d codificate a colori per una corretta recitazione",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Esempi"
 }
