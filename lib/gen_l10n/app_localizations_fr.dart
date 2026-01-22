@@ -1979,4 +1979,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get tajwid_rules => 'Règles de Tajwid';
+
+  @override
+  String get examples => 'Exemples';
 }

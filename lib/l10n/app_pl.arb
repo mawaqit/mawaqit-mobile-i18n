@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "Koran Tajwīd",
     "tajweed_description": "Zakodowane kolorami reguły tajwi<unk> dla poprawnej regeneracji",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Przykłady"
 }

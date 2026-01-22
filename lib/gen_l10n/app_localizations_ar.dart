@@ -1929,4 +1929,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get tajwid_rules => 'أحكام التجويد';
+
+  @override
+  String get examples => 'أمثلة';
 }

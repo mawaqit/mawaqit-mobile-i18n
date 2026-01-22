@@ -1951,5 +1951,8 @@ class AppLocalizationsUg extends AppLocalizations {
       'رەڭ كودى قوشۇلغان تەجۋىد قائىدىسى توغرا يادلىشىڭىزغا ياردەم بېرىدۇ';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'تەجۋىد قائىدىسى';
+
+  @override
+  String get examples => 'Examples';
 }

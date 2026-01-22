@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "Koran Tajwīd",
     "tajweed_description": "Farbcodierte tajwi<unk> d Regeln für korrekte Rezitation",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Beispiele"
 }

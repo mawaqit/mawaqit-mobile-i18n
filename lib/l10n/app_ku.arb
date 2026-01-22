@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "قورئان (تەجوید)",
     "tajweed_description": "یاساکانی تەجوید بە ڕەنگەکان نیشانکراون بۆ ئەوەی یارمەتیت بدەن بە وردی تلاوەت بکەیت",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Examples"
 }

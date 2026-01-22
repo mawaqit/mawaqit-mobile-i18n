@@ -1276,5 +1276,6 @@
     },
     "quran_tajweed": "قرآنِ تجوید",
     "tajweed_description": "رنگوں سے نشان زد تجوید کے قواعد تاکہ آپ درستگی سے تلاوت کر سکیں",
-    "tajwid_rules": "Tajwid rules"
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Examples"
 }
