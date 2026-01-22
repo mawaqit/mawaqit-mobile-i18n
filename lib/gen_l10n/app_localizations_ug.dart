@@ -1952,4 +1952,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get tajwid_rules => 'تەجۋىد قائىدىسى';
+
+  @override
+  String get examples => 'Examples';
 }

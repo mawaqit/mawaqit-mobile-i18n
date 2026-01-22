@@ -1962,4 +1962,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get tajwid_rules => 'Tajwid rules';
+
+  @override
+  String get examples => 'Examples';
 }

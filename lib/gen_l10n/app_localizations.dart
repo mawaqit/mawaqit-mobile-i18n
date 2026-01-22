@@ -3823,6 +3823,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Tajwid rules'**
   String get tajwid_rules;
+
+  /// No description provided for @examples.
+  ///
+  /// In en, this message translates to:
+  /// **'Examples'**
+  String get examples;
 }
 
 class _AppLocalizationsDelegate
