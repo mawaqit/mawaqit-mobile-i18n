@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Koran Tajwīd",
     "tajweed_description": "Farbcodierte tajwi<unk> d Regeln für korrekte Rezitation",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Beispiele"
+    "examples": "Beispiele",
+    "real_time_weather": "Real-Time-Wetter",
+    "layout": "Layout",
+    "list": "Liste",
+    "grid": "Raster",
+    "real_time_weather_needs_internet": "Echtzeit-Wetter benötigt eine Internetverbindung, um Updates herunterzuladen.",
+    "view_detail": "Details anzeigen",
+    "customise": "Anpassen",
+    "temperature": "Temperatur",
+    "tahajjud_time": "Tahajjud Zeit"
 }
