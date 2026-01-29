@@ -1,5 +1,5 @@
 {
-    "@@locale": "si-LK",
+    "@@locale": "si",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Qur’an Tajwīd",
     "tajweed_description": "Color-coded tajwīd rules to help you recite accurately",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Examples"
+    "examples": "Examples",
+    "real_time_weather": "Real-Time Weather",
+    "layout": "Layout",
+    "list": "List",
+    "grid": "Grid",
+    "real_time_weather_needs_internet": "Real-time weather needs an internet connection to download updates.",
+    "view_detail": "View detail",
+    "customise": "Customise",
+    "temperature": "Temperature",
+    "tahajjud_time": "Tahajjud Time"
 }

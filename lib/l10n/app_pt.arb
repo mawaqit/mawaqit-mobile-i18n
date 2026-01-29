@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt-PT",
+    "@@locale": "pt",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Alcorão Tajwīd",
     "tajweed_description": "Regras de tajwīd codificadas por cores para ajudar você a recitar com precisão",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Exemplos"
+    "examples": "Exemplos",
+    "real_time_weather": "Tempo real",
+    "layout": "Disposição",
+    "list": "Lista",
+    "grid": "Grade",
+    "real_time_weather_needs_internet": "O tempo real precisa de uma conexão com a internet para baixar atualizações.",
+    "view_detail": "Ver detalhes",
+    "customise": "Personalizar",
+    "temperature": "Temperatura",
+    "tahajjud_time": "Hora Tahajjud"
 }

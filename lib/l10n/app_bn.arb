@@ -1277,5 +1277,14 @@
     "quran_tajweed": "কুরআন তাজবীদ।",
     "tajweed_description": "Color-coded tajwīd rules for correct recitation",
     "tajwid_rules": "Tajwid rules",
-    "examples": "উদাহরণসমূহ"
+    "examples": "উদাহরণসমূহ",
+    "real_time_weather": "রিয়েল-টাইম আবহাওয়া",
+    "layout": "লেআউট",
+    "list": "তালিকা",
+    "grid": "গ্রিড",
+    "real_time_weather_needs_internet": "রিয়েল-টাইম আবহাওয়ার আপডেট পেতে ইন্টারনেট সংযোগ প্রয়োজন।.",
+    "view_detail": "View detail",
+    "customise": "কাস্টমাইজ করুন",
+    "temperature": "তাপমাত্রা",
+    "tahajjud_time": "তাহাজ্জুদের সময়"
 }

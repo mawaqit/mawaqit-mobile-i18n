@@ -1962,4 +1962,32 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get examples => 'Examples';
+
+  @override
+  String get real_time_weather => 'کەشوهەوای ڕاستەوخ';
+
+  @override
+  String get layout => 'ڕێکخستن';
+
+  @override
+  String get list => 'لیست';
+
+  @override
+  String get grid => 'تۆڕ';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'بۆ داگرتنی نوێکردنەوەکان، کەشوهەوای ڕاستەوخۆ پێویستی بە پەیوەندی ئینتەرنێت هەیە.';
+
+  @override
+  String get view_detail => 'وردەکاری ببینە';
+
+  @override
+  String get customise => 'تایبەت بکە';
+
+  @override
+  String get temperature => 'پلەی گەرمی';
+
+  @override
+  String get tahajjud_time => 'کاتی تەهەجود';
 }

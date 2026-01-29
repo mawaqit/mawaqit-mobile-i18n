@@ -1959,4 +1959,32 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get examples => 'Exempel';
+
+  @override
+  String get real_time_weather => 'Realtid väder';
+
+  @override
+  String get layout => 'Layout';
+
+  @override
+  String get list => 'Lista';
+
+  @override
+  String get grid => 'Rutnät';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'Realtidsväder behöver en internetanslutning för att ladda ner uppdateringar.';
+
+  @override
+  String get view_detail => 'Visa detaljer';
+
+  @override
+  String get customise => 'Anpassa';
+
+  @override
+  String get temperature => 'Temperatur';
+
+  @override
+  String get tahajjud_time => 'Tahajjud Tid';
 }

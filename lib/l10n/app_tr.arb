@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Kur’an Tecvid",
     "tajweed_description": "Color-coded tajwīd rules for correct recitation",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Örnekler"
+    "examples": "Örnekler",
+    "real_time_weather": "Gerçek Zamanlı Hava Durumu",
+    "layout": "Layout",
+    "list": "Liste",
+    "grid": "Izgara",
+    "real_time_weather_needs_internet": "Gerçek zamanlı hava durumu güncellemeleri indirmek için internet bağlantısı gereklidir.",
+    "view_detail": "Detayı Görüntüle",
+    "customise": "Özelleştir",
+    "temperature": "Sıcaklık",
+    "tahajjud_time": "Teheccüd Vakti"
 }

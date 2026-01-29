@@ -1961,4 +1961,32 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get examples => 'Contoh';
+
+  @override
+  String get real_time_weather => 'Real-Time Weather';
+
+  @override
+  String get layout => 'Layout';
+
+  @override
+  String get list => 'List';
+
+  @override
+  String get grid => 'Grid';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'Real-time weather needs an internet connection to download updates.';
+
+  @override
+  String get view_detail => 'View detail';
+
+  @override
+  String get customise => 'Customise';
+
+  @override
+  String get temperature => 'Temperature';
+
+  @override
+  String get tahajjud_time => 'Tahajjud Time';
 }

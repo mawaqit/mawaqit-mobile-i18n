@@ -1957,4 +1957,32 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get examples => 'Przykłady';
+
+  @override
+  String get real_time_weather => 'Pogoda w czasie rzeczywistym';
+
+  @override
+  String get layout => 'Układ';
+
+  @override
+  String get list => 'Lista';
+
+  @override
+  String get grid => 'Siatka';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'Pogoda w czasie rzeczywistym potrzebuje połączenia internetowego do pobrania aktualizacji.';
+
+  @override
+  String get view_detail => 'Zobacz szczegóły';
+
+  @override
+  String get customise => 'Dostosuj';
+
+  @override
+  String get temperature => 'Temperatura';
+
+  @override
+  String get tahajjud_time => 'Czas Tahajjud';
 }

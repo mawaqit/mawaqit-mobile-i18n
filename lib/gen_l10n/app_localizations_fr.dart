@@ -1982,4 +1982,32 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get examples => 'Exemples';
+
+  @override
+  String get real_time_weather => 'Météo en temps réel';
+
+  @override
+  String get layout => 'Mise en page';
+
+  @override
+  String get list => 'Liste';
+
+  @override
+  String get grid => 'Grille';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'La météo en temps réel nécessite une connexion Internet pour télécharger les mises à jour.';
+
+  @override
+  String get view_detail => 'Voir les détails';
+
+  @override
+  String get customise => 'Personnaliser';
+
+  @override
+  String get temperature => 'Température';
+
+  @override
+  String get tahajjud_time => 'Heure de Tahajjud';
 }

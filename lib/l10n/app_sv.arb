@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv-SE",
+    "@@locale": "sv",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Qur’an Tajwīd",
     "tajweed_description": "Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Exempel"
+    "examples": "Exempel",
+    "real_time_weather": "Realtid väder",
+    "layout": "Layout",
+    "list": "Lista",
+    "grid": "Rutnät",
+    "real_time_weather_needs_internet": "Realtidsväder behöver en internetanslutning för att ladda ner uppdateringar.",
+    "view_detail": "Visa detaljer",
+    "customise": "Anpassa",
+    "temperature": "Temperatur",
+    "tahajjud_time": "Tahajjud Tid"
 }

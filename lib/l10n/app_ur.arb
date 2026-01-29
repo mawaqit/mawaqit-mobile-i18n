@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur-PK",
+    "@@locale": "ur",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1277,5 +1277,14 @@
     "quran_tajweed": "قرآنِ تجوید",
     "tajweed_description": "رنگوں سے نشان زد تجوید کے قواعد تاکہ آپ درستگی سے تلاوت کر سکیں",
     "tajwid_rules": "Tajwid rules",
-    "examples": "مثالیں"
+    "examples": "مثالیں",
+    "real_time_weather": "حقیقی وقت کا موسم",
+    "layout": "لےآؤٹ",
+    "list": "فہرست",
+    "grid": "گرڈ",
+    "real_time_weather_needs_internet": "حقیقی وقت کے موسم کی تازہ معلومات حاصل کرنے کے لیے انٹرنیٹ کنکشن ضروری ہے.",
+    "view_detail": "تفصیل دیکھیں",
+    "customise": "حسبِ ضرورت ترتیب دیں",
+    "temperature": "درجہ حرارت",
+    "tahajjud_time": "تہجد کا وقت"
 }

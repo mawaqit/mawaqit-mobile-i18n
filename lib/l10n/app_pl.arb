@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Koran Tajwīd",
     "tajweed_description": "Zakodowane kolorami reguły tajwi<unk> dla poprawnej regeneracji",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Przykłady"
+    "examples": "Przykłady",
+    "real_time_weather": "Pogoda w czasie rzeczywistym",
+    "layout": "Układ",
+    "list": "Lista",
+    "grid": "Siatka",
+    "real_time_weather_needs_internet": "Pogoda w czasie rzeczywistym potrzebuje połączenia internetowego do pobrania aktualizacji.",
+    "view_detail": "Zobacz szczegóły",
+    "customise": "Dostosuj",
+    "temperature": "Temperatura",
+    "tahajjud_time": "Czas Tahajjud"
 }

@@ -1,5 +1,5 @@
 {
-    "@@locale": "ckb",
+    "@@locale": "ku",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1277,5 +1277,14 @@
     "quran_tajweed": "قورئان (تەجوید)",
     "tajweed_description": "یاساکانی تەجوید بە ڕەنگەکان نیشانکراون بۆ ئەوەی یارمەتیت بدەن بە وردی تلاوەت بکەیت",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Examples"
+    "examples": "Examples",
+    "real_time_weather": "کەشوهەوای ڕاستەوخ",
+    "layout": "ڕێکخستن",
+    "list": "لیست",
+    "grid": "تۆڕ",
+    "real_time_weather_needs_internet": "بۆ داگرتنی نوێکردنەوەکان، کەشوهەوای ڕاستەوخۆ پێویستی بە پەیوەندی ئینتەرنێت هەیە.",
+    "view_detail": "وردەکاری ببینە",
+    "customise": "تایبەت بکە",
+    "temperature": "پلەی گەرمی",
+    "tahajjud_time": "کاتی تەهەجود"
 }

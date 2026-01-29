@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Qur’an Tajwīd",
     "tajweed_description": "Värikoodattu tajwi- d säännöt oikeanlaiseen reseptiin",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Esimerkkejä"
+    "examples": "Esimerkkejä",
+    "real_time_weather": "Reaaliaikainen Sää",
+    "layout": "Asettelu",
+    "list": "Lista",
+    "grid": "Ruudukko",
+    "real_time_weather_needs_internet": "Reaaliaikainen sää tarvitsee internet-yhteyden lataamaan päivityksiä.",
+    "view_detail": "Näytä tiedot",
+    "customise": "Mukauta",
+    "temperature": "Lämpötila",
+    "tahajjud_time": "Tahajjudin Aika"
 }

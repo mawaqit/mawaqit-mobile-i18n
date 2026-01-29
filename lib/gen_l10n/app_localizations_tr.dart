@@ -1951,4 +1951,32 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get examples => 'Örnekler';
+
+  @override
+  String get real_time_weather => 'Gerçek Zamanlı Hava Durumu';
+
+  @override
+  String get layout => 'Layout';
+
+  @override
+  String get list => 'Liste';
+
+  @override
+  String get grid => 'Izgara';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'Gerçek zamanlı hava durumu güncellemeleri indirmek için internet bağlantısı gereklidir.';
+
+  @override
+  String get view_detail => 'Detayı Görüntüle';
+
+  @override
+  String get customise => 'Özelleştir';
+
+  @override
+  String get temperature => 'Sıcaklık';
+
+  @override
+  String get tahajjud_time => 'Teheccüd Vakti';
 }
