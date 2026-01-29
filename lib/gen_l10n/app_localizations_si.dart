@@ -1823,7 +1823,7 @@ class AppLocalizationsSi extends AppLocalizations {
       'උතුරු සහ බටහිර ආප්‍රිකාවේ ජනප්‍රිය';
 
   @override
-  String get select => 'Select';
+  String get select => 'เลือก';
 
   @override
   String get unknown_smartwatch => 'නොදන්නා ස්මාර්ට් ඔරලෝසුව';
@@ -1838,85 +1838,83 @@ class AppLocalizationsSi extends AppLocalizations {
   String get transliteration => 'ට්‍රාන්ස්ලිතරේෂන්';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'เน้นเวลาตะฮัจญุด';
 
   @override
-  String get calendar_access_not_available =>
-      'Calendar access is not available.';
+  String get calendar_access_not_available => 'ไม่สามารถเข้าถึงปฏิทินได้';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'กรุณาอนุญาตให้เข้าถึงปฏิทินเพื่อแสดงกิจกรรมของคุณใน MAWAQIT 360';
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'ต้องอนุญาตให้เข้าถึงปฏิทินเพื่อแสดงกิจกรรมของคุณ';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'อนุญาตให้เข้าถึงปฏิทิน';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'กำลังโหลดปฏิทิน…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'เลือกปฏิทินที่ต้องการแสดงบน MAWAQIT 360';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'เปิดใช้งานทั้งหมด';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'ปิดการใช้งานทั้งหมด';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'ปฏิทินอื่น ๆ';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'เวลาที่แสดงใน';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'เริ่มต้น';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'สิ้นสุด';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'มีกิจกรรมในเวลานี้';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app => 'เปิดมัสยิดนี้ในแอป MAWAQIT';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'ชื่อมัสยิด';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'ไม่พบมัสยิด';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'ลิงก์มัสยิดไม่ถูกต้อง';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'ไม่สามารถเปิดลิงก์มัสยิดนี้ได้ กรุณาลองใหม่อีกครั้ง';
 
   @override
-  String get no_calendars_on_this_device =>
-      'No calendars found on this device.';
+  String get no_calendars_on_this_device => 'ไม่มีปฏิทินในอุปกรณ์นี้';
 
   @override
-  String get calendar_event_at_this_time => 'Event at this time';
+  String get calendar_event_at_this_time => 'มีกิจกรรมในเวลานี้';
 
   @override
-  String get search_ayah_surah => 'Search by Ayah or Surah';
+  String get search_ayah_surah => 'ค้นหาด้วยอายะฮ์หรือซูเราะห์';
 
   @override
-  String get matching_surahs => 'Matching Surahs';
+  String get matching_surahs => 'ซูเราะห์ที่พบ';
 
   @override
-  String get matching_ayahs => 'Matching Ayahs';
+  String get matching_ayahs => 'อายะฮ์ที่พบ';
 
   @override
   String get live_timer => 'සජීවී ටයිමරය';
@@ -1926,66 +1924,69 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get take_time_appear_watch =>
-      'It may take a few seconds to appear on your watch.';
+      'อาจใช้เวลาสักครู่ในการปรากฏบนสมาร์ทวอทช์ของคุณ';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'อีด';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'ซ่อน Live Activity สำหรับละหมาดนี้เท่านั้น';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'เปิด Live Activity ตลอดเวลา';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'Live Activities จะแสดงบนหน้าล็อคและ Dynamic Island (ถ้ามี) แตะไอคอนนาฬิกาที่หน้าหลักเพื่อเปิด/ปิดฟีเจอร์นี้ เมื่อเปิดแล้ว การแจ้งเตือนจะอยู่บนหน้าจอตลอดเวลาพร้อมตัวจับเวลาจนถึงละหมาดถัดไป';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'การตั้งค่า';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'อัซการ์';
 
   @override
-  String get quran_tajweed => 'Qur’an Tajwīd';
+  String get quran_tajweed => 'อัลกุรอาน ตัจวีด';
 
   @override
   String get tajweed_description =>
       'Color-coded tajwīd rules to help you recite accurately';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'กฎตัจวีด';
 
   @override
-  String get examples => 'Examples';
+  String get examples => 'ตัวอย่าง';
 
   @override
-  String get real_time_weather => 'Real-Time Weather';
+  String get real_time_weather => 'สภาพอากาศเรียลไทม์';
 
   @override
-  String get layout => 'Layout';
+  String get layout => 'รูปแบบ';
 
   @override
-  String get list => 'List';
+  String get list => 'รายการ';
 
   @override
-  String get grid => 'Grid';
+  String get grid => 'ตาราง';
 
   @override
   String get real_time_weather_needs_internet =>
-      'Real-time weather needs an internet connection to download updates.';
+      'ต้องเชื่อมต่ออินเทอร์เน็ตเพื่ออัปเดตสภาพอากาศเรียลไทม์';
 
   @override
-  String get view_detail => 'View detail';
+  String get view_detail => 'ดูรายละเอียด';
 
   @override
-  String get customise => 'Customise';
+  String get customise => 'ปรับแต่ง';
 
   @override
-  String get temperature => 'Temperature';
+  String get temperature => 'อุณหภูมิ';
 
   @override
-  String get tahajjud_time => 'Tahajjud Time';
+  String get tahajjud_time => 'เวลาตะฮัจญุด';
+
+  @override
+  String get midnight => 'Minuit';
 }

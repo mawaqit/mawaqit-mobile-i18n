@@ -1990,4 +1990,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'کاتی تەهەجود';
+
+  @override
+  String get midnight => 'Midnight';
 }

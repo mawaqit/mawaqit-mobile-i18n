@@ -1814,7 +1814,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Kuzey ve Batı Afrika’da yaygındır';
 
   @override
-  String get select => 'Select';
+  String get select => 'Seleccionar';
 
   @override
   String get unknown_smartwatch => 'Bilinmeyen akıllı saat';
@@ -1840,7 +1840,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'El acceso al calendario es necesario para mostrar tus eventos.';
 
   @override
   String get calendar_allow_access_button => 'Takvim erişimine izin ver';
@@ -1859,7 +1859,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get calendar_disable_all => 'Hepsini Devre Dışı Bırak';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'Otros calendarios';
 
   @override
   String get calendar_times_shown_in =>
@@ -1878,24 +1878,25 @@ class AppLocalizationsTr extends AppLocalizations {
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app =>
+      'Abrir esta mezquita en la aplicación MAWAQIT';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'Nombre de la mezquita';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'Mezquita no encontrada';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'Enlace de mezquita inválido';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'No se pudo abrir el enlace de esta mezquita. Por favor, inténtalo de nuevo.';
 
   @override
   String get no_calendars_on_this_device =>
-      'No calendars found on this device.';
+      'No se encontraron calendarios en este dispositivo.';
 
   @override
   String get calendar_event_at_this_time => 'Bu zamandaki etkinlik';
@@ -1934,7 +1935,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'Configuración';
 
   @override
   String get azkar => 'Zikirler';
@@ -1944,10 +1945,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules for correct recitation';
+      'Reglas de tajwīd codificadas por colores para una recitación correcta';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'Reglas de tajwīd';
 
   @override
   String get examples => 'Örnekler';
@@ -1956,7 +1957,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get real_time_weather => 'Gerçek Zamanlı Hava Durumu';
 
   @override
-  String get layout => 'Layout';
+  String get layout => 'Diseño';
 
   @override
   String get list => 'Liste';
@@ -1979,4 +1980,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Teheccüd Vakti';
+
+  @override
+  String get midnight => 'Minuit';
 }

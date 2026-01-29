@@ -1826,7 +1826,7 @@ class AppLocalizationsHu extends AppLocalizations {
       'Népszerű Észak- és Nyugat-Afrikában';
 
   @override
-  String get select => 'Select';
+  String get select => 'Válasszon';
 
   @override
   String get unknown_smartwatch => 'Ismeretlen okosóra';
@@ -1841,85 +1841,85 @@ class AppLocalizationsHu extends AppLocalizations {
   String get transliteration => 'Transzliteráció';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'Tahajjud idő kiemelése';
 
   @override
-  String get calendar_access_not_available =>
-      'Calendar access is not available.';
+  String get calendar_access_not_available => 'A naptár elérés nem elérhető.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'Kérjük, engedélyezze a naptár hozzáférést, hogy eseményei megjelenjenek a MAWAQIT 360-ban.';
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'Naptár hozzáférés szükséges az események megjelenítéséhez.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'Naptár hozzáférés engedélyezése';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'Naptárak betöltése…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'Válassza ki, mely naptárakat szeretné megjeleníteni a MAWAQIT 360-ban.';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'Összes engedélyezése';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'Összes letiltása';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'Egyéb naptárak';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'Az időpontok megjelenítése ebben:';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'Kezdete:';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'Vége:';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'Események ebben az időpontban';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app =>
+      'Nyissa meg ezt a mecsetet a MAWAQIT alkalmazásban';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'Mecset neve';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'Mecset nem található';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'Érvénytelen mecsethivatkozás';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'Nem sikerült megnyitni ezt a mecset hivatkozást. Kérjük, próbálja meg újra.';
 
   @override
   String get no_calendars_on_this_device =>
-      'No calendars found on this device.';
+      'Nem található naptár ezen az eszközön.';
 
   @override
-  String get calendar_event_at_this_time => 'Event at this time';
+  String get calendar_event_at_this_time => 'Esemény ebben az időpontban';
 
   @override
-  String get search_ayah_surah => 'Search by Ayah or Surah';
+  String get search_ayah_surah => 'Keresés ája vagy szúra szerint';
 
   @override
-  String get matching_surahs => 'Matching Surahs';
+  String get matching_surahs => 'Megfelelő szúrák';
 
   @override
-  String get matching_ayahs => 'Matching Ayahs';
+  String get matching_ayahs => 'Megfelelő áják';
 
   @override
   String get live_timer => 'Élő időzítő';
@@ -1929,66 +1929,69 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get take_time_appear_watch =>
-      'It may take a few seconds to appear on your watch.';
+      'Néhány másodpercbe telhet, amíg megjelenik az óráján.';
 
   @override
   String get eid1 => 'Eid';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'Élő tevékenység elrejtése csak ehhez az imához';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'Élő tevékenység mindig bekapcsolva';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'Az élő tevékenységek megjelennek a zárolási képernyőn és a Dinamikus Szigeten (ha támogatott). A főképernyőn koppintson az óra ikonra a funkció be- vagy kikapcsolásához. Bekapcsolva a figyelmeztetés mindig látható marad az időzítővel a következő imáig.';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'Beállítások';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'Azkár';
 
   @override
   String get quran_tajweed => 'Korán Tadzsvíd';
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules for correct recitation';
+      'Színkódolt tadzsíd-szabályok a helyes recitáláshoz';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'Tadzsíd szabályok';
 
   @override
-  String get examples => 'Examples';
+  String get examples => 'Példák';
 
   @override
-  String get real_time_weather => 'Real-Time Weather';
+  String get real_time_weather => 'Valós idejű időjárás';
 
   @override
-  String get layout => 'Layout';
+  String get layout => 'Elrendezés';
 
   @override
-  String get list => 'List';
+  String get list => 'Lista';
 
   @override
-  String get grid => 'Grid';
+  String get grid => 'Rács';
 
   @override
   String get real_time_weather_needs_internet =>
-      'Real-time weather needs an internet connection to download updates.';
+      'A valós idejű időjárás internetkapcsolatot igényel a frissítések letöltéséhez.';
 
   @override
-  String get view_detail => 'View detail';
+  String get view_detail => 'Részletek megtekintése';
 
   @override
-  String get customise => 'Customise';
+  String get customise => 'Testreszabás';
 
   @override
-  String get temperature => 'Temperature';
+  String get temperature => 'Hőmérséklet';
 
   @override
-  String get tahajjud_time => 'Tahajjud Time';
+  String get tahajjud_time => 'Tahajjud idő';
+
+  @override
+  String get midnight => 'Tengah Malam';
 }

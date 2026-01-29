@@ -2003,4 +2003,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Hora Tahajjud';
+
+  @override
+  String get midnight => 'Tengah Malam';
 }

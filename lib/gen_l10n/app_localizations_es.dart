@@ -1980,30 +1980,33 @@ class AppLocalizationsEs extends AppLocalizations {
   String get examples => 'Ejemplos';
 
   @override
-  String get real_time_weather => 'Tiempo real';
+  String get real_time_weather => 'Real-Time Weather';
 
   @override
-  String get layout => 'Diseño';
+  String get layout => 'Layout';
 
   @override
-  String get list => 'Lista';
+  String get list => 'List';
 
   @override
-  String get grid => 'Rejilla';
+  String get grid => 'Grid';
 
   @override
   String get real_time_weather_needs_internet =>
-      'El tiempo real necesita una conexión a Internet para descargar actualizaciones.';
+      'Real-time weather needs an internet connection to download updates.';
 
   @override
-  String get view_detail => 'Ver detalle';
+  String get view_detail => 'View detail';
 
   @override
-  String get customise => 'Personalizar';
+  String get customise => 'Customise';
 
   @override
-  String get temperature => 'Temperatura';
+  String get temperature => 'Temperature';
 
   @override
-  String get tahajjud_time => 'Tiempo Tahajjud';
+  String get tahajjud_time => 'Tahajjud Time';
+
+  @override
+  String get midnight => 'Midnight';
 }

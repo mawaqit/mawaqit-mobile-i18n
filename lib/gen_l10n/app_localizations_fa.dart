@@ -1985,4 +1985,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Tahajjud Time';
+
+  @override
+  String get midnight => 'Midnight';
 }
