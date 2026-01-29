@@ -1932,4 +1932,32 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get examples => 'أمثلة';
+
+  @override
+  String get real_time_weather => 'الطقس في الوقت الحقيقي';
+
+  @override
+  String get layout => 'تخطيط';
+
+  @override
+  String get list => 'قائمة';
+
+  @override
+  String get grid => 'الشبكة';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'الطقس في الوقت الحقيقي يحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.';
+
+  @override
+  String get view_detail => 'عرض التفاصيل';
+
+  @override
+  String get customise => 'تخصيص';
+
+  @override
+  String get temperature => 'درجة';
+
+  @override
+  String get tahajjud_time => 'وقت تاجاجود';
 }

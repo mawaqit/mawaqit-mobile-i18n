@@ -1972,4 +1972,32 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get examples => 'Voorbeelden';
+
+  @override
+  String get real_time_weather => 'Real-Time Weer';
+
+  @override
+  String get layout => 'Indeling';
+
+  @override
+  String get list => 'Klantenlijst';
+
+  @override
+  String get grid => 'Rooster';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'Real-time weer heeft een internetverbinding nodig om updates te downloaden.';
+
+  @override
+  String get view_detail => 'Details bekijken';
+
+  @override
+  String get customise => 'Aanpassen';
+
+  @override
+  String get temperature => 'Temperatuur';
+
+  @override
+  String get tahajjud_time => 'Tijd Tahajjud';
 }

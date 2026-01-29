@@ -1960,4 +1960,32 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get examples => 'Esimerkkejä';
+
+  @override
+  String get real_time_weather => 'Reaaliaikainen Sää';
+
+  @override
+  String get layout => 'Asettelu';
+
+  @override
+  String get list => 'Lista';
+
+  @override
+  String get grid => 'Ruudukko';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'Reaaliaikainen sää tarvitsee internet-yhteyden lataamaan päivityksiä.';
+
+  @override
+  String get view_detail => 'Näytä tiedot';
+
+  @override
+  String get customise => 'Mukauta';
+
+  @override
+  String get temperature => 'Lämpötila';
+
+  @override
+  String get tahajjud_time => 'Tahajjudin Aika';
 }

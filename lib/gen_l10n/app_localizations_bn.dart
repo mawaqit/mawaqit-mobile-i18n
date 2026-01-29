@@ -1961,4 +1961,32 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get examples => 'উদাহরণসমূহ';
+
+  @override
+  String get real_time_weather => 'রিয়েল-টাইম আবহাওয়া';
+
+  @override
+  String get layout => 'লেআউট';
+
+  @override
+  String get list => 'তালিকা';
+
+  @override
+  String get grid => 'গ্রিড';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'রিয়েল-টাইম আবহাওয়ার আপডেট পেতে ইন্টারনেট সংযোগ প্রয়োজন।.';
+
+  @override
+  String get view_detail => 'View detail';
+
+  @override
+  String get customise => 'কাস্টমাইজ করুন';
+
+  @override
+  String get temperature => 'তাপমাত্রা';
+
+  @override
+  String get tahajjud_time => 'তাহাজ্জুদের সময়';
 }

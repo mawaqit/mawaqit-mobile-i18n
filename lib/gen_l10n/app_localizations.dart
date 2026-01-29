@@ -3829,6 +3829,60 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Examples'**
   String get examples;
+
+  /// No description provided for @real_time_weather.
+  ///
+  /// In en, this message translates to:
+  /// **'Real-Time Weather'**
+  String get real_time_weather;
+
+  /// No description provided for @layout.
+  ///
+  /// In en, this message translates to:
+  /// **'Layout'**
+  String get layout;
+
+  /// No description provided for @list.
+  ///
+  /// In en, this message translates to:
+  /// **'List'**
+  String get list;
+
+  /// No description provided for @grid.
+  ///
+  /// In en, this message translates to:
+  /// **'Grid'**
+  String get grid;
+
+  /// No description provided for @real_time_weather_needs_internet.
+  ///
+  /// In en, this message translates to:
+  /// **'Real-time weather needs an internet connection to download updates.'**
+  String get real_time_weather_needs_internet;
+
+  /// No description provided for @view_detail.
+  ///
+  /// In en, this message translates to:
+  /// **'View detail'**
+  String get view_detail;
+
+  /// No description provided for @customise.
+  ///
+  /// In en, this message translates to:
+  /// **'Customise'**
+  String get customise;
+
+  /// No description provided for @temperature.
+  ///
+  /// In en, this message translates to:
+  /// **'Temperature'**
+  String get temperature;
+
+  /// No description provided for @tahajjud_time.
+  ///
+  /// In en, this message translates to:
+  /// **'Tahajjud Time'**
+  String get tahajjud_time;
 }
 
 class _AppLocalizationsDelegate

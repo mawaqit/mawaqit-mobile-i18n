@@ -1958,4 +1958,32 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get examples => 'مثالیں';
+
+  @override
+  String get real_time_weather => 'حقیقی وقت کا موسم';
+
+  @override
+  String get layout => 'لےآؤٹ';
+
+  @override
+  String get list => 'فہرست';
+
+  @override
+  String get grid => 'گرڈ';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'حقیقی وقت کے موسم کی تازہ معلومات حاصل کرنے کے لیے انٹرنیٹ کنکشن ضروری ہے.';
+
+  @override
+  String get view_detail => 'تفصیل دیکھیں';
+
+  @override
+  String get customise => 'حسبِ ضرورت ترتیب دیں';
+
+  @override
+  String get temperature => 'درجہ حرارت';
+
+  @override
+  String get tahajjud_time => 'تہجد کا وقت';
 }

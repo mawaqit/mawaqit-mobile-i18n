@@ -1960,4 +1960,32 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get examples => 'Примеры';
+
+  @override
+  String get real_time_weather => 'Погода в реальном времени';
+
+  @override
+  String get layout => 'Макет';
+
+  @override
+  String get list => 'Список';
+
+  @override
+  String get grid => 'Сетка';
+
+  @override
+  String get real_time_weather_needs_internet =>
+      'Для загрузки обновлений в реальном времени требуется подключение к Интернету.';
+
+  @override
+  String get view_detail => 'Просмотр деталей';
+
+  @override
+  String get customise => 'Настроить';
+
+  @override
+  String get temperature => 'Температура';
+
+  @override
+  String get tahajjud_time => 'Время Тахаджджуда';
 }
