@@ -351,7 +351,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get services => 'Servizi';
 
   @override
-  String get share => 'Condividere';
+  String get share => 'Condividi';
 
   @override
   String get itinerary => 'Itinerario';
@@ -1851,7 +1851,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get transliteration => 'Traslitterazione';
 
   @override
-  String get highlight_Tahajjud_Time => 'Evidenzia Tahajjud Ora';
+  String get highlight_Tahajjud_Time => 'Evidenzia L\'ora Del Tahajjud';
 
   @override
   String get calendar_access_not_available =>
@@ -1914,7 +1914,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get not_open_mosque_link =>
-      'Impossibile aprire questo link della moschea. Per favore riprova.';
+      'Impossibile aprire il link di questa moschea. Per favore riprova.';
 
   @override
   String get no_calendars_on_this_device =>
@@ -1924,7 +1924,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get calendar_event_at_this_time => 'Evento in questo momento';
 
   @override
-  String get search_ayah_surah => 'Cerca per versetto o sura';
+  String get search_ayah_surah => 'Cerca per versetto o surah';
 
   @override
   String get matching_surahs => 'Surah Corrispondenti';
@@ -1963,7 +1963,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get azkar => 'Azkar';
 
   @override
-  String get quran_tajweed => 'Corano Tajwīd';
+  String get quran_tajweed => 'Qur’an Tajwīd';
 
   @override
   String get tajweed_description =>
