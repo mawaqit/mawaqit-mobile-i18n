@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1287,5 +1287,6 @@
     "customise": "Personalizar",
     "temperature": "Temperatura",
     "tahajjud_time": "Hora Tahajjud",
-    "midnight": "Tengah Malam"
+    "last_third": "Último terço",
+    "midnight": "Meia-noite"
 }
