@@ -1287,5 +1287,6 @@
     "customise": "Özelleştir",
     "temperature": "Sıcaklık",
     "tahajjud_time": "Teheccüd Vakti",
-    "midnight": "Minuit"
+    "last_third": "Son üçte bir",
+    "midnight": "Gece Yarısı"
 }
