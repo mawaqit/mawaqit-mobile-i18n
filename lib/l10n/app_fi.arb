@@ -1287,5 +1287,6 @@
     "customise": "Mukauta",
     "temperature": "Lämpötila",
     "tahajjud_time": "Tahajjudin Aika",
-    "midnight": "Tengah Malam"
+    "last_third": "Viimeinen kolmannes",
+    "midnight": "Keskiyö"
 }
