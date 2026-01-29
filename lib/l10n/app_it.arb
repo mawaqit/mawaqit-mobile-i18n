@@ -271,7 +271,7 @@
     "add_this_mosque": "Aggiungi questa moschea",
     "remove_this_mosque": "Rimuovi questa moschea",
     "services": "Servizi",
-    "share": "Condividere",
+    "share": "Condividi",
     "itinerary": "Itinerario",
     "call": "Chiama",
     "dnd": "Non disturbare",
@@ -1210,7 +1210,7 @@
     "connected_watch": "Orologio connesso",
     "ready_play_watch": "è pronto per la riproduzione sul tuo orologio",
     "transliteration": "Traslitterazione",
-    "highlight_Tahajjud_Time": "Evidenzia Tahajjud Ora",
+    "highlight_Tahajjud_Time": "Evidenzia L'ora Del Tahajjud",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
@@ -1235,13 +1235,13 @@
     "mosque_name": "Nome della moschea",
     "mosque_not_found": "Moschea non trovata",
     "invalid_mosque_link": "Link moschea non valido",
-    "not_open_mosque_link": "Impossibile aprire questo link della moschea. Per favore riprova.",
+    "not_open_mosque_link": "Impossibile aprire il link di questa moschea. Per favore riprova.",
     "no_calendars_on_this_device": "Nessun calendario trovato su questo dispositivo.",
     "calendar_event_at_this_time": "Evento in questo momento",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Cerca per versetto o sura",
+    "search_ayah_surah": "Cerca per versetto o surah",
     "matching_surahs": "Surah Corrispondenti",
     "matching_ayahs": "Ayah Corrispondenti",
     "live_timer": "Timer in tempo reale",
@@ -1274,7 +1274,7 @@
     "@azkar": {
         "description": "-> azkar"
     },
-    "quran_tajweed": "Corano Tajwīd",
+    "quran_tajweed": "Qur’an Tajwīd",
     "tajweed_description": "Regole tajwi<unk> d codificate a colori per una corretta recitazione",
     "tajwid_rules": "Tajwid rules",
     "examples": "Esempi"

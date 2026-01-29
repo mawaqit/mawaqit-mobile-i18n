@@ -1950,5 +1950,5 @@ class AppLocalizationsTr extends AppLocalizations {
   String get tajwid_rules => 'Tajwid rules';
 
   @override
-  String get examples => 'Examples';
+  String get examples => 'Örnekler';
 }
