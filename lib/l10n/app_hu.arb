@@ -1287,5 +1287,6 @@
     "customise": "Testreszabás",
     "temperature": "Hőmérséklet",
     "tahajjud_time": "Tahajjud idő",
-    "midnight": "Tengah Malam"
+    "last_third": "Utolsó harmad",
+    "midnight": "Éjfél"
 }
