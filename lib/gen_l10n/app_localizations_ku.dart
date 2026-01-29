@@ -1839,7 +1839,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get transliteration => 'وەرگێڕان';
 
   @override
-  String get highlight_Tahajjud_Time => 'تیشکبخەرە سەر کاتی تەجوید';
+  String get highlight_Tahajjud_Time => 'Dema Teheccûdê';
 
   @override
   String get calendar_access_not_available =>
