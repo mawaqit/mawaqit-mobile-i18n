@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Koran Tajwīd",
     "tajweed_description": "Gekleurde tajbreedde regels voor correcte recitatie",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Voorbeelden"
+    "examples": "Voorbeelden",
+    "real_time_weather": "Real-Time Weer",
+    "layout": "Indeling",
+    "list": "Klantenlijst",
+    "grid": "Rooster",
+    "real_time_weather_needs_internet": "Real-time weer heeft een internetverbinding nodig om updates te downloaden.",
+    "view_detail": "Details bekijken",
+    "customise": "Aanpassen",
+    "temperature": "Temperatuur",
+    "tahajjud_time": "Tijd Tahajjud"
 }
