@@ -1824,7 +1824,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Weit verbreitet in Nord- und Westafrika';
 
   @override
-  String get select => 'Select';
+  String get select => 'Odaberi';
 
   @override
   String get unknown_smartwatch => 'Nepoznati pametni sat';
@@ -1839,85 +1839,85 @@ class AppLocalizationsBs extends AppLocalizations {
   String get transliteration => 'Transliteracija';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'Istakni vrijeme Tahajjud-namaza';
 
   @override
   String get calendar_access_not_available =>
-      'Calendar access is not available.';
+      'Pristup kalendaru nije dostupan.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'Dozvolite pristup kalendaru kako biste prikazali svoje događaje na MAWAQIT 360.';
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'Pristup kalendaru je potreban za prikaz vaših događaja.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'Dozvoli pristup kalendaru';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'Učitavanje kalendara…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'Odaberite kalendare koje želite prikazati na MAWAQIT 360.';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'Omogući sve';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'Onemogući sve';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'Ostali kalendari';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'Vremena prikazana u';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'Počinje';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'Završava';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'Događaji u ovom terminu';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app => 'Otvori ovu džamiju u MAWAQIT aplikaciji';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'Naziv džamije';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'Džamija nije pronađena';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'Neispravan link džamije';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'Nije moguće otvoriti link džamije. Pokušajte ponovo.';
 
   @override
   String get no_calendars_on_this_device =>
-      'No calendars found on this device.';
+      'Na ovom uređaju nisu pronađeni kalendari.';
 
   @override
-  String get calendar_event_at_this_time => 'Event at this time';
+  String get calendar_event_at_this_time => 'Događaj u ovom terminu';
 
   @override
-  String get search_ayah_surah => 'Search by Ayah or Surah';
+  String get search_ayah_surah => 'Pretraži po ajetu ili suri';
 
   @override
-  String get matching_surahs => 'Matching Surahs';
+  String get matching_surahs => 'Podudarne sure';
 
   @override
-  String get matching_ayahs => 'Matching Ayahs';
+  String get matching_ayahs => 'Podudarni ajeti';
 
   @override
   String get live_timer => 'Uživo tajmer';
@@ -1927,24 +1927,24 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get take_time_appear_watch =>
-      'It may take a few seconds to appear on your watch.';
+      'Možda će biti potrebno nekoliko sekundi da se pojavi na vašem satu.';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'Bajram';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'Sakrij live aktivnost samo za ovu molitvu';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'Uključena live aktivnost uvijek';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'Live aktivnosti se pojavljuju na zaključanom ekranu i Dynamic Islandu (ako je podržano). Dodirnite ikonu sata na glavnom ekranu da uključite/isključite ovu funkciju. Kada je omogućena, obavijest ostaje stalno vidljiva s brojačem vremena do sljedeće molitve.';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'Postavke';
 
   @override
   String get azkar => 'Azkar';
@@ -1954,42 +1954,45 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules for correct recitation';
+      'Pravila tadžvida označena bojama za ispravnu recitaciju';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'Pravila tadžvida';
 
   @override
-  String get examples => 'Examples';
+  String get examples => 'Primjeri';
 
   @override
-  String get real_time_weather => 'Real-Time Weather';
+  String get real_time_weather => 'Vrijeme uživo';
 
   @override
-  String get layout => 'Layout';
+  String get layout => 'Raspored';
 
   @override
-  String get list => 'List';
+  String get list => 'Lista';
 
   @override
-  String get grid => 'Grid';
+  String get grid => 'Mreža';
 
   @override
   String get real_time_weather_needs_internet =>
-      'Real-time weather needs an internet connection to download updates.';
+      'Vrijeme uživo zahtijeva internet vezu za preuzimanje ažuriranja.';
 
   @override
-  String get view_detail => 'View detail';
+  String get view_detail => 'Pregled detalja';
 
   @override
-  String get customise => 'Customise';
+  String get customise => 'Prilagodi';
 
   @override
-  String get temperature => 'Temperature';
+  String get temperature => 'Temperatura';
 
   @override
-  String get tahajjud_time => 'Tahajjud Time';
+  String get tahajjud_time => 'Vrijeme za Tahadžud';
 
   @override
-  String get midnight => 'Midnight';
+  String get last_third => 'Zadnja trećina';
+
+  @override
+  String get midnight => 'Ponoć';
 }

@@ -1991,5 +1991,8 @@ class AppLocalizationsBn extends AppLocalizations {
   String get tahajjud_time => 'তাহাজ্জুদের সময়';
 
   @override
-  String get midnight => 'Minuit';
+  String get last_third => 'শেষ তৃতীয়াংশ';
+
+  @override
+  String get midnight => 'মধ্যরাত';
 }

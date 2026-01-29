@@ -1822,127 +1822,126 @@ class AppLocalizationsBm extends AppLocalizations {
       'A bɛ kɛ kɔfɛ ni tilebɔgɔ Afrikala la';
 
   @override
-  String get select => 'Select';
+  String get select => 'Sèbèlenna';
 
   @override
-  String get unknown_smartwatch => 'Unknown smartwatch';
+  String get unknown_smartwatch => 'Saniya bɛn kɔrɔ ye kuma fô';
 
   @override
-  String get connected_watch => 'Connected watch';
+  String get connected_watch => 'Saniya bɛnna';
 
   @override
-  String get ready_play_watch => 'is ready to play on your watch';
+  String get ready_play_watch => 'ka bugu kε sana la san ye i saniya la';
 
   @override
   String get transliteration => 'Transliteration';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'Tahajjud waati nɔfɛ yèlèko';
 
   @override
-  String get calendar_access_not_available =>
-      'Calendar access is not available.';
+  String get calendar_access_not_available => 'Kalanda bɛna kɛ fɔlɔ.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'I y\'an ni kalanda balo, a kan bɔ i masodenw n\'a bɛ MAWAQIT 360 kan.';
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'Kalanda toɔrɔ ye nɛgɛ fɔlɔ an ka fɛɛnɛ min be na.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'Bara kalanda toɔrɔ ye';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'Kalandaw ka sigi…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'Ka kalandaw yera min i bɛ na son MAWAQIT 360 la.';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'Ka bɛɛ dɛmɛ';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'Ka bɛɛ jɔsi';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'Kalan muso kalandaw';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'Waatiw bɛ bɔ';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'Bɛ bɔ don';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'Bɛ bɔ kɛdɔ';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'Sariyali bɛ bɔ waati min na';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app => 'Bula muso fili ye MAWAQIT app la';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'Muso fili tɔgɔ';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'Muso fili te yera';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'Muso fili linku te se ka taa';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'Muso fili linku te se ka bula. Sisan bari waati kɔ.';
 
   @override
   String get no_calendars_on_this_device =>
-      'No calendars found on this device.';
+      'Kalanda mun te wɛrɛ cɛ la ni sɔrɔ.';
 
   @override
-  String get calendar_event_at_this_time => 'Event at this time';
+  String get calendar_event_at_this_time => 'Sariyali bɛ bɔ waati min na';
 
   @override
-  String get search_ayah_surah => 'Search by Ayah or Surah';
+  String get search_ayah_surah => 'Sari kula walla Ayah sɔrɔ';
 
   @override
-  String get matching_surahs => 'Matching Surahs';
+  String get matching_surahs => 'Sari kula min be kafa';
 
   @override
-  String get matching_ayahs => 'Matching Ayahs';
+  String get matching_ayahs => 'Ayah min be kafa';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'Waati siraba dɔgɔkun';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'Siran kan';
 
   @override
   String get take_time_appear_watch =>
-      'It may take a few seconds to appear on your watch.';
+      'Ka bɛ fo waati kɛ i ka sigi ka yera i ka watisɛmɛ.';
 
   @override
   String get eid1 => 'Eid';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'Ka bɔ waati siraba min na kɛdɔ bɔn';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'Waati siraba da ka cɛ';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'Waati siraba bɛ yera i ka lock screen ni Dynamic Island la (i ka tulo kɛ sisan). Ka satigi ka clock bonya kun na main screen la ka bɔ/ka bɔjɔsi ni. Ka bɔ, ka notification bɛ yera ni waati siraba ka tafara sisan, kan te wuliya waati.';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'Taasiye';
 
   @override
   String get azkar => 'Azkar';
@@ -1952,42 +1951,45 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules for correct recitation';
+      'Tajwīd law sababɔw ka siraba dɛmɛ wa Qur\'an don.';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'Tajwid sababɔw';
 
   @override
-  String get examples => 'Examples';
+  String get examples => 'Miselan';
 
   @override
-  String get real_time_weather => 'Real-Time Weather';
+  String get real_time_weather => 'Waati dɔgɔkun ka fila';
 
   @override
-  String get layout => 'Layout';
+  String get layout => 'Tɔgɔyɔrɔ';
 
   @override
-  String get list => 'List';
+  String get list => 'Lisi';
 
   @override
-  String get grid => 'Grid';
+  String get grid => 'Gridu';
 
   @override
   String get real_time_weather_needs_internet =>
-      'Real-time weather needs an internet connection to download updates.';
+      'Waati dɔgɔkun ka fila bɛ bɛ se ka sɔrɔ internet fɛɛrɛ bɛ yera ta.';
 
   @override
-  String get view_detail => 'View detail';
+  String get view_detail => 'Ka laka kɛ';
 
   @override
-  String get customise => 'Customise';
+  String get customise => 'Ka baa kɛ';
 
   @override
-  String get temperature => 'Temperature';
+  String get temperature => 'Gɛmɛgan';
 
   @override
-  String get tahajjud_time => 'Tahajjud Time';
+  String get tahajjud_time => 'Tahajjud waati';
 
   @override
-  String get midnight => 'Midnight';
+  String get last_third => 'Tile ka kɛlen kɔrɔcɛïla';
+
+  @override
+  String get midnight => 'Tile kuma';
 }

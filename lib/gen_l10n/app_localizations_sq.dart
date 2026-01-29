@@ -1993,5 +1993,8 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tahajjud_time => 'Koha e Tahaxhudit';
 
   @override
-  String get midnight => 'Minuit';
+  String get last_third => 'Treta e fundit';
+
+  @override
+  String get midnight => 'Mesnata';
 }

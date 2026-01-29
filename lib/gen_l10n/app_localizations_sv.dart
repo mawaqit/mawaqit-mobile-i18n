@@ -1989,5 +1989,8 @@ class AppLocalizationsSv extends AppLocalizations {
   String get tahajjud_time => 'Tahajjud Tid';
 
   @override
-  String get midnight => 'Minuit';
+  String get last_third => 'Sista tredjedelen';
+
+  @override
+  String get midnight => 'Midnatt';
 }

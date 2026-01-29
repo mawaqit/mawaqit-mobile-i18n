@@ -2012,5 +2012,8 @@ class AppLocalizationsFr extends AppLocalizations {
   String get tahajjud_time => 'Heure du Tahajjud';
 
   @override
+  String get last_third => 'Dernier tiers';
+
+  @override
   String get midnight => 'Minuit';
 }

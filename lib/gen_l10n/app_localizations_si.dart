@@ -1988,5 +1988,8 @@ class AppLocalizationsSi extends AppLocalizations {
   String get tahajjud_time => 'เวลาตะฮัจญุด';
 
   @override
-  String get midnight => 'Minuit';
+  String get last_third => 'Last third';
+
+  @override
+  String get midnight => 'Midnight';
 }

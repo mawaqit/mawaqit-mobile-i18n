@@ -1989,5 +1989,8 @@ class AppLocalizationsFf extends AppLocalizations {
   String get tahajjud_time => 'Heure du Tahajjud';
 
   @override
-  String get midnight => 'Tengah Malam';
+  String get last_third => 'Nga ndeeri kewli ndiyam';
+
+  @override
+  String get midnight => 'Gurduɓe fiɗna';
 }

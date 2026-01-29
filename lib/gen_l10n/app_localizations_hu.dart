@@ -1993,5 +1993,8 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tahajjud_time => 'Tahajjud idő';
 
   @override
-  String get midnight => 'Tengah Malam';
+  String get last_third => 'Utolsó harmad';
+
+  @override
+  String get midnight => 'Éjfél';
 }

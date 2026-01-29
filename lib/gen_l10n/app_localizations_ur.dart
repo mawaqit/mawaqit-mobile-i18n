@@ -1988,5 +1988,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String get tahajjud_time => 'تہجد کا وقت';
 
   @override
-  String get midnight => 'Minuit';
+  String get last_third => 'آخری تہائی حصہ';
+
+  @override
+  String get midnight => 'آدھی رات';
 }

@@ -1987,5 +1987,8 @@ class AppLocalizationsPl extends AppLocalizations {
   String get tahajjud_time => 'Czas Tahajjud';
 
   @override
-  String get midnight => 'Minuit';
+  String get last_third => 'Ostatnia trzecia część nocy';
+
+  @override
+  String get midnight => 'Północ';
 }

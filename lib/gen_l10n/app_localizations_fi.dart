@@ -1990,5 +1990,8 @@ class AppLocalizationsFi extends AppLocalizations {
   String get tahajjud_time => 'Tahajjudin Aika';
 
   @override
-  String get midnight => 'Tengah Malam';
+  String get last_third => 'Viimeinen kolmannes';
+
+  @override
+  String get midnight => 'Keskiyö';
 }

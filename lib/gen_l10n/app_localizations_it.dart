@@ -2004,5 +2004,8 @@ class AppLocalizationsIt extends AppLocalizations {
   String get tahajjud_time => 'Tempo Di Tahajjud';
 
   @override
-  String get midnight => 'Tengah Malam';
+  String get last_third => 'Ultimo terzo';
+
+  @override
+  String get midnight => 'Mezzanotte';
 }

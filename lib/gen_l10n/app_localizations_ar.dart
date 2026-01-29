@@ -1962,5 +1962,8 @@ class AppLocalizationsAr extends AppLocalizations {
   String get tahajjud_time => 'وقت التهجد';
 
   @override
+  String get last_third => 'الثلث الأخير';
+
+  @override
   String get midnight => 'منتصف الليل';
 }

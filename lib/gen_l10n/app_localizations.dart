@@ -3884,6 +3884,12 @@ abstract class AppLocalizations {
   /// **'Tahajjud Time'**
   String get tahajjud_time;
 
+  /// No description provided for @last_third.
+  ///
+  /// In en, this message translates to:
+  /// **'Last third'**
+  String get last_third;
+
   /// No description provided for @midnight.
   ///
   /// In en, this message translates to:

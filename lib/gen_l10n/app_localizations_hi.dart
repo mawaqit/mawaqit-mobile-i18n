@@ -1991,5 +1991,8 @@ class AppLocalizationsHi extends AppLocalizations {
   String get tahajjud_time => 'Heure du Tahajjud';
 
   @override
-  String get midnight => 'Tengah Malam';
+  String get last_third => 'अंतिम तिहाई';
+
+  @override
+  String get midnight => 'मध्यरात्रि';
 }

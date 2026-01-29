@@ -1989,5 +1989,8 @@ class AppLocalizationsAz extends AppLocalizations {
   String get tahajjud_time => 'Orario del Tahajjud';
 
   @override
-  String get midnight => 'Minuit';
+  String get last_third => 'Son üçdəbir';
+
+  @override
+  String get midnight => 'Gecəyarısı';
 }
