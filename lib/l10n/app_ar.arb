@@ -1278,13 +1278,14 @@
     "tajweed_description": "أحكام التجويد مميّزة بالألوان لقراءةٍ صحيحة",
     "tajwid_rules": "أحكام التجويد",
     "examples": "أمثلة",
-    "real_time_weather": "الطقس في الوقت الحقيقي",
+    "real_time_weather": "الطقس الفعلي لحظيًا",
     "layout": "تخطيط",
     "list": "قائمة",
-    "grid": "الشبكة",
-    "real_time_weather_needs_internet": "الطقس في الوقت الحقيقي يحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.",
+    "grid": "شبكة",
+    "real_time_weather_needs_internet": "يتطلب الطقس اللحظي اتصالاً بالإنترنت لتحميل التحديثات.",
     "view_detail": "عرض التفاصيل",
     "customise": "تخصيص",
-    "temperature": "درجة",
-    "tahajjud_time": "وقت تاجاجود"
+    "temperature": "الحرارة",
+    "tahajjud_time": "وقت التهجد",
+    "midnight": "منتصف الليل"
 }
