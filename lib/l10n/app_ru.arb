@@ -1287,5 +1287,6 @@
     "customise": "Настроить",
     "temperature": "Температура",
     "tahajjud_time": "Время Тахаджджуда",
-    "midnight": "Minuit"
+    "last_third": "Последняя треть",
+    "midnight": "Полночь"
 }
