@@ -1856,7 +1856,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get calendar_allow_access_button => 'Salli kalenterin käyttö';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'Chargement des calendriers…';
 
   @override
   String get calendar_select_for_mawaqit =>
@@ -1988,4 +1988,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Tahajjudin Aika';
+
+  @override
+  String get last_third => 'Viimeinen kolmannes';
+
+  @override
+  String get midnight => 'Keskiyö';
 }

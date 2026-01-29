@@ -1286,5 +1286,7 @@
     "view_detail": "Visa detaljer",
     "customise": "Anpassa",
     "temperature": "Temperatur",
-    "tahajjud_time": "Tahajjud Tid"
+    "tahajjud_time": "Tahajjud Tid",
+    "last_third": "Sista tredjedelen",
+    "midnight": "Midnatt"
 }

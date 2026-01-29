@@ -1286,5 +1286,7 @@
     "view_detail": "Просмотр деталей",
     "customise": "Настроить",
     "temperature": "Температура",
-    "tahajjud_time": "Время Тахаджджуда"
+    "tahajjud_time": "Время Тахаджджуда",
+    "last_third": "Последняя треть",
+    "midnight": "Полночь"
 }

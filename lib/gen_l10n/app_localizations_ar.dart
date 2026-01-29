@@ -1934,7 +1934,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get examples => 'أمثلة';
 
   @override
-  String get real_time_weather => 'الطقس في الوقت الحقيقي';
+  String get real_time_weather => 'الطقس الفعلي لحظيًا';
 
   @override
   String get layout => 'تخطيط';
@@ -1943,11 +1943,11 @@ class AppLocalizationsAr extends AppLocalizations {
   String get list => 'قائمة';
 
   @override
-  String get grid => 'الشبكة';
+  String get grid => 'شبكة';
 
   @override
   String get real_time_weather_needs_internet =>
-      'الطقس في الوقت الحقيقي يحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.';
+      'يتطلب الطقس اللحظي اتصالاً بالإنترنت لتحميل التحديثات.';
 
   @override
   String get view_detail => 'عرض التفاصيل';
@@ -1956,8 +1956,14 @@ class AppLocalizationsAr extends AppLocalizations {
   String get customise => 'تخصيص';
 
   @override
-  String get temperature => 'درجة';
+  String get temperature => 'الحرارة';
 
   @override
-  String get tahajjud_time => 'وقت تاجاجود';
+  String get tahajjud_time => 'وقت التهجد';
+
+  @override
+  String get last_third => 'الثلث الأخير';
+
+  @override
+  String get midnight => 'منتصف الليل';
 }

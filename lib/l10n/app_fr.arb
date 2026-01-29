@@ -1279,12 +1279,14 @@
     "tajwid_rules": "Règles de Tajwid",
     "examples": "Exemples",
     "real_time_weather": "Météo en temps réel",
-    "layout": "Mise en page",
+    "layout": "Disposition",
     "list": "Liste",
     "grid": "Grille",
     "real_time_weather_needs_internet": "La météo en temps réel nécessite une connexion Internet pour télécharger les mises à jour.",
-    "view_detail": "Voir les détails",
+    "view_detail": "Voir le détail",
     "customise": "Personnaliser",
     "temperature": "Température",
-    "tahajjud_time": "Heure de Tahajjud"
+    "tahajjud_time": "Heure du Tahajjud",
+    "last_third": "Dernier tiers",
+    "midnight": "Minuit"
 }

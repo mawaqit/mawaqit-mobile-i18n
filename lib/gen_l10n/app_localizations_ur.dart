@@ -1822,7 +1822,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'شمالی اور مغربی افریقہ میں مقبول';
 
   @override
-  String get select => 'Select';
+  String get select => 'منتخب کریں';
 
   @override
   String get unknown_smartwatch => 'نامعلوم اسمارٹ واچ';
@@ -1848,7 +1848,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'اپنے پروگرام دیکھنے کے لیے تقویم تک رسائی ضروری ہے۔';
 
   @override
   String get calendar_allow_access_button => 'کیلنڈر کی رسائی کی اجازت دیں';
@@ -1867,7 +1867,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get calendar_disable_all => 'سب غیر فعال کریں';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'دیگر تقاویم';
 
   @override
   String get calendar_times_shown_in => 'اوقات دکھائے گئے ہیں';
@@ -1882,23 +1882,23 @@ class AppLocalizationsUr extends AppLocalizations {
   String get calendar_events_at_this_time => 'اس وقت کے ایونٹس';
 
   @override
-  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+  String get hamza_roberto_piccardo => 'حمزہ روبرٹو پککارڈو';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app => 'اس مسجد کو MAWAQIT ایپ میں کھولیں';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'مسجد کا نام';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'مسجد نہیں ملی';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'غلط مسجد لنک';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'اس مسجد کا لنک نہیں کھولا جا سکا۔ دوبارہ کوشش کریں۔';
 
   @override
   String get no_calendars_on_this_device =>
@@ -1927,7 +1927,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'آپ کی گھڑی پر ظاہر ہونے میں چند سیکنڈ لگ سکتے ہیں۔.';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'عید';
 
   @override
   String get hide_live_activity_for_prayer =>
@@ -1941,7 +1941,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'لائیو ایکٹیویٹیز آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ پر (اگر سپورٹ ہو) ظاہر ہوتی ہیں۔ اس فیچر کو آن یا آف کرنے کے لیے مین اسکرین پر گھڑی کے آئیکن پر ٹیپ کریں۔ جب یہ فعال ہو، تو اگلی نماز تک ٹائمر کے ساتھ نوٹیفکیشن ہر وقت نظر آتا رہتا ہے۔';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'ترتیبات';
 
   @override
   String get azkar => 'اذکار';
@@ -1954,7 +1954,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'رنگوں سے نشان زد تجوید کے قواعد تاکہ آپ درستگی سے تلاوت کر سکیں';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'تجوید کے قواعد';
 
   @override
   String get examples => 'مثالیں';
@@ -1986,4 +1986,10 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'تہجد کا وقت';
+
+  @override
+  String get last_third => 'آخری تہائی حصہ';
+
+  @override
+  String get midnight => 'آدھی رات';
 }

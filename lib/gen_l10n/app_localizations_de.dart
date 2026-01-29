@@ -2007,4 +2007,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Tahajjud Zeit';
+
+  @override
+  String get last_third => 'Letztes Drittel';
+
+  @override
+  String get midnight => 'Mitternacht';
 }

@@ -1987,4 +1987,10 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Tahajjud Time';
+
+  @override
+  String get last_third => 'Last third';
+
+  @override
+  String get midnight => 'Midnight';
 }

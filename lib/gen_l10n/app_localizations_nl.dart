@@ -2000,4 +2000,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Tijd Tahajjud';
+
+  @override
+  String get last_third => 'Laatste derde deel';
+
+  @override
+  String get midnight => 'Middernacht';
 }

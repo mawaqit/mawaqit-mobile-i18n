@@ -1988,4 +1988,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tahajjud_time => 'Время Тахаджджуда';
+
+  @override
+  String get last_third => 'Последняя треть';
+
+  @override
+  String get midnight => 'Полночь';
 }

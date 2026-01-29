@@ -1823,7 +1823,7 @@ class AppLocalizationsMs extends AppLocalizations {
       'Popular di seluruh Afrika Utara dan Barat';
 
   @override
-  String get select => 'Select';
+  String get select => 'Pilih';
 
   @override
   String get unknown_smartwatch => 'Jam tangan pintar tidak diketahui';
@@ -1838,112 +1838,111 @@ class AppLocalizationsMs extends AppLocalizations {
   String get transliteration => 'Transliterasi';
 
   @override
-  String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
+  String get highlight_Tahajjud_Time => 'Sorot Waktu Tahajjud';
 
   @override
-  String get calendar_access_not_available =>
-      'Calendar access is not available.';
+  String get calendar_access_not_available => 'Akses kalender tidak tersedia.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Please allow calendar access to show your events on MAWAQIT 360.';
+      'Silakan izinkan akses kalender untuk menampilkan acara Anda di MAWAQIT 360.';
 
   @override
   String get calendar_access_required =>
-      'Calendar access is required to show your events.';
+      'Akses kalender diperlukan untuk menampilkan acara Anda.';
 
   @override
-  String get calendar_allow_access_button => 'Allow calendar access';
+  String get calendar_allow_access_button => 'Izinkan akses kalender';
 
   @override
-  String get calendar_loading => 'Loading calendars…';
+  String get calendar_loading => 'Memuat kalender…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Select the calendars you want to display on MAWAQIT 360.';
+      'Pilih kalender yang ingin ditampilkan di MAWAQIT 360.';
 
   @override
-  String get calendar_enable_all => 'Enable all';
+  String get calendar_enable_all => 'Aktifkan semua';
 
   @override
-  String get calendar_disable_all => 'Disable all';
+  String get calendar_disable_all => 'Nonaktifkan semua';
 
   @override
-  String get calendar_other_calendars => 'Other calendars';
+  String get calendar_other_calendars => 'Kalender lain';
 
   @override
-  String get calendar_times_shown_in => 'Times shown in';
+  String get calendar_times_shown_in => 'Waktu ditampilkan dalam';
 
   @override
-  String get calendar_starts_on => 'Starts on';
+  String get calendar_starts_on => 'Mulai pada';
 
   @override
-  String get calendar_ends_on => 'Ends on';
+  String get calendar_ends_on => 'Berakhir pada';
 
   @override
-  String get calendar_events_at_this_time => 'Events at this time';
+  String get calendar_events_at_this_time => 'Acara pada waktu ini';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app => 'Open this mosque in MAWAQIT app';
+  String get open_in_mawaqit_app => 'Buka masjid ini di aplikasi MAWAQIT';
 
   @override
-  String get mosque_name => 'Mosque name';
+  String get mosque_name => 'Nama masjid';
 
   @override
-  String get mosque_not_found => 'Mosque not found';
+  String get mosque_not_found => 'Masjid tidak ditemukan';
 
   @override
-  String get invalid_mosque_link => 'Invalid mosque link';
+  String get invalid_mosque_link => 'Tautan masjid tidak valid';
 
   @override
   String get not_open_mosque_link =>
-      'Could not open this mosque link. Please try again.';
+      'Tidak dapat membuka tautan masjid ini. Silakan coba lagi.';
 
   @override
   String get no_calendars_on_this_device =>
-      'No calendars found on this device.';
+      'Tidak ada kalender ditemukan di perangkat ini.';
 
   @override
-  String get calendar_event_at_this_time => 'Event at this time';
+  String get calendar_event_at_this_time => 'Acara pada waktu ini';
 
   @override
-  String get search_ayah_surah => 'Search by Ayah or Surah';
+  String get search_ayah_surah => 'Cari berdasarkan Ayat atau Surah';
 
   @override
-  String get matching_surahs => 'Matching Surahs';
+  String get matching_surahs => 'Surah yang cocok';
 
   @override
-  String get matching_ayahs => 'Matching Ayahs';
+  String get matching_ayahs => 'Ayat yang cocok';
 
   @override
-  String get live_timer => 'Live Timer';
+  String get live_timer => 'Penghitung Waktu Langsung';
 
   @override
-  String get notify_before => 'Notify before';
+  String get notify_before => 'Pemberitahuan sebelum';
 
   @override
   String get take_time_appear_watch =>
-      'It may take a few seconds to appear on your watch.';
+      'Mungkin butuh beberapa detik untuk muncul di jam tangan Anda.';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'Idul Fitri';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'Sembunyikan aktivitas langsung untuk sholat ini saja';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'Aktivitas Langsung Selalu Aktif';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'Aktivitas Langsung akan muncul di layar kunci dan Dynamic Island (jika didukung). Ketuk ikon jam di layar utama untuk mengaktifkan/menonaktifkan fitur ini. Ketika diaktifkan, notifikasi tetap terlihat setiap saat dengan penghitung waktu menuju waktu shalat berikutnya.';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'Pengaturan';
 
   @override
   String get azkar => 'Azkar';
@@ -1953,39 +1952,45 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Color-coded tajwīd rules for correct recitation';
+      'Aturan tajwīd berwarna untuk pelafalan yang benar';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'Aturan tajwīd';
 
   @override
-  String get examples => 'Examples';
+  String get examples => 'Contoh';
 
   @override
-  String get real_time_weather => 'Real-Time Weather';
+  String get real_time_weather => 'Cuaca Waktu Nyata';
 
   @override
-  String get layout => 'Layout';
+  String get layout => 'Tata Letak';
 
   @override
-  String get list => 'List';
+  String get list => 'Daftar';
 
   @override
   String get grid => 'Grid';
 
   @override
   String get real_time_weather_needs_internet =>
-      'Real-time weather needs an internet connection to download updates.';
+      'Cuaca waktu nyata memerlukan koneksi internet untuk mengunduh pembaruan.';
 
   @override
-  String get view_detail => 'View detail';
+  String get view_detail => 'Lihat detail';
 
   @override
-  String get customise => 'Customise';
+  String get customise => 'Kustomisasi';
 
   @override
-  String get temperature => 'Temperature';
+  String get temperature => 'Suhu';
 
   @override
-  String get tahajjud_time => 'Tahajjud Time';
+  String get tahajjud_time => 'Waktu Tahajjud';
+
+  @override
+  String get last_third => 'Last third';
+
+  @override
+  String get midnight => 'Midnight';
 }

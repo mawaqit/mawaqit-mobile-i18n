@@ -1987,7 +1987,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get real_time_weather => 'Météo en temps réel';
 
   @override
-  String get layout => 'Mise en page';
+  String get layout => 'Disposition';
 
   @override
   String get list => 'Liste';
@@ -2000,7 +2000,7 @@ class AppLocalizationsFr extends AppLocalizations {
       'La météo en temps réel nécessite une connexion Internet pour télécharger les mises à jour.';
 
   @override
-  String get view_detail => 'Voir les détails';
+  String get view_detail => 'Voir le détail';
 
   @override
   String get customise => 'Personnaliser';
@@ -2009,5 +2009,11 @@ class AppLocalizationsFr extends AppLocalizations {
   String get temperature => 'Température';
 
   @override
-  String get tahajjud_time => 'Heure de Tahajjud';
+  String get tahajjud_time => 'Heure du Tahajjud';
+
+  @override
+  String get last_third => 'Dernier tiers';
+
+  @override
+  String get midnight => 'Minuit';
 }
