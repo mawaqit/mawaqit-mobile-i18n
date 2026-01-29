@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1287,5 +1287,6 @@
     "customise": "ปรับแต่ง",
     "temperature": "อุณหภูมิ",
     "tahajjud_time": "เวลาตะฮัจญุด",
-    "midnight": "Minuit"
+    "last_third": "Last third",
+    "midnight": "Midnight"
 }
