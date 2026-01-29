@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa-AF",
+    "@@locale": "fa",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -740,7 +740,7 @@
     "quran_mushaf": "قران",
     "quran_juzz": "جز",
     "ayah": "آيه",
-    "quran_verses": "آيات",
+    "quran_verses": "آیاتها",
     "surah": "سورة",
     "continue_reading": "ادامه مطلب",
     "bookmarks": "نشانک ها",
@@ -1124,10 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
-    "yassin_aljazairi": "یاسین الجزایری",
-    "mohammed_abdelkarim": "محمد عبدکریم",
+    "yassin_aljazairi": "یاسین الجزائری",
+    "mohammed_abdelkarim": "محمد عبدالکریم",
     "alayoun_elkouchi": "العیون الکوشی",
-    "abdelkarim_daghoush": "عبدالکریم داغوش",
+    "abdelkarim_daghoush": "عبدالکریم دغوش",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
@@ -1140,7 +1140,7 @@
     "select_ending_verse": "آیه پایان را انتخاب کنید",
     "range_repeat": "تکرار محدوده",
     "verse_repeat": "تکرار آیه",
-    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "improved_Hafs_Rewaya_Force_Update": "ما قِرائتِ حَفص عَن عاصم را بهبود داده‌ایم. همین حالا دانلود کنید تا با نگه‌داشتن روی هر آیه، تفسیر را بررسی و قرائت‌ها را گوش دهید.",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
@@ -1156,94 +1156,94 @@
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "360 Settings",
+    "three_sixty_setting": "تنظیمات ۳۶۰",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "Behavior",
+    "behavior": "رفتار",
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "Next prayer",
+    "next_prayer_open": "نماز بعدی",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "All closed",
+    "all_prayer_closed": "همه بسته‌اند",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
-    "recomended_next_prayer": "Recommended: Next prayer only",
+    "recomended_next_prayer": "توصیه‌شده: فقط نماز بعدی",
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "Live Preview",
+    "live_preview": "تایمر زنده",
     "@live_preview": {
         "description": "-> live_preview"
     },
-    "font_Size_Normal": "Normal",
+    "font_Size_Normal": "معمولی",
     "@font_Size_Normal": {
         "description": "-> font_Size_Normal"
     },
-    "font_Size_Large": "Large",
+    "font_Size_Large": "بزرگ",
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "All open",
+    "all_Prayer_Open": "همه باز است",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
-    "settingFontSize": "Font Size",
+    "settingFontSize": "اندازه قلم",
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "last_Third_Of_The_Night": "یک‌سوم آخر شب",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
     "shaykh_aminuddin_muhammad": "شیخ امین‌الدین محمد",
-    "hafs_an_asim": "حفص عن عاصم",
-    "most_widespread_riwayah": "رایج‌ترین قرائت در سراسر جهان",
-    "warsh_an_nafi": "ورش عن نافع",
-    "popular_across_north_west_africa": "محبوب در سراسر شمال و غرب آفریقا",
-    "select": "Select",
+    "hafs_an_asim": "حَفص عَن عاصم",
+    "most_widespread_riwayah": "رِوایَتِ رایج‌ در سراسر دنیا",
+    "warsh_an_nafi": "وَرش عَن نافع",
+    "popular_across_north_west_africa": "رایج در شمال و غرب آفریقا",
+    "select": "انتخاب",
     "unknown_smartwatch": "ساعت هوشمند ناشناخته",
     "connected_watch": "ساعت متصل",
     "ready_play_watch": "برای پخش روی ساعت شما آماده است",
     "transliteration": "ترانویسی",
-    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "highlight_Tahajjud_Time": "برجسته‌ کردن زمان تهجّد",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
-    "calendar_access_not_available": "Calendar access is not available.",
-    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
-    "calendar_access_required": "Calendar access is required to show your events.",
-    "calendar_allow_access_button": "Allow calendar access",
-    "calendar_loading": "Loading calendars…",
-    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
-    "calendar_enable_all": "Enable all",
-    "calendar_disable_all": "Disable all",
-    "calendar_other_calendars": "Other calendars",
-    "calendar_times_shown_in": "Times shown in",
-    "calendar_starts_on": "Starts on",
-    "calendar_ends_on": "Ends on",
-    "calendar_events_at_this_time": "Events at this time",
-    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "calendar_access_not_available": "دسترسی تقویم در دسترس نیست.",
+    "calendar_allow_access_mawaqit": "لطفاً برای نمایش رویدادهای خود در MAWAQIT ۳۶۰، دسترسی به تقویم را فعال کنید.",
+    "calendar_access_required": "برای نمایش رویدادهای شما، دسترسی به تقویم لازم است.",
+    "calendar_allow_access_button": "اجازه دسترسی به تقویم",
+    "calendar_loading": "در حال بارگذاری تقویم‌ها…",
+    "calendar_select_for_mawaqit": "تقویم‌هایی را که می‌خواهید در MAWAQIT ۳۶۰ نمایش داده شوند انتخاب کنید.",
+    "calendar_enable_all": "فعال‌سازی همه",
+    "calendar_disable_all": "غیرفعال‌سازی همه",
+    "calendar_other_calendars": "سایر تقویم‌ها",
+    "calendar_times_shown_in": "زمان‌ها نمایش داده شده در",
+    "calendar_starts_on": "شروع در",
+    "calendar_ends_on": "پایان در",
+    "calendar_events_at_this_time": "رویدادها در این زمان",
+    "hamza_roberto_piccardo": "حمزه روبرتو پیکاردو",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
-    "open_in_mawaqit_app": "Open this mosque in MAWAQIT app",
-    "mosque_name": "Mosque name",
-    "mosque_not_found": "Mosque not found",
-    "invalid_mosque_link": "Invalid mosque link",
-    "not_open_mosque_link": "Could not open this mosque link. Please try again.",
-    "no_calendars_on_this_device": "No calendars found on this device.",
-    "calendar_event_at_this_time": "Event at this time",
+    "open_in_mawaqit_app": "باز کردن این مسجد در برنامه MAWAQIT",
+    "mosque_name": "نام مسجد",
+    "mosque_not_found": "مسجد یافت نشد",
+    "invalid_mosque_link": "پیوند مسجد نامعتبر است",
+    "not_open_mosque_link": "امکان باز کردن این پیوند مسجد نیست. لطفاً دوباره تلاش کنید.",
+    "no_calendars_on_this_device": "هیچ تقویمی در این دستگاه یافت نشد.",
+    "calendar_event_at_this_time": "رویداد در این زمان",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Search by Ayah or Surah",
-    "matching_surahs": "Matching Surahs",
-    "matching_ayahs": "Matching Ayahs",
+    "search_ayah_surah": "جستجو بر اساس آیه یا سوره",
+    "matching_surahs": "سوره‌های مطابق",
+    "matching_ayahs": "آیه‌های مطابق",
     "live_timer": "تایمر زنده",
     "@live_timer": {
         "description": "live_timer"
@@ -1252,39 +1252,40 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "It may take a few seconds to appear on your watch.",
-    "eid1": "Eid",
-    "hide_live_activity_for_prayer": "Hide live activity for this prayer only",
+    "take_time_appear_watch": "ممکن است چند ثانیه طول بکشد تا روی ساعت شما نمایش داده شود.",
+    "eid1": "عید",
+    "hide_live_activity_for_prayer": "پنهان کردن فعالیت زنده برای فقط این نماز",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Live Activity Always On",
+    "live_activity_always_on": "فعالیت زنده همیشه روشن",
     "@live_activity_always_on": {
         "description": "live_activity_always_on"
     },
-    "live_activities_appear": "Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.",
+    "live_activities_appear": "فعالیت‌های زنده روی صفحه قفل و Dynamic Island (در صورت پشتیبانی) نمایش داده می‌شوند. برای فعال/غیرفعال کردن این ویژگی، روی نماد ساعت در صفحه اصلی بزنید. زمانی که فعال باشد، اعلان با تایمر تا نماز بعدی همواره قابل مشاهده خواهد بود.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
     },
-    "settings": "Settings",
+    "settings": "تنظیمات",
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Azkar",
+    "azkar": "اذکار",
     "@azkar": {
         "description": "-> azkar"
     },
     "quran_tajweed": "قرآنِ تجوید",
-    "tajweed_description": "قواعد تجویدِ رنگ‌بندی‌شده برای کمک به قرائت دقیق",
-    "tajwid_rules": "Tajwid rules",
-    "examples": "Examples",
-    "real_time_weather": "Real-Time Weather",
-    "layout": "Layout",
-    "list": "List",
-    "grid": "Grid",
-    "real_time_weather_needs_internet": "Real-time weather needs an internet connection to download updates.",
-    "view_detail": "View detail",
-    "customise": "Customise",
-    "temperature": "Temperature",
-    "tahajjud_time": "Tahajjud Time"
+    "tajweed_description": "قواعد تجوید رنگی برای قرائت صحیح",
+    "tajwid_rules": "قواعد تجوید",
+    "examples": "نمونه‌ها",
+    "real_time_weather": "وضعیت آب‌وهوا لحظه‌ای",
+    "layout": "چیدمان",
+    "list": "فهرست",
+    "grid": "جدول",
+    "real_time_weather_needs_internet": "برای دریافت بروزرسانی، آب‌وهوا لحظه‌ای نیاز به اینترنت دارد.",
+    "view_detail": "مشاهده جزئیات",
+    "customise": "شخصی‌سازی",
+    "temperature": "دما",
+    "tahajjud_time": "زمان تهجّد",
+    "midnight": "Minuit"
 }
