@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Coran Tajwīd",
     "tajweed_description": "Règles de tajwīd codées par couleur pour une récitation correcte",
     "tajwid_rules": "Règles de Tajwid",
-    "examples": "Exemples"
+    "examples": "Exemples",
+    "real_time_weather": "Météo en temps réel",
+    "layout": "Mise en page",
+    "list": "Liste",
+    "grid": "Grille",
+    "real_time_weather_needs_internet": "La météo en temps réel nécessite une connexion Internet pour télécharger les mises à jour.",
+    "view_detail": "Voir les détails",
+    "customise": "Personnaliser",
+    "temperature": "Température",
+    "tahajjud_time": "Heure de Tahajjud"
 }
