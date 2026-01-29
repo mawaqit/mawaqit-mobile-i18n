@@ -1906,19 +1906,19 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get no_calendars_on_this_device =>
-      'No calendars found on this device.';
+      'هیچ ڕۆژنامەیک نەدۆزرایەوە لەم ئامێرەدا.';
 
   @override
-  String get calendar_event_at_this_time => 'Event at this time';
+  String get calendar_event_at_this_time => 'چالاکی لە ئەم کاتەدا';
 
   @override
-  String get search_ayah_surah => 'Search by Ayah or Surah';
+  String get search_ayah_surah => 'گەڕان بە ئایەت یان سۆرە';
 
   @override
-  String get matching_surahs => 'Matching Surahs';
+  String get matching_surahs => 'سۆرەی هاوشێوە';
 
   @override
-  String get matching_ayahs => 'Matching Ayahs';
+  String get matching_ayahs => 'ئایەتی هاوشێوە';
 
   @override
   String get live_timer => 'کاتژمێری ڕاستەوخۆ';
@@ -1928,24 +1928,24 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get take_time_appear_watch =>
-      'It may take a few seconds to appear on your watch.';
+      'لەوانەیە چەند چرکەیەک ببێتەوەی كە لەسەر کاتژمێرەکەت پیشان بدرێت.';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'جێژنی عید';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Hide live activity for this prayer only';
+      'چالاکی ڕاستەوخۆ بشارەوە تەنها بۆ ئەم نوێژە';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
+  String get live_activity_always_on => 'چالاکی ڕاستەوخۆ هەمیشە ڕوونە';
 
   @override
   String get live_activities_appear =>
-      'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
+      'چالاکییە ڕاستەوخۆکان لەسەر دەرچوو و Dynamic Island پیشان دەدرێن (ئەگەر پشتیوانی بکرێت). دوگمەی کاتژمێر لە سەرەکی بگرە بۆ کارا/ناکارا کردن. کاتێک کارا بکرێت، ئاگاداری هەمیشە دەمێنێت و کۆنتەرەکی تا نوێژی داهاتوو دەرکەوتوویە.';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'ڕێکخستنەکان';
 
   @override
   String get azkar => 'ئەذکار';
@@ -1955,13 +1955,13 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'یاساکانی تەجوید بە ڕەنگەکان نیشانکراون بۆ ئەوەی یارمەتیت بدەن بە وردی تلاوەت بکەیت';
+      'یاساکانی تەجوید بە ڕەنگ نیشانکراون بۆ تلاوەتی دروست';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'یاساکانی تەجوید';
 
   @override
-  String get examples => 'Examples';
+  String get examples => 'نمونە';
 
   @override
   String get real_time_weather => 'کەشوهەوای ڕاستەوخ';
@@ -1992,8 +1992,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String get tahajjud_time => 'کاتی تەهەجود';
 
   @override
-  String get last_third => 'Last third';
+  String get last_third => 'سێیه‌می دواهەمەوە';
 
   @override
-  String get midnight => 'Midnight';
+  String get midnight => 'نێوەشەو';
 }

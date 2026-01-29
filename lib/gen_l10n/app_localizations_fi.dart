@@ -1993,5 +1993,5 @@ class AppLocalizationsFi extends AppLocalizations {
   String get last_third => 'Viimeinen kolmannes';
 
   @override
-  String get midnight => 'Keskiyö';
+  String get midnight => 'Tengah Malam';
 }

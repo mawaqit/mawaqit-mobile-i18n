@@ -1980,7 +1980,7 @@ class AppLocalizationsEs extends AppLocalizations {
   String get examples => 'Ejemplos';
 
   @override
-  String get real_time_weather => 'Clima en tiempo real';
+  String get real_time_weather => 'Tiempo real';
 
   @override
   String get layout => 'Diseño';
@@ -1989,11 +1989,11 @@ class AppLocalizationsEs extends AppLocalizations {
   String get list => 'Lista';
 
   @override
-  String get grid => 'Cuadrícula';
+  String get grid => 'Rejilla';
 
   @override
   String get real_time_weather_needs_internet =>
-      'El clima en tiempo real necesita una conexión a internet para descargar actualizaciones.';
+      'El tiempo real necesita una conexión a Internet para descargar actualizaciones.';
 
   @override
   String get view_detail => 'Ver detalle';
@@ -2005,7 +2005,7 @@ class AppLocalizationsEs extends AppLocalizations {
   String get temperature => 'Temperatura';
 
   @override
-  String get tahajjud_time => 'Hora de Tahajjud';
+  String get tahajjud_time => 'Tiempo Tahajjud';
 
   @override
   String get last_third => 'Último tercio';

@@ -1993,5 +1993,5 @@ class AppLocalizationsId extends AppLocalizations {
   String get last_third => 'Sepertiga akhir malam';
 
   @override
-  String get midnight => 'Tengah malam';
+  String get midnight => 'Minuit';
 }

@@ -1996,5 +1996,5 @@ class AppLocalizationsHu extends AppLocalizations {
   String get last_third => 'Utolsó harmad';
 
   @override
-  String get midnight => 'Éjfél';
+  String get midnight => 'Tengah Malam';
 }

@@ -1990,5 +1990,5 @@ class AppLocalizationsPl extends AppLocalizations {
   String get last_third => 'Ostatnia trzecia część nocy';
 
   @override
-  String get midnight => 'Północ';
+  String get midnight => 'Minuit';
 }

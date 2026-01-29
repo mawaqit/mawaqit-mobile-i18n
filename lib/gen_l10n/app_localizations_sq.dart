@@ -1996,5 +1996,5 @@ class AppLocalizationsSq extends AppLocalizations {
   String get last_third => 'Treta e fundit';
 
   @override
-  String get midnight => 'Mesnata';
+  String get midnight => 'Minuit';
 }

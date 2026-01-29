@@ -1994,5 +1994,5 @@ class AppLocalizationsBn extends AppLocalizations {
   String get last_third => 'শেষ তৃতীয়াংশ';
 
   @override
-  String get midnight => 'মধ্যরাত';
+  String get midnight => 'Minuit';
 }

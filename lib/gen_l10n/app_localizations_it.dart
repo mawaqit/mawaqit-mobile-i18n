@@ -2007,5 +2007,5 @@ class AppLocalizationsIt extends AppLocalizations {
   String get last_third => 'Ultimo terzo';
 
   @override
-  String get midnight => 'Mezzanotte';
+  String get midnight => 'Tengah Malam';
 }

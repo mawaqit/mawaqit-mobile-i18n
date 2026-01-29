@@ -1985,5 +1985,5 @@ class AppLocalizationsTr extends AppLocalizations {
   String get last_third => 'Son üçte bir';
 
   @override
-  String get midnight => 'Gece Yarısı';
+  String get midnight => 'Minuit';
 }

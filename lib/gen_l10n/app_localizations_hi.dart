@@ -1994,5 +1994,5 @@ class AppLocalizationsHi extends AppLocalizations {
   String get last_third => 'अंतिम तिहाई';
 
   @override
-  String get midnight => 'मध्यरात्रि';
+  String get midnight => 'Tengah Malam';
 }

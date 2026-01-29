@@ -1991,5 +1991,5 @@ class AppLocalizationsSi extends AppLocalizations {
   String get last_third => 'Last third';
 
   @override
-  String get midnight => 'Midnight';
+  String get midnight => 'Minuit';
 }

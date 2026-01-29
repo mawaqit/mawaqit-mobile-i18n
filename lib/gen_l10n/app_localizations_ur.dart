@@ -1991,5 +1991,5 @@ class AppLocalizationsUr extends AppLocalizations {
   String get last_third => 'آخری تہائی حصہ';
 
   @override
-  String get midnight => 'آدھی رات';
+  String get midnight => 'Minuit';
 }
