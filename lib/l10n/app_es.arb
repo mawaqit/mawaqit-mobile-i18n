@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1278,15 +1278,15 @@
     "tajweed_description": "Reglas de tajwīd codificadas por colores para ayudarte a recitar con precisión",
     "tajwid_rules": "Tajwid rules",
     "examples": "Ejemplos",
-    "real_time_weather": "Clima en tiempo real",
+    "real_time_weather": "Tiempo real",
     "layout": "Diseño",
     "list": "Lista",
-    "grid": "Cuadrícula",
-    "real_time_weather_needs_internet": "El clima en tiempo real necesita una conexión a internet para descargar actualizaciones.",
+    "grid": "Rejilla",
+    "real_time_weather_needs_internet": "El tiempo real necesita una conexión a Internet para descargar actualizaciones.",
     "view_detail": "Ver detalle",
     "customise": "Personalizar",
     "temperature": "Temperatura",
-    "tahajjud_time": "Hora de Tahajjud",
+    "tahajjud_time": "Tiempo Tahajjud",
     "last_third": "Último tercio",
     "midnight": "Medianoche"
 }
