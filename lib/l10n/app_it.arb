@@ -1287,5 +1287,6 @@
     "customise": "Personalizza",
     "temperature": "Temperatura",
     "tahajjud_time": "Tempo Di Tahajjud",
-    "midnight": "Tengah Malam"
+    "last_third": "Ultimo terzo",
+    "midnight": "Mezzanotte"
 }
