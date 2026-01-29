@@ -1286,5 +1286,6 @@
     "view_detail": "View detail",
     "customise": "Customise",
     "temperature": "Temperature",
-    "tahajjud_time": "Tahajjud Time"
+    "tahajjud_time": "Tahajjud Time",
+    "midnight": "Midnight"
 }
