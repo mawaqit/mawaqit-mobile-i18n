@@ -1277,5 +1277,14 @@
     "quran_tajweed": "Коран: таджвид",
     "tajweed_description": "Правила правильной обработки таджвида с цветными кодами",
     "tajwid_rules": "Tajwid rules",
-    "examples": "Примеры"
+    "examples": "Примеры",
+    "real_time_weather": "Погода в реальном времени",
+    "layout": "Макет",
+    "list": "Список",
+    "grid": "Сетка",
+    "real_time_weather_needs_internet": "Для загрузки обновлений в реальном времени требуется подключение к Интернету.",
+    "view_detail": "Просмотр деталей",
+    "customise": "Настроить",
+    "temperature": "Температура",
+    "tahajjud_time": "Время Тахаджджуда"
 }
