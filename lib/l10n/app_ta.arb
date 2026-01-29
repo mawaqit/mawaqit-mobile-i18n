@@ -1287,5 +1287,6 @@
     "customise": "Personnaliser",
     "temperature": "Température",
     "tahajjud_time": "Heure du Tahajjud",
-    "midnight": "Minuit"
+    "last_third": "Last third",
+    "midnight": "Midnight"
 }
