@@ -1205,7 +1205,7 @@
     "most_widespread_riwayah": "دنیا بھر میں سب سے زیادہ پڑھی جانے والی روایت",
     "warsh_an_nafi": "ورش عن نافع",
     "popular_across_north_west_africa": "شمالی اور مغربی افریقہ میں مقبول",
-    "select": "Select",
+    "select": "منتخب کریں",
     "unknown_smartwatch": "نامعلوم اسمارٹ واچ",
     "connected_watch": "منسلک گھڑی",
     "ready_play_watch": "آپ کی گھڑی پر چلانے کے لیے تیار ہے",
@@ -1216,26 +1216,26 @@
     },
     "calendar_access_not_available": "کیلنڈر تک رسائی دستیاب نہیں ہے۔",
     "calendar_allow_access_mawaqit": "\"براہ کرم اپنے ایونٹس MAWAQIT 360 پر دکھانے کے لیے کیلنڈر کی رسائی کی اجازت دیں۔\"",
-    "calendar_access_required": "Calendar access is required to show your events.",
+    "calendar_access_required": "اپنے پروگرام دیکھنے کے لیے تقویم تک رسائی ضروری ہے۔",
     "calendar_allow_access_button": "کیلنڈر کی رسائی کی اجازت دیں",
     "calendar_loading": "کیلنڈر لوڈ ہو رہے ہیں…",
     "calendar_select_for_mawaqit": "وہ کیلنڈرز منتخب کریں جو آپ MAWAQIT 360 پر دکھانا چاہتے ہیں۔",
     "calendar_enable_all": "سب فعال کریں",
     "calendar_disable_all": "سب غیر فعال کریں",
-    "calendar_other_calendars": "Other calendars",
+    "calendar_other_calendars": "دیگر تقاویم",
     "calendar_times_shown_in": "اوقات دکھائے گئے ہیں",
     "calendar_starts_on": "شروع ہوتا ہے",
     "calendar_ends_on": "ختم ہوتا ہے",
     "calendar_events_at_this_time": "اس وقت کے ایونٹس",
-    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "hamza_roberto_piccardo": "حمزہ روبرٹو پککارڈو",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
-    "open_in_mawaqit_app": "Open this mosque in MAWAQIT app",
-    "mosque_name": "Mosque name",
-    "mosque_not_found": "Mosque not found",
-    "invalid_mosque_link": "Invalid mosque link",
-    "not_open_mosque_link": "Could not open this mosque link. Please try again.",
+    "open_in_mawaqit_app": "اس مسجد کو MAWAQIT ایپ میں کھولیں",
+    "mosque_name": "مسجد کا نام",
+    "mosque_not_found": "مسجد نہیں ملی",
+    "invalid_mosque_link": "غلط مسجد لنک",
+    "not_open_mosque_link": "اس مسجد کا لنک نہیں کھولا جا سکا۔ دوبارہ کوشش کریں۔",
     "no_calendars_on_this_device": "اس ڈیوائس پر کوئی کیلنڈر نہیں ملا۔.",
     "calendar_event_at_this_time": "اس وقت کا ایونٹ",
     "@calendar_event_at_this_time": {
@@ -1253,7 +1253,7 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "آپ کی گھڑی پر ظاہر ہونے میں چند سیکنڈ لگ سکتے ہیں۔.",
-    "eid1": "Eid",
+    "eid1": "عید",
     "hide_live_activity_for_prayer": "صرف اس نماز کے لیے لائیو ایکٹیویٹی چھپائیں",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
@@ -1266,7 +1266,7 @@
     "@live_activities_appear": {
         "description": "live_activities_appear"
     },
-    "settings": "Settings",
+    "settings": "ترتیبات",
     "@settings": {
         "description": "-> settings"
     },
@@ -1276,7 +1276,7 @@
     },
     "quran_tajweed": "قرآنِ تجوید",
     "tajweed_description": "رنگوں سے نشان زد تجوید کے قواعد تاکہ آپ درستگی سے تلاوت کر سکیں",
-    "tajwid_rules": "Tajwid rules",
+    "tajwid_rules": "تجوید کے قواعد",
     "examples": "مثالیں",
     "real_time_weather": "حقیقی وقت کا موسم",
     "layout": "لےآؤٹ",
@@ -1286,5 +1286,6 @@
     "view_detail": "تفصیل دیکھیں",
     "customise": "حسبِ ضرورت ترتیب دیں",
     "temperature": "درجہ حرارت",
-    "tahajjud_time": "تہجد کا وقت"
+    "tahajjud_time": "تہجد کا وقت",
+    "midnight": "Minuit"
 }
