@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1288,5 +1288,5 @@
     "temperature": "Temperatur",
     "tahajjud_time": "Tahajjud Tid",
     "last_third": "Sista tredjedelen",
-    "midnight": "Midnatt"
+    "midnight": "Minuit"
 }
