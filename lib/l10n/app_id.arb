@@ -1287,5 +1287,6 @@
     "customise": "Kustomisasi",
     "temperature": "Suhu",
     "tahajjud_time": "Waktu Tahajjud",
-    "midnight": "Minuit"
+    "last_third": "Sepertiga akhir malam",
+    "midnight": "Tengah malam"
 }
