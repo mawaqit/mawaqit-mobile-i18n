@@ -1291,5 +1291,7 @@
     "midnight": "Midnight",
     "failed_to_update": "Failed to update.",
     "tap_to_retry": "Tap to retry",
-    "support_mawaqit_association": "Support the Mawaqit Association"
+    "support_mawaqit_association": "Support the Mawaqit Association",
+    "help_improve_mawaqit": "Help improve MAWAQIT",
+    "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared."
 }
