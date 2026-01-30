@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1290,5 +1290,6 @@
     "last_third": "Last third",
     "midnight": "Minuit",
     "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "tap_to_retry": "Tap to retry",
+    "support_mawaqit_association": "Support the Mawaqit Association"
 }
