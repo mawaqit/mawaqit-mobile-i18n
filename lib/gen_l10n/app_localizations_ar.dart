@@ -1937,7 +1937,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get real_time_weather => 'الطقس الفعلي لحظيًا';
 
   @override
-  String get layout => 'تخطيط';
+  String get layout => 'أنماط';
 
   @override
   String get list => 'قائمة';
