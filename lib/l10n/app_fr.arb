@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Heure du Tahajjud",
     "last_third": "Dernier tiers",
     "midnight": "Minuit",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Échec de la mise à jour.",
+    "tap_to_retry": "Appuyez pour réessayer"
 }
