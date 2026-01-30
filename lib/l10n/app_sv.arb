@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Tahajjud Tid",
     "last_third": "Sista tredjedelen",
     "midnight": "Minuit",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Misslyckades med att uppdatera.",
+    "tap_to_retry": "Tryck för att försöka igen"
 }
