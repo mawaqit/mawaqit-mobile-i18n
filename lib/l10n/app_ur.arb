@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1289,6 +1289,6 @@
     "tahajjud_time": "تہجد کا وقت",
     "last_third": "آخری تہائی حصہ",
     "midnight": "Minuit",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "اپڈیٹ ناکام ہو گئی۔",
+    "tap_to_retry": "دوبارہ کوشش کرنے کے لیے ٹیپ کریں"
 }
