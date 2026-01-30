@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Tahajjud idő",
     "last_third": "Utolsó harmad",
     "midnight": "Tengah Malam",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Sikertelen frissítés.",
+    "tap_to_retry": "Koppintson az újrapróbáláshoz"
 }
