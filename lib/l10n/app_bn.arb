@@ -1289,6 +1289,6 @@
     "tahajjud_time": "তাহাজ্জুদের সময়",
     "last_third": "শেষ তৃতীয়াংশ",
     "midnight": "Minuit",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "আপডেট করতে ব্যর্থ হয়েছে।",
+    "tap_to_retry": "পুনরায় চেষ্টা করতে ট্যাপ করুন"
 }
