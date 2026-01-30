@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Време за Тахаджуд",
     "last_third": "Последна трета част на нощта",
     "midnight": "Полунощ",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Неуспешно обновяване.",
+    "tap_to_retry": "Докоснете, за да опитате отново"
 }
