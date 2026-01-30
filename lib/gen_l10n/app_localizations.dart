@@ -3913,6 +3913,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Support the Mawaqit Association'**
   String get support_mawaqit_association;
+
+  /// No description provided for @help_improve_mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Help improve MAWAQIT'**
+  String get help_improve_mawaqit;
+
+  /// No description provided for @analytics_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.'**
+  String get analytics_description;
 }
 
 class _AppLocalizationsDelegate

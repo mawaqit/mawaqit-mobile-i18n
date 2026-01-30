@@ -2002,4 +2002,11 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get support_mawaqit_association =>
       'Ka bo MAWAQIT kɛyɔrɔ fɛɛ ka bɔ a yɛlɛma.';
+
+  @override
+  String get help_improve_mawaqit => 'Ka bo MAWAQIT ka kɛ nyɛ foɲa';
+
+  @override
+  String get analytics_description =>
+      'Ka ban kono don ni ala ka a lafi sisan, ni jandemaya b’a lafi. Don ni sigilan te b’a sisan.';
 }

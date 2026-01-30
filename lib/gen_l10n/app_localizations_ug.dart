@@ -1998,4 +1998,11 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'Support the Mawaqit Association';
+
+  @override
+  String get help_improve_mawaqit => 'Help improve MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.';
 }

@@ -2006,4 +2006,11 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'Támogassa a Mawaqit Egyesületet';
+
+  @override
+  String get help_improve_mawaqit => 'Segítsen fejleszteni a MAWAQIT-ot';
+
+  @override
+  String get analytics_description =>
+      'Engedélyezze névtelen használatelemzést, hogy fejleszthessük az alkalmazást. Személyes adatokat nem gyűjtünk. Soha nem osztjuk meg.';
 }

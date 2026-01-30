@@ -2004,4 +2004,11 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'Podržite MAWAQIT udruženje.';
+
+  @override
+  String get help_improve_mawaqit => 'Pomozite unaprijediti MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Dozvolite anonimnu analizu korištenja kako bismo poboljšali aplikaciju. Nema ličnih podataka. Nikada se ne dijeli.';
 }

@@ -2025,4 +2025,11 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'Soutenez l\'association Mawaqit';
+
+  @override
+  String get help_improve_mawaqit => 'Aidez à améliorer MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Autoriser l\'analyse d\'utilisation anonyme pour nous aider à améliorer l\'application. Aucune donnée personnelle. Jamais partagée.';
 }

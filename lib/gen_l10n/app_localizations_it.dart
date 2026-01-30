@@ -2017,4 +2017,11 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'Sostieni l\'Associazione Mawaqit';
+
+  @override
+  String get help_improve_mawaqit => 'Aiuta a migliorare MAWAQIT.';
+
+  @override
+  String get analytics_description =>
+      'Consenti l\'analisi anonima dell\'utilizzo per aiutarci a migliorare l\'app. Nessun dato personale. Mai condivisi.';
 }

@@ -2003,4 +2003,11 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get support_mawaqit_association =>
       'Yiltaaɗe Toppitgol Mawaqit Association';
+
+  @override
+  String get help_improve_mawaqit => 'Naatu MAWAQIT ngoodi maayo e jamfaama';
+
+  @override
+  String get analytics_description =>
+      'Mballoo goonga naafinndani goonga ngam noddota MAWAQIT. Ko feere njoɓdi. Ndaari mballoode e hooree.';
 }

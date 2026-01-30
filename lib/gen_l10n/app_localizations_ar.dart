@@ -1975,4 +1975,11 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'ادعم جمعية مواقيت';
+
+  @override
+  String get help_improve_mawaqit => 'ساهم في تحسين مواقيت';
+
+  @override
+  String get analytics_description =>
+      'السماح بتحليل الاستخدام المجهول لمساعدتنا في تحسين التطبيق. لا بيانات شخصية. لن يتم مشاركتها أبداً.';
 }

@@ -2004,4 +2004,11 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'MAWAQIT সংস্থাকে সমর্থন করুন.';
+
+  @override
+  String get help_improve_mawaqit => 'MAWAQIT উন্নত করতে সহায়তা করুন';
+
+  @override
+  String get analytics_description =>
+      'অ্যাপ উন্নত করতে আমাদেরকে নামবিহীন ব্যবহার বিশ্লেষণ করার অনুমতি দিন। কোনো ব্যক্তিগত তথ্য নেওয়া হবে না। কখনও কারো সাথে শেয়ার করা হবে না।';
 }

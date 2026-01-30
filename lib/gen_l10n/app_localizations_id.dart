@@ -2003,4 +2003,11 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'Dukung Asosiasi Mawaqit';
+
+  @override
+  String get help_improve_mawaqit => 'Bantu tingkatkan MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Izinkan analisis penggunaan anonim untuk membantu kami meningkatkan aplikasi. Tanpa data pribadi. Tidak pernah dibagikan.';
 }

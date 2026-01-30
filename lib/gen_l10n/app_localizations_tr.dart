@@ -1995,4 +1995,11 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get support_mawaqit_association => 'MAWAQIT Derneği\'ni Destekleyin';
+
+  @override
+  String get help_improve_mawaqit => 'MAWAQIT\'i geliştirmeye yardım et';
+
+  @override
+  String get analytics_description =>
+      'Uygulamayı geliştirmemize yardımcı olmak için anonim kullanım analizine izin verin. Kişisel veri yoktur. Asla paylaşılmaz.';
 }
