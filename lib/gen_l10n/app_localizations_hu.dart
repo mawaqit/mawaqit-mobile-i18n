@@ -2003,4 +2003,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Koppintson az újrapróbáláshoz';
+
+  @override
+  String get support_mawaqit_association => 'Támogassa a Mawaqit Egyesületet';
 }

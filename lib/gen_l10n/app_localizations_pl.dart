@@ -1997,4 +1997,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Stuknij, aby spróbować ponownie';
+
+  @override
+  String get support_mawaqit_association => 'Wesprzyj Stowarzyszenie Mawaqit';
 }

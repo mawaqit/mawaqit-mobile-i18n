@@ -2001,4 +2001,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'फिर से प्रयास करें टैप करें';
+
+  @override
+  String get support_mawaqit_association => 'MAWAQIT संघ का समर्थन करें';
 }

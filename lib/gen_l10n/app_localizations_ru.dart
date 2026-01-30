@@ -2000,4 +2000,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Нажмите для повтора';
+
+  @override
+  String get support_mawaqit_association => 'Поддержите ассоциацию MAWAQIT';
 }

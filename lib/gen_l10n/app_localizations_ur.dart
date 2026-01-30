@@ -1998,4 +1998,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'دوبارہ کوشش کرنے کے لیے ٹیپ کریں';
+
+  @override
+  String get support_mawaqit_association => 'مواقيت ایسوسی ایشن کی حمایت کریں';
 }

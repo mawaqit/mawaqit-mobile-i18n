@@ -2019,4 +2019,8 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Tippen zum Wiederholen';
+
+  @override
+  String get support_mawaqit_association =>
+      'Unterstützen Sie den Mawaqit-Verein';
 }

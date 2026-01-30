@@ -1999,4 +1999,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Tryck för att försöka igen';
+
+  @override
+  String get support_mawaqit_association => 'Stöd MAWAQIT-föreningen';
 }

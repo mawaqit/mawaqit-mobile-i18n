@@ -2000,4 +2000,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Napauta yrittääksesi uudelleen';
+
+  @override
+  String get support_mawaqit_association => 'Tue Mawaqit-yhdistystä';
 }

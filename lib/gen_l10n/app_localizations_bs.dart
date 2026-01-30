@@ -2001,4 +2001,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Dodirnite za ponovno pokušaj';
+
+  @override
+  String get support_mawaqit_association => 'Podržite MAWAQIT udruženje.';
 }

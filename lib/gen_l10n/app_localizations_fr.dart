@@ -2022,4 +2022,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Appuyez pour réessayer';
+
+  @override
+  String get support_mawaqit_association => 'Soutenez l\'association Mawaqit';
 }

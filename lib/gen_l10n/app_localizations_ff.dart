@@ -1999,4 +1999,8 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Heddu ɗum kuuɗi hotoore';
+
+  @override
+  String get support_mawaqit_association =>
+      'Yiltaaɗe Toppitgol Mawaqit Association';
 }

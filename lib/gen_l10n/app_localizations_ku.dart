@@ -1998,8 +1998,11 @@ class AppLocalizationsKu extends AppLocalizations {
   String get midnight => 'نێوەشەو';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'نوێکردنەوە سەرکەوتوو نەبوو.';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'بکە لەسەر بۆ هەوڵدانەوە';
+
+  @override
+  String get support_mawaqit_association => 'Support the Mawaqit Association';
 }

@@ -2015,4 +2015,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Toque para tentar novamente';
+
+  @override
+  String get support_mawaqit_association => 'Apoie a Associação Mawaqit';
 }

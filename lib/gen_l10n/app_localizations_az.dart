@@ -1999,4 +1999,8 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Yenidən cəhd etmək üçün toxunun';
+
+  @override
+  String get support_mawaqit_association =>
+      'Mawaqit Assosiasiyasını dəstəkləyin';
 }

@@ -1972,4 +1972,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'اضغط لإعادة المحاولة';
+
+  @override
+  String get support_mawaqit_association => 'ادعم جمعية مواقيت';
 }

@@ -1998,4 +1998,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Tap to retry';
+
+  @override
+  String get support_mawaqit_association => 'Support the Mawaqit Association';
 }

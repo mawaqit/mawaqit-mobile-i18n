@@ -1998,4 +1998,8 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Kan ka sigi ko dɔrɔn';
+
+  @override
+  String get support_mawaqit_association =>
+      'Ka bo MAWAQIT kɛyɔrɔ fɛɛ ka bɔ a yɛlɛma.';
 }

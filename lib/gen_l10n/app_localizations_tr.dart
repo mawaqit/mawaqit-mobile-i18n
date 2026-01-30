@@ -1992,4 +1992,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Yeniden denemek için dokunun';
+
+  @override
+  String get support_mawaqit_association => 'MAWAQIT Derneği\'ni Destekleyin';
 }

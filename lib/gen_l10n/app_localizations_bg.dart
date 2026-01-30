@@ -2006,4 +2006,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Докоснете, за да опитате отново';
+
+  @override
+  String get support_mawaqit_association => 'Подкрепете асоциация MAWAQIT';
 }
