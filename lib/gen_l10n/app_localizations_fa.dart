@@ -1997,12 +1997,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get tap_to_retry => 'برای تلاش دوباره ضربه بزنید';
 
   @override
-  String get support_mawaqit_association => 'Support the Mawaqit Association';
+  String get support_mawaqit_association => 'حمایت از انجمن مواقيت';
 
   @override
-  String get help_improve_mawaqit => 'Help improve MAWAQIT';
+  String get help_improve_mawaqit => 'به بهبود مواقيت کمک کنید';
 
   @override
   String get analytics_description =>
-      'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.';
+      'اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود.';
 }

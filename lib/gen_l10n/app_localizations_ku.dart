@@ -2001,15 +2001,15 @@ class AppLocalizationsKu extends AppLocalizations {
   String get failed_to_update => 'نوێکردنەوە سەرکەوتوو نەبوو.';
 
   @override
-  String get tap_to_retry => 'بکە لەسەر بۆ هەوڵدانەوە';
+  String get tap_to_retry => 'بگرە بۆ هەوڵدانەوە.';
 
   @override
-  String get support_mawaqit_association => 'Support the Mawaqit Association';
+  String get support_mawaqit_association => 'پشتیوانی لە کۆمەڵەی مواقيت بکە';
 
   @override
-  String get help_improve_mawaqit => 'Help improve MAWAQIT';
+  String get help_improve_mawaqit => 'یارمەتی پەرەپێدانی مواقيت بدە';
 
   @override
   String get analytics_description =>
-      'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.';
+      'مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت.';
 }

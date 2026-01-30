@@ -2027,9 +2027,9 @@ class AppLocalizationsFr extends AppLocalizations {
   String get support_mawaqit_association => 'Soutenez l\'association Mawaqit';
 
   @override
-  String get help_improve_mawaqit => 'Aidez à améliorer MAWAQIT';
+  String get help_improve_mawaqit => 'Améliorons MAWAQIT ensemble';
 
   @override
   String get analytics_description =>
-      'Autoriser l\'analyse d\'utilisation anonyme pour nous aider à améliorer l\'application. Aucune donnée personnelle. Jamais partagée.';
+      'En activant l’analyse anonyme d\'utilisation, vous nous aidez à améliorer l’application.\nAucune donnée personnelle, et aucune diffusion de données.';
 }
