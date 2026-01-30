@@ -1291,5 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "Gagal memperbarui.",
     "tap_to_retry": "Ketuk untuk mencoba lagi",
-    "support_mawaqit_association": "Dukung Asosiasi Mawaqit"
+    "support_mawaqit_association": "Dukung Asosiasi Mawaqit",
+    "help_improve_mawaqit": "Bantu tingkatkan MAWAQIT",
+    "analytics_description": "Izinkan analisis penggunaan anonim untuk membantu kami meningkatkan aplikasi. Tanpa data pribadi. Tidak pernah dibagikan."
 }
