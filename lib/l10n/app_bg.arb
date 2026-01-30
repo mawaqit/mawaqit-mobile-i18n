@@ -1288,5 +1288,7 @@
     "temperature": "Температура",
     "tahajjud_time": "Време за Тахаджуд",
     "last_third": "Последна трета част на нощта",
-    "midnight": "Полунощ"
+    "midnight": "Полунощ",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }
