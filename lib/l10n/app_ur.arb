@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1291,5 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "اپڈیٹ ناکام ہو گئی۔",
     "tap_to_retry": "دوبارہ کوشش کرنے کے لیے ٹیپ کریں",
-    "support_mawaqit_association": "مواقيت ایسوسی ایشن کی حمایت کریں"
+    "support_mawaqit_association": "مواقيت ایسوسی ایشن کی حمایت کریں",
+    "help_improve_mawaqit": "مواقيت کو بہتر بنانے میں مدد کریں",
+    "analytics_description": "ایپ کو بہتر بنانے کے لیے گمنام استعمال کا تجزیہ کرنے کی اجازت دیں۔ کوئی ذاتی معلومات نہیں لی جاتی اور نہ ہی شیئر کی جاتی ہیں۔"
 }
