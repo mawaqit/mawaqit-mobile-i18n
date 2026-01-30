@@ -1288,5 +1288,7 @@
     "temperature": "Temperatura",
     "tahajjud_time": "Czas Tahajjud",
     "last_third": "Ostatnia trzecia część nocy",
-    "midnight": "Minuit"
+    "midnight": "Minuit",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }
