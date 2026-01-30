@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Tijd Tahajjud",
     "last_third": "Laatste derde deel",
     "midnight": "Minuit",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Bijwerken mislukt.",
+    "tap_to_retry": "Tik om opnieuw te proberen"
 }
