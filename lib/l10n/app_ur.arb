@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1290,5 +1290,6 @@
     "last_third": "آخری تہائی حصہ",
     "midnight": "Minuit",
     "failed_to_update": "اپڈیٹ ناکام ہو گئی۔",
-    "tap_to_retry": "دوبارہ کوشش کرنے کے لیے ٹیپ کریں"
+    "tap_to_retry": "دوبارہ کوشش کرنے کے لیے ٹیپ کریں",
+    "support_mawaqit_association": "مواقيت ایسوسی ایشن کی حمایت کریں"
 }
