@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Teheccüd Vakti",
     "last_third": "Son üçte bir",
     "midnight": "Minuit",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Güncelleme başarısız oldu.",
+    "tap_to_retry": "Yeniden denemek için dokunun"
 }
