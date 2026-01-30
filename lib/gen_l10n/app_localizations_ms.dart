@@ -1992,5 +1992,11 @@ class AppLocalizationsMs extends AppLocalizations {
   String get last_third => 'Last third';
 
   @override
-  String get midnight => 'Midnight';
+  String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Failed to update.';
+
+  @override
+  String get tap_to_retry => 'Tap to retry';
 }

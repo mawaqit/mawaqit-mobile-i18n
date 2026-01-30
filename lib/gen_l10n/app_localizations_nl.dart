@@ -2005,5 +2005,11 @@ class AppLocalizationsNl extends AppLocalizations {
   String get last_third => 'Laatste derde deel';
 
   @override
-  String get midnight => 'Middernacht';
+  String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Bijwerken mislukt.';
+
+  @override
+  String get tap_to_retry => 'Tik om opnieuw te proberen';
 }

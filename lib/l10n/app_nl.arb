@@ -1288,5 +1288,7 @@
     "temperature": "Temperatuur",
     "tahajjud_time": "Tijd Tahajjud",
     "last_third": "Laatste derde deel",
-    "midnight": "Middernacht"
+    "midnight": "Minuit",
+    "failed_to_update": "Bijwerken mislukt.",
+    "tap_to_retry": "Tik om opnieuw te proberen"
 }

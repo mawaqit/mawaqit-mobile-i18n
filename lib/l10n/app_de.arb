@@ -1288,5 +1288,7 @@
     "temperature": "Temperatur",
     "tahajjud_time": "Tahajjud Zeit",
     "last_third": "Letztes Drittel",
-    "midnight": "Mitternacht"
+    "midnight": "Tengah Malam",
+    "failed_to_update": "Aktualisierung fehlgeschlagen.",
+    "tap_to_retry": "Tippen zum Wiederholen"
 }

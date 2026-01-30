@@ -1993,5 +1993,11 @@ class AppLocalizationsFi extends AppLocalizations {
   String get last_third => 'Viimeinen kolmannes';
 
   @override
-  String get midnight => 'Keskiyö';
+  String get midnight => 'Tengah Malam';
+
+  @override
+  String get failed_to_update => 'Päivitys epäonnistui.';
+
+  @override
+  String get tap_to_retry => 'Napauta yrittääksesi uudelleen';
 }

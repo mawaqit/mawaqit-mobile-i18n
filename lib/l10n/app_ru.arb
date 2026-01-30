@@ -1288,5 +1288,7 @@
     "temperature": "Температура",
     "tahajjud_time": "Время Тахаджджуда",
     "last_third": "Последняя треть",
-    "midnight": "Полночь"
+    "midnight": "Minuit",
+    "failed_to_update": "Не удалось обновить.",
+    "tap_to_retry": "Нажмите для повтора"
 }

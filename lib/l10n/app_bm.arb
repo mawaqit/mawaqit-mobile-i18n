@@ -1288,5 +1288,7 @@
     "temperature": "Gɛmɛgan",
     "tahajjud_time": "Tahajjud waati",
     "last_third": "Tile ka kɛlen kɔrɔcɛïla",
-    "midnight": "Tile kuma"
+    "midnight": "Tile kuma",
+    "failed_to_update": "Taa wuli ka taara, a fo.",
+    "tap_to_retry": "Kan ka sigi ko dɔrɔn"
 }

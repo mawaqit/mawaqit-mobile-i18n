@@ -1288,5 +1288,7 @@
     "temperature": "Température",
     "tahajjud_time": "Heure du Tahajjud",
     "last_third": "Nga ndeeri kewli ndiyam",
-    "midnight": "Gurduɓe fiɗna"
+    "midnight": "Tengah Malam",
+    "failed_to_update": "Hedditinɗo daadano waawaani.",
+    "tap_to_retry": "Heddu ɗum kuuɗi hotoore"
 }

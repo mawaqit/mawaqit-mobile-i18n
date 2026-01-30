@@ -1288,5 +1288,7 @@
     "temperature": "Suhu",
     "tahajjud_time": "Waktu Tahajjud",
     "last_third": "Last third",
-    "midnight": "Midnight"
+    "midnight": "Minuit",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }

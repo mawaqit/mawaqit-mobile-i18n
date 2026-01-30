@@ -1288,5 +1288,7 @@
     "temperature": "Hőmérséklet",
     "tahajjud_time": "Tahajjud idő",
     "last_third": "Utolsó harmad",
-    "midnight": "Éjfél"
+    "midnight": "Tengah Malam",
+    "failed_to_update": "Sikertelen frissítés.",
+    "tap_to_retry": "Koppintson az újrapróbáláshoz"
 }

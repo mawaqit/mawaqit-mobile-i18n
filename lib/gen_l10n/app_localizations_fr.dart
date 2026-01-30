@@ -2016,4 +2016,10 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Échec de la mise à jour.';
+
+  @override
+  String get tap_to_retry => 'Appuyez pour réessayer';
 }

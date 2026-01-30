@@ -1288,5 +1288,7 @@
     "temperature": "درجہ حرارت",
     "tahajjud_time": "تہجد کا وقت",
     "last_third": "آخری تہائی حصہ",
-    "midnight": "آدھی رات"
+    "midnight": "Minuit",
+    "failed_to_update": "اپڈیٹ ناکام ہو گئی۔",
+    "tap_to_retry": "دوبارہ کوشش کرنے کے لیے ٹیپ کریں"
 }

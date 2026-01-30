@@ -1236,14 +1236,14 @@
     "mosque_not_found": "مزگەوتەکە نەدۆزرایەوە",
     "invalid_mosque_link": "بەستەری مزگەوتەکە نادروستە",
     "not_open_mosque_link": "بەستەری ئەم مزگەوتە نەکرایەوە. تکایە دووبارە هەوڵ بدە.",
-    "no_calendars_on_this_device": "No calendars found on this device.",
-    "calendar_event_at_this_time": "Event at this time",
+    "no_calendars_on_this_device": "هیچ ڕۆژنامەیک نەدۆزرایەوە لەم ئامێرەدا.",
+    "calendar_event_at_this_time": "چالاکی لە ئەم کاتەدا",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Search by Ayah or Surah",
-    "matching_surahs": "Matching Surahs",
-    "matching_ayahs": "Matching Ayahs",
+    "search_ayah_surah": "گەڕان بە ئایەت یان سۆرە",
+    "matching_surahs": "سۆرەی هاوشێوە",
+    "matching_ayahs": "ئایەتی هاوشێوە",
     "live_timer": "کاتژمێری ڕاستەوخۆ",
     "@live_timer": {
         "description": "live_timer"
@@ -1252,21 +1252,21 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "It may take a few seconds to appear on your watch.",
-    "eid1": "Eid",
-    "hide_live_activity_for_prayer": "Hide live activity for this prayer only",
+    "take_time_appear_watch": "لەوانەیە چەند چرکەیەک ببێتەوەی كە لەسەر کاتژمێرەکەت پیشان بدرێت.",
+    "eid1": "جێژنی عید",
+    "hide_live_activity_for_prayer": "چالاکی ڕاستەوخۆ بشارەوە تەنها بۆ ئەم نوێژە",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Live Activity Always On",
+    "live_activity_always_on": "چالاکی ڕاستەوخۆ هەمیشە ڕوونە",
     "@live_activity_always_on": {
         "description": "live_activity_always_on"
     },
-    "live_activities_appear": "Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.",
+    "live_activities_appear": "چالاکییە ڕاستەوخۆکان لەسەر دەرچوو و Dynamic Island پیشان دەدرێن (ئەگەر پشتیوانی بکرێت). دوگمەی کاتژمێر لە سەرەکی بگرە بۆ کارا/ناکارا کردن. کاتێک کارا بکرێت، ئاگاداری هەمیشە دەمێنێت و کۆنتەرەکی تا نوێژی داهاتوو دەرکەوتوویە.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
     },
-    "settings": "Settings",
+    "settings": "ڕێکخستنەکان",
     "@settings": {
         "description": "-> settings"
     },
@@ -1275,9 +1275,9 @@
         "description": "-> azkar"
     },
     "quran_tajweed": "قورئان (تەجوید)",
-    "tajweed_description": "یاساکانی تەجوید بە ڕەنگەکان نیشانکراون بۆ ئەوەی یارمەتیت بدەن بە وردی تلاوەت بکەیت",
-    "tajwid_rules": "Tajwid rules",
-    "examples": "Examples",
+    "tajweed_description": "یاساکانی تەجوید بە ڕەنگ نیشانکراون بۆ تلاوەتی دروست",
+    "tajwid_rules": "یاساکانی تەجوید",
+    "examples": "نمونە",
     "real_time_weather": "کەشوهەوای ڕاستەوخ",
     "layout": "ڕێکخستن",
     "list": "لیست",
@@ -1287,6 +1287,8 @@
     "customise": "تایبەت بکە",
     "temperature": "پلەی گەرمی",
     "tahajjud_time": "کاتی تەهەجود",
-    "last_third": "Last third",
-    "midnight": "Midnight"
+    "last_third": "سێیه‌می دواهەمەوە",
+    "midnight": "نێوەشەو",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }

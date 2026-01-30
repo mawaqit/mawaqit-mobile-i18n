@@ -1992,5 +1992,11 @@ class AppLocalizationsFf extends AppLocalizations {
   String get last_third => 'Nga ndeeri kewli ndiyam';
 
   @override
-  String get midnight => 'Gurduɓe fiɗna';
+  String get midnight => 'Tengah Malam';
+
+  @override
+  String get failed_to_update => 'Hedditinɗo daadano waawaani.';
+
+  @override
+  String get tap_to_retry => 'Heddu ɗum kuuɗi hotoore';
 }

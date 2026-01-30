@@ -1992,5 +1992,11 @@ class AppLocalizationsSv extends AppLocalizations {
   String get last_third => 'Sista tredjedelen';
 
   @override
-  String get midnight => 'Midnatt';
+  String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Misslyckades med att uppdatera.';
+
+  @override
+  String get tap_to_retry => 'Tryck för att försöka igen';
 }

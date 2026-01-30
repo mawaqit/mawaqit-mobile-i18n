@@ -1992,5 +1992,11 @@ class AppLocalizationsAz extends AppLocalizations {
   String get last_third => 'Son üçdəbir';
 
   @override
-  String get midnight => 'Gecəyarısı';
+  String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Yeniləmə alınmadı.';
+
+  @override
+  String get tap_to_retry => 'Yenidən cəhd etmək üçün toxunun';
 }

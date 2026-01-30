@@ -1288,5 +1288,7 @@
     "temperature": "Temperatura",
     "tahajjud_time": "Vrijeme za Tahadžud",
     "last_third": "Zadnja trećina",
-    "midnight": "Ponoć"
+    "midnight": "Ponoć",
+    "failed_to_update": "Neuspješno ažuriranje.",
+    "tap_to_retry": "Dodirnite za ponovno pokušaj"
 }

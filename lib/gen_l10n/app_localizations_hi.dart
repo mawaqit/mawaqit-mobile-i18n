@@ -1994,5 +1994,11 @@ class AppLocalizationsHi extends AppLocalizations {
   String get last_third => 'अंतिम तिहाई';
 
   @override
-  String get midnight => 'मध्यरात्रि';
+  String get midnight => 'Tengah Malam';
+
+  @override
+  String get failed_to_update => 'अपडेट करने में विफल।';
+
+  @override
+  String get tap_to_retry => 'फिर से प्रयास करें टैप करें';
 }

@@ -1995,4 +1995,10 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get midnight => 'Ponoć';
+
+  @override
+  String get failed_to_update => 'Neuspješno ažuriranje.';
+
+  @override
+  String get tap_to_retry => 'Dodirnite za ponovno pokušaj';
 }

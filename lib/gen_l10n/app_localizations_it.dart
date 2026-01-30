@@ -2007,5 +2007,11 @@ class AppLocalizationsIt extends AppLocalizations {
   String get last_third => 'Ultimo terzo';
 
   @override
-  String get midnight => 'Mezzanotte';
+  String get midnight => 'Tengah Malam';
+
+  @override
+  String get failed_to_update => 'Aggiornamento non riuscito.';
+
+  @override
+  String get tap_to_retry => 'Tocca per riprovare';
 }

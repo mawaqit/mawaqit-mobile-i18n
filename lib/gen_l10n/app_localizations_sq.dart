@@ -1996,5 +1996,11 @@ class AppLocalizationsSq extends AppLocalizations {
   String get last_third => 'Treta e fundit';
 
   @override
-  String get midnight => 'Mesnata';
+  String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Përditësimi dështoi.';
+
+  @override
+  String get tap_to_retry => 'Prekni për të provuar sërish';
 }

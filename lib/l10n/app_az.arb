@@ -1288,5 +1288,7 @@
     "temperature": "Temperatura",
     "tahajjud_time": "Orario del Tahajjud",
     "last_third": "Son üçdəbir",
-    "midnight": "Gecəyarısı"
+    "midnight": "Minuit",
+    "failed_to_update": "Yeniləmə alınmadı.",
+    "tap_to_retry": "Yenidən cəhd etmək üçün toxunun"
 }

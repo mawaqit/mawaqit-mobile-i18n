@@ -1288,5 +1288,7 @@
     "temperature": "Temperatura",
     "tahajjud_time": "Koha e Tahaxhudit",
     "last_third": "Treta e fundit",
-    "midnight": "Mesnata"
+    "midnight": "Minuit",
+    "failed_to_update": "Përditësimi dështoi.",
+    "tap_to_retry": "Prekni për të provuar sërish"
 }

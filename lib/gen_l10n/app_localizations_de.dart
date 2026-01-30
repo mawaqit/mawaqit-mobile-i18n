@@ -2012,5 +2012,11 @@ class AppLocalizationsDe extends AppLocalizations {
   String get last_third => 'Letztes Drittel';
 
   @override
-  String get midnight => 'Mitternacht';
+  String get midnight => 'Tengah Malam';
+
+  @override
+  String get failed_to_update => 'Aktualisierung fehlgeschlagen.';
+
+  @override
+  String get tap_to_retry => 'Tippen zum Wiederholen';
 }

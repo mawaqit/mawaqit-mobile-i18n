@@ -1990,5 +1990,11 @@ class AppLocalizationsPl extends AppLocalizations {
   String get last_third => 'Ostatnia trzecia część nocy';
 
   @override
-  String get midnight => 'Północ';
+  String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Nie udało się zaktualizować.';
+
+  @override
+  String get tap_to_retry => 'Stuknij, aby spróbować ponownie';
 }

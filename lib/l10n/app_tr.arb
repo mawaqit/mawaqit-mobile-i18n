@@ -1288,5 +1288,7 @@
     "temperature": "Sıcaklık",
     "tahajjud_time": "Teheccüd Vakti",
     "last_third": "Son üçte bir",
-    "midnight": "Gece Yarısı"
+    "midnight": "Minuit",
+    "failed_to_update": "Güncelleme başarısız oldu.",
+    "tap_to_retry": "Yeniden denemek için dokunun"
 }

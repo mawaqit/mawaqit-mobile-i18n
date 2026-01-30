@@ -2000,4 +2000,10 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get midnight => 'Полунощ';
+
+  @override
+  String get failed_to_update => 'Неуспешно обновяване.';
+
+  @override
+  String get tap_to_retry => 'Докоснете, за да опитате отново';
 }

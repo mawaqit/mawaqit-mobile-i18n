@@ -1993,5 +1993,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get last_third => 'Последняя треть';
 
   @override
-  String get midnight => 'Полночь';
+  String get midnight => 'Minuit';
+
+  @override
+  String get failed_to_update => 'Не удалось обновить.';
+
+  @override
+  String get tap_to_retry => 'Нажмите для повтора';
 }
