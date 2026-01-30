@@ -3905,8 +3905,26 @@ abstract class AppLocalizations {
   /// No description provided for @tap_to_retry.
   ///
   /// In en, this message translates to:
-  /// **'Tap to retry.'**
+  /// **'Tap to retry'**
   String get tap_to_retry;
+
+  /// No description provided for @support_mawaqit_association.
+  ///
+  /// In en, this message translates to:
+  /// **'Support the Mawaqit Association'**
+  String get support_mawaqit_association;
+
+  /// No description provided for @help_improve_mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Help improve MAWAQIT'**
+  String get help_improve_mawaqit;
+
+  /// No description provided for @analytics_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.'**
+  String get analytics_description;
 }
 
 class _AppLocalizationsDelegate

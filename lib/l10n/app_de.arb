@@ -1290,5 +1290,8 @@
     "last_third": "Letztes Drittel",
     "midnight": "Tengah Malam",
     "failed_to_update": "Aktualisierung fehlgeschlagen.",
-    "tap_to_retry": "Tippen zum Wiederholen"
+    "tap_to_retry": "Tippen zum Wiederholen",
+    "support_mawaqit_association": "Unterstützen Sie den Mawaqit-Verein",
+    "help_improve_mawaqit": "Helfen Sie, MAWAQIT zu verbessern.",
+    "analytics_description": "Erlaube anonyme Nutzungsanalysen, um uns bei der Verbesserung der App zu unterstützen. Keine personenbezogenen Daten. Niemals weitergegeben."
 }

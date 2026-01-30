@@ -1290,5 +1290,8 @@
     "last_third": "Utolsó harmad",
     "midnight": "Tengah Malam",
     "failed_to_update": "Sikertelen frissítés.",
-    "tap_to_retry": "Koppintson az újrapróbáláshoz"
+    "tap_to_retry": "Koppintson az újrapróbáláshoz",
+    "support_mawaqit_association": "Támogassa a Mawaqit Egyesületet",
+    "help_improve_mawaqit": "Segítsen fejleszteni a MAWAQIT-ot",
+    "analytics_description": "Engedélyezze névtelen használatelemzést, hogy fejleszthessük az alkalmazást. Személyes adatokat nem gyűjtünk. Soha nem osztjuk meg."
 }

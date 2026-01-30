@@ -1990,7 +1990,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get tahajjud_time => 'Waktu Tahajjud';
 
   @override
-  String get last_third => 'Sepertiga akhir malam';
+  String get last_third => 'Sepertiga akhir';
 
   @override
   String get midnight => 'Minuit';
@@ -2000,4 +2000,14 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Ketuk untuk mencoba lagi';
+
+  @override
+  String get support_mawaqit_association => 'Dukung Asosiasi Mawaqit';
+
+  @override
+  String get help_improve_mawaqit => 'Bantu tingkatkan MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Izinkan analisis penggunaan anonim untuk membantu kami meningkatkan aplikasi. Tanpa data pribadi. Tidak pernah dibagikan.';
 }

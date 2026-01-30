@@ -1997,4 +1997,14 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Stuknij, aby spróbować ponownie';
+
+  @override
+  String get support_mawaqit_association => 'Wesprzyj Stowarzyszenie Mawaqit';
+
+  @override
+  String get help_improve_mawaqit => 'Pomóż ulepszyć MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Zezwól na anonimową analizę użytkowania, aby pomóc nam ulepszyć aplikację. Żadne dane osobowe nie są zbierane. Nigdy nie są udostępniane.';
 }

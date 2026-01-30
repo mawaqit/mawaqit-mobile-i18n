@@ -1290,5 +1290,8 @@
     "last_third": "अंतिम तिहाई",
     "midnight": "Tengah Malam",
     "failed_to_update": "अपडेट करने में विफल।",
-    "tap_to_retry": "फिर से प्रयास करें टैप करें"
+    "tap_to_retry": "फिर से प्रयास करें टैप करें",
+    "support_mawaqit_association": "MAWAQIT संघ का समर्थन करें",
+    "help_improve_mawaqit": "MAWAQIT को सुधारने में मदद करें",
+    "analytics_description": "ऐप को बेहतर बनाने में मदद के लिए गुमनाम उपयोग विश्लेषण की अनुमति दें। कोई व्यक्तिगत डेटा नहीं। कभी भी साझा नहीं किया जाएगा।"
 }

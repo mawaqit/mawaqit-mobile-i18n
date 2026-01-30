@@ -1279,7 +1279,7 @@
     "tajwid_rules": "أحكام التجويد",
     "examples": "أمثلة",
     "real_time_weather": "الطقس الفعلي لحظيًا",
-    "layout": "تخطيط",
+    "layout": "أنماط",
     "list": "قائمة",
     "grid": "شبكة",
     "real_time_weather_needs_internet": "يتطلب الطقس اللحظي اتصالاً بالإنترنت لتحميل التحديثات.",
@@ -1290,5 +1290,8 @@
     "last_third": "الثلث الأخير",
     "midnight": "منتصف الليل",
     "failed_to_update": "فشل في التحديث.",
-    "tap_to_retry": "اضغط لإعادة المحاولة"
+    "tap_to_retry": "اضغط لإعادة المحاولة",
+    "support_mawaqit_association": "ادعم جمعية مواقيت",
+    "help_improve_mawaqit": "ساهم في تحسين مواقيت",
+    "analytics_description": "السماح بتحليل الاستخدام المجهول لمساعدتنا في تحسين التطبيق. لا بيانات شخصية. لن يتم مشاركتها أبداً."
 }

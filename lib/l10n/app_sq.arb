@@ -1290,5 +1290,8 @@
     "last_third": "Treta e fundit",
     "midnight": "Minuit",
     "failed_to_update": "Përditësimi dështoi.",
-    "tap_to_retry": "Prekni për të provuar sërish"
+    "tap_to_retry": "Prekni për të provuar sërish",
+    "support_mawaqit_association": "Mbështesni Shoqatën MAWAQIT",
+    "help_improve_mawaqit": "Ndihmoni në përmirësimin e MAWAQIT",
+    "analytics_description": "Lejo analizën anonime të përdorimit për të na ndihmuar të përmirësojmë aplikacionin. Pa të dhëna personale. Asnjëherë nuk shpërndahet."
 }

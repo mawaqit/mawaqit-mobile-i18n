@@ -1290,5 +1290,8 @@
     "last_third": "Tile ka kɛlen kɔrɔcɛïla",
     "midnight": "Tile kuma",
     "failed_to_update": "Taa wuli ka taara, a fo.",
-    "tap_to_retry": "Kan ka sigi ko dɔrɔn"
+    "tap_to_retry": "Kan ka sigi ko dɔrɔn",
+    "support_mawaqit_association": "Ka bo MAWAQIT kɛyɔrɔ fɛɛ ka bɔ a yɛlɛma.",
+    "help_improve_mawaqit": "Ka bo MAWAQIT ka kɛ nyɛ foɲa",
+    "analytics_description": "Ka ban kono don ni ala ka a lafi sisan, ni jandemaya b’a lafi. Don ni sigilan te b’a sisan."
 }

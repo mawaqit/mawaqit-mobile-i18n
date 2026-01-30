@@ -1991,8 +1991,18 @@ class AppLocalizationsFa extends AppLocalizations {
   String get midnight => 'نیمه‌شب';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'به‌روزرسانی انجام نشد.';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'برای تلاش دوباره ضربه بزنید';
+
+  @override
+  String get support_mawaqit_association => 'Support the Mawaqit Association';
+
+  @override
+  String get help_improve_mawaqit => 'Help improve MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.';
 }

@@ -1289,6 +1289,9 @@
     "tahajjud_time": "زمان تهجّد",
     "last_third": "ثلث آخر شب",
     "midnight": "نیمه‌شب",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "به‌روزرسانی انجام نشد.",
+    "tap_to_retry": "برای تلاش دوباره ضربه بزنید",
+    "support_mawaqit_association": "Support the Mawaqit Association",
+    "help_improve_mawaqit": "Help improve MAWAQIT",
+    "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared."
 }

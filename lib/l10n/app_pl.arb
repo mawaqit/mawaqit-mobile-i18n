@@ -1290,5 +1290,8 @@
     "last_third": "Ostatnia trzecia część nocy",
     "midnight": "Minuit",
     "failed_to_update": "Nie udało się zaktualizować.",
-    "tap_to_retry": "Stuknij, aby spróbować ponownie"
+    "tap_to_retry": "Stuknij, aby spróbować ponownie",
+    "support_mawaqit_association": "Wesprzyj Stowarzyszenie Mawaqit",
+    "help_improve_mawaqit": "Pomóż ulepszyć MAWAQIT",
+    "analytics_description": "Zezwól na anonimową analizę użytkowania, aby pomóc nam ulepszyć aplikację. Żadne dane osobowe nie są zbierane. Nigdy nie są udostępniane."
 }

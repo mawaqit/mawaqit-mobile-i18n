@@ -2006,4 +2006,14 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Докоснете, за да опитате отново';
+
+  @override
+  String get support_mawaqit_association => 'Подкрепете асоциация MAWAQIT';
+
+  @override
+  String get help_improve_mawaqit => 'Помогнете за подобряване на MAWAQIT.';
+
+  @override
+  String get analytics_description =>
+      'Позволете анонимен анализ на използването, за да ни помогнете да подобрим приложението. Без лични данни. Никога не се споделят.';
 }

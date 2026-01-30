@@ -1998,4 +1998,14 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'دوبارہ کوشش کرنے کے لیے ٹیپ کریں';
+
+  @override
+  String get support_mawaqit_association => 'مواقيت ایسوسی ایشن کی حمایت کریں';
+
+  @override
+  String get help_improve_mawaqit => 'مواقيت کو بہتر بنانے میں مدد کریں';
+
+  @override
+  String get analytics_description =>
+      'ایپ کو بہتر بنانے کے لیے گمنام استعمال کا تجزیہ کرنے کی اجازت دیں۔ کوئی ذاتی معلومات نہیں لی جاتی اور نہ ہی شیئر کی جاتی ہیں۔';
 }

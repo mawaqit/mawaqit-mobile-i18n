@@ -1999,4 +1999,14 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Tryck för att försöka igen';
+
+  @override
+  String get support_mawaqit_association => 'Stöd MAWAQIT-föreningen';
+
+  @override
+  String get help_improve_mawaqit => 'Hjälp till att förbättra MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad.';
 }

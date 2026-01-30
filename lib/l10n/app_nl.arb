@@ -1290,5 +1290,8 @@
     "last_third": "Laatste derde deel",
     "midnight": "Minuit",
     "failed_to_update": "Bijwerken mislukt.",
-    "tap_to_retry": "Tik om opnieuw te proberen"
+    "tap_to_retry": "Tik om opnieuw te proberen",
+    "support_mawaqit_association": "Steun de Mawaqit Vereniging",
+    "help_improve_mawaqit": "Help MAWAQIT verbeteren",
+    "analytics_description": "Sta anonieme gebruiksanalyse toe om ons te helpen de app te verbeteren. Geen persoonlijke gegevens. Wordt nooit gedeeld."
 }

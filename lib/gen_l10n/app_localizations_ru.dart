@@ -2000,4 +2000,14 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Нажмите для повтора';
+
+  @override
+  String get support_mawaqit_association => 'Поддержите ассоциацию MAWAQIT';
+
+  @override
+  String get help_improve_mawaqit => 'Помогите улучшить MAWAQIT';
+
+  @override
+  String get analytics_description =>
+      'Разрешить анонимный сбор данных об использовании, чтобы помочь нам улучшить приложение. Личные данные не собираются. Никогда не передаются третьим лицам.';
 }

@@ -1290,5 +1290,8 @@
     "last_third": "Sista tredjedelen",
     "midnight": "Minuit",
     "failed_to_update": "Misslyckades med att uppdatera.",
-    "tap_to_retry": "Tryck för att försöka igen"
+    "tap_to_retry": "Tryck för att försöka igen",
+    "support_mawaqit_association": "Stöd MAWAQIT-föreningen",
+    "help_improve_mawaqit": "Hjälp till att förbättra MAWAQIT",
+    "analytics_description": "Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad."
 }

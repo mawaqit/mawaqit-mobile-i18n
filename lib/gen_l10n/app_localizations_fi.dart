@@ -2000,4 +2000,14 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'Napauta yrittääksesi uudelleen';
+
+  @override
+  String get support_mawaqit_association => 'Tue Mawaqit-yhdistystä';
+
+  @override
+  String get help_improve_mawaqit => 'Auta parantamaan MAWAQITia';
+
+  @override
+  String get analytics_description =>
+      'Salli anonyymi käytön analysointi auttaaksemme meitä parantamaan sovellusta. Ei henkilötietoja. Ei koskaan jaeta.';
 }

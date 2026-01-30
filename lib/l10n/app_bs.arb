@@ -1290,5 +1290,8 @@
     "last_third": "Zadnja trećina",
     "midnight": "Ponoć",
     "failed_to_update": "Neuspješno ažuriranje.",
-    "tap_to_retry": "Dodirnite za ponovno pokušaj"
+    "tap_to_retry": "Dodirnite za ponovno pokušaj",
+    "support_mawaqit_association": "Podržite MAWAQIT udruženje.",
+    "help_improve_mawaqit": "Pomozite unaprijediti MAWAQIT",
+    "analytics_description": "Dozvolite anonimnu analizu korištenja kako bismo poboljšali aplikaciju. Nema ličnih podataka. Nikada se ne dijeli."
 }

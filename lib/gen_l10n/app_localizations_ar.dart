@@ -1937,7 +1937,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get real_time_weather => 'الطقس الفعلي لحظيًا';
 
   @override
-  String get layout => 'تخطيط';
+  String get layout => 'أنماط';
 
   @override
   String get list => 'قائمة';
@@ -1972,4 +1972,14 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get tap_to_retry => 'اضغط لإعادة المحاولة';
+
+  @override
+  String get support_mawaqit_association => 'ادعم جمعية مواقيت';
+
+  @override
+  String get help_improve_mawaqit => 'ساهم في تحسين مواقيت';
+
+  @override
+  String get analytics_description =>
+      'السماح بتحليل الاستخدام المجهول لمساعدتنا في تحسين التطبيق. لا بيانات شخصية. لن يتم مشاركتها أبداً.';
 }
