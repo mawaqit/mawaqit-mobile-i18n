@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1290,5 +1290,6 @@
     "last_third": "Último tercio",
     "midnight": "Medianoche",
     "failed_to_update": "Error al actualizar.",
-    "tap_to_retry": "Toca para reintentar"
+    "tap_to_retry": "Toca para reintentar",
+    "support_mawaqit_association": "Apoya a la Asociación MAWAQIT"
 }
