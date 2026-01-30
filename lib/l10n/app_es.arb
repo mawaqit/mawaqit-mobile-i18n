@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1288,5 +1288,7 @@
     "temperature": "Temperatura",
     "tahajjud_time": "Tiempo Tahajjud",
     "last_third": "Último tercio",
-    "midnight": "Medianoche"
+    "midnight": "Medianoche",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }
