@@ -1291,5 +1291,7 @@
     "midnight": "Tengah Malam",
     "failed_to_update": "Hedditinɗo daadano waawaani.",
     "tap_to_retry": "Heddu ɗum kuuɗi hotoore",
-    "support_mawaqit_association": "Yiltaaɗe Toppitgol Mawaqit Association"
+    "support_mawaqit_association": "Yiltaaɗe Toppitgol Mawaqit Association",
+    "help_improve_mawaqit": "Naatu MAWAQIT ngoodi maayo e jamfaama",
+    "analytics_description": "Mballoo goonga naafinndani goonga ngam noddota MAWAQIT. Ko feere njoɓdi. Ndaari mballoode e hooree."
 }
