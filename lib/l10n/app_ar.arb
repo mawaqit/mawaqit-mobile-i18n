@@ -1291,5 +1291,7 @@
     "midnight": "منتصف الليل",
     "failed_to_update": "فشل في التحديث.",
     "tap_to_retry": "اضغط لإعادة المحاولة",
-    "support_mawaqit_association": "ادعم جمعية مواقيت"
+    "support_mawaqit_association": "ادعم جمعية مواقيت",
+    "help_improve_mawaqit": "ساهم في تحسين مواقيت",
+    "analytics_description": "السماح بتحليل الاستخدام المجهول لمساعدتنا في تحسين التطبيق. لا بيانات شخصية. لن يتم مشاركتها أبداً."
 }
