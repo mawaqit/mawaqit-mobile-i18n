@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Waktu Tahajjud",
     "last_third": "Sepertiga akhir malam",
     "midnight": "Minuit",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Gagal memperbarui.",
+    "tap_to_retry": "Ketuk untuk mencoba lagi"
 }
