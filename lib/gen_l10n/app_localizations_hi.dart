@@ -1997,8 +1997,8 @@ class AppLocalizationsHi extends AppLocalizations {
   String get midnight => 'Tengah Malam';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'अपडेट करने में विफल।';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'फिर से प्रयास करें टैप करें';
 }

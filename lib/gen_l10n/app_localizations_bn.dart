@@ -1997,8 +1997,8 @@ class AppLocalizationsBn extends AppLocalizations {
   String get midnight => 'Minuit';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'আপডেট করতে ব্যর্থ হয়েছে।';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'পুনরায় চেষ্টা করতে ট্যাপ করুন';
 }

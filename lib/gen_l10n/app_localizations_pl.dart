@@ -1993,8 +1993,8 @@ class AppLocalizationsPl extends AppLocalizations {
   String get midnight => 'Minuit';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'Nie udało się zaktualizować.';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'Stuknij, aby spróbować ponownie';
 }

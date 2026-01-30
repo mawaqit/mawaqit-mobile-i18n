@@ -1988,8 +1988,8 @@ class AppLocalizationsTr extends AppLocalizations {
   String get midnight => 'Minuit';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'Güncelleme başarısız oldu.';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'Yeniden denemek için dokunun';
 }

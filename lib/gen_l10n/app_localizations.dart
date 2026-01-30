@@ -3905,7 +3905,7 @@ abstract class AppLocalizations {
   /// No description provided for @tap_to_retry.
   ///
   /// In en, this message translates to:
-  /// **'Tap to retry'**
+  /// **'Tap to retry.'**
   String get tap_to_retry;
 }
 

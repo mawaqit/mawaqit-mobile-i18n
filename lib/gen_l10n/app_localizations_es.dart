@@ -2014,8 +2014,8 @@ class AppLocalizationsEs extends AppLocalizations {
   String get midnight => 'Medianoche';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'Error al actualizar.';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'Toca para reintentar';
 }

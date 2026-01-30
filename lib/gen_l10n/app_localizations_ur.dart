@@ -1994,8 +1994,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String get midnight => 'Minuit';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'اپڈیٹ ناکام ہو گئی۔';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'دوبارہ کوشش کرنے کے لیے ٹیپ کریں';
 }

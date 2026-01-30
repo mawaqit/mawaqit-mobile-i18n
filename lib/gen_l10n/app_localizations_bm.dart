@@ -1994,8 +1994,8 @@ class AppLocalizationsBm extends AppLocalizations {
   String get midnight => 'Tile kuma';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'Taa wuli ka taara, a fo.';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'Kan ka sigi ko dɔrɔn';
 }
