@@ -3895,6 +3895,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Midnight'**
   String get midnight;
+
+  /// No description provided for @failed_to_update.
+  ///
+  /// In en, this message translates to:
+  /// **'Failed to update.'**
+  String get failed_to_update;
+
+  /// No description provided for @tap_to_retry.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to retry'**
+  String get tap_to_retry;
 }
 
 class _AppLocalizationsDelegate

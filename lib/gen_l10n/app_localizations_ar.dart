@@ -1966,4 +1966,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get midnight => 'منتصف الليل';
+
+  @override
+  String get failed_to_update => 'Failed to update.';
+
+  @override
+  String get tap_to_retry => 'Tap to retry';
 }

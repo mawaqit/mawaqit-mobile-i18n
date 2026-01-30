@@ -1997,4 +1997,10 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get midnight => 'Tengah Malam';
+
+  @override
+  String get failed_to_update => 'Failed to update.';
+
+  @override
+  String get tap_to_retry => 'Tap to retry';
 }
