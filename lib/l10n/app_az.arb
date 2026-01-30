@@ -1288,5 +1288,7 @@
     "temperature": "Temperatura",
     "tahajjud_time": "Orario del Tahajjud",
     "last_third": "Son üçdəbir",
-    "midnight": "Minuit"
+    "midnight": "Minuit",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }
