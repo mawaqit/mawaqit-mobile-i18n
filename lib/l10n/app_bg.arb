@@ -1291,5 +1291,7 @@
     "midnight": "Полунощ",
     "failed_to_update": "Неуспешно обновяване.",
     "tap_to_retry": "Докоснете, за да опитате отново",
-    "support_mawaqit_association": "Подкрепете асоциация MAWAQIT"
+    "support_mawaqit_association": "Подкрепете асоциация MAWAQIT",
+    "help_improve_mawaqit": "Помогнете за подобряване на MAWAQIT.",
+    "analytics_description": "Позволете анонимен анализ на използването, за да ни помогнете да подобрим приложението. Без лични данни. Никога не се споделят."
 }
