@@ -1291,5 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "Échec de la mise à jour.",
     "tap_to_retry": "Appuyez pour réessayer",
-    "support_mawaqit_association": "Soutenez l'association Mawaqit"
+    "support_mawaqit_association": "Soutenez l'association Mawaqit",
+    "help_improve_mawaqit": "Aidez à améliorer MAWAQIT",
+    "analytics_description": "Autoriser l'analyse d'utilisation anonyme pour nous aider à améliorer l'application. Aucune donnée personnelle. Jamais partagée."
 }
