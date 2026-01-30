@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1289,6 +1289,6 @@
     "tahajjud_time": "Hora Tahajjud",
     "last_third": "Último terço",
     "midnight": "Tengah Malam",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry"
+    "failed_to_update": "Falha ao atualizar.",
+    "tap_to_retry": "Toque para tentar novamente"
 }
