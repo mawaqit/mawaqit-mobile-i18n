@@ -1291,5 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "Не удалось обновить.",
     "tap_to_retry": "Нажмите для повтора",
-    "support_mawaqit_association": "Поддержите ассоциацию MAWAQIT"
+    "support_mawaqit_association": "Поддержите ассоциацию MAWAQIT",
+    "help_improve_mawaqit": "Помогите улучшить MAWAQIT",
+    "analytics_description": "Разрешить анонимный сбор данных об использовании, чтобы помочь нам улучшить приложение. Личные данные не собираются. Никогда не передаются третьим лицам."
 }
