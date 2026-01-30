@@ -2001,7 +2001,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get failed_to_update => 'نوێکردنەوە سەرکەوتوو نەبوو.';
 
   @override
-  String get tap_to_retry => 'بگرە بۆ هەوڵدانەوە.';
+  String get tap_to_retry => 'بگرە بۆ هەوڵدانەوە';
 
   @override
   String get support_mawaqit_association => 'پشتیوانی لە کۆمەڵەی مواقيت بکە';
