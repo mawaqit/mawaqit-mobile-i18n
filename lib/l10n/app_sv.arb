@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1291,5 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "Misslyckades med att uppdatera.",
     "tap_to_retry": "Tryck för att försöka igen",
-    "support_mawaqit_association": "Stöd MAWAQIT-föreningen"
+    "support_mawaqit_association": "Stöd MAWAQIT-föreningen",
+    "help_improve_mawaqit": "Hjälp till att förbättra MAWAQIT",
+    "analytics_description": "Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad."
 }
