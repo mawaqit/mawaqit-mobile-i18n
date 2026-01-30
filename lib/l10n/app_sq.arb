@@ -1288,5 +1288,7 @@
     "temperature": "Temperatura",
     "tahajjud_time": "Koha e Tahaxhudit",
     "last_third": "Treta e fundit",
-    "midnight": "Minuit"
+    "midnight": "Minuit",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }
