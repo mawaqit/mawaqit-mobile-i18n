@@ -1,5 +1,5 @@
 {
-    "@@locale": "ku",
+    "@@locale": "ckb",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1290,8 +1290,8 @@
     "last_third": "سێیه‌می دواهەمەوە",
     "midnight": "نێوەشەو",
     "failed_to_update": "نوێکردنەوە سەرکەوتوو نەبوو.",
-    "tap_to_retry": "بکە لەسەر بۆ هەوڵدانەوە",
-    "support_mawaqit_association": "Support the Mawaqit Association",
-    "help_improve_mawaqit": "Help improve MAWAQIT",
-    "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared."
+    "tap_to_retry": "بگرە بۆ هەوڵدانەوە.",
+    "support_mawaqit_association": "پشتیوانی لە کۆمەڵەی مواقيت بکە",
+    "help_improve_mawaqit": "یارمەتی پەرەپێدانی مواقيت بدە",
+    "analytics_description": "مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت."
 }

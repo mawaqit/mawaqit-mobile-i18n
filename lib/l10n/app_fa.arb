@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1291,7 +1291,7 @@
     "midnight": "نیمه‌شب",
     "failed_to_update": "به‌روزرسانی انجام نشد.",
     "tap_to_retry": "برای تلاش دوباره ضربه بزنید",
-    "support_mawaqit_association": "Support the Mawaqit Association",
-    "help_improve_mawaqit": "Help improve MAWAQIT",
-    "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared."
+    "support_mawaqit_association": "حمایت از انجمن مواقيت",
+    "help_improve_mawaqit": "به بهبود مواقيت کمک کنید",
+    "analytics_description": "اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود."
 }
