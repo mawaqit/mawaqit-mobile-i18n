@@ -1291,5 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "Güncelleme başarısız oldu.",
     "tap_to_retry": "Yeniden denemek için dokunun",
-    "support_mawaqit_association": "MAWAQIT Derneği'ni Destekleyin"
+    "support_mawaqit_association": "MAWAQIT Derneği'ni Destekleyin",
+    "help_improve_mawaqit": "MAWAQIT'i geliştirmeye yardım et",
+    "analytics_description": "Uygulamayı geliştirmemize yardımcı olmak için anonim kullanım analizine izin verin. Kişisel veri yoktur. Asla paylaşılmaz."
 }
