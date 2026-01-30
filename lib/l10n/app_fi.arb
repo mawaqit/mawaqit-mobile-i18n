@@ -1288,5 +1288,7 @@
     "temperature": "Lämpötila",
     "tahajjud_time": "Tahajjudin Aika",
     "last_third": "Viimeinen kolmannes",
-    "midnight": "Tengah Malam"
+    "midnight": "Tengah Malam",
+    "failed_to_update": "Failed to update.",
+    "tap_to_retry": "Tap to retry"
 }
