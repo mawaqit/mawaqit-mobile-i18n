@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1308,5 +1308,6 @@
     "weather_rain": "Lluvia",
     "weather_drizzle": "Llovizna",
     "weather_thunderstorm": "Tormenta eléctrica",
-    "weather_squall": "Chubasco"
+    "weather_squall": "Chubasco",
+    "weather_celsius": "°C"
 }
