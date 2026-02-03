@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Prekni për të provuar sërish",
     "support_mawaqit_association": "Mbështesni Shoqatën MAWAQIT",
     "help_improve_mawaqit": "Ndihmoni në përmirësimin e MAWAQIT",
-    "analytics_description": "Lejo analizën anonime të përdorimit për të na ndihmuar të përmirësojmë aplikacionin. Pa të dhëna personale. Asnjëherë nuk shpërndahet."
+    "analytics_description": "Lejo analizën anonime të përdorimit për të na ndihmuar të përmirësojmë aplikacionin. Pa të dhëna personale. Asnjëherë nuk shpërndahet.",
+    "weather_clear": "I kthjellët",
+    "weather_clouds": "Re",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Hi",
+    "weather_dust": "Pluhur",
+    "weather_sand": "Rërë",
+    "weather_fog": "Mjegull",
+    "weather_haze": "Zanë",
+    "weather_smoke": "Tym",
+    "weather_mist": "Lagështi",
+    "weather_snow": "Bore",
+    "weather_rain": "Shï",
+    "weather_drizzle": "Pikimë",
+    "weather_thunderstorm": "Stuhi me vetëtima",
+    "weather_squall": "Erë e fortë"
 }
