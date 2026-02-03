@@ -1308,5 +1308,6 @@
     "weather_rain": "Дъжд",
     "weather_drizzle": "Ръмеж",
     "weather_thunderstorm": "Гръмотевична буря",
-    "weather_squall": "Ураганен вятър"
+    "weather_squall": "Ураганен вятър",
+    "weather_celsius": "°C"
 }
