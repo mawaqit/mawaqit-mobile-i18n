@@ -1293,5 +1293,20 @@
     "tap_to_retry": "फिर से प्रयास करें टैप करें",
     "support_mawaqit_association": "MAWAQIT संघ का समर्थन करें",
     "help_improve_mawaqit": "MAWAQIT को सुधारने में मदद करें",
-    "analytics_description": "ऐप को बेहतर बनाने में मदद के लिए गुमनाम उपयोग विश्लेषण की अनुमति दें। कोई व्यक्तिगत डेटा नहीं। कभी भी साझा नहीं किया जाएगा।"
+    "analytics_description": "ऐप को बेहतर बनाने में मदद के लिए गुमनाम उपयोग विश्लेषण की अनुमति दें। कोई व्यक्तिगत डेटा नहीं। कभी भी साझा नहीं किया जाएगा।",
+    "weather_clear": "स्वच्छ",
+    "weather_clouds": "बादल",
+    "weather_tornado": "बवंडर",
+    "weather_ash": "राख",
+    "weather_dust": "धूल",
+    "weather_sand": "रेत",
+    "weather_fog": "कोहरा",
+    "weather_haze": "धुंध",
+    "weather_smoke": "धुआँ",
+    "weather_mist": "कुहरा",
+    "weather_snow": "बर्फ़",
+    "weather_rain": "बारिश",
+    "weather_drizzle": "फुहार",
+    "weather_thunderstorm": "तूफ़ान",
+    "weather_squall": "आंधी"
 }
