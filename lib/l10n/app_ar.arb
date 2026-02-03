@@ -1308,5 +1308,6 @@
     "weather_rain": "ممطر",
     "weather_drizzle": "رذاذ",
     "weather_thunderstorm": "عاصفة رعدية",
-    "weather_squall": "عاصفة مفاجئة"
+    "weather_squall": "عاصفة مفاجئة",
+    "weather_celsius": "°س"
 }
