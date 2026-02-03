@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Heddu ɗum kuuɗi hotoore",
     "support_mawaqit_association": "Yiltaaɗe Toppitgol Mawaqit Association",
     "help_improve_mawaqit": "Naatu MAWAQIT ngoodi maayo e jamfaama",
-    "analytics_description": "Mballoo goonga naafinndani goonga ngam noddota MAWAQIT. Ko feere njoɓdi. Ndaari mballoode e hooree."
+    "analytics_description": "Mballoo goonga naafinndani goonga ngam noddota MAWAQIT. Ko feere njoɓdi. Ndaari mballoode e hooree.",
+    "weather_clear": "Momtu",
+    "weather_clouds": "Gisaaji",
+    "weather_tornado": "Davnde jallowol",
+    "weather_ash": "Tufre",
+    "weather_dust": "Lotto",
+    "weather_sand": "Baabal",
+    "weather_fog": "Suudu",
+    "weather_haze": "Njaannde",
+    "weather_smoke": "Luumo",
+    "weather_mist": "Awaande",
+    "weather_snow": "Sinnay",
+    "weather_rain": "Semmbaare",
+    "weather_drizzle": "Wannude",
+    "weather_thunderstorm": "Kamɗage",
+    "weather_squall": "Daggol maɓɓe"
 }
