@@ -1308,5 +1308,6 @@
     "weather_rain": "বৃষ্টি",
     "weather_drizzle": "গুঁড়ি গুঁড়ি বৃষ্টি",
     "weather_thunderstorm": "বজ্রঝড়",
-    "weather_squall": "ঝড়ো হাওয়া"
+    "weather_squall": "ঝড়ো হাওয়া",
+    "weather_celsius": "°সে."
 }
