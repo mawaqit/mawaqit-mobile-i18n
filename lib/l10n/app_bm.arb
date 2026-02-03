@@ -1308,5 +1308,6 @@
     "weather_rain": "Sanni",
     "weather_drizzle": "Sanni sigi",
     "weather_thunderstorm": "Furufurun sanni",
-    "weather_squall": "Fɛɛrɛkun"
+    "weather_squall": "Fɛɛrɛkun",
+    "weather_celsius": "°C"
 }
