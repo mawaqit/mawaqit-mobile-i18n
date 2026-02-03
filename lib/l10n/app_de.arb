@@ -1308,5 +1308,6 @@
     "weather_rain": "Regen",
     "weather_drizzle": "Nieselregen",
     "weather_thunderstorm": "Gewitter",
-    "weather_squall": "Böe"
+    "weather_squall": "Böe",
+    "weather_celsius": "°C"
 }
