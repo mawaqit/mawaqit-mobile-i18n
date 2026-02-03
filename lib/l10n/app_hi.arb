@@ -1308,5 +1308,6 @@
     "weather_rain": "बारिश",
     "weather_drizzle": "फुहार",
     "weather_thunderstorm": "तूफ़ान",
-    "weather_squall": "आंधी"
+    "weather_squall": "आंधी",
+    "weather_celsius": "°C"
 }
