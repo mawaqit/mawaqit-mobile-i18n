@@ -1308,5 +1308,6 @@
     "weather_rain": "Deszcz",
     "weather_drizzle": "Mżawka",
     "weather_thunderstorm": "Burza z piorunami",
-    "weather_squall": "szkwał"
+    "weather_squall": "szkwał",
+    "weather_celsius": "°C"
 }
