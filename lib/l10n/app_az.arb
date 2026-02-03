@@ -1308,5 +1308,6 @@
     "weather_rain": "Yağışlıdır",
     "weather_drizzle": "Çiskin",
     "weather_thunderstorm": "Şimşəkli yağış",
-    "weather_squall": "Güclü küləklik hava"
+    "weather_squall": "Güclü küləklik hava",
+    "weather_celsius": "°C"
 }
