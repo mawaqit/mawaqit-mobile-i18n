@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Tippen zum Wiederholen",
     "support_mawaqit_association": "Unterstützen Sie den Mawaqit-Verein",
     "help_improve_mawaqit": "Helfen Sie, MAWAQIT zu verbessern.",
-    "analytics_description": "Erlaube anonyme Nutzungsanalysen, um uns bei der Verbesserung der App zu unterstützen. Keine personenbezogenen Daten. Niemals weitergegeben."
+    "analytics_description": "Erlaube anonyme Nutzungsanalysen, um uns bei der Verbesserung der App zu unterstützen. Keine personenbezogenen Daten. Niemals weitergegeben.",
+    "weather_clear": "Klar",
+    "weather_clouds": "Wolken",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Asche",
+    "weather_dust": "Staub",
+    "weather_sand": "Sand",
+    "weather_fog": "Nebel",
+    "weather_haze": "Dunst",
+    "weather_smoke": "Rauch",
+    "weather_mist": "Dunst",
+    "weather_snow": "Schnee",
+    "weather_rain": "Regen",
+    "weather_drizzle": "Nieselregen",
+    "weather_thunderstorm": "Gewitter",
+    "weather_squall": "Böe"
 }
