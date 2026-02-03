@@ -1308,5 +1308,6 @@
     "weather_rain": "Semmbaare",
     "weather_drizzle": "Wannude",
     "weather_thunderstorm": "Kamɗage",
-    "weather_squall": "Daggol maɓɓe"
+    "weather_squall": "Daggol maɓɓe",
+    "weather_celsius": "°C"
 }
