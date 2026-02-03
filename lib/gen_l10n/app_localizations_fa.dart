@@ -2007,50 +2007,51 @@ class AppLocalizationsFa extends AppLocalizations {
       'اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود.';
 
   @override
-  String get weather_clear => 'Clear';
+  String get weather_clear => 'صاف';
 
   @override
-  String get weather_clouds => 'Clouds';
+  String get weather_clouds => 'ابری';
 
   @override
-  String get weather_tornado => 'Tornado';
+  String get weather_tornado => 'توفان گردباد';
 
   @override
-  String get weather_ash => 'Ash';
+  String get weather_ash => 'خاکستر';
 
   @override
-  String get weather_dust => 'Dust';
+  String get weather_dust => 'گرد و غبار';
 
   @override
-  String get weather_sand => 'Sand';
+  String get weather_sand => 'شن';
 
   @override
-  String get weather_fog => 'Fog';
+  String get weather_fog => 'مه';
 
   @override
-  String get weather_haze => 'Haze';
+  String get weather_haze => 'غبارآلود';
 
   @override
-  String get weather_smoke => 'Smoke';
+  String get weather_smoke => 'دود';
 
   @override
-  String get weather_mist => 'Mist';
+  String get weather_mist => 'غبار کم';
 
   @override
-  String get weather_snow => 'Snow';
+  String get weather_snow => 'برف';
 
   @override
-  String get weather_rain => 'Rain';
+  String get weather_rain =>
+      'باران‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎';
 
   @override
-  String get weather_drizzle => 'Drizzle';
+  String get weather_drizzle => 'نم‌نم باران';
 
   @override
-  String get weather_thunderstorm => 'Thunderstorm';
+  String get weather_thunderstorm => 'رعد و برق';
 
   @override
-  String get weather_squall => 'Squall';
+  String get weather_squall => 'تندباد شدید';
 
   @override
-  String get weather_celsius => '°C';
+  String get weather_celsius => '°سانتی‌گراد';
 }
