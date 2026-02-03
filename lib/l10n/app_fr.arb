@@ -1308,5 +1308,6 @@
     "weather_rain": "Pluie",
     "weather_drizzle": "Bruine",
     "weather_thunderstorm": "Orage",
-    "weather_squall": "Rafale"
+    "weather_squall": "Rafale",
+    "weather_celsius": "°C"
 }
