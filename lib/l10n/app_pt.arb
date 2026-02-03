@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1308,5 +1308,6 @@
     "weather_rain": "Chuva",
     "weather_drizzle": "Garoa",
     "weather_thunderstorm": "Trovoada",
-    "weather_squall": "Rajada de vento"
+    "weather_squall": "Rajada de vento",
+    "weather_celsius": "°C"
 }
