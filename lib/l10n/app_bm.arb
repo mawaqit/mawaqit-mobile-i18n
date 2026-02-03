@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Kan ka sigi ko dɔrɔn",
     "support_mawaqit_association": "Ka bo MAWAQIT kɛyɔrɔ fɛɛ ka bɔ a yɛlɛma.",
     "help_improve_mawaqit": "Ka bo MAWAQIT ka kɛ nyɛ foɲa",
-    "analytics_description": "Ka ban kono don ni ala ka a lafi sisan, ni jandemaya b’a lafi. Don ni sigilan te b’a sisan."
+    "analytics_description": "Ka ban kono don ni ala ka a lafi sisan, ni jandemaya b’a lafi. Don ni sigilan te b’a sisan.",
+    "weather_clear": "Kɛnyɛnafa",
+    "weather_clouds": "Nuɲumanw",
+    "weather_tornado": "Kùnùgò fɛ",
+    "weather_ash": "Cɛgi",
+    "weather_dust": "Dutu",
+    "weather_sand": "Sable",
+    "weather_fog": "Furufuru",
+    "weather_haze": "Haze",
+    "weather_smoke": "Sunu",
+    "weather_mist": "Furu",
+    "weather_snow": "Sini",
+    "weather_rain": "Sanni",
+    "weather_drizzle": "Sanni sigi",
+    "weather_thunderstorm": "Furufurun sanni",
+    "weather_squall": "Fɛɛrɛkun"
 }
