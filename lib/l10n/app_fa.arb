@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa-AF",
+    "@@locale": "fa",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1293,5 +1293,21 @@
     "tap_to_retry": "برای تلاش دوباره ضربه بزنید",
     "support_mawaqit_association": "حمایت از انجمن مواقيت",
     "help_improve_mawaqit": "به بهبود مواقيت کمک کنید",
-    "analytics_description": "اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود."
+    "analytics_description": "اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود.",
+    "weather_clear": "Clear",
+    "weather_clouds": "Clouds",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Ash",
+    "weather_dust": "Dust",
+    "weather_sand": "Sand",
+    "weather_fog": "Fog",
+    "weather_haze": "Haze",
+    "weather_smoke": "Smoke",
+    "weather_mist": "Mist",
+    "weather_snow": "Snow",
+    "weather_rain": "Rain",
+    "weather_drizzle": "Drizzle",
+    "weather_thunderstorm": "Thunderstorm",
+    "weather_squall": "Squall",
+    "weather_celsius": "°C"
 }

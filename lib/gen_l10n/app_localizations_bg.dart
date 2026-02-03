@@ -2016,4 +2016,52 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get analytics_description =>
       'Позволете анонимен анализ на използването, за да ни помогнете да подобрим приложението. Без лични данни. Никога не се споделят.';
+
+  @override
+  String get weather_clear => 'Ясно време';
+
+  @override
+  String get weather_clouds => 'Облачно';
+
+  @override
+  String get weather_tornado => 'Торнадо';
+
+  @override
+  String get weather_ash => 'Пепел';
+
+  @override
+  String get weather_dust => 'Прах';
+
+  @override
+  String get weather_sand => 'Пясък';
+
+  @override
+  String get weather_fog => 'Мъгла';
+
+  @override
+  String get weather_haze => 'Замърсен въздух';
+
+  @override
+  String get weather_smoke => 'Дим';
+
+  @override
+  String get weather_mist => 'Лека мъгла';
+
+  @override
+  String get weather_snow => 'Сняг';
+
+  @override
+  String get weather_rain => 'Дъжд';
+
+  @override
+  String get weather_drizzle => 'Ръмеж';
+
+  @override
+  String get weather_thunderstorm => 'Гръмотевична буря';
+
+  @override
+  String get weather_squall => 'Ураганен вятър';
+
+  @override
+  String get weather_celsius => '°C';
 }

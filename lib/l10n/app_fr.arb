@@ -1293,5 +1293,21 @@
     "tap_to_retry": "Appuyez pour réessayer",
     "support_mawaqit_association": "Soutenez l'association Mawaqit",
     "help_improve_mawaqit": "Améliorons MAWAQIT ensemble",
-    "analytics_description": "En activant l’analyse anonyme d'utilisation, vous nous aidez à améliorer l’application.\nAucune donnée personnelle, et aucune diffusion de données."
+    "analytics_description": "En activant l’analyse anonyme d'utilisation, vous nous aidez à améliorer l’application.\nAucune donnée personnelle, et aucune diffusion de données.",
+    "weather_clear": "Dégagé",
+    "weather_clouds": "Nuages",
+    "weather_tornado": "Tornade",
+    "weather_ash": "Cendre",
+    "weather_dust": "Poussière",
+    "weather_sand": "Sable",
+    "weather_fog": "Brouillard",
+    "weather_haze": "Brume sèche",
+    "weather_smoke": "Fumée",
+    "weather_mist": "Brume",
+    "weather_snow": "Neige",
+    "weather_rain": "Pluie",
+    "weather_drizzle": "Bruine",
+    "weather_thunderstorm": "Orage",
+    "weather_squall": "Rafale",
+    "weather_celsius": "°C"
 }

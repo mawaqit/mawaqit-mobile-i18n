@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa-PK",
+    "@@locale": "pa",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1293,5 +1293,21 @@
     "tap_to_retry": "Tap to retry",
     "support_mawaqit_association": "Support the Mawaqit Association",
     "help_improve_mawaqit": "Help improve MAWAQIT",
-    "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared."
+    "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.",
+    "weather_clear": "Clear",
+    "weather_clouds": "Clouds",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Ash",
+    "weather_dust": "Dust",
+    "weather_sand": "Sand",
+    "weather_fog": "Fog",
+    "weather_haze": "Haze",
+    "weather_smoke": "Smoke",
+    "weather_mist": "Mist",
+    "weather_snow": "Snow",
+    "weather_rain": "Rain",
+    "weather_drizzle": "Drizzle",
+    "weather_thunderstorm": "Thunderstorm",
+    "weather_squall": "Squall",
+    "weather_celsius": "°C"
 }

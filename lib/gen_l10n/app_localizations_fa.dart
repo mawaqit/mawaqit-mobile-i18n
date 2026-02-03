@@ -2005,4 +2005,52 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get analytics_description =>
       'اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود.';
+
+  @override
+  String get weather_clear => 'Clear';
+
+  @override
+  String get weather_clouds => 'Clouds';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'Ash';
+
+  @override
+  String get weather_dust => 'Dust';
+
+  @override
+  String get weather_sand => 'Sand';
+
+  @override
+  String get weather_fog => 'Fog';
+
+  @override
+  String get weather_haze => 'Haze';
+
+  @override
+  String get weather_smoke => 'Smoke';
+
+  @override
+  String get weather_mist => 'Mist';
+
+  @override
+  String get weather_snow => 'Snow';
+
+  @override
+  String get weather_rain => 'Rain';
+
+  @override
+  String get weather_drizzle => 'Drizzle';
+
+  @override
+  String get weather_thunderstorm => 'Thunderstorm';
+
+  @override
+  String get weather_squall => 'Squall';
+
+  @override
+  String get weather_celsius => '°C';
 }

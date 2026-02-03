@@ -2002,4 +2002,52 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get analytics_description =>
       'Uygulamayı geliştirmemize yardımcı olmak için anonim kullanım analizine izin verin. Kişisel veri yoktur. Asla paylaşılmaz.';
+
+  @override
+  String get weather_clear => 'Açık';
+
+  @override
+  String get weather_clouds => 'Bulutlu';
+
+  @override
+  String get weather_tornado => 'Hortum';
+
+  @override
+  String get weather_ash => 'Kül';
+
+  @override
+  String get weather_dust => 'Toz';
+
+  @override
+  String get weather_sand => 'Kum';
+
+  @override
+  String get weather_fog => 'Sis';
+
+  @override
+  String get weather_haze => 'Pus';
+
+  @override
+  String get weather_smoke => 'Duman';
+
+  @override
+  String get weather_mist => 'Yoğun nemli hava';
+
+  @override
+  String get weather_snow => 'Kar';
+
+  @override
+  String get weather_rain => 'Yağmur';
+
+  @override
+  String get weather_drizzle => 'Çiseleme';
+
+  @override
+  String get weather_thunderstorm => 'Gök gürültülü fırtına';
+
+  @override
+  String get weather_squall => 'Fırtına';
+
+  @override
+  String get weather_celsius => '°C';
 }

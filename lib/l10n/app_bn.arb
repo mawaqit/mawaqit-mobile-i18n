@@ -1293,5 +1293,21 @@
     "tap_to_retry": "পুনরায় চেষ্টা করতে ট্যাপ করুন",
     "support_mawaqit_association": "MAWAQIT সংস্থাকে সমর্থন করুন.",
     "help_improve_mawaqit": "MAWAQIT উন্নত করতে সহায়তা করুন",
-    "analytics_description": "অ্যাপ উন্নত করতে আমাদেরকে নামবিহীন ব্যবহার বিশ্লেষণ করার অনুমতি দিন। কোনো ব্যক্তিগত তথ্য নেওয়া হবে না। কখনও কারো সাথে শেয়ার করা হবে না।"
+    "analytics_description": "অ্যাপ উন্নত করতে আমাদেরকে নামবিহীন ব্যবহার বিশ্লেষণ করার অনুমতি দিন। কোনো ব্যক্তিগত তথ্য নেওয়া হবে না। কখনও কারো সাথে শেয়ার করা হবে না।",
+    "weather_clear": "পরিষ্কার",
+    "weather_clouds": "মেঘলা",
+    "weather_tornado": "ঘূর্ণিঝড়",
+    "weather_ash": "ছাই",
+    "weather_dust": "ধুলা",
+    "weather_sand": "বালু",
+    "weather_fog": "কুয়াশা",
+    "weather_haze": "হালকা কুয়াশা",
+    "weather_smoke": "ধোঁয়া",
+    "weather_mist": "মিস্ট (মৃদু কুয়াশা)",
+    "weather_snow": "তুষার",
+    "weather_rain": "বৃষ্টি",
+    "weather_drizzle": "গুঁড়ি গুঁড়ি বৃষ্টি",
+    "weather_thunderstorm": "বজ্রঝড়",
+    "weather_squall": "ঝড়ো হাওয়া",
+    "weather_celsius": "°সে."
 }

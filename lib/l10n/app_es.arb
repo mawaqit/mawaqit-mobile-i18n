@@ -1,5 +1,5 @@
 {
-    "@@locale": "es-ES",
+    "@@locale": "es",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1293,5 +1293,21 @@
     "tap_to_retry": "Toca para reintentar",
     "support_mawaqit_association": "Apoya a la Asociación MAWAQIT",
     "help_improve_mawaqit": "Ayuda a mejorar MAWAQIT",
-    "analytics_description": "Permitir el análisis de uso anónimo para ayudarnos a mejorar la aplicación. Sin datos personales. Nunca se comparte."
+    "analytics_description": "Permitir el análisis de uso anónimo para ayudarnos a mejorar la aplicación. Sin datos personales. Nunca se comparte.",
+    "weather_clear": "Despejado",
+    "weather_clouds": "Nubes",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Ceniza",
+    "weather_dust": "Polvo",
+    "weather_sand": "Arena",
+    "weather_fog": "Niebla",
+    "weather_haze": "Calina",
+    "weather_smoke": "Humo",
+    "weather_mist": "Neblina",
+    "weather_snow": "Nieve",
+    "weather_rain": "Lluvia",
+    "weather_drizzle": "Llovizna",
+    "weather_thunderstorm": "Tormenta eléctrica",
+    "weather_squall": "Chubasco",
+    "weather_celsius": "°C"
 }

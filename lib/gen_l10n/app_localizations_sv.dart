@@ -2009,4 +2009,52 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get analytics_description =>
       'Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad.';
+
+  @override
+  String get weather_clear => 'Klart';
+
+  @override
+  String get weather_clouds => 'Moln';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'Aska';
+
+  @override
+  String get weather_dust => 'Damm';
+
+  @override
+  String get weather_sand => 'Sand';
+
+  @override
+  String get weather_fog => 'Dimma';
+
+  @override
+  String get weather_haze => 'Dis';
+
+  @override
+  String get weather_smoke => 'Rök';
+
+  @override
+  String get weather_mist => 'Lätt dimma';
+
+  @override
+  String get weather_snow => 'Snö';
+
+  @override
+  String get weather_rain => 'Regn';
+
+  @override
+  String get weather_drizzle => 'Duggregn';
+
+  @override
+  String get weather_thunderstorm => 'Åskväder';
+
+  @override
+  String get weather_squall => 'Stormbyar';
+
+  @override
+  String get weather_celsius => '°C';
 }

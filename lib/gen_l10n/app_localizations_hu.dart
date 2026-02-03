@@ -2013,4 +2013,52 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get analytics_description =>
       'Engedélyezze névtelen használatelemzést, hogy fejleszthessük az alkalmazást. Személyes adatokat nem gyűjtünk. Soha nem osztjuk meg.';
+
+  @override
+  String get weather_clear => 'Derült idő';
+
+  @override
+  String get weather_clouds => 'Felhők';
+
+  @override
+  String get weather_tornado => 'Tornádó';
+
+  @override
+  String get weather_ash => 'Hamu';
+
+  @override
+  String get weather_dust => 'Por';
+
+  @override
+  String get weather_sand => 'Homok';
+
+  @override
+  String get weather_fog => 'Köd';
+
+  @override
+  String get weather_haze => 'Pára';
+
+  @override
+  String get weather_smoke => 'Füst';
+
+  @override
+  String get weather_mist => 'Pára';
+
+  @override
+  String get weather_snow => 'Hó';
+
+  @override
+  String get weather_rain => 'Eső';
+
+  @override
+  String get weather_drizzle => 'Szitálás';
+
+  @override
+  String get weather_thunderstorm => 'Zivatar';
+
+  @override
+  String get weather_squall => 'Viharos szél';
+
+  @override
+  String get weather_celsius => '°C';
 }

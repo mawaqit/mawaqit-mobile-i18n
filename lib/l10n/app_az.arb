@@ -1293,5 +1293,21 @@
     "tap_to_retry": "Yenidən cəhd etmək üçün toxunun",
     "support_mawaqit_association": "Mawaqit Assosiasiyasını dəstəkləyin",
     "help_improve_mawaqit": "MAWAQIT-i inkişaf etdirməyə kömək et",
-    "analytics_description": "Tətbiqin təkmilləşdirilməsi üçün anonim istifadəçi analizinə icazə verin. Şəxsi məlumat toplanmır. Heç vaxt paylaşılmır."
+    "analytics_description": "Tətbiqin təkmilləşdirilməsi üçün anonim istifadəçi analizinə icazə verin. Şəxsi məlumat toplanmır. Heç vaxt paylaşılmır.",
+    "weather_clear": "Açıq hava",
+    "weather_clouds": "Buludlu",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Kül",
+    "weather_dust": "Toz",
+    "weather_sand": "Qum",
+    "weather_fog": "Duman",
+    "weather_haze": "Dumanlı hava",
+    "weather_smoke": "Tüstü",
+    "weather_mist": "Çən",
+    "weather_snow": "Qar",
+    "weather_rain": "Yağışlıdır",
+    "weather_drizzle": "Çiskin",
+    "weather_thunderstorm": "Şimşəkli yağış",
+    "weather_squall": "Güclü küləklik hava",
+    "weather_celsius": "°C"
 }

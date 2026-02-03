@@ -1982,4 +1982,52 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get analytics_description =>
       'اسمح لنا بجمع بيانات استخدام مجهولة لتحسين التطبيق. لا نجمع بيانات شخصية ولا نشاركها مع أحد.';
+
+  @override
+  String get weather_clear => 'صافٍ';
+
+  @override
+  String get weather_clouds => 'غائم';
+
+  @override
+  String get weather_tornado => 'إعصار';
+
+  @override
+  String get weather_ash => 'رماد';
+
+  @override
+  String get weather_dust => 'غبار';
+
+  @override
+  String get weather_sand => 'رمل';
+
+  @override
+  String get weather_fog => 'ضباب';
+
+  @override
+  String get weather_haze => 'شبورة';
+
+  @override
+  String get weather_smoke => 'دخان';
+
+  @override
+  String get weather_mist => 'سديم';
+
+  @override
+  String get weather_snow => 'ثلج';
+
+  @override
+  String get weather_rain => 'ممطر';
+
+  @override
+  String get weather_drizzle => 'رذاذ';
+
+  @override
+  String get weather_thunderstorm => 'عاصفة رعدية';
+
+  @override
+  String get weather_squall => 'عاصفة مفاجئة';
+
+  @override
+  String get weather_celsius => '°س';
 }

@@ -2010,4 +2010,52 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get analytics_description =>
       'Salli anonyymi käytön analysointi auttaaksemme meitä parantamaan sovellusta. Ei henkilötietoja. Ei koskaan jaeta.';
+
+  @override
+  String get weather_clear => 'Kirkas';
+
+  @override
+  String get weather_clouds => 'Pilvistä';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'Tuhka';
+
+  @override
+  String get weather_dust => 'Pöly';
+
+  @override
+  String get weather_sand => 'Hiekka';
+
+  @override
+  String get weather_fog => 'Sumu';
+
+  @override
+  String get weather_haze => 'Utuisuus';
+
+  @override
+  String get weather_smoke => 'Savu';
+
+  @override
+  String get weather_mist => 'Usva';
+
+  @override
+  String get weather_snow => 'Lumi';
+
+  @override
+  String get weather_rain => 'Sade';
+
+  @override
+  String get weather_drizzle => 'Tihkusade';
+
+  @override
+  String get weather_thunderstorm => 'Ukonilma';
+
+  @override
+  String get weather_squall => 'Puuska';
+
+  @override
+  String get weather_celsius => '°C';
 }

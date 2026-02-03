@@ -1293,5 +1293,21 @@
     "tap_to_retry": "Tik om opnieuw te proberen",
     "support_mawaqit_association": "Steun de Mawaqit Vereniging",
     "help_improve_mawaqit": "Help MAWAQIT verbeteren",
-    "analytics_description": "Sta anonieme gebruiksanalyse toe om ons te helpen de app te verbeteren. Geen persoonlijke gegevens. Wordt nooit gedeeld."
+    "analytics_description": "Sta anonieme gebruiksanalyse toe om ons te helpen de app te verbeteren. Geen persoonlijke gegevens. Wordt nooit gedeeld.",
+    "weather_clear": "Helder",
+    "weather_clouds": "Wolken",
+    "weather_tornado": "Tornado",
+    "weather_ash": "As",
+    "weather_dust": "Stof",
+    "weather_sand": "Zand",
+    "weather_fog": "Mist",
+    "weather_haze": "Nevel",
+    "weather_smoke": "Rook",
+    "weather_mist": "Damp",
+    "weather_snow": "Sneeuw",
+    "weather_rain": "Regen",
+    "weather_drizzle": "Motregen",
+    "weather_thunderstorm": "Onweer",
+    "weather_squall": "Windstoot",
+    "weather_celsius": "°C"
 }

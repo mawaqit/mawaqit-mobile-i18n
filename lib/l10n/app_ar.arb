@@ -1293,5 +1293,21 @@
     "tap_to_retry": "اضغط لإعادة المحاولة",
     "support_mawaqit_association": "ادعم جمعية مواقيت",
     "help_improve_mawaqit": "ساعد في تطوير مواقيت",
-    "analytics_description": "اسمح لنا بجمع بيانات استخدام مجهولة لتحسين التطبيق. لا نجمع بيانات شخصية ولا نشاركها مع أحد."
+    "analytics_description": "اسمح لنا بجمع بيانات استخدام مجهولة لتحسين التطبيق. لا نجمع بيانات شخصية ولا نشاركها مع أحد.",
+    "weather_clear": "صافٍ",
+    "weather_clouds": "غائم",
+    "weather_tornado": "إعصار",
+    "weather_ash": "رماد",
+    "weather_dust": "غبار",
+    "weather_sand": "رمل",
+    "weather_fog": "ضباب",
+    "weather_haze": "شبورة",
+    "weather_smoke": "دخان",
+    "weather_mist": "سديم",
+    "weather_snow": "ثلج",
+    "weather_rain": "ممطر",
+    "weather_drizzle": "رذاذ",
+    "weather_thunderstorm": "عاصفة رعدية",
+    "weather_squall": "عاصفة مفاجئة",
+    "weather_celsius": "°س"
 }

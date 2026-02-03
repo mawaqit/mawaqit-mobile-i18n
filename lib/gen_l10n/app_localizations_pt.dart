@@ -2025,4 +2025,52 @@ class AppLocalizationsPt extends AppLocalizations {
   @override
   String get analytics_description =>
       'Permita a análise de uso anônima para nos ajudar a melhorar o aplicativo. Nenhum dado pessoal. Nunca compartilhado.';
+
+  @override
+  String get weather_clear => 'Limpo';
+
+  @override
+  String get weather_clouds => 'Nublado';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'Cinza vulcânica';
+
+  @override
+  String get weather_dust => 'Poeira';
+
+  @override
+  String get weather_sand => 'Areia';
+
+  @override
+  String get weather_fog => 'Névoa';
+
+  @override
+  String get weather_haze => 'Neblina seca';
+
+  @override
+  String get weather_smoke => 'Fumaça';
+
+  @override
+  String get weather_mist => 'Névoa úmida';
+
+  @override
+  String get weather_snow => 'Neve';
+
+  @override
+  String get weather_rain => 'Chuva';
+
+  @override
+  String get weather_drizzle => 'Garoa';
+
+  @override
+  String get weather_thunderstorm => 'Trovoada';
+
+  @override
+  String get weather_squall => 'Rajada de vento';
+
+  @override
+  String get weather_celsius => '°C';
 }

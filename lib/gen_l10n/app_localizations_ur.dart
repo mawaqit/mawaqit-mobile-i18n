@@ -2008,4 +2008,52 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get analytics_description =>
       'ایپ کو بہتر بنانے کے لیے گمنام استعمال کا تجزیہ کرنے کی اجازت دیں۔ کوئی ذاتی معلومات نہیں لی جاتی اور نہ ہی شیئر کی جاتی ہیں۔';
+
+  @override
+  String get weather_clear => 'صاف';
+
+  @override
+  String get weather_clouds => 'بادل';
+
+  @override
+  String get weather_tornado => 'طوفانی بگولا';
+
+  @override
+  String get weather_ash => 'راکھ';
+
+  @override
+  String get weather_dust => 'گرد';
+
+  @override
+  String get weather_sand => 'ریت';
+
+  @override
+  String get weather_fog => 'دھند';
+
+  @override
+  String get weather_haze => 'کہر';
+
+  @override
+  String get weather_smoke => 'دھواں';
+
+  @override
+  String get weather_mist => 'کہر آور';
+
+  @override
+  String get weather_snow => 'برف';
+
+  @override
+  String get weather_rain => 'بارش';
+
+  @override
+  String get weather_drizzle => 'بوندا باندی';
+
+  @override
+  String get weather_thunderstorm => 'گرج چمک کا طوفان';
+
+  @override
+  String get weather_squall => 'تیز جھکڑ';
+
+  @override
+  String get weather_celsius => '°سِ';
 }

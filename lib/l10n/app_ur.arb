@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur-PK",
+    "@@locale": "ur",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1293,5 +1293,21 @@
     "tap_to_retry": "دوبارہ کوشش کرنے کے لیے ٹیپ کریں",
     "support_mawaqit_association": "مواقيت ایسوسی ایشن کی حمایت کریں",
     "help_improve_mawaqit": "مواقيت کو بہتر بنانے میں مدد کریں",
-    "analytics_description": "ایپ کو بہتر بنانے کے لیے گمنام استعمال کا تجزیہ کرنے کی اجازت دیں۔ کوئی ذاتی معلومات نہیں لی جاتی اور نہ ہی شیئر کی جاتی ہیں۔"
+    "analytics_description": "ایپ کو بہتر بنانے کے لیے گمنام استعمال کا تجزیہ کرنے کی اجازت دیں۔ کوئی ذاتی معلومات نہیں لی جاتی اور نہ ہی شیئر کی جاتی ہیں۔",
+    "weather_clear": "صاف",
+    "weather_clouds": "بادل",
+    "weather_tornado": "طوفانی بگولا",
+    "weather_ash": "راکھ",
+    "weather_dust": "گرد",
+    "weather_sand": "ریت",
+    "weather_fog": "دھند",
+    "weather_haze": "کہر",
+    "weather_smoke": "دھواں",
+    "weather_mist": "کہر آور",
+    "weather_snow": "برف",
+    "weather_rain": "بارش",
+    "weather_drizzle": "بوندا باندی",
+    "weather_thunderstorm": "گرج چمک کا طوفان",
+    "weather_squall": "تیز جھکڑ",
+    "weather_celsius": "°سِ"
 }

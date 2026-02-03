@@ -2022,4 +2022,52 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get analytics_description =>
       'Sta anonieme gebruiksanalyse toe om ons te helpen de app te verbeteren. Geen persoonlijke gegevens. Wordt nooit gedeeld.';
+
+  @override
+  String get weather_clear => 'Helder';
+
+  @override
+  String get weather_clouds => 'Wolken';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'As';
+
+  @override
+  String get weather_dust => 'Stof';
+
+  @override
+  String get weather_sand => 'Zand';
+
+  @override
+  String get weather_fog => 'Mist';
+
+  @override
+  String get weather_haze => 'Nevel';
+
+  @override
+  String get weather_smoke => 'Rook';
+
+  @override
+  String get weather_mist => 'Damp';
+
+  @override
+  String get weather_snow => 'Sneeuw';
+
+  @override
+  String get weather_rain => 'Regen';
+
+  @override
+  String get weather_drizzle => 'Motregen';
+
+  @override
+  String get weather_thunderstorm => 'Onweer';
+
+  @override
+  String get weather_squall => 'Windstoot';
+
+  @override
+  String get weather_celsius => '°C';
 }

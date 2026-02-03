@@ -2013,4 +2013,52 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get analytics_description =>
       'Lejo analizën anonime të përdorimit për të na ndihmuar të përmirësojmë aplikacionin. Pa të dhëna personale. Asnjëherë nuk shpërndahet.';
+
+  @override
+  String get weather_clear => 'I kthjellët';
+
+  @override
+  String get weather_clouds => 'Re';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'Hi';
+
+  @override
+  String get weather_dust => 'Pluhur';
+
+  @override
+  String get weather_sand => 'Rërë';
+
+  @override
+  String get weather_fog => 'Mjegull';
+
+  @override
+  String get weather_haze => 'Zanë';
+
+  @override
+  String get weather_smoke => 'Tym';
+
+  @override
+  String get weather_mist => 'Lagështi';
+
+  @override
+  String get weather_snow => 'Bore';
+
+  @override
+  String get weather_rain => 'Shï';
+
+  @override
+  String get weather_drizzle => 'Pikimë';
+
+  @override
+  String get weather_thunderstorm => 'Stuhi me vetëtima';
+
+  @override
+  String get weather_squall => 'Erë e fortë';
+
+  @override
+  String get weather_celsius => '°C';
 }

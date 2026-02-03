@@ -2010,4 +2010,52 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get analytics_description =>
       'Mballoo goonga naafinndani goonga ngam noddota MAWAQIT. Ko feere njoɓdi. Ndaari mballoode e hooree.';
+
+  @override
+  String get weather_clear => 'Momtu';
+
+  @override
+  String get weather_clouds => 'Gisaaji';
+
+  @override
+  String get weather_tornado => 'Davnde jallowol';
+
+  @override
+  String get weather_ash => 'Tufre';
+
+  @override
+  String get weather_dust => 'Lotto';
+
+  @override
+  String get weather_sand => 'Baabal';
+
+  @override
+  String get weather_fog => 'Suudu';
+
+  @override
+  String get weather_haze => 'Njaannde';
+
+  @override
+  String get weather_smoke => 'Luumo';
+
+  @override
+  String get weather_mist => 'Awaande';
+
+  @override
+  String get weather_snow => 'Sinnay';
+
+  @override
+  String get weather_rain => 'Semmbaare';
+
+  @override
+  String get weather_drizzle => 'Wannude';
+
+  @override
+  String get weather_thunderstorm => 'Kamɗage';
+
+  @override
+  String get weather_squall => 'Daggol maɓɓe';
+
+  @override
+  String get weather_celsius => '°C';
 }

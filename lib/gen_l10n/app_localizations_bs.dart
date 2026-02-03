@@ -2011,4 +2011,52 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get analytics_description =>
       'Dozvolite anonimnu analizu korištenja kako bismo poboljšali aplikaciju. Nema ličnih podataka. Nikada se ne dijeli.';
+
+  @override
+  String get weather_clear => 'Vedro';
+
+  @override
+  String get weather_clouds => 'Oblačno';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'Pepeo';
+
+  @override
+  String get weather_dust => 'Prašina';
+
+  @override
+  String get weather_sand => 'Pijesak';
+
+  @override
+  String get weather_fog => 'Magla';
+
+  @override
+  String get weather_haze => 'Izmaglica';
+
+  @override
+  String get weather_smoke => 'Dim';
+
+  @override
+  String get weather_mist => 'Sumaglica';
+
+  @override
+  String get weather_snow => 'Snijeg';
+
+  @override
+  String get weather_rain => 'Kiša';
+
+  @override
+  String get weather_drizzle => 'Slaba kiša';
+
+  @override
+  String get weather_thunderstorm => 'Grmljavina';
+
+  @override
+  String get weather_squall => 'Olujni nalet vjetra';
+
+  @override
+  String get weather_celsius => '°C';
 }

@@ -1,5 +1,5 @@
 {
-    "@@locale": "ckb",
+    "@@locale": "ku",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1290,8 +1290,24 @@
     "last_third": "سێیه‌می دواهەمەوە",
     "midnight": "نێوەشەو",
     "failed_to_update": "نوێکردنەوە سەرکەوتوو نەبوو.",
-    "tap_to_retry": "بگرە بۆ هەوڵدانەوە.",
+    "tap_to_retry": "بگرە بۆ هەوڵدانەوە",
     "support_mawaqit_association": "پشتیوانی لە کۆمەڵەی مواقيت بکە",
     "help_improve_mawaqit": "یارمەتی پەرەپێدانی مواقيت بدە",
-    "analytics_description": "مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت."
+    "analytics_description": "مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت.",
+    "weather_clear": "Clear",
+    "weather_clouds": "Clouds",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Ash",
+    "weather_dust": "Dust",
+    "weather_sand": "Sand",
+    "weather_fog": "Fog",
+    "weather_haze": "Haze",
+    "weather_smoke": "Smoke",
+    "weather_mist": "Mist",
+    "weather_snow": "Snow",
+    "weather_rain": "Rain",
+    "weather_drizzle": "Drizzle",
+    "weather_thunderstorm": "Thunderstorm",
+    "weather_squall": "Squall",
+    "weather_celsius": "°C"
 }
