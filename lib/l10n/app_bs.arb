@@ -1308,5 +1308,6 @@
     "weather_rain": "Kiša",
     "weather_drizzle": "Slaba kiša",
     "weather_thunderstorm": "Grmljavina",
-    "weather_squall": "Olujni nalet vjetra"
+    "weather_squall": "Olujni nalet vjetra",
+    "weather_celsius": "°C"
 }
