@@ -1308,5 +1308,6 @@
     "weather_rain": "Regen",
     "weather_drizzle": "Motregen",
     "weather_thunderstorm": "Onweer",
-    "weather_squall": "Windstoot"
+    "weather_squall": "Windstoot",
+    "weather_celsius": "°C"
 }
