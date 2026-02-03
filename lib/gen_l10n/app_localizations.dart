@@ -3925,6 +3925,96 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.'**
   String get analytics_description;
+
+  /// No description provided for @weather_clear.
+  ///
+  /// In en, this message translates to:
+  /// **'Clear'**
+  String get weather_clear;
+
+  /// No description provided for @weather_clouds.
+  ///
+  /// In en, this message translates to:
+  /// **'Clouds'**
+  String get weather_clouds;
+
+  /// No description provided for @weather_tornado.
+  ///
+  /// In en, this message translates to:
+  /// **'Tornado'**
+  String get weather_tornado;
+
+  /// No description provided for @weather_ash.
+  ///
+  /// In en, this message translates to:
+  /// **'Ash'**
+  String get weather_ash;
+
+  /// No description provided for @weather_dust.
+  ///
+  /// In en, this message translates to:
+  /// **'Dust'**
+  String get weather_dust;
+
+  /// No description provided for @weather_sand.
+  ///
+  /// In en, this message translates to:
+  /// **'Sand'**
+  String get weather_sand;
+
+  /// No description provided for @weather_fog.
+  ///
+  /// In en, this message translates to:
+  /// **'Fog'**
+  String get weather_fog;
+
+  /// No description provided for @weather_haze.
+  ///
+  /// In en, this message translates to:
+  /// **'Haze'**
+  String get weather_haze;
+
+  /// No description provided for @weather_smoke.
+  ///
+  /// In en, this message translates to:
+  /// **'Smoke'**
+  String get weather_smoke;
+
+  /// No description provided for @weather_mist.
+  ///
+  /// In en, this message translates to:
+  /// **'Mist'**
+  String get weather_mist;
+
+  /// No description provided for @weather_snow.
+  ///
+  /// In en, this message translates to:
+  /// **'Snow'**
+  String get weather_snow;
+
+  /// No description provided for @weather_rain.
+  ///
+  /// In en, this message translates to:
+  /// **'Rain'**
+  String get weather_rain;
+
+  /// No description provided for @weather_drizzle.
+  ///
+  /// In en, this message translates to:
+  /// **'Drizzle'**
+  String get weather_drizzle;
+
+  /// No description provided for @weather_thunderstorm.
+  ///
+  /// In en, this message translates to:
+  /// **'Thunderstorm'**
+  String get weather_thunderstorm;
+
+  /// No description provided for @weather_squall.
+  ///
+  /// In en, this message translates to:
+  /// **'Squall'**
+  String get weather_squall;
 }
 
 class _AppLocalizationsDelegate

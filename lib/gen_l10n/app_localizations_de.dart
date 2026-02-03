@@ -2030,4 +2030,49 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get analytics_description =>
       'Erlaube anonyme Nutzungsanalysen, um uns bei der Verbesserung der App zu unterstützen. Keine personenbezogenen Daten. Niemals weitergegeben.';
+
+  @override
+  String get weather_clear => 'Klar';
+
+  @override
+  String get weather_clouds => 'Wolken';
+
+  @override
+  String get weather_tornado => 'Tornado';
+
+  @override
+  String get weather_ash => 'Asche';
+
+  @override
+  String get weather_dust => 'Staub';
+
+  @override
+  String get weather_sand => 'Sand';
+
+  @override
+  String get weather_fog => 'Nebel';
+
+  @override
+  String get weather_haze => 'Dunst';
+
+  @override
+  String get weather_smoke => 'Rauch';
+
+  @override
+  String get weather_mist => 'Dunst';
+
+  @override
+  String get weather_snow => 'Schnee';
+
+  @override
+  String get weather_rain => 'Regen';
+
+  @override
+  String get weather_drizzle => 'Nieselregen';
+
+  @override
+  String get weather_thunderstorm => 'Gewitter';
+
+  @override
+  String get weather_squall => 'Böe';
 }

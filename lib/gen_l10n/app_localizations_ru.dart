@@ -493,7 +493,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Вся эта информация заполняется ответственными лицами и представителями мечетей.';
 
   @override
-  String get in_ => 'в';
+  String get in_ => 'через';
 
   @override
   String get imsak => 'Рассвет';
@@ -2010,4 +2010,49 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get analytics_description =>
       'Разрешить анонимный сбор данных об использовании, чтобы помочь нам улучшить приложение. Личные данные не собираются. Никогда не передаются третьим лицам.';
+
+  @override
+  String get weather_clear => 'Ясно';
+
+  @override
+  String get weather_clouds => 'Облачно';
+
+  @override
+  String get weather_tornado => 'Торнадо';
+
+  @override
+  String get weather_ash => 'Пепел';
+
+  @override
+  String get weather_dust => 'Пыль';
+
+  @override
+  String get weather_sand => 'Песок';
+
+  @override
+  String get weather_fog => 'Туман';
+
+  @override
+  String get weather_haze => 'Дымка';
+
+  @override
+  String get weather_smoke => 'Дым';
+
+  @override
+  String get weather_mist => 'Мгла';
+
+  @override
+  String get weather_snow => 'Снег';
+
+  @override
+  String get weather_rain => 'Дождь';
+
+  @override
+  String get weather_drizzle => 'Морось';
+
+  @override
+  String get weather_thunderstorm => 'Гроза';
+
+  @override
+  String get weather_squall => 'Шквал';
 }

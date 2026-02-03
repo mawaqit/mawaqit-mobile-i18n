@@ -2009,4 +2009,49 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get analytics_description =>
       'Ka ban kono don ni ala ka a lafi sisan, ni jandemaya b’a lafi. Don ni sigilan te b’a sisan.';
+
+  @override
+  String get weather_clear => 'Kɛnyɛnafa';
+
+  @override
+  String get weather_clouds => 'Nuɲumanw';
+
+  @override
+  String get weather_tornado => 'Kùnùgò fɛ';
+
+  @override
+  String get weather_ash => 'Cɛgi';
+
+  @override
+  String get weather_dust => 'Dutu';
+
+  @override
+  String get weather_sand => 'Sable';
+
+  @override
+  String get weather_fog => 'Furufuru';
+
+  @override
+  String get weather_haze => 'Haze';
+
+  @override
+  String get weather_smoke => 'Sunu';
+
+  @override
+  String get weather_mist => 'Furu';
+
+  @override
+  String get weather_snow => 'Sini';
+
+  @override
+  String get weather_rain => 'Sanni';
+
+  @override
+  String get weather_drizzle => 'Sanni sigi';
+
+  @override
+  String get weather_thunderstorm => 'Furufurun sanni';
+
+  @override
+  String get weather_squall => 'Fɛɛrɛkun';
 }

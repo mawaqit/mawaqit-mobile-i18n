@@ -2011,4 +2011,49 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get analytics_description =>
       'ऐप को बेहतर बनाने में मदद के लिए गुमनाम उपयोग विश्लेषण की अनुमति दें। कोई व्यक्तिगत डेटा नहीं। कभी भी साझा नहीं किया जाएगा।';
+
+  @override
+  String get weather_clear => 'स्वच्छ';
+
+  @override
+  String get weather_clouds => 'बादल';
+
+  @override
+  String get weather_tornado => 'बवंडर';
+
+  @override
+  String get weather_ash => 'राख';
+
+  @override
+  String get weather_dust => 'धूल';
+
+  @override
+  String get weather_sand => 'रेत';
+
+  @override
+  String get weather_fog => 'कोहरा';
+
+  @override
+  String get weather_haze => 'धुंध';
+
+  @override
+  String get weather_smoke => 'धुआँ';
+
+  @override
+  String get weather_mist => 'कुहरा';
+
+  @override
+  String get weather_snow => 'बर्फ़';
+
+  @override
+  String get weather_rain => 'बारिश';
+
+  @override
+  String get weather_drizzle => 'फुहार';
+
+  @override
+  String get weather_thunderstorm => 'तूफ़ान';
+
+  @override
+  String get weather_squall => 'आंधी';
 }

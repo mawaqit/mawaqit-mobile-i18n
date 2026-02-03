@@ -2010,4 +2010,49 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get analytics_description =>
       'Izinkan analisis penggunaan anonim untuk membantu kami meningkatkan aplikasi. Tanpa data pribadi. Tidak pernah dibagikan.';
+
+  @override
+  String get weather_clear => 'Cerah';
+
+  @override
+  String get weather_clouds => 'Berawan';
+
+  @override
+  String get weather_tornado => 'Angin Topan';
+
+  @override
+  String get weather_ash => 'Abu';
+
+  @override
+  String get weather_dust => 'Debu';
+
+  @override
+  String get weather_sand => 'Pasir';
+
+  @override
+  String get weather_fog => 'Kabut';
+
+  @override
+  String get weather_haze => 'Cerah berasap';
+
+  @override
+  String get weather_smoke => 'Asap';
+
+  @override
+  String get weather_mist => 'Embun';
+
+  @override
+  String get weather_snow => 'Salju';
+
+  @override
+  String get weather_rain => 'Hujan';
+
+  @override
+  String get weather_drizzle => 'Gerimis';
+
+  @override
+  String get weather_thunderstorm => 'Badai petir';
+
+  @override
+  String get weather_squall => 'Angin kencang';
 }

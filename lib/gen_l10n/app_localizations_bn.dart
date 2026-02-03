@@ -2011,4 +2011,49 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get analytics_description =>
       'অ্যাপ উন্নত করতে আমাদেরকে নামবিহীন ব্যবহার বিশ্লেষণ করার অনুমতি দিন। কোনো ব্যক্তিগত তথ্য নেওয়া হবে না। কখনও কারো সাথে শেয়ার করা হবে না।';
+
+  @override
+  String get weather_clear => 'পরিষ্কার';
+
+  @override
+  String get weather_clouds => 'মেঘলা';
+
+  @override
+  String get weather_tornado => 'ঘূর্ণিঝড়';
+
+  @override
+  String get weather_ash => 'ছাই';
+
+  @override
+  String get weather_dust => 'ধুলা';
+
+  @override
+  String get weather_sand => 'বালু';
+
+  @override
+  String get weather_fog => 'কুয়াশা';
+
+  @override
+  String get weather_haze => 'হালকা কুয়াশা';
+
+  @override
+  String get weather_smoke => 'ধোঁয়া';
+
+  @override
+  String get weather_mist => 'মিস্ট (মৃদু কুয়াশা)';
+
+  @override
+  String get weather_snow => 'তুষার';
+
+  @override
+  String get weather_rain => 'বৃষ্টি';
+
+  @override
+  String get weather_drizzle => 'গুঁড়ি গুঁড়ি বৃষ্টি';
+
+  @override
+  String get weather_thunderstorm => 'বজ্রঝড়';
+
+  @override
+  String get weather_squall => 'ঝড়ো হাওয়া';
 }
