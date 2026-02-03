@@ -1293,5 +1293,20 @@
     "tap_to_retry": "قايتا سىناش ئۈچۈن چېكىلىدۇ",
     "support_mawaqit_association": "مەۋاقىت جامائىتىنى قوللاش",
     "help_improve_mawaqit": "مەۋاقىتنى ياخشىلاشقا ياردەملىشىڭ",
-    "analytics_description": "ئەپنى ياخشىلاشقا ياردەملىشىش ئۈچۈن ئاتسىز قوللىنىش تەھلىلىگە يول قويىدۇ. ھېچقانداق شەخسىي ئۇچۇر يوق. ھەرگىز ھەمبەھىرلەنمەيدۇ."
+    "analytics_description": "ئەپنى ياخشىلاشقا ياردەملىشىش ئۈچۈن ئاتسىز قوللىنىش تەھلىلىگە يول قويىدۇ. ھېچقانداق شەخسىي ئۇچۇر يوق. ھەرگىز ھەمبەھىرلەنمەيدۇ.",
+    "weather_clear": "Clear",
+    "weather_clouds": "Clouds",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Ash",
+    "weather_dust": "Dust",
+    "weather_sand": "Sand",
+    "weather_fog": "Fog",
+    "weather_haze": "Haze",
+    "weather_smoke": "Smoke",
+    "weather_mist": "Mist",
+    "weather_snow": "Snow",
+    "weather_rain": "Rain",
+    "weather_drizzle": "Drizzle",
+    "weather_thunderstorm": "Thunderstorm",
+    "weather_squall": "Squall"
 }
