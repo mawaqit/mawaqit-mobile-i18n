@@ -1308,5 +1308,6 @@
     "weather_rain": "Hujan",
     "weather_drizzle": "Gerimis",
     "weather_thunderstorm": "Badai petir",
-    "weather_squall": "Angin kencang"
+    "weather_squall": "Angin kencang",
+    "weather_celsius": "°C"
 }
