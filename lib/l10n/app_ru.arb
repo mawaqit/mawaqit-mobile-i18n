@@ -441,7 +441,7 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "в",
+    "in_": "через",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Нажмите для повтора",
     "support_mawaqit_association": "Поддержите ассоциацию MAWAQIT",
     "help_improve_mawaqit": "Помогите улучшить MAWAQIT",
-    "analytics_description": "Разрешить анонимный сбор данных об использовании, чтобы помочь нам улучшить приложение. Личные данные не собираются. Никогда не передаются третьим лицам."
+    "analytics_description": "Разрешить анонимный сбор данных об использовании, чтобы помочь нам улучшить приложение. Личные данные не собираются. Никогда не передаются третьим лицам.",
+    "weather_clear": "Ясно",
+    "weather_clouds": "Облачно",
+    "weather_tornado": "Торнадо",
+    "weather_ash": "Пепел",
+    "weather_dust": "Пыль",
+    "weather_sand": "Песок",
+    "weather_fog": "Туман",
+    "weather_haze": "Дымка",
+    "weather_smoke": "Дым",
+    "weather_mist": "Мгла",
+    "weather_snow": "Снег",
+    "weather_rain": "Дождь",
+    "weather_drizzle": "Морось",
+    "weather_thunderstorm": "Гроза",
+    "weather_squall": "Шквал"
 }
