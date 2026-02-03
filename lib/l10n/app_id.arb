@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Ketuk untuk mencoba lagi",
     "support_mawaqit_association": "Dukung Asosiasi Mawaqit",
     "help_improve_mawaqit": "Bantu tingkatkan MAWAQIT",
-    "analytics_description": "Izinkan analisis penggunaan anonim untuk membantu kami meningkatkan aplikasi. Tanpa data pribadi. Tidak pernah dibagikan."
+    "analytics_description": "Izinkan analisis penggunaan anonim untuk membantu kami meningkatkan aplikasi. Tanpa data pribadi. Tidak pernah dibagikan.",
+    "weather_clear": "Cerah",
+    "weather_clouds": "Berawan",
+    "weather_tornado": "Angin Topan",
+    "weather_ash": "Abu",
+    "weather_dust": "Debu",
+    "weather_sand": "Pasir",
+    "weather_fog": "Kabut",
+    "weather_haze": "Cerah berasap",
+    "weather_smoke": "Asap",
+    "weather_mist": "Embun",
+    "weather_snow": "Salju",
+    "weather_rain": "Hujan",
+    "weather_drizzle": "Gerimis",
+    "weather_thunderstorm": "Badai petir",
+    "weather_squall": "Angin kencang"
 }
