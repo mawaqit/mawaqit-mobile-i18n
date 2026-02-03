@@ -1308,5 +1308,6 @@
     "weather_rain": "Shï",
     "weather_drizzle": "Pikimë",
     "weather_thunderstorm": "Stuhi me vetëtima",
-    "weather_squall": "Erë e fortë"
+    "weather_squall": "Erë e fortë",
+    "weather_celsius": "°C"
 }
