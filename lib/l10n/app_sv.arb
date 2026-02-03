@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Tryck för att försöka igen",
     "support_mawaqit_association": "Stöd MAWAQIT-föreningen",
     "help_improve_mawaqit": "Hjälp till att förbättra MAWAQIT",
-    "analytics_description": "Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad."
+    "analytics_description": "Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad.",
+    "weather_clear": "Klart",
+    "weather_clouds": "Moln",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Aska",
+    "weather_dust": "Damm",
+    "weather_sand": "Sand",
+    "weather_fog": "Dimma",
+    "weather_haze": "Dis",
+    "weather_smoke": "Rök",
+    "weather_mist": "Lätt dimma",
+    "weather_snow": "Snö",
+    "weather_rain": "Regn",
+    "weather_drizzle": "Duggregn",
+    "weather_thunderstorm": "Åskväder",
+    "weather_squall": "Stormbyar"
 }
