@@ -1308,5 +1308,6 @@
     "weather_rain": "Eső",
     "weather_drizzle": "Szitálás",
     "weather_thunderstorm": "Zivatar",
-    "weather_squall": "Viharos szél"
+    "weather_squall": "Viharos szél",
+    "weather_celsius": "°C"
 }
