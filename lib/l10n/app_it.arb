@@ -1308,5 +1308,6 @@
     "weather_rain": "Pioggia",
     "weather_drizzle": "Pioviggine",
     "weather_thunderstorm": "Temporale",
-    "weather_squall": "Burrasca"
+    "weather_squall": "Burrasca",
+    "weather_celsius": "°C"
 }
