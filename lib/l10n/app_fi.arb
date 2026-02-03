@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Napauta yrittääksesi uudelleen",
     "support_mawaqit_association": "Tue Mawaqit-yhdistystä",
     "help_improve_mawaqit": "Auta parantamaan MAWAQITia",
-    "analytics_description": "Salli anonyymi käytön analysointi auttaaksemme meitä parantamaan sovellusta. Ei henkilötietoja. Ei koskaan jaeta."
+    "analytics_description": "Salli anonyymi käytön analysointi auttaaksemme meitä parantamaan sovellusta. Ei henkilötietoja. Ei koskaan jaeta.",
+    "weather_clear": "Kirkas",
+    "weather_clouds": "Pilvistä",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Tuhka",
+    "weather_dust": "Pöly",
+    "weather_sand": "Hiekka",
+    "weather_fog": "Sumu",
+    "weather_haze": "Utuisuus",
+    "weather_smoke": "Savu",
+    "weather_mist": "Usva",
+    "weather_snow": "Lumi",
+    "weather_rain": "Sade",
+    "weather_drizzle": "Tihkusade",
+    "weather_thunderstorm": "Ukonilma",
+    "weather_squall": "Puuska"
 }
