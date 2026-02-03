@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Dodirnite za ponovno pokušaj",
     "support_mawaqit_association": "Podržite MAWAQIT udruženje.",
     "help_improve_mawaqit": "Pomozite unaprijediti MAWAQIT",
-    "analytics_description": "Dozvolite anonimnu analizu korištenja kako bismo poboljšali aplikaciju. Nema ličnih podataka. Nikada se ne dijeli."
+    "analytics_description": "Dozvolite anonimnu analizu korištenja kako bismo poboljšali aplikaciju. Nema ličnih podataka. Nikada se ne dijeli.",
+    "weather_clear": "Vedro",
+    "weather_clouds": "Oblačno",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Pepeo",
+    "weather_dust": "Prašina",
+    "weather_sand": "Pijesak",
+    "weather_fog": "Magla",
+    "weather_haze": "Izmaglica",
+    "weather_smoke": "Dim",
+    "weather_mist": "Sumaglica",
+    "weather_snow": "Snijeg",
+    "weather_rain": "Kiša",
+    "weather_drizzle": "Slaba kiša",
+    "weather_thunderstorm": "Grmljavina",
+    "weather_squall": "Olujni nalet vjetra"
 }
