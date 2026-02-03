@@ -1957,52 +1957,52 @@ class AppLocalizationsUg extends AppLocalizations {
   String get examples => 'مەسىلەن';
 
   @override
-  String get real_time_weather => 'Real-Time Weather';
+  String get real_time_weather => 'شۇئان ھاۋارايى';
 
   @override
-  String get layout => 'Layout';
+  String get layout => 'جايلاشتۇرۇش';
 
   @override
-  String get list => 'List';
+  String get list => 'تىزىم';
 
   @override
-  String get grid => 'Grid';
+  String get grid => 'شادا';
 
   @override
   String get real_time_weather_needs_internet =>
-      'Real-time weather needs an internet connection to download updates.';
+      'شۇئان ھاۋارايى يېڭىلىنىشنى چۈشۈرۈش ئۈچۈن ئىنتېرنېت باغلىنىشىغا ئېھتىياجلىق.';
 
   @override
-  String get view_detail => 'View detail';
+  String get view_detail => 'تەپسىلاتىنى كۆرسەت';
 
   @override
-  String get customise => 'Customise';
+  String get customise => 'ئىختىيارى';
 
   @override
-  String get temperature => 'Temperature';
+  String get temperature => 'تېمپېراتۇرا';
 
   @override
-  String get tahajjud_time => 'Tahajjud Time';
+  String get tahajjud_time => 'تەھەججۇد ۋاقتى';
 
   @override
-  String get last_third => 'Last third';
+  String get last_third => 'ئاخىرقى ئۈچتىن بىرى';
 
   @override
-  String get midnight => 'Midnight';
+  String get midnight => 'يېرىم كېچە';
 
   @override
-  String get failed_to_update => 'Failed to update.';
+  String get failed_to_update => 'يېڭىلىيالمىدى.';
 
   @override
-  String get tap_to_retry => 'Tap to retry';
+  String get tap_to_retry => 'قايتا سىناش ئۈچۈن چېكىلىدۇ';
 
   @override
-  String get support_mawaqit_association => 'Support the Mawaqit Association';
+  String get support_mawaqit_association => 'مەۋاقىت جامائىتىنى قوللاش';
 
   @override
-  String get help_improve_mawaqit => 'Help improve MAWAQIT';
+  String get help_improve_mawaqit => 'مەۋاقىتنى ياخشىلاشقا ياردەملىشىڭ';
 
   @override
   String get analytics_description =>
-      'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.';
+      'ئەپنى ياخشىلاشقا ياردەملىشىش ئۈچۈن ئاتسىز قوللىنىش تەھلىلىگە يول قويىدۇ. ھېچقانداق شەخسىي ئۇچۇر يوق. ھەرگىز ھەمبەھىرلەنمەيدۇ.';
 }
