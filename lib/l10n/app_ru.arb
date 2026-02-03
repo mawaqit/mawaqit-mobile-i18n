@@ -1308,5 +1308,6 @@
     "weather_rain": "Дождь",
     "weather_drizzle": "Морось",
     "weather_thunderstorm": "Гроза",
-    "weather_squall": "Шквал"
+    "weather_squall": "Шквал",
+    "weather_celsius": "°C"
 }
