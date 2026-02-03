@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1308,5 +1308,6 @@
     "weather_rain": "بارش",
     "weather_drizzle": "بوندا باندی",
     "weather_thunderstorm": "گرج چمک کا طوفان",
-    "weather_squall": "تیز جھکڑ"
+    "weather_squall": "تیز جھکڑ",
+    "weather_celsius": "°سِ"
 }
