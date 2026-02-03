@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Докоснете, за да опитате отново",
     "support_mawaqit_association": "Подкрепете асоциация MAWAQIT",
     "help_improve_mawaqit": "Помогнете за подобряване на MAWAQIT.",
-    "analytics_description": "Позволете анонимен анализ на използването, за да ни помогнете да подобрим приложението. Без лични данни. Никога не се споделят."
+    "analytics_description": "Позволете анонимен анализ на използването, за да ни помогнете да подобрим приложението. Без лични данни. Никога не се споделят.",
+    "weather_clear": "Ясно време",
+    "weather_clouds": "Облачно",
+    "weather_tornado": "Торнадо",
+    "weather_ash": "Пепел",
+    "weather_dust": "Прах",
+    "weather_sand": "Пясък",
+    "weather_fog": "Мъгла",
+    "weather_haze": "Замърсен въздух",
+    "weather_smoke": "Дим",
+    "weather_mist": "Лека мъгла",
+    "weather_snow": "Сняг",
+    "weather_rain": "Дъжд",
+    "weather_drizzle": "Ръмеж",
+    "weather_thunderstorm": "Гръмотевична буря",
+    "weather_squall": "Ураганен вятър"
 }
