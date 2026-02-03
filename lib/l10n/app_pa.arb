@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1308,5 +1308,6 @@
     "weather_rain": "Rain",
     "weather_drizzle": "Drizzle",
     "weather_thunderstorm": "Thunderstorm",
-    "weather_squall": "Squall"
+    "weather_squall": "Squall",
+    "weather_celsius": "°C"
 }
