@@ -2053,4 +2053,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get weather_squall => 'تیز جھکڑ';
+
+  @override
+  String get weather_celsius => '°سِ';
 }

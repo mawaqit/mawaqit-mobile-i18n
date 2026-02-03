@@ -2061,4 +2061,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get weather_squall => 'Ураганен вятър';
+
+  @override
+  String get weather_celsius => '°C';
 }

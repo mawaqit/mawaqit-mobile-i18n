@@ -2073,4 +2073,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get weather_squall => 'Chubasco';
+
+  @override
+  String get weather_celsius => '°C';
 }

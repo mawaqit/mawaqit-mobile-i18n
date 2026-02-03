@@ -2075,4 +2075,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get weather_squall => 'Böe';
+
+  @override
+  String get weather_celsius => '°C';
 }

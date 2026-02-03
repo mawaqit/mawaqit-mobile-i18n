@@ -2055,4 +2055,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get weather_squall => 'Angin kencang';
+
+  @override
+  String get weather_celsius => '°C';
 }

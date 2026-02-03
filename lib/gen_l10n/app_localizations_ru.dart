@@ -2055,4 +2055,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get weather_squall => 'Шквал';
+
+  @override
+  String get weather_celsius => '°C';
 }

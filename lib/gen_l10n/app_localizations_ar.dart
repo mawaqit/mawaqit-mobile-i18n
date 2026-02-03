@@ -2027,4 +2027,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get weather_squall => 'عاصفة مفاجئة';
+
+  @override
+  String get weather_celsius => '°س';
 }

@@ -2055,4 +2055,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get weather_squall => 'Daggol maɓɓe';
+
+  @override
+  String get weather_celsius => '°C';
 }

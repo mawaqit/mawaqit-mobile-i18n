@@ -2052,4 +2052,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get weather_squall => 'szkwał';
+
+  @override
+  String get weather_celsius => '°C';
 }

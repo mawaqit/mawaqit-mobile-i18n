@@ -2070,4 +2070,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get weather_squall => 'Rajada de vento';
+
+  @override
+  String get weather_celsius => '°C';
 }

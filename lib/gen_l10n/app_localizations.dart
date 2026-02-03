@@ -4015,6 +4015,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Squall'**
   String get weather_squall;
+
+  /// No description provided for @weather_celsius.
+  ///
+  /// In en, this message translates to:
+  /// **'°C'**
+  String get weather_celsius;
 }
 
 class _AppLocalizationsDelegate

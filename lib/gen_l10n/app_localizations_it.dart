@@ -2069,4 +2069,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get weather_squall => 'Burrasca';
+
+  @override
+  String get weather_celsius => '°C';
 }

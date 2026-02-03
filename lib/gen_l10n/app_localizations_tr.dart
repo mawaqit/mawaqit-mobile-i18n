@@ -2047,4 +2047,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get weather_squall => 'Fırtına';
+
+  @override
+  String get weather_celsius => '°C';
 }

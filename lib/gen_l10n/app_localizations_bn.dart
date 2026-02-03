@@ -2056,4 +2056,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get weather_squall => 'ঝড়ো হাওয়া';
+
+  @override
+  String get weather_celsius => '°সে.';
 }

@@ -2067,4 +2067,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get weather_squall => 'Windstoot';
+
+  @override
+  String get weather_celsius => '°C';
 }

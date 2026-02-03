@@ -2058,4 +2058,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get weather_squall => 'Erë e fortë';
+
+  @override
+  String get weather_celsius => '°C';
 }

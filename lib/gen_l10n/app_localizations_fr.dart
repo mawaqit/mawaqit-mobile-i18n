@@ -2077,4 +2077,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get weather_squall => 'Rafale';
+
+  @override
+  String get weather_celsius => '°C';
 }

@@ -2058,4 +2058,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get weather_squall => 'Viharos szél';
+
+  @override
+  String get weather_celsius => '°C';
 }

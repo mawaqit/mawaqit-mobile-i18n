@@ -2054,4 +2054,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get weather_squall => 'Stormbyar';
+
+  @override
+  String get weather_celsius => '°C';
 }

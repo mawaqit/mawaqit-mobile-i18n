@@ -2055,4 +2055,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get weather_squall => 'Güclü küləklik hava';
+
+  @override
+  String get weather_celsius => '°C';
 }

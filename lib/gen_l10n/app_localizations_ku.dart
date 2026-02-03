@@ -2057,4 +2057,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get weather_squall => 'Squall';
+
+  @override
+  String get weather_celsius => '°C';
 }

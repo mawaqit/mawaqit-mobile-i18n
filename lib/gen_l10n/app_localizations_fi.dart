@@ -2055,4 +2055,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get weather_squall => 'Puuska';
+
+  @override
+  String get weather_celsius => '°C';
 }
