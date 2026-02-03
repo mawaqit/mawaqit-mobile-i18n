@@ -1293,5 +1293,20 @@
     "tap_to_retry": "Koppintson az újrapróbáláshoz",
     "support_mawaqit_association": "Támogassa a Mawaqit Egyesületet",
     "help_improve_mawaqit": "Segítsen fejleszteni a MAWAQIT-ot",
-    "analytics_description": "Engedélyezze névtelen használatelemzést, hogy fejleszthessük az alkalmazást. Személyes adatokat nem gyűjtünk. Soha nem osztjuk meg."
+    "analytics_description": "Engedélyezze névtelen használatelemzést, hogy fejleszthessük az alkalmazást. Személyes adatokat nem gyűjtünk. Soha nem osztjuk meg.",
+    "weather_clear": "Derült idő",
+    "weather_clouds": "Felhők",
+    "weather_tornado": "Tornádó",
+    "weather_ash": "Hamu",
+    "weather_dust": "Por",
+    "weather_sand": "Homok",
+    "weather_fog": "Köd",
+    "weather_haze": "Pára",
+    "weather_smoke": "Füst",
+    "weather_mist": "Pára",
+    "weather_snow": "Hó",
+    "weather_rain": "Eső",
+    "weather_drizzle": "Szitálás",
+    "weather_thunderstorm": "Zivatar",
+    "weather_squall": "Viharos szél"
 }
