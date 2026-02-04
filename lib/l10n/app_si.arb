@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Thunderstorm",
     "weather_squall": "Squall",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live Activity Always On"
+    "iqam_live_activity_always_on": "Iqama Live Activity Always On",
+    "animated_background": "Animated background",
+    "weather": "Weather",
+    "weather_need_internet": "This feature needs an internet connection to download updates."
 }
