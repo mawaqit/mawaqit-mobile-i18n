@@ -2059,4 +2059,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get weather_celsius => '°সে.';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু';
 }

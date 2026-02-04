@@ -2057,4 +2057,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on => 'Iqama Live-aktivitet alltid på';
 }

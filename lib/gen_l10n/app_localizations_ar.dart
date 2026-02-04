@@ -2030,4 +2030,8 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get weather_celsius => '°س';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'النشاط المباشر للإقامة دائماً مفعل';
 }
