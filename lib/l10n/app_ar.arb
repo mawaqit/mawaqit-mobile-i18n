@@ -1309,5 +1309,6 @@
     "weather_drizzle": "رذاذ",
     "weather_thunderstorm": "عاصفة رعدية",
     "weather_squall": "عاصفة مفاجئة",
-    "weather_celsius": "°س"
+    "weather_celsius": "°س",
+    "iqam_live_activity_always_on": "النشاط المباشر للإقامة دائماً مفعل"
 }
