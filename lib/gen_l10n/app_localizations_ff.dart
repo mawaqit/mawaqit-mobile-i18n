@@ -2001,8 +2001,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get tap_to_retry => 'Heddu ɗum kuuɗi hotoore';
 
   @override
-  String get support_mawaqit_association =>
-      'Yiltaaɗe Toppitgol Mawaqit Association';
+  String get support_mawaqit_association => 'Jokka MAWAQIT e jamɗe';
 
   @override
   String get help_improve_mawaqit => 'Naatu MAWAQIT ngoodi maayo e jamfaama';
@@ -2058,4 +2057,8 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'Iqama Live Activity So Wulnde Ko Laawol';
 }

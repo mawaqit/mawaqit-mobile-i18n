@@ -2003,7 +2003,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get tap_to_retry => 'পুনরায় চেষ্টা করতে ট্যাপ করুন';
 
   @override
-  String get support_mawaqit_association => 'MAWAQIT সংস্থাকে সমর্থন করুন.';
+  String get support_mawaqit_association => 'MAWAQIT সমিতিকে সমর্থন করুন';
 
   @override
   String get help_improve_mawaqit => 'MAWAQIT উন্নত করতে সহায়তা করুন';
@@ -2059,4 +2059,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get weather_celsius => '°সে.';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু';
 }

@@ -1309,5 +1309,6 @@
     "weather_drizzle": "نم‌نم باران",
     "weather_thunderstorm": "رعد و برق",
     "weather_squall": "تندباد شدید",
-    "weather_celsius": "°سانتی‌گراد"
+    "weather_celsius": "°سانتی‌گراد",
+    "iqam_live_activity_always_on": "Iqama Live Activity Always On"
 }

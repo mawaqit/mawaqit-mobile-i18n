@@ -2005,7 +2005,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tap_to_retry => 'Koppintson az újrapróbáláshoz';
 
   @override
-  String get support_mawaqit_association => 'Támogassa a Mawaqit Egyesületet';
+  String get support_mawaqit_association => 'Támogassa a MAWAQIT Egyesületet';
 
   @override
   String get help_improve_mawaqit => 'Segítsen fejleszteni a MAWAQIT-ot';
@@ -2061,4 +2061,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'Iqama élő tevékenység mindig bekapcsolva';
 }

@@ -1309,5 +1309,6 @@
     "weather_drizzle": "خەریک باران",
     "weather_thunderstorm": "بەردەوامی تۆڕەکە",
     "weather_squall": "بەرف و بافرێ",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "چالاکی زیندووی ئیقامە هەمیشە چالاک"
 }

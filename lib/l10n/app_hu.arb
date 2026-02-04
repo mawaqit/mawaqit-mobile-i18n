@@ -1291,7 +1291,7 @@
     "midnight": "Tengah Malam",
     "failed_to_update": "Sikertelen frissítés.",
     "tap_to_retry": "Koppintson az újrapróbáláshoz",
-    "support_mawaqit_association": "Támogassa a Mawaqit Egyesületet",
+    "support_mawaqit_association": "Támogassa a MAWAQIT Egyesületet",
     "help_improve_mawaqit": "Segítsen fejleszteni a MAWAQIT-ot",
     "analytics_description": "Engedélyezze névtelen használatelemzést, hogy fejleszthessük az alkalmazást. Személyes adatokat nem gyűjtünk. Soha nem osztjuk meg.",
     "weather_clear": "Derült idő",
@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Szitálás",
     "weather_thunderstorm": "Zivatar",
     "weather_squall": "Viharos szél",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama élő tevékenység mindig bekapcsolva"
 }

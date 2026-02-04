@@ -899,7 +899,7 @@
     "add_page_bookmarks": "أضف الصفحة إلى المرجعيات",
     "remove_page_bookmarks": "إزالة الصفحة من المرجعيات",
     "no_bookmarks": "لا توجد علامات مرجعية",
-    "liked": "مُعجب",
+    "liked": "المفضلة",
     "all_recitators": "جميع المقرئين",
     "downloaded": "تم التنزيل",
     "search_for_recitator": "ابحث عن مقرئ",
@@ -1248,7 +1248,7 @@
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "اشعار قبل",
+    "notify_before": "إخطار من قبل",
     "@notify_before": {
         "description": "notify_before"
     },
@@ -1309,5 +1309,6 @@
     "weather_drizzle": "رذاذ",
     "weather_thunderstorm": "عاصفة رعدية",
     "weather_squall": "عاصفة مفاجئة",
-    "weather_celsius": "°س"
+    "weather_celsius": "°س",
+    "iqam_live_activity_always_on": "النشاط المباشر للإقامة دائماً مفعل"
 }

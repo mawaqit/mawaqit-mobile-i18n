@@ -1291,7 +1291,7 @@
     "midnight": "يېرىم كېچە",
     "failed_to_update": "يېڭىلىيالمىدى.",
     "tap_to_retry": "قايتا سىناش ئۈچۈن چېكىلىدۇ",
-    "support_mawaqit_association": "مەۋاقىت جامائىتىنى قوللاش",
+    "support_mawaqit_association": "Support the MAWAQIT Association",
     "help_improve_mawaqit": "مەۋاقىتنى ياخشىلاشقا ياردەملىشىڭ",
     "analytics_description": "ئەپنى ياخشىلاشقا ياردەملىشىش ئۈچۈن ئاتسىز قوللىنىش تەھلىلىگە يول قويىدۇ. ھېچقانداق شەخسىي ئۇچۇر يوق. ھەرگىز ھەمبەھىرلەنمەيدۇ.",
     "weather_clear": "Clear",
@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Drizzle",
     "weather_thunderstorm": "Thunderstorm",
     "weather_squall": "Squall",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama Live Activity Always On"
 }

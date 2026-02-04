@@ -2014,7 +2014,7 @@ class AppLocalizationsNl extends AppLocalizations {
   String get tap_to_retry => 'Tik om opnieuw te proberen';
 
   @override
-  String get support_mawaqit_association => 'Steun de Mawaqit Vereniging';
+  String get support_mawaqit_association => 'Steun de MAWAQIT-vereniging';
 
   @override
   String get help_improve_mawaqit => 'Help MAWAQIT verbeteren';
@@ -2070,4 +2070,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on => 'Iqama Live Activiteit altijd aan';
 }

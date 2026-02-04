@@ -1291,7 +1291,7 @@
     "midnight": "Tengah Malam",
     "failed_to_update": "Päivitys epäonnistui.",
     "tap_to_retry": "Napauta yrittääksesi uudelleen",
-    "support_mawaqit_association": "Tue Mawaqit-yhdistystä",
+    "support_mawaqit_association": "Tue MAWAQIT-yhdistystä",
     "help_improve_mawaqit": "Auta parantamaan MAWAQITia",
     "analytics_description": "Salli anonyymi käytön analysointi auttaaksemme meitä parantamaan sovellusta. Ei henkilötietoja. Ei koskaan jaeta.",
     "weather_clear": "Kirkas",
@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Tihkusade",
     "weather_thunderstorm": "Ukonilma",
     "weather_squall": "Puuska",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama Live-aktiviteetti aina päällä"
 }

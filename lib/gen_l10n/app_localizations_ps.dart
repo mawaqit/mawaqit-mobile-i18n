@@ -2001,7 +2001,7 @@ class AppLocalizationsPs extends AppLocalizations {
   String get tap_to_retry => 'Tap to retry';
 
   @override
-  String get support_mawaqit_association => 'Support the Mawaqit Association';
+  String get support_mawaqit_association => 'Support the MAWAQIT Association';
 
   @override
   String get help_improve_mawaqit => 'Help improve MAWAQIT';
@@ -2057,4 +2057,7 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on => 'Iqama Live Activity Always On';
 }

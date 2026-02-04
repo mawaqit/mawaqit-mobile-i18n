@@ -1243,7 +1243,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get no_bookmarks => 'لا توجد علامات مرجعية';
 
   @override
-  String get liked => 'مُعجب';
+  String get liked => 'المفضلة';
 
   @override
   String get all_recitators => 'جميع المقرئين';
@@ -1895,7 +1895,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get live_timer => 'مؤقت مباشر';
 
   @override
-  String get notify_before => 'اشعار قبل';
+  String get notify_before => 'إخطار من قبل';
 
   @override
   String get take_time_appear_watch => 'قد يستغرق الظهور على ساعتك بضع ثوان.';
@@ -2030,4 +2030,8 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get weather_celsius => '°س';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'النشاط المباشر للإقامة دائماً مفعل';
 }

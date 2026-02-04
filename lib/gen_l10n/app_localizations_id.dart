@@ -2002,7 +2002,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get tap_to_retry => 'Ketuk untuk mencoba lagi';
 
   @override
-  String get support_mawaqit_association => 'Dukung Asosiasi Mawaqit';
+  String get support_mawaqit_association => 'Dukung Asosiasi MAWAQIT';
 
   @override
   String get help_improve_mawaqit => 'Bantu tingkatkan MAWAQIT';
@@ -2058,4 +2058,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'Aktivitas Langsung Iqama Selalu Aktif';
 }

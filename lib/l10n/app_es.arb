@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Llovizna",
     "weather_thunderstorm": "Tormenta eléctrica",
     "weather_squall": "Chubasco",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Actividad en vivo de Iqama siempre activada"
 }

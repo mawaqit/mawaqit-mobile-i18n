@@ -2008,7 +2008,7 @@ class AppLocalizationsBg extends AppLocalizations {
   String get tap_to_retry => 'Докоснете, за да опитате отново';
 
   @override
-  String get support_mawaqit_association => 'Подкрепете асоциация MAWAQIT';
+  String get support_mawaqit_association => 'Подкрепете Асоциация MAWAQIT';
 
   @override
   String get help_improve_mawaqit => 'Помогнете за подобряване на MAWAQIT.';
@@ -2064,4 +2064,8 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'Винаги активно Iqama излъчване на живо';
 }

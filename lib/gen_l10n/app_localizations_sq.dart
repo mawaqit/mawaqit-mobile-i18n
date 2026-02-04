@@ -2005,7 +2005,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tap_to_retry => 'Prekni për të provuar sërish';
 
   @override
-  String get support_mawaqit_association => 'Mbështesni Shoqatën MAWAQIT';
+  String get support_mawaqit_association => 'Mbështetni Shoqatën MAWAQIT';
 
   @override
   String get help_improve_mawaqit => 'Ndihmoni në përmirësimin e MAWAQIT';
@@ -2061,4 +2061,8 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar';
 }

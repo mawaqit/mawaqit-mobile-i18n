@@ -1291,7 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "Failed to update.",
     "tap_to_retry": "Tap to retry",
-    "support_mawaqit_association": "Support the Mawaqit Association",
+    "support_mawaqit_association": "Support the MAWAQIT Association",
     "help_improve_mawaqit": "Help improve MAWAQIT",
     "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.",
     "weather_clear": "Clear",
@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Drizzle",
     "weather_thunderstorm": "Thunderstorm",
     "weather_squall": "Squall",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama Live Activity Always On"
 }

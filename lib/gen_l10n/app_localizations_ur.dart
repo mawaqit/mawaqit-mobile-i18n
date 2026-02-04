@@ -2056,4 +2056,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get weather_celsius => '°سِ';
+
+  @override
+  String get iqam_live_activity_always_on => 'اقامہ لائیو ایکٹیویٹی ہمیشہ آن';
 }

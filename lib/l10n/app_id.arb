@@ -1291,7 +1291,7 @@
     "midnight": "Minuit",
     "failed_to_update": "Gagal memperbarui.",
     "tap_to_retry": "Ketuk untuk mencoba lagi",
-    "support_mawaqit_association": "Dukung Asosiasi Mawaqit",
+    "support_mawaqit_association": "Dukung Asosiasi MAWAQIT",
     "help_improve_mawaqit": "Bantu tingkatkan MAWAQIT",
     "analytics_description": "Izinkan analisis penggunaan anonim untuk membantu kami meningkatkan aplikasi. Tanpa data pribadi. Tidak pernah dibagikan.",
     "weather_clear": "Cerah",
@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Gerimis",
     "weather_thunderstorm": "Badai petir",
     "weather_squall": "Angin kencang",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Aktivitas Langsung Iqama Selalu Aktif"
 }

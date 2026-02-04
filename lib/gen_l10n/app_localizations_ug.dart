@@ -1997,7 +1997,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tap_to_retry => 'قايتا سىناش ئۈچۈن چېكىلىدۇ';
 
   @override
-  String get support_mawaqit_association => 'مەۋاقىت جامائىتىنى قوللاش';
+  String get support_mawaqit_association => 'Support the MAWAQIT Association';
 
   @override
   String get help_improve_mawaqit => 'مەۋاقىتنى ياخشىلاشقا ياردەملىشىڭ';
@@ -2053,4 +2053,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on => 'Iqama Live Activity Always On';
 }

@@ -4021,6 +4021,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'°C'**
   String get weather_celsius;
+
+  /// No description provided for @iqam_live_activity_always_on.
+  ///
+  /// In en, this message translates to:
+  /// **'Iqama Live Activity Always On'**
+  String get iqam_live_activity_always_on;
 }
 
 class _AppLocalizationsDelegate

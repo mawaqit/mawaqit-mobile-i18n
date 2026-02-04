@@ -2016,7 +2016,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get tap_to_retry => 'Tocca per riprovare';
 
   @override
-  String get support_mawaqit_association => 'Sostieni l\'Associazione Mawaqit';
+  String get support_mawaqit_association => 'Sostieni l\'Associazione MAWAQIT';
 
   @override
   String get help_improve_mawaqit => 'Aiuta a migliorare MAWAQIT.';
@@ -2072,4 +2072,8 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get weather_celsius => '°C';
+
+  @override
+  String get iqam_live_activity_always_on =>
+      'Live Activity Iqama Sempre Attiva';
 }
