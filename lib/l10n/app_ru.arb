@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Морось",
     "weather_thunderstorm": "Гроза",
     "weather_squall": "Шквал",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Постоянная активность Iqama на экране"
 }
