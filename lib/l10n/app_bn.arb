@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "বজ্রঝড়",
     "weather_squall": "ঝড়ো হাওয়া",
     "weather_celsius": "°সে.",
-    "iqam_live_activity_always_on": "ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু"
+    "iqam_live_activity_always_on": "ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু",
+    "animated_background": "অ্যানিমেটেড পটভূমি",
+    "weather": "আবহাওয়া",
+    "weather_need_internet": "আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।"
 }
