@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Nieselregen",
     "weather_thunderstorm": "Gewitter",
     "weather_squall": "Böe",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama Live-Aktivität immer an"
 }
