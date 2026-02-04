@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Tihkusade",
     "weather_thunderstorm": "Ukonilma",
     "weather_squall": "Puuska",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama Live-aktiviteetti aina päällä"
 }
