@@ -3911,7 +3911,7 @@ abstract class AppLocalizations {
   /// No description provided for @support_mawaqit_association.
   ///
   /// In en, this message translates to:
-  /// **'Support the Mawaqit Association'**
+  /// **'Support the MAWAQIT Association'**
   String get support_mawaqit_association;
 
   /// No description provided for @help_improve_mawaqit.
