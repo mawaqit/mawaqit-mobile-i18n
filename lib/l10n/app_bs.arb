@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Grmljavina",
     "weather_squall": "Olujni nalet vjetra",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama uživo aktivnost uvijek uključena"
+    "iqam_live_activity_always_on": "Iqama uživo aktivnost uvijek uključena",
+    "animated_background": "Animirana pozadina",
+    "weather": "Vrijeme",
+    "weather_need_internet": "Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja."
 }
