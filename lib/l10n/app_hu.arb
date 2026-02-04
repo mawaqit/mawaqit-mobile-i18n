@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Szitálás",
     "weather_thunderstorm": "Zivatar",
     "weather_squall": "Viharos szél",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama élő tevékenység mindig bekapcsolva"
 }
