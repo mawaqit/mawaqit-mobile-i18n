@@ -2063,4 +2063,14 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Iqama uživo aktivnost uvijek uključena';
+
+  @override
+  String get animated_background => 'Animirana pozadina';
+
+  @override
+  String get weather => 'Vrijeme';
+
+  @override
+  String get weather_need_internet =>
+      'Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja.';
 }

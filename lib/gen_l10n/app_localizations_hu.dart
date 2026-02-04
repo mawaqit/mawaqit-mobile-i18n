@@ -2065,4 +2065,14 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Iqama élő tevékenység mindig bekapcsolva';
+
+  @override
+  String get animated_background => 'Animált háttér';
+
+  @override
+  String get weather => 'Időjárás';
+
+  @override
+  String get weather_need_internet =>
+      'Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez.';
 }

@@ -2060,4 +2060,14 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Iqama Live Activity ka dɛmɛ kɛ dugukolo';
+
+  @override
+  String get animated_background => 'Fondo ɲéw ka girikalan';
+
+  @override
+  String get weather => 'Baara Malila (Waati)';
+
+  @override
+  String get weather_need_internet =>
+      'Jѐmɛ-kɛnɛ kɔrɔgbɛnan la, i bɛ se ka nyɛ update kɔ tulu la.';
 }

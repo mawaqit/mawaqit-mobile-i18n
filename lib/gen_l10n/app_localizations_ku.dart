@@ -2065,4 +2065,14 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'چالاکی زیندووی ئیقامە هەمیشە چالاک';
+
+  @override
+  String get animated_background => 'Animated background';
+
+  @override
+  String get weather => 'Weather';
+
+  @override
+  String get weather_need_internet =>
+      'This feature needs an internet connection to download updates.';
 }

@@ -2054,4 +2054,14 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'İkame Canlı Etkinliği Her Zaman Açık';
+
+  @override
+  String get animated_background => 'Animasyonlu arka planı';
+
+  @override
+  String get weather => 'Hava Durumu';
+
+  @override
+  String get weather_need_internet =>
+      'Bu özellik, güncellemeleri indirmek için internet bağlantısı gerektirir.';
 }

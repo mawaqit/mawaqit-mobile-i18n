@@ -2062,4 +2062,14 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Iqama Live-aktiviteetti aina päällä';
+
+  @override
+  String get animated_background => 'Animoitu tausta';
+
+  @override
+  String get weather => 'Sää';
+
+  @override
+  String get weather_need_internet =>
+      'Tämä toiminto vaatii internet-yhteyden päivitysten lataamiseen.';
 }

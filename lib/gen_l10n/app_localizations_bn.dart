@@ -2063,4 +2063,14 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু';
+
+  @override
+  String get animated_background => 'অ্যানিমেটেড পটভূমি';
+
+  @override
+  String get weather => 'আবহাওয়া';
+
+  @override
+  String get weather_need_internet =>
+      'আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।';
 }

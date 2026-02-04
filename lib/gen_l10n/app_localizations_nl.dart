@@ -2073,4 +2073,14 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get iqam_live_activity_always_on => 'Iqama Live Activiteit altijd aan';
+
+  @override
+  String get animated_background => 'Geanimeerde achtergrond';
+
+  @override
+  String get weather => 'Weerbeheer';
+
+  @override
+  String get weather_need_internet =>
+      'Voor deze functie is een internetverbinding nodig om updates te downloaden.';
 }

@@ -2062,4 +2062,14 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'İqama Canlı Aktivlik Həmişə Aktivdir';
+
+  @override
+  String get animated_background => 'Animasiya fonu';
+
+  @override
+  String get weather => 'Hava';
+
+  @override
+  String get weather_need_internet =>
+      'Bu funksiyanın yeniləmələri yükləmək üçün internet bağlantısına ehtiyacı var.';
 }
