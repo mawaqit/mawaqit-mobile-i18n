@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Ръмеж",
     "weather_thunderstorm": "Гръмотевична буря",
     "weather_squall": "Ураганен вятър",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Винаги активно Iqama излъчване на живо"
 }
