@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Çiseleme",
     "weather_thunderstorm": "Gök gürültülü fırtına",
     "weather_squall": "Fırtına",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "İkame Canlı Etkinliği Her Zaman Açık"
 }
