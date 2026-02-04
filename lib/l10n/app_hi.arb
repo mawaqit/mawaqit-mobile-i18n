@@ -1309,5 +1309,6 @@
     "weather_drizzle": "फुहार",
     "weather_thunderstorm": "तूफ़ान",
     "weather_squall": "आंधी",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "इक़ामा लाइव गतिविधि हमेशा चालू रखें"
 }
