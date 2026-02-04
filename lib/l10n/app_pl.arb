@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Mżawka",
     "weather_thunderstorm": "Burza z piorunami",
     "weather_squall": "szkwał",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama - Aktywność na żywo zawsze włączona"
 }
