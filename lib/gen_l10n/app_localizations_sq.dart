@@ -2005,7 +2005,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tap_to_retry => 'Prekni për të provuar sërish';
 
   @override
-  String get support_mawaqit_association => 'Mbështesni Shoqatën MAWAQIT';
+  String get support_mawaqit_association => 'Mbështetni Shoqatën MAWAQIT';
 
   @override
   String get help_improve_mawaqit => 'Ndihmoni në përmirësimin e MAWAQIT';

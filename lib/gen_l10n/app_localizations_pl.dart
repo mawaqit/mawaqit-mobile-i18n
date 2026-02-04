@@ -1999,7 +1999,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get tap_to_retry => 'Stuknij, aby spróbować ponownie';
 
   @override
-  String get support_mawaqit_association => 'Wesprzyj Stowarzyszenie Mawaqit';
+  String get support_mawaqit_association => 'Wesprzyj Stowarzyszenie MAWAQIT';
 
   @override
   String get help_improve_mawaqit => 'Pomóż ulepszyć MAWAQIT';

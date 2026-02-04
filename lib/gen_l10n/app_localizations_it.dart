@@ -2016,7 +2016,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get tap_to_retry => 'Tocca per riprovare';
 
   @override
-  String get support_mawaqit_association => 'Sostieni l\'Associazione Mawaqit';
+  String get support_mawaqit_association => 'Sostieni l\'Associazione MAWAQIT';
 
   @override
   String get help_improve_mawaqit => 'Aiuta a migliorare MAWAQIT.';

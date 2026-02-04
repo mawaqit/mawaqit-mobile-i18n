@@ -2000,8 +2000,7 @@ class AppLocalizationsBm extends AppLocalizations {
   String get tap_to_retry => 'Kan ka sigi ko dɔrɔn';
 
   @override
-  String get support_mawaqit_association =>
-      'Ka bo MAWAQIT kɛyɔrɔ fɛɛ ka bɔ a yɛlɛma.';
+  String get support_mawaqit_association => 'Ka dɛmɛ MAWAQIT kɛlɛko.';
 
   @override
   String get help_improve_mawaqit => 'Ka bo MAWAQIT ka kɛ nyɛ foɲa';

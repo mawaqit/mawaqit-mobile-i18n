@@ -2022,7 +2022,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get support_mawaqit_association =>
-      'Unterstützen Sie den Mawaqit-Verein';
+      'Unterstützen Sie den MAWAQIT-Verein';
 
   @override
   String get help_improve_mawaqit => 'Helfen Sie, MAWAQIT zu verbessern.';

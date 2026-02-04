@@ -2002,7 +2002,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get tap_to_retry => 'Napauta yrittääksesi uudelleen';
 
   @override
-  String get support_mawaqit_association => 'Tue Mawaqit-yhdistystä';
+  String get support_mawaqit_association => 'Tue MAWAQIT-yhdistystä';
 
   @override
   String get help_improve_mawaqit => 'Auta parantamaan MAWAQITia';

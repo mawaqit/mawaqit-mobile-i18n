@@ -2005,7 +2005,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tap_to_retry => 'Koppintson az újrapróbáláshoz';
 
   @override
-  String get support_mawaqit_association => 'Támogassa a Mawaqit Egyesületet';
+  String get support_mawaqit_association => 'Támogassa a MAWAQIT Egyesületet';
 
   @override
   String get help_improve_mawaqit => 'Segítsen fejleszteni a MAWAQIT-ot';

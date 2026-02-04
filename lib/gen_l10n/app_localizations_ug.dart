@@ -1997,7 +1997,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tap_to_retry => 'قايتا سىناش ئۈچۈن چېكىلىدۇ';
 
   @override
-  String get support_mawaqit_association => 'مەۋاقىت جامائىتىنى قوللاش';
+  String get support_mawaqit_association => 'Support the MAWAQIT Association';
 
   @override
   String get help_improve_mawaqit => 'مەۋاقىتنى ياخشىلاشقا ياردەملىشىڭ';

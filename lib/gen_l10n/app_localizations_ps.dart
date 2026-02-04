@@ -2001,7 +2001,7 @@ class AppLocalizationsPs extends AppLocalizations {
   String get tap_to_retry => 'Tap to retry';
 
   @override
-  String get support_mawaqit_association => 'Support the Mawaqit Association';
+  String get support_mawaqit_association => 'Support the MAWAQIT Association';
 
   @override
   String get help_improve_mawaqit => 'Help improve MAWAQIT';
