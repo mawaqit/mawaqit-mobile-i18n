@@ -2067,12 +2067,12 @@ class AppLocalizationsKu extends AppLocalizations {
       'چالاکی زیندووی ئیقامە هەمیشە چالاک';
 
   @override
-  String get animated_background => 'Animated background';
+  String get animated_background => 'پاشبنەمای جوڵاو';
 
   @override
-  String get weather => 'Weather';
+  String get weather => 'ئاوەهەوا ';
 
   @override
   String get weather_need_internet =>
-      'This feature needs an internet connection to download updates.';
+      'ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان.';
 }
