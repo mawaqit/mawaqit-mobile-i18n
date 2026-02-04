@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1291,7 +1291,7 @@
     "midnight": "نیمه‌شب",
     "failed_to_update": "به‌روزرسانی انجام نشد.",
     "tap_to_retry": "برای تلاش دوباره ضربه بزنید",
-    "support_mawaqit_association": "حمایت از انجمن مواقيت",
+    "support_mawaqit_association": "از انجمن مواقيت حمایت کنید",
     "help_improve_mawaqit": "به بهبود مواقيت کمک کنید",
     "analytics_description": "اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود.",
     "weather_clear": "صاف",
@@ -1310,5 +1310,5 @@
     "weather_thunderstorm": "رعد و برق",
     "weather_squall": "تندباد شدید",
     "weather_celsius": "°سانتی‌گراد",
-    "iqam_live_activity_always_on": "Iqama Live Activity Always On"
+    "iqam_live_activity_always_on": "فعالیت زنده اقامه همیشه روشن است."
 }
