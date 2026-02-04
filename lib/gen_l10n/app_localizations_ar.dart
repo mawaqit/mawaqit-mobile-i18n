@@ -1243,7 +1243,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get no_bookmarks => 'لا توجد علامات مرجعية';
 
   @override
-  String get liked => 'مُعجب';
+  String get liked => 'المفضلة';
 
   @override
   String get all_recitators => 'جميع المقرئين';
