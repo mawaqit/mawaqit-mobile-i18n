@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Bruine",
     "weather_thunderstorm": "Orage",
     "weather_squall": "Rafale",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Activité en direct d’Iqama toujours activée"
 }
