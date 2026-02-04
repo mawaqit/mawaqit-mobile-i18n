@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Badai petir",
     "weather_squall": "Angin kencang",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Aktivitas Langsung Iqama Selalu Aktif"
+    "iqam_live_activity_always_on": "Aktivitas Langsung Iqama Selalu Aktif",
+    "animated_background": "Latar belakang animasi",
+    "weather": "Cuaca",
+    "weather_need_internet": "Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan."
 }
