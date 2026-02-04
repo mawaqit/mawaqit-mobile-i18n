@@ -1248,7 +1248,7 @@
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "اشعار قبل",
+    "notify_before": "إخطار من قبل",
     "@notify_before": {
         "description": "notify_before"
     },
