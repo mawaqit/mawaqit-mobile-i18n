@@ -2004,7 +2004,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get tap_to_retry => 'بگرە بۆ هەوڵدانەوە';
 
   @override
-  String get support_mawaqit_association => 'پشتیوانی لە کۆمەڵەی مواقيت بکە';
+  String get support_mawaqit_association => 'پشتیوانی لە یەکگرتووەی مواقيت';
 
   @override
   String get help_improve_mawaqit => 'یارمەتی پەرەپێدانی مواقيت بدە';
@@ -2065,4 +2065,14 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'چالاکی زیندووی ئیقامە هەمیشە چالاک';
+
+  @override
+  String get animated_background => 'Animated background';
+
+  @override
+  String get weather => 'Weather';
+
+  @override
+  String get weather_need_internet =>
+      'This feature needs an internet connection to download updates.';
 }

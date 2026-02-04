@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Gök gürültülü fırtına",
     "weather_squall": "Fırtına",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "İkame Canlı Etkinliği Her Zaman Açık"
+    "iqam_live_activity_always_on": "İkame Canlı Etkinliği Her Zaman Açık",
+    "animated_background": "Animasyonlu arka planı",
+    "weather": "Hava Durumu",
+    "weather_need_internet": "Bu özellik, güncellemeleri indirmek için internet bağlantısı gerektirir."
 }

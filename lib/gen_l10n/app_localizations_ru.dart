@@ -2062,4 +2062,14 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Постоянная активность Iqama на экране';
+
+  @override
+  String get animated_background => 'Анимированный фон';
+
+  @override
+  String get weather => 'Погода';
+
+  @override
+  String get weather_need_internet =>
+      'Для этой функции требуется подключение к интернету для загрузки обновлений.';
 }

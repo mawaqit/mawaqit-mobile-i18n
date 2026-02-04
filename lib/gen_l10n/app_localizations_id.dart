@@ -2062,4 +2062,14 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Aktivitas Langsung Iqama Selalu Aktif';
+
+  @override
+  String get animated_background => 'Latar belakang animasi';
+
+  @override
+  String get weather => 'Cuaca';
+
+  @override
+  String get weather_need_internet =>
+      'Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan.';
 }

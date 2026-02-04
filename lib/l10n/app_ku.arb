@@ -1291,7 +1291,7 @@
     "midnight": "نێوەشەو",
     "failed_to_update": "نوێکردنەوە سەرکەوتوو نەبوو.",
     "tap_to_retry": "بگرە بۆ هەوڵدانەوە",
-    "support_mawaqit_association": "پشتیوانی لە کۆمەڵەی مواقيت بکە",
+    "support_mawaqit_association": "پشتیوانی لە یەکگرتووەی مواقيت",
     "help_improve_mawaqit": "یارمەتی پەرەپێدانی مواقيت بدە",
     "analytics_description": "مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت.",
     "weather_clear": "پاک",
@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "بەردەوامی تۆڕەکە",
     "weather_squall": "بەرف و بافرێ",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "چالاکی زیندووی ئیقامە هەمیشە چالاک"
+    "iqam_live_activity_always_on": "چالاکی زیندووی ئیقامە هەمیشە چالاک",
+    "animated_background": "Animated background",
+    "weather": "Weather",
+    "weather_need_internet": "This feature needs an internet connection to download updates."
 }

@@ -2065,4 +2065,14 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar';
+
+  @override
+  String get animated_background => 'Sfond i animuar';
+
+  @override
+  String get weather => 'Moti';
+
+  @override
+  String get weather_need_internet =>
+      'Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.';
 }

@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Temporale",
     "weather_squall": "Burrasca",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Live Activity Iqama Sempre Attiva"
+    "iqam_live_activity_always_on": "Live Activity Iqama Sempre Attiva",
+    "animated_background": "Sfondo animato",
+    "weather": "Meteo",
+    "weather_need_internet": "Questa funzione richiede una connessione internet per scaricare gli aggiornamenti."
 }

@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Åskväder",
     "weather_squall": "Stormbyar",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live-aktivitet alltid på"
+    "iqam_live_activity_always_on": "Iqama Live-aktivitet alltid på",
+    "animated_background": "Animerad bakgrund",
+    "weather": "Väder",
+    "weather_need_internet": "Den här funktionen kräver internetanslutning för att ladda ner uppdateringar."
 }

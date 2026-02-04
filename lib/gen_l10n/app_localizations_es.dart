@@ -2080,4 +2080,14 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Actividad en vivo de Iqama siempre activada';
+
+  @override
+  String get animated_background => 'Fondo animado';
+
+  @override
+  String get weather => 'Clima';
+
+  @override
+  String get weather_need_internet =>
+      'Esta función necesita una conexión a Internet para descargar actualizaciones.';
 }

@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Şimşəkli yağış",
     "weather_squall": "Güclü küləklik hava",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "İqama Canlı Aktivlik Həmişə Aktivdir"
+    "iqam_live_activity_always_on": "İqama Canlı Aktivlik Həmişə Aktivdir",
+    "animated_background": "Animasiya fonu",
+    "weather": "Hava",
+    "weather_need_internet": "Bu funksiyanın yeniləmələri yükləmək üçün internet bağlantısına ehtiyacı var."
 }

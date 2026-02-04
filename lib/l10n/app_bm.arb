@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Furufurun sanni",
     "weather_squall": "Fɛɛrɛkun",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live Activity ka dɛmɛ kɛ dugukolo"
+    "iqam_live_activity_always_on": "Iqama Live Activity ka dɛmɛ kɛ dugukolo",
+    "animated_background": "Fondo ɲéw ka girikalan",
+    "weather": "Baara Malila (Waati)",
+    "weather_need_internet": "Jѐmɛ-kɛnɛ kɔrɔgbɛnan la, i bɛ se ka nyɛ update kɔ tulu la."
 }

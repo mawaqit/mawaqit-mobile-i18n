@@ -2034,4 +2034,14 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'النشاط المباشر للإقامة دائماً مفعل';
+
+  @override
+  String get animated_background => 'خلفية متحركة';
+
+  @override
+  String get weather => 'الطقس';
+
+  @override
+  String get weather_need_internet =>
+      'هذه الميزة تحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.';
 }

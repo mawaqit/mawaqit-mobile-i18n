@@ -2061,4 +2061,14 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get iqam_live_activity_always_on =>
       'Iqama Live Activity So Wulnde Ko Laawol';
+
+  @override
+  String get animated_background => 'Đalminirɗe ɓeyngu ngu yahiiye';
+
+  @override
+  String get weather => 'Jam Wuro';
+
+  @override
+  String get weather_need_internet =>
+      'Tiitooɗon ngol golluɓe ina waawi so a lootirii internet ɗee to ekkitaade jokkondiral.';
 }

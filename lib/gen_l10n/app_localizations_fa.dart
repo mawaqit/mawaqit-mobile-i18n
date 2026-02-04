@@ -1997,7 +1997,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get tap_to_retry => 'برای تلاش دوباره ضربه بزنید';
 
   @override
-  String get support_mawaqit_association => 'حمایت از انجمن مواقيت';
+  String get support_mawaqit_association => 'از انجمن مواقيت حمایت کنید';
 
   @override
   String get help_improve_mawaqit => 'به بهبود مواقيت کمک کنید';
@@ -2056,5 +2056,16 @@ class AppLocalizationsFa extends AppLocalizations {
   String get weather_celsius => '°سانتی‌گراد';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live Activity Always On';
+  String get iqam_live_activity_always_on =>
+      'فعالیت زنده اقامه همیشه روشن است.';
+
+  @override
+  String get animated_background => 'Animated background';
+
+  @override
+  String get weather => 'Weather';
+
+  @override
+  String get weather_need_internet =>
+      'This feature needs an internet connection to download updates.';
 }

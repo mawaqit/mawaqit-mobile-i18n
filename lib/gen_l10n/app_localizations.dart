@@ -4027,6 +4027,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Iqama Live Activity Always On'**
   String get iqam_live_activity_always_on;
+
+  /// No description provided for @animated_background.
+  ///
+  /// In en, this message translates to:
+  /// **'Animated background'**
+  String get animated_background;
+
+  /// No description provided for @weather.
+  ///
+  /// In en, this message translates to:
+  /// **'Weather'**
+  String get weather;
+
+  /// No description provided for @weather_need_internet.
+  ///
+  /// In en, this message translates to:
+  /// **'This feature needs an internet connection to download updates.'**
+  String get weather_need_internet;
 }
 
 class _AppLocalizationsDelegate

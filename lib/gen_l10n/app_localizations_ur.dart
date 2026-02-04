@@ -2059,4 +2059,14 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get iqam_live_activity_always_on => 'اقامہ لائیو ایکٹیویٹی ہمیشہ آن';
+
+  @override
+  String get animated_background => 'متحرک پس منظر';
+
+  @override
+  String get weather => 'موسم';
+
+  @override
+  String get weather_need_internet =>
+      'اس فیچر کو اپڈیٹس ڈاؤن لوڈ کرنے کے لیے انٹرنیٹ کنکشن درکار ہے۔';
 }
