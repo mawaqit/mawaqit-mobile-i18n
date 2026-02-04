@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa-AF",
+    "@@locale": "fa",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -740,7 +740,7 @@
     "quran_mushaf": "قران",
     "quran_juzz": "جز",
     "ayah": "آيه",
-    "quran_verses": "آيات",
+    "quran_verses": "آیاتها",
     "surah": "سورة",
     "continue_reading": "ادامه مطلب",
     "bookmarks": "نشانک ها",
@@ -1124,10 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
-    "yassin_aljazairi": "یاسین الجزایری",
-    "mohammed_abdelkarim": "محمد عبدکریم",
+    "yassin_aljazairi": "یاسین الجزائری",
+    "mohammed_abdelkarim": "محمد عبدالکریم",
     "alayoun_elkouchi": "العیون الکوشی",
-    "abdelkarim_daghoush": "عبدالکریم داغوش",
+    "abdelkarim_daghoush": "عبدالکریم دغوش",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
@@ -1140,7 +1140,7 @@
     "select_ending_verse": "آیه پایان را انتخاب کنید",
     "range_repeat": "تکرار محدوده",
     "verse_repeat": "تکرار آیه",
-    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "improved_Hafs_Rewaya_Force_Update": "ما قِرائتِ حَفص عَن عاصم را بهبود داده‌ایم. همین حالا دانلود کنید تا با نگه‌داشتن روی هر آیه، تفسیر را بررسی و قرائت‌ها را گوش دهید.",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
@@ -1156,55 +1156,55 @@
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "360 Settings",
+    "three_sixty_setting": "تنظیمات ۳۶۰",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "Behavior",
+    "behavior": "رفتار",
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "Next prayer",
+    "next_prayer_open": "نماز بعدی",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "All closed",
+    "all_prayer_closed": "همه بسته‌اند",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
-    "recomended_next_prayer": "Recommended: Next prayer only",
+    "recomended_next_prayer": "توصیه‌شده: فقط نماز بعدی",
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "Live Preview",
+    "live_preview": "تایمر زنده",
     "@live_preview": {
         "description": "-> live_preview"
     },
-    "font_Size_Normal": "Normal",
+    "font_Size_Normal": "معمولی",
     "@font_Size_Normal": {
         "description": "-> font_Size_Normal"
     },
-    "font_Size_Large": "Large",
+    "font_Size_Large": "بزرگ",
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "All open",
+    "all_Prayer_Open": "همه باز است",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
-    "settingFontSize": "Font Size",
+    "settingFontSize": "اندازه قلم",
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "last_Third_Of_The_Night": "یک‌سوم آخر شب",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
     "shaykh_aminuddin_muhammad": "شیخ امین‌الدین محمد",
-    "hafs_an_asim": "حفص عن عاصم",
-    "most_widespread_riwayah": "رایج‌ترین قرائت در سراسر جهان",
-    "warsh_an_nafi": "ورش عن نافع",
-    "popular_across_north_west_africa": "محبوب در سراسر شمال و غرب آفریقا",
+    "hafs_an_asim": "حَفص عَن عاصم",
+    "most_widespread_riwayah": "رِوایَتِ رایج‌ در سراسر دنیا",
+    "warsh_an_nafi": "وَرش عَن نافع",
+    "popular_across_north_west_africa": "رایج در شمال و غرب آفریقا",
     "select": "انتخاب",
     "unknown_smartwatch": "ساعت هوشمند ناشناخته",
     "connected_watch": "ساعت متصل",
@@ -1291,7 +1291,7 @@
     "midnight": "نیمه‌شب",
     "failed_to_update": "به‌روزرسانی انجام نشد.",
     "tap_to_retry": "برای تلاش دوباره ضربه بزنید",
-    "support_mawaqit_association": "حمایت از انجمن مواقيت",
+    "support_mawaqit_association": "از انجمن مواقيت حمایت کنید",
     "help_improve_mawaqit": "به بهبود مواقيت کمک کنید",
     "analytics_description": "اجازه دهید تحلیل‌های ناشناس استفاده انجام دهیم تا به بهبود برنامه کمک کنیم. هیچ داده شخصی جمع‌آوری نمی‌شود و هرگز به اشتراک گذاشته نمی‌شود.",
     "weather_clear": "صاف",
@@ -1309,5 +1309,6 @@
     "weather_drizzle": "نم‌نم باران",
     "weather_thunderstorm": "رعد و برق",
     "weather_squall": "تندباد شدید",
-    "weather_celsius": "°سانتی‌گراد"
+    "weather_celsius": "°سانتی‌گراد",
+    "iqam_live_activity_always_on": "فعالیت زنده اقامه همیشه روشن است."
 }
