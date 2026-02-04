@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Çiskin",
     "weather_thunderstorm": "Şimşəkli yağış",
     "weather_squall": "Güclü küləklik hava",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "İqama Canlı Aktivlik Həmişə Aktivdir"
 }
