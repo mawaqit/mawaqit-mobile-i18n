@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Wannude",
     "weather_thunderstorm": "Kamɗage",
     "weather_squall": "Daggol maɓɓe",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama Live Activity So Wulnde Ko Laawol"
 }
