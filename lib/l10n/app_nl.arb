@@ -1309,5 +1309,6 @@
     "weather_drizzle": "Motregen",
     "weather_thunderstorm": "Onweer",
     "weather_squall": "Windstoot",
-    "weather_celsius": "°C"
+    "weather_celsius": "°C",
+    "iqam_live_activity_always_on": "Iqama Live Activiteit altijd aan"
 }
