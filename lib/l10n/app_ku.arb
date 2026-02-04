@@ -1,5 +1,5 @@
 {
-    "@@locale": "ku",
+    "@@locale": "ckb",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1291,7 +1291,7 @@
     "midnight": "نێوەشەو",
     "failed_to_update": "نوێکردنەوە سەرکەوتوو نەبوو.",
     "tap_to_retry": "بگرە بۆ هەوڵدانەوە",
-    "support_mawaqit_association": "پشتیوانی لە کۆمەڵەی مواقيت بکە",
+    "support_mawaqit_association": "پشتیوانی لە یەکگرتووەی مواقيت",
     "help_improve_mawaqit": "یارمەتی پەرەپێدانی مواقيت بدە",
     "analytics_description": "مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت.",
     "weather_clear": "پاک",
