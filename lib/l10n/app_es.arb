@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Tormenta eléctrica",
     "weather_squall": "Chubasco",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Actividad en vivo de Iqama siempre activada"
+    "iqam_live_activity_always_on": "Actividad en vivo de Iqama siempre activada",
+    "animated_background": "Fondo animado",
+    "weather": "Clima",
+    "weather_need_internet": "Esta función necesita una conexión a Internet para descargar actualizaciones."
 }
