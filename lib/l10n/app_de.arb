@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Gewitter",
     "weather_squall": "Böe",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live-Aktivität immer an"
+    "iqam_live_activity_always_on": "Iqama Live-Aktivität immer an",
+    "animated_background": "Animierter Hintergrund",
+    "weather": "Wetter",
+    "weather_need_internet": "Für diese Funktion wird eine Internetverbindung benötigt, um Updates herunterzuladen."
 }
