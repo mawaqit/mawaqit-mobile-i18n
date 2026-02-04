@@ -1895,7 +1895,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get live_timer => 'مؤقت مباشر';
 
   @override
-  String get notify_before => 'اشعار قبل';
+  String get notify_before => 'إخطار من قبل';
 
   @override
   String get take_time_appear_watch => 'قد يستغرق الظهور على ساعتك بضع ثوان.';
