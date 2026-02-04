@@ -1310,5 +1310,8 @@
     "weather_thunderstorm": "Zivatar",
     "weather_squall": "Viharos szél",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama élő tevékenység mindig bekapcsolva"
+    "iqam_live_activity_always_on": "Iqama élő tevékenység mindig bekapcsolva",
+    "animated_background": "Animált háttér",
+    "weather": "Időjárás",
+    "weather_need_internet": "Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez."
 }
