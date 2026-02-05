@@ -1311,7 +1311,7 @@
     "weather_squall": "بەرف و بافرێ",
     "weather_celsius": "°C",
     "iqam_live_activity_always_on": "چالاکی زیندووی ئیقامە هەمیشە چالاک",
-    "animated_background": "Animated background",
-    "weather": "Weather",
-    "weather_need_internet": "This feature needs an internet connection to download updates."
+    "animated_background": "پاشبنەمای جوڵاو",
+    "weather": "ئاوەهەوا ",
+    "weather_need_internet": "ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان."
 }

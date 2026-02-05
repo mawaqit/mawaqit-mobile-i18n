@@ -2060,12 +2060,12 @@ class AppLocalizationsFa extends AppLocalizations {
       'فعالیت زنده اقامه همیشه روشن است.';
 
   @override
-  String get animated_background => 'Animated background';
+  String get animated_background => 'پس‌زمینه متحرک';
 
   @override
-  String get weather => 'Weather';
+  String get weather => 'هواشناسی';
 
   @override
   String get weather_need_internet =>
-      'This feature needs an internet connection to download updates.';
+      'این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد.';
 }
