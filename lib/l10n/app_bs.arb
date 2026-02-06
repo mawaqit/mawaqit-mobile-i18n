@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja.",
     "weather_light_rain": "Slaba kiša",
     "edit": "Uredi",
-    "iqama_countdown": "Iqama uživo aktivnost uvijek uključena",
+    "iqama_countdown": "Odbrojavanje do Iqame",
     "next_prayer_countdown": "Uključena live aktivnost uvijek",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
