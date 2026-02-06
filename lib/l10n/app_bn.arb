@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "লাইভ অ্যাক্টিভিটি সবসময় চালু",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "লাইভ অ্যাক্টিভিটিগুলো আপনার লক স্ক্রিন এবং ডায়নামিক আইল্যান্ডে (যদি সমর্থিত হয়) প্রদর্শিত হয়। এই ফিচারটি চালু বা বন্ধ করতে প্রধান স্ক্রিনে থাকা ঘড়ির আইকনে ট্যাপ করুন। চালু থাকলে, পরবর্তী নামাজ পর্যন্ত একটি টাইমারসহ নোটিফিকেশনটি সবসময় দৃশ্যমান থাকবে।",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "বজ্রঝড়",
     "weather_squall": "ঝড়ো হাওয়া",
     "weather_celsius": "°সে.",
-    "iqam_live_activity_always_on": "ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু",
     "animated_background": "অ্যানিমেটেড পটভূমি",
     "weather": "আবহাওয়া",
     "weather_need_internet": "আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।",
     "weather_light_rain": "হালকা বৃষ্টি",
-    "edit": "সম্পাদনা করুন"
+    "edit": "সম্পাদনা করুন",
+    "iqama_countdown": "ইকামা কাউন্টডাউন",
+    "next_prayer_countdown": "পরবর্তী নামাজের কাউন্টডাউন",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
