@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Live aktivitet alltid på",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Åskväder",
     "weather_squall": "Stormbyar",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live-aktivitet alltid på",
     "animated_background": "Animerad bakgrund",
     "weather": "Väder",
     "weather_need_internet": "Den här funktionen kräver internetanslutning för att ladda ner uppdateringar.",
     "weather_light_rain": "Lätt regn",
-    "edit": "Redigera"
+    "edit": "Redigera",
+    "iqama_countdown": "Iqama Live-aktivitet alltid på",
+    "next_prayer_countdown": "Live aktivitet alltid på",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
