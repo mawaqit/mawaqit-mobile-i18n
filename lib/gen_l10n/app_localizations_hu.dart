@@ -1984,9 +1984,6 @@ class AppLocalizationsHu extends AppLocalizations {
   String get view_detail => 'Részletek megtekintése';
 
   @override
-  String get customise => 'Testreszabás';
-
-  @override
   String get temperature => 'Hőmérséklet';
 
   @override
@@ -2078,4 +2075,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Enyhe eső';
+
+  @override
+  String get edit => 'Szerkesztés';
 }

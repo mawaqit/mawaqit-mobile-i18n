@@ -1953,9 +1953,6 @@ class AppLocalizationsAr extends AppLocalizations {
   String get view_detail => 'عرض التفاصيل';
 
   @override
-  String get customise => 'تخصيص';
-
-  @override
   String get temperature => 'الحرارة';
 
   @override
@@ -2047,4 +2044,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'أمطار خفيفة';
+
+  @override
+  String get edit => 'تعديل';
 }

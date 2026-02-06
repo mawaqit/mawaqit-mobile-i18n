@@ -1993,9 +1993,6 @@ class AppLocalizationsNl extends AppLocalizations {
   String get view_detail => 'Details bekijken';
 
   @override
-  String get customise => 'Aanpassen';
-
-  @override
   String get temperature => 'Temperatuur';
 
   @override
@@ -2086,4 +2083,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Lichte regen';
+
+  @override
+  String get edit => 'Bewerken';
 }

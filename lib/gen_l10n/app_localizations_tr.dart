@@ -1973,9 +1973,6 @@ class AppLocalizationsTr extends AppLocalizations {
   String get view_detail => 'Detayı Görüntüle';
 
   @override
-  String get customise => 'Özelleştir';
-
-  @override
   String get temperature => 'Sıcaklık';
 
   @override
@@ -2067,4 +2064,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Hafif yağmur';
+
+  @override
+  String get edit => 'Düzenle';
 }

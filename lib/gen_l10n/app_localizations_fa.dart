@@ -1976,9 +1976,6 @@ class AppLocalizationsFa extends AppLocalizations {
   String get view_detail => 'مشاهده جزئیات';
 
   @override
-  String get customise => 'شخصی‌سازی';
-
-  @override
   String get temperature => 'دما';
 
   @override
@@ -2071,4 +2068,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'باران ملایم';
+
+  @override
+  String get edit => 'Edit';
 }

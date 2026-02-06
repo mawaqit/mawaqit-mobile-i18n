@@ -1982,9 +1982,6 @@ class AppLocalizationsBs extends AppLocalizations {
   String get view_detail => 'Pregled detalja';
 
   @override
-  String get customise => 'Prilagodi';
-
-  @override
   String get temperature => 'Temperatura';
 
   @override
@@ -2076,4 +2073,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Slaba kiša';
+
+  @override
+  String get edit => 'Uredi';
 }

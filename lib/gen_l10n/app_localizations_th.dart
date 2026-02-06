@@ -1980,9 +1980,6 @@ class AppLocalizationsTh extends AppLocalizations {
   String get view_detail => 'View detail';
 
   @override
-  String get customise => 'Customise';
-
-  @override
   String get temperature => 'Temperature';
 
   @override
@@ -2073,4 +2070,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Light rain';
+
+  @override
+  String get edit => 'Edit';
 }

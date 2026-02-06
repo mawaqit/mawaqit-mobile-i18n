@@ -1980,9 +1980,6 @@ class AppLocalizationsFf extends AppLocalizations {
   String get view_detail => 'Voir détails';
 
   @override
-  String get customise => 'Personnaliser';
-
-  @override
   String get temperature => 'Température';
 
   @override
@@ -2074,4 +2071,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Mbayka laaɓtuka';
+
+  @override
+  String get edit => 'Soppii';
 }

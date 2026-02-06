@@ -1976,9 +1976,6 @@ class AppLocalizationsUg extends AppLocalizations {
   String get view_detail => 'تەپسىلاتىنى كۆرسەت';
 
   @override
-  String get customise => 'ئىختىيارى';
-
-  @override
   String get temperature => 'تېمپېراتۇرا';
 
   @override
@@ -2069,4 +2066,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Light rain';
+
+  @override
+  String get edit => 'Edit';
 }

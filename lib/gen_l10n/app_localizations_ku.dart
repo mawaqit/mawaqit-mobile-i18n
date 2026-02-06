@@ -1983,9 +1983,6 @@ class AppLocalizationsKu extends AppLocalizations {
   String get view_detail => 'وردەکاری ببینە';
 
   @override
-  String get customise => 'تایبەت بکە';
-
-  @override
   String get temperature => 'پلەی گەرمی';
 
   @override
@@ -2078,4 +2075,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'بارانی سووک';
+
+  @override
+  String get edit => 'Edit';
 }
