@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Activité en direct toujours activée",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Les activités en direct s’affichent sur l’écran de verrouillage et Dynamic Island (si pris en charge). Appuyez sur l’icône de l’horloge sur l’écran principal pour activer ou désactiver cette fonctionnalité. Lorsque celle-ci est activée, la notification reste visible à tout moment avec un minuteur jusqu’à la prochaine prière.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Kamɗage",
     "weather_squall": "Daggol maɓɓe",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live Activity So Wulnde Ko Laawol",
     "animated_background": "Đalminirɗe ɓeyngu ngu yahiiye",
     "weather": "Jam Wuro",
     "weather_need_internet": "Tiitooɗon ngol golluɓe ina waawi so a lootirii internet ɗee to ekkitaade jokkondiral.",
     "weather_light_rain": "Mbayka laaɓtuka",
-    "edit": "Soppii"
+    "edit": "Soppii",
+    "iqama_countdown": "Iqama Live Activity So Wulnde Ko Laawol",
+    "next_prayer_countdown": "Activité en direct toujours activée",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
