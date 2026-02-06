@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Atividade ao vivo do Iqama sempre ativa",
     "animated_background": "Plano de fundo animado",
     "weather": "Clima\nTempo",
-    "weather_need_internet": "Este recurso precisa de conexão à internet para baixar atualizações."
+    "weather_need_internet": "Este recurso precisa de conexão à internet para baixar atualizações.",
+    "weather_light_rain": "Chuva fraca"
 }
