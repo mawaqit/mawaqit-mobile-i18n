@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Esta función necesita una conexión a Internet para descargar actualizaciones.",
     "weather_light_rain": "Lluvia ligera",
     "edit": "Editar",
-    "iqama_countdown": "Actividad en vivo de Iqama siempre activada",
+    "iqama_countdown": "Cuenta regresiva para el Iqama",
     "next_prayer_countdown": "Actividad en vivo siempre activada",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
