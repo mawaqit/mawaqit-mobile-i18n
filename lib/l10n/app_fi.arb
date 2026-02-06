@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Iqama Live-aktiviteetti aina päällä",
     "animated_background": "Animoitu tausta",
     "weather": "Sää",
-    "weather_need_internet": "Tämä toiminto vaatii internet-yhteyden päivitysten lataamiseen."
+    "weather_need_internet": "Tämä toiminto vaatii internet-yhteyden päivitysten lataamiseen.",
+    "weather_light_rain": "Heikko sade"
 }
