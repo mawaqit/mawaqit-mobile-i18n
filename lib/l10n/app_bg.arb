@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Винаги активно Iqama излъчване на живо",
     "animated_background": "Анимиран фон",
     "weather": "Времето",
-    "weather_need_internet": "Тази функция изисква интернет връзка, за да изтегли обновления."
+    "weather_need_internet": "Тази функция изисква интернет връзка, за да изтегли обновления.",
+    "weather_light_rain": "Лек дъжд"
 }
