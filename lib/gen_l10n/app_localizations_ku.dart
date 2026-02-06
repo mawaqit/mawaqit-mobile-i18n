@@ -2077,5 +2077,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get weather_light_rain => 'بارانی سووک';
 
   @override
-  String get edit => 'Edit';
+  String get edit => 'دەستکاری';
 }

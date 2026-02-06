@@ -2070,5 +2070,5 @@ class AppLocalizationsFa extends AppLocalizations {
   String get weather_light_rain => 'باران ملایم';
 
   @override
-  String get edit => 'Edit';
+  String get edit => 'ویرایش';
 }
