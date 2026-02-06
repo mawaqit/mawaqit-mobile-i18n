@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1284,7 +1284,6 @@
     "grid": "گرڈ",
     "real_time_weather_needs_internet": "حقیقی وقت کے موسم کی تازہ معلومات حاصل کرنے کے لیے انٹرنیٹ کنکشن ضروری ہے.",
     "view_detail": "تفصیل دیکھیں",
-    "customise": "حسبِ ضرورت ترتیب دیں",
     "temperature": "درجہ حرارت",
     "tahajjud_time": "تہجد کا وقت",
     "last_third": "آخری تہائی حصہ",
@@ -1314,5 +1313,6 @@
     "animated_background": "متحرک پس منظر",
     "weather": "موسم",
     "weather_need_internet": "اس فیچر کو اپڈیٹس ڈاؤن لوڈ کرنے کے لیے انٹرنیٹ کنکشن درکار ہے۔",
-    "weather_light_rain": "ہلکی بارش"
+    "weather_light_rain": "ہلکی بارش",
+    "edit": "ترمیم کریں"
 }
