@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez.",
     "weather_light_rain": "Enyhe eső",
     "edit": "Szerkesztés",
-    "iqama_countdown": "Iqama élő tevékenység mindig bekapcsolva",
+    "iqama_countdown": "Iqáma visszaszámlálás",
     "next_prayer_countdown": "Élő tevékenység mindig bekapcsolva",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
