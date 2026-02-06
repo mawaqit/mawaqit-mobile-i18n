@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Iqama uživo aktivnost uvijek uključena",
     "animated_background": "Animirana pozadina",
     "weather": "Vrijeme",
-    "weather_need_internet": "Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja."
+    "weather_need_internet": "Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja.",
+    "weather_light_rain": "Slaba kiša"
 }
