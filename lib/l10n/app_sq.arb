@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.",
     "weather_light_rain": "Shi i lehtë",
     "edit": "Ndrysho",
-    "iqama_countdown": "Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar",
+    "iqama_countdown": "Kohëmatës për Ikama-në",
     "next_prayer_countdown": "Aktiviteti i gjallë gjithmonë aktiv",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
