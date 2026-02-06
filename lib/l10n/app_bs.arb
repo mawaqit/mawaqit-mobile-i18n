@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Uključena live aktivnost uvijek",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Live aktivnosti se pojavljuju na zaključanom ekranu i Dynamic Islandu (ako je podržano). Dodirnite ikonu sata na glavnom ekranu da uključite/isključite ovu funkciju. Kada je omogućena, obavijest ostaje stalno vidljiva s brojačem vremena do sljedeće molitve.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Grmljavina",
     "weather_squall": "Olujni nalet vjetra",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama uživo aktivnost uvijek uključena",
     "animated_background": "Animirana pozadina",
     "weather": "Vrijeme",
     "weather_need_internet": "Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja.",
     "weather_light_rain": "Slaba kiša",
-    "edit": "Uredi"
+    "edit": "Uredi",
+    "iqama_countdown": "Iqama uživo aktivnost uvijek uključena",
+    "next_prayer_countdown": "Uključena live aktivnost uvijek",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
