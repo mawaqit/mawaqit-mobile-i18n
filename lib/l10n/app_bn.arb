@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু",
     "animated_background": "অ্যানিমেটেড পটভূমি",
     "weather": "আবহাওয়া",
-    "weather_need_internet": "আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।"
+    "weather_need_internet": "আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।",
+    "weather_light_rain": "হালকা বৃষ্টি"
 }
