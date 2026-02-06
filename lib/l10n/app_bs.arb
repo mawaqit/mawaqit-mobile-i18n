@@ -1284,7 +1284,6 @@
     "grid": "Mreža",
     "real_time_weather_needs_internet": "Vrijeme uživo zahtijeva internet vezu za preuzimanje ažuriranja.",
     "view_detail": "Pregled detalja",
-    "customise": "Prilagodi",
     "temperature": "Temperatura",
     "tahajjud_time": "Vrijeme za Tahadžud",
     "last_third": "Zadnja trećina",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animirana pozadina",
     "weather": "Vrijeme",
     "weather_need_internet": "Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja.",
-    "weather_light_rain": "Slaba kiša"
+    "weather_light_rain": "Slaba kiša",
+    "edit": "Uredi"
 }
