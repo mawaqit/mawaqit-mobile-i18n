@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Cette fonctionnalité nécessite une connexion Internet pour télécharger les mises à jour.",
     "weather_light_rain": "Pluie légère",
     "edit": "Modifier",
-    "iqama_countdown": "Activité en direct d’Iqama toujours activée",
+    "iqama_countdown": "Compte à rebours Iqama",
     "next_prayer_countdown": "Activité en direct toujours activée",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
