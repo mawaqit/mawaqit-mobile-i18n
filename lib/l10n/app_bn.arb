@@ -1284,7 +1284,6 @@
     "grid": "গ্রিড",
     "real_time_weather_needs_internet": "রিয়েল-টাইম আবহাওয়ার আপডেট পেতে ইন্টারনেট সংযোগ প্রয়োজন।.",
     "view_detail": "বিস্তারিত দেখুন",
-    "customise": "কাস্টমাইজ করুন",
     "temperature": "তাপমাত্রা",
     "tahajjud_time": "তাহাজ্জুদের সময়",
     "last_third": "শেষ তৃতীয়াংশ",
@@ -1314,5 +1313,6 @@
     "animated_background": "অ্যানিমেটেড পটভূমি",
     "weather": "আবহাওয়া",
     "weather_need_internet": "আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।",
-    "weather_light_rain": "হালকা বৃষ্টি"
+    "weather_light_rain": "হালকা বৃষ্টি",
+    "edit": "সম্পাদনা করুন"
 }
