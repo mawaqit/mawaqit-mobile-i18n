@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Activité en direct toujours activée",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Les activités en direct apparaissent sur votre écran de verrouillage et sur votre île dynamique (si compatible). Appuyez sur l'icône de l'horloge sur l'écran principal pour activer/désactiver cette fonctionnalité. Lorsque cette option est activée, la notification reste visible à tout moment avec un minuteur jusqu'à la prochaine prière.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Orage",
     "weather_squall": "Rafale",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Activité en direct d’Iqama toujours activée",
     "animated_background": "Arrière-plan animé",
     "weather": "Météo",
     "weather_need_internet": "Cette fonctionnalité nécessite une connexion Internet pour télécharger les mises à jour.",
     "weather_light_rain": "Pluie légère",
-    "edit": "Modifier"
+    "edit": "Modifier",
+    "iqama_countdown": "Activité en direct d’Iqama toujours activée",
+    "next_prayer_countdown": "Activité en direct toujours activée",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
