@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Este recurso precisa de conexão à internet para baixar atualizações.",
     "weather_light_rain": "Chuva fraca",
     "edit": "Editar",
-    "iqama_countdown": "Atividade ao vivo do Iqama sempre ativa",
+    "iqama_countdown": "Contagem regressiva para Iqama",
     "next_prayer_countdown": "Atividade ao vivo sempre ligada",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
