@@ -1284,7 +1284,6 @@
     "grid": "Rrjetë",
     "real_time_weather_needs_internet": "Moti në kohë reale kërkon lidhje interneti për të shkarkuar përditësimet.",
     "view_detail": "বিস্তারিত দেখুন",
-    "customise": "Personalizo",
     "temperature": "Temperatura",
     "tahajjud_time": "Koha e Tahaxhudit",
     "last_third": "Treta e fundit",
@@ -1314,5 +1313,6 @@
     "animated_background": "Sfond i animuar",
     "weather": "Moti",
     "weather_need_internet": "Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.",
-    "weather_light_rain": "Shi i lehtë"
+    "weather_light_rain": "Shi i lehtë",
+    "edit": "Ndrysho"
 }
