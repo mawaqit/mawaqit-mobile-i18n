@@ -1935,9 +1935,6 @@ class AppLocalizationsSv extends AppLocalizations {
       'Dölj levande aktivitet endast för denna bön';
 
   @override
-  String get live_activity_always_on => 'Live aktivitet alltid på';
-
-  @override
   String get live_activities_appear =>
       'Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.';
 
@@ -2056,9 +2053,6 @@ class AppLocalizationsSv extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live-aktivitet alltid på';
-
-  @override
   String get animated_background => 'Animerad bakgrund';
 
   @override
@@ -2073,4 +2067,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get edit => 'Redigera';
+
+  @override
+  String get iqama_countdown => 'Iqama Live-aktivitet alltid på';
+
+  @override
+  String get next_prayer_countdown => 'Live aktivitet alltid på';
 }

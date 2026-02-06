@@ -1931,9 +1931,6 @@ class AppLocalizationsUg extends AppLocalizations {
       'بۇ نامازغىلا شۇئان پائالىيەتنى يوشۇر';
 
   @override
-  String get live_activity_always_on => 'شۇئان پائالىيەت ھەمىشە ئوچۇق';
-
-  @override
   String get live_activities_appear =>
       'شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. ئاساسىي ئېكراندىكى سائەتنى چېكىپ بۇ ئىقتىدارنى ئاچ/تاقا ھالىتىنى ئالماشتۇرغىلى بولىدۇ. قوزغىتىلغاندا، ئۇقتۇرۇش كېيىنكى ناماز ۋاقتىغىچە ھەمىشە كۆرۈنۈپ تۇرىدۇ.';
 
@@ -2052,9 +2049,6 @@ class AppLocalizationsUg extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live Activity Always On';
-
-  @override
   String get animated_background => 'Animated background';
 
   @override
@@ -2069,4 +2063,10 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get edit => 'Edit';
+
+  @override
+  String get iqama_countdown => 'Iqama countdown';
+
+  @override
+  String get next_prayer_countdown => 'شۇئان پائالىيەت ھەمىشە ئوچۇق';
 }

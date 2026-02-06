@@ -1939,9 +1939,6 @@ class AppLocalizationsHu extends AppLocalizations {
       'Élő tevékenység elrejtése csak ehhez az imához';
 
   @override
-  String get live_activity_always_on => 'Élő tevékenység mindig bekapcsolva';
-
-  @override
   String get live_activities_appear =>
       'Az élő tevékenységek megjelennek a zárolási képernyőn és a Dinamikus Szigeten (ha támogatott). A főképernyőn koppintson az óra ikonra a funkció be- vagy kikapcsolásához. Bekapcsolva a figyelmeztetés mindig látható marad az időzítővel a következő imáig.';
 
@@ -2060,10 +2057,6 @@ class AppLocalizationsHu extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Iqama élő tevékenység mindig bekapcsolva';
-
-  @override
   String get animated_background => 'Animált háttér';
 
   @override
@@ -2078,4 +2071,10 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get edit => 'Szerkesztés';
+
+  @override
+  String get iqama_countdown => 'Iqama élő tevékenység mindig bekapcsolva';
+
+  @override
+  String get next_prayer_countdown => 'Élő tevékenység mindig bekapcsolva';
 }

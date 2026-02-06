@@ -1938,9 +1938,6 @@ class AppLocalizationsKu extends AppLocalizations {
       'چالاکی ڕاستەوخۆ بشارەوە تەنها بۆ ئەم نوێژە';
 
   @override
-  String get live_activity_always_on => 'چالاکی ڕاستەوخۆ هەمیشە ڕوونە';
-
-  @override
   String get live_activities_appear =>
       'چالاکییە ڕاستەوخۆکان لەسەر دەرچوو و Dynamic Island پیشان دەدرێن (ئەگەر پشتیوانی بکرێت). دوگمەی کاتژمێر لە سەرەکی بگرە بۆ کارا/ناکارا کردن. کاتێک کارا بکرێت، ئاگاداری هەمیشە دەمێنێت و کۆنتەرەکی تا نوێژی داهاتوو دەرکەوتوویە.';
 
@@ -2060,10 +2057,6 @@ class AppLocalizationsKu extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'چالاکی زیندووی ئیقامە هەمیشە چالاک';
-
-  @override
   String get animated_background => 'پاشبنەمای جوڵاو';
 
   @override
@@ -2078,4 +2071,10 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get edit => 'دەستکاری';
+
+  @override
+  String get iqama_countdown => 'ژماردنی پاشەوەی ئیقامە';
+
+  @override
+  String get next_prayer_countdown => 'ژماردنی پاشەوەی نوێژی داهاتوو';
 }

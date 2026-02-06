@@ -1928,9 +1928,6 @@ class AppLocalizationsTr extends AppLocalizations {
       'Yalnızca bu namaz için canlı etkinliği gizle';
 
   @override
-  String get live_activity_always_on => 'Canlı Etkinlik Her Zaman Açık';
-
-  @override
   String get live_activities_appear =>
       'Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।';
 
@@ -2049,10 +2046,6 @@ class AppLocalizationsTr extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'İkame Canlı Etkinliği Her Zaman Açık';
-
-  @override
   String get animated_background => 'Animasyonlu arka planı';
 
   @override
@@ -2067,4 +2060,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get edit => 'Düzenle';
+
+  @override
+  String get iqama_countdown => 'İkame Geri Sayım';
+
+  @override
+  String get next_prayer_countdown => 'Sonraki Namaz Geri Sayımı';
 }

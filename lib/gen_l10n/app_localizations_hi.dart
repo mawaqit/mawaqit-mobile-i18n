@@ -1937,9 +1937,6 @@ class AppLocalizationsHi extends AppLocalizations {
       'Masquer l\'activité en direct uniquement pour cette prière';
 
   @override
-  String get live_activity_always_on => 'Activité en direct toujours activée';
-
-  @override
   String get live_activities_appear =>
       'L’activité en direct s’affiche sur votre écran verrouillé et Dynamic Island (si pris en charge). Touchez l’icône horloge sur l’écran principal pour activer ou désactiver cette fonctionnalité. Quand activée, la notification reste visible en permanence avec un minuteur jusqu’à la prochaine prière.';
 
@@ -2058,10 +2055,6 @@ class AppLocalizationsHi extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'इक़ामा लाइव गतिविधि हमेशा चालू रखें';
-
-  @override
   String get animated_background => 'एनिमेटेड पृष्ठभूमि';
 
   @override
@@ -2077,4 +2070,10 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get edit => 'संपादित करें';
+
+  @override
+  String get iqama_countdown => 'इक़ामा लाइव गतिविधि हमेशा चालू रखें';
+
+  @override
+  String get next_prayer_countdown => 'Activité en direct toujours activée';
 }

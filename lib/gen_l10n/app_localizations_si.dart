@@ -1934,9 +1934,6 @@ class AppLocalizationsSi extends AppLocalizations {
       'ซ่อน Live Activity สำหรับละหมาดนี้เท่านั้น';
 
   @override
-  String get live_activity_always_on => 'เปิด Live Activity ตลอดเวลา';
-
-  @override
   String get live_activities_appear =>
       'Live Activities จะแสดงบนหน้าล็อคและ Dynamic Island (ถ้ามี) แตะไอคอนนาฬิกาที่หน้าหลักเพื่อเปิด/ปิดฟีเจอร์นี้ เมื่อเปิดแล้ว การแจ้งเตือนจะอยู่บนหน้าจอตลอดเวลาพร้อมตัวจับเวลาจนถึงละหมาดถัดไป';
 
@@ -2055,9 +2052,6 @@ class AppLocalizationsSi extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live Activity Always On';
-
-  @override
   String get animated_background => 'Animated background';
 
   @override
@@ -2072,4 +2066,10 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get edit => 'Edit';
+
+  @override
+  String get iqama_countdown => 'Iqama countdown';
+
+  @override
+  String get next_prayer_countdown => 'เปิด Live Activity ตลอดเวลา';
 }

@@ -1937,9 +1937,6 @@ class AppLocalizationsBn extends AppLocalizations {
       'এই নামাজের জন্য শুধুমাত্র লাইভ অ্যাক্টিভিটি লুকান';
 
   @override
-  String get live_activity_always_on => 'লাইভ অ্যাক্টিভিটি সবসময় চালু';
-
-  @override
   String get live_activities_appear =>
       'লাইভ অ্যাক্টিভিটিগুলো আপনার লক স্ক্রিন এবং ডায়নামিক আইল্যান্ডে (যদি সমর্থিত হয়) প্রদর্শিত হয়। এই ফিচারটি চালু বা বন্ধ করতে প্রধান স্ক্রিনে থাকা ঘড়ির আইকনে ট্যাপ করুন। চালু থাকলে, পরবর্তী নামাজ পর্যন্ত একটি টাইমারসহ নোটিফিকেশনটি সবসময় দৃশ্যমান থাকবে।';
 
@@ -2058,10 +2055,6 @@ class AppLocalizationsBn extends AppLocalizations {
   String get weather_celsius => '°সে.';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'ইকামা লাইভ অ্যাক্টিভিটি সবসময় চালু';
-
-  @override
   String get animated_background => 'অ্যানিমেটেড পটভূমি';
 
   @override
@@ -2076,4 +2069,10 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get edit => 'সম্পাদনা করুন';
+
+  @override
+  String get iqama_countdown => 'ইকামা কাউন্টডাউন';
+
+  @override
+  String get next_prayer_countdown => 'পরবর্তী নামাজের কাউন্টডাউন';
 }

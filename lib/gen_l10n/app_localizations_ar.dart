@@ -1908,9 +1908,6 @@ class AppLocalizationsAr extends AppLocalizations {
       'إخفاء النشاط المباشر لهذه الصلاة فقط';
 
   @override
-  String get live_activity_always_on => 'تشغيل النشاط المباشر دائماً';
-
-  @override
   String get live_activities_appear =>
       'تظهر الأنشطة المباشرة على شاشة القفل والجزيرة الديناميكية (إذا كانت مدعومة). اضغط على أيقونة الساعة على الشاشة الرئيسية لتبديل هذه الميزة تشغيل/إيقافها. عند التمكين، يظل الإشعار مرئيًا في جميع الأوقات مع المؤقت حتى الصلاة التالية.';
 
@@ -2029,10 +2026,6 @@ class AppLocalizationsAr extends AppLocalizations {
   String get weather_celsius => '°س';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'النشاط المباشر للإقامة دائماً مفعل';
-
-  @override
   String get animated_background => 'خلفية متحركة';
 
   @override
@@ -2047,4 +2040,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get edit => 'تعديل';
+
+  @override
+  String get iqama_countdown => 'النشاط المباشر للإقامة دائماً مفعل';
+
+  @override
+  String get next_prayer_countdown => 'تشغيل النشاط المباشر دائماً';
 }

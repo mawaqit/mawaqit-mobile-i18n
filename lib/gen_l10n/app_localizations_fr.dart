@@ -1958,9 +1958,6 @@ class AppLocalizationsFr extends AppLocalizations {
       'Masquer l\'activité en direct pour cette prière uniquement';
 
   @override
-  String get live_activity_always_on => 'Activité en direct toujours activée';
-
-  @override
   String get live_activities_appear =>
       'Les activités en direct apparaissent sur votre écran de verrouillage et sur votre île dynamique (si compatible). Appuyez sur l\'icône de l\'horloge sur l\'écran principal pour activer/désactiver cette fonctionnalité. Lorsque cette option est activée, la notification reste visible à tout moment avec un minuteur jusqu\'à la prochaine prière.';
 
@@ -2079,10 +2076,6 @@ class AppLocalizationsFr extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Activité en direct d’Iqama toujours activée';
-
-  @override
   String get animated_background => 'Arrière-plan animé';
 
   @override
@@ -2097,4 +2090,10 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get edit => 'Modifier';
+
+  @override
+  String get iqama_countdown => 'Activité en direct d’Iqama toujours activée';
+
+  @override
+  String get next_prayer_countdown => 'Activité en direct toujours activée';
 }

@@ -1935,9 +1935,6 @@ class AppLocalizationsAz extends AppLocalizations {
       'Nascondi attività dal vivo solo per questa preghiera';
 
   @override
-  String get live_activity_always_on => 'Attività dal vivo sempre attiva';
-
-  @override
   String get live_activities_appear =>
       'Le attività dal vivo appaiono sulla schermata di blocco e su Dynamic Island (se supportato). Tocca l\'icona dell\'orologio nella schermata principale per attivare/disattivare questa funzione. Quando abilitato, la notifica rimane sempre visibile con un timer fino alla prossima preghiera.';
 
@@ -2057,10 +2054,6 @@ class AppLocalizationsAz extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'İqama Canlı Aktivlik Həmişə Aktivdir';
-
-  @override
   String get animated_background => 'Animasiya fonu';
 
   @override
@@ -2075,4 +2068,10 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get edit => 'Redaktə et';
+
+  @override
+  String get iqama_countdown => 'İqama Canlı Aktivlik Həmişə Aktivdir';
+
+  @override
+  String get next_prayer_countdown => 'Attività dal vivo sempre attiva';
 }

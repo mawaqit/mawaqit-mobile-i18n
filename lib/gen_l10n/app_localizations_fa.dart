@@ -1932,9 +1932,6 @@ class AppLocalizationsFa extends AppLocalizations {
       'پنهان کردن فعالیت زنده برای فقط این نماز';
 
   @override
-  String get live_activity_always_on => 'فعالیت زنده همیشه روشن';
-
-  @override
   String get live_activities_appear =>
       'فعالیت‌های زنده روی صفحه قفل و Dynamic Island (در صورت پشتیبانی) نمایش داده می‌شوند. برای فعال/غیرفعال کردن این ویژگی، روی نماد ساعت در صفحه اصلی بزنید. زمانی که فعال باشد، اعلان با تایمر تا نماز بعدی همواره قابل مشاهده خواهد بود.';
 
@@ -2053,10 +2050,6 @@ class AppLocalizationsFa extends AppLocalizations {
   String get weather_celsius => '°سانتی‌گراد';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'فعالیت زنده اقامه همیشه روشن است.';
-
-  @override
   String get animated_background => 'پس‌زمینه متحرک';
 
   @override
@@ -2071,4 +2064,10 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get edit => 'ویرایش';
+
+  @override
+  String get iqama_countdown => 'فعالیت زنده اقامه همیشه روشن است.';
+
+  @override
+  String get next_prayer_countdown => 'فعالیت زنده همیشه روشن';
 }

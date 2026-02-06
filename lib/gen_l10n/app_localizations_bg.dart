@@ -1942,9 +1942,6 @@ class AppLocalizationsBg extends AppLocalizations {
       'Скрий живата активност само за тази молитва';
 
   @override
-  String get live_activity_always_on => 'Винаги включена жива активност';
-
-  @override
   String get live_activities_appear =>
       'Живите активности се появяват на заключения екран и Dynamic Island (ако се поддържа). Докоснете иконата на часовника на основния екран, за да включите/изключите тази функция. Когато е активирана, известието остава видимо постоянно с таймер до следващата молитва.';
 
@@ -2063,10 +2060,6 @@ class AppLocalizationsBg extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Винаги активно Iqama излъчване на живо';
-
-  @override
   String get animated_background => 'Анимиран фон';
 
   @override
@@ -2081,4 +2074,10 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get edit => 'Редактиране';
+
+  @override
+  String get iqama_countdown => 'Винаги активно Iqama излъчване на живо';
+
+  @override
+  String get next_prayer_countdown => 'Винаги включена жива активност';
 }

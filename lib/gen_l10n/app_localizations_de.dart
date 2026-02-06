@@ -1955,9 +1955,6 @@ class AppLocalizationsDe extends AppLocalizations {
       'Nur für dieses Gebet Live-Aktivitäten ausblenden';
 
   @override
-  String get live_activity_always_on => 'Live-Aktivität immer an';
-
-  @override
   String get live_activities_appear =>
       'Live Aktivitäten erscheinen auf deinem Sperrbildschirm und Dynamic Island (falls unterstützt). Tippen Sie auf das Uhr-Symbol auf dem Hauptbildschirm, um diese Funktion ein-/auszuschalten. Wenn aktiviert, bleibt die Benachrichtigung jederzeit mit einem Timer bis zum nächsten Gebet sichtbar.';
 
@@ -2077,9 +2074,6 @@ class AppLocalizationsDe extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live-Aktivität immer an';
-
-  @override
   String get animated_background => 'Animierter Hintergrund';
 
   @override
@@ -2094,4 +2088,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get edit => 'Bearbeiten';
+
+  @override
+  String get iqama_countdown => 'Iqama Live-Aktivität immer an';
+
+  @override
+  String get next_prayer_countdown => 'Live-Aktivität immer an';
 }
