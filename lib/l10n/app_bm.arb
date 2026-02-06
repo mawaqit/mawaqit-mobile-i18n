@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Waati siraba da ka cɛ",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Waati siraba bɛ yera i ka lock screen ni Dynamic Island la (i ka tulo kɛ sisan). Ka satigi ka clock bonya kun na main screen la ka bɔ/ka bɔjɔsi ni. Ka bɔ, ka notification bɛ yera ni waati siraba ka tafara sisan, kan te wuliya waati.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Furufurun sanni",
     "weather_squall": "Fɛɛrɛkun",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live Activity ka dɛmɛ kɛ dugukolo",
     "animated_background": "Fondo ɲéw ka girikalan",
     "weather": "Baara Malila (Waati)",
     "weather_need_internet": "Jѐmɛ-kɛnɛ kɔrɔgbɛnan la, i bɛ se ka nyɛ update kɔ tulu la.",
     "weather_light_rain": "Sanji ɲɔgɔn",
-    "edit": "Sɛnbɛ"
+    "edit": "Sɛnbɛ",
+    "iqama_countdown": "Iqama Live Activity ka dɛmɛ kɛ dugukolo",
+    "next_prayer_countdown": "Waati siraba da ka cɛ",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
