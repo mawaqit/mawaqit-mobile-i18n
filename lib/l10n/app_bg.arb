@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Винаги включена жива активност",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Живите активности се появяват на заключения екран и Dynamic Island (ако се поддържа). Докоснете иконата на часовника на основния екран, за да включите/изключите тази функция. Когато е активирана, известието остава видимо постоянно с таймер до следващата молитва.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Гръмотевична буря",
     "weather_squall": "Ураганен вятър",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Винаги активно Iqama излъчване на живо",
     "animated_background": "Анимиран фон",
     "weather": "Времето",
     "weather_need_internet": "Тази функция изисква интернет връзка, за да изтегли обновления.",
     "weather_light_rain": "Лек дъжд",
-    "edit": "Редактиране"
+    "edit": "Редактиране",
+    "iqama_countdown": "Винаги активно Iqama излъчване на живо",
+    "next_prayer_countdown": "Винаги включена жива активност",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
