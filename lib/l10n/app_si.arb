@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "เปิด Live Activity ตลอดเวลา",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Live Activities จะแสดงบนหน้าล็อคและ Dynamic Island (ถ้ามี) แตะไอคอนนาฬิกาที่หน้าหลักเพื่อเปิด/ปิดฟีเจอร์นี้ เมื่อเปิดแล้ว การแจ้งเตือนจะอยู่บนหน้าจอตลอดเวลาพร้อมตัวจับเวลาจนถึงละหมาดถัดไป",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Thunderstorm",
     "weather_squall": "Squall",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live Activity Always On",
     "animated_background": "Animated background",
     "weather": "Weather",
     "weather_need_internet": "This feature needs an internet connection to download updates.",
     "weather_light_rain": "Light rain",
-    "edit": "Edit"
+    "edit": "Edit",
+    "iqama_countdown": "Iqama countdown",
+    "next_prayer_countdown": "เปิด Live Activity ตลอดเวลา",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
