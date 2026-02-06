@@ -1284,7 +1284,6 @@
     "grid": "Izgara",
     "real_time_weather_needs_internet": "Gerçek zamanlı hava durumu güncellemeleri indirmek için internet bağlantısı gereklidir.",
     "view_detail": "Detayı Görüntüle",
-    "customise": "Özelleştir",
     "temperature": "Sıcaklık",
     "tahajjud_time": "Teheccüd Vakti",
     "last_third": "Son üçte bir",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animasyonlu arka planı",
     "weather": "Hava Durumu",
     "weather_need_internet": "Bu özellik, güncellemeleri indirmek için internet bağlantısı gerektirir.",
-    "weather_light_rain": "Hafif yağmur"
+    "weather_light_rain": "Hafif yağmur",
+    "edit": "Düzenle"
 }
