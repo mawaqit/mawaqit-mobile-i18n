@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Canlı Etkinlik Her Zaman Açık",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Gök gürültülü fırtına",
     "weather_squall": "Fırtına",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "İkame Canlı Etkinliği Her Zaman Açık",
     "animated_background": "Animasyonlu arka planı",
     "weather": "Hava Durumu",
     "weather_need_internet": "Bu özellik, güncellemeleri indirmek için internet bağlantısı gerektirir.",
     "weather_light_rain": "Hafif yağmur",
-    "edit": "Düzenle"
+    "edit": "Düzenle",
+    "iqama_countdown": "İkame Geri Sayım",
+    "next_prayer_countdown": "Sonraki Namaz Geri Sayımı",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
