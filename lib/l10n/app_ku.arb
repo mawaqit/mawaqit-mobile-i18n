@@ -1,5 +1,5 @@
 {
-    "@@locale": "ku",
+    "@@locale": "ckb",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1314,5 +1314,5 @@
     "weather": "ئاوەهەوا ",
     "weather_need_internet": "ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان.",
     "weather_light_rain": "بارانی سووک",
-    "edit": "Edit"
+    "edit": "دەستکاری"
 }
