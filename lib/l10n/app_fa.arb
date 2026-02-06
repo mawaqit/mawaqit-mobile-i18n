@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1314,5 +1314,5 @@
     "weather": "هواشناسی",
     "weather_need_internet": "این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد.",
     "weather_light_rain": "باران ملایم",
-    "edit": "Edit"
+    "edit": "ویرایش"
 }
