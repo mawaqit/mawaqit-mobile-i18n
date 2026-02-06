@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Attività dal vivo sempre attiva",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Le attività dal vivo appaiono sulla schermata di blocco e su Dynamic Island (se supportato). Tocca l'icona dell'orologio nella schermata principale per attivare/disattivare questa funzione. Quando abilitato, la notifica rimane sempre visibile con un timer fino alla prossima preghiera.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Şimşəkli yağış",
     "weather_squall": "Güclü küləklik hava",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "İqama Canlı Aktivlik Həmişə Aktivdir",
     "animated_background": "Animasiya fonu",
     "weather": "Hava",
     "weather_need_internet": "Bu funksiyanın yeniləmələri yükləmək üçün internet bağlantısına ehtiyacı var.",
     "weather_light_rain": "Yüngül yağış",
-    "edit": "Redaktə et"
+    "edit": "Redaktə et",
+    "iqama_countdown": "İqama Canlı Aktivlik Həmişə Aktivdir",
+    "next_prayer_countdown": "Attività dal vivo sempre attiva",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
