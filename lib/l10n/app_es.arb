@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1284,7 +1284,6 @@
     "grid": "Rejilla",
     "real_time_weather_needs_internet": "El tiempo real necesita una conexión a Internet para descargar actualizaciones.",
     "view_detail": "Ver detalle",
-    "customise": "Personalizar",
     "temperature": "Temperatura",
     "tahajjud_time": "Tiempo Tahajjud",
     "last_third": "Último tercio",
@@ -1314,5 +1313,6 @@
     "animated_background": "Fondo animado",
     "weather": "Clima",
     "weather_need_internet": "Esta función necesita una conexión a Internet para descargar actualizaciones.",
-    "weather_light_rain": "Lluvia ligera"
+    "weather_light_rain": "Lluvia ligera",
+    "edit": "Editar"
 }
