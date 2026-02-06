@@ -1284,7 +1284,6 @@
     "grid": "Griglia",
     "real_time_weather_needs_internet": "Il meteo in tempo reale richiede una connessione internet per scaricare gli aggiornamenti.",
     "view_detail": "Visualizza dettaglio",
-    "customise": "Personalizza",
     "temperature": "Temperatura",
     "tahajjud_time": "Orario del Tahajjud",
     "last_third": "Son üçdəbir",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animasiya fonu",
     "weather": "Hava",
     "weather_need_internet": "Bu funksiyanın yeniləmələri yükləmək üçün internet bağlantısına ehtiyacı var.",
-    "weather_light_rain": "Yüngül yağış"
+    "weather_light_rain": "Yüngül yağış",
+    "edit": "Redaktə et"
 }
