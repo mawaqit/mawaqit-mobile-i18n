@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Live Activiteit altijd aan",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Live activiteiten verschijnen op je vergrendelscherm en dynamisch eiland (indien ondersteund). Tik op het klokpictogram op het hoofdscherm om deze functie in/uit te zetten. Wanneer ingeschakeld, blijft de melding altijd zichtbaar met een timer tot het volgende gebed.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Onweer",
     "weather_squall": "Windstoot",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live Activiteit altijd aan",
     "animated_background": "Geanimeerde achtergrond",
     "weather": "Weerbeheer",
     "weather_need_internet": "Voor deze functie is een internetverbinding nodig om updates te downloaden.",
     "weather_light_rain": "Lichte regen",
-    "edit": "Bewerken"
+    "edit": "Bewerken",
+    "iqama_countdown": "Iqama Live Activiteit altijd aan",
+    "next_prayer_countdown": "Live Activiteit altijd aan",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
