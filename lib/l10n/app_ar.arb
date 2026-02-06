@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "النشاط المباشر للإقامة دائماً مفعل",
     "animated_background": "خلفية متحركة",
     "weather": "الطقس",
-    "weather_need_internet": "هذه الميزة تحتاج إلى اتصال بالإنترنت لتنزيل التحديثات."
+    "weather_need_internet": "هذه الميزة تحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.",
+    "weather_light_rain": "أمطار خفيفة"
 }
