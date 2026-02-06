@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Aktivitas Langsung Selalu Aktif",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Aktivitas Langsung muncul di layar kunci dan Dynamic Island (jika didukung). Ketuk ikon jam di layar utama untuk mengaktifkan/nonaktifkan fitur ini. Saat diaktifkan, notifikasi akan selalu terlihat dengan pengatur waktu menuju shalat berikutnya.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Badai petir",
     "weather_squall": "Angin kencang",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Aktivitas Langsung Iqama Selalu Aktif",
     "animated_background": "Latar belakang animasi",
     "weather": "Cuaca",
     "weather_need_internet": "Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan.",
     "weather_light_rain": "Hujan ringan",
-    "edit": "Edit"
+    "edit": "Edit",
+    "iqama_countdown": "Aktivitas Langsung Iqama Selalu Aktif",
+    "next_prayer_countdown": "Aktivitas Langsung Selalu Aktif",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
