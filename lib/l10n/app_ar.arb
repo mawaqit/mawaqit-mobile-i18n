@@ -1284,7 +1284,6 @@
     "grid": "شبكة",
     "real_time_weather_needs_internet": "يتطلب الطقس اللحظي اتصالاً بالإنترنت لتحميل التحديثات.",
     "view_detail": "عرض التفاصيل",
-    "customise": "تخصيص",
     "temperature": "الحرارة",
     "tahajjud_time": "وقت التهجد",
     "last_third": "الثلث الأخير",
@@ -1314,5 +1313,6 @@
     "animated_background": "خلفية متحركة",
     "weather": "الطقس",
     "weather_need_internet": "هذه الميزة تحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.",
-    "weather_light_rain": "أمطار خفيفة"
+    "weather_light_rain": "أمطار خفيفة",
+    "edit": "تعديل"
 }
