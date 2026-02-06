@@ -2067,7 +2067,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get edit => 'Edytuj';
 
   @override
-  String get iqama_countdown => 'Iqama - Aktywność na żywo zawsze włączona';
+  String get iqama_countdown => 'Odliczanie do iqamy';
 
   @override
   String get next_prayer_countdown => 'Aktywność na żywo zawsze włączona';

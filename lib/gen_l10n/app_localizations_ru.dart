@@ -2070,7 +2070,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get edit => 'Редактировать';
 
   @override
-  String get iqama_countdown => 'Постоянная активность Iqama на экране';
+  String get iqama_countdown => 'Обратный отсчёт до икамы';
 
   @override
   String get next_prayer_countdown => 'Онлайн активность всегда включена';

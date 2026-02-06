@@ -2070,7 +2070,7 @@ class AppLocalizationsFi extends AppLocalizations {
   String get edit => 'Muokkaa';
 
   @override
-  String get iqama_countdown => 'Iqama Live-aktiviteetti aina päällä';
+  String get iqama_countdown => 'Iqaman lähtölaskenta';
 
   @override
   String get next_prayer_countdown => 'Live-aktiviteetti Aina Käytössä';

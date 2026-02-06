@@ -2076,7 +2076,7 @@ class AppLocalizationsBg extends AppLocalizations {
   String get edit => 'Редактиране';
 
   @override
-  String get iqama_countdown => 'Винаги активно Iqama излъчване на живо';
+  String get iqama_countdown => 'Обратно броене до икама';
 
   @override
   String get next_prayer_countdown => 'Винаги включена жива активност';

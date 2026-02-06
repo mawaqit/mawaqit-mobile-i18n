@@ -2072,7 +2072,7 @@ class AppLocalizationsHi extends AppLocalizations {
   String get edit => 'संपादित करें';
 
   @override
-  String get iqama_countdown => 'इक़ामा लाइव गतिविधि हमेशा चालू रखें';
+  String get iqama_countdown => 'इकामा काउंटडाउन';
 
   @override
   String get next_prayer_countdown => 'Activité en direct toujours activée';

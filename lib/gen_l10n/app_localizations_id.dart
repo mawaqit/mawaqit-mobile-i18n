@@ -2070,7 +2070,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get edit => 'Edit';
 
   @override
-  String get iqama_countdown => 'Aktivitas Langsung Iqama Selalu Aktif';
+  String get iqama_countdown => 'Hitung mundur Iqamah';
 
   @override
   String get next_prayer_countdown => 'Aktivitas Langsung Selalu Aktif';

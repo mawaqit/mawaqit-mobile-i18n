@@ -2082,7 +2082,7 @@ class AppLocalizationsNl extends AppLocalizations {
   String get edit => 'Bewerken';
 
   @override
-  String get iqama_countdown => 'Iqama Live Activiteit altijd aan';
+  String get iqama_countdown => 'Iqama aftellen';
 
   @override
   String get next_prayer_countdown => 'Live Activiteit altijd aan';
