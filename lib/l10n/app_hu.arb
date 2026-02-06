@@ -1284,7 +1284,6 @@
     "grid": "Rács",
     "real_time_weather_needs_internet": "A valós idejű időjárás internetkapcsolatot igényel a frissítések letöltéséhez.",
     "view_detail": "Részletek megtekintése",
-    "customise": "Testreszabás",
     "temperature": "Hőmérséklet",
     "tahajjud_time": "Tahajjud idő",
     "last_third": "Utolsó harmad",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animált háttér",
     "weather": "Időjárás",
     "weather_need_internet": "Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez.",
-    "weather_light_rain": "Enyhe eső"
+    "weather_light_rain": "Enyhe eső",
+    "edit": "Szerkesztés"
 }

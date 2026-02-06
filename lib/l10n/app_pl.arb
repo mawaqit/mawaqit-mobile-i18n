@@ -1284,7 +1284,6 @@
     "grid": "Siatka",
     "real_time_weather_needs_internet": "Pogoda w czasie rzeczywistym potrzebuje połączenia internetowego do pobrania aktualizacji.",
     "view_detail": "Zobacz szczegóły",
-    "customise": "Dostosuj",
     "temperature": "Temperatura",
     "tahajjud_time": "Czas Tahajjud",
     "last_third": "Ostatnia trzecia część nocy",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animowane tło",
     "weather": "Pogoda",
     "weather_need_internet": "Ta funkcja wymaga połączenia z internetem, aby pobrać aktualizacje.",
-    "weather_light_rain": "Lekki deszcz"
+    "weather_light_rain": "Lekki deszcz",
+    "edit": "Edytuj"
 }

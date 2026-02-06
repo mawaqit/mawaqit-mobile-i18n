@@ -1981,9 +1981,6 @@ class AppLocalizationsFi extends AppLocalizations {
   String get view_detail => 'Näytä tiedot';
 
   @override
-  String get customise => 'Mukauta';
-
-  @override
   String get temperature => 'Lämpötila';
 
   @override
@@ -2075,4 +2072,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Heikko sade';
+
+  @override
+  String get edit => 'Muokkaa';
 }

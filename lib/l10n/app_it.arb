@@ -1284,7 +1284,6 @@
     "grid": "Griglia",
     "real_time_weather_needs_internet": "Il tempo in tempo reale ha bisogno di una connessione internet per scaricare gli aggiornamenti.",
     "view_detail": "Visualizza dettaglio",
-    "customise": "Personalizza",
     "temperature": "Temperatura",
     "tahajjud_time": "Tempo Di Tahajjud",
     "last_third": "Ultimo terzo",
@@ -1314,5 +1313,6 @@
     "animated_background": "Sfondo animato",
     "weather": "Meteo",
     "weather_need_internet": "Questa funzione richiede una connessione internet per scaricare gli aggiornamenti.",
-    "weather_light_rain": "Pioggia leggera"
+    "weather_light_rain": "Pioggia leggera",
+    "edit": "Modifica"
 }

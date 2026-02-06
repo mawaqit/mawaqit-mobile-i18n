@@ -1982,9 +1982,6 @@ class AppLocalizationsBn extends AppLocalizations {
   String get view_detail => 'বিস্তারিত দেখুন';
 
   @override
-  String get customise => 'কাস্টমাইজ করুন';
-
-  @override
   String get temperature => 'তাপমাত্রা';
 
   @override
@@ -2076,4 +2073,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'হালকা বৃষ্টি';
+
+  @override
+  String get edit => 'সম্পাদনা করুন';
 }

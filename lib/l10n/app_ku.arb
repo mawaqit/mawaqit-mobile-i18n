@@ -1284,7 +1284,6 @@
     "grid": "تۆڕ",
     "real_time_weather_needs_internet": "بۆ داگرتنی نوێکردنەوەکان، کەشوهەوای ڕاستەوخۆ پێویستی بە پەیوەندی ئینتەرنێت هەیە.",
     "view_detail": "وردەکاری ببینە",
-    "customise": "تایبەت بکە",
     "temperature": "پلەی گەرمی",
     "tahajjud_time": "کاتی تەهەجود",
     "last_third": "سێیه‌می دواهەمەوە",
@@ -1314,5 +1313,6 @@
     "animated_background": "پاشبنەمای جوڵاو",
     "weather": "ئاوەهەوا ",
     "weather_need_internet": "ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان.",
-    "weather_light_rain": "Light rain"
+    "weather_light_rain": "بارانی سووک",
+    "edit": "Edit"
 }

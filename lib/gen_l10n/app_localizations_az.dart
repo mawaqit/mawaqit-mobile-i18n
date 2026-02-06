@@ -1980,9 +1980,6 @@ class AppLocalizationsAz extends AppLocalizations {
   String get view_detail => 'Visualizza dettaglio';
 
   @override
-  String get customise => 'Personalizza';
-
-  @override
   String get temperature => 'Temperatura';
 
   @override
@@ -2075,4 +2072,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Yüngül yağış';
+
+  @override
+  String get edit => 'Redaktə et';
 }

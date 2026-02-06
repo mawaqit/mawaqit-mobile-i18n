@@ -1284,7 +1284,6 @@
     "grid": "Grid",
     "real_time_weather_needs_internet": "Cuaca realtime membutuhkan koneksi internet untuk memperbarui data.",
     "view_detail": "Lihat detail",
-    "customise": "Kustomisasi",
     "temperature": "Suhu",
     "tahajjud_time": "Waktu Tahajjud",
     "last_third": "Sepertiga akhir",
@@ -1314,5 +1313,6 @@
     "animated_background": "Latar belakang animasi",
     "weather": "Cuaca",
     "weather_need_internet": "Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan.",
-    "weather_light_rain": "Hujan ringan"
+    "weather_light_rain": "Hujan ringan",
+    "edit": "Edit"
 }

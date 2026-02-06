@@ -1284,7 +1284,6 @@
     "grid": "Rutnät",
     "real_time_weather_needs_internet": "Realtidsväder behöver en internetanslutning för att ladda ner uppdateringar.",
     "view_detail": "Visa detaljer",
-    "customise": "Anpassa",
     "temperature": "Temperatur",
     "tahajjud_time": "Tahajjud Tid",
     "last_third": "Sista tredjedelen",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animerad bakgrund",
     "weather": "Väder",
     "weather_need_internet": "Den här funktionen kräver internetanslutning för att ladda ner uppdateringar.",
-    "weather_light_rain": "Lätt regn"
+    "weather_light_rain": "Lätt regn",
+    "edit": "Redigera"
 }

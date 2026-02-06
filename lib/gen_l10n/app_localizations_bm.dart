@@ -1979,9 +1979,6 @@ class AppLocalizationsBm extends AppLocalizations {
   String get view_detail => 'Ka laka kɛ';
 
   @override
-  String get customise => 'Ka baa kɛ';
-
-  @override
   String get temperature => 'Gɛmɛgan';
 
   @override
@@ -2073,4 +2070,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Sanji ɲɔgɔn';
+
+  @override
+  String get edit => 'Sɛnbɛ';
 }

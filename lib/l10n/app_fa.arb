@@ -1284,7 +1284,6 @@
     "grid": "جدول",
     "real_time_weather_needs_internet": "برای دریافت بروزرسانی، آب‌وهوا لحظه‌ای نیاز به اینترنت دارد.",
     "view_detail": "مشاهده جزئیات",
-    "customise": "شخصی‌سازی",
     "temperature": "دما",
     "tahajjud_time": "زمان تهجّد",
     "last_third": "ثلث آخر شب",
@@ -1314,5 +1313,6 @@
     "animated_background": "پس‌زمینه متحرک",
     "weather": "هواشناسی",
     "weather_need_internet": "این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد.",
-    "weather_light_rain": "Light rain"
+    "weather_light_rain": "باران ملایم",
+    "edit": "Edit"
 }

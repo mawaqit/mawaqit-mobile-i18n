@@ -1284,7 +1284,6 @@
     "grid": "شادا",
     "real_time_weather_needs_internet": "شۇئان ھاۋارايى يېڭىلىنىشنى چۈشۈرۈش ئۈچۈن ئىنتېرنېت باغلىنىشىغا ئېھتىياجلىق.",
     "view_detail": "تەپسىلاتىنى كۆرسەت",
-    "customise": "ئىختىيارى",
     "temperature": "تېمپېراتۇرا",
     "tahajjud_time": "تەھەججۇد ۋاقتى",
     "last_third": "ئاخىرقى ئۈچتىن بىرى",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animated background",
     "weather": "Weather",
     "weather_need_internet": "This feature needs an internet connection to download updates.",
-    "weather_light_rain": "Light rain"
+    "weather_light_rain": "Light rain",
+    "edit": "Edit"
 }

@@ -1984,9 +1984,6 @@ class AppLocalizationsSq extends AppLocalizations {
   String get view_detail => 'বিস্তারিত দেখুন';
 
   @override
-  String get customise => 'Personalizo';
-
-  @override
   String get temperature => 'Temperatura';
 
   @override
@@ -2078,4 +2075,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Shi i lehtë';
+
+  @override
+  String get edit => 'Ndrysho';
 }

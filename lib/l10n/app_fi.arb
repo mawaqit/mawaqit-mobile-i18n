@@ -1284,7 +1284,6 @@
     "grid": "Ruudukko",
     "real_time_weather_needs_internet": "Reaaliaikainen sää tarvitsee internet-yhteyden lataamaan päivityksiä.",
     "view_detail": "Näytä tiedot",
-    "customise": "Mukauta",
     "temperature": "Lämpötila",
     "tahajjud_time": "Tahajjudin Aika",
     "last_third": "Viimeinen kolmannes",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animoitu tausta",
     "weather": "Sää",
     "weather_need_internet": "Tämä toiminto vaatii internet-yhteyden päivitysten lataamiseen.",
-    "weather_light_rain": "Heikko sade"
+    "weather_light_rain": "Heikko sade",
+    "edit": "Muokkaa"
 }

@@ -1979,9 +1979,6 @@ class AppLocalizationsSi extends AppLocalizations {
   String get view_detail => 'ดูรายละเอียด';
 
   @override
-  String get customise => 'ปรับแต่ง';
-
-  @override
   String get temperature => 'อุณหภูมิ';
 
   @override
@@ -2072,4 +2069,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Light rain';
+
+  @override
+  String get edit => 'Edit';
 }

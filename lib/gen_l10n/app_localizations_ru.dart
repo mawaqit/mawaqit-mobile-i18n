@@ -1981,9 +1981,6 @@ class AppLocalizationsRu extends AppLocalizations {
   String get view_detail => 'Просмотр деталей';
 
   @override
-  String get customise => 'Настроить';
-
-  @override
   String get temperature => 'Температура';
 
   @override
@@ -2075,4 +2072,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Небольшой дождь';
+
+  @override
+  String get edit => 'Редактировать';
 }

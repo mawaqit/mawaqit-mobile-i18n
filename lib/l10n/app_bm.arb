@@ -1284,7 +1284,6 @@
     "grid": "Gridu",
     "real_time_weather_needs_internet": "Waati dɔgɔkun ka fila bɛ bɛ se ka sɔrɔ internet fɛɛrɛ bɛ yera ta.",
     "view_detail": "Ka laka kɛ",
-    "customise": "Ka baa kɛ",
     "temperature": "Gɛmɛgan",
     "tahajjud_time": "Tahajjud waati",
     "last_third": "Tile ka kɛlen kɔrɔcɛïla",
@@ -1314,5 +1313,6 @@
     "animated_background": "Fondo ɲéw ka girikalan",
     "weather": "Baara Malila (Waati)",
     "weather_need_internet": "Jѐmɛ-kɛnɛ kɔrɔgbɛnan la, i bɛ se ka nyɛ update kɔ tulu la.",
-    "weather_light_rain": "Sanji ɲɔgɔn"
+    "weather_light_rain": "Sanji ɲɔgɔn",
+    "edit": "Sɛnbɛ"
 }

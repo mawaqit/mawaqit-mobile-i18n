@@ -1284,7 +1284,6 @@
     "grid": "Grille",
     "real_time_weather_needs_internet": "La météo en temps réel nécessite une connexion Internet pour télécharger les mises à jour.",
     "view_detail": "Voir le détail",
-    "customise": "Personnaliser",
     "temperature": "Température",
     "tahajjud_time": "Heure du Tahajjud",
     "last_third": "Dernier tiers",
@@ -1314,5 +1313,6 @@
     "animated_background": "Arrière-plan animé",
     "weather": "Météo",
     "weather_need_internet": "Cette fonctionnalité nécessite une connexion Internet pour télécharger les mises à jour.",
-    "weather_light_rain": "Pluie légère"
+    "weather_light_rain": "Pluie légère",
+    "edit": "Modifier"
 }

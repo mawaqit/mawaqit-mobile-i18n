@@ -1284,7 +1284,6 @@
     "grid": "ตาราง",
     "real_time_weather_needs_internet": "ต้องเชื่อมต่ออินเทอร์เน็ตเพื่ออัปเดตสภาพอากาศเรียลไทม์",
     "view_detail": "ดูรายละเอียด",
-    "customise": "ปรับแต่ง",
     "temperature": "อุณหภูมิ",
     "tahajjud_time": "เวลาตะฮัจญุด",
     "last_third": "Last third",
@@ -1314,5 +1313,6 @@
     "animated_background": "Animated background",
     "weather": "Weather",
     "weather_need_internet": "This feature needs an internet connection to download updates.",
-    "weather_light_rain": "Light rain"
+    "weather_light_rain": "Light rain",
+    "edit": "Edit"
 }

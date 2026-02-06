@@ -1981,9 +1981,6 @@ class AppLocalizationsId extends AppLocalizations {
   String get view_detail => 'Lihat detail';
 
   @override
-  String get customise => 'Kustomisasi';
-
-  @override
   String get temperature => 'Suhu';
 
   @override
@@ -2075,4 +2072,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get weather_light_rain => 'Hujan ringan';
+
+  @override
+  String get edit => 'Edit';
 }
