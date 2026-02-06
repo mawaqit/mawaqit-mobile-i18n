@@ -4045,6 +4045,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'This feature needs an internet connection to download updates.'**
   String get weather_need_internet;
+
+  /// No description provided for @weather_light_rain.
+  ///
+  /// In en, this message translates to:
+  /// **'Light rain'**
+  String get weather_light_rain;
 }
 
 class _AppLocalizationsDelegate

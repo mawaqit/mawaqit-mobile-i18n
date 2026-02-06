@@ -2074,4 +2074,7 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'यह सुविधा अपडेट डाउनलोड करने के लिए इंटरनेट कनेक्शन की आवश्यकता है।';
+
+  @override
+  String get weather_light_rain => 'हल्की बारिश';
 }

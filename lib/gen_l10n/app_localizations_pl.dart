@@ -2069,4 +2069,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Ta funkcja wymaga połączenia z internetem, aby pobrać aktualizacje.';
+
+  @override
+  String get weather_light_rain => 'Lekki deszcz';
 }

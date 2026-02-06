@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Aktivitas Langsung Iqama Selalu Aktif",
     "animated_background": "Latar belakang animasi",
     "weather": "Cuaca",
-    "weather_need_internet": "Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan."
+    "weather_need_internet": "Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan.",
+    "weather_light_rain": "Hujan ringan"
 }

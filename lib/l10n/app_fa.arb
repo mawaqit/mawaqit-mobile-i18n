@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "فعالیت زنده اقامه همیشه روشن است.",
     "animated_background": "پس‌زمینه متحرک",
     "weather": "هواشناسی",
-    "weather_need_internet": "این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد."
+    "weather_need_internet": "این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد.",
+    "weather_light_rain": "Light rain"
 }

@@ -2069,4 +2069,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'اس فیچر کو اپڈیٹس ڈاؤن لوڈ کرنے کے لیے انٹرنیٹ کنکشن درکار ہے۔';
+
+  @override
+  String get weather_light_rain => 'ہلکی بارش';
 }

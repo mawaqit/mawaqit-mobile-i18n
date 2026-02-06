@@ -2072,4 +2072,7 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Bu funksiyanın yeniləmələri yükləmək üçün internet bağlantısına ehtiyacı var.';
+
+  @override
+  String get weather_light_rain => 'Yüngül yağış';
 }

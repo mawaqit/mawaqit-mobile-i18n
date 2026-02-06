@@ -2070,4 +2070,7 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Jѐmɛ-kɛnɛ kɔrɔgbɛnan la, i bɛ se ka nyɛ update kɔ tulu la.';
+
+  @override
+  String get weather_light_rain => 'Sanji ɲɔgɔn';
 }

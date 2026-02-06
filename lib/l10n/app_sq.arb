@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar",
     "animated_background": "Sfond i animuar",
     "weather": "Moti",
-    "weather_need_internet": "Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet."
+    "weather_need_internet": "Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.",
+    "weather_light_rain": "Shi i lehtë"
 }

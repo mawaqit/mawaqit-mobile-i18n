@@ -2068,4 +2068,7 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد.';
+
+  @override
+  String get weather_light_rain => 'Light rain';
 }

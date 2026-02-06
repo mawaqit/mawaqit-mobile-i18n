@@ -2075,4 +2075,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان.';
+
+  @override
+  String get weather_light_rain => 'Light rain';
 }

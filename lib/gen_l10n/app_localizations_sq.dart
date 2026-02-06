@@ -2075,4 +2075,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.';
+
+  @override
+  String get weather_light_rain => 'Shi i lehtë';
 }

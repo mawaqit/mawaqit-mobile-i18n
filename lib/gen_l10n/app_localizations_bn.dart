@@ -2073,4 +2073,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।';
+
+  @override
+  String get weather_light_rain => 'হালকা বৃষ্টি';
 }

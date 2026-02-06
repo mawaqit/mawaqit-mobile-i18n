@@ -2072,4 +2072,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Для этой функции требуется подключение к интернету для загрузки обновлений.';
+
+  @override
+  String get weather_light_rain => 'Небольшой дождь';
 }

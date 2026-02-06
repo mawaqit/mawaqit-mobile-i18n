@@ -2070,4 +2070,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Den här funktionen kräver internetanslutning för att ladda ner uppdateringar.';
+
+  @override
+  String get weather_light_rain => 'Lätt regn';
 }

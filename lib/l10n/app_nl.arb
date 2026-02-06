@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Iqama Live Activiteit altijd aan",
     "animated_background": "Geanimeerde achtergrond",
     "weather": "Weerbeheer",
-    "weather_need_internet": "Voor deze functie is een internetverbinding nodig om updates te downloaden."
+    "weather_need_internet": "Voor deze functie is een internetverbinding nodig om updates te downloaden.",
+    "weather_light_rain": "Lichte regen"
 }

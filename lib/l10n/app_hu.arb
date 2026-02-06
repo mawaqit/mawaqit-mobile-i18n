@@ -1313,5 +1313,6 @@
     "iqam_live_activity_always_on": "Iqama élő tevékenység mindig bekapcsolva",
     "animated_background": "Animált háttér",
     "weather": "Időjárás",
-    "weather_need_internet": "Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez."
+    "weather_need_internet": "Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez.",
+    "weather_light_rain": "Enyhe eső"
 }
