@@ -2084,7 +2084,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get edit => 'Modifica';
 
   @override
-  String get iqama_countdown => 'Live Activity Iqama Sempre Attiva';
+  String get iqama_countdown => 'Conto alla rovescia per Iqama';
 
   @override
   String get next_prayer_countdown => 'Attività Dal Vivo Sempre Accesa';

@@ -2069,7 +2069,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get edit => 'Soppii';
 
   @override
-  String get iqama_countdown => 'Iqama Live Activity So Wulnde Ko Laawol';
+  String get iqama_countdown => 'Jooni Iqama';
 
   @override
   String get next_prayer_countdown => 'Activité en direct toujours activée';

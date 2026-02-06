@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Для этой функции требуется подключение к интернету для загрузки обновлений.",
     "weather_light_rain": "Небольшой дождь",
     "edit": "Редактировать",
-    "iqama_countdown": "Постоянная активность Iqama на экране",
+    "iqama_countdown": "Обратный отсчёт до икамы",
     "next_prayer_countdown": "Онлайн активность всегда включена",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"

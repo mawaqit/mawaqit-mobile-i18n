@@ -1310,7 +1310,7 @@
     "weather_need_internet": "هذه الميزة تحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.",
     "weather_light_rain": "أمطار خفيفة",
     "edit": "تعديل",
-    "iqama_countdown": "النشاط المباشر للإقامة دائماً مفعل",
+    "iqama_countdown": "العد التنازلي للإقامة",
     "next_prayer_countdown": "تشغيل النشاط المباشر دائماً",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"

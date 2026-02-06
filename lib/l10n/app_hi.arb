@@ -1310,7 +1310,7 @@
     "weather_need_internet": "यह सुविधा अपडेट डाउनलोड करने के लिए इंटरनेट कनेक्शन की आवश्यकता है।",
     "weather_light_rain": "हल्की बारिश",
     "edit": "संपादित करें",
-    "iqama_countdown": "इक़ामा लाइव गतिविधि हमेशा चालू रखें",
+    "iqama_countdown": "इकामा काउंटडाउन",
     "next_prayer_countdown": "Activité en direct toujours activée",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"

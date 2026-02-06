@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Bu funksiyanın yeniləmələri yükləmək üçün internet bağlantısına ehtiyacı var.",
     "weather_light_rain": "Yüngül yağış",
     "edit": "Redaktə et",
-    "iqama_countdown": "İqama Canlı Aktivlik Həmişə Aktivdir",
+    "iqama_countdown": "İqama gerisayımı",
     "next_prayer_countdown": "Attività dal vivo sempre attiva",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"

@@ -2073,8 +2073,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get edit => 'Ndrysho';
 
   @override
-  String get iqama_countdown =>
-      'Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar';
+  String get iqama_countdown => 'Kohëmatës për Ikama-në';
 
   @override
   String get next_prayer_countdown => 'Aktiviteti i gjallë gjithmonë aktiv';

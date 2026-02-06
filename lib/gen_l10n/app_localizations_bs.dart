@@ -2071,7 +2071,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get edit => 'Uredi';
 
   @override
-  String get iqama_countdown => 'Iqama uživo aktivnost uvijek uključena';
+  String get iqama_countdown => 'Odbrojavanje do Iqame';
 
   @override
   String get next_prayer_countdown => 'Uključena live aktivnost uvijek';

@@ -2066,7 +2066,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get edit => 'ویرایش';
 
   @override
-  String get iqama_countdown => 'فعالیت زنده اقامه همیشه روشن است.';
+  String get iqama_countdown => 'شمارش معکوس اقامه';
 
   @override
   String get next_prayer_countdown => 'فعالیت زنده همیشه روشن';

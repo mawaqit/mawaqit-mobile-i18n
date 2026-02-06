@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Den här funktionen kräver internetanslutning för att ladda ner uppdateringar.",
     "weather_light_rain": "Lätt regn",
     "edit": "Redigera",
-    "iqama_countdown": "Iqama Live-aktivitet alltid på",
+    "iqama_countdown": "Iqama-nedräkning",
     "next_prayer_countdown": "Live aktivitet alltid på",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"

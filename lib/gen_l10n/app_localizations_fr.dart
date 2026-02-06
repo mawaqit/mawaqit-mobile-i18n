@@ -2092,7 +2092,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get edit => 'Modifier';
 
   @override
-  String get iqama_countdown => 'Activité en direct d’Iqama toujours activée';
+  String get iqama_countdown => 'Compte à rebours Iqama';
 
   @override
   String get next_prayer_countdown => 'Activité en direct toujours activée';

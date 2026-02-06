@@ -2042,7 +2042,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get edit => 'تعديل';
 
   @override
-  String get iqama_countdown => 'النشاط المباشر للإقامة دائماً مفعل';
+  String get iqama_countdown => 'العد التنازلي للإقامة';
 
   @override
   String get next_prayer_countdown => 'تشغيل النشاط المباشر دائماً';

@@ -1310,7 +1310,7 @@
     "weather_need_internet": "این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد.",
     "weather_light_rain": "باران ملایم",
     "edit": "ویرایش",
-    "iqama_countdown": "فعالیت زنده اقامه همیشه روشن است.",
+    "iqama_countdown": "شمارش معکوس اقامه",
     "next_prayer_countdown": "فعالیت زنده همیشه روشن",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"

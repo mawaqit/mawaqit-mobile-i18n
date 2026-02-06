@@ -2070,7 +2070,7 @@ class AppLocalizationsAz extends AppLocalizations {
   String get edit => 'Redaktə et';
 
   @override
-  String get iqama_countdown => 'İqama Canlı Aktivlik Həmişə Aktivdir';
+  String get iqama_countdown => 'İqama gerisayımı';
 
   @override
   String get next_prayer_countdown => 'Attività dal vivo sempre attiva';

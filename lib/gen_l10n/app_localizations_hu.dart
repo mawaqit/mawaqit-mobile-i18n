@@ -2073,7 +2073,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get edit => 'Szerkesztés';
 
   @override
-  String get iqama_countdown => 'Iqama élő tevékenység mindig bekapcsolva';
+  String get iqama_countdown => 'Iqáma visszaszámlálás';
 
   @override
   String get next_prayer_countdown => 'Élő tevékenység mindig bekapcsolva';

@@ -2069,7 +2069,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get edit => 'Redigera';
 
   @override
-  String get iqama_countdown => 'Iqama Live-aktivitet alltid på';
+  String get iqama_countdown => 'Iqama-nedräkning';
 
   @override
   String get next_prayer_countdown => 'Live aktivitet alltid på';

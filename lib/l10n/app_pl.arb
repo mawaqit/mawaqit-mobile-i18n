@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Ta funkcja wymaga połączenia z internetem, aby pobrać aktualizacje.",
     "weather_light_rain": "Lekki deszcz",
     "edit": "Edytuj",
-    "iqama_countdown": "Iqama - Aktywność na żywo zawsze włączona",
+    "iqama_countdown": "Odliczanie do iqamy",
     "next_prayer_countdown": "Aktywność na żywo zawsze włączona",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"

@@ -2068,7 +2068,7 @@ class AppLocalizationsBm extends AppLocalizations {
   String get edit => 'Sɛnbɛ';
 
   @override
-  String get iqama_countdown => 'Iqama Live Activity ka dɛmɛ kɛ dugukolo';
+  String get iqama_countdown => 'Cɛgɛ Iqama kan kɔnɔ';
 
   @override
   String get next_prayer_countdown => 'Waati siraba da ka cɛ';
