@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "فعالیت زنده همیشه روشن",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "فعالیت‌های زنده روی صفحه قفل و Dynamic Island (در صورت پشتیبانی) نمایش داده می‌شوند. برای فعال/غیرفعال کردن این ویژگی، روی نماد ساعت در صفحه اصلی بزنید. زمانی که فعال باشد، اعلان با تایمر تا نماز بعدی همواره قابل مشاهده خواهد بود.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "رعد و برق",
     "weather_squall": "تندباد شدید",
     "weather_celsius": "°سانتی‌گراد",
-    "iqam_live_activity_always_on": "فعالیت زنده اقامه همیشه روشن است.",
     "animated_background": "پس‌زمینه متحرک",
     "weather": "هواشناسی",
     "weather_need_internet": "این ویژگی برای دریافت به‌روزرسانی‌ها نیاز به اتصال اینترنت دارد.",
     "weather_light_rain": "باران ملایم",
-    "edit": "Edit"
+    "edit": "ویرایش",
+    "iqama_countdown": "فعالیت زنده اقامه همیشه روشن است.",
+    "next_prayer_countdown": "فعالیت زنده همیشه روشن",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }

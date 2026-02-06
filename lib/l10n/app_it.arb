@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Attività Dal Vivo Sempre Accesa",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Le attività Live appaiono sulla tua schermata di blocco e sull'isola dinamica (se supportato). Tocca l'icona dell'orologio nella schermata principale per attivare/disattivare questa funzione. Se abilitata, la notifica rimane visibile in ogni momento con un timer fino alla prossima preghiera.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Temporale",
     "weather_squall": "Burrasca",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Live Activity Iqama Sempre Attiva",
     "animated_background": "Sfondo animato",
     "weather": "Meteo",
     "weather_need_internet": "Questa funzione richiede una connessione internet per scaricare gli aggiornamenti.",
     "weather_light_rain": "Pioggia leggera",
-    "edit": "Modifica"
+    "edit": "Modifica",
+    "iqama_countdown": "Live Activity Iqama Sempre Attiva",
+    "next_prayer_countdown": "Attività Dal Vivo Sempre Accesa",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }

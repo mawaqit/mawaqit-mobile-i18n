@@ -1937,9 +1937,6 @@ class AppLocalizationsBs extends AppLocalizations {
       'Sakrij live aktivnost samo za ovu molitvu';
 
   @override
-  String get live_activity_always_on => 'Uključena live aktivnost uvijek';
-
-  @override
   String get live_activities_appear =>
       'Live aktivnosti se pojavljuju na zaključanom ekranu i Dynamic Islandu (ako je podržano). Dodirnite ikonu sata na glavnom ekranu da uključite/isključite ovu funkciju. Kada je omogućena, obavijest ostaje stalno vidljiva s brojačem vremena do sljedeće molitve.';
 
@@ -2058,10 +2055,6 @@ class AppLocalizationsBs extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Iqama uživo aktivnost uvijek uključena';
-
-  @override
   String get animated_background => 'Animirana pozadina';
 
   @override
@@ -2076,4 +2069,10 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get edit => 'Uredi';
+
+  @override
+  String get iqama_countdown => 'Iqama uživo aktivnost uvijek uključena';
+
+  @override
+  String get next_prayer_countdown => 'Uključena live aktivnost uvijek';
 }

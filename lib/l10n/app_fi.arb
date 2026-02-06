@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Live-aktiviteetti Aina Käytössä",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Ukonilma",
     "weather_squall": "Puuska",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live-aktiviteetti aina päällä",
     "animated_background": "Animoitu tausta",
     "weather": "Sää",
     "weather_need_internet": "Tämä toiminto vaatii internet-yhteyden päivitysten lataamiseen.",
     "weather_light_rain": "Heikko sade",
-    "edit": "Muokkaa"
+    "edit": "Muokkaa",
+    "iqama_countdown": "Iqama Live-aktiviteetti aina päällä",
+    "next_prayer_countdown": "Live-aktiviteetti Aina Käytössä",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }

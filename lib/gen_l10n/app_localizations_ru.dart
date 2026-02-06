@@ -1936,9 +1936,6 @@ class AppLocalizationsRu extends AppLocalizations {
       'Скрыть активность только для этого молитвы';
 
   @override
-  String get live_activity_always_on => 'Онлайн активность всегда включена';
-
-  @override
   String get live_activities_appear =>
       'Появится активность на экране блокировки и острове Динамика (если поддерживается). Нажмите на значок часов на главном экране, чтобы включить/выключить эту функцию. Когда включено, уведомление остается видимым в любое время с таймером до следующей молитвы.';
 
@@ -2057,10 +2054,6 @@ class AppLocalizationsRu extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Постоянная активность Iqama на экране';
-
-  @override
   String get animated_background => 'Анимированный фон';
 
   @override
@@ -2075,4 +2068,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get edit => 'Редактировать';
+
+  @override
+  String get iqama_countdown => 'Постоянная активность Iqama на экране';
+
+  @override
+  String get next_prayer_countdown => 'Онлайн активность всегда включена';
 }

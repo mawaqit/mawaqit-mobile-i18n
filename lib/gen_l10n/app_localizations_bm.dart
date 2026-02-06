@@ -1934,9 +1934,6 @@ class AppLocalizationsBm extends AppLocalizations {
       'Ka bɔ waati siraba min na kɛdɔ bɔn';
 
   @override
-  String get live_activity_always_on => 'Waati siraba da ka cɛ';
-
-  @override
   String get live_activities_appear =>
       'Waati siraba bɛ yera i ka lock screen ni Dynamic Island la (i ka tulo kɛ sisan). Ka satigi ka clock bonya kun na main screen la ka bɔ/ka bɔjɔsi ni. Ka bɔ, ka notification bɛ yera ni waati siraba ka tafara sisan, kan te wuliya waati.';
 
@@ -2055,10 +2052,6 @@ class AppLocalizationsBm extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Iqama Live Activity ka dɛmɛ kɛ dugukolo';
-
-  @override
   String get animated_background => 'Fondo ɲéw ka girikalan';
 
   @override
@@ -2073,4 +2066,10 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get edit => 'Sɛnbɛ';
+
+  @override
+  String get iqama_countdown => 'Iqama Live Activity ka dɛmɛ kɛ dugukolo';
+
+  @override
+  String get next_prayer_countdown => 'Waati siraba da ka cɛ';
 }

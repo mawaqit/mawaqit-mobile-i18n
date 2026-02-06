@@ -1948,9 +1948,6 @@ class AppLocalizationsNl extends AppLocalizations {
       'Verberg enkel live activiteit voor dit gebed';
 
   @override
-  String get live_activity_always_on => 'Live Activiteit altijd aan';
-
-  @override
   String get live_activities_appear =>
       'Live activiteiten verschijnen op je vergrendelscherm en dynamisch eiland (indien ondersteund). Tik op het klokpictogram op het hoofdscherm om deze functie in/uit te zetten. Wanneer ingeschakeld, blijft de melding altijd zichtbaar met een timer tot het volgende gebed.';
 
@@ -2069,9 +2066,6 @@ class AppLocalizationsNl extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live Activiteit altijd aan';
-
-  @override
   String get animated_background => 'Geanimeerde achtergrond';
 
   @override
@@ -2086,4 +2080,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get edit => 'Bewerken';
+
+  @override
+  String get iqama_countdown => 'Iqama Live Activiteit altijd aan';
+
+  @override
+  String get next_prayer_countdown => 'Live Activiteit altijd aan';
 }

@@ -1935,9 +1935,6 @@ class AppLocalizationsMs extends AppLocalizations {
       'Sembunyikan aktivitas langsung untuk sholat ini saja';
 
   @override
-  String get live_activity_always_on => 'Aktivitas Langsung Selalu Aktif';
-
-  @override
   String get live_activities_appear =>
       'Aktivitas Langsung akan muncul di layar kunci dan Dynamic Island (jika didukung). Ketuk ikon jam di layar utama untuk mengaktifkan/menonaktifkan fitur ini. Ketika diaktifkan, notifikasi tetap terlihat setiap saat dengan penghitung waktu menuju waktu shalat berikutnya.';
 
@@ -2056,9 +2053,6 @@ class AppLocalizationsMs extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live Activity Always On';
-
-  @override
   String get animated_background => 'Animated background';
 
   @override
@@ -2073,4 +2067,10 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get edit => 'Edit';
+
+  @override
+  String get iqama_countdown => 'Iqama countdown';
+
+  @override
+  String get next_prayer_countdown => 'Aktivitas Langsung Selalu Aktif';
 }

@@ -1936,9 +1936,6 @@ class AppLocalizationsFi extends AppLocalizations {
       'Piilota elävä toiminta vain tälle rukoukselle';
 
   @override
-  String get live_activity_always_on => 'Live-aktiviteetti Aina Käytössä';
-
-  @override
   String get live_activities_appear =>
       'Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.';
 
@@ -2057,10 +2054,6 @@ class AppLocalizationsFi extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Iqama Live-aktiviteetti aina päällä';
-
-  @override
   String get animated_background => 'Animoitu tausta';
 
   @override
@@ -2075,4 +2068,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get edit => 'Muokkaa';
+
+  @override
+  String get iqama_countdown => 'Iqama Live-aktiviteetti aina päällä';
+
+  @override
+  String get next_prayer_countdown => 'Live-aktiviteetti Aina Käytössä';
 }

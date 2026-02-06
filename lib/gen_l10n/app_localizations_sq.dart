@@ -1939,9 +1939,6 @@ class AppLocalizationsSq extends AppLocalizations {
       'Fshih aktivitetin e drejtpërdrejtë vetëm për këtë namaz';
 
   @override
-  String get live_activity_always_on => 'Aktiviteti i gjallë gjithmonë aktiv';
-
-  @override
   String get live_activities_appear =>
       'Aktivitetet e drejtpërdrejta shfaqen në ekranin e kyçjes dhe në Dynamic Island (nëse mbështetet). Shtyp ikonën e orës në ekranin kryesor për të aktivizuar/dezaktivizuar këtë veçori. Kur është e aktivizuar, njoftimi qëndron i dukshëm gjatë gjithë kohës me një numërues deri te namazi i radhës.';
 
@@ -2060,10 +2057,6 @@ class AppLocalizationsSq extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar';
-
-  @override
   String get animated_background => 'Sfond i animuar';
 
   @override
@@ -2078,4 +2071,11 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get edit => 'Ndrysho';
+
+  @override
+  String get iqama_countdown =>
+      'Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar';
+
+  @override
+  String get next_prayer_countdown => 'Aktiviteti i gjallë gjithmonë aktiv';
 }

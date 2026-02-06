@@ -1933,9 +1933,6 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ukryj aktywność na żywo tylko dla tej modlitwy';
 
   @override
-  String get live_activity_always_on => 'Aktywność na żywo zawsze włączona';
-
-  @override
   String get live_activities_appear =>
       'Aktywności na żywo pojawiają się na ekranie blokady i Dynamicznej Wyspie (jeśli są obsługiwane). Dotknij ikony zegara na ekranie głównym, aby włączyć lub wyłączyć tę funkcję. Gdy włączone, powiadomienie pozostaje widoczne przez cały czas z timerem aż do następnej modlitwy.';
 
@@ -2054,10 +2051,6 @@ class AppLocalizationsPl extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Iqama - Aktywność na żywo zawsze włączona';
-
-  @override
   String get animated_background => 'Animowane tło';
 
   @override
@@ -2072,4 +2065,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get edit => 'Edytuj';
+
+  @override
+  String get iqama_countdown => 'Iqama - Aktywność na żywo zawsze włączona';
+
+  @override
+  String get next_prayer_countdown => 'Aktywność na żywo zawsze włączona';
 }

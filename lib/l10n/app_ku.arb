@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "چالاکی ڕاستەوخۆ هەمیشە ڕوونە",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "چالاکییە ڕاستەوخۆکان لەسەر دەرچوو و Dynamic Island پیشان دەدرێن (ئەگەر پشتیوانی بکرێت). دوگمەی کاتژمێر لە سەرەکی بگرە بۆ کارا/ناکارا کردن. کاتێک کارا بکرێت، ئاگاداری هەمیشە دەمێنێت و کۆنتەرەکی تا نوێژی داهاتوو دەرکەوتوویە.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "بەردەوامی تۆڕەکە",
     "weather_squall": "بەرف و بافرێ",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "چالاکی زیندووی ئیقامە هەمیشە چالاک",
     "animated_background": "پاشبنەمای جوڵاو",
     "weather": "ئاوەهەوا ",
     "weather_need_internet": "ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان.",
     "weather_light_rain": "بارانی سووک",
-    "edit": "Edit"
+    "edit": "دەستکاری",
+    "iqama_countdown": "ژماردنی پاشەوەی ئیقامە",
+    "next_prayer_countdown": "ژماردنی پاشەوەی نوێژی داهاتوو",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }

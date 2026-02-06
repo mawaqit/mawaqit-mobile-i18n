@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Онлайн активность всегда включена",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Появится активность на экране блокировки и острове Динамика (если поддерживается). Нажмите на значок часов на главном экране, чтобы включить/выключить эту функцию. Когда включено, уведомление остается видимым в любое время с таймером до следующей молитвы.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Гроза",
     "weather_squall": "Шквал",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Постоянная активность Iqama на экране",
     "animated_background": "Анимированный фон",
     "weather": "Погода",
     "weather_need_internet": "Для этой функции требуется подключение к интернету для загрузки обновлений.",
     "weather_light_rain": "Небольшой дождь",
-    "edit": "Редактировать"
+    "edit": "Редактировать",
+    "iqama_countdown": "Постоянная активность Iqama на экране",
+    "next_prayer_countdown": "Онлайн активность всегда включена",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }

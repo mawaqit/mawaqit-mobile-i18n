@@ -1954,9 +1954,6 @@ class AppLocalizationsEs extends AppLocalizations {
       'Ocultar actividad en vivo sólo para esta oración';
 
   @override
-  String get live_activity_always_on => 'Actividad en vivo siempre activada';
-
-  @override
   String get live_activities_appear =>
       'Las actividades en vivo aparecen en tu pantalla de bloqueo y en la isla dinámica (si son compatibles). Pulsa el icono del reloj en la pantalla principal para encender/apagar esta función. Cuando está activada, la notificación permanece visible en todo momento con un temporizador hasta la siguiente oración.';
 
@@ -2075,10 +2072,6 @@ class AppLocalizationsEs extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Actividad en vivo de Iqama siempre activada';
-
-  @override
   String get animated_background => 'Fondo animado';
 
   @override
@@ -2093,4 +2086,10 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get edit => 'Editar';
+
+  @override
+  String get iqama_countdown => 'Actividad en vivo de Iqama siempre activada';
+
+  @override
+  String get next_prayer_countdown => 'Actividad en vivo siempre activada';
 }

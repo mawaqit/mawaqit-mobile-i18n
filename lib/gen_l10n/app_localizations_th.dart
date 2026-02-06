@@ -1935,9 +1935,6 @@ class AppLocalizationsTh extends AppLocalizations {
       'Hide live activity for this prayer only';
 
   @override
-  String get live_activity_always_on => 'Live Activity Always On';
-
-  @override
   String get live_activities_appear =>
       'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.';
 
@@ -2056,9 +2053,6 @@ class AppLocalizationsTh extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on => 'Iqama Live Activity Always On';
-
-  @override
   String get animated_background => 'Animated background';
 
   @override
@@ -2073,4 +2067,10 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get edit => 'Edit';
+
+  @override
+  String get iqama_countdown => 'Iqama countdown';
+
+  @override
+  String get next_prayer_countdown => 'Next prayer countdown';
 }

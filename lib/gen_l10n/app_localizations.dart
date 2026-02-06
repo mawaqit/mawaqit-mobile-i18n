@@ -3782,12 +3782,6 @@ abstract class AppLocalizations {
   /// **'Hide live activity for this prayer only'**
   String get hide_live_activity_for_prayer;
 
-  /// live_activity_always_on
-  ///
-  /// In en, this message translates to:
-  /// **'Live Activity Always On'**
-  String get live_activity_always_on;
-
   /// live_activities_appear
   ///
   /// In en, this message translates to:
@@ -4016,12 +4010,6 @@ abstract class AppLocalizations {
   /// **'°C'**
   String get weather_celsius;
 
-  /// No description provided for @iqam_live_activity_always_on.
-  ///
-  /// In en, this message translates to:
-  /// **'Iqama Live Activity Always On'**
-  String get iqam_live_activity_always_on;
-
   /// No description provided for @animated_background.
   ///
   /// In en, this message translates to:
@@ -4051,6 +4039,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Edit'**
   String get edit;
+
+  /// No description provided for @iqama_countdown.
+  ///
+  /// In en, this message translates to:
+  /// **'Iqama countdown'**
+  String get iqama_countdown;
+
+  /// live_activity_always_on
+  ///
+  /// In en, this message translates to:
+  /// **'Next prayer countdown'**
+  String get next_prayer_countdown;
 }
 
 class _AppLocalizationsDelegate

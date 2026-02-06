@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Live-Aktivität immer an",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Live Aktivitäten erscheinen auf deinem Sperrbildschirm und Dynamic Island (falls unterstützt). Tippen Sie auf das Uhr-Symbol auf dem Hauptbildschirm, um diese Funktion ein-/auszuschalten. Wenn aktiviert, bleibt die Benachrichtigung jederzeit mit einem Timer bis zum nächsten Gebet sichtbar.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Gewitter",
     "weather_squall": "Böe",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Iqama Live-Aktivität immer an",
     "animated_background": "Animierter Hintergrund",
     "weather": "Wetter",
     "weather_need_internet": "Für diese Funktion wird eine Internetverbindung benötigt, um Updates herunterzuladen.",
     "weather_light_rain": "Leichter Regen",
-    "edit": "Bearbeiten"
+    "edit": "Bearbeiten",
+    "iqama_countdown": "Iqama Live-Aktivität immer an",
+    "next_prayer_countdown": "Live-Aktivität immer an",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }

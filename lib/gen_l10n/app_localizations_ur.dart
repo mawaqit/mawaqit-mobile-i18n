@@ -1934,9 +1934,6 @@ class AppLocalizationsUr extends AppLocalizations {
       'صرف اس نماز کے لیے لائیو ایکٹیویٹی چھپائیں';
 
   @override
-  String get live_activity_always_on => 'لائیو ایکٹیویٹی ہمیشہ آن';
-
-  @override
   String get live_activities_appear =>
       'لائیو ایکٹیویٹیز آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ پر (اگر سپورٹ ہو) ظاہر ہوتی ہیں۔ اس فیچر کو آن یا آف کرنے کے لیے مین اسکرین پر گھڑی کے آئیکن پر ٹیپ کریں۔ جب یہ فعال ہو، تو اگلی نماز تک ٹائمر کے ساتھ نوٹیفکیشن ہر وقت نظر آتا رہتا ہے۔';
 
@@ -2055,9 +2052,6 @@ class AppLocalizationsUr extends AppLocalizations {
   String get weather_celsius => '°سِ';
 
   @override
-  String get iqam_live_activity_always_on => 'اقامہ لائیو ایکٹیویٹی ہمیشہ آن';
-
-  @override
   String get animated_background => 'متحرک پس منظر';
 
   @override
@@ -2072,4 +2066,10 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get edit => 'ترمیم کریں';
+
+  @override
+  String get iqama_countdown => 'اقامہ کاؤنٹ ڈاؤن';
+
+  @override
+  String get next_prayer_countdown => 'اگلی نماز کا کاؤنٹ ڈاؤن';
 }

@@ -1935,9 +1935,6 @@ class AppLocalizationsFf extends AppLocalizations {
       'Cacher l’activité en direct uniquement pour cette prière';
 
   @override
-  String get live_activity_always_on => 'Activité en direct toujours activée';
-
-  @override
   String get live_activities_appear =>
       'Les activités en direct s’affichent sur l’écran de verrouillage et Dynamic Island (si pris en charge). Appuyez sur l’icône de l’horloge sur l’écran principal pour activer ou désactiver cette fonctionnalité. Lorsque celle-ci est activée, la notification reste visible à tout moment avec un minuteur jusqu’à la prochaine prière.';
 
@@ -2056,10 +2053,6 @@ class AppLocalizationsFf extends AppLocalizations {
   String get weather_celsius => '°C';
 
   @override
-  String get iqam_live_activity_always_on =>
-      'Iqama Live Activity So Wulnde Ko Laawol';
-
-  @override
   String get animated_background => 'Đalminirɗe ɓeyngu ngu yahiiye';
 
   @override
@@ -2074,4 +2067,10 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get edit => 'Soppii';
+
+  @override
+  String get iqama_countdown => 'Iqama Live Activity So Wulnde Ko Laawol';
+
+  @override
+  String get next_prayer_countdown => 'Activité en direct toujours activée';
 }

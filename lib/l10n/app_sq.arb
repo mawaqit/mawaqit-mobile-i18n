@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Aktiviteti i gjallë gjithmonë aktiv",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Aktivitetet e drejtpërdrejta shfaqen në ekranin e kyçjes dhe në Dynamic Island (nëse mbështetet). Shtyp ikonën e orës në ekranin kryesor për të aktivizuar/dezaktivizuar këtë veçori. Kur është e aktivizuar, njoftimi qëndron i dukshëm gjatë gjithë kohës me një numërues deri te namazi i radhës.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Stuhi me vetëtima",
     "weather_squall": "Erë e fortë",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar",
     "animated_background": "Sfond i animuar",
     "weather": "Moti",
     "weather_need_internet": "Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.",
     "weather_light_rain": "Shi i lehtë",
-    "edit": "Ndrysho"
+    "edit": "Ndrysho",
+    "iqama_countdown": "Aktiviteti i drejtpërdrejtë i Iqamas gjithmonë i aktivizuar",
+    "next_prayer_countdown": "Aktiviteti i gjallë gjithmonë aktiv",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }

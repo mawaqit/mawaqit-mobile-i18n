@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activity_always_on": "Actividad en vivo siempre activada",
-    "@live_activity_always_on": {
-        "description": "live_activity_always_on"
-    },
     "live_activities_appear": "Las actividades en vivo aparecen en tu pantalla de bloqueo y en la isla dinámica (si son compatibles). Pulsa el icono del reloj en la pantalla principal para encender/apagar esta función. Cuando está activada, la notificación permanece visible en todo momento con un temporizador hasta la siguiente oración.",
     "@live_activities_appear": {
         "description": "live_activities_appear"
@@ -1309,10 +1305,14 @@
     "weather_thunderstorm": "Tormenta eléctrica",
     "weather_squall": "Chubasco",
     "weather_celsius": "°C",
-    "iqam_live_activity_always_on": "Actividad en vivo de Iqama siempre activada",
     "animated_background": "Fondo animado",
     "weather": "Clima",
     "weather_need_internet": "Esta función necesita una conexión a Internet para descargar actualizaciones.",
     "weather_light_rain": "Lluvia ligera",
-    "edit": "Editar"
+    "edit": "Editar",
+    "iqama_countdown": "Actividad en vivo de Iqama siempre activada",
+    "next_prayer_countdown": "Actividad en vivo siempre activada",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    }
 }
