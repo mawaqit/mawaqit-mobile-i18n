@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan.",
     "weather_light_rain": "Hujan ringan",
     "edit": "Edit",
-    "iqama_countdown": "Aktivitas Langsung Iqama Selalu Aktif",
+    "iqama_countdown": "Hitung mundur Iqamah",
     "next_prayer_countdown": "Aktivitas Langsung Selalu Aktif",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
