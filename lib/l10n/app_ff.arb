@@ -1284,7 +1284,6 @@
     "grid": "Grille",
     "real_time_weather_needs_internet": "La météo en temps réel nécessite une connexion Internet pour télécharger les mises à jour.",
     "view_detail": "Voir détails",
-    "customise": "Personnaliser",
     "temperature": "Température",
     "tahajjud_time": "Heure du Tahajjud",
     "last_third": "Nga ndeeri kewli ndiyam",
@@ -1314,5 +1313,6 @@
     "animated_background": "Đalminirɗe ɓeyngu ngu yahiiye",
     "weather": "Jam Wuro",
     "weather_need_internet": "Tiitooɗon ngol golluɓe ina waawi so a lootirii internet ɗee to ekkitaade jokkondiral.",
-    "weather_light_rain": "Mbayka laaɓtuka"
+    "weather_light_rain": "Mbayka laaɓtuka",
+    "edit": "Soppii"
 }
