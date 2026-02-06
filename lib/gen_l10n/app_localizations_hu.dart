@@ -2075,4 +2075,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez.';
+
+  @override
+  String get weather_light_rain => 'Enyhe eső';
 }

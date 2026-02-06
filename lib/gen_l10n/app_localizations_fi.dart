@@ -2072,4 +2072,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Tämä toiminto vaatii internet-yhteyden päivitysten lataamiseen.';
+
+  @override
+  String get weather_light_rain => 'Heikko sade';
 }

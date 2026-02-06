@@ -2072,4 +2072,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Fitur ini memerlukan koneksi internet untuk mengunduh pembaruan.';
+
+  @override
+  String get weather_light_rain => 'Hujan ringan';
 }

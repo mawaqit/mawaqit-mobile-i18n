@@ -2064,4 +2064,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Bu özellik, güncellemeleri indirmek için internet bağlantısı gerektirir.';
+
+  @override
+  String get weather_light_rain => 'Hafif yağmur';
 }

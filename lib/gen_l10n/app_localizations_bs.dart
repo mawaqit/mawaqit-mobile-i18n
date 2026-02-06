@@ -2073,4 +2073,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja.';
+
+  @override
+  String get weather_light_rain => 'Slaba kiša';
 }

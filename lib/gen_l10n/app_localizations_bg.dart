@@ -2078,4 +2078,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Тази функция изисква интернет връзка, за да изтегли обновления.';
+
+  @override
+  String get weather_light_rain => 'Лек дъжд';
 }

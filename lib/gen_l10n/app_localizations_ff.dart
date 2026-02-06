@@ -2071,4 +2071,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get weather_need_internet =>
       'Tiitooɗon ngol golluɓe ina waawi so a lootirii internet ɗee to ekkitaade jokkondiral.';
+
+  @override
+  String get weather_light_rain => 'Mbayka laaɓtuka';
 }
