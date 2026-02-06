@@ -1310,7 +1310,7 @@
     "weather_need_internet": "Тази функция изисква интернет връзка, за да изтегли обновления.",
     "weather_light_rain": "Лек дъжд",
     "edit": "Редактиране",
-    "iqama_countdown": "Винаги активно Iqama излъчване на живо",
+    "iqama_countdown": "Обратно броене до икама",
     "next_prayer_countdown": "Винаги включена жива активност",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
