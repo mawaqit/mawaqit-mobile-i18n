@@ -2023,7 +2023,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get weather_squall => 'عاصفة مفاجئة';
 
   @override
-  String get weather_celsius => '°س';
+  String get weather_celsius => '°م';
 
   @override
   String get animated_background => 'خلفية متحركة';
