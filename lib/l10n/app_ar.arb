@@ -1304,7 +1304,7 @@
     "weather_drizzle": "رذاذ",
     "weather_thunderstorm": "عاصفة رعدية",
     "weather_squall": "عاصفة مفاجئة",
-    "weather_celsius": "°س",
+    "weather_celsius": "°م",
     "animated_background": "خلفية متحركة",
     "weather": "الطقس",
     "weather_need_internet": "هذه الميزة تحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.",
