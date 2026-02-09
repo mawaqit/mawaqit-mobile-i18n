@@ -2072,12 +2072,12 @@ class AppLocalizationsFa extends AppLocalizations {
   String get next_prayer_countdown => 'فعالیت زنده همیشه روشن';
 
   @override
-  String get next_prayer => 'Next Prayer';
+  String get next_prayer => 'نماز بعدی';
 
   @override
   String get live_countdown_for_all_pray =>
-      'Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.';
+      'شمارش معکوس زنده برای همه نمازها فعال خواهد بود و به طور خودکار تایمری برای هر نماز بعدی نمایش می‌دهد.';
 
   @override
-  String get live_countdown => 'Live countdown';
+  String get live_countdown => 'شمارش معکوس زنده';
 }
