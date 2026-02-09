@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Винаги включена жива активност",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Следваща молитва",
+    "live_countdown_for_all_pray": "Директното обратно броене ще бъде активно за всички молитви, като автоматично ще показва таймер за всяка предстояща молитва.",
+    "live_countdown": "Обратно броене на живо"
 }
