@@ -1317,5 +1317,6 @@
     },
     "next_prayer": "Prochaine prière",
     "live_countdown_for_all_pray": "Le compte à rebours en direct sera activé pour toutes les prières, affichant automatiquement un minuteur pour chaque prochaine prière.",
-    "live_countdown": "Compte à rebours en direct"
+    "live_countdown": "Compte à rebours en direct",
+    "quick_quran_reading_access": "Accès rapide à la lecture du Coran"
 }
