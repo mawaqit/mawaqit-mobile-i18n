@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Attività Dal Vivo Sempre Accesa",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Prossima preghiera",
+    "live_countdown_for_all_pray": "Il conto alla rovescia in tempo reale sarà attivo per tutte le preghiere, mostrando automaticamente un timer per ciascuna preghiera in arrivo.",
+    "live_countdown": "Conto alla rovescia in tempo reale"
 }
