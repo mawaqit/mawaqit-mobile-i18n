@@ -1317,5 +1317,6 @@
     },
     "next_prayer": "Nästa bön",
     "live_countdown_for_all_pray": "Live nedräkning kommer att vara aktiv för alla böner och automatiskt visa en timer för varje kommande bön.",
-    "live_countdown": "Live nedräkning"
+    "live_countdown": "Live nedräkning",
+    "quick_quran_reading_access": "Snabb åtkomst till Koranläsning"
 }

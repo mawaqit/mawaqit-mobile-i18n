@@ -2098,4 +2098,8 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get live_countdown => 'Conto alla rovescia in tempo reale';
+
+  @override
+  String get quick_quran_reading_access =>
+      'Accesso rapido alla lettura del Corano';
 }

@@ -2087,4 +2087,8 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get live_countdown => 'Kohëmatës i drejtpërdrejtë';
+
+  @override
+  String get quick_quran_reading_access =>
+      'Qasje e shpejtë për leximin e Kuranit';
 }

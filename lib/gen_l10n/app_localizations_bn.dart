@@ -2085,4 +2085,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get live_countdown => 'লাইভ কাউন্টডাউন';
+
+  @override
+  String get quick_quran_reading_access => 'ত্বরিত কুরআন পাঠের প্রবেশাধিকার';
 }

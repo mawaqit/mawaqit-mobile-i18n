@@ -1317,5 +1317,6 @@
     },
     "next_prayer": "Próxima oração",
     "live_countdown_for_all_pray": "A contagem regressiva ao vivo ficará ativa para todas as orações, exibindo automaticamente um cronômetro para cada próxima oração.",
-    "live_countdown": "Contagem regressiva ao vivo"
+    "live_countdown": "Contagem regressiva ao vivo",
+    "quick_quran_reading_access": "Acesso rápido à leitura do Alcorão"
 }

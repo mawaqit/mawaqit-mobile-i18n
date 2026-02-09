@@ -2084,4 +2084,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get live_countdown => 'Canlı gerisayım';
+
+  @override
+  String get quick_quran_reading_access => 'Qurana sürətli giriş';
 }

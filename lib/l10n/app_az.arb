@@ -1317,5 +1317,6 @@
     },
     "next_prayer": "Növbəti Namaz",
     "live_countdown_for_all_pray": "Canlı geri sayım bütün namazlar üçün aktiv olacaq və hər yaxınlaşan namaz üçün avtomatik olaraq sayğac göstərəcək.",
-    "live_countdown": "Canlı gerisayım"
+    "live_countdown": "Canlı gerisayım",
+    "quick_quran_reading_access": "Qurana sürətli giriş"
 }

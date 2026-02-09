@@ -2081,4 +2081,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get live_countdown => 'Odliczanie na żywo';
+
+  @override
+  String get quick_quran_reading_access => 'Szybki dostęp do czytania Koranu';
 }

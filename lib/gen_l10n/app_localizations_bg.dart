@@ -2090,4 +2090,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get live_countdown => 'Обратно броене на живо';
+
+  @override
+  String get quick_quran_reading_access => 'Бърз достъп до четене на Корана';
 }

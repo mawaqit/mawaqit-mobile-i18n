@@ -2083,4 +2083,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get live_countdown => 'Live nedräkning';
+
+  @override
+  String get quick_quran_reading_access => 'Snabb åtkomst till Koranläsning';
 }

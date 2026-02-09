@@ -2082,4 +2082,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get live_countdown => 'Cɛgɛ fɔlɔfɔlɔ la';
+
+  @override
+  String get quick_quran_reading_access => 'Don ka Quran kalan ka dafa';
 }

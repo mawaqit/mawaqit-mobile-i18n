@@ -1317,5 +1317,6 @@
     },
     "next_prayer": "Namazi i ardhshëm",
     "live_countdown_for_all_pray": "Numërimi i drejtpërdrejtë do të jetë aktiv për të gjitha namazet, duke treguar automatikisht një kohëmatës për secilën namaz të ardhshëm.",
-    "live_countdown": "Kohëmatës i drejtpërdrejtë"
+    "live_countdown": "Kohëmatës i drejtpërdrejtë",
+    "quick_quran_reading_access": "Qasje e shpejtë për leximin e Kuranit"
 }

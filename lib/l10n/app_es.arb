@@ -1317,5 +1317,6 @@
     },
     "next_prayer": "Siguiente oración or Next Prayer",
     "live_countdown_for_all_pray": "El contador en vivo estará activo para todas las oraciones, mostrando automáticamente un temporizador para cada oración próxima.",
-    "live_countdown": "Cuenta regresiva en vivo"
+    "live_countdown": "Cuenta regresiva en vivo",
+    "quick_quran_reading_access": "Acceso rápido a la lectura del Corán"
 }
