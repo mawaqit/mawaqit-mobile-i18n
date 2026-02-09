@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "تشغيل النشاط المباشر دائماً",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "الصلاة التالية",
+    "live_countdown_for_all_pray": "سيكون العد التنازلي المباشر متاحًا لجميع الصلوات، حيث سيعرض مؤقتًا لكل صلاة قادمة تلقائيًا.",
+    "live_countdown": "العد التنازلي المباشر"
 }
