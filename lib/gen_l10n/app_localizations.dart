@@ -4051,6 +4051,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Next prayer countdown'**
   String get next_prayer_countdown;
+
+  /// No description provided for @next_prayer.
+  ///
+  /// In en, this message translates to:
+  /// **'Next Prayer'**
+  String get next_prayer;
+
+  /// No description provided for @live_countdown_for_all_pray.
+  ///
+  /// In en, this message translates to:
+  /// **'Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.'**
+  String get live_countdown_for_all_pray;
+
+  /// No description provided for @live_countdown.
+  ///
+  /// In en, this message translates to:
+  /// **'Live countdown'**
+  String get live_countdown;
 }
 
 class _AppLocalizationsDelegate

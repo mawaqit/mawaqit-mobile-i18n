@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Aktivitas Langsung Selalu Aktif",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Sholat Berikutnya",
+    "live_countdown_for_all_pray": "Hitung mundur langsung akan aktif untuk semua waktu salat, menampilkan timer secara otomatis untuk setiap salat berikutnya.",
+    "live_countdown": "Hitung mundur langsung"
 }

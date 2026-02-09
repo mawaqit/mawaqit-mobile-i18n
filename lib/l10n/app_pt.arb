@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Atividade ao vivo sempre ligada",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Próxima oração",
+    "live_countdown_for_all_pray": "A contagem regressiva ao vivo ficará ativa para todas as orações, exibindo automaticamente um cronômetro para cada próxima oração.",
+    "live_countdown": "Contagem regressiva ao vivo"
 }

@@ -2074,4 +2074,14 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Aktivitas Langsung Selalu Aktif';
+
+  @override
+  String get next_prayer => 'Sholat Berikutnya';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Hitung mundur langsung akan aktif untuk semua waktu salat, menampilkan timer secara otomatis untuk setiap salat berikutnya.';
+
+  @override
+  String get live_countdown => 'Hitung mundur langsung';
 }

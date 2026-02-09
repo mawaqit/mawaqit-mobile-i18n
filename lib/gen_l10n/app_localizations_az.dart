@@ -2074,4 +2074,14 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Attività dal vivo sempre attiva';
+
+  @override
+  String get next_prayer => 'Növbəti Namaz';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Canlı geri sayım bütün namazlar üçün aktiv olacaq və hər yaxınlaşan namaz üçün avtomatik olaraq sayğac göstərəcək.';
+
+  @override
+  String get live_countdown => 'Canlı gerisayım';
 }

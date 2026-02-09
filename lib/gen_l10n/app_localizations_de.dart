@@ -2094,4 +2094,14 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Live-Aktivität immer an';
+
+  @override
+  String get next_prayer => 'Nächstes Gebet';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Der Live-Countdown ist für alle Gebete aktiv und zeigt automatisch einen Timer für jedes kommende Gebet an.';
+
+  @override
+  String get live_countdown => 'Live-Countdown';
 }

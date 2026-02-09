@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Waati siraba da ka cɛ",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Salifin seli",
+    "live_countdown_for_all_pray": "Samara don live ka bɔ an bɛ sariya kɛla lamma kɔfɛ, tuma ka baro bɛ yera ni waati sariya tɛna na.",
+    "live_countdown": "Cɛgɛ fɔlɔfɔlɔ la"
 }

@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Sonraki Namaz Geri Sayımı",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Sonraki Namazı",
+    "live_countdown_for_all_pray": "Canlı geri sayım tüm namazlar için aktif olacak ve her yaklaşan namaz için otomatik olarak bir zamanlayıcı gösterecektir",
+    "live_countdown": "Canlı geri sayım"
 }

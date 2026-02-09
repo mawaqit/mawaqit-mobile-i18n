@@ -2066,4 +2066,14 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Sonraki Namaz Geri Sayımı';
+
+  @override
+  String get next_prayer => 'Sonraki Namazı';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Canlı geri sayım tüm namazlar için aktif olacak ve her yaklaşan namaz için otomatik olarak bir zamanlayıcı gösterecektir';
+
+  @override
+  String get live_countdown => 'Canlı geri sayım';
 }

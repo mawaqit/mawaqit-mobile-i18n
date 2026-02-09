@@ -2086,4 +2086,14 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Live Activiteit altijd aan';
+
+  @override
+  String get next_prayer => 'Volgend gebed';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Live aftellen is actief voor alle gebeden en toont automatisch een timer voor elk aankomend gebed.';
+
+  @override
+  String get live_countdown => 'Live aftellen';
 }

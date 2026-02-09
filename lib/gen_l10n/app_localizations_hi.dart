@@ -2076,4 +2076,14 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Activité en direct toujours activée';
+
+  @override
+  String get next_prayer => 'अगली नमाज़ (सलात)';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'सभी नमाज़ों के लिए लाइव काउंटडाउन सक्रिय रहेगा, जो प्रत्येक आने वाली नमाज़ के लिए स्वचालित रूप से टाइमर दिखाएगा।';
+
+  @override
+  String get live_countdown => 'लाइव काउंटडाउन';
 }

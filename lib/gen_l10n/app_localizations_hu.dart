@@ -2077,4 +2077,14 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Élő tevékenység mindig bekapcsolva';
+
+  @override
+  String get next_prayer => 'Következő ima';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Az élő visszaszámláló minden imához aktív lesz, és automatikusan megjeleníti az időzítőt a soron következő imára.';
+
+  @override
+  String get live_countdown => 'Élő visszaszámlálás';
 }

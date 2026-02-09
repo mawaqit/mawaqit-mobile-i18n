@@ -2096,4 +2096,14 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Activité en direct toujours activée';
+
+  @override
+  String get next_prayer => 'Prochaine prière';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Le compte à rebours en direct sera activé pour toutes les prières, affichant automatiquement un minuteur pour chaque prochaine prière.';
+
+  @override
+  String get live_countdown => 'Compte à rebours en direct';
 }

@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "اگلی نماز کا کاؤنٹ ڈاؤن",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "اگلی نماز",
+    "live_countdown_for_all_pray": "لائیو کاؤنٹ ڈاؤن تمام نمازوں کے لیے فعال رہے گا اور ہر آنے والی نماز کے لیے خودکار طور پر ٹائمر دکھائے گا۔",
+    "live_countdown": "لائیو کاؤنٹ ڈاؤن"
 }

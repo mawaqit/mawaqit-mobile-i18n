@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Activité en direct toujours activée",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Prochaine prière",
+    "live_countdown_for_all_pray": "Le compte à rebours en direct sera activé pour toutes les prières, affichant automatiquement un minuteur pour chaque prochaine prière.",
+    "live_countdown": "Compte à rebours en direct"
 }

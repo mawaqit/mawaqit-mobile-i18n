@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Attività dal vivo sempre attiva",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Növbəti Namaz",
+    "live_countdown_for_all_pray": "Canlı geri sayım bütün namazlar üçün aktiv olacaq və hər yaxınlaşan namaz üçün avtomatik olaraq sayğac göstərəcək.",
+    "live_countdown": "Canlı gerisayım"
 }

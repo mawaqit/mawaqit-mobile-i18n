@@ -2072,4 +2072,14 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'اگلی نماز کا کاؤنٹ ڈاؤن';
+
+  @override
+  String get next_prayer => 'اگلی نماز';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'لائیو کاؤنٹ ڈاؤن تمام نمازوں کے لیے فعال رہے گا اور ہر آنے والی نماز کے لیے خودکار طور پر ٹائمر دکھائے گا۔';
+
+  @override
+  String get live_countdown => 'لائیو کاؤنٹ ڈاؤن';
 }

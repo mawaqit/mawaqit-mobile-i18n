@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "ژماردنی پاشەوەی نوێژی داهاتوو",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Next Prayer",
+    "live_countdown_for_all_pray": "ماردنی زیندوو بۆ هەموو نوێژەکان چالاک دەبێت و بۆ هەر نوێژی داهاتوو بە شێوەی خۆکار کاتژمێرێک پیشان دەدات.",
+    "live_countdown": "ژماردنی زیندوو"
 }

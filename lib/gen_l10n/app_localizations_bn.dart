@@ -2075,4 +2075,14 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'পরবর্তী নামাজের কাউন্টডাউন';
+
+  @override
+  String get next_prayer => 'Next Prayer';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'লাইভ কাউন্টডাউন সব নামাজের জন্য সক্রিয় থাকবে এবং প্রতিটি আসন্ন নামাজের জন্য স্বয়ংক্রিয়ভাবে একটি টাইমার দেখাবে।';
+
+  @override
+  String get live_countdown => 'লাইভ কাউন্টডাউন';
 }

@@ -2074,4 +2074,14 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Live-aktiviteetti Aina Käytössä';
+
+  @override
+  String get next_prayer => 'Seuraava rukousi';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Live-ajastin on käytössä kaikille rukouksille ja näyttää automaattisesti ajan seuraavaan rukoukseen.';
+
+  @override
+  String get live_countdown => 'Live-laskenta';
 }

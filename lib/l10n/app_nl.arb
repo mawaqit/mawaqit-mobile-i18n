@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Live Activiteit altijd aan",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Volgend gebed",
+    "live_countdown_for_all_pray": "Live aftellen is actief voor alle gebeden en toont automatisch een timer voor elk aankomend gebed.",
+    "live_countdown": "Live aftellen"
 }

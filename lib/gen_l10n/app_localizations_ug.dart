@@ -2069,4 +2069,14 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'شۇئان پائالىيەت ھەمىشە ئوچۇق';
+
+  @override
+  String get next_prayer => 'Next Prayer';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.';
+
+  @override
+  String get live_countdown => 'Live countdown';
 }

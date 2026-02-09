@@ -2092,4 +2092,14 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Actividad en vivo siempre activada';
+
+  @override
+  String get next_prayer => 'Siguiente oración or Next Prayer';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'El contador en vivo estará activo para todas las oraciones, mostrando automáticamente un temporizador para cada oración próxima.';
+
+  @override
+  String get live_countdown => 'Cuenta regresiva en vivo';
 }

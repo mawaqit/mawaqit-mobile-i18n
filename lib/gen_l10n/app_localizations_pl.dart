@@ -2071,4 +2071,14 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Aktywność na żywo zawsze włączona';
+
+  @override
+  String get next_prayer => 'Następna modlitwa';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Aktywny licznik czasu będzie dostępny dla wszystkich modlitw, automatycznie pokazując odliczanie do każdej nadchodzącej modlitwy.';
+
+  @override
+  String get live_countdown => 'Odliczanie na żywo';
 }

@@ -2073,4 +2073,14 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Live aktivitet alltid på';
+
+  @override
+  String get next_prayer => 'Nästa bön';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Live nedräkning kommer att vara aktiv för alla böner och automatiskt visa en timer för varje kommande bön.';
+
+  @override
+  String get live_countdown => 'Live nedräkning';
 }
