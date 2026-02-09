@@ -2083,4 +2083,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get live_countdown => 'Jooni wuroo';
+
+  @override
+  String get quick_quran_reading_access => 'Dabbunde no walla Qur\'aan';
 }

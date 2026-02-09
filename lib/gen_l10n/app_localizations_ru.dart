@@ -2084,4 +2084,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get live_countdown => 'Обратный отсчёт в реальном времени';
+
+  @override
+  String get quick_quran_reading_access => 'Быстрый доступ к чтению Корана';
 }

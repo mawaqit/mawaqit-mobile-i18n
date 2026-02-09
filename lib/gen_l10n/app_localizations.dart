@@ -4069,6 +4069,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Live countdown'**
   String get live_countdown;
+
+  /// No description provided for @quick_quran_reading_access.
+  ///
+  /// In en, this message translates to:
+  /// **'Quick Quran reading access'**
+  String get quick_quran_reading_access;
 }
 
 class _AppLocalizationsDelegate

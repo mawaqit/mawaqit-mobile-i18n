@@ -2084,4 +2084,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get live_countdown => 'Live-laskenta';
+
+  @override
+  String get quick_quran_reading_access => 'Pikakäyttö Koraanin lukemiseen';
 }

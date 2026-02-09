@@ -2084,4 +2084,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get live_countdown => 'Hitung mundur langsung';
+
+  @override
+  String get quick_quran_reading_access => 'Akses cepat baca Al-Qur\'an';
 }

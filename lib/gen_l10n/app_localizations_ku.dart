@@ -2088,4 +2088,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get live_countdown => 'Gerahejîna Zindî';
+
+  @override
+  String get quick_quran_reading_access => 'Quick Quran reading access';
 }

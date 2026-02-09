@@ -2080,4 +2080,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get live_countdown => 'شمارش معکوس زنده';
+
+  @override
+  String get quick_quran_reading_access => 'Quick Quran reading access';
 }

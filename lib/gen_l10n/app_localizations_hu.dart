@@ -2087,4 +2087,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get live_countdown => 'Élő visszaszámlálás';
+
+  @override
+  String get quick_quran_reading_access => 'Gyors Korán-olvasás elérés';
 }

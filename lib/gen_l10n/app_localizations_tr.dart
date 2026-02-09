@@ -2076,4 +2076,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get live_countdown => 'Canlı geri sayım';
+
+  @override
+  String get quick_quran_reading_access => 'Hızlı Kur\'an okuma erişimi';
 }

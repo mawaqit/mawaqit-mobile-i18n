@@ -2082,4 +2082,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get live_countdown => 'Live countdown';
+
+  @override
+  String get quick_quran_reading_access => 'Quick Quran reading access';
 }

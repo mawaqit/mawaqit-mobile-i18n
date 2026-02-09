@@ -2106,4 +2106,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get live_countdown => 'Compte à rebours en direct';
+
+  @override
+  String get quick_quran_reading_access => 'Accès rapide à la lecture du Coran';
 }
