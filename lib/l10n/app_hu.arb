@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Élő tevékenység mindig bekapcsolva",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Következő ima",
+    "live_countdown_for_all_pray": "Az élő visszaszámláló minden imához aktív lesz, és automatikusan megjeleníti az időzítőt a soron következő imára.",
+    "live_countdown": "Élő visszaszámlálás"
 }
