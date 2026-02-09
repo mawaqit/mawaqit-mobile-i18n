@@ -2074,4 +2074,14 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Онлайн активность всегда включена';
+
+  @override
+  String get next_prayer => 'Следующая молитва';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Живой отсчёт будет активен для всех молитв, автоматически показывая таймер до каждой следующей молитвы.';
+
+  @override
+  String get live_countdown => 'Обратный отсчёт в реальном времени';
 }

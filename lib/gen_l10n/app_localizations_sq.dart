@@ -2077,4 +2077,14 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Aktiviteti i gjallë gjithmonë aktiv';
+
+  @override
+  String get next_prayer => 'Namazi i ardhshëm';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Numërimi i drejtpërdrejtë do të jetë aktiv për të gjitha namazet, duke treguar automatikisht një kohëmatës për secilën namaz të ardhshëm.';
+
+  @override
+  String get live_countdown => 'Kohëmatës i drejtpërdrejtë';
 }

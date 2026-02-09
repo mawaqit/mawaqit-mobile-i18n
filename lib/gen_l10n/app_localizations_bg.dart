@@ -2080,4 +2080,14 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Винаги включена жива активност';
+
+  @override
+  String get next_prayer => 'Следваща молитва';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Директното обратно броене ще бъде активно за всички молитви, като автоматично ще показва таймер за всяка предстояща молитва.';
+
+  @override
+  String get live_countdown => 'Обратно броене на живо';
 }

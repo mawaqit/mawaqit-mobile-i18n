@@ -2072,4 +2072,14 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Waati siraba da ka cɛ';
+
+  @override
+  String get next_prayer => 'Salifin seli';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Samara don live ka bɔ an bɛ sariya kɛla lamma kɔfɛ, tuma ka baro bɛ yera ni waati sariya tɛna na.';
+
+  @override
+  String get live_countdown => 'Cɛgɛ fɔlɔfɔlɔ la';
 }

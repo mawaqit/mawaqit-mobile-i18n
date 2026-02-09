@@ -2077,4 +2077,14 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'ژماردنی پاشەوەی نوێژی داهاتوو';
+
+  @override
+  String get next_prayer => 'Next Prayer';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'ماردنی زیندوو بۆ هەموو نوێژەکان چالاک دەبێت و بۆ هەر نوێژی داهاتوو بە شێوەی خۆکار کاتژمێرێک پیشان دەدات.';
+
+  @override
+  String get live_countdown => 'ژماردنی زیندوو';
 }

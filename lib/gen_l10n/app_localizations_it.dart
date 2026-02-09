@@ -2088,4 +2088,14 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Attività Dal Vivo Sempre Accesa';
+
+  @override
+  String get next_prayer => 'Prossima preghiera';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Il conto alla rovescia in tempo reale sarà attivo per tutte le preghiere, mostrando automaticamente un timer per ciascuna preghiera in arrivo.';
+
+  @override
+  String get live_countdown => 'Conto alla rovescia in tempo reale';
 }

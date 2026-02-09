@@ -2073,4 +2073,14 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Activité en direct toujours activée';
+
+  @override
+  String get next_prayer => 'Sallii Jooni';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Konteyirɗe kenningol woni fayde e jooni hoore fowndi, no ɓuri hande dum hokkata kontor e leydi fowndi ɓuri laaɗi autumatik.';
+
+  @override
+  String get live_countdown => 'Jooni wuroo';
 }

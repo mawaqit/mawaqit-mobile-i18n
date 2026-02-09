@@ -2075,4 +2075,14 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'Uključena live aktivnost uvijek';
+
+  @override
+  String get next_prayer => 'Sljedeća molitva';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'Prikaz uživo odbrojavanja će biti aktivan za sve namaze, automatski prikazujući tajmer za svaki naredni namaz.';
+
+  @override
+  String get live_countdown => 'Prijenosno odbrojavanje';
 }

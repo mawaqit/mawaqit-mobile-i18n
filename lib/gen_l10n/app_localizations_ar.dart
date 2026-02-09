@@ -2046,4 +2046,14 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get next_prayer_countdown => 'تشغيل النشاط المباشر دائماً';
+
+  @override
+  String get next_prayer => 'الصلاة التالية';
+
+  @override
+  String get live_countdown_for_all_pray =>
+      'سيكون العد التنازلي المباشر متاحًا لجميع الصلوات، حيث سيعرض مؤقتًا لكل صلاة قادمة تلقائيًا.';
+
+  @override
+  String get live_countdown => 'العد التنازلي المباشر';
 }
