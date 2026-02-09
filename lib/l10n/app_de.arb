@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Live-Aktivität immer an",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Nächstes Gebet",
+    "live_countdown_for_all_pray": "Der Live-Countdown ist für alle Gebete aktiv und zeigt automatisch einen Timer für jedes kommende Gebet an.",
+    "live_countdown": "Live-Countdown"
 }
