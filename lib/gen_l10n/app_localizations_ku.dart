@@ -2090,5 +2090,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get live_countdown => 'Gerahejîna Zindî';
 
   @override
-  String get quick_quran_reading_access => 'Quick Quran reading access';
+  String get quick_quran_reading_access => 'هاتنی خێرا بۆ خوێندنی قورئان';
 }
