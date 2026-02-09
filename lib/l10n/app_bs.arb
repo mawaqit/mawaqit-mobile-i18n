@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Uključena live aktivnost uvijek",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Sljedeća molitva",
+    "live_countdown_for_all_pray": "Prikaz uživo odbrojavanja će biti aktivan za sve namaze, automatski prikazujući tajmer za svaki naredni namaz.",
+    "live_countdown": "Prijenosno odbrojavanje"
 }
