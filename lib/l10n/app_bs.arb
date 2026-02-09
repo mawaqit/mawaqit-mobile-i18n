@@ -1317,5 +1317,6 @@
     },
     "next_prayer": "Sljedeća molitva",
     "live_countdown_for_all_pray": "Prikaz uživo odbrojavanja će biti aktivan za sve namaze, automatski prikazujući tajmer za svaki naredni namaz.",
-    "live_countdown": "Prijenosno odbrojavanje"
+    "live_countdown": "Prijenosno odbrojavanje",
+    "quick_quran_reading_access": "Brzi pristup čitanju Kur'ana"
 }
