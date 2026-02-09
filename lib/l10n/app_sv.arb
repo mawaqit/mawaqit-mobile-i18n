@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Live aktivitet alltid på",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "Nästa bön",
+    "live_countdown_for_all_pray": "Live nedräkning kommer att vara aktiv för alla böner och automatiskt visa en timer för varje kommande bön.",
+    "live_countdown": "Live nedräkning"
 }
