@@ -1314,5 +1314,8 @@
     "next_prayer_countdown": "Activité en direct toujours activée",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
-    }
+    },
+    "next_prayer": "अगली नमाज़ (सलात)",
+    "live_countdown_for_all_pray": "सभी नमाज़ों के लिए लाइव काउंटडाउन सक्रिय रहेगा, जो प्रत्येक आने वाली नमाज़ के लिए स्वचालित रूप से टाइमर दिखाएगा।",
+    "live_countdown": "लाइव काउंटडाउन"
 }
