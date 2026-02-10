@@ -1318,5 +1318,6 @@
     "next_prayer": "Következő ima",
     "live_countdown_for_all_pray": "Az élő visszaszámláló minden imához aktív lesz, és automatikusan megjeleníti az időzítőt a soron következő imára.",
     "live_countdown": "Élő visszaszámlálás",
-    "quick_quran_reading_access": "Gyors Korán-olvasás elérés"
+    "quick_quran_reading_access": "Gyors Korán-olvasás elérés",
+    "quick_quran_discription": "Amint megnyitod a Korán lapot, ott folytathatod, ahol abbahagytad."
 }
