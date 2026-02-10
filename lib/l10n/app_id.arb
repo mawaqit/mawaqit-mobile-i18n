@@ -1318,5 +1318,6 @@
     "next_prayer": "Sholat Berikutnya",
     "live_countdown_for_all_pray": "Hitung mundur langsung akan aktif untuk semua waktu salat, menampilkan timer secara otomatis untuk setiap salat berikutnya.",
     "live_countdown": "Hitung mundur langsung",
-    "quick_quran_reading_access": "Akses cepat baca Al-Qur'an"
+    "quick_quran_reading_access": "Akses cepat baca Al-Qur'an",
+    "quick_quran_discription": "Setelah Anda membuka tab Al-Qur'an, lanjutkan dari tempat terakhir Anda membaca."
 }
