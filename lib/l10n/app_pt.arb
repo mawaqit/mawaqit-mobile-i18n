@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1318,5 +1318,6 @@
     "next_prayer": "Próxima oração",
     "live_countdown_for_all_pray": "A contagem regressiva ao vivo ficará ativa para todas as orações, exibindo automaticamente um cronômetro para cada próxima oração.",
     "live_countdown": "Contagem regressiva ao vivo",
-    "quick_quran_reading_access": "Acesso rápido à leitura do Alcorão"
+    "quick_quran_reading_access": "Acesso rápido à leitura do Alcorão",
+    "quick_quran_discription": "Ao abrir a aba do Alcorão, continue de onde parou."
 }

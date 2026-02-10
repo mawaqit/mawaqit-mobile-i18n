@@ -2077,7 +2077,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get next_prayer_countdown => 'পরবর্তী নামাজের কাউন্টডাউন';
 
   @override
-  String get next_prayer => 'Next Prayer';
+  String get next_prayer => 'পরবর্তী নামাজ/ সালাত ';
 
   @override
   String get live_countdown_for_all_pray =>
@@ -2088,4 +2088,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'ত্বরিত কুরআন পাঠের প্রবেশাধিকার';
+
+  @override
+  String get quick_quran_discription =>
+      'আপনি যখন কুরআন ট্যাব খুলবেন, তখন যেখানে শেষ করেছেন সেখান থেকেই শুরু করতে পারবেন।';
 }

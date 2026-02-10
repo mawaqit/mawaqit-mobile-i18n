@@ -1318,5 +1318,6 @@
     "next_prayer": "Następna modlitwa",
     "live_countdown_for_all_pray": "Aktywny licznik czasu będzie dostępny dla wszystkich modlitw, automatycznie pokazując odliczanie do każdej nadchodzącej modlitwy.",
     "live_countdown": "Odliczanie na żywo",
-    "quick_quran_reading_access": "Szybki dostęp do czytania Koranu"
+    "quick_quran_reading_access": "Szybki dostęp do czytania Koranu",
+    "quick_quran_discription": "Po otwarciu zakładki Koran, kontynuuj od miejsca, w którym przerwałeś."
 }

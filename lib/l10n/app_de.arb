@@ -1318,5 +1318,6 @@
     "next_prayer": "Nächstes Gebet",
     "live_countdown_for_all_pray": "Der Live-Countdown ist für alle Gebete aktiv und zeigt automatisch einen Timer für jedes kommende Gebet an.",
     "live_countdown": "Live-Countdown",
-    "quick_quran_reading_access": "Schneller Zugriff auf Koranlesen"
+    "quick_quran_reading_access": "Schneller Zugriff auf Koranlesen",
+    "quick_quran_discription": "Sobald du den Quran-Tab öffnest, kannst du dort weitermachen, wo du aufgehört hast."
 }

@@ -1318,5 +1318,6 @@
     "next_prayer": "Volgend gebed",
     "live_countdown_for_all_pray": "Live aftellen is actief voor alle gebeden en toont automatisch een timer voor elk aankomend gebed.",
     "live_countdown": "Live aftellen",
-    "quick_quran_reading_access": "Snelle toegang tot de Koranlezen"
+    "quick_quran_reading_access": "Snelle toegang tot de Koranlezen",
+    "quick_quran_discription": "Wanneer je het Quran-tabblad opent, ga verder waar je was gebleven."
 }

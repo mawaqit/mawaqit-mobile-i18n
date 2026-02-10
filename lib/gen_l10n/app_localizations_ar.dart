@@ -2059,4 +2059,8 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'الوصول السريع لقراءة القرآن';
+
+  @override
+  String get quick_quran_discription =>
+      'بمجرد فتح تبويب القرآن، تعود مباشرةً إلى آخر موضع قراءة.';
 }

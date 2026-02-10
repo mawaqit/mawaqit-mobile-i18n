@@ -1318,5 +1318,6 @@
     "next_prayer": "Seuraava rukousi",
     "live_countdown_for_all_pray": "Live-ajastin on käytössä kaikille rukouksille ja näyttää automaattisesti ajan seuraavaan rukoukseen.",
     "live_countdown": "Live-laskenta",
-    "quick_quran_reading_access": "Pikakäyttö Koraanin lukemiseen"
+    "quick_quran_reading_access": "Pikakäyttö Koraanin lukemiseen",
+    "quick_quran_discription": "Kun avaat Koraani-välilehden, jatka siitä mihin jäit."
 }

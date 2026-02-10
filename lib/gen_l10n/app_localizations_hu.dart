@@ -2090,4 +2090,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Gyors Korán-olvasás elérés';
+
+  @override
+  String get quick_quran_discription =>
+      'Amint megnyitod a Korán lapot, ott folytathatod, ahol abbahagytad.';
 }
