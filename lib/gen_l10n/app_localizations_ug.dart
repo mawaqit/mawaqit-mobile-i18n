@@ -2075,7 +2075,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get live_countdown_for_all_pray =>
-      'Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.';
+      'شۇئان سانىقى ھەممە نامازغا ئاكتىپ بولۇشى مۇمكىن، كېيىنكى ناماز ۋاقتى ئۈچۈن ساناقنى ئۆزلۈكىدىن كۆرسىتىدۇ.';
 
   @override
   String get live_countdown => 'شۇئان سانىقى';
