@@ -2086,4 +2086,8 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Dabbunde no walla Qur\'aan';
+
+  @override
+  String get quick_quran_discription =>
+      'So tawii aɗa uddita tabol Alqur’aan, jangude e nder yernde maa ɗa woɗi.';
 }

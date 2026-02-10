@@ -2091,4 +2091,8 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'هاتنی خێرا بۆ خوێندنی قورئان';
+
+  @override
+  String get quick_quran_discription =>
+      'Once you open the Quran tab, continue where you left off.';
 }

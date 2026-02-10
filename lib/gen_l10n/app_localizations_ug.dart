@@ -2082,4 +2082,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'تېز قۇرئان ئوقۇش ئىجازىتى';
+
+  @override
+  String get quick_quran_discription =>
+      'Once you open the Quran tab, continue where you left off.';
 }

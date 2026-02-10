@@ -2088,4 +2088,8 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Brzi pristup čitanju Kur\'ana';
+
+  @override
+  String get quick_quran_discription =>
+      'Kada otvorite karticu Kur\'an, nastavite tamo gdje ste stali.';
 }

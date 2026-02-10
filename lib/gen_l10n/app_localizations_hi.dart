@@ -2089,4 +2089,8 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'तेज़ कुरान पढ़ने की पहुंच';
+
+  @override
+  String get quick_quran_discription =>
+      'जब आप क़ुरान टैब खोलें, वहीं से जारी रखें जहाँ आपने छोड़ा था।';
 }

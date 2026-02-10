@@ -2087,4 +2087,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Akses cepat baca Al-Qur\'an';
+
+  @override
+  String get quick_quran_discription =>
+      'Setelah Anda membuka tab Al-Qur\'an, lanjutkan dari tempat terakhir Anda membaca.';
 }

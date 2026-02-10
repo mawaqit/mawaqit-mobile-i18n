@@ -4075,6 +4075,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Quick Quran reading access'**
   String get quick_quran_reading_access;
+
+  /// No description provided for @quick_quran_discription.
+  ///
+  /// In en, this message translates to:
+  /// **'Once you open the Quran tab, continue where you left off.'**
+  String get quick_quran_discription;
 }
 
 class _AppLocalizationsDelegate

@@ -2084,4 +2084,8 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Szybki dostęp do czytania Koranu';
+
+  @override
+  String get quick_quran_discription =>
+      'Po otwarciu zakładki Koran, kontynuuj od miejsca, w którym przerwałeś.';
 }

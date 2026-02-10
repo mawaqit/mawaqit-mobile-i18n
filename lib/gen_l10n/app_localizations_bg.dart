@@ -2093,4 +2093,8 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Бърз достъп до четене на Корана';
+
+  @override
+  String get quick_quran_discription =>
+      'След като отворите таба Куран, продължете от мястото, където сте спрели.';
 }

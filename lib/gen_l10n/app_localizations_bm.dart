@@ -2085,4 +2085,8 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Don ka Quran kalan ka dafa';
+
+  @override
+  String get quick_quran_discription =>
+      'K\'an bɔ yira Kurani tab sogoma, k\'an bɔra fɔlɔ ye min k\'an tɔgɔ jɛya la.';
 }

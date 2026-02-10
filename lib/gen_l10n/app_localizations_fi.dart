@@ -2087,4 +2087,8 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access => 'Pikakäyttö Koraanin lukemiseen';
+
+  @override
+  String get quick_quran_discription =>
+      'Kun avaat Koraani-välilehden, jatka siitä mihin jäit.';
 }

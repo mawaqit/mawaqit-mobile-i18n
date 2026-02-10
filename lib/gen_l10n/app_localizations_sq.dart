@@ -2091,4 +2091,8 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get quick_quran_reading_access =>
       'Qasje e shpejtë për leximin e Kuranit';
+
+  @override
+  String get quick_quran_discription =>
+      'Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.';
 }
