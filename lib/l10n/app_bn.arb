@@ -1315,8 +1315,9 @@
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
     },
-    "next_prayer": "Next Prayer",
+    "next_prayer": "পরবর্তী নামাজ/ সালাত ",
     "live_countdown_for_all_pray": "লাইভ কাউন্টডাউন সব নামাজের জন্য সক্রিয় থাকবে এবং প্রতিটি আসন্ন নামাজের জন্য স্বয়ংক্রিয়ভাবে একটি টাইমার দেখাবে।",
     "live_countdown": "লাইভ কাউন্টডাউন",
-    "quick_quran_reading_access": "ত্বরিত কুরআন পাঠের প্রবেশাধিকার"
+    "quick_quran_reading_access": "ত্বরিত কুরআন পাঠের প্রবেশাধিকার",
+    "quick_quran_discription": "আপনি যখন কুরআন ট্যাব খুলবেন, তখন যেখানে শেষ করেছেন সেখান থেকেই শুরু করতে পারবেন।"
 }
