@@ -1318,5 +1318,6 @@
     "next_prayer": "Sonraki Namazı",
     "live_countdown_for_all_pray": "Canlı geri sayım tüm namazlar için aktif olacak ve her yaklaşan namaz için otomatik olarak bir zamanlayıcı gösterecektir",
     "live_countdown": "Canlı geri sayım",
-    "quick_quran_reading_access": "Hızlı Kur'an okuma erişimi"
+    "quick_quran_reading_access": "Hızlı Kur'an okuma erişimi",
+    "quick_quran_discription": "Kur’an sekmesini açtığınızda, kaldığınız yerden devam edin."
 }
