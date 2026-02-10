@@ -1991,7 +1991,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tap_to_retry => 'قايتا سىناش ئۈچۈن چېكىلىدۇ';
 
   @override
-  String get support_mawaqit_association => 'Support the MAWAQIT Association';
+  String get support_mawaqit_association => 'مەۋاقىت جامائىتىنى قوللاش';
 
   @override
   String get help_improve_mawaqit => 'مەۋاقىتنى ياخشىلاشقا ياردەملىشىڭ';
@@ -2001,85 +2001,85 @@ class AppLocalizationsUg extends AppLocalizations {
       'ئەپنى ياخشىلاشقا ياردەملىشىش ئۈچۈن ئاتسىز قوللىنىش تەھلىلىگە يول قويىدۇ. ھېچقانداق شەخسىي ئۇچۇر يوق. ھەرگىز ھەمبەھىرلەنمەيدۇ.';
 
   @override
-  String get weather_clear => 'Clear';
+  String get weather_clear => 'ئوچۇق';
 
   @override
-  String get weather_clouds => 'Clouds';
+  String get weather_clouds => 'بۇلۇتلۇق';
 
   @override
-  String get weather_tornado => 'Tornado';
+  String get weather_tornado => 'قارا قۇيۇن';
 
   @override
-  String get weather_ash => 'Ash';
+  String get weather_ash => 'كۈل';
 
   @override
-  String get weather_dust => 'Dust';
+  String get weather_dust => 'چاڭ-توزان';
 
   @override
-  String get weather_sand => 'Sand';
+  String get weather_sand => 'قۇم';
 
   @override
-  String get weather_fog => 'Fog';
+  String get weather_fog => 'تۇمان';
 
   @override
-  String get weather_haze => 'Haze';
+  String get weather_haze => 'سۇس تۇمان';
 
   @override
-  String get weather_smoke => 'Smoke';
+  String get weather_smoke => 'ئىس';
 
   @override
-  String get weather_mist => 'Mist';
+  String get weather_mist => 'سۇس تۇمان';
 
   @override
-  String get weather_snow => 'Snow';
+  String get weather_snow => 'قار';
 
   @override
-  String get weather_rain => 'Rain';
+  String get weather_rain => 'يامغۇر';
 
   @override
-  String get weather_drizzle => 'Drizzle';
+  String get weather_drizzle => 'سىم-سىم يامغۇر';
 
   @override
-  String get weather_thunderstorm => 'Thunderstorm';
+  String get weather_thunderstorm => 'گۈلدۈرمامىلىق يامغۇر';
 
   @override
-  String get weather_squall => 'Squall';
+  String get weather_squall => 'قارا بوران';
 
   @override
   String get weather_celsius => '°C';
 
   @override
-  String get animated_background => 'Animated background';
+  String get animated_background => 'ھەرىكەتچان تەگلىك';
 
   @override
-  String get weather => 'Weather';
+  String get weather => 'ھاۋا رايى';
 
   @override
   String get weather_need_internet =>
-      'This feature needs an internet connection to download updates.';
+      'بۇ ئىقتىدار يېڭىلاشنى چۈشۈرۈش ئۈچۈن ئىنتېرنېت باغلىنىشىغا ئېھتىياجلىق.';
 
   @override
-  String get weather_light_rain => 'Light rain';
+  String get weather_light_rain => 'سۇس يامغۇر';
 
   @override
-  String get edit => 'Edit';
+  String get edit => 'تەھرىر';
 
   @override
-  String get iqama_countdown => 'Iqama countdown';
+  String get iqama_countdown => 'قىيام سانىقى';
 
   @override
   String get next_prayer_countdown => 'شۇئان پائالىيەت ھەمىشە ئوچۇق';
 
   @override
-  String get next_prayer => 'Next Prayer';
+  String get next_prayer => 'كېيىنكى ناماز';
 
   @override
   String get live_countdown_for_all_pray =>
       'Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.';
 
   @override
-  String get live_countdown => 'Live countdown';
+  String get live_countdown => 'شۇئان سانىقى';
 
   @override
-  String get quick_quran_reading_access => 'Quick Quran reading access';
+  String get quick_quran_reading_access => 'تېز قۇرئان ئوقۇش ئىجازىتى';
 }
