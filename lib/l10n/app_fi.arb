@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Asetukset",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Live-ajastin on käytössä kaikille rukouksille ja näyttää automaattisesti ajan seuraavaan rukoukseen.",
     "live_countdown": "Live-laskenta",
     "quick_quran_reading_access": "Pikakäyttö Koraanin lukemiseen",
-    "quick_quran_discription": "Kun avaat Koraani-välilehden, jatka siitä mihin jäit."
+    "quick_quran_discription": "Kun avaat Koraani-välilehden, jatka siitä mihin jäit.",
+    "live_activity_tooltip": "Live Activities näkyvät lukitusnäytölläsi ja Dynamic Islandissa (jos laitteesi tukee tätä ominaisuutta). Kun toiminto on käytössä, näytöllä näkyy reaaliaikainen ajastin seuraavaan rukoukseen tai iqamaan."
 }
