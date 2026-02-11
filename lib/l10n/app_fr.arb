@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Les activités en direct apparaissent sur votre écran de verrouillage et sur votre île dynamique (si compatible). Appuyez sur l'icône de l'horloge sur l'écran principal pour activer/désactiver cette fonctionnalité. Lorsque cette option est activée, la notification reste visible à tout moment avec un minuteur jusqu'à la prochaine prière.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Réglages",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Le compte à rebours en direct sera activé pour toutes les prières, affichant automatiquement un minuteur pour chaque prochaine prière.",
     "live_countdown": "Compte à rebours en direct",
     "quick_quran_reading_access": "Accès rapide à la lecture du Coran",
-    "quick_quran_discription": "Lorsque vous ouvrez l'onglet Coran, reprenez là où vous vous êtes arrêté."
+    "quick_quran_discription": "Lorsque vous ouvrez l'onglet Coran, reprenez là où vous vous êtes arrêté.",
+    "live_activity_tooltip": "Les Activités en direct apparaissent sur votre écran verrouillé et dans la Dynamic Island (si prise en charge). Lorsqu’elles sont activées, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou la prochaine iqama."
 }
