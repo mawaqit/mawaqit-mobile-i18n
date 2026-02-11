@@ -2091,4 +2091,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Live Activities näkyvät lukitusnäytölläsi ja Dynamic Islandissa (jos laitteesi tukee tätä ominaisuutta). Kun toiminto on käytössä, näytöllä näkyy reaaliaikainen ajastin seuraavaan rukoukseen tai iqamaan.';
+
+  @override
+  String get prayer => 'Rukous';
 }

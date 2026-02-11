@@ -2088,4 +2088,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Aktywności na żywo pojawiają się na Ekranie blokady i Dynamic Island (jeśli są obsługiwane). Po włączeniu pokazują one licznik czasu do następnej modlitwy lub iqamy.';
+
+  @override
+  String get prayer => 'Modlitwa';
 }

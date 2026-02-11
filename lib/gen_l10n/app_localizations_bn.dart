@@ -2092,4 +2092,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'লাইভ অ্যাক্টিভিটিগুলো আপনার লক স্ক্রিন ও ডাইনামিক আইল্যান্ডে (যদি সমর্থিত হয়) প্রদর্শিত হবে। চালু করলে, লাইভ টাইমার পরবর্তী নামাজ বা ইকামার কাউন্টডাউন দেখাবে।';
+
+  @override
+  String get prayer => 'নামাজ';
 }

@@ -2063,4 +2063,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'تظهر الأنشطة المباشرة على شاشة القفل وميزة الجزيرة التفاعلية (إذا كانت مدعومة). عند تفعيلها، يعرض مؤقّت مباشر عدًّا تنازليًا للصلاة القادمة أو للإقامة القادمة.';
+
+  @override
+  String get prayer => 'الصلاة';
 }

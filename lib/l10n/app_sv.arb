@@ -1316,5 +1316,6 @@
     "live_countdown": "Live nedräkning",
     "quick_quran_reading_access": "Snabb åtkomst till Koranläsning",
     "quick_quran_discription": "När du öppnar Koran-fliken kan du fortsätta där du slutade.",
-    "live_activity_tooltip": "Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama."
+    "live_activity_tooltip": "Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.",
+    "prayer": "Bön"
 }

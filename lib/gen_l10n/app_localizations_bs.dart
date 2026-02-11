@@ -2092,4 +2092,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Uživo aktivnosti se pojavljuju na vašem zaključanom ekranu i Dynamic Islandu (ako je podržano). Kada je omogućeno, prikazuje se uživo odbrojavanje do sljedeće molitve ili ikameta.';
+
+  @override
+  String get prayer => 'Namaz';
 }

@@ -2089,4 +2089,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'لائیو سرگرمیاں آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ (اگر سپورٹڈ ہو) پر ظاہر ہوتی ہیں۔ جب یہ فعال ہوں تو اگلی نماز یا اقامت تک کا وقت ایک لائیو ٹائمر کے ذریعے دکھایا جاتا ہے۔';
+
+  @override
+  String get prayer => 'نماز';
 }

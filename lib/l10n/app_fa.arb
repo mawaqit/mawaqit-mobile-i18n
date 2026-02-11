@@ -1316,5 +1316,6 @@
     "live_countdown": "شمارش معکوس زنده",
     "quick_quran_reading_access": "دسترسی سریع به قرائت قرآن",
     "quick_quran_discription": "هنگامی که تب قرآن را باز می‌کنید، از جایی که توقف کرده بودید ادامه دهید.",
-    "live_activity_tooltip": "Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama."
+    "live_activity_tooltip": "فعالیت‌های زنده روی صفحه قفل و داینامیک آیلند (در صورت پشتیبانی) نمایش داده می‌شوند. هنگام فعال‌سازی، یک تایمر زنده شمارش معکوس تا نماز بعدی یا اقامه را نشان می‌دهد.",
+    "prayer": "Prayer"
 }

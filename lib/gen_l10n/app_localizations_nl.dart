@@ -2103,4 +2103,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Live-activiteiten verschijnen op je vergrendelscherm en Dynamic Island (indien ondersteund). Wanneer ingeschakeld, toont een live timer de aftelling tot het volgende gebed of de iqama.';
+
+  @override
+  String get prayer => 'Gebed';
 }

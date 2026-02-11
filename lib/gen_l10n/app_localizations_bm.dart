@@ -2089,4 +2089,7 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Live Activities bɛ bɔ Lock Screen ni Dynamic Island kan (sisan kɔsɛbɛ bɛ na). Sisan kɛla, kini bɔni tuma kan te sisan bɛ min kɛnɛnin ni furu kɔni ko bɛna siga.';
+
+  @override
+  String get prayer => 'Sila';
 }

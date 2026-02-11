@@ -2110,4 +2110,7 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Las Actividades en Vivo aparecen en tu pantalla de bloqueo y en la Isla Dinámica (si es compatible). Al activarlas, un temporizador en vivo muestra la cuenta regresiva hasta la próxima oración o iqama.';
+
+  @override
+  String get prayer => 'Oración';
 }

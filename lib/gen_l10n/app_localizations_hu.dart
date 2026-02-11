@@ -2094,4 +2094,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Az Élő Tevékenységek megjelennek a zárolási képernyőn és a Dynamic Island-en (ha elérhető). Bekapcsolva egy élő visszaszámláló mutatja a következő ima vagy iqama idejét.';
+
+  @override
+  String get prayer => 'Imádság';
 }

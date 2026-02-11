@@ -1316,5 +1316,6 @@
     "live_countdown": "Live-laskenta",
     "quick_quran_reading_access": "Pikakäyttö Koraanin lukemiseen",
     "quick_quran_discription": "Kun avaat Koraani-välilehden, jatka siitä mihin jäit.",
-    "live_activity_tooltip": "Live Activities näkyvät lukitusnäytölläsi ja Dynamic Islandissa (jos laitteesi tukee tätä ominaisuutta). Kun toiminto on käytössä, näytöllä näkyy reaaliaikainen ajastin seuraavaan rukoukseen tai iqamaan."
+    "live_activity_tooltip": "Live Activities näkyvät lukitusnäytölläsi ja Dynamic Islandissa (jos laitteesi tukee tätä ominaisuutta). Kun toiminto on käytössä, näytöllä näkyy reaaliaikainen ajastin seuraavaan rukoukseen tai iqamaan.",
+    "prayer": "Rukous"
 }

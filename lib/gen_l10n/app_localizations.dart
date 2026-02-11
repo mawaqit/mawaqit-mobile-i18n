@@ -4081,6 +4081,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.'**
   String get live_activity_tooltip;
+
+  /// No description provided for @prayer.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer'**
+  String get prayer;
 }
 
 class _AppLocalizationsDelegate

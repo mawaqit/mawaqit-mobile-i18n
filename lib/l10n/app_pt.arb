@@ -1316,5 +1316,6 @@
     "live_countdown": "Contagem regressiva ao vivo",
     "quick_quran_reading_access": "Acesso rápido à leitura do Alcorão",
     "quick_quran_discription": "Ao abrir a aba do Alcorão, continue de onde parou.",
-    "live_activity_tooltip": "Atividades ao Vivo aparecem na sua Tela de Bloqueio e na Ilha Dinâmica (se suportado). Quando ativadas, um temporizador ao vivo mostra a contagem regressiva para a próxima oração ou iqama."
+    "live_activity_tooltip": "Atividades ao Vivo aparecem na sua Tela de Bloqueio e na Ilha Dinâmica (se suportado). Quando ativadas, um temporizador ao vivo mostra a contagem regressiva para a próxima oração ou iqama.",
+    "prayer": "Oração"
 }

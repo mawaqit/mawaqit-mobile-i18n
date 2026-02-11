@@ -2090,4 +2090,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.';
+
+  @override
+  String get prayer => 'Bön';
 }

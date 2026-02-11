@@ -2113,4 +2113,7 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Les Activités en direct apparaissent sur votre écran verrouillé et dans la Dynamic Island (si prise en charge). Lorsqu’elles sont activées, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou la prochaine iqama.';
+
+  @override
+  String get prayer => 'Prière';
 }

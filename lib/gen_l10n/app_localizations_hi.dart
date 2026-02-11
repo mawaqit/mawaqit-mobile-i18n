@@ -2093,4 +2093,7 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'लाइव गतिविधियाँ आपके लॉक स्क्रीन और डायनेमिक आइलैंड (यदि समर्थित हो) पर दिखाई देंगी। जब सक्षम होती हैं, तो एक लाइव टाइमर अगली नमाज़ या इक़ामत तक की उलटी गिनती दिखाता है।';
+
+  @override
+  String get prayer => 'नमाज़';
 }

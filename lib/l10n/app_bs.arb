@@ -1316,5 +1316,6 @@
     "live_countdown": "Prijenosno odbrojavanje",
     "quick_quran_reading_access": "Brzi pristup čitanju Kur'ana",
     "quick_quran_discription": "Kada otvorite karticu Kur'an, nastavite tamo gdje ste stali.",
-    "live_activity_tooltip": "Uživo aktivnosti se pojavljuju na vašem zaključanom ekranu i Dynamic Islandu (ako je podržano). Kada je omogućeno, prikazuje se uživo odbrojavanje do sljedeće molitve ili ikameta."
+    "live_activity_tooltip": "Uživo aktivnosti se pojavljuju na vašem zaključanom ekranu i Dynamic Islandu (ako je podržano). Kada je omogućeno, prikazuje se uživo odbrojavanje do sljedeće molitve ili ikameta.",
+    "prayer": "Namaz"
 }

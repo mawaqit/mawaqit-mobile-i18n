@@ -2106,4 +2106,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Le Attività Live appaiono sulla schermata di blocco e sulla Dynamic Island (se supportata). Quando abilitate, un timer in tempo reale mostra il conto alla rovescia verso la prossima preghiera o iqama.';
+
+  @override
+  String get prayer => 'Preghiera';
 }

@@ -2094,5 +2094,8 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get live_activity_tooltip =>
-      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
+      'چالاکییە ڕاستەوخۆکان لەسەر قفلەکەی تێلەفۆن و Dynamic Island دەرکەوتوو دیارن (ئەگەر پاڵپشتی بکرێت). کاتێک چالاک بکرێت، کاتژمێرێکی ڕاستەوخۆ نیشاندەدە کە ماوەی هەتا دەعای نوێ یان ئیقامە.';
+
+  @override
+  String get prayer => 'Prayer';
 }

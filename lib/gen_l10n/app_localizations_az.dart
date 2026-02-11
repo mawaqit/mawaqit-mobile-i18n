@@ -2091,4 +2091,7 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Canlı Aktivliklər dəstəklənən cihazlarda Kilid Ekranınızda və Dynamic Island-da görünür. Aktiv olduqda, növbəti namaz və ya iqaməyə geri sayım zamanı göstərilir.';
+
+  @override
+  String get prayer => 'Namaz';
 }

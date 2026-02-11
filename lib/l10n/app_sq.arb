@@ -1316,5 +1316,6 @@
     "live_countdown": "Kohëmatës i drejtpërdrejtë",
     "quick_quran_reading_access": "Qasje e shpejtë për leximin e Kuranit",
     "quick_quran_discription": "Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.",
-    "live_activity_tooltip": "Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës i drejtpërdrejtë tregon sa ka mbetur deri në faljen ose ikametin e radhës."
+    "live_activity_tooltip": "Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës i drejtpërdrejtë tregon sa ka mbetur deri në faljen ose ikametin e radhës.",
+    "prayer": "Namazet"
 }
