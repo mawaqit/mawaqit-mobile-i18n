@@ -1316,5 +1316,6 @@
     "live_countdown": "Canlı geri sayım",
     "quick_quran_reading_access": "Hızlı Kur'an okuma erişimi",
     "quick_quran_discription": "Kur’an sekmesini açtığınızda, kaldığınız yerden devam edin.",
-    "live_activity_tooltip": "Canlı Aktiviteler, Kilit Ekranınızda ve Dinamik Ada'da (destekleniyorsa) görünür. Etkinleştirildiğinde, bir canlı sayaç bir sonraki namaz veya iqama süresine kalan zamanı gösterir."
+    "live_activity_tooltip": "Canlı Aktiviteler, Kilit Ekranınızda ve Dinamik Ada'da (destekleniyorsa) görünür. Etkinleştirildiğinde, bir canlı sayaç bir sonraki namaz veya iqama süresine kalan zamanı gösterir.",
+    "prayer": "Namaz"
 }
