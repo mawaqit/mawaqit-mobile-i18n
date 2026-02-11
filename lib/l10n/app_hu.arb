@@ -1316,5 +1316,6 @@
     "live_countdown": "Élő visszaszámlálás",
     "quick_quran_reading_access": "Gyors Korán-olvasás elérés",
     "quick_quran_discription": "Amint megnyitod a Korán lapot, ott folytathatod, ahol abbahagytad.",
-    "live_activity_tooltip": "Az Élő Tevékenységek megjelennek a zárolási képernyőn és a Dynamic Island-en (ha elérhető). Bekapcsolva egy élő visszaszámláló mutatja a következő ima vagy iqama idejét."
+    "live_activity_tooltip": "Az Élő Tevékenységek megjelennek a zárolási képernyőn és a Dynamic Island-en (ha elérhető). Bekapcsolva egy élő visszaszámláló mutatja a következő ima vagy iqama idejét.",
+    "prayer": "Imádság"
 }
