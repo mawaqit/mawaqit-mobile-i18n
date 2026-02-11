@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Live activiteiten verschijnen op je vergrendelscherm en dynamisch eiland (indien ondersteund). Tik op het klokpictogram op het hoofdscherm om deze functie in/uit te zetten. Wanneer ingeschakeld, blijft de melding altijd zichtbaar met een timer tot het volgende gebed.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Instellingen",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Live aftellen is actief voor alle gebeden en toont automatisch een timer voor elk aankomend gebed.",
     "live_countdown": "Live aftellen",
     "quick_quran_reading_access": "Snelle toegang tot de Koranlezen",
-    "quick_quran_discription": "Wanneer je het Quran-tabblad opent, ga verder waar je was gebleven."
+    "quick_quran_discription": "Wanneer je het Quran-tabblad opent, ga verder waar je was gebleven.",
+    "live_activity_tooltip": "Live-activiteiten verschijnen op je vergrendelscherm en Dynamic Island (indien ondersteund). Wanneer ingeschakeld, toont een live timer de aftelling tot het volgende gebed of de iqama."
 }

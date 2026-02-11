@@ -1939,10 +1939,6 @@ class AppLocalizationsSq extends AppLocalizations {
       'Fshih aktivitetin e drejtpërdrejtë vetëm për këtë namaz';
 
   @override
-  String get live_activities_appear =>
-      'Aktivitetet e drejtpërdrejta shfaqen në ekranin e kyçjes dhe në Dynamic Island (nëse mbështetet). Shtyp ikonën e orës në ekranin kryesor për të aktivizuar/dezaktivizuar këtë veçori. Kur është e aktivizuar, njoftimi qëndron i dukshëm gjatë gjithë kohës me një numërues deri te namazi i radhës.';
-
-  @override
   String get settings => 'Cilësimet';
 
   @override
@@ -2095,4 +2091,8 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës i drejtpërdrejtë tregon sa ka mbetur deri në faljen ose ikametin e radhës.';
 }

@@ -1948,10 +1948,6 @@ class AppLocalizationsNl extends AppLocalizations {
       'Verberg enkel live activiteit voor dit gebed';
 
   @override
-  String get live_activities_appear =>
-      'Live activiteiten verschijnen op je vergrendelscherm en dynamisch eiland (indien ondersteund). Tik op het klokpictogram op het hoofdscherm om deze functie in/uit te zetten. Wanneer ingeschakeld, blijft de melding altijd zichtbaar met een timer tot het volgende gebed.';
-
-  @override
   String get settings => 'Instellingen';
 
   @override
@@ -2103,4 +2099,8 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Wanneer je het Quran-tabblad opent, ga verder waar je was gebleven.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live-activiteiten verschijnen op je vergrendelscherm en Dynamic Island (indien ondersteund). Wanneer ingeschakeld, toont een live timer de aftelling tot het volgende gebed of de iqama.';
 }

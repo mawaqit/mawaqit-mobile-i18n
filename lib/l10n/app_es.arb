@@ -1,5 +1,5 @@
 {
-    "@@locale": "es-ES",
+    "@@locale": "es",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Las actividades en vivo aparecen en tu pantalla de bloqueo y en la isla dinámica (si son compatibles). Pulsa el icono del reloj en la pantalla principal para encender/apagar esta función. Cuando está activada, la notificación permanece visible en todo momento con un temporizador hasta la siguiente oración.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Ajustes",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "El contador en vivo estará activo para todas las oraciones, mostrando automáticamente un temporizador para cada oración próxima.",
     "live_countdown": "Cuenta regresiva en vivo",
     "quick_quran_reading_access": "Acceso rápido a la lectura del Corán",
-    "quick_quran_discription": "Cuando abras la pestaña del Corán, continúa donde lo dejaste."
+    "quick_quran_discription": "Cuando abras la pestaña del Corán, continúa donde lo dejaste.",
+    "live_activity_tooltip": "Las Actividades en Vivo aparecen en tu pantalla de bloqueo y en la Isla Dinámica (si es compatible). Al activarlas, un temporizador en vivo muestra la cuenta regresiva hasta la próxima oración o iqama."
 }

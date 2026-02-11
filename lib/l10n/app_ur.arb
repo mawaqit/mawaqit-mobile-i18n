@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur-PK",
+    "@@locale": "ur",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "لائیو ایکٹیویٹیز آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ پر (اگر سپورٹ ہو) ظاہر ہوتی ہیں۔ اس فیچر کو آن یا آف کرنے کے لیے مین اسکرین پر گھڑی کے آئیکن پر ٹیپ کریں۔ جب یہ فعال ہو، تو اگلی نماز تک ٹائمر کے ساتھ نوٹیفکیشن ہر وقت نظر آتا رہتا ہے۔",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "ترتیبات",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "لائیو کاؤنٹ ڈاؤن تمام نمازوں کے لیے فعال رہے گا اور ہر آنے والی نماز کے لیے خودکار طور پر ٹائمر دکھائے گا۔",
     "live_countdown": "لائیو کاؤنٹ ڈاؤن",
     "quick_quran_reading_access": "قرآن جلدی پڑھنے کی رسائی",
-    "quick_quran_discription": "جب آپ قرآن ٹیب کھولیں، وہیں سے جاری رکھیں جہاں آپ نے چھوڑا تھا۔"
+    "quick_quran_discription": "جب آپ قرآن ٹیب کھولیں، وہیں سے جاری رکھیں جہاں آپ نے چھوڑا تھا۔",
+    "live_activity_tooltip": "لائیو سرگرمیاں آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ (اگر سپورٹڈ ہو) پر ظاہر ہوتی ہیں۔ جب یہ فعال ہوں تو اگلی نماز یا اقامت تک کا وقت ایک لائیو ٹائمر کے ذریعے دکھایا جاتا ہے۔"
 }

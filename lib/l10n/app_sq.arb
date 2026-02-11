@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Aktivitetet e drejtpërdrejta shfaqen në ekranin e kyçjes dhe në Dynamic Island (nëse mbështetet). Shtyp ikonën e orës në ekranin kryesor për të aktivizuar/dezaktivizuar këtë veçori. Kur është e aktivizuar, njoftimi qëndron i dukshëm gjatë gjithë kohës me një numërues deri te namazi i radhës.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Cilësimet",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Numërimi i drejtpërdrejtë do të jetë aktiv për të gjitha namazet, duke treguar automatikisht një kohëmatës për secilën namaz të ardhshëm.",
     "live_countdown": "Kohëmatës i drejtpërdrejtë",
     "quick_quran_reading_access": "Qasje e shpejtë për leximin e Kuranit",
-    "quick_quran_discription": "Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur."
+    "quick_quran_discription": "Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.",
+    "live_activity_tooltip": "Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës i drejtpërdrejtë tregon sa ka mbetur deri në faljen ose ikametin e radhës."
 }

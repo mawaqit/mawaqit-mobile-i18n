@@ -1942,10 +1942,6 @@ class AppLocalizationsBg extends AppLocalizations {
       'Скрий живата активност само за тази молитва';
 
   @override
-  String get live_activities_appear =>
-      'Живите активности се появяват на заключения екран и Dynamic Island (ако се поддържа). Докоснете иконата на часовника на основния екран, за да включите/изключите тази функция. Когато е активирана, известието остава видимо постоянно с таймер до следващата молитва.';
-
-  @override
   String get settings => 'Настройки';
 
   @override
@@ -2097,4 +2093,8 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'След като отворите таба Куран, продължете от мястото, където сте спрели.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Живите активности се показват на заключения екран и Dynamic Island (ако се поддържа). Когато е активирано, се показва жив таймер с обратно броене до следващата молитва или икамa.';
 }

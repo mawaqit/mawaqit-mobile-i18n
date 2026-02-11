@@ -1954,10 +1954,6 @@ class AppLocalizationsEs extends AppLocalizations {
       'Ocultar actividad en vivo sólo para esta oración';
 
   @override
-  String get live_activities_appear =>
-      'Las actividades en vivo aparecen en tu pantalla de bloqueo y en la isla dinámica (si son compatibles). Pulsa el icono del reloj en la pantalla principal para encender/apagar esta función. Cuando está activada, la notificación permanece visible en todo momento con un temporizador hasta la siguiente oración.';
-
-  @override
   String get settings => 'Ajustes';
 
   @override
@@ -2110,4 +2106,8 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Cuando abras la pestaña del Corán, continúa donde lo dejaste.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Las Actividades en Vivo aparecen en tu pantalla de bloqueo y en la Isla Dinámica (si es compatible). Al activarlas, un temporizador en vivo muestra la cuenta regresiva hasta la próxima oración o iqama.';
 }

@@ -1939,10 +1939,6 @@ class AppLocalizationsHu extends AppLocalizations {
       'Élő tevékenység elrejtése csak ehhez az imához';
 
   @override
-  String get live_activities_appear =>
-      'Az élő tevékenységek megjelennek a zárolási képernyőn és a Dinamikus Szigeten (ha támogatott). A főképernyőn koppintson az óra ikonra a funkció be- vagy kikapcsolásához. Bekapcsolva a figyelmeztetés mindig látható marad az időzítővel a következő imáig.';
-
-  @override
   String get settings => 'Beállítások';
 
   @override
@@ -2094,4 +2090,8 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Amint megnyitod a Korán lapot, ott folytathatod, ahol abbahagytad.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Az Élő Tevékenységek megjelennek a zárolási képernyőn és a Dynamic Island-en (ha elérhető). Bekapcsolva egy élő visszaszámláló mutatja a következő ima vagy iqama idejét.';
 }

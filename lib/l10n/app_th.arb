@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Settings",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.",
     "live_countdown": "Live countdown",
     "quick_quran_reading_access": "Quick Quran reading access",
-    "quick_quran_discription": "Once you open the Quran tab, continue where you left off."
+    "quick_quran_discription": "Once you open the Quran tab, continue where you left off.",
+    "live_activity_tooltip": "Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama."
 }

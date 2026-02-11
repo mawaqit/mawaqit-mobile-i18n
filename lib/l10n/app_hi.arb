@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "L’activité en direct s’affiche sur votre écran verrouillé et Dynamic Island (si pris en charge). Touchez l’icône horloge sur l’écran principal pour activer ou désactiver cette fonctionnalité. Quand activée, la notification reste visible en permanence avec un minuteur jusqu’à la prochaine prière.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Paramètres",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "सभी नमाज़ों के लिए लाइव काउंटडाउन सक्रिय रहेगा, जो प्रत्येक आने वाली नमाज़ के लिए स्वचालित रूप से टाइमर दिखाएगा।",
     "live_countdown": "लाइव काउंटडाउन",
     "quick_quran_reading_access": "तेज़ कुरान पढ़ने की पहुंच",
-    "quick_quran_discription": "जब आप क़ुरान टैब खोलें, वहीं से जारी रखें जहाँ आपने छोड़ा था।"
+    "quick_quran_discription": "जब आप क़ुरान टैब खोलें, वहीं से जारी रखें जहाँ आपने छोड़ा था।",
+    "live_activity_tooltip": "लाइव गतिविधियाँ आपके लॉक स्क्रीन और डायनेमिक आइलैंड (यदि समर्थित हो) पर दिखाई देंगी। जब सक्षम होती हैं, तो एक लाइव टाइमर अगली नमाज़ या इक़ामत तक की उलटी गिनती दिखाता है।"
 }

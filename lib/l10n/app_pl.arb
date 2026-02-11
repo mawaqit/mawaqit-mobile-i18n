@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Aktywności na żywo pojawiają się na ekranie blokady i Dynamicznej Wyspie (jeśli są obsługiwane). Dotknij ikony zegara na ekranie głównym, aby włączyć lub wyłączyć tę funkcję. Gdy włączone, powiadomienie pozostaje widoczne przez cały czas z timerem aż do następnej modlitwy.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Ustawienia",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Aktywny licznik czasu będzie dostępny dla wszystkich modlitw, automatycznie pokazując odliczanie do każdej nadchodzącej modlitwy.",
     "live_countdown": "Odliczanie na żywo",
     "quick_quran_reading_access": "Szybki dostęp do czytania Koranu",
-    "quick_quran_discription": "Po otwarciu zakładki Koran, kontynuuj od miejsca, w którym przerwałeś."
+    "quick_quran_discription": "Po otwarciu zakładki Koran, kontynuuj od miejsca, w którym przerwałeś.",
+    "live_activity_tooltip": "Aktywności na żywo pojawiają się na Ekranie blokady i Dynamic Island (jeśli są obsługiwane). Po włączeniu pokazują one licznik czasu do następnej modlitwy lub iqamy."
 }

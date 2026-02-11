@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Le attività dal vivo appaiono sulla schermata di blocco e su Dynamic Island (se supportato). Tocca l'icona dell'orologio nella schermata principale per attivare/disattivare questa funzione. Quando abilitato, la notifica rimane sempre visibile con un timer fino alla prossima preghiera.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Impostazioni",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Canlı geri sayım bütün namazlar üçün aktiv olacaq və hər yaxınlaşan namaz üçün avtomatik olaraq sayğac göstərəcək.",
     "live_countdown": "Canlı gerisayım",
     "quick_quran_reading_access": "Qurana sürətli giriş",
-    "quick_quran_discription": "Quran bölməsini açdıqdan sonra qaldığınız yerdən davam edin."
+    "quick_quran_discription": "Quran bölməsini açdıqdan sonra qaldığınız yerdən davam edin.",
+    "live_activity_tooltip": "Canlı Aktivliklər dəstəklənən cihazlarda Kilid Ekranınızda və Dynamic Island-da görünür. Aktiv olduqda, növbəti namaz və ya iqaməyə geri sayım zamanı göstərilir."
 }

@@ -1934,10 +1934,6 @@ class AppLocalizationsBm extends AppLocalizations {
       'Ka bɔ waati siraba min na kɛdɔ bɔn';
 
   @override
-  String get live_activities_appear =>
-      'Waati siraba bɛ yera i ka lock screen ni Dynamic Island la (i ka tulo kɛ sisan). Ka satigi ka clock bonya kun na main screen la ka bɔ/ka bɔjɔsi ni. Ka bɔ, ka notification bɛ yera ni waati siraba ka tafara sisan, kan te wuliya waati.';
-
-  @override
   String get settings => 'Taasiye';
 
   @override
@@ -2089,4 +2085,8 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'K\'an bɔ yira Kurani tab sogoma, k\'an bɔra fɔlɔ ye min k\'an tɔgɔ jɛya la.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities bɛ bɔ Lock Screen ni Dynamic Island kan (sisan kɔsɛbɛ bɛ na). Sisan kɛla, kini bɔni tuma kan te sisan bɛ min kɛnɛnin ni furu kɔni ko bɛna siga.';
 }

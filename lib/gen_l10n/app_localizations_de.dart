@@ -1955,10 +1955,6 @@ class AppLocalizationsDe extends AppLocalizations {
       'Nur für dieses Gebet Live-Aktivitäten ausblenden';
 
   @override
-  String get live_activities_appear =>
-      'Live Aktivitäten erscheinen auf deinem Sperrbildschirm und Dynamic Island (falls unterstützt). Tippen Sie auf das Uhr-Symbol auf dem Hauptbildschirm, um diese Funktion ein-/auszuschalten. Wenn aktiviert, bleibt die Benachrichtigung jederzeit mit einem Timer bis zum nächsten Gebet sichtbar.';
-
-  @override
   String get settings => 'Einstellungen';
 
   @override
@@ -2111,4 +2107,8 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Sobald du den Quran-Tab öffnest, kannst du dort weitermachen, wo du aufgehört hast.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live-Aktivitäten erscheinen auf deinem Sperrbildschirm und der Dynamic Island (wenn unterstützt). Wenn aktiviert, zeigt ein Live-Timer den Countdown bis zum nächsten Gebet oder zur Iqama an.';
 }

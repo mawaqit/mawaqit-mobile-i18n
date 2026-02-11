@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv-SE",
+    "@@locale": "sv",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Inställningar",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Live nedräkning kommer att vara aktiv för alla böner och automatiskt visa en timer för varje kommande bön.",
     "live_countdown": "Live nedräkning",
     "quick_quran_reading_access": "Snabb åtkomst till Koranläsning",
-    "quick_quran_discription": "När du öppnar Koran-fliken kan du fortsätta där du slutade."
+    "quick_quran_discription": "När du öppnar Koran-fliken kan du fortsätta där du slutade.",
+    "live_activity_tooltip": "Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama."
 }

@@ -1935,10 +1935,6 @@ class AppLocalizationsAz extends AppLocalizations {
       'Nascondi attività dal vivo solo per questa preghiera';
 
   @override
-  String get live_activities_appear =>
-      'Le attività dal vivo appaiono sulla schermata di blocco e su Dynamic Island (se supportato). Tocca l\'icona dell\'orologio nella schermata principale per attivare/disattivare questa funzione. Quando abilitato, la notifica rimane sempre visibile con un timer fino alla prossima preghiera.';
-
-  @override
   String get settings => 'Impostazioni';
 
   @override
@@ -2091,4 +2087,8 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Quran bölməsini açdıqdan sonra qaldığınız yerdən davam edin.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Canlı Aktivliklər dəstəklənən cihazlarda Kilid Ekranınızda və Dynamic Island-da görünür. Aktiv olduqda, növbəti namaz və ya iqaməyə geri sayım zamanı göstərilir.';
 }
