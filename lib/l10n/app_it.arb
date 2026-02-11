@@ -1258,10 +1258,6 @@
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "live_activities_appear": "Le attività Live appaiono sulla tua schermata di blocco e sull'isola dinamica (se supportato). Tocca l'icona dell'orologio nella schermata principale per attivare/disattivare questa funzione. Se abilitata, la notifica rimane visibile in ogni momento con un timer fino alla prossima preghiera.",
-    "@live_activities_appear": {
-        "description": "live_activities_appear"
-    },
     "settings": "Impostazioni",
     "@settings": {
         "description": "-> settings"
@@ -1319,5 +1315,6 @@
     "live_countdown_for_all_pray": "Il conto alla rovescia in tempo reale sarà attivo per tutte le preghiere, mostrando automaticamente un timer per ciascuna preghiera in arrivo.",
     "live_countdown": "Conto alla rovescia in tempo reale",
     "quick_quran_reading_access": "Accesso rapido alla lettura del Corano",
-    "quick_quran_discription": "Quando apri la sezione Corano, riprendi da dove hai interrotto."
+    "quick_quran_discription": "Quando apri la sezione Corano, riprendi da dove hai interrotto.",
+    "live_activity_tooltip": "Le Attività Live appaiono sulla schermata di blocco e sulla Dynamic Island (se supportata). Quando abilitate, un timer in tempo reale mostra il conto alla rovescia verso la prossima preghiera o iqama."
 }
