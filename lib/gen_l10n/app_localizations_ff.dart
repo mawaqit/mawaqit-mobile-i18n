@@ -2090,4 +2090,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Live Activities ɓe njiyaa e karifal haa Dynamic Island (so tawii noon e gese maa). So teeŋa, so tawii jarndi, ndoyngu ngam ñaamugo waare mum walla iqama ndaaray e sappo suudu.';
+
+  @override
+  String get prayer => 'Laaɓi';
 }

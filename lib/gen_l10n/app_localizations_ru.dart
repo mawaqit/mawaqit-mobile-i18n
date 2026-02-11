@@ -2091,4 +2091,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Live Activities отображаются на экране блокировки и Dynamic Island (если поддерживается). При включении отображается живой таймер с обратным отсчетом до следующего намаза или икамы.';
+
+  @override
+  String get prayer => 'Молитва';
 }

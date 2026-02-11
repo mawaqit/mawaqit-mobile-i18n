@@ -2086,5 +2086,8 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get live_activity_tooltip =>
-      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
+      'فعالیت‌های زنده روی صفحه قفل و داینامیک آیلند (در صورت پشتیبانی) نمایش داده می‌شوند. هنگام فعال‌سازی، یک تایمر زنده شمارش معکوس تا نماز بعدی یا اقامه را نشان می‌دهد.';
+
+  @override
+  String get prayer => 'Prayer';
 }

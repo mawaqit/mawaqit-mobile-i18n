@@ -2111,4 +2111,7 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Live-Aktivitäten erscheinen auf deinem Sperrbildschirm und der Dynamic Island (wenn unterstützt). Wenn aktiviert, zeigt ein Live-Timer den Countdown bis zum nächsten Gebet oder zur Iqama an.';
+
+  @override
+  String get prayer => 'Gebet';
 }

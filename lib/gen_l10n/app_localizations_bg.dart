@@ -2097,4 +2097,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Живите активности се показват на заключения екран и Dynamic Island (ако се поддържа). Когато е активирано, се показва жив таймер с обратно броене до следващата молитва или икамa.';
+
+  @override
+  String get prayer => 'Молитва';
 }

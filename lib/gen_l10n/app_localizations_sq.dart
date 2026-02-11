@@ -2095,4 +2095,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës i drejtpërdrejtë tregon sa ka mbetur deri në faljen ose ikametin e radhës.';
+
+  @override
+  String get prayer => 'Namazet';
 }

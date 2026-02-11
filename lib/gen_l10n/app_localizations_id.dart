@@ -2091,4 +2091,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Aktivitas Langsung akan muncul di Layar Kunci dan Dynamic Island (jika didukung). Jika diaktifkan, timer langsung akan menampilkan hitung mundur menuju waktu sholat atau iqamah berikutnya.';
+
+  @override
+  String get prayer => 'Sholat';
 }

@@ -2083,4 +2083,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Canlı Aktiviteler, Kilit Ekranınızda ve Dinamik Ada\'da (destekleniyorsa) görünür. Etkinleştirildiğinde, bir canlı sayaç bir sonraki namaz veya iqama süresine kalan zamanı gösterir.';
+
+  @override
+  String get prayer => 'Namaz';
 }

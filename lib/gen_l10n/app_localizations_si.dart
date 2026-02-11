@@ -2089,4 +2089,7 @@ class AppLocalizationsSi extends AppLocalizations {
   @override
   String get live_activity_tooltip =>
       'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
+
+  @override
+  String get prayer => 'Prayer';
 }
