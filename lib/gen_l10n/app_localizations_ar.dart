@@ -1908,10 +1908,6 @@ class AppLocalizationsAr extends AppLocalizations {
       'إخفاء النشاط المباشر لهذه الصلاة فقط';
 
   @override
-  String get live_activities_appear =>
-      'تظهر الأنشطة المباشرة على شاشة القفل والجزيرة الديناميكية (إذا كانت مدعومة). اضغط على أيقونة الساعة على الشاشة الرئيسية لتبديل هذه الميزة تشغيل/إيقافها. عند التمكين، يظل الإشعار مرئيًا في جميع الأوقات مع المؤقت حتى الصلاة التالية.';
-
-  @override
   String get settings => 'الإعدادات';
 
   @override
@@ -2063,4 +2059,8 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'بمجرد فتح تبويب القرآن، تعود مباشرةً إلى آخر موضع قراءة.';
+
+  @override
+  String get live_activity_tooltip =>
+      'تظهر الأنشطة المباشرة على شاشة القفل وميزة الجزيرة التفاعلية (إذا كانت مدعومة). عند تفعيلها، يعرض مؤقّت مباشر عدًّا تنازليًا للصلاة القادمة أو للإقامة القادمة.';
 }

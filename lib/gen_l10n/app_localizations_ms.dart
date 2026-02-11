@@ -1935,10 +1935,6 @@ class AppLocalizationsMs extends AppLocalizations {
       'Sembunyikan aktivitas langsung untuk sholat ini saja';
 
   @override
-  String get live_activities_appear =>
-      'Aktivitas Langsung akan muncul di layar kunci dan Dynamic Island (jika didukung). Ketuk ikon jam di layar utama untuk mengaktifkan/menonaktifkan fitur ini. Ketika diaktifkan, notifikasi tetap terlihat setiap saat dengan penghitung waktu menuju waktu shalat berikutnya.';
-
-  @override
   String get settings => 'Pengaturan';
 
   @override
@@ -2090,4 +2086,8 @@ class AppLocalizationsMs extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Once you open the Quran tab, continue where you left off.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
 }

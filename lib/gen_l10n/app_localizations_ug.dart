@@ -1931,10 +1931,6 @@ class AppLocalizationsUg extends AppLocalizations {
       'بۇ نامازغىلا شۇئان پائالىيەتنى يوشۇر';
 
   @override
-  String get live_activities_appear =>
-      'شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. ئاساسىي ئېكراندىكى سائەتنى چېكىپ بۇ ئىقتىدارنى ئاچ/تاقا ھالىتىنى ئالماشتۇرغىلى بولىدۇ. قوزغىتىلغاندا، ئۇقتۇرۇش كېيىنكى ناماز ۋاقتىغىچە ھەمىشە كۆرۈنۈپ تۇرىدۇ.';
-
-  @override
   String get settings => 'تەڭشەك';
 
   @override
@@ -2086,4 +2082,8 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Once you open the Quran tab, continue where you left off.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
 }

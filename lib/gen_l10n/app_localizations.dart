@@ -3782,12 +3782,6 @@ abstract class AppLocalizations {
   /// **'Hide live activity for this prayer only'**
   String get hide_live_activity_for_prayer;
 
-  /// live_activities_appear
-  ///
-  /// In en, this message translates to:
-  /// **'Live Activities appear on your lock screen and Dynamic Island (if supported). Tap the clock icon on the main screen to toggle this feature on/off. When enabled, the notification stays visible at all times with a timer until the next prayer.'**
-  String get live_activities_appear;
-
   /// -> settings
   ///
   /// In en, this message translates to:
@@ -4081,6 +4075,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Once you open the Quran tab, continue where you left off.'**
   String get quick_quran_discription;
+
+  /// No description provided for @live_activity_tooltip.
+  ///
+  /// In en, this message translates to:
+  /// **'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.'**
+  String get live_activity_tooltip;
 }
 
 class _AppLocalizationsDelegate

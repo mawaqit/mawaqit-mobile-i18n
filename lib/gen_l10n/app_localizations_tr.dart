@@ -1928,10 +1928,6 @@ class AppLocalizationsTr extends AppLocalizations {
       'Yalnızca bu namaz için canlı etkinliği gizle';
 
   @override
-  String get live_activities_appear =>
-      'Canlı Etkinlikler, kilit ekranınızda ve (destekleniyorsa) Dynamic Island’da görünür. Bu özelliği açmak veya kapatmak için ana ekrandaki saat simgesine dokunun. Etkinleştirildiğinde, bir sonraki namaza kadar geri sayım içeren bildirim her zaman görünür kalır।';
-
-  @override
   String get settings => 'Configuración';
 
   @override
@@ -2083,4 +2079,8 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Kur’an sekmesini açtığınızda, kaldığınız yerden devam edin.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Canlı Aktiviteler, Kilit Ekranınızda ve Dinamik Ada\'da (destekleniyorsa) görünür. Etkinleştirildiğinde, bir canlı sayaç bir sonraki namaz veya iqama süresine kalan zamanı gösterir.';
 }

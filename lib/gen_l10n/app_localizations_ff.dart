@@ -1935,10 +1935,6 @@ class AppLocalizationsFf extends AppLocalizations {
       'Cacher l’activité en direct uniquement pour cette prière';
 
   @override
-  String get live_activities_appear =>
-      'Les activités en direct s’affichent sur l’écran de verrouillage et Dynamic Island (si pris en charge). Appuyez sur l’icône de l’horloge sur l’écran principal pour activer ou désactiver cette fonctionnalité. Lorsque celle-ci est activée, la notification reste visible à tout moment avec un minuteur jusqu’à la prochaine prière.';
-
-  @override
   String get settings => 'Paramètres';
 
   @override
@@ -2090,4 +2086,8 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'So tawii aɗa uddita tabol Alqur’aan, jangude e nder yernde maa ɗa woɗi.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities ɓe njiyaa e karifal haa Dynamic Island (so tawii noon e gese maa). So teeŋa, so tawii jarndi, ndoyngu ngam ñaamugo waare mum walla iqama ndaaray e sappo suudu.';
 }

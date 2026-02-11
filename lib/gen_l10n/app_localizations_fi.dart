@@ -1936,10 +1936,6 @@ class AppLocalizationsFi extends AppLocalizations {
       'Piilota elävä toiminta vain tälle rukoukselle';
 
   @override
-  String get live_activities_appear =>
-      'Live-aktiviteetit näkyvät lukitusnäytölläsi ja Dynamic Island (jos niitä tuetaan). Napauta päänäytön kellokuvaketta ottaaksesi tämän ominaisuuden käyttöön tai pois päältä. Kun käytössä, ilmoitus pysyy näkyvissä aina ajastimella seuraavaan rukoukseen asti.';
-
-  @override
   String get settings => 'Asetukset';
 
   @override
@@ -2091,4 +2087,8 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Kun avaat Koraani-välilehden, jatka siitä mihin jäit.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities näkyvät lukitusnäytölläsi ja Dynamic Islandissa (jos laitteesi tukee tätä ominaisuutta). Kun toiminto on käytössä, näytöllä näkyy reaaliaikainen ajastin seuraavaan rukoukseen tai iqamaan.';
 }

@@ -1936,10 +1936,6 @@ class AppLocalizationsRu extends AppLocalizations {
       'Скрыть активность только для этого молитвы';
 
   @override
-  String get live_activities_appear =>
-      'Появится активность на экране блокировки и острове Динамика (если поддерживается). Нажмите на значок часов на главном экране, чтобы включить/выключить эту функцию. Когда включено, уведомление остается видимым в любое время с таймером до следующей молитвы.';
-
-  @override
   String get settings => 'Настройки';
 
   @override
@@ -2091,4 +2087,8 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Когда вы откроете вкладку «Коран», продолжайте с того места, на котором остановились.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities отображаются на экране блокировки и Dynamic Island (если поддерживается). При включении отображается живой таймер с обратным отсчетом до следующего намаза или икамы.';
 }

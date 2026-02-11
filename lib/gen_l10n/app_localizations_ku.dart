@@ -1938,10 +1938,6 @@ class AppLocalizationsKu extends AppLocalizations {
       'چالاکی ڕاستەوخۆ بشارەوە تەنها بۆ ئەم نوێژە';
 
   @override
-  String get live_activities_appear =>
-      'چالاکییە ڕاستەوخۆکان لەسەر دەرچوو و Dynamic Island پیشان دەدرێن (ئەگەر پشتیوانی بکرێت). دوگمەی کاتژمێر لە سەرەکی بگرە بۆ کارا/ناکارا کردن. کاتێک کارا بکرێت، ئاگاداری هەمیشە دەمێنێت و کۆنتەرەکی تا نوێژی داهاتوو دەرکەوتوویە.';
-
-  @override
   String get settings => 'ڕێکخستنەکان';
 
   @override
@@ -2095,4 +2091,8 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'کاتێک خشتەی قوڕئان دەکەیتەوە، لە ئەو شوێنەی بەردەوام بە، کە پێشتر بڕاوتەوە.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
 }

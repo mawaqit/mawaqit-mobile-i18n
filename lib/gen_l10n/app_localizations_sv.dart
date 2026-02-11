@@ -1935,10 +1935,6 @@ class AppLocalizationsSv extends AppLocalizations {
       'Dölj levande aktivitet endast för denna bön';
 
   @override
-  String get live_activities_appear =>
-      'Live aktiviteter visas på låsskärmen och Dynamic Island (om det stöds). Tryck på klockikonen på huvudskärmen för att växla på/av. När den är aktiverad förblir notifikationen synlig hela tiden med en timer fram till nästa bön.';
-
-  @override
   String get settings => 'Inställningar';
 
   @override
@@ -2090,4 +2086,8 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'När du öppnar Koran-fliken kan du fortsätta där du slutade.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.';
 }

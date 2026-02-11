@@ -1934,10 +1934,6 @@ class AppLocalizationsSi extends AppLocalizations {
       'ซ่อน Live Activity สำหรับละหมาดนี้เท่านั้น';
 
   @override
-  String get live_activities_appear =>
-      'Live Activities จะแสดงบนหน้าล็อคและ Dynamic Island (ถ้ามี) แตะไอคอนนาฬิกาที่หน้าหลักเพื่อเปิด/ปิดฟีเจอร์นี้ เมื่อเปิดแล้ว การแจ้งเตือนจะอยู่บนหน้าจอตลอดเวลาพร้อมตัวจับเวลาจนถึงละหมาดถัดไป';
-
-  @override
   String get settings => 'การตั้งค่า';
 
   @override
@@ -2089,4 +2085,8 @@ class AppLocalizationsSi extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Once you open the Quran tab, continue where you left off.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
 }

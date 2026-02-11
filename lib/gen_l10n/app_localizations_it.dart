@@ -1950,10 +1950,6 @@ class AppLocalizationsIt extends AppLocalizations {
       'Nascondi attività dal vivo solo per questa preghiera';
 
   @override
-  String get live_activities_appear =>
-      'Le attività Live appaiono sulla tua schermata di blocco e sull\'isola dinamica (se supportato). Tocca l\'icona dell\'orologio nella schermata principale per attivare/disattivare questa funzione. Se abilitata, la notifica rimane visibile in ogni momento con un timer fino alla prossima preghiera.';
-
-  @override
   String get settings => 'Impostazioni';
 
   @override
@@ -2106,4 +2102,8 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Quando apri la sezione Corano, riprendi da dove hai interrotto.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Le Attività Live appaiono sulla schermata di blocco e sulla Dynamic Island (se supportata). Quando abilitate, un timer in tempo reale mostra il conto alla rovescia verso la prossima preghiera o iqama.';
 }

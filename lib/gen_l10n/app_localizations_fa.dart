@@ -1932,10 +1932,6 @@ class AppLocalizationsFa extends AppLocalizations {
       'پنهان کردن فعالیت زنده برای فقط این نماز';
 
   @override
-  String get live_activities_appear =>
-      'فعالیت‌های زنده روی صفحه قفل و Dynamic Island (در صورت پشتیبانی) نمایش داده می‌شوند. برای فعال/غیرفعال کردن این ویژگی، روی نماد ساعت در صفحه اصلی بزنید. زمانی که فعال باشد، اعلان با تایمر تا نماز بعدی همواره قابل مشاهده خواهد بود.';
-
-  @override
   String get settings => 'تنظیمات';
 
   @override
@@ -2087,4 +2083,8 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'هنگامی که تب قرآن را باز می‌کنید، از جایی که توقف کرده بودید ادامه دهید.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
 }

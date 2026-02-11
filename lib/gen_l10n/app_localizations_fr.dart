@@ -1958,10 +1958,6 @@ class AppLocalizationsFr extends AppLocalizations {
       'Masquer l\'activité en direct pour cette prière uniquement';
 
   @override
-  String get live_activities_appear =>
-      'Les activités en direct apparaissent sur votre écran de verrouillage et sur votre île dynamique (si compatible). Appuyez sur l\'icône de l\'horloge sur l\'écran principal pour activer/désactiver cette fonctionnalité. Lorsque cette option est activée, la notification reste visible à tout moment avec un minuteur jusqu\'à la prochaine prière.';
-
-  @override
   String get settings => 'Réglages';
 
   @override
@@ -2113,4 +2109,8 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Lorsque vous ouvrez l\'onglet Coran, reprenez là où vous vous êtes arrêté.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Les Activités en direct apparaissent sur votre écran verrouillé et dans la Dynamic Island (si prise en charge). Lorsqu’elles sont activées, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou la prochaine iqama.';
 }

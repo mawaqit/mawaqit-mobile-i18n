@@ -1937,10 +1937,6 @@ class AppLocalizationsBs extends AppLocalizations {
       'Sakrij live aktivnost samo za ovu molitvu';
 
   @override
-  String get live_activities_appear =>
-      'Live aktivnosti se pojavljuju na zaključanom ekranu i Dynamic Islandu (ako je podržano). Dodirnite ikonu sata na glavnom ekranu da uključite/isključite ovu funkciju. Kada je omogućena, obavijest ostaje stalno vidljiva s brojačem vremena do sljedeće molitve.';
-
-  @override
   String get settings => 'Postavke';
 
   @override
@@ -2092,4 +2088,8 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get quick_quran_discription =>
       'Kada otvorite karticu Kur\'an, nastavite tamo gdje ste stali.';
+
+  @override
+  String get live_activity_tooltip =>
+      'Uživo aktivnosti se pojavljuju na vašem zaključanom ekranu i Dynamic Islandu (ako je podržano). Kada je omogućeno, prikazuje se uživo odbrojavanje do sljedeće molitve ili ikameta.';
 }
