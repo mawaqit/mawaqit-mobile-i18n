@@ -1321,5 +1321,6 @@
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
-    }
+    },
+    "weather_your_location": "Ka ban ka fɛnɛ siranyɛ so, a bɛ bɔ yere la, o tɛ bɔ misiriko la."
 }
