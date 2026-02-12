@@ -1321,5 +1321,6 @@
     "weather_fahrenheit": "°فهرنهايت",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
-    }
+    },
+    "weather_your_location": "يعرض حالة الطقس لموقعك، وليس لمسجدك."
 }
