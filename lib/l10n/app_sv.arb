@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Visar vädret för din plats, inte för moskén."
+    "weather_your_location": "Visar vädret för din plats, inte för moskén.",
+    "view_360_currently_selected": "360-visning är för närvarande vald",
+    "tap_change_layout": "Tap here to change the layout"
 }
