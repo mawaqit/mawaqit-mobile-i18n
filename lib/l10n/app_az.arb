@@ -1321,5 +1321,6 @@
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
-    }
+    },
+    "weather_your_location": "Havanı sizin yeriniz üçün göstərir, məscid üçün yox."
 }
