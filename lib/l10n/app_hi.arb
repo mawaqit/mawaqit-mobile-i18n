@@ -1317,5 +1317,9 @@
     "quick_quran_reading_access": "तेज़ कुरान पढ़ने की पहुंच",
     "quick_quran_discription": "जब आप क़ुरान टैब खोलें, वहीं से जारी रखें जहाँ आपने छोड़ा था।",
     "live_activity_tooltip": "लाइव गतिविधियाँ आपके लॉक स्क्रीन और डायनेमिक आइलैंड (यदि समर्थित हो) पर दिखाई देंगी। जब सक्षम होती हैं, तो एक लाइव टाइमर अगली नमाज़ या इक़ामत तक की उलटी गिनती दिखाता है।",
-    "prayer": "नमाज़"
+    "prayer": "नमाज़",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    }
 }
