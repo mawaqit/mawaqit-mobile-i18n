@@ -2110,5 +2110,5 @@ class AppLocalizationsHu extends AppLocalizations {
       'A 360 nézet jelenleg ki van választva.';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Koppintson ide az elrendezés módosításához';
 }

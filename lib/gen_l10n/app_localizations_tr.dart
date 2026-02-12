@@ -2097,5 +2097,5 @@ class AppLocalizationsTr extends AppLocalizations {
   String get view_360_currently_selected => '360 Görünümü şu anda seçili';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Düzeni değiştirmek için buraya dokunun';
 }

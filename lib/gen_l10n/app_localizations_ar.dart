@@ -2077,5 +2077,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get view_360_currently_selected => 'عرض ٣٦٠ درجة محدد حالياً';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'اضغط هنا لتغيير نمط العرض';
 }

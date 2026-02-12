@@ -2107,5 +2107,5 @@ class AppLocalizationsBn extends AppLocalizations {
   String get view_360_currently_selected => '৩৬০ ভিউ বর্তমানে নির্বাচিত হয়েছে';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'বিন্যাস পরিবর্তন করতে এখানে ট্যাপ করুন';
 }

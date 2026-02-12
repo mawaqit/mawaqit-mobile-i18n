@@ -2129,5 +2129,5 @@ class AppLocalizationsFr extends AppLocalizations {
       'Vue à 360° actuellement sélectionnée';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Appuyez ici pour changer la disposition';
 }

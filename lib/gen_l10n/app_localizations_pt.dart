@@ -2122,5 +2122,5 @@ class AppLocalizationsPt extends AppLocalizations {
       'Visualização 360 está atualmente selecionada';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Toque aqui para alterar o layout';
 }

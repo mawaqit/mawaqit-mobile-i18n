@@ -2105,5 +2105,5 @@ class AppLocalizationsFf extends AppLocalizations {
   String get view_360_currently_selected => '360 Yiyde ena ɗaɗi caɗeele now';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Ndoggol e hoore ngam waylut karallaaji';
 }

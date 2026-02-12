@@ -2106,5 +2106,5 @@ class AppLocalizationsRu extends AppLocalizations {
   String get view_360_currently_selected => 'Вид 360 выбран в данный момент';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Нажмите здесь, чтобы изменить макет';
 }

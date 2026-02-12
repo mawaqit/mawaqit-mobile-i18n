@@ -2106,5 +2106,5 @@ class AppLocalizationsSv extends AppLocalizations {
       '360-visning är för närvarande vald';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Tryck här för att ändra layouten';
 }

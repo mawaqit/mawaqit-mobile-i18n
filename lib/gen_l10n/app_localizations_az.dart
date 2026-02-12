@@ -2106,5 +2106,5 @@ class AppLocalizationsAz extends AppLocalizations {
   String get view_360_currently_selected => '360 Görünüş hazırda seçilib.';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Düzülüşü dəyişmək üçün bura toxunun.';
 }

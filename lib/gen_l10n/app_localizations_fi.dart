@@ -2107,5 +2107,5 @@ class AppLocalizationsFi extends AppLocalizations {
       '360-näkymä on tällä hetkellä valittuna';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Napauta tästä vaihtaaksesi asettelua';
 }

@@ -2119,5 +2119,5 @@ class AppLocalizationsNl extends AppLocalizations {
       '360-weergave is momenteel geselecteerd';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Tik hier om de indeling te wijzigen';
 }

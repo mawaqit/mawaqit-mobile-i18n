@@ -2103,5 +2103,5 @@ class AppLocalizationsPl extends AppLocalizations {
   String get view_360_currently_selected => 'Widok 360 jest obecnie wybrany';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Dotknij tutaj, aby zmienić układ';
 }

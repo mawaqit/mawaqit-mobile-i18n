@@ -2127,5 +2127,5 @@ class AppLocalizationsDe extends AppLocalizations {
       '360-Ansicht ist aktuell ausgewählt';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Tippen Sie hier, um das Layout zu ändern';
 }

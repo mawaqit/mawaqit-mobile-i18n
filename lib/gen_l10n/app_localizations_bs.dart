@@ -2107,5 +2107,5 @@ class AppLocalizationsBs extends AppLocalizations {
   String get view_360_currently_selected => '360 Pregled je trenutno odabran';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Dodirnite ovdje da promijenite raspored';
 }

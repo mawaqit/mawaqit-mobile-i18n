@@ -2126,5 +2126,5 @@ class AppLocalizationsEs extends AppLocalizations {
       'Vista 360 actualmente seleccionada';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'Toca aquí para cambiar el diseño';
 }

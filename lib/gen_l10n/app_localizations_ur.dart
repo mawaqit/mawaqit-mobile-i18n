@@ -2104,5 +2104,5 @@ class AppLocalizationsUr extends AppLocalizations {
   String get view_360_currently_selected => 'مواقيت 360 ویو اس وقت منتخب ہے';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'لے آؤٹ تبدیل کرنے کے لیے یہاں ٹیپ کریں';
 }
