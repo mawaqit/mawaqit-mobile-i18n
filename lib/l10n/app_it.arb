@@ -1317,5 +1317,10 @@
     "quick_quran_reading_access": "Accesso rapido alla lettura del Corano",
     "quick_quran_discription": "Quando apri la sezione Corano, riprendi da dove hai interrotto.",
     "live_activity_tooltip": "Le Attività Live appaiono sulla schermata di blocco e sulla Dynamic Island (se supportata). Quando abilitate, un timer in tempo reale mostra il conto alla rovescia verso la prossima preghiera o iqama.",
-    "prayer": "Preghiera"
+    "prayer": "Preghiera",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Mostra il meteo per la tua posizione, non per la moschea."
 }

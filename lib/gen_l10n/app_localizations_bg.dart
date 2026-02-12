@@ -2100,4 +2100,11 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get prayer => 'Молитва';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Показва времето за вашето местоположение, не за джамията.';
 }

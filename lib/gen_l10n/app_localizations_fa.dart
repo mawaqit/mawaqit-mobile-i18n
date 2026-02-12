@@ -2089,5 +2089,12 @@ class AppLocalizationsFa extends AppLocalizations {
       'فعالیت‌های زنده روی صفحه قفل و داینامیک آیلند (در صورت پشتیبانی) نمایش داده می‌شوند. هنگام فعال‌سازی، یک تایمر زنده شمارش معکوس تا نماز بعدی یا اقامه را نشان می‌دهد.';
 
   @override
-  String get prayer => 'Prayer';
+  String get prayer => 'نماز';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Shows weather for your location, not the mosque.';
 }

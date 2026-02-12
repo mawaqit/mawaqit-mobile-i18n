@@ -2094,4 +2094,11 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get prayer => 'Sholat';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Menampilkan cuaca untuk lokasi Anda, bukan masjid.';
 }

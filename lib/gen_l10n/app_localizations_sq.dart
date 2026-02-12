@@ -2098,4 +2098,11 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get prayer => 'Namazet';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Tregon motin për vendndodhjen tuaj, jo për xhaminë.';
 }

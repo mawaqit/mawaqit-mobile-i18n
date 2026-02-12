@@ -1317,5 +1317,10 @@
     "quick_quran_reading_access": "قرآن جلدی پڑھنے کی رسائی",
     "quick_quran_discription": "جب آپ قرآن ٹیب کھولیں، وہیں سے جاری رکھیں جہاں آپ نے چھوڑا تھا۔",
     "live_activity_tooltip": "لائیو سرگرمیاں آپ کی لاک اسکرین اور ڈائنامک آئی لینڈ (اگر سپورٹڈ ہو) پر ظاہر ہوتی ہیں۔ جب یہ فعال ہوں تو اگلی نماز یا اقامت تک کا وقت ایک لائیو ٹائمر کے ذریعے دکھایا جاتا ہے۔",
-    "prayer": "نماز"
+    "prayer": "نماز",
+    "weather_fahrenheit": "°ف",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "یہ موسم آپ کے مقام کے لیے دکھایا گیا ہے، نہ کہ مسجد کے لیے۔"
 }

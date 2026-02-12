@@ -2095,4 +2095,11 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get prayer => 'নামাজ';
+
+  @override
+  String get weather_fahrenheit => '°ফা.';
+
+  @override
+  String get weather_your_location =>
+      'আপনার অবস্থানের জন্য আবহাওয়া দেখানো হচ্ছে, মসজিদের জন্য নয়।';
 }

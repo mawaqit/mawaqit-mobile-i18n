@@ -2091,4 +2091,11 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get prayer => 'Modlitwa';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Pokazuje pogodę dla Twojej lokalizacji, a nie dla meczetu.';
 }

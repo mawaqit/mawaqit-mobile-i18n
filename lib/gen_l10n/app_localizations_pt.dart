@@ -2109,4 +2109,11 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get prayer => 'Oração';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Mostra o clima para a sua localização, não para a mesquita.';
 }

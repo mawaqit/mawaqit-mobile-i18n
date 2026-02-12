@@ -1317,5 +1317,10 @@
     "quick_quran_reading_access": "Akses cepat baca Al-Qur'an",
     "quick_quran_discription": "Setelah Anda membuka tab Al-Qur'an, lanjutkan dari tempat terakhir Anda membaca.",
     "live_activity_tooltip": "Aktivitas Langsung akan muncul di Layar Kunci dan Dynamic Island (jika didukung). Jika diaktifkan, timer langsung akan menampilkan hitung mundur menuju waktu sholat atau iqamah berikutnya.",
-    "prayer": "Sholat"
+    "prayer": "Sholat",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Menampilkan cuaca untuk lokasi Anda, bukan masjid."
 }

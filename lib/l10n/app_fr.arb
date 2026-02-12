@@ -1317,5 +1317,10 @@
     "quick_quran_reading_access": "Accès rapide à la lecture du Coran",
     "quick_quran_discription": "Lorsque vous ouvrez l'onglet Coran, reprenez là où vous vous êtes arrêté.",
     "live_activity_tooltip": "Les Activités en direct apparaissent sur votre écran verrouillé et dans la Dynamic Island (si prise en charge). Lorsqu’elles sont activées, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou la prochaine iqama.",
-    "prayer": "Prière"
+    "prayer": "Prière",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Affiche la météo de votre emplacement, pas celle de la mosquée."
 }

@@ -2097,5 +2097,12 @@ class AppLocalizationsKu extends AppLocalizations {
       'چالاکییە ڕاستەوخۆکان لەسەر قفلەکەی تێلەفۆن و Dynamic Island دەرکەوتوو دیارن (ئەگەر پاڵپشتی بکرێت). کاتێک چالاک بکرێت، کاتژمێرێکی ڕاستەوخۆ نیشاندەدە کە ماوەی هەتا دەعای نوێ یان ئیقامە.';
 
   @override
-  String get prayer => 'Prayer';
+  String get prayer => 'نماز';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Shows weather for your location, not the mosque.';
 }

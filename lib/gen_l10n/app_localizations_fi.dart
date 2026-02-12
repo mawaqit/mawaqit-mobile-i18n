@@ -2094,4 +2094,11 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get prayer => 'Rukous';
+
+  @override
+  String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Näyttää sään sijainnissasi, ei moskeijassa.';
 }

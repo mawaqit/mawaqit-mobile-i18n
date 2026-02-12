@@ -1317,5 +1317,10 @@
     "quick_quran_reading_access": "هاتنی خێرا بۆ خوێندنی قورئان",
     "quick_quran_discription": "کاتێک خشتەی قوڕئان دەکەیتەوە، لە ئەو شوێنەی بەردەوام بە، کە پێشتر بڕاوتەوە.",
     "live_activity_tooltip": "چالاکییە ڕاستەوخۆکان لەسەر قفلەکەی تێلەفۆن و Dynamic Island دەرکەوتوو دیارن (ئەگەر پاڵپشتی بکرێت). کاتێک چالاک بکرێت، کاتژمێرێکی ڕاستەوخۆ نیشاندەدە کە ماوەی هەتا دەعای نوێ یان ئیقامە.",
-    "prayer": "Prayer"
+    "prayer": "نماز",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Shows weather for your location, not the mosque."
 }

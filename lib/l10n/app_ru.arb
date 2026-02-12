@@ -1317,5 +1317,10 @@
     "quick_quran_reading_access": "Быстрый доступ к чтению Корана",
     "quick_quran_discription": "Когда вы откроете вкладку «Коран», продолжайте с того места, на котором остановились.",
     "live_activity_tooltip": "Live Activities отображаются на экране блокировки и Dynamic Island (если поддерживается). При включении отображается живой таймер с обратным отсчетом до следующего намаза или икамы.",
-    "prayer": "Молитва"
+    "prayer": "Молитва",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Показывает погоду для вашего местоположения, а не для мечети."
 }
