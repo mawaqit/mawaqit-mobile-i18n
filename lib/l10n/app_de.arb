@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Zeigt das Wetter für Ihren Standort, nicht für die Moschee."
+    "weather_your_location": "Zeigt das Wetter für Ihren Standort, nicht für die Moschee.",
+    "view_360_currently_selected": "360-Ansicht ist aktuell ausgewählt",
+    "tap_change_layout": "Tap here to change the layout"
 }
