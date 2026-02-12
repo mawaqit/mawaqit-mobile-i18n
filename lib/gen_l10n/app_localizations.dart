@@ -4087,6 +4087,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Prayer'**
   String get prayer;
+
+  /// -> weather_fahrenheit
+  ///
+  /// In en, this message translates to:
+  /// **'°F'**
+  String get weather_fahrenheit;
 }
 
 class _AppLocalizationsDelegate

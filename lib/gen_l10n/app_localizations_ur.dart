@@ -2092,4 +2092,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get prayer => 'نماز';
+
+  @override
+  String get weather_fahrenheit => '°ف';
 }

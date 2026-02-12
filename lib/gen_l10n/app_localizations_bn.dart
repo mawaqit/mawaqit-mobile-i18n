@@ -2095,4 +2095,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get prayer => 'নামাজ';
+
+  @override
+  String get weather_fahrenheit => '°ফা.';
 }

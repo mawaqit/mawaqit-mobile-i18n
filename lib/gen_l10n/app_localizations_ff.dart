@@ -2093,4 +2093,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get prayer => 'Laaɓi';
+
+  @override
+  String get weather_fahrenheit => '°F';
 }

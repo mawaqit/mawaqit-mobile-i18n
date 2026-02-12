@@ -2093,4 +2093,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get prayer => 'Bön';
+
+  @override
+  String get weather_fahrenheit => '°F';
 }

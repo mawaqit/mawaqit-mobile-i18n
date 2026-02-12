@@ -2097,4 +2097,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get prayer => 'Imádság';
+
+  @override
+  String get weather_fahrenheit => '°F';
 }

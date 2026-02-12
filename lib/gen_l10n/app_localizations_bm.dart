@@ -2092,4 +2092,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get prayer => 'Sila';
+
+  @override
+  String get weather_fahrenheit => '°F';
 }

@@ -2066,4 +2066,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get prayer => 'الصلاة';
+
+  @override
+  String get weather_fahrenheit => '°فهرنهايت';
 }

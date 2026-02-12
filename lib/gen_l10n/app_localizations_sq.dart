@@ -2098,4 +2098,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get prayer => 'Namazet';
+
+  @override
+  String get weather_fahrenheit => '°F';
 }

@@ -2094,4 +2094,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get prayer => 'Sholat';
+
+  @override
+  String get weather_fahrenheit => '°F';
 }
