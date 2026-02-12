@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Показва времето за вашето местоположение, не за джамията."
+    "weather_your_location": "Показва времето за вашето местоположение, не за джамията.",
+    "view_360_currently_selected": "360 изглед е избран в момента",
+    "tap_change_layout": "Tap here to change the layout"
 }
