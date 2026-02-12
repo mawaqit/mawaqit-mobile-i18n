@@ -2098,4 +2098,10 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Pokazuje pogodę dla Twojej lokalizacji, a nie dla meczetu.';
+
+  @override
+  String get view_360_currently_selected => 'Widok 360 jest obecnie wybrany';
+
+  @override
+  String get tap_change_layout => 'Dotknij tutaj, aby zmienić układ';
 }

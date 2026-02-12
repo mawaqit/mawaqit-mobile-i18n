@@ -2101,4 +2101,10 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Havanı sizin yeriniz üçün göstərir, məscid üçün yox.';
+
+  @override
+  String get view_360_currently_selected => '360 Görünüş hazırda seçilib.';
+
+  @override
+  String get tap_change_layout => 'Düzülüşü dəyişmək üçün bura toxunun.';
 }

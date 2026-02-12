@@ -2100,4 +2100,10 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Nyaande ɗiɗi gasataa e lewru maa, on ko ɗum gorko masjid.';
+
+  @override
+  String get view_360_currently_selected => '360 Yiyde ena ɗaɗi caɗeele now';
+
+  @override
+  String get tap_change_layout => 'Ndoggol e hoore ngam waylut karallaaji';
 }

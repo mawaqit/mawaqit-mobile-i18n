@@ -1318,9 +1318,11 @@
     "quick_quran_discription": "هنگامی که تب قرآن را باز می‌کنید، از جایی که توقف کرده بودید ادامه دهید.",
     "live_activity_tooltip": "فعالیت‌های زنده روی صفحه قفل و داینامیک آیلند (در صورت پشتیبانی) نمایش داده می‌شوند. هنگام فعال‌سازی، یک تایمر زنده شمارش معکوس تا نماز بعدی یا اقامه را نشان می‌دهد.",
     "prayer": "نماز",
-    "weather_fahrenheit": "°F",
+    "weather_fahrenheit": "°ف",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Shows weather for your location, not the mosque."
+    "weather_your_location": "وضعیت هوا را برای مکان شما نمایش می‌دهد، نه مسجد.",
+    "view_360_currently_selected": "360 View is currently selected",
+    "tap_change_layout": "Tap here to change the layout"
 }

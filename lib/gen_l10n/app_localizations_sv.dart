@@ -2100,4 +2100,11 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Visar vädret för din plats, inte för moskén.';
+
+  @override
+  String get view_360_currently_selected =>
+      '360-visning är för närvarande vald';
+
+  @override
+  String get tap_change_layout => 'Tryck här för att ändra layouten';
 }

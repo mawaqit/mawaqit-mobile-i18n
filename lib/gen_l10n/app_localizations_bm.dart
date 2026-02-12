@@ -2099,4 +2099,10 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Ka ban ka fɛnɛ siranyɛ so, a bɛ bɔ yere la, o tɛ bɔ misiriko la.';
+
+  @override
+  String get view_360_currently_selected => '360 Zanw ye don filɛ';
+
+  @override
+  String get tap_change_layout => 'Fɔlɔ yɛrɛw ka bɛɛle la fɛ';
 }

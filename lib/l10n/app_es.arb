@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Muestra el clima de tu ubicación, no el de la mezquita."
+    "weather_your_location": "Muestra el clima de tu ubicación, no el de la mezquita.",
+    "view_360_currently_selected": "Vista 360 actualmente seleccionada",
+    "tap_change_layout": "Toca aquí para cambiar el diseño"
 }

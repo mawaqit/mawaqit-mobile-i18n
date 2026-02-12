@@ -2105,4 +2105,11 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Tregon motin për vendndodhjen tuaj, jo për xhaminë.';
+
+  @override
+  String get view_360_currently_selected =>
+      'Pamja 360 është zgjedhur aktualisht';
+
+  @override
+  String get tap_change_layout => 'Prek këtu për të ndryshuar pamjen';
 }

@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Pokazuje pogodę dla Twojej lokalizacji, a nie dla meczetu."
+    "weather_your_location": "Pokazuje pogodę dla Twojej lokalizacji, a nie dla meczetu.",
+    "view_360_currently_selected": "Widok 360 jest obecnie wybrany",
+    "tap_change_layout": "Dotknij tutaj, aby zmienić układ"
 }

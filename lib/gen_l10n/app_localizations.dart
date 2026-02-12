@@ -4099,6 +4099,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Shows weather for your location, not the mosque.'**
   String get weather_your_location;
+
+  /// No description provided for @view_360_currently_selected.
+  ///
+  /// In en, this message translates to:
+  /// **'360 View is currently selected'**
+  String get view_360_currently_selected;
+
+  /// No description provided for @tap_change_layout.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap here to change the layout'**
+  String get tap_change_layout;
 }
 
 class _AppLocalizationsDelegate

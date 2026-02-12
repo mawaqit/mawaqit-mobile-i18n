@@ -2101,4 +2101,10 @@ class AppLocalizationsPa extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Shows weather for your location, not the mosque.';
+
+  @override
+  String get view_360_currently_selected => '360 View is currently selected';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

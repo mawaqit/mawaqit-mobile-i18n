@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Tregon motin për vendndodhjen tuaj, jo për xhaminë."
+    "weather_your_location": "Tregon motin për vendndodhjen tuaj, jo për xhaminë.",
+    "view_360_currently_selected": "Pamja 360 është zgjedhur aktualisht",
+    "tap_change_layout": "Prek këtu për të ndryshuar pamjen"
 }

@@ -2101,4 +2101,10 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Menampilkan cuaca untuk lokasi Anda, bukan masjid.';
+
+  @override
+  String get view_360_currently_selected => 'Tampilan 360 sedang dipilih';
+
+  @override
+  String get tap_change_layout => 'Ketuk di sini untuk mengubah tata letak';
 }

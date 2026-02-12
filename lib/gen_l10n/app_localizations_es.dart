@@ -2120,4 +2120,11 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Muestra el clima de tu ubicación, no el de la mezquita.';
+
+  @override
+  String get view_360_currently_selected =>
+      'Vista 360 actualmente seleccionada';
+
+  @override
+  String get tap_change_layout => 'Toca aquí para cambiar el diseño';
 }

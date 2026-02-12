@@ -2092,4 +2092,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get weather_your_location => 'Konumunuz için hava durumunu gösterir.';
+
+  @override
+  String get view_360_currently_selected => '360 Görünümü şu anda seçili';
+
+  @override
+  String get tap_change_layout => 'Düzeni değiştirmek için buraya dokunun';
 }

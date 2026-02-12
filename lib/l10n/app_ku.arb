@@ -1318,9 +1318,11 @@
     "quick_quran_discription": "کاتێک خشتەی قوڕئان دەکەیتەوە، لە ئەو شوێنەی بەردەوام بە، کە پێشتر بڕاوتەوە.",
     "live_activity_tooltip": "چالاکییە ڕاستەوخۆکان لەسەر قفلەکەی تێلەفۆن و Dynamic Island دەرکەوتوو دیارن (ئەگەر پاڵپشتی بکرێت). کاتێک چالاک بکرێت، کاتژمێرێکی ڕاستەوخۆ نیشاندەدە کە ماوەی هەتا دەعای نوێ یان ئیقامە.",
     "prayer": "نماز",
-    "weather_fahrenheit": "°F",
+    "weather_fahrenheit": "°ف",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Shows weather for your location, not the mosque."
+    "weather_your_location": "ئاوەشینی شوێنەکەت پیشان دەدات، نە شوێنی مەسجیدەکە.",
+    "view_360_currently_selected": "360 View is currently selected",
+    "tap_change_layout": "Tap here to change the layout"
 }
