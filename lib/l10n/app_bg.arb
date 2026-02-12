@@ -1317,5 +1317,9 @@
     "quick_quran_reading_access": "Бърз достъп до четене на Корана",
     "quick_quran_discription": "След като отворите таба Куран, продължете от мястото, където сте спрели.",
     "live_activity_tooltip": "Живите активности се показват на заключения екран и Dynamic Island (ако се поддържа). Когато е активирано, се показва жив таймер с обратно броене до следващата молитва или икамa.",
-    "prayer": "Молитва"
+    "prayer": "Молитва",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    }
 }
