@@ -2103,5 +2103,5 @@ class AppLocalizationsFa extends AppLocalizations {
       'نمای ۳۶۰ در حال حاضر انتخاب شده است';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'برای تغییر طرح اینجا را لمس کنید';
 }
