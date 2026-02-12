@@ -1323,6 +1323,6 @@
         "description": "-> weather_fahrenheit"
     },
     "weather_your_location": "يعرض حالة الطقس لموقعك، وليس لمسجدك.",
-    "view_360_currently_selected": "عرض ٣٦٠ درجة محدد حالياً",
+    "view_360_currently_selected": "عرض 360 محدد حالياً",
     "tap_change_layout": "اضغط هنا لتغيير نمط العرض"
 }
