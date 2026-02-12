@@ -2107,7 +2107,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'ئاوەشینی شوێنەکەت پیشان دەدات، نە شوێنی مەسجیدەکە.';
 
   @override
-  String get view_360_currently_selected => '360 View is currently selected';
+  String get view_360_currently_selected => 'دیمەنی ٣٦٠ هەنووکە هەڵبژێردراوە';
 
   @override
   String get tap_change_layout => 'Tap here to change the layout';
