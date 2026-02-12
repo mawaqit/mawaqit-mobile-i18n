@@ -1321,5 +1321,6 @@
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
-    }
+    },
+    "weather_your_location": "Zeigt das Wetter für Ihren Standort, nicht für die Moschee."
 }
