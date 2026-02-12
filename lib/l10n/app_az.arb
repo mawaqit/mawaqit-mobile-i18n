@@ -1317,5 +1317,9 @@
     "quick_quran_reading_access": "Qurana sürətli giriş",
     "quick_quran_discription": "Quran bölməsini açdıqdan sonra qaldığınız yerdən davam edin.",
     "live_activity_tooltip": "Canlı Aktivliklər dəstəklənən cihazlarda Kilid Ekranınızda və Dynamic Island-da görünür. Aktiv olduqda, növbəti namaz və ya iqaməyə geri sayım zamanı göstərilir.",
-    "prayer": "Namaz"
+    "prayer": "Namaz",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    }
 }
