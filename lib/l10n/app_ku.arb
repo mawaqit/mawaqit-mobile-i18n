@@ -1,5 +1,5 @@
 {
-    "@@locale": "ku",
+    "@@locale": "ckb",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1324,5 +1324,5 @@
     },
     "weather_your_location": "ئاوەشینی شوێنەکەت پیشان دەدات، نە شوێنی مەسجیدەکە.",
     "view_360_currently_selected": "دیمەنی ٣٦٠ هەنووکە هەڵبژێردراوە",
-    "tap_change_layout": "Tap here to change the layout"
+    "tap_change_layout": "کرتە بکە لێرە بۆ گۆڕینی شێوەی پێشاندان"
 }
