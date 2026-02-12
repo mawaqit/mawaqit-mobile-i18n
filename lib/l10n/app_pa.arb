@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Shows weather for your location, not the mosque."
+    "weather_your_location": "Shows weather for your location, not the mosque.",
+    "view_360_currently_selected": "360 View is currently selected",
+    "tap_change_layout": "Tap here to change the layout"
 }
