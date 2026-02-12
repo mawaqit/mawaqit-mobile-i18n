@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "یہ موسم آپ کے مقام کے لیے دکھایا گیا ہے، نہ کہ مسجد کے لیے۔"
+    "weather_your_location": "یہ موسم آپ کے مقام کے لیے دکھایا گیا ہے، نہ کہ مسجد کے لیے۔",
+    "view_360_currently_selected": "مواقيت 360 ویو اس وقت منتخب ہے",
+    "tap_change_layout": "Tap here to change the layout"
 }
