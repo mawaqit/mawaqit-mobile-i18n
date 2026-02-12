@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1324,5 +1324,5 @@
     },
     "weather_your_location": "Mostra o clima para a sua localização, não para a mesquita.",
     "view_360_currently_selected": "Visualização 360 está atualmente selecionada",
-    "tap_change_layout": "Tap here to change the layout"
+    "tap_change_layout": "Toque aqui para alterar o layout"
 }
