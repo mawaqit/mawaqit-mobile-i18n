@@ -1317,5 +1317,9 @@
     "quick_quran_reading_access": "Snelle toegang tot de Koranlezen",
     "quick_quran_discription": "Wanneer je het Quran-tabblad opent, ga verder waar je was gebleven.",
     "live_activity_tooltip": "Live-activiteiten verschijnen op je vergrendelscherm en Dynamic Island (indien ondersteund). Wanneer ingeschakeld, toont een live timer de aftelling tot het volgende gebed of de iqama.",
-    "prayer": "Gebed"
+    "prayer": "Gebed",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    }
 }
