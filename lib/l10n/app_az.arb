@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Havanı sizin yeriniz üçün göstərir, məscid üçün yox."
+    "weather_your_location": "Havanı sizin yeriniz üçün göstərir, məscid üçün yox.",
+    "view_360_currently_selected": "360 Görünüş hazırda seçilib.",
+    "tap_change_layout": "Tap here to change the layout"
 }
