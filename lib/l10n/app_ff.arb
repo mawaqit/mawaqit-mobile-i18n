@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Nyaande ɗiɗi gasataa e lewru maa, on ko ɗum gorko masjid."
+    "weather_your_location": "Nyaande ɗiɗi gasataa e lewru maa, on ko ɗum gorko masjid.",
+    "view_360_currently_selected": "360 Yiyde ena ɗaɗi caɗeele now",
+    "tap_change_layout": "Tap here to change the layout"
 }
