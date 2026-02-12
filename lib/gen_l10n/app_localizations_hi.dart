@@ -2103,4 +2103,10 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get weather_your_location =>
       'आपके स्थान का मौसम दिखाता है, मस्जिद का नहीं।';
+
+  @override
+  String get view_360_currently_selected => '360 व्यू वर्तमान में चयनित है';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

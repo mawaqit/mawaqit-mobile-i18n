@@ -2107,4 +2107,10 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Показва времето за вашето местоположение, не за джамията.';
+
+  @override
+  String get view_360_currently_selected => '360 изглед е избран в момента';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

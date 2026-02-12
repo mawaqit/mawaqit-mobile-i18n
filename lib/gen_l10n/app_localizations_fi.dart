@@ -2101,4 +2101,11 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Näyttää sään sijainnissasi, ei moskeijassa.';
+
+  @override
+  String get view_360_currently_selected =>
+      '360-näkymä on tällä hetkellä valittuna';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

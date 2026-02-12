@@ -2102,4 +2102,10 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Prikazuje vremensku prognozu za Vašu lokaciju, a ne za džamiju.';
+
+  @override
+  String get view_360_currently_selected => '360 Pregled je trenutno odabran';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

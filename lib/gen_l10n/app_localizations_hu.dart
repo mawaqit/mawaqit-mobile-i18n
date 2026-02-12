@@ -2104,4 +2104,11 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Az időjárást a saját helyzeténél mutatja, nem a mecsetnél.';
+
+  @override
+  String get view_360_currently_selected =>
+      'A 360 nézet jelenleg ki van választva.';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

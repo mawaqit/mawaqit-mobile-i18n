@@ -2097,4 +2097,10 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get weather_your_location =>
       'وضعیت هوا را برای مکان شما نمایش می‌دهد، نه مسجد.';
+
+  @override
+  String get view_360_currently_selected => '360 View is currently selected';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

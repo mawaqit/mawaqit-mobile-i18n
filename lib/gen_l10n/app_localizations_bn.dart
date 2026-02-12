@@ -2102,4 +2102,10 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get weather_your_location =>
       'আপনার অবস্থানের জন্য আবহাওয়া দেখানো হচ্ছে, মসজিদের জন্য নয়।';
+
+  @override
+  String get view_360_currently_selected => '৩৬০ ভিউ বর্তমানে নির্বাচিত হয়েছে';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

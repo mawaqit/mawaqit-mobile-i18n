@@ -2101,4 +2101,10 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Показывает погоду для вашего местоположения, а не для мечети.';
+
+  @override
+  String get view_360_currently_selected => 'Вид 360 выбран в данный момент';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

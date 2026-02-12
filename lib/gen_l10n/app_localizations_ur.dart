@@ -2099,4 +2099,10 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get weather_your_location =>
       'یہ موسم آپ کے مقام کے لیے دکھایا گیا ہے، نہ کہ مسجد کے لیے۔';
+
+  @override
+  String get view_360_currently_selected => 'مواقيت 360 ویو اس وقت منتخب ہے';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

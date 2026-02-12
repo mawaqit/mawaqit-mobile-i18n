@@ -2121,4 +2121,11 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Zeigt das Wetter für Ihren Standort, nicht für die Moschee.';
+
+  @override
+  String get view_360_currently_selected =>
+      '360-Ansicht ist aktuell ausgewählt';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

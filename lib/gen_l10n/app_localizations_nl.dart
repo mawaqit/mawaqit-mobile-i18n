@@ -2113,4 +2113,11 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Toont het weer voor jouw locatie, niet de moskee.';
+
+  @override
+  String get view_360_currently_selected =>
+      '360-weergave is momenteel geselecteerd';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }

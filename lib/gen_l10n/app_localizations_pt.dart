@@ -2116,4 +2116,11 @@ class AppLocalizationsPt extends AppLocalizations {
   @override
   String get weather_your_location =>
       'Mostra o clima para a sua localização, não para a mesquita.';
+
+  @override
+  String get view_360_currently_selected =>
+      'Visualização 360 está atualmente selecionada';
+
+  @override
+  String get tap_change_layout => 'Tap here to change the layout';
 }
