@@ -2069,4 +2069,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°فهرنهايت';
+
+  @override
+  String get weather_your_location => 'يعرض حالة الطقس لموقعك، وليس لمسجدك.';
 }

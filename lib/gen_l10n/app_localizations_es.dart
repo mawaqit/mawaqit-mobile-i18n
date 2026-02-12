@@ -2116,4 +2116,8 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Muestra el clima de tu ubicación, no el de la mezquita.';
 }

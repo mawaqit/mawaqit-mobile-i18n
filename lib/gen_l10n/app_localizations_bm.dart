@@ -2095,4 +2095,8 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Ka ban ka fɛnɛ siranyɛ so, a bɛ bɔ yere la, o tɛ bɔ misiriko la.';
 }

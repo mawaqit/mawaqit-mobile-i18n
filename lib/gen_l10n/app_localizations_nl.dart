@@ -2109,4 +2109,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Toont het weer voor jouw locatie, niet de moskee.';
 }

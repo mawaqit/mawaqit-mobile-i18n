@@ -2098,4 +2098,8 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Prikazuje vremensku prognozu za Vašu lokaciju, a ne za džamiju.';
 }

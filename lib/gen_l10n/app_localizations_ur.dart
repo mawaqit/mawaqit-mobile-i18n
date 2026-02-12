@@ -2095,4 +2095,8 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°ف';
+
+  @override
+  String get weather_your_location =>
+      'یہ موسم آپ کے مقام کے لیے دکھایا گیا ہے، نہ کہ مسجد کے لیے۔';
 }

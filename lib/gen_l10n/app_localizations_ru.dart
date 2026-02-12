@@ -2097,4 +2097,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Показывает погоду для вашего местоположения, а не для мечети.';
 }

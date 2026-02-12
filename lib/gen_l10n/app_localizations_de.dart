@@ -2117,4 +2117,8 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Zeigt das Wetter für Ihren Standort, nicht für die Moschee.';
 }

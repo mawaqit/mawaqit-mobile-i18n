@@ -2097,4 +2097,8 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Havanı sizin yeriniz üçün göstərir, məscid üçün yox.';
 }

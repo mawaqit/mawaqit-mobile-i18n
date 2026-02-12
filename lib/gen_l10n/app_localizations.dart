@@ -4093,6 +4093,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'°F'**
   String get weather_fahrenheit;
+
+  /// No description provided for @weather_your_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Shows weather for your location, not the mosque.'**
+  String get weather_your_location;
 }
 
 class _AppLocalizationsDelegate

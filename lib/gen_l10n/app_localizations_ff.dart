@@ -2096,4 +2096,8 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Nyaande ɗiɗi gasataa e lewru maa, on ko ɗum gorko masjid.';
 }

@@ -2096,4 +2096,8 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Visar vädret för din plats, inte för moskén.';
 }

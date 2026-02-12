@@ -2092,4 +2092,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location =>
+      'Shows weather for your location, not the mosque.';
 }

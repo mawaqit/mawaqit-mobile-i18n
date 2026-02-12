@@ -2089,4 +2089,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get weather_fahrenheit => '°F';
+
+  @override
+  String get weather_your_location => 'Konumunuz için hava durumunu gösterir.';
 }
