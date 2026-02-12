@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1321,5 +1321,6 @@
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
-    }
+    },
+    "weather_your_location": "Muestra el clima de tu ubicación, no el de la mezquita."
 }
