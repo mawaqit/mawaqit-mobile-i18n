@@ -1323,6 +1323,6 @@
         "description": "-> weather_fahrenheit"
     },
     "weather_your_location": "وضعیت هوا را برای مکان شما نمایش می‌دهد، نه مسجد.",
-    "view_360_currently_selected": "360 View is currently selected",
+    "view_360_currently_selected": "نمای ۳۶۰ در حال حاضر انتخاب شده است",
     "tap_change_layout": "Tap here to change the layout"
 }

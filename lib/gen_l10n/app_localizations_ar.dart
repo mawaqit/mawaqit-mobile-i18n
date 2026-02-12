@@ -2074,7 +2074,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get weather_your_location => 'يعرض حالة الطقس لموقعك، وليس لمسجدك.';
 
   @override
-  String get view_360_currently_selected => 'عرض ٣٦٠ درجة محدد حالياً';
+  String get view_360_currently_selected => 'عرض 360 محدد حالياً';
 
   @override
   String get tap_change_layout => 'اضغط هنا لتغيير نمط العرض';
