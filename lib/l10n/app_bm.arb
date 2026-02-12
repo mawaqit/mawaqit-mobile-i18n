@@ -1322,5 +1322,7 @@
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Ka ban ka fɛnɛ siranyɛ so, a bɛ bɔ yere la, o tɛ bɔ misiriko la."
+    "weather_your_location": "Ka ban ka fɛnɛ siranyɛ so, a bɛ bɔ yere la, o tɛ bɔ misiriko la.",
+    "view_360_currently_selected": "360 Zanw ye don filɛ",
+    "tap_change_layout": "Tap here to change the layout"
 }
