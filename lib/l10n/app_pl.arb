@@ -1317,5 +1317,9 @@
     "quick_quran_reading_access": "Szybki dostęp do czytania Koranu",
     "quick_quran_discription": "Po otwarciu zakładki Koran, kontynuuj od miejsca, w którym przerwałeś.",
     "live_activity_tooltip": "Aktywności na żywo pojawiają się na Ekranie blokady i Dynamic Island (jeśli są obsługiwane). Po włączeniu pokazują one licznik czasu do następnej modlitwy lub iqamy.",
-    "prayer": "Modlitwa"
+    "prayer": "Modlitwa",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    }
 }
