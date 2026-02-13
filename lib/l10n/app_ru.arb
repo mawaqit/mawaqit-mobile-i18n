@@ -973,7 +973,7 @@
     "settings_language_pt": "Португальский",
     "al_zikr": "Аль-Зикр",
     "favorite_azkar": "Favorite Azkar",
-    "all_azkar": "Все ацкар",
+    "all_azkar": "Азкар",
     "device_audio_not_found": "Аудио устройства не найдено",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
