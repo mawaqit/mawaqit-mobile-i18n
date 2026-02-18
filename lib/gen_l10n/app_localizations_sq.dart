@@ -1841,22 +1841,22 @@ class AppLocalizationsSq extends AppLocalizations {
   String get transliteration => 'Transkriptim';
 
   @override
-  String get highlight_Tahajjud_Time => 'Thekso kohën e Tahaxhudit';
+  String get highlight_Tahajjud_Time => 'Nxjerr në pah kohën e Tahaxhudit';
 
   @override
   String get calendar_access_not_available =>
-      'Nuk është i disponueshëm aksesi në kalendar.';
+      'Qasja në kalendar nuk është e disponueshme.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Ju lutemi lejoni akses në kalendar për të shfaqur ngjarjet tuaja në MAWAQIT 360.';
+      'Ju lutemi lejoni qasjen në kalendar për të shfaqur ngjarjet tuaja në MAWAQIT 360.';
 
   @override
   String get calendar_access_required =>
-      'Aksesi në kalendar është i nevojshëm për të shfaqur ngjarjet tuaja.';
+      'Qasja në kalendar është r nevojshme për të shfaqur ngjarjet tuaja.';
 
   @override
-  String get calendar_allow_access_button => 'Lejo akses në kalendar';
+  String get calendar_allow_access_button => 'Lejo qasjën në kalendar';
 
   @override
   String get calendar_loading => 'Po ngarkohen kalendarët…';
