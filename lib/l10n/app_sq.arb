@@ -1218,7 +1218,7 @@
     "calendar_allow_access_mawaqit": "Ju lutemi lejoni qasjen në kalendar për të shfaqur ngjarjet tuaja në MAWAQIT 360.",
     "calendar_access_required": "Qasja në kalendar është r nevojshme për të shfaqur ngjarjet tuaja.",
     "calendar_allow_access_button": "Lejo qasjën në kalendar",
-    "calendar_loading": "Po ngarkohen kalendarët…",
+    "calendar_loading": "Ngarkimi i kalendarëve…",
     "calendar_select_for_mawaqit": "Zgjidhni kalendarët që dëshironi të shfaqen në MAWAQIT 360.",
     "calendar_enable_all": "Aktivizo të gjitha",
     "calendar_disable_all": "Çaktivizo të gjitha",
@@ -1226,7 +1226,7 @@
     "calendar_times_shown_in": "Orari shfaqet në",
     "calendar_starts_on": "Fillon më",
     "calendar_ends_on": "Mbaron më",
-    "calendar_events_at_this_time": "Ngjarje në këtë orar",
+    "calendar_events_at_this_time": "Ngjarje në këtë moment",
     "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
@@ -1234,16 +1234,16 @@
     "open_in_mawaqit_app": "Hape këtë xhami në aplikacionin MAWAQIT",
     "mosque_name": "Emri i xhamisë",
     "mosque_not_found": "Xhamia nuk u gjet",
-    "invalid_mosque_link": "Lidhje xhamie e pavlefshme",
-    "not_open_mosque_link": "Nuk mund të hapet kjo lidhje xhamie. Ju lutemi provoni përsëri.",
+    "invalid_mosque_link": "Linku i xhamisë është i pavlefshëm",
+    "not_open_mosque_link": "Nuk mund të hapet ky linku i xhamisë. Ju lutemi provoni përsëri.",
     "no_calendars_on_this_device": "Nuk u gjetën kalendarë në këtë pajisje.",
-    "calendar_event_at_this_time": "Ngjarje në këtë orar",
+    "calendar_event_at_this_time": "Ngjarje në këtë moment",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Kërko sipas Ajeti ose Sureje",
-    "matching_surahs": "Suret përputhëse",
-    "matching_ayahs": "Ajetet përputhëse",
+    "search_ayah_surah": "Kërko sipas Ajetit ose Surës",
+    "matching_surahs": "Suret përkatëse",
+    "matching_ayahs": "Ajetet përkatëse",
     "live_timer": "Kohëmatës i drejtpërdrejtë",
     "@live_timer": {
         "description": "live_timer"
@@ -1253,7 +1253,7 @@
         "description": "notify_before"
     },
     "take_time_appear_watch": "Mund të marrë disa sekonda të paraqitet në orën tuaj.",
-    "eid1": "Eid",
+    "eid1": "Bajram",
     "hide_live_activity_for_prayer": "Fshih aktivitetin e drejtpërdrejtë vetëm për këtë namaz",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
