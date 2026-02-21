@@ -1315,14 +1315,14 @@
     "live_countdown_for_all_pray": "شۇئان سانىقى ھەممە نامازغا ئاكتىپ بولۇشى مۇمكىن، كېيىنكى ناماز ۋاقتى ئۈچۈن ساناقنى ئۆزلۈكىدىن كۆرسىتىدۇ.",
     "live_countdown": "شۇئان سانىقى",
     "quick_quran_reading_access": "تېز قۇرئان ئوقۇش ئىجازىتى",
-    "quick_quran_discription": "Once you open the Quran tab, continue where you left off.",
-    "live_activity_tooltip": "Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.",
-    "prayer": "Prayer",
+    "quick_quran_discription": "قۇرئان بەتكۈچنى ئاچسىڭىز، توختىغان جايىدىن داۋاملاشتۇرالايسىز.",
+    "live_activity_tooltip": "شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەتچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. قوزغىتىلغاندا، شۇئان ۋاقىت خاتىرىلىگۈچ كېيىنكى ناماز ۋاقتى ياكى ئەزان ۋاقتىغىچە كۆرۈنۈپ تۇرىدۇ.",
+    "prayer": "ناماز",
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Shows weather for your location, not the mosque.",
-    "view_360_currently_selected": "360 View is currently selected",
-    "tap_change_layout": "Tap here to change the layout"
+    "weather_your_location": "مەسچىتنىڭ ئەمەس بەلكى ئورنىڭىزنىڭ ھاۋارايىسىنى كۆرسىتىدۇ.",
+    "view_360_currently_selected": "نۆۋەتتە 360 كۆرۈنۈش تاللانغان",
+    "tap_change_layout": "جايلاشتۇرۇشنى ئۆزگەرتىشتە بۇ جاي چېكىلىدۇ"
 }

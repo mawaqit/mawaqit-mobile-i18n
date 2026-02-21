@@ -2081,7 +2081,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get quick_quran_discription =>
-      'Once you open the Quran tab, continue where you left off.';
+      'قۇرئان بەتكۈچنى ئاچسىڭىز، توختىغان جايىدىن داۋاملاشتۇرالايسىز.';
 
   @override
   String get live_activity_tooltip =>

@@ -1841,25 +1841,25 @@ class AppLocalizationsSq extends AppLocalizations {
   String get transliteration => 'Transkriptim';
 
   @override
-  String get highlight_Tahajjud_Time => 'Thekso kohën e Tahaxhudit';
+  String get highlight_Tahajjud_Time => 'Nxjerr në pah kohën e Tahaxhudit';
 
   @override
   String get calendar_access_not_available =>
-      'Nuk është i disponueshëm aksesi në kalendar.';
+      'Qasja në kalendar nuk është e disponueshme.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Ju lutemi lejoni akses në kalendar për të shfaqur ngjarjet tuaja në MAWAQIT 360.';
+      'Ju lutemi lejoni qasjen në kalendar për të shfaqur ngjarjet tuaja në MAWAQIT 360.';
 
   @override
   String get calendar_access_required =>
-      'Aksesi në kalendar është i nevojshëm për të shfaqur ngjarjet tuaja.';
+      'Qasja në kalendar është r nevojshme për të shfaqur ngjarjet tuaja.';
 
   @override
-  String get calendar_allow_access_button => 'Lejo akses në kalendar';
+  String get calendar_allow_access_button => 'Lejo qasjën në kalendar';
 
   @override
-  String get calendar_loading => 'Po ngarkohen kalendarët…';
+  String get calendar_loading => 'Ngarkimi i kalendarëve…';
 
   @override
   String get calendar_select_for_mawaqit =>
@@ -1884,7 +1884,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get calendar_ends_on => 'Mbaron më';
 
   @override
-  String get calendar_events_at_this_time => 'Ngjarje në këtë orar';
+  String get calendar_events_at_this_time => 'Ngjarje në këtë moment';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
@@ -1899,27 +1899,27 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mosque_not_found => 'Xhamia nuk u gjet';
 
   @override
-  String get invalid_mosque_link => 'Lidhje xhamie e pavlefshme';
+  String get invalid_mosque_link => 'Linku i xhamisë është i pavlefshëm';
 
   @override
   String get not_open_mosque_link =>
-      'Nuk mund të hapet kjo lidhje xhamie. Ju lutemi provoni përsëri.';
+      'Nuk mund të hapet ky linku i xhamisë. Ju lutemi provoni përsëri.';
 
   @override
   String get no_calendars_on_this_device =>
       'Nuk u gjetën kalendarë në këtë pajisje.';
 
   @override
-  String get calendar_event_at_this_time => 'Ngjarje në këtë orar';
+  String get calendar_event_at_this_time => 'Ngjarje në këtë moment';
 
   @override
-  String get search_ayah_surah => 'Kërko sipas Ajeti ose Sureje';
+  String get search_ayah_surah => 'Kërko sipas Ajetit ose Surës';
 
   @override
-  String get matching_surahs => 'Suret përputhëse';
+  String get matching_surahs => 'Suret përkatëse';
 
   @override
-  String get matching_ayahs => 'Ajetet përputhëse';
+  String get matching_ayahs => 'Ajetet përkatëse';
 
   @override
   String get live_timer => 'Kohëmatës i drejtpërdrejtë';
@@ -1932,7 +1932,7 @@ class AppLocalizationsSq extends AppLocalizations {
       'Mund të marrë disa sekonda të paraqitet në orën tuaj.';
 
   @override
-  String get eid1 => 'Eid';
+  String get eid1 => 'Bajram';
 
   @override
   String get hide_live_activity_for_prayer =>
