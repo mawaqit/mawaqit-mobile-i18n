@@ -2085,21 +2085,21 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get live_activity_tooltip =>
-      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
+      'شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەتچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. قوزغىتىلغاندا، شۇئان ۋاقىت خاتىرىلىگۈچ كېيىنكى ناماز ۋاقتى ياكى ئەزان ۋاقتىغىچە كۆرۈنۈپ تۇرىدۇ.';
 
   @override
-  String get prayer => 'Prayer';
+  String get prayer => 'ناماز';
 
   @override
   String get weather_fahrenheit => '°F';
 
   @override
   String get weather_your_location =>
-      'Shows weather for your location, not the mosque.';
+      'مەسچىتنىڭ ئەمەس بەلكى ئورنىڭىزنىڭ ھاۋارايىسىنى كۆرسىتىدۇ.';
 
   @override
-  String get view_360_currently_selected => '360 View is currently selected';
+  String get view_360_currently_selected => 'نۆۋەتتە 360 كۆرۈنۈش تاللانغان';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'جايلاشتۇرۇشنى ئۆزگەرتىشتە بۇ جاي چېكىلىدۇ';
 }
