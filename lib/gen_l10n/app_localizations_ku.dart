@@ -1904,7 +1904,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get no_calendars_on_this_device =>
-      'هیچ ڕۆژنامەیەک لەسەر ئەم ئامێرە نەدۆزرایەوە.';
+      'هیچ ساڵنامەیەک لەسەر ئەم ئامێرە نەدۆزرایەوە.';
 
   @override
   String get calendar_event_at_this_time => 'ڕووداو لە ئەم کاتەدا';
@@ -2078,21 +2078,22 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get live_countdown_for_all_pray =>
-      'ژمێرەری ژیندا دەکەوێتە چالاکی بۆ هەموو نوێژەکان، ژمێرەری ماوە بۆ هەر نوێژێکی داهاتوو خۆکارانە پیشان دەدات.';
+      'کاتی ڕوو لەکەمی ڕاستەوخۆ چاڵاک دەبێت بۆ هەموو نوێژەکان، نیشاندانی کات دانانەوە بۆ هەر نوێژەکی داهاتوو خۆکارانەیە.';
 
   @override
   String get live_countdown => 'کاتی ڕوو لەکەمی ڕاستەوخۆ';
 
   @override
-  String get quick_quran_reading_access => 'هاتنی خێرا بۆ خوێندنی قورئان';
+  String get quick_quran_reading_access =>
+      'دەستڕاگەیشتن بە قورئان خوێندنەوەی خێرا';
 
   @override
   String get quick_quran_discription =>
-      'کاتێک خشتەی قوڕئان دەکەیتەوە، لە ئەو شوێنەی بەردەوام بە، کە پێشتر بڕاوتەوە.';
+      'کاتێک قورئانت کردەووە، لەو شوێنە بەردەوام بە کە تێیدا وەستابوویت.';
 
   @override
   String get live_activity_tooltip =>
-      'چالاکییە ڕاستەوخۆکان لەسەر قفلەکەی تێلەفۆن و Dynamic Island دەرکەوتوو دیارن (ئەگەر پاڵپشتی بکرێت). کاتێک چالاک بکرێت، کاتژمێرێکی ڕاستەوخۆ نیشاندەدە کە ماوەی هەتا دەعای نوێ یان ئیقامە.';
+      'چالاکییە ڕاستەوخۆکان لەسەر شاشەی قوفڵ و دوورگەی داینامیکی خۆت دەردەکەون (ئەگەر پشتگیری بکرێت). کاتێک چالاک دەکرێت، نیشاندانی کاتی ڕوو لەکەمی لە کات دانانەوەیەکی ڕاستەوخۆ بۆ نوێژی داهاتوو یان قامەت.';
 
   @override
   String get prayer => 'نوێژ';
@@ -2108,5 +2109,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get view_360_currently_selected => 'دیمەنی ٣٦٠ هەنووکە هەڵبژێردراوە';
 
   @override
-  String get tap_change_layout => 'کرتە بکە لێرە بۆ گۆڕینی شێوەی پێشاندان';
+  String get tap_change_layout => 'پەنجە لێرە بدە بۆ گۆڕینی شێوەی پێشاندان';
 }
