@@ -1913,7 +1913,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get search_ayah_surah => 'گەڕان بە ئایەت یان بە سورەت';
 
   @override
-  String get matching_surahs => 'سورەتەکانی هاوتا';
+  String get matching_surahs => 'سورەتە هاوتاکان';
 
   @override
   String get matching_ayahs => 'ئایەتە هاوتاکان';
@@ -1955,7 +1955,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get examples => 'نمونەکان';
 
   @override
-  String get real_time_weather => 'ئاگاداری کەشوەهاوای ڕاستەوخۆ';
+  String get real_time_weather => 'کەش و هەوای ئێستا';
 
   @override
   String get layout => 'Rêzandin';
@@ -1999,7 +1999,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get analytics_description =>
-      'مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت.';
+      'ڕێگە بە شیکاری کەسی نەناسراو بدە بۆ یارمەتی دانی ئێمە لە باشترکردنی ئەپەکە. زانیاری تایبەتی هەرگیز هاوبەشی پێناکرێت.';
 
   @override
   String get weather_clear => 'پاک';
@@ -2014,10 +2014,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get weather_ash => 'خاکستر';
 
   @override
-  String get weather_dust => 'غوڵ';
+  String get weather_dust => 'تەپ و تۆز';
 
   @override
-  String get weather_sand => 'شگە';
+  String get weather_sand => 'خۆڵبارین';
 
   @override
   String get weather_fog => 'تۆمە';
@@ -2058,7 +2058,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get weather_need_internet =>
-      'ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان.';
+      'ئەم تایبەتمەندیە پێویستی بە هێلی ئینتەرنێتە بۆ دابەزاندنی نوێکاریەکان.';
 
   @override
   String get weather_light_rain => 'نەرمە باران';
@@ -2081,7 +2081,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'ژمێرەری ژیندا دەکەوێتە چالاکی بۆ هەموو نوێژەکان، ژمێرەری ماوە بۆ هەر نوێژێکی داهاتوو خۆکارانە پیشان دەدات.';
 
   @override
-  String get live_countdown => 'ژماردنی زنده';
+  String get live_countdown => 'کاتی ڕوو لەکەمی ڕاستەوخۆ';
 
   @override
   String get quick_quran_reading_access => 'هاتنی خێرا بۆ خوێندنی قورئان';
@@ -2095,7 +2095,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'چالاکییە ڕاستەوخۆکان لەسەر قفلەکەی تێلەفۆن و Dynamic Island دەرکەوتوو دیارن (ئەگەر پاڵپشتی بکرێت). کاتێک چالاک بکرێت، کاتژمێرێکی ڕاستەوخۆ نیشاندەدە کە ماوەی هەتا دەعای نوێ یان ئیقامە.';
 
   @override
-  String get prayer => 'نماز';
+  String get prayer => 'نوێژ';
 
   @override
   String get weather_fahrenheit => '°ف';
