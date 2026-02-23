@@ -2120,4 +2120,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Tik hier om de indeling te wijzigen';
+
+  @override
+  String get step => 'Step';
 }

@@ -2107,4 +2107,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Düzülüşü dəyişmək üçün bura toxunun.';
+
+  @override
+  String get step => 'Step';
 }

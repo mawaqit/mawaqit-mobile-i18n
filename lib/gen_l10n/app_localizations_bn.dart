@@ -2108,4 +2108,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'বিন্যাস পরিবর্তন করতে এখানে ট্যাপ করুন';
+
+  @override
+  String get step => 'Step';
 }

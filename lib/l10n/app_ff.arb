@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Nyaande ɗiɗi gasataa e lewru maa, on ko ɗum gorko masjid.",
     "view_360_currently_selected": "360 Yiyde ena ɗaɗi caɗeele now",
-    "tap_change_layout": "Ndoggol e hoore ngam waylut karallaaji"
+    "tap_change_layout": "Ndoggol e hoore ngam waylut karallaaji",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }

@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Mostra o clima para a sua localização, não para a mesquita.",
     "view_360_currently_selected": "Visualização 360 está atualmente selecionada",
-    "tap_change_layout": "Toque aqui para alterar o layout"
+    "tap_change_layout": "Toque aqui para alterar o layout",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }

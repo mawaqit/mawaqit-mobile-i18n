@@ -2106,4 +2106,7 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Tap here to change the layout';
+
+  @override
+  String get step => 'Step';
 }

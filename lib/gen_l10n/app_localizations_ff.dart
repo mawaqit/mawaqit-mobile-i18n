@@ -2106,4 +2106,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Ndoggol e hoore ngam waylut karallaaji';
+
+  @override
+  String get step => 'Step';
 }

@@ -2128,4 +2128,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Tippen Sie hier, um das Layout zu ändern';
+
+  @override
+  String get step => 'Step';
 }

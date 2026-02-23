@@ -1402,7 +1402,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get favorite_azkar => 'Favorite Azkar';
 
   @override
-  String get all_azkar => 'Все ацкар';
+  String get all_azkar => 'Азкар';
 
   @override
   String get device_audio_not_found => 'Аудио устройства не найдено';
@@ -2107,4 +2107,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Нажмите здесь, чтобы изменить макет';
+
+  @override
+  String get step => 'Step';
 }

@@ -2104,4 +2104,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Dotknij tutaj, aby zmienić układ';
+
+  @override
+  String get step => 'Step';
 }

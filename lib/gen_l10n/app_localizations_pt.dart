@@ -2123,4 +2123,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Toque aqui para alterar o layout';
+
+  @override
+  String get step => 'Step';
 }

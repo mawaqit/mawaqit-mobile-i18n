@@ -2081,25 +2081,28 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get quick_quran_discription =>
-      'Once you open the Quran tab, continue where you left off.';
+      'قۇرئان بەتكۈچنى ئاچسىڭىز، توختىغان جايىدىن داۋاملاشتۇرالايسىز.';
 
   @override
   String get live_activity_tooltip =>
-      'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.';
+      'نەق مەيدان پائالىيەتلىرى قۇلۇپلانغان ئېكران ۋە دىنامىك ئارالدا (قوللىسا) كۆرۈنىدۇ. قوزغىتىلغاندا، نەق مەيدان ۋاقىت سائىتى كېيىنكى ناماز ياكى ئىقامەتكە بولغان ۋاقىتنى كۆرسىتىدۇ.';
 
   @override
-  String get prayer => 'Prayer';
+  String get prayer => 'ناماز';
 
   @override
   String get weather_fahrenheit => '°F';
 
   @override
   String get weather_your_location =>
-      'Shows weather for your location, not the mosque.';
+      'مەسچىتنىڭ ئەمەس بەلكى ئورنىڭىزنىڭ ھاۋارايىسىنى كۆرسىتىدۇ.';
 
   @override
-  String get view_360_currently_selected => '360 View is currently selected';
+  String get view_360_currently_selected => 'نۆۋەتتە 360 كۆرۈنۈش تاللانغان';
 
   @override
-  String get tap_change_layout => 'Tap here to change the layout';
+  String get tap_change_layout => 'جايلاشتۇرۇشنى ئۆزگەرتىشتە بۇ جاي چېكىلىدۇ';
+
+  @override
+  String get step => 'Step';
 }

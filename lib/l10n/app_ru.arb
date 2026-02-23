@@ -973,7 +973,7 @@
     "settings_language_pt": "Португальский",
     "al_zikr": "Аль-Зикр",
     "favorite_azkar": "Favorite Azkar",
-    "all_azkar": "Все ацкар",
+    "all_azkar": "Азкар",
     "device_audio_not_found": "Аудио устройства не найдено",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Показывает погоду для вашего местоположения, а не для мечети.",
     "view_360_currently_selected": "Вид 360 выбран в данный момент",
-    "tap_change_layout": "Нажмите здесь, чтобы изменить макет"
+    "tap_change_layout": "Нажмите здесь, чтобы изменить макет",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }

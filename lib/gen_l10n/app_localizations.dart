@@ -4111,6 +4111,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Tap here to change the layout'**
   String get tap_change_layout;
+
+  /// -> step
+  ///
+  /// In en, this message translates to:
+  /// **'Step'**
+  String get step;
 }
 
 class _AppLocalizationsDelegate

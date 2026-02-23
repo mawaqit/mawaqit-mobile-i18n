@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Mostra il meteo per la tua posizione, non per la moschea.",
     "view_360_currently_selected": "Vista 360 attualmente selezionata",
-    "tap_change_layout": "Tocca qui per cambiare il layout"
+    "tap_change_layout": "Tocca qui per cambiare il layout",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }
