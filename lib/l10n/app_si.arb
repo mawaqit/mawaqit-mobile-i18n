@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Shows weather for your location, not the mosque.",
     "view_360_currently_selected": "360 View is currently selected",
-    "tap_change_layout": "Tap here to change the layout"
+    "tap_change_layout": "Tap here to change the layout",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }
