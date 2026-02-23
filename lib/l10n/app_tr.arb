@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Konumunuz için hava durumunu gösterir.",
     "view_360_currently_selected": "360 Görünümü şu anda seçili",
-    "tap_change_layout": "Düzeni değiştirmek için buraya dokunun"
+    "tap_change_layout": "Düzeni değiştirmek için buraya dokunun",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }
