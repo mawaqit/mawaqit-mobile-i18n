@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Menampilkan cuaca untuk lokasi Anda, bukan masjid.",
     "view_360_currently_selected": "Tampilan 360 sedang dipilih",
-    "tap_change_layout": "Ketuk di sini untuk mengubah tata letak"
+    "tap_change_layout": "Ketuk di sini untuk mengubah tata letak",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }
