@@ -2109,4 +2109,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'लेआउट बदलने के लिए यहां टैप करें.';
+
+  @override
+  String get step => 'Step';
 }

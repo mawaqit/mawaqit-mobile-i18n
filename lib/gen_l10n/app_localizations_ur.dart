@@ -2105,4 +2105,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'لے آؤٹ تبدیل کرنے کے لیے یہاں ٹیپ کریں';
+
+  @override
+  String get step => 'Step';
 }

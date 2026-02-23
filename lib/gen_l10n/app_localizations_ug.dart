@@ -2085,7 +2085,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get live_activity_tooltip =>
-      'شۇئان پائالىيەت قۇلۇپ ئېكرانىڭىز ۋە ھەرىكەتچان ئارال (ئەگەر قوللىسا) دا كۆرۈنىدۇ. قوزغىتىلغاندا، شۇئان ۋاقىت خاتىرىلىگۈچ كېيىنكى ناماز ۋاقتى ياكى ئەزان ۋاقتىغىچە كۆرۈنۈپ تۇرىدۇ.';
+      'نەق مەيدان پائالىيەتلىرى قۇلۇپلانغان ئېكران ۋە دىنامىك ئارالدا (قوللىسا) كۆرۈنىدۇ. قوزغىتىلغاندا، نەق مەيدان ۋاقىت سائىتى كېيىنكى ناماز ياكى ئىقامەتكە بولغان ۋاقىتنى كۆرسىتىدۇ.';
 
   @override
   String get prayer => 'ناماز';
@@ -2102,4 +2102,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'جايلاشتۇرۇشنى ئۆزگەرتىشتە بۇ جاي چېكىلىدۇ';
+
+  @override
+  String get step => 'Step';
 }

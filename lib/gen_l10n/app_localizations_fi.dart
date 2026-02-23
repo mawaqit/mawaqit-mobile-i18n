@@ -2108,4 +2108,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Napauta tästä vaihtaaksesi asettelua';
+
+  @override
+  String get step => 'Step';
 }

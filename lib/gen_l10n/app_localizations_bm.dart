@@ -2105,4 +2105,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Fɔlɔ yɛrɛw ka bɛɛle la fɛ';
+
+  @override
+  String get step => 'Step';
 }

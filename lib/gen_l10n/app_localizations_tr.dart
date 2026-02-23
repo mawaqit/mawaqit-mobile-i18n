@@ -2098,4 +2098,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Düzeni değiştirmek için buraya dokunun';
+
+  @override
+  String get step => 'Step';
 }

@@ -2112,4 +2112,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Prek këtu për të ndryshuar pamjen';
+
+  @override
+  String get step => 'Step';
 }

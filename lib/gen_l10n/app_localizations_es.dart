@@ -2127,4 +2127,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Toca aquí para cambiar el diseño';
+
+  @override
+  String get step => 'Step';
 }

@@ -2107,4 +2107,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Нажмите здесь, чтобы изменить макет';
+
+  @override
+  String get step => 'Step';
 }

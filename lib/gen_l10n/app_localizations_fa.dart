@@ -2104,4 +2104,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'برای تغییر طرح اینجا را لمس کنید';
+
+  @override
+  String get step => 'Step';
 }

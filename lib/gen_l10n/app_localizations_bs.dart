@@ -2108,4 +2108,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Dodirnite ovdje da promijenite raspored';
+
+  @override
+  String get step => 'Step';
 }

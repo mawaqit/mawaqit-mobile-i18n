@@ -2113,4 +2113,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Докоснете тук, за да промените изгледа';
+
+  @override
+  String get step => 'Step';
 }

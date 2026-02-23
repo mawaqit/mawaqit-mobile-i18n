@@ -2111,4 +2111,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Koppintson ide az elrendezés módosításához';
+
+  @override
+  String get step => 'Step';
 }

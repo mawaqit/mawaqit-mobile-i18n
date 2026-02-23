@@ -2107,4 +2107,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'Ketuk di sini untuk mengubah tata letak';
+
+  @override
+  String get step => 'Step';
 }

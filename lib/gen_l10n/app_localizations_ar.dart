@@ -2078,4 +2078,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get tap_change_layout => 'اضغط هنا لتغيير نمط العرض';
+
+  @override
+  String get step => 'Step';
 }
