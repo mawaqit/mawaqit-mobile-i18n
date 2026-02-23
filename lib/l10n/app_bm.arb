@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "Ka ban ka fɛnɛ siranyɛ so, a bɛ bɔ yere la, o tɛ bɔ misiriko la.",
     "view_360_currently_selected": "360 Zanw ye don filɛ",
-    "tap_change_layout": "Fɔlɔ yɛrɛw ka bɛɛle la fɛ"
+    "tap_change_layout": "Fɔlɔ yɛrɛw ka bɛɛle la fɛ",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }
