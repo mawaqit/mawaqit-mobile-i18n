@@ -1324,5 +1324,9 @@
     },
     "weather_your_location": "يعرض حالة الطقس لموقعك، وليس لمسجدك.",
     "view_360_currently_selected": "عرض 360 محدد حالياً",
-    "tap_change_layout": "اضغط هنا لتغيير نمط العرض"
+    "tap_change_layout": "اضغط هنا لتغيير نمط العرض",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    }
 }
