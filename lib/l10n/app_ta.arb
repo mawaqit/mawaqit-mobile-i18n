@@ -1335,5 +1335,6 @@
     "ayah_number": "Ayah Number",
     "enter_ayah _num": "Enter Ayah num",
     "ayah_num_greater_zero": "Ayah number must be greater than 0",
-    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah"
+    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
+    "update_page": "Update page"
 }
