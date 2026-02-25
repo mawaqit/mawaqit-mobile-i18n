@@ -1333,8 +1333,8 @@
     "select_surah": "সূরা নির্বাচন করুন",
     "please_select_surah": "অনুগ্রহ করে একটি সূরা নির্বাচন করুন",
     "ayah_number": "আয়াত নম্বর",
-    "enter_ayah _num": "আয়াত নম্বর লিখুন",
     "ayah_num_greater_zero": "আয়াত নম্বর ০-এর বেশি হতে হবে",
     "ayah_number_exceeds_max": "এই সূরার জন্য আয়াত নম্বর সর্বোচ্চ সীমা অতিক্রম করেছে",
-    "update_page": "পৃষ্ঠা আপডেট করুন"
+    "update_page": "পৃষ্ঠা আপডেট করুন",
+    "enter_ayah_num": "আয়াত নম্বর লিখুন"
 }
