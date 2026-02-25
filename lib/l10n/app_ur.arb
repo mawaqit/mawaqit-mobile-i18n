@@ -1335,5 +1335,6 @@
     "ayah_number": "آیت نمبر",
     "enter_ayah _num": "آیت نمبر درج کریں",
     "ayah_num_greater_zero": "آیت نمبر 0 سے بڑا ہونا چاہیے",
-    "ayah_number_exceeds_max": "اس سورہ کے لیے آیت نمبر حد سے زیادہ ہے"
+    "ayah_number_exceeds_max": "اس سورہ کے لیے آیت نمبر حد سے زیادہ ہے",
+    "update_page": "صفحہ اپڈیٹ کریں"
 }
