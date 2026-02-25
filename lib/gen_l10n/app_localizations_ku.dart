@@ -1906,16 +1906,16 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get no_calendars_on_this_device =>
-      'هیچ ڕۆژنامەیک نەدۆزرایەوە لەم ئامێرەدا.';
+      'هیچ ساڵنامەیەک لەسەر ئەم ئامێرە نەدۆزرایەوە.';
 
   @override
   String get calendar_event_at_this_time => 'چالاکی لە ئەم کاتەدا';
 
   @override
-  String get search_ayah_surah => 'گەڕان بە ئایەت یان سۆرە';
+  String get search_ayah_surah => 'گەڕان بە ئایەت یان بە سورەت';
 
   @override
-  String get matching_surahs => 'سۆرەی هاوشێوە';
+  String get matching_surahs => 'سورەتە هاوتاکان';
 
   @override
   String get matching_ayahs => 'ئایەتی هاوشێوە';
@@ -1931,11 +1931,11 @@ class AppLocalizationsKu extends AppLocalizations {
       'لەوانەیە چەند چرکەیەک ببێتەوەی كە لەسەر کاتژمێرەکەت پیشان بدرێت.';
 
   @override
-  String get eid1 => 'جێژنی عید';
+  String get eid1 => 'جەژن';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'چالاکی ڕاستەوخۆ بشارەوە تەنها بۆ ئەم نوێژە';
+      'چالاکی ڕاستەوخۆتەنها بۆ ئەم نوێژە بشارەوە';
 
   @override
   String get settings => 'ڕێکخستنەکان';
@@ -1982,26 +1982,26 @@ class AppLocalizationsKu extends AppLocalizations {
   String get tahajjud_time => 'کاتی تەهەجود';
 
   @override
-  String get last_third => 'سێیه‌می دواهەمەوە';
+  String get last_third => 'سێیەکی شەو';
 
   @override
-  String get midnight => 'نێوەشەو';
+  String get midnight => 'نیوە شەو';
 
   @override
   String get failed_to_update => 'نوێکردنەوە سەرکەوتوو نەبوو.';
 
   @override
-  String get tap_to_retry => 'بگرە بۆ هەوڵدانەوە';
+  String get tap_to_retry => 'پەنجەی لێبدە بۆ هەوڵدانەوە';
 
   @override
-  String get support_mawaqit_association => 'پشتیوانی لە یەکگرتووەی مواقيت';
+  String get support_mawaqit_association => 'پشتگیری لە دەستەی مواقيت بکە';
 
   @override
   String get help_improve_mawaqit => 'یارمەتی پەرەپێدانی مواقيت بدە';
 
   @override
   String get analytics_description =>
-      'مۆڵەت بە دانیشانی بەناوی نەناس بدە بۆ یارمەتیدانی باشترکردنی ئەپەکە. هیچ زانیاری تایبەتی نەدەكرێت. هەرگیز پەخش ناكرێت.';
+      'ڕێگە بە شیکاری کەسی نەناسراو بدە بۆ یارمەتی دانی ئێمە لە باشترکردنی ئەپەکە. زانیاری تایبەتی هەرگیز هاوبەشی پێناکرێت.';
 
   @override
   String get weather_clear => 'پاک';
@@ -2013,28 +2013,28 @@ class AppLocalizationsKu extends AppLocalizations {
   String get weather_tornado => 'توفانە';
 
   @override
-  String get weather_ash => 'خاکستر';
+  String get weather_ash => 'خۆڵەمێش';
 
   @override
-  String get weather_dust => 'غوڵ';
+  String get weather_dust => 'تەپ و تۆز';
 
   @override
-  String get weather_sand => 'شگە';
+  String get weather_sand => 'خۆڵبارین';
 
   @override
-  String get weather_fog => 'تۆمە';
+  String get weather_fog => 'تەم و مژ';
 
   @override
-  String get weather_haze => 'لەوت';
+  String get weather_haze => 'تەم و تومان';
 
   @override
-  String get weather_smoke => 'دووکە';
+  String get weather_smoke => 'دووکەڵ';
 
   @override
   String get weather_mist => 'هەور';
 
   @override
-  String get weather_snow => 'بەرف';
+  String get weather_snow => 'بەفر';
 
   @override
   String get weather_rain =>
@@ -2056,14 +2056,14 @@ class AppLocalizationsKu extends AppLocalizations {
   String get animated_background => 'پاشبنەمای جوڵاو';
 
   @override
-  String get weather => 'ئاوەهەوا ';
+  String get weather => 'کەش و هەوا';
 
   @override
   String get weather_need_internet =>
-      'ئەم تایبەتمەندیە پێویستی بە پەیوەندی اینترنتی هەیە بۆ دابەزاندنی نوێکاریەکان.';
+      'ئەم تایبەتمەندیە پێویستی بە هێلی ئینتەرنێتە بۆ دابەزاندنی نوێکاریەکان.';
 
   @override
-  String get weather_light_rain => 'بارانی سووک';
+  String get weather_light_rain => 'نەرمە باران';
 
   @override
   String get edit => 'دەستکاری';
@@ -2080,24 +2080,25 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get live_countdown_for_all_pray =>
-      'Gerahejîna zindî dê ji bo hemû nimêjan çalak be û ji bo her nimêja nêzîkî bi awayekî xweber demjimêr nîşan bide.';
+      'کاتی ڕوو لەکەمی ڕاستەوخۆ چاڵاک دەبێت بۆ هەموو نوێژەکان، نیشاندانی کات دانانەوە بۆ هەر نوێژەکی داهاتوو خۆکارانەیە.';
 
   @override
-  String get live_countdown => 'Gerahejîna Zindî';
+  String get live_countdown => 'کاتی ڕوو لەکەمی ڕاستەوخۆ';
 
   @override
-  String get quick_quran_reading_access => 'هاتنی خێرا بۆ خوێندنی قورئان';
+  String get quick_quran_reading_access =>
+      'دەستڕاگەیشتن بە قورئان خوێندنەوەی خێرا';
 
   @override
   String get quick_quran_discription =>
-      'کاتێک خشتەی قوڕئان دەکەیتەوە، لە ئەو شوێنەی بەردەوام بە، کە پێشتر بڕاوتەوە.';
+      'کاتێک قورئانت کردەووە، لەو شوێنە بەردەوام بە کە تێیدا وەستابوویت.';
 
   @override
   String get live_activity_tooltip =>
-      'چالاکییە ڕاستەوخۆکان لەسەر قفلەکەی تێلەفۆن و Dynamic Island دەرکەوتوو دیارن (ئەگەر پاڵپشتی بکرێت). کاتێک چالاک بکرێت، کاتژمێرێکی ڕاستەوخۆ نیشاندەدە کە ماوەی هەتا دەعای نوێ یان ئیقامە.';
+      'چالاکییە ڕاستەوخۆکان لەسەر شاشەی قوفڵ و دوورگەی داینامیکی خۆت دەردەکەون (ئەگەر پشتگیری بکرێت). کاتێک چالاک دەکرێت، نیشاندانی کاتی ڕوو لەکەمی لە کات دانانەوەیەکی ڕاستەوخۆ بۆ نوێژی داهاتوو یان قامەت.';
 
   @override
-  String get prayer => 'نماز';
+  String get prayer => 'نوێژ';
 
   @override
   String get weather_fahrenheit => '°ف';
@@ -2110,8 +2111,33 @@ class AppLocalizationsKu extends AppLocalizations {
   String get view_360_currently_selected => 'دیمەنی ٣٦٠ هەنووکە هەڵبژێردراوە';
 
   @override
-  String get tap_change_layout => 'کرتە بکە لێرە بۆ گۆڕینی شێوەی پێشاندان';
+  String get tap_change_layout => 'پەنجە لێرە بدە بۆ گۆڕینی شێوەی پێشاندان';
 
   @override
   String get step => 'Step';
+
+  @override
+  String get jump_to_page => 'بڕۆ بۆ لاپەڕە';
+
+  @override
+  String get select_surah => 'سورە هەڵبژێرە';
+
+  @override
+  String get please_select_surah => 'تکایە سورەیەک هەڵبژێرە';
+
+  @override
+  String get ayah_number => 'ژمارەی ئایەت';
+
+  @override
+  String get ayah_num_greater_zero => 'ژمارەی ئایەت دەبێت لە 0 گەورەتر بێت';
+
+  @override
+  String get ayah_number_exceeds_max =>
+      'ژمارەی ئایەت بۆ ئەم سورەیە لە سنووری زۆرترین تێدەپەڕێت';
+
+  @override
+  String get update_page => 'لاپەڕە نوێ بکەرەوە';
+
+  @override
+  String get enter_ayah_num => 'ژمارەی ئایەت بنووسە';
 }

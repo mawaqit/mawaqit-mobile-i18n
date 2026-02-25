@@ -1328,5 +1328,13 @@
     "step": "Step",
     "@step": {
         "description": "-> step"
-    }
+    },
+    "jump_to_page": "صفحہ پر جائیں",
+    "select_surah": "سورہ منتخب کریں",
+    "please_select_surah": "براہ کرم ایک سورہ منتخب کریں",
+    "ayah_number": "آیت نمبر",
+    "ayah_num_greater_zero": "آیت نمبر 0 سے بڑا ہونا چاہیے",
+    "ayah_number_exceeds_max": "اس سورہ کے لیے آیت نمبر حد سے زیادہ ہے",
+    "update_page": "صفحہ اپڈیٹ کریں",
+    "enter_ayah_num": "آیت نمبر درج کریں"
 }

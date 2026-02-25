@@ -2108,4 +2108,29 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get step => 'Step';
+
+  @override
+  String get jump_to_page => 'صفحہ پر جائیں';
+
+  @override
+  String get select_surah => 'سورہ منتخب کریں';
+
+  @override
+  String get please_select_surah => 'براہ کرم ایک سورہ منتخب کریں';
+
+  @override
+  String get ayah_number => 'آیت نمبر';
+
+  @override
+  String get ayah_num_greater_zero => 'آیت نمبر 0 سے بڑا ہونا چاہیے';
+
+  @override
+  String get ayah_number_exceeds_max =>
+      'اس سورہ کے لیے آیت نمبر حد سے زیادہ ہے';
+
+  @override
+  String get update_page => 'صفحہ اپڈیٹ کریں';
+
+  @override
+  String get enter_ayah_num => 'آیت نمبر درج کریں';
 }

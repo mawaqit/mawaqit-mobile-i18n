@@ -2111,4 +2111,29 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get step => 'Step';
+
+  @override
+  String get jump_to_page => 'পৃষ্ঠায় যান';
+
+  @override
+  String get select_surah => 'সূরা নির্বাচন করুন';
+
+  @override
+  String get please_select_surah => 'অনুগ্রহ করে একটি সূরা নির্বাচন করুন';
+
+  @override
+  String get ayah_number => 'আয়াত নম্বর';
+
+  @override
+  String get ayah_num_greater_zero => 'আয়াত নম্বর ০-এর বেশি হতে হবে';
+
+  @override
+  String get ayah_number_exceeds_max =>
+      'এই সূরার জন্য আয়াত নম্বর সর্বোচ্চ সীমা অতিক্রম করেছে';
+
+  @override
+  String get update_page => 'পৃষ্ঠা আপডেট করুন';
+
+  @override
+  String get enter_ayah_num => 'আয়াত নম্বর লিখুন';
 }
