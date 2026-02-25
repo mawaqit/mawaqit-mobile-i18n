@@ -1328,5 +1328,13 @@
     "step": "Step",
     "@step": {
         "description": "-> step"
-    }
+    },
+    "jump_to_page": "Jump to page",
+    "select_surah": "Select Surah",
+    "please_select_surah": "Please select a surah",
+    "ayah_number": "Ayah Number",
+    "enter_ayah _num": "Enter Ayah num",
+    "ayah_num_greater_zero": "Ayah number must be greater than 0",
+    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
+    "update_page": "Update page"
 }
