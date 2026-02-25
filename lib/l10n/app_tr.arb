@@ -1335,5 +1335,6 @@
     "ayah_number": "Ayet Numarası",
     "enter_ayah _num": "Ayet numarasını girin",
     "ayah_num_greater_zero": "Ayet numarası 0’dan büyük olmalıdır",
-    "ayah_number_exceeds_max": "Bu sure için ayet numarası maksimumu aşıyor"
+    "ayah_number_exceeds_max": "Bu sure için ayet numarası maksimumu aşıyor",
+    "update_page": "Sayfayı Güncelle"
 }
