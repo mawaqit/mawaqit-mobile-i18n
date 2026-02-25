@@ -2105,4 +2105,29 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get step => 'Step';
+
+  @override
+  String get jump_to_page => 'Jump to page';
+
+  @override
+  String get select_surah => 'Select Surah';
+
+  @override
+  String get please_select_surah => 'Please select a surah';
+
+  @override
+  String get ayah_number => 'Ayah Number';
+
+  @override
+  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+
+  @override
+  String get ayah_number_exceeds_max =>
+      'Ayah number exceeds maximum for this surah';
+
+  @override
+  String get update_page => 'Update page';
+
+  @override
+  String get enter_ayah_num => 'Enter Ayah num';
 }

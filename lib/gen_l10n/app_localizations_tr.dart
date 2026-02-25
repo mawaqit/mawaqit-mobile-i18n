@@ -2101,4 +2101,29 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get step => 'Step';
+
+  @override
+  String get jump_to_page => 'Sayfaya Git';
+
+  @override
+  String get select_surah => 'Sure Seç';
+
+  @override
+  String get please_select_surah => 'Lütfen bir sure seçin';
+
+  @override
+  String get ayah_number => 'Ayet Numarası';
+
+  @override
+  String get ayah_num_greater_zero => 'Ayet numarası 0’dan büyük olmalıdır';
+
+  @override
+  String get ayah_number_exceeds_max =>
+      'Bu sure için ayet numarası maksimumu aşıyor';
+
+  @override
+  String get update_page => 'Sayfayı Güncelle';
+
+  @override
+  String get enter_ayah_num => 'Ayet numarasını girin';
 }

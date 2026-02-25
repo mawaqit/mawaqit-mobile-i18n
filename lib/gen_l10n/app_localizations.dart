@@ -4117,6 +4117,54 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Step'**
   String get step;
+
+  /// No description provided for @jump_to_page.
+  ///
+  /// In en, this message translates to:
+  /// **'Jump to page'**
+  String get jump_to_page;
+
+  /// No description provided for @select_surah.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Surah'**
+  String get select_surah;
+
+  /// No description provided for @please_select_surah.
+  ///
+  /// In en, this message translates to:
+  /// **'Please select a surah'**
+  String get please_select_surah;
+
+  /// No description provided for @ayah_number.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayah Number'**
+  String get ayah_number;
+
+  /// No description provided for @ayah_num_greater_zero.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayah number must be greater than 0'**
+  String get ayah_num_greater_zero;
+
+  /// No description provided for @ayah_number_exceeds_max.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayah number exceeds maximum for this surah'**
+  String get ayah_number_exceeds_max;
+
+  /// No description provided for @update_page.
+  ///
+  /// In en, this message translates to:
+  /// **'Update page'**
+  String get update_page;
+
+  /// No description provided for @enter_ayah_num.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter Ayah num'**
+  String get enter_ayah_num;
 }
 
 class _AppLocalizationsDelegate
