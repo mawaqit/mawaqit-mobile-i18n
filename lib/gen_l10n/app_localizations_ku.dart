@@ -1928,7 +1928,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get take_time_appear_watch =>
-      'لەوانەیە چەند چرکەیەک ببێتەوەی كە لەسەر کاتژمێرەکەت پیشان بدرێت.';
+      'لەوانەیە چەند چرکەیەک بخایەنێت بۆ دەرکەوتن لەکاتژمێرەکەت.';
 
   @override
   String get eid1 => 'جەژن';
@@ -1948,7 +1948,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'یاساکانی تەجوید بە ڕەنگ نیشانکراون بۆ تلاوەتی دروست';
+      'یاساکانی تەجویدی ڕەنگدار بۆ خوێندنەوەی ڕاست';
 
   @override
   String get tajwid_rules => 'یاساکانی تەجوید';
@@ -2031,29 +2031,28 @@ class AppLocalizationsKu extends AppLocalizations {
   String get weather_smoke => 'دووکەڵ';
 
   @override
-  String get weather_mist => 'هەور';
+  String get weather_mist => 'خوناو';
 
   @override
   String get weather_snow => 'بەفر';
 
   @override
-  String get weather_rain =>
-      'باران‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎نیوی ';
+  String get weather_rain => 'باران';
 
   @override
-  String get weather_drizzle => 'خەریک باران';
+  String get weather_drizzle => 'نەرمە باران';
 
   @override
-  String get weather_thunderstorm => 'بەردەوامی تۆڕەکە';
+  String get weather_thunderstorm => 'ڕەشەبا';
 
   @override
-  String get weather_squall => 'بەرف و بافرێ';
+  String get weather_squall => 'بایەکی لەناکاو';
 
   @override
   String get weather_celsius => '°C';
 
   @override
-  String get animated_background => 'پاشبنەمای جوڵاو';
+  String get animated_background => 'پاشبنەمای جولاو';
 
   @override
   String get weather => 'کەش و هەوا';
@@ -2105,7 +2104,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get weather_your_location =>
-      'ئاوەشینی شوێنەکەت پیشان دەدات، نە شوێنی مەسجیدەکە.';
+      'کەش و هەوا بۆ شوێنەکەت نیشان دەدات نەک مزگەوت.';
 
   @override
   String get view_360_currently_selected => 'دیمەنی ٣٦٠ هەنووکە هەڵبژێردراوە';
@@ -2114,7 +2113,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get tap_change_layout => 'پەنجە لێرە بدە بۆ گۆڕینی شێوەی پێشاندان';
 
   @override
-  String get step => 'Step';
+  String get step => 'هەنگاو';
 
   @override
   String get jump_to_page => 'بڕۆ بۆ لاپەڕە';
@@ -2126,10 +2125,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get please_select_surah => 'تکایە سورەیەک هەڵبژێرە';
 
   @override
-  String get ayah_number => 'ژمارەی ئایەت';
+  String get ayah_number => 'Hejmara Ayetê';
 
   @override
-  String get ayah_num_greater_zero => 'ژمارەی ئایەت دەبێت لە 0 گەورەتر بێت';
+  String get ayah_num_greater_zero => 'Hejmara ayetê divê ji 0 mezintir be';
 
   @override
   String get ayah_number_exceeds_max =>
