@@ -2138,7 +2138,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get jump_to_page => 'Jump to page';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Sélectionner une sourat';
 
   @override
   String get please_select_surah => 'Please select a surah';
