@@ -2104,30 +2104,31 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tap_change_layout => 'جايلاشتۇرۇشنى ئۆزگەرتىشتە بۇ جاي چېكىلىدۇ';
 
   @override
-  String get step => 'Step';
+  String get step => 'قەدەم';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'بەتكە يۆتكەل';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'سۈرە تاللىنىدۇ';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'بىر سۈرە تاللاڭ';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'ئايەت نومۇرى';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero =>
+      'ئايەت نومۇرى چوقۇم 0 دىن چوڭ بولۇشى كېرەك';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'ئايەت نومۇرى بۇ سۈرىدىكى ئەڭ يۇقىرى ئايەت نومۇرىدىن ئېشىپ كەتتى';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'بەتنى يېڭىلا';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'ئايەت نومۇرى كىرگۈزۈلىدۇ';
 }

@@ -2116,27 +2116,28 @@ class AppLocalizationsHu extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Ugrás az oldalra';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Sura kiválasztása';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Kérjük, válasszon egy szúrát';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Ája száma';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero =>
+      'Az ája számának nagyobbnak kell lennie 0-nál';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'Az ája száma meghaladja a maximális értéket ennél a szúránál';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Oldal frissítése';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Adja meg az ája számát';
 }

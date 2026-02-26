@@ -2120,7 +2120,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get please_select_surah => 'Please select a surah';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Ayah number';
 
   @override
   String get ayah_num_greater_zero => 'Ayah number must be greater than 0';

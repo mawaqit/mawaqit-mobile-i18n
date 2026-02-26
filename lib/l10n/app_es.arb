@@ -1329,12 +1329,12 @@
     "@step": {
         "description": "-> step"
     },
-    "jump_to_page": "Jump to page",
-    "select_surah": "Select Surah",
-    "please_select_surah": "Please select a surah",
-    "ayah_number": "Ayah Number",
-    "ayah_num_greater_zero": "Ayah number must be greater than 0",
-    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
-    "update_page": "Update page",
-    "enter_ayah_num": "Enter Ayah num"
+    "jump_to_page": "Ir a la página",
+    "select_surah": "Seleccionar sura",
+    "please_select_surah": "Por favor, seleccione una sura",
+    "ayah_number": "Número del versículo",
+    "ayah_num_greater_zero": "El número del versículo debe ser mayor que 0",
+    "ayah_number_exceeds_max": "El número del versículo supera el máximo de esta sura",
+    "update_page": "Actualizar página",
+    "enter_ayah_num": "ngrese el número del versículo"
 }

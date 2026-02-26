@@ -4139,7 +4139,7 @@ abstract class AppLocalizations {
   /// No description provided for @ayah_number.
   ///
   /// In en, this message translates to:
-  /// **'Ayah Number'**
+  /// **'Ayah number'**
   String get ayah_number;
 
   /// No description provided for @ayah_num_greater_zero.

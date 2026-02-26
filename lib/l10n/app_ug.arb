@@ -1325,16 +1325,16 @@
     "weather_your_location": "مەسچىتنىڭ ئەمەس بەلكى ئورنىڭىزنىڭ ھاۋارايىسىنى كۆرسىتىدۇ.",
     "view_360_currently_selected": "نۆۋەتتە 360 كۆرۈنۈش تاللانغان",
     "tap_change_layout": "جايلاشتۇرۇشنى ئۆزگەرتىشتە بۇ جاي چېكىلىدۇ",
-    "step": "Step",
+    "step": "قەدەم",
     "@step": {
         "description": "-> step"
     },
-    "jump_to_page": "Jump to page",
-    "select_surah": "Select Surah",
-    "please_select_surah": "Please select a surah",
-    "ayah_number": "Ayah Number",
-    "ayah_num_greater_zero": "Ayah number must be greater than 0",
-    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
-    "update_page": "Update page",
-    "enter_ayah_num": "Enter Ayah num"
+    "jump_to_page": "بەتكە يۆتكەل",
+    "select_surah": "سۈرە تاللىنىدۇ",
+    "please_select_surah": "بىر سۈرە تاللاڭ",
+    "ayah_number": "ئايەت نومۇرى",
+    "ayah_num_greater_zero": "ئايەت نومۇرى چوقۇم 0 دىن چوڭ بولۇشى كېرەك",
+    "ayah_number_exceeds_max": "ئايەت نومۇرى بۇ سۈرىدىكى ئەڭ يۇقىرى ئايەت نومۇرىدىن ئېشىپ كەتتى",
+    "update_page": "بەتنى يېڭىلا",
+    "enter_ayah_num": "ئايەت نومۇرى كىرگۈزۈلىدۇ"
 }

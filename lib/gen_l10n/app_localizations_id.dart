@@ -2112,27 +2112,27 @@ class AppLocalizationsId extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Lompat ke halaman';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Pilih surah';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Silakan pilih surah';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Nomor ayat';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero => 'Nomor ayat harus lebih dari 0';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'Nomor ayat melebihi batas maksimum untuk surah ini';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Perbarui halaman';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Masukkan nomor ayat';
 }
