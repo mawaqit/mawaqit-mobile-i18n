@@ -1329,12 +1329,12 @@
     "@step": {
         "description": "-> step"
     },
-    "jump_to_page": "Jump to page",
-    "select_surah": "Select Surah",
-    "please_select_surah": "Please select a surah",
-    "ayah_number": "Ayah Number",
-    "ayah_num_greater_zero": "Ayah number must be greater than 0",
-    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
-    "update_page": "Update page",
-    "enter_ayah_num": "Enter Ayah num"
+    "jump_to_page": "Перейти на страницу",
+    "select_surah": "Выберите суру",
+    "please_select_surah": "Пожалуйста, выберите суру",
+    "ayah_number": "Номер аята",
+    "ayah_num_greater_zero": "Номер аята должен быть больше 0",
+    "ayah_number_exceeds_max": "Номер аята превышает максимальное значение для этой суры",
+    "update_page": "Обновить страницу",
+    "enter_ayah_num": "Введите номер аята"
 }
