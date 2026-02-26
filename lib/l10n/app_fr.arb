@@ -1330,7 +1330,7 @@
         "description": "-> step"
     },
     "jump_to_page": "Jump to page",
-    "select_surah": "Select Surah",
+    "select_surah": "Sélectionner une sourat",
     "please_select_surah": "Please select a surah",
     "ayah_number": "Ayah Number",
     "ayah_num_greater_zero": "Ayah number must be greater than 0",
