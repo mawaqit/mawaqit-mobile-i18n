@@ -2113,27 +2113,27 @@ class AppLocalizationsBs extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Idi na stranicu';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Odaberite suru';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Molimo odaberite suru';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Broj ajeta';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero => 'Broj ajeta mora biti veći od 0';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'Broj ajeta prelazi maksimalnu vrijednost za ovu suru';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Ažuriraj stranicu';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Unesite broj ajeta';
 }

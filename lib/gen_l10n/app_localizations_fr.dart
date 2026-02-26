@@ -2135,27 +2135,28 @@ class AppLocalizationsFr extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Aller à la page';
 
   @override
   String get select_surah => 'Sélectionner une sourat';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Veuillez sélectionner une sourate';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Numéro du verset';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero =>
+      'Le numéro du verset doit être supérieur à 0';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'Le numéro du verset dépasse le maximum pour cette sourate';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Mettre à jour la page';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Saisir le numéro du verset';
 }

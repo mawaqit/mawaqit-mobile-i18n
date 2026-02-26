@@ -2128,27 +2128,28 @@ class AppLocalizationsPt extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Ir para a página';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Selecionar sura';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Por favor, selecione uma sura';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Número do versículo';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero =>
+      'O número do versículo deve ser maior que 0';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'O número do versículo excede o máximo para esta sura';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Atualizar página';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Introduza o número do versículo';
 }

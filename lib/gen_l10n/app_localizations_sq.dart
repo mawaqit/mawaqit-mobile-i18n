@@ -2117,27 +2117,28 @@ class AppLocalizationsSq extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Shko te faqja';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Zgjidh suren';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Ju lutemi zgjidhni një sure';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Numri i ajetit';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero =>
+      'Numri i ajetit duhet të jetë më i madh se 0';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'Numri i ajetit tejkalon kufirin maksimal për këtë sure';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Përditëso faqen';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Fut numrin e ajetit';
 }

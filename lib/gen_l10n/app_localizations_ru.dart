@@ -2112,27 +2112,27 @@ class AppLocalizationsRu extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Перейти на страницу';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Выберите суру';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Пожалуйста, выберите суру';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Номер аята';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero => 'Номер аята должен быть больше 0';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'Номер аята превышает максимальное значение для этой суры';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Обновить страницу';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Введите номер аята';
 }
