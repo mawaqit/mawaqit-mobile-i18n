@@ -60,12 +60,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12 سائەت",
+    "settings_TimeFormat12H": "12H",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24 سائەت",
+    "settings_TimeFormat24H": "24H",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
@@ -137,12 +137,12 @@
         "description": "_",
         "type": "text"
     },
-    "duhr": "پىشىن",
+    "duhr": "كۈن چىقىش",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "ئەسر",
+    "asr": "ئەسىر",
     "@asr": {
         "description": "_",
         "type": "text"
@@ -152,12 +152,12 @@
         "description": "_",
         "type": "text"
     },
-    "isha": "خۇفتەن",
+    "isha": "خۇپتەن",
     "@isha": {
         "description": "_",
         "type": "text"
     },
-    "sabah": "سەھەر",
+    "sabah": "سۈبھى",
     "settings_PrayerNotification_NoNotification": "نۆۋەتتە سىز بۇ نامازنى ئەسكەرتمەسلىكنى تەڭشىگەن.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -261,7 +261,7 @@
     "virtual_mosque": "تەقلىدىي مەسچىت",
     "no_mosque_in_selected_area": "تاللىغان جايدىن ھېچقانداق مەسچىتنى تاپالمىدى",
     "no_mosque_with": "ھېچقانداق مەسچىتنى تاپالمىدى",
-    "retry": "قايتا سىناڭ",
+    "retry": "قايتا سىنا",
     "search_here": "بۇ جايدىن ئىزدە",
     "enter_at_least_3_char": "ئىزدىگەندە كەم دېگەندە 3 ھەرپ كىرگۈزۈلىدۇ",
     "jumua1": "1-جۈمە",
@@ -441,12 +441,12 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "دا",
+    "in_": "كېيىن",
     "@in_": {
         "description": "_",
         "type": "text"
     },
-    "imsak": "زولۇق",
+    "imsak": "زوھۇر",
     "@imsak": {
         "description": "_",
         "type": "text"
@@ -541,7 +541,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرۇشتا يېڭى ئۇسۇل تەمىنلەيدىغان ئېكولوگىيەلىك سىستېما، قولىڭىزدىكى بۇ ئەپ مەزكۇر ئېكولوگىيەلىك سىستېمىنىڭ بىر قىسمى، ئۇ سىزنىڭ مەسچىت ئىزدەپ، ئۇنىڭ خەۋەر ۋە ناماز ۋاقتىغا ئەگىشىشىڭىزگە يول قويىدۇ",
+    "onboarding_text_2": "مەۋاقىت سىزگە ناماز ۋاقتىنى ئىزلاپ ۋە باشقۇرۇشتا يېڭى ئۇسۇل تەمىنلەيدىغان ئېكولوگىيەلىك سىستېما، قولىڭىزدىكى بۇ ئەپ مەزكۇر ئېكولوگىيەلىك سىستېمىنىڭ بىر قىسمى، ئۇ سىزنىڭ مەسچىت ئىزدەپ، ئۇنىڭ خەۋەر ۋە ناماز ۋاقتىغا ئەگىشىشىڭىزگە يول قويىدۇ",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
@@ -811,7 +811,7 @@
     "downloading_quran": "قۇرئاننى چۈشۈرۈۋاتىدۇ…",
     "processing": "بىر تەرەپ قىلىۋاتىدۇ…",
     "copied_to_clipboard": "چاپلاش تاختىڭىزغا كۆچۈرۈلدى!",
-    "download_quran_popup_title": "ئاخىرقى ئوقۇغان ۋاقىت",
+    "download_quran_popup_title": "آخری ٹچ اپس",
     "download_quran_popup_downloading_1": "بىز قۇرئان بەتلىرىنى چۈشۈرۈشىمىز كېرەك، ئۇنىڭغا بىر قانچە سېكۇنت كېتىدۇ. تېلېفونىڭىزنىڭ كۆچمە سانلىق مەلۇمات ئېقىمىنى ئىشلىتىمىز، ئەگەر زۆرۈر بولسا Wi-Fi غا ئالماشتۇرۇڭ.",
     "download_quran_popup_downloading_2": "قۇرئاننى سىز ئۈچۈن تەييارلاۋاتىمىز، بىر قانچە سېكۇنت كۈتۈڭ!",
     "download_quran_popup_downloading_3": "«چۈشۈر» نى چېكىپ ئوقۇش ۋە ئەسلەش سەپىرىڭىزنى باشلاڭ.",
@@ -901,7 +901,7 @@
     "no_bookmarks": "خەتكۈش يوق",
     "liked": "ياقتۇرغان",
     "all_recitators": "بارلىق قارىلار",
-    "downloaded": "چۈشۈردى",
+    "downloaded": "چۈشۈرۈلدى",
     "search_for_recitator": "قارى ئىزدەيدۇ",
     "search_for_surah": "سۈرە ئىزدەيدۇ",
     "search_for_fav_recitator": "ياقتۇرىدىغان قارى ئىزدەيدۇ",
@@ -952,11 +952,11 @@
     "prayer_times_by_location": "ئورۇن ئاساسىدىكى ناماز ۋاقتى",
     "already_in_list": "تىزىمىڭىزدا بار!",
     "got_it": "بىلدىم!",
-    "mushaf_warsh": "تەجۋىدلىك قۇرئان (ۋەرش)",
+    "mushaf_warsh": "تەجۋىدلىك قۇرئان (ۋارش)",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
-    "mushaf_hafs": "تەجۋىدلىك قۇرئان (ھەفزە)",
+    "mushaf_hafs": "تەجۋىدلىك قۇرئان (ھافز)",
     "@mushaf_hafs": {
         "description": "-> mushaf_hafs"
     },
@@ -1032,9 +1032,9 @@
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "MAWAQIT نى ياخشىلاش قۇرۇلۇشىنىڭ ئاخىرقى يېڭىلىنىشى ھەققىدىكى ئۇقتۇرۇشىغا ئېرىشىڭ",
+    "notified_boost": "مەۋاقىتنى ياخشىلاش قۇرۇلۇشىنىڭ ئاخىرقى يېڭىلىنىشى ھەققىدىكى ئۇقتۇرۇشىغا ئېرىشىڭ.",
     "contact_us_boost": "قۇرۇلۇشىڭىزنى بۇ جايدا كۆرسىتىش ئۈچۈن، بىلەن بىلەن ئالاقىلىشىڭ",
-    "prayer_times_set_by_mosque": "بۇ جايدىكى ناماز ۋاقتى ۋە باشقا بارلىق ئۇچۇرنى MAWAQIT ئەمەس بەلكى مەسچىت تەڭشەيدۇ",
+    "prayer_times_set_by_mosque": "بۇ جايدىكى ناماز ۋاقتى ۋە باشقا بارلىق ئۇچۇرنى مەۋاقىت ئەمەس بەلكى مەسچىت تەڭشەيدۇ",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
@@ -1087,14 +1087,254 @@
     "minshawi": "ئەل مىنشاۋى",
     "abdulbasit": "ئابدۇلباسىت ئابدۇلسەمەد",
     "abdulbasit_mujawwad": "ئابدۇلباسىت (مۇجاۋۋاد)",
-    "ghamdi": "سەئدى ئەل غامىدى",
+    "ghamdi": "سائاد ئەل غەمدى",
     "dosari": "ياسىر ئەل دوسارى",
     "shatri": "ئەبۇ بەكر ئەششاترى",
     "tunaiji": "خالىفە ئەل تۇنايجى",
     "sudais": "ئابدۇلراھمان ئەلسۇدەيس",
     "tablawi": "مۇھەممەد ئەل تابلاۋى",
+    "abdul_rashid_ali_sufi": "ئابدۇل راشىد ئەلى سۇفى",
+    "abdullaah_ajuhaynee_murattal": "ئابدۇللاھ ئاجۇخەينې",
+    "abdullaah_basfar_murattal": "ئابدۇللاھ باسفار",
+    "abdullah_matroud_murattal": "ئابدۇللاھ مەترود",
+    "ahmed_al_ajamy_murattal": "ئەخمەد ئەل ئەجەمى",
+    "ahmed_neana_murattal": "ئەھمەد نېئانا",
+    "akram_alaqimy_murattal": "ئەكرەم ئەلئاقىمى",
+    "ali_hajjaj_suesy_murattal": "ئەلى ھەججاج سۇئېسى",
+    "ali_jaber_murattal": "ئەلى جابېر",
+    "ayman_sowaid_murattal": "ئايمان سوۋەئىد",
+    "aziz_alii_murattal": "ئەزىز ئالىئى",
+    "fares_abbad_murattal": "فارېس ئابباد",
+    "hudhaify_murattal": "ھۇدھەيفى",
+    "husary_muallim": "ھۇسارى (مۇئەللىم)",
+    "ibrahim_akhdar_murattal": "ئىبراھىم ئاقدار",
+    "khaalid_qahataanee_murattal": "خالىد قاخاتانې",
+    "khalid_al_mohanna": "خالىد ئەل موھاننا",
+    "mahmoud_ali_al_banna_murattal": "مەھمۇد ئەلى ئەل باننا",
+    "minshawy_mujawwad": "مىنشاۋى (مۇجاۋۋاد)",
+    "mohammad_rashad_alshareef": "مۇھەممەد راشاد ئەلشارېف",
+    "muhammad_abdulKareem_murattal": "مۇھەممەد ئابدۇل كەرېم",
+    "muhammad_ayyoub_murattal": "مۇھەممەد ئەييۇب",
+    "muhammad_jibreel_murattal": "مۇھەممەد جىبرېل",
+    "muhsin_al_qasim_murattal": "مۇھسىن ئەل قاسىم",
+    "nabil_rifai3_murattal": "نەبىل رىفائى",
+    "nasser_alqatami_murattal": "ناسىر ئەلقاتامى",
+    "sahl_yassin_murattal": "سەھل ياسىن",
+    "salaah_abdulRahman_bukhatir_murattal": "سالاھ ئابدۇلراھمان بۇخاتىر",
+    "salah_albudair_murattal": "سالاھ ئەلبۇدىر",
+    "tawfeeq_assayegh": "تەۋفىق ئەسسايىغ",
+    "yaser_salamah_murattal": "ياسېر سالاماھ",
+    "yassin_aljazairi": "ياسىن ئەل جەزائىرى",
+    "mohammed_abdelkarim": "مۇھەممەد ئابدىلكەرىم",
+    "alayoun_elkouchi": "ئەلئەيۇن ئەلكوشى",
+    "abdelkarim_daghoush": "ئابدېلكەرىم داغۇش",
     "murattal": "مۇراتتال",
     "mujawwad": "مۇجاۋۋاد",
     "moallim": "ئەلمۇسشاف ئەل موللىن",
-    "play": "قوي"
+    "play": "ياڭرات",
+    "playback_settings": "ياڭرىتىش تەڭشىكى",
+    "from": "باشلىنىش",
+    "to": "ئاخىرلىشىش",
+    "range": "دائىرە",
+    "select_starting_verse": "باشلىنىش ئايىتى تاللىنىدۇ",
+    "select_ending_verse": "ئاخىرلىشىش ئايىتى تاللىنىدۇ",
+    "range_repeat": "تەكرارلايدىغان دائىرە",
+    "verse_repeat": "ئايەتنى تەكرارلا",
+    "improved_Hafs_Rewaya_Force_Update": "ھافىز رىۋايىتىنى ياخشىلىدۇق. تەپسىرنى ھازىر چۈشۈرۈپ ۋە خالىغان ئايەتنى ئۇزۇن بېسىپ قىرائىتىنى ئاڭلاڭ",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "ناماز ۋاقتىنىڭ يېڭى جانلاندۇرۇم سائەتتە قانداق ھەرىكەتلىنىدىغانلىقىنى كۆرۈڭ",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "360 كۆرۈنۈشنى ئىشلەتكەندە بۇ تەڭشەكنى تاقىيالمايسىز",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "مەۋاقىت 360 (سىناق)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 تەڭشەك",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "مەشغۇلات",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "كېيىنكى ناماز",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "ھەممىسى يېپىلدى",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "تەۋسىيە: كېيىنكى نامازلا",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "شۇئان ئالدىن كۆزىتىش",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "ئادەتتىكى",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "چوڭ",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "ھەممىسى ئېچىلدى",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "خەت چوڭلۇقى",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "كېچىنىڭ ئاخىرقى ئۈچتىن بىرى",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "قارى ئەمىنۇددىن مۇھەممەد",
+    "hafs_an_asim": "تەجۋىدلىك قۇرئان قارى ئەن ئاسىن",
+    "most_widespread_riwayah": "دۇنياغا ئەڭ كەڭ تارقالغان رىۋايەت",
+    "warsh_an_nafi": "تەجۋىدلىك قۇرئان ۋارش ۋە نەفى",
+    "popular_across_north_west_africa": "شىمالىي ۋە غەربىي ئافرىقىدا كەڭ تارقالغان",
+    "select": "تاللىنىدۇ",
+    "unknown_smartwatch": "نامەلۇم ئەقىللىق سائەت",
+    "connected_watch": "ئۇلانغان سائەت",
+    "ready_play_watch": "سائىتىڭىزدا قويۇشقا تەييار",
+    "transliteration": "تەرجىمىسى",
+    "highlight_Tahajjud_Time": "تەھەججۇد ۋاقتىنى يورۇتىدۇ",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "يىلنامە ئىجازىتىنى ئىشلەتكىلى بولمايدۇ.",
+    "calendar_allow_access_mawaqit": "مەۋاقىت 360 تا يىلنامەدىكى پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن ئىجازەت بېرىڭ.",
+    "calendar_access_required": "پائالىيەتلىرىڭىزنى كۆرسىتىش ئۈچۈن يىلنامە زىيارەت ئىجازىتى زۆرۈر.",
+    "calendar_allow_access_button": "يىلنامە ئىجازىتىگە يول قوي",
+    "calendar_loading": "يىلنامە يۈكلەۋاتىدۇ…",
+    "calendar_select_for_mawaqit": "سىز مەۋاقىت 360 تا كۆرسەتمەكچى بولغان يىلنامەنى تاللاڭ.",
+    "calendar_enable_all": "ھەممىنى قوزغات",
+    "calendar_disable_all": "ھەممىنى چەكلە",
+    "calendar_other_calendars": "باشقا يىلنامە",
+    "calendar_times_shown_in": "كۆرسىتىلگەن ۋاقىت",
+    "calendar_starts_on": "باشلىنىش ۋاقتى",
+    "calendar_ends_on": "ئاخىرلىشىش ۋاقتى",
+    "calendar_events_at_this_time": "بۇ ۋاقىتتىكى پائالىيەت",
+    "hamza_roberto_piccardo": "ھەمزە روبېرتو پىككاردو",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "بۇ مەسچىتنى مەۋاقىت ئەپتە ئاچىدۇ",
+    "mosque_name": "مەسچىت ئىسمى",
+    "mosque_not_found": "مەسچىتنى تاپالمىدى",
+    "invalid_mosque_link": "مەسچىت ئۇلانمىسى ئىناۋەتسىز",
+    "not_open_mosque_link": "بۇ مەسچىت ئۇلانمىسىنى ئاچالمىدى. قايتا سىناڭ.",
+    "no_calendars_on_this_device": "بۇ ئۈسكۈنىدە ھېچقانداق يىلنامە بايقالمىدى.",
+    "calendar_event_at_this_time": "بۇ ۋاقىتتىكى پائالىيەت",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "ئايەت ياكى سۈرە بويىچە ئىزدەيدۇ",
+    "matching_surahs": "ماس كەلگەن سۈرە",
+    "matching_ayahs": "ماس كەلگەن ئايەت",
+    "live_timer": "نەق مەيدان ۋاقىت سانىغۇچ",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "ئالدىن ئۇقتۇرۇش",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "سائىتىڭىزدە كۆرۈنۈشكە بىر قانچە سېكۇنت كېتىشى مۇمكىن.",
+    "eid1": "ھېيت",
+    "hide_live_activity_for_prayer": "بۇ نامازغىلا شۇئان پائالىيەتنى يوشۇر",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "تەڭشەك",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "زىكىر",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "قۇرئان تەجۋىد",
+    "tajweed_description": "رەڭ كودى قوشۇلغان تەجۋىد قائىدىسى توغرا يادلىشىڭىزغا ياردەم بېرىدۇ",
+    "tajwid_rules": "تەجۋىد قائىدىسى",
+    "examples": "مەسىلەن",
+    "real_time_weather": "شۇئان ھاۋارايى",
+    "layout": "جايلاشتۇرۇش",
+    "list": "تىزىم",
+    "grid": "شادا",
+    "real_time_weather_needs_internet": "شۇئان ھاۋارايى يېڭىلىنىشنى چۈشۈرۈش ئۈچۈن ئىنتېرنېت باغلىنىشىغا ئېھتىياجلىق.",
+    "view_detail": "تەپسىلاتىنى كۆرسەت",
+    "temperature": "تېمپېراتۇرا",
+    "tahajjud_time": "تەھەججۇد ۋاقتى",
+    "last_third": "ئاخىرقى ئۈچتىن بىرى",
+    "midnight": "يېرىم كېچە",
+    "failed_to_update": "يېڭىلىيالمىدى.",
+    "tap_to_retry": "قايتا سىناش ئۈچۈن چېكىلىدۇ",
+    "support_mawaqit_association": "مەۋاقىت جامائىتىنى قوللاش",
+    "help_improve_mawaqit": "مەۋاقىتنى ياخشىلاشقا ياردەملىشىڭ",
+    "analytics_description": "ئەپنى ياخشىلاشقا ياردەملىشىش ئۈچۈن ئاتسىز قوللىنىش تەھلىلىگە يول قويىدۇ. ھېچقانداق شەخسىي ئۇچۇر يوق. ھەرگىز ھەمبەھىرلەنمەيدۇ.",
+    "weather_clear": "ئوچۇق",
+    "weather_clouds": "بۇلۇتلۇق",
+    "weather_tornado": "قارا قۇيۇن",
+    "weather_ash": "كۈل",
+    "weather_dust": "چاڭ-توزان",
+    "weather_sand": "قۇم",
+    "weather_fog": "تۇمان",
+    "weather_haze": "سۇس تۇمان",
+    "weather_smoke": "ئىس",
+    "weather_mist": "سۇس تۇمان",
+    "weather_snow": "قار",
+    "weather_rain": "يامغۇر",
+    "weather_drizzle": "سىم-سىم يامغۇر",
+    "weather_thunderstorm": "گۈلدۈرمامىلىق يامغۇر",
+    "weather_squall": "قارا بوران",
+    "weather_celsius": "°C",
+    "animated_background": "ھەرىكەتچان تەگلىك",
+    "weather": "ھاۋا رايى",
+    "weather_need_internet": "بۇ ئىقتىدار يېڭىلاشنى چۈشۈرۈش ئۈچۈن ئىنتېرنېت باغلىنىشىغا ئېھتىياجلىق.",
+    "weather_light_rain": "سۇس يامغۇر",
+    "edit": "تەھرىر",
+    "iqama_countdown": "قىيام سانىقى",
+    "next_prayer_countdown": "شۇئان پائالىيەت ھەمىشە ئوچۇق",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "كېيىنكى ناماز",
+    "live_countdown_for_all_pray": "شۇئان سانىقى ھەممە نامازغا ئاكتىپ بولۇشى مۇمكىن، كېيىنكى ناماز ۋاقتى ئۈچۈن ساناقنى ئۆزلۈكىدىن كۆرسىتىدۇ.",
+    "live_countdown": "شۇئان سانىقى",
+    "quick_quran_reading_access": "تېز قۇرئان ئوقۇش ئىجازىتى",
+    "quick_quran_discription": "قۇرئان بەتكۈچنى ئاچسىڭىز، توختىغان جايىدىن داۋاملاشتۇرالايسىز.",
+    "live_activity_tooltip": "نەق مەيدان پائالىيەتلىرى قۇلۇپلانغان ئېكران ۋە دىنامىك ئارالدا (قوللىسا) كۆرۈنىدۇ. قوزغىتىلغاندا، نەق مەيدان ۋاقىت سائىتى كېيىنكى ناماز ياكى ئىقامەتكە بولغان ۋاقىتنى كۆرسىتىدۇ.",
+    "prayer": "ناماز",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "مەسچىتنىڭ ئەمەس بەلكى ئورنىڭىزنىڭ ھاۋارايىسىنى كۆرسىتىدۇ.",
+    "view_360_currently_selected": "نۆۋەتتە 360 كۆرۈنۈش تاللانغان",
+    "tap_change_layout": "جايلاشتۇرۇشنى ئۆزگەرتىشتە بۇ جاي چېكىلىدۇ",
+    "step": "قەدەم",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "بەتكە يۆتكەل",
+    "select_surah": "سۈرە تاللىنىدۇ",
+    "please_select_surah": "بىر سۈرە تاللاڭ",
+    "ayah_number": "ئايەت نومۇرى",
+    "ayah_num_greater_zero": "ئايەت نومۇرى چوقۇم 0 دىن چوڭ بولۇشى كېرەك",
+    "ayah_number_exceeds_max": "ئايەت نومۇرى بۇ سۈرىدىكى ئەڭ يۇقىرى ئايەت نومۇرىدىن ئېشىپ كەتتى",
+    "update_page": "بەتنى يېڭىلا",
+    "enter_ayah_num": "ئايەت نومۇرى كىرگۈزۈلىدۇ"
 }

@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al-Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al-Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al-Ajami",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alili",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (lerarenstijl)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Khalid Qahataanee",
+    "khalid_al_mohanna": "Khalid Al-Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmoud Ali Al-Banna",
+    "minshawy_mujawwad": "Minshawy (Mujawwad)",
+    "mohammad_rashad_alshareef": "Mohammad Rashad Al-Shareef",
+    "muhammad_abdulKareem_murattal": "Muhammad Abdul Kareem",
+    "muhammad_ayyoub_murattal": "Muhammad Ayyoub",
+    "muhammad_jibreel_murattal": "Muhammad Jibreel",
+    "muhsin_al_qasim_murattal": "Abdul Muhsin Al-Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasser Alqatami",
+    "sahl_yassin_murattal": "Sahl Yassin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salah AbdulRahman Bukhatir",
+    "salah_albudair_murattal": "Salah Al-Budair",
+    "tawfeeq_assayegh": "Tawfeeq Assayegh",
+    "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Daghoush",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "De onderwijzende Mushaf",
-    "play": "Afspelen"
+    "play": "Afspelen",
+    "playback_settings": "Afspeelinstellingen",
+    "from": "Van",
+    "to": "Tot",
+    "range": "Bereik",
+    "select_starting_verse": "Selecteer beginvers",
+    "select_ending_verse": "Selecteer eindvers",
+    "range_repeat": "Bereik herhalen",
+    "verse_repeat": "Vers herhalen",
+    "improved_Hafs_Rewaya_Force_Update": "We hebben uw Hafs Rewaya verbeterd. Download nu om Tafsir te ontdekken en naar overwegingen te luisteren door op een Ayah te klikken",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "Zie hoe de gebedstijden tot leven komen met onze nieuwe geanimeerde klok",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "Tijdens het gebruik van de 360-weergave kunt u deze instelling niet uitschakelen",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 instellingen",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Gedrag",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Volgende gebed",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Alle gesloten",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Aanbevolen: Volgende gebed enkel",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live voorbeeld",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "normaal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "groot",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "Alles open",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Laatste derde van de nacht",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Sjeik Aminuddin Mohammed",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "De meest verspreide recitatie wereldwijd",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Populair in Noord- en West-Afrika",
+    "select": "Selecteren",
+    "unknown_smartwatch": "Onbekende smartwatch",
+    "connected_watch": "Verbonden horloge",
+    "ready_play_watch": "is klaar om op je horloge te spelen",
+    "transliteration": "Translitteratie",
+    "highlight_Tahajjud_Time": "Markeer de Tahajjud Tijd",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "Kalender toegang is niet beschikbaar.",
+    "calendar_allow_access_mawaqit": "Geef a.u.b. toegang tot uw afspraken op MAWAQIT 360.",
+    "calendar_access_required": "Kalender heeft toegang nodig om je afspraken te tonen.",
+    "calendar_allow_access_button": "Agenda-toegang toestaan",
+    "calendar_loading": "Kalenders laden…",
+    "calendar_select_for_mawaqit": "Selecteer de kalenders die u wilt weergeven op MAWAQIT 360.",
+    "calendar_enable_all": "Alles inschakelen",
+    "calendar_disable_all": "Alles uitschakelen",
+    "calendar_other_calendars": "Andere kalenders",
+    "calendar_times_shown_in": "Tijden getoond in",
+    "calendar_starts_on": "Begint op",
+    "calendar_ends_on": "Eindigt op",
+    "calendar_events_at_this_time": "Gebeurtenissen op dit moment",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Open deze moskee in MAWAQIT app",
+    "mosque_name": "Moskee naam",
+    "mosque_not_found": "Moskee niet gevonden",
+    "invalid_mosque_link": "Ongeldige moske-link",
+    "not_open_mosque_link": "Kan deze moske-link niet openen. Probeer het opnieuw.",
+    "no_calendars_on_this_device": "Geen kalenders gevonden op dit apparaat.",
+    "calendar_event_at_this_time": "Evenement op dit moment",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Zoek op Ayah of Surah",
+    "matching_surahs": "Overeenkomende Surahs",
+    "matching_ayahs": "Overeenkomende Ayahs",
+    "live_timer": "Live Timer",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Vooraf melden",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Het kan enkele seconden duren voordat je op je horloge verschijnt.",
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Verberg enkel live activiteit voor dit gebed",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Instellingen",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Koran Tajwīd",
+    "tajweed_description": "Gekleurde tajbreedde regels voor correcte recitatie",
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Voorbeelden",
+    "real_time_weather": "Real-Time Weer",
+    "layout": "Indeling",
+    "list": "Klantenlijst",
+    "grid": "Rooster",
+    "real_time_weather_needs_internet": "Real-time weer heeft een internetverbinding nodig om updates te downloaden.",
+    "view_detail": "Details bekijken",
+    "temperature": "Temperatuur",
+    "tahajjud_time": "Tijd Tahajjud",
+    "last_third": "Laatste derde deel",
+    "midnight": "Minuit",
+    "failed_to_update": "Bijwerken mislukt.",
+    "tap_to_retry": "Tik om opnieuw te proberen",
+    "support_mawaqit_association": "Steun de MAWAQIT-vereniging",
+    "help_improve_mawaqit": "Help MAWAQIT verbeteren",
+    "analytics_description": "Sta anonieme gebruiksanalyse toe om ons te helpen de app te verbeteren. Geen persoonlijke gegevens. Wordt nooit gedeeld.",
+    "weather_clear": "Helder",
+    "weather_clouds": "Wolken",
+    "weather_tornado": "Tornado",
+    "weather_ash": "As",
+    "weather_dust": "Stof",
+    "weather_sand": "Zand",
+    "weather_fog": "Mist",
+    "weather_haze": "Nevel",
+    "weather_smoke": "Rook",
+    "weather_mist": "Damp",
+    "weather_snow": "Sneeuw",
+    "weather_rain": "Regen",
+    "weather_drizzle": "Motregen",
+    "weather_thunderstorm": "Onweer",
+    "weather_squall": "Windstoot",
+    "weather_celsius": "°C",
+    "animated_background": "Geanimeerde achtergrond",
+    "weather": "Weerbeheer",
+    "weather_need_internet": "Voor deze functie is een internetverbinding nodig om updates te downloaden.",
+    "weather_light_rain": "Lichte regen",
+    "edit": "Bewerken",
+    "iqama_countdown": "Iqama aftellen",
+    "next_prayer_countdown": "Live Activiteit altijd aan",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Volgend gebed",
+    "live_countdown_for_all_pray": "Live aftellen is actief voor alle gebeden en toont automatisch een timer voor elk aankomend gebed.",
+    "live_countdown": "Live aftellen",
+    "quick_quran_reading_access": "Snelle toegang tot de Koranlezen",
+    "quick_quran_discription": "Wanneer je het Quran-tabblad opent, ga verder waar je was gebleven.",
+    "live_activity_tooltip": "Live-activiteiten verschijnen op je vergrendelscherm en Dynamic Island (indien ondersteund). Wanneer ingeschakeld, toont een live timer de aftelling tot het volgende gebed of de iqama.",
+    "prayer": "Gebed",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Toont het weer voor jouw locatie, niet de moskee.",
+    "view_360_currently_selected": "360-weergave is momenteel geselecteerd",
+    "tap_change_layout": "Tik hier om de indeling te wijzigen",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Ga naar pagina",
+    "select_surah": "Selecteer een soera",
+    "please_select_surah": "Selecteer alstublieft een soera",
+    "ayah_number": "Versnummer",
+    "ayah_num_greater_zero": "Het versnummer moet groter zijn dan 0",
+    "ayah_number_exceeds_max": "Het versnummer overschrijdt het maximum voor deze soera",
+    "update_page": "Pagina bijwerken",
+    "enter_ayah_num": "Voer versnummer in"
 }

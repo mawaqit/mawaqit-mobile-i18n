@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al‑Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al‑Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullaah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al Ajamy",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alii",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (Mu'allim)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Khaalid Qahataanee",
+    "khalid_al_mohanna": "Khalid Al Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmoud Ali Al Banna",
+    "minshawy_mujawwad": "Minshawy (Mujawwad)",
+    "mohammad_rashad_alshareef": "Mohammad Rashad Alshareef",
+    "muhammad_abdulKareem_murattal": "Muhammad Abdul Kareem",
+    "muhammad_ayyoub_murattal": "Muhammad Ayyoub",
+    "muhammad_jibreel_murattal": "Muhammad Jibreel",
+    "muhsin_al_qasim_murattal": "Muhsin Al Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasser Alqatami",
+    "sahl_yassin_murattal": "Sahl Yassin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salaah AbdulRahman Bukhatir",
+    "salah_albudair_murattal": "Salah AlBudair",
+    "tawfeeq_assayegh": "Tawfeeq Assayegh",
+    "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Daghoush",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Lejátszási beállítások",
+    "from": "Tól",
+    "to": "Ig",
+    "range": "Tartomány",
+    "select_starting_verse": "Válassza ki a kezdő verset",
+    "select_ending_verse": "Válassza ki a záró verset",
+    "range_repeat": "Tartomány megismétlése",
+    "verse_repeat": "Vers megismétlése",
+    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Settings",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Behavior",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Next prayer",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "All closed",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommended: Next prayer only",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Preview",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "All open",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Sejk Aminuddin Mohamed",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "A világon legelterjedtebb riwāyah",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Népszerű Észak- és Nyugat-Afrikában",
+    "select": "Válasszon",
+    "unknown_smartwatch": "Ismeretlen okosóra",
+    "connected_watch": "Csatlakoztatott óra",
+    "ready_play_watch": "Csatlakoztatott óra",
+    "transliteration": "Transzliteráció",
+    "highlight_Tahajjud_Time": "Tahajjud idő kiemelése",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "A naptár elérés nem elérhető.",
+    "calendar_allow_access_mawaqit": "Kérjük, engedélyezze a naptár hozzáférést, hogy eseményei megjelenjenek a MAWAQIT 360-ban.",
+    "calendar_access_required": "Naptár hozzáférés szükséges az események megjelenítéséhez.",
+    "calendar_allow_access_button": "Naptár hozzáférés engedélyezése",
+    "calendar_loading": "Naptárak betöltése…",
+    "calendar_select_for_mawaqit": "Válassza ki, mely naptárakat szeretné megjeleníteni a MAWAQIT 360-ban.",
+    "calendar_enable_all": "Összes engedélyezése",
+    "calendar_disable_all": "Összes letiltása",
+    "calendar_other_calendars": "Egyéb naptárak",
+    "calendar_times_shown_in": "Az időpontok megjelenítése ebben:",
+    "calendar_starts_on": "Kezdete:",
+    "calendar_ends_on": "Vége:",
+    "calendar_events_at_this_time": "Események ebben az időpontban",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Nyissa meg ezt a mecsetet a MAWAQIT alkalmazásban",
+    "mosque_name": "Mecset neve",
+    "mosque_not_found": "Mecset nem található",
+    "invalid_mosque_link": "Érvénytelen mecsethivatkozás",
+    "not_open_mosque_link": "Nem sikerült megnyitni ezt a mecset hivatkozást. Kérjük, próbálja meg újra.",
+    "no_calendars_on_this_device": "Nem található naptár ezen az eszközön.",
+    "calendar_event_at_this_time": "Esemény ebben az időpontban",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Keresés ája vagy szúra szerint",
+    "matching_surahs": "Megfelelő szúrák",
+    "matching_ayahs": "Megfelelő áják",
+    "live_timer": "Élő időzítő",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Értesíts előre",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Néhány másodpercbe telhet, amíg megjelenik az óráján.",
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Élő tevékenység elrejtése csak ehhez az imához",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Beállítások",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkár",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Korán Tadzsvíd",
+    "tajweed_description": "Színkódolt tadzsíd-szabályok a helyes recitáláshoz",
+    "tajwid_rules": "Tadzsíd szabályok",
+    "examples": "Példák",
+    "real_time_weather": "Valós idejű időjárás",
+    "layout": "Elrendezés",
+    "list": "Lista",
+    "grid": "Rács",
+    "real_time_weather_needs_internet": "A valós idejű időjárás internetkapcsolatot igényel a frissítések letöltéséhez.",
+    "view_detail": "Részletek megtekintése",
+    "temperature": "Hőmérséklet",
+    "tahajjud_time": "Tahajjud idő",
+    "last_third": "Utolsó harmad",
+    "midnight": "Tengah Malam",
+    "failed_to_update": "Sikertelen frissítés.",
+    "tap_to_retry": "Koppintson az újrapróbáláshoz",
+    "support_mawaqit_association": "Támogassa a MAWAQIT Egyesületet",
+    "help_improve_mawaqit": "Segítsen fejleszteni a MAWAQIT-ot",
+    "analytics_description": "Engedélyezze névtelen használatelemzést, hogy fejleszthessük az alkalmazást. Személyes adatokat nem gyűjtünk. Soha nem osztjuk meg.",
+    "weather_clear": "Derült idő",
+    "weather_clouds": "Felhők",
+    "weather_tornado": "Tornádó",
+    "weather_ash": "Hamu",
+    "weather_dust": "Por",
+    "weather_sand": "Homok",
+    "weather_fog": "Köd",
+    "weather_haze": "Pára",
+    "weather_smoke": "Füst",
+    "weather_mist": "Pára",
+    "weather_snow": "Hó",
+    "weather_rain": "Eső",
+    "weather_drizzle": "Szitálás",
+    "weather_thunderstorm": "Zivatar",
+    "weather_squall": "Viharos szél",
+    "weather_celsius": "°C",
+    "animated_background": "Animált háttér",
+    "weather": "Időjárás",
+    "weather_need_internet": "Ez a funkció internetkapcsolatot igényel a frissítések letöltéséhez.",
+    "weather_light_rain": "Enyhe eső",
+    "edit": "Szerkesztés",
+    "iqama_countdown": "Iqáma visszaszámlálás",
+    "next_prayer_countdown": "Élő tevékenység mindig bekapcsolva",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Következő ima",
+    "live_countdown_for_all_pray": "Az élő visszaszámláló minden imához aktív lesz, és automatikusan megjeleníti az időzítőt a soron következő imára.",
+    "live_countdown": "Élő visszaszámlálás",
+    "quick_quran_reading_access": "Gyors Korán-olvasás elérés",
+    "quick_quran_discription": "Amint megnyitod a Korán lapot, ott folytathatod, ahol abbahagytad.",
+    "live_activity_tooltip": "Az Élő Tevékenységek megjelennek a zárolási képernyőn és a Dynamic Island-en (ha elérhető). Bekapcsolva egy élő visszaszámláló mutatja a következő ima vagy iqama idejét.",
+    "prayer": "Imádság",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Az időjárást a saját helyzeténél mutatja, nem a mecsetnél.",
+    "view_360_currently_selected": "A 360 nézet jelenleg ki van választva.",
+    "tap_change_layout": "Koppintson ide az elrendezés módosításához",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Ugrás az oldalra",
+    "select_surah": "Sura kiválasztása",
+    "please_select_surah": "Kérjük, válasszon egy szúrát",
+    "ayah_number": "Ája száma",
+    "ayah_num_greater_zero": "Az ája számának nagyobbnak kell lennie 0-nál",
+    "ayah_number_exceeds_max": "Az ája száma meghaladja a maximális értéket ennél a szúránál",
+    "update_page": "Oldal frissítése",
+    "enter_ayah_num": "Adja meg az ája számát"
 }

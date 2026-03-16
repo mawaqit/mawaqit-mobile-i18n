@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al‑Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al‑Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullah Axhuhajni",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matrudi",
+    "ahmed_al_ajamy_murattal": "Ahmed Al-Axhami",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alakimi",
+    "ali_hajjaj_suesy_murattal": "Ali Haxhaxh Suesi",
+    "ali_jaber_murattal": "Ali Xhabeer",
+    "ayman_sowaid_murattal": "Ajman Suveid",
+    "aziz_alii_murattal": "Aziz Alili",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudejfi",
+    "husary_muallim": "Husary (stil mësimor)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Halid Kahtani",
+    "khalid_al_mohanna": "Halid Al-Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmud Ali Al-Benna",
+    "minshawy_mujawwad": "Minshawi (Muxhevvad)",
+    "mohammad_rashad_alshareef": "Muhamed Rashad Al-Sharif",
+    "muhammad_abdulKareem_murattal": "Muhamed Abdulkerim",
+    "muhammad_ayyoub_murattal": "Muhamed Ajub",
+    "muhammad_jibreel_murattal": "Muhamed Xhibril",
+    "muhsin_al_qasim_murattal": "Abdul Muhsin Al-Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Naser Al-Katami",
+    "sahl_yassin_murattal": "Sahl Jasin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salah Abdulrahman Bukhatir",
+    "salah_albudair_murattal": "Salah Al-Budeir",
+    "tawfeeq_assayegh": "Tawfik As-Sajeg",
+    "yaser_salamah_murattal": "Jaser Salame",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohamed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Dagoush",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Cilësimet e riprodhimit",
+    "from": "Nga",
+    "to": "Deri",
+    "range": "Shtrirje",
+    "select_starting_verse": "Zgjidh vargun fillestar",
+    "select_ending_verse": "Zgjidh vargun përfundimtar",
+    "range_repeat": "Përsërit shtrirjen",
+    "verse_repeat": "Përsërit vargun",
+    "improved_Hafs_Rewaya_Force_Update": "Ne kemi përmirësuar Riwaen tuaj Hafs. Shkarkoni tani për të eksploruar Tafsirin dhe për të dëgjuar këndimet duke mbajtur shtypur çdo Ajet",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "Shihni oraret e faljeve të marrin jetë me orën tonë të re të animuar",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "Gjatë përdorimit të pamjes 360, nuk mund ta çaktivizoni këtë cilësim",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Settings",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Behavior",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Next prayer",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "All closed",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommended: Next prayer only",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Preview",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "All open",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Shejh Aminudin Muhamed",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "Riwāya më e përhapur në botë",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "E njohur në Afrikën Veriore dhe Perëndimore",
+    "select": "Zgjidh",
+    "unknown_smartwatch": "Orë inteligjente e panjohur",
+    "connected_watch": "Orë e lidhur",
+    "ready_play_watch": "gati për t’u luajtur në orën tënde",
+    "transliteration": "Transkriptim",
+    "highlight_Tahajjud_Time": "Nxjerr në pah kohën e Tahaxhudit",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "Qasja në kalendar nuk është e disponueshme.",
+    "calendar_allow_access_mawaqit": "Ju lutemi lejoni qasjen në kalendar për të shfaqur ngjarjet tuaja në MAWAQIT 360.",
+    "calendar_access_required": "Qasja në kalendar është r nevojshme për të shfaqur ngjarjet tuaja.",
+    "calendar_allow_access_button": "Lejo qasjën në kalendar",
+    "calendar_loading": "Ngarkimi i kalendarëve…",
+    "calendar_select_for_mawaqit": "Zgjidhni kalendarët që dëshironi të shfaqen në MAWAQIT 360.",
+    "calendar_enable_all": "Aktivizo të gjitha",
+    "calendar_disable_all": "Çaktivizo të gjitha",
+    "calendar_other_calendars": "Kalendarë të tjerë",
+    "calendar_times_shown_in": "Orari shfaqet në",
+    "calendar_starts_on": "Fillon më",
+    "calendar_ends_on": "Mbaron më",
+    "calendar_events_at_this_time": "Ngjarje në këtë moment",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Hape këtë xhami në aplikacionin MAWAQIT",
+    "mosque_name": "Emri i xhamisë",
+    "mosque_not_found": "Xhamia nuk u gjet",
+    "invalid_mosque_link": "Linku i xhamisë është i pavlefshëm",
+    "not_open_mosque_link": "Nuk mund të hapet ky linku i xhamisë. Ju lutemi provoni përsëri.",
+    "no_calendars_on_this_device": "Nuk u gjetën kalendarë në këtë pajisje.",
+    "calendar_event_at_this_time": "Ngjarje në këtë moment",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Kërko sipas Ajetit ose Surës",
+    "matching_surahs": "Suret përkatëse",
+    "matching_ayahs": "Ajetet përkatëse",
+    "live_timer": "Kohëmatës i drejtpërdrejtë",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Njofto paraprakisht",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Mund të marrë disa sekonda të paraqitet në orën tuaj.",
+    "eid1": "Bajram",
+    "hide_live_activity_for_prayer": "Fshih aktivitetin e drejtpërdrejtë vetëm për këtë namaz",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Cilësimet",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Kurani Tajwīd",
+    "tajweed_description": "Rregulla të tajwīdit të koduara me ngjyra për recitim të saktë",
+    "tajwid_rules": "Rregullat e Tajwidit",
+    "examples": "Shembuj",
+    "real_time_weather": "Moti në kohë reale",
+    "layout": "Pamja",
+    "list": "Listë",
+    "grid": "Rrjetë",
+    "real_time_weather_needs_internet": "Moti në kohë reale kërkon lidhje interneti për të shkarkuar përditësimet.",
+    "view_detail": "বিস্তারিত দেখুন",
+    "temperature": "Temperatura",
+    "tahajjud_time": "Koha e Tahaxhudit",
+    "last_third": "Treta e fundit",
+    "midnight": "Minuit",
+    "failed_to_update": "Përditësimi dështoi.",
+    "tap_to_retry": "Prekni për të provuar sërish",
+    "support_mawaqit_association": "Mbështetni Shoqatën MAWAQIT",
+    "help_improve_mawaqit": "Ndihmoni në përmirësimin e MAWAQIT",
+    "analytics_description": "Lejo analizën anonime të përdorimit për të na ndihmuar të përmirësojmë aplikacionin. Pa të dhëna personale. Asnjëherë nuk shpërndahet.",
+    "weather_clear": "I kthjellët",
+    "weather_clouds": "Re",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Hi",
+    "weather_dust": "Pluhur",
+    "weather_sand": "Rërë",
+    "weather_fog": "Mjegull",
+    "weather_haze": "Zanë",
+    "weather_smoke": "Tym",
+    "weather_mist": "Lagështi",
+    "weather_snow": "Bore",
+    "weather_rain": "Shï",
+    "weather_drizzle": "Pikimë",
+    "weather_thunderstorm": "Stuhi me vetëtima",
+    "weather_squall": "Erë e fortë",
+    "weather_celsius": "°C",
+    "animated_background": "Sfond i animuar",
+    "weather": "Moti",
+    "weather_need_internet": "Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.",
+    "weather_light_rain": "Shi i lehtë",
+    "edit": "Ndrysho",
+    "iqama_countdown": "Kohëmatës për Ikama-në",
+    "next_prayer_countdown": "Aktiviteti i gjallë gjithmonë aktiv",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Namazi i ardhshëm",
+    "live_countdown_for_all_pray": "Numërimi i drejtpërdrejtë do të jetë aktiv për të gjitha namazet, duke treguar automatikisht një kohëmatës për secilën namaz të ardhshëm.",
+    "live_countdown": "Kohëmatës i drejtpërdrejtë",
+    "quick_quran_reading_access": "Qasje e shpejtë për leximin e Kuranit",
+    "quick_quran_discription": "Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.",
+    "live_activity_tooltip": "Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës i drejtpërdrejtë tregon sa ka mbetur deri në faljen ose ikametin e radhës.",
+    "prayer": "Namazet",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Tregon motin për vendndodhjen tuaj, jo për xhaminë.",
+    "view_360_currently_selected": "Pamja 360 është zgjedhur aktualisht",
+    "tap_change_layout": "Prek këtu për të ndryshuar pamjen",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Shko te faqja",
+    "select_surah": "Zgjidh suren",
+    "please_select_surah": "Ju lutemi zgjidhni një sure",
+    "ayah_number": "Numri i ajetit",
+    "ayah_num_greater_zero": "Numri i ajetit duhet të jetë më i madh se 0",
+    "ayah_number_exceeds_max": "Numri i ajetit tejkalon kufirin maksimal për këtë sure",
+    "update_page": "Përditëso faqen",
+    "enter_ayah_num": "Fut numrin e ajetit"
 }

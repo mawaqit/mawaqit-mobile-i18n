@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al‑Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al‑Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullaah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al Ajamy",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alii",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (Mu'allim)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Khaalid Qahataanee",
+    "khalid_al_mohanna": "Khalid Al Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmoud Ali Al Banna",
+    "minshawy_mujawwad": "Minshawy (Mujawwad)",
+    "mohammad_rashad_alshareef": "Mohammad Rashad Alshareef",
+    "muhammad_abdulKareem_murattal": "Muhammad Abdul Kareem",
+    "muhammad_ayyoub_murattal": "Muhammad Ayyoub",
+    "muhammad_jibreel_murattal": "Muhammad Jibreel",
+    "muhsin_al_qasim_murattal": "Muhsin Al Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasser Alqatami",
+    "sahl_yassin_murattal": "Sahl Yassin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salaah AbdulRahman Bukhatir",
+    "salah_albudair_murattal": "Salah AlBudair",
+    "tawfeeq_assayegh": "Tawfeeq Assayegh",
+    "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairî",
+    "mohammed_abdelkarim": "Mehmed Abdelekrem",
+    "alayoun_elkouchi": "Al-Ayûn El-Kuçî",
+    "abdelkarim_daghoush": "Abdelekrem Dağûş",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Playback Settings",
+    "from": "From",
+    "to": "To",
+    "range": "Range",
+    "select_starting_verse": "Select Starting Verse",
+    "select_ending_verse": "Select Ending Verse",
+    "range_repeat": "Range Repeat",
+    "verse_repeat": "Verse Repeat",
+    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Settings",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Behavior",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Next prayer",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "All closed",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommended: Next prayer only",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Preview",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "All open",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Shaykh Aminuddin Muhammad",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "Riwāyahê herî berfireh li dinyayê",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Bilez e Başûr û Rojavayê Afrîkaye",
+    "select": "دیاریکردن",
+    "unknown_smartwatch": "کاتژمێری زیرەکی نەناسراو",
+    "connected_watch": "کاتژمێرەکە پەیوەستە",
+    "ready_play_watch": "ئامادەیە بۆ لێدان لەسەر کاتژمێرەکەت",
+    "transliteration": "وەرگێڕان",
+    "highlight_Tahajjud_Time": "Dema Teheccûdê",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "دەستگەیشتن بە ڕۆژنامە بەردەست نیە.",
+    "calendar_allow_access_mawaqit": "تکایە ڕێگە بە چوونەژوورەوەی ساڵنامە بدە بۆ پیشاندانی ڕووداوەکانت لە MAWAQIT 360.",
+    "calendar_access_required": "تکایە ڕێگە بدە دەستگەیشتن بە ڕۆژنامە بۆ نیشاندانی چالاکییەکانت لە Mawaqit 360.",
+    "calendar_allow_access_button": "ڕێگە بدە بە دەستگەیشتن بە ڕۆژنامە",
+    "calendar_loading": "ڕێگە بدە دەستگەیشتن بە ڕۆژنامە…",
+    "calendar_select_for_mawaqit": "ئەو ساڵنامانە هەڵبژێرە کە دەتەوێت لە MAWAQIT 360 پیشانی بدەیت.",
+    "calendar_enable_all": "بەگشتی دەگونجێت",
+    "calendar_disable_all": "لەکارخستنی هەموو",
+    "calendar_other_calendars": "ڕۆژنامەی دیکە",
+    "calendar_times_shown_in": "کاتەکان نیشان دەدرێن لە",
+    "calendar_starts_on": "دەست پێدەکات لە",
+    "calendar_ends_on": "کۆتایی دەهاتە لە",
+    "calendar_events_at_this_time": "چالاکییەکان لە ئەم کاتەوە",
+    "hamza_roberto_piccardo": "چالاکییەکان لە ئەم کاتەوە",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "ئەم مزگەوتە بکەوە لە بەرنامەی MAWAQIT",
+    "mosque_name": "ناوی مزگەوت",
+    "mosque_not_found": "مزگەوتەکە نەدۆزرایەوە",
+    "invalid_mosque_link": "بەستەری مزگەوتەکە نادروستە",
+    "not_open_mosque_link": "بەستەری ئەم مزگەوتە نەکرایەوە. تکایە دووبارە هەوڵ بدە.",
+    "no_calendars_on_this_device": "هیچ ساڵنامەیەک لەسەر ئەم ئامێرە نەدۆزرایەوە.",
+    "calendar_event_at_this_time": "چالاکی لە ئەم کاتەدا",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "گەڕان بە ئایەت یان بە سورەت",
+    "matching_surahs": "سورەتە هاوتاکان",
+    "matching_ayahs": "ئایەتی هاوشێوە",
+    "live_timer": "کاتژمێری ڕاستەوخۆ",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "پێشووتر ئاگادار بکە",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "لەوانەیە چەند چرکەیەک بخایەنێت بۆ دەرکەوتن لەکاتژمێرەکەت.",
+    "eid1": "جەژن",
+    "hide_live_activity_for_prayer": "چالاکی ڕاستەوخۆتەنها بۆ ئەم نوێژە بشارەوە",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "ڕێکخستنەکان",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "ئەذکار",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "قورئان (تەجوید)",
+    "tajweed_description": "یاساکانی تەجویدی ڕەنگدار بۆ خوێندنەوەی ڕاست",
+    "tajwid_rules": "یاساکانی تەجوید",
+    "examples": "نمونە",
+    "real_time_weather": "کەشوهەوای ڕاستەوخ",
+    "layout": "ڕێکخستن",
+    "list": "لیست",
+    "grid": "تۆڕ",
+    "real_time_weather_needs_internet": "بۆ داگرتنی نوێکردنەوەکان، کەشوهەوای ڕاستەوخۆ پێویستی بە پەیوەندی ئینتەرنێت هەیە.",
+    "view_detail": "وردەکاری ببینە",
+    "temperature": "پلەی گەرمی",
+    "tahajjud_time": "کاتی تەهەجود",
+    "last_third": "سێیەکی شەو",
+    "midnight": "نیوە شەو",
+    "failed_to_update": "نوێکردنەوە سەرکەوتوو نەبوو.",
+    "tap_to_retry": "پەنجەی لێبدە بۆ هەوڵدانەوە",
+    "support_mawaqit_association": "پشتگیری لە دەستەی مواقيت بکە",
+    "help_improve_mawaqit": "یارمەتی پەرەپێدانی مواقيت بدە",
+    "analytics_description": "ڕێگە بە شیکاری کەسی نەناسراو بدە بۆ یارمەتی دانی ئێمە لە باشترکردنی ئەپەکە. زانیاری تایبەتی هەرگیز هاوبەشی پێناکرێت.",
+    "weather_clear": "پاک",
+    "weather_clouds": "ئه‌ور",
+    "weather_tornado": "توفانە",
+    "weather_ash": "خۆڵەمێش",
+    "weather_dust": "تەپ و تۆز",
+    "weather_sand": "خۆڵبارین",
+    "weather_fog": "تەم و مژ",
+    "weather_haze": "تەم و تومان",
+    "weather_smoke": "دووکەڵ",
+    "weather_mist": "خوناو",
+    "weather_snow": "بەفر",
+    "weather_rain": "باران",
+    "weather_drizzle": "نەرمە باران",
+    "weather_thunderstorm": "ڕەشەبا",
+    "weather_squall": "بایەکی لەناکاو",
+    "weather_celsius": "°C",
+    "animated_background": "پاشبنەمای جولاو",
+    "weather": "کەش و هەوا",
+    "weather_need_internet": "ئەم تایبەتمەندیە پێویستی بە هێلی ئینتەرنێتە بۆ دابەزاندنی نوێکاریەکان.",
+    "weather_light_rain": "نەرمە باران",
+    "edit": "دەستکاری",
+    "iqama_countdown": "ژماردنی پاشەوەی ئیقامە",
+    "next_prayer_countdown": "ژماردنی پاشەوەی نوێژی داهاتوو",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "نوێژی داهاتوو‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎",
+    "live_countdown_for_all_pray": "کاتی ڕوو لەکەمی ڕاستەوخۆ چاڵاک دەبێت بۆ هەموو نوێژەکان، نیشاندانی کات دانانەوە بۆ هەر نوێژەکی داهاتوو خۆکارانەیە.",
+    "live_countdown": "کاتی ڕوو لەکەمی ڕاستەوخۆ",
+    "quick_quran_reading_access": "دەستڕاگەیشتن بە قورئان خوێندنەوەی خێرا",
+    "quick_quran_discription": "کاتێک قورئانت کردەووە، لەو شوێنە بەردەوام بە کە تێیدا وەستابوویت.",
+    "live_activity_tooltip": "چالاکییە ڕاستەوخۆکان لەسەر شاشەی قوفڵ و دوورگەی داینامیکی خۆت دەردەکەون (ئەگەر پشتگیری بکرێت). کاتێک چالاک دەکرێت، نیشاندانی کاتی ڕوو لەکەمی لە کات دانانەوەیەکی ڕاستەوخۆ بۆ نوێژی داهاتوو یان قامەت.",
+    "prayer": "نوێژ",
+    "weather_fahrenheit": "°ف",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "کەش و هەوا بۆ شوێنەکەت نیشان دەدات نەک مزگەوت.",
+    "view_360_currently_selected": "دیمەنی ٣٦٠ هەنووکە هەڵبژێردراوە",
+    "tap_change_layout": "پەنجە لێرە بدە بۆ گۆڕینی شێوەی پێشاندان",
+    "step": "هەنگاو",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "بڕۆ بۆ لاپەڕە",
+    "select_surah": "سورە هەڵبژێرە",
+    "please_select_surah": "تکایە سورەیەک هەڵبژێرە",
+    "ayah_number": "Hejmara Ayetê",
+    "ayah_num_greater_zero": "Hejmara ayetê divê ji 0 mezintir be",
+    "ayah_number_exceeds_max": "ژمارەی ئایەت بۆ ئەم سورەیە لە سنووری زۆرترین تێدەپەڕێت",
+    "update_page": "لاپەڕە نوێ بکەرەوە",
+    "enter_ayah_num": "ژمارەی ئایەت بنووسە"
 }

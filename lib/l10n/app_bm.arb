@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al‑Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al‑Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullaah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al Ajamy",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alii",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (Mu'allim)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Khaalid Qahataanee",
+    "khalid_al_mohanna": "Khalid Al Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmoud Ali Al Banna",
+    "minshawy_mujawwad": "Minshawy (Mujawwad)",
+    "mohammad_rashad_alshareef": "Mohammad Rashad Alshareef",
+    "muhammad_abdulKareem_murattal": "Muhammad Abdul Kareem",
+    "muhammad_ayyoub_murattal": "Muhammad Ayyoub",
+    "muhammad_jibreel_murattal": "Muhammad Jibreel",
+    "muhsin_al_qasim_murattal": "Muhsin Al Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasser Alqatami",
+    "sahl_yassin_murattal": "Sahl Yassin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salaah AbdulRahman Bukhatir",
+    "salah_albudair_murattal": "Salah AlBudair",
+    "tawfeeq_assayegh": "Tawfeeq Assayegh",
+    "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Daghoush",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play"
+    "play": "Play",
+    "playback_settings": "Playback Settings",
+    "from": "From",
+    "to": "To",
+    "range": "Range",
+    "select_starting_verse": "Select Starting Verse",
+    "select_ending_verse": "Select Ending Verse",
+    "range_repeat": "Range Repeat",
+    "verse_repeat": "Verse Repeat",
+    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "See prayer times come to life with our new animated clock",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "While using 360 view you cannot off this setting",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Settings",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Behavior",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Next prayer",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "All closed",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommended: Next prayer only",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Preview",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "All open",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Sheku Aminudin Muhammadu",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "Riwaya minɛ ye fɛɛrɛ kɛ a la dunia la",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "A bɛ kɛ kɔfɛ ni tilebɔgɔ Afrikala la",
+    "select": "Sèbèlenna",
+    "unknown_smartwatch": "Saniya bɛn kɔrɔ ye kuma fô",
+    "connected_watch": "Saniya bɛnna",
+    "ready_play_watch": "ka bugu kε sana la san ye i saniya la",
+    "transliteration": "Transliteration",
+    "highlight_Tahajjud_Time": "Tahajjud waati nɔfɛ yèlèko",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "Kalanda bɛna kɛ fɔlɔ.",
+    "calendar_allow_access_mawaqit": "I y'an ni kalanda balo, a kan bɔ i masodenw n'a bɛ MAWAQIT 360 kan.",
+    "calendar_access_required": "Kalanda toɔrɔ ye nɛgɛ fɔlɔ an ka fɛɛnɛ min be na.",
+    "calendar_allow_access_button": "Bara kalanda toɔrɔ ye",
+    "calendar_loading": "Kalandaw ka sigi…",
+    "calendar_select_for_mawaqit": "Ka kalandaw yera min i bɛ na son MAWAQIT 360 la.",
+    "calendar_enable_all": "Ka bɛɛ dɛmɛ",
+    "calendar_disable_all": "Ka bɛɛ jɔsi",
+    "calendar_other_calendars": "Kalan muso kalandaw",
+    "calendar_times_shown_in": "Waatiw bɛ bɔ",
+    "calendar_starts_on": "Bɛ bɔ don",
+    "calendar_ends_on": "Bɛ bɔ kɛdɔ",
+    "calendar_events_at_this_time": "Sariyali bɛ bɔ waati min na",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Bula muso fili ye MAWAQIT app la",
+    "mosque_name": "Muso fili tɔgɔ",
+    "mosque_not_found": "Muso fili te yera",
+    "invalid_mosque_link": "Muso fili linku te se ka taa",
+    "not_open_mosque_link": "Muso fili linku te se ka bula. Sisan bari waati kɔ.",
+    "no_calendars_on_this_device": "Kalanda mun te wɛrɛ cɛ la ni sɔrɔ.",
+    "calendar_event_at_this_time": "Sariyali bɛ bɔ waati min na",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Sari kula walla Ayah sɔrɔ",
+    "matching_surahs": "Sari kula min be kafa",
+    "matching_ayahs": "Ayah min be kafa",
+    "live_timer": "Waati siraba dɔgɔkun",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Siran kan",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Ka bɛ fo waati kɛ i ka sigi ka yera i ka watisɛmɛ.",
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Ka bɔ waati siraba min na kɛdɔ bɔn",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Taasiye",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Qur’an Tajwīd",
+    "tajweed_description": "Tajwīd law sababɔw ka siraba dɛmɛ wa Qur'an don.",
+    "tajwid_rules": "Tajwid sababɔw",
+    "examples": "Miselan",
+    "real_time_weather": "Waati dɔgɔkun ka fila",
+    "layout": "Tɔgɔyɔrɔ",
+    "list": "Lisi",
+    "grid": "Gridu",
+    "real_time_weather_needs_internet": "Waati dɔgɔkun ka fila bɛ bɛ se ka sɔrɔ internet fɛɛrɛ bɛ yera ta.",
+    "view_detail": "Ka laka kɛ",
+    "temperature": "Gɛmɛgan",
+    "tahajjud_time": "Tahajjud waati",
+    "last_third": "Tile ka kɛlen kɔrɔcɛïla",
+    "midnight": "Tile kuma",
+    "failed_to_update": "Taa wuli ka taara, a fo.",
+    "tap_to_retry": "Kan ka sigi ko dɔrɔn",
+    "support_mawaqit_association": "Ka dɛmɛ MAWAQIT kɛlɛko.",
+    "help_improve_mawaqit": "Ka bo MAWAQIT ka kɛ nyɛ foɲa",
+    "analytics_description": "Ka ban kono don ni ala ka a lafi sisan, ni jandemaya b’a lafi. Don ni sigilan te b’a sisan.",
+    "weather_clear": "Kɛnyɛnafa",
+    "weather_clouds": "Nuɲumanw",
+    "weather_tornado": "Kùnùgò fɛ",
+    "weather_ash": "Cɛgi",
+    "weather_dust": "Dutu",
+    "weather_sand": "Sable",
+    "weather_fog": "Furufuru",
+    "weather_haze": "Haze",
+    "weather_smoke": "Sunu",
+    "weather_mist": "Furu",
+    "weather_snow": "Sini",
+    "weather_rain": "Sanni",
+    "weather_drizzle": "Sanni sigi",
+    "weather_thunderstorm": "Furufurun sanni",
+    "weather_squall": "Fɛɛrɛkun",
+    "weather_celsius": "°C",
+    "animated_background": "Fondo ɲéw ka girikalan",
+    "weather": "Baara Malila (Waati)",
+    "weather_need_internet": "Jѐmɛ-kɛnɛ kɔrɔgbɛnan la, i bɛ se ka nyɛ update kɔ tulu la.",
+    "weather_light_rain": "Sanji ɲɔgɔn",
+    "edit": "Sɛnbɛ",
+    "iqama_countdown": "Cɛgɛ Iqama kan kɔnɔ",
+    "next_prayer_countdown": "Waati siraba da ka cɛ",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Salifin seli",
+    "live_countdown_for_all_pray": "Samara don live ka bɔ an bɛ sariya kɛla lamma kɔfɛ, tuma ka baro bɛ yera ni waati sariya tɛna na.",
+    "live_countdown": "Cɛgɛ fɔlɔfɔlɔ la",
+    "quick_quran_reading_access": "Don ka Quran kalan ka dafa",
+    "quick_quran_discription": "K'an bɔ yira Kurani tab sogoma, k'an bɔra fɔlɔ ye min k'an tɔgɔ jɛya la.",
+    "live_activity_tooltip": "Live Activities bɛ bɔ Lock Screen ni Dynamic Island kan (sisan kɔsɛbɛ bɛ na). Sisan kɛla, kini bɔni tuma kan te sisan bɛ min kɛnɛnin ni furu kɔni ko bɛna siga.",
+    "prayer": "Sila",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Ka ban ka fɛnɛ siranyɛ so, a bɛ bɔ yere la, o tɛ bɔ misiriko la.",
+    "view_360_currently_selected": "360 Zanw ye don filɛ",
+    "tap_change_layout": "Fɔlɔ yɛrɛw ka bɛɛle la fɛ",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Jump to page",
+    "select_surah": "Select Surah",
+    "please_select_surah": "Please select a surah",
+    "ayah_number": "Ayah Number",
+    "ayah_num_greater_zero": "Ayah number must be greater than 0",
+    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
+    "update_page": "Update page",
+    "enter_ayah_num": "Enter Ayah num"
 }

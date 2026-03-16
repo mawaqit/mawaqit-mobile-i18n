@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al‐Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al-Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullaah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al Ajamy",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alii",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (Mu'allim)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Khaalid Qahataanee",
+    "khalid_al_mohanna": "Khalid Al Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmoud Ali Al Banna",
+    "minshawy_mujawwad": "Minshawy (Mujawwad)",
+    "mohammad_rashad_alshareef": "Mohammad Rashad Alshareef",
+    "muhammad_abdulKareem_murattal": "Muhammad Abdul Kareem",
+    "muhammad_ayyoub_murattal": "Muhammad Ayyoub",
+    "muhammad_jibreel_murattal": "Muhammad Jibreel",
+    "muhsin_al_qasim_murattal": "Muhsin Al Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasser Alqatami",
+    "sahl_yassin_murattal": "Sahl Yasin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salaah AbdulRahman Bukhatir",
+    "salah_albudair_murattal": "Salah AlBudair",
+    "tawfeeq_assayegh": "Tawfeeq Assayegh",
+    "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Daghoush",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Toista"
+    "play": "Toista",
+    "playback_settings": "Soiton Asetukset",
+    "from": "Alkaen",
+    "to": "Vastaanottaja",
+    "range": "Range",
+    "select_starting_verse": "Valitse Aloitusjae",
+    "select_ending_verse": "Valitse Päättyvä Jae",
+    "range_repeat": "Vaihteluvälin Toisto",
+    "verse_repeat": "Jae Toisto",
+    "improved_Hafs_Rewaya_Force_Update": "Olemme parantaneet Hafs Rewaya. Lataa nyt tutustua Tafsir ja kuunnella reseptejä klikkaamalla mitä tahansa Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "Katso rukouksen ajat tulevat elämään uuden animoituja kello",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "Tämä ominaisuus on käytössä 360° näkymän ollessa käytössä eikä sitä voi kytkeä pois päältä",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Asetukset",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Käyttäytyminen",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Seuraava rukous",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Kaikki suljettu",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Suositeltu: Seuraava rukous vain",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Esikatselu",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normaali",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Suuri",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "Kaikki auki",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Viimeinen Kolmas Yö",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Šeikki Aminuddin Muhammad",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "Maailman laajimmin levinnyt riwāyah",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Suosittu Pohjois- ja Länsi-Afrikassa",
+    "select": "Valitse",
+    "unknown_smartwatch": "Tuntematon älykello",
+    "connected_watch": "Yhdistetty kello",
+    "ready_play_watch": "on valmis pelaamaan kellosi",
+    "transliteration": "Translitterointi",
+    "highlight_Tahajjud_Time": "Korosta Tahajjud-aika",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "Kalenterin käyttö ei ole käytettävissä.",
+    "calendar_allow_access_mawaqit": "Ole hyvä ja salli kalenterin pääsy näyttämään tapahtumasi MAWAQIT 360.",
+    "calendar_access_required": "Kalenterin käyttö vaaditaan tapahtumien näyttämiseen.",
+    "calendar_allow_access_button": "Salli kalenterin käyttö",
+    "calendar_loading": "Chargement des calendriers…",
+    "calendar_select_for_mawaqit": "Valitse kalenterit, jotka haluat näyttää MAWAQIT 360.",
+    "calendar_enable_all": "Ota kaikki käyttöön",
+    "calendar_disable_all": "Poista kaikki käytöstä",
+    "calendar_other_calendars": "Muut kalenterit",
+    "calendar_times_shown_in": "Ajat näytetään",
+    "calendar_starts_on": "Aloittaa",
+    "calendar_ends_on": "Päättyy päälle",
+    "calendar_events_at_this_time": "Tällä hetkellä tapahtumat",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Avaa tämä moskeija MAWAQIT sovelluksessa",
+    "mosque_name": "Moskeija nimi",
+    "mosque_not_found": "Moskia ei löydy",
+    "invalid_mosque_link": "Virheellinen moskeija linkki",
+    "not_open_mosque_link": "Tätä moskeija linkkiä ei voitu avata. Yritä uudelleen.",
+    "no_calendars_on_this_device": "Tällä laitteella ei löytynyt kalentereita.",
+    "calendar_event_at_this_time": "Tapahtuma tällä hetkellä",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Etsi Ayahin tai Suran toimesta",
+    "matching_surahs": "Vastaavat Surahs",
+    "matching_ayahs": "Täsmäävä Ajah",
+    "live_timer": "Live-ajastin",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Ilmoita ennen",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Kellosi voi ilmetä vain muutaman sekunnin ajan.",
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Piilota elävä toiminta vain tälle rukoukselle",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Asetukset",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Qur’an Tajwīd",
+    "tajweed_description": "Värikoodattu tajwi- d säännöt oikeanlaiseen reseptiin",
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Esimerkkejä",
+    "real_time_weather": "Reaaliaikainen Sää",
+    "layout": "Asettelu",
+    "list": "Lista",
+    "grid": "Ruudukko",
+    "real_time_weather_needs_internet": "Reaaliaikainen sää tarvitsee internet-yhteyden lataamaan päivityksiä.",
+    "view_detail": "Näytä tiedot",
+    "temperature": "Lämpötila",
+    "tahajjud_time": "Tahajjudin Aika",
+    "last_third": "Viimeinen kolmannes",
+    "midnight": "Tengah Malam",
+    "failed_to_update": "Päivitys epäonnistui.",
+    "tap_to_retry": "Napauta yrittääksesi uudelleen",
+    "support_mawaqit_association": "Tue MAWAQIT-yhdistystä",
+    "help_improve_mawaqit": "Auta parantamaan MAWAQITia",
+    "analytics_description": "Salli anonyymi käytön analysointi auttaaksemme meitä parantamaan sovellusta. Ei henkilötietoja. Ei koskaan jaeta.",
+    "weather_clear": "Kirkas",
+    "weather_clouds": "Pilvistä",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Tuhka",
+    "weather_dust": "Pöly",
+    "weather_sand": "Hiekka",
+    "weather_fog": "Sumu",
+    "weather_haze": "Utuisuus",
+    "weather_smoke": "Savu",
+    "weather_mist": "Usva",
+    "weather_snow": "Lumi",
+    "weather_rain": "Sade",
+    "weather_drizzle": "Tihkusade",
+    "weather_thunderstorm": "Ukonilma",
+    "weather_squall": "Puuska",
+    "weather_celsius": "°C",
+    "animated_background": "Animoitu tausta",
+    "weather": "Sää",
+    "weather_need_internet": "Tämä toiminto vaatii internet-yhteyden päivitysten lataamiseen.",
+    "weather_light_rain": "Heikko sade",
+    "edit": "Muokkaa",
+    "iqama_countdown": "Iqaman lähtölaskenta",
+    "next_prayer_countdown": "Live-aktiviteetti Aina Käytössä",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Seuraava rukousi",
+    "live_countdown_for_all_pray": "Live-ajastin on käytössä kaikille rukouksille ja näyttää automaattisesti ajan seuraavaan rukoukseen.",
+    "live_countdown": "Live-laskenta",
+    "quick_quran_reading_access": "Pikakäyttö Koraanin lukemiseen",
+    "quick_quran_discription": "Kun avaat Koraani-välilehden, jatka siitä mihin jäit.",
+    "live_activity_tooltip": "Live Activities näkyvät lukitusnäytölläsi ja Dynamic Islandissa (jos laitteesi tukee tätä ominaisuutta). Kun toiminto on käytössä, näytöllä näkyy reaaliaikainen ajastin seuraavaan rukoukseen tai iqamaan.",
+    "prayer": "Rukous",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Näyttää sään sijainnissasi, ei moskeijassa.",
+    "view_360_currently_selected": "360-näkymä on tällä hetkellä valittuna",
+    "tap_change_layout": "Napauta tästä vaihtaaksesi asettelua",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Jump to page",
+    "select_surah": "Select Surah",
+    "please_select_surah": "Please select a surah",
+    "ayah_number": "Ayah Number",
+    "ayah_num_greater_zero": "Ayah number must be greater than 0",
+    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
+    "update_page": "Update page",
+    "enter_ayah_num": "Enter Ayah num"
 }

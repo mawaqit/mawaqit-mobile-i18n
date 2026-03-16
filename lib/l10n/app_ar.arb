@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "دقائق حتى الأذان",
+    "minutes_to_athan": "دقائق حتى آذان",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -718,7 +718,7 @@
     },
     "at_least_one_mosque_error": "يجب أن يكون لديك مسجد واحد على الأقل.",
     "and": "و",
-    "continue_to_app": "واصل",
+    "continue_to_app": "متابعة",
     "add": "اضافة",
     "mosque": "مسجد",
     "on_boarding_nearest_mosque": "دعونا نعثر على أقرب مسجد",
@@ -740,7 +740,7 @@
     "quran_mushaf": "المصحف",
     "quran_juzz": "جزء",
     "ayah": "آيه",
-    "quran_verses": " آيات",
+    "quran_verses": "آياتها",
     "surah": "سور",
     "continue_reading": "متابعة القراءة",
     "bookmarks": "المرجعيات",
@@ -899,7 +899,7 @@
     "add_page_bookmarks": "أضف الصفحة إلى المرجعيات",
     "remove_page_bookmarks": "إزالة الصفحة من المرجعيات",
     "no_bookmarks": "لا توجد علامات مرجعية",
-    "liked": "مُعجب",
+    "liked": "المفضلة",
     "all_recitators": "جميع المقرئين",
     "downloaded": "تم التنزيل",
     "search_for_recitator": "ابحث عن مقرئ",
@@ -1093,8 +1093,248 @@
     "tunaiji": "خليفة الطنيجي",
     "sudais": "عبد الرحمن السديس",
     "tablawi": "محمد الطبلاوي",
+    "abdul_rashid_ali_sufi": "عبد الرشيد صوفي",
+    "abdullaah_ajuhaynee_murattal": "عبد الله الجهني",
+    "abdullaah_basfar_murattal": "عبد الله بصفر",
+    "abdullah_matroud_murattal": "عبد الله المطرود",
+    "ahmed_al_ajamy_murattal": "أحمد العجمي",
+    "ahmed_neana_murattal": "أحمد نعينع",
+    "akram_alaqimy_murattal": "أكرم العلاقمي",
+    "ali_hajjaj_suesy_murattal": "علي حجاج السويسي",
+    "ali_jaber_murattal": "علي جابر",
+    "ayman_sowaid_murattal": "أيمن سويد",
+    "aziz_alii_murattal": "عزيز عليلى",
+    "fares_abbad_murattal": "فارس عباد",
+    "hudhaify_murattal": "الحذيفي",
+    "husary_muallim": "الحصري (المعلم)",
+    "ibrahim_akhdar_murattal": "إبراهيم الأخضر",
+    "khaalid_qahataanee_murattal": "خالد القحطاني",
+    "khalid_al_mohanna": "خالد المهنا",
+    "mahmoud_ali_al_banna_murattal": "محمود علي البنا",
+    "minshawy_mujawwad": "المنشاوي (مجوّد)",
+    "mohammad_rashad_alshareef": "محمد رشاد الشريف",
+    "muhammad_abdulKareem_murattal": "محمد عبد الكريم",
+    "muhammad_ayyoub_murattal": "محمد أيوب",
+    "muhammad_jibreel_murattal": "محمد جبريل",
+    "muhsin_al_qasim_murattal": "عبد المحسن القاسم",
+    "nabil_rifai3_murattal": "نبيل الرفاعي",
+    "nasser_alqatami_murattal": "ناصر القطامي",
+    "sahl_yassin_murattal": "سهل ياسين",
+    "salaah_abdulRahman_bukhatir_murattal": "صلاح بو خاطر",
+    "salah_albudair_murattal": "صلاح البدير",
+    "tawfeeq_assayegh": "توفيق الصايغ",
+    "yaser_salamah_murattal": "ياسر سلامة",
+    "yassin_aljazairi": "ياسين الجزائري",
+    "mohammed_abdelkarim": "محمد عبد الكريم",
+    "alayoun_elkouchi": "العيون الكوشي",
+    "abdelkarim_daghoush": "عبد الكريم الدغوش",
     "murattal": "مرتل",
     "mujawwad": "مجوّد",
     "moallim": "المصحف المعلم",
-    "play": "تلاوة"
+    "play": "تلاوة",
+    "playback_settings": "إعدادات التلاوة",
+    "from": "من",
+    "to": "إلى",
+    "range": "النطاق",
+    "select_starting_verse": "اختر الآية الأولى",
+    "select_ending_verse": "اختر الآية الأخيرة",
+    "range_repeat": "تكرار النطاق",
+    "verse_repeat": "تكرار الآية",
+    "improved_Hafs_Rewaya_Force_Update": "لقد قمنا بتحسين رواية حفص الخاصة بك. قم بالتحميل الآن لاستكشاف التفسير والاستماع إلى التلاوات من خلال الضغط المطول على أي آية",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "شاهد أوقات الصلاة تنبض بالحياة مع ساعتنا المتحركة الجديدة",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "في وضع مواقيت 360 تظل هذه الميزة مفعّلة",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "مواقيت 360 (تجريبي)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "إعدادات مواقيت 360",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "نمط الفتح",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "الصلاة التالية",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "إغلاق الكل",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "موصى به: الصلاة التالية فقط",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "معاينة حية",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "عادي",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "كبير",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "فتح الكل",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "الثلث الأخير من الليل",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "الشيخ أمينُ الدِّينِ محمد",
+    "hafs_an_asim": "حفص عن عاصم",
+    "most_widespread_riwayah": "أكثر رواية انتشارًا في العالم",
+    "warsh_an_nafi": "ورش عن نافع",
+    "popular_across_north_west_africa": "شائعة في شمال وغرب أفريقيا",
+    "select": "اختر",
+    "unknown_smartwatch": "ساعة ذكية غير معروفة",
+    "connected_watch": "الساعة المتصلة",
+    "ready_play_watch": "جاهزة للتلاوة على ساعتك",
+    "transliteration": "الترجمة اللفظية",
+    "highlight_Tahajjud_Time": "إبراز وقت التهجد",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "الوصول إلى التقويم غير متاح.",
+    "calendar_allow_access_mawaqit": "يرجى السماح بالوصول إلى التقويم لعرض أحداثك على مواقيت 360.",
+    "calendar_access_required": "يلزم الوصول إلى التقويم لعرض أحداثك.",
+    "calendar_allow_access_button": "السماح بالوصول إلى التقويم",
+    "calendar_loading": "جاري تحميل التقويمات…",
+    "calendar_select_for_mawaqit": "اختر التقاويم التي تريد عرضها على مواقيت 360.",
+    "calendar_enable_all": "تفعيل الكل",
+    "calendar_disable_all": "تعطيل الكل",
+    "calendar_other_calendars": "تقويمات أخرى",
+    "calendar_times_shown_in": "الأوقات معروضة بـ",
+    "calendar_starts_on": "يبدأ في",
+    "calendar_ends_on": "ينتهي في",
+    "calendar_events_at_this_time": "أحداث في هذا الوقت",
+    "hamza_roberto_piccardo": "حمزة روبيرتو بيكّاردو",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "افتح هذا المسجد في تطبيق مواقيت",
+    "mosque_name": "اسم المسجد",
+    "mosque_not_found": "لم يتم العثور على المسجد",
+    "invalid_mosque_link": "رابط المسجد غير صالح",
+    "not_open_mosque_link": "تعذر فتح رابط المسجد هذا. الرجاء المحاولة مرة أخرى.",
+    "no_calendars_on_this_device": "لم يتم العثور على أي تقاويم على هذا الجهاز.",
+    "calendar_event_at_this_time": "حدث في هذا الوقت",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "البحث بالآية أو السورة",
+    "matching_surahs": "السور الموافقة",
+    "matching_ayahs": "الآيات الموافقة",
+    "live_timer": "مؤقت مباشر",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "إخطار من قبل",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "قد يستغرق الظهور على ساعتك بضع ثوان.",
+    "eid1": "العيد",
+    "hide_live_activity_for_prayer": "إخفاء النشاط المباشر لهذه الصلاة فقط",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "الإعدادات",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "الأذكار",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "القرآن بالتجويد",
+    "tajweed_description": "أحكام التجويد مميّزة بالألوان لقراءةٍ صحيحة",
+    "tajwid_rules": "أحكام التجويد",
+    "examples": "أمثلة",
+    "real_time_weather": "الطقس الفعلي لحظيًا",
+    "layout": "أنماط",
+    "list": "قائمة",
+    "grid": "شبكة",
+    "real_time_weather_needs_internet": "يتطلب الطقس اللحظي اتصالاً بالإنترنت لتحميل التحديثات.",
+    "view_detail": "عرض التفاصيل",
+    "temperature": "الحرارة",
+    "tahajjud_time": "وقت التهجد",
+    "last_third": "الثلث الأخير",
+    "midnight": "منتصف الليل",
+    "failed_to_update": "فشل في التحديث.",
+    "tap_to_retry": "اضغط لإعادة المحاولة",
+    "support_mawaqit_association": "ادعم جمعية مواقيت",
+    "help_improve_mawaqit": "ساعد في تطوير مواقيت",
+    "analytics_description": "اسمح لنا بجمع بيانات استخدام مجهولة لتحسين التطبيق. لا نجمع بيانات شخصية ولا نشاركها مع أحد.",
+    "weather_clear": "صافٍ",
+    "weather_clouds": "غائم",
+    "weather_tornado": "إعصار",
+    "weather_ash": "رماد",
+    "weather_dust": "غبار",
+    "weather_sand": "رمل",
+    "weather_fog": "ضباب",
+    "weather_haze": "شبورة",
+    "weather_smoke": "دخان",
+    "weather_mist": "سديم",
+    "weather_snow": "ثلج",
+    "weather_rain": "ممطر",
+    "weather_drizzle": "رذاذ",
+    "weather_thunderstorm": "عاصفة رعدية",
+    "weather_squall": "عاصفة مفاجئة",
+    "weather_celsius": "°م",
+    "animated_background": "خلفية متحركة",
+    "weather": "الطقس",
+    "weather_need_internet": "هذه الميزة تحتاج إلى اتصال بالإنترنت لتنزيل التحديثات.",
+    "weather_light_rain": "أمطار خفيفة",
+    "edit": "تعديل",
+    "iqama_countdown": "العد التنازلي للإقامة",
+    "next_prayer_countdown": "تشغيل النشاط المباشر دائماً",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "الصلاة التالية",
+    "live_countdown_for_all_pray": "سيكون العد التنازلي المباشر متاحًا لجميع الصلوات، حيث سيعرض مؤقتًا لكل صلاة قادمة تلقائيًا.",
+    "live_countdown": "العد التنازلي المباشر",
+    "quick_quran_reading_access": "الوصول السريع لقراءة القرآن",
+    "quick_quran_discription": "بمجرد فتح تبويب القرآن، تعود مباشرةً إلى آخر موضع قراءة.",
+    "live_activity_tooltip": "تظهر الأنشطة المباشرة على شاشة القفل وميزة الجزيرة التفاعلية (إذا كانت مدعومة). عند تفعيلها، يعرض مؤقّت مباشر عدًّا تنازليًا للصلاة القادمة أو للإقامة القادمة.",
+    "prayer": "الصلاة",
+    "weather_fahrenheit": "°فهرنهايت",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "يعرض حالة الطقس لموقعك، وليس لمسجدك.",
+    "view_360_currently_selected": "عرض 360 محدد حالياً",
+    "tap_change_layout": "اضغط هنا لتغيير نمط العرض",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "الانتقال إلى الصفحة",
+    "select_surah": "اختر السورة",
+    "please_select_surah": "يرجى اختيار سورة",
+    "ayah_number": "رقم الآية",
+    "ayah_num_greater_zero": "يجب أن يكون رقم الآية أكبر من 0",
+    "ayah_number_exceeds_max": "رقم الآية يتجاوز الحد الأقصى لهذه السورة",
+    "update_page": "تحديث الصفحة",
+    "enter_ayah_num": "أدخل رقم الآية"
 }

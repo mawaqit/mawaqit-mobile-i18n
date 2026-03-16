@@ -14,6 +14,7 @@ import 'app_localizations_bs.dart';
 import 'app_localizations_de.dart';
 import 'app_localizations_en.dart';
 import 'app_localizations_es.dart';
+import 'app_localizations_fa.dart';
 import 'app_localizations_ff.dart';
 import 'app_localizations_fi.dart';
 import 'app_localizations_fr.dart';
@@ -24,12 +25,18 @@ import 'app_localizations_it.dart';
 import 'app_localizations_ku.dart';
 import 'app_localizations_ms.dart';
 import 'app_localizations_nl.dart';
+import 'app_localizations_pa.dart';
 import 'app_localizations_pl.dart';
+import 'app_localizations_ps.dart';
 import 'app_localizations_pt.dart';
 import 'app_localizations_ru.dart';
+import 'app_localizations_si.dart';
 import 'app_localizations_sq.dart';
 import 'app_localizations_sv.dart';
+import 'app_localizations_ta.dart';
+import 'app_localizations_th.dart';
 import 'app_localizations_tr.dart';
+import 'app_localizations_ug.dart';
 import 'app_localizations_ur.dart';
 
 // ignore_for_file: type=lint
@@ -86,7 +93,8 @@ import 'app_localizations_ur.dart';
 /// be consistent with the languages listed in the AppLocalizations.supportedLocales
 /// property.
 abstract class AppLocalizations {
-  AppLocalizations(String locale) : localeName = intl.Intl.canonicalizedLocale(locale.toString());
+  AppLocalizations(String locale)
+    : localeName = intl.Intl.canonicalizedLocale(locale.toString());
 
   final String localeName;
 
@@ -94,7 +102,8 @@ abstract class AppLocalizations {
     return Localizations.of<AppLocalizations>(context, AppLocalizations);
   }
 
-  static const LocalizationsDelegate<AppLocalizations> delegate = _AppLocalizationsDelegate();
+  static const LocalizationsDelegate<AppLocalizations> delegate =
+      _AppLocalizationsDelegate();
 
   /// A list of this localizations delegate along with the default localizations
   /// delegates.
@@ -106,12 +115,13 @@ abstract class AppLocalizations {
   /// Additional delegates can be added by appending to this list in
   /// MaterialApp. This list does not have to be used at all if a custom list
   /// of delegates is preferred or required.
-  static const List<LocalizationsDelegate<dynamic>> localizationsDelegates = <LocalizationsDelegate<dynamic>>[
-    delegate,
-    GlobalMaterialLocalizations.delegate,
-    GlobalCupertinoLocalizations.delegate,
-    GlobalWidgetsLocalizations.delegate,
-  ];
+  static const List<LocalizationsDelegate<dynamic>> localizationsDelegates =
+      <LocalizationsDelegate<dynamic>>[
+        delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+      ];
 
   /// A list of this localizations delegate's supported locales.
   static const List<Locale> supportedLocales = <Locale>[
@@ -124,6 +134,7 @@ abstract class AppLocalizations {
     Locale('de'),
     Locale('en'),
     Locale('es'),
+    Locale('fa'),
     Locale('ff'),
     Locale('fi'),
     Locale('fr'),
@@ -134,13 +145,19 @@ abstract class AppLocalizations {
     Locale('ku'),
     Locale('ms'),
     Locale('nl'),
+    Locale('pa'),
     Locale('pl'),
+    Locale('ps'),
     Locale('pt'),
     Locale('ru'),
+    Locale('si'),
     Locale('sq'),
     Locale('sv'),
+    Locale('ta'),
+    Locale('th'),
     Locale('tr'),
-    Locale('ur')
+    Locale('ug'),
+    Locale('ur'),
   ];
 
   /// _
@@ -3149,6 +3166,216 @@ abstract class AppLocalizations {
   /// **'Mohamed Al‑Tablawi'**
   String get tablawi;
 
+  /// No description provided for @abdul_rashid_ali_sufi.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdul Rashid Ali Sufi'**
+  String get abdul_rashid_ali_sufi;
+
+  /// No description provided for @abdullaah_ajuhaynee_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdullaah Ajuhaynee'**
+  String get abdullaah_ajuhaynee_murattal;
+
+  /// No description provided for @abdullaah_basfar_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdullah Basfar'**
+  String get abdullaah_basfar_murattal;
+
+  /// No description provided for @abdullah_matroud_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdullah Matroud'**
+  String get abdullah_matroud_murattal;
+
+  /// No description provided for @ahmed_al_ajamy_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ahmed Al Ajamy'**
+  String get ahmed_al_ajamy_murattal;
+
+  /// No description provided for @ahmed_neana_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ahmed Neana'**
+  String get ahmed_neana_murattal;
+
+  /// No description provided for @akram_alaqimy_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Akram Alaqimy'**
+  String get akram_alaqimy_murattal;
+
+  /// No description provided for @ali_hajjaj_suesy_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ali Hajjaj Suesy'**
+  String get ali_hajjaj_suesy_murattal;
+
+  /// No description provided for @ali_jaber_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ali Jaber'**
+  String get ali_jaber_murattal;
+
+  /// No description provided for @ayman_sowaid_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayman Sowaid'**
+  String get ayman_sowaid_murattal;
+
+  /// No description provided for @aziz_alii_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Aziz Alii'**
+  String get aziz_alii_murattal;
+
+  /// No description provided for @fares_abbad_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Fares Abbad'**
+  String get fares_abbad_murattal;
+
+  /// No description provided for @hudhaify_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Hudhaify'**
+  String get hudhaify_murattal;
+
+  /// No description provided for @husary_muallim.
+  ///
+  /// In en, this message translates to:
+  /// **'Husary (Mu\'allim)'**
+  String get husary_muallim;
+
+  /// No description provided for @ibrahim_akhdar_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Ibrahim Akhdar'**
+  String get ibrahim_akhdar_murattal;
+
+  /// No description provided for @khaalid_qahataanee_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Khaalid Qahataanee'**
+  String get khaalid_qahataanee_murattal;
+
+  /// No description provided for @khalid_al_mohanna.
+  ///
+  /// In en, this message translates to:
+  /// **'Khalid Al Mohanna'**
+  String get khalid_al_mohanna;
+
+  /// No description provided for @mahmoud_ali_al_banna_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Mahmoud Ali Al Banna'**
+  String get mahmoud_ali_al_banna_murattal;
+
+  /// No description provided for @minshawy_mujawwad.
+  ///
+  /// In en, this message translates to:
+  /// **'Minshawy (Mujawwad)'**
+  String get minshawy_mujawwad;
+
+  /// No description provided for @mohammad_rashad_alshareef.
+  ///
+  /// In en, this message translates to:
+  /// **'Mohammad Rashad Alshareef'**
+  String get mohammad_rashad_alshareef;
+
+  /// No description provided for @muhammad_abdulKareem_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhammad Abdul Kareem'**
+  String get muhammad_abdulKareem_murattal;
+
+  /// No description provided for @muhammad_ayyoub_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhammad Ayyoub'**
+  String get muhammad_ayyoub_murattal;
+
+  /// No description provided for @muhammad_jibreel_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhammad Jibreel'**
+  String get muhammad_jibreel_murattal;
+
+  /// No description provided for @muhsin_al_qasim_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Muhsin Al Qasim'**
+  String get muhsin_al_qasim_murattal;
+
+  /// No description provided for @nabil_rifai3_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Nabil Rifai'**
+  String get nabil_rifai3_murattal;
+
+  /// No description provided for @nasser_alqatami_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Nasser Alqatami'**
+  String get nasser_alqatami_murattal;
+
+  /// No description provided for @sahl_yassin_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Sahl Yassin'**
+  String get sahl_yassin_murattal;
+
+  /// No description provided for @salaah_abdulRahman_bukhatir_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Salaah AbdulRahman Bukhatir'**
+  String get salaah_abdulRahman_bukhatir_murattal;
+
+  /// No description provided for @salah_albudair_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Salah AlBudair'**
+  String get salah_albudair_murattal;
+
+  /// No description provided for @tawfeeq_assayegh.
+  ///
+  /// In en, this message translates to:
+  /// **'Tawfeeq Assayegh'**
+  String get tawfeeq_assayegh;
+
+  /// No description provided for @yaser_salamah_murattal.
+  ///
+  /// In en, this message translates to:
+  /// **'Yaser Salamah'**
+  String get yaser_salamah_murattal;
+
+  /// No description provided for @yassin_aljazairi.
+  ///
+  /// In en, this message translates to:
+  /// **'Yassin Al-Jazairi'**
+  String get yassin_aljazairi;
+
+  /// No description provided for @mohammed_abdelkarim.
+  ///
+  /// In en, this message translates to:
+  /// **'Mohammed Abdelkarim'**
+  String get mohammed_abdelkarim;
+
+  /// No description provided for @alayoun_elkouchi.
+  ///
+  /// In en, this message translates to:
+  /// **'Al-Ayoun El-Kouchi'**
+  String get alayoun_elkouchi;
+
+  /// No description provided for @abdelkarim_daghoush.
+  ///
+  /// In en, this message translates to:
+  /// **'Abdelkarim Daghoush'**
+  String get abdelkarim_daghoush;
+
   /// No description provided for @murattal.
   ///
   /// In en, this message translates to:
@@ -3172,9 +3399,776 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Play'**
   String get play;
+
+  /// No description provided for @playback_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Playback Settings'**
+  String get playback_settings;
+
+  /// No description provided for @from.
+  ///
+  /// In en, this message translates to:
+  /// **'From'**
+  String get from;
+
+  /// No description provided for @to.
+  ///
+  /// In en, this message translates to:
+  /// **'To'**
+  String get to;
+
+  /// No description provided for @range.
+  ///
+  /// In en, this message translates to:
+  /// **'Range'**
+  String get range;
+
+  /// No description provided for @select_starting_verse.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Starting Verse'**
+  String get select_starting_verse;
+
+  /// No description provided for @select_ending_verse.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Ending Verse'**
+  String get select_ending_verse;
+
+  /// No description provided for @range_repeat.
+  ///
+  /// In en, this message translates to:
+  /// **'Range Repeat'**
+  String get range_repeat;
+
+  /// No description provided for @verse_repeat.
+  ///
+  /// In en, this message translates to:
+  /// **'Verse Repeat'**
+  String get verse_repeat;
+
+  /// -> improved_ Hafs_Rewaya_Force_Update
+  ///
+  /// In en, this message translates to:
+  /// **'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah'**
+  String get improved_Hafs_Rewaya_Force_Update;
+
+  /// -> mawaqit_three_sixty_description
+  /// _
+  ///
+  /// In en, this message translates to:
+  /// **'See prayer times come to life with our new animated clock'**
+  String get mawaqit_three_sixty_description;
+
+  /// -> HNPAI_user_guidance_MAWAQIT_360
+  /// _
+  ///
+  /// In en, this message translates to:
+  /// **'While using 360 view you cannot off this setting'**
+  String get hnpai_User_Guidance_MAWAQIT_360;
+
+  /// ->mawaqit_three_sixty_beta
+  /// _
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT 360 (Beta)'**
+  String get mawaqit_three_sixty_beta;
+
+  /// -> three_sixty_setting
+  ///
+  /// In en, this message translates to:
+  /// **'360 Settings'**
+  String get three_sixty_setting;
+
+  /// -> behavior
+  ///
+  /// In en, this message translates to:
+  /// **'Behavior'**
+  String get behavior;
+
+  /// -> next_prayer_open
+  ///
+  /// In en, this message translates to:
+  /// **'Next prayer'**
+  String get next_prayer_open;
+
+  /// -> all_prayer_closed
+  ///
+  /// In en, this message translates to:
+  /// **'All closed'**
+  String get all_prayer_closed;
+
+  /// -> recomended_next_prayer
+  ///
+  /// In en, this message translates to:
+  /// **'Recommended: Next prayer only'**
+  String get recomended_next_prayer;
+
+  /// -> live_preview
+  ///
+  /// In en, this message translates to:
+  /// **'Live Preview'**
+  String get live_preview;
+
+  /// -> font_Size_Normal
+  ///
+  /// In en, this message translates to:
+  /// **'Normal'**
+  String get font_Size_Normal;
+
+  /// -> font_Size_Large
+  ///
+  /// In en, this message translates to:
+  /// **'Large'**
+  String get font_Size_Large;
+
+  /// -> all_Prayer_Open
+  ///
+  /// In en, this message translates to:
+  /// **'All open'**
+  String get all_Prayer_Open;
+
+  /// -> font_Size
+  ///
+  /// In en, this message translates to:
+  /// **'Font Size'**
+  String get settingFontSize;
+
+  /// ->last_Third_Of_The_Night
+  /// -
+  ///
+  /// In en, this message translates to:
+  /// **'Last Third Of The Night'**
+  String get last_Third_Of_The_Night;
+
+  /// No description provided for @shaykh_aminuddin_muhammad.
+  ///
+  /// In en, this message translates to:
+  /// **'Shaykh Aminuddin Muhammad'**
+  String get shaykh_aminuddin_muhammad;
+
+  /// No description provided for @hafs_an_asim.
+  ///
+  /// In en, this message translates to:
+  /// **'Hafs ʿan ʿĀṣim'**
+  String get hafs_an_asim;
+
+  /// No description provided for @most_widespread_riwayah.
+  ///
+  /// In en, this message translates to:
+  /// **'The most widespread riwāyah worldwide'**
+  String get most_widespread_riwayah;
+
+  /// No description provided for @warsh_an_nafi.
+  ///
+  /// In en, this message translates to:
+  /// **'Warsh ʿan Nāfiʿ'**
+  String get warsh_an_nafi;
+
+  /// No description provided for @popular_across_north_west_africa.
+  ///
+  /// In en, this message translates to:
+  /// **'Popular across North & West Africa'**
+  String get popular_across_north_west_africa;
+
+  /// No description provided for @select.
+  ///
+  /// In en, this message translates to:
+  /// **'Select'**
+  String get select;
+
+  /// No description provided for @unknown_smartwatch.
+  ///
+  /// In en, this message translates to:
+  /// **'Unknown smartwatch'**
+  String get unknown_smartwatch;
+
+  /// No description provided for @connected_watch.
+  ///
+  /// In en, this message translates to:
+  /// **'Connected watch'**
+  String get connected_watch;
+
+  /// No description provided for @ready_play_watch.
+  ///
+  /// In en, this message translates to:
+  /// **'is ready to play on your watch'**
+  String get ready_play_watch;
+
+  /// No description provided for @transliteration.
+  ///
+  /// In en, this message translates to:
+  /// **'Transliteration'**
+  String get transliteration;
+
+  /// ->highlight_Tahajjud_Time
+  ///
+  /// In en, this message translates to:
+  /// **'Highlight Tahajjud Time'**
+  String get highlight_Tahajjud_Time;
+
+  /// No description provided for @calendar_access_not_available.
+  ///
+  /// In en, this message translates to:
+  /// **'Calendar access is not available.'**
+  String get calendar_access_not_available;
+
+  /// No description provided for @calendar_allow_access_mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Please allow calendar access to show your events on MAWAQIT 360.'**
+  String get calendar_allow_access_mawaqit;
+
+  /// No description provided for @calendar_access_required.
+  ///
+  /// In en, this message translates to:
+  /// **'Calendar access is required to show your events.'**
+  String get calendar_access_required;
+
+  /// No description provided for @calendar_allow_access_button.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow calendar access'**
+  String get calendar_allow_access_button;
+
+  /// No description provided for @calendar_loading.
+  ///
+  /// In en, this message translates to:
+  /// **'Loading calendars…'**
+  String get calendar_loading;
+
+  /// No description provided for @calendar_select_for_mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Select the calendars you want to display on MAWAQIT 360.'**
+  String get calendar_select_for_mawaqit;
+
+  /// No description provided for @calendar_enable_all.
+  ///
+  /// In en, this message translates to:
+  /// **'Enable all'**
+  String get calendar_enable_all;
+
+  /// No description provided for @calendar_disable_all.
+  ///
+  /// In en, this message translates to:
+  /// **'Disable all'**
+  String get calendar_disable_all;
+
+  /// No description provided for @calendar_other_calendars.
+  ///
+  /// In en, this message translates to:
+  /// **'Other calendars'**
+  String get calendar_other_calendars;
+
+  /// No description provided for @calendar_times_shown_in.
+  ///
+  /// In en, this message translates to:
+  /// **'Times shown in'**
+  String get calendar_times_shown_in;
+
+  /// No description provided for @calendar_starts_on.
+  ///
+  /// In en, this message translates to:
+  /// **'Starts on'**
+  String get calendar_starts_on;
+
+  /// No description provided for @calendar_ends_on.
+  ///
+  /// In en, this message translates to:
+  /// **'Ends on'**
+  String get calendar_ends_on;
+
+  /// No description provided for @calendar_events_at_this_time.
+  ///
+  /// In en, this message translates to:
+  /// **'Events at this time'**
+  String get calendar_events_at_this_time;
+
+  /// -≥ hamza_roberto_piccardo
+  ///
+  /// In en, this message translates to:
+  /// **'Hamza Roberto Piccardo'**
+  String get hamza_roberto_piccardo;
+
+  /// No description provided for @open_in_mawaqit_app.
+  ///
+  /// In en, this message translates to:
+  /// **'Open this mosque in MAWAQIT app'**
+  String get open_in_mawaqit_app;
+
+  /// No description provided for @mosque_name.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque name'**
+  String get mosque_name;
+
+  /// No description provided for @mosque_not_found.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque not found'**
+  String get mosque_not_found;
+
+  /// No description provided for @invalid_mosque_link.
+  ///
+  /// In en, this message translates to:
+  /// **'Invalid mosque link'**
+  String get invalid_mosque_link;
+
+  /// No description provided for @not_open_mosque_link.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not open this mosque link. Please try again.'**
+  String get not_open_mosque_link;
+
+  /// No description provided for @no_calendars_on_this_device.
+  ///
+  /// In en, this message translates to:
+  /// **'No calendars found on this device.'**
+  String get no_calendars_on_this_device;
+
+  /// -> calendar_event_at_this_time
+  ///
+  /// In en, this message translates to:
+  /// **'Event at this time'**
+  String get calendar_event_at_this_time;
+
+  /// No description provided for @search_ayah_surah.
+  ///
+  /// In en, this message translates to:
+  /// **'Search by Ayah or Surah'**
+  String get search_ayah_surah;
+
+  /// No description provided for @matching_surahs.
+  ///
+  /// In en, this message translates to:
+  /// **'Matching Surahs'**
+  String get matching_surahs;
+
+  /// No description provided for @matching_ayahs.
+  ///
+  /// In en, this message translates to:
+  /// **'Matching Ayahs'**
+  String get matching_ayahs;
+
+  /// live_timer
+  ///
+  /// In en, this message translates to:
+  /// **'Live Timer'**
+  String get live_timer;
+
+  /// notify_before
+  ///
+  /// In en, this message translates to:
+  /// **'Notify before'**
+  String get notify_before;
+
+  /// No description provided for @take_time_appear_watch.
+  ///
+  /// In en, this message translates to:
+  /// **'It may take a few seconds to appear on your watch.'**
+  String get take_time_appear_watch;
+
+  /// No description provided for @eid1.
+  ///
+  /// In en, this message translates to:
+  /// **'Eid'**
+  String get eid1;
+
+  /// hide_live_activity_for_prayer
+  ///
+  /// In en, this message translates to:
+  /// **'Hide live activity for this prayer only'**
+  String get hide_live_activity_for_prayer;
+
+  /// -> settings
+  ///
+  /// In en, this message translates to:
+  /// **'Settings'**
+  String get settings;
+
+  /// -> azkar
+  ///
+  /// In en, this message translates to:
+  /// **'Azkar'**
+  String get azkar;
+
+  /// No description provided for @quran_tajweed.
+  ///
+  /// In en, this message translates to:
+  /// **'Qur’an Tajwīd'**
+  String get quran_tajweed;
+
+  /// No description provided for @tajweed_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Color-coded tajwīd rules for correct recitation'**
+  String get tajweed_description;
+
+  /// No description provided for @tajwid_rules.
+  ///
+  /// In en, this message translates to:
+  /// **'Tajwid rules'**
+  String get tajwid_rules;
+
+  /// No description provided for @examples.
+  ///
+  /// In en, this message translates to:
+  /// **'Examples'**
+  String get examples;
+
+  /// No description provided for @real_time_weather.
+  ///
+  /// In en, this message translates to:
+  /// **'Real-Time Weather'**
+  String get real_time_weather;
+
+  /// No description provided for @layout.
+  ///
+  /// In en, this message translates to:
+  /// **'Layout'**
+  String get layout;
+
+  /// No description provided for @list.
+  ///
+  /// In en, this message translates to:
+  /// **'List'**
+  String get list;
+
+  /// No description provided for @grid.
+  ///
+  /// In en, this message translates to:
+  /// **'Grid'**
+  String get grid;
+
+  /// No description provided for @real_time_weather_needs_internet.
+  ///
+  /// In en, this message translates to:
+  /// **'Real-time weather needs an internet connection to download updates.'**
+  String get real_time_weather_needs_internet;
+
+  /// No description provided for @view_detail.
+  ///
+  /// In en, this message translates to:
+  /// **'View detail'**
+  String get view_detail;
+
+  /// No description provided for @temperature.
+  ///
+  /// In en, this message translates to:
+  /// **'Temperature'**
+  String get temperature;
+
+  /// No description provided for @tahajjud_time.
+  ///
+  /// In en, this message translates to:
+  /// **'Tahajjud Time'**
+  String get tahajjud_time;
+
+  /// No description provided for @last_third.
+  ///
+  /// In en, this message translates to:
+  /// **'Last third'**
+  String get last_third;
+
+  /// No description provided for @midnight.
+  ///
+  /// In en, this message translates to:
+  /// **'Midnight'**
+  String get midnight;
+
+  /// No description provided for @failed_to_update.
+  ///
+  /// In en, this message translates to:
+  /// **'Failed to update.'**
+  String get failed_to_update;
+
+  /// No description provided for @tap_to_retry.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to retry'**
+  String get tap_to_retry;
+
+  /// No description provided for @support_mawaqit_association.
+  ///
+  /// In en, this message translates to:
+  /// **'Support the MAWAQIT Association'**
+  String get support_mawaqit_association;
+
+  /// No description provided for @help_improve_mawaqit.
+  ///
+  /// In en, this message translates to:
+  /// **'Help improve MAWAQIT'**
+  String get help_improve_mawaqit;
+
+  /// No description provided for @analytics_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.'**
+  String get analytics_description;
+
+  /// No description provided for @weather_clear.
+  ///
+  /// In en, this message translates to:
+  /// **'Clear'**
+  String get weather_clear;
+
+  /// No description provided for @weather_clouds.
+  ///
+  /// In en, this message translates to:
+  /// **'Clouds'**
+  String get weather_clouds;
+
+  /// No description provided for @weather_tornado.
+  ///
+  /// In en, this message translates to:
+  /// **'Tornado'**
+  String get weather_tornado;
+
+  /// No description provided for @weather_ash.
+  ///
+  /// In en, this message translates to:
+  /// **'Ash'**
+  String get weather_ash;
+
+  /// No description provided for @weather_dust.
+  ///
+  /// In en, this message translates to:
+  /// **'Dust'**
+  String get weather_dust;
+
+  /// No description provided for @weather_sand.
+  ///
+  /// In en, this message translates to:
+  /// **'Sand'**
+  String get weather_sand;
+
+  /// No description provided for @weather_fog.
+  ///
+  /// In en, this message translates to:
+  /// **'Fog'**
+  String get weather_fog;
+
+  /// No description provided for @weather_haze.
+  ///
+  /// In en, this message translates to:
+  /// **'Haze'**
+  String get weather_haze;
+
+  /// No description provided for @weather_smoke.
+  ///
+  /// In en, this message translates to:
+  /// **'Smoke'**
+  String get weather_smoke;
+
+  /// No description provided for @weather_mist.
+  ///
+  /// In en, this message translates to:
+  /// **'Mist'**
+  String get weather_mist;
+
+  /// No description provided for @weather_snow.
+  ///
+  /// In en, this message translates to:
+  /// **'Snow'**
+  String get weather_snow;
+
+  /// No description provided for @weather_rain.
+  ///
+  /// In en, this message translates to:
+  /// **'Rain'**
+  String get weather_rain;
+
+  /// No description provided for @weather_drizzle.
+  ///
+  /// In en, this message translates to:
+  /// **'Drizzle'**
+  String get weather_drizzle;
+
+  /// No description provided for @weather_thunderstorm.
+  ///
+  /// In en, this message translates to:
+  /// **'Thunderstorm'**
+  String get weather_thunderstorm;
+
+  /// No description provided for @weather_squall.
+  ///
+  /// In en, this message translates to:
+  /// **'Squall'**
+  String get weather_squall;
+
+  /// No description provided for @weather_celsius.
+  ///
+  /// In en, this message translates to:
+  /// **'°C'**
+  String get weather_celsius;
+
+  /// No description provided for @animated_background.
+  ///
+  /// In en, this message translates to:
+  /// **'Animated background'**
+  String get animated_background;
+
+  /// No description provided for @weather.
+  ///
+  /// In en, this message translates to:
+  /// **'Weather'**
+  String get weather;
+
+  /// No description provided for @weather_need_internet.
+  ///
+  /// In en, this message translates to:
+  /// **'This feature needs an internet connection to download updates.'**
+  String get weather_need_internet;
+
+  /// No description provided for @weather_light_rain.
+  ///
+  /// In en, this message translates to:
+  /// **'Light rain'**
+  String get weather_light_rain;
+
+  /// No description provided for @edit.
+  ///
+  /// In en, this message translates to:
+  /// **'Edit'**
+  String get edit;
+
+  /// No description provided for @iqama_countdown.
+  ///
+  /// In en, this message translates to:
+  /// **'Iqama countdown'**
+  String get iqama_countdown;
+
+  /// live_activity_always_on
+  ///
+  /// In en, this message translates to:
+  /// **'Next prayer countdown'**
+  String get next_prayer_countdown;
+
+  /// No description provided for @next_prayer.
+  ///
+  /// In en, this message translates to:
+  /// **'Next Prayer'**
+  String get next_prayer;
+
+  /// No description provided for @live_countdown_for_all_pray.
+  ///
+  /// In en, this message translates to:
+  /// **'Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.'**
+  String get live_countdown_for_all_pray;
+
+  /// No description provided for @live_countdown.
+  ///
+  /// In en, this message translates to:
+  /// **'Live countdown'**
+  String get live_countdown;
+
+  /// No description provided for @quick_quran_reading_access.
+  ///
+  /// In en, this message translates to:
+  /// **'Quick Quran reading access'**
+  String get quick_quran_reading_access;
+
+  /// No description provided for @quick_quran_discription.
+  ///
+  /// In en, this message translates to:
+  /// **'Once you open the Quran tab, continue where you left off.'**
+  String get quick_quran_discription;
+
+  /// No description provided for @live_activity_tooltip.
+  ///
+  /// In en, this message translates to:
+  /// **'Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.'**
+  String get live_activity_tooltip;
+
+  /// No description provided for @prayer.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer'**
+  String get prayer;
+
+  /// -> weather_fahrenheit
+  ///
+  /// In en, this message translates to:
+  /// **'°F'**
+  String get weather_fahrenheit;
+
+  /// No description provided for @weather_your_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Shows weather for your location, not the mosque.'**
+  String get weather_your_location;
+
+  /// No description provided for @view_360_currently_selected.
+  ///
+  /// In en, this message translates to:
+  /// **'360 View is currently selected'**
+  String get view_360_currently_selected;
+
+  /// No description provided for @tap_change_layout.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap here to change the layout'**
+  String get tap_change_layout;
+
+  /// -> step
+  ///
+  /// In en, this message translates to:
+  /// **'Step'**
+  String get step;
+
+  /// No description provided for @jump_to_page.
+  ///
+  /// In en, this message translates to:
+  /// **'Jump to page'**
+  String get jump_to_page;
+
+  /// No description provided for @select_surah.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Surah'**
+  String get select_surah;
+
+  /// No description provided for @please_select_surah.
+  ///
+  /// In en, this message translates to:
+  /// **'Please select a surah'**
+  String get please_select_surah;
+
+  /// No description provided for @ayah_number.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayah number'**
+  String get ayah_number;
+
+  /// No description provided for @ayah_num_greater_zero.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayah number must be greater than 0'**
+  String get ayah_num_greater_zero;
+
+  /// No description provided for @ayah_number_exceeds_max.
+  ///
+  /// In en, this message translates to:
+  /// **'Ayah number exceeds maximum for this surah'**
+  String get ayah_number_exceeds_max;
+
+  /// No description provided for @update_page.
+  ///
+  /// In en, this message translates to:
+  /// **'Update page'**
+  String get update_page;
+
+  /// No description provided for @enter_ayah_num.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter Ayah num'**
+  String get enter_ayah_num;
 }
 
-class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
+class _AppLocalizationsDelegate
+    extends LocalizationsDelegate<AppLocalizations> {
   const _AppLocalizationsDelegate();
 
   @override
@@ -3183,49 +4177,121 @@ class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> 
   }
 
   @override
-  bool isSupported(Locale locale) => <String>['ar', 'az', 'bg', 'bm', 'bn', 'bs', 'de', 'en', 'es', 'ff', 'fi', 'fr', 'hi', 'hu', 'id', 'it', 'ku', 'ms', 'nl', 'pl', 'pt', 'ru', 'sq', 'sv', 'tr', 'ur'].contains(locale.languageCode);
+  bool isSupported(Locale locale) => <String>[
+    'ar',
+    'az',
+    'bg',
+    'bm',
+    'bn',
+    'bs',
+    'de',
+    'en',
+    'es',
+    'fa',
+    'ff',
+    'fi',
+    'fr',
+    'hi',
+    'hu',
+    'id',
+    'it',
+    'ku',
+    'ms',
+    'nl',
+    'pa',
+    'pl',
+    'ps',
+    'pt',
+    'ru',
+    'si',
+    'sq',
+    'sv',
+    'ta',
+    'th',
+    'tr',
+    'ug',
+    'ur',
+  ].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
 }
 
 AppLocalizations lookupAppLocalizations(Locale locale) {
-
-
   // Lookup logic when only language code is specified.
   switch (locale.languageCode) {
-    case 'ar': return AppLocalizationsAr();
-    case 'az': return AppLocalizationsAz();
-    case 'bg': return AppLocalizationsBg();
-    case 'bm': return AppLocalizationsBm();
-    case 'bn': return AppLocalizationsBn();
-    case 'bs': return AppLocalizationsBs();
-    case 'de': return AppLocalizationsDe();
-    case 'en': return AppLocalizationsEn();
-    case 'es': return AppLocalizationsEs();
-    case 'ff': return AppLocalizationsFf();
-    case 'fi': return AppLocalizationsFi();
-    case 'fr': return AppLocalizationsFr();
-    case 'hi': return AppLocalizationsHi();
-    case 'hu': return AppLocalizationsHu();
-    case 'id': return AppLocalizationsId();
-    case 'it': return AppLocalizationsIt();
-    case 'ku': return AppLocalizationsKu();
-    case 'ms': return AppLocalizationsMs();
-    case 'nl': return AppLocalizationsNl();
-    case 'pl': return AppLocalizationsPl();
-    case 'pt': return AppLocalizationsPt();
-    case 'ru': return AppLocalizationsRu();
-    case 'sq': return AppLocalizationsSq();
-    case 'sv': return AppLocalizationsSv();
-    case 'tr': return AppLocalizationsTr();
-    case 'ur': return AppLocalizationsUr();
+    case 'ar':
+      return AppLocalizationsAr();
+    case 'az':
+      return AppLocalizationsAz();
+    case 'bg':
+      return AppLocalizationsBg();
+    case 'bm':
+      return AppLocalizationsBm();
+    case 'bn':
+      return AppLocalizationsBn();
+    case 'bs':
+      return AppLocalizationsBs();
+    case 'de':
+      return AppLocalizationsDe();
+    case 'en':
+      return AppLocalizationsEn();
+    case 'es':
+      return AppLocalizationsEs();
+    case 'fa':
+      return AppLocalizationsFa();
+    case 'ff':
+      return AppLocalizationsFf();
+    case 'fi':
+      return AppLocalizationsFi();
+    case 'fr':
+      return AppLocalizationsFr();
+    case 'hi':
+      return AppLocalizationsHi();
+    case 'hu':
+      return AppLocalizationsHu();
+    case 'id':
+      return AppLocalizationsId();
+    case 'it':
+      return AppLocalizationsIt();
+    case 'ku':
+      return AppLocalizationsKu();
+    case 'ms':
+      return AppLocalizationsMs();
+    case 'nl':
+      return AppLocalizationsNl();
+    case 'pa':
+      return AppLocalizationsPa();
+    case 'pl':
+      return AppLocalizationsPl();
+    case 'ps':
+      return AppLocalizationsPs();
+    case 'pt':
+      return AppLocalizationsPt();
+    case 'ru':
+      return AppLocalizationsRu();
+    case 'si':
+      return AppLocalizationsSi();
+    case 'sq':
+      return AppLocalizationsSq();
+    case 'sv':
+      return AppLocalizationsSv();
+    case 'ta':
+      return AppLocalizationsTa();
+    case 'th':
+      return AppLocalizationsTh();
+    case 'tr':
+      return AppLocalizationsTr();
+    case 'ug':
+      return AppLocalizationsUg();
+    case 'ur':
+      return AppLocalizationsUr();
   }
 
   throw FlutterError(
     'AppLocalizations.delegate failed to load unsupported locale "$locale". This is likely '
     'an issue with the localizations generation tool. Please file an issue '
     'on GitHub with a reproducible sample app and the gen-l10n configuration '
-    'that was used.'
+    'that was used.',
   );
 }

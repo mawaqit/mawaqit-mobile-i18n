@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al‐Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al‐Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al-Ajami",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alili",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (undervisningsstil)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Khalid Qahataanee",
+    "khalid_al_mohanna": "Khalid Al-Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmoud Ali Al-Banna",
+    "minshawy_mujawwad": "Minshawy (Mujawwad)",
+    "mohammad_rashad_alshareef": "Mohammad Rashad Al-Shareef",
+    "muhammad_abdulKareem_murattal": "Muhammad Abdul Kareem",
+    "muhammad_ayyoub_murattal": "Muhammad Ayyoub",
+    "muhammad_jibreel_murattal": "Muhammad Jibreel",
+    "muhsin_al_qasim_murattal": "Abdul Muhsin Al-Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasser Alqatami",
+    "sahl_yassin_murattal": "Sahl Yassin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salah AbdulRahman Bukhatir",
+    "salah_albudair_murattal": "Salah Al-Budair",
+    "tawfeeq_assayegh": "Tawfeeq Assayegh",
+    "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Dagoush",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Spela"
+    "play": "Spela",
+    "playback_settings": "Inställningar för uppspelning",
+    "from": "Från",
+    "to": "Till",
+    "range": "Range",
+    "select_starting_verse": "Välj Start Verse",
+    "select_ending_verse": "Välj avslutningsvers",
+    "range_repeat": "Upprepa intervall",
+    "verse_repeat": "Upprepa vers",
+    "improved_Hafs_Rewaya_Force_Update": "Vi har förbättrat din Hafs Rewaya. Ladda ner nu för att utforska Tafsir och lyssna på recitationer genom att klicka på någon Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "Se bönen tider komma till liv med vår nya animerade klocka",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "Den här funktionen är aktiverad medan 360° vyn är aktiv och kan inte stängas av",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Inställningar",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Beteende",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Nästa bön",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Alla stängda",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Rekommenderat: Endast nästa bön",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Förhandsgranska live",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Stor",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "Alla öppna",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Sista tredjedelen av natten",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Shejk Aminuddin Muhammad",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "Den mest spridda recitationen i världen",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Populär i norra och västra Afrika",
+    "select": "Välj",
+    "unknown_smartwatch": "Okänd smartklocka",
+    "connected_watch": "Ansluten klocka",
+    "ready_play_watch": "är redo att spelas upp på din klocka",
+    "transliteration": "Translitterering",
+    "highlight_Tahajjud_Time": "Markera Tahajjud Tid",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "Kalenderåtkomst är inte tillgänglig.",
+    "calendar_allow_access_mawaqit": "Ge kalenderåtkomst för att visa dina händelser på MAWAQIT 360.",
+    "calendar_access_required": "Kalenderåtkomst krävs för att visa dina händelser.",
+    "calendar_allow_access_button": "Tillåt åtkomst till kalender",
+    "calendar_loading": "Laddar kalendrar…",
+    "calendar_select_for_mawaqit": "Välj de kalendrar du vill visa på MAWAQIT 360.",
+    "calendar_enable_all": "Aktivera alla",
+    "calendar_disable_all": "Inaktivera alla",
+    "calendar_other_calendars": "Andra kalendrar",
+    "calendar_times_shown_in": "Tider som visas i",
+    "calendar_starts_on": "Börjar på",
+    "calendar_ends_on": "Slutar på",
+    "calendar_events_at_this_time": "Händelser vid denna tid",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Öppna denna moské i appen MAWAQIT",
+    "mosque_name": "Moskén namn",
+    "mosque_not_found": "Moskén hittades inte",
+    "invalid_mosque_link": "Ogiltig moskélänk",
+    "not_open_mosque_link": "Kunde inte öppna denna moskélänk. Försök igen.",
+    "no_calendars_on_this_device": "Inga kalendrar hittades på den här enheten.",
+    "calendar_event_at_this_time": "Händelse just nu",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Sök på Ayah eller Surah",
+    "matching_surahs": "Matchande Surahs",
+    "matching_ayahs": "Matchande ayahs",
+    "live_timer": "Timer live",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Notifiera före",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Det kan ta några sekunder att visas på din klocka.",
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Dölj levande aktivitet endast för denna bön",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Inställningar",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Qur’an Tajwīd",
+    "tajweed_description": "Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt",
+    "tajwid_rules": "Tajwid rules",
+    "examples": "Exempel",
+    "real_time_weather": "Realtid väder",
+    "layout": "Layout",
+    "list": "Lista",
+    "grid": "Rutnät",
+    "real_time_weather_needs_internet": "Realtidsväder behöver en internetanslutning för att ladda ner uppdateringar.",
+    "view_detail": "Visa detaljer",
+    "temperature": "Temperatur",
+    "tahajjud_time": "Tahajjud Tid",
+    "last_third": "Sista tredjedelen",
+    "midnight": "Minuit",
+    "failed_to_update": "Misslyckades med att uppdatera.",
+    "tap_to_retry": "Tryck för att försöka igen",
+    "support_mawaqit_association": "Stöd MAWAQIT-föreningen",
+    "help_improve_mawaqit": "Hjälp till att förbättra MAWAQIT",
+    "analytics_description": "Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad.",
+    "weather_clear": "Klart",
+    "weather_clouds": "Moln",
+    "weather_tornado": "Tornado",
+    "weather_ash": "Aska",
+    "weather_dust": "Damm",
+    "weather_sand": "Sand",
+    "weather_fog": "Dimma",
+    "weather_haze": "Dis",
+    "weather_smoke": "Rök",
+    "weather_mist": "Lätt dimma",
+    "weather_snow": "Snö",
+    "weather_rain": "Regn",
+    "weather_drizzle": "Duggregn",
+    "weather_thunderstorm": "Åskväder",
+    "weather_squall": "Stormbyar",
+    "weather_celsius": "°C",
+    "animated_background": "Animerad bakgrund",
+    "weather": "Väder",
+    "weather_need_internet": "Den här funktionen kräver internetanslutning för att ladda ner uppdateringar.",
+    "weather_light_rain": "Lätt regn",
+    "edit": "Redigera",
+    "iqama_countdown": "Iqama-nedräkning",
+    "next_prayer_countdown": "Live aktivitet alltid på",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Nästa bön",
+    "live_countdown_for_all_pray": "Live nedräkning kommer att vara aktiv för alla böner och automatiskt visa en timer för varje kommande bön.",
+    "live_countdown": "Live nedräkning",
+    "quick_quran_reading_access": "Snabb åtkomst till Koranläsning",
+    "quick_quran_discription": "När du öppnar Koran-fliken kan du fortsätta där du slutade.",
+    "live_activity_tooltip": "Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.",
+    "prayer": "Bön",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Visar vädret för din plats, inte för moskén.",
+    "view_360_currently_selected": "360-visning är för närvarande vald",
+    "tap_change_layout": "Tryck här för att ändra layouten",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Gå till sida",
+    "select_surah": "Välj sura",
+    "please_select_surah": "Välj en sura",
+    "ayah_number": "Versnummer",
+    "ayah_num_greater_zero": "Versnumret måste vara större än 0",
+    "ayah_number_exceeds_max": "Versnumret överskrider maxgränsen för denna sura",
+    "update_page": "Uppdatera sida",
+    "enter_ayah_num": "Ange versnummer"
 }

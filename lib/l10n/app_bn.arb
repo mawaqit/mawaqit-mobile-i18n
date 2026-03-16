@@ -35,7 +35,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "আলো",
+    "settings_ThemeLight": "উজ্জ্বল",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
@@ -60,12 +60,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "১২ H",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "২৪ H",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
@@ -268,7 +268,7 @@
     "prayer_times": "নামাজের সময়",
     "remove_this_city": "এই শহরকে সরিয়ে দাও",
     "add_this_city": "এই শহর যোগ করুন",
-    "add_this_mosque": "এই মসজিদকে অ্যাড",
+    "add_this_mosque": "এই মসজিদকে যোগ করুন",
     "remove_this_mosque": "এই মসজিদ সরিয়ে দাও",
     "services": "সেবা",
     "share": "শেয়ার করুন",
@@ -276,7 +276,7 @@
     "call": "কল",
     "dnd": "বিরক্ত করবেন না",
     "battery_optimize": "ব্যাটারি অপ্টিমাইজেশান",
-    "power_saver": "শক্তি বাঁচায়",
+    "power_saver": "পাওয়ার সেভার",
     "permission_message1": "আমরা একটি বিলম্বিত বিজ্ঞপ্তি সনাক্ত করেছি, দয়া করে বন্ধ করুন৷",
     "permission_message2": "বিজ্ঞপ্তি বিলম্ব সনাক্ত করা হয়েছে",
     "notifications_delay_detected": "Notifications delay detected",
@@ -293,7 +293,7 @@
     },
     "qibla_sensor": "আপনার ডিভাইসের সেন্সরটি যা MAWAQIT কিবলা নির্ধারণের জন্য ব্যবহার করে তা প্রত্যাশিত হিসেবে কাজ করছে না, যা আমাদের কিবলা দিক প্রদর্শন ক্ষমতার উপর প্রভাব ফেলছে।",
     "connection_not_found": "কম্পাস ক্যালিব্রেশন সেটিংস নিষ্ক্রিয় করা হয়েছে। আপনার সংযোগ চালু আছে কিনা তা নিশ্চিত করুন এবং দিক পরিবর্তন করে আবার চেষ্টা করুন।",
-    "currently_located_at": "Currently located at",
+    "currently_located_at": "বর্তমানে অবস্থান করছে",
     "facing_makkah": "আপনি মক্কার দিকে মুখ করে আছেন",
     "not_facing_Makkah": "আপনি মক্কার দিকে মুখ করে নেই",
     "qibla_Error_retry": "পুনরায় চেষ্টা করা",
@@ -772,31 +772,31 @@
     "al_quran_al_kareem": "Al Quran Al Kareem",
     "surahs": "Surahs",
     "chapters": "Chapters",
-    "calculation_info": "The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.",
+    "calculation_info": "এই অংশের সেটিংস শুধুমাত্র আপনার অবস্থানের (জিওলোকেশন) ভিত্তিতে হিসাব করা নামাজের সময়ের সাথে সম্পর্কিত, মসজিদের নামাজের সময়ের সাথে নয়.",
     "calculation_madhab": "Jurisprudence - Madhab",
     "calculation_madhab_shafii": "Shafi’i, Hanbali and Maliki",
     "calculation_madhab_shafii_countries": "Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...",
     "calculation_madhab_hanafi": "Hanafi",
-    "calculation_madhab_hanafi_countries": "Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...",
+    "calculation_madhab_hanafi_countries": "লেভান্ট, পাকিস্তান, আফগানিস্তান, ভারত, বাংলাদেশ, ইরাক, তুরস্ক, রাশিয়া, চীন, বালকান...",
     "calculation_methods": "Calculation methods",
     "calculation_methods_france": "Muslim of France (ex UOIF)",
-    "calculation_methods_algeria": "Algerian Ministry of Religious Affairs and Wakfs",
-    "calculation_methods_morocco": "Moroccan Ministry of Wakfs and Islamic Affairs",
-    "calculation_methods_muslim_world": "Muslim World League",
-    "calculation_methods_egyptian": "Egyptian General Authority of Survey",
-    "calculation_methods_karachi": "University of Islamic Sciences, Karachi",
-    "calculation_methods_umm_al_qura": "Umm al-Qura University, Makkah",
-    "calculation_methods_dubai": "The Gulf Region",
-    "calculation_methods_moon": "Moon Sighting Committee",
-    "calculation_methods_north_america": "Islamic Society of North America",
+    "calculation_methods_algeria": "আলজেরিয়ান মিনিস্ট্রি অফ রিলিজিয়াস এফেয়ার এন্ড ওয়াকফ",
+    "calculation_methods_morocco": "আলজেরিয়ান মিনিস্ট্রি অফ ওয়াকফ এন্ড রিলিজিয়াস এফেয়ারস",
+    "calculation_methods_muslim_world": "মুসলিম ওয়ার্ল্ড লীগ",
+    "calculation_methods_egyptian": "মিশরীয় জেনারেল অথরিটি অফ সার্ভে",
+    "calculation_methods_karachi": "ইউনিভার্সিটি অব ইসলামিক সায়েন্সেস, করাচি",
+    "calculation_methods_umm_al_qura": "উম্মুল কুরা বিশ্ববিদ্যালয়, মক্কা",
+    "calculation_methods_dubai": "গালফ অঞ্চল",
+    "calculation_methods_moon": "চাঁদ দেখা কমিটি",
+    "calculation_methods_north_america": "ইসলামিক সোসাইটি অফ নর্থ আমেরিকা",
     "calculation_methods_kuwait": "Kuwait",
     "calculation_methods_qatar": "Qatar",
     "calculation_methods_singapore": "Singapore",
     "calculation_methods_turkey": "Turkey",
     "calculation_methods_tehran": "Institute of Geophysics, University of Tehran",
-    "calculation_methods_russia": "Spiritual Administration of Muslims in Russia",
-    "calculation_methods_custom": "Custom angles",
-    "calculation_high_latitude": "Higher latitudes",
+    "calculation_methods_russia": "স্পিরিচুয়াল এডমিনিস্ট্রেশন অফ মুসলিমস ইন রাশিয়া",
+    "calculation_methods_custom": "কাস্টম এংগেল",
+    "calculation_high_latitude": "উচ্চতর অক্ষাংশ",
     "calculation_high_latitude_none": "None",
     "calculation_high_latitude_middle": "Middle of the night",
     "calculation_high_latitude_one_seventh": "One-seventh of the night",
@@ -1034,7 +1034,7 @@
     },
     "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects.",
     "contact_us_boost": "To list your project here, contact us at",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "prayer_times_set_by_mosque": "নামাজের সময়সূচি এবং এখানে থাকা সব তথ্য মসজিদ কর্তৃক নির্ধারিত, MAWAQIT দ্বারা নয়।",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
@@ -1093,8 +1093,248 @@
     "tunaiji": "খলিফা আল-তুনাইজি",
     "sudais": "আব্দুর রহমান আস-সুদাইস",
     "tablawi": "মোহাম্মদ আল-তাবলাওয়ি",
+    "abdul_rashid_ali_sufi": "আবদুর রশীদ আলী সুফি",
+    "abdullaah_ajuhaynee_murattal": "আবদুল্লাহ আজুহাইনি",
+    "abdullaah_basfar_murattal": "আবদুল্লাহ বাসফার",
+    "abdullah_matroud_murattal": "আবদুল্লাহ মাতরুদ",
+    "ahmed_al_ajamy_murattal": "আহমাদ আল-আজামী",
+    "ahmed_neana_murattal": "আহমদ নায়না",
+    "akram_alaqimy_murattal": "আকরাম আল-আকিমি",
+    "ali_hajjaj_suesy_murattal": "আলি হাজ্জাজ সুয়েসি",
+    "ali_jaber_murattal": "আলি জাবের",
+    "ayman_sowaid_murattal": "আয়মান সুলাইদ",
+    "aziz_alii_murattal": "আজিজ আলী",
+    "fares_abbad_murattal": "ফারেস আববাদ",
+    "hudhaify_murattal": "হুঝাইফি",
+    "husary_muallim": "হুসারি (শিক্ষক ধাঁচে)",
+    "ibrahim_akhdar_murattal": "ইব্রাহিম আখদার",
+    "khaalid_qahataanee_murattal": "খালিদ কাহতানী",
+    "khalid_al_mohanna": "খালিদ আল-মুহান্না",
+    "mahmoud_ali_al_banna_murattal": "মাহমুদ আলী আল-বান্না",
+    "minshawy_mujawwad": "মিনশাওয়ি (মুজাওয়্বাদ)",
+    "mohammad_rashad_alshareef": "মোহাম্মদ রাশাদ আশ-শরীফ",
+    "muhammad_abdulKareem_murattal": "মুহাম্মদ আবদুল কারীম",
+    "muhammad_ayyoub_murattal": "মুহাম্মদ আইয়ুব",
+    "muhammad_jibreel_murattal": "মুহাম্মদ জিবরীল",
+    "muhsin_al_qasim_murattal": "মুহসিন আল-কাসিম",
+    "nabil_rifai3_murattal": "নাবিল রিফাঈ",
+    "nasser_alqatami_murattal": "নাসের আল-কাতামি",
+    "sahl_yassin_murattal": "সাহেল ইয়াসিন",
+    "salaah_abdulRahman_bukhatir_murattal": "সালাহ আবদুর রহমান বুখাতির",
+    "salah_albudair_murattal": "সালাহ আল-বুদাইর",
+    "tawfeeq_assayegh": "তৌফিক আস-সাইঘ",
+    "yaser_salamah_murattal": "ইয়াসির সালামাহ",
+    "yassin_aljazairi": "ইয়াসিন আল-জাযাইরি",
+    "mohammed_abdelkarim": "মোহাম্মদ আব্দেলকারিম",
+    "alayoun_elkouchi": "আল-আয়ুন এল-কুশি",
+    "abdelkarim_daghoush": "আবদেলকারিম দাগ্শ",
     "murattal": "মুরাত্তাল",
     "mujawwad": "মুজাওয়াদ",
     "moallim": "আল-মুসহাফ আল-মু‘াল্লিম",
-    "play": "চালান"
+    "play": "চালান",
+    "playback_settings": "প্লেব্যাক সেটিংস",
+    "from": "থেকে",
+    "to": "প্রতি",
+    "range": "পরিসর",
+    "select_starting_verse": "শুরু আয়াত নির্বাচন করুন",
+    "select_ending_verse": "শেষ আয়াত নির্বাচন করুন",
+    "range_repeat": "পরিসর পুনরাবৃত্তি",
+    "verse_repeat": "আয়াত পুনরাবৃত্তি",
+    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "আমাদের নতুন অ্যানিমেটেড ঘড়ির মাধ্যমে নামাজের সময়গুলোকে জীবন্তভাবে দেখুন",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "৩৬০ ভিউ ব্যবহার করার সময় আপনি এই সেটিংটি বন্ধ করতে পারবেন না",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (বেটা)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "৩৬০ সেটিংস",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "আচরণ",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "পরবর্তী নামাজ",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "সব বন্ধ",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommended: Next prayer only",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Preview",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "সব খোলা",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "রাতের শেষ তৃতীয়াংশ",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "শেখ আমিনুদ্দিন মুহাম্মদ",
+    "hafs_an_asim": "হাফস আন আসিম",
+    "most_widespread_riwayah": "বিশ্বব্যাপী সর্বাধিক প্রচলিত রিওয়ায়াহ",
+    "warsh_an_nafi": "ওয়ারশ আন নাফি",
+    "popular_across_north_west_africa": "উত্তর ও পশ্চিম আফ্রিকা জুড়ে জনপ্রিয়",
+    "select": "নির্বাচন করুন",
+    "unknown_smartwatch": "অজানা স্মার্টওয়াচ",
+    "connected_watch": "সংযুক্ত ঘড়ি",
+    "ready_play_watch": "আপনার ঘড়িতে চালানোর জন্য প্রস্তুত",
+    "transliteration": "ধ্বনিলিপি",
+    "highlight_Tahajjud_Time": "তাহাজ্জুদ সময় হাইলাইট করুন",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "ক্যালেন্ডার অ্যাক্সেস উপলব্ধ নয়।",
+    "calendar_allow_access_mawaqit": "MAWAQIT 360-এ আপনার ইভেন্ট দেখানোর জন্য অনুগ্রহ করে ক্যালেন্ডার অ্যাক্সেসের অনুমতি দিন।",
+    "calendar_access_required": "আপনার ইভেন্ট দেখানোর জন্য ক্যালেন্ডার অ্যাক্সেস প্রয়োজন।",
+    "calendar_allow_access_button": "ক্যালেন্ডার অ্যাক্সেস অনুমোদন করুন",
+    "calendar_loading": "ক্যালেন্ডার লোড হচ্ছে…",
+    "calendar_select_for_mawaqit": "যে ক্যালেন্ডারগুলি আপনি MAWAQIT 360-এ দেখাতে চান সেগুলি নির্বাচন করুন।",
+    "calendar_enable_all": "সব সক্ষম করুন",
+    "calendar_disable_all": "সব অক্ষম করুন",
+    "calendar_other_calendars": "অন্যান্য ক্যালেন্ডার",
+    "calendar_times_shown_in": "সময় দেখানো হয়েছে",
+    "calendar_starts_on": "শুরু হয়",
+    "calendar_ends_on": "শেষ হয়",
+    "calendar_events_at_this_time": "এই সময়ের ইভেন্টসমূহ",
+    "hamza_roberto_piccardo": "হামজা রবের্তো পিকারদো",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "এই মসজিদটি MAWAQIT অ্যাপে খুলুন",
+    "mosque_name": "মসজিদের নাম",
+    "mosque_not_found": "মসজিদ খুঁজে পাওয়া যায়নি",
+    "invalid_mosque_link": "অবৈধ মসজিদ লিংক",
+    "not_open_mosque_link": "এই মসজিদ লিংকটি খোলা যায়নি। অনুগ্রহ করে আবার চেষ্টা করুন।",
+    "no_calendars_on_this_device": "এই ডিভাইসে কোনো ক্যালেন্ডার পাওয়া যায়নি।",
+    "calendar_event_at_this_time": "এই সময়ের ইভেন্ট",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "আয়াত বা সূরা দিয়ে অনুসন্ধান করুন",
+    "matching_surahs": "মিলছে এমন সূরাগুলো",
+    "matching_ayahs": "মিলছে এমন আয়াতগুলো",
+    "live_timer": "লাইভ টাইমার",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "আগে থেকে জানান",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "আপনার ঘড়িতে দেখাতে কয়েক সেকেন্ড সময় লাগতে পারে।",
+    "eid1": "ঈদ",
+    "hide_live_activity_for_prayer": "এই নামাজের জন্য শুধুমাত্র লাইভ অ্যাক্টিভিটি লুকান",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "সেটিংস",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "আযকার",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "কুরআন তাজবীদ।",
+    "tajweed_description": "সঠিক তিলাওয়াতের জন্য রঙবিন্যাসকৃত তাজভীদের নিয়ম",
+    "tajwid_rules": "তাজভীদের নিয়ম",
+    "examples": "উদাহরণসমূহ",
+    "real_time_weather": "রিয়েল-টাইম আবহাওয়া",
+    "layout": "লেআউট",
+    "list": "তালিকা",
+    "grid": "গ্রিড",
+    "real_time_weather_needs_internet": "রিয়েল-টাইম আবহাওয়ার আপডেট পেতে ইন্টারনেট সংযোগ প্রয়োজন।.",
+    "view_detail": "বিস্তারিত দেখুন",
+    "temperature": "তাপমাত্রা",
+    "tahajjud_time": "তাহাজ্জুদের সময়",
+    "last_third": "শেষ তৃতীয়াংশ",
+    "midnight": "মধ্যরাত",
+    "failed_to_update": "আপডেট করতে ব্যর্থ হয়েছে।",
+    "tap_to_retry": "পুনরায় চেষ্টা করতে ট্যাপ করুন",
+    "support_mawaqit_association": "MAWAQIT সমিতিকে সমর্থন করুন",
+    "help_improve_mawaqit": "MAWAQIT উন্নত করতে সহায়তা করুন",
+    "analytics_description": "অ্যাপ উন্নত করতে আমাদেরকে নামবিহীন ব্যবহার বিশ্লেষণ করার অনুমতি দিন। কোনো ব্যক্তিগত তথ্য নেওয়া হবে না। কখনও কারো সাথে শেয়ার করা হবে না।",
+    "weather_clear": "পরিষ্কার",
+    "weather_clouds": "মেঘলা",
+    "weather_tornado": "ঘূর্ণিঝড়",
+    "weather_ash": "ছাই",
+    "weather_dust": "ধুলা",
+    "weather_sand": "বালু",
+    "weather_fog": "কুয়াশা",
+    "weather_haze": "হালকা কুয়াশা",
+    "weather_smoke": "ধোঁয়া",
+    "weather_mist": "মিস্ট (মৃদু কুয়াশা)",
+    "weather_snow": "তুষার",
+    "weather_rain": "বৃষ্টি",
+    "weather_drizzle": "গুঁড়ি গুঁড়ি বৃষ্টি",
+    "weather_thunderstorm": "বজ্রঝড়",
+    "weather_squall": "ঝড়ো হাওয়া",
+    "weather_celsius": "°সে.",
+    "animated_background": "অ্যানিমেটেড পটভূমি",
+    "weather": "আবহাওয়া",
+    "weather_need_internet": "আপডেট ডাউনলোড করতে এই ফিচারটির ইন্টারনেট সংযোগ প্রয়োজন।",
+    "weather_light_rain": "হালকা বৃষ্টি",
+    "edit": "সম্পাদনা করুন",
+    "iqama_countdown": "ইকামা কাউন্টডাউন",
+    "next_prayer_countdown": "পরবর্তী নামাজের কাউন্টডাউন",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "পরবর্তী নামাজ/ সালাত ",
+    "live_countdown_for_all_pray": "লাইভ কাউন্টডাউন সব নামাজের জন্য সক্রিয় থাকবে এবং প্রতিটি আসন্ন নামাজের জন্য স্বয়ংক্রিয়ভাবে একটি টাইমার দেখাবে।",
+    "live_countdown": "লাইভ কাউন্টডাউন",
+    "quick_quran_reading_access": "ত্বরিত কুরআন পাঠের প্রবেশাধিকার",
+    "quick_quran_discription": "আপনি যখন কুরআন ট্যাব খুলবেন, তখন যেখানে শেষ করেছেন সেখান থেকেই শুরু করতে পারবেন।",
+    "live_activity_tooltip": "লাইভ অ্যাক্টিভিটিগুলো আপনার লক স্ক্রিন ও ডাইনামিক আইল্যান্ডে (যদি সমর্থিত হয়) প্রদর্শিত হবে। চালু করলে, লাইভ টাইমার পরবর্তী নামাজ বা ইকামার কাউন্টডাউন দেখাবে।",
+    "prayer": "নামাজ",
+    "weather_fahrenheit": "°ফা.",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "আপনার অবস্থানের জন্য আবহাওয়া দেখানো হচ্ছে, মসজিদের জন্য নয়।",
+    "view_360_currently_selected": "৩৬০ ভিউ বর্তমানে নির্বাচিত হয়েছে",
+    "tap_change_layout": "বিন্যাস পরিবর্তন করতে এখানে ট্যাপ করুন",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "পৃষ্ঠায় যান",
+    "select_surah": "সূরা নির্বাচন করুন",
+    "please_select_surah": "অনুগ্রহ করে একটি সূরা নির্বাচন করুন",
+    "ayah_number": "আয়াত নম্বর",
+    "ayah_num_greater_zero": "আয়াত নম্বর ০-এর বেশি হতে হবে",
+    "ayah_number_exceeds_max": "এই সূরার জন্য আয়াত নম্বর সর্বোচ্চ সীমা অতিক্রম করেছে",
+    "update_page": "পৃষ্ঠা আপডেট করুন",
+    "enter_ayah_num": "আয়াত নম্বর লিখুন"
 }

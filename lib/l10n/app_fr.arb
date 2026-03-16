@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al-Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al-Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Soufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al-Ajami",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alili",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (style éducatif)",
+    "ibrahim_akhdar_murattal": "Ibrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Khalid Qahataanee",
+    "khalid_al_mohanna": "Khalid Al-Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmoud Ali Al-Banna",
+    "minshawy_mujawwad": "Minshawy (Mujawwad)",
+    "mohammad_rashad_alshareef": "Mohammad Rashad Al-Shareef",
+    "muhammad_abdulKareem_murattal": "Muhammad Abdul Kareem",
+    "muhammad_ayyoub_murattal": "Muhammad Ayyoub",
+    "muhammad_jibreel_murattal": "Muhammad Jibreel",
+    "muhsin_al_qasim_murattal": "Muhsin Al-Qasim",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasser Alqatami",
+    "sahl_yassin_murattal": "Sahl Yassin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salah AbdulRahman Bukhatir",
+    "salah_albudair_murattal": "Salah Al-Budair",
+    "tawfeeq_assayegh": "Tawfeeq Assayegh",
+    "yaser_salamah_murattal": "Yaser Salamah",
+    "yassin_aljazairi": "Yassin Al-Jazairi",
+    "mohammed_abdelkarim": "Mohammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayoun El-Kouchi",
+    "abdelkarim_daghoush": "Abdelkarim Dagoush",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Le Coran Enseignant",
-    "play": "Jouer"
+    "play": "Jouer",
+    "playback_settings": "Paramètres de lecture",
+    "from": "De",
+    "to": "À",
+    "range": "Plage",
+    "select_starting_verse": "Sélectionner le verset de début",
+    "select_ending_verse": "Sélectionner le verset de fin",
+    "range_repeat": "Répéter la plage",
+    "verse_repeat": "Répéter le verset",
+    "improved_Hafs_Rewaya_Force_Update": "Nous avons amélioré votre récitation Hafs. Téléchargez-la maintenant pour explorer le Tafsir et écouter les récitations en maintenant appuyé sur n’importe quelle Ayah",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "Découvrez les horaires de prière prendre vie avec notre nouvelle horloge animée",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "En mode vue 360, vous ne pouvez pas désactiver ce paramètre",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Bêta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "Réglages 360",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Comportement",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Prochaine prière",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Tous fermés",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommandé : Prochaine prière seulement",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Aperçu en direct",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normale",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Gros",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "Tous ouverts",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Dernier tiers de la nuit",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Cheikh Aminuddin Muhammad",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "La récitation la plus répandue dans le monde",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Populaire en Afrique du Nord et de l'Ouest",
+    "select": "Sélectionner",
+    "unknown_smartwatch": "Montre intelligente inconnue",
+    "connected_watch": "Montre connectée",
+    "ready_play_watch": "est prête à être lue sur votre montre",
+    "transliteration": "Translittération",
+    "highlight_Tahajjud_Time": "Surligner l'heure de Tahajjud",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "L’accès au calendrier n’est pas disponible.",
+    "calendar_allow_access_mawaqit": "Veuillez autoriser l’accès au calendrier pour afficher vos événements sur MAWAQIT 360.",
+    "calendar_access_required": "L’accès au calendrier est requis pour afficher vos événements.",
+    "calendar_allow_access_button": "Autoriser l’accès au calendrier",
+    "calendar_loading": "Chargement des calendriers…",
+    "calendar_select_for_mawaqit": "Sélectionnez les calendriers à afficher sur MAWAQIT 360.",
+    "calendar_enable_all": "Tout activer",
+    "calendar_disable_all": "Tout désactiver",
+    "calendar_other_calendars": "Autres calendriers",
+    "calendar_times_shown_in": "Heures affichées en",
+    "calendar_starts_on": "Commence le",
+    "calendar_ends_on": "Se termine le",
+    "calendar_events_at_this_time": "Événements à cette heure",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Ouvrir cette mosquée dans l'application MAWAQIT",
+    "mosque_name": "Nom de la mosquée",
+    "mosque_not_found": "Mosquée introuvable",
+    "invalid_mosque_link": "Lien de mosquée invalide",
+    "not_open_mosque_link": "Impossible d'ouvrir ce lien de mosquée. Veuillez réessayer.",
+    "no_calendars_on_this_device": "Aucun calendrier n’a été trouvé sur cet appareil.",
+    "calendar_event_at_this_time": "Événement en ce moment",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Rechercher par verset ou sourate",
+    "matching_surahs": "Sourates correspondantes",
+    "matching_ayahs": "Versets correspondants",
+    "live_timer": "Minuterie en direct",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Notifier avant",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Cela peut prendre quelques secondes pour apparaître sur votre montre.",
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Masquer l'activité en direct pour cette prière uniquement",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Réglages",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Azkar",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Coran Tajwīd",
+    "tajweed_description": "Règles de tajwīd codées par couleur pour une récitation correcte",
+    "tajwid_rules": "Règles de Tajwid",
+    "examples": "Exemples",
+    "real_time_weather": "Météo en temps réel",
+    "layout": "Disposition",
+    "list": "Liste",
+    "grid": "Grille",
+    "real_time_weather_needs_internet": "La météo en temps réel nécessite une connexion Internet pour télécharger les mises à jour.",
+    "view_detail": "Voir le détail",
+    "temperature": "Température",
+    "tahajjud_time": "Heure du Tahajjud",
+    "last_third": "Dernier tiers",
+    "midnight": "Minuit",
+    "failed_to_update": "Échec de la mise à jour.",
+    "tap_to_retry": "Appuyez pour réessayer",
+    "support_mawaqit_association": "Soutenez l'association MAWAQIT",
+    "help_improve_mawaqit": "Améliorons MAWAQIT ensemble",
+    "analytics_description": "En activant l’analyse anonyme d'utilisation, vous nous aidez à améliorer l’application.\nAucune donnée personnelle, et aucune diffusion de données.",
+    "weather_clear": "Dégagé",
+    "weather_clouds": "Nuages",
+    "weather_tornado": "Tornade",
+    "weather_ash": "Cendre",
+    "weather_dust": "Poussière",
+    "weather_sand": "Sable",
+    "weather_fog": "Brouillard",
+    "weather_haze": "Brume sèche",
+    "weather_smoke": "Fumée",
+    "weather_mist": "Brume",
+    "weather_snow": "Neige",
+    "weather_rain": "Pluie",
+    "weather_drizzle": "Bruine",
+    "weather_thunderstorm": "Orage",
+    "weather_squall": "Rafale",
+    "weather_celsius": "°C",
+    "animated_background": "Arrière-plan animé",
+    "weather": "Météo",
+    "weather_need_internet": "Cette fonctionnalité nécessite une connexion Internet pour télécharger les mises à jour.",
+    "weather_light_rain": "Pluie légère",
+    "edit": "Modifier",
+    "iqama_countdown": "Compte à rebours Iqama",
+    "next_prayer_countdown": "Activité en direct toujours activée",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Prochaine prière",
+    "live_countdown_for_all_pray": "Le compte à rebours en direct sera activé pour toutes les prières, affichant automatiquement un minuteur pour chaque prochaine prière.",
+    "live_countdown": "Compte à rebours en direct",
+    "quick_quran_reading_access": "Accès rapide à la lecture du Coran",
+    "quick_quran_discription": "Lorsque vous ouvrez l'onglet Coran, reprenez là où vous vous êtes arrêté.",
+    "live_activity_tooltip": "Les Activités en direct apparaissent sur votre écran verrouillé et dans la Dynamic Island (si prise en charge). Lorsqu’elles sont activées, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou la prochaine iqama.",
+    "prayer": "Prière",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Affiche la météo de votre emplacement, pas celle de la mosquée.",
+    "view_360_currently_selected": "Vue à 360° actuellement sélectionnée",
+    "tap_change_layout": "Appuyez ici pour changer la disposition",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Aller à la page",
+    "select_surah": "Sélectionner une sourat",
+    "please_select_surah": "Veuillez sélectionner une sourate",
+    "ayah_number": "Numéro du verset",
+    "ayah_num_greater_zero": "Le numéro du verset doit être supérieur à 0",
+    "ayah_number_exceeds_max": "Le numéro du verset dépasse le maximum pour cette sourate",
+    "update_page": "Mettre à jour la page",
+    "enter_ayah_num": "Saisir le numéro du verset"
 }

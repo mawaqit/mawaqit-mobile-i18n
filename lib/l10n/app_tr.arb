@@ -972,8 +972,8 @@
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portekizce",
     "al_zikr": "El-Zikr",
-    "favorite_azkar": "Favorite Azkar",
-    "all_azkar": "All Azkar",
+    "favorite_azkar": "Favori Zikirler",
+    "all_azkar": "Tüm Zikirler",
     "device_audio_not_found": "Device audio not found",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
@@ -1034,7 +1034,7 @@
     },
     "notified_boost": "MAWAQIT Boost projeleriyle ilgili en son güncellemelerden haberdar olun.",
     "contact_us_boost": "Projenizi burada listelemek için, bizimle iletişime geçin:",
-    "prayer_times_set_by_mosque": "Prayer times and all the information here are set by the mosque, not MAWAQIT",
+    "prayer_times_set_by_mosque": "Namaz vakitleri ve buradaki tüm bilgiler MAWAQIT tarafından değil, cami tarafından belirlenmektedir",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
@@ -1093,8 +1093,248 @@
     "tunaiji": "Khalifa Al-Tunaiji",
     "sudais": "Abdulrahman Alsudaes",
     "tablawi": "Mohamed Al-Tablawi",
+    "abdul_rashid_ali_sufi": "Abdul Rashid Ali Sufi",
+    "abdullaah_ajuhaynee_murattal": "Abdullah Ajuhaynee",
+    "abdullaah_basfar_murattal": "Abdullah Basfar",
+    "abdullah_matroud_murattal": "Abdullah Matroud",
+    "ahmed_al_ajamy_murattal": "Ahmed Al-Ajami",
+    "ahmed_neana_murattal": "Ahmed Neana",
+    "akram_alaqimy_murattal": "Akram Alaqimy",
+    "ali_hajjaj_suesy_murattal": "Ali Hajjaj Suesy",
+    "ali_jaber_murattal": "Ali Jaber",
+    "ayman_sowaid_murattal": "Ayman Sowaid",
+    "aziz_alii_murattal": "Aziz Alili",
+    "fares_abbad_murattal": "Fares Abbad",
+    "hudhaify_murattal": "Hudhaify",
+    "husary_muallim": "Husary (öğretici tarz)",
+    "ibrahim_akhdar_murattal": "İbrahim Akhdar",
+    "khaalid_qahataanee_murattal": "Halid Kahtani",
+    "khalid_al_mohanna": "Halid Al-Mohanna",
+    "mahmoud_ali_al_banna_murattal": "Mahmud Ali El-Benna",
+    "minshawy_mujawwad": "Minshawy (Tecvidli)",
+    "mohammad_rashad_alshareef": "Muhammed Raşad Eş-Şerif",
+    "muhammad_abdulKareem_murattal": "Muhammed Abdul Kerim",
+    "muhammad_ayyoub_murattal": "Muhammed Eyyub",
+    "muhammad_jibreel_murattal": "Muhammed Cibril",
+    "muhsin_al_qasim_murattal": "Abdul Muhsin Al-Kasım",
+    "nabil_rifai3_murattal": "Nabil Rifai",
+    "nasser_alqatami_murattal": "Nasır El-Katami",
+    "sahl_yassin_murattal": "Sehl Yasin",
+    "salaah_abdulRahman_bukhatir_murattal": "Salah Abdulrahman Buhatir",
+    "salah_albudair_murattal": "Salah Al-Budeyr",
+    "tawfeeq_assayegh": "Tawfik Es-Sayyegh",
+    "yaser_salamah_murattal": "Yaser Selame",
+    "yassin_aljazairi": "Yassin El-Cezayiri",
+    "mohammed_abdelkarim": "Muhammed Abdelkarim",
+    "alayoun_elkouchi": "Al-Ayun El-Kuçi",
+    "abdelkarim_daghoush": "Abdelkarim Dağuş",
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Öğretici Mushaf",
-    "play": "Oynat"
+    "play": "Oynat",
+    "playback_settings": "Oynatma ayarları",
+    "from": "Başlangıç",
+    "to": "Bitiş",
+    "range": "Aralık",
+    "select_starting_verse": "Başlangıç ayetini seçin",
+    "select_ending_verse": "Bitiş ayetini seçin",
+    "range_repeat": "Aralığı tekrarla",
+    "verse_repeat": "Ayeti tekrarla",
+    "improved_Hafs_Rewaya_Force_Update": "Hafs Rivayenizi geliştirdik. Şimdi indirin, Tefsiri keşfedin ve herhangi bir Ayet’e uzun basarak kıraatleri dinleyin",
+    "@improved_Hafs_Rewaya_Force_Update": {
+        "description": "-> improved_ Hafs_Rewaya_Force_Update"
+    },
+    "mawaqit_three_sixty_description": "Namaz vakitlerinin yeni animasyonlu saatimizle nasıl canlandığını görün",
+    "@mawaqit_three_sixty_description": {
+        "description": "-> mawaqit_three_sixty_description\r\n_"
+    },
+    "hnpai_User_Guidance_MAWAQIT_360": "360 görünümünü kullanırken bu ayarı kapatamazsınız.",
+    "@hnpai_User_Guidance_MAWAQIT_360": {
+        "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
+    },
+    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "@mawaqit_three_sixty_beta": {
+        "description": "->mawaqit_three_sixty_beta\r\n_"
+    },
+    "three_sixty_setting": "360 Ayarları",
+    "@three_sixty_setting": {
+        "description": "-> three_sixty_setting"
+    },
+    "behavior": "Davranış",
+    "@behavior": {
+        "description": "-> behavior"
+    },
+    "next_prayer_open": "Sonraki Namaz",
+    "@next_prayer_open": {
+        "description": "-> next_prayer_open"
+    },
+    "all_prayer_closed": "Hepsi Kapalı",
+    "@all_prayer_closed": {
+        "description": "-> all_prayer_closed"
+    },
+    "recomended_next_prayer": "Recommended: Next prayer only",
+    "@recomended_next_prayer": {
+        "description": "-> recomended_next_prayer"
+    },
+    "live_preview": "Live Preview",
+    "@live_preview": {
+        "description": "-> live_preview"
+    },
+    "font_Size_Normal": "Normal",
+    "@font_Size_Normal": {
+        "description": "-> font_Size_Normal"
+    },
+    "font_Size_Large": "Large",
+    "@font_Size_Large": {
+        "description": "-> font_Size_Large"
+    },
+    "all_Prayer_Open": "Hepsi Açık",
+    "@all_Prayer_Open": {
+        "description": "-> all_Prayer_Open"
+    },
+    "settingFontSize": "Font Size",
+    "@settingFontSize": {
+        "description": "-> font_Size"
+    },
+    "last_Third_Of_The_Night": "Gecenin Son Üçte Biri",
+    "@last_Third_Of_The_Night": {
+        "description": "->last_Third_Of_The_Night\r\n-"
+    },
+    "shaykh_aminuddin_muhammad": "Şeyh Eminüddin Muhammed",
+    "hafs_an_asim": "Hafs ʿan ʿĀṣim",
+    "most_widespread_riwayah": "Dünyada en yaygın kıraat",
+    "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
+    "popular_across_north_west_africa": "Kuzey ve Batı Afrika’da yaygındır",
+    "select": "Seleccionar",
+    "unknown_smartwatch": "Bilinmeyen akıllı saat",
+    "connected_watch": "Bağlı saat",
+    "ready_play_watch": "saatinizde oynatmaya hazır",
+    "transliteration": "Çeviriyazı",
+    "highlight_Tahajjud_Time": "Teheccüd Vaktini Vurgula",
+    "@highlight_Tahajjud_Time": {
+        "description": "->highlight_Tahajjud_Time"
+    },
+    "calendar_access_not_available": "Takvim erişimi mevcut değil.",
+    "calendar_allow_access_mawaqit": "Lütfen MAWAQIT 360’ta etkinliklerinizi gösterebilmek için takvim erişimine izin verin.",
+    "calendar_access_required": "El acceso al calendario es necesario para mostrar tus eventos.",
+    "calendar_allow_access_button": "Takvim erişimine izin ver",
+    "calendar_loading": "Takvimler yükleniyor…",
+    "calendar_select_for_mawaqit": "MAWAQIT 360’ta göstermek istediğiniz takvimleri seçin.",
+    "calendar_enable_all": "Hepsini Etkinleştir",
+    "calendar_disable_all": "Hepsini Devre Dışı Bırak",
+    "calendar_other_calendars": "Otros calendarios",
+    "calendar_times_shown_in": "Saatler şu zaman diliminde gösterilmektedir",
+    "calendar_starts_on": "Başlangıç tarihi",
+    "calendar_ends_on": "Bitiş tarihi",
+    "calendar_events_at_this_time": "Bu zamandaki etkinlikler",
+    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "@hamza_roberto_piccardo": {
+        "description": "-≥ hamza_roberto_piccardo"
+    },
+    "open_in_mawaqit_app": "Abrir esta mezquita en la aplicación MAWAQIT",
+    "mosque_name": "Nombre de la mezquita",
+    "mosque_not_found": "Mezquita no encontrada",
+    "invalid_mosque_link": "Enlace de mezquita inválido",
+    "not_open_mosque_link": "No se pudo abrir el enlace de esta mezquita. Por favor, inténtalo de nuevo.",
+    "no_calendars_on_this_device": "No se encontraron calendarios en este dispositivo.",
+    "calendar_event_at_this_time": "Bu zamandaki etkinlik",
+    "@calendar_event_at_this_time": {
+        "description": "-> calendar_event_at_this_time"
+    },
+    "search_ayah_surah": "Ayet veya sureye göre ara",
+    "matching_surahs": "Eşleşen Sureler",
+    "matching_ayahs": "Eşleşen Ayetler",
+    "live_timer": "Canlı Zamanlayıcı",
+    "@live_timer": {
+        "description": "live_timer"
+    },
+    "notify_before": "Önceden Bildir",
+    "@notify_before": {
+        "description": "notify_before"
+    },
+    "take_time_appear_watch": "Saatinizde görünmesi birkaç saniye sürebilir.",
+    "eid1": "Eid",
+    "hide_live_activity_for_prayer": "Yalnızca bu namaz için canlı etkinliği gizle",
+    "@hide_live_activity_for_prayer": {
+        "description": "hide_live_activity_for_prayer"
+    },
+    "settings": "Configuración",
+    "@settings": {
+        "description": "-> settings"
+    },
+    "azkar": "Zikirler",
+    "@azkar": {
+        "description": "-> azkar"
+    },
+    "quran_tajweed": "Kur’an Tecvid",
+    "tajweed_description": "Reglas de tajwīd codificadas por colores para una recitación correcta",
+    "tajwid_rules": "Reglas de tajwīd",
+    "examples": "Örnekler",
+    "real_time_weather": "Gerçek Zamanlı Hava Durumu",
+    "layout": "Diseño",
+    "list": "Liste",
+    "grid": "Izgara",
+    "real_time_weather_needs_internet": "Gerçek zamanlı hava durumu güncellemeleri indirmek için internet bağlantısı gereklidir.",
+    "view_detail": "Detayı Görüntüle",
+    "temperature": "Sıcaklık",
+    "tahajjud_time": "Teheccüd Vakti",
+    "last_third": "Son üçte bir",
+    "midnight": "Minuit",
+    "failed_to_update": "Güncelleme başarısız oldu.",
+    "tap_to_retry": "Yeniden denemek için dokunun",
+    "support_mawaqit_association": "MAWAQIT Derneği'ni Destekleyin",
+    "help_improve_mawaqit": "MAWAQIT'i geliştirmeye yardım et",
+    "analytics_description": "Uygulamayı geliştirmemize yardımcı olmak için anonim kullanım analizine izin verin. Kişisel veri yoktur. Asla paylaşılmaz.",
+    "weather_clear": "Açık",
+    "weather_clouds": "Bulutlu",
+    "weather_tornado": "Hortum",
+    "weather_ash": "Kül",
+    "weather_dust": "Toz",
+    "weather_sand": "Kum",
+    "weather_fog": "Sis",
+    "weather_haze": "Pus",
+    "weather_smoke": "Duman",
+    "weather_mist": "Yoğun nemli hava",
+    "weather_snow": "Kar",
+    "weather_rain": "Yağmur",
+    "weather_drizzle": "Çiseleme",
+    "weather_thunderstorm": "Gök gürültülü fırtına",
+    "weather_squall": "Fırtına",
+    "weather_celsius": "°C",
+    "animated_background": "Animasyonlu arka planı",
+    "weather": "Hava Durumu",
+    "weather_need_internet": "Bu özellik, güncellemeleri indirmek için internet bağlantısı gerektirir.",
+    "weather_light_rain": "Hafif yağmur",
+    "edit": "Düzenle",
+    "iqama_countdown": "İkame Geri Sayım",
+    "next_prayer_countdown": "Sonraki Namaz Geri Sayımı",
+    "@next_prayer_countdown": {
+        "description": "live_activity_always_on"
+    },
+    "next_prayer": "Sonraki Namazı",
+    "live_countdown_for_all_pray": "Canlı geri sayım tüm namazlar için aktif olacak ve her yaklaşan namaz için otomatik olarak bir zamanlayıcı gösterecektir",
+    "live_countdown": "Canlı geri sayım",
+    "quick_quran_reading_access": "Hızlı Kur'an okuma erişimi",
+    "quick_quran_discription": "Kur’an sekmesini açtığınızda, kaldığınız yerden devam edin.",
+    "live_activity_tooltip": "Canlı Aktiviteler, Kilit Ekranınızda ve Dinamik Ada'da (destekleniyorsa) görünür. Etkinleştirildiğinde, bir canlı sayaç bir sonraki namaz veya iqama süresine kalan zamanı gösterir.",
+    "prayer": "Namaz",
+    "weather_fahrenheit": "°F",
+    "@weather_fahrenheit": {
+        "description": "-> weather_fahrenheit"
+    },
+    "weather_your_location": "Konumunuz için hava durumunu gösterir.",
+    "view_360_currently_selected": "360 Görünümü şu anda seçili",
+    "tap_change_layout": "Düzeni değiştirmek için buraya dokunun",
+    "step": "Step",
+    "@step": {
+        "description": "-> step"
+    },
+    "jump_to_page": "Sayfaya Git",
+    "select_surah": "Sure Seç",
+    "please_select_surah": "Lütfen bir sure seçin",
+    "ayah_number": "Ayet Numarası",
+    "ayah_num_greater_zero": "Ayet numarası 0’dan büyük olmalıdır",
+    "ayah_number_exceeds_max": "Bu sure için ayet numarası maksimumu aşıyor",
+    "update_page": "Sayfayı Güncelle",
+    "enter_ayah_num": "Ayet numarasını girin"
 }

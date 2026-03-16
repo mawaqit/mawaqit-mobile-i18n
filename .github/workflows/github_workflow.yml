@@ -16,7 +16,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.29.1'
+          flutter-version: '3.35.5'
 
       - name: Replace "ur-PK" with "ur" in app_ur.arb
         run: |
@@ -35,7 +35,15 @@ jobs:
       - name: Replace "sv-SE" with "sv" in app_sv.arb
         run: |
           sed -i 's/"sv-SE"/"sv"/g' lib/l10n/app_sv.arb
-          
+      - name: Replace "si-LK" with "si" in app_si.arb
+        run: |
+          sed -i 's/"si-LK"/"si"/g' lib/l10n/app_si.arb
+      - name: Replace "pa-PK" with "pa" in app_pa.arb
+        run: |
+          sed -i 's/"pa-PK"/"pa"/g' lib/l10n/app_pa.arb
+      - name: Replace "fa-AF" with "pa" in app_fa.arb
+        run: |
+          sed -i 's/"fa-AF"/"fa"/g' lib/l10n/app_fa.arb
       - name: Run flutter gen-l10n
         run: flutter gen-l10n
           
