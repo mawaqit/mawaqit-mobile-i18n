@@ -1,6 +1,6 @@
 {
     "@@locale": "ug",
-    "bottomNavbar_mawaqit": "MAWAQIT",
+    "bottomNavbar_mawaqit": "مەۋاقىت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
@@ -35,7 +35,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "يورۇق",
+    "settings_ThemeLight": "يېنىك",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
@@ -45,7 +45,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "تىل تاللىنىشى",
+    "settings_LanguageSelection": "تىل تاللاش",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
@@ -79,12 +79,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "يېڭىلىقلار",
-    "settings_SupportMawaqit": "MAWAQIT نى قوللاش",
+    "settings_WhatsNew": "يېڭىلىق",
+    "settings_SupportMawaqit": "مەۋاقىتنى قوللاش",
     "settings_News": "خەۋەر",
     "settings_MakeADonation": "ئىئانە قىلىڭ",
     "bismillah": "بىسمىللا",
-    "settings_DonateToMawaqit": "MAWAQIT قا ئىئانە قىلىڭ",
+    "settings_DonateToMawaqit": "مەۋاقىتقا ئىئانە قىلىڭ",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
@@ -239,7 +239,7 @@
     "search_settings": "تەڭشەك",
     "no_services_text": "مەسچىت بۇ ئۇچۇرنى تەمىنلىمىگەن",
     "welcome": "خۇش كەلدىڭىز",
-    "mawaqit": "MAWAQIT",
+    "mawaqit": "مەۋاقىت",
     "connecting": "مۇسۇلمانلارنى ئۆزئارا باغلايدۇ",
     "to_mosques": "مەسچىت",
     "get_started": "باشلاش",
@@ -253,7 +253,7 @@
     "mosques_around_you": "ئەتراپىڭىزدىكى مەسچىت",
     "mosques_in_the_selected_area": "تاللىغان جايدىكى مەسچىت",
     "mosques_with": "مەسچىتلەر",
-    "allow_mawaqit_to_access_my_location": "Mawaqit نىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.",
+    "allow_mawaqit_to_access_my_location": "مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.",
     "enable_location_service_from_app_settings": "ئەپ تەڭشىكىدىن ئورۇن مۇلازىمىتىنى قوزغىتىدۇ.",
     "the_request_timeout": "ئىلتىماس ۋاقتى ئۆتتى",
     "no_internet_connection": "ئىنتېرنېت باغلىنىشى يوق",
@@ -291,11 +291,11 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "MAWAQIT قىبلىنى توغرىلاشتا ئىشلىتىدىغان ئۈسكۈنىڭىزدىكى سەزگۈچ مۆلچەردىكىدەك ئىشلىمىدى، بۇ بىزنىڭ قىبلىنىڭ يۆنىلىشىنى توغرىلىشىمىزغا تەسىر كۆرسىتىدۇ.",
+    "qibla_sensor": "مەۋاقىت قىبلىنى توغرىلاشتا ئىشلىتىدىغان ئۈسكۈنىڭىزدىكى سەزگۈچ مۆلچەردىكىدەك ئىشلىمىدى، بۇ بىزنىڭ قىبلىنىڭ يۆنىلىشىنى توغرىلىشىمىزغا تەسىر كۆرسىتىدۇ.",
     "connection_not_found": "كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. باغلىنىشىڭىزنىڭ ئوچۇق ئىكەنلىكىنى جەزملەپ ئاندىن يۆنىلىشنى ئۆزگەرتىپ قايتا سىناڭ.",
     "currently_located_at": "نۆۋەتتىكى ئورنى",
-    "facing_makkah": "مەككە تەرەپكە يۈزلەندىڭىز",
-    "not_facing_Makkah": "مەككە تەرەپكە يۈزلەنمىدىڭىز",
+    "facing_makkah": "مەككىگە يۈزلەندىڭىز",
+    "not_facing_Makkah": "مەككىگە يۈزلەنمىدىڭىز",
     "qibla_Error_retry": "قايتا سىنا",
     "@qibla_Error_retry": {
         "description": "_",
@@ -386,7 +386,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "MAWAQIT ئۆگەتكۈچى https://mawaqit.net",
+    "mosque_ByMawaqit": "مەۋاقىت ئۆگەتكۈچى https://mawaqit.net",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
@@ -466,7 +466,7 @@
         "description": "_",
         "type": "text"
     },
-    "please_update": "MAWAQIT نىڭ يېڭى نەشرى بار، يېڭىلاڭ",
+    "please_update": "مەۋاقىتنىڭ يېڭى نەشرى بار، يېڭىلاڭ",
     "@please_update": {
         "description": "_",
         "type": "text"
@@ -536,7 +536,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_2": "MAWAQIT قا خۇش كەلدىڭىز",
+    "onboarding_title_2": "مەۋاقىتقا خۇش كەلدىڭىز",
     "@onboarding_title_2": {
         "description": "_",
         "type": "text"
@@ -636,12 +636,12 @@
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "MAWAQIT ئەلچىسى بولۇپ، مەسچىتىڭىزگە ھەل قىلىش لايىھەسى تەمىنلەڭ، ئۇ ھەقسىز\nhttps://mawaqit.net",
+    "search_no_result": "مەۋاقىت ئەلچىسى بولۇپ، مەسچىتىڭىزگە ھەل قىلىش لايىھەسى تەمىنلەڭ، ئۇ ھەقسىز\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "MAWAQIT نى باھالاش",
+    "rate_popin_title": "مەۋاقىتنى باھالاش",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
@@ -826,7 +826,7 @@
     "notification": "ئەسكەرتىش",
     "notification_not_supported_below_7": "ئۈسكۈنىڭىز Android 7 ياكى تۆۋەن نەشرى بولسا ئەزان ياكى ناماز ۋاقتى ئەسكەرتىشىنى تاپشۇرۇۋالالمايسىز.",
     "battery_optimization": "توكدان ئەلالاشتۇرۇش",
-    "battery_optimization_subtitle": "يوچۇقسىز ناماز ۋاقتى ئۇقتۇرۇشىنى تاپشۇرۇۋېلىش ئۈچۈن، MAWAQIT نىڭ توكدان ئەلالاشتۇرۇشىنى تاقاڭ.",
+    "battery_optimization_subtitle": "يوچۇقسىز ناماز ۋاقتى ئۇقتۇرۇشىنى تاپشۇرۇۋېلىش ئۈچۈن، مەۋاقىتنىڭ توكدان ئەلالاشتۇرۇشىنى تاقاڭ.",
     "allow": "يول قوي",
     "deny": "رەت قىل",
     "force_notification": "مەجبۇرىي ئەسكەرتىش",
@@ -834,9 +834,9 @@
     "enable": "ئوچۇق",
     "disable": "تاقاق",
     "do_not_show_again": "قايتا كۆرسەتمە",
-    "force_notification_title": "MAWAQIT ئاكتىپ ھالەتتە بولسا ناماز ئۇقتۇرۇشىنىڭ دەل ۋاقتىدا قوزغىتىلىشىغا كاپالەتلىك قىلىدۇ.",
+    "force_notification_title": "مەۋاقىت ئاكتىپ ھالەتتە بولسا ناماز ئۇقتۇرۇشىنىڭ دەل ۋاقتىدا قوزغىتىلىشىغا كاپالەتلىك قىلىدۇ.",
     "force_notification_body": "شۈبھىسىزكى، ناماز مۆمىنلەرگە ۋاقتى بەلگىلەنگەن پەرز قىلىندى.(سۈرە نىسا 103-ئايەت)",
-    "force_notification_dialog1_body": "بۇ تاللانمىنى قوزغىتىش ئارقىلىق ئەپنى ئاكتىپ ھالەتتە ساقلاپ، دەل ئەزان ۋاقتىدا ناماز ئۇقتۇرۇشىنى قوزغىتىدۇ. MAWAQIT ئەپى پەقەت مۇشۇ مەقسەتتە ئاكتىپ ھالەتتە تۇرىدۇ، تەڭشەكتىن ئۇ تاللانمىنى خالىغان ۋاقىتتا تاقىيالايسىز.",
+    "force_notification_dialog1_body": "بۇ تاللانمىنى قوزغىتىش ئارقىلىق ئەپنى ئاكتىپ ھالەتتە ساقلاپ، دەل ئەزان ۋاقتىدا ناماز ئۇقتۇرۇشىنى قوزغىتىدۇ. مەۋاقىت ئەپى پەقەت مۇشۇ مەقسەتتە ئاكتىپ ھالەتتە تۇرىدۇ، تەڭشەكتىن ئۇ تاللانمىنى خالىغان ۋاقىتتا تاقىيالايسىز.",
     "force_notification_dialog2_body": "«مەجبۇرىي ئۇقتۇرۇش» نى قوزغاتقاندىن كېيىن، ئۇقتۇرۇش بالداقنى تۆۋەنگە سىيرىپ ئۇقتۇرۇشنى ئۇ جايدا كۆرەلەيسىز",
     "notification_debugging": "سازلاش ئۇقتۇرۇشى",
     "notification_debugging_details": "سازلاش ئۇقتۇرۇشى قوزغىتىلدى. ئەگەر ئۇقتۇرۇش تەڭشىكىنى ئۆزگەرتسىڭىز، سازلاش سانلىق مەلۇماتى يوقىلىدۇ ۋە سازلاش چەكلىنىدۇ.",
@@ -878,8 +878,8 @@
     "main_mosque": "ئاساسىي مەسچىت",
     "mosques": "مەسچىت",
     "no_news": "مەسچىتنىڭ يېڭى خەۋىرى يوق",
-    "mawaqit_notification": "Mawaqit ئۇقتۇرۇشى",
-    "no_mawaqit_notification": "Mawaqit نىڭ ھېچقانداق ئۇقتۇرۇشى يوق",
+    "mawaqit_notification": "مەۋاقىت ئۇقتۇرۇشى",
+    "no_mawaqit_notification": "مەۋاقىتنىڭ ھېچقانداق ئۇقتۇرۇشى يوق",
     "meccan": "مەككە",
     "medinan": "مەدىنە",
     "montada_islamic_foundation": "مونتادا ئىسلام ۋەخپىسى",
@@ -944,7 +944,7 @@
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     },
-    "powered_by_mawaqit": "MAWAQIT دا ياسالغان",
+    "powered_by_mawaqit": "مەۋاقىتتا ياسالغان",
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
@@ -1009,15 +1009,15 @@
     "updates_draw": "يېڭىلاشقا ئېرىشىپ، ساۋابقا ئېرىشىش ئۈچۈن چەك تارتىڭ",
     "email_info": "ئەگەر چەك تارتىشتا ئۇتسىڭىز بۇ تورخەت ئالاقىلىشىشكە ئىشلىتىلىدۇ",
     "enter_email": "تورخەت كىرگۈزۈڭ",
-    "email_privacy": "MAWAQIT بۇ تورخەتنى ھېچكىمگە ھەمبەھىرلىمەيدۇ. بۇ تورخەت ھەر قېتىملىق چەك تارتىشتىن كېيىن ساندانىمىزدىن ئۆزلۈكىدىن ئۆچۈرۈلىدۇ",
+    "email_privacy": "مەۋاقىت بۇ تورخەتنى ھېچكىمگە ھەمبەھىرلىمەيدۇ. بۇ تورخەت ھەر قېتىملىق چەك تارتىشتىن كېيىن ساندانىمىزدىن ئۆزلۈكىدىن ئۆچۈرۈلىدۇ",
     "submit": "تاپشۇر",
-    "disclaimer": "MAWAQIT تىزىملىكتىكى قۇرۇلۇش تەمىنلىگەن مۇلازىمەت ياكى مەھسۇلات ئۈچۈن ھېچقانداق مەسئۇلىيەتنى ئۈستىگە ئالمايدۇ. ئۆزىڭىز تەكشۈرۈپ ۋە تەتقىق قىلىڭ.",
+    "disclaimer": "مەۋاقىت تىزىملىكتىكى قۇرۇلۇش تەمىنلىگەن مۇلازىمەت ياكى مەھسۇلات ئۈچۈن ھېچقانداق مەسئۇلىيەتنى ئۈستىگە ئالمايدۇ. ئۆزىڭىز تەكشۈرۈپ ۋە تەتقىق قىلىڭ",
     "participating_with": "قاتناشقىنىڭىز",
     "no_of_tickets": "بېلەت:",
     "unparticipate": "قاتناشماسلىق ئۈچۈن چېكىلىدۇ",
     "next_ticket": "كېيىنكى بېلەتنىڭ ۋاقتى",
     "click_here": "بۇ جاي چېكىلىدۇ",
-    "mawaqit_store": "MAWAQIT دۇكىنى",
+    "mawaqit_store": "مەۋاقىت دۇكىنى",
     "no_projects": "ھېچقانداق قۇرۇلۇش يوق",
     "draw_info": "ھەر ئايدا بىر قېتىم چەك تارتىلىدۇ. ھەر 24 سائەتتە بىر يېڭى بېلەت قوشۇپ ئۇتۇش پۇرسىتىڭىزنى ئۆستۈرەلەيسىز!",
     "enter_valid_email": "ئىناۋەتلىك تورخەت كىرگۈزۈڭ",
