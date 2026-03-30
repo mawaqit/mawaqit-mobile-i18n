@@ -35,7 +35,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "يېنىك",
+    "settings_ThemeLight": "يورۇق",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
@@ -45,7 +45,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "تىل تاللاش",
+    "settings_LanguageSelection": "تىل تاللىنىشى",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
@@ -60,12 +60,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "12 سائەت",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "24 سائەت",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
@@ -79,7 +79,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "يېڭىلىق",
+    "settings_WhatsNew": "يېڭىلىقلار",
     "settings_SupportMawaqit": "مەۋاقىتنى قوللاش",
     "settings_News": "خەۋەر",
     "settings_MakeADonation": "ئىئانە قىلىڭ",
@@ -137,12 +137,12 @@
         "description": "_",
         "type": "text"
     },
-    "duhr": "كۈن چىقىش",
+    "duhr": "پىشىن",
     "@duhr": {
         "description": "_",
         "type": "text"
     },
-    "asr": "ئەسىر",
+    "asr": "ئەسر",
     "@asr": {
         "description": "_",
         "type": "text"
@@ -152,12 +152,12 @@
         "description": "_",
         "type": "text"
     },
-    "isha": "خۇپتەن",
+    "isha": "خۇفتەن",
     "@isha": {
         "description": "_",
         "type": "text"
     },
-    "sabah": "سۈبھى",
+    "sabah": "سەھەر",
     "settings_PrayerNotification_NoNotification": "نۆۋەتتە سىز بۇ نامازنى ئەسكەرتمەسلىكنى تەڭشىگەن.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -261,7 +261,7 @@
     "virtual_mosque": "تەقلىدىي مەسچىت",
     "no_mosque_in_selected_area": "تاللىغان جايدىن ھېچقانداق مەسچىتنى تاپالمىدى",
     "no_mosque_with": "ھېچقانداق مەسچىتنى تاپالمىدى",
-    "retry": "قايتا سىنا",
+    "retry": "قايتا سىناڭ",
     "search_here": "بۇ جايدىن ئىزدە",
     "enter_at_least_3_char": "ئىزدىگەندە كەم دېگەندە 3 ھەرپ كىرگۈزۈلىدۇ",
     "jumua1": "1-جۈمە",
@@ -294,8 +294,8 @@
     "qibla_sensor": "مەۋاقىت قىبلىنى توغرىلاشتا ئىشلىتىدىغان ئۈسكۈنىڭىزدىكى سەزگۈچ مۆلچەردىكىدەك ئىشلىمىدى، بۇ بىزنىڭ قىبلىنىڭ يۆنىلىشىنى توغرىلىشىمىزغا تەسىر كۆرسىتىدۇ.",
     "connection_not_found": "كومپاس توغرىلاش تەڭشىكى چەكلەنگەن. باغلىنىشىڭىزنىڭ ئوچۇق ئىكەنلىكىنى جەزملەپ ئاندىن يۆنىلىشنى ئۆزگەرتىپ قايتا سىناڭ.",
     "currently_located_at": "نۆۋەتتىكى ئورنى",
-    "facing_makkah": "مەككىگە يۈزلەندىڭىز",
-    "not_facing_Makkah": "مەككىگە يۈزلەنمىدىڭىز",
+    "facing_makkah": "مەككە تەرەپكە يۈزلەندىڭىز",
+    "not_facing_Makkah": "مەككە تەرەپكە يۈزلەنمىدىڭىز",
     "qibla_Error_retry": "قايتا سىنا",
     "@qibla_Error_retry": {
         "description": "_",
@@ -441,12 +441,12 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "كېيىن",
+    "in_": "دا",
     "@in_": {
         "description": "_",
         "type": "text"
     },
-    "imsak": "زوھۇر",
+    "imsak": "زولۇق",
     "@imsak": {
         "description": "_",
         "type": "text"
@@ -811,7 +811,7 @@
     "downloading_quran": "قۇرئاننى چۈشۈرۈۋاتىدۇ…",
     "processing": "بىر تەرەپ قىلىۋاتىدۇ…",
     "copied_to_clipboard": "چاپلاش تاختىڭىزغا كۆچۈرۈلدى!",
-    "download_quran_popup_title": "آخری ٹچ اپس",
+    "download_quran_popup_title": "ئاخىرقى ئوقۇغان ۋاقىت",
     "download_quran_popup_downloading_1": "بىز قۇرئان بەتلىرىنى چۈشۈرۈشىمىز كېرەك، ئۇنىڭغا بىر قانچە سېكۇنت كېتىدۇ. تېلېفونىڭىزنىڭ كۆچمە سانلىق مەلۇمات ئېقىمىنى ئىشلىتىمىز، ئەگەر زۆرۈر بولسا Wi-Fi غا ئالماشتۇرۇڭ.",
     "download_quran_popup_downloading_2": "قۇرئاننى سىز ئۈچۈن تەييارلاۋاتىمىز، بىر قانچە سېكۇنت كۈتۈڭ!",
     "download_quran_popup_downloading_3": "«چۈشۈر» نى چېكىپ ئوقۇش ۋە ئەسلەش سەپىرىڭىزنى باشلاڭ.",
@@ -901,7 +901,7 @@
     "no_bookmarks": "خەتكۈش يوق",
     "liked": "ياقتۇرغان",
     "all_recitators": "بارلىق قارىلار",
-    "downloaded": "چۈشۈرۈلدى",
+    "downloaded": "چۈشۈردى",
     "search_for_recitator": "قارى ئىزدەيدۇ",
     "search_for_surah": "سۈرە ئىزدەيدۇ",
     "search_for_fav_recitator": "ياقتۇرىدىغان قارى ئىزدەيدۇ",
@@ -952,11 +952,11 @@
     "prayer_times_by_location": "ئورۇن ئاساسىدىكى ناماز ۋاقتى",
     "already_in_list": "تىزىمىڭىزدا بار!",
     "got_it": "بىلدىم!",
-    "mushaf_warsh": "تەجۋىدلىك قۇرئان (ۋارش)",
+    "mushaf_warsh": "تەجۋىدلىك قۇرئان (ۋەرش)",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
-    "mushaf_hafs": "تەجۋىدلىك قۇرئان (ھافز)",
+    "mushaf_hafs": "تەجۋىدلىك قۇرئان (ھەفزە)",
     "@mushaf_hafs": {
         "description": "-> mushaf_hafs"
     },
@@ -1087,7 +1087,7 @@
     "minshawi": "ئەل مىنشاۋى",
     "abdulbasit": "ئابدۇلباسىت ئابدۇلسەمەد",
     "abdulbasit_mujawwad": "ئابدۇلباسىت (مۇجاۋۋاد)",
-    "ghamdi": "سائاد ئەل غەمدى",
+    "ghamdi": "سەئدى ئەل غامىدى",
     "dosari": "ياسىر ئەل دوسارى",
     "shatri": "ئەبۇ بەكر ئەششاترى",
     "tunaiji": "خالىفە ئەل تۇنايجى",
@@ -1131,7 +1131,7 @@
     "murattal": "مۇراتتال",
     "mujawwad": "مۇجاۋۋاد",
     "moallim": "ئەلمۇسشاف ئەل موللىن",
-    "play": "ياڭرات",
+    "play": "قوي",
     "playback_settings": "ياڭرىتىش تەڭشىكى",
     "from": "باشلىنىش",
     "to": "ئاخىرلىشىش",
