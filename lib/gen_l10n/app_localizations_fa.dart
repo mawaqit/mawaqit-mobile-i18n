@@ -2109,27 +2109,27 @@ class AppLocalizationsFa extends AppLocalizations {
   String get step => 'Step';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'رفتن به صفحه';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'انتخاب سوره';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'لطفاً یک سوره را انتخاب کنید';
 
   @override
   String get ayah_number => 'Ayah Number';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero => 'شماره آیه باید بزرگتر از 0 باشد';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'شماره آیه از حداکثر مقدار این سوره بیشتر است';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'به‌روزرسانی صفحه';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'شماره آیه را وارد کنید';
 }

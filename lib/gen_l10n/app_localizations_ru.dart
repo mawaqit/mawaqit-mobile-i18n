@@ -393,7 +393,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Настройка калибровки компаса отключена. Пожалуйста, убедитесь, что ваше соединение включено, и попробуйте снова, изменив направление.';
 
   @override
-  String get currently_located_at => 'В настоящее время находится в';
+  String get currently_located_at => 'Ваше местоположение';
 
   @override
   String get facing_makkah => 'Вы смотрите в сторону Мекки';
