@@ -1883,7 +1883,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calendar_events_at_this_time => 'Händelser vid denna tid';
 
   @override
-  String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
+  String get hamza_roberto_piccardo => 'Hamza Roberto Ricardo';
 
   @override
   String get open_in_mawaqit_app => 'Öppna denna moské i appen MAWAQIT';
@@ -1909,7 +1909,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calendar_event_at_this_time => 'Händelse just nu';
 
   @override
-  String get search_ayah_surah => 'Sök på Ayah eller Surah';
+  String get search_ayah_surah => 'Sök på vers eller Sura';
 
   @override
   String get matching_surahs => 'Matchande Surahs';
@@ -1938,7 +1938,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings => 'Inställningar';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'Athkar';
 
   @override
   String get quran_tajweed => 'Qur’an Tajwīd';
@@ -2065,7 +2065,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get edit => 'Redigera';
 
   @override
-  String get iqama_countdown => 'Iqama-nedräkning';
+  String get iqama_countdown => 'Iqama nedräkning';
 
   @override
   String get next_prayer_countdown => 'Live aktivitet alltid på';
@@ -2089,7 +2089,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get live_activity_tooltip =>
-      'Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.';
+      'Live aktiviteter visas på din låsskärm och Dynamisk Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.';
 
   @override
   String get prayer => 'Bön';
@@ -2109,7 +2109,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get tap_change_layout => 'Tryck här för att ändra layouten';
 
   @override
-  String get step => 'Step';
+  String get step => 'Steg';
 
   @override
   String get jump_to_page => 'Gå till sida';
