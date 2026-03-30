@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1227,7 +1227,7 @@
     "calendar_starts_on": "Börjar på",
     "calendar_ends_on": "Slutar på",
     "calendar_events_at_this_time": "Händelser vid denna tid",
-    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "hamza_roberto_piccardo": "Hamza Roberto Ricardo",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
@@ -1241,7 +1241,7 @@
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Sök på Ayah eller Surah",
+    "search_ayah_surah": "Sök på vers eller Sura",
     "matching_surahs": "Matchande Surahs",
     "matching_ayahs": "Matchande ayahs",
     "live_timer": "Timer live",
@@ -1262,7 +1262,7 @@
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Azkar",
+    "azkar": "Athkar",
     "@azkar": {
         "description": "-> azkar"
     },
@@ -1306,7 +1306,7 @@
     "weather_need_internet": "Den här funktionen kräver internetanslutning för att ladda ner uppdateringar.",
     "weather_light_rain": "Lätt regn",
     "edit": "Redigera",
-    "iqama_countdown": "Iqama-nedräkning",
+    "iqama_countdown": "Iqama nedräkning",
     "next_prayer_countdown": "Live aktivitet alltid på",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
@@ -1316,7 +1316,7 @@
     "live_countdown": "Live nedräkning",
     "quick_quran_reading_access": "Snabb åtkomst till Koranläsning",
     "quick_quran_discription": "När du öppnar Koran-fliken kan du fortsätta där du slutade.",
-    "live_activity_tooltip": "Liveaktiviteter visas på din låsskärm och Dynamic Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.",
+    "live_activity_tooltip": "Live aktiviteter visas på din låsskärm och Dynamisk Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.",
     "prayer": "Bön",
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
@@ -1325,7 +1325,7 @@
     "weather_your_location": "Visar vädret för din plats, inte för moskén.",
     "view_360_currently_selected": "360-visning är för närvarande vald",
     "tap_change_layout": "Tryck här för att ändra layouten",
-    "step": "Step",
+    "step": "Steg",
     "@step": {
         "description": "-> step"
     },
