@@ -1336,13 +1336,5 @@
     "ayah_num_greater_zero": "Versnumret måste vara större än 0",
     "ayah_number_exceeds_max": "Versnumret överskrider maxgränsen för denna sura",
     "update_page": "Uppdatera sida",
-    "enter_ayah_num": "Ange versnummer",
-    "help": "Hjälp",
-    "@help": {
-        "description": "-> Help"
-    },
-    "sofian_s_siregar": "Sofian S. Siregar",
-    "@sofian_s_siregar": {
-        "description": "=> sofian_s_siregar"
-    }
+    "enter_ayah_num": "Ange versnummer"
 }
