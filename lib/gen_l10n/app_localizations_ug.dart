@@ -30,13 +30,13 @@ class AppLocalizationsUg extends AppLocalizations {
   String get settings_ThemeDark => 'قاراڭغۇ';
 
   @override
-  String get settings_ThemeLight => 'يېنىك';
+  String get settings_ThemeLight => 'يورۇق';
 
   @override
   String get settings_TimeFormat => 'ۋاقىت پىچىمى';
 
   @override
-  String get settings_LanguageSelection => 'تىل تاللاش';
+  String get settings_LanguageSelection => 'تىل تاللىنىشى';
 
   @override
   String get settings_Language => 'تىل';
@@ -45,10 +45,10 @@ class AppLocalizationsUg extends AppLocalizations {
   String get settings_Theme => 'ئۆرنەك';
 
   @override
-  String get settings_TimeFormat12H => '12H';
+  String get settings_TimeFormat12H => '12 سائەت';
 
   @override
-  String get settings_TimeFormat24H => '24H';
+  String get settings_TimeFormat24H => '24 سائەت';
 
   @override
   String get settings_PrayerNotifications => 'ناماز ئۇقتۇرۇشى';
@@ -66,7 +66,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get settings_RateOurApp => 'ئەپ باھالاش';
 
   @override
-  String get settings_WhatsNew => 'يېڭىلىق';
+  String get settings_WhatsNew => 'يېڭىلىقلار';
 
   @override
   String get settings_SupportMawaqit => 'مەۋاقىتنى قوللاش';
@@ -146,19 +146,19 @@ class AppLocalizationsUg extends AppLocalizations {
   String get shuruq => 'كۈن چىقىش';
 
   @override
-  String get duhr => 'كۈن چىقىش';
+  String get duhr => 'پىشىن';
 
   @override
-  String get asr => 'ئەسىر';
+  String get asr => 'ئەسر';
 
   @override
   String get maghrib => 'شام';
 
   @override
-  String get isha => 'خۇپتەن';
+  String get isha => 'خۇفتەن';
 
   @override
-  String get sabah => 'سۈبھى';
+  String get sabah => 'سەھەر';
 
   @override
   String get settings_PrayerNotification_NoNotification =>
@@ -316,7 +316,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get no_mosque_with => 'ھېچقانداق مەسچىتنى تاپالمىدى';
 
   @override
-  String get retry => 'قايتا سىنا';
+  String get retry => 'قايتا سىناڭ';
 
   @override
   String get search_here => 'بۇ جايدىن ئىزدە';
@@ -394,10 +394,10 @@ class AppLocalizationsUg extends AppLocalizations {
   String get currently_located_at => 'نۆۋەتتىكى ئورنى';
 
   @override
-  String get facing_makkah => 'مەككىگە يۈزلەندىڭىز';
+  String get facing_makkah => 'مەككە تەرەپكە يۈزلەندىڭىز';
 
   @override
-  String get not_facing_Makkah => 'مەككىگە يۈزلەنمىدىڭىز';
+  String get not_facing_Makkah => 'مەككە تەرەپكە يۈزلەنمىدىڭىز';
 
   @override
   String get qibla_Error_retry => 'قايتا سىنا';
@@ -490,10 +490,10 @@ class AppLocalizationsUg extends AppLocalizations {
       'بۇ ئۇچۇرلارنىڭ ھەممىسىنى مەسچىتكە مەسئۇل كىشىلەر تولدۇرغان';
 
   @override
-  String get in_ => 'كېيىن';
+  String get in_ => 'دا';
 
   @override
-  String get imsak => 'زوھۇر';
+  String get imsak => 'زولۇق';
 
   @override
   String get eid => 'ھېيت ناماز ۋاقتى';
@@ -974,7 +974,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get copied_to_clipboard => 'چاپلاش تاختىڭىزغا كۆچۈرۈلدى!';
 
   @override
-  String get download_quran_popup_title => 'آخری ٹچ اپس';
+  String get download_quran_popup_title => 'ئاخىرقى ئوقۇغان ۋاقىت';
 
   @override
   String get download_quran_popup_downloading_1 =>
@@ -1264,7 +1264,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get all_recitators => 'بارلىق قارىلار';
 
   @override
-  String get downloaded => 'چۈشۈرۈلدى';
+  String get downloaded => 'چۈشۈردى';
 
   @override
   String get search_for_recitator => 'قارى ئىزدەيدۇ';
@@ -1371,10 +1371,10 @@ class AppLocalizationsUg extends AppLocalizations {
   String get got_it => 'بىلدىم!';
 
   @override
-  String get mushaf_warsh => 'تەجۋىدلىك قۇرئان (ۋارش)';
+  String get mushaf_warsh => 'تەجۋىدلىك قۇرئان (ۋەرش)';
 
   @override
-  String get mushaf_hafs => 'تەجۋىدلىك قۇرئان (ھافز)';
+  String get mushaf_hafs => 'تەجۋىدلىك قۇرئان (ھەفزە)';
 
   @override
   String get select_rewaya => 'رىۋايەت تاللىنىدۇ';
@@ -1594,7 +1594,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get abdulbasit_mujawwad => 'ئابدۇلباسىت (مۇجاۋۋاد)';
 
   @override
-  String get ghamdi => 'سائاد ئەل غەمدى';
+  String get ghamdi => 'سەئدى ئەل غامىدى';
 
   @override
   String get dosari => 'ياسىر ئەل دوسارى';
@@ -1727,7 +1727,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get moallim => 'ئەلمۇسشاف ئەل موللىن';
 
   @override
-  String get play => 'ياڭرات';
+  String get play => 'قوي';
 
   @override
   String get playback_settings => 'ياڭرىتىش تەڭشىكى';
