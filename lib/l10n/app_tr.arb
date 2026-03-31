@@ -1336,13 +1336,5 @@
     "ayah_num_greater_zero": "Ayet numarası 0’dan büyük olmalıdır",
     "ayah_number_exceeds_max": "Bu sure için ayet numarası maksimumu aşıyor",
     "update_page": "Sayfayı Güncelle",
-    "enter_ayah_num": "Ayet numarasını girin",
-    "help": "Yardım",
-    "@help": {
-        "description": "-> Help"
-    },
-    "sofian_s_siregar": "Sofian S. Siregar",
-    "@sofian_s_siregar": {
-        "description": "=> sofian_s_siregar"
-    }
+    "enter_ayah_num": "Ayet numarasını girin"
 }
