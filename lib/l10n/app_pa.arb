@@ -1336,13 +1336,5 @@
     "ayah_num_greater_zero": "Ayah number must be greater than 0",
     "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
     "update_page": "Update page",
-    "enter_ayah_num": "Enter Ayah num",
-    "help": "Help",
-    "@help": {
-        "description": "-> Help"
-    },
-    "sofian_s_siregar": "Sofian S. Siregar",
-    "@sofian_s_siregar": {
-        "description": "=> sofian_s_siregar"
-    }
+    "enter_ayah_num": "Enter Ayah num"
 }
