@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "Numer ajatu przekracza maksymalną wartość dla tej sury",
     "update_page": "Zaktualizuj stronę",
     "enter_ayah_num": "Wprowadź numer ajatu",
-    "help": "Help",
+    "help": "Pomoc",
     "@help": {
         "description": "-> help"
     }
