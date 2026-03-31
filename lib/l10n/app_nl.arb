@@ -1336,13 +1336,5 @@
     "ayah_num_greater_zero": "Het versnummer moet groter zijn dan 0",
     "ayah_number_exceeds_max": "Het versnummer overschrijdt het maximum voor deze soera",
     "update_page": "Pagina bijwerken",
-    "enter_ayah_num": "Voer versnummer in",
-    "help": "Hulp",
-    "@help": {
-        "description": "-> Help"
-    },
-    "sofian_s_siregar": "Sofian S. Siregar",
-    "@sofian_s_siregar": {
-        "description": "=> sofian_s_siregar"
-    }
+    "enter_ayah_num": "Voer versnummer in"
 }
