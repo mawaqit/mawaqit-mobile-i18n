@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "Le numéro du verset dépasse le maximum pour cette sourate",
     "update_page": "Mettre à jour la page",
     "enter_ayah_num": "Saisir le numéro du verset",
-    "help": "Help",
+    "help": "Aide",
     "@help": {
         "description": "-> help"
     }
