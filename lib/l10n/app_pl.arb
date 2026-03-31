@@ -1340,5 +1340,9 @@
     "help": "Pomoc",
     "@help": {
         "description": "-> help"
+    },
+    "sofian_s_siregar": "Sofian S. Siregar",
+    "@sofian_s_siregar": {
+        "description": "-> sofian_s_siregar"
     }
 }
