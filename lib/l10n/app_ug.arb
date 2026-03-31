@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "ئايەت نومۇرى چوقۇم 0 دىن چوڭ بولۇشى كېرەك",
     "ayah_number_exceeds_max": "ئايەت نومۇرى بۇ سۈرىدىكى ئەڭ يۇقىرى ئايەت نومۇرىدىن ئېشىپ كەتتى",
     "update_page": "بەتنى يېڭىلا",
-    "enter_ayah_num": "ئايەت نومۇرى كىرگۈزۈلىدۇ"
+    "enter_ayah_num": "ئايەت نومۇرى كىرگۈزۈلىدۇ",
+    "help": "Help",
+    "@help": {
+        "description": "-> help"
+    }
 }
