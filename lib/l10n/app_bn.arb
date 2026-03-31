@@ -1340,5 +1340,9 @@
     "help": "সাহায্য",
     "@help": {
         "description": "-> help"
+    },
+    "sofian_s_siregar": "সোফিয়ান এস. সিরেগার",
+    "@sofian_s_siregar": {
+        "description": "-> sofian_s_siregar"
     }
 }

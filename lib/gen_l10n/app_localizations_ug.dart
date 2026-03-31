@@ -2134,4 +2134,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get help => 'ياردەم';
+
+  @override
+  String get sofian_s_siregar => 'سوفیان س. سىرېگار';
 }

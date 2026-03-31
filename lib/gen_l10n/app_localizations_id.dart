@@ -2138,4 +2138,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get help => 'Bantuan';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }

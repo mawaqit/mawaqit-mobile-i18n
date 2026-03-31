@@ -2139,4 +2139,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get help => 'Pomoć';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }

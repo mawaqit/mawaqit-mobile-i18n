@@ -2129,4 +2129,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get help => 'Yardım';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }

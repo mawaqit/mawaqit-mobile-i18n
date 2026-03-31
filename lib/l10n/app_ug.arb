@@ -1340,5 +1340,9 @@
     "help": "ياردەم",
     "@help": {
         "description": "-> help"
+    },
+    "sofian_s_siregar": "سوفیان س. سىرېگار",
+    "@sofian_s_siregar": {
+        "description": "-> sofian_s_siregar"
     }
 }

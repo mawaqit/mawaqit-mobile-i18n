@@ -2143,4 +2143,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get help => 'Segítség';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }
