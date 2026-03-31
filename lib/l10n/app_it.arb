@@ -1336,5 +1336,13 @@
     "ayah_num_greater_zero": "Il numero del versetto deve essere maggiore di 0",
     "ayah_number_exceeds_max": "l numero del versetto supera il massimo per questa sura",
     "update_page": "Aggiorna la pagina",
-    "enter_ayah_num": "Inserisci il numero del versetto"
+    "enter_ayah_num": "Inserisci il numero del versetto",
+    "help": "Aiuto",
+    "@help": {
+        "description": "-> Help"
+    },
+    "sofian_s_siregar": "Sofian S. Siregar",
+    "@sofian_s_siregar": {
+        "description": "=> sofian_s_siregar"
+    }
 }
