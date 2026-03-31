@@ -1336,5 +1336,13 @@
     "ayah_num_greater_zero": "Le numéro du verset doit être supérieur à 0",
     "ayah_number_exceeds_max": "Le numéro du verset dépasse le maximum pour cette sourate",
     "update_page": "Mettre à jour la page",
-    "enter_ayah_num": "Saisir le numéro du verset"
+    "enter_ayah_num": "Saisir le numéro du verset",
+    "help": "Aide",
+    "@help": {
+        "description": "-> Help"
+    },
+    "sofian_s_siregar": "Sofian S. Siregar",
+    "@sofian_s_siregar": {
+        "description": "=> sofian_s_siregar"
+    }
 }
