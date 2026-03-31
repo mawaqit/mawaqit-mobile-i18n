@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "Het versnummer overschrijdt het maximum voor deze soera",
     "update_page": "Pagina bijwerken",
     "enter_ayah_num": "Voer versnummer in",
-    "help": "Help",
+    "help": "Hulp",
     "@help": {
         "description": "-> help"
     }
