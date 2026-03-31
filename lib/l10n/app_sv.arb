@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv-SE",
+    "@@locale": "sv",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "Versnumret måste vara större än 0",
     "ayah_number_exceeds_max": "Versnumret överskrider maxgränsen för denna sura",
     "update_page": "Uppdatera sida",
-    "enter_ayah_num": "Ange versnummer"
+    "enter_ayah_num": "Ange versnummer",
+    "help": "Hjälp",
+    "@help": {
+        "description": "-> help"
+    }
 }

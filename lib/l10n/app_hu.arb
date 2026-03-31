@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "Az ája számának nagyobbnak kell lennie 0-nál",
     "ayah_number_exceeds_max": "Az ája száma meghaladja a maximális értéket ennél a szúránál",
     "update_page": "Oldal frissítése",
-    "enter_ayah_num": "Adja meg az ája számát"
+    "enter_ayah_num": "Adja meg az ája számát",
+    "help": "Segítség",
+    "@help": {
+        "description": "-> help"
+    }
 }

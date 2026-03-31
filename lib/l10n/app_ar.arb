@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "يجب أن يكون رقم الآية أكبر من 0",
     "ayah_number_exceeds_max": "رقم الآية يتجاوز الحد الأقصى لهذه السورة",
     "update_page": "تحديث الصفحة",
-    "enter_ayah_num": "أدخل رقم الآية"
+    "enter_ayah_num": "أدخل رقم الآية",
+    "help": "مساعدة",
+    "@help": {
+        "description": "-> help"
+    }
 }

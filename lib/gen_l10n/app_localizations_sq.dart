@@ -2141,4 +2141,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Fut numrin e ajetit';
+
+  @override
+  String get help => 'Help';
 }

@@ -2135,4 +2135,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Ange versnummer';
+
+  @override
+  String get help => 'Hjälp';
 }

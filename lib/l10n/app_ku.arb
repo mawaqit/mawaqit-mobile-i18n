@@ -1,5 +1,5 @@
 {
-    "@@locale": "ckb",
+    "@@locale": "ku",
     "bottomNavbar_mawaqit": "مەواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "Hejmara ayetê divê ji 0 mezintir be",
     "ayah_number_exceeds_max": "ژمارەی ئایەت بۆ ئەم سورەیە لە سنووری زۆرترین تێدەپەڕێت",
     "update_page": "لاپەڕە نوێ بکەرەوە",
-    "enter_ayah_num": "ژمارەی ئایەت بنووسە"
+    "enter_ayah_num": "ژمارەی ئایەت بنووسە",
+    "help": "یارمەتی",
+    "@help": {
+        "description": "-> help"
+    }
 }

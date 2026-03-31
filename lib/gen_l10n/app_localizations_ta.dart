@@ -2137,4 +2137,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Enter Ayah num';
+
+  @override
+  String get help => 'Help';
 }

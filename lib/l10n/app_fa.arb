@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa-AF",
+    "@@locale": "fa",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "شماره آیه باید بزرگتر از 0 باشد",
     "ayah_number_exceeds_max": "شماره آیه از حداکثر مقدار این سوره بیشتر است",
     "update_page": "به‌روزرسانی صفحه",
-    "enter_ayah_num": "شماره آیه را وارد کنید"
+    "enter_ayah_num": "شماره آیه را وارد کنید",
+    "help": "کمک",
+    "@help": {
+        "description": "-> help"
+    }
 }

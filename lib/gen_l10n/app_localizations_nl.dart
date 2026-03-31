@@ -2148,4 +2148,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Voer versnummer in';
+
+  @override
+  String get help => 'Hulp';
 }

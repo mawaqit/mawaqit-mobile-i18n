@@ -4165,6 +4165,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Enter Ayah num'**
   String get enter_ayah_num;
+
+  /// -> help
+  ///
+  /// In en, this message translates to:
+  /// **'Help'**
+  String get help;
 }
 
 class _AppLocalizationsDelegate

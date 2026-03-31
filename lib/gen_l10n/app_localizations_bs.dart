@@ -2136,4 +2136,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Unesite broj ajeta';
+
+  @override
+  String get help => 'Pomoć';
 }
