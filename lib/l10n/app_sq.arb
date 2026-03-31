@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "Numri i ajetit duhet të jetë më i madh se 0",
     "ayah_number_exceeds_max": "Numri i ajetit tejkalon kufirin maksimal për këtë sure",
     "update_page": "Përditëso faqen",
-    "enter_ayah_num": "Fut numrin e ajetit"
+    "enter_ayah_num": "Fut numrin e ajetit",
+    "help": "Help",
+    "@help": {
+        "description": "-> help"
+    }
 }
