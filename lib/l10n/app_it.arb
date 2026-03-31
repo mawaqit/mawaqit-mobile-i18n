@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "l numero del versetto supera il massimo per questa sura",
     "update_page": "Aggiorna la pagina",
     "enter_ayah_num": "Inserisci il numero del versetto",
-    "help": "Help",
+    "help": "Aiuto",
     "@help": {
         "description": "-> help"
     }
