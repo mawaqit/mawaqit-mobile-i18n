@@ -1336,13 +1336,5 @@
     "ayah_num_greater_zero": "آیت نمبر 0 سے بڑا ہونا چاہیے",
     "ayah_number_exceeds_max": "اس سورہ کے لیے آیت نمبر حد سے زیادہ ہے",
     "update_page": "صفحہ اپڈیٹ کریں",
-    "enter_ayah_num": "آیت نمبر درج کریں",
-    "help": "مدد",
-    "@help": {
-        "description": "-> Help"
-    },
-    "sofian_s_siregar": "صوفیان س. سیرگار",
-    "@sofian_s_siregar": {
-        "description": "=> sofian_s_siregar"
-    }
+    "enter_ayah_num": "آیت نمبر درج کریں"
 }
