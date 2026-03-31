@@ -1336,13 +1336,5 @@
     "ayah_num_greater_zero": "আয়াত নম্বর ০-এর বেশি হতে হবে",
     "ayah_number_exceeds_max": "এই সূরার জন্য আয়াত নম্বর সর্বোচ্চ সীমা অতিক্রম করেছে",
     "update_page": "পৃষ্ঠা আপডেট করুন",
-    "enter_ayah_num": "আয়াত নম্বর লিখুন",
-    "help": "সাহায্য",
-    "@help": {
-        "description": "-> Help"
-    },
-    "sofian_s_siregar": "সোফিয়ান এস. সিরেগার",
-    "@sofian_s_siregar": {
-        "description": "=> sofian_s_siregar"
-    }
+    "enter_ayah_num": "আয়াত নম্বর লিখুন"
 }
