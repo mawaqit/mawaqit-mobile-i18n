@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "O número do versículo excede o máximo para esta sura",
     "update_page": "Atualizar página",
     "enter_ayah_num": "Introduza o número do versículo",
-    "help": "Help",
+    "help": "Ajuda",
     "@help": {
         "description": "-> help"
     }
