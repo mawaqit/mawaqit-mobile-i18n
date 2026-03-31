@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "Bu sure için ayet numarası maksimumu aşıyor",
     "update_page": "Sayfayı Güncelle",
     "enter_ayah_num": "Ayet numarasını girin",
-    "help": "Help",
+    "help": "Yardım",
     "@help": {
         "description": "-> help"
     }
