@@ -1336,13 +1336,5 @@
     "ayah_num_greater_zero": "Numer ajatu musi być większy niż 0",
     "ayah_number_exceeds_max": "Numer ajatu przekracza maksymalną wartość dla tej sury",
     "update_page": "Zaktualizuj stronę",
-    "enter_ayah_num": "Wprowadź numer ajatu",
-    "help": "Pomoc",
-    "@help": {
-        "description": "-> Help"
-    },
-    "sofian_s_siregar": "Sofian S. Siregar",
-    "@sofian_s_siregar": {
-        "description": "=> sofian_s_siregar"
-    }
+    "enter_ayah_num": "Wprowadź numer ajatu"
 }
