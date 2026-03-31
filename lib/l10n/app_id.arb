@@ -1336,5 +1336,13 @@
     "ayah_num_greater_zero": "Nomor ayat harus lebih dari 0",
     "ayah_number_exceeds_max": "Nomor ayat melebihi batas maksimum untuk surah ini",
     "update_page": "Perbarui halaman",
-    "enter_ayah_num": "Masukkan nomor ayat"
+    "enter_ayah_num": "Masukkan nomor ayat",
+    "help": "Bantuan",
+    "@help": {
+        "description": "-> Help"
+    },
+    "sofian_s_siregar": "Sofian S. Siregar",
+    "@sofian_s_siregar": {
+        "description": "=> sofian_s_siregar"
+    }
 }
