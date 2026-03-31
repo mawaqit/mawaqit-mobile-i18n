@@ -2136,4 +2136,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get help => 'مدد';
+
+  @override
+  String get sofian_s_siregar => 'صوفیان ایس. سیرگار';
 }

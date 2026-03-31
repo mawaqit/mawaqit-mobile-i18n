@@ -2109,4 +2109,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get help => 'مساعدة';
+
+  @override
+  String get sofian_s_siregar => 'صوفيان س. سيريجار';
 }

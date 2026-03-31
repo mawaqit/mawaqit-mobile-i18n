@@ -2138,4 +2138,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get help => 'Помощь';
+
+  @override
+  String get sofian_s_siregar => 'Софиан С. Сирегар';
 }

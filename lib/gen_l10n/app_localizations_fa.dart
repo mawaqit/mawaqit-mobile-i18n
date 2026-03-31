@@ -2135,4 +2135,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get help => 'کمک';
+
+  @override
+  String get sofian_s_siregar => 'صوفیان س. سیرگار';
 }

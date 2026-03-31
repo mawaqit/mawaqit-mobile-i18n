@@ -4171,6 +4171,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Help'**
   String get help;
+
+  /// -> sofian_s_siregar
+  ///
+  /// In en, this message translates to:
+  /// **'Sofian S. Siregar'**
+  String get sofian_s_siregar;
 }
 
 class _AppLocalizationsDelegate

@@ -2162,4 +2162,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get help => 'Aide';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }

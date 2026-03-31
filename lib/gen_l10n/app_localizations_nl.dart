@@ -2151,4 +2151,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get help => 'Hulp';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }

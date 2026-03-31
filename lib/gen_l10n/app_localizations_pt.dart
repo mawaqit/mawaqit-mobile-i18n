@@ -2155,4 +2155,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get help => 'Ajuda';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }

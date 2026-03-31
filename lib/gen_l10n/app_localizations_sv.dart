@@ -2138,4 +2138,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get help => 'Hjälp';
+
+  @override
+  String get sofian_s_siregar => 'Sofian S. Siregar';
 }

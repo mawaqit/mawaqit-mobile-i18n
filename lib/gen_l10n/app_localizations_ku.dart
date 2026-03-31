@@ -2142,4 +2142,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get help => 'یارمەتی';
+
+  @override
+  String get sofian_s_siregar => 'سۆفیان س. سیرێگار';
 }
