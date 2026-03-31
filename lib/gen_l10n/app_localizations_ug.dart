@@ -2131,4 +2131,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'ئايەت نومۇرى كىرگۈزۈلىدۇ';
+
+  @override
+  String get help => 'Help';
 }

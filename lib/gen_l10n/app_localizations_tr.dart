@@ -2126,4 +2126,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Ayet numarasını girin';
+
+  @override
+  String get help => 'Help';
 }

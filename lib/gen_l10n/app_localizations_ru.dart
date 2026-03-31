@@ -2135,4 +2135,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Введите номер аята';
+
+  @override
+  String get help => 'Help';
 }

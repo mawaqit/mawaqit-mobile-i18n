@@ -2139,4 +2139,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'ژمارەی ئایەت بنووسە';
+
+  @override
+  String get help => 'Help';
 }

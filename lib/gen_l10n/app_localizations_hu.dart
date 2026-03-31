@@ -2140,4 +2140,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Adja meg az ája számát';
+
+  @override
+  String get help => 'Help';
 }

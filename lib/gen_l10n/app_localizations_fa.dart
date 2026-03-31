@@ -2132,4 +2132,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'شماره آیه را وارد کنید';
+
+  @override
+  String get help => 'Help';
 }

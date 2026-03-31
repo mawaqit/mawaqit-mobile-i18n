@@ -2159,4 +2159,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'Saisir le numéro du verset';
+
+  @override
+  String get help => 'Help';
 }

@@ -2136,4 +2136,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get enter_ayah_num => 'আয়াত নম্বর লিখুন';
+
+  @override
+  String get help => 'Help';
 }
