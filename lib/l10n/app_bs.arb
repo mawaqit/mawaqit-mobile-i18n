@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "Broj ajeta prelazi maksimalnu vrijednost za ovu suru",
     "update_page": "Ažuriraj stranicu",
     "enter_ayah_num": "Unesite broj ajeta",
-    "help": "Help",
+    "help": "Pomoć",
     "@help": {
         "description": "-> help"
     }
