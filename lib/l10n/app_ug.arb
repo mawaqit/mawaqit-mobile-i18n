@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "ئايەت نومۇرى بۇ سۈرىدىكى ئەڭ يۇقىرى ئايەت نومۇرىدىن ئېشىپ كەتتى",
     "update_page": "بەتنى يېڭىلا",
     "enter_ayah_num": "ئايەت نومۇرى كىرگۈزۈلىدۇ",
-    "help": "Help",
+    "help": "ياردەم",
     "@help": {
         "description": "-> help"
     }
