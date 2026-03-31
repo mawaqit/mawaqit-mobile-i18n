@@ -1336,5 +1336,9 @@
     "ayah_num_greater_zero": "Номер аята должен быть больше 0",
     "ayah_number_exceeds_max": "Номер аята превышает максимальное значение для этой суры",
     "update_page": "Обновить страницу",
-    "enter_ayah_num": "Введите номер аята"
+    "enter_ayah_num": "Введите номер аята",
+    "help": "Help",
+    "@help": {
+        "description": "-> help"
+    }
 }
