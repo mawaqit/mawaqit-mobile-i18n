@@ -2135,5 +2135,5 @@ class AppLocalizationsUr extends AppLocalizations {
   String get enter_ayah_num => 'آیت نمبر درج کریں';
 
   @override
-  String get help => 'Help';
+  String get help => 'مدد';
 }

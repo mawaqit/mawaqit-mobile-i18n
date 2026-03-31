@@ -2137,5 +2137,5 @@ class AppLocalizationsId extends AppLocalizations {
   String get enter_ayah_num => 'Masukkan nomor ayat';
 
   @override
-  String get help => 'Help';
+  String get help => 'Bantuan';
 }

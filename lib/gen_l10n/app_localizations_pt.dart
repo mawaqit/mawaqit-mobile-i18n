@@ -2154,5 +2154,5 @@ class AppLocalizationsPt extends AppLocalizations {
   String get enter_ayah_num => 'Introduza o número do versículo';
 
   @override
-  String get help => 'Help';
+  String get help => 'Ajuda';
 }

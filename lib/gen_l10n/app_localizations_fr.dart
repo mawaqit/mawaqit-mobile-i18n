@@ -2161,5 +2161,5 @@ class AppLocalizationsFr extends AppLocalizations {
   String get enter_ayah_num => 'Saisir le numéro du verset';
 
   @override
-  String get help => 'Help';
+  String get help => 'Aide';
 }

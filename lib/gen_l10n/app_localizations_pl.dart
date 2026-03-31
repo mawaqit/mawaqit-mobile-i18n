@@ -2134,5 +2134,5 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enter_ayah_num => 'Wprowadź numer ajatu';
 
   @override
-  String get help => 'Help';
+  String get help => 'Pomoc';
 }

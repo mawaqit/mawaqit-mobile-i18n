@@ -2134,5 +2134,5 @@ class AppLocalizationsFa extends AppLocalizations {
   String get enter_ayah_num => 'شماره آیه را وارد کنید';
 
   @override
-  String get help => 'Help';
+  String get help => 'کمک';
 }

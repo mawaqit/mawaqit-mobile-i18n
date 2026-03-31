@@ -2108,5 +2108,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get enter_ayah_num => 'أدخل رقم الآية';
 
   @override
-  String get help => 'Help';
+  String get help => 'مساعدة';
 }

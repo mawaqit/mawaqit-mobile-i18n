@@ -2141,5 +2141,5 @@ class AppLocalizationsKu extends AppLocalizations {
   String get enter_ayah_num => 'ژمارەی ئایەت بنووسە';
 
   @override
-  String get help => 'Help';
+  String get help => 'یارمەتی';
 }
