@@ -1889,7 +1889,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get open_in_mawaqit_app => 'Öppna denna moské i appen MAWAQIT';
 
   @override
-  String get mosque_name => 'Moskén namn';
+  String get mosque_name => 'Moské namn';
 
   @override
   String get mosque_not_found => 'Moskén hittades inte';
@@ -1899,7 +1899,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get not_open_mosque_link =>
-      'Kunde inte öppna denna moskélänk. Försök igen.';
+      'Det gick inte att öppna moské länken. Försök igen.';
 
   @override
   String get no_calendars_on_this_device =>
@@ -1912,16 +1912,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_ayah_surah => 'Sök på vers eller Sura';
 
   @override
-  String get matching_surahs => 'Matchande Surahs';
+  String get matching_surahs => 'Matchande suror';
 
   @override
-  String get matching_ayahs => 'Matchande ayahs';
+  String get matching_ayahs => 'Matchande verser';
 
   @override
-  String get live_timer => 'Timer live';
+  String get live_timer => 'Direkt timer';
 
   @override
-  String get notify_before => 'Notifiera före';
+  String get notify_before => 'Påminn i förväg';
 
   @override
   String get take_time_appear_watch =>
@@ -1938,7 +1938,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings => 'Inställningar';
 
   @override
-  String get azkar => 'Athkar';
+  String get azkar => 'Adhkar';
 
   @override
   String get quran_tajweed => 'Qur’an Tajwīd';
