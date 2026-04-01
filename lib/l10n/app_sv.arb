@@ -1232,23 +1232,23 @@
         "description": "-≥ hamza_roberto_piccardo"
     },
     "open_in_mawaqit_app": "Öppna denna moské i appen MAWAQIT",
-    "mosque_name": "Moskén namn",
+    "mosque_name": "Moské namn",
     "mosque_not_found": "Moskén hittades inte",
     "invalid_mosque_link": "Ogiltig moskélänk",
-    "not_open_mosque_link": "Kunde inte öppna denna moskélänk. Försök igen.",
+    "not_open_mosque_link": "Det gick inte att öppna moské länken. Försök igen.",
     "no_calendars_on_this_device": "Inga kalendrar hittades på den här enheten.",
     "calendar_event_at_this_time": "Händelse just nu",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
     "search_ayah_surah": "Sök på vers eller Sura",
-    "matching_surahs": "Matchande Surahs",
-    "matching_ayahs": "Matchande ayahs",
-    "live_timer": "Timer live",
+    "matching_surahs": "Matchande suror",
+    "matching_ayahs": "Matchande verser",
+    "live_timer": "Direkt timer",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Notifiera före",
+    "notify_before": "Påminn i förväg",
     "@notify_before": {
         "description": "notify_before"
     },
@@ -1262,7 +1262,7 @@
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Athkar",
+    "azkar": "Adhkar",
     "@azkar": {
         "description": "-> azkar"
     },
