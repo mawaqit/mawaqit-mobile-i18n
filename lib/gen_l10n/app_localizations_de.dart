@@ -2002,7 +2002,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get last_third => 'Letztes Drittel';
 
   @override
-  String get midnight => 'Tengah Malam';
+  String get midnight => 'Mitte der Nacht';
 
   @override
   String get failed_to_update => 'Aktualisierung fehlgeschlagen.';

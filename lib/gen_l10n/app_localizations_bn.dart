@@ -1984,7 +1984,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get last_third => 'শেষ তৃতীয়াংশ';
 
   @override
-  String get midnight => 'মধ্যরাত';
+  String get midnight => 'মধ্যরাত্রি';
 
   @override
   String get failed_to_update => 'আপডেট করতে ব্যর্থ হয়েছে।';

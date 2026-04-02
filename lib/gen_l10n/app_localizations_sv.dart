@@ -1840,26 +1840,23 @@ class AppLocalizationsSv extends AppLocalizations {
   String get highlight_Tahajjud_Time => 'Markera Tahajjud Tid';
 
   @override
-  String get calendar_access_not_available =>
-      'Kalenderåtkomst är inte tillgänglig.';
+  String get calendar_access_not_available => 'Ingen kalender åtkomst.';
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Ge kalenderåtkomst för att visa dina händelser på MAWAQIT 360.';
+      'Tillåt kalenderåtkomst för att visa dina händelser på MAWAQIT 360.';
 
   @override
-  String get calendar_access_required =>
-      'Kalenderåtkomst krävs för att visa dina händelser.';
+  String get calendar_access_required => 'Åtkomst krävs.';
 
   @override
-  String get calendar_allow_access_button => 'Tillåt åtkomst till kalender';
+  String get calendar_allow_access_button => 'Tillåt Åtkomst';
 
   @override
   String get calendar_loading => 'Laddar kalendrar…';
 
   @override
-  String get calendar_select_for_mawaqit =>
-      'Välj de kalendrar du vill visa på MAWAQIT 360.';
+  String get calendar_select_for_mawaqit => 'Välj kalendrar på MAWAQIT 360.';
 
   @override
   String get calendar_enable_all => 'Aktivera alla';
@@ -1874,22 +1871,22 @@ class AppLocalizationsSv extends AppLocalizations {
   String get calendar_times_shown_in => 'Tider som visas i';
 
   @override
-  String get calendar_starts_on => 'Börjar på';
+  String get calendar_starts_on => 'Startar';
 
   @override
-  String get calendar_ends_on => 'Slutar på';
+  String get calendar_ends_on => 'Slutar';
 
   @override
-  String get calendar_events_at_this_time => 'Händelser vid denna tid';
+  String get calendar_events_at_this_time => 'Händelser just nu';
 
   @override
-  String get hamza_roberto_piccardo => 'Hamza Roberto Ricardo';
+  String get hamza_roberto_piccardo => 'Hamza Roberto Picardo';
 
   @override
-  String get open_in_mawaqit_app => 'Öppna denna moské i appen MAWAQIT';
+  String get open_in_mawaqit_app => 'Öppna denna moské i MAWAQIT -appen';
 
   @override
-  String get mosque_name => 'Moské namn';
+  String get mosque_name => 'Namn på moské';
 
   @override
   String get mosque_not_found => 'Moskén hittades inte';
@@ -1899,17 +1896,17 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get not_open_mosque_link =>
-      'Det gick inte att öppna moské länken. Försök igen.';
+      'Kunde inte öppna moské länken. Försök igen.';
 
   @override
   String get no_calendars_on_this_device =>
-      'Inga kalendrar hittades på den här enheten.';
+      'Inga kalendrar hittades på enheten.';
 
   @override
   String get calendar_event_at_this_time => 'Händelse just nu';
 
   @override
-  String get search_ayah_surah => 'Sök på vers eller Sura';
+  String get search_ayah_surah => 'Sök efter vers eller Sura';
 
   @override
   String get matching_surahs => 'Matchande suror';
@@ -1918,10 +1915,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get matching_ayahs => 'Matchande verser';
 
   @override
-  String get live_timer => 'Direkt timer';
+  String get live_timer => 'Live Timer';
 
   @override
-  String get notify_before => 'Påminn i förväg';
+  String get notify_before => 'Påminn före';
 
   @override
   String get take_time_appear_watch =>
@@ -1941,20 +1938,20 @@ class AppLocalizationsSv extends AppLocalizations {
   String get azkar => 'Adhkar';
 
   @override
-  String get quran_tajweed => 'Qur’an Tajwīd';
+  String get quran_tajweed => 'Koranens Tajwīd';
 
   @override
   String get tajweed_description =>
-      'Färgkodade tajwi<unk> d regler för att hjälpa dig recitera exakt';
+      'Färgkodade tajwidregler för korrekt recitation';
 
   @override
-  String get tajwid_rules => 'Tajwid rules';
+  String get tajwid_rules => 'Tajwidregler';
 
   @override
   String get examples => 'Exempel';
 
   @override
-  String get real_time_weather => 'Realtid väder';
+  String get real_time_weather => 'Väder i realtid';
 
   @override
   String get layout => 'Layout';
@@ -1967,7 +1964,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get real_time_weather_needs_internet =>
-      'Realtidsväder behöver en internetanslutning för att ladda ner uppdateringar.';
+      'Väder i realtid kräver internetanslutning för att hämta uppdateringar.';
 
   @override
   String get view_detail => 'Visa detaljer';
@@ -1976,29 +1973,29 @@ class AppLocalizationsSv extends AppLocalizations {
   String get temperature => 'Temperatur';
 
   @override
-  String get tahajjud_time => 'Tahajjud Tid';
+  String get tahajjud_time => 'Tahajjud -Tid';
 
   @override
   String get last_third => 'Sista tredjedelen';
 
   @override
-  String get midnight => 'Minuit';
+  String get midnight => 'Midnatt';
 
   @override
-  String get failed_to_update => 'Misslyckades med att uppdatera.';
+  String get failed_to_update => 'Kunde inte uppdatera.';
 
   @override
   String get tap_to_retry => 'Tryck för att försöka igen';
 
   @override
-  String get support_mawaqit_association => 'Stöd MAWAQIT-föreningen';
+  String get support_mawaqit_association => 'Stöd MAWAQIT -föreningen';
 
   @override
   String get help_improve_mawaqit => 'Hjälp till att förbättra MAWAQIT';
 
   @override
   String get analytics_description =>
-      'Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Aldrig delad.';
+      'Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Delas aldrig.';
 
   @override
   String get weather_clear => 'Klart';
@@ -2022,13 +2019,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get weather_fog => 'Dimma';
 
   @override
-  String get weather_haze => 'Dis';
+  String get weather_haze => 'Lätt dimma';
 
   @override
   String get weather_smoke => 'Rök';
 
   @override
-  String get weather_mist => 'Lätt dimma';
+  String get weather_mist => 'Dis';
 
   @override
   String get weather_snow => 'Snö';
@@ -2037,7 +2034,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get weather_rain => 'Regn';
 
   @override
-  String get weather_drizzle => 'Duggregn';
+  String get weather_drizzle => 'Dugg regn';
 
   @override
   String get weather_thunderstorm => 'Åskväder';
@@ -2056,7 +2053,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get weather_need_internet =>
-      'Den här funktionen kräver internetanslutning för att ladda ner uppdateringar.';
+      'Funktionen kräver internetanslutning för att hämta uppdateringar.';
 
   @override
   String get weather_light_rain => 'Lätt regn';
@@ -2075,7 +2072,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get live_countdown_for_all_pray =>
-      'Live nedräkning kommer att vara aktiv för alla böner och automatiskt visa en timer för varje kommande bön.';
+      'Live nedräkning aktiveras för alla böner och visar automatiskt en timer för varje kommande bön.';
 
   @override
   String get live_countdown => 'Live nedräkning';
@@ -2089,7 +2086,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get live_activity_tooltip =>
-      'Live aktiviteter visas på din låsskärm och Dynamisk Island (om stöds). När det är aktiverat visas en live-timer med nedräkning till nästa bön eller iqama.';
+      'Live aktiviteter visas på din låsskärm och Dynamisk Island (om det stöds). När funktionen är aktiverad visas en timer med nedräkning till nästa bön eller Iqama.';
 
   @override
   String get prayer => 'Bön';
@@ -2102,8 +2099,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Visar vädret för din plats, inte för moskén.';
 
   @override
-  String get view_360_currently_selected =>
-      '360-visning är för närvarande vald';
+  String get view_360_currently_selected => '360-visning är vald';
 
   @override
   String get tap_change_layout => 'Tryck här för att ändra layouten';

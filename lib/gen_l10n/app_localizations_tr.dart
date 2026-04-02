@@ -1975,7 +1975,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get last_third => 'Son üçte bir';
 
   @override
-  String get midnight => 'Minuit';
+  String get midnight => 'Gece Yarısı';
 
   @override
   String get failed_to_update => 'Güncelleme başarısız oldu.';
