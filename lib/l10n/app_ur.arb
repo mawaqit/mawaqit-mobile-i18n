@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1279,7 +1279,7 @@
     "temperature": "درجہ حرارت",
     "tahajjud_time": "تہجد کا وقت",
     "last_third": "آخری تہائی حصہ",
-    "midnight": "Minuit",
+    "midnight": "آدھی رات",
     "failed_to_update": "اپڈیٹ ناکام ہو گئی۔",
     "tap_to_retry": "دوبارہ کوشش کرنے کے لیے ٹیپ کریں",
     "support_mawaqit_association": "مواقيت ایسوسی ایشن کی حمایت کریں",
