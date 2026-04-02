@@ -1983,7 +1983,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get last_third => 'Sepertiga akhir';
 
   @override
-  String get midnight => 'Minuit';
+  String get midnight => 'Tengah malam';
 
   @override
   String get failed_to_update => 'Gagal memperbarui.';

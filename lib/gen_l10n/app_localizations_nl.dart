@@ -1995,7 +1995,7 @@ class AppLocalizationsNl extends AppLocalizations {
   String get last_third => 'Laatste derde deel';
 
   @override
-  String get midnight => 'Minuit';
+  String get midnight => 'Middernacht';
 
   @override
   String get failed_to_update => 'Bijwerken mislukt.';

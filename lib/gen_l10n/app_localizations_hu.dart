@@ -1986,7 +1986,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get last_third => 'Utolsó harmad';
 
   @override
-  String get midnight => 'Tengah Malam';
+  String get midnight => 'Éjfél';
 
   @override
   String get failed_to_update => 'Sikertelen frissítés.';
