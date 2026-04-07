@@ -2142,4 +2142,11 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get sofian_s_siregar => 'Sofian S. Siregar';
+
+  @override
+  String get download_all_surahs => 'Preuzmi sve sure';
+
+  @override
+  String get this_will_download_all_surahs_for_offline =>
+      'Ovo će preuzeti sve sure za slušanje van mreže. Molimo provjerite da ste povezani na Wi-Fi prije nego nastavite.';
 }
