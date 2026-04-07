@@ -1344,5 +1344,13 @@
     "sofian_s_siregar": "Sofian S. Siregar",
     "@sofian_s_siregar": {
         "description": "-> sofian_s_siregar"
+    },
+    "download_all_surahs": "Pobierz wszystkie sury",
+    "@download_all_surahs": {
+        "description": "download_all_surahs"
+    },
+    "this_will_download_all_surahs_for_offline": "This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.",
+    "@this_will_download_all_surahs_for_offline": {
+        "description": "this_will_download_all_surahs_for_offline"
     }
 }
