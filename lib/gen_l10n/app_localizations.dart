@@ -4177,6 +4177,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Sofian S. Siregar'**
   String get sofian_s_siregar;
+
+  /// download_all_surahs
+  ///
+  /// In en, this message translates to:
+  /// **'Download all surahs'**
+  String get download_all_surahs;
+
+  /// this_will_download_all_surahs_for_offline
+  ///
+  /// In en, this message translates to:
+  /// **'This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.'**
+  String get this_will_download_all_surahs_for_offline;
 }
 
 class _AppLocalizationsDelegate

@@ -2142,4 +2142,11 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get sofian_s_siregar => 'সোফিয়ান এস. সিরেগার';
+
+  @override
+  String get download_all_surahs => 'সব সূরা ডাউনলোড করুন';
+
+  @override
+  String get this_will_download_all_surahs_for_offline =>
+      'এটি অফলাইনে শোনার জন্য সব সূরা ডাউনলোড করবে। চালিয়ে যাওয়ার আগে দয়া করে নিশ্চিত করুন যে আপনি Wi-Fi-এ সংযুক্ত আছেন।.';
 }

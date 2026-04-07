@@ -2138,4 +2138,11 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get sofian_s_siregar => 'صوفیان س. سیرگار';
+
+  @override
+  String get download_all_surahs => 'دانلود همه سوره‌ها';
+
+  @override
+  String get this_will_download_all_surahs_for_offline =>
+      'این کار تمام سوره‌ها را برای گوش دادن آفلاین دانلود می‌کند. لطفاً پیش از ادامه مطمئن شوید که به Wi-Fi متصل هستید.';
 }
