@@ -1337,7 +1337,7 @@
     "ayah_number_exceeds_max": "Numri i ajetit tejkalon kufirin maksimal për këtë sure",
     "update_page": "Përditëso faqen",
     "enter_ayah_num": "Fut numrin e ajetit",
-    "help": "Help",
+    "help": "Ndihmë",
     "@help": {
         "description": "-> help"
     },
@@ -1345,11 +1345,11 @@
     "@sofian_s_siregar": {
         "description": "-> sofian_s_siregar"
     },
-    "download_all_surahs": "Download all surahs",
+    "download_all_surahs": "Të shkarkohen të gjitha suret",
     "@download_all_surahs": {
         "description": "download_all_surahs"
     },
-    "this_will_download_all_surahs_for_offline": "This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.",
+    "this_will_download_all_surahs_for_offline": "Kjo do të shkarkojë të gjitha suret për dëgjim offline. Ju lutemi sigurohuni që jeni të lidhur me Wi-Fi përpara se të vazhdoni.",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     }

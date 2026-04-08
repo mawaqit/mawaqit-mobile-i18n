@@ -2164,9 +2164,9 @@ class AppLocalizationsDe extends AppLocalizations {
   String get sofian_s_siregar => 'Sofian S. Siregar';
 
   @override
-  String get download_all_surahs => 'Download all surahs';
+  String get download_all_surahs => 'Alle Suren herunterladen';
 
   @override
   String get this_will_download_all_surahs_for_offline =>
-      'This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.';
+      'Dies lädt alle Suren für das Offline-Hören herunter. Bitte stellen Sie sicher, dass Sie mit dem WLAN verbunden sind, bevor Sie fortfahren.';
 }
