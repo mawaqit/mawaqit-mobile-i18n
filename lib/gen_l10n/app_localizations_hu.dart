@@ -2152,5 +2152,5 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get this_will_download_all_surahs_for_offline =>
-      'This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.';
+      'Ez letölti az összes szúrát offline hallgatáshoz. Kérjük, folytatás előtt győződj meg róla, hogy Wi-Fi-hez csatlakozol.';
 }
