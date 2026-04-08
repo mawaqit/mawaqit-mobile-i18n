@@ -2143,15 +2143,15 @@ class AppLocalizationsSq extends AppLocalizations {
   String get enter_ayah_num => 'Fut numrin e ajetit';
 
   @override
-  String get help => 'Help';
+  String get help => 'Ndihmë';
 
   @override
   String get sofian_s_siregar => 'Sofian S. Siregar';
 
   @override
-  String get download_all_surahs => 'Download all surahs';
+  String get download_all_surahs => 'Të shkarkohen të gjitha suret';
 
   @override
   String get this_will_download_all_surahs_for_offline =>
-      'This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.';
+      'Kjo do të shkarkojë të gjitha suret për dëgjim offline. Ju lutemi sigurohuni që jeni të lidhur me Wi-Fi përpara se të vazhdoni.';
 }
