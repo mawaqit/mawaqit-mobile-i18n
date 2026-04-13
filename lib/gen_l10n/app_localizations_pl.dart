@@ -2106,7 +2106,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get tap_change_layout => 'Dotknij tutaj, aby zmienić układ';
 
   @override
-  String get step => 'Step';
+  String get step => 'Krok';
 
   @override
   String get jump_to_page => 'Przejdź do strony';
@@ -2147,5 +2147,5 @@ class AppLocalizationsPl extends AppLocalizations {
       'Spowoduje to pobranie wszystkich sur do słuchania offline. Upewnij się, że jesteś połączony z Wi-Fi przed kontynuowaniem.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Dotknij, by zmienić powiadomienie';
 }
