@@ -4189,6 +4189,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.'**
   String get this_will_download_all_surahs_for_offline;
+
+  /// No description provided for @tap_change_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to change notification'**
+  String get tap_change_notification;
 }
 
 class _AppLocalizationsDelegate

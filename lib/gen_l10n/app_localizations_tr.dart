@@ -2139,4 +2139,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'Bu, tüm sureleri çevrimdışı dinlemek için indirecek. Devam etmeden önce Wi-Fi\'ye bağlı olduğunuzdan emin olun.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }

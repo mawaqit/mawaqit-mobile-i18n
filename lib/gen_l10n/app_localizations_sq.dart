@@ -2154,4 +2154,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'Kjo do të shkarkojë të gjitha suret për dëgjim offline. Ju lutemi sigurohuni që jeni të lidhur me Wi-Fi përpara se të vazhdoni.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }

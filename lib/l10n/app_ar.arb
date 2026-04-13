@@ -823,8 +823,8 @@
     "download_completed": "تم التحميل بنجاح",
     "download_failed": "فشل التحميل",
     "download_pages": "تحميل الصفحات",
-    "notification": "Notification",
-    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
+    "notification": "إشعار",
+    "notification_not_supported_below_7": "لم تتمكن من تلقي إخطارات بأوقات الفناء أو الصلاة لأن جهازك يستخدم أندرويد 7 أو أقل.",
     "battery_optimization": "تحسين البطارية",
     "battery_optimization_subtitle": "لاستلام إشعارات الصلاة بشكل دقيق، يجب إطفاء \"تحسين البطارية\" لبرنامج مواقيت",
     "allow": "موافق",
@@ -1325,7 +1325,7 @@
     "weather_your_location": "يعرض حالة الطقس لموقعك، وليس لمسجدك.",
     "view_360_currently_selected": "عرض 360 محدد حالياً",
     "tap_change_layout": "اضغط هنا لتغيير نمط العرض",
-    "step": "Step",
+    "step": "الخطوة",
     "@step": {
         "description": "-> step"
     },
@@ -1352,5 +1352,6 @@
     "this_will_download_all_surahs_for_offline": "سيؤدي هذا إلى تنزيل جميع السور للاستماع دون اتصال. يرجى التأكد من اتصالك بشبكة Wi-Fi قبل المتابعة.",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
-    }
+    },
+    "tap_change_notification": "انقر لتغيير الإشعار"
 }

@@ -2169,4 +2169,7 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'Esto descargará todas las suras para escucharlas sin conexión. Asegúrate de estar conectado a Wi-Fi antes de continuar.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }

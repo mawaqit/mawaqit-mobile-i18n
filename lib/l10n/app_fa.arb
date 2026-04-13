@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1352,5 +1352,6 @@
     "this_will_download_all_surahs_for_offline": "این کار تمام سوره‌ها را برای گوش دادن آفلاین دانلود می‌کند. لطفاً پیش از ادامه مطمئن شوید که به Wi-Fi متصل هستید.",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
-    }
+    },
+    "tap_change_notification": "Tap to change notification"
 }
