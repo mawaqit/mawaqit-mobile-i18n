@@ -1003,11 +1003,11 @@ class AppLocalizationsAr extends AppLocalizations {
   String get download_pages => 'تحميل الصفحات';
 
   @override
-  String get notification => 'Notification';
+  String get notification => 'إشعار';
 
   @override
   String get notification_not_supported_below_7 =>
-      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
+      'لم تتمكن من تلقي إخطارات بأوقات الفناء أو الصلاة لأن جهازك يستخدم أندرويد 7 أو أقل.';
 
   @override
   String get battery_optimization => 'تحسين البطارية';
