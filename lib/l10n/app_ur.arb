@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1352,5 +1352,6 @@
     "this_will_download_all_surahs_for_offline": "یہ تمام سورتوں کو آف لائن سننے کے لیے ڈاؤن لوڈ کرے گا۔ براہ کرم جاری رکھنے سے پہلے یقینی بنائیں کہ آپ Wi-Fi سے منسلک ہیں۔",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
-    }
+    },
+    "tap_change_notification": "Tap to change notification"
 }
