@@ -2164,4 +2164,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'Questo scaricherà tutte le sure per l’ascolto offline. Assicurati di essere connesso al Wi-Fi prima di continuare.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }

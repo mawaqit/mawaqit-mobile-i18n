@@ -2149,4 +2149,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'এটি অফলাইনে শোনার জন্য সব সূরা ডাউনলোড করবে। চালিয়ে যাওয়ার আগে দয়া করে নিশ্চিত করুন যে আপনি Wi-Fi-এ সংযুক্ত আছেন।.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }

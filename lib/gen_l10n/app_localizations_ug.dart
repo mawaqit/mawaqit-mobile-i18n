@@ -2144,4 +2144,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'بۇ بارلىق سۈرەلەرنى تورسىز ئاڭلاش ئۈچۈن چۈشۈرىدۇ. داۋاملاشتۇرۇشتىن بۇرۇن Wi-Fi غا ئۇلانغانلىقىڭىزنى جەزملەشتۈرۈڭ.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }

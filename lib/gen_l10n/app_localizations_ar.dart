@@ -2080,7 +2080,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get tap_change_layout => 'اضغط هنا لتغيير نمط العرض';
 
   @override
-  String get step => 'Step';
+  String get step => 'الخطوة';
 
   @override
   String get jump_to_page => 'الانتقال إلى الصفحة';
@@ -2119,4 +2119,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'سيؤدي هذا إلى تنزيل جميع السور للاستماع دون اتصال. يرجى التأكد من اتصالك بشبكة Wi-Fi قبل المتابعة.';
+
+  @override
+  String get tap_change_notification => 'انقر لتغيير الإشعار';
 }

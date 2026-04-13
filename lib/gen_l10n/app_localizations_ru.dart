@@ -2148,4 +2148,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'Это скачает все суры для прослушивания офлайн. Пожалуйста, убедитесь, что вы подключены к Wi-Fi перед продолжением.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }

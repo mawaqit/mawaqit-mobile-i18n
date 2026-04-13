@@ -2145,4 +2145,7 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get this_will_download_all_surahs_for_offline =>
       'این کار تمام سوره‌ها را برای گوش دادن آفلاین دانلود می‌کند. لطفاً پیش از ادامه مطمئن شوید که به Wi-Fi متصل هستید.';
+
+  @override
+  String get tap_change_notification => 'Tap to change notification';
 }
