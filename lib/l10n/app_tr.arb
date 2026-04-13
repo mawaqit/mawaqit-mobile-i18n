@@ -1352,5 +1352,6 @@
     "this_will_download_all_surahs_for_offline": "Bu, tüm sureleri çevrimdışı dinlemek için indirecek. Devam etmeden önce Wi-Fi'ye bağlı olduğunuzdan emin olun.",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
-    }
+    },
+    "tap_change_notification": "Tap to change notification"
 }
