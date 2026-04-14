@@ -1353,5 +1353,6 @@
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     },
-    "tap_change_notification": "Tap to change notification"
+    "tap_change_notification": "Tap to change notification",
+    "adhan_at": "اذان"
 }
