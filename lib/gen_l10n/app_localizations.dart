@@ -4195,6 +4195,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Tap to change notification'**
   String get tap_change_notification;
+
+  /// No description provided for @adhan_at.
+  ///
+  /// In en, this message translates to:
+  /// **'Adhan at'**
+  String get adhan_at;
 }
 
 class _AppLocalizationsDelegate

@@ -2150,4 +2150,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get tap_change_notification => 'Tap to change notification';
+
+  @override
+  String get adhan_at => 'Adhan at';
 }

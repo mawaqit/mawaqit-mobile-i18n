@@ -2122,4 +2122,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get tap_change_notification => 'انقر لتغيير الإشعار';
+
+  @override
+  String get adhan_at => 'Adhan at';
 }
