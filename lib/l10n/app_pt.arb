@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1354,5 +1354,5 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "Tap to change notification",
-    "adhan_at": "Adhan at"
+    "adhan_at": "Adhan às"
 }
