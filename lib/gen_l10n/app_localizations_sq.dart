@@ -2159,5 +2159,5 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tap_change_notification => 'Tap to change notification';
 
   @override
-  String get adhan_at => 'Adhan at';
+  String get adhan_at => 'Ezani në';
 }

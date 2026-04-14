@@ -2150,5 +2150,5 @@ class AppLocalizationsPl extends AppLocalizations {
   String get tap_change_notification => 'Dotknij, by zmienić powiadomienie';
 
   @override
-  String get adhan_at => 'Adhan at';
+  String get adhan_at => 'Adhan o';
 }
