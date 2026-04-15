@@ -2158,4 +2158,11 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get adhan_at => 'ئەزان لە';
+
+  @override
+  String get semantic_mawaqit_notification =>
+      'unread notifications from MAWAQIT';
+
+  @override
+  String get semantic_open_notifications => 'Open notifications';
 }

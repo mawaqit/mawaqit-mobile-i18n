@@ -4201,6 +4201,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Adhan at'**
   String get adhan_at;
+
+  /// No description provided for @semantic_mawaqit_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'unread notifications from MAWAQIT'**
+  String get semantic_mawaqit_notification;
+
+  /// No description provided for @semantic_open_notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Open notifications'**
+  String get semantic_open_notifications;
 }
 
 class _AppLocalizationsDelegate

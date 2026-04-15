@@ -2175,4 +2175,11 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get adhan_at => 'Adhan um';
+
+  @override
+  String get semantic_mawaqit_notification =>
+      'Ungelesene Benachrichtigungen von MAWAQIT';
+
+  @override
+  String get semantic_open_notifications => 'Benachrichtigungen öffnen';
 }

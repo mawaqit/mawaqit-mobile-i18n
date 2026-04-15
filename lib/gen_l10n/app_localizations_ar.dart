@@ -2125,4 +2125,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get adhan_at => 'الأذان في';
+
+  @override
+  String get semantic_mawaqit_notification => 'إشعارات غير مقروءة من مواقيت';
+
+  @override
+  String get semantic_open_notifications => 'فتح الإشعارات';
 }

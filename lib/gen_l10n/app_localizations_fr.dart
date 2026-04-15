@@ -2132,7 +2132,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get tap_change_layout => 'Appuyez ici pour changer la disposition';
 
   @override
-  String get step => 'Step';
+  String get step => 'Etape';
 
   @override
   String get jump_to_page => 'Aller à la page';
@@ -2178,4 +2178,11 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get adhan_at => 'Adhan à';
+
+  @override
+  String get semantic_mawaqit_notification =>
+      'notifications non lues de MAWAQIT';
+
+  @override
+  String get semantic_open_notifications => 'Ouvrir les notifications';
 }
