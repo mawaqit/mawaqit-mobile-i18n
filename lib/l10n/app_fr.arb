@@ -1325,7 +1325,7 @@
     "weather_your_location": "Affiche la météo de votre emplacement, pas celle de la mosquée.",
     "view_360_currently_selected": "Vue à 360° actuellement sélectionnée",
     "tap_change_layout": "Appuyez ici pour changer la disposition",
-    "step": "Step",
+    "step": "Etape",
     "@step": {
         "description": "-> step"
     },
@@ -1354,5 +1354,7 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "Appuyer pour modifier la notification",
-    "adhan_at": "Adhan à"
+    "adhan_at": "Adhan à",
+    "semantic_mawaqit_notification": "notifications non lues de MAWAQIT",
+    "semantic_open_notifications": "Ouvrir les notifications"
 }
