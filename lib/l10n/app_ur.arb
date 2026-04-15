@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1354,5 +1354,7 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "Tap to change notification",
-    "adhan_at": "اذان"
+    "adhan_at": "اذان",
+    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
+    "semantic_open_notifications": "Open notifications"
 }
