@@ -1354,5 +1354,7 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "Tap to change notification",
-    "adhan_at": "Adhan um"
+    "adhan_at": "Adhan um",
+    "semantic_mawaqit_notification": "Ungelesene Benachrichtigungen von MAWAQIT",
+    "semantic_open_notifications": "Benachrichtigungen öffnen"
 }
