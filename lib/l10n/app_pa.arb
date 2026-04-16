@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1370,5 +1370,6 @@
     "semantic_mosque_page": "Mosque page",
     "semantic_of": "of",
     "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
-    "back": "Back"
+    "back": "Back",
+    "out_of_surahs_have_been_downloaded": "{{downloaded}} out of {{total}} surahs have been downloaded"
 }
