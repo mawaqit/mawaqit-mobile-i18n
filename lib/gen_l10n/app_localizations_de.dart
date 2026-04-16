@@ -2225,4 +2225,7 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get semantic_unread_mawaqit_notifications =>
       'Ungelesene Mawaqit-Benachrichtigungen';
+
+  @override
+  String get back => 'Hinterseite';
 }

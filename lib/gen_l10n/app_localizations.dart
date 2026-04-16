@@ -4291,6 +4291,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'unread Mawaqit notifications'**
   String get semantic_unread_mawaqit_notifications;
+
+  /// No description provided for @back.
+  ///
+  /// In en, this message translates to:
+  /// **'Back'**
+  String get back;
 }
 
 class _AppLocalizationsDelegate

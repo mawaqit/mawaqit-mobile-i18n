@@ -1369,5 +1369,6 @@
     "close": "Fermer",
     "semantic_mosque_page": "Page de la mosquée",
     "semantic_of": "de",
-    "semantic_unread_mawaqit_notifications": "notifications Mawaqit non lues"
+    "semantic_unread_mawaqit_notifications": "notifications Mawaqit non lues",
+    "back": "Précédent"
 }
