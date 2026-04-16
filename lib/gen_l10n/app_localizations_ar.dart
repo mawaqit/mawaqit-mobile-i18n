@@ -2131,4 +2131,41 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_open_notifications => 'فتح الإشعارات';
+
+  @override
+  String get semantic_tap_to_change_notification =>
+      'اضغط لتغيير إعدادات الإشعارات';
+
+  @override
+  String get semantic_edit_mosques => 'افتح لتعديل مساجدك';
+
+  @override
+  String get semantic_change_layout => 'تغيير نمط عرض الصفحة الرئيسية';
+
+  @override
+  String get semantic_open_layout_menu => 'افتح قائمة أنماط العرض';
+
+  @override
+  String get semantic_edit_home_settings => 'تعديل إعدادات الصفحة الرئيسية';
+
+  @override
+  String get semantic_list_layout => 'نمط عرض القائمة';
+
+  @override
+  String get semantic_grid_layout => 'نمط عرض شبكي';
+
+  @override
+  String get sematnic_360_clock_layout => 'نمط عرض الساعة';
+
+  @override
+  String get semantic_layout_menu_open => 'قائمة أنماط العرض مفتوحة';
+
+  @override
+  String get close => 'إغلاق';
+
+  @override
+  String get semantic_mosque_page => 'صفحة المسجد';
+
+  @override
+  String get semantic_of => 'من';
 }

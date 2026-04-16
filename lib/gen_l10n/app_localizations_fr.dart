@@ -2185,4 +2185,42 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get semantic_open_notifications => 'Ouvrir les notifications';
+
+  @override
+  String get semantic_tap_to_change_notification =>
+      'Appuyez pour modifier les paramètres de notification';
+
+  @override
+  String get semantic_edit_mosques => 'Ouvrez pour modifier vos mosquées';
+
+  @override
+  String get semantic_change_layout => 'Modifier la disposition de l’accueil';
+
+  @override
+  String get semantic_open_layout_menu => 'ouvrir le menu de disposition';
+
+  @override
+  String get semantic_edit_home_settings =>
+      'Modifier les paramètres de l’accueil';
+
+  @override
+  String get semantic_list_layout => 'Disposition en liste';
+
+  @override
+  String get semantic_grid_layout => 'Disposition en grille';
+
+  @override
+  String get sematnic_360_clock_layout => 'Disposition horloge 360';
+
+  @override
+  String get semantic_layout_menu_open => 'Ouvrir le menu de disposition';
+
+  @override
+  String get close => 'Fermer';
+
+  @override
+  String get semantic_mosque_page => 'Page de la mosquée';
+
+  @override
+  String get semantic_of => 'de';
 }
