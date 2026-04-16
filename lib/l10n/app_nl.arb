@@ -1354,5 +1354,19 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "Tap to change notification",
-    "adhan_at": "Adhan om"
+    "adhan_at": "Adhan om",
+    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
+    "semantic_open_notifications": "Open notifications",
+    "semantic_tap_to_change_notification": "Tap to change notification settings",
+    "semantic_edit_mosques": "Open to edit your mosques",
+    "semantic_change_layout": "Change home layout",
+    "semantic_open_layout_menu": "open layout menu",
+    "semantic_edit_home_settings": "Edit home settings",
+    "semantic_list_layout": "List layout",
+    "semantic_grid_layout": "Grid layout",
+    "sematnic_360_clock_layout": "360 clock layout",
+    "semantic_layout_menu_open": "Layout menu open",
+    "close": "Close",
+    "semantic_mosque_page": "Mosque page",
+    "semantic_of": "of"
 }

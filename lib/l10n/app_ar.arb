@@ -1354,5 +1354,19 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "انقر لتغيير الإشعار",
-    "adhan_at": "الأذان في"
+    "adhan_at": "الأذان في",
+    "semantic_mawaqit_notification": "إشعارات غير مقروءة من مواقيت",
+    "semantic_open_notifications": "فتح الإشعارات",
+    "semantic_tap_to_change_notification": "اضغط لتغيير إعدادات الإشعارات",
+    "semantic_edit_mosques": "افتح لتعديل مساجدك",
+    "semantic_change_layout": "تغيير نمط عرض الصفحة الرئيسية",
+    "semantic_open_layout_menu": "افتح قائمة أنماط العرض",
+    "semantic_edit_home_settings": "تعديل إعدادات الصفحة الرئيسية",
+    "semantic_list_layout": "نمط عرض القائمة",
+    "semantic_grid_layout": "نمط عرض شبكي",
+    "sematnic_360_clock_layout": "نمط عرض الساعة",
+    "semantic_layout_menu_open": "قائمة أنماط العرض مفتوحة",
+    "close": "إغلاق",
+    "semantic_mosque_page": "صفحة المسجد",
+    "semantic_of": "من"
 }

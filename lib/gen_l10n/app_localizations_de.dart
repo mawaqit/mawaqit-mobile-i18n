@@ -2130,7 +2130,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get tap_change_layout => 'Tippen Sie hier, um das Layout zu ändern';
 
   @override
-  String get step => 'Step';
+  String get step => 'Layout-Menü öffnen';
 
   @override
   String get jump_to_page => 'Jump to page';
@@ -2171,8 +2171,54 @@ class AppLocalizationsDe extends AppLocalizations {
       'Dies lädt alle Suren für das Offline-Hören herunter. Bitte stellen Sie sicher, dass Sie mit dem WLAN verbunden sind, bevor Sie fortfahren.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification =>
+      'Tippen Sie, um die Benachrichtigungseinstellungen zu ändern';
 
   @override
   String get adhan_at => 'Adhan um';
+
+  @override
+  String get semantic_mawaqit_notification =>
+      'Ungelesene Benachrichtigungen von MAWAQIT';
+
+  @override
+  String get semantic_open_notifications => 'Benachrichtigungen öffnen';
+
+  @override
+  String get semantic_tap_to_change_notification =>
+      'Tippen Sie, um die Benachrichtigungseinstellungen zu ändern';
+
+  @override
+  String get semantic_edit_mosques => 'Öffnen, um Ihre Moscheen zu bearbeiten';
+
+  @override
+  String get semantic_change_layout => 'Startseitenlayout ändern';
+
+  @override
+  String get semantic_open_layout_menu => 'Layout-Menü öffnen';
+
+  @override
+  String get semantic_edit_home_settings =>
+      'Startseiteneinstellungen bearbeiten';
+
+  @override
+  String get semantic_list_layout => 'Listenansicht';
+
+  @override
+  String get semantic_grid_layout => 'Rasteransicht';
+
+  @override
+  String get sematnic_360_clock_layout => '360-Uhrlayout';
+
+  @override
+  String get semantic_layout_menu_open => 'Layout menu open';
+
+  @override
+  String get close => 'Schließen';
+
+  @override
+  String get semantic_mosque_page => 'Moschee-Seite';
+
+  @override
+  String get semantic_of => 'von';
 }

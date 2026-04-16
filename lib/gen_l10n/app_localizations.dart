@@ -4201,6 +4201,90 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Adhan at'**
   String get adhan_at;
+
+  /// No description provided for @semantic_mawaqit_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'unread notifications from MAWAQIT'**
+  String get semantic_mawaqit_notification;
+
+  /// No description provided for @semantic_open_notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Open notifications'**
+  String get semantic_open_notifications;
+
+  /// No description provided for @semantic_tap_to_change_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to change notification settings'**
+  String get semantic_tap_to_change_notification;
+
+  /// No description provided for @semantic_edit_mosques.
+  ///
+  /// In en, this message translates to:
+  /// **'Open to edit your mosques'**
+  String get semantic_edit_mosques;
+
+  /// No description provided for @semantic_change_layout.
+  ///
+  /// In en, this message translates to:
+  /// **'Change home layout'**
+  String get semantic_change_layout;
+
+  /// No description provided for @semantic_open_layout_menu.
+  ///
+  /// In en, this message translates to:
+  /// **'open layout menu'**
+  String get semantic_open_layout_menu;
+
+  /// No description provided for @semantic_edit_home_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Edit home settings'**
+  String get semantic_edit_home_settings;
+
+  /// No description provided for @semantic_list_layout.
+  ///
+  /// In en, this message translates to:
+  /// **'List layout'**
+  String get semantic_list_layout;
+
+  /// No description provided for @semantic_grid_layout.
+  ///
+  /// In en, this message translates to:
+  /// **'Grid layout'**
+  String get semantic_grid_layout;
+
+  /// No description provided for @sematnic_360_clock_layout.
+  ///
+  /// In en, this message translates to:
+  /// **'360 clock layout'**
+  String get sematnic_360_clock_layout;
+
+  /// No description provided for @semantic_layout_menu_open.
+  ///
+  /// In en, this message translates to:
+  /// **'Layout menu open'**
+  String get semantic_layout_menu_open;
+
+  /// No description provided for @close.
+  ///
+  /// In en, this message translates to:
+  /// **'Close'**
+  String get close;
+
+  /// No description provided for @semantic_mosque_page.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque page'**
+  String get semantic_mosque_page;
+
+  /// No description provided for @semantic_of.
+  ///
+  /// In en, this message translates to:
+  /// **'of'**
+  String get semantic_of;
 }
 
 class _AppLocalizationsDelegate

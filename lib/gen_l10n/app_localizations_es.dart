@@ -2175,4 +2175,48 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get adhan_at => 'Adhan a';
+
+  @override
+  String get semantic_mawaqit_notification =>
+      'unread notifications from MAWAQIT';
+
+  @override
+  String get semantic_open_notifications => 'Open notifications';
+
+  @override
+  String get semantic_tap_to_change_notification =>
+      'Tap to change notification settings';
+
+  @override
+  String get semantic_edit_mosques => 'Open to edit your mosques';
+
+  @override
+  String get semantic_change_layout => 'Change home layout';
+
+  @override
+  String get semantic_open_layout_menu => 'open layout menu';
+
+  @override
+  String get semantic_edit_home_settings => 'Edit home settings';
+
+  @override
+  String get semantic_list_layout => 'List layout';
+
+  @override
+  String get semantic_grid_layout => 'Grid layout';
+
+  @override
+  String get sematnic_360_clock_layout => '360 clock layout';
+
+  @override
+  String get semantic_layout_menu_open => 'Layout menu open';
+
+  @override
+  String get close => 'Close';
+
+  @override
+  String get semantic_mosque_page => 'Mosque page';
+
+  @override
+  String get semantic_of => 'of';
 }

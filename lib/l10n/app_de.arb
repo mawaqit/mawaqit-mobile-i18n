@@ -1325,7 +1325,7 @@
     "weather_your_location": "Zeigt das Wetter für Ihren Standort, nicht für die Moschee.",
     "view_360_currently_selected": "360-Ansicht ist aktuell ausgewählt",
     "tap_change_layout": "Tippen Sie hier, um das Layout zu ändern",
-    "step": "Step",
+    "step": "Layout-Menü öffnen",
     "@step": {
         "description": "-> step"
     },
@@ -1353,6 +1353,20 @@
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     },
-    "tap_change_notification": "Tap to change notification",
-    "adhan_at": "Adhan um"
+    "tap_change_notification": "Tippen Sie, um die Benachrichtigungseinstellungen zu ändern",
+    "adhan_at": "Adhan um",
+    "semantic_mawaqit_notification": "Ungelesene Benachrichtigungen von MAWAQIT",
+    "semantic_open_notifications": "Benachrichtigungen öffnen",
+    "semantic_tap_to_change_notification": "Tippen Sie, um die Benachrichtigungseinstellungen zu ändern",
+    "semantic_edit_mosques": "Öffnen, um Ihre Moscheen zu bearbeiten",
+    "semantic_change_layout": "Startseitenlayout ändern",
+    "semantic_open_layout_menu": "Layout-Menü öffnen",
+    "semantic_edit_home_settings": "Startseiteneinstellungen bearbeiten",
+    "semantic_list_layout": "Listenansicht",
+    "semantic_grid_layout": "Rasteransicht",
+    "sematnic_360_clock_layout": "360-Uhrlayout",
+    "semantic_layout_menu_open": "Layout menu open",
+    "close": "Schließen",
+    "semantic_mosque_page": "Moschee-Seite",
+    "semantic_of": "von"
 }
