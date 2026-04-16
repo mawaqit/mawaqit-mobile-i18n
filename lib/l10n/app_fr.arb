@@ -1368,5 +1368,6 @@
     "semantic_layout_menu_open": "Ouvrir le menu de disposition",
     "close": "Fermer",
     "semantic_mosque_page": "Page de la mosquée",
-    "semantic_of": "de"
+    "semantic_of": "de",
+    "semantic_unread_mawaqit_notifications": "notifications Mawaqit non lues"
 }
