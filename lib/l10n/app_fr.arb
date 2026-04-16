@@ -1370,5 +1370,6 @@
     "semantic_mosque_page": "Page de la mosquée",
     "semantic_of": "de",
     "semantic_unread_mawaqit_notifications": "notifications Mawaqit non lues",
-    "back": "Précédent"
+    "back": "Précédent",
+    "out_of_surahs_have_been_downloaded": "{{downloaded}} out of {{total}} surahs have been downloaded"
 }
