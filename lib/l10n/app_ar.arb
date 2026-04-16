@@ -1370,5 +1370,6 @@
     "semantic_mosque_page": "صفحة المسجد",
     "semantic_of": "من",
     "semantic_unread_mawaqit_notifications": "إشعارات مواقيت غير مقروءة",
-    "back": "رجوع"
+    "back": "رجوع",
+    "out_of_surahs_have_been_downloaded": "{{downloaded}} out of {{total}} surahs have been downloaded"
 }
