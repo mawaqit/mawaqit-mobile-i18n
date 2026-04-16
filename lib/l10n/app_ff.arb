@@ -1369,5 +1369,6 @@
     "close": "Close",
     "semantic_mosque_page": "Mosque page",
     "semantic_of": "of",
-    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications"
+    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
+    "back": "Back"
 }
