@@ -2172,4 +2172,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get semantic_unread_mawaqit_notifications =>
       'إشعارات مواقيت غير مقروءة';
+
+  @override
+  String get back => 'رجوع';
 }

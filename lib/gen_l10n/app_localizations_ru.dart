@@ -2202,4 +2202,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get semantic_unread_mawaqit_notifications =>
       'unread Mawaqit notifications';
+
+  @override
+  String get back => 'Back';
 }
