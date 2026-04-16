@@ -4285,6 +4285,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'of'**
   String get semantic_of;
+
+  /// No description provided for @semantic_unread_mawaqit_notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'unread Mawaqit notifications'**
+  String get semantic_unread_mawaqit_notifications;
 }
 
 class _AppLocalizationsDelegate
