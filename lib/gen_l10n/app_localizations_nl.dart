@@ -2218,4 +2218,78 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Download alle soera\'s om offline te beluisteren';
+
+  @override
+  String get semantic_download_all_surahs => 'Download alle soera\'s';
+
+  @override
+  String get semantic_bulk_download_progress => 'Voortgang van bulkdownload';
+
+  @override
+  String get semantic_surahs_downloaded => 'Gedownloade soera\'s';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Download van alle soera\'s annuleren';
+
+  @override
+  String get semantic_bulk_download_in_progress => 'Bulkdownload bezig.';
+
+  @override
+  String get semantic_replay_current_surah => 'Huidige soera opnieuw afspelen';
+
+  @override
+  String get semantic_pause_current_surah => 'Huidige soera pauzeren';
+
+  @override
+  String get semantic_play_current_surah => 'Huidige soera afspelen';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Open afspeelopties op horloge voor';
+
+  @override
+  String get semantic_now_playing_surah => 'Wordt nu afgespeeld. Soera';
+
+  @override
+  String get semantic_recited_by => 'Gereciteerd door';
+
+  @override
+  String get semantic_minimize_player => 'Speler minimaliseren';
+
+  @override
+  String get semantic_elapsed => 'Verstreken';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Afspeeltijd. Verstreken';
+
+  @override
+  String get semantic_remaining => 'Resterend';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Shuffle uitschakelen';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Shuffle inschakelen';
+
+  @override
+  String get semantic_previous_surah => 'Vorige soera';
+
+  @override
+  String get semantic_next_surah => 'Volgende soera';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Herhaling van huidige soera uitschakelen';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Herhaling van huidige soera inschakelen';
+
+  @override
+  String get semantic_pause => 'Pauze';
 }

@@ -2206,4 +2206,78 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'অফলাইনে শোনার জন্য সব সূরা ডাউনলোড করুন';
+
+  @override
+  String get semantic_download_all_surahs => 'সব সূরা ডাউনলোড করুন';
+
+  @override
+  String get semantic_bulk_download_progress => 'একসাথে ডাউনলোডের অগ্রগতি';
+
+  @override
+  String get semantic_surahs_downloaded => 'ডাউনলোড করা সূরা';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'সব সূরা ডাউনলোড বাতিল করুন';
+
+  @override
+  String get semantic_bulk_download_in_progress => 'একসাথে ডাউনলোড চলছে।';
+
+  @override
+  String get semantic_replay_current_surah => 'বর্তমান সূরা আবার চালান';
+
+  @override
+  String get semantic_pause_current_surah => 'বর্তমান সূরা বিরতি দিন';
+
+  @override
+  String get semantic_play_current_surah => 'বর্তমান সূরা চালান';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'ঘড়িতে চালানোর বিকল্প খুলুন';
+
+  @override
+  String get semantic_now_playing_surah => 'এখন চলছে। সূরা';
+
+  @override
+  String get semantic_recited_by => 'তিলাওয়াত করেছেন';
+
+  @override
+  String get semantic_minimize_player => 'প্লেয়ার ছোট করুন';
+
+  @override
+  String get semantic_elapsed => 'অতিবাহিত';
+
+  @override
+  String get semantic_playback_time_elapsed => 'প্লেব্যাক সময়। অতিবাহিত';
+
+  @override
+  String get semantic_remaining => 'বাকি';
+
+  @override
+  String get semantic_turn_shuffle_off => 'শাফল বন্ধ করুন';
+
+  @override
+  String get semantic_turn_shuffle_on => 'শাফল চালু করুন';
+
+  @override
+  String get semantic_previous_surah => 'পূর্ববর্তী সূরা';
+
+  @override
+  String get semantic_next_surah => 'পরবর্তী সূরা';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'বর্তমান সূরা পুনরাবৃত্তি বন্ধ করুন';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'বর্তমান সূরা পুনরাবৃত্তি চালু করুন';
+
+  @override
+  String get semantic_pause => 'বিরতি';
 }

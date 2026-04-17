@@ -2221,4 +2221,82 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Scarica tutte le sure per l’ascolto offline';
+
+  @override
+  String get semantic_download_all_surahs => 'Scarica tutte le sure';
+
+  @override
+  String get semantic_bulk_download_progress =>
+      'Avanzamento del download in blocco';
+
+  @override
+  String get semantic_surahs_downloaded => 'Sure scaricate';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Annulla il download di tutte le sure';
+
+  @override
+  String get semantic_bulk_download_in_progress =>
+      'Download in blocco in corso.';
+
+  @override
+  String get semantic_replay_current_surah =>
+      'Riproduci di nuovo la sura attuale';
+
+  @override
+  String get semantic_pause_current_surah => 'Metti in pausa la sura attuale';
+
+  @override
+  String get semantic_play_current_surah => 'Riproduci la sura attuale';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Apri le opzioni di riproduzione sull’orologio per';
+
+  @override
+  String get semantic_now_playing_surah => 'In riproduzione. Sura';
+
+  @override
+  String get semantic_recited_by => 'Recitato da';
+
+  @override
+  String get semantic_minimize_player => 'Riduci il player';
+
+  @override
+  String get semantic_elapsed => 'Trascorso';
+
+  @override
+  String get semantic_playback_time_elapsed =>
+      'Tempo di riproduzione. Trascorso';
+
+  @override
+  String get semantic_remaining => 'Rimanente';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Disattiva riproduzione casuale';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Attiva riproduzione casuale';
+
+  @override
+  String get semantic_previous_surah => 'Sura precedente';
+
+  @override
+  String get semantic_next_surah => 'Sura successiva';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Disattiva ripetizione della sura attuale';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Attiva ripetizione della sura attuale';
+
+  @override
+  String get semantic_pause => 'Pausa';
 }

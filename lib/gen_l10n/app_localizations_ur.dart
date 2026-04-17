@@ -2203,4 +2203,78 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'آف لائن سننے کے لیے تمام سورتیں ڈاؤن لوڈ کریں';
+
+  @override
+  String get semantic_download_all_surahs => 'تمام سورتیں ڈاؤن لوڈ کریں';
+
+  @override
+  String get semantic_bulk_download_progress => 'بلک ڈاؤن لوڈ کی پیش رفت';
+
+  @override
+  String get semantic_surahs_downloaded => 'ڈاؤن لوڈ کی گئی سورتیں';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'تمام سورتوں کا ڈاؤن لوڈ منسوخ کریں';
+
+  @override
+  String get semantic_bulk_download_in_progress => 'بلک ڈاؤن لوڈ جاری ہے۔';
+
+  @override
+  String get semantic_replay_current_surah => 'موجودہ سورت دوبارہ چلائیں';
+
+  @override
+  String get semantic_pause_current_surah => 'موجودہ سورت کو روکیں';
+
+  @override
+  String get semantic_play_current_surah => 'موجودہ سورت چلائیں';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'گھڑی پر پلے کے آپشنز کھولیں برائے';
+
+  @override
+  String get semantic_now_playing_surah => 'اب چل رہا ہے۔ سورت';
+
+  @override
+  String get semantic_recited_by => 'تلاوت کرنے والے';
+
+  @override
+  String get semantic_minimize_player => 'پلیئر کو چھوٹا کریں';
+
+  @override
+  String get semantic_elapsed => 'گزرا ہوا';
+
+  @override
+  String get semantic_playback_time_elapsed => 'پلے بیک کا وقت۔ گزرا ہوا';
+
+  @override
+  String get semantic_remaining => 'باقی';
+
+  @override
+  String get semantic_turn_shuffle_off => 'شفل بند کریں';
+
+  @override
+  String get semantic_turn_shuffle_on => 'شفل آن کریں';
+
+  @override
+  String get semantic_previous_surah => 'پچھلی سورت';
+
+  @override
+  String get semantic_next_surah => 'اگلی سورت';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'موجودہ سورت کا ریپیٹ بند کریں';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'موجودہ سورت کا ریپیٹ آن کریں';
+
+  @override
+  String get semantic_pause => 'روکیں';
 }
