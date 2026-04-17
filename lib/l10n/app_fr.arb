@@ -1370,5 +1370,97 @@
     "semantic_mosque_page": "Page de la mosquée",
     "semantic_of": "de",
     "semantic_unread_mawaqit_notifications": "notifications Mawaqit non lues",
-    "back": "Précédent"
+    "back": "Précédent",
+    "semantic_download_all_surahs_for_offline_listening": "Téléchargez toutes les sourates pour une écoute hors ligne",
+    "@semantic_download_all_surahs_for_offline_listening": {
+        "description": "-> semantic_download_all_surahs_for_offline_listening"
+    },
+    "semantic_download_all_surahs": "Télécharger toutes les sourates",
+    "@semantic_download_all_surahs": {
+        "description": "-> semantic_download_all_surahs"
+    },
+    "semantic_bulk_download_progress": "Progression du téléchargement groupé",
+    "@semantic_bulk_download_progress": {
+        "description": "-> semantic_bulk_download_progress"
+    },
+    "semantic_surahs_downloaded": "Sourates téléchargées",
+    "@semantic_surahs_downloaded": {
+        "description": "-> semantic_surahs_downloaded"
+    },
+    "semantic_cancel_download_all_surahs": "Annuler le téléchargement de toutes les sourates",
+    "@semantic_cancel_download_all_surahs": {
+        "description": "-> semantic_cancel_download_all_surahs"
+    },
+    "semantic_bulk_download_in_progress": "Téléchargement groupé en cours.",
+    "@semantic_bulk_download_in_progress": {
+        "description": "-> "
+    },
+    "semantic_replay_current_surah": "Rejouer la sourate actuelle",
+    "@semantic_replay_current_surah": {
+        "description": "-> semantic_replay_current_surah"
+    },
+    "semantic_pause_current_surah": "Mettre en pause la sourate actuelle",
+    "@semantic_pause_current_surah": {
+        "description": "-> semantic_pause_current_surah"
+    },
+    "semantic_play_current_surah": "Lire la sourate actuelle",
+    "@semantic_play_current_surah": {
+        "description": "-> semantic_play_current_surah"
+    },
+    "semantic_open_play_on_watch_options_for": "Ouvrir les options de lecture sur la montre pour",
+    "@semantic_open_play_on_watch_options_for": {
+        "description": "-> semantic_open_play_on_watch_options_for"
+    },
+    "semantic_now_playing_surah": "Lecture en cours. Sourate",
+    "@semantic_now_playing_surah": {
+        "description": "-> semantic_now_playing_surah"
+    },
+    "semantic_recited_by": "Récité par",
+    "@semantic_recited_by": {
+        "description": "-> semantic_recited_by"
+    },
+    "semantic_minimize_player": "Réduire le lecteur",
+    "@semantic_minimize_player": {
+        "description": "-> semantic_minimize_player"
+    },
+    "semantic_elapsed": "Écoulé",
+    "@semantic_elapsed": {
+        "description": "-> "
+    },
+    "semantic_playback_time_elapsed": "Temps de lecture. Écoulé",
+    "@semantic_playback_time_elapsed": {
+        "description": "-> semantic_playback_time_elapsed"
+    },
+    "semantic_remaining": "Restant",
+    "@semantic_remaining": {
+        "description": "-> semantic_remaining"
+    },
+    "semantic_turn_shuffle_off": "Désactiver la lecture aléatoire",
+    "@semantic_turn_shuffle_off": {
+        "description": "-> semantic_turn_shuffle_off"
+    },
+    "semantic_turn_shuffle_on": "Activer la lecture aléatoire",
+    "@semantic_turn_shuffle_on": {
+        "description": "-> semantic_turn_shuffle_on"
+    },
+    "semantic_previous_surah": "Sourate précédente",
+    "@semantic_previous_surah": {
+        "description": "-> semantic_previous_surah"
+    },
+    "semantic_next_surah": "Sourate suivante",
+    "@semantic_next_surah": {
+        "description": "-> semantic_next_surah"
+    },
+    "semantic_turn_repeat_current_surah_off": "Désactiver la répétition de la sourate actuelle",
+    "@semantic_turn_repeat_current_surah_off": {
+        "description": "-> semantic_turn_repeat_current_surah_off"
+    },
+    "semantic_turn_repeat_current_surah_on": "Activer la répétition de la sourate actuelle",
+    "@semantic_turn_repeat_current_surah_on": {
+        "description": "-> semantic_turn_repeat_current_surah_on"
+    },
+    "semantic_pause": "Pause",
+    "@semantic_pause": {
+        "description": "-> semantic_pause"
+    }
 }

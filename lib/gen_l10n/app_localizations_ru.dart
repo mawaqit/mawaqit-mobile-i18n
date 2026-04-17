@@ -2205,4 +2205,78 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Скачать все суры для прослушивания офлайн';
+
+  @override
+  String get semantic_download_all_surahs => 'Скачать все суры';
+
+  @override
+  String get semantic_bulk_download_progress => 'Прогресс массовой загрузки';
+
+  @override
+  String get semantic_surahs_downloaded => 'Загруженные суры';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Отменить загрузку всех сур';
+
+  @override
+  String get semantic_bulk_download_in_progress => 'Идёт массовая загрузка.';
+
+  @override
+  String get semantic_replay_current_surah => 'Повторить текущую суру';
+
+  @override
+  String get semantic_pause_current_surah => 'Приостановить текущую суру';
+
+  @override
+  String get semantic_play_current_surah => 'Воспроизвести текущую суру';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Открыть параметры воспроизведения на часах для';
+
+  @override
+  String get semantic_now_playing_surah => 'Сейчас воспроизводится. Сура';
+
+  @override
+  String get semantic_recited_by => 'Читает';
+
+  @override
+  String get semantic_minimize_player => 'Свернуть плеер';
+
+  @override
+  String get semantic_elapsed => 'Прошло';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Время воспроизведения. Прошло';
+
+  @override
+  String get semantic_remaining => 'Осталось';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Выключить случайное воспроизведение';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Включить случайное воспроизведение';
+
+  @override
+  String get semantic_previous_surah => 'Предыдущая сура';
+
+  @override
+  String get semantic_next_surah => 'Следующая сура';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Отключить повтор текущей суры';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Включить повтор текущей суры';
+
+  @override
+  String get semantic_pause => 'Пауза';
 }

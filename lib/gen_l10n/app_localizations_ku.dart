@@ -2209,4 +2209,79 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'هەموو سوورەکان داگرتن بۆ گوێگرتنی ئۆفلاین';
+
+  @override
+  String get semantic_download_all_surahs => 'هەموو سوورەکان داگرتن';
+
+  @override
+  String get semantic_bulk_download_progress => 'پێشکەوتنی داگرتنی کۆمەڵەیی';
+
+  @override
+  String get semantic_surahs_downloaded => 'سوورە داگرتووەکان';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'هەڵوەشاندنەوەی داگرتنی هەموو سوورەکان';
+
+  @override
+  String get semantic_bulk_download_in_progress =>
+      'داگرتنی کۆمەڵەیی لە جێبەجێکردندایە.';
+
+  @override
+  String get semantic_replay_current_surah => 'دووبارەکردنەوەی سوورەی ئێستا';
+
+  @override
+  String get semantic_pause_current_surah => 'وەستاندنی سوورەی ئێستا';
+
+  @override
+  String get semantic_play_current_surah => 'لێدانەوەی سوورەی ئێستا';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'کردنەوەی هەڵبژاردەکانی لێدان لە کاتژمێر بۆ';
+
+  @override
+  String get semantic_now_playing_surah => 'ئێستا لێدەدرێت. سوورە';
+
+  @override
+  String get semantic_recited_by => 'خوێندراوە لەلایەن';
+
+  @override
+  String get semantic_minimize_player => 'بچووککردنی پلەیر';
+
+  @override
+  String get semantic_elapsed => 'تێپەڕیوو';
+
+  @override
+  String get semantic_playback_time_elapsed => 'کاتی لێدانەوە. تێپەڕیوو';
+
+  @override
+  String get semantic_remaining => 'ماوە';
+
+  @override
+  String get semantic_turn_shuffle_off => 'کوژاندنەوەی هەڕەمەکی بکوژێنەوە';
+
+  @override
+  String get semantic_turn_shuffle_on => 'کوژاندنەوەی هەڕەمەکی چالاک بکە';
+
+  @override
+  String get semantic_previous_surah => 'سوورەی پێشوو';
+
+  @override
+  String get semantic_next_surah => 'سوورەی دواتر';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'کوژاندنەوەی دووبارەکردنەوەی سوورەی ئێستا';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'چالاککردنی دووبارەکردنەوەی سوورەی ئێستا';
+
+  @override
+  String get semantic_pause => 'وەستان';
 }

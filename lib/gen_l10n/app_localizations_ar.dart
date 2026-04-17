@@ -2175,4 +2175,78 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get back => 'رجوع';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'تنزيل جميع السور للاستماع دون اتصال';
+
+  @override
+  String get semantic_download_all_surahs => 'تنزيل جميع السور';
+
+  @override
+  String get semantic_bulk_download_progress => 'تقدم التنزيل الجماعي';
+
+  @override
+  String get semantic_surahs_downloaded => 'السور التي تم تنزيلها';
+
+  @override
+  String get semantic_cancel_download_all_surahs => 'إلغاء تنزيل جميع السور';
+
+  @override
+  String get semantic_bulk_download_in_progress =>
+      'التنزيل الجماعي قيد التقدم.';
+
+  @override
+  String get semantic_replay_current_surah => 'إعادة تشغيل السورة الحالية';
+
+  @override
+  String get semantic_pause_current_surah => 'إيقاف السورة الحالية مؤقتًا';
+
+  @override
+  String get semantic_play_current_surah => 'تشغيل السورة الحالية';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'فتح خيارات التشغيل على الساعة لـ';
+
+  @override
+  String get semantic_now_playing_surah => 'يتم التشغيل الآن. سورة';
+
+  @override
+  String get semantic_recited_by => 'تلاوة بواسطة';
+
+  @override
+  String get semantic_minimize_player => 'تصغير المشغل';
+
+  @override
+  String get semantic_elapsed => 'المنقضي';
+
+  @override
+  String get semantic_playback_time_elapsed => 'وقت التشغيل. المنقضي';
+
+  @override
+  String get semantic_remaining => 'المتبقي';
+
+  @override
+  String get semantic_turn_shuffle_off => 'إيقاف التشغيل العشوائي';
+
+  @override
+  String get semantic_turn_shuffle_on => 'تشغيل التشغيل العشوائي';
+
+  @override
+  String get semantic_previous_surah => 'السورة السابقة';
+
+  @override
+  String get semantic_next_surah => 'السورة التالية';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'إيقاف تكرار السورة الحالية';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'تشغيل تكرار السورة الحالية';
+
+  @override
+  String get semantic_pause => 'إيقاف مؤقت';
 }

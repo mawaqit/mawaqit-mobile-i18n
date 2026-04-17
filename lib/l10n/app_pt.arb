@@ -1370,5 +1370,97 @@
     "semantic_mosque_page": "Mosque page",
     "semantic_of": "of",
     "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
-    "back": "Back"
+    "back": "Back",
+    "semantic_download_all_surahs_for_offline_listening": "Baixe todas as suratas para ouvir offline",
+    "@semantic_download_all_surahs_for_offline_listening": {
+        "description": "-> semantic_download_all_surahs_for_offline_listening"
+    },
+    "semantic_download_all_surahs": "Baixar todas as suratas",
+    "@semantic_download_all_surahs": {
+        "description": "-> semantic_download_all_surahs"
+    },
+    "semantic_bulk_download_progress": "Progresso do download em massa",
+    "@semantic_bulk_download_progress": {
+        "description": "-> semantic_bulk_download_progress"
+    },
+    "semantic_surahs_downloaded": "Suratas baixadas",
+    "@semantic_surahs_downloaded": {
+        "description": "-> semantic_surahs_downloaded"
+    },
+    "semantic_cancel_download_all_surahs": "Cancelar o download de todas as suratas",
+    "@semantic_cancel_download_all_surahs": {
+        "description": "-> semantic_cancel_download_all_surahs"
+    },
+    "semantic_bulk_download_in_progress": "Download em massa em andamento.",
+    "@semantic_bulk_download_in_progress": {
+        "description": "-> "
+    },
+    "semantic_replay_current_surah": "Repetir a sura atual",
+    "@semantic_replay_current_surah": {
+        "description": "-> semantic_replay_current_surah"
+    },
+    "semantic_pause_current_surah": "Pausar a sura atual",
+    "@semantic_pause_current_surah": {
+        "description": "-> semantic_pause_current_surah"
+    },
+    "semantic_play_current_surah": "Reproduzir a sura atual",
+    "@semantic_play_current_surah": {
+        "description": "-> semantic_play_current_surah"
+    },
+    "semantic_open_play_on_watch_options_for": "Abrir opções de reprodução no relógio para",
+    "@semantic_open_play_on_watch_options_for": {
+        "description": "-> semantic_open_play_on_watch_options_for"
+    },
+    "semantic_now_playing_surah": "Reproduzindo agora. Surata",
+    "@semantic_now_playing_surah": {
+        "description": "-> semantic_now_playing_surah"
+    },
+    "semantic_recited_by": "Recitado por",
+    "@semantic_recited_by": {
+        "description": "-> semantic_recited_by"
+    },
+    "semantic_minimize_player": "Minimizar o player",
+    "@semantic_minimize_player": {
+        "description": "-> semantic_minimize_player"
+    },
+    "semantic_elapsed": "Decorrido",
+    "@semantic_elapsed": {
+        "description": "-> "
+    },
+    "semantic_playback_time_elapsed": "Tempo de reprodução. Decorrido",
+    "@semantic_playback_time_elapsed": {
+        "description": "-> semantic_playback_time_elapsed"
+    },
+    "semantic_remaining": "Restante",
+    "@semantic_remaining": {
+        "description": "-> semantic_remaining"
+    },
+    "semantic_turn_shuffle_off": "Desativar reprodução aleatória",
+    "@semantic_turn_shuffle_off": {
+        "description": "-> semantic_turn_shuffle_off"
+    },
+    "semantic_turn_shuffle_on": "Ativar reprodução aleatória",
+    "@semantic_turn_shuffle_on": {
+        "description": "-> semantic_turn_shuffle_on"
+    },
+    "semantic_previous_surah": "Previous surah",
+    "@semantic_previous_surah": {
+        "description": "-> semantic_previous_surah"
+    },
+    "semantic_next_surah": "Next surah",
+    "@semantic_next_surah": {
+        "description": "-> semantic_next_surah"
+    },
+    "semantic_turn_repeat_current_surah_off": "Turn repeat current surah off",
+    "@semantic_turn_repeat_current_surah_off": {
+        "description": "-> semantic_turn_repeat_current_surah_off"
+    },
+    "semantic_turn_repeat_current_surah_on": "Turn repeat current surah on",
+    "@semantic_turn_repeat_current_surah_on": {
+        "description": "-> semantic_turn_repeat_current_surah_on"
+    },
+    "semantic_pause": "Pause",
+    "@semantic_pause": {
+        "description": "-> semantic_pause"
+    }
 }

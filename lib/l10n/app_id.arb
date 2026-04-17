@@ -1370,5 +1370,97 @@
     "semantic_mosque_page": "Mosque page",
     "semantic_of": "of",
     "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
-    "back": "Back"
+    "back": "Back",
+    "semantic_download_all_surahs_for_offline_listening": "Unduh semua surah untuk didengarkan secara offline",
+    "@semantic_download_all_surahs_for_offline_listening": {
+        "description": "-> semantic_download_all_surahs_for_offline_listening"
+    },
+    "semantic_download_all_surahs": "Unduh semua surah",
+    "@semantic_download_all_surahs": {
+        "description": "-> semantic_download_all_surahs"
+    },
+    "semantic_bulk_download_progress": "Progres unduhan massal",
+    "@semantic_bulk_download_progress": {
+        "description": "-> semantic_bulk_download_progress"
+    },
+    "semantic_surahs_downloaded": "Surah yang telah diunduh",
+    "@semantic_surahs_downloaded": {
+        "description": "-> semantic_surahs_downloaded"
+    },
+    "semantic_cancel_download_all_surahs": "Batalkan unduhan semua surah",
+    "@semantic_cancel_download_all_surahs": {
+        "description": "-> semantic_cancel_download_all_surahs"
+    },
+    "semantic_bulk_download_in_progress": "Unduhan massal sedang berlangsung.",
+    "@semantic_bulk_download_in_progress": {
+        "description": "-> "
+    },
+    "semantic_replay_current_surah": "Putar ulang surah saat ini",
+    "@semantic_replay_current_surah": {
+        "description": "-> semantic_replay_current_surah"
+    },
+    "semantic_pause_current_surah": "Jeda surah saat ini",
+    "@semantic_pause_current_surah": {
+        "description": "-> semantic_pause_current_surah"
+    },
+    "semantic_play_current_surah": "Putar surah saat ini",
+    "@semantic_play_current_surah": {
+        "description": "-> semantic_play_current_surah"
+    },
+    "semantic_open_play_on_watch_options_for": "Buka opsi pemutaran di jam untuk",
+    "@semantic_open_play_on_watch_options_for": {
+        "description": "-> semantic_open_play_on_watch_options_for"
+    },
+    "semantic_now_playing_surah": "Sedang diputar. Surah",
+    "@semantic_now_playing_surah": {
+        "description": "-> semantic_now_playing_surah"
+    },
+    "semantic_recited_by": "Dibacakan oleh",
+    "@semantic_recited_by": {
+        "description": "-> semantic_recited_by"
+    },
+    "semantic_minimize_player": "Minimalkan pemutar",
+    "@semantic_minimize_player": {
+        "description": "-> semantic_minimize_player"
+    },
+    "semantic_elapsed": "Berlalu",
+    "@semantic_elapsed": {
+        "description": "-> "
+    },
+    "semantic_playback_time_elapsed": "Waktu pemutaran. Berlalu",
+    "@semantic_playback_time_elapsed": {
+        "description": "-> semantic_playback_time_elapsed"
+    },
+    "semantic_remaining": "Tersisa",
+    "@semantic_remaining": {
+        "description": "-> semantic_remaining"
+    },
+    "semantic_turn_shuffle_off": "Matikan acak",
+    "@semantic_turn_shuffle_off": {
+        "description": "-> semantic_turn_shuffle_off"
+    },
+    "semantic_turn_shuffle_on": "Aktifkan acak",
+    "@semantic_turn_shuffle_on": {
+        "description": "-> semantic_turn_shuffle_on"
+    },
+    "semantic_previous_surah": "Surah sebelumnya",
+    "@semantic_previous_surah": {
+        "description": "-> semantic_previous_surah"
+    },
+    "semantic_next_surah": "Surah berikutnya",
+    "@semantic_next_surah": {
+        "description": "-> semantic_next_surah"
+    },
+    "semantic_turn_repeat_current_surah_off": "Matikan pengulangan surah saat ini",
+    "@semantic_turn_repeat_current_surah_off": {
+        "description": "-> semantic_turn_repeat_current_surah_off"
+    },
+    "semantic_turn_repeat_current_surah_on": "Aktifkan pengulangan surah saat ini",
+    "@semantic_turn_repeat_current_surah_on": {
+        "description": "-> semantic_turn_repeat_current_surah_on"
+    },
+    "semantic_pause": "Jeda",
+    "@semantic_pause": {
+        "description": "-> semantic_pause"
+    }
 }

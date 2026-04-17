@@ -2230,4 +2230,81 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get back => 'Précédent';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Téléchargez toutes les sourates pour une écoute hors ligne';
+
+  @override
+  String get semantic_download_all_surahs => 'Télécharger toutes les sourates';
+
+  @override
+  String get semantic_bulk_download_progress =>
+      'Progression du téléchargement groupé';
+
+  @override
+  String get semantic_surahs_downloaded => 'Sourates téléchargées';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Annuler le téléchargement de toutes les sourates';
+
+  @override
+  String get semantic_bulk_download_in_progress =>
+      'Téléchargement groupé en cours.';
+
+  @override
+  String get semantic_replay_current_surah => 'Rejouer la sourate actuelle';
+
+  @override
+  String get semantic_pause_current_surah =>
+      'Mettre en pause la sourate actuelle';
+
+  @override
+  String get semantic_play_current_surah => 'Lire la sourate actuelle';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Ouvrir les options de lecture sur la montre pour';
+
+  @override
+  String get semantic_now_playing_surah => 'Lecture en cours. Sourate';
+
+  @override
+  String get semantic_recited_by => 'Récité par';
+
+  @override
+  String get semantic_minimize_player => 'Réduire le lecteur';
+
+  @override
+  String get semantic_elapsed => 'Écoulé';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Temps de lecture. Écoulé';
+
+  @override
+  String get semantic_remaining => 'Restant';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Désactiver la lecture aléatoire';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Activer la lecture aléatoire';
+
+  @override
+  String get semantic_previous_surah => 'Sourate précédente';
+
+  @override
+  String get semantic_next_surah => 'Sourate suivante';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Désactiver la répétition de la sourate actuelle';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Activer la répétition de la sourate actuelle';
+
+  @override
+  String get semantic_pause => 'Pause';
 }

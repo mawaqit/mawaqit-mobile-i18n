@@ -2196,4 +2196,79 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Tüm sureleri çevrimdışı dinlemek için indir';
+
+  @override
+  String get semantic_download_all_surahs => 'Tüm sureleri indir';
+
+  @override
+  String get semantic_bulk_download_progress => 'Toplu indirme ilerlemesi';
+
+  @override
+  String get semantic_surahs_downloaded => 'İndirilen sureler';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Tüm surelerin indirilmesini iptal et';
+
+  @override
+  String get semantic_bulk_download_in_progress =>
+      'Toplu indirme devam ediyor.';
+
+  @override
+  String get semantic_replay_current_surah => 'Mevcut sureyi tekrar oynat';
+
+  @override
+  String get semantic_pause_current_surah => 'Mevcut sureyi duraklat';
+
+  @override
+  String get semantic_play_current_surah => 'Mevcut sureyi oynat';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Saatte oynatma seçeneklerini aç:';
+
+  @override
+  String get semantic_now_playing_surah => 'Şimdi çalınıyor. Sure';
+
+  @override
+  String get semantic_recited_by => 'Okuyan';
+
+  @override
+  String get semantic_minimize_player => 'Oynatıcıyı küçült';
+
+  @override
+  String get semantic_elapsed => 'Geçen';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Oynatma süresi. Geçen';
+
+  @override
+  String get semantic_remaining => 'Kalan';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Karıştırmayı kapat';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Karıştırmayı aç';
+
+  @override
+  String get semantic_previous_surah => 'Önceki sure';
+
+  @override
+  String get semantic_next_surah => 'Sonraki sure';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Mevcut sure tekrarını kapat';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Mevcut sure tekrarını aç';
+
+  @override
+  String get semantic_pause => 'Duraklat';
 }

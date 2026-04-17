@@ -2211,4 +2211,79 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Shkarko të gjitha suret për dëgjim offline';
+
+  @override
+  String get semantic_download_all_surahs => 'Shkarko të gjitha suret';
+
+  @override
+  String get semantic_bulk_download_progress => 'Progresi i shkarkimit në masë';
+
+  @override
+  String get semantic_surahs_downloaded => 'Suret e shkarkuara';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Anulo shkarkimin e të gjitha sureve';
+
+  @override
+  String get semantic_bulk_download_in_progress =>
+      'Shkarkimi në masë është në progres.';
+
+  @override
+  String get semantic_replay_current_surah => 'Përsërit suret aktuale';
+
+  @override
+  String get semantic_pause_current_surah => 'Ndalo suret aktuale';
+
+  @override
+  String get semantic_play_current_surah => 'Luaj suret aktuale';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Hap opsionet e luajtjes në orë për';
+
+  @override
+  String get semantic_now_playing_surah => 'Tani po luhet. Sure';
+
+  @override
+  String get semantic_recited_by => 'Lexuar nga';
+
+  @override
+  String get semantic_minimize_player => 'Minimizo luajtësin';
+
+  @override
+  String get semantic_elapsed => 'I kaluar';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Koha e riprodhimit. E kaluar';
+
+  @override
+  String get semantic_remaining => 'E mbetur';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Çaktivizo përzierjen';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Aktivizo përzierjen';
+
+  @override
+  String get semantic_previous_surah => 'Suret e mëparshme';
+
+  @override
+  String get semantic_next_surah => 'Suret e radhës';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Çaktivizo përsëritjen e sures aktuale';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Aktivizo përsëritjen e sures aktuale';
+
+  @override
+  String get semantic_pause => 'Ndalo';
 }

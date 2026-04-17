@@ -4297,6 +4297,144 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Back'**
   String get back;
+
+  /// -> semantic_download_all_surahs_for_offline_listening
+  ///
+  /// In en, this message translates to:
+  /// **'Download all surahs for offline listening'**
+  String get semantic_download_all_surahs_for_offline_listening;
+
+  /// -> semantic_download_all_surahs
+  ///
+  /// In en, this message translates to:
+  /// **'Download all surahs'**
+  String get semantic_download_all_surahs;
+
+  /// -> semantic_bulk_download_progress
+  ///
+  /// In en, this message translates to:
+  /// **'Bulk download progress'**
+  String get semantic_bulk_download_progress;
+
+  /// -> semantic_surahs_downloaded
+  ///
+  /// In en, this message translates to:
+  /// **'surahs downloaded'**
+  String get semantic_surahs_downloaded;
+
+  /// -> semantic_cancel_download_all_surahs
+  ///
+  /// In en, this message translates to:
+  /// **'Cancel download all surahs'**
+  String get semantic_cancel_download_all_surahs;
+
+  /// ->
+  ///
+  /// In en, this message translates to:
+  /// **'Bulk download in progress.'**
+  String get semantic_bulk_download_in_progress;
+
+  /// -> semantic_replay_current_surah
+  ///
+  /// In en, this message translates to:
+  /// **'Replay current surah'**
+  String get semantic_replay_current_surah;
+
+  /// -> semantic_pause_current_surah
+  ///
+  /// In en, this message translates to:
+  /// **'Pause current surah'**
+  String get semantic_pause_current_surah;
+
+  /// -> semantic_play_current_surah
+  ///
+  /// In en, this message translates to:
+  /// **'Play current surah'**
+  String get semantic_play_current_surah;
+
+  /// -> semantic_open_play_on_watch_options_for
+  ///
+  /// In en, this message translates to:
+  /// **'Open play on watch options for'**
+  String get semantic_open_play_on_watch_options_for;
+
+  /// -> semantic_now_playing_surah
+  ///
+  /// In en, this message translates to:
+  /// **'Now playing. Surah'**
+  String get semantic_now_playing_surah;
+
+  /// -> semantic_recited_by
+  ///
+  /// In en, this message translates to:
+  /// **'Recited by'**
+  String get semantic_recited_by;
+
+  /// -> semantic_minimize_player
+  ///
+  /// In en, this message translates to:
+  /// **'Minimize player'**
+  String get semantic_minimize_player;
+
+  /// ->
+  ///
+  /// In en, this message translates to:
+  /// **'Elapsed'**
+  String get semantic_elapsed;
+
+  /// -> semantic_playback_time_elapsed
+  ///
+  /// In en, this message translates to:
+  /// **'Playback time. Elapsed'**
+  String get semantic_playback_time_elapsed;
+
+  /// -> semantic_remaining
+  ///
+  /// In en, this message translates to:
+  /// **'Remaining'**
+  String get semantic_remaining;
+
+  /// -> semantic_turn_shuffle_off
+  ///
+  /// In en, this message translates to:
+  /// **'Turn shuffle off'**
+  String get semantic_turn_shuffle_off;
+
+  /// -> semantic_turn_shuffle_on
+  ///
+  /// In en, this message translates to:
+  /// **'Turn shuffle on'**
+  String get semantic_turn_shuffle_on;
+
+  /// -> semantic_previous_surah
+  ///
+  /// In en, this message translates to:
+  /// **'Previous surah'**
+  String get semantic_previous_surah;
+
+  /// -> semantic_next_surah
+  ///
+  /// In en, this message translates to:
+  /// **'Next surah'**
+  String get semantic_next_surah;
+
+  /// -> semantic_turn_repeat_current_surah_off
+  ///
+  /// In en, this message translates to:
+  /// **'Turn repeat current surah off'**
+  String get semantic_turn_repeat_current_surah_off;
+
+  /// -> semantic_turn_repeat_current_surah_on
+  ///
+  /// In en, this message translates to:
+  /// **'Turn repeat current surah on'**
+  String get semantic_turn_repeat_current_surah_on;
+
+  /// -> semantic_pause
+  ///
+  /// In en, this message translates to:
+  /// **'Pause'**
+  String get semantic_pause;
 }
 
 class _AppLocalizationsDelegate

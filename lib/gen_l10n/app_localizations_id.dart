@@ -2205,4 +2205,79 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Unduh semua surah untuk didengarkan secara offline';
+
+  @override
+  String get semantic_download_all_surahs => 'Unduh semua surah';
+
+  @override
+  String get semantic_bulk_download_progress => 'Progres unduhan massal';
+
+  @override
+  String get semantic_surahs_downloaded => 'Surah yang telah diunduh';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Batalkan unduhan semua surah';
+
+  @override
+  String get semantic_bulk_download_in_progress =>
+      'Unduhan massal sedang berlangsung.';
+
+  @override
+  String get semantic_replay_current_surah => 'Putar ulang surah saat ini';
+
+  @override
+  String get semantic_pause_current_surah => 'Jeda surah saat ini';
+
+  @override
+  String get semantic_play_current_surah => 'Putar surah saat ini';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Buka opsi pemutaran di jam untuk';
+
+  @override
+  String get semantic_now_playing_surah => 'Sedang diputar. Surah';
+
+  @override
+  String get semantic_recited_by => 'Dibacakan oleh';
+
+  @override
+  String get semantic_minimize_player => 'Minimalkan pemutar';
+
+  @override
+  String get semantic_elapsed => 'Berlalu';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Waktu pemutaran. Berlalu';
+
+  @override
+  String get semantic_remaining => 'Tersisa';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Matikan acak';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Aktifkan acak';
+
+  @override
+  String get semantic_previous_surah => 'Surah sebelumnya';
+
+  @override
+  String get semantic_next_surah => 'Surah berikutnya';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Matikan pengulangan surah saat ini';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Aktifkan pengulangan surah saat ini';
+
+  @override
+  String get semantic_pause => 'Jeda';
 }

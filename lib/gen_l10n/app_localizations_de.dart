@@ -2228,4 +2228,79 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get back => 'Hinterseite';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Lade alle Suren für das Offline-Hören herunter';
+
+  @override
+  String get semantic_download_all_surahs => 'Lade alle Suren herunter';
+
+  @override
+  String get semantic_bulk_download_progress =>
+      'Fortschritt des Massendownloads';
+
+  @override
+  String get semantic_surahs_downloaded => 'Heruntergeladene Suren';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Download aller Suren abbrechen';
+
+  @override
+  String get semantic_bulk_download_in_progress => 'Massendownload läuft.';
+
+  @override
+  String get semantic_replay_current_surah => 'Aktuelle Sure erneut abspielen';
+
+  @override
+  String get semantic_pause_current_surah => 'Aktuelle Sure pausieren';
+
+  @override
+  String get semantic_play_current_surah => 'Aktuelle Sure abspielen';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Wiedergabe auf der Uhr öffnen für';
+
+  @override
+  String get semantic_now_playing_surah => 'Jetzt wird gespielt. Sure';
+
+  @override
+  String get semantic_recited_by => 'Rezitiert von';
+
+  @override
+  String get semantic_minimize_player => 'Player minimieren';
+
+  @override
+  String get semantic_elapsed => 'Verstrichen';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Wiedergabezeit. Verstrichen';
+
+  @override
+  String get semantic_remaining => 'Verbleibend';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Zufallswiedergabe ausschalten';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Zufallswiedergabe einschalten';
+
+  @override
+  String get semantic_previous_surah => 'Vorherige Sure';
+
+  @override
+  String get semantic_next_surah => 'Nächste Sure';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Wiederholung der aktuellen Sure ausschalten';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Wiederholung der aktuellen Sure einschalten';
+
+  @override
+  String get semantic_pause => 'Pause';
 }

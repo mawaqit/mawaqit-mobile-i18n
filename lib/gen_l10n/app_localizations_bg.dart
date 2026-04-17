@@ -2211,4 +2211,78 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get back => 'Back';
+
+  @override
+  String get semantic_download_all_surahs_for_offline_listening =>
+      'Download all surahs for offline listening';
+
+  @override
+  String get semantic_download_all_surahs => 'Download all surahs';
+
+  @override
+  String get semantic_bulk_download_progress => 'Bulk download progress';
+
+  @override
+  String get semantic_surahs_downloaded => 'surahs downloaded';
+
+  @override
+  String get semantic_cancel_download_all_surahs =>
+      'Cancel download all surahs';
+
+  @override
+  String get semantic_bulk_download_in_progress => 'Bulk download in progress.';
+
+  @override
+  String get semantic_replay_current_surah => 'Replay current surah';
+
+  @override
+  String get semantic_pause_current_surah => 'Pause current surah';
+
+  @override
+  String get semantic_play_current_surah => 'Play current surah';
+
+  @override
+  String get semantic_open_play_on_watch_options_for =>
+      'Open play on watch options for';
+
+  @override
+  String get semantic_now_playing_surah => 'Now playing. Surah';
+
+  @override
+  String get semantic_recited_by => 'Recited by';
+
+  @override
+  String get semantic_minimize_player => 'Minimize player';
+
+  @override
+  String get semantic_elapsed => 'Elapsed';
+
+  @override
+  String get semantic_playback_time_elapsed => 'Playback time. Elapsed';
+
+  @override
+  String get semantic_remaining => 'Remaining';
+
+  @override
+  String get semantic_turn_shuffle_off => 'Turn shuffle off';
+
+  @override
+  String get semantic_turn_shuffle_on => 'Turn shuffle on';
+
+  @override
+  String get semantic_previous_surah => 'Previous surah';
+
+  @override
+  String get semantic_next_surah => 'Next surah';
+
+  @override
+  String get semantic_turn_repeat_current_surah_off =>
+      'Turn repeat current surah off';
+
+  @override
+  String get semantic_turn_repeat_current_surah_on =>
+      'Turn repeat current surah on';
+
+  @override
+  String get semantic_pause => 'Pause';
 }
