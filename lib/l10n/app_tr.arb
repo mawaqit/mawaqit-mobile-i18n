@@ -1371,5 +1371,96 @@
     "semantic_of": "of",
     "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
     "back": "Back",
-    "out_of_surahs_have_been_downloaded": "{{downloaded}} out of {{total}} surahs have been downloaded"
+    "semantic_download_all_surahs_for_offline_listening": "Tüm sureleri çevrimdışı dinlemek için indir",
+    "@semantic_download_all_surahs_for_offline_listening": {
+        "description": "-> semantic_download_all_surahs_for_offline_listening"
+    },
+    "semantic_download_all_surahs": "Tüm sureleri indir",
+    "@semantic_download_all_surahs": {
+        "description": "-> semantic_download_all_surahs"
+    },
+    "semantic_bulk_download_progress": "Toplu indirme ilerlemesi",
+    "@semantic_bulk_download_progress": {
+        "description": "-> semantic_bulk_download_progress"
+    },
+    "semantic_surahs_downloaded": "İndirilen sureler",
+    "@semantic_surahs_downloaded": {
+        "description": "-> semantic_surahs_downloaded"
+    },
+    "semantic_cancel_download_all_surahs": "Tüm surelerin indirilmesini iptal et",
+    "@semantic_cancel_download_all_surahs": {
+        "description": "-> semantic_cancel_download_all_surahs"
+    },
+    "semantic_bulk_download_in_progress": "Toplu indirme devam ediyor.",
+    "@semantic_bulk_download_in_progress": {
+        "description": "-> "
+    },
+    "semantic_replay_current_surah": "Mevcut sureyi tekrar oynat",
+    "@semantic_replay_current_surah": {
+        "description": "-> semantic_replay_current_surah"
+    },
+    "semantic_pause_current_surah": "Mevcut sureyi duraklat",
+    "@semantic_pause_current_surah": {
+        "description": "-> semantic_pause_current_surah"
+    },
+    "semantic_play_current_surah": "Mevcut sureyi oynat",
+    "@semantic_play_current_surah": {
+        "description": "-> semantic_play_current_surah"
+    },
+    "semantic_open_play_on_watch_options_for": "Saatte oynatma seçeneklerini aç:",
+    "@semantic_open_play_on_watch_options_for": {
+        "description": "-> semantic_open_play_on_watch_options_for"
+    },
+    "semantic_now_playing_surah": "Şimdi çalınıyor. Sure",
+    "@semantic_now_playing_surah": {
+        "description": "-> semantic_now_playing_surah"
+    },
+    "semantic_recited_by": "Okuyan",
+    "@semantic_recited_by": {
+        "description": "-> semantic_recited_by"
+    },
+    "semantic_minimize_player": "Oynatıcıyı küçült",
+    "@semantic_minimize_player": {
+        "description": "-> semantic_minimize_player"
+    },
+    "semantic_elapsed": "Geçen",
+    "@semantic_elapsed": {
+        "description": "-> "
+    },
+    "semantic_playback_time_elapsed": "Oynatma süresi. Geçen",
+    "@semantic_playback_time_elapsed": {
+        "description": "-> semantic_playback_time_elapsed"
+    },
+    "semantic_remaining": "Kalan",
+    "@semantic_remaining": {
+        "description": "-> semantic_remaining"
+    },
+    "semantic_turn_shuffle_off": "Karıştırmayı kapat",
+    "@semantic_turn_shuffle_off": {
+        "description": "-> semantic_turn_shuffle_off"
+    },
+    "semantic_turn_shuffle_on": "Karıştırmayı aç",
+    "@semantic_turn_shuffle_on": {
+        "description": "-> semantic_turn_shuffle_on"
+    },
+    "semantic_previous_surah": "Önceki sure",
+    "@semantic_previous_surah": {
+        "description": "-> semantic_previous_surah"
+    },
+    "semantic_next_surah": "Sonraki sure",
+    "@semantic_next_surah": {
+        "description": "-> semantic_next_surah"
+    },
+    "semantic_turn_repeat_current_surah_off": "Mevcut sure tekrarını kapat",
+    "@semantic_turn_repeat_current_surah_off": {
+        "description": "-> semantic_turn_repeat_current_surah_off"
+    },
+    "semantic_turn_repeat_current_surah_on": "Mevcut sure tekrarını aç",
+    "@semantic_turn_repeat_current_surah_on": {
+        "description": "-> semantic_turn_repeat_current_surah_on"
+    },
+    "semantic_pause": "Duraklat",
+    "@semantic_pause": {
+        "description": "-> semantic_pause"
+    }
 }
