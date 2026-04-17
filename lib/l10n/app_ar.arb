@@ -1371,5 +1371,96 @@
     "semantic_of": "من",
     "semantic_unread_mawaqit_notifications": "إشعارات مواقيت غير مقروءة",
     "back": "رجوع",
-    "out_of_surahs_have_been_downloaded": "{{downloaded}} out of {{total}} surahs have been downloaded"
+    "semantic_download_all_surahs_for_offline_listening": "تنزيل جميع السور للاستماع دون اتصال",
+    "@semantic_download_all_surahs_for_offline_listening": {
+        "description": "-> semantic_download_all_surahs_for_offline_listening"
+    },
+    "semantic_download_all_surahs": "تنزيل جميع السور",
+    "@semantic_download_all_surahs": {
+        "description": "-> semantic_download_all_surahs"
+    },
+    "semantic_bulk_download_progress": "تقدم التنزيل الجماعي",
+    "@semantic_bulk_download_progress": {
+        "description": "-> semantic_bulk_download_progress"
+    },
+    "semantic_surahs_downloaded": "السور التي تم تنزيلها",
+    "@semantic_surahs_downloaded": {
+        "description": "-> semantic_surahs_downloaded"
+    },
+    "semantic_cancel_download_all_surahs": "إلغاء تنزيل جميع السور",
+    "@semantic_cancel_download_all_surahs": {
+        "description": "-> semantic_cancel_download_all_surahs"
+    },
+    "semantic_bulk_download_in_progress": "التنزيل الجماعي قيد التقدم.",
+    "@semantic_bulk_download_in_progress": {
+        "description": "-> "
+    },
+    "semantic_replay_current_surah": "إعادة تشغيل السورة الحالية",
+    "@semantic_replay_current_surah": {
+        "description": "-> semantic_replay_current_surah"
+    },
+    "semantic_pause_current_surah": "إيقاف السورة الحالية مؤقتًا",
+    "@semantic_pause_current_surah": {
+        "description": "-> semantic_pause_current_surah"
+    },
+    "semantic_play_current_surah": "تشغيل السورة الحالية",
+    "@semantic_play_current_surah": {
+        "description": "-> semantic_play_current_surah"
+    },
+    "semantic_open_play_on_watch_options_for": "فتح خيارات التشغيل على الساعة لـ",
+    "@semantic_open_play_on_watch_options_for": {
+        "description": "-> semantic_open_play_on_watch_options_for"
+    },
+    "semantic_now_playing_surah": "يتم التشغيل الآن. سورة",
+    "@semantic_now_playing_surah": {
+        "description": "-> semantic_now_playing_surah"
+    },
+    "semantic_recited_by": "تلاوة بواسطة",
+    "@semantic_recited_by": {
+        "description": "-> semantic_recited_by"
+    },
+    "semantic_minimize_player": "تصغير المشغل",
+    "@semantic_minimize_player": {
+        "description": "-> semantic_minimize_player"
+    },
+    "semantic_elapsed": "المنقضي",
+    "@semantic_elapsed": {
+        "description": "-> "
+    },
+    "semantic_playback_time_elapsed": "وقت التشغيل. المنقضي",
+    "@semantic_playback_time_elapsed": {
+        "description": "-> semantic_playback_time_elapsed"
+    },
+    "semantic_remaining": "المتبقي",
+    "@semantic_remaining": {
+        "description": "-> semantic_remaining"
+    },
+    "semantic_turn_shuffle_off": "إيقاف التشغيل العشوائي",
+    "@semantic_turn_shuffle_off": {
+        "description": "-> semantic_turn_shuffle_off"
+    },
+    "semantic_turn_shuffle_on": "تشغيل التشغيل العشوائي",
+    "@semantic_turn_shuffle_on": {
+        "description": "-> semantic_turn_shuffle_on"
+    },
+    "semantic_previous_surah": "السورة السابقة",
+    "@semantic_previous_surah": {
+        "description": "-> semantic_previous_surah"
+    },
+    "semantic_next_surah": "السورة التالية",
+    "@semantic_next_surah": {
+        "description": "-> semantic_next_surah"
+    },
+    "semantic_turn_repeat_current_surah_off": "إيقاف تكرار السورة الحالية",
+    "@semantic_turn_repeat_current_surah_off": {
+        "description": "-> semantic_turn_repeat_current_surah_off"
+    },
+    "semantic_turn_repeat_current_surah_on": "تشغيل تكرار السورة الحالية",
+    "@semantic_turn_repeat_current_surah_on": {
+        "description": "-> semantic_turn_repeat_current_surah_on"
+    },
+    "semantic_pause": "إيقاف مؤقت",
+    "@semantic_pause": {
+        "description": "-> semantic_pause"
+    }
 }
