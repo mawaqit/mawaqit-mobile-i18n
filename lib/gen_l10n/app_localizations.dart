@@ -4471,6 +4471,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Navigate to mosque'**
   String get semantic_navigate_to_mosque;
+
+  /// No description provided for @semantic_decrease_pre_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'Decrease pre-notification time'**
+  String get semantic_decrease_pre_notification;
+
+  /// No description provided for @semantic_increase_pre_notification.
+  ///
+  /// In en, this message translates to:
+  /// **'Increase pre-notification time'**
+  String get semantic_increase_pre_notification;
 }
 
 class _AppLocalizationsDelegate

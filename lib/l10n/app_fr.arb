@@ -1468,5 +1468,7 @@
     "semantic_expand_mosque_list": "Développer la liste des mosquées",
     "added": "Créé",
     "not_added": "Pas ajouté",
-    "semantic_navigate_to_mosque": "Naviguer vers la mosquée"
+    "semantic_navigate_to_mosque": "Naviguer vers la mosquée",
+    "semantic_decrease_pre_notification": "Réduire le temps de pré-notification",
+    "semantic_increase_pre_notification": "Augmenter le temps de pré-notification"
 }
