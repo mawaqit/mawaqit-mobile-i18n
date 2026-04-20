@@ -2307,4 +2307,19 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get semantic_pause => 'Pause';
+
+  @override
+  String get semantic_use_current_location => 'Utiliser la position actuelle';
+
+  @override
+  String get semantic_collapse_mosque_list => 'Réduire la liste des mosquées';
+
+  @override
+  String get semantic_expand_mosque_list => 'Développer la liste des mosquées';
+
+  @override
+  String get added => 'Créé';
+
+  @override
+  String get not_added => 'Pas ajouté';
 }

@@ -4435,6 +4435,36 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Pause'**
   String get semantic_pause;
+
+  /// No description provided for @semantic_use_current_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Use current location'**
+  String get semantic_use_current_location;
+
+  /// No description provided for @semantic_collapse_mosque_list.
+  ///
+  /// In en, this message translates to:
+  /// **'Collapse mosque list'**
+  String get semantic_collapse_mosque_list;
+
+  /// No description provided for @semantic_expand_mosque_list.
+  ///
+  /// In en, this message translates to:
+  /// **'Expand mosque list'**
+  String get semantic_expand_mosque_list;
+
+  /// No description provided for @added.
+  ///
+  /// In en, this message translates to:
+  /// **'Added'**
+  String get added;
+
+  /// No description provided for @not_added.
+  ///
+  /// In en, this message translates to:
+  /// **'Not added'**
+  String get not_added;
 }
 
 class _AppLocalizationsDelegate

@@ -1462,5 +1462,10 @@
     "semantic_pause": "روکیں",
     "@semantic_pause": {
         "description": "-> semantic_pause"
-    }
+    },
+    "semantic_use_current_location": "Use current location",
+    "semantic_collapse_mosque_list": "Collapse mosque list",
+    "semantic_expand_mosque_list": "Expand mosque list",
+    "added": "Added",
+    "not_added": "Not added"
 }
