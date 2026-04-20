@@ -1467,5 +1467,6 @@
     "semantic_collapse_mosque_list": "Moscheeliste einklappen",
     "semantic_expand_mosque_list": "Moscheeliste erweitern",
     "added": "Hinzugefügt",
-    "not_added": "Nicht hinzugefügt"
+    "not_added": "Nicht hinzugefügt",
+    "semantic_navigate_to_mosque": "Zur Moschee navigieren"
 }

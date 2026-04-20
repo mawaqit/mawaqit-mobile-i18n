@@ -2318,4 +2318,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get not_added => 'Nicht hinzugefügt';
+
+  @override
+  String get semantic_navigate_to_mosque => 'Zur Moschee navigieren';
 }
