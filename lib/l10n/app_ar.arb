@@ -1467,5 +1467,6 @@
     "semantic_collapse_mosque_list": "طي قائمة المسجد",
     "semantic_expand_mosque_list": "توسيع قائمة المساجد",
     "added": "تمت أضافته",
-    "not_added": "لم تتم إضافته"
+    "not_added": "لم تتم إضافته",
+    "semantic_navigate_to_mosque": "انتقل إلى المسجد"
 }
