@@ -1462,5 +1462,10 @@
     "semantic_pause": "Pause",
     "@semantic_pause": {
         "description": "-> semantic_pause"
-    }
+    },
+    "semantic_use_current_location": "Aktuellen Standort verwenden",
+    "semantic_collapse_mosque_list": "Moscheeliste einklappen",
+    "semantic_expand_mosque_list": "Moscheeliste erweitern",
+    "added": "Hinzugefügt",
+    "not_added": "Nicht hinzugefügt"
 }
