@@ -1462,5 +1462,10 @@
     "semantic_pause": "إيقاف مؤقت",
     "@semantic_pause": {
         "description": "-> semantic_pause"
-    }
+    },
+    "semantic_use_current_location": "استخدم الموقع الحالي",
+    "semantic_collapse_mosque_list": "طي قائمة المسجد",
+    "semantic_expand_mosque_list": "توسيع قائمة المساجد",
+    "added": "تمت أضافته",
+    "not_added": "لم تتم إضافته"
 }
