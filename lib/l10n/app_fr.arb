@@ -1470,5 +1470,12 @@
     "not_added": "Pas ajouté",
     "semantic_navigate_to_mosque": "Naviguer vers la mosquée",
     "semantic_decrease_pre_notification": "Réduire le temps de pré-notification",
-    "semantic_increase_pre_notification": "Augmenter le temps de pré-notification"
+    "semantic_increase_pre_notification": "Augmenter le temps de pré-notification",
+    "semantic_facing_qibla": "Vous êtes face à la Qibla",
+    "semantic_clockwise": "Dans le sens des aiguilles d’une montre",
+    "sematnic_counter_clockwise": "Dans le sens inverse des aiguilles d’une montre",
+    "semantic_rotate_slightly": "Vous y êtes presque. Tournez légèrement",
+    "semanitc_degrees_to_qibla": "Degrés vers la Qibla",
+    "about": "À propos",
+    "rotate": "Tourner"
 }
