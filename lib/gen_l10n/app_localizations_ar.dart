@@ -2267,4 +2267,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_navigate_to_mosque => 'انتقل إلى المسجد';
+
+  @override
+  String get semantic_decrease_pre_notification => 'تقليل وقت الإشعار المسبق';
+
+  @override
+  String get semantic_increase_pre_notification => 'زيادة وقت الإشعار المسبق';
 }
