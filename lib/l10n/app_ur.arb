@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1467,5 +1467,6 @@
     "semantic_collapse_mosque_list": "Collapse mosque list",
     "semantic_expand_mosque_list": "Expand mosque list",
     "added": "Added",
-    "not_added": "Not added"
+    "not_added": "Not added",
+    "semantic_navigate_to_mosque": "Navigate to mosque"
 }
