@@ -2264,4 +2264,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get not_added => 'لم تتم إضافته';
+
+  @override
+  String get semantic_navigate_to_mosque => 'انتقل إلى المسجد';
 }

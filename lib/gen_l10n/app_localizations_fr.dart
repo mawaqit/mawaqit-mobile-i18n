@@ -2322,4 +2322,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get not_added => 'Pas ajouté';
+
+  @override
+  String get semantic_navigate_to_mosque => 'Naviguer vers la mosquée';
 }

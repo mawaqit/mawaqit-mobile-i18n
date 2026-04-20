@@ -4465,6 +4465,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Not added'**
   String get not_added;
+
+  /// No description provided for @semantic_navigate_to_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Navigate to mosque'**
+  String get semantic_navigate_to_mosque;
 }
 
 class _AppLocalizationsDelegate

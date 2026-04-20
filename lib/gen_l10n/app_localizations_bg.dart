@@ -2300,4 +2300,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get not_added => 'Not added';
+
+  @override
+  String get semantic_navigate_to_mosque => 'Navigate to mosque';
 }
