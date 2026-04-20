@@ -2333,4 +2333,27 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get semantic_increase_pre_notification =>
       'Augmenter le temps de pré-notification';
+
+  @override
+  String get semantic_facing_qibla => 'Vous êtes face à la Qibla';
+
+  @override
+  String get semantic_clockwise => 'Dans le sens des aiguilles d’une montre';
+
+  @override
+  String get sematnic_counter_clockwise =>
+      'Dans le sens inverse des aiguilles d’une montre';
+
+  @override
+  String get semantic_rotate_slightly =>
+      'Vous y êtes presque. Tournez légèrement';
+
+  @override
+  String get semanitc_degrees_to_qibla => 'Degrés vers la Qibla';
+
+  @override
+  String get about => 'À propos';
+
+  @override
+  String get rotate => 'Tourner';
 }

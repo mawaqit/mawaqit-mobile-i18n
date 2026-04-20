@@ -1470,5 +1470,12 @@
     "not_added": "Nicht hinzugefügt",
     "semantic_navigate_to_mosque": "Zur Moschee navigieren",
     "semantic_decrease_pre_notification": "Vorbenachrichtigungszeit verringern",
-    "semantic_increase_pre_notification": "Vorbenachrichtigungszeit erhöhen"
+    "semantic_increase_pre_notification": "Vorbenachrichtigungszeit erhöhen",
+    "semantic_facing_qibla": "Sie stehen in Richtung Qibla",
+    "semantic_clockwise": "Im Uhrzeigersinn",
+    "sematnic_counter_clockwise": "Gegen den Uhrzeigersinn",
+    "semantic_rotate_slightly": "Fast geschafft. Drehen Sie sich leicht",
+    "semanitc_degrees_to_qibla": "Grad zur Qibla",
+    "about": "Über",
+    "rotate": "Drehen"
 }

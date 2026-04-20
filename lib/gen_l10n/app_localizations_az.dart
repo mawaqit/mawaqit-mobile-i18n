@@ -2305,4 +2305,25 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get semantic_increase_pre_notification =>
       'Increase pre-notification time';
+
+  @override
+  String get semantic_facing_qibla => 'You are facing the Qibla';
+
+  @override
+  String get semantic_clockwise => 'Clockwise';
+
+  @override
+  String get sematnic_counter_clockwise => 'counter-clockwise';
+
+  @override
+  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+
+  @override
+  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+
+  @override
+  String get about => 'about';
+
+  @override
+  String get rotate => 'Rotate';
 }
