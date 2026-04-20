@@ -4483,6 +4483,48 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Increase pre-notification time'**
   String get semantic_increase_pre_notification;
+
+  /// No description provided for @semantic_facing_qibla.
+  ///
+  /// In en, this message translates to:
+  /// **'You are facing the Qibla'**
+  String get semantic_facing_qibla;
+
+  /// No description provided for @semantic_clockwise.
+  ///
+  /// In en, this message translates to:
+  /// **'Clockwise'**
+  String get semantic_clockwise;
+
+  /// No description provided for @sematnic_counter_clockwise.
+  ///
+  /// In en, this message translates to:
+  /// **'counter-clockwise'**
+  String get sematnic_counter_clockwise;
+
+  /// No description provided for @semantic_rotate_slightly.
+  ///
+  /// In en, this message translates to:
+  /// **'Almost there. Rotate slightly'**
+  String get semantic_rotate_slightly;
+
+  /// No description provided for @semanitc_degrees_to_qibla.
+  ///
+  /// In en, this message translates to:
+  /// **'degrees to Qibla'**
+  String get semanitc_degrees_to_qibla;
+
+  /// No description provided for @about.
+  ///
+  /// In en, this message translates to:
+  /// **'about'**
+  String get about;
+
+  /// No description provided for @rotate.
+  ///
+  /// In en, this message translates to:
+  /// **'Rotate'**
+  String get rotate;
 }
 
 class _AppLocalizationsDelegate

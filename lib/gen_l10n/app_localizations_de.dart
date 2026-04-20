@@ -2329,4 +2329,26 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get semantic_increase_pre_notification =>
       'Vorbenachrichtigungszeit erhöhen';
+
+  @override
+  String get semantic_facing_qibla => 'Sie stehen in Richtung Qibla';
+
+  @override
+  String get semantic_clockwise => 'Im Uhrzeigersinn';
+
+  @override
+  String get sematnic_counter_clockwise => 'Gegen den Uhrzeigersinn';
+
+  @override
+  String get semantic_rotate_slightly =>
+      'Fast geschafft. Drehen Sie sich leicht';
+
+  @override
+  String get semanitc_degrees_to_qibla => 'Grad zur Qibla';
+
+  @override
+  String get about => 'Über';
+
+  @override
+  String get rotate => 'Drehen';
 }

@@ -2273,4 +2273,25 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_increase_pre_notification => 'زيادة وقت الإشعار المسبق';
+
+  @override
+  String get semantic_facing_qibla => 'أنت تواجه القبلة';
+
+  @override
+  String get semantic_clockwise => 'مع عقارب الساعة';
+
+  @override
+  String get sematnic_counter_clockwise => 'عكس عقارب الساعة';
+
+  @override
+  String get semantic_rotate_slightly => 'أنت قريب جدًا. قم بالدوران قليلًا';
+
+  @override
+  String get semanitc_degrees_to_qibla => 'درجات إلى القبلة';
+
+  @override
+  String get about => 'حوالي';
+
+  @override
+  String get rotate => 'قم بالدوران';
 }
