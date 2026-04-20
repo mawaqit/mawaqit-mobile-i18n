@@ -2249,4 +2249,19 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_pause => 'إيقاف مؤقت';
+
+  @override
+  String get semantic_use_current_location => 'استخدم الموقع الحالي';
+
+  @override
+  String get semantic_collapse_mosque_list => 'طي قائمة المسجد';
+
+  @override
+  String get semantic_expand_mosque_list => 'توسيع قائمة المساجد';
+
+  @override
+  String get added => 'تمت أضافته';
+
+  @override
+  String get not_added => 'لم تتم إضافته';
 }

@@ -2271,4 +2271,19 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get semantic_pause => 'Duraklat';
+
+  @override
+  String get semantic_use_current_location => 'Use current location';
+
+  @override
+  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+
+  @override
+  String get semantic_expand_mosque_list => 'Expand mosque list';
+
+  @override
+  String get added => 'Added';
+
+  @override
+  String get not_added => 'Not added';
 }
