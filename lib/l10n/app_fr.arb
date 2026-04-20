@@ -1467,5 +1467,6 @@
     "semantic_collapse_mosque_list": "Réduire la liste des mosquées",
     "semantic_expand_mosque_list": "Développer la liste des mosquées",
     "added": "Créé",
-    "not_added": "Pas ajouté"
+    "not_added": "Pas ajouté",
+    "semantic_navigate_to_mosque": "Naviguer vers la mosquée"
 }
