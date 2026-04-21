@@ -2146,180 +2146,183 @@ class AppLocalizationsUg extends AppLocalizations {
       'بۇ بارلىق سۈرەلەرنى تورسىز ئاڭلاش ئۈچۈن چۈشۈرىدۇ. داۋاملاشتۇرۇشتىن بۇرۇن Wi-Fi غا ئۇلانغانلىقىڭىزنى جەزملەشتۈرۈڭ.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'چېكىلسە ئۇقتۇرۇشنى ئۆزگەرتىدۇ';
 
   @override
   String get adhan_at => 'ئەزاندا';
 
   @override
   String get semantic_mawaqit_notification =>
-      'unread notifications from MAWAQIT';
+      'مەۋاقىتنىڭ تېخى ئوقۇمىغان ئۇقتۇرۇشى';
 
   @override
-  String get semantic_open_notifications => 'Open notifications';
+  String get semantic_open_notifications => 'ئۇقتۇرۇش ئاچ';
 
   @override
   String get semantic_tap_to_change_notification =>
-      'Tap to change notification settings';
+      'چېكىلسە ئۇقتۇرۇش تەڭشىكىنى ئۆزگەرتىدۇ';
 
   @override
-  String get semantic_edit_mosques => 'Open to edit your mosques';
+  String get semantic_edit_mosques => 'مەسچىت تەھرىرلەش ئۈچۈن ئاچىدۇ';
 
   @override
-  String get semantic_change_layout => 'Change home layout';
+  String get semantic_change_layout => 'باش بەت جايلاشتۇرۇشنى ئۆزگەرتىدۇ';
 
   @override
-  String get semantic_open_layout_menu => 'open layout menu';
+  String get semantic_open_layout_menu => 'جايلاشتۇرۇش تىزىملىكىنى ئاچىدۇ';
 
   @override
-  String get semantic_edit_home_settings => 'Edit home settings';
+  String get semantic_edit_home_settings => 'باش بەت تەڭشىكىنى تەھرىرلەيدۇ';
 
   @override
-  String get semantic_list_layout => 'List layout';
+  String get semantic_list_layout => 'تىزىم جايلاشتۇرۇش';
 
   @override
-  String get semantic_grid_layout => 'Grid layout';
+  String get semantic_grid_layout => 'شادا جايلاشتۇرۇش';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => '360 سائەت جايلاشتۇرۇش';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'جايلاشتۇرۇش تىزىملىك ئېچىش';
 
   @override
-  String get close => 'Close';
+  String get close => 'ياپ';
 
   @override
-  String get semantic_mosque_page => 'Mosque page';
+  String get semantic_mosque_page => 'مەسچىت بېتى';
 
   @override
-  String get semantic_of => 'of';
+  String get semantic_of => '/';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'unread Mawaqit notifications';
+      'ئوقۇلمىغان مەۋاقىت ئۇقتۇرۇشى';
 
   @override
-  String get back => 'Back';
+  String get back => 'قايت';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
-      'Download all surahs for offline listening';
+      'تورسىز ئاڭلاش ئۈچۈن بارلىق سۈرەلەرنى چۈشۈرىدۇ';
 
   @override
-  String get semantic_download_all_surahs => 'Download all surahs';
+  String get semantic_download_all_surahs => 'بارلىق سۈرەلەرنى چۈشۈر';
 
   @override
-  String get semantic_bulk_download_progress => 'Bulk download progress';
+  String get semantic_bulk_download_progress => 'توپ چۈشۈرۈش داۋاملىشىۋاتىدۇ';
 
   @override
-  String get semantic_surahs_downloaded => 'surahs downloaded';
+  String get semantic_surahs_downloaded => 'سۈرە چۈشۈرۈلدى';
 
   @override
   String get semantic_cancel_download_all_surahs =>
-      'Cancel download all surahs';
+      'بارلىق سۈرەلەرنى چۈشۈرۈشتىن ۋاز كەچ';
 
   @override
-  String get semantic_bulk_download_in_progress => 'Bulk download in progress.';
+  String get semantic_bulk_download_in_progress =>
+      'توپ چۈشۈرۈش داۋاملىشىۋاتىدۇ.';
 
   @override
-  String get semantic_replay_current_surah => 'Replay current surah';
+  String get semantic_replay_current_surah =>
+      'نۆۋەتتىكى سۈرەنى قايتا ياڭرىتىدۇ';
 
   @override
-  String get semantic_pause_current_surah => 'Pause current surah';
+  String get semantic_pause_current_surah =>
+      'نۆۋەتتىكى سۈرەنى ۋاقىتلىق توختىتىدۇ';
 
   @override
-  String get semantic_play_current_surah => 'Play current surah';
+  String get semantic_play_current_surah => 'نۆۋەتتىكى سۈرەنى ياڭرىتىدۇ';
 
   @override
   String get semantic_open_play_on_watch_options_for =>
-      'Open play on watch options for';
+      'سائەتتە ياڭرىتىدىغان تاللانمىنى ئاچىدۇ';
 
   @override
-  String get semantic_now_playing_surah => 'Now playing. Surah';
+  String get semantic_now_playing_surah => 'ھازىر ياڭرىتىۋاتقان سۈرە';
 
   @override
-  String get semantic_recited_by => 'Recited by';
+  String get semantic_recited_by => 'ئوقۇغۇچى';
 
   @override
-  String get semantic_minimize_player => 'Minimize player';
+  String get semantic_minimize_player => 'ياڭراتقۇچنى كىچىكلەت';
 
   @override
-  String get semantic_elapsed => 'Elapsed';
+  String get semantic_elapsed => 'ئۆتكەن';
 
   @override
-  String get semantic_playback_time_elapsed => 'Playback time. Elapsed';
+  String get semantic_playback_time_elapsed => 'ياڭرىتىش ۋاقتى. ئۆتكەن';
 
   @override
-  String get semantic_remaining => 'Remaining';
+  String get semantic_remaining => 'قالغىنى';
 
   @override
-  String get semantic_turn_shuffle_off => 'Turn shuffle off';
+  String get semantic_turn_shuffle_off => 'ئارىلاشتۇرۇشنى تاقا';
 
   @override
-  String get semantic_turn_shuffle_on => 'Turn shuffle on';
+  String get semantic_turn_shuffle_on => 'ئارىلاشتۇرۇشنى ئاچ';
 
   @override
-  String get semantic_previous_surah => 'Previous surah';
+  String get semantic_previous_surah => 'ئالدىنقى سۈرە';
 
   @override
-  String get semantic_next_surah => 'Next surah';
+  String get semantic_next_surah => 'كېيىنكى سۈرە';
 
   @override
   String get semantic_turn_repeat_current_surah_off =>
-      'Turn repeat current surah off';
+      'نۆۋەتتىكى سۈرەنى قايتىلاشنى تاقايدۇ';
 
   @override
   String get semantic_turn_repeat_current_surah_on =>
-      'Turn repeat current surah on';
+      'نۆۋەتتىكى سۈرەنى قايتىلاشنى ئاچىدۇ';
 
   @override
-  String get semantic_pause => 'Pause';
+  String get semantic_pause => 'ۋاقىتلىق توختات';
 
   @override
-  String get semantic_use_current_location => 'Use current location';
+  String get semantic_use_current_location => 'نۆۋەتتىكى ئورۇننى ئىشلەت';
 
   @override
-  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+  String get semantic_collapse_mosque_list => 'مەسچىت تىزىمىنى يىغ';
 
   @override
-  String get semantic_expand_mosque_list => 'Expand mosque list';
+  String get semantic_expand_mosque_list => 'مەسچىت تىزىمىنى ياي';
 
   @override
-  String get added => 'Added';
+  String get added => 'قوشۇلدى';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'قوشۇلمىدى';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigate to mosque';
+  String get semantic_navigate_to_mosque => 'مەسچىتكە يول باشلا';
 
   @override
   String get semantic_decrease_pre_notification =>
-      'Decrease pre-notification time';
+      'ئالدىن ئۇقتۇرۇش ۋاقتىنى كېمەيتىدۇ';
 
   @override
   String get semantic_increase_pre_notification =>
-      'Increase pre-notification time';
+      'ئالدىن ئۇقتۇرۇش ۋاقتىنى ئاشۇرىدۇ';
 
   @override
-  String get semantic_facing_qibla => 'You are facing the Qibla';
+  String get semantic_facing_qibla => 'قىبلىگە يۈزلەندىڭىز';
 
   @override
-  String get semantic_clockwise => 'Clockwise';
+  String get semantic_clockwise => 'ئوڭغا';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'سولغا';
 
   @override
-  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+  String get semantic_rotate_slightly => 'كېلەي دېدى. ئاستا ئايلاندۇرۇڭ';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'قىبلىگە گىرادۇس';
 
   @override
-  String get about => 'about';
+  String get about => 'ھەققىدە';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'ئايلاندۇر';
 }
