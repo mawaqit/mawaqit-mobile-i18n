@@ -1487,7 +1487,7 @@
     "quran_settings": "Koran-Einstellungen",
     "semantic_mushaf_view": "Mushaf-Ansicht",
     "semantic_verse_list_view": "Verslistenansicht",
-    "semantic_switch_verse_list ": "Mushaf-Seite. Wechseln Sie zur Verslistenansicht für vollständige Barrierefreiheit.",
     "not_downloaded": "Nicht heruntergeladen",
-    "verse_list_enabled_for_accessibility": "Verslistenmodus für Barrierefreiheit aktiviert"
+    "verse_list_enabled_for_accessibility": "Verslistenmodus für Barrierefreiheit aktiviert",
+    "semantic_switch_verse_list": "Mushaf-Seite. Wechseln Sie zur Verslistenansicht für vollständige Barrierefreiheit."
 }
