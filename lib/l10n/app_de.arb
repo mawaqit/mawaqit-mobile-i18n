@@ -1477,5 +1477,11 @@
     "semantic_rotate_slightly": "Fast geschafft. Drehen Sie sich leicht",
     "semanitc_degrees_to_qibla": "Grad zur Qibla",
     "about": "Über",
-    "rotate": "Drehen"
+    "rotate": "Drehen",
+    "semantic_close_audio_player": "Audioplayer schließen",
+    "reciter_settings": "Rezitator-Einstellungen",
+    "previous_verse": "Vorheriger Vers",
+    "next_verse": "Nächster Vers",
+    "decrease": "Verringern",
+    "increase ": "Increase "
 }
