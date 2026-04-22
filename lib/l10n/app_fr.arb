@@ -1487,7 +1487,7 @@
     "quran_settings": "Paramètres du Coran",
     "semantic_mushaf_view": "Vue du Mushaf",
     "semantic_verse_list_view": "Vue en liste des versets",
-    "semantic_switch_verse_list ": "Page du Mushaf. Passez à la vue en liste des versets pour une accessibilité complète.",
     "not_downloaded": "Non téléchargé",
-    "verse_list_enabled_for_accessibility": "Mode liste des versets activé pour l’accessibilité"
+    "verse_list_enabled_for_accessibility": "Mode liste des versets activé pour l’accessibilité",
+    "semantic_switch_verse_list": "Page du Mushaf. Passez à la vue en liste des versets pour une accessibilité complète."
 }
