@@ -1477,5 +1477,11 @@
     "semantic_rotate_slightly": "Vous y êtes presque. Tournez légèrement",
     "semanitc_degrees_to_qibla": "Degrés vers la Qibla",
     "about": "À propos",
-    "rotate": "Tourner"
+    "rotate": "Tourner",
+    "semantic_close_audio_player": "Fermer le lecteur audio",
+    "reciter_settings": "Paramètres du récitant",
+    "previous_verse": "Verset précédent",
+    "next_verse": "Verset suivant",
+    "decrease": "Diminuer",
+    "increase ": "Augmenter"
 }
