@@ -1487,7 +1487,7 @@
     "quran_settings": "إعدادات القرآن",
     "semantic_mushaf_view": "عرض المصحف",
     "semantic_verse_list_view": "عرض قائمة الآيات",
-    "semantic_switch_verse_list ": "صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل.",
     "not_downloaded": "لم يتم التحميل",
-    "verse_list_enabled_for_accessibility": "تم تفعيل وضع قائمة الآيات للوصول"
+    "verse_list_enabled_for_accessibility": "تم تفعيل وضع قائمة الآيات للوصول",
+    "semantic_switch_verse_list": "صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل."
 }
