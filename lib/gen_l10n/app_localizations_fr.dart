@@ -2356,4 +2356,42 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get rotate => 'Tourner';
+
+  @override
+  String get semantic_close_audio_player => 'Fermer le lecteur audio';
+
+  @override
+  String get reciter_settings => 'Paramètres du récitant';
+
+  @override
+  String get previous_verse => 'Verset précédent';
+
+  @override
+  String get next_verse => 'Verset suivant';
+
+  @override
+  String get decrease => 'Diminuer';
+
+  @override
+  String get increase => 'Augmenter';
+
+  @override
+  String get quran_settings => 'Paramètres du Coran';
+
+  @override
+  String get semantic_mushaf_view => 'Vue du Mushaf';
+
+  @override
+  String get semantic_verse_list_view => 'Vue en liste des versets';
+
+  @override
+  String get not_downloaded => 'Non téléchargé';
+
+  @override
+  String get verse_list_enabled_for_accessibility =>
+      'Mode liste des versets activé pour l’accessibilité';
+
+  @override
+  String get semantic_switch_verse_list =>
+      'Page du Mushaf. Passez à la vue en liste des versets pour une accessibilité complète.';
 }
