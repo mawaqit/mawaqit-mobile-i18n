@@ -1477,5 +1477,11 @@
     "semantic_rotate_slightly": "كېلەي دېدى. ئاستا ئايلاندۇرۇڭ",
     "semanitc_degrees_to_qibla": "قىبلىگە گىرادۇس",
     "about": "ھەققىدە",
-    "rotate": "ئايلاندۇر"
+    "rotate": "ئايلاندۇر",
+    "semantic_close_audio_player": "Close audio player",
+    "reciter_settings": "Reciter settings",
+    "previous_verse": "Previous verse",
+    "next_verse": "Next verse",
+    "decrease": "Decrease",
+    "increase ": "Increase "
 }
