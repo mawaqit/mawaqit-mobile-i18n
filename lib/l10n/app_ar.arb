@@ -1477,5 +1477,17 @@
     "semantic_rotate_slightly": "أنت قريب جدًا. قم بالدوران قليلًا",
     "semanitc_degrees_to_qibla": "درجات إلى القبلة",
     "about": "حوالي",
-    "rotate": "قم بالدوران"
+    "rotate": "قم بالدوران",
+    "semantic_close_audio_player": "إغلاق مشغل الصوت",
+    "reciter_settings": "إعدادات القارئ",
+    "previous_verse": "الآية السابقة",
+    "next_verse": "الآية التالية",
+    "decrease": "تقليل",
+    "increase": "زيادة ",
+    "quran_settings": "إعدادات القرآن",
+    "semantic_mushaf_view": "عرض المصحف",
+    "semantic_verse_list_view": "عرض قائمة الآيات",
+    "not_downloaded": "لم يتم التحميل",
+    "verse_list_enabled_for_accessibility": "تم تفعيل وضع قائمة الآيات للوصول",
+    "semantic_switch_verse_list": "صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل."
 }

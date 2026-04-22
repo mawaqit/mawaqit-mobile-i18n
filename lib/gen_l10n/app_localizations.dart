@@ -4525,6 +4525,78 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Rotate'**
   String get rotate;
+
+  /// No description provided for @semantic_close_audio_player.
+  ///
+  /// In en, this message translates to:
+  /// **'Close audio player'**
+  String get semantic_close_audio_player;
+
+  /// No description provided for @reciter_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Reciter settings'**
+  String get reciter_settings;
+
+  /// No description provided for @previous_verse.
+  ///
+  /// In en, this message translates to:
+  /// **'Previous verse'**
+  String get previous_verse;
+
+  /// No description provided for @next_verse.
+  ///
+  /// In en, this message translates to:
+  /// **'Next verse'**
+  String get next_verse;
+
+  /// No description provided for @decrease.
+  ///
+  /// In en, this message translates to:
+  /// **'Decrease'**
+  String get decrease;
+
+  /// No description provided for @increase.
+  ///
+  /// In en, this message translates to:
+  /// **'Increases'**
+  String get increase;
+
+  /// No description provided for @quran_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Quran settings'**
+  String get quran_settings;
+
+  /// No description provided for @semantic_mushaf_view.
+  ///
+  /// In en, this message translates to:
+  /// **'Mushaf view'**
+  String get semantic_mushaf_view;
+
+  /// No description provided for @semantic_verse_list_view.
+  ///
+  /// In en, this message translates to:
+  /// **'Verse list view'**
+  String get semantic_verse_list_view;
+
+  /// No description provided for @not_downloaded.
+  ///
+  /// In en, this message translates to:
+  /// **'Not downloaded'**
+  String get not_downloaded;
+
+  /// No description provided for @verse_list_enabled_for_accessibility.
+  ///
+  /// In en, this message translates to:
+  /// **'Verse list mode enabled for accessibility'**
+  String get verse_list_enabled_for_accessibility;
+
+  /// No description provided for @semantic_switch_verse_list.
+  ///
+  /// In en, this message translates to:
+  /// **'Mushaf page. Switch to verse list view for full accessibility.'**
+  String get semantic_switch_verse_list;
 }
 
 class _AppLocalizationsDelegate

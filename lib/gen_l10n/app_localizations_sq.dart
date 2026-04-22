@@ -2333,4 +2333,42 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get rotate => 'Rotate';
+
+  @override
+  String get semantic_close_audio_player => 'Close audio player';
+
+  @override
+  String get reciter_settings => 'Reciter settings';
+
+  @override
+  String get previous_verse => 'Previous verse';
+
+  @override
+  String get next_verse => 'Next verse';
+
+  @override
+  String get decrease => 'Decrease';
+
+  @override
+  String get increase => 'Increase';
+
+  @override
+  String get quran_settings => 'Quran settings';
+
+  @override
+  String get semantic_mushaf_view => 'Mushaf view';
+
+  @override
+  String get semantic_verse_list_view => 'Verse list view';
+
+  @override
+  String get not_downloaded => 'Not downloaded';
+
+  @override
+  String get verse_list_enabled_for_accessibility =>
+      'Verse list mode enabled for accessibility';
+
+  @override
+  String get semantic_switch_verse_list =>
+      'Mushaf page. Switch to verse list view for full accessibility.';
 }

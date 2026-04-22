@@ -1353,129 +1353,141 @@
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     },
-    "tap_change_notification": "Tap to change notification",
+    "tap_change_notification": "چېكىلسە ئۇقتۇرۇشنى ئۆزگەرتىدۇ",
     "adhan_at": "ئەزاندا",
-    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
-    "semantic_open_notifications": "Open notifications",
-    "semantic_tap_to_change_notification": "Tap to change notification settings",
-    "semantic_edit_mosques": "Open to edit your mosques",
-    "semantic_change_layout": "Change home layout",
-    "semantic_open_layout_menu": "open layout menu",
-    "semantic_edit_home_settings": "Edit home settings",
-    "semantic_list_layout": "List layout",
-    "semantic_grid_layout": "Grid layout",
-    "sematnic_360_clock_layout": "360 clock layout",
-    "semantic_layout_menu_open": "Layout menu open",
-    "close": "Close",
-    "semantic_mosque_page": "Mosque page",
-    "semantic_of": "of",
-    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
-    "back": "Back",
-    "semantic_download_all_surahs_for_offline_listening": "Download all surahs for offline listening",
+    "semantic_mawaqit_notification": "مەۋاقىتنىڭ تېخى ئوقۇمىغان ئۇقتۇرۇشى",
+    "semantic_open_notifications": "ئۇقتۇرۇش ئاچ",
+    "semantic_tap_to_change_notification": "چېكىلسە ئۇقتۇرۇش تەڭشىكىنى ئۆزگەرتىدۇ",
+    "semantic_edit_mosques": "مەسچىت تەھرىرلەش ئۈچۈن ئاچىدۇ",
+    "semantic_change_layout": "باش بەت جايلاشتۇرۇشنى ئۆزگەرتىدۇ",
+    "semantic_open_layout_menu": "جايلاشتۇرۇش تىزىملىكىنى ئاچىدۇ",
+    "semantic_edit_home_settings": "باش بەت تەڭشىكىنى تەھرىرلەيدۇ",
+    "semantic_list_layout": "تىزىم جايلاشتۇرۇش",
+    "semantic_grid_layout": "شادا جايلاشتۇرۇش",
+    "sematnic_360_clock_layout": "360 سائەت جايلاشتۇرۇش",
+    "semantic_layout_menu_open": "جايلاشتۇرۇش تىزىملىك ئېچىش",
+    "close": "ياپ",
+    "semantic_mosque_page": "مەسچىت بېتى",
+    "semantic_of": "/",
+    "semantic_unread_mawaqit_notifications": "ئوقۇلمىغان مەۋاقىت ئۇقتۇرۇشى",
+    "back": "قايت",
+    "semantic_download_all_surahs_for_offline_listening": "تورسىز ئاڭلاش ئۈچۈن بارلىق سۈرەلەرنى چۈشۈرىدۇ",
     "@semantic_download_all_surahs_for_offline_listening": {
         "description": "-> semantic_download_all_surahs_for_offline_listening"
     },
-    "semantic_download_all_surahs": "Download all surahs",
+    "semantic_download_all_surahs": "بارلىق سۈرەلەرنى چۈشۈر",
     "@semantic_download_all_surahs": {
         "description": "-> semantic_download_all_surahs"
     },
-    "semantic_bulk_download_progress": "Bulk download progress",
+    "semantic_bulk_download_progress": "توپ چۈشۈرۈش داۋاملىشىۋاتىدۇ",
     "@semantic_bulk_download_progress": {
         "description": "-> semantic_bulk_download_progress"
     },
-    "semantic_surahs_downloaded": "surahs downloaded",
+    "semantic_surahs_downloaded": "سۈرە چۈشۈرۈلدى",
     "@semantic_surahs_downloaded": {
         "description": "-> semantic_surahs_downloaded"
     },
-    "semantic_cancel_download_all_surahs": "Cancel download all surahs",
+    "semantic_cancel_download_all_surahs": "بارلىق سۈرەلەرنى چۈشۈرۈشتىن ۋاز كەچ",
     "@semantic_cancel_download_all_surahs": {
         "description": "-> semantic_cancel_download_all_surahs"
     },
-    "semantic_bulk_download_in_progress": "Bulk download in progress.",
+    "semantic_bulk_download_in_progress": "توپ چۈشۈرۈش داۋاملىشىۋاتىدۇ.",
     "@semantic_bulk_download_in_progress": {
         "description": "-> "
     },
-    "semantic_replay_current_surah": "Replay current surah",
+    "semantic_replay_current_surah": "نۆۋەتتىكى سۈرەنى قايتا ياڭرىتىدۇ",
     "@semantic_replay_current_surah": {
         "description": "-> semantic_replay_current_surah"
     },
-    "semantic_pause_current_surah": "Pause current surah",
+    "semantic_pause_current_surah": "نۆۋەتتىكى سۈرەنى ۋاقىتلىق توختىتىدۇ",
     "@semantic_pause_current_surah": {
         "description": "-> semantic_pause_current_surah"
     },
-    "semantic_play_current_surah": "Play current surah",
+    "semantic_play_current_surah": "نۆۋەتتىكى سۈرەنى ياڭرىتىدۇ",
     "@semantic_play_current_surah": {
         "description": "-> semantic_play_current_surah"
     },
-    "semantic_open_play_on_watch_options_for": "Open play on watch options for",
+    "semantic_open_play_on_watch_options_for": "سائەتتە ياڭرىتىدىغان تاللانمىنى ئاچىدۇ",
     "@semantic_open_play_on_watch_options_for": {
         "description": "-> semantic_open_play_on_watch_options_for"
     },
-    "semantic_now_playing_surah": "Now playing. Surah",
+    "semantic_now_playing_surah": "ھازىر ياڭرىتىۋاتقان سۈرە",
     "@semantic_now_playing_surah": {
         "description": "-> semantic_now_playing_surah"
     },
-    "semantic_recited_by": "Recited by",
+    "semantic_recited_by": "ئوقۇغۇچى",
     "@semantic_recited_by": {
         "description": "-> semantic_recited_by"
     },
-    "semantic_minimize_player": "Minimize player",
+    "semantic_minimize_player": "ياڭراتقۇچنى كىچىكلەت",
     "@semantic_minimize_player": {
         "description": "-> semantic_minimize_player"
     },
-    "semantic_elapsed": "Elapsed",
+    "semantic_elapsed": "ئۆتكەن",
     "@semantic_elapsed": {
         "description": "-> "
     },
-    "semantic_playback_time_elapsed": "Playback time. Elapsed",
+    "semantic_playback_time_elapsed": "ياڭرىتىش ۋاقتى. ئۆتكەن",
     "@semantic_playback_time_elapsed": {
         "description": "-> semantic_playback_time_elapsed"
     },
-    "semantic_remaining": "Remaining",
+    "semantic_remaining": "قالغىنى",
     "@semantic_remaining": {
         "description": "-> semantic_remaining"
     },
-    "semantic_turn_shuffle_off": "Turn shuffle off",
+    "semantic_turn_shuffle_off": "ئارىلاشتۇرۇشنى تاقا",
     "@semantic_turn_shuffle_off": {
         "description": "-> semantic_turn_shuffle_off"
     },
-    "semantic_turn_shuffle_on": "Turn shuffle on",
+    "semantic_turn_shuffle_on": "ئارىلاشتۇرۇشنى ئاچ",
     "@semantic_turn_shuffle_on": {
         "description": "-> semantic_turn_shuffle_on"
     },
-    "semantic_previous_surah": "Previous surah",
+    "semantic_previous_surah": "ئالدىنقى سۈرە",
     "@semantic_previous_surah": {
         "description": "-> semantic_previous_surah"
     },
-    "semantic_next_surah": "Next surah",
+    "semantic_next_surah": "كېيىنكى سۈرە",
     "@semantic_next_surah": {
         "description": "-> semantic_next_surah"
     },
-    "semantic_turn_repeat_current_surah_off": "Turn repeat current surah off",
+    "semantic_turn_repeat_current_surah_off": "نۆۋەتتىكى سۈرەنى قايتىلاشنى تاقايدۇ",
     "@semantic_turn_repeat_current_surah_off": {
         "description": "-> semantic_turn_repeat_current_surah_off"
     },
-    "semantic_turn_repeat_current_surah_on": "Turn repeat current surah on",
+    "semantic_turn_repeat_current_surah_on": "نۆۋەتتىكى سۈرەنى قايتىلاشنى ئاچىدۇ",
     "@semantic_turn_repeat_current_surah_on": {
         "description": "-> semantic_turn_repeat_current_surah_on"
     },
-    "semantic_pause": "Pause",
+    "semantic_pause": "ۋاقىتلىق توختات",
     "@semantic_pause": {
         "description": "-> semantic_pause"
     },
-    "semantic_use_current_location": "Use current location",
-    "semantic_collapse_mosque_list": "Collapse mosque list",
-    "semantic_expand_mosque_list": "Expand mosque list",
-    "added": "Added",
-    "not_added": "Not added",
-    "semantic_navigate_to_mosque": "Navigate to mosque",
-    "semantic_decrease_pre_notification": "Decrease pre-notification time",
-    "semantic_increase_pre_notification": "Increase pre-notification time",
-    "semantic_facing_qibla": "You are facing the Qibla",
-    "semantic_clockwise": "Clockwise",
-    "sematnic_counter_clockwise": "counter-clockwise",
-    "semantic_rotate_slightly": "Almost there. Rotate slightly",
-    "semanitc_degrees_to_qibla": "degrees to Qibla",
-    "about": "about",
-    "rotate": "Rotate"
+    "semantic_use_current_location": "نۆۋەتتىكى ئورۇننى ئىشلەت",
+    "semantic_collapse_mosque_list": "مەسچىت تىزىمىنى يىغ",
+    "semantic_expand_mosque_list": "مەسچىت تىزىمىنى ياي",
+    "added": "قوشۇلدى",
+    "not_added": "قوشۇلمىدى",
+    "semantic_navigate_to_mosque": "مەسچىتكە يول باشلا",
+    "semantic_decrease_pre_notification": "ئالدىن ئۇقتۇرۇش ۋاقتىنى كېمەيتىدۇ",
+    "semantic_increase_pre_notification": "ئالدىن ئۇقتۇرۇش ۋاقتىنى ئاشۇرىدۇ",
+    "semantic_facing_qibla": "قىبلىگە يۈزلەندىڭىز",
+    "semantic_clockwise": "ئوڭغا",
+    "sematnic_counter_clockwise": "سولغا",
+    "semantic_rotate_slightly": "كېلەي دېدى. ئاستا ئايلاندۇرۇڭ",
+    "semanitc_degrees_to_qibla": "قىبلىگە گىرادۇس",
+    "about": "ھەققىدە",
+    "rotate": "ئايلاندۇر",
+    "semantic_close_audio_player": "Close audio player",
+    "reciter_settings": "Reciter settings",
+    "previous_verse": "Previous verse",
+    "next_verse": "Next verse",
+    "decrease": "Decrease",
+    "increase": "Increase",
+    "quran_settings": "Quran settings",
+    "semantic_mushaf_view": "Mushaf view",
+    "semantic_verse_list_view": "Verse list view",
+    "not_downloaded": "Not downloaded",
+    "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
+    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility."
 }

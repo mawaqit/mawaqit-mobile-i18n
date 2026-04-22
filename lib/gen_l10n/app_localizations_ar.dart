@@ -2294,4 +2294,42 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get rotate => 'قم بالدوران';
+
+  @override
+  String get semantic_close_audio_player => 'إغلاق مشغل الصوت';
+
+  @override
+  String get reciter_settings => 'إعدادات القارئ';
+
+  @override
+  String get previous_verse => 'الآية السابقة';
+
+  @override
+  String get next_verse => 'الآية التالية';
+
+  @override
+  String get decrease => 'تقليل';
+
+  @override
+  String get increase => 'زيادة ';
+
+  @override
+  String get quran_settings => 'إعدادات القرآن';
+
+  @override
+  String get semantic_mushaf_view => 'عرض المصحف';
+
+  @override
+  String get semantic_verse_list_view => 'عرض قائمة الآيات';
+
+  @override
+  String get not_downloaded => 'لم يتم التحميل';
+
+  @override
+  String get verse_list_enabled_for_accessibility =>
+      'تم تفعيل وضع قائمة الآيات للوصول';
+
+  @override
+  String get semantic_switch_verse_list =>
+      'صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل.';
 }

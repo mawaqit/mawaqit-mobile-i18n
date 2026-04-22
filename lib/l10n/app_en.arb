@@ -1477,5 +1477,17 @@
     "semantic_rotate_slightly": "Almost there. Rotate slightly",
     "semanitc_degrees_to_qibla": "degrees to Qibla",
     "about": "about",
-    "rotate": "Rotate"
+    "rotate": "Rotate",
+    "semantic_close_audio_player": "Close audio player",
+    "reciter_settings": "Reciter settings",
+    "previous_verse": "Previous verse",
+    "next_verse": "Next verse",
+    "decrease": "Decrease",
+    "increase": "Increases",
+    "quran_settings": "Quran settings",
+    "semantic_mushaf_view": "Mushaf view",
+    "semantic_verse_list_view": "Verse list view",
+    "not_downloaded": "Not downloaded",
+    "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
+    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility."
 }
