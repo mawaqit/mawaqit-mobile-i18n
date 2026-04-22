@@ -1483,5 +1483,11 @@
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
-    "increase ": "Increases "
+    "increase": "Increases",
+    "quran_settings": "Quran settings",
+    "semantic_mushaf_view": "Mushaf view",
+    "semantic_verse_list_view": "Verse list view",
+    "semantic_switch_verse_list ": "Mushaf page. Switch to verse list view for full accessibility.",
+    "not_downloaded": "Not downloaded",
+    "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility"
 }
