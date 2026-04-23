@@ -1557,5 +1557,8 @@
     "semantic_light": "Açık",
     "semantic_dark": "Koyu",
     "semantic_on": "Açık",
-    "semantic_off": "Kapalı"
+    "semantic_off": "Kapalı",
+    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "remove_bookmark": "Remove bookmark",
+    "add_bookmark": "Add bookmark"
 }
