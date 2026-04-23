@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1557,5 +1557,8 @@
     "semantic_light": "Light",
     "semantic_dark": "Dark",
     "semantic_on": "On",
-    "semantic_off": "Off"
+    "semantic_off": "Off",
+    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "remove_bookmark": "Remove bookmark",
+    "add_bookmark": "Add bookmark"
 }
