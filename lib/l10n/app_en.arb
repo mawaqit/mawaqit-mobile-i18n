@@ -1557,5 +1557,8 @@
     "semantic_light": "Light",
     "semantic_dark": "Dark",
     "semantic_on": "On",
-    "semantic_off": "Off"
+    "semantic_off": "Off",
+    "semantic_ayah_list_actions": "Remove bookmark",
+    "remove_bookmark": "Remove bookmark",
+    "add_bookmark": "Add bookmark"
 }
