@@ -1483,11 +1483,79 @@
     "previous_verse": "Vorheriger Vers",
     "next_verse": "Nächster Vers",
     "decrease": "Verringern",
-    "increase": "Erhöhen",
+    "increase": "Increases",
     "quran_settings": "Koran-Einstellungen",
     "semantic_mushaf_view": "Mushaf-Ansicht",
     "semantic_verse_list_view": "Verslistenansicht",
     "not_downloaded": "Nicht heruntergeladen",
     "verse_list_enabled_for_accessibility": "Verslistenmodus für Barrierefreiheit aktiviert",
-    "semantic_switch_verse_list": "Mushaf-Seite. Wechseln Sie zur Verslistenansicht für vollständige Barrierefreiheit."
+    "semantic_switch_verse_list": "Mushaf-Seite. Wechseln Sie zur Verslistenansicht für vollständige Barrierefreiheit.",
+    "semantic_decrease_hijri_adjustment": "Hijri-Anpassung verringern",
+    "@semantic_decrease_hijri_adjustment": {
+        "description": "-> semantic_decrease_hijri_adjustment"
+    },
+    "semantic_minimum_adjustment_reached": "Minimale Anpassung erreicht",
+    "@semantic_minimum_adjustment_reached": {
+        "description": "-> semantic_minimum_adjustment_reached"
+    },
+    "semantic_current_adjustment": "Aktuelle Anpassung",
+    "@semantic_current_adjustment": {
+        "description": "-> semantic_current_adjustment"
+    },
+    "semantic_increase_hijri_adjustment": "Hijri-Anpassung erhöhen",
+    "@semantic_increase_hijri_adjustment": {
+        "description": "-> semantic_increase_hijri_adjustment"
+    },
+    "semantic_maximum_adjustment_reached": "Maximale Anpassung erreicht",
+    "@semantic_maximum_adjustment_reached": {
+        "description": "-> semantic_maximum_adjustment_reached"
+    },
+    "semantic_minimum_size_reached": "Minimale Größe erreicht",
+    "@semantic_minimum_size_reached": {
+        "description": "-> semantic_minimum_size_reached"
+    },
+    "semantic_decrease": "Verringern",
+    "@semantic_decrease": {
+        "description": "-> semantic_decrease"
+    },
+    "semantic_current_size": "Aktuelle Größe",
+    "@semantic_current_size": {
+        "description": "-> semantic_current_size"
+    },
+    "semantic_increase": "Erhöhen",
+    "@semantic_increase": {
+        "description": "-> semantic_increase"
+    },
+    "semantic_maximum_size_reached": "Maximale Größe erreicht",
+    "@semantic_maximum_size_reached": {
+        "description": "-> semantic_maximum_size_reached"
+    },
+    "semantic_favorite": "Favorit",
+    "@semantic_favorite": {
+        "description": "-> semantic_favorite"
+    },
+    "semantic_added_to_favorites": "Zu Favoriten hinzugefügt",
+    "@semantic_added_to_favorites": {
+        "description": "-> semantic_added_to_favorites"
+    },
+    "semantic_not_in_favorites": "Nicht in Favoriten",
+    "@semantic_not_in_favorites": {
+        "description": "-> semantic_not_in_favorites"
+    },
+    "semantic_for": "für",
+    "semantic_view_style": "Ansichtsstil",
+    "semantic_double_tap_to_change_view_style": "Doppeltippen, um den Ansichtsstil zu ändern",
+    "semantic_share_dua": "Dua teilen",
+    "semantic_tasbih_settings": "Tasbih-Einstellungen",
+    "semantic_tasbih_counter": "Tasbih-Zähler",
+    "semantic_previous_dua": "Vorheriges Dua",
+    "semantic_next_dua": "Nächstes Dua",
+    "semantic_dua": "Dua",
+    "semantic_opens": "Öffnet",
+    "semantic_opens_language_selection": "Öffnet die Sprachauswahl",
+    "semantic_device": "Gerät",
+    "semantic_light": "Hell",
+    "semantic_dark": "Dunkel",
+    "semantic_on": "Ein",
+    "semantic_off": "Aus"
 }
