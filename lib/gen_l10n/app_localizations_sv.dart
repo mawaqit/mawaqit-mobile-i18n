@@ -2450,4 +2450,14 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get semantic_off => 'Off';
+
+  @override
+  String get semantic_ayah_list_actions =>
+      'Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark';
+
+  @override
+  String get remove_bookmark => 'Remove bookmark';
+
+  @override
+  String get add_bookmark => 'Add bookmark';
 }

@@ -2453,4 +2453,13 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get semantic_off => 'Off';
+
+  @override
+  String get semantic_ayah_list_actions => 'Remove bookmark';
+
+  @override
+  String get remove_bookmark => 'Remove bookmark';
+
+  @override
+  String get add_bookmark => 'Add bookmark';
 }

@@ -1483,7 +1483,7 @@
     "previous_verse": "Verset précédent",
     "next_verse": "Verset suivant",
     "decrease": "Diminuer",
-    "increase": "Increases",
+    "increase": "Augmente",
     "quran_settings": "Paramètres du Coran",
     "semantic_mushaf_view": "Vue du Mushaf",
     "semantic_verse_list_view": "Vue en liste des versets",
@@ -1557,5 +1557,8 @@
     "semantic_light": "Clair",
     "semantic_dark": "Sombre",
     "semantic_on": "Activé",
-    "semantic_off": "Désactivé"
+    "semantic_off": "Désactivé",
+    "semantic_ayah_list_actions": "Faites glisser vers le haut ou le bas pour les actions du verset : Lire, Tafsir, Partager, Marquer",
+    "remove_bookmark": "Supprimer le signet",
+    "add_bookmark": "Ajouter un signet"
 }

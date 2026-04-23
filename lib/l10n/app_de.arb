@@ -1483,7 +1483,7 @@
     "previous_verse": "Vorheriger Vers",
     "next_verse": "Nächster Vers",
     "decrease": "Verringern",
-    "increase": "Increases",
+    "increase": "Erhöht",
     "quran_settings": "Koran-Einstellungen",
     "semantic_mushaf_view": "Mushaf-Ansicht",
     "semantic_verse_list_view": "Verslistenansicht",
@@ -1557,5 +1557,8 @@
     "semantic_light": "Hell",
     "semantic_dark": "Dunkel",
     "semantic_on": "Ein",
-    "semantic_off": "Aus"
+    "semantic_off": "Aus",
+    "semantic_ayah_list_actions": "Wischen Sie nach oben oder unten für Versaktionen: Abspielen, Tafsir, Teilen, Lesezeichen",
+    "remove_bookmark": "Lesezeichen entfernen",
+    "add_bookmark": "Lesezeichen hinzufügen"
 }

@@ -1557,5 +1557,8 @@
     "semantic_light": "لائٹ",
     "semantic_dark": "ڈارک",
     "semantic_on": "آن",
-    "semantic_off": "آف"
+    "semantic_off": "آف",
+    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "remove_bookmark": "Remove bookmark",
+    "add_bookmark": "Add bookmark"
 }

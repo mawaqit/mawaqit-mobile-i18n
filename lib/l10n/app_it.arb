@@ -1557,5 +1557,8 @@
     "semantic_light": "Chiaro",
     "semantic_dark": "Scuro",
     "semantic_on": "Attivo",
-    "semantic_off": "Attivo"
+    "semantic_off": "Attivo",
+    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "remove_bookmark": "Remove bookmark",
+    "add_bookmark": "Add bookmark"
 }

@@ -2373,7 +2373,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get decrease => 'Diminuer';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Augmente';
 
   @override
   String get quran_settings => 'Paramètres du Coran';
@@ -2487,4 +2487,14 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get semantic_off => 'Désactivé';
+
+  @override
+  String get semantic_ayah_list_actions =>
+      'Faites glisser vers le haut ou le bas pour les actions du verset : Lire, Tafsir, Partager, Marquer';
+
+  @override
+  String get remove_bookmark => 'Supprimer le signet';
+
+  @override
+  String get add_bookmark => 'Ajouter un signet';
 }
