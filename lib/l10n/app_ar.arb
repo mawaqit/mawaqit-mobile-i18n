@@ -1483,11 +1483,79 @@
     "previous_verse": "الآية السابقة",
     "next_verse": "الآية التالية",
     "decrease": "تقليل",
-    "increase": "زيادة ",
+    "increase": "Increases",
     "quran_settings": "إعدادات القرآن",
     "semantic_mushaf_view": "عرض المصحف",
     "semantic_verse_list_view": "عرض قائمة الآيات",
     "not_downloaded": "لم يتم التحميل",
     "verse_list_enabled_for_accessibility": "تم تفعيل وضع قائمة الآيات للوصول",
-    "semantic_switch_verse_list": "صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل."
+    "semantic_switch_verse_list": "صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل.",
+    "semantic_decrease_hijri_adjustment": "تقليل ضبط الهجري",
+    "@semantic_decrease_hijri_adjustment": {
+        "description": "-> semantic_decrease_hijri_adjustment"
+    },
+    "semantic_minimum_adjustment_reached": "تم الوصول إلى الحد الأدنى للضبط",
+    "@semantic_minimum_adjustment_reached": {
+        "description": "-> semantic_minimum_adjustment_reached"
+    },
+    "semantic_current_adjustment": "الضبط الحالي",
+    "@semantic_current_adjustment": {
+        "description": "-> semantic_current_adjustment"
+    },
+    "semantic_increase_hijri_adjustment": "زيادة ضبط الهجري",
+    "@semantic_increase_hijri_adjustment": {
+        "description": "-> semantic_increase_hijri_adjustment"
+    },
+    "semantic_maximum_adjustment_reached": "تم الوصول إلى الحد الأقصى للضبط",
+    "@semantic_maximum_adjustment_reached": {
+        "description": "-> semantic_maximum_adjustment_reached"
+    },
+    "semantic_minimum_size_reached": "تم الوصول إلى الحد الأدنى للحجم",
+    "@semantic_minimum_size_reached": {
+        "description": "-> semantic_minimum_size_reached"
+    },
+    "semantic_decrease": "تقليل",
+    "@semantic_decrease": {
+        "description": "-> semantic_decrease"
+    },
+    "semantic_current_size": "الحجم الحالي",
+    "@semantic_current_size": {
+        "description": "-> semantic_current_size"
+    },
+    "semantic_increase": "زيادة",
+    "@semantic_increase": {
+        "description": "-> semantic_increase"
+    },
+    "semantic_maximum_size_reached": "تم الوصول إلى الحد الأقصى للحجم",
+    "@semantic_maximum_size_reached": {
+        "description": "-> semantic_maximum_size_reached"
+    },
+    "semantic_favorite": "مفضل",
+    "@semantic_favorite": {
+        "description": "-> semantic_favorite"
+    },
+    "semantic_added_to_favorites": "تمت الإضافة إلى المفضلة",
+    "@semantic_added_to_favorites": {
+        "description": "-> semantic_added_to_favorites"
+    },
+    "semantic_not_in_favorites": "ليس في المفضلة",
+    "@semantic_not_in_favorites": {
+        "description": "-> semantic_not_in_favorites"
+    },
+    "semantic_for": "لـ",
+    "semantic_view_style": "نمط العرض",
+    "semantic_double_tap_to_change_view_style": "اضغط مرتين لتغيير نمط العرض",
+    "semantic_share_dua": "مشاركة الدعاء",
+    "semantic_tasbih_settings": "إعدادات التسبيح",
+    "semantic_tasbih_counter": "عداد التسبيح",
+    "semantic_previous_dua": "الدعاء السابق",
+    "semantic_next_dua": "الدعاء التالي",
+    "semantic_dua": "دعاء",
+    "semantic_opens": "يفتح",
+    "semantic_opens_language_selection": "يفتح اختيار اللغة",
+    "semantic_device": "الجهاز",
+    "semantic_light": "فاتح",
+    "semantic_dark": "داكن",
+    "semantic_on": "تشغيل",
+    "semantic_off": "إيقاف"
 }

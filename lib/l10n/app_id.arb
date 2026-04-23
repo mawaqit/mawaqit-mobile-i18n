@@ -1483,11 +1483,79 @@
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
-    "increase": "Increase",
+    "increase": "Increases",
     "quran_settings": "Quran settings",
     "semantic_mushaf_view": "Mushaf view",
     "semantic_verse_list_view": "Verse list view",
     "not_downloaded": "Not downloaded",
     "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility."
+    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
+    "semantic_decrease_hijri_adjustment": "Kurangi penyesuaian Hijri",
+    "@semantic_decrease_hijri_adjustment": {
+        "description": "-> semantic_decrease_hijri_adjustment"
+    },
+    "semantic_minimum_adjustment_reached": "Penyesuaian minimum tercapai",
+    "@semantic_minimum_adjustment_reached": {
+        "description": "-> semantic_minimum_adjustment_reached"
+    },
+    "semantic_current_adjustment": "Penyesuaian saat ini",
+    "@semantic_current_adjustment": {
+        "description": "-> semantic_current_adjustment"
+    },
+    "semantic_increase_hijri_adjustment": "Tingkatkan penyesuaian Hijri",
+    "@semantic_increase_hijri_adjustment": {
+        "description": "-> semantic_increase_hijri_adjustment"
+    },
+    "semantic_maximum_adjustment_reached": "Penyesuaian maksimum tercapai",
+    "@semantic_maximum_adjustment_reached": {
+        "description": "-> semantic_maximum_adjustment_reached"
+    },
+    "semantic_minimum_size_reached": "Ukuran minimum tercapai",
+    "@semantic_minimum_size_reached": {
+        "description": "-> semantic_minimum_size_reached"
+    },
+    "semantic_decrease": "Kurangi",
+    "@semantic_decrease": {
+        "description": "-> semantic_decrease"
+    },
+    "semantic_current_size": "Ukuran saat ini",
+    "@semantic_current_size": {
+        "description": "-> semantic_current_size"
+    },
+    "semantic_increase": "Tingkatkan",
+    "@semantic_increase": {
+        "description": "-> semantic_increase"
+    },
+    "semantic_maximum_size_reached": "Ukuran maksimum tercapai",
+    "@semantic_maximum_size_reached": {
+        "description": "-> semantic_maximum_size_reached"
+    },
+    "semantic_favorite": "Favorit",
+    "@semantic_favorite": {
+        "description": "-> semantic_favorite"
+    },
+    "semantic_added_to_favorites": "Ditambahkan ke favorit",
+    "@semantic_added_to_favorites": {
+        "description": "-> semantic_added_to_favorites"
+    },
+    "semantic_not_in_favorites": "Tidak dalam favorit",
+    "@semantic_not_in_favorites": {
+        "description": "-> semantic_not_in_favorites"
+    },
+    "semantic_for": "untuk",
+    "semantic_view_style": "Gaya tampilan",
+    "semantic_double_tap_to_change_view_style": "Ketuk dua kali untuk mengubah gaya tampilan",
+    "semantic_share_dua": "Bagikan doa",
+    "semantic_tasbih_settings": "Pengaturan tasbih",
+    "semantic_tasbih_counter": "Penghitung tasbih",
+    "semantic_previous_dua": "Doa sebelumnya",
+    "semantic_next_dua": "Doa berikutnya",
+    "semantic_dua": "Doa",
+    "semantic_opens": "Membuka",
+    "semantic_opens_language_selection": "Membuka pilihan bahasa",
+    "semantic_device": "Perangkat",
+    "semantic_light": "Terang",
+    "semantic_dark": "Gelap",
+    "semantic_on": "Aktif",
+    "semantic_off": "Aktif"
 }

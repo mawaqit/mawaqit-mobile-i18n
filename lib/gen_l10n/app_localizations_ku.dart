@@ -2348,7 +2348,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get decrease => 'Decrease';
 
   @override
-  String get increase => 'Increase';
+  String get increase => 'Increases';
 
   @override
   String get quran_settings => 'Quran settings';
@@ -2369,4 +2369,94 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get semantic_switch_verse_list =>
       'Mushaf page. Switch to verse list view for full accessibility.';
+
+  @override
+  String get semantic_decrease_hijri_adjustment => 'کەمکردنەوەی ڕێکخستنی هیجری';
+
+  @override
+  String get semantic_minimum_adjustment_reached =>
+      'گەیشتە سنووری کەمترین ڕێکخستن';
+
+  @override
+  String get semantic_current_adjustment => 'ڕێکخستنی ئێستا';
+
+  @override
+  String get semantic_increase_hijri_adjustment => 'زیادکردنی ڕێکخستنی هیجری';
+
+  @override
+  String get semantic_maximum_adjustment_reached =>
+      'گەیشتە سنووری زۆرترین ڕێکخستن';
+
+  @override
+  String get semantic_minimum_size_reached => 'گەیشتە سنووری کەمترین قەبارە';
+
+  @override
+  String get semantic_decrease => 'کەمکردنەوە';
+
+  @override
+  String get semantic_current_size => 'قەبارەی ئێستا';
+
+  @override
+  String get semantic_increase => 'زیادکردن';
+
+  @override
+  String get semantic_maximum_size_reached => 'گەیشتە سنووری زۆرترین قەبارە';
+
+  @override
+  String get semantic_favorite => 'دڵخواز';
+
+  @override
+  String get semantic_added_to_favorites => 'زیادکرا بۆ دڵخوازەکان';
+
+  @override
+  String get semantic_not_in_favorites => 'لە دڵخوازەکاندا نییە';
+
+  @override
+  String get semantic_for => 'بۆ';
+
+  @override
+  String get semantic_view_style => 'شێوازی پیشاندان';
+
+  @override
+  String get semantic_double_tap_to_change_view_style =>
+      'دوو جار دەست لێبدە بۆ گۆڕینی شێواز';
+
+  @override
+  String get semantic_share_dua => 'هاوبەشکردنی دوعا';
+
+  @override
+  String get semantic_tasbih_settings => 'ڕێکخستنەکانی تەسبیح';
+
+  @override
+  String get semantic_tasbih_counter => 'ژمێرەری تەسبیح';
+
+  @override
+  String get semantic_previous_dua => 'دوعای پێشوو';
+
+  @override
+  String get semantic_next_dua => 'دوعای دواتر';
+
+  @override
+  String get semantic_dua => 'دوعای دواتر';
+
+  @override
+  String get semantic_opens => 'دەکاتەوە';
+
+  @override
+  String get semantic_opens_language_selection => 'هەڵبژاردنی زمان دەکاتەوە';
+
+  @override
+  String get semantic_device => 'ئامێر';
+
+  @override
+  String get semantic_light => 'ڕووناک';
+
+  @override
+  String get semantic_dark => 'تاریک';
+
+  @override
+  String get semantic_on => 'چالاک';
+
+  @override
+  String get semantic_off => 'ناچالاک';
 }

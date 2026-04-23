@@ -2341,7 +2341,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get decrease => 'Decrease';
 
   @override
-  String get increase => 'Increase';
+  String get increase => 'Increases';
 
   @override
   String get quran_settings => 'Quran settings';
@@ -2362,4 +2362,94 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get semantic_switch_verse_list =>
       'Mushaf page. Switch to verse list view for full accessibility.';
+
+  @override
+  String get semantic_decrease_hijri_adjustment => 'ہجری ایڈجسٹمنٹ کم کریں';
+
+  @override
+  String get semantic_minimum_adjustment_reached =>
+      'کم از کم ایڈجسٹمنٹ تک پہنچ گیا';
+
+  @override
+  String get semantic_current_adjustment => 'موجودہ ایڈجسٹمنٹ';
+
+  @override
+  String get semantic_increase_hijri_adjustment => 'ہجری ایڈجسٹمنٹ بڑھائیں';
+
+  @override
+  String get semantic_maximum_adjustment_reached =>
+      'زیادہ سے زیادہ ایڈجسٹمنٹ تک پہنچ گیا';
+
+  @override
+  String get semantic_minimum_size_reached => 'کم از کم سائز تک پہنچ گیا';
+
+  @override
+  String get semantic_decrease => 'کم کریں';
+
+  @override
+  String get semantic_current_size => 'موجودہ سائز';
+
+  @override
+  String get semantic_increase => 'بڑھائیں';
+
+  @override
+  String get semantic_maximum_size_reached => 'زیادہ سے زیادہ سائز تک پہنچ گیا';
+
+  @override
+  String get semantic_favorite => 'پسندیدہ';
+
+  @override
+  String get semantic_added_to_favorites => 'پسندیدہ میں شامل کر دیا گیا';
+
+  @override
+  String get semantic_not_in_favorites => 'پسندیدہ میں شامل نہیں';
+
+  @override
+  String get semantic_for => 'پسندیدہ میں شامل نہیں';
+
+  @override
+  String get semantic_view_style => 'کے لیے';
+
+  @override
+  String get semantic_double_tap_to_change_view_style =>
+      'ویو اسٹائل تبدیل کرنے کے لیے ڈبل ٹیپ کریں';
+
+  @override
+  String get semantic_share_dua => 'دعا شیئر کریں';
+
+  @override
+  String get semantic_tasbih_settings => 'تسبیح کی ترتیبات';
+
+  @override
+  String get semantic_tasbih_counter => 'تسبیح کاؤنٹر';
+
+  @override
+  String get semantic_previous_dua => 'پچھلی دعا';
+
+  @override
+  String get semantic_next_dua => 'اگلی دعا';
+
+  @override
+  String get semantic_dua => 'دعا';
+
+  @override
+  String get semantic_opens => 'کھولتا ہے';
+
+  @override
+  String get semantic_opens_language_selection => 'زبان کا انتخاب کھولتا ہے';
+
+  @override
+  String get semantic_device => 'ڈیوائس';
+
+  @override
+  String get semantic_light => 'لائٹ';
+
+  @override
+  String get semantic_dark => 'ڈارک';
+
+  @override
+  String get semantic_on => 'آن';
+
+  @override
+  String get semantic_off => 'آف';
 }

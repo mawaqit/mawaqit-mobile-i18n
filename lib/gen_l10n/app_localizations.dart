@@ -4597,6 +4597,180 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Mushaf page. Switch to verse list view for full accessibility.'**
   String get semantic_switch_verse_list;
+
+  /// -> semantic_decrease_hijri_adjustment
+  ///
+  /// In en, this message translates to:
+  /// **'Decrease Hijri adjustment'**
+  String get semantic_decrease_hijri_adjustment;
+
+  /// -> semantic_minimum_adjustment_reached
+  ///
+  /// In en, this message translates to:
+  /// **'Minimum adjustment reached'**
+  String get semantic_minimum_adjustment_reached;
+
+  /// -> semantic_current_adjustment
+  ///
+  /// In en, this message translates to:
+  /// **'Current adjustment'**
+  String get semantic_current_adjustment;
+
+  /// -> semantic_increase_hijri_adjustment
+  ///
+  /// In en, this message translates to:
+  /// **'Increase Hijri adjustment'**
+  String get semantic_increase_hijri_adjustment;
+
+  /// -> semantic_maximum_adjustment_reached
+  ///
+  /// In en, this message translates to:
+  /// **'Maximum adjustment reached'**
+  String get semantic_maximum_adjustment_reached;
+
+  /// -> semantic_minimum_size_reached
+  ///
+  /// In en, this message translates to:
+  /// **'Minimum size reached'**
+  String get semantic_minimum_size_reached;
+
+  /// -> semantic_decrease
+  ///
+  /// In en, this message translates to:
+  /// **'Decrease'**
+  String get semantic_decrease;
+
+  /// -> semantic_current_size
+  ///
+  /// In en, this message translates to:
+  /// **'Current size'**
+  String get semantic_current_size;
+
+  /// -> semantic_increase
+  ///
+  /// In en, this message translates to:
+  /// **'Increase'**
+  String get semantic_increase;
+
+  /// -> semantic_maximum_size_reached
+  ///
+  /// In en, this message translates to:
+  /// **'Maximum size reached'**
+  String get semantic_maximum_size_reached;
+
+  /// -> semantic_favorite
+  ///
+  /// In en, this message translates to:
+  /// **'Favorite'**
+  String get semantic_favorite;
+
+  /// -> semantic_added_to_favorites
+  ///
+  /// In en, this message translates to:
+  /// **'Added to favorites'**
+  String get semantic_added_to_favorites;
+
+  /// -> semantic_not_in_favorites
+  ///
+  /// In en, this message translates to:
+  /// **'Not in favorites'**
+  String get semantic_not_in_favorites;
+
+  /// No description provided for @semantic_for.
+  ///
+  /// In en, this message translates to:
+  /// **'for'**
+  String get semantic_for;
+
+  /// No description provided for @semantic_view_style.
+  ///
+  /// In en, this message translates to:
+  /// **'View style'**
+  String get semantic_view_style;
+
+  /// No description provided for @semantic_double_tap_to_change_view_style.
+  ///
+  /// In en, this message translates to:
+  /// **'Double tap to change view style'**
+  String get semantic_double_tap_to_change_view_style;
+
+  /// No description provided for @semantic_share_dua.
+  ///
+  /// In en, this message translates to:
+  /// **'Share dua'**
+  String get semantic_share_dua;
+
+  /// No description provided for @semantic_tasbih_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Tasbih settings'**
+  String get semantic_tasbih_settings;
+
+  /// No description provided for @semantic_tasbih_counter.
+  ///
+  /// In en, this message translates to:
+  /// **'Tasbih counter'**
+  String get semantic_tasbih_counter;
+
+  /// No description provided for @semantic_previous_dua.
+  ///
+  /// In en, this message translates to:
+  /// **'Previous dua'**
+  String get semantic_previous_dua;
+
+  /// No description provided for @semantic_next_dua.
+  ///
+  /// In en, this message translates to:
+  /// **'Next dua'**
+  String get semantic_next_dua;
+
+  /// No description provided for @semantic_dua.
+  ///
+  /// In en, this message translates to:
+  /// **'Dua'**
+  String get semantic_dua;
+
+  /// No description provided for @semantic_opens.
+  ///
+  /// In en, this message translates to:
+  /// **'Opens'**
+  String get semantic_opens;
+
+  /// No description provided for @semantic_opens_language_selection.
+  ///
+  /// In en, this message translates to:
+  /// **'Opens language selection'**
+  String get semantic_opens_language_selection;
+
+  /// No description provided for @semantic_device.
+  ///
+  /// In en, this message translates to:
+  /// **'Device'**
+  String get semantic_device;
+
+  /// No description provided for @semantic_light.
+  ///
+  /// In en, this message translates to:
+  /// **'Light'**
+  String get semantic_light;
+
+  /// No description provided for @semantic_dark.
+  ///
+  /// In en, this message translates to:
+  /// **'Dark'**
+  String get semantic_dark;
+
+  /// No description provided for @semantic_on.
+  ///
+  /// In en, this message translates to:
+  /// **'On'**
+  String get semantic_on;
+
+  /// No description provided for @semantic_off.
+  ///
+  /// In en, this message translates to:
+  /// **'Off'**
+  String get semantic_off;
 }
 
 class _AppLocalizationsDelegate
