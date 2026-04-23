@@ -1483,11 +1483,79 @@
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
-    "increase": "Increase",
+    "increase": "Increases",
     "quran_settings": "Quran settings",
     "semantic_mushaf_view": "Mushaf view",
     "semantic_verse_list_view": "Verse list view",
     "not_downloaded": "Not downloaded",
     "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility."
+    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
+    "semantic_decrease_hijri_adjustment": "Hicri ayarı azalt",
+    "@semantic_decrease_hijri_adjustment": {
+        "description": "-> semantic_decrease_hijri_adjustment"
+    },
+    "semantic_minimum_adjustment_reached": "Minimum ayara ulaşıldı",
+    "@semantic_minimum_adjustment_reached": {
+        "description": "-> semantic_minimum_adjustment_reached"
+    },
+    "semantic_current_adjustment": "Mevcut ayar",
+    "@semantic_current_adjustment": {
+        "description": "-> semantic_current_adjustment"
+    },
+    "semantic_increase_hijri_adjustment": "Hicri ayarı artır",
+    "@semantic_increase_hijri_adjustment": {
+        "description": "-> semantic_increase_hijri_adjustment"
+    },
+    "semantic_maximum_adjustment_reached": "Maksimum ayara ulaşıldı",
+    "@semantic_maximum_adjustment_reached": {
+        "description": "-> semantic_maximum_adjustment_reached"
+    },
+    "semantic_minimum_size_reached": "Minimum boyuta ulaşıldı",
+    "@semantic_minimum_size_reached": {
+        "description": "-> semantic_minimum_size_reached"
+    },
+    "semantic_decrease": "Azalt",
+    "@semantic_decrease": {
+        "description": "-> semantic_decrease"
+    },
+    "semantic_current_size": "Mevcut boyut",
+    "@semantic_current_size": {
+        "description": "-> semantic_current_size"
+    },
+    "semantic_increase": "Artır",
+    "@semantic_increase": {
+        "description": "-> semantic_increase"
+    },
+    "semantic_maximum_size_reached": "Maksimum boyuta ulaşıldı",
+    "@semantic_maximum_size_reached": {
+        "description": "-> semantic_maximum_size_reached"
+    },
+    "semantic_favorite": "Favori",
+    "@semantic_favorite": {
+        "description": "-> semantic_favorite"
+    },
+    "semantic_added_to_favorites": "Favorilere eklendi",
+    "@semantic_added_to_favorites": {
+        "description": "-> semantic_added_to_favorites"
+    },
+    "semantic_not_in_favorites": "Favorilerde değil",
+    "@semantic_not_in_favorites": {
+        "description": "-> semantic_not_in_favorites"
+    },
+    "semantic_for": "için",
+    "semantic_view_style": "Görünüm stili",
+    "semantic_double_tap_to_change_view_style": "Görünüm stilini değiştirmek için çift dokunun",
+    "semantic_share_dua": "Dua paylaş",
+    "semantic_tasbih_settings": "Tesbih ayarları",
+    "semantic_tasbih_counter": "Tesbih sayacı",
+    "semantic_previous_dua": "Önceki dua",
+    "semantic_next_dua": "Sonraki dua",
+    "semantic_dua": "Dua",
+    "semantic_opens": "Açar",
+    "semantic_opens_language_selection": "Dil seçimini açar",
+    "semantic_device": "Cihaz",
+    "semantic_light": "Açık",
+    "semantic_dark": "Koyu",
+    "semantic_on": "Açık",
+    "semantic_off": "Kapalı"
 }
