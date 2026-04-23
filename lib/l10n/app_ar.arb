@@ -1483,7 +1483,7 @@
     "previous_verse": "الآية السابقة",
     "next_verse": "الآية التالية",
     "decrease": "تقليل",
-    "increase": "Increases",
+    "increase": "زيادة",
     "quran_settings": "إعدادات القرآن",
     "semantic_mushaf_view": "عرض المصحف",
     "semantic_verse_list_view": "عرض قائمة الآيات",
@@ -1557,5 +1557,8 @@
     "semantic_light": "فاتح",
     "semantic_dark": "داكن",
     "semantic_on": "تشغيل",
-    "semantic_off": "إيقاف"
+    "semantic_off": "إيقاف",
+    "semantic_ayah_list_actions": "اسحب للأعلى أو للأسفل لإجراءات الآية: تشغيل، تفسير، مشاركة، حفظ",
+    "remove_bookmark": "إزالة الإشارة المرجعية",
+    "add_bookmark": "إضافة إشارة مرجعية"
 }
