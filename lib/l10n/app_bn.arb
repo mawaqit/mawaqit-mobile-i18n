@@ -1483,11 +1483,79 @@
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
-    "increase": "Increase",
+    "increase": "Increases",
     "quran_settings": "Quran settings",
     "semantic_mushaf_view": "Mushaf view",
     "semantic_verse_list_view": "Verse list view",
     "not_downloaded": "Not downloaded",
     "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility."
+    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
+    "semantic_decrease_hijri_adjustment": "হিজরি সমন্বয় কমান",
+    "@semantic_decrease_hijri_adjustment": {
+        "description": "-> semantic_decrease_hijri_adjustment"
+    },
+    "semantic_minimum_adjustment_reached": "সর্বনিম্ন সমন্বয় পৌঁছানো হয়েছে",
+    "@semantic_minimum_adjustment_reached": {
+        "description": "-> semantic_minimum_adjustment_reached"
+    },
+    "semantic_current_adjustment": "বর্তমান সমন্বয়",
+    "@semantic_current_adjustment": {
+        "description": "-> semantic_current_adjustment"
+    },
+    "semantic_increase_hijri_adjustment": "হিজরি সমন্বয় বাড়ান",
+    "@semantic_increase_hijri_adjustment": {
+        "description": "-> semantic_increase_hijri_adjustment"
+    },
+    "semantic_maximum_adjustment_reached": "সর্বোচ্চ সমন্বয় পৌঁছানো হয়েছে",
+    "@semantic_maximum_adjustment_reached": {
+        "description": "-> semantic_maximum_adjustment_reached"
+    },
+    "semantic_minimum_size_reached": "সর্বনিম্ন আকার পৌঁছানো হয়েছে",
+    "@semantic_minimum_size_reached": {
+        "description": "-> semantic_minimum_size_reached"
+    },
+    "semantic_decrease": "কমান",
+    "@semantic_decrease": {
+        "description": "-> semantic_decrease"
+    },
+    "semantic_current_size": "বর্তমান আকার",
+    "@semantic_current_size": {
+        "description": "-> semantic_current_size"
+    },
+    "semantic_increase": "বাড়ান",
+    "@semantic_increase": {
+        "description": "-> semantic_increase"
+    },
+    "semantic_maximum_size_reached": "সর্বোচ্চ আকার পৌঁছানো হয়েছে",
+    "@semantic_maximum_size_reached": {
+        "description": "-> semantic_maximum_size_reached"
+    },
+    "semantic_favorite": "পছন্দের",
+    "@semantic_favorite": {
+        "description": "-> semantic_favorite"
+    },
+    "semantic_added_to_favorites": "পছন্দের তালিকায় যোগ করা হয়েছে",
+    "@semantic_added_to_favorites": {
+        "description": "-> semantic_added_to_favorites"
+    },
+    "semantic_not_in_favorites": "পছন্দের তালিকায় নেই",
+    "@semantic_not_in_favorites": {
+        "description": "-> semantic_not_in_favorites"
+    },
+    "semantic_for": "জন্য",
+    "semantic_view_style": "ভিউ স্টাইল",
+    "semantic_double_tap_to_change_view_style": "ভিউ স্টাইল পরিবর্তন করতে ডাবল ট্যাপ করুন",
+    "semantic_share_dua": "দোয়া শেয়ার করুন",
+    "semantic_tasbih_settings": "তাসবিহ সেটিংস",
+    "semantic_tasbih_counter": "তাসবিহ কাউন্টার",
+    "semantic_previous_dua": "পূর্ববর্তী দোয়া",
+    "semantic_next_dua": "পরবর্তী দোয়া",
+    "semantic_dua": "দোয়া",
+    "semantic_opens": "খোলে",
+    "semantic_opens_language_selection": "ভাষা নির্বাচন খোলে",
+    "semantic_device": "ডিভাইস",
+    "semantic_light": "লাইট",
+    "semantic_dark": "ডার্ক",
+    "semantic_on": "চালু",
+    "semantic_off": "বন্ধ"
 }
