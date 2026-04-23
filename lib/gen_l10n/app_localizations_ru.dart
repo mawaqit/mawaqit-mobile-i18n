@@ -2343,7 +2343,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get decrease => 'Decrease';
 
   @override
-  String get increase => 'Increase';
+  String get increase => 'Increases';
 
   @override
   String get quran_settings => 'Quran settings';
@@ -2364,4 +2364,96 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get semantic_switch_verse_list =>
       'Mushaf page. Switch to verse list view for full accessibility.';
+
+  @override
+  String get semantic_decrease_hijri_adjustment =>
+      'Уменьшить корректировку Хиджры';
+
+  @override
+  String get semantic_minimum_adjustment_reached =>
+      'Достигнута минимальная корректировка';
+
+  @override
+  String get semantic_current_adjustment => 'Текущая корректировка';
+
+  @override
+  String get semantic_increase_hijri_adjustment =>
+      'Увеличить корректировку Хиджры';
+
+  @override
+  String get semantic_maximum_adjustment_reached =>
+      'Достигнута максимальная корректировка';
+
+  @override
+  String get semantic_minimum_size_reached => 'Достигнут минимальный размер';
+
+  @override
+  String get semantic_decrease => 'Уменьшить';
+
+  @override
+  String get semantic_current_size => 'Текущий размер';
+
+  @override
+  String get semantic_increase => 'Текущий размер';
+
+  @override
+  String get semantic_maximum_size_reached => 'Достигнут максимальный размер';
+
+  @override
+  String get semantic_favorite => 'Избранное';
+
+  @override
+  String get semantic_added_to_favorites => 'Добавлено в избранное';
+
+  @override
+  String get semantic_not_in_favorites => 'Не в избранном';
+
+  @override
+  String get semantic_for => 'для';
+
+  @override
+  String get semantic_view_style => 'Стиль отображения';
+
+  @override
+  String get semantic_double_tap_to_change_view_style =>
+      'Дважды нажмите, чтобы изменить стиль';
+
+  @override
+  String get semantic_share_dua => 'Поделиться дуа';
+
+  @override
+  String get semantic_tasbih_settings => 'Настройки тасбиха';
+
+  @override
+  String get semantic_tasbih_counter => 'Счётчик тасбиха';
+
+  @override
+  String get semantic_previous_dua => 'Предыдущее дуа';
+
+  @override
+  String get semantic_next_dua => 'Следующее дуа';
+
+  @override
+  String get semantic_dua => 'Дуа';
+
+  @override
+  String get semantic_opens => 'Открывает';
+
+  @override
+  String get semantic_opens_language_selection => 'Открывает выбор языка';
+
+  @override
+  String get semantic_device => 'Устройство';
+
+  @override
+  String get semantic_light => 'Светлая';
+
+  @override
+  String get semantic_dark => 'Тёмная';
+
+  @override
+  String get semantic_on => 'Включено';
+
+  @override
+  String get semantic_off => 'Выключено';
 }

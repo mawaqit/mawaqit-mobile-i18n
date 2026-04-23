@@ -2311,7 +2311,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get decrease => 'تقليل';
 
   @override
-  String get increase => 'زيادة ';
+  String get increase => 'Increases';
 
   @override
   String get quran_settings => 'إعدادات القرآن';
@@ -2332,4 +2332,94 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get semantic_switch_verse_list =>
       'صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل.';
+
+  @override
+  String get semantic_decrease_hijri_adjustment => 'تقليل ضبط الهجري';
+
+  @override
+  String get semantic_minimum_adjustment_reached =>
+      'تم الوصول إلى الحد الأدنى للضبط';
+
+  @override
+  String get semantic_current_adjustment => 'الضبط الحالي';
+
+  @override
+  String get semantic_increase_hijri_adjustment => 'زيادة ضبط الهجري';
+
+  @override
+  String get semantic_maximum_adjustment_reached =>
+      'تم الوصول إلى الحد الأقصى للضبط';
+
+  @override
+  String get semantic_minimum_size_reached => 'تم الوصول إلى الحد الأدنى للحجم';
+
+  @override
+  String get semantic_decrease => 'تقليل';
+
+  @override
+  String get semantic_current_size => 'الحجم الحالي';
+
+  @override
+  String get semantic_increase => 'زيادة';
+
+  @override
+  String get semantic_maximum_size_reached => 'تم الوصول إلى الحد الأقصى للحجم';
+
+  @override
+  String get semantic_favorite => 'مفضل';
+
+  @override
+  String get semantic_added_to_favorites => 'تمت الإضافة إلى المفضلة';
+
+  @override
+  String get semantic_not_in_favorites => 'ليس في المفضلة';
+
+  @override
+  String get semantic_for => 'لـ';
+
+  @override
+  String get semantic_view_style => 'نمط العرض';
+
+  @override
+  String get semantic_double_tap_to_change_view_style =>
+      'اضغط مرتين لتغيير نمط العرض';
+
+  @override
+  String get semantic_share_dua => 'مشاركة الدعاء';
+
+  @override
+  String get semantic_tasbih_settings => 'إعدادات التسبيح';
+
+  @override
+  String get semantic_tasbih_counter => 'عداد التسبيح';
+
+  @override
+  String get semantic_previous_dua => 'الدعاء السابق';
+
+  @override
+  String get semantic_next_dua => 'الدعاء التالي';
+
+  @override
+  String get semantic_dua => 'دعاء';
+
+  @override
+  String get semantic_opens => 'يفتح';
+
+  @override
+  String get semantic_opens_language_selection => 'يفتح اختيار اللغة';
+
+  @override
+  String get semantic_device => 'الجهاز';
+
+  @override
+  String get semantic_light => 'فاتح';
+
+  @override
+  String get semantic_dark => 'داكن';
+
+  @override
+  String get semantic_on => 'تشغيل';
+
+  @override
+  String get semantic_off => 'إيقاف';
 }

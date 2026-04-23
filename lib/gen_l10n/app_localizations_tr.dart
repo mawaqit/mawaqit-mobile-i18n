@@ -2335,7 +2335,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get decrease => 'Decrease';
 
   @override
-  String get increase => 'Increase';
+  String get increase => 'Increases';
 
   @override
   String get quran_settings => 'Quran settings';
@@ -2356,4 +2356,92 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get semantic_switch_verse_list =>
       'Mushaf page. Switch to verse list view for full accessibility.';
+
+  @override
+  String get semantic_decrease_hijri_adjustment => 'Hicri ayarı azalt';
+
+  @override
+  String get semantic_minimum_adjustment_reached => 'Minimum ayara ulaşıldı';
+
+  @override
+  String get semantic_current_adjustment => 'Mevcut ayar';
+
+  @override
+  String get semantic_increase_hijri_adjustment => 'Hicri ayarı artır';
+
+  @override
+  String get semantic_maximum_adjustment_reached => 'Maksimum ayara ulaşıldı';
+
+  @override
+  String get semantic_minimum_size_reached => 'Minimum boyuta ulaşıldı';
+
+  @override
+  String get semantic_decrease => 'Azalt';
+
+  @override
+  String get semantic_current_size => 'Mevcut boyut';
+
+  @override
+  String get semantic_increase => 'Artır';
+
+  @override
+  String get semantic_maximum_size_reached => 'Maksimum boyuta ulaşıldı';
+
+  @override
+  String get semantic_favorite => 'Favori';
+
+  @override
+  String get semantic_added_to_favorites => 'Favorilere eklendi';
+
+  @override
+  String get semantic_not_in_favorites => 'Favorilerde değil';
+
+  @override
+  String get semantic_for => 'için';
+
+  @override
+  String get semantic_view_style => 'Görünüm stili';
+
+  @override
+  String get semantic_double_tap_to_change_view_style =>
+      'Görünüm stilini değiştirmek için çift dokunun';
+
+  @override
+  String get semantic_share_dua => 'Dua paylaş';
+
+  @override
+  String get semantic_tasbih_settings => 'Tesbih ayarları';
+
+  @override
+  String get semantic_tasbih_counter => 'Tesbih sayacı';
+
+  @override
+  String get semantic_previous_dua => 'Önceki dua';
+
+  @override
+  String get semantic_next_dua => 'Sonraki dua';
+
+  @override
+  String get semantic_dua => 'Dua';
+
+  @override
+  String get semantic_opens => 'Açar';
+
+  @override
+  String get semantic_opens_language_selection => 'Dil seçimini açar';
+
+  @override
+  String get semantic_device => 'Cihaz';
+
+  @override
+  String get semantic_light => 'Açık';
+
+  @override
+  String get semantic_dark => 'Koyu';
+
+  @override
+  String get semantic_on => 'Açık';
+
+  @override
+  String get semantic_off => 'Kapalı';
 }

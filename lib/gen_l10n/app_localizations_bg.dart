@@ -2349,7 +2349,7 @@ class AppLocalizationsBg extends AppLocalizations {
   String get decrease => 'Decrease';
 
   @override
-  String get increase => 'Increase';
+  String get increase => 'Increases';
 
   @override
   String get quran_settings => 'Quran settings';
@@ -2370,4 +2370,94 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get semantic_switch_verse_list =>
       'Mushaf page. Switch to verse list view for full accessibility.';
+
+  @override
+  String get semantic_decrease_hijri_adjustment => 'Decrease Hijri adjustment';
+
+  @override
+  String get semantic_minimum_adjustment_reached =>
+      'Minimum adjustment reached';
+
+  @override
+  String get semantic_current_adjustment => 'Current adjustment';
+
+  @override
+  String get semantic_increase_hijri_adjustment => 'Increase Hijri adjustment';
+
+  @override
+  String get semantic_maximum_adjustment_reached =>
+      'Maximum adjustment reached';
+
+  @override
+  String get semantic_minimum_size_reached => 'Minimum size reached';
+
+  @override
+  String get semantic_decrease => 'Decrease';
+
+  @override
+  String get semantic_current_size => 'Current size';
+
+  @override
+  String get semantic_increase => 'Increase';
+
+  @override
+  String get semantic_maximum_size_reached => 'Maximum size reached';
+
+  @override
+  String get semantic_favorite => 'Favorite';
+
+  @override
+  String get semantic_added_to_favorites => 'Added to favorites';
+
+  @override
+  String get semantic_not_in_favorites => 'Not in favorites';
+
+  @override
+  String get semantic_for => 'for';
+
+  @override
+  String get semantic_view_style => 'View style';
+
+  @override
+  String get semantic_double_tap_to_change_view_style =>
+      'Double tap to change view style';
+
+  @override
+  String get semantic_share_dua => 'Share dua';
+
+  @override
+  String get semantic_tasbih_settings => 'Tasbih settings';
+
+  @override
+  String get semantic_tasbih_counter => 'Tasbih counter';
+
+  @override
+  String get semantic_previous_dua => 'Previous dua';
+
+  @override
+  String get semantic_next_dua => 'Next dua';
+
+  @override
+  String get semantic_dua => 'Dua';
+
+  @override
+  String get semantic_opens => 'Opens';
+
+  @override
+  String get semantic_opens_language_selection => 'Opens language selection';
+
+  @override
+  String get semantic_device => 'Device';
+
+  @override
+  String get semantic_light => 'Light';
+
+  @override
+  String get semantic_dark => 'Dark';
+
+  @override
+  String get semantic_on => 'On';
+
+  @override
+  String get semantic_off => 'Off';
 }

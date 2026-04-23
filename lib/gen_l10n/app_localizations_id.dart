@@ -2344,7 +2344,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get decrease => 'Decrease';
 
   @override
-  String get increase => 'Increase';
+  String get increase => 'Increases';
 
   @override
   String get quran_settings => 'Quran settings';
@@ -2365,4 +2365,95 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get semantic_switch_verse_list =>
       'Mushaf page. Switch to verse list view for full accessibility.';
+
+  @override
+  String get semantic_decrease_hijri_adjustment => 'Kurangi penyesuaian Hijri';
+
+  @override
+  String get semantic_minimum_adjustment_reached =>
+      'Penyesuaian minimum tercapai';
+
+  @override
+  String get semantic_current_adjustment => 'Penyesuaian saat ini';
+
+  @override
+  String get semantic_increase_hijri_adjustment =>
+      'Tingkatkan penyesuaian Hijri';
+
+  @override
+  String get semantic_maximum_adjustment_reached =>
+      'Penyesuaian maksimum tercapai';
+
+  @override
+  String get semantic_minimum_size_reached => 'Ukuran minimum tercapai';
+
+  @override
+  String get semantic_decrease => 'Kurangi';
+
+  @override
+  String get semantic_current_size => 'Ukuran saat ini';
+
+  @override
+  String get semantic_increase => 'Tingkatkan';
+
+  @override
+  String get semantic_maximum_size_reached => 'Ukuran maksimum tercapai';
+
+  @override
+  String get semantic_favorite => 'Favorit';
+
+  @override
+  String get semantic_added_to_favorites => 'Ditambahkan ke favorit';
+
+  @override
+  String get semantic_not_in_favorites => 'Tidak dalam favorit';
+
+  @override
+  String get semantic_for => 'untuk';
+
+  @override
+  String get semantic_view_style => 'Gaya tampilan';
+
+  @override
+  String get semantic_double_tap_to_change_view_style =>
+      'Ketuk dua kali untuk mengubah gaya tampilan';
+
+  @override
+  String get semantic_share_dua => 'Bagikan doa';
+
+  @override
+  String get semantic_tasbih_settings => 'Pengaturan tasbih';
+
+  @override
+  String get semantic_tasbih_counter => 'Penghitung tasbih';
+
+  @override
+  String get semantic_previous_dua => 'Doa sebelumnya';
+
+  @override
+  String get semantic_next_dua => 'Doa berikutnya';
+
+  @override
+  String get semantic_dua => 'Doa';
+
+  @override
+  String get semantic_opens => 'Membuka';
+
+  @override
+  String get semantic_opens_language_selection => 'Membuka pilihan bahasa';
+
+  @override
+  String get semantic_device => 'Perangkat';
+
+  @override
+  String get semantic_light => 'Terang';
+
+  @override
+  String get semantic_dark => 'Gelap';
+
+  @override
+  String get semantic_on => 'Aktif';
+
+  @override
+  String get semantic_off => 'Aktif';
 }
