@@ -1557,5 +1557,8 @@
     "semantic_light": "Terang",
     "semantic_dark": "Gelap",
     "semantic_on": "Aktif",
-    "semantic_off": "Aktif"
+    "semantic_off": "Aktif",
+    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "remove_bookmark": "Remove bookmark",
+    "add_bookmark": "Add bookmark"
 }
