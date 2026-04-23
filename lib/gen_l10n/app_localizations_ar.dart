@@ -2311,7 +2311,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get decrease => 'تقليل';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'زيادة';
 
   @override
   String get quran_settings => 'إعدادات القرآن';
@@ -2422,4 +2422,14 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_off => 'إيقاف';
+
+  @override
+  String get semantic_ayah_list_actions =>
+      'اسحب للأعلى أو للأسفل لإجراءات الآية: تشغيل، تفسير، مشاركة، حفظ';
+
+  @override
+  String get remove_bookmark => 'إزالة الإشارة المرجعية';
+
+  @override
+  String get add_bookmark => 'إضافة إشارة مرجعية';
 }

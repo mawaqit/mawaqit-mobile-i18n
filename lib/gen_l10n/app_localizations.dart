@@ -4771,6 +4771,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Off'**
   String get semantic_off;
+
+  /// No description provided for @semantic_ayah_list_actions.
+  ///
+  /// In en, this message translates to:
+  /// **'Remove bookmark'**
+  String get semantic_ayah_list_actions;
+
+  /// No description provided for @remove_bookmark.
+  ///
+  /// In en, this message translates to:
+  /// **'Remove bookmark'**
+  String get remove_bookmark;
+
+  /// No description provided for @add_bookmark.
+  ///
+  /// In en, this message translates to:
+  /// **'Add bookmark'**
+  String get add_bookmark;
 }
 
 class _AppLocalizationsDelegate

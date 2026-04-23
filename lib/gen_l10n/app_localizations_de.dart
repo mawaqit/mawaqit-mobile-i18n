@@ -2368,7 +2368,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get decrease => 'Verringern';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Erhöht';
 
   @override
   String get quran_settings => 'Koran-Einstellungen';
@@ -2479,4 +2479,14 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get semantic_off => 'Aus';
+
+  @override
+  String get semantic_ayah_list_actions =>
+      'Wischen Sie nach oben oder unten für Versaktionen: Abspielen, Tafsir, Teilen, Lesezeichen';
+
+  @override
+  String get remove_bookmark => 'Lesezeichen entfernen';
+
+  @override
+  String get add_bookmark => 'Lesezeichen hinzufügen';
 }
