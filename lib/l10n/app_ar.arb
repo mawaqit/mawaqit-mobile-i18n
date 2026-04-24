@@ -1558,7 +1558,7 @@
     "semantic_dark": "داكن",
     "semantic_on": "تشغيل",
     "semantic_off": "إيقاف",
-    "semantic_ayah_list_actions": "اسحب للأعلى أو للأسفل لإجراءات الآية: تشغيل، تفسير، مشاركة، حفظ",
+    "semantic_ayah_list_actions": "إزالة الإشارة المرجعية",
     "remove_bookmark": "إزالة الإشارة المرجعية",
     "add_bookmark": "إضافة إشارة مرجعية"
 }
