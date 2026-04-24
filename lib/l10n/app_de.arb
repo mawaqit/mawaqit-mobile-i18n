@@ -1365,7 +1365,7 @@
     "semantic_list_layout": "Listenansicht",
     "semantic_grid_layout": "Rasteransicht",
     "sematnic_360_clock_layout": "360-Uhrlayout",
-    "semantic_layout_menu_open": "Layout menu open",
+    "semantic_layout_menu_open": "Layout-Menü geöffnet",
     "close": "Schließen",
     "semantic_mosque_page": "Moschee-Seite",
     "semantic_of": "von",
@@ -1558,7 +1558,7 @@
     "semantic_dark": "Dunkel",
     "semantic_on": "Ein",
     "semantic_off": "Aus",
-    "semantic_ayah_list_actions": "Wischen Sie nach oben oder unten für Versaktionen: Abspielen, Tafsir, Teilen, Lesezeichen",
+    "semantic_ayah_list_actions": "Lesezeichen entfernen",
     "remove_bookmark": "Lesezeichen entfernen",
     "add_bookmark": "Lesezeichen hinzufügen"
 }

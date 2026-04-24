@@ -1558,7 +1558,7 @@
     "semantic_dark": "Sombre",
     "semantic_on": "Activé",
     "semantic_off": "Désactivé",
-    "semantic_ayah_list_actions": "Faites glisser vers le haut ou le bas pour les actions du verset : Lire, Tafsir, Partager, Marquer",
+    "semantic_ayah_list_actions": "Remove bookmark",
     "remove_bookmark": "Supprimer le signet",
     "add_bookmark": "Ajouter un signet"
 }

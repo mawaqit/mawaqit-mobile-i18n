@@ -1478,87 +1478,87 @@
     "semanitc_degrees_to_qibla": "قىبلىگە گىرادۇس",
     "about": "ھەققىدە",
     "rotate": "ئايلاندۇر",
-    "semantic_close_audio_player": "Close audio player",
+    "semantic_close_audio_player": "ئاۋاز قويغۇچنى تاقاش",
     "reciter_settings": "Reciter settings",
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
     "increase": "Increases",
     "quran_settings": "Quran settings",
-    "semantic_mushaf_view": "Mushaf view",
-    "semantic_verse_list_view": "Verse list view",
+    "semantic_mushaf_view": "مۇسھاف كۆرۈنۈشى",
+    "semantic_verse_list_view": "ئايەت تىزىملىكى كۆرۈنۈشى",
     "not_downloaded": "Not downloaded",
     "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
-    "semantic_decrease_hijri_adjustment": "Decrease Hijri adjustment",
+    "semantic_switch_verse_list": "مۇسھاف بېتى. تولۇق قولايلىق ئۈچۈن ئايەت تىزىملىكى كۆرۈنۈشىگە ئالماشتۇرۇڭ.",
+    "semantic_decrease_hijri_adjustment": "ئالدىن ئۇقتۇرۇش ۋاقتىنى ئازايتىش",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
-    "semantic_minimum_adjustment_reached": "Minimum adjustment reached",
+    "semantic_minimum_adjustment_reached": "ئەڭ تۆۋەن تەڭشەككە يەتتى",
     "@semantic_minimum_adjustment_reached": {
         "description": "-> semantic_minimum_adjustment_reached"
     },
-    "semantic_current_adjustment": "Current adjustment",
+    "semantic_current_adjustment": "نۆۋەتتىكى تەڭشەك",
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "Increase Hijri adjustment",
+    "semantic_increase_hijri_adjustment": "ھىجرى تەڭشەشنى كۆپەيتىڭ",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
-    "semantic_maximum_adjustment_reached": "Maximum adjustment reached",
+    "semantic_maximum_adjustment_reached": "ئەڭ يۇقىرى تەڭشەككە يەتتى",
     "@semantic_maximum_adjustment_reached": {
         "description": "-> semantic_maximum_adjustment_reached"
     },
-    "semantic_minimum_size_reached": "Minimum size reached",
+    "semantic_minimum_size_reached": "ئەڭ كىچىك چوڭلۇققا يەتتى",
     "@semantic_minimum_size_reached": {
         "description": "-> semantic_minimum_size_reached"
     },
-    "semantic_decrease": "Decrease",
+    "semantic_decrease": "ئازايتىش",
     "@semantic_decrease": {
         "description": "-> semantic_decrease"
     },
-    "semantic_current_size": "Current size",
+    "semantic_current_size": "نۆۋەتتىكى چوڭلۇق",
     "@semantic_current_size": {
         "description": "-> semantic_current_size"
     },
-    "semantic_increase": "Increase",
+    "semantic_increase": "كۆپەيتىش",
     "@semantic_increase": {
         "description": "-> semantic_increase"
     },
-    "semantic_maximum_size_reached": "Maximum size reached",
+    "semantic_maximum_size_reached": "ئەڭ چوڭ چوڭلۇققا يەتتى",
     "@semantic_maximum_size_reached": {
         "description": "-> semantic_maximum_size_reached"
     },
-    "semantic_favorite": "Favorite",
+    "semantic_favorite": "ياخشى كۆرگەن",
     "@semantic_favorite": {
         "description": "-> semantic_favorite"
     },
-    "semantic_added_to_favorites": "Added to favorites",
+    "semantic_added_to_favorites": "ياخشى كۆرگەنلەرگە قوشۇلدى",
     "@semantic_added_to_favorites": {
         "description": "-> semantic_added_to_favorites"
     },
-    "semantic_not_in_favorites": "Not in favorites",
+    "semantic_not_in_favorites": "ياخشى كۆرگەنلەردە يوق",
     "@semantic_not_in_favorites": {
         "description": "-> semantic_not_in_favorites"
     },
-    "semantic_for": "for",
-    "semantic_view_style": "View style",
-    "semantic_double_tap_to_change_view_style": "Double tap to change view style",
-    "semantic_share_dua": "Share dua",
-    "semantic_tasbih_settings": "Tasbih settings",
-    "semantic_tasbih_counter": "Tasbih counter",
-    "semantic_previous_dua": "Previous dua",
-    "semantic_next_dua": "Next dua",
-    "semantic_dua": "Dua",
-    "semantic_opens": "Opens",
-    "semantic_opens_language_selection": "Opens language selection",
-    "semantic_device": "Device",
-    "semantic_light": "Light",
-    "semantic_dark": "Dark",
-    "semantic_on": "On",
-    "semantic_off": "Off",
-    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "semantic_for": "ئۈچۈن",
+    "semantic_view_style": "كۆرۈنۈش ئۇسلۇبى",
+    "semantic_double_tap_to_change_view_style": "كۆرۈنۈش ئۇسلۇبىنى ئۆزگەرتىش ئۈچۈن قوش چېكىڭ",
+    "semantic_share_dua": "دۇئا ھەمبەھىرلەش",
+    "semantic_tasbih_settings": "تەسبىھ تەڭشەكلىرى",
+    "semantic_tasbih_counter": "تەسبىھ سانىغۇچ",
+    "semantic_previous_dua": "ئالدىنقى دۇئا",
+    "semantic_next_dua": "كېيىنكى دۇئا",
+    "semantic_dua": "دۇئا",
+    "semantic_opens": "ئاچىدۇ",
+    "semantic_opens_language_selection": "تىل تاللاشنى ئاچىدۇ",
+    "semantic_device": "ئۈسكۈنە",
+    "semantic_light": "يورۇق",
+    "semantic_dark": "قاراڭغۇ",
+    "semantic_on": "قوزغىتىلغان",
+    "semantic_off": "ئۆچۈرۈلگەن",
+    "semantic_ayah_list_actions": "خەتكۈچنى ئۆچۈرۈش",
     "remove_bookmark": "Remove bookmark",
     "add_bookmark": "Add bookmark"
 }

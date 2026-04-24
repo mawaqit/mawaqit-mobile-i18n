@@ -1355,210 +1355,210 @@
     },
     "tap_change_notification": "Tap to change notification",
     "adhan_at": "Adhan vid",
-    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
-    "semantic_open_notifications": "Open notifications",
-    "semantic_tap_to_change_notification": "Tap to change notification settings",
-    "semantic_edit_mosques": "Open to edit your mosques",
-    "semantic_change_layout": "Change home layout",
-    "semantic_open_layout_menu": "open layout menu",
-    "semantic_edit_home_settings": "Edit home settings",
-    "semantic_list_layout": "List layout",
-    "semantic_grid_layout": "Grid layout",
+    "semantic_mawaqit_notification": "Olästa notifikationer från MAWAQIT",
+    "semantic_open_notifications": "Öppna notifikationer",
+    "semantic_tap_to_change_notification": "Tryck för att ändra notifikationsinställningar",
+    "semantic_edit_mosques": "Öppna för att redigera dina moskéer",
+    "semantic_change_layout": "Ändra hemsidans layout",
+    "semantic_open_layout_menu": "Öppna layoutmeny",
+    "semantic_edit_home_settings": "Redigera hemsidans inställningar",
+    "semantic_list_layout": "Listvy",
+    "semantic_grid_layout": "Rutnätsvy",
     "sematnic_360_clock_layout": "360 clock layout",
-    "semantic_layout_menu_open": "Layout menu open",
+    "semantic_layout_menu_open": "Layoutmeny öppen",
     "close": "Close",
-    "semantic_mosque_page": "Mosque page",
-    "semantic_of": "of",
-    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
+    "semantic_mosque_page": "Moskésida",
+    "semantic_of": "av",
+    "semantic_unread_mawaqit_notifications": "Olästa MAWAQIT-notifikationer",
     "back": "Back",
-    "semantic_download_all_surahs_for_offline_listening": "Download all surahs for offline listening",
+    "semantic_download_all_surahs_for_offline_listening": "Ladda ner alla suror för offline-lyssning",
     "@semantic_download_all_surahs_for_offline_listening": {
         "description": "-> semantic_download_all_surahs_for_offline_listening"
     },
-    "semantic_download_all_surahs": "Download all surahs",
+    "semantic_download_all_surahs": "Ladda ner alla suror",
     "@semantic_download_all_surahs": {
         "description": "-> semantic_download_all_surahs"
     },
-    "semantic_bulk_download_progress": "Bulk download progress",
+    "semantic_bulk_download_progress": "Nedladdningsförlopp",
     "@semantic_bulk_download_progress": {
         "description": "-> semantic_bulk_download_progress"
     },
-    "semantic_surahs_downloaded": "surahs downloaded",
+    "semantic_surahs_downloaded": "suror nedladdade",
     "@semantic_surahs_downloaded": {
         "description": "-> semantic_surahs_downloaded"
     },
-    "semantic_cancel_download_all_surahs": "Cancel download all surahs",
+    "semantic_cancel_download_all_surahs": "Avbryt nedladdning av alla suror",
     "@semantic_cancel_download_all_surahs": {
         "description": "-> semantic_cancel_download_all_surahs"
     },
-    "semantic_bulk_download_in_progress": "Bulk download in progress.",
+    "semantic_bulk_download_in_progress": "Nedladdning pågår.",
     "@semantic_bulk_download_in_progress": {
         "description": "-> "
     },
-    "semantic_replay_current_surah": "Replay current surah",
+    "semantic_replay_current_surah": "Spela om aktuell sura",
     "@semantic_replay_current_surah": {
         "description": "-> semantic_replay_current_surah"
     },
-    "semantic_pause_current_surah": "Pause current surah",
+    "semantic_pause_current_surah": "Pausa aktuell sura",
     "@semantic_pause_current_surah": {
         "description": "-> semantic_pause_current_surah"
     },
-    "semantic_play_current_surah": "Play current surah",
+    "semantic_play_current_surah": "Spela aktuell sura",
     "@semantic_play_current_surah": {
         "description": "-> semantic_play_current_surah"
     },
-    "semantic_open_play_on_watch_options_for": "Open play on watch options for",
+    "semantic_open_play_on_watch_options_for": "Öppna uppspelningsalternativ på klocka för",
     "@semantic_open_play_on_watch_options_for": {
         "description": "-> semantic_open_play_on_watch_options_for"
     },
-    "semantic_now_playing_surah": "Now playing. Surah",
+    "semantic_now_playing_surah": "Spelas nu. Sura",
     "@semantic_now_playing_surah": {
         "description": "-> semantic_now_playing_surah"
     },
-    "semantic_recited_by": "Recited by",
+    "semantic_recited_by": "Reciterad av",
     "@semantic_recited_by": {
         "description": "-> semantic_recited_by"
     },
-    "semantic_minimize_player": "Minimize player",
+    "semantic_minimize_player": "Minimera spelare",
     "@semantic_minimize_player": {
         "description": "-> semantic_minimize_player"
     },
-    "semantic_elapsed": "Elapsed",
+    "semantic_elapsed": "Förfluten",
     "@semantic_elapsed": {
         "description": "-> "
     },
-    "semantic_playback_time_elapsed": "Playback time. Elapsed",
+    "semantic_playback_time_elapsed": "Uppspelningstid. Förfluten",
     "@semantic_playback_time_elapsed": {
         "description": "-> semantic_playback_time_elapsed"
     },
-    "semantic_remaining": "Remaining",
+    "semantic_remaining": "Återstående",
     "@semantic_remaining": {
         "description": "-> semantic_remaining"
     },
-    "semantic_turn_shuffle_off": "Turn shuffle off",
+    "semantic_turn_shuffle_off": "Stäng av slumpvis uppspelning",
     "@semantic_turn_shuffle_off": {
         "description": "-> semantic_turn_shuffle_off"
     },
-    "semantic_turn_shuffle_on": "Turn shuffle on",
+    "semantic_turn_shuffle_on": "Slå på slumpvis uppspelning",
     "@semantic_turn_shuffle_on": {
         "description": "-> semantic_turn_shuffle_on"
     },
-    "semantic_previous_surah": "Previous surah",
+    "semantic_previous_surah": "Föregående sura",
     "@semantic_previous_surah": {
         "description": "-> semantic_previous_surah"
     },
-    "semantic_next_surah": "Next surah",
+    "semantic_next_surah": "Nästa sura",
     "@semantic_next_surah": {
         "description": "-> semantic_next_surah"
     },
-    "semantic_turn_repeat_current_surah_off": "Turn repeat current surah off",
+    "semantic_turn_repeat_current_surah_off": "Stäng av upprepning av aktuell sura",
     "@semantic_turn_repeat_current_surah_off": {
         "description": "-> semantic_turn_repeat_current_surah_off"
     },
-    "semantic_turn_repeat_current_surah_on": "Turn repeat current surah on",
+    "semantic_turn_repeat_current_surah_on": "Slå på upprepning av aktuell sura",
     "@semantic_turn_repeat_current_surah_on": {
         "description": "-> semantic_turn_repeat_current_surah_on"
     },
-    "semantic_pause": "Pause",
+    "semantic_pause": "Pausa",
     "@semantic_pause": {
         "description": "-> semantic_pause"
     },
-    "semantic_use_current_location": "Use current location",
-    "semantic_collapse_mosque_list": "Collapse mosque list",
-    "semantic_expand_mosque_list": "Expand mosque list",
+    "semantic_use_current_location": "Använd nuvarande plats",
+    "semantic_collapse_mosque_list": "Fäll ihop moskélistan",
+    "semantic_expand_mosque_list": "Expandera moskélistan",
     "added": "Added",
     "not_added": "Not added",
-    "semantic_navigate_to_mosque": "Navigate to mosque",
-    "semantic_decrease_pre_notification": "Decrease pre-notification time",
-    "semantic_increase_pre_notification": "Increase pre-notification time",
-    "semantic_facing_qibla": "You are facing the Qibla",
-    "semantic_clockwise": "Clockwise",
+    "semantic_navigate_to_mosque": "Expandera moskélistan",
+    "semantic_decrease_pre_notification": "Minska förvarningstid",
+    "semantic_increase_pre_notification": "Öka förvarningstid",
+    "semantic_facing_qibla": "Du är vänd mot Qibla",
+    "semantic_clockwise": "Medurs",
     "sematnic_counter_clockwise": "counter-clockwise",
-    "semantic_rotate_slightly": "Almost there. Rotate slightly",
+    "semantic_rotate_slightly": "Nästan klart. Vrid lite",
     "semanitc_degrees_to_qibla": "degrees to Qibla",
     "about": "about",
     "rotate": "Rotate",
-    "semantic_close_audio_player": "Close audio player",
+    "semantic_close_audio_player": "Stäng ljudspelare",
     "reciter_settings": "Reciter settings",
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
     "increase": "Increases",
     "quran_settings": "Quran settings",
-    "semantic_mushaf_view": "Mushaf view",
-    "semantic_verse_list_view": "Verse list view",
+    "semantic_mushaf_view": "Mushaf-vy",
+    "semantic_verse_list_view": "Verslista-vy",
     "not_downloaded": "Not downloaded",
     "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
-    "semantic_decrease_hijri_adjustment": "Decrease Hijri adjustment",
+    "semantic_switch_verse_list": "Mushaf-sida. Byt till verslista-vy för full tillgänglighet.",
+    "semantic_decrease_hijri_adjustment": "Minska Hijri-justering",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
-    "semantic_minimum_adjustment_reached": "Minimum adjustment reached",
+    "semantic_minimum_adjustment_reached": "Minsta justering uppnådd",
     "@semantic_minimum_adjustment_reached": {
         "description": "-> semantic_minimum_adjustment_reached"
     },
-    "semantic_current_adjustment": "Current adjustment",
+    "semantic_current_adjustment": "Nuvarande justering",
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "Increase Hijri adjustment",
+    "semantic_increase_hijri_adjustment": "Öka Hijri-justering",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
-    "semantic_maximum_adjustment_reached": "Maximum adjustment reached",
+    "semantic_maximum_adjustment_reached": "Största justering uppnådd",
     "@semantic_maximum_adjustment_reached": {
         "description": "-> semantic_maximum_adjustment_reached"
     },
-    "semantic_minimum_size_reached": "Minimum size reached",
+    "semantic_minimum_size_reached": "Minsta storlek uppnådd",
     "@semantic_minimum_size_reached": {
         "description": "-> semantic_minimum_size_reached"
     },
-    "semantic_decrease": "Decrease",
+    "semantic_decrease": "Minska",
     "@semantic_decrease": {
         "description": "-> semantic_decrease"
     },
-    "semantic_current_size": "Current size",
+    "semantic_current_size": "Nuvarande storlek",
     "@semantic_current_size": {
         "description": "-> semantic_current_size"
     },
-    "semantic_increase": "Increase",
+    "semantic_increase": "Öka",
     "@semantic_increase": {
         "description": "-> semantic_increase"
     },
-    "semantic_maximum_size_reached": "Maximum size reached",
+    "semantic_maximum_size_reached": "Största storlek uppnådd",
     "@semantic_maximum_size_reached": {
         "description": "-> semantic_maximum_size_reached"
     },
-    "semantic_favorite": "Favorite",
+    "semantic_favorite": "Öka Hijri-justering",
     "@semantic_favorite": {
         "description": "-> semantic_favorite"
     },
-    "semantic_added_to_favorites": "Added to favorites",
+    "semantic_added_to_favorites": "Tillagd i favoriter",
     "@semantic_added_to_favorites": {
         "description": "-> semantic_added_to_favorites"
     },
-    "semantic_not_in_favorites": "Not in favorites",
+    "semantic_not_in_favorites": "Inte i favoriter",
     "@semantic_not_in_favorites": {
         "description": "-> semantic_not_in_favorites"
     },
-    "semantic_for": "for",
-    "semantic_view_style": "View style",
-    "semantic_double_tap_to_change_view_style": "Double tap to change view style",
-    "semantic_share_dua": "Share dua",
-    "semantic_tasbih_settings": "Tasbih settings",
-    "semantic_tasbih_counter": "Tasbih counter",
-    "semantic_previous_dua": "Previous dua",
-    "semantic_next_dua": "Next dua",
+    "semantic_for": "för",
+    "semantic_view_style": "Visningsstil",
+    "semantic_double_tap_to_change_view_style": "Dubbeltryck för att ändra visningsstil",
+    "semantic_share_dua": "Dela dua",
+    "semantic_tasbih_settings": "Tasbih-inställningar",
+    "semantic_tasbih_counter": "Tasbih-räknare",
+    "semantic_previous_dua": "Föregående dua",
+    "semantic_next_dua": "Nästa dua",
     "semantic_dua": "Dua",
-    "semantic_opens": "Opens",
-    "semantic_opens_language_selection": "Opens language selection",
-    "semantic_device": "Device",
-    "semantic_light": "Light",
-    "semantic_dark": "Dark",
-    "semantic_on": "On",
-    "semantic_off": "Off",
-    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "semantic_opens": "Öppnar",
+    "semantic_opens_language_selection": "Öppnar språkväljare",
+    "semantic_device": "Enhet",
+    "semantic_light": "Ljust",
+    "semantic_dark": "Mörkt",
+    "semantic_on": "På",
+    "semantic_off": "Av",
+    "semantic_ayah_list_actions": "Navigera till moské",
     "remove_bookmark": "Remove bookmark",
     "add_bookmark": "Add bookmark"
 }

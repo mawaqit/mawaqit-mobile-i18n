@@ -2211,7 +2211,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get sematnic_360_clock_layout => '360-Uhrlayout';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'Layout-Menü geöffnet';
 
   @override
   String get close => 'Schließen';
@@ -2481,8 +2481,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get semantic_off => 'Aus';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Wischen Sie nach oben oder unten für Versaktionen: Abspielen, Tafsir, Teilen, Lesezeichen';
+  String get semantic_ayah_list_actions => 'Lesezeichen entfernen';
 
   @override
   String get remove_bookmark => 'Lesezeichen entfernen';

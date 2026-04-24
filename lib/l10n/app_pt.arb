@@ -1355,21 +1355,21 @@
     },
     "tap_change_notification": "Tap to change notification",
     "adhan_at": "Adhan às",
-    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
-    "semantic_open_notifications": "Open notifications",
-    "semantic_tap_to_change_notification": "Tap to change notification settings",
-    "semantic_edit_mosques": "Open to edit your mosques",
-    "semantic_change_layout": "Change home layout",
-    "semantic_open_layout_menu": "open layout menu",
-    "semantic_edit_home_settings": "Edit home settings",
-    "semantic_list_layout": "List layout",
-    "semantic_grid_layout": "Grid layout",
+    "semantic_mawaqit_notification": "Notificações não lidas da MAWAQIT",
+    "semantic_open_notifications": "Abrir notificações",
+    "semantic_tap_to_change_notification": "Toque para alterar as definições de notificações",
+    "semantic_edit_mosques": "Abrir para editar as suas mesquitas",
+    "semantic_change_layout": "Alterar disposição da página inicial",
+    "semantic_open_layout_menu": "Abrir menu de disposição",
+    "semantic_edit_home_settings": "Editar definições da página inicial",
+    "semantic_list_layout": "Disposição em lista",
+    "semantic_grid_layout": "Disposição em grelha",
     "sematnic_360_clock_layout": "360 clock layout",
-    "semantic_layout_menu_open": "Layout menu open",
+    "semantic_layout_menu_open": "Menu de disposição aberto",
     "close": "Close",
-    "semantic_mosque_page": "Mosque page",
-    "semantic_of": "of",
-    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
+    "semantic_mosque_page": "Página da mesquita",
+    "semantic_of": "de",
+    "semantic_unread_mawaqit_notifications": "Notificações MAWAQIT não lidas",
     "back": "Back",
     "semantic_download_all_surahs_for_offline_listening": "Baixe todas as suratas para ouvir offline",
     "@semantic_download_all_surahs_for_offline_listening": {
@@ -1443,122 +1443,122 @@
     "@semantic_turn_shuffle_on": {
         "description": "-> semantic_turn_shuffle_on"
     },
-    "semantic_previous_surah": "Previous surah",
+    "semantic_previous_surah": "Surata anterior",
     "@semantic_previous_surah": {
         "description": "-> semantic_previous_surah"
     },
-    "semantic_next_surah": "Next surah",
+    "semantic_next_surah": "Surata seguinte",
     "@semantic_next_surah": {
         "description": "-> semantic_next_surah"
     },
-    "semantic_turn_repeat_current_surah_off": "Turn repeat current surah off",
+    "semantic_turn_repeat_current_surah_off": "Desativar repetição da surata atual",
     "@semantic_turn_repeat_current_surah_off": {
         "description": "-> semantic_turn_repeat_current_surah_off"
     },
-    "semantic_turn_repeat_current_surah_on": "Turn repeat current surah on",
+    "semantic_turn_repeat_current_surah_on": "Ativar repetição da surata atual",
     "@semantic_turn_repeat_current_surah_on": {
         "description": "-> semantic_turn_repeat_current_surah_on"
     },
-    "semantic_pause": "Pause",
+    "semantic_pause": "Pausar",
     "@semantic_pause": {
         "description": "-> semantic_pause"
     },
-    "semantic_use_current_location": "Use current location",
-    "semantic_collapse_mosque_list": "Collapse mosque list",
-    "semantic_expand_mosque_list": "Expand mosque list",
+    "semantic_use_current_location": "Usar localização atual",
+    "semantic_collapse_mosque_list": "Recolher lista de mesquitas",
+    "semantic_expand_mosque_list": "Expandir lista de mesquitas",
     "added": "Added",
     "not_added": "Not added",
-    "semantic_navigate_to_mosque": "Navigate to mosque",
-    "semantic_decrease_pre_notification": "Decrease pre-notification time",
-    "semantic_increase_pre_notification": "Increase pre-notification time",
-    "semantic_facing_qibla": "You are facing the Qibla",
-    "semantic_clockwise": "Clockwise",
+    "semantic_navigate_to_mosque": "Navegar para a mesquita",
+    "semantic_decrease_pre_notification": "Diminuir tempo de pré-notificação",
+    "semantic_increase_pre_notification": "Aumentar tempo de pré-notificação",
+    "semantic_facing_qibla": "Está virado para a Qibla",
+    "semantic_clockwise": "No sentido horário",
     "sematnic_counter_clockwise": "counter-clockwise",
-    "semantic_rotate_slightly": "Almost there. Rotate slightly",
+    "semantic_rotate_slightly": "Quase lá. Rode ligeiramente",
     "semanitc_degrees_to_qibla": "degrees to Qibla",
     "about": "about",
     "rotate": "Rotate",
-    "semantic_close_audio_player": "Close audio player",
+    "semantic_close_audio_player": "Fechar leitor de áudio",
     "reciter_settings": "Reciter settings",
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
     "increase": "Increases",
     "quran_settings": "Quran settings",
-    "semantic_mushaf_view": "Mushaf view",
-    "semantic_verse_list_view": "Verse list view",
+    "semantic_mushaf_view": "Vista do Mushaf",
+    "semantic_verse_list_view": "Vista da lista de versículos",
     "not_downloaded": "Not downloaded",
     "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
-    "semantic_decrease_hijri_adjustment": "Decrease Hijri adjustment",
+    "semantic_switch_verse_list": "Página do Mushaf. Mude para a vista da lista de versículos para total acessibilidade.",
+    "semantic_decrease_hijri_adjustment": "Diminuir ajuste do calendário Hijri",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
-    "semantic_minimum_adjustment_reached": "Minimum adjustment reached",
+    "semantic_minimum_adjustment_reached": "Ajuste mínimo atingido",
     "@semantic_minimum_adjustment_reached": {
         "description": "-> semantic_minimum_adjustment_reached"
     },
-    "semantic_current_adjustment": "Current adjustment",
+    "semantic_current_adjustment": "Ajuste atual",
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "Increase Hijri adjustment",
+    "semantic_increase_hijri_adjustment": "Aumentar ajuste do calendário Hijri",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
-    "semantic_maximum_adjustment_reached": "Maximum adjustment reached",
+    "semantic_maximum_adjustment_reached": "Ajuste máximo atingido",
     "@semantic_maximum_adjustment_reached": {
         "description": "-> semantic_maximum_adjustment_reached"
     },
-    "semantic_minimum_size_reached": "Minimum size reached",
+    "semantic_minimum_size_reached": "Tamanho mínimo atingido",
     "@semantic_minimum_size_reached": {
         "description": "-> semantic_minimum_size_reached"
     },
-    "semantic_decrease": "Decrease",
+    "semantic_decrease": "Diminuir",
     "@semantic_decrease": {
         "description": "-> semantic_decrease"
     },
-    "semantic_current_size": "Current size",
+    "semantic_current_size": "Tamanho atual",
     "@semantic_current_size": {
         "description": "-> semantic_current_size"
     },
-    "semantic_increase": "Increase",
+    "semantic_increase": "Aumentar",
     "@semantic_increase": {
         "description": "-> semantic_increase"
     },
-    "semantic_maximum_size_reached": "Maximum size reached",
+    "semantic_maximum_size_reached": "Tamanho máximo atingido",
     "@semantic_maximum_size_reached": {
         "description": "-> semantic_maximum_size_reached"
     },
-    "semantic_favorite": "Favorite",
+    "semantic_favorite": "Favorito",
     "@semantic_favorite": {
         "description": "-> semantic_favorite"
     },
-    "semantic_added_to_favorites": "Added to favorites",
+    "semantic_added_to_favorites": "Adicionado aos favoritos",
     "@semantic_added_to_favorites": {
         "description": "-> semantic_added_to_favorites"
     },
-    "semantic_not_in_favorites": "Not in favorites",
+    "semantic_not_in_favorites": "Não está nos favoritos",
     "@semantic_not_in_favorites": {
         "description": "-> semantic_not_in_favorites"
     },
-    "semantic_for": "for",
-    "semantic_view_style": "View style",
-    "semantic_double_tap_to_change_view_style": "Double tap to change view style",
-    "semantic_share_dua": "Share dua",
-    "semantic_tasbih_settings": "Tasbih settings",
-    "semantic_tasbih_counter": "Tasbih counter",
-    "semantic_previous_dua": "Previous dua",
-    "semantic_next_dua": "Next dua",
-    "semantic_dua": "Dua",
-    "semantic_opens": "Opens",
-    "semantic_opens_language_selection": "Opens language selection",
-    "semantic_device": "Device",
-    "semantic_light": "Light",
-    "semantic_dark": "Dark",
-    "semantic_on": "On",
-    "semantic_off": "Off",
-    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "semantic_for": "para",
+    "semantic_view_style": "Estilo de visualização",
+    "semantic_double_tap_to_change_view_style": "Toque duas vezes para alterar o estilo de visualização",
+    "semantic_share_dua": "Partilhar dua",
+    "semantic_tasbih_settings": "Definições do tasbih",
+    "semantic_tasbih_counter": "Contador de tasbih",
+    "semantic_previous_dua": "Dua anterior",
+    "semantic_next_dua": "Próxima dua",
+    "semantic_dua": "Próxima dua",
+    "semantic_opens": "Abre",
+    "semantic_opens_language_selection": "Abre seleção de idioma",
+    "semantic_device": "Dispositivo",
+    "semantic_light": "Claro",
+    "semantic_dark": "Escuro",
+    "semantic_on": "Escuro",
+    "semantic_off": "Desligado",
+    "semantic_ayah_list_actions": "Remover marcador",
     "remove_bookmark": "Remove bookmark",
     "add_bookmark": "Add bookmark"
 }

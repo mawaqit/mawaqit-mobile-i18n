@@ -1355,21 +1355,21 @@
     },
     "tap_change_notification": "Tap to change notification",
     "adhan_at": "Adhánkor",
-    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
-    "semantic_open_notifications": "Open notifications",
-    "semantic_tap_to_change_notification": "Tap to change notification settings",
-    "semantic_edit_mosques": "Open to edit your mosques",
-    "semantic_change_layout": "Change home layout",
-    "semantic_open_layout_menu": "open layout menu",
-    "semantic_edit_home_settings": "Edit home settings",
-    "semantic_list_layout": "List layout",
-    "semantic_grid_layout": "Grid layout",
+    "semantic_mawaqit_notification": "Olvasatlan értesítések a MAWAQIT-tól",
+    "semantic_open_notifications": "Értesítések megnyitása",
+    "semantic_tap_to_change_notification": "Koppints az értesítési beállítások módosításához",
+    "semantic_edit_mosques": "Nyisd meg a mecseteid szerkesztéséhez",
+    "semantic_change_layout": "Főoldal elrendezésének módosítása",
+    "semantic_open_layout_menu": "Elrendezés menü megnyitása",
+    "semantic_edit_home_settings": "Főoldal beállításainak szerkesztése",
+    "semantic_list_layout": "Lista elrendezés",
+    "semantic_grid_layout": "Rács elrendezés",
     "sematnic_360_clock_layout": "360 clock layout",
-    "semantic_layout_menu_open": "Layout menu open",
+    "semantic_layout_menu_open": "Elrendezés menü nyitva",
     "close": "Close",
-    "semantic_mosque_page": "Mosque page",
-    "semantic_of": "of",
-    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
+    "semantic_mosque_page": "Mecset oldal",
+    "semantic_of": "-ból",
+    "semantic_unread_mawaqit_notifications": "Olvasatlan MAWAQIT értesítések",
     "back": "Back",
     "semantic_download_all_surahs_for_offline_listening": "Töltsd le az összes szúrát offline hallgatáshoz",
     "@semantic_download_all_surahs_for_offline_listening": {
@@ -1443,122 +1443,122 @@
     "@semantic_turn_shuffle_on": {
         "description": "-> semantic_turn_shuffle_on"
     },
-    "semantic_previous_surah": "Previous surah",
+    "semantic_previous_surah": "Előző szúra",
     "@semantic_previous_surah": {
         "description": "-> semantic_previous_surah"
     },
-    "semantic_next_surah": "Next surah",
+    "semantic_next_surah": "Következő szúra",
     "@semantic_next_surah": {
         "description": "-> semantic_next_surah"
     },
-    "semantic_turn_repeat_current_surah_off": "Turn repeat current surah off",
+    "semantic_turn_repeat_current_surah_off": "Jelenlegi szúra ismétlésének kikapcsolása",
     "@semantic_turn_repeat_current_surah_off": {
         "description": "-> semantic_turn_repeat_current_surah_off"
     },
-    "semantic_turn_repeat_current_surah_on": "Turn repeat current surah on",
+    "semantic_turn_repeat_current_surah_on": "Jelenlegi szúra ismétlésének bekapcsolása",
     "@semantic_turn_repeat_current_surah_on": {
         "description": "-> semantic_turn_repeat_current_surah_on"
     },
-    "semantic_pause": "Pause",
+    "semantic_pause": "Szünet",
     "@semantic_pause": {
         "description": "-> semantic_pause"
     },
-    "semantic_use_current_location": "Use current location",
-    "semantic_collapse_mosque_list": "Collapse mosque list",
-    "semantic_expand_mosque_list": "Expand mosque list",
+    "semantic_use_current_location": "Jelenlegi hely használata",
+    "semantic_collapse_mosque_list": "Mecsetlista összecsukása",
+    "semantic_expand_mosque_list": "Mecsetlista kibontása",
     "added": "Added",
     "not_added": "Not added",
-    "semantic_navigate_to_mosque": "Navigate to mosque",
-    "semantic_decrease_pre_notification": "Decrease pre-notification time",
-    "semantic_increase_pre_notification": "Increase pre-notification time",
-    "semantic_facing_qibla": "You are facing the Qibla",
-    "semantic_clockwise": "Clockwise",
+    "semantic_navigate_to_mosque": "Navigálás a mecsethez",
+    "semantic_decrease_pre_notification": "Előértesítés idejének csökkentése",
+    "semantic_increase_pre_notification": "Előértesítés idejének növelése",
+    "semantic_facing_qibla": "A Kába felé fordulsz",
+    "semantic_clockwise": "Óramutató járásával megegyezően",
     "sematnic_counter_clockwise": "counter-clockwise",
-    "semantic_rotate_slightly": "Almost there. Rotate slightly",
+    "semantic_rotate_slightly": "Majdnem kész. Forgasd kicsit",
     "semanitc_degrees_to_qibla": "degrees to Qibla",
     "about": "about",
     "rotate": "Rotate",
-    "semantic_close_audio_player": "Close audio player",
+    "semantic_close_audio_player": "Hang lejátszó bezárása",
     "reciter_settings": "Reciter settings",
     "previous_verse": "Previous verse",
     "next_verse": "Next verse",
     "decrease": "Decrease",
     "increase": "Increases",
     "quran_settings": "Quran settings",
-    "semantic_mushaf_view": "Mushaf view",
-    "semantic_verse_list_view": "Verse list view",
+    "semantic_mushaf_view": "Mushaf nézet",
+    "semantic_verse_list_view": "Versek listája nézet",
     "not_downloaded": "Not downloaded",
     "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
-    "semantic_decrease_hijri_adjustment": "Decrease Hijri adjustment",
+    "semantic_switch_verse_list": "Mushaf oldal. Váltson a versek listája nézetre a teljes akadálymentességhez.",
+    "semantic_decrease_hijri_adjustment": "Hidzsra naptár módosítás csökkentése",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
-    "semantic_minimum_adjustment_reached": "Minimum adjustment reached",
+    "semantic_minimum_adjustment_reached": "Elérte a minimum beállítást",
     "@semantic_minimum_adjustment_reached": {
         "description": "-> semantic_minimum_adjustment_reached"
     },
-    "semantic_current_adjustment": "Current adjustment",
+    "semantic_current_adjustment": "Jelenlegi beállítás",
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "Increase Hijri adjustment",
+    "semantic_increase_hijri_adjustment": "Hidzsra naptár módosítás növelése",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
-    "semantic_maximum_adjustment_reached": "Maximum adjustment reached",
+    "semantic_maximum_adjustment_reached": "Elérte a maximum beállítást",
     "@semantic_maximum_adjustment_reached": {
         "description": "-> semantic_maximum_adjustment_reached"
     },
-    "semantic_minimum_size_reached": "Minimum size reached",
+    "semantic_minimum_size_reached": "Minimális méret elérve",
     "@semantic_minimum_size_reached": {
         "description": "-> semantic_minimum_size_reached"
     },
-    "semantic_decrease": "Decrease",
+    "semantic_decrease": "Csökkentés",
     "@semantic_decrease": {
         "description": "-> semantic_decrease"
     },
-    "semantic_current_size": "Current size",
+    "semantic_current_size": "Jelenlegi méret",
     "@semantic_current_size": {
         "description": "-> semantic_current_size"
     },
-    "semantic_increase": "Increase",
+    "semantic_increase": "Növelés",
     "@semantic_increase": {
         "description": "-> semantic_increase"
     },
-    "semantic_maximum_size_reached": "Maximum size reached",
+    "semantic_maximum_size_reached": "Maximális méret elérve",
     "@semantic_maximum_size_reached": {
         "description": "-> semantic_maximum_size_reached"
     },
-    "semantic_favorite": "Favorite",
+    "semantic_favorite": "Kedvenc",
     "@semantic_favorite": {
         "description": "-> semantic_favorite"
     },
-    "semantic_added_to_favorites": "Added to favorites",
+    "semantic_added_to_favorites": "Hozzáadva a kedvencekhez",
     "@semantic_added_to_favorites": {
         "description": "-> semantic_added_to_favorites"
     },
-    "semantic_not_in_favorites": "Not in favorites",
+    "semantic_not_in_favorites": "Nincs a kedvencek között",
     "@semantic_not_in_favorites": {
         "description": "-> semantic_not_in_favorites"
     },
-    "semantic_for": "for",
-    "semantic_view_style": "View style",
-    "semantic_double_tap_to_change_view_style": "Double tap to change view style",
-    "semantic_share_dua": "Share dua",
-    "semantic_tasbih_settings": "Tasbih settings",
-    "semantic_tasbih_counter": "Tasbih counter",
-    "semantic_previous_dua": "Previous dua",
-    "semantic_next_dua": "Next dua",
+    "semantic_for": "-nak/-nek",
+    "semantic_view_style": "Nézet stílus",
+    "semantic_double_tap_to_change_view_style": "Koppints duplán a nézet stílus módosításához",
+    "semantic_share_dua": "Dua megosztása",
+    "semantic_tasbih_settings": "Tasbih beállítások",
+    "semantic_tasbih_counter": "Tasbih számláló",
+    "semantic_previous_dua": "Előző dua",
+    "semantic_next_dua": "Következő dua",
     "semantic_dua": "Dua",
-    "semantic_opens": "Opens",
-    "semantic_opens_language_selection": "Opens language selection",
-    "semantic_device": "Device",
-    "semantic_light": "Light",
-    "semantic_dark": "Dark",
-    "semantic_on": "On",
-    "semantic_off": "Off",
-    "semantic_ayah_list_actions": "Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark",
+    "semantic_opens": "Megnyitja",
+    "semantic_opens_language_selection": "Megnyitja a nyelvválasztást",
+    "semantic_device": "Eszköz",
+    "semantic_light": "Világos",
+    "semantic_dark": "Világos",
+    "semantic_on": "Be",
+    "semantic_off": "Ki",
+    "semantic_ayah_list_actions": "Könyvjelző eltávolítása",
     "remove_bookmark": "Remove bookmark",
     "add_bookmark": "Add bookmark"
 }
