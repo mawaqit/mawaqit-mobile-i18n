@@ -2162,51 +2162,52 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get semantic_mawaqit_notification =>
-      'unread notifications from MAWAQIT';
+      'Olvasatlan értesítések a MAWAQIT-tól';
 
   @override
-  String get semantic_open_notifications => 'Open notifications';
+  String get semantic_open_notifications => 'Értesítések megnyitása';
 
   @override
   String get semantic_tap_to_change_notification =>
-      'Tap to change notification settings';
+      'Koppints az értesítési beállítások módosításához';
 
   @override
-  String get semantic_edit_mosques => 'Open to edit your mosques';
+  String get semantic_edit_mosques => 'Nyisd meg a mecseteid szerkesztéséhez';
 
   @override
-  String get semantic_change_layout => 'Change home layout';
+  String get semantic_change_layout => 'Főoldal elrendezésének módosítása';
 
   @override
-  String get semantic_open_layout_menu => 'open layout menu';
+  String get semantic_open_layout_menu => 'Elrendezés menü megnyitása';
 
   @override
-  String get semantic_edit_home_settings => 'Edit home settings';
+  String get semantic_edit_home_settings =>
+      'Főoldal beállításainak szerkesztése';
 
   @override
-  String get semantic_list_layout => 'List layout';
+  String get semantic_list_layout => 'Lista elrendezés';
 
   @override
-  String get semantic_grid_layout => 'Grid layout';
+  String get semantic_grid_layout => 'Rács elrendezés';
 
   @override
   String get sematnic_360_clock_layout => '360 clock layout';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'Elrendezés menü nyitva';
 
   @override
   String get close => 'Close';
 
   @override
-  String get semantic_mosque_page => 'Mosque page';
+  String get semantic_mosque_page => 'Mecset oldal';
 
   @override
-  String get semantic_of => 'of';
+  String get semantic_of => '-ból';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'unread Mawaqit notifications';
+      'Olvasatlan MAWAQIT értesítések';
 
   @override
   String get back => 'Back';
@@ -2271,30 +2272,30 @@ class AppLocalizationsHu extends AppLocalizations {
   String get semantic_turn_shuffle_on => 'Véletlen lejátszás bekapcsolása';
 
   @override
-  String get semantic_previous_surah => 'Previous surah';
+  String get semantic_previous_surah => 'Előző szúra';
 
   @override
-  String get semantic_next_surah => 'Next surah';
+  String get semantic_next_surah => 'Következő szúra';
 
   @override
   String get semantic_turn_repeat_current_surah_off =>
-      'Turn repeat current surah off';
+      'Jelenlegi szúra ismétlésének kikapcsolása';
 
   @override
   String get semantic_turn_repeat_current_surah_on =>
-      'Turn repeat current surah on';
+      'Jelenlegi szúra ismétlésének bekapcsolása';
 
   @override
-  String get semantic_pause => 'Pause';
+  String get semantic_pause => 'Szünet';
 
   @override
-  String get semantic_use_current_location => 'Use current location';
+  String get semantic_use_current_location => 'Jelenlegi hely használata';
 
   @override
-  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+  String get semantic_collapse_mosque_list => 'Mecsetlista összecsukása';
 
   @override
-  String get semantic_expand_mosque_list => 'Expand mosque list';
+  String get semantic_expand_mosque_list => 'Mecsetlista kibontása';
 
   @override
   String get added => 'Added';
@@ -2303,27 +2304,27 @@ class AppLocalizationsHu extends AppLocalizations {
   String get not_added => 'Not added';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigate to mosque';
+  String get semantic_navigate_to_mosque => 'Navigálás a mecsethez';
 
   @override
   String get semantic_decrease_pre_notification =>
-      'Decrease pre-notification time';
+      'Előértesítés idejének csökkentése';
 
   @override
   String get semantic_increase_pre_notification =>
-      'Increase pre-notification time';
+      'Előértesítés idejének növelése';
 
   @override
-  String get semantic_facing_qibla => 'You are facing the Qibla';
+  String get semantic_facing_qibla => 'A Kába felé fordulsz';
 
   @override
-  String get semantic_clockwise => 'Clockwise';
+  String get semantic_clockwise => 'Óramutató járásával megegyezően';
 
   @override
   String get sematnic_counter_clockwise => 'counter-clockwise';
 
   @override
-  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+  String get semantic_rotate_slightly => 'Majdnem kész. Forgasd kicsit';
 
   @override
   String get semanitc_degrees_to_qibla => 'degrees to Qibla';
@@ -2335,7 +2336,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get rotate => 'Rotate';
 
   @override
-  String get semantic_close_audio_player => 'Close audio player';
+  String get semantic_close_audio_player => 'Hang lejátszó bezárása';
 
   @override
   String get reciter_settings => 'Reciter settings';
@@ -2356,10 +2357,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get quran_settings => 'Quran settings';
 
   @override
-  String get semantic_mushaf_view => 'Mushaf view';
+  String get semantic_mushaf_view => 'Mushaf nézet';
 
   @override
-  String get semantic_verse_list_view => 'Verse list view';
+  String get semantic_verse_list_view => 'Versek listája nézet';
 
   @override
   String get not_downloaded => 'Not downloaded';
@@ -2370,101 +2371,102 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get semantic_switch_verse_list =>
-      'Mushaf page. Switch to verse list view for full accessibility.';
+      'Mushaf oldal. Váltson a versek listája nézetre a teljes akadálymentességhez.';
 
   @override
-  String get semantic_decrease_hijri_adjustment => 'Decrease Hijri adjustment';
+  String get semantic_decrease_hijri_adjustment =>
+      'Hidzsra naptár módosítás csökkentése';
 
   @override
   String get semantic_minimum_adjustment_reached =>
-      'Minimum adjustment reached';
+      'Elérte a minimum beállítást';
 
   @override
-  String get semantic_current_adjustment => 'Current adjustment';
+  String get semantic_current_adjustment => 'Jelenlegi beállítás';
 
   @override
-  String get semantic_increase_hijri_adjustment => 'Increase Hijri adjustment';
+  String get semantic_increase_hijri_adjustment =>
+      'Hidzsra naptár módosítás növelése';
 
   @override
   String get semantic_maximum_adjustment_reached =>
-      'Maximum adjustment reached';
+      'Elérte a maximum beállítást';
 
   @override
-  String get semantic_minimum_size_reached => 'Minimum size reached';
+  String get semantic_minimum_size_reached => 'Minimális méret elérve';
 
   @override
-  String get semantic_decrease => 'Decrease';
+  String get semantic_decrease => 'Csökkentés';
 
   @override
-  String get semantic_current_size => 'Current size';
+  String get semantic_current_size => 'Jelenlegi méret';
 
   @override
-  String get semantic_increase => 'Increase';
+  String get semantic_increase => 'Növelés';
 
   @override
-  String get semantic_maximum_size_reached => 'Maximum size reached';
+  String get semantic_maximum_size_reached => 'Maximális méret elérve';
 
   @override
-  String get semantic_favorite => 'Favorite';
+  String get semantic_favorite => 'Kedvenc';
 
   @override
-  String get semantic_added_to_favorites => 'Added to favorites';
+  String get semantic_added_to_favorites => 'Hozzáadva a kedvencekhez';
 
   @override
-  String get semantic_not_in_favorites => 'Not in favorites';
+  String get semantic_not_in_favorites => 'Nincs a kedvencek között';
 
   @override
-  String get semantic_for => 'for';
+  String get semantic_for => '-nak/-nek';
 
   @override
-  String get semantic_view_style => 'View style';
+  String get semantic_view_style => 'Nézet stílus';
 
   @override
   String get semantic_double_tap_to_change_view_style =>
-      'Double tap to change view style';
+      'Koppints duplán a nézet stílus módosításához';
 
   @override
-  String get semantic_share_dua => 'Share dua';
+  String get semantic_share_dua => 'Dua megosztása';
 
   @override
-  String get semantic_tasbih_settings => 'Tasbih settings';
+  String get semantic_tasbih_settings => 'Tasbih beállítások';
 
   @override
-  String get semantic_tasbih_counter => 'Tasbih counter';
+  String get semantic_tasbih_counter => 'Tasbih számláló';
 
   @override
-  String get semantic_previous_dua => 'Previous dua';
+  String get semantic_previous_dua => 'Előző dua';
 
   @override
-  String get semantic_next_dua => 'Next dua';
+  String get semantic_next_dua => 'Következő dua';
 
   @override
   String get semantic_dua => 'Dua';
 
   @override
-  String get semantic_opens => 'Opens';
+  String get semantic_opens => 'Megnyitja';
 
   @override
-  String get semantic_opens_language_selection => 'Opens language selection';
+  String get semantic_opens_language_selection => 'Megnyitja a nyelvválasztást';
 
   @override
-  String get semantic_device => 'Device';
+  String get semantic_device => 'Eszköz';
 
   @override
-  String get semantic_light => 'Light';
+  String get semantic_light => 'Világos';
 
   @override
-  String get semantic_dark => 'Dark';
+  String get semantic_dark => 'Világos';
 
   @override
-  String get semantic_on => 'On';
+  String get semantic_on => 'Be';
 
   @override
-  String get semantic_off => 'Off';
+  String get semantic_off => 'Ki';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark';
+  String get semantic_ayah_list_actions => 'Könyvjelző eltávolítása';
 
   @override
   String get remove_bookmark => 'Remove bookmark';

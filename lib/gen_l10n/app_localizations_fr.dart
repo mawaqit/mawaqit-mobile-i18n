@@ -2489,8 +2489,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get semantic_off => 'Désactivé';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Faites glisser vers le haut ou le bas pour les actions du verset : Lire, Tafsir, Partager, Marquer';
+  String get semantic_ayah_list_actions => 'Remove bookmark';
 
   @override
   String get remove_bookmark => 'Supprimer le signet';

@@ -2153,137 +2153,137 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get semantic_mawaqit_notification =>
-      'unread notifications from MAWAQIT';
+      'Olästa notifikationer från MAWAQIT';
 
   @override
-  String get semantic_open_notifications => 'Open notifications';
+  String get semantic_open_notifications => 'Öppna notifikationer';
 
   @override
   String get semantic_tap_to_change_notification =>
-      'Tap to change notification settings';
+      'Tryck för att ändra notifikationsinställningar';
 
   @override
-  String get semantic_edit_mosques => 'Open to edit your mosques';
+  String get semantic_edit_mosques => 'Öppna för att redigera dina moskéer';
 
   @override
-  String get semantic_change_layout => 'Change home layout';
+  String get semantic_change_layout => 'Ändra hemsidans layout';
 
   @override
-  String get semantic_open_layout_menu => 'open layout menu';
+  String get semantic_open_layout_menu => 'Öppna layoutmeny';
 
   @override
-  String get semantic_edit_home_settings => 'Edit home settings';
+  String get semantic_edit_home_settings => 'Redigera hemsidans inställningar';
 
   @override
-  String get semantic_list_layout => 'List layout';
+  String get semantic_list_layout => 'Listvy';
 
   @override
-  String get semantic_grid_layout => 'Grid layout';
+  String get semantic_grid_layout => 'Rutnätsvy';
 
   @override
   String get sematnic_360_clock_layout => '360 clock layout';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'Layoutmeny öppen';
 
   @override
   String get close => 'Close';
 
   @override
-  String get semantic_mosque_page => 'Mosque page';
+  String get semantic_mosque_page => 'Moskésida';
 
   @override
-  String get semantic_of => 'of';
+  String get semantic_of => 'av';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'unread Mawaqit notifications';
+      'Olästa MAWAQIT-notifikationer';
 
   @override
   String get back => 'Back';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
-      'Download all surahs for offline listening';
+      'Ladda ner alla suror för offline-lyssning';
 
   @override
-  String get semantic_download_all_surahs => 'Download all surahs';
+  String get semantic_download_all_surahs => 'Ladda ner alla suror';
 
   @override
-  String get semantic_bulk_download_progress => 'Bulk download progress';
+  String get semantic_bulk_download_progress => 'Nedladdningsförlopp';
 
   @override
-  String get semantic_surahs_downloaded => 'surahs downloaded';
+  String get semantic_surahs_downloaded => 'suror nedladdade';
 
   @override
   String get semantic_cancel_download_all_surahs =>
-      'Cancel download all surahs';
+      'Avbryt nedladdning av alla suror';
 
   @override
-  String get semantic_bulk_download_in_progress => 'Bulk download in progress.';
+  String get semantic_bulk_download_in_progress => 'Nedladdning pågår.';
 
   @override
-  String get semantic_replay_current_surah => 'Replay current surah';
+  String get semantic_replay_current_surah => 'Spela om aktuell sura';
 
   @override
-  String get semantic_pause_current_surah => 'Pause current surah';
+  String get semantic_pause_current_surah => 'Pausa aktuell sura';
 
   @override
-  String get semantic_play_current_surah => 'Play current surah';
+  String get semantic_play_current_surah => 'Spela aktuell sura';
 
   @override
   String get semantic_open_play_on_watch_options_for =>
-      'Open play on watch options for';
+      'Öppna uppspelningsalternativ på klocka för';
 
   @override
-  String get semantic_now_playing_surah => 'Now playing. Surah';
+  String get semantic_now_playing_surah => 'Spelas nu. Sura';
 
   @override
-  String get semantic_recited_by => 'Recited by';
+  String get semantic_recited_by => 'Reciterad av';
 
   @override
-  String get semantic_minimize_player => 'Minimize player';
+  String get semantic_minimize_player => 'Minimera spelare';
 
   @override
-  String get semantic_elapsed => 'Elapsed';
+  String get semantic_elapsed => 'Förfluten';
 
   @override
-  String get semantic_playback_time_elapsed => 'Playback time. Elapsed';
+  String get semantic_playback_time_elapsed => 'Uppspelningstid. Förfluten';
 
   @override
-  String get semantic_remaining => 'Remaining';
+  String get semantic_remaining => 'Återstående';
 
   @override
-  String get semantic_turn_shuffle_off => 'Turn shuffle off';
+  String get semantic_turn_shuffle_off => 'Stäng av slumpvis uppspelning';
 
   @override
-  String get semantic_turn_shuffle_on => 'Turn shuffle on';
+  String get semantic_turn_shuffle_on => 'Slå på slumpvis uppspelning';
 
   @override
-  String get semantic_previous_surah => 'Previous surah';
+  String get semantic_previous_surah => 'Föregående sura';
 
   @override
-  String get semantic_next_surah => 'Next surah';
+  String get semantic_next_surah => 'Nästa sura';
 
   @override
   String get semantic_turn_repeat_current_surah_off =>
-      'Turn repeat current surah off';
+      'Stäng av upprepning av aktuell sura';
 
   @override
   String get semantic_turn_repeat_current_surah_on =>
-      'Turn repeat current surah on';
+      'Slå på upprepning av aktuell sura';
 
   @override
-  String get semantic_pause => 'Pause';
+  String get semantic_pause => 'Pausa';
 
   @override
-  String get semantic_use_current_location => 'Use current location';
+  String get semantic_use_current_location => 'Använd nuvarande plats';
 
   @override
-  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+  String get semantic_collapse_mosque_list => 'Fäll ihop moskélistan';
 
   @override
-  String get semantic_expand_mosque_list => 'Expand mosque list';
+  String get semantic_expand_mosque_list => 'Expandera moskélistan';
 
   @override
   String get added => 'Added';
@@ -2292,27 +2292,25 @@ class AppLocalizationsSv extends AppLocalizations {
   String get not_added => 'Not added';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigate to mosque';
+  String get semantic_navigate_to_mosque => 'Expandera moskélistan';
 
   @override
-  String get semantic_decrease_pre_notification =>
-      'Decrease pre-notification time';
+  String get semantic_decrease_pre_notification => 'Minska förvarningstid';
 
   @override
-  String get semantic_increase_pre_notification =>
-      'Increase pre-notification time';
+  String get semantic_increase_pre_notification => 'Öka förvarningstid';
 
   @override
-  String get semantic_facing_qibla => 'You are facing the Qibla';
+  String get semantic_facing_qibla => 'Du är vänd mot Qibla';
 
   @override
-  String get semantic_clockwise => 'Clockwise';
+  String get semantic_clockwise => 'Medurs';
 
   @override
   String get sematnic_counter_clockwise => 'counter-clockwise';
 
   @override
-  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+  String get semantic_rotate_slightly => 'Nästan klart. Vrid lite';
 
   @override
   String get semanitc_degrees_to_qibla => 'degrees to Qibla';
@@ -2324,7 +2322,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get rotate => 'Rotate';
 
   @override
-  String get semantic_close_audio_player => 'Close audio player';
+  String get semantic_close_audio_player => 'Stäng ljudspelare';
 
   @override
   String get reciter_settings => 'Reciter settings';
@@ -2345,10 +2343,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get quran_settings => 'Quran settings';
 
   @override
-  String get semantic_mushaf_view => 'Mushaf view';
+  String get semantic_mushaf_view => 'Mushaf-vy';
 
   @override
-  String get semantic_verse_list_view => 'Verse list view';
+  String get semantic_verse_list_view => 'Verslista-vy';
 
   @override
   String get not_downloaded => 'Not downloaded';
@@ -2359,101 +2357,98 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get semantic_switch_verse_list =>
-      'Mushaf page. Switch to verse list view for full accessibility.';
+      'Mushaf-sida. Byt till verslista-vy för full tillgänglighet.';
 
   @override
-  String get semantic_decrease_hijri_adjustment => 'Decrease Hijri adjustment';
+  String get semantic_decrease_hijri_adjustment => 'Minska Hijri-justering';
 
   @override
-  String get semantic_minimum_adjustment_reached =>
-      'Minimum adjustment reached';
+  String get semantic_minimum_adjustment_reached => 'Minsta justering uppnådd';
 
   @override
-  String get semantic_current_adjustment => 'Current adjustment';
+  String get semantic_current_adjustment => 'Nuvarande justering';
 
   @override
-  String get semantic_increase_hijri_adjustment => 'Increase Hijri adjustment';
+  String get semantic_increase_hijri_adjustment => 'Öka Hijri-justering';
 
   @override
-  String get semantic_maximum_adjustment_reached =>
-      'Maximum adjustment reached';
+  String get semantic_maximum_adjustment_reached => 'Största justering uppnådd';
 
   @override
-  String get semantic_minimum_size_reached => 'Minimum size reached';
+  String get semantic_minimum_size_reached => 'Minsta storlek uppnådd';
 
   @override
-  String get semantic_decrease => 'Decrease';
+  String get semantic_decrease => 'Minska';
 
   @override
-  String get semantic_current_size => 'Current size';
+  String get semantic_current_size => 'Nuvarande storlek';
 
   @override
-  String get semantic_increase => 'Increase';
+  String get semantic_increase => 'Öka';
 
   @override
-  String get semantic_maximum_size_reached => 'Maximum size reached';
+  String get semantic_maximum_size_reached => 'Största storlek uppnådd';
 
   @override
-  String get semantic_favorite => 'Favorite';
+  String get semantic_favorite => 'Öka Hijri-justering';
 
   @override
-  String get semantic_added_to_favorites => 'Added to favorites';
+  String get semantic_added_to_favorites => 'Tillagd i favoriter';
 
   @override
-  String get semantic_not_in_favorites => 'Not in favorites';
+  String get semantic_not_in_favorites => 'Inte i favoriter';
 
   @override
-  String get semantic_for => 'for';
+  String get semantic_for => 'för';
 
   @override
-  String get semantic_view_style => 'View style';
+  String get semantic_view_style => 'Visningsstil';
 
   @override
   String get semantic_double_tap_to_change_view_style =>
-      'Double tap to change view style';
+      'Dubbeltryck för att ändra visningsstil';
 
   @override
-  String get semantic_share_dua => 'Share dua';
+  String get semantic_share_dua => 'Dela dua';
 
   @override
-  String get semantic_tasbih_settings => 'Tasbih settings';
+  String get semantic_tasbih_settings => 'Tasbih-inställningar';
 
   @override
-  String get semantic_tasbih_counter => 'Tasbih counter';
+  String get semantic_tasbih_counter => 'Tasbih-räknare';
 
   @override
-  String get semantic_previous_dua => 'Previous dua';
+  String get semantic_previous_dua => 'Föregående dua';
 
   @override
-  String get semantic_next_dua => 'Next dua';
+  String get semantic_next_dua => 'Nästa dua';
 
   @override
   String get semantic_dua => 'Dua';
 
   @override
-  String get semantic_opens => 'Opens';
+  String get semantic_opens => 'Öppnar';
 
   @override
-  String get semantic_opens_language_selection => 'Opens language selection';
+  String get semantic_opens_language_selection => 'Öppnar språkväljare';
 
   @override
-  String get semantic_device => 'Device';
+  String get semantic_device => 'Enhet';
 
   @override
-  String get semantic_light => 'Light';
+  String get semantic_light => 'Ljust';
 
   @override
-  String get semantic_dark => 'Dark';
+  String get semantic_dark => 'Mörkt';
 
   @override
-  String get semantic_on => 'On';
+  String get semantic_on => 'På';
 
   @override
-  String get semantic_off => 'Off';
+  String get semantic_off => 'Av';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark';
+  String get semantic_ayah_list_actions => 'Navigera till moské';
 
   @override
   String get remove_bookmark => 'Remove bookmark';

@@ -2161,51 +2161,51 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get semantic_mawaqit_notification =>
-      'unread notifications from MAWAQIT';
+      'ئاگاداری نەخوێندراوەکان لە MAWAQIT';
 
   @override
-  String get semantic_open_notifications => 'Open notifications';
+  String get semantic_open_notifications => 'کردنەوەی ئاگادارییەکان';
 
   @override
   String get semantic_tap_to_change_notification =>
-      'Tap to change notification settings';
+      'بۆ گۆڕینی ڕێکخستنەکانی ئاگاداری، لێبدە';
 
   @override
-  String get semantic_edit_mosques => 'Open to edit your mosques';
+  String get semantic_edit_mosques => 'بیکەرەوە بۆ دەستکاریکردنی مزگەوتەکانت';
 
   @override
-  String get semantic_change_layout => 'Change home layout';
+  String get semantic_change_layout => 'گۆڕینی شێوازی سەرەکی';
 
   @override
-  String get semantic_open_layout_menu => 'open layout menu';
+  String get semantic_open_layout_menu => 'کردنەوەی مێنیوی شێواز';
 
   @override
-  String get semantic_edit_home_settings => 'Edit home settings';
+  String get semantic_edit_home_settings => 'دەستکاریکردنی ڕێکخستنەکانی سەرەکی';
 
   @override
-  String get semantic_list_layout => 'List layout';
+  String get semantic_list_layout => 'شێوازی لیست';
 
   @override
-  String get semantic_grid_layout => 'Grid layout';
+  String get semantic_grid_layout => 'شێوازی تۆڕ';
 
   @override
   String get sematnic_360_clock_layout => '360 clock layout';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'مێنیوی شێواز کراوەتەوە';
 
   @override
   String get close => 'Close';
 
   @override
-  String get semantic_mosque_page => 'Mosque page';
+  String get semantic_mosque_page => 'پەڕەی مزگەوت';
 
   @override
-  String get semantic_of => 'of';
+  String get semantic_of => 'لە';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'unread Mawaqit notifications';
+      'ئاگاداری نەخوێندراوەکانی MAWAQIT';
 
   @override
   String get back => 'Back';
@@ -2286,13 +2286,13 @@ class AppLocalizationsKu extends AppLocalizations {
   String get semantic_pause => 'وەستان';
 
   @override
-  String get semantic_use_current_location => 'Use current location';
+  String get semantic_use_current_location => 'بەکارهێنانی شوێنی ئێستا';
 
   @override
-  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+  String get semantic_collapse_mosque_list => 'داخستنی لیستی مزگەوتەکان';
 
   @override
-  String get semantic_expand_mosque_list => 'Expand mosque list';
+  String get semantic_expand_mosque_list => 'فراوانکردنی لیستی مزگەوتەکان';
 
   @override
   String get added => 'Added';
@@ -2301,27 +2301,27 @@ class AppLocalizationsKu extends AppLocalizations {
   String get not_added => 'Not added';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigate to mosque';
+  String get semantic_navigate_to_mosque => 'ڕێنمایی بۆ مزگەوت';
 
   @override
   String get semantic_decrease_pre_notification =>
-      'Decrease pre-notification time';
+      'کەمکردنەوەی کاتی ئاگاداری پێشەکی';
 
   @override
   String get semantic_increase_pre_notification =>
-      'Increase pre-notification time';
+      'زیادکردنی کاتی ئاگاداری پێشەکی';
 
   @override
-  String get semantic_facing_qibla => 'You are facing the Qibla';
+  String get semantic_facing_qibla => 'تۆ ڕووت لە قبله‌یه';
 
   @override
-  String get semantic_clockwise => 'Clockwise';
+  String get semantic_clockwise => 'بە ئاراستەی کاتژمێر';
 
   @override
   String get sematnic_counter_clockwise => 'counter-clockwise';
 
   @override
-  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+  String get semantic_rotate_slightly => 'نزیکە، کەمێک بگۆڕە';
 
   @override
   String get semanitc_degrees_to_qibla => 'degrees to Qibla';
@@ -2333,7 +2333,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get rotate => 'Rotate';
 
   @override
-  String get semantic_close_audio_player => 'Close audio player';
+  String get semantic_close_audio_player => 'داخستنی پلەیری دەنگ';
 
   @override
   String get reciter_settings => 'Reciter settings';
@@ -2354,10 +2354,10 @@ class AppLocalizationsKu extends AppLocalizations {
   String get quran_settings => 'Quran settings';
 
   @override
-  String get semantic_mushaf_view => 'Mushaf view';
+  String get semantic_mushaf_view => 'بینینی موشەف';
 
   @override
-  String get semantic_verse_list_view => 'Verse list view';
+  String get semantic_verse_list_view => 'بینینی لیستی ئایەتەکان';
 
   @override
   String get not_downloaded => 'Not downloaded';
@@ -2368,7 +2368,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get semantic_switch_verse_list =>
-      'Mushaf page. Switch to verse list view for full accessibility.';
+      'پەڕەی موشەف. بۆ دەستپێگەیشتنی تەواو بگۆڕە بۆ لیستی ئایەتەکان.';
 
   @override
   String get semantic_decrease_hijri_adjustment => 'کەمکردنەوەی ڕێکخستنی هیجری';
@@ -2461,8 +2461,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get semantic_off => 'ناچالاک';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark';
+  String get semantic_ayah_list_actions => 'سڕینەوەی نیشانە';
 
   @override
   String get remove_bookmark => 'Remove bookmark';

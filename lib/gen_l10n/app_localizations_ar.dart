@@ -2424,8 +2424,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get semantic_off => 'إيقاف';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'اسحب للأعلى أو للأسفل لإجراءات الآية: تشغيل، تفسير، مشاركة، حفظ';
+  String get semantic_ayah_list_actions => 'إزالة الإشارة المرجعية';
 
   @override
   String get remove_bookmark => 'إزالة الإشارة المرجعية';

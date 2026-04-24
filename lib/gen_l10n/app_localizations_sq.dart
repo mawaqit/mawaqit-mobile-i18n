@@ -2163,51 +2163,52 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get semantic_mawaqit_notification =>
-      'unread notifications from MAWAQIT';
+      'Njoftime të palexuara nga MAWAQIT';
 
   @override
-  String get semantic_open_notifications => 'Open notifications';
+  String get semantic_open_notifications => 'Hap njoftimet';
 
   @override
   String get semantic_tap_to_change_notification =>
-      'Tap to change notification settings';
+      'Prek për të ndryshuar cilësimet e njoftimeve';
 
   @override
-  String get semantic_edit_mosques => 'Open to edit your mosques';
+  String get semantic_edit_mosques => 'Hap për të redaktuar xhamitë e tua';
 
   @override
-  String get semantic_change_layout => 'Change home layout';
+  String get semantic_change_layout => 'Ndrysho paraqitjen e faqes kryesore';
 
   @override
-  String get semantic_open_layout_menu => 'open layout menu';
+  String get semantic_open_layout_menu => 'Hap menynë e paraqitjes';
 
   @override
-  String get semantic_edit_home_settings => 'Edit home settings';
+  String get semantic_edit_home_settings =>
+      'Redakto cilësimet e faqes kryesore';
 
   @override
-  String get semantic_list_layout => 'List layout';
+  String get semantic_list_layout => 'Paraqitje me listë';
 
   @override
-  String get semantic_grid_layout => 'Grid layout';
+  String get semantic_grid_layout => 'Paraqitje me rrjetë';
 
   @override
   String get sematnic_360_clock_layout => '360 clock layout';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'Menyja e paraqitjes është e hapur';
 
   @override
   String get close => 'Close';
 
   @override
-  String get semantic_mosque_page => 'Mosque page';
+  String get semantic_mosque_page => 'Faqja e xhamisë';
 
   @override
-  String get semantic_of => 'of';
+  String get semantic_of => 'nga';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'unread Mawaqit notifications';
+      'Njoftime të palexuara MAWAQIT';
 
   @override
   String get back => 'Back';
@@ -2288,13 +2289,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_pause => 'Ndalo';
 
   @override
-  String get semantic_use_current_location => 'Use current location';
+  String get semantic_use_current_location => 'Përdor vendndodhjen aktuale';
 
   @override
-  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+  String get semantic_collapse_mosque_list => 'Mbyll listën e xhamive';
 
   @override
-  String get semantic_expand_mosque_list => 'Expand mosque list';
+  String get semantic_expand_mosque_list => 'Zgjero listën e xhamive';
 
   @override
   String get added => 'Added';
@@ -2303,27 +2304,27 @@ class AppLocalizationsSq extends AppLocalizations {
   String get not_added => 'Not added';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigate to mosque';
+  String get semantic_navigate_to_mosque => 'Zgjero listën e xhamive';
 
   @override
   String get semantic_decrease_pre_notification =>
-      'Decrease pre-notification time';
+      'Ul kohën e njoftimit paraprak';
 
   @override
   String get semantic_increase_pre_notification =>
-      'Increase pre-notification time';
+      'Rrit kohën e njoftimit paraprak';
 
   @override
-  String get semantic_facing_qibla => 'You are facing the Qibla';
+  String get semantic_facing_qibla => 'Je i drejtuar nga Kibla';
 
   @override
-  String get semantic_clockwise => 'Clockwise';
+  String get semantic_clockwise => 'Në drejtim të akrepave të orës';
 
   @override
   String get sematnic_counter_clockwise => 'counter-clockwise';
 
   @override
-  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+  String get semantic_rotate_slightly => 'Gati je. Rrotullo pak';
 
   @override
   String get semanitc_degrees_to_qibla => 'degrees to Qibla';
@@ -2335,7 +2336,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get rotate => 'Rotate';
 
   @override
-  String get semantic_close_audio_player => 'Close audio player';
+  String get semantic_close_audio_player => 'Mbyll luajtësin audio';
 
   @override
   String get reciter_settings => 'Reciter settings';
@@ -2356,10 +2357,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get quran_settings => 'Quran settings';
 
   @override
-  String get semantic_mushaf_view => 'Mushaf view';
+  String get semantic_mushaf_view => 'Pamja e Mushafit';
 
   @override
-  String get semantic_verse_list_view => 'Verse list view';
+  String get semantic_verse_list_view => 'Pamja e listës së ajeteve';
 
   @override
   String get not_downloaded => 'Not downloaded';
@@ -2370,101 +2371,102 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get semantic_switch_verse_list =>
-      'Mushaf page. Switch to verse list view for full accessibility.';
+      'Faqja e Mushafit. Kalo në pamjen e listës së ajeteve për aksesueshmëri të plotë.';
 
   @override
-  String get semantic_decrease_hijri_adjustment => 'Decrease Hijri adjustment';
+  String get semantic_decrease_hijri_adjustment =>
+      'Ul rregullimin e kalendarit hixhri';
 
   @override
   String get semantic_minimum_adjustment_reached =>
-      'Minimum adjustment reached';
+      'U arrit rregullimi minimal';
 
   @override
-  String get semantic_current_adjustment => 'Current adjustment';
+  String get semantic_current_adjustment => 'Rregullimi aktual';
 
   @override
-  String get semantic_increase_hijri_adjustment => 'Increase Hijri adjustment';
+  String get semantic_increase_hijri_adjustment =>
+      'Rrit rregullimin e kalendarit hixhri';
 
   @override
   String get semantic_maximum_adjustment_reached =>
-      'Maximum adjustment reached';
+      'U arrit rregullimi maksimal';
 
   @override
-  String get semantic_minimum_size_reached => 'Minimum size reached';
+  String get semantic_minimum_size_reached => 'U arrit madhësia minimale';
 
   @override
-  String get semantic_decrease => 'Decrease';
+  String get semantic_decrease => 'Ul';
 
   @override
-  String get semantic_current_size => 'Current size';
+  String get semantic_current_size => 'Madhësia aktuale';
 
   @override
-  String get semantic_increase => 'Increase';
+  String get semantic_increase => 'Rrit';
 
   @override
-  String get semantic_maximum_size_reached => 'Maximum size reached';
+  String get semantic_maximum_size_reached => 'U arrit madhësia maksimale';
 
   @override
-  String get semantic_favorite => 'Favorite';
+  String get semantic_favorite => 'I preferuar';
 
   @override
-  String get semantic_added_to_favorites => 'Added to favorites';
+  String get semantic_added_to_favorites => 'U shtua te të preferuarat';
 
   @override
-  String get semantic_not_in_favorites => 'Not in favorites';
+  String get semantic_not_in_favorites => 'Nuk është në të preferuarat';
 
   @override
-  String get semantic_for => 'for';
+  String get semantic_for => 'për';
 
   @override
-  String get semantic_view_style => 'View style';
+  String get semantic_view_style => 'Stili i pamjes';
 
   @override
   String get semantic_double_tap_to_change_view_style =>
-      'Double tap to change view style';
+      'Prek dy herë për të ndryshuar stilin e pamjes';
 
   @override
-  String get semantic_share_dua => 'Share dua';
+  String get semantic_share_dua => 'Ndaj duanë';
 
   @override
-  String get semantic_tasbih_settings => 'Tasbih settings';
+  String get semantic_tasbih_settings => 'Cilësimet e tesbihut';
 
   @override
-  String get semantic_tasbih_counter => 'Tasbih counter';
+  String get semantic_tasbih_counter => 'Numëruesi i tesbihut';
 
   @override
-  String get semantic_previous_dua => 'Previous dua';
+  String get semantic_previous_dua => 'Duaja e mëparshme';
 
   @override
-  String get semantic_next_dua => 'Next dua';
+  String get semantic_next_dua => 'Duaja e radhës';
 
   @override
-  String get semantic_dua => 'Dua';
+  String get semantic_dua => 'Duaja e radhës';
 
   @override
-  String get semantic_opens => 'Opens';
+  String get semantic_opens => 'Hap';
 
   @override
-  String get semantic_opens_language_selection => 'Opens language selection';
+  String get semantic_opens_language_selection => 'Hap përzgjedhjen e gjuhës';
 
   @override
-  String get semantic_device => 'Device';
+  String get semantic_device => 'Pajisja';
 
   @override
-  String get semantic_light => 'Light';
+  String get semantic_light => 'E ndritshme';
 
   @override
-  String get semantic_dark => 'Dark';
+  String get semantic_dark => 'E errët';
 
   @override
-  String get semantic_on => 'On';
+  String get semantic_on => 'E errët';
 
   @override
-  String get semantic_off => 'Off';
+  String get semantic_off => 'Joaktiv';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark';
+  String get semantic_ayah_list_actions => 'Hiq shënuesin';
 
   @override
   String get remove_bookmark => 'Remove bookmark';

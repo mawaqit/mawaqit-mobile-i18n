@@ -2148,51 +2148,51 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get semantic_mawaqit_notification =>
-      'unread notifications from MAWAQIT';
+      'MAWAQIT\'ten okunmamış bildirimler';
 
   @override
-  String get semantic_open_notifications => 'Open notifications';
+  String get semantic_open_notifications => 'Bildirimleri aç';
 
   @override
   String get semantic_tap_to_change_notification =>
-      'Tap to change notification settings';
+      'Bildirim ayarlarını değiştirmek için dokun';
 
   @override
-  String get semantic_edit_mosques => 'Open to edit your mosques';
+  String get semantic_edit_mosques => 'Camilerinizi düzenlemek için açın';
 
   @override
-  String get semantic_change_layout => 'Change home layout';
+  String get semantic_change_layout => 'Ana ekran düzenini değiştir';
 
   @override
-  String get semantic_open_layout_menu => 'open layout menu';
+  String get semantic_open_layout_menu => 'Düzen menüsünü aç';
 
   @override
-  String get semantic_edit_home_settings => 'Edit home settings';
+  String get semantic_edit_home_settings => 'Ana ekran ayarlarını düzenle';
 
   @override
-  String get semantic_list_layout => 'List layout';
+  String get semantic_list_layout => 'Liste düzeni';
 
   @override
-  String get semantic_grid_layout => 'Grid layout';
+  String get semantic_grid_layout => 'Izgara düzeni';
 
   @override
   String get sematnic_360_clock_layout => '360 clock layout';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'Düzen menüsü açık';
 
   @override
   String get close => 'Close';
 
   @override
-  String get semantic_mosque_page => 'Mosque page';
+  String get semantic_mosque_page => 'Cami sayfası';
 
   @override
-  String get semantic_of => 'of';
+  String get semantic_of => 'içinden';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'unread Mawaqit notifications';
+      'MAWAQIT okunmamış bildirimler';
 
   @override
   String get back => 'Back';
@@ -2273,13 +2273,13 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_pause => 'Duraklat';
 
   @override
-  String get semantic_use_current_location => 'Use current location';
+  String get semantic_use_current_location => 'Mevcut konumu kullan';
 
   @override
-  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+  String get semantic_collapse_mosque_list => 'Cami listesini daralt';
 
   @override
-  String get semantic_expand_mosque_list => 'Expand mosque list';
+  String get semantic_expand_mosque_list => 'Cami listesini genişlet';
 
   @override
   String get added => 'Added';
@@ -2288,27 +2288,25 @@ class AppLocalizationsTr extends AppLocalizations {
   String get not_added => 'Not added';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigate to mosque';
+  String get semantic_navigate_to_mosque => 'Camiye git';
 
   @override
-  String get semantic_decrease_pre_notification =>
-      'Decrease pre-notification time';
+  String get semantic_decrease_pre_notification => 'Ön bildirim süresini azalt';
 
   @override
-  String get semantic_increase_pre_notification =>
-      'Increase pre-notification time';
+  String get semantic_increase_pre_notification => 'Ön bildirim süresini artır';
 
   @override
-  String get semantic_facing_qibla => 'You are facing the Qibla';
+  String get semantic_facing_qibla => 'Kıbleye dönük durumdasınız';
 
   @override
-  String get semantic_clockwise => 'Clockwise';
+  String get semantic_clockwise => 'Saat yönünde';
 
   @override
   String get sematnic_counter_clockwise => 'counter-clockwise';
 
   @override
-  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+  String get semantic_rotate_slightly => 'Neredeyse oldu. Biraz çevirin';
 
   @override
   String get semanitc_degrees_to_qibla => 'degrees to Qibla';
@@ -2320,7 +2318,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get rotate => 'Rotate';
 
   @override
-  String get semantic_close_audio_player => 'Close audio player';
+  String get semantic_close_audio_player => 'Ses oynatıcıyı kapat';
 
   @override
   String get reciter_settings => 'Reciter settings';
@@ -2341,10 +2339,10 @@ class AppLocalizationsTr extends AppLocalizations {
   String get quran_settings => 'Quran settings';
 
   @override
-  String get semantic_mushaf_view => 'Mushaf view';
+  String get semantic_mushaf_view => 'Mushaf görünümü';
 
   @override
-  String get semantic_verse_list_view => 'Verse list view';
+  String get semantic_verse_list_view => 'Ayet listesi görünümü';
 
   @override
   String get not_downloaded => 'Not downloaded';
@@ -2355,7 +2353,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get semantic_switch_verse_list =>
-      'Mushaf page. Switch to verse list view for full accessibility.';
+      'Mushaf sayfası. Tam erişilebilirlik için ayet listesi görünümüne geçin.';
 
   @override
   String get semantic_decrease_hijri_adjustment => 'Hicri ayarı azalt';
@@ -2446,8 +2444,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_off => 'Kapalı';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark';
+  String get semantic_ayah_list_actions => 'Yer işaretini kaldır';
 
   @override
   String get remove_bookmark => 'Remove bookmark';

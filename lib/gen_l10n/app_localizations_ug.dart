@@ -2327,7 +2327,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get rotate => 'ئايلاندۇر';
 
   @override
-  String get semantic_close_audio_player => 'Close audio player';
+  String get semantic_close_audio_player => 'ئاۋاز قويغۇچنى تاقاش';
 
   @override
   String get reciter_settings => 'Reciter settings';
@@ -2348,10 +2348,10 @@ class AppLocalizationsUg extends AppLocalizations {
   String get quran_settings => 'Quran settings';
 
   @override
-  String get semantic_mushaf_view => 'Mushaf view';
+  String get semantic_mushaf_view => 'مۇسھاف كۆرۈنۈشى';
 
   @override
-  String get semantic_verse_list_view => 'Verse list view';
+  String get semantic_verse_list_view => 'ئايەت تىزىملىكى كۆرۈنۈشى';
 
   @override
   String get not_downloaded => 'Not downloaded';
@@ -2362,101 +2362,99 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get semantic_switch_verse_list =>
-      'Mushaf page. Switch to verse list view for full accessibility.';
+      'مۇسھاف بېتى. تولۇق قولايلىق ئۈچۈن ئايەت تىزىملىكى كۆرۈنۈشىگە ئالماشتۇرۇڭ.';
 
   @override
-  String get semantic_decrease_hijri_adjustment => 'Decrease Hijri adjustment';
+  String get semantic_decrease_hijri_adjustment =>
+      'ئالدىن ئۇقتۇرۇش ۋاقتىنى ئازايتىش';
 
   @override
-  String get semantic_minimum_adjustment_reached =>
-      'Minimum adjustment reached';
+  String get semantic_minimum_adjustment_reached => 'ئەڭ تۆۋەن تەڭشەككە يەتتى';
 
   @override
-  String get semantic_current_adjustment => 'Current adjustment';
+  String get semantic_current_adjustment => 'نۆۋەتتىكى تەڭشەك';
 
   @override
-  String get semantic_increase_hijri_adjustment => 'Increase Hijri adjustment';
+  String get semantic_increase_hijri_adjustment => 'ھىجرى تەڭشەشنى كۆپەيتىڭ';
 
   @override
-  String get semantic_maximum_adjustment_reached =>
-      'Maximum adjustment reached';
+  String get semantic_maximum_adjustment_reached => 'ئەڭ يۇقىرى تەڭشەككە يەتتى';
 
   @override
-  String get semantic_minimum_size_reached => 'Minimum size reached';
+  String get semantic_minimum_size_reached => 'ئەڭ كىچىك چوڭلۇققا يەتتى';
 
   @override
-  String get semantic_decrease => 'Decrease';
+  String get semantic_decrease => 'ئازايتىش';
 
   @override
-  String get semantic_current_size => 'Current size';
+  String get semantic_current_size => 'نۆۋەتتىكى چوڭلۇق';
 
   @override
-  String get semantic_increase => 'Increase';
+  String get semantic_increase => 'كۆپەيتىش';
 
   @override
-  String get semantic_maximum_size_reached => 'Maximum size reached';
+  String get semantic_maximum_size_reached => 'ئەڭ چوڭ چوڭلۇققا يەتتى';
 
   @override
-  String get semantic_favorite => 'Favorite';
+  String get semantic_favorite => 'ياخشى كۆرگەن';
 
   @override
-  String get semantic_added_to_favorites => 'Added to favorites';
+  String get semantic_added_to_favorites => 'ياخشى كۆرگەنلەرگە قوشۇلدى';
 
   @override
-  String get semantic_not_in_favorites => 'Not in favorites';
+  String get semantic_not_in_favorites => 'ياخشى كۆرگەنلەردە يوق';
 
   @override
-  String get semantic_for => 'for';
+  String get semantic_for => 'ئۈچۈن';
 
   @override
-  String get semantic_view_style => 'View style';
+  String get semantic_view_style => 'كۆرۈنۈش ئۇسلۇبى';
 
   @override
   String get semantic_double_tap_to_change_view_style =>
-      'Double tap to change view style';
+      'كۆرۈنۈش ئۇسلۇبىنى ئۆزگەرتىش ئۈچۈن قوش چېكىڭ';
 
   @override
-  String get semantic_share_dua => 'Share dua';
+  String get semantic_share_dua => 'دۇئا ھەمبەھىرلەش';
 
   @override
-  String get semantic_tasbih_settings => 'Tasbih settings';
+  String get semantic_tasbih_settings => 'تەسبىھ تەڭشەكلىرى';
 
   @override
-  String get semantic_tasbih_counter => 'Tasbih counter';
+  String get semantic_tasbih_counter => 'تەسبىھ سانىغۇچ';
 
   @override
-  String get semantic_previous_dua => 'Previous dua';
+  String get semantic_previous_dua => 'ئالدىنقى دۇئا';
 
   @override
-  String get semantic_next_dua => 'Next dua';
+  String get semantic_next_dua => 'كېيىنكى دۇئا';
 
   @override
-  String get semantic_dua => 'Dua';
+  String get semantic_dua => 'دۇئا';
 
   @override
-  String get semantic_opens => 'Opens';
+  String get semantic_opens => 'ئاچىدۇ';
 
   @override
-  String get semantic_opens_language_selection => 'Opens language selection';
+  String get semantic_opens_language_selection => 'تىل تاللاشنى ئاچىدۇ';
 
   @override
-  String get semantic_device => 'Device';
+  String get semantic_device => 'ئۈسكۈنە';
 
   @override
-  String get semantic_light => 'Light';
+  String get semantic_light => 'يورۇق';
 
   @override
-  String get semantic_dark => 'Dark';
+  String get semantic_dark => 'قاراڭغۇ';
 
   @override
-  String get semantic_on => 'On';
+  String get semantic_on => 'قوزغىتىلغان';
 
   @override
-  String get semantic_off => 'Off';
+  String get semantic_off => 'ئۆچۈرۈلگەن';
 
   @override
-  String get semantic_ayah_list_actions =>
-      'Swipe up or down for verse actions: Play, Tafseer, Share, Bookmark';
+  String get semantic_ayah_list_actions => 'خەتكۈچنى ئۆچۈرۈش';
 
   @override
   String get remove_bookmark => 'Remove bookmark';
