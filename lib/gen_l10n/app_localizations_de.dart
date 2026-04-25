@@ -2488,4 +2488,22 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get add_bookmark => 'Lesezeichen hinzufügen';
+
+  @override
+  String get selected => 'ausgewählt';
+
+  @override
+  String get double_tap_to_continue => 'Doppeltippen, um fortzufahren';
+
+  @override
+  String get clear_search => 'Suchfeld löschen';
+
+  @override
+  String get mosques_found => 'moscheen gefunden';
+
+  @override
+  String get mosque_added => 'Moschee hinzugefügt';
+
+  @override
+  String get mosque_removed => 'Moschee entfernt';
 }

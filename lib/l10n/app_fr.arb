@@ -1560,5 +1560,11 @@
     "semantic_off": "Désactivé",
     "semantic_ayah_list_actions": "Remove bookmark",
     "remove_bookmark": "Supprimer le signet",
-    "add_bookmark": "Ajouter un signet"
+    "add_bookmark": "Ajouter un signet",
+    "selected": "Sélectionné",
+    "double_tap_to_continue": "Appuyez deux fois pour continuer",
+    "clear_search": "Effacer la recherche",
+    "mosques_found": "mosquées trouvées",
+    "mosque_added": "Mosquée ajoutée",
+    "mosque_removed": "Mosquée retirée"
 }

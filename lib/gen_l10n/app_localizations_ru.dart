@@ -2468,4 +2468,22 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get add_bookmark => 'Add bookmark';
+
+  @override
+  String get selected => 'selected';
+
+  @override
+  String get double_tap_to_continue => 'Double tap to continue';
+
+  @override
+  String get clear_search => 'Clear search';
+
+  @override
+  String get mosques_found => 'mosques found';
+
+  @override
+  String get mosque_added => 'Mosque added';
+
+  @override
+  String get mosque_removed => 'Mosque removed';
 }

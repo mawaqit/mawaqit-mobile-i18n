@@ -1560,5 +1560,11 @@
     "semantic_off": "آف",
     "semantic_ayah_list_actions": "بک مارک ہٹائیں",
     "remove_bookmark": "Remove bookmark",
-    "add_bookmark": "Add bookmark"
+    "add_bookmark": "Add bookmark",
+    "selected": "selected",
+    "double_tap_to_continue": "Double tap to continue",
+    "clear_search": "Clear search",
+    "mosques_found": "mosques found",
+    "mosque_added": "Mosque added",
+    "mosque_removed": "Mosque removed"
 }

@@ -2496,4 +2496,22 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get add_bookmark => 'Ajouter un signet';
+
+  @override
+  String get selected => 'Sélectionné';
+
+  @override
+  String get double_tap_to_continue => 'Appuyez deux fois pour continuer';
+
+  @override
+  String get clear_search => 'Effacer la recherche';
+
+  @override
+  String get mosques_found => 'mosquées trouvées';
+
+  @override
+  String get mosque_added => 'Mosquée ajoutée';
+
+  @override
+  String get mosque_removed => 'Mosquée retirée';
 }

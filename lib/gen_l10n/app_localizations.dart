@@ -4789,6 +4789,42 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Add bookmark'**
   String get add_bookmark;
+
+  /// No description provided for @selected.
+  ///
+  /// In en, this message translates to:
+  /// **'selected'**
+  String get selected;
+
+  /// No description provided for @double_tap_to_continue.
+  ///
+  /// In en, this message translates to:
+  /// **'Double tap to continue'**
+  String get double_tap_to_continue;
+
+  /// No description provided for @clear_search.
+  ///
+  /// In en, this message translates to:
+  /// **'Clear search'**
+  String get clear_search;
+
+  /// No description provided for @mosques_found.
+  ///
+  /// In en, this message translates to:
+  /// **'mosques found'**
+  String get mosques_found;
+
+  /// No description provided for @mosque_added.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque added'**
+  String get mosque_added;
+
+  /// No description provided for @mosque_removed.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque removed'**
+  String get mosque_removed;
 }
 
 class _AppLocalizationsDelegate
