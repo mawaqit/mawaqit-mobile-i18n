@@ -2431,4 +2431,22 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get add_bookmark => 'إضافة إشارة مرجعية';
+
+  @override
+  String get selected => 'مختارة';
+
+  @override
+  String get double_tap_to_continue => 'انقر نقرًا مزدوجًا للمتابعة';
+
+  @override
+  String get clear_search => 'حذف البحث';
+
+  @override
+  String get mosques_found => 'مساجد وجدت';
+
+  @override
+  String get mosque_added => 'تم إضافة المسجد';
+
+  @override
+  String get mosque_removed => 'تم إزالة المسجد';
 }
