@@ -2166,7 +2166,8 @@ class AppLocalizationsIt extends AppLocalizations {
       'Questo scaricherà tutte le sure per l’ascolto offline. Assicurati di essere connesso al Wi-Fi prima di continuare.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification =>
+      'Tocca per modificare le impostazioni delle notifiche';
 
   @override
   String get adhan_at => 'Adhan a';
