@@ -1560,5 +1560,11 @@
     "semantic_off": "إيقاف",
     "semantic_ayah_list_actions": "إزالة الإشارة المرجعية",
     "remove_bookmark": "إزالة الإشارة المرجعية",
-    "add_bookmark": "إضافة إشارة مرجعية"
+    "add_bookmark": "إضافة إشارة مرجعية",
+    "selected": "مختارة",
+    "double_tap_to_continue": "انقر نقرًا مزدوجًا للمتابعة",
+    "clear_search": "حذف البحث",
+    "mosques_found": "مساجد وجدت",
+    "mosque_added": "تم إضافة المسجد",
+    "mosque_removed": "تم إزالة المسجد"
 }
