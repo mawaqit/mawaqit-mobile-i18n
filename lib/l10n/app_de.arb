@@ -1560,5 +1560,11 @@
     "semantic_off": "Aus",
     "semantic_ayah_list_actions": "Lesezeichen entfernen",
     "remove_bookmark": "Lesezeichen entfernen",
-    "add_bookmark": "Lesezeichen hinzufügen"
+    "add_bookmark": "Lesezeichen hinzufügen",
+    "selected": "ausgewählt",
+    "double_tap_to_continue": "Doppeltippen, um fortzufahren",
+    "clear_search": "Suchfeld löschen",
+    "mosques_found": "moscheen gefunden",
+    "mosque_added": "Moschee hinzugefügt",
+    "mosque_removed": "Moschee entfernt"
 }
