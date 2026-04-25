@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1560,5 +1560,11 @@
     "semantic_off": "Av",
     "semantic_ayah_list_actions": "Navigera till moské",
     "remove_bookmark": "Remove bookmark",
-    "add_bookmark": "Add bookmark"
+    "add_bookmark": "Add bookmark",
+    "selected": "selected",
+    "double_tap_to_continue": "Double tap to continue",
+    "clear_search": "Clear search",
+    "mosques_found": "mosques found",
+    "mosque_added": "Mosque added",
+    "mosque_removed": "Mosque removed"
 }
