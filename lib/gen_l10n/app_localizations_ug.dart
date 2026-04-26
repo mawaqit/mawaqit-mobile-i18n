@@ -2330,22 +2330,22 @@ class AppLocalizationsUg extends AppLocalizations {
   String get semantic_close_audio_player => 'ئاۋاز قويغۇچنى تاقاش';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'قارى تەڭشىكى';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'ئالدىنقى ئايەت';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'كېيىنكى ئايەت';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'تۆۋەنلەت';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'يۇقىرىلات';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'قۇرئان تەڭشىكى';
 
   @override
   String get semantic_mushaf_view => 'مۇسھاف كۆرۈنۈشى';
@@ -2354,11 +2354,11 @@ class AppLocalizationsUg extends AppLocalizations {
   String get semantic_verse_list_view => 'ئايەت تىزىملىكى كۆرۈنۈشى';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'چۈشۈرۈلمىگەن';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'قولايلىق ئۈچۈن ئايەت تىزىمى كۆرۈنۈشىنى قوزغىتىدۇ';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2457,26 +2457,26 @@ class AppLocalizationsUg extends AppLocalizations {
   String get semantic_ayah_list_actions => 'خەتكۈچنى ئۆچۈرۈش';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'خەتكۈچنى چىقىرىۋەت';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'خەتكۈچ قوش';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'تاللاندى';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'داۋاملاشتۇرۇشتا قوش چېكىلىدۇ';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'ئىزدەشنى تازىلا';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'تېپىلغان مەسچىت';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'مەسچىت قوشۇلدى';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'مەسچىت چىقىرىۋېتىلدى';
 }
