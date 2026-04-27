@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -25,7 +25,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "Automatiskt",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
@@ -40,12 +40,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Tid-format",
+    "settings_TimeFormat": "Tidformat",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Välj Språk",
+    "settings_LanguageSelection": "Välj språk",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
@@ -60,29 +60,29 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12t",
+    "settings_TimeFormat12H": "12-timmars format",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24t",
+    "settings_TimeFormat24H": "24-timmars format",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Bön notifikationer",
-    "settings_PrayerPreNotifications": "Innan-bön notifikation",
-    "settings_ShuruqPreNotifications": "Innan-Shuruq notifikation",
-    "settings_Calculations": "Kalkylationer",
-    "settings_RateOurApp": "Betygsätt vår app",
+    "settings_PrayerNotifications": "Bönaviseringar",
+    "settings_PrayerPreNotifications": "Påminnelse före bön",
+    "settings_ShuruqPreNotifications": "Påminnelse före soluppgång",
+    "settings_Calculations": "Beräkningar",
+    "settings_RateOurApp": "Betygsätt appen",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
     "settings_WhatsNew": "Vad är nytt",
-    "settings_SupportMawaqit": "Stöd Mawaqit",
+    "settings_SupportMawaqit": "Stöd MAWAQIT",
     "settings_News": "Nyheter",
-    "settings_MakeADonation": "Skicka en välgörenhet",
+    "settings_MakeADonation": "Donera",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Donera till MAWAQIT",
     "@settings_DonateToMawaqit": {
@@ -158,12 +158,12 @@
         "type": "text"
     },
     "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "Du har för tillfället bestämd att inte bli notiserad vid den här bönen.",
+    "settings_PrayerNotification_NoNotification": "Du har valt att inte få aviseringar för denna bön.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Pip-ljud som ringsignal vid avisering",
+    "settings_PrayerNotification_Bip": "Pipljud vid avisering.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -203,17 +203,17 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "AbdulBassit",
+    "adhan_AbdAlBassat": "Abdul Basit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Välj en typ av Adhan. Den här valet kommer att bli applicerad för varje bön som har notifikation.",
+    "adhan_type": "Välj en typ av adhan. Valet används för alla böner med adhan-avisering.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "Inget",
+    "settings_prayer_Notification_None": "Ingen",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
@@ -1306,7 +1306,7 @@
     "weather_need_internet": "Funktionen kräver internetanslutning för att hämta uppdateringar.",
     "weather_light_rain": "Lätt regn",
     "edit": "Redigera",
-    "iqama_countdown": "Iqama nedräkning",
+    "iqama_countdown": "Nedräkning till Iqama",
     "next_prayer_countdown": "Live aktivitet alltid på",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
