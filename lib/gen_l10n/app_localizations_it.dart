@@ -1982,7 +1982,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get real_time_weather_needs_internet =>
-      'Il tempo in tempo reale ha bisogno di una connessione internet per scaricare gli aggiornamenti.';
+      'Il meteo in tempo reale ha bisogno di una connessione internet per scaricare gli aggiornamenti.';
 
   @override
   String get view_detail => 'Visualizza dettaglio';
@@ -1991,7 +1991,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get temperature => 'Temperatura';
 
   @override
-  String get tahajjud_time => 'Tempo Di Tahajjud';
+  String get tahajjud_time => 'Orario Tahajjud';
 
   @override
   String get last_third => 'Ultimo terzo';
@@ -2201,13 +2201,13 @@ class AppLocalizationsIt extends AppLocalizations {
   String get semantic_grid_layout => 'Layout griglia';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => 'layout 360 orologio';
 
   @override
   String get semantic_layout_menu_open => 'Menu layout aperto';
 
   @override
-  String get close => 'Close';
+  String get close => 'Chiudi';
 
   @override
   String get semantic_mosque_page => 'Pagina della moschea';
@@ -2220,7 +2220,7 @@ class AppLocalizationsIt extends AppLocalizations {
       'Notifiche MAWAQIT non lette';
 
   @override
-  String get back => 'Back';
+  String get back => 'Indietro';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2310,10 +2310,10 @@ class AppLocalizationsIt extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Espandi elenco moschee';
 
   @override
-  String get added => 'Added';
+  String get added => 'Aggiunto';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Non aggiunto';
 
   @override
   String get semantic_navigate_to_mosque => 'Naviga verso la moschea';
@@ -2339,34 +2339,34 @@ class AppLocalizationsIt extends AppLocalizations {
   String get semantic_rotate_slightly => 'Ci sei quasi. Ruota leggermente';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'gradi Qibla';
 
   @override
-  String get about => 'about';
+  String get about => 'info';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Ruota';
 
   @override
   String get semantic_close_audio_player => 'Chiudi lettore audio';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Impostazioni del recitatore';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Versetto precedente';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Versetto successivo';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Diminuisci';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Aumenta';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Impostazioni del Corano';
 
   @override
   String get semantic_mushaf_view => 'Vista Mushaf';
@@ -2375,11 +2375,11 @@ class AppLocalizationsIt extends AppLocalizations {
   String get semantic_verse_list_view => 'Vista elenco versetti';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Non scaricato';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Modalità elenco versi abilitata per l\'accessibilità';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2437,7 +2437,7 @@ class AppLocalizationsIt extends AppLocalizations {
       'Tocca due volte per cambiare stile';
 
   @override
-  String get semantic_share_dua => 'Condividi dua';
+  String get semantic_share_dua => 'Condividi duaa';
 
   @override
   String get semantic_tasbih_settings => 'Impostazioni tasbih';
@@ -2446,13 +2446,13 @@ class AppLocalizationsIt extends AppLocalizations {
   String get semantic_tasbih_counter => 'Contatore tasbih';
 
   @override
-  String get semantic_previous_dua => 'Dua precedente';
+  String get semantic_previous_dua => 'Duaa precedente';
 
   @override
-  String get semantic_next_dua => 'Dua successiva';
+  String get semantic_next_dua => 'Duaa successivo';
 
   @override
-  String get semantic_dua => 'Dua';
+  String get semantic_dua => 'Duaa';
 
   @override
   String get semantic_opens => 'Apre';
@@ -2479,13 +2479,13 @@ class AppLocalizationsIt extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Rimuovi segnalibro';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Rimuovi segnalibro';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Aggiungi segnalibro';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'selezionato';
 
   @override
   String get double_tap_to_continue => 'Double tap to continue';
