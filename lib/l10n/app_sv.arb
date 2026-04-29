@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -25,7 +25,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "Automatiskt",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
@@ -40,12 +40,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Tid-format",
+    "settings_TimeFormat": "Tidformat",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Välj Språk",
+    "settings_LanguageSelection": "Välj språk",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
@@ -60,29 +60,29 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12t",
+    "settings_TimeFormat12H": "12-timmars format",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24t",
+    "settings_TimeFormat24H": "24-timmars format",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Bön notifikationer",
-    "settings_PrayerPreNotifications": "Innan-bön notifikation",
-    "settings_ShuruqPreNotifications": "Innan-Shuruq notifikation",
-    "settings_Calculations": "Kalkylationer",
-    "settings_RateOurApp": "Betygsätt vår app",
+    "settings_PrayerNotifications": "Bönaviseringar",
+    "settings_PrayerPreNotifications": "Påminnelse före bön",
+    "settings_ShuruqPreNotifications": "Påminnelse före soluppgång",
+    "settings_Calculations": "Beräkningar",
+    "settings_RateOurApp": "Betygsätt appen",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
     "settings_WhatsNew": "Vad är nytt",
-    "settings_SupportMawaqit": "Stöd Mawaqit",
+    "settings_SupportMawaqit": "Stöd MAWAQIT",
     "settings_News": "Nyheter",
-    "settings_MakeADonation": "Skicka en välgörenhet",
+    "settings_MakeADonation": "Donera",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Donera till MAWAQIT",
     "@settings_DonateToMawaqit": {
@@ -158,12 +158,12 @@
         "type": "text"
     },
     "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "Du har för tillfället bestämd att inte bli notiserad vid den här bönen.",
+    "settings_PrayerNotification_NoNotification": "Du har valt att inte få aviseringar för denna bön.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Pip-ljud som ringsignal vid avisering",
+    "settings_PrayerNotification_Bip": "Pipljud vid avisering.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -203,48 +203,48 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "AbdulBassit",
+    "adhan_AbdAlBassat": "Abdul Basit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Välj en typ av Adhan. Den här valet kommer att bli applicerad för varje bön som har notifikation.",
+    "adhan_type": "Välj en typ av adhan. Valet används för alla böner med adhan-avisering.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "Inget",
+    "settings_prayer_Notification_None": "Ingen",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "Du har inte bestämt något notifikation för den här bönen.",
+    "prayer_Notification_NoNotification": "Du har inte ställt in några aviseringar för denna bön.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "Den här inställningen låter dig ange en avisering före bönen.",
+    "prayer_PreNotification_Description": "Med denna inställning kan du ange en avisering före bönen.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
     "search_TryParis": "Prova Paris, Essalam osv.",
     "search_ByGPS": "Sök med GPS",
-    "search_HelpText": "Du kan söka en moské genom:\n-Moskéns namn\n-Föreningens namn\n-Stad, Address, Land...osv.\n\nEller klippa på lokaliseringsknappen för att hitta Moskéer i närheten.",
+    "search_HelpText": "Du kan söka en moské genom:\n-Moskéns namn\n-Föreningens namn\n-Stad, adress, land osv.\n\nEller tryck på lokaliseringsknappen för att hitta moskéer i närheten.",
     "search_MaxFavMosquesReached": "Du har nått maximal av favorit moskéer.",
-    "search_iOs14_message": "Att ska genom GPS kan ta lite tid på IOS 14, vänligen vänta.",
-    "search_error": "Oj, ett internt fel har inträffat",
+    "search_iOs14_message": "Sökning med GPS kan ta lite tid vänligen vänta.",
+    "search_error": "Ett internt fel har inträffat",
     "search_your_location": "Din plats",
-    "search_location_disabled": "Vänligen leta efter en Moské med eller stad, eller tillåt platsåtkomst manuellt i dina inställningar ",
+    "search_location_disabled": "Sök efter en moské med namn eller stad, eller tillåt platsåtkomst i inställningarna.",
     "search_settings": "Inställningar",
-    "no_services_text": "Moskén har inte gett denna information",
+    "no_services_text": "Denna information saknas",
     "welcome": "Välkommen till",
     "mawaqit": "MAWAQIT",
-    "connecting": "Kopplar Muslimer",
-    "to_mosques": "Till Moskér",
-    "get_started": "Börja igång",
-    "get_prayer_notifications_for": "Få bönnotifikation för",
-    "turn_on_notifications": "Sätt på bönnotifikation",
+    "connecting": "Förenar muslimer",
+    "to_mosques": "Med moskéer",
+    "get_started": "Kom igång",
+    "get_prayer_notifications_for": "Få bönaviseringar för",
+    "turn_on_notifications": "Aktivera bönaviseringar",
     "no_thanks": "Nej tack",
     "notification_denied": "Du har nekat notifikation tillåtelse, så du kommer inte att få några notifikationer.",
     "at_least_one_mosque": "Lägg till åtminstone en moské för att fortsätta",
@@ -253,7 +253,7 @@
     "mosques_around_you": "Moskéer omkring dig",
     "mosques_in_the_selected_area": "Moskéer i valda område",
     "mosques_with": "Moskéer med",
-    "allow_mawaqit_to_access_my_location": "Tillåt Mawaqit åtkomst till min plats.",
+    "allow_mawaqit_to_access_my_location": "Tillåt MAWAQIT åtkomst till min plats.",
     "enable_location_service_from_app_settings": "Aktivera platsservice from app inställning.",
     "the_request_timeout": "Begäran tid för långt tid och avbröts",
     "no_internet_connection": "Ingen internet koppling",
@@ -1306,7 +1306,7 @@
     "weather_need_internet": "Funktionen kräver internetanslutning för att hämta uppdateringar.",
     "weather_light_rain": "Lätt regn",
     "edit": "Redigera",
-    "iqama_countdown": "Iqama nedräkning",
+    "iqama_countdown": "Nedräkning till Iqama",
     "next_prayer_countdown": "Live aktivitet alltid på",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
@@ -1566,5 +1566,9 @@
     "clear_search": "Clear search",
     "mosques_found": "mosques found",
     "mosque_added": "Mosque added",
-    "mosque_removed": "Mosque removed"
+    "mosque_removed": "Mosque removed",
+    "previous_month": "Previous month",
+    "next_month": "Next month",
+    "scroll_left_right_select_surah": "Scroll left or right to select a surah",
+    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type"
 }

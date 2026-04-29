@@ -24,7 +24,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get bottomNavbar_settings => 'Inställningar';
 
   @override
-  String get settings_ThemeAuto => 'Auto';
+  String get settings_ThemeAuto => 'Automatiskt';
 
   @override
   String get settings_ThemeDark => 'Mörk';
@@ -33,10 +33,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_ThemeLight => 'Ljus';
 
   @override
-  String get settings_TimeFormat => 'Tid-format';
+  String get settings_TimeFormat => 'Tidformat';
 
   @override
-  String get settings_LanguageSelection => 'Välj Språk';
+  String get settings_LanguageSelection => 'Välj språk';
 
   @override
   String get settings_Language => 'Språk';
@@ -45,37 +45,37 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_Theme => 'Tema';
 
   @override
-  String get settings_TimeFormat12H => '12t';
+  String get settings_TimeFormat12H => '12-timmars format';
 
   @override
-  String get settings_TimeFormat24H => '24t';
+  String get settings_TimeFormat24H => '24-timmars format';
 
   @override
-  String get settings_PrayerNotifications => 'Bön notifikationer';
+  String get settings_PrayerNotifications => 'Bönaviseringar';
 
   @override
-  String get settings_PrayerPreNotifications => 'Innan-bön notifikation';
+  String get settings_PrayerPreNotifications => 'Påminnelse före bön';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Innan-Shuruq notifikation';
+  String get settings_ShuruqPreNotifications => 'Påminnelse före soluppgång';
 
   @override
-  String get settings_Calculations => 'Kalkylationer';
+  String get settings_Calculations => 'Beräkningar';
 
   @override
-  String get settings_RateOurApp => 'Betygsätt vår app';
+  String get settings_RateOurApp => 'Betygsätt appen';
 
   @override
   String get settings_WhatsNew => 'Vad är nytt';
 
   @override
-  String get settings_SupportMawaqit => 'Stöd Mawaqit';
+  String get settings_SupportMawaqit => 'Stöd MAWAQIT';
 
   @override
   String get settings_News => 'Nyheter';
 
   @override
-  String get settings_MakeADonation => 'Skicka en välgörenhet';
+  String get settings_MakeADonation => 'Donera';
 
   @override
   String get bismillah => 'Bismillah';
@@ -162,11 +162,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get settings_PrayerNotification_NoNotification =>
-      'Du har för tillfället bestämd att inte bli notiserad vid den här bönen.';
+      'Du har valt att inte få aviseringar för denna bön.';
 
   @override
-  String get settings_PrayerNotification_Bip =>
-      'Pip-ljud som ringsignal vid avisering';
+  String get settings_PrayerNotification_Bip => 'Pipljud vid avisering.';
 
   @override
   String get adhan => 'Adhan';
@@ -190,14 +189,14 @@ class AppLocalizationsSv extends AppLocalizations {
   String get adhan_Muhammad_jazy => 'Muhammad Jazy';
 
   @override
-  String get adhan_AbdAlBassat => 'AbdulBassit';
+  String get adhan_AbdAlBassat => 'Abdul Basit';
 
   @override
   String get adhan_type =>
-      'Välj en typ av Adhan. Den här valet kommer att bli applicerad för varje bön som har notifikation.';
+      'Välj en typ av adhan. Valet används för alla böner med adhan-avisering.';
 
   @override
-  String get settings_prayer_Notification_None => 'Inget';
+  String get settings_prayer_Notification_None => 'Ingen';
 
   @override
   String get prayer_Notification_NoNotification =>
@@ -2062,7 +2061,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get edit => 'Redigera';
 
   @override
-  String get iqama_countdown => 'Iqama nedräkning';
+  String get iqama_countdown => 'Nedräkning till Iqama';
 
   @override
   String get next_prayer_countdown => 'Live aktivitet alltid på';
