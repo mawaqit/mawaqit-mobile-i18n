@@ -1566,5 +1566,9 @@
     "clear_search": "Suchfeld löschen",
     "mosques_found": "moscheen gefunden",
     "mosque_added": "Moschee hinzugefügt",
-    "mosque_removed": "Moschee entfernt"
+    "mosque_removed": "Moschee entfernt",
+    "previous_month": "Vorheriger Monat",
+    "next_month": "Nächster Monat",
+    "scroll_left_right_select_surah": "Wischen Sie nach links oder rechts, um eine Sure auszuwählen",
+    "swipe_left_right_select_mushaf_type": "Wischen Sie nach links oder rechts, um einen anderen Mushaf-Typ auszuwählen"
 }
