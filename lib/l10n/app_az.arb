@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Məkan icazəsi tələb olunur",
-    "access_location_details": "Cari mövqeyinizə əsasən dəqiq hava məlumatını, qiblə istiqamətini və məscid məlumatlarını göstərmək üçün MAWAQIT sizin yerləşdiyiniz yeri istifadə etməlidir. Siz bu icazəni əvvəl rədd etmisiniz."
+    "access_location_details": "Cari mövqeyinizə əsasən dəqiq hava məlumatını, qiblə istiqamətini və məscid məlumatlarını göstərmək üçün MAWAQIT sizin yerləşdiyiniz yeri istifadə etməlidir. Siz bu icazəni əvvəl rədd etmisiniz.",
+    "test_key": "test"
 }

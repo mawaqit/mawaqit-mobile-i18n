@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Yɔrɔ la sariya lajɛ",
-    "access_location_details": "Ka tile kɛnɛya, Kibla fɛ ka taa, ani misiriw ka baarakɛcogo yira i ma i sigiyɔrɔ la, MAWAQIT bɛ se ka i yɔrɔ min na. I ye nin yamaruya ban kɔfɛ."
+    "access_location_details": "Ka tile kɛnɛya, Kibla fɛ ka taa, ani misiriw ka baarakɛcogo yira i ma i sigiyɔrɔ la, MAWAQIT bɛ se ka i yɔrɔ min na. I ye nin yamaruya ban kɔfɛ.",
+    "test_key": "test"
 }

@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Kërkohet leje për vendndodhjen",
-    "access_location_details": "Për t'ju treguar motin lokal të saktë, drejtimin e Kiblës dhe informacionin për xhamitë bazuar në vendndodhjen tuaj aktuale, MAWAQIT ka nevojë për qasje në vendndodhjen tuaj. Ju e keni refuzuar më parë këtë leje."
+    "access_location_details": "Për t'ju treguar motin lokal të saktë, drejtimin e Kiblës dhe informacionin për xhamitë bazuar në vendndodhjen tuaj aktuale, MAWAQIT ka nevojë për qasje në vendndodhjen tuaj. Ju e keni refuzuar më parë këtë leje.",
+    "test_key": "test"
 }

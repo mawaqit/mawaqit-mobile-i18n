@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Locatietoestemming vereist",
-    "access_location_details": "ඔබගේ වත්මන් ස්ථානය මත පදනම්ව නිවැරදි දේශීය කාලගුණය, කිබ්ලා දිශාව සහ මස්ජිද් තොරතුරු පෙන්වීමට MAWAQIT ඔබගේ ස්ථානයට ප්‍රවේශ වීමට අවශ්‍යයි. ඔබ පෙර මෙම අවසරය ප්‍රතික්ෂේප කළා."
+    "access_location_details": "ඔබගේ වත්මන් ස්ථානය මත පදනම්ව නිවැරදි දේශීය කාලගුණය, කිබ්ලා දිශාව සහ මස්ජිද් තොරතුරු පෙන්වීමට MAWAQIT ඔබගේ ස්ථානයට ප්‍රවේශ වීමට අවශ්‍යයි. ඔබ පෙර මෙම අවසරය ප්‍රතික්ෂේප කළා.",
+    "test_key": "test"
 }

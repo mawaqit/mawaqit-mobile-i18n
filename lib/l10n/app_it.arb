@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Autorizzazione alla posizione richiesta",
-    "access_location_details": "Per mostrarti il meteo locale accurato, la direzione della Qibla e le informazioni sulle moschee in base alla tua posizione attuale, MAWAQIT ha bisogno di accedere alla tua posizione. Hai precedentemente negato questo permesso."
+    "access_location_details": "Per mostrarti il meteo locale accurato, la direzione della Qibla e le informazioni sulle moschee in base alla tua posizione attuale, MAWAQIT ha bisogno di accedere alla tua posizione. Hai precedentemente negato questo permesso.",
+    "test_key": "test"
 }

@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Kebenaran lokasi diperlukan",
-    "access_location_details": "Untuk memaparkan cuaca tempatan yang tepat, arah Kiblat dan maklumat masjid berdasarkan lokasi semasa anda, MAWAQIT memerlukan akses ke lokasi anda. Anda sebelum ini telah menolak kebenaran ini."
+    "access_location_details": "Untuk memaparkan cuaca tempatan yang tepat, arah Kiblat dan maklumat masjid berdasarkan lokasi semasa anda, MAWAQIT memerlukan akses ke lokasi anda. Anda sebelum ini telah menolak kebenaran ini.",
+    "test_key": "test"
 }
