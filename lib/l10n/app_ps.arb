@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "د موقعیت اجازه اړینه ده",
-    "access_location_details": "د دې لپاره چې ستاسو د اوسني موقعیت پر بنسټ دقیق محلي هوا، د قبلې لوری او د جومات معلومات وښيي، MAWAQIT ته ستاسو موقعیت ته لاسرسی پکار دی. تاسو مخکې دا اجازه رد کړې ده."
+    "access_location_details": "د دې لپاره چې ستاسو د اوسني موقعیت پر بنسټ دقیق محلي هوا، د قبلې لوری او د جومات معلومات وښيي، MAWAQIT ته ستاسو موقعیت ته لاسرسی پکار دی. تاسو مخکې دا اجازه رد کړې ده.",
+    "test_key": "test"
 }
