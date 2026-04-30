@@ -1572,5 +1572,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "ئورۇنغا رۇخسەت تەلەپ قىلىنىدۇ",
-    "access_location_details": "نۆۋەتتىكى ئورنىڭىزغا ئاساسەن توغرا يەرلىك ھاۋارايى، قىبلى يۆنىلىشى ۋە مەسچىت ئۇچۇرلىرىنى كۆرسىتىش ئۈچۈن MAWAQIT سىزنىڭ ئورنىڭىزغا كىرىش ھوقۇقىغا ئېھتىياجلىق. سىز بۇ رۇخسەتنى بۇرۇن رەت قىلغانسىز."
+    "access_location_details": "نۆۋەتتىكى ئورنىڭىزغا ئاساسەن توغرا يەرلىك ھاۋارايى، قىبلى يۆنىلىشى ۋە مەسچىت ئۇچۇرلىرىنى كۆرسىتىش ئۈچۈن MAWAQIT سىزنىڭ ئورنىڭىزغا كىرىش ھوقۇقىغا ئېھتىياجلىق. سىز بۇ رۇخسەتنى بۇرۇن رەت قىلغانسىز.",
+    "test_key": "test"
 }
