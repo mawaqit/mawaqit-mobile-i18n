@@ -1570,5 +1570,7 @@
     "previous_month": "Previous month",
     "next_month": "Next month",
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
-    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type"
+    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
+    "location_permission_required": "اجازهٔ موقعیت لازم است",
+    "access_location_details": "برای نمایش دقیق آب‌وهوای محلی، جهت قبله و معلومات مساجد بر اساس موقعیت فعلی شما، MAWAQIT نیاز به دسترسی به موقعیت شما دارد. شما قبلاً این اجازه را رد کرده‌اید."
 }

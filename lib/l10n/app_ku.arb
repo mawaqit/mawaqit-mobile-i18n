@@ -1570,5 +1570,7 @@
     "previous_month": "Previous month",
     "next_month": "Next month",
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
-    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type"
+    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
+    "location_permission_required": "Autorisation de localisation requise",
+    "access_location_details": "بۆ پیشاندانی کەشوهەوای ناوخۆیی دروست، ئاراستەی قیبلە و زانیاری مزگەوتەکان بە پشتبەستن بە شوێنی ئێستات، MAWAQIT پێویستی بە دەستگەیشتن بە شوێنی تۆ هەیە. پێشتر ئەم مۆڵەتە ڕەت کردووە."
 }
