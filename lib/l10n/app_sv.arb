@@ -486,52 +486,52 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Din huvud Moské",
+    "tutorial_title_main_mosque": "Din huvudmoské",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Din huvud Moske visar här.\nDu kan svepa åt vänster och höger för att växla mellan dina favorit Moskén.",
+    "tutorial_text_main_mosque": "Din huvudmoské visar här.\nDu kan svepa åt vänster och höger för att växla mellan dina favoritmoskéer.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Nästa Bön indikator",
+    "tutorial_title_countdown": "Indikator för nästa bön",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "Den här nedräkningen visar hur mycket är kvar till nästa bön.",
+    "tutorial_text_countdown": "Den här nedräkningen visar hur lång tid som är kvar till nästa bön.",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Moske information",
+    "tutorial_title_mosque_info": "Moskéinformation",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Allt om din Moské, Anläggningar, Adress, Mobil, Mejl, Donation, och mer.",
+    "tutorial_text_mosque_info": "Allt om din Moské: faciliteter, adress, telefon, e-post, donationer och mer.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "Moskéns meddelande och annonseringar",
+    "tutorial_title_announcements": "Moskéns meddelanden och annonser",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifikation om meddelanden och annonseringar from din Moske kommer att synas. När du trycker på den här knappen, kommer du att se alla detaljer. Dessa annonseringar kan vara ett snabbmeddelande, en bild, eller även en video.",
+    "tutorial_text_announcements": "Aviseringar om meddelanden och annonser från din Moské visas här. När du trycker på den här knappen kan du se alla detaljer. Dessa annonser kan vara ett snabbmeddelanden, bilder, eller videor.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Välj språk",
+    "onboarding_title_1": "Välj ditt språk",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Välj din preparerad språk från listan nere",
+    "onboarding_text_1": "Välj ditt föredragna språk från listan nedan",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
@@ -541,27 +541,27 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT är ett ekosystem som erbjuder dig ett nytt sätt att följa och hantera böntider. Applikationen du håller i handen är en del av detta ekosystem; den låter dig hitta moskéer samt följa deras nyheter och böntider",
+    "onboarding_text_2": "MAWAQIT är ett ekosystem som erbjuder ett nytt sätt att följa och hantera bönetider. Appen hjälper dig att hitta moskéer samt följa deras bönetider och nyheter",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_3": "Välj mörk/ljus tema",
+    "onboarding_title_3": "Välj tema",
     "@onboarding_title_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Oavsett om du befinner dig i en miljö med svagt ljus eller föredrar mörkare bakgrundsfärger på din telefon, kan du dra nytta av mörkt läge för förbättrad visuell komfort",
+    "onboarding_text_3": "Om du föredrar mörka färger eller använder telefonen i svagt ljus aktivera mörkt läge för bättre visuell komfort",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_4": "Lägg till din huvud Moské",
+    "onboarding_title_4": "Lägg till din huvudmoské",
     "@onboarding_title_4": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Vänligen välj din huvud Moské från listan under eller sök efter en Moské när din nuvarande plats",
+    "onboarding_text_4": "Välj din huvudmoské från listan nedan eller sök efter en moské nära din nuvarande plats",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
@@ -571,32 +571,32 @@
         "description": "_",
         "type": "text"
     },
-    "loading_please_wait": "Laddar... vänta lite",
+    "loading_please_wait": "Laddar... Vänligen vänta",
     "@loading_please_wait": {
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Nedladdning klart",
+    "loading_loaded": "Laddningen är klar",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Ändra favorit Moské",
+    "favorites_edit": "Redigera favoritmoskéer",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minuter till Adhan",
+    "minutes_to_athan": "minuter kvar till adhan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Se över Guiden",
+    "show_tutorial": "Visa guiden",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_chose_mosque_please": "Vänligen välj en moské från sök listan",
+    "onboarding_chose_mosque_please": "Välj en moské från söklistan",
     "@onboarding_chose_mosque_please": {
         "description": "_",
         "type": "text"
@@ -621,22 +621,22 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Vänligen öppna appen för att bevara notifikationer",
+    "notification_open_app_body": "Öppna appen för att fortsätta få aviseringar",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Välj bön-notifikation",
+    "tutorial_title_notification": "Välj avisering för bön",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Här kan du välja en typ av notifikation, Afghan, bip eller tyst",
+    "tutorial_text_notification": "Här kan du välja en typ av avisering: adhan, bip eller tyst",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Bli en MAWAQIT-ambassadör och erbjud vår lösning till din moské, det är gratis\nhttps://mawaqit.net",
+    "search_no_result": "Bli en MAWAQIT-ambassadör och erbjud vår lösning till din moské - helt gratis\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
@@ -646,7 +646,7 @@
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "Om du gillar denna app, vänligen ta lite av din tid för att betygsätta den! Det hjälper oss verkligen.",
+    "rate_popin_message": "Om du gillar appen får du gärna ta en stund och betygsätta den. Det hjälper oss mycket.",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
@@ -666,12 +666,12 @@
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "Du kan kolla på alla meddelanden från denna Moské genom att klicka på högtalaren på toppen av skärmen.",
+    "message_see_all": "Du kan se alla meddelanden från denna moské genom att trycka högtalarikonen högst upp på skärmen.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "Mekka",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Här hittar du tiden mellan Adhan och Iqamah i Moskén",
+    "tutorial_text_iqama": "Här hittar du tiden mellan adhan och Iqama i moskén",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -691,32 +691,32 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Nedladdningsbehörighet nekades permanent, vänligen tillåt nedladdning",
+    "calendar_download_permission_refused": "Nedladdning är blockerad. Tillåt nedladdningar i inställningarna",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Nedladdar kalender...",
+    "calendar_downloading": "Laddar ner kalender...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
     },
-    "location_service_disabled": "Platstjänst är inaktiverad, vänligen aktivera den.",
+    "location_service_disabled": "Platstjänster är inaktiverade. Vänligen aktivera dem.",
     "@location_service_disabled": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Platsbehörighet nekades, vänligen tillåt den.",
+    "location_permission_denied": "Platsåtkomst nekades. Tillåt platsåtkomst för att fortsätta.",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Platsbehörighet nekades för alltid, vänligen tillåt den på inställningssidan.",
+    "location_permission_denied_forever": "Platsåtkomst har blockerats permanent. Aktivera den i inställningarna.",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "Du bör minst ha en Moské.",
+    "at_least_one_mosque_error": "Du måste ha minst en moské.",
     "and": "och",
     "continue_to_app": "Fortsätt",
     "add": "Lägg till",
