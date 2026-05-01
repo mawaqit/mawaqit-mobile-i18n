@@ -1572,6 +1572,5 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Требуется разрешение на доступ к местоположению",
-    "access_location_details": "Чтобы показывать точную местную погоду, направление Киблы и информацию о мечетях на основе вашего текущего местоположения, MAWAQIT требуется доступ к вашему местоположению. Ранее вы отклонили это разрешение.",
     "test_key": "test"
 }
