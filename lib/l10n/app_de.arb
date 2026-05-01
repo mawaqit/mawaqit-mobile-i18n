@@ -1572,6 +1572,5 @@
     "scroll_left_right_select_surah": "Wischen Sie nach links oder rechts, um eine Sure auszuwählen",
     "swipe_left_right_select_mushaf_type": "Wischen Sie nach links oder rechts, um einen anderen Mushaf-Typ auszuwählen",
     "location_permission_required": "Standortberechtigung erforderlich",
-    "access_location_details": "Um Ihnen genaue lokale Wetterdaten, die Qibla-Richtung und Moschee-Informationen basierend auf Ihrem aktuellen Standort anzuzeigen, benötigt MAWAQIT Zugriff auf Ihren Standort. Sie haben diese Berechtigung zuvor verweigert.",
     "test_key": "test"
 }

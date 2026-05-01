@@ -1572,6 +1572,5 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Platsbehörighet krävs",
-    "access_location_details": "För att visa exakt lokal väderinformation, Qibla-riktning och moskéinformation baserat på din nuvarande position behöver MAWAQIT få åtkomst till din plats. Du har tidigare nekat denna behörighet.",
     "test_key": "test"
 }
