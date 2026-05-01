@@ -291,22 +291,22 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "Sensoren i din enhet som MAWAQIT använder för att bestämma Qibla funkar inte som förväntad, vilket påverkar vår kapacitet att visa Qibla riktningen.",
-    "connection_not_found": "Inställningen för kompasskalibrering är inaktiverad. Kontrollera att din anslutning är aktiverad och försök igen genom att ändra riktning.",
-    "currently_located_at": "För tillfället på",
-    "facing_makkah": "Du är vänd mot Makkah",
-    "not_facing_Makkah": "Du står inte mot Makkah",
+    "qibla_sensor": "Sensorn i din enhet som MAWAQIT använder för att bestämma Qibla funkar inte som förväntad, vilket påverkar vår kapacitet att visa Qibla riktningen.",
+    "connection_not_found": "Kompasskalibrering är inaktiverad. Kontrollera att din anslutning är aktiv och försök igen genom att ändra riktning.",
+    "currently_located_at": "Nuvarande plats",
+    "facing_makkah": "Du är riktad mot Mekka",
+    "not_facing_Makkah": "Du är inte riktad mot Mekka",
     "qibla_Error_retry": "Försök igen",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Platstjänstbehörighet nekad",
+    "qibla_Error_LocationDenied": "Åtkomst till platstjänster nekad",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Åtkomst till platstjänster har nekats för alltid.",
+    "qibla_Error_LocationDeniedForever": "Åtkomst till platstjänster har permanent nekats!",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
@@ -321,12 +321,12 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_FavoriteMosques": "Favorit moskéer",
+    "favorites_FavoriteMosques": "Favoritmoskéer",
     "@favorites_FavoriteMosques": {
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "Något gick snett...",
+    "favorites_Error": "Något gick fel...",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
@@ -346,17 +346,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "Donera",
+    "mosque_DonateText1": "Donera till moskén",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "Till Moské",
+    "mosque_DonateText2": "Till Moskén",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Kunde inte börja",
+    "mosque_Error_CouldNotLaunch": "Kunde inte öppna",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
@@ -366,7 +366,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Webbsida",
+    "mosque_Website": "Webbplats",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
@@ -376,17 +376,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Phone": "Mobil",
+    "mosque_Phone": "Telefon",
     "@mosque_Phone": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Mail",
+    "mosque_Email": "E-post",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "Av MAWAQIT https://mawaqit.net/",
+    "mosque_ByMawaqit": "Drivs av MAWAQIT",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
@@ -396,47 +396,47 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Vänligen aktivera platstjänster",
+    "mosque_Facilities_DisabledAccess": "Handikappanpassad åtkomst",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Tvagnings rum",
+    "mosque_Facilities_AblutionsRoom": "Tvagningsrum",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Kvinno-område",
+    "mosque_Facilities_WomanSpace": "Kvinnoområde",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Äldre kurser",
+    "mosque_Facilities_AdultsCourse": "Kurser för vuxna",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Barn kurser",
+    "mosque_Facilities_ChildrenCourses": "Barnkurser",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Eid bön",
+    "mosque_Facilities_SalatAlAid": "Eidbön",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salatul Janaza",
+    "mosque_Facilities_SalatAlJanaza": "Janaza bön",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramdan",
+    "mosques_Facilities_IftarRamadan": "Iftar",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All detta information är fyllt av de som tar hand om Moskén",
+    "mosque_facilities_Info": "All information har fyllts i av moskéns ansvariga",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
@@ -446,12 +446,12 @@
         "description": "_",
         "type": "text"
     },
-    "imsak": "Imsak",
+    "imsak": "Fasta",
     "@imsak": {
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid Bön på",
+    "eid": "Eidbön på",
     "@eid": {
         "description": "_",
         "type": "text"
@@ -461,22 +461,22 @@
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jum'a 2",
+    "jumua2": "Fredagsbön 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
     },
-    "please_update": "En ny version av MAWAQIT är tillgänglig, vänligen uppdatera",
+    "please_update": "En ny version av MAWAQIT finns tillgänglig, vänligen uppdatera appen",
     "@please_update": {
         "description": "_",
         "type": "text"
     },
-    "update": "Uppdatering",
+    "update": "Uppdatera",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skippa guiden",
+    "tutorial_skip": "Hoppa över guiden",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
