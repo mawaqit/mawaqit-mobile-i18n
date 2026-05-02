@@ -1571,6 +1571,6 @@
     "next_month": "Nächster Monat",
     "scroll_left_right_select_surah": "Wischen Sie nach links oder rechts, um eine Sure auszuwählen",
     "swipe_left_right_select_mushaf_type": "Wischen Sie nach links oder rechts, um einen anderen Mushaf-Typ auszuwählen",
-    "location_permission_required": "Standortberechtigung erforderlich",
+    "location_permission_required": "Location permission required",
     "test_key": "test"
 }
