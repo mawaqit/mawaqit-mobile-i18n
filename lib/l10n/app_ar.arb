@@ -1571,6 +1571,6 @@
     "next_month": "الشهر التالي",
     "scroll_left_right_select_surah": "اسحب لليسار أو لليمين لاختيار سورة",
     "swipe_left_right_select_mushaf_type": "اسحب لليسار أو لليمين لاختيار نوع مصحف مختلف",
-    "location_permission_required": "يتطلب إذن الموقع",
+    "location_permission_required": "Location permission required",
     "test_key": "test"
 }
