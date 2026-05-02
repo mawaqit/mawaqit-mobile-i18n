@@ -1571,6 +1571,6 @@
     "next_month": "Mois suivant",
     "scroll_left_right_select_surah": "Faites défiler vers la gauche ou la droite pour sélectionner une sourate",
     "swipe_left_right_select_mushaf_type": "Faites glisser vers la gauche ou la droite pour sélectionner un type de mushaf différent",
-    "location_permission_required": "Autorisation de localisation requise",
+    "location_permission_required": "Location permission required",
     "test_key": "test"
 }
