@@ -2499,4 +2499,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get semantic_next_month => 'كېيىنكى ئاي';
+
+  @override
+  String get semantic_view_image => 'View image';
 }

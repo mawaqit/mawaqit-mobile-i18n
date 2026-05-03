@@ -2469,4 +2469,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_next_month => 'الشهر التالي';
+
+  @override
+  String get semantic_view_image => 'عرض الصوره';
 }

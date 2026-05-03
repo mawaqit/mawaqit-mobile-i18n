@@ -2534,4 +2534,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get semantic_next_month => 'Mois suivant';
+
+  @override
+  String get semantic_view_image => 'Voir l\'image';
 }
