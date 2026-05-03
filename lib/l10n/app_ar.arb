@@ -1572,5 +1572,6 @@
     "location_permission_required": "Location permission required",
     "test_key": "test",
     "semantic_previous_month": "الشهر السابق",
-    "semantic_next_month": "الشهر التالي"
+    "semantic_next_month": "الشهر التالي",
+    "semantic_view_image": "عرض الصوره"
 }
