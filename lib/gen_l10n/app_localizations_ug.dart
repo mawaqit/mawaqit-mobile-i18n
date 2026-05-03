@@ -2492,9 +2492,6 @@ class AppLocalizationsUg extends AppLocalizations {
   String get location_permission_required => 'ئورۇن ئىجازىتى زۆرۈر';
 
   @override
-  String get test_key => 'test';
-
-  @override
   String get semantic_previous_month => 'ئالدىنقى ئاي';
 
   @override

@@ -4844,12 +4844,6 @@ abstract class AppLocalizations {
   /// **'Location permission required'**
   String get location_permission_required;
 
-  /// No description provided for @test_key.
-  ///
-  /// In en, this message translates to:
-  /// **'test'**
-  String get test_key;
-
   /// No description provided for @semantic_previous_month.
   ///
   /// In en, this message translates to:
