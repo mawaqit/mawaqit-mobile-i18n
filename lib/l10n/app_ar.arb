@@ -1567,10 +1567,10 @@
     "mosques_found": "مساجد وجدت",
     "mosque_added": "تم إضافة المسجد",
     "mosque_removed": "تم إزالة المسجد",
-    "previous_month": "الشهر السابق",
-    "next_month": "الشهر التالي",
     "scroll_left_right_select_surah": "اسحب لليسار أو لليمين لاختيار سورة",
     "swipe_left_right_select_mushaf_type": "اسحب لليسار أو لليمين لاختيار نوع مصحف مختلف",
     "location_permission_required": "Location permission required",
-    "test_key": "test"
+    "test_key": "test",
+    "semantic_previous_month": "الشهر السابق",
+    "semantic_next_month": "الشهر التالي"
 }
