@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1570,7 +1570,6 @@
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
     "location_permission_required": "Location permission required",
-    "test_key": "test",
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image"
