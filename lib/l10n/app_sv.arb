@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1572,5 +1572,6 @@
     "location_permission_required": "Location permission required",
     "test_key": "test",
     "semantic_previous_month": "Previous month",
-    "semantic_next_month": "Next month"
+    "semantic_next_month": "Next month",
+    "semantic_view_image": "View image"
 }
