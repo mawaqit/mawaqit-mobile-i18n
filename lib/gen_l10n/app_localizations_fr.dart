@@ -2489,7 +2489,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get semantic_off => 'Désactivé';
 
   @override
-  String get semantic_ayah_list_actions => 'Remove bookmark';
+  String get semantic_ayah_list_actions => 'Actions de la liste des versets';
 
   @override
   String get remove_bookmark => 'Supprimer le signet';

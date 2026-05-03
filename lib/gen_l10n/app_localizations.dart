@@ -4775,7 +4775,7 @@ abstract class AppLocalizations {
   /// No description provided for @semantic_ayah_list_actions.
   ///
   /// In en, this message translates to:
-  /// **'Remove bookmark'**
+  /// **'Ayah list actions'**
   String get semantic_ayah_list_actions;
 
   /// No description provided for @remove_bookmark.
