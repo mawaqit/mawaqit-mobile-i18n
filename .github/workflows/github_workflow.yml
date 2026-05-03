@@ -8,58 +8,39 @@ on:
 jobs:
   update-arb:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.35.5'
 
-      - name: Replace "ur-PK" with "ur" in app_ur.arb
+      - name: Fix locale codes in ARB files
         run: |
           sed -i 's/"ur-PK"/"ur"/g' lib/l10n/app_ur.arb
-
-      - name: Replace "es-ES" with "es" in app_es.arb
-        run: |
           sed -i 's/"es-ES"/"es"/g' lib/l10n/app_es.arb
-
-      - name: Replace "pt-PT" with "pt" in app_pt.arb
-        run: |
           sed -i 's/"pt-PT"/"pt"/g' lib/l10n/app_pt.arb
-      - name: Replace "ckb" with "ku" in app_ku.arb
-        run: |
-          sed -i 's/"ckb"/"ku"/g' lib/l10n/app_ku.arb
-      - name: Replace "sv-SE" with "sv" in app_sv.arb
-        run: |
+          sed -i 's/"ckb"/"ku"/g'   lib/l10n/app_ku.arb
           sed -i 's/"sv-SE"/"sv"/g' lib/l10n/app_sv.arb
-      - name: Replace "si-LK" with "si" in app_si.arb
-        run: |
           sed -i 's/"si-LK"/"si"/g' lib/l10n/app_si.arb
-      - name: Replace "pa-PK" with "pa" in app_pa.arb
-        run: |
           sed -i 's/"pa-PK"/"pa"/g' lib/l10n/app_pa.arb
-      - name: Replace "fa-AF" with "pa" in app_fa.arb
-        run: |
           sed -i 's/"fa-AF"/"fa"/g' lib/l10n/app_fa.arb
+
       - name: Run flutter gen-l10n
         run: flutter gen-l10n
-          
-      - name: Untrack .dart_tool and pubspec.lock
-        run: |
-          git rm --cached -r .dart_tool/ || echo ".dart_tool is not tracked"
-          git rm --cached pubspec.lock || echo "pubspec.lock is not tracked"
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Automated ARB file updates, l10n generation, Flutter version, and intl version adjustment" || echo "No changes to commit"
-          git fetch origin
-          git rebase origin/${{ github.head_ref }} || git rebase --abort
-          git push origin HEAD:${{ github.head_ref }}
-        continue-on-error: true
-
+          git add lib/gen_l10n/ lib/l10n/
+          git diff --staged --quiet || git commit -m "chore: regenerate l10n"
+          git push
