@@ -2479,4 +2479,24 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get mosque_removed => 'مەسچىت چىقىرىۋېتىلدى';
+
+  @override
+  String get scroll_left_right_select_surah =>
+      'سۈرەت تاللىغاندا ئوڭ ياكى سولغا سىيرىدۇ';
+
+  @override
+  String get swipe_left_right_select_mushaf_type =>
+      'پەرقلىق مۇسھەف نۇسخىسىنى تاللىغنادا ئوڭ ياكى سولغا سىيرىيدۇ';
+
+  @override
+  String get location_permission_required => 'ئورۇن ئىجازىتى زۆرۈر';
+
+  @override
+  String get test_key => 'سىنا';
+
+  @override
+  String get semantic_previous_month => 'ئالدىنقى ئاي';
+
+  @override
+  String get semantic_next_month => 'كېيىنكى ئاي';
 }

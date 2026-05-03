@@ -2333,7 +2333,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get semantic_clockwise => 'In senso orario';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'senso antiorario';
 
   @override
   String get semantic_rotate_slightly => 'Ci sei quasi. Ruota leggermente';
@@ -2501,4 +2501,24 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get mosque_removed => 'Mosque removed';
+
+  @override
+  String get scroll_left_right_select_surah =>
+      'Scroll left or right to select a surah';
+
+  @override
+  String get swipe_left_right_select_mushaf_type =>
+      'Swipe left or right to select a different mushaf type';
+
+  @override
+  String get location_permission_required => 'Location permission required';
+
+  @override
+  String get test_key => 'test';
+
+  @override
+  String get semantic_previous_month => 'Previous month';
+
+  @override
+  String get semantic_next_month => 'Next month';
 }

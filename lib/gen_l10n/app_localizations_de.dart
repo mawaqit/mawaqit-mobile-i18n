@@ -2506,4 +2506,24 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get mosque_removed => 'Moschee entfernt';
+
+  @override
+  String get scroll_left_right_select_surah =>
+      'Wischen Sie nach links oder rechts, um eine Sure auszuwählen';
+
+  @override
+  String get swipe_left_right_select_mushaf_type =>
+      'Wischen Sie nach links oder rechts, um einen anderen Mushaf-Typ auszuwählen';
+
+  @override
+  String get location_permission_required => 'Location permission required';
+
+  @override
+  String get test_key => 'test';
+
+  @override
+  String get semantic_previous_month => 'Vorheriger Monat';
+
+  @override
+  String get semantic_next_month => 'Nächster Monat';
 }

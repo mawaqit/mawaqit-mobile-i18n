@@ -2449,4 +2449,24 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get mosque_removed => 'تم إزالة المسجد';
+
+  @override
+  String get scroll_left_right_select_surah =>
+      'اسحب لليسار أو لليمين لاختيار سورة';
+
+  @override
+  String get swipe_left_right_select_mushaf_type =>
+      'اسحب لليسار أو لليمين لاختيار نوع مصحف مختلف';
+
+  @override
+  String get location_permission_required => 'Location permission required';
+
+  @override
+  String get test_key => 'test';
+
+  @override
+  String get semantic_previous_month => 'الشهر السابق';
+
+  @override
+  String get semantic_next_month => 'الشهر التالي';
 }

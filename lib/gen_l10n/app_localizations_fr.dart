@@ -2514,4 +2514,24 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get mosque_removed => 'Mosquée retirée';
+
+  @override
+  String get scroll_left_right_select_surah =>
+      'Faites défiler vers la gauche ou la droite pour sélectionner une sourate';
+
+  @override
+  String get swipe_left_right_select_mushaf_type =>
+      'Faites glisser vers la gauche ou la droite pour sélectionner un type de mushaf différent';
+
+  @override
+  String get location_permission_required => 'Location permission required';
+
+  @override
+  String get test_key => 'test';
+
+  @override
+  String get semantic_previous_month => 'Mois précédent';
+
+  @override
+  String get semantic_next_month => 'Mois suivant';
 }
