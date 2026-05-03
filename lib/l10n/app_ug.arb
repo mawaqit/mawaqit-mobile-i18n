@@ -1567,10 +1567,10 @@
     "mosques_found": "تېپىلغان مەسچىت",
     "mosque_added": "مەسچىت قوشۇلدى",
     "mosque_removed": "مەسچىت چىقىرىۋېتىلدى",
-    "previous_month": "Previous month",
-    "next_month": "Next month",
-    "scroll_left_right_select_surah": "Scroll left or right to select a surah",
-    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
-    "location_permission_required": "ئورۇنغا رۇخسەت تەلەپ قىلىنىدۇ",
-    "test_key": "test"
+    "scroll_left_right_select_surah": "سۈرەت تاللىغاندا ئوڭ ياكى سولغا سىيرىدۇ",
+    "swipe_left_right_select_mushaf_type": "پەرقلىق مۇسھەف نۇسخىسىنى تاللىغنادا ئوڭ ياكى سولغا سىيرىيدۇ",
+    "location_permission_required": "ئورۇن ئىجازىتى زۆرۈر",
+    "test_key": "سىنا",
+    "semantic_previous_month": "ئالدىنقى ئاي",
+    "semantic_next_month": "كېيىنكى ئاي"
 }

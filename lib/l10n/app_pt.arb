@@ -1567,10 +1567,10 @@
     "mosques_found": "mosques found",
     "mosque_added": "Mosque added",
     "mosque_removed": "Mosque removed",
-    "previous_month": "Previous month",
-    "next_month": "Next month",
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
-    "location_permission_required": "Permissão de localização necessária",
-    "test_key": "test"
+    "location_permission_required": "Location permission required",
+    "test_key": "test",
+    "semantic_previous_month": "Previous month",
+    "semantic_next_month": "Next month"
 }
