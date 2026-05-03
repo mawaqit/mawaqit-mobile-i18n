@@ -2514,9 +2514,6 @@ class AppLocalizationsPt extends AppLocalizations {
   String get location_permission_required => 'Location permission required';
 
   @override
-  String get test_key => 'test';
-
-  @override
   String get semantic_previous_month => 'Previous month';
 
   @override
