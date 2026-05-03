@@ -2455,7 +2455,7 @@ class AppLocalizationsPs extends AppLocalizations {
   String get semantic_off => 'Off';
 
   @override
-  String get semantic_ayah_list_actions => 'Remove bookmark';
+  String get semantic_ayah_list_actions => 'Ayah list actions';
 
   @override
   String get remove_bookmark => 'Remove bookmark';

@@ -2481,7 +2481,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get semantic_off => 'Aus';
 
   @override
-  String get semantic_ayah_list_actions => 'Lesezeichen entfernen';
+  String get semantic_ayah_list_actions => 'Aktionen der Versliste';
 
   @override
   String get remove_bookmark => 'Lesezeichen entfernen';
