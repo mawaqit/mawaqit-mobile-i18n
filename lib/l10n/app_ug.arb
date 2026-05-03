@@ -1572,5 +1572,6 @@
     "location_permission_required": "ئورۇن ئىجازىتى زۆرۈر",
     "test_key": "سىنا",
     "semantic_previous_month": "ئالدىنقى ئاي",
-    "semantic_next_month": "كېيىنكى ئاي"
+    "semantic_next_month": "كېيىنكى ئاي",
+    "semantic_view_image": "View image"
 }

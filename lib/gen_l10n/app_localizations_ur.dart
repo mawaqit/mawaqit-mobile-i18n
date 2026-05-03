@@ -2499,4 +2499,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get semantic_next_month => 'Next month';
+
+  @override
+  String get semantic_view_image => 'View image';
 }

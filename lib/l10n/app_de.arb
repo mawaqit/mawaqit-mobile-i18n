@@ -1572,5 +1572,6 @@
     "location_permission_required": "Location permission required",
     "test_key": "test",
     "semantic_previous_month": "Vorheriger Monat",
-    "semantic_next_month": "Nächster Monat"
+    "semantic_next_month": "Nächster Monat",
+    "semantic_view_image": "Bild anzeigen"
 }
