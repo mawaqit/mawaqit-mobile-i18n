@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Para mostrar o clima local preciso, a direção da Qibla e informações sobre mesquitas com base na sua localização atual, o MAWAQIT precisa acessar sua localização. Você negou essa permissão anteriormente."
+    "access_location_details": "Para mostrar o clima local preciso, a direção da Qibla e informações sobre mesquitas com base na sua localização atual, o MAWAQIT precisa acessar sua localização. Você negou essa permissão anteriormente.",
+    "location_off": "Localização desativada"
 }
