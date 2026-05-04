@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Ka kɛ an ye sanji kɔrɔsɛbɛ, kibila bolo, ani misiriw la kunnafoniw ye i ka yɔrɔ la, MAWAQIT bɛ i ka yɔrɔ la sɔrɔ. I ye niyɔrɔ min bɛ taa fɔlɔ."
+    "access_location_details": "Ka kɛ an ye sanji kɔrɔsɛbɛ, kibila bolo, ani misiriw la kunnafoniw ye i ka yɔrɔ la, MAWAQIT bɛ i ka yɔrɔ la sɔrɔ. I ye niyɔrɔ min bɛ taa fɔlɔ.",
+    "location_off": "Yɔrɔ bɛ se ka taa"
 }
