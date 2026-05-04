@@ -1569,8 +1569,9 @@
     "mosque_removed": "تم إزالة المسجد",
     "scroll_left_right_select_surah": "اسحب لليسار أو لليمين لاختيار سورة",
     "swipe_left_right_select_mushaf_type": "اسحب لليسار أو لليمين لاختيار نوع مصحف مختلف",
-    "location_permission_required": "Location permission required",
+    "location_permission_required": "إذن الموقع مطلوب",
     "semantic_previous_month": "الشهر السابق",
     "semantic_next_month": "الشهر التالي",
-    "semantic_view_image": "عرض الصوره"
+    "semantic_view_image": "عرض الصوره",
+    "access_location_details": "لعرض الطقس المحلي بدقة، واتجاه القبلة، ومعلومات المساجد بناءً على موقعك الحالي، يحتاج MAWAQIT إلى الوصول إلى موقعك. لقد رفضت هذا الإذن سابقًا."
 }
