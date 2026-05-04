@@ -2491,7 +2491,7 @@ class AppLocalizationsAz extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'Location Permission Required';
+  String get location_permission_required => 'Məkan icazəsi tələb olunur';
 
   @override
   String get semantic_previous_month => 'Previous month';
