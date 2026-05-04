@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Näyttääkseen tarkan paikallisen sään, Qibla-suunnan ja moskeijatiedot nykyisen sijaintisi perusteella MAWAQIT tarvitsee pääsyn sijaintiisi. Olet aiemmin estänyt tämän luvan."
+    "access_location_details": "Näyttääkseen tarkan paikallisen sään, Qibla-suunnan ja moskeijatiedot nykyisen sijaintisi perusteella MAWAQIT tarvitsee pääsyn sijaintiisi. Olet aiemmin estänyt tämän luvan.",
+    "location_off": "Sijainti pois päältä"
 }
