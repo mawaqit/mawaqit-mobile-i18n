@@ -2496,7 +2496,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'Location Permission Required';
+  String get location_permission_required => 'پێویستە مۆڵەتی شوێن';
 
   @override
   String get semantic_previous_month => 'Previous month';

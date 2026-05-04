@@ -2489,7 +2489,7 @@ class AppLocalizationsUg extends AppLocalizations {
       'پەرقلىق مۇسھەف نۇسخىسىنى تاللىغنادا ئوڭ ياكى سولغا سىيرىيدۇ';
 
   @override
-  String get location_permission_required => 'Location Permission Required';
+  String get location_permission_required => 'ئورۇن ئىجازىتى تەلەپ قىلىنىدۇ';
 
   @override
   String get semantic_previous_month => 'ئالدىنقى ئاي';
