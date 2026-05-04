@@ -1574,5 +1574,9 @@
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
     "access_location_details": "د دې لپاره چې ستاسو د اوسني موقعیت پر بنسټ دقیق محلي هوا، د قبلې لوری او د جومات معلومات وښيي، MAWAQIT ته ستاسو موقعیت ته لاسرسی پکار دی. تاسو مخکې دا اجازه رد کړې ده.",
-    "location_off": "موقعیت بند دی"
+    "location_off": "موقعیت بند دی",
+    "semantic_pre_notification_time": "pre-notification time",
+    "@semantic_pre_notification_time": {
+        "description": "-> semantic_pre_notification_time"
+    }
 }
