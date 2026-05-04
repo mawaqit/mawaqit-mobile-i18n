@@ -2516,8 +2516,7 @@ class AppLocalizationsDe extends AppLocalizations {
       'Wischen Sie nach links oder rechts, um einen anderen Mushaf-Typ auszuwählen';
 
   @override
-  String get location_permission_required =>
-      'Standortberechtigung erforderlich';
+  String get location_permission_required => 'Location Permission Required';
 
   @override
   String get semantic_previous_month => 'Vorheriger Monat';

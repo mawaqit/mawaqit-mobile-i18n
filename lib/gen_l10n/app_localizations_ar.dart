@@ -2459,7 +2459,7 @@ class AppLocalizationsAr extends AppLocalizations {
       'اسحب لليسار أو لليمين لاختيار نوع مصحف مختلف';
 
   @override
-  String get location_permission_required => 'إذن الموقع مطلوب';
+  String get location_permission_required => 'Location Permission Required';
 
   @override
   String get semantic_previous_month => 'الشهر السابق';
