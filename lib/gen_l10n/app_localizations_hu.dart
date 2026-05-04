@@ -2501,7 +2501,8 @@ class AppLocalizationsHu extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'Location permission required';
+  String get location_permission_required =>
+      'Helymeghatározási engedély szükséges';
 
   @override
   String get semantic_previous_month => 'Previous month';
@@ -2511,4 +2512,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get semantic_view_image => 'View image';
+
+  @override
+  String get access_location_details =>
+      'A pontos helyi időjárás, a Qibla irány és a mecsetek információinak megjelenítéséhez a jelenlegi tartózkodási helye alapján a MAWAQIT hozzáférést igényel a tartózkodási helyéhez. Ön korábban elutasította ezt az engedélyt.';
 }

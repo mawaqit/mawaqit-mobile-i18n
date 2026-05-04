@@ -2496,7 +2496,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'Location permission required';
+  String get location_permission_required => 'پێویستە مۆڵەتی شوێن';
 
   @override
   String get semantic_previous_month => 'Previous month';
@@ -2506,4 +2506,8 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get semantic_view_image => 'View image';
+
+  @override
+  String get access_location_details =>
+      'بۆ پیشاندانی هەواڵی وەرزی ناوخۆیی بە دروستی، ئاراستەی قیبڵە و زانیاری مزگەوتەکان بە پێی شوێنی ئێستات، MAWAQIT پێویستی بە دەستگەیشتن بە شوێنەکەت هەیە. پێشتر ئەم مۆڵەتە ڕەتکردووە.';
 }

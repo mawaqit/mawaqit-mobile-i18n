@@ -2503,7 +2503,7 @@ class AppLocalizationsNl extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'Location permission required';
+  String get location_permission_required => 'Locatietoestemming vereist';
 
   @override
   String get semantic_previous_month => 'Previous month';
@@ -2513,4 +2513,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get semantic_view_image => 'View image';
+
+  @override
+  String get access_location_details =>
+      'Om u nauwkeurige lokale weersinformatie, de Qibla-richting en moskee-informatie te tonen op basis van uw huidige locatie, heeft MAWAQIT toegang tot uw locatie nodig. U heeft deze toestemming eerder geweigerd.';
 }

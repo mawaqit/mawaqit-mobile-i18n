@@ -4841,7 +4841,7 @@ abstract class AppLocalizations {
   /// No description provided for @location_permission_required.
   ///
   /// In en, this message translates to:
-  /// **'Location permission required'**
+  /// **'Location Permission Required'**
   String get location_permission_required;
 
   /// No description provided for @semantic_previous_month.
@@ -4861,6 +4861,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'View image'**
   String get semantic_view_image;
+
+  /// No description provided for @access_location_details.
+  ///
+  /// In en, this message translates to:
+  /// **'To show you accurate local weather, Qibla direction, and mosque information based on your current position, MAWAQIT needs to access your location. You previously denied this permission.'**
+  String get access_location_details;
 }
 
 class _AppLocalizationsDelegate
