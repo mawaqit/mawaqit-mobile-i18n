@@ -4873,6 +4873,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Location Off'**
   String get location_off;
+
+  /// -> semantic_pre_notification_time
+  ///
+  /// In en, this message translates to:
+  /// **'pre-notification time'**
+  String get semantic_pre_notification_time;
 }
 
 class _AppLocalizationsDelegate

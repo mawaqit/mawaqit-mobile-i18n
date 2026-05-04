@@ -2506,4 +2506,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get location_off => 'لوکیشن بند ہے';
+
+  @override
+  String get semantic_pre_notification_time => 'پہلے نوٹیفکیشن کا وقت';
 }

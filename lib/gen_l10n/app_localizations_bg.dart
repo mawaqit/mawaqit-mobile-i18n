@@ -2514,4 +2514,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get location_off => 'Местоположението е изключено';
+
+  @override
+  String get semantic_pre_notification_time => 'pre-notification time';
 }

@@ -2513,4 +2513,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get location_off => 'Местоположение отключено';
+
+  @override
+  String get semantic_pre_notification_time => 'pre-notification time';
 }

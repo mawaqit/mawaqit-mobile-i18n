@@ -2496,4 +2496,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get location_off => 'Konum kapalı';
+
+  @override
+  String get semantic_pre_notification_time => 'ön bildirim süresi';
 }

@@ -2509,4 +2509,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get location_off => 'Sijainti pois päältä';
+
+  @override
+  String get semantic_pre_notification_time => 'pre-notification time';
 }
