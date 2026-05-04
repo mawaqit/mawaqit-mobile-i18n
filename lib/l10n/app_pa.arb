@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "آپنی موجودہ لوکیشن دے مطابق درست مقامی موسم، قبلہ دی سمت تے مسجد دی معلومات دکھاؤن لئی MAWAQIT نوں تُہاڈی لوکیشن دی رسائی دی لوڑ اے۔ تُسی پہلے ایہ اجازت رد کر دتی سی۔"
+    "access_location_details": "آپنی موجودہ لوکیشن دے مطابق درست مقامی موسم، قبلہ دی سمت تے مسجد دی معلومات دکھاؤن لئی MAWAQIT نوں تُہاڈی لوکیشن دی رسائی دی لوڑ اے۔ تُسی پہلے ایہ اجازت رد کر دتی سی۔",
+    "location_off": "لوکیشن بند ہے"
 }
