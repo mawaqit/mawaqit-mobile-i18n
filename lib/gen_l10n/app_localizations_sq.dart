@@ -2518,4 +2518,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get location_off => 'Vendndodhja e çaktivizuar';
+
+  @override
+  String get semantic_pre_notification_time => 'koha e njoftimit paraprak';
 }

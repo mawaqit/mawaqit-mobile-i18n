@@ -2507,4 +2507,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get location_off => 'ปิดตำแหน่งที่ตั้ง';
+
+  @override
+  String get semantic_pre_notification_time => 'pre-notification time';
 }

@@ -2506,4 +2506,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get location_off => 'Yɔrɔ bɛ se ka taa';
+
+  @override
+  String get semantic_pre_notification_time => 'pre-notification time';
 }

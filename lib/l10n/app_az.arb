@@ -1574,5 +1574,9 @@
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
     "access_location_details": "Dəqiq yerli hava məlumatını, qiblə istiqamətini və mövcud mövqeyinizə əsasən məscid məlumatlarını göstərmək üçün MAWAQIT sizin məkanınıza daxil olmalıdır. Siz bu icazəni əvvəllər rədd etmisiniz.",
-    "location_off": "Məkan deaktiv edilib"
+    "location_off": "Məkan deaktiv edilib",
+    "semantic_pre_notification_time": "pre-notification time",
+    "@semantic_pre_notification_time": {
+        "description": "-> semantic_pre_notification_time"
+    }
 }

@@ -2476,4 +2476,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get location_off => 'الموقع متوقف';
+
+  @override
+  String get semantic_pre_notification_time => 'وقت الإشعار المسبق';
 }

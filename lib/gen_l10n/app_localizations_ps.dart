@@ -2507,4 +2507,7 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get location_off => 'موقعیت بند دی';
+
+  @override
+  String get semantic_pre_notification_time => 'pre-notification time';
 }

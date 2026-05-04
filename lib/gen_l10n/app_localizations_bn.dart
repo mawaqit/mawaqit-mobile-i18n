@@ -2507,4 +2507,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get location_off => 'অবস্থান বন্ধ';
+
+  @override
+  String get semantic_pre_notification_time => 'পূর্ব-নোটিফিকেশন সময়';
 }

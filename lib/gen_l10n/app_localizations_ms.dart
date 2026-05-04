@@ -2507,4 +2507,7 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get location_off => 'Lokasi dimatikan';
+
+  @override
+  String get semantic_pre_notification_time => 'pre-notification time';
 }

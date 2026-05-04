@@ -2505,4 +2505,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get location_off => 'Lokalizacja wyłączona';
+
+  @override
+  String get semantic_pre_notification_time => 'czas powiadomienia wstępnego';
 }

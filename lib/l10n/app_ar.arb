@@ -1574,5 +1574,9 @@
     "semantic_next_month": "الشهر التالي",
     "semantic_view_image": "عرض الصوره",
     "access_location_details": "لعرض الطقس المحلي بدقة، واتجاه القبلة، ومعلومات المساجد بناءً على موقعك الحالي، يحتاج MAWAQIT إلى الوصول إلى موقعك. لقد رفضت هذا الإذن سابقًا.",
-    "location_off": "الموقع متوقف"
+    "location_off": "الموقع متوقف",
+    "semantic_pre_notification_time": "وقت الإشعار المسبق",
+    "@semantic_pre_notification_time": {
+        "description": "-> semantic_pre_notification_time"
+    }
 }

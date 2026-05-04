@@ -2512,4 +2512,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get location_off => 'Lokacija isključen';
+
+  @override
+  String get semantic_pre_notification_time => 'vrijeme prethodne obavijesti';
 }

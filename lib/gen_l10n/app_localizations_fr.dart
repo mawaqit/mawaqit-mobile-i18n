@@ -2541,4 +2541,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get location_off => 'Localisation désactivée';
+
+  @override
+  String get semantic_pre_notification_time => 'temps de pré-notification';
 }

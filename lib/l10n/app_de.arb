@@ -1574,5 +1574,9 @@
     "semantic_next_month": "Nächster Monat",
     "semantic_view_image": "Bild anzeigen",
     "access_location_details": "Um Ihnen genaue lokale Wetterdaten, die Qibla-Richtung und Moschee-Informationen basierend auf Ihrem aktuellen Standort anzuzeigen, benötigt MAWAQIT Zugriff auf Ihren Standort. Sie haben diese Berechtigung zuvor verweigert.",
-    "location_off": "Standort deaktiviert"
+    "location_off": "Standort deaktiviert",
+    "semantic_pre_notification_time": "Vorbenachrichtigungszeit",
+    "@semantic_pre_notification_time": {
+        "description": "-> semantic_pre_notification_time"
+    }
 }

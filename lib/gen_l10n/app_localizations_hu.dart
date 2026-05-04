@@ -2518,4 +2518,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get location_off => 'Helymeghatározás kikapcsolva';
+
+  @override
+  String get semantic_pre_notification_time => 'előértesítési idő';
 }
