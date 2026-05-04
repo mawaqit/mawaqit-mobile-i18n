@@ -2510,4 +2510,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get access_location_details =>
       'بۆ پیشاندانی هەواڵی وەرزی ناوخۆیی بە دروستی، ئاراستەی قیبڵە و زانیاری مزگەوتەکان بە پێی شوێنی ئێستات، MAWAQIT پێویستی بە دەستگەیشتن بە شوێنەکەت هەیە. پێشتر ئەم مۆڵەتە ڕەتکردووە.';
+
+  @override
+  String get location_off => 'شوێن ناچالاکە';
 }

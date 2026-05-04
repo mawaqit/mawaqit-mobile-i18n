@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "برای نمایش دقیق آب‌وهوای محلی، جهت قبله و اطلاعات مساجد بر اساس موقعیت فعلی شما، MAWAQIT نیاز به دسترسی به موقعیت شما دارد. شما قبلاً این اجازه را رد کرده‌اید."
+    "access_location_details": "برای نمایش دقیق آب‌وهوای محلی، جهت قبله و اطلاعات مساجد بر اساس موقعیت فعلی شما، MAWAQIT نیاز به دسترسی به موقعیت شما دارد. شما قبلاً این اجازه را رد کرده‌اید.",
+    "location_off": "موقعیت خاموش است"
 }

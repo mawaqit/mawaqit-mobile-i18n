@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Untuk memaparkan cuaca tempatan yang tepat, arah kiblat dan maklumat masjid berdasarkan lokasi semasa anda, MAWAQIT memerlukan akses kepada lokasi anda. Anda sebelum ini telah menolak kebenaran ini."
+    "access_location_details": "Untuk memaparkan cuaca tempatan yang tepat, arah kiblat dan maklumat masjid berdasarkan lokasi semasa anda, MAWAQIT memerlukan akses kepada lokasi anda. Anda sebelum ini telah menolak kebenaran ini.",
+    "location_off": "Lokasi dimatikan"
 }

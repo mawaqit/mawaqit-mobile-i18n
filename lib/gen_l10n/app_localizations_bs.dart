@@ -2509,4 +2509,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get access_location_details =>
       'Da bi vam prikazao tačne lokalne vremenske podatke, smjer Kible i informacije o džamijama na osnovu vaše trenutne lokacije, MAWAQIT treba pristup vašoj lokaciji. Ranije ste odbili ovu dozvolu.';
+
+  @override
+  String get location_off => 'Lokacija isključen';
 }

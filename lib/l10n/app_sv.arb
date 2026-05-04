@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "För att visa korrekt lokal väderinformation, Qibla-riktning och moskéinformation baserat på din nuvarande position behöver MAWAQIT åtkomst till din plats. Du har tidigare nekat denna behörighet."
+    "access_location_details": "För att visa korrekt lokal väderinformation, Qibla-riktning och moskéinformation baserat på din nuvarande position behöver MAWAQIT åtkomst till din plats. Du har tidigare nekat denna behörighet.",
+    "location_off": "Plats avstängd"
 }

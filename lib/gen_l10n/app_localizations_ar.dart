@@ -2473,4 +2473,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get access_location_details =>
       'لعرض الطقس المحلي بدقة، واتجاه القبلة، ومعلومات المساجد بناءً على موقعك الحالي، يحتاج MAWAQIT إلى الوصول إلى موقعك. لقد رفضت هذا الإذن سابقًا.';
+
+  @override
+  String get location_off => 'الموقع متوقف';
 }

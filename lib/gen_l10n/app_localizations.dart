@@ -4867,6 +4867,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'To show you accurate local weather, Qibla direction, and mosque information based on your current position, MAWAQIT needs to access your location. You previously denied this permission.'**
   String get access_location_details;
+
+  /// No description provided for @location_off.
+  ///
+  /// In en, this message translates to:
+  /// **'Location Off'**
+  String get location_off;
 }
 
 class _AppLocalizationsDelegate

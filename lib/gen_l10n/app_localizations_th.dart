@@ -2504,4 +2504,7 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get access_location_details =>
       'เพื่อแสดงสภาพอากาศในพื้นที่อย่างแม่นยำ ทิศทางกิบลัต และข้อมูลมัสยิดตามตำแหน่งปัจจุบันของคุณ MAWAQIT จำเป็นต้องเข้าถึงตำแหน่งของคุณ คุณได้ปฏิเสธการอนุญาตนี้ก่อนหน้านี้';
+
+  @override
+  String get location_off => 'ปิดตำแหน่งที่ตั้ง';
 }

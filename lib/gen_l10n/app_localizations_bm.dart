@@ -2503,4 +2503,7 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get access_location_details =>
       'Ka kɛ an ye sanji kɔrɔsɛbɛ, kibila bolo, ani misiriw la kunnafoniw ye i ka yɔrɔ la, MAWAQIT bɛ i ka yɔrɔ la sɔrɔ. I ye niyɔrɔ min bɛ taa fɔlɔ.';
+
+  @override
+  String get location_off => 'Yɔrɔ bɛ se ka taa';
 }

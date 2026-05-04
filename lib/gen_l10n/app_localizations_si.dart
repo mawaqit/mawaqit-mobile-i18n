@@ -2503,4 +2503,7 @@ class AppLocalizationsSi extends AppLocalizations {
   @override
   String get access_location_details =>
       'ඔබගේ වත්මන් ස්ථානය මත පදනම්ව නිවැරදි දේශීය කාලගුණය, කිබ්ලා දිශාව සහ මස්ජිද් තොරතුරු පෙන්වීමට MAWAQIT ඔබගේ ස්ථානයට ප්‍රවේශය අවශ්‍ය වේ. ඔබ පෙර මෙම අවසරය ප්‍රතික්ෂේප කර ඇත.';
+
+  @override
+  String get location_off => 'ස්ථානය අක්‍රියයි';
 }

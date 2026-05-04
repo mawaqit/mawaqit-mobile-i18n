@@ -2504,4 +2504,7 @@ class AppLocalizationsPs extends AppLocalizations {
   @override
   String get access_location_details =>
       'د دې لپاره چې ستاسو د اوسني موقعیت پر بنسټ دقیق محلي هوا، د قبلې لوری او د جومات معلومات وښيي، MAWAQIT ته ستاسو موقعیت ته لاسرسی پکار دی. تاسو مخکې دا اجازه رد کړې ده.';
+
+  @override
+  String get location_off => 'موقعیت بند دی';
 }

@@ -2504,4 +2504,7 @@ class AppLocalizationsMs extends AppLocalizations {
   @override
   String get access_location_details =>
       'Untuk memaparkan cuaca tempatan yang tepat, arah kiblat dan maklumat masjid berdasarkan lokasi semasa anda, MAWAQIT memerlukan akses kepada lokasi anda. Anda sebelum ini telah menolak kebenaran ini.';
+
+  @override
+  String get location_off => 'Lokasi dimatikan';
 }

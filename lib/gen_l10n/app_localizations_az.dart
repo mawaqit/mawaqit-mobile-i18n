@@ -2505,4 +2505,7 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get access_location_details =>
       'Dəqiq yerli hava məlumatını, qiblə istiqamətini və mövcud mövqeyinizə əsasən məscid məlumatlarını göstərmək üçün MAWAQIT sizin məkanınıza daxil olmalıdır. Siz bu icazəni əvvəllər rədd etmisiniz.';
+
+  @override
+  String get location_off => 'Məkan deaktiv edilib';
 }

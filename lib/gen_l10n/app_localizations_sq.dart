@@ -2515,4 +2515,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get access_location_details =>
       'Për t\'ju treguar motin lokal të saktë, drejtimin e Kiblës dhe informacionin për xhamitë bazuar në pozicionin tuaj aktual, MAWAQIT ka nevojë për qasje në vendndodhjen tuaj. Ju e keni refuzuar më parë këtë leje.';
+
+  @override
+  String get location_off => 'Vendndodhja e çaktivizuar';
 }

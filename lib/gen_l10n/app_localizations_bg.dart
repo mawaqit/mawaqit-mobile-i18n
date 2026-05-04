@@ -2511,4 +2511,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get access_location_details =>
       'За да ви покаже точна местна прогноза за времето, посоката на Кибла и информация за джамии въз основа на текущото ви местоположение, MAWAQIT се нуждае от достъп до вашето местоположение. Вие преди това сте отказали това разрешение.';
+
+  @override
+  String get location_off => 'Местоположението е изключено';
 }

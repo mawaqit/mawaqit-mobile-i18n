@@ -2502,4 +2502,7 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get access_location_details =>
       'برای نمایش دقیق آب‌وهوای محلی، جهت قبله و اطلاعات مساجد بر اساس موقعیت فعلی شما، MAWAQIT نیاز به دسترسی به موقعیت شما دارد. شما قبلاً این اجازه را رد کرده‌اید.';
+
+  @override
+  String get location_off => 'موقعیت خاموش است';
 }

@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Per mostrarti meteo locale accurato, direzione della Qibla e informazioni sulle moschee in base alla tua posizione attuale, MAWAQIT ha bisogno di accedere alla tua posizione. Hai precedentemente negato questa autorizzazione."
+    "access_location_details": "Per mostrarti meteo locale accurato, direzione della Qibla e informazioni sulle moschee in base alla tua posizione attuale, MAWAQIT ha bisogno di accedere alla tua posizione. Hai precedentemente negato questa autorizzazione.",
+    "location_off": "Posizione disattivata"
 }

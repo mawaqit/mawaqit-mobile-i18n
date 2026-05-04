@@ -2493,4 +2493,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get access_location_details =>
       'Mevcut konumunuza göre doğru yerel hava durumu, kıble yönü ve cami bilgilerini göstermek için MAWAQIT konumunuza erişim gerektirir. Bu izni daha önce reddettiniz.';
+
+  @override
+  String get location_off => 'Konum kapalı';
 }

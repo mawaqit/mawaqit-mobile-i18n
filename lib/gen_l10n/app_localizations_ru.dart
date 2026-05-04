@@ -2510,4 +2510,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get access_location_details =>
       'Чтобы показывать точную местную погоду, направление Киблы и информацию о мечетях на основе вашего текущего местоположения, MAWAQIT требуется доступ к вашему местоположению. Ранее вы отклонили это разрешение.';
+
+  @override
+  String get location_off => 'Местоположение отключено';
 }

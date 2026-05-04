@@ -2517,4 +2517,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get access_location_details =>
       'Om u nauwkeurige lokale weersinformatie, de Qibla-richting en moskee-informatie te tonen op basis van uw huidige locatie, heeft MAWAQIT toegang tot uw locatie nodig. U heeft deze toestemming eerder geweigerd.';
+
+  @override
+  String get location_off => 'Locatie uitgeschakeld';
 }

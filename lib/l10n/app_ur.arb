@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "آپ کے موجودہ مقام کی بنیاد پر درست مقامی موسم، قبلہ کی سمت اور مساجد کی معلومات دکھانے کے لیے MAWAQIT کو آپ کے مقام تک رسائی درکار ہے۔ آپ پہلے اس اجازت کو مسترد کر چکے ہیں۔"
+    "access_location_details": "آپ کے موجودہ مقام کی بنیاد پر درست مقامی موسم، قبلہ کی سمت اور مساجد کی معلومات دکھانے کے لیے MAWAQIT کو آپ کے مقام تک رسائی درکار ہے۔ آپ پہلے اس اجازت کو مسترد کر چکے ہیں۔",
+    "location_off": "لوکیشن بند ہے"
 }

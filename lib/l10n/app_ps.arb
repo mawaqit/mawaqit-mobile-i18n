@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "د دې لپاره چې ستاسو د اوسني موقعیت پر بنسټ دقیق محلي هوا، د قبلې لوری او د جومات معلومات وښيي، MAWAQIT ته ستاسو موقعیت ته لاسرسی پکار دی. تاسو مخکې دا اجازه رد کړې ده."
+    "access_location_details": "د دې لپاره چې ستاسو د اوسني موقعیت پر بنسټ دقیق محلي هوا، د قبلې لوری او د جومات معلومات وښيي، MAWAQIT ته ستاسو موقعیت ته لاسرسی پکار دی. تاسو مخکې دا اجازه رد کړې ده.",
+    "location_off": "موقعیت بند دی"
 }

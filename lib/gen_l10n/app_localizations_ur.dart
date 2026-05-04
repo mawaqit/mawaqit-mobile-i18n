@@ -2503,4 +2503,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get access_location_details =>
       'آپ کے موجودہ مقام کی بنیاد پر درست مقامی موسم، قبلہ کی سمت اور مساجد کی معلومات دکھانے کے لیے MAWAQIT کو آپ کے مقام تک رسائی درکار ہے۔ آپ پہلے اس اجازت کو مسترد کر چکے ہیں۔';
+
+  @override
+  String get location_off => 'لوکیشن بند ہے';
 }

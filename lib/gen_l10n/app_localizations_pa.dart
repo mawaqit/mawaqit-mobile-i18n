@@ -2505,4 +2505,7 @@ class AppLocalizationsPa extends AppLocalizations {
   @override
   String get access_location_details =>
       'آپنی موجودہ لوکیشن دے مطابق درست مقامی موسم، قبلہ دی سمت تے مسجد دی معلومات دکھاؤن لئی MAWAQIT نوں تُہاڈی لوکیشن دی رسائی دی لوڑ اے۔ تُسی پہلے ایہ اجازت رد کر دتی سی۔';
+
+  @override
+  String get location_off => 'لوکیشن بند ہے';
 }

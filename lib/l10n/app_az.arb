@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Dəqiq yerli hava məlumatını, qiblə istiqamətini və mövcud mövqeyinizə əsasən məscid məlumatlarını göstərmək üçün MAWAQIT sizin məkanınıza daxil olmalıdır. Siz bu icazəni əvvəllər rədd etmisiniz."
+    "access_location_details": "Dəqiq yerli hava məlumatını, qiblə istiqamətini və mövcud mövqeyinizə əsasən məscid məlumatlarını göstərmək üçün MAWAQIT sizin məkanınıza daxil olmalıdır. Siz bu icazəni əvvəllər rədd etmisiniz.",
+    "location_off": "Məkan deaktiv edilib"
 }

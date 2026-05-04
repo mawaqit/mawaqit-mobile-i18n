@@ -2528,4 +2528,7 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get access_location_details =>
       'Para mostrarte el clima local preciso, la dirección de la Qibla y la información de las mezquitas según tu ubicación actual, MAWAQIT necesita acceder a tu ubicación. Anteriormente denegaste este permiso.';
+
+  @override
+  String get location_off => 'Ubicación desactivada';
 }
