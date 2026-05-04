@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Da bi vam prikazao tačne lokalne vremenske podatke, smjer Kible i informacije o džamijama na osnovu vaše trenutne lokacije, MAWAQIT treba pristup vašoj lokaciji. Ranije ste odbili ovu dozvolu."
+    "access_location_details": "Da bi vam prikazao tačne lokalne vremenske podatke, smjer Kible i informacije o džamijama na osnovu vaše trenutne lokacije, MAWAQIT treba pristup vašoj lokaciji. Ranije ste odbili ovu dozvolu.",
+    "location_off": "Lokacija isključen"
 }
