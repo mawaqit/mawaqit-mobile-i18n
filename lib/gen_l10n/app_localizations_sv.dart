@@ -2493,4 +2493,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get access_location_details =>
       'För att visa korrekt lokal väderinformation, Qibla-riktning och moskéinformation baserat på din nuvarande position behöver MAWAQIT åtkomst till din plats. Du har tidigare nekat denna behörighet.';
+
+  @override
+  String get location_off => 'Plats avstängd';
 }

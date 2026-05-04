@@ -2504,4 +2504,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get access_location_details =>
       'Ngam hollude maaɓɓe, joomirde Qibla e humpito masjidaji e dow nokkuure maa, MAWAQIT ena waɗi heɓde nokkuure maa. Aɗa waɗii jaɓde ndee yamiroore ko feere.';
+
+  @override
+  String get location_off => 'Nokkuure ena njaatndi';
 }

@@ -2504,4 +2504,7 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String get access_location_details =>
       'To show you accurate local weather, Qibla direction, and mosque information based on your current position, MAWAQIT needs to access your location. You previously denied this permission.';
+
+  @override
+  String get location_off => 'Location Off';
 }

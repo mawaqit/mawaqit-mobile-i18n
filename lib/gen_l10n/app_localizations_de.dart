@@ -2530,4 +2530,7 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get access_location_details =>
       'Um Ihnen genaue lokale Wetterdaten, die Qibla-Richtung und Moschee-Informationen basierend auf Ihrem aktuellen Standort anzuzeigen, benötigt MAWAQIT Zugriff auf Ihren Standort. Sie haben diese Berechtigung zuvor verweigert.';
+
+  @override
+  String get location_off => 'Standort deaktiviert';
 }

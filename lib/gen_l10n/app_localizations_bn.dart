@@ -2504,4 +2504,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get access_location_details =>
       'আপনার বর্তমান অবস্থানের ভিত্তিতে সঠিক স্থানীয় আবহাওয়া, কিবলার দিক এবং মসজিদের তথ্য দেখানোর জন্য MAWAQIT আপনার অবস্থানে অ্যাক্সেস প্রয়োজন। আপনি পূর্বে এই অনুমতিটি প্রত্যাখ্যান করেছেন।';
+
+  @override
+  String get location_off => 'অবস্থান বন্ধ';
 }

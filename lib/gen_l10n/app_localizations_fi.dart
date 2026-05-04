@@ -2506,4 +2506,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get access_location_details =>
       'Näyttääkseen tarkan paikallisen sään, Qibla-suunnan ja moskeijatiedot nykyisen sijaintisi perusteella MAWAQIT tarvitsee pääsyn sijaintiisi. Olet aiemmin estänyt tämän luvan.';
+
+  @override
+  String get location_off => 'Sijainti pois päältä';
 }

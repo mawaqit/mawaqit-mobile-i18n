@@ -2515,4 +2515,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get access_location_details =>
       'A pontos helyi időjárás, a Qibla irány és a mecsetek információinak megjelenítéséhez a jelenlegi tartózkodási helye alapján a MAWAQIT hozzáférést igényel a tartózkodási helyéhez. Ön korábban elutasította ezt az engedélyt.';
+
+  @override
+  String get location_off => 'Helymeghatározás kikapcsolva';
 }

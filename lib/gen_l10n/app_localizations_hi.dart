@@ -2507,4 +2507,7 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get access_location_details =>
       'आपके वर्तमान स्थान के आधार पर सटीक स्थानीय मौसम, किबला दिशा और मस्जिद की जानकारी दिखाने के लिए MAWAQIT को आपके स्थान तक पहुँच की आवश्यकता है। आपने पहले इस अनुमति को अस्वीकार कर दिया था।';
+
+  @override
+  String get location_off => 'स्थान बंद है';
 }

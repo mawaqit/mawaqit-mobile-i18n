@@ -2507,4 +2507,7 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get access_location_details =>
       'உங்கள் தற்போதைய இருப்பிடத்தை அடிப்படையாகக் கொண்டு துல்லியமான உள்ளூர் வானிலை, கிப்லா திசை மற்றும் பள்ளிவாசல் தகவலை காட்ட MAWAQIT உங்கள் இருப்பிடத்தை அணுக வேண்டும். நீங்கள் முன்பு இந்த அனுமதியை நிராகரித்துள்ளீர்கள்.';
+
+  @override
+  String get location_off => 'இருப்பிடம் முடக்கப்பட்டது';
 }

@@ -2503,4 +2503,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get access_location_details =>
       'ھازىرقى ئورنىڭىزغا ئاساسەن توغرا يەرلىك ھاۋارايى، قەبلە يۆنىلىشى ۋە مەسچىت ئۇچۇرلىرىنى كۆرسىتىش ئۈچۈن، MAWAQIT سىزنىڭ ئورنىڭىزغا كىرىش ھوقۇقىغا موھتاج. سىز بۇ ئىجازەتنى بۇرۇن رەت قىلغان.';
+
+  @override
+  String get location_off => 'ئورۇن تاقالغان';
 }
