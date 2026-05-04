@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Mevcut konumunuza göre doğru yerel hava durumu, kıble yönü ve cami bilgilerini göstermek için MAWAQIT konumunuza erişim gerektirir. Bu izni daha önce reddettiniz."
+    "access_location_details": "Mevcut konumunuza göre doğru yerel hava durumu, kıble yönü ve cami bilgilerini göstermek için MAWAQIT konumunuza erişim gerektirir. Bu izni daha önce reddettiniz.",
+    "location_off": "Konum kapalı"
 }
