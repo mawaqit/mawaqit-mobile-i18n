@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "A pontos helyi időjárás, a Qibla irány és a mecsetek információinak megjelenítéséhez a jelenlegi tartózkodási helye alapján a MAWAQIT hozzáférést igényel a tartózkodási helyéhez. Ön korábban elutasította ezt az engedélyt."
+    "access_location_details": "A pontos helyi időjárás, a Qibla irány és a mecsetek információinak megjelenítéséhez a jelenlegi tartózkodási helye alapján a MAWAQIT hozzáférést igényel a tartózkodási helyéhez. Ön korábban elutasította ezt az engedélyt.",
+    "location_off": "Helymeghatározás kikapcsolva"
 }
