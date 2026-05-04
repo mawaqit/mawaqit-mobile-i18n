@@ -2489,7 +2489,7 @@ class AppLocalizationsUg extends AppLocalizations {
       'پەرقلىق مۇسھەف نۇسخىسىنى تاللىغنادا ئوڭ ياكى سولغا سىيرىيدۇ';
 
   @override
-  String get location_permission_required => 'ئورۇن ئىجازىتى زۆرۈر';
+  String get location_permission_required => 'ئورۇن ئىجازىتى تەلەپ قىلىنىدۇ';
 
   @override
   String get semantic_previous_month => 'ئالدىنقى ئاي';
@@ -2499,4 +2499,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get semantic_view_image => 'View image';
+
+  @override
+  String get access_location_details =>
+      'ھازىرقى ئورنىڭىزغا ئاساسەن توغرا يەرلىك ھاۋارايى، قەبلە يۆنىلىشى ۋە مەسچىت ئۇچۇرلىرىنى كۆرسىتىش ئۈچۈن، MAWAQIT سىزنىڭ ئورنىڭىزغا كىرىش ھوقۇقىغا موھتاج. سىز بۇ ئىجازەتنى بۇرۇن رەت قىلغان.';
 }

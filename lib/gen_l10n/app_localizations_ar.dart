@@ -2459,7 +2459,7 @@ class AppLocalizationsAr extends AppLocalizations {
       'اسحب لليسار أو لليمين لاختيار نوع مصحف مختلف';
 
   @override
-  String get location_permission_required => 'Location permission required';
+  String get location_permission_required => 'إذن الموقع مطلوب';
 
   @override
   String get semantic_previous_month => 'الشهر السابق';
@@ -2469,4 +2469,8 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_view_image => 'عرض الصوره';
+
+  @override
+  String get access_location_details =>
+      'لعرض الطقس المحلي بدقة، واتجاه القبلة، ومعلومات المساجد بناءً على موقعك الحالي، يحتاج MAWAQIT إلى الوصول إلى موقعك. لقد رفضت هذا الإذن سابقًا.';
 }

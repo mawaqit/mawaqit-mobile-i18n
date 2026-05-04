@@ -2489,7 +2489,7 @@ class AppLocalizationsBm extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'Location permission required';
+  String get location_permission_required => 'Yɔrɔ la kɛrɛnkɛrɛn bɛ se ka taa';
 
   @override
   String get semantic_previous_month => 'Previous month';
@@ -2499,4 +2499,8 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get semantic_view_image => 'View image';
+
+  @override
+  String get access_location_details =>
+      'Ka kɛ an ye sanji kɔrɔsɛbɛ, kibila bolo, ani misiriw la kunnafoniw ye i ka yɔrɔ la, MAWAQIT bɛ i ka yɔrɔ la sɔrɔ. I ye niyɔrɔ min bɛ taa fɔlɔ.';
 }

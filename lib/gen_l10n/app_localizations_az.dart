@@ -2491,7 +2491,7 @@ class AppLocalizationsAz extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'Location permission required';
+  String get location_permission_required => 'Məkan icazəsi tələb olunur';
 
   @override
   String get semantic_previous_month => 'Previous month';
@@ -2501,4 +2501,8 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get semantic_view_image => 'View image';
+
+  @override
+  String get access_location_details =>
+      'Dəqiq yerli hava məlumatını, qiblə istiqamətini və mövcud mövqeyinizə əsasən məscid məlumatlarını göstərmək üçün MAWAQIT sizin məkanınıza daxil olmalıdır. Siz bu icazəni əvvəllər rədd etmisiniz.';
 }
