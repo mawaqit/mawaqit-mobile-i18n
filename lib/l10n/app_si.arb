@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "ඔබගේ වත්මන් ස්ථානය මත පදනම්ව නිවැරදි දේශීය කාලගුණය, කිබ්ලා දිශාව සහ මස්ජිද් තොරතුරු පෙන්වීමට MAWAQIT ඔබගේ ස්ථානයට ප්‍රවේශය අවශ්‍ය වේ. ඔබ පෙර මෙම අවසරය ප්‍රතික්ෂේප කර ඇත."
+    "access_location_details": "ඔබගේ වත්මන් ස්ථානය මත පදනම්ව නිවැරදි දේශීය කාලගුණය, කිබ්ලා දිශාව සහ මස්ජිද් තොරතුරු පෙන්වීමට MAWAQIT ඔබගේ ස්ථානයට ප්‍රවේශය අවශ්‍ය වේ. ඔබ පෙර මෙම අවසරය ප්‍රතික්ෂේප කර ඇත.",
+    "location_off": "ස්ථානය අක්‍රියයි"
 }
