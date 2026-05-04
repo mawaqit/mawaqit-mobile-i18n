@@ -1573,5 +1573,6 @@
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "Aby wyświetlić dokładną lokalną pogodę, kierunek Qibli oraz informacje o meczetach na podstawie Twojej bieżącej lokalizacji, MAWAQIT potrzebuje dostępu do Twojej lokalizacji. Wcześniej odmówiłeś tej zgody."
+    "access_location_details": "Aby wyświetlić dokładną lokalną pogodę, kierunek Qibli oraz informacje o meczetach na podstawie Twojej bieżącej lokalizacji, MAWAQIT potrzebuje dostępu do Twojej lokalizacji. Wcześniej odmówiłeś tej zgody.",
+    "location_off": "Lokalizacja wyłączona"
 }
