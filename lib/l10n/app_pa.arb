@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1578,5 +1578,6 @@
     "semantic_pre_notification_time": "pre-notification time",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
-    }
+    },
+    "search_for_mosque_or_enable_location": "اسی سب توں نَزدیکی مسجد دی تجویز نہیں دے سکتے کیونکہ لوکیشن دی رسائی رد کر دِتی گئی اے۔ براہِ کرم کوئی مسجد تلاش کرو یا لوکیشن دی اجازت فعال کرو۔"
 }
