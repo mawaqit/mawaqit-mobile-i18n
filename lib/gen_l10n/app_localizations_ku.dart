@@ -293,8 +293,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'رێگەدان بە مەواقیت بۆ گەیشتن بە هەستەوەری دیاریکردنی جێگا.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'خزمەتگوزاری دیاریکردنی جێگا لە رێکخستنەکانی بەرنامەوە کارا بکە.';
+  String get enable_location_service_from_app_settings => 'شوێن چالاک بکە';
 
   @override
   String get the_request_timeout => 'ئەم داواکارییە هەڵوەشایەوە';

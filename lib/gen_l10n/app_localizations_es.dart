@@ -79,7 +79,7 @@ class AppLocalizationsEs extends AppLocalizations {
   String get settings_MakeADonation => 'Hacer una donación';
 
   @override
-  String get bismillah => 'Bismillo';
+  String get bismillah => 'Bismil-lah';
 
   @override
   String get settings_DonateToMawaqit => 'Donar a MAWAQIT';
@@ -298,8 +298,7 @@ class AppLocalizationsEs extends AppLocalizations {
       'Permitir que Mawaqit acceda a mi ubicación.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Habilite el servicio de ubicación desde la configuración de la aplicación.';
+  String get enable_location_service_from_app_settings => 'Activar ubicación';
 
   @override
   String get the_request_timeout => 'La petición caducó';

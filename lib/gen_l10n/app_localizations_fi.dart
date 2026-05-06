@@ -293,7 +293,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Enable location service from app settings.';
+      'Ota sijainti käyttöön';
 
   @override
   String get the_request_timeout => 'The request timed out';

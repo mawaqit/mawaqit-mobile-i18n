@@ -296,7 +296,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Engedélyezd a helymeghatározási szolgáltatást az alkalmazás beállításaiban.';
+      'Helymeghatározás engedélyezése';
 
   @override
   String get the_request_timeout => 'A kérés időtúllépés miatt megszakadt.';

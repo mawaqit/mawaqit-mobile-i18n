@@ -296,7 +296,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Включите службу определения местоположения в настройках приложения..';
+      'Включить местоположение';
 
   @override
   String get the_request_timeout => 'Время запроса истекло';

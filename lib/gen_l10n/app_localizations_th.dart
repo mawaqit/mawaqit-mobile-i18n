@@ -293,7 +293,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Enable location service from app settings.';
+      'เปิดใช้งานตำแหน่งที่ตั้ง';
 
   @override
   String get the_request_timeout => 'The request timed out';

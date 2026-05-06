@@ -296,8 +296,7 @@ class AppLocalizationsNl extends AppLocalizations {
       'Geef Mawaqit toegang tot mijn locatie.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Schakel locatieservice in via app-instellingen.';
+  String get enable_location_service_from_app_settings => 'Locatie inschakelen';
 
   @override
   String get the_request_timeout => 'Het verzoek is verlopen';
