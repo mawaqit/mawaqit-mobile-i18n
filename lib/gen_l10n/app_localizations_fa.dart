@@ -2508,4 +2508,8 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'ما نمی‌توانیم نزدیک‌ترین مسجد را پیشنهاد کنیم زیرا دسترسی به موقعیت مکانی رد شده است. لطفاً یک مسجد را جستجو کنید یا اجازه موقعیت را فعال کنید.';
 }

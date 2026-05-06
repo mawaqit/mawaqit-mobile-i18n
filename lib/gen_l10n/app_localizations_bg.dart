@@ -2518,4 +2518,8 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'Не можем да предложим най-близката джамия, защото достъпът до местоположението е отказан. Моля, потърсете джамия или разрешете достъп до местоположението.';
 }

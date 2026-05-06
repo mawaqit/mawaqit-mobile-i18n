@@ -1578,5 +1578,6 @@
     "semantic_pre_notification_time": "tempo de pré-notificação",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
-    }
+    },
+    "search_for_mosque_or_enable_location": "Não podemos sugerir a mesquita mais próxima porque o acesso à localização foi negado. Pesquise uma mesquita ou ative a permissão de localização."
 }

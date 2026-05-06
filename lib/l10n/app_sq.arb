@@ -1578,5 +1578,6 @@
     "semantic_pre_notification_time": "koha e njoftimit paraprak",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
-    }
+    },
+    "search_for_mosque_or_enable_location": "Nuk mund të sugjerojmë xhaminë më të afërt sepse qasja në vendndodhje është refuzuar. Ju lutemi kërkoni një xhami ose aktivizoni lejen e vendndodhjes."
 }

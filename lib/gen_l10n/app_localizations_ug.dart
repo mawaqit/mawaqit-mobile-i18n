@@ -2509,4 +2509,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'ئالدىن ئۇقتۇرۇش ۋاقتى';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'ئورۇن زىيارىتى رەت قىلىنغانلىقى ئۈچۈن، ئەڭ يېقىن مەسچىتنى تەۋسىيە قىلالمايمىز. بىر مەسچىت ئىزدەڭ ياكى ئورۇن ئىجازىتىنى قوزغىتىڭ.';
 }

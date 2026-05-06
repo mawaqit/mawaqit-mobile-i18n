@@ -2510,4 +2510,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'পূর্ব-নোটিফিকেশন সময়';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'অবস্থান অ্যাক্সেস অস্বীকার করা হয়েছে, তাই আমরা নিকটস্থ মসজিদের পরামর্শ দিতে পারছি না। অনুগ্রহ করে একটি মসজিদ অনুসন্ধান করুন অথবা অবস্থানের অনুমতি চালু করুন।';
 }

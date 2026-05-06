@@ -2532,4 +2532,8 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'tempo di pre-notifica';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'Non possiamo suggerire la moschea più vicina perché l’accesso alla posizione è stato negato. Cerca una moschea o abilita l’autorizzazione alla posizione.';
 }

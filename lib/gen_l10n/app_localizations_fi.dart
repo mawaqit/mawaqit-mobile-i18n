@@ -2512,4 +2512,8 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'Emme voi ehdottaa lähintä moskeijaa, koska sijainnin käyttöoikeus on estetty. Etsi moskeija tai ota sijaintilupa käyttöön.';
 }

@@ -70,9 +70,9 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Bönaviseringar",
-    "settings_PrayerPreNotifications": "Påminnelse före bön",
-    "settings_ShuruqPreNotifications": "Påminnelse före soluppgång",
+    "settings_PrayerNotifications": "Bön notiser",
+    "settings_PrayerPreNotifications": "Bön påminnelse",
+    "settings_ShuruqPreNotifications": "Påminnelse före soluppgången",
     "settings_Calculations": "Beräkningar",
     "settings_RateOurApp": "Betygsätt appen",
     "@settings_RateOurApp": {
@@ -105,7 +105,7 @@
         "type": "text"
     },
     "settings_language_ar": "Arabiska",
-    "settings_language_bn": "Bengaliska",
+    "settings_language_bn": "Bengali",
     "settings_language_fr": "Franska",
     "settings_language_nl": "Nederländska",
     "settings_language_de": "Tyska",
@@ -157,13 +157,13 @@
         "description": "_",
         "type": "text"
     },
-    "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "Du har valt att inte få aviseringar för denna bön.",
+    "sabah": "Fajr bönen",
+    "settings_PrayerNotification_NoNotification": "Du har valt att inte få notiser för denna bön.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Pipljud vid avisering.",
+    "settings_PrayerNotification_Bip": "Pipljud vid notis.",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -178,12 +178,12 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "Medinah",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "Al-Quds",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Välj en typ av adhan. Valet används för alla böner med adhan-avisering.",
+    "adhan_type": "Välj en typ av adhan. Detta val används för alla böner med adhan-notiser.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -218,58 +218,58 @@
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "Du har inte ställt in några aviseringar för denna bön.",
+    "prayer_Notification_NoNotification": "Du har inte ställt in några notiser för denna bön.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "Med denna inställning kan du ange en avisering före bönen.",
+    "prayer_PreNotification_Description": "Med denna inställning kan du ställa in en notis före bönen.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "Prova Paris, Essalam osv.",
+    "search_TryParis": "Prova ”Paris”, ”Essalam” osv.",
     "search_ByGPS": "Sök med GPS",
-    "search_HelpText": "Du kan söka en moské genom:\n-Moskéns namn\n-Föreningens namn\n-Stad, adress, land osv.\n\nEller tryck på lokaliseringsknappen för att hitta moskéer i närheten.",
-    "search_MaxFavMosquesReached": "Du har nått maximal av favorit moskéer.",
-    "search_iOs14_message": "Sökning med GPS kan ta lite tid vänligen vänta.",
-    "search_error": "Ett internt fel har inträffat",
-    "search_your_location": "Din plats",
-    "search_location_disabled": "Sök efter en moské med namn eller stad, eller tillåt platsåtkomst i inställningarna.",
+    "search_HelpText": "Du kan söka efter en moské genom:\n\n- Moskéns namn\n- Föreningens namn\n- Stad, adress, land osv.\n\nEller använd platsknappen för att hitta moskéer i närheten.",
+    "search_MaxFavMosquesReached": "Du har nått det maximala antalet favoritmoskéer.",
+    "search_iOs14_message": "Sökning med GPS kan ta lite tid, med iOS 14 vänligen vänta.",
+    "search_error": "Ett internt fel uppstod",
+    "search_your_location": "Din position",
+    "search_location_disabled": "Sök efter en moské med namn eller stad, eller aktivera platsåtkomst i inställningarna.",
     "search_settings": "Inställningar",
-    "no_services_text": "Denna information saknas",
+    "no_services_text": "Moskén har inte angett denna information",
     "welcome": "Välkommen till",
     "mawaqit": "MAWAQIT",
-    "connecting": "Förenar muslimer",
-    "to_mosques": "Med moskéer",
+    "connecting": "Sammanför muslimer",
+    "to_mosques": "Till moskéer",
     "get_started": "Kom igång",
-    "get_prayer_notifications_for": "Få bönaviseringar för",
-    "turn_on_notifications": "Aktivera bönaviseringar",
+    "get_prayer_notifications_for": "Få bön påminnelser för",
+    "turn_on_notifications": "Aktivera bön påminnelser",
     "no_thanks": "Nej tack",
-    "notification_denied": "Du har nekat aviseringar tillåtelse, så du kommer inte att få några aviseringar.",
+    "notification_denied": "Du har nekat appen åtkomst till aviseringar, så inga aviseringar kommer att skickas.",
     "at_least_one_mosque": "Lägg till minst en moské för att fortsätta",
-    "set_up_your_prayer": "Ställ in dina böner",
-    "notifications": "Aviseringar",
+    "set_up_your_prayer": "Ställ in bön aviseringar",
+    "notifications": "Notiser",
     "mosques_around_you": "Moskéer nära dig",
-    "mosques_in_the_selected_area": "Moskéer i det valda område",
+    "mosques_in_the_selected_area": "Moskéer i det valda området",
     "mosques_with": "Moskéer med",
-    "allow_mawaqit_to_access_my_location": "Tillåt MAWAQIT att få åtkomst till din plats.",
-    "enable_location_service_from_app_settings": "Aktivera platstjänster i appens inställningar.",
-    "the_request_timeout": "Begäran tog för långt tid och avbröts",
+    "allow_mawaqit_to_access_my_location": "Tillåt Mawaqit att använda din plats.",
+    "enable_location_service_from_app_settings": "Aktivera platsåtkomst i app inställningarna.",
+    "the_request_timeout": "Begäran tog för lång tid och avbröts",
     "no_internet_connection": "Ingen internetanslutning",
     "try_again": "Försök igen",
-    "virtual_mosque": "Virtuell Moské",
-    "no_mosque_in_selected_area": "Kunde inte hitta några moskéer i det valde området",
-    "no_mosque_with": "Kunde inte hitta några moskéer med",
+    "virtual_mosque": "Virtuell moské",
+    "no_mosque_in_selected_area": "Inga moskéer hittades i det valda området",
+    "no_mosque_with": "Inga moskéer hittades med detta filter",
     "retry": "Försök igen",
-    "search_here": "Sök här",
-    "enter_at_least_3_char": "Ange minst 3 tecken för att söka",
+    "search_here": "Sök i detta område",
+    "enter_at_least_3_char": "Skriv minst 3 tecken för att söka",
     "jumua1": "Fredagsbön 1",
     "prayer_times": "Bönetider",
-    "remove_this_city": "Ta bort staden",
-    "add_this_city": "Lägg till stad",
-    "add_this_mosque": "Lägg till Moské",
-    "remove_this_mosque": "Ta bort Moskén",
+    "remove_this_city": "Ta bort denna stad",
+    "add_this_city": "Lägg till denna stad",
+    "add_this_mosque": "Lägg till denna moské",
+    "remove_this_mosque": "Ta bort denna moské",
     "services": "Tjänster",
     "share": "Dela",
     "itinerary": "Vägbeskrivning",
@@ -277,9 +277,9 @@
     "dnd": "Stör ej",
     "battery_optimize": "Batterioptimering",
     "power_saver": "Strömsparläge",
-    "permission_message1": "Vi upptäckte en försenad avisering, vänligen stäng av",
-    "permission_message2": "för att få aviseringar i tid.",
-    "notifications_delay_detected": "Aviserings fördröjning upptäcktes",
+    "permission_message1": "Vi upptäckte att aviseringarna är fördröjda. Vänligen stäng av",
+    "permission_message2": "så att aviseringarna kommer i tid.",
+    "notifications_delay_detected": "Fördröjda aviseringar upptäcktes",
     "open_setting": "Öppna inställningar",
     "noJumua": "Ingen fredagsbön",
     "@noJumua": {
@@ -291,32 +291,32 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "Sensorn i din enhet som MAWAQIT använder för att bestämma Qibla funkar inte som förväntad, vilket påverkar vår kapacitet att visa Qibla riktningen.",
-    "connection_not_found": "Kompasskalibrering är inaktiverad. Kontrollera att din anslutning är aktiv och försök igen genom att ändra riktning.",
+    "qibla_sensor": "Sensorn som MAWAQIT använder för att bestämma Qibla fungerar inte korrekt, vilket påverkar visningen av Qibla-riktningen.",
+    "connection_not_found": "Kompasskalibrering är inaktiverad. Aktivera funktionen och försök igen genom att röra enheten i olika riktningar.",
     "currently_located_at": "Nuvarande plats",
-    "facing_makkah": "Du är riktad mot Mekka",
-    "not_facing_Makkah": "Du är inte riktad mot Mekka",
+    "facing_makkah": "Du är vänd mot Qibla",
+    "not_facing_Makkah": "Du är inte vänd mot Qibla",
     "qibla_Error_retry": "Försök igen",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Åtkomst till platstjänster nekad",
+    "qibla_Error_LocationDenied": "Åtkomst till platstjänster nekades",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Åtkomst till platstjänster har permanent nekats!",
+    "qibla_Error_LocationDeniedForever": "Åtkomst till platstjänster har nekats permanent!",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Vänligen aktivera platstjänster",
+    "qibla_Error_PleaseEnable": "Aktivera platstjänster",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Direction": "Qibla riktning",
+    "qibla_Direction": "Qibla-riktning",
     "@qibla_Direction": {
         "description": "_",
         "type": "text"
@@ -351,12 +351,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "Till Moskén",
+    "mosque_DonateText2": "Till moskén",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Kunde inte öppna",
+    "mosque_Error_CouldNotLaunch": "Kunde inte öppna sidan",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
@@ -396,17 +396,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Handikappanpassad åtkomst",
+    "mosque_Facilities_DisabledAccess": "Rullstolsanpassad åtkomst",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Tvagningsrum",
+    "mosque_Facilities_AblutionsRoom": "Tvagningsområde Wudu-rum",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Kvinnoområde",
+    "mosque_Facilities_WomanSpace": "Böneplats för kvinnor",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
@@ -426,7 +426,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Janaza bön",
+    "mosque_Facilities_SalatAlJanaza": "Janaza-bön",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
@@ -436,7 +436,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All information har fyllts i av moskéns ansvariga",
+    "mosque_facilities_Info": "Informationen har lagts till av moskéns ansvariga",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
@@ -446,12 +446,12 @@
         "description": "_",
         "type": "text"
     },
-    "imsak": "Fasta",
+    "imsak": "Al imsak",
     "@imsak": {
         "description": "_",
         "type": "text"
     },
-    "eid": "Eidbön på",
+    "eid": "Eidbön kl",
     "@eid": {
         "description": "_",
         "type": "text"
@@ -486,17 +486,17 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Din huvudmoské",
+    "tutorial_title_main_mosque": "Din huvud-moské",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Din huvudmoské visar här.\nDu kan svepa åt vänster och höger för att växla mellan dina favoritmoskéer.",
+    "tutorial_text_main_mosque": "Din huvudmoské visas här. Svep åt vänster eller höger för att växla mellan dina favoritmoskéer.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Indikator för nästa bön",
+    "tutorial_title_countdown": "Nedräkning till nästa bön",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
@@ -511,17 +511,17 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Allt om din Moské: faciliteter, adress, telefon, e-post, donationer och mer.",
+    "tutorial_text_mosque_info": "Här hittar du information om din moské: adress, telefon, faciliteter, donationer och mer.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "Moskéns meddelanden och annonser",
+    "tutorial_title_announcements": "Moskéns meddelanden och information",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Aviseringar om meddelanden och annonser från din Moské visas här. När du trycker på den här knappen kan du se alla detaljer. Dessa annonser kan vara ett snabbmeddelanden, bilder, eller videor.",
+    "tutorial_text_announcements": "Här visas meddelanden och information från din moské. Tryck för att läsa mer.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -531,7 +531,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Välj ditt föredragna språk från listan nedan",
+    "onboarding_text_1": "Välj ditt språk från listan nedan",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
@@ -541,7 +541,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT är ett ekosystem som erbjuder ett nytt sätt att följa och hantera bönetider. Appen hjälper dig att hitta moskéer samt följa deras bönetider och nyheter",
+    "onboarding_text_2": "MAWAQIT gör det enkelt att följa bönetider, hitta moskéer och hålla dig uppdaterad med deras nyheter och information",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
@@ -551,17 +551,17 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Om du föredrar mörka färger eller använder telefonen i svagt ljus aktivera mörkt läge för bättre visuell komfort",
+    "onboarding_text_3": "Om du föredrar mörka färger eller använder telefonen i svagt ljus kan mörkt läge göra appen behagligare att använda",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_4": "Lägg till din huvudmoské",
+    "onboarding_title_4": "Välj din huvudmoské",
     "@onboarding_title_4": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Välj din huvudmoské från listan nedan eller sök efter en moské nära din nuvarande plats",
+    "onboarding_text_4": "Välj din huvudmoské från listan nedan eller sök efter en moské nära dig",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
@@ -576,7 +576,7 @@
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Laddningen är klar",
+    "loading_loaded": "Klart",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
@@ -867,7 +867,7 @@
     "adjust_angles": "Justera vinklar",
     "silent": "Ljudlös",
     "default_": "Standard",
-    "muazzin": "Muezzin",
+    "muazzin": "Böneutroparen",
     "information": "Information",
     "news": "Nyheter",
     "calendar": "Kalender",
@@ -998,7 +998,7 @@
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
     },
-    "select_audio_from_device": "Välj en mp3-fil från enheten.",
+    "select_audio_from_device": "Välj en mp3-fil från din enhet",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
@@ -1014,7 +1014,7 @@
     "disclaimer": "MAWAQIT ansvarar inte för tjänster eller produkter som erbjuds av de listade projekten. Vi rekommenderar att du själv gör nödvändig research och bedömning innan du använder dem",
     "participating_with": "Du deltar med",
     "no_of_tickets": "Antal biljetter:",
-    "unparticipate": "Klicka för att avsluta deltagandet",
+    "unparticipate": "Klicka för att avsluta ditt deltagande",
     "next_ticket": "Nästa biljett blir tillgänglig om",
     "click_here": "Klicka här",
     "mawaqit_store": "MAWAQIT-butik",
@@ -1022,7 +1022,7 @@
     "draw_info": "Varje månad hålls en utlottning. Du kan lägga till en ny biljett var 24:e timme för att öka dina vinstchanser!",
     "enter_valid_email": "Ange en giltig e-postadress",
     "please_enter_email": "Ange en e-postadress",
-    "select_device_audo_for_ios_propmpt": "Välj en ljudfil så konverteras den till ett iOS-kompatibelt format och kortas ned till 30 sekunder på grund av iOS-begränsningar.",
+    "select_device_audo_for_ios_propmpt": "Välj en ljudfil så konverterar vi den till ett iOS-kompatibelt format och klipper ned den till 30 sekunder på grund av iOS-begränsningar.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
@@ -1135,20 +1135,20 @@
     "playback_settings": "Uppspelningsinställningar",
     "from": "Från",
     "to": "Till",
-    "range": "Range",
-    "select_starting_verse": "Välj Start Verse",
-    "select_ending_verse": "Välj avslutningsvers",
-    "range_repeat": "Upprepa intervall",
-    "verse_repeat": "Upprepa vers",
-    "improved_Hafs_Rewaya_Force_Update": "Vi har förbättrat din Hafs Rewaya. Ladda ner nu för att utforska Tafsir och lyssna på recitationer genom att klicka på någon Ayah",
+    "range": "Intervall",
+    "select_starting_verse": "Välj startvers",
+    "select_ending_verse": "Välj slutvers",
+    "range_repeat": "Upprepa intervallet",
+    "verse_repeat": "Upprepa versen",
+    "improved_Hafs_Rewaya_Force_Update": "Din Hafs-riwayah har förbättrats. Ladda ner den nu för att utforska tafsir och lyssna på recitationer genom att hålla ned valfri vers",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty_description": "Se bönen tider komma till liv med vår nya animerade klocka",
+    "mawaqit_three_sixty_description": "Upplev bönetiderna med vår nya animerade klocka",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "Den här funktionen är aktiverad medan 360° vyn är aktiv och kan inte stängas av",
+    "hnpai_User_Guidance_MAWAQIT_360": "Den här inställningen kan inte stängas av när 360°-vyn används",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
@@ -1156,7 +1156,7 @@
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "360 Inställningar",
+    "three_sixty_setting": "360-inställningar",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
@@ -1168,15 +1168,15 @@
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "Alla stängda",
+    "all_prayer_closed": "Stäng alla",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
-    "recomended_next_prayer": "Rekommenderat: Endast nästa bön",
+    "recomended_next_prayer": "Rekommenderat: Visa endast nästa bön",
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "Förhandsgranska live",
+    "live_preview": "Liveförhandsvisning",
     "@live_preview": {
         "description": "-> live_preview"
     },
@@ -1188,11 +1188,11 @@
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "Alla öppna",
+    "all_Prayer_Open": "Öppna alla",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
-    "settingFontSize": "Font Size",
+    "settingFontSize": "Textstorlek",
     "@settingFontSize": {
         "description": "-> font_Size"
     },
@@ -1200,61 +1200,61 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Shejk Aminuddin Muhammad",
+    "shaykh_aminuddin_muhammad": "Shaykh Aminuddin Muhammed",
     "hafs_an_asim": "Hafs ʿan ʿĀṣim",
-    "most_widespread_riwayah": "Den mest spridda recitationen i världen",
+    "most_widespread_riwayah": "Den mest använda riwayah världen över",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
-    "popular_across_north_west_africa": "Populär i norra och västra Afrika",
+    "popular_across_north_west_africa": "Vanlig i Nord- och Västafrika",
     "select": "Välj",
     "unknown_smartwatch": "Okänd smartklocka",
-    "connected_watch": "Ansluten klocka",
-    "ready_play_watch": "är redo att spelas upp på din klocka",
+    "connected_watch": "Ansluten smartklocka",
+    "ready_play_watch": "redo att spelas upp på din smartklocka",
     "transliteration": "Translitterering",
-    "highlight_Tahajjud_Time": "Markera Tahajjud Tid",
+    "highlight_Tahajjud_Time": "Markera tahajjud-tiden",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
-    "calendar_access_not_available": "Ingen kalender åtkomst.",
-    "calendar_allow_access_mawaqit": "Tillåt kalenderåtkomst för att visa dina händelser på MAWAQIT 360.",
-    "calendar_access_required": "Åtkomst krävs.",
-    "calendar_allow_access_button": "Tillåt Åtkomst",
+    "calendar_access_not_available": "Ingen åtkomst till kalender.",
+    "calendar_allow_access_mawaqit": "Tillåt kalenderåtkomst för att visa dina evenemang på MAWAQIT 360.",
+    "calendar_access_required": "Kalenderåtkomst krävs för att visa dina evenemang.",
+    "calendar_allow_access_button": "Tillåt åtkomst till kalendern",
     "calendar_loading": "Laddar kalendrar…",
-    "calendar_select_for_mawaqit": "Välj kalendrar på MAWAQIT 360.",
+    "calendar_select_for_mawaqit": "Välj vilka kalendrar du vill visa i MAWAQIT 360.",
     "calendar_enable_all": "Aktivera alla",
     "calendar_disable_all": "Inaktivera alla",
     "calendar_other_calendars": "Andra kalendrar",
-    "calendar_times_shown_in": "Tider som visas i",
-    "calendar_starts_on": "Startar",
-    "calendar_ends_on": "Slutar",
-    "calendar_events_at_this_time": "Händelser just nu",
+    "calendar_times_shown_in": "Tider visas i",
+    "calendar_starts_on": "Startar den",
+    "calendar_ends_on": "Slutar den",
+    "calendar_events_at_this_time": "Händelser vid den här tiden",
     "hamza_roberto_piccardo": "Hamza Roberto Picardo",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
-    "open_in_mawaqit_app": "Öppna denna moské i MAWAQIT -appen",
-    "mosque_name": "Namn på moské",
-    "mosque_not_found": "Moskén hittades inte",
-    "invalid_mosque_link": "Ogiltig moskélänk",
+    "open_in_mawaqit_app": "Öppna moskén i MAWAQIT-appen",
+    "mosque_name": "Moskéns namn",
+    "mosque_not_found": "Moskéen hittades inte",
+    "invalid_mosque_link": "Ogiltig länk till moské",
     "not_open_mosque_link": "Kunde inte öppna moské länken. Försök igen.",
     "no_calendars_on_this_device": "Inga kalendrar hittades på enheten.",
-    "calendar_event_at_this_time": "Händelse just nu",
+    "calendar_event_at_this_time": "Händelse vid denna tid",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Sök efter vers eller Sura",
+    "search_ayah_surah": "Sök efter vers eller sura",
     "matching_surahs": "Matchande suror",
     "matching_ayahs": "Matchande verser",
-    "live_timer": "Live Timer",
+    "live_timer": "Direkt _timer",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Påminn före",
+    "notify_before": "Avisera-innan",
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "Det kan ta några sekunder att visas på din klocka.",
+    "take_time_appear_watch": "Det kan ta några sekunder innan det visas på din klocka.",
     "eid1": "Eid",
-    "hide_live_activity_for_prayer": "Dölj levande aktivitet endast för denna bön",
+    "hide_live_activity_for_prayer": "Dölj liveaktiviteten endast för denna bön",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
@@ -1266,25 +1266,25 @@
     "@azkar": {
         "description": "-> azkar"
     },
-    "quran_tajweed": "Koranens Tajwīd",
-    "tajweed_description": "Färgkodade tajwidregler för korrekt recitation",
-    "tajwid_rules": "Tajwidregler",
+    "quran_tajweed": "Koran-tajwid",
+    "tajweed_description": "Färgkodade tajwid-regler för korrekt recitation",
+    "tajwid_rules": "Tajwid-regler",
     "examples": "Exempel",
     "real_time_weather": "Väder i realtid",
     "layout": "Layout",
     "list": "Lista",
     "grid": "Rutnät",
-    "real_time_weather_needs_internet": "Väder i realtid kräver internetanslutning för att hämta uppdateringar.",
+    "real_time_weather_needs_internet": "Väder i realtid kräver internetanslutning för att kunna hämta uppdateringar.",
     "view_detail": "Visa detaljer",
     "temperature": "Temperatur",
-    "tahajjud_time": "Tahajjud -Tid",
-    "last_third": "Sista tredjedelen",
+    "tahajjud_time": "Tahajjud-tid",
+    "last_third": "Nattens sista tredjedel",
     "midnight": "Midnatt",
     "failed_to_update": "Kunde inte uppdatera.",
-    "tap_to_retry": "Tryck för att försöka igen",
+    "tap_to_retry": "Försök igen",
     "support_mawaqit_association": "Stöd MAWAQIT -föreningen",
     "help_improve_mawaqit": "Hjälp till att förbättra MAWAQIT",
-    "analytics_description": "Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Ingen personlig data. Delas aldrig.",
+    "analytics_description": "Tillåt anonym användningsanalys för att hjälpa oss förbättra appen. Inga personuppgifter delas någonsin.",
     "weather_clear": "Klart",
     "weather_clouds": "Moln",
     "weather_tornado": "Tornado",
@@ -1307,7 +1307,7 @@
     "weather_light_rain": "Lätt regn",
     "edit": "Redigera",
     "iqama_countdown": "Nedräkning till Iqama",
-    "next_prayer_countdown": "Live aktivitet alltid på",
+    "next_prayer_countdown": "Nedräkning till nästa bön",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
     },
@@ -1329,13 +1329,13 @@
     "@step": {
         "description": "-> step"
     },
-    "jump_to_page": "Gå till sida",
+    "jump_to_page": "Gå till sidan",
     "select_surah": "Välj sura",
-    "please_select_surah": "Välj en sura",
+    "please_select_surah": "Vänligen välj en sura",
     "ayah_number": "Versnummer",
     "ayah_num_greater_zero": "Versnumret måste vara större än 0",
-    "ayah_number_exceeds_max": "Versnumret överskrider maxgränsen för denna sura",
-    "update_page": "Uppdatera sida",
+    "ayah_number_exceeds_max": "Versnumret är för högt för denna sura",
+    "update_page": "Uppdatera sidan",
     "enter_ayah_num": "Ange versnummer",
     "help": "Hjälp",
     "@help": {
@@ -1349,7 +1349,7 @@
     "@download_all_surahs": {
         "description": "download_all_surahs"
     },
-    "this_will_download_all_surahs_for_offline": "Detta kommer att ladda ner alla suror för offline-lyssning. Se till att du är ansluten till Wi-Fi innan du fortsätter.",
+    "this_will_download_all_surahs_for_offline": "Detta laddar ner alla suror för offlinelyssning. Se till att du är ansluten till Wi-Fi innan du fortsätter.",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     },
@@ -1569,14 +1569,15 @@
     "mosque_removed": "Mosque removed",
     "scroll_left_right_select_surah": "Scroll left or right to select a surah",
     "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
-    "location_permission_required": "Platsbehörighet krävs",
+    "location_permission_required": "Platsåtkomst krävs",
     "semantic_previous_month": "Previous month",
     "semantic_next_month": "Next month",
     "semantic_view_image": "View image",
-    "access_location_details": "För att visa korrekt lokal väderinformation, Qibla-riktning och moskéinformation baserat på din nuvarande position behöver MAWAQIT åtkomst till din plats. Du har tidigare nekat denna behörighet.",
+    "access_location_details": "För att visa korrekt lokalt väder, Qibla riktning och moskéinformation baserat på din nuvarande position behöver MAWAQIT åtkomst till din plats. Du har tidigare nekat denna åtkomst.",
     "location_off": "Plats avstängd",
     "semantic_pre_notification_time": "förvarningstid",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
-    }
+    },
+    "search_for_mosque_or_enable_location": "Vi kan inte föreslå den närmaste moskén eftersom platsåtkomst nekades. Sök efter en moské eller aktivera platsbehörighet."
 }
