@@ -293,8 +293,7 @@ class AppLocalizationsUg extends AppLocalizations {
       'مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'ئەپ تەڭشىكىدىن ئورۇن مۇلازىمىتىنى قوزغىتىدۇ.';
+  String get enable_location_service_from_app_settings => 'ئورۇننى قوزغىتىڭ';
 
   @override
   String get the_request_timeout => 'ئىلتىماس ۋاقتى ئۆتتى';

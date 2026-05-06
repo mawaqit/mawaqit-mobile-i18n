@@ -296,8 +296,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Dozvolite da Mawaqit pristupi vašoj lokaciji.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Omogućite uslugu lokacije u postavkama aplikacije.';
+  String get enable_location_service_from_app_settings => 'Omogući lokaciju';
 
   @override
   String get the_request_timeout => 'Zahtjev je istekao';

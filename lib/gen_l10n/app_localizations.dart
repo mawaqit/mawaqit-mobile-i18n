@@ -703,7 +703,7 @@ abstract class AppLocalizations {
   /// No description provided for @enable_location_service_from_app_settings.
   ///
   /// In en, this message translates to:
-  /// **'Enable location service from app settings.'**
+  /// **'Enable location'**
   String get enable_location_service_from_app_settings;
 
   /// No description provided for @the_request_timeout.

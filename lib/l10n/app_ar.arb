@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "المساجد في المنطقة المختارة",
     "mosques_with": "المساجد مع ",
     "allow_mawaqit_to_access_my_location": "السماح لـ مواقيت بالوصول إلى موقعي.",
-    "enable_location_service_from_app_settings": "تمكين خدمة الموقع من إعدادات التطبيق.",
+    "enable_location_service_from_app_settings": "تفعيل الموقع",
     "the_request_timeout": "انتهت مهلة الطلب",
     "no_internet_connection": "لا يوجد اتصال بالإنترنت",
     "try_again": "حاول مرة أخرى",

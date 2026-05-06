@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Mosquées dans la zone sélectionnée",
     "mosques_with": "Mosquées avec",
     "allow_mawaqit_to_access_my_location": "Autoriser Mawaqit à accéder à ma position.",
-    "enable_location_service_from_app_settings": "Activer le service de localisation à partir des paramètres de l'application.",
+    "enable_location_service_from_app_settings": "Activer la localisation",
     "the_request_timeout": "La demande a expiré",
     "no_internet_connection": "Pas de connexion Internet",
     "try_again": "Essayer à nouveau",

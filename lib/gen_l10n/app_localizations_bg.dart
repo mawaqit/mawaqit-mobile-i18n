@@ -296,7 +296,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Активирайте услугата за местоположение от настройките на приложението.';
+      'Активирайте местоположението';
 
   @override
   String get the_request_timeout => '';

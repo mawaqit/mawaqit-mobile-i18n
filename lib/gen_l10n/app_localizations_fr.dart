@@ -298,7 +298,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Activer le service de localisation à partir des paramètres de l\'application.';
+      'Activer la localisation';
 
   @override
   String get the_request_timeout => 'La demande a expiré';

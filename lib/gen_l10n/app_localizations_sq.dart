@@ -294,7 +294,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Aktivizo shërbimin e vendndodhjes nga cilësimet e aplikacionit.';
+      'Aktivizo vendndodhjen';
 
   @override
   String get the_request_timeout => 'Kërkesa ka skaduar';

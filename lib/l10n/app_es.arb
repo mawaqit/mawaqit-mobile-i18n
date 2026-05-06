@@ -83,7 +83,7 @@
     "settings_SupportMawaqit": "Apoyar Mawaqit",
     "settings_News": "Noticias",
     "settings_MakeADonation": "Hacer una donación",
-    "bismillah": "Bismillo",
+    "bismillah": "Bismil-lah",
     "settings_DonateToMawaqit": "Donar a MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Mezquitas en la zona seleccionada.",
     "mosques_with": "Mezquitas con",
     "allow_mawaqit_to_access_my_location": "Permitir que Mawaqit acceda a mi ubicación.",
-    "enable_location_service_from_app_settings": "Habilite el servicio de ubicación desde la configuración de la aplicación.",
+    "enable_location_service_from_app_settings": "Activar ubicación",
     "the_request_timeout": "La petición caducó",
     "no_internet_connection": "Sin conexión a Internet",
     "try_again": "Intentar otra vez",

@@ -293,7 +293,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get enable_location_service_from_app_settings =>
-      'Enable location service from app settings.';
+      'ස්ථානය සක්‍රීය කරන්න';
 
   @override
   String get the_request_timeout => 'The request timed out';
