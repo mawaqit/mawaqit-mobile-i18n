@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "منتخب علاقے میں مساجد",
     "mosques_with": "کے ساتھ مساجد",
     "allow_mawaqit_to_access_my_location": "مواقیت کو میرے مقام تک رسائی کی اجازت دیں۔ ",
-    "enable_location_service_from_app_settings": "ایپ کی ترتیبات سے لوکیشن سروس کو فعال کریں۔",
+    "enable_location_service_from_app_settings": "لوکیشن فعال کریں",
     "the_request_timeout": "درخواست کا وقت ختم ہو گیا۔",
     "no_internet_connection": "انٹرنیٹ کنکشن نہیں ہے۔",
     "try_again": "دوبارہ کوشش کریں",
