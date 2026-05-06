@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1578,5 +1578,6 @@
     "semantic_pre_notification_time": "förvarningstid",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
-    }
+    },
+    "search_for_mosque_or_enable_location": "Vi kan inte föreslå den närmaste moskén eftersom platsåtkomst nekades. Sök efter en moské eller aktivera platsbehörighet."
 }
