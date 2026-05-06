@@ -2510,4 +2510,8 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'موږ نشو کولی تر ټولو نږدې جومات وړاندیز کړو ځکه چې د موقعیت لاسرسی رد شوی دی. مهرباني وکړئ یو جومات ولټوئ یا د موقعیت اجازه فعاله کړئ.';
 }

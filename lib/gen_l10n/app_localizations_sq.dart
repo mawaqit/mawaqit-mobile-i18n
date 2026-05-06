@@ -2521,4 +2521,8 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'koha e njoftimit paraprak';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'Nuk mund të sugjerojmë xhaminë më të afërt sepse qasja në vendndodhje është refuzuar. Ju lutemi kërkoni një xhami ose aktivizoni lejen e vendndodhjes.';
 }

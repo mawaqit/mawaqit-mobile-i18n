@@ -2511,4 +2511,8 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'เราไม่สามารถแนะนำมัสยิดที่ใกล้ที่สุดได้ เนื่องจากการเข้าถึงตำแหน่งถูกปฏิเสธ กรุณาค้นหามัสยิดหรือเปิดใช้งานการอนุญาตตำแหน่ง';
 }

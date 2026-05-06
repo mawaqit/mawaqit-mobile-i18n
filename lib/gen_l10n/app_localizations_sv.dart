@@ -2498,4 +2498,8 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'förvarningstid';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'Vi kan inte föreslå den närmaste moskén eftersom platsåtkomst nekades. Sök efter en moské eller aktivera platsbehörighet.';
 }

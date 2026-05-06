@@ -2508,4 +2508,8 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'czas powiadomienia wstępnego';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'Nie możemy zasugerować najbliższego meczetu, ponieważ dostęp do lokalizacji został odrzucony. Wyszukaj meczet lub włącz uprawnienia lokalizacji.';
 }

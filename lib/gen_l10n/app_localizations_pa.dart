@@ -2511,4 +2511,8 @@ class AppLocalizationsPa extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'اسی سب توں نَزدیکی مسجد دی تجویز نہیں دے سکتے کیونکہ لوکیشن دی رسائی رد کر دِتی گئی اے۔ براہِ کرم کوئی مسجد تلاش کرو یا لوکیشن دی اجازت فعال کرو۔';
 }

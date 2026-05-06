@@ -2509,4 +2509,8 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
+
+  @override
+  String get search_for_mosque_or_enable_location =>
+      'An tɛ se ka misiri min ka surun kɛ jira sababu yɔrɔ la sɔrɔya tɛ. I ka misiri dɔ ɲini walima yɔrɔ la bataki da.';
 }
