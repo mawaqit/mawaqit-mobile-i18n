@@ -1578,5 +1578,6 @@
     "semantic_pre_notification_time": "وقت الإشعار المسبق",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
-    }
+    },
+    "search_for_mosque_or_enable_location": "لا يمكننا اقتراح أقرب مسجد لأن الوصول إلى الموقع مرفوض. يرجى البحث عن مسجد أو تفعيل إذن الموقع."
 }
