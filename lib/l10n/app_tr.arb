@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Seçilen bölgedeki camiler",
     "mosques_with": "Camiler",
     "allow_mawaqit_to_access_my_location": "Mawaqit'in konumuma erişmesine izin ver.",
-    "enable_location_service_from_app_settings": "Uygulama ayarlarından konum hizmetini etkinleştirin.",
+    "enable_location_service_from_app_settings": "Konumu etkinleştir",
     "the_request_timeout": "İstek zaman aşımına uğradı",
     "no_internet_connection": "İnternet bağlantısı yok",
     "try_again": "Tekrar deneyin",
