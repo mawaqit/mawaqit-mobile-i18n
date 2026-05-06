@@ -1578,5 +1578,6 @@
     "semantic_pre_notification_time": "ön bildirim süresi",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
-    }
+    },
+    "search_for_mosque_or_enable_location": "Konum erişimi reddedildiği için en yakın camiyi öneremiyoruz. Lütfen bir cami arayın veya konum iznini etkinleştirin."
 }
