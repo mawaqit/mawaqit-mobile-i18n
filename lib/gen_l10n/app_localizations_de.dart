@@ -2540,4 +2540,7 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Wir können die nächstgelegene Moschee nicht vorschlagen, da der Standortzugriff verweigert wurde. Bitte suchen Sie nach einer Moschee oder aktivieren Sie die Standortberechtigung.';
+
+  @override
+  String get location => 'Standort';
 }

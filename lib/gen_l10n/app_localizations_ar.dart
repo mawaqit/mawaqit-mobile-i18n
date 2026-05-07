@@ -2482,4 +2482,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'لا يمكننا اقتراح أقرب مسجد لأن الوصول إلى الموقع مرفوض. يرجى البحث عن مسجد أو تفعيل إذن الموقع.';
+
+  @override
+  String get location => 'الموقع';
 }

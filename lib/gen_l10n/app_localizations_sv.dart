@@ -2504,4 +2504,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Vi kan inte hitta den närmaste moskén eftersom appen saknar åtkomst till din plats. Sök efter en moské eller aktivera platsåtkomst.';
+
+  @override
+  String get location => 'Plats';
 }

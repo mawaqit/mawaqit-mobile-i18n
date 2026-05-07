@@ -2511,4 +2511,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Nie możemy zasugerować najbliższego meczetu, ponieważ dostęp do lokalizacji został odrzucony. Wyszukaj meczet lub włącz uprawnienia lokalizacji.';
+
+  @override
+  String get location => 'Lokalizacja';
 }

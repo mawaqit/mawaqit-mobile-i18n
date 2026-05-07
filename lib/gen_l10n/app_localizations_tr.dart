@@ -2502,4 +2502,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Konum erişimi reddedildiği için en yakın camiyi öneremiyoruz. Lütfen bir cami arayın veya konum iznini etkinleştirin.';
+
+  @override
+  String get location => 'Konum';
 }

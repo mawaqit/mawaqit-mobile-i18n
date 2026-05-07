@@ -2513,4 +2513,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Min waawi hollude juulirde ɓurnde ɓadaaki ngam yamiroore nokkuure nde haɗaa. Tiiɗno yiylo juulirde walla hurmin yamiroore nokkuure nde.';
+
+  @override
+  String get location => 'Location';
 }

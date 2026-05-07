@@ -2516,4 +2516,7 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'हम निकटतम मस्जिद का सुझाव नहीं दे सकते क्योंकि स्थान की अनुमति अस्वीकार कर दी गई है। कृपया किसी मस्जिद को खोजें या स्थान अनुमति सक्षम करें।';
+
+  @override
+  String get location => 'Location';
 }

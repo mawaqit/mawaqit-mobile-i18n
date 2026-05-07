@@ -2512,4 +2512,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'ئورۇن زىيارىتى رەت قىلىنغانلىقى ئۈچۈن، ئەڭ يېقىن مەسچىتنى تەۋسىيە قىلالمايمىز. بىر مەسچىت ئىزدەڭ ياكى ئورۇن ئىجازىتىنى قوزغىتىڭ.';
+
+  @override
+  String get location => 'ئورۇن';
 }

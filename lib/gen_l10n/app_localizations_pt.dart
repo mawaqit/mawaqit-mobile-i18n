@@ -2535,4 +2535,7 @@ class AppLocalizationsPt extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Não podemos sugerir a mesquita mais próxima porque o acesso à localização foi negado. Pesquise uma mesquita ou ative a permissão de localização.';
+
+  @override
+  String get location => 'Localização';
 }

@@ -2519,4 +2519,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'ناتوانین نزیکترین مزگەوت پێشنیار بکەین چونکە دەستگەیشتن بە شوێن ڕەتکراوە. تکایە مزگەوتێک بگەڕێن یان مۆڵەتی شوێن چالاک بکەن.';
+
+  @override
+  String get location => 'Location';
 }

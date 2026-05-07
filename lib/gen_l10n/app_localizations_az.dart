@@ -2514,4 +2514,7 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Məkan girişi rədd edildiyi üçün ən yaxın məscidi təklif edə bilmirik. Zəhmət olmasa məscid axtarın və ya məkan icazəsini aktiv edin.';
+
+  @override
+  String get location => 'Location';
 }

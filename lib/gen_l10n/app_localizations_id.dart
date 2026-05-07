@@ -2516,4 +2516,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Kami tidak dapat menyarankan masjid terdekat karena akses lokasi ditolak. Silakan cari masjid atau aktifkan izin lokasi.';
+
+  @override
+  String get location => 'Lokasi';
 }

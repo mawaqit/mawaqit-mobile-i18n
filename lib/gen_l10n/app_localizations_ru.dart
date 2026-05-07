@@ -2519,4 +2519,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Мы не можем предложить ближайшую мечеть, потому что доступ к местоположению запрещён. Пожалуйста, найдите мечеть вручную или включите разрешение на доступ к местоположению.';
+
+  @override
+  String get location => 'Геолокация';
 }

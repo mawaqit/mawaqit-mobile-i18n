@@ -2518,4 +2518,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Ne možemo predložiti najbližu džamiju jer je pristup lokaciji odbijen. Molimo pretražite džamiju ili omogućite dozvolu za lokaciju.';
+
+  @override
+  String get location => 'Lokacija';
 }

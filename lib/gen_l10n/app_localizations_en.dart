@@ -2513,4 +2513,7 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'We can’t suggest the nearest mosque because location access is denied. Please search for a mosque or enable location permission.';
+
+  @override
+  String get location => 'Location';
 }

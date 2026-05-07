@@ -2512,4 +2512,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'ہم قریبی مسجد تجویز نہیں کر سکتے کیونکہ لوکیشن تک رسائی مسترد کر دی گئی ہے۔ براہِ کرم کسی مسجد کو تلاش کریں یا لوکیشن کی اجازت فعال کریں۔';
+
+  @override
+  String get location => 'لوکیشن';
 }

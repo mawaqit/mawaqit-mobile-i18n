@@ -2525,4 +2525,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Nem tudjuk javasolni a legközelebbi mecsetet, mert a helyhozzáférés meg lett tagadva. Kérjük, keressen mecsetet vagy engedélyezze a helymeghatározást.';
+
+  @override
+  String get location => 'Helymeghatározás';
 }

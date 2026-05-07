@@ -2516,4 +2516,7 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'இருப்பிட அணுகல் மறுக்கப்பட்டதால் அருகிலுள்ள பள்ளிவாசலை பரிந்துரைக்க முடியவில்லை. தயவுசெய்து ஒரு பள்ளிவாசலைத் தேடுங்கள் அல்லது இருப்பிட அனுமதியை இயக்குங்கள்.';
+
+  @override
+  String get location => 'Location';
 }

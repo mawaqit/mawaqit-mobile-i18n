@@ -2535,4 +2535,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Non possiamo suggerire la moschea più vicina perché l’accesso alla posizione è stato negato. Cerca una moschea o abilita l’autorizzazione alla posizione.';
+
+  @override
+  String get location => 'Posizione';
 }

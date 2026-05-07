@@ -2526,4 +2526,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'We kunnen de dichtstbijzijnde moskee niet voorstellen omdat toegang tot de locatie is geweigerd. Zoek alstublieft naar een moskee of schakel locatierechten in.';
+
+  @override
+  String get location => 'Locatie';
 }
