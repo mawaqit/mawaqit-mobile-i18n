@@ -295,8 +295,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Разрешить Mawaqit получать доступ к моему местоположению.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Включить местоположение';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Время запроса истекло';
@@ -2520,4 +2519,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Мы не можем предложить ближайшую мечеть, потому что доступ к местоположению запрещён. Пожалуйста, найдите мечеть вручную или включите разрешение на доступ к местоположению.';
+
+  @override
+  String get location => 'Геолокация';
 }

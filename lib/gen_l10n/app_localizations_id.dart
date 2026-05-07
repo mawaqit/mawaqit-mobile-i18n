@@ -293,7 +293,7 @@ class AppLocalizationsId extends AppLocalizations {
       'Izinkan Mawaqit mengakses lokasi saya.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Aktifkan lokasi';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Waktu permintaan telah habis';
@@ -2516,4 +2516,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Kami tidak dapat menyarankan masjid terdekat karena akses lokasi ditolak. Silakan cari masjid atau aktifkan izin lokasi.';
+
+  @override
+  String get location => 'Lokasi';
 }

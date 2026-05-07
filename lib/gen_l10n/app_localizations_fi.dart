@@ -292,8 +292,7 @@ class AppLocalizationsFi extends AppLocalizations {
       'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Ota sijainti käyttöön';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'The request timed out';
@@ -2516,4 +2515,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Emme voi ehdottaa lähintä moskeijaa, koska sijainnin käyttöoikeus on estetty. Etsi moskeija tai ota sijaintilupa käyttöön.';
+
+  @override
+  String get location => 'Location';
 }

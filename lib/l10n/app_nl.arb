@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Moskeeën in het geselecteerde gebied",
     "mosques_with": "Moskeeën met",
     "allow_mawaqit_to_access_my_location": "Geef Mawaqit toegang tot mijn locatie.",
-    "enable_location_service_from_app_settings": "Locatie inschakelen",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "Het verzoek is verlopen",
     "no_internet_connection": "Geen internet verbinding",
     "try_again": "Probeer het nog eens",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "We kunnen de dichtstbijzijnde moskee niet voorstellen omdat toegang tot de locatie is geweigerd. Zoek alstublieft naar een moskee of schakel locatierechten in."
+    "search_for_mosque_or_enable_location": "We kunnen de dichtstbijzijnde moskee niet voorstellen omdat toegang tot de locatie is geweigerd. Zoek alstublieft naar een moskee of schakel locatierechten in.",
+    "location": "Locatie"
 }

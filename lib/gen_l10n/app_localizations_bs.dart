@@ -296,7 +296,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Dozvolite da Mawaqit pristupi vašoj lokaciji.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Omogući lokaciju';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Zahtjev je istekao';
@@ -2518,4 +2518,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Ne možemo predložiti najbližu džamiju jer je pristup lokaciji odbijen. Molimo pretražite džamiju ili omogućite dozvolu za lokaciju.';
+
+  @override
+  String get location => 'Lokacija';
 }

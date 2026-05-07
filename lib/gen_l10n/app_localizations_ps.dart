@@ -292,7 +292,7 @@ class AppLocalizationsPs extends AppLocalizations {
       'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings => 'موقعیت فعال کړئ';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'The request timed out';
@@ -2513,4 +2513,7 @@ class AppLocalizationsPs extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'موږ نشو کولی تر ټولو نږدې جومات وړاندیز کړو ځکه چې د موقعیت لاسرسی رد شوی دی. مهرباني وکړئ یو جومات ولټوئ یا د موقعیت اجازه فعاله کړئ.';
+
+  @override
+  String get location => 'Location';
 }

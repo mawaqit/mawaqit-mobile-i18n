@@ -292,7 +292,7 @@ class AppLocalizationsBn extends AppLocalizations {
       'মাওয়াকিতকে আমার অবস্থান অ্যাক্সেস করার অনুমতি দিন.';
 
   @override
-  String get enable_location_service_from_app_settings => 'অবস্থান চালু করুন';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'অনুরোধ সময় শেষ হয়েছে';
@@ -2513,4 +2513,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'অবস্থান অ্যাক্সেস অস্বীকার করা হয়েছে, তাই আমরা নিকটস্থ মসজিদের পরামর্শ দিতে পারছি না। অনুগ্রহ করে একটি মসজিদ অনুসন্ধান করুন অথবা অবস্থানের অনুমতি চালু করুন।';
+
+  @override
+  String get location => 'লোকেশন';
 }

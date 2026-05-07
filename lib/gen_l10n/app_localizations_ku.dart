@@ -293,7 +293,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'رێگەدان بە مەواقیت بۆ گەیشتن بە هەستەوەری دیاریکردنی جێگا.';
 
   @override
-  String get enable_location_service_from_app_settings => 'شوێن چالاک بکە';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'ئەم داواکارییە هەڵوەشایەوە';
@@ -2519,4 +2519,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'ناتوانین نزیکترین مزگەوت پێشنیار بکەین چونکە دەستگەیشتن بە شوێن ڕەتکراوە. تکایە مزگەوتێک بگەڕێن یان مۆڵەتی شوێن چالاک بکەن.';
+
+  @override
+  String get location => 'Location';
 }

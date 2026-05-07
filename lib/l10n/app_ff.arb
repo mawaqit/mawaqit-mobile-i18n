@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Mosques in the selected area",
     "mosques_with": "Mosques with",
     "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
-    "enable_location_service_from_app_settings": "Hurmin nokkuure",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "The request timed out",
     "no_internet_connection": "Alaa Ceŋol Enternet",
     "try_again": "Fuɗɗito",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Min waawi hollude juulirde ɓurnde ɓadaaki ngam yamiroore nokkuure nde haɗaa. Tiiɗno yiylo juulirde walla hurmin yamiroore nokkuure nde."
+    "search_for_mosque_or_enable_location": "Min waawi hollude juulirde ɓurnde ɓadaaki ngam yamiroore nokkuure nde haɗaa. Tiiɗno yiylo juulirde walla hurmin yamiroore nokkuure nde.",
+    "location": "Location"
 }

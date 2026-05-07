@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Seçilen bölgedeki camiler",
     "mosques_with": "Camiler",
     "allow_mawaqit_to_access_my_location": "Mawaqit'in konumuma erişmesine izin ver.",
-    "enable_location_service_from_app_settings": "Konumu etkinleştir",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "İstek zaman aşımına uğradı",
     "no_internet_connection": "İnternet bağlantısı yok",
     "try_again": "Tekrar deneyin",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Konum erişimi reddedildiği için en yakın camiyi öneremiyoruz. Lütfen bir cami arayın veya konum iznini etkinleştirin."
+    "search_for_mosque_or_enable_location": "Konum erişimi reddedildiği için en yakın camiyi öneremiyoruz. Lütfen bir cami arayın veya konum iznini etkinleştirin.",
+    "location": "Konum"
 }

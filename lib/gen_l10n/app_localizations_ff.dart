@@ -292,7 +292,7 @@ class AppLocalizationsFf extends AppLocalizations {
       'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Hurmin nokkuure';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'The request timed out';
@@ -2513,4 +2513,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Min waawi hollude juulirde ɓurnde ɓadaaki ngam yamiroore nokkuure nde haɗaa. Tiiɗno yiylo juulirde walla hurmin yamiroore nokkuure nde.';
+
+  @override
+  String get location => 'Location';
 }

@@ -292,7 +292,7 @@ class AppLocalizationsBm extends AppLocalizations {
       'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Yɔrɔ da';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'The request timed out';
@@ -2512,4 +2512,7 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'An tɛ se ka misiri min ka surun kɛ jira sababu yɔrɔ la sɔrɔya tɛ. I ka misiri dɔ ɲini walima yɔrɔ la bataki da.';
+
+  @override
+  String get location => 'Location';
 }

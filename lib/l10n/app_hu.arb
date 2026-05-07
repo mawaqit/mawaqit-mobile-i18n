@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Mecsetek a kiválasztott területen",
     "mosques_with": "Mecsetek, ahol",
     "allow_mawaqit_to_access_my_location": "Engedélyezd a Mawaqit számára, hogy hozzáférjen a tartózkodási helyedhez.",
-    "enable_location_service_from_app_settings": "Helymeghatározás engedélyezése",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "A kérés időtúllépés miatt megszakadt.",
     "no_internet_connection": "Nincs internetkapcsolat",
     "try_again": "Próbáld újra",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Nem tudjuk javasolni a legközelebbi mecsetet, mert a helyhozzáférés meg lett tagadva. Kérjük, keressen mecsetet vagy engedélyezze a helymeghatározást."
+    "search_for_mosque_or_enable_location": "Nem tudjuk javasolni a legközelebbi mecsetet, mert a helyhozzáférés meg lett tagadva. Kérjük, keressen mecsetet vagy engedélyezze a helymeghatározást.",
+    "location": "Helymeghatározás"
 }

@@ -295,8 +295,7 @@ class AppLocalizationsBg extends AppLocalizations {
       'Разрешаване на достъпа на Mawaqit до моето местоположение.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Активирайте местоположението';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => '';
@@ -2522,4 +2521,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Не можем да предложим най-близката джамия, защото достъпът до местоположението е отказан. Моля, потърсете джамия или разрешете достъп до местоположението.';
+
+  @override
+  String get location => 'Location';
 }

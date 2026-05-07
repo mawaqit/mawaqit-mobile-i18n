@@ -292,8 +292,7 @@ class AppLocalizationsTh extends AppLocalizations {
       'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'เปิดใช้งานตำแหน่งที่ตั้ง';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'The request timed out';
@@ -2515,4 +2514,7 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'เราไม่สามารถแนะนำมัสยิดที่ใกล้ที่สุดได้ เนื่องจากการเข้าถึงตำแหน่งถูกปฏิเสธ กรุณาค้นหามัสยิดหรือเปิดใช้งานการอนุญาตตำแหน่ง';
+
+  @override
+  String get location => 'Location';
 }

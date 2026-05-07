@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Masjid di area yang dipilih",
     "mosques_with": "Masjid dengan",
     "allow_mawaqit_to_access_my_location": "Izinkan Mawaqit mengakses lokasi saya.",
-    "enable_location_service_from_app_settings": "Aktifkan lokasi",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "Waktu permintaan telah habis",
     "no_internet_connection": "Tidak ada koneksi internet",
     "try_again": "Coba lagi",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Kami tidak dapat menyarankan masjid terdekat karena akses lokasi ditolak. Silakan cari masjid atau aktifkan izin lokasi."
+    "search_for_mosque_or_enable_location": "Kami tidak dapat menyarankan masjid terdekat karena akses lokasi ditolak. Silakan cari masjid atau aktifkan izin lokasi.",
+    "location": "Lokasi"
 }

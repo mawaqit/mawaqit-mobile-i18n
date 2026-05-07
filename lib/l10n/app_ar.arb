@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "المساجد في المنطقة المختارة",
     "mosques_with": "المساجد مع ",
     "allow_mawaqit_to_access_my_location": "السماح لـ مواقيت بالوصول إلى موقعي.",
-    "enable_location_service_from_app_settings": "تفعيل الموقع",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "انتهت مهلة الطلب",
     "no_internet_connection": "لا يوجد اتصال بالإنترنت",
     "try_again": "حاول مرة أخرى",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "لا يمكننا اقتراح أقرب مسجد لأن الوصول إلى الموقع مرفوض. يرجى البحث عن مسجد أو تفعيل إذن الموقع."
+    "search_for_mosque_or_enable_location": "لا يمكننا اقتراح أقرب مسجد لأن الوصول إلى الموقع مرفوض. يرجى البحث عن مسجد أو تفعيل إذن الموقع.",
+    "location": "الموقع"
 }

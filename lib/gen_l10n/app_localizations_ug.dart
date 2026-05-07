@@ -293,7 +293,7 @@ class AppLocalizationsUg extends AppLocalizations {
       'مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.';
 
   @override
-  String get enable_location_service_from_app_settings => 'ئورۇننى قوزغىتىڭ';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'ئىلتىماس ۋاقتى ئۆتتى';
@@ -2512,4 +2512,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'ئورۇن زىيارىتى رەت قىلىنغانلىقى ئۈچۈن، ئەڭ يېقىن مەسچىتنى تەۋسىيە قىلالمايمىز. بىر مەسچىت ئىزدەڭ ياكى ئورۇن ئىجازىتىنى قوزغىتىڭ.';
+
+  @override
+  String get location => 'ئورۇن';
 }

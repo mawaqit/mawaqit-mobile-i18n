@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Mosquées dans la zone sélectionnée",
     "mosques_with": "Mosquées avec",
     "allow_mawaqit_to_access_my_location": "Autoriser Mawaqit à accéder à ma position.",
-    "enable_location_service_from_app_settings": "Activer la localisation",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "La demande a expiré",
     "no_internet_connection": "Pas de connexion Internet",
     "try_again": "Essayer à nouveau",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Nous ne pouvons pas suggérer la mosquée la plus proche car l’accès à la localisation est refusé. Veuillez rechercher une mosquée ou activer l’autorisation de localisation."
+    "search_for_mosque_or_enable_location": "Nous ne pouvons pas suggérer la mosquée la plus proche car l’accès à la localisation est refusé. Veuillez rechercher une mosquée ou activer l’autorisation de localisation.",
+    "location": "Localisation"
 }

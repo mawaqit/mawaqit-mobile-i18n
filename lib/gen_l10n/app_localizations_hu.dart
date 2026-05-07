@@ -295,8 +295,7 @@ class AppLocalizationsHu extends AppLocalizations {
       'Engedélyezd a Mawaqit számára, hogy hozzáférjen a tartózkodási helyedhez.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Helymeghatározás engedélyezése';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'A kérés időtúllépés miatt megszakadt.';
@@ -2526,4 +2525,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Nem tudjuk javasolni a legközelebbi mecsetet, mert a helyhozzáférés meg lett tagadva. Kérjük, keressen mecsetet vagy engedélyezze a helymeghatározást.';
+
+  @override
+  String get location => 'Helymeghatározás';
 }

@@ -293,8 +293,7 @@ class AppLocalizationsSq extends AppLocalizations {
       'Lejo Mawaqit të ketë qasje në vendndodhjen time.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Aktivizo vendndodhjen';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Kërkesa ka skaduar';
@@ -2525,4 +2524,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Nuk mund të sugjerojmë xhaminë më të afërt sepse qasja në vendndodhje është refuzuar. Ju lutemi kërkoni një xhami ose aktivizoni lejen e vendndodhjes.';
+
+  @override
+  String get location => 'Vendndodhja';
 }

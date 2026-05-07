@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "تاللىغان جايدىكى مەسچىت",
     "mosques_with": "مەسچىتلەر",
     "allow_mawaqit_to_access_my_location": "مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.",
-    "enable_location_service_from_app_settings": "ئورۇننى قوزغىتىڭ",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "ئىلتىماس ۋاقتى ئۆتتى",
     "no_internet_connection": "ئىنتېرنېت باغلىنىشى يوق",
     "try_again": "قايتا سىناڭ",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "ئورۇن زىيارىتى رەت قىلىنغانلىقى ئۈچۈن، ئەڭ يېقىن مەسچىتنى تەۋسىيە قىلالمايمىز. بىر مەسچىت ئىزدەڭ ياكى ئورۇن ئىجازىتىنى قوزغىتىڭ."
+    "search_for_mosque_or_enable_location": "ئورۇن زىيارىتى رەت قىلىنغانلىقى ئۈچۈن، ئەڭ يېقىن مەسچىتنى تەۋسىيە قىلالمايمىز. بىر مەسچىت ئىزدەڭ ياكى ئورۇن ئىجازىتىنى قوزغىتىڭ.",
+    "location": "ئورۇن"
 }

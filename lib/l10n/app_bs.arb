@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Džamije u odabranom području",
     "mosques_with": "Džamije sa",
     "allow_mawaqit_to_access_my_location": "Dozvolite da Mawaqit pristupi vašoj lokaciji.",
-    "enable_location_service_from_app_settings": "Omogući lokaciju",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "Zahtjev je istekao",
     "no_internet_connection": "Bez internet konekcije.",
     "try_again": "Pokušajte ponovo",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Ne možemo predložiti najbližu džamiju jer je pristup lokaciji odbijen. Molimo pretražite džamiju ili omogućite dozvolu za lokaciju."
+    "search_for_mosque_or_enable_location": "Ne možemo predložiti najbližu džamiju jer je pristup lokaciji odbijen. Molimo pretražite džamiju ili omogućite dozvolu za lokaciju.",
+    "location": "Lokacija"
 }

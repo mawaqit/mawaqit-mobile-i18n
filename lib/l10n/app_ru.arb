@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Мечети в выбранном районе",
     "mosques_with": "Мечети с",
     "allow_mawaqit_to_access_my_location": "Разрешить Mawaqit получать доступ к моему местоположению.",
-    "enable_location_service_from_app_settings": "Включить местоположение",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "Время запроса истекло",
     "no_internet_connection": "Нет соединения с интернетом",
     "try_again": "Попробуйте еще раз",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Мы не можем предложить ближайшую мечеть, потому что доступ к местоположению запрещён. Пожалуйста, найдите мечеть вручную или включите разрешение на доступ к местоположению."
+    "search_for_mosque_or_enable_location": "Мы не можем предложить ближайшую мечеть, потому что доступ к местоположению запрещён. Пожалуйста, найдите мечеть вручную или включите разрешение на доступ к местоположению.",
+    "location": "Геолокация"
 }

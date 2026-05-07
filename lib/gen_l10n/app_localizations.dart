@@ -4885,6 +4885,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'We can’t suggest the nearest mosque because location access is denied. Please search for a mosque or enable location permission.'**
   String get search_for_mosque_or_enable_location;
+
+  /// No description provided for @location.
+  ///
+  /// In en, this message translates to:
+  /// **'Location'**
+  String get location;
 }
 
 class _AppLocalizationsDelegate

@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Moscheen im ausgewählten Bereich",
     "mosques_with": "Moscheen mit",
     "allow_mawaqit_to_access_my_location": "Erlaube Mawaqit, auf meinen Standort zuzugreifen.",
-    "enable_location_service_from_app_settings": "Standort aktivieren",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "Bei der Anfrage ist eine Zeitüberschreitung aufgetreten",
     "no_internet_connection": "Keine Internetverbindung",
     "try_again": "Versuchen Sie es erneut",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Wir können die nächstgelegene Moschee nicht vorschlagen, da der Standortzugriff verweigert wurde. Bitte suchen Sie nach einer Moschee oder aktivieren Sie die Standortberechtigung."
+    "search_for_mosque_or_enable_location": "Wir können die nächstgelegene Moschee nicht vorschlagen, da der Standortzugriff verweigert wurde. Bitte suchen Sie nach einer Moschee oder aktivieren Sie die Standortberechtigung.",
+    "location": "Standort"
 }

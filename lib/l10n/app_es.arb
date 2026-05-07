@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Mezquitas en la zona seleccionada.",
     "mosques_with": "Mezquitas con",
     "allow_mawaqit_to_access_my_location": "Permitir que Mawaqit acceda a mi ubicación.",
-    "enable_location_service_from_app_settings": "Activar ubicación",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "La petición caducó",
     "no_internet_connection": "Sin conexión a Internet",
     "try_again": "Intentar otra vez",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "No podemos sugerir la mezquita más cercana porque el acceso a la ubicación fue denegado. Por favor, busca una mezquita o habilita el permiso de ubicación."
+    "search_for_mosque_or_enable_location": "No podemos sugerir la mezquita más cercana porque el acceso a la ubicación fue denegado. Por favor, busca una mezquita o habilita el permiso de ubicación.",
+    "location": "Ubicación"
 }

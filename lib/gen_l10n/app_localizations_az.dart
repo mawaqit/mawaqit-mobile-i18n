@@ -292,7 +292,7 @@ class AppLocalizationsAz extends AppLocalizations {
       'Allow Mawaqit to access my location.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Məkanı aktiv et';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'The request timed out';
@@ -2514,4 +2514,7 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Məkan girişi rədd edildiyi üçün ən yaxın məscidi təklif edə bilmirik. Zəhmət olmasa məscid axtarın və ya məkan icazəsini aktiv edin.';
+
+  @override
+  String get location => 'Location';
 }

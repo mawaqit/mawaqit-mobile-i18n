@@ -293,7 +293,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Mawaqit\'in konumuma erişmesine izin ver.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Konumu etkinleştir';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'İstek zaman aşımına uğradı';
@@ -2502,4 +2502,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Konum erişimi reddedildiği için en yakın camiyi öneremiyoruz. Lütfen bir cami arayın veya konum iznini etkinleştirin.';
+
+  @override
+  String get location => 'Konum';
 }

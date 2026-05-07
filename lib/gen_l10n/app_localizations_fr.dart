@@ -297,8 +297,7 @@ class AppLocalizationsFr extends AppLocalizations {
       'Autoriser Mawaqit à accéder à ma position.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Activer la localisation';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'La demande a expiré';
@@ -2549,4 +2548,7 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'Nous ne pouvons pas suggérer la mosquée la plus proche car l’accès à la localisation est refusé. Veuillez rechercher une mosquée ou activer l’autorisation de localisation.';
+
+  @override
+  String get location => 'Localisation';
 }

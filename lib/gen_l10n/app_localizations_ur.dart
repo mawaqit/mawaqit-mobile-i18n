@@ -293,7 +293,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'مواقیت کو میرے مقام تک رسائی کی اجازت دیں۔ ';
 
   @override
-  String get enable_location_service_from_app_settings => 'لوکیشن فعال کریں';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'درخواست کا وقت ختم ہو گیا۔';
@@ -2512,4 +2512,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get search_for_mosque_or_enable_location =>
       'ہم قریبی مسجد تجویز نہیں کر سکتے کیونکہ لوکیشن تک رسائی مسترد کر دی گئی ہے۔ براہِ کرم کسی مسجد کو تلاش کریں یا لوکیشن کی اجازت فعال کریں۔';
+
+  @override
+  String get location => 'لوکیشن';
 }
