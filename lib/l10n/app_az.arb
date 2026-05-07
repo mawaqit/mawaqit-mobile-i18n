@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Məkan girişi rədd edildiyi üçün ən yaxın məscidi təklif edə bilmirik. Zəhmət olmasa məscid axtarın və ya məkan icazəsini aktiv edin."
+    "search_for_mosque_or_enable_location": "Məkan girişi rədd edildiyi üçün ən yaxın məscidi təklif edə bilmirik. Zəhmət olmasa məscid axtarın və ya məkan icazəsini aktiv edin.",
+    "location": "Location"
 }
