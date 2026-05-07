@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Moskéer i det valda området",
     "mosques_with": "Moskéer med",
     "allow_mawaqit_to_access_my_location": "Tillåt Mawaqit att använda din plats.",
-    "enable_location_service_from_app_settings": "Aktivera plats",
+    "enable_location_service_from_app_settings": "Aktivera platsåtkomst",
     "the_request_timeout": "Begäran tog för lång tid och avbröts",
     "no_internet_connection": "Ingen internetanslutning",
     "try_again": "Försök igen",
@@ -441,7 +441,7 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "om",
+    "in_": "i_",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -491,7 +491,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Din huvudmoské visas här. Svep åt vänster eller höger för att växla mellan dina favoritmoskéer.",
+    "tutorial_text_main_mosque": "Din huvudmoské visas här. Svep åt vänster eller höger för att växla mellan dina favoritmoskéer,.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
@@ -729,7 +729,7 @@
     "read_quran": "Läs Koranen",
     "ayahs": "Verser",
     "chapter": "Sura",
-    "meaning": "Mening",
+    "meaning": "Betyder",
     "al_quran": "Koranen",
     "surah_information": "Information om suran",
     "surah_number": "Surans nummer",
@@ -762,7 +762,7 @@
     "favorite_reciters": "Favoritrecitatörer",
     "surahs_downloaded": "Nedladdade - suror",
     "surahs_chapter": "Suror - kapitel",
-    "my_likes": "Mina gillade",
+    "my_likes": "Gillade,",
     "cancel": "Avbryt",
     "next": "Nästa",
     "search_surah": "Sök efter sura",
@@ -952,7 +952,7 @@
     "prayer_times_by_location": "Bönetider baserat på plats",
     "already_in_list": "Finns redan i din lista!",
     "got_it": "Uppfattat!",
-    "mushaf_warsh": "Vers",
+    "mushaf_warsh": "Warsh'",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
@@ -1341,7 +1341,7 @@
     "@help": {
         "description": "-> help"
     },
-    "sofian_s_siregar": "Sofian S. Siregar",
+    "sofian_s_siregar": "Sofian Siregar",
     "@sofian_s_siregar": {
         "description": "-> sofian_s_siregar"
     },
@@ -1353,7 +1353,7 @@
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     },
-    "tap_change_notification": "Tap to change notification",
+    "tap_change_notification": "Tryck för att ändra avisering",
     "adhan_at": "Adhan om",
     "semantic_mawaqit_notification": "olästa aviseringar från MAWAQIT",
     "semantic_open_notifications": "Öppna aviseringar",
@@ -1472,29 +1472,29 @@
     "semantic_decrease_pre_notification": "Minska aviseringstid",
     "semantic_increase_pre_notification": "Öka aviseringstid",
     "semantic_facing_qibla": "Du är vänd mot Qibla",
-    "semantic_clockwise": "Moturs",
-    "sematnic_counter_clockwise": "counter-clockwise",
-    "semantic_rotate_slightly": "Nästan klart. Vrid lite",
-    "semanitc_degrees_to_qibla": "degrees to Qibla",
-    "about": "about",
-    "rotate": "Rotate",
-    "semantic_close_audio_player": "Stäng ljudspelare",
-    "reciter_settings": "Reciter settings",
-    "previous_verse": "Previous verse",
-    "next_verse": "Next verse",
-    "decrease": "Decrease",
-    "increase": "Increases",
-    "quran_settings": "Quran settings",
-    "semantic_mushaf_view": "Mushaf-vy",
+    "semantic_clockwise": "Medurs,",
+    "sematnic_counter_clockwise": "moturs",
+    "semantic_rotate_slightly": "Nästan klart. Vrid lite till",
+    "semanitc_degrees_to_qibla": "grader till Qibla",
+    "about": "om",
+    "rotate": "Vrid",
+    "semantic_close_audio_player": "Stäng ljudspelaren",
+    "reciter_settings": "Recitatörs inställningar",
+    "previous_verse": "Föregående vers",
+    "next_verse": "Nästa vers",
+    "decrease": "Minska",
+    "increase": "Öka",
+    "quran_settings": "Koraninställningar",
+    "semantic_mushaf_view": "Koran vy",
     "semantic_verse_list_view": "Verslista-vy",
-    "not_downloaded": "Not downloaded",
-    "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
-    "semantic_switch_verse_list": "Mushaf-sida. Byt till verslista-vy för full tillgänglighet.",
-    "semantic_decrease_hijri_adjustment": "Minska Hijri-justering",
+    "not_downloaded": "Inte nedladdad",
+    "verse_list_enabled_for_accessibility": "Verslista aktiverad för tillgänglighet",
+    "semantic_switch_verse_list": "Koran sida. Växla till verslistan för bättre tillgänglighet.",
+    "semantic_decrease_hijri_adjustment": "Minska hijri-justeringen",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
-    "semantic_minimum_adjustment_reached": "Minsta justering uppnådd",
+    "semantic_minimum_adjustment_reached": "Minsta justering nådd",
     "@semantic_minimum_adjustment_reached": {
         "description": "-> semantic_minimum_adjustment_reached"
     },
@@ -1502,15 +1502,15 @@
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "Öka Hijri-justering",
+    "semantic_increase_hijri_adjustment": "Öka hijri-justeringen",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
-    "semantic_maximum_adjustment_reached": "Största justering uppnådd",
+    "semantic_maximum_adjustment_reached": "Största justering nådd",
     "@semantic_maximum_adjustment_reached": {
         "description": "-> semantic_maximum_adjustment_reached"
     },
-    "semantic_minimum_size_reached": "Minsta storlek uppnådd",
+    "semantic_minimum_size_reached": "Minsta storlek nådd",
     "@semantic_minimum_size_reached": {
         "description": "-> semantic_minimum_size_reached"
     },
@@ -1526,58 +1526,58 @@
     "@semantic_increase": {
         "description": "-> semantic_increase"
     },
-    "semantic_maximum_size_reached": "Största storlek uppnådd",
+    "semantic_maximum_size_reached": "Största storlek nådd",
     "@semantic_maximum_size_reached": {
         "description": "-> semantic_maximum_size_reached"
     },
-    "semantic_favorite": "Öka Hijri-justering",
+    "semantic_favorite": "Favorit",
     "@semantic_favorite": {
         "description": "-> semantic_favorite"
     },
-    "semantic_added_to_favorites": "Tillagd i favoriter",
+    "semantic_added_to_favorites": "Tillagd som favorit",
     "@semantic_added_to_favorites": {
         "description": "-> semantic_added_to_favorites"
     },
-    "semantic_not_in_favorites": "Inte i favoriter",
+    "semantic_not_in_favorites": "Inte i favoriterna",
     "@semantic_not_in_favorites": {
         "description": "-> semantic_not_in_favorites"
     },
     "semantic_for": "för",
-    "semantic_view_style": "Visningsstil",
-    "semantic_double_tap_to_change_view_style": "Dubbeltryck för att ändra visningsstil",
-    "semantic_share_dua": "Dela dua",
-    "semantic_tasbih_settings": "Tasbih-inställningar",
-    "semantic_tasbih_counter": "Tasbih-räknare",
+    "semantic_view_style": "Visnings stil",
+    "semantic_double_tap_to_change_view_style": "Dubbeltryck för att ändra visningsläge",
+    "semantic_share_dua": "Dela duan",
+    "semantic_tasbih_settings": "Tasbihinställningar",
+    "semantic_tasbih_counter": "Tasbihräknare",
     "semantic_previous_dua": "Föregående dua",
     "semantic_next_dua": "Nästa dua",
     "semantic_dua": "Dua",
-    "semantic_opens": "Öppnar",
-    "semantic_opens_language_selection": "Öppnar språkväljare",
+    "semantic_opens": "Öppna",
+    "semantic_opens_language_selection": "Öppnar språkval",
     "semantic_device": "Enhet",
-    "semantic_light": "Ljust",
-    "semantic_dark": "Mörkt",
+    "semantic_light": "Ljust läge",
+    "semantic_dark": "Mörkt läge",
     "semantic_on": "På",
     "semantic_off": "Av",
-    "semantic_ayah_list_actions": "Navigera till moské",
-    "remove_bookmark": "Remove bookmark",
-    "add_bookmark": "Add bookmark",
-    "selected": "selected",
-    "double_tap_to_continue": "Double tap to continue",
-    "clear_search": "Clear search",
-    "mosques_found": "mosques found",
-    "mosque_added": "Mosque added",
-    "mosque_removed": "Mosque removed",
-    "scroll_left_right_select_surah": "Scroll left or right to select a surah",
-    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
+    "semantic_ayah_list_actions": "Åtgärder för verslista",
+    "remove_bookmark": "Ta bort bokmärke",
+    "add_bookmark": "Lägg till bokmärke",
+    "selected": "vald",
+    "double_tap_to_continue": "Dubbeltryck för att fortsätta",
+    "clear_search": "Rensa sökning",
+    "mosques_found": "moskéer hittades",
+    "mosque_added": "Moské tillagd",
+    "mosque_removed": "Moské borttagen",
+    "scroll_left_right_select_surah": "Bläddra åt vänster eller höger för att välja en sura",
+    "swipe_left_right_select_mushaf_type": "Svep åt vänster eller höger för att välja en annan typ av Koran",
     "location_permission_required": "Platsåtkomst krävs",
-    "semantic_previous_month": "Previous month",
-    "semantic_next_month": "Next month",
-    "semantic_view_image": "View image",
-    "access_location_details": "För att visa korrekt lokalt väder, Qibla riktning och moskéinformation baserat på din nuvarande position behöver MAWAQIT åtkomst till din plats. Du har tidigare nekat denna åtkomst.",
-    "location_off": "Plats avstängd",
+    "semantic_previous_month": "Föregående månad",
+    "semantic_next_month": "Nästa månad",
+    "semantic_view_image": "Visa bild",
+    "access_location_details": "MAWAQIT behöver åtkomst till din plats för att kunna visa korrekt lokalt väder, Qibla-riktning och information om moskéer baserat på din nuvarande position. Du har tidigare nekat denna åtkomst.",
+    "location_off": "Platstjänster avstängda",
     "semantic_pre_notification_time": "förvarningstid",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Vi kan inte föreslå den närmaste moskén eftersom platsåtkomst nekades. Sök efter en moské eller aktivera platsbehörighet."
+    "search_for_mosque_or_enable_location": "Vi kan inte hitta den närmaste moskén eftersom appen saknar åtkomst till din plats. Sök efter en moské eller aktivera platsåtkomst."
 }
