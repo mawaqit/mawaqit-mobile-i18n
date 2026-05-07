@@ -295,8 +295,7 @@ class AppLocalizationsBg extends AppLocalizations {
       'Разрешаване на достъпа на Mawaqit до моето местоположение.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Активирайте местоположението';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => '';

@@ -293,7 +293,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Mawaqit\'in konumuma erişmesine izin ver.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Konumu etkinleştir';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'İstek zaman aşımına uğradı';

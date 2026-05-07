@@ -293,7 +293,7 @@ class AppLocalizationsId extends AppLocalizations {
       'Izinkan Mawaqit mengakses lokasi saya.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Aktifkan lokasi';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Waktu permintaan telah habis';

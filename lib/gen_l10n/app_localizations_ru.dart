@@ -295,8 +295,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Разрешить Mawaqit получать доступ к моему местоположению.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Включить местоположение';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Время запроса истекло';

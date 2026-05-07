@@ -291,7 +291,7 @@ class AppLocalizationsAr extends AppLocalizations {
       'السماح لـ مواقيت بالوصول إلى موقعي.';
 
   @override
-  String get enable_location_service_from_app_settings => 'تفعيل الموقع';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'انتهت مهلة الطلب';

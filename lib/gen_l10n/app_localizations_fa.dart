@@ -293,7 +293,7 @@ class AppLocalizationsFa extends AppLocalizations {
       'اجازه دهید مواقیت به موقعیت مکانی من دسترسی داشته باشد.';
 
   @override
-  String get enable_location_service_from_app_settings => 'موقعیت را فعال کنید';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'زمان درخواست منقضی شد';

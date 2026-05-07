@@ -297,8 +297,7 @@ class AppLocalizationsFr extends AppLocalizations {
       'Autoriser Mawaqit à accéder à ma position.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Activer la localisation';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'La demande a expiré';

@@ -293,7 +293,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'مواقیت کو میرے مقام تک رسائی کی اجازت دیں۔ ';
 
   @override
-  String get enable_location_service_from_app_settings => 'لوکیشن فعال کریں';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'درخواست کا وقت ختم ہو گیا۔';

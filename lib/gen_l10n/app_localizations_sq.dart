@@ -293,8 +293,7 @@ class AppLocalizationsSq extends AppLocalizations {
       'Lejo Mawaqit të ketë qasje në vendndodhjen time.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Aktivizo vendndodhjen';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Kërkesa ka skaduar';

@@ -294,7 +294,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Zezwól Mawaqitowi na dostęp do mojej lokalizacji.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Włącz lokalizację';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'Upłynął limit czasu żądania';

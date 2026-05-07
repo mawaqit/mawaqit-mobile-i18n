@@ -295,8 +295,7 @@ class AppLocalizationsHu extends AppLocalizations {
       'Engedélyezd a Mawaqit számára, hogy hozzáférjen a tartózkodási helyedhez.';
 
   @override
-  String get enable_location_service_from_app_settings =>
-      'Helymeghatározás engedélyezése';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'A kérés időtúllépés miatt megszakadt.';

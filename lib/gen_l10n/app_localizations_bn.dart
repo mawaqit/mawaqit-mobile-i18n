@@ -292,7 +292,7 @@ class AppLocalizationsBn extends AppLocalizations {
       'মাওয়াকিতকে আমার অবস্থান অ্যাক্সেস করার অনুমতি দিন.';
 
   @override
-  String get enable_location_service_from_app_settings => 'অবস্থান চালু করুন';
+  String get enable_location_service_from_app_settings => 'Enable location';
 
   @override
   String get the_request_timeout => 'অনুরোধ সময় শেষ হয়েছে';
