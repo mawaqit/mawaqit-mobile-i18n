@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "ہم قریبی مسجد تجویز نہیں کر سکتے کیونکہ لوکیشن تک رسائی مسترد کر دی گئی ہے۔ براہِ کرم کسی مسجد کو تلاش کریں یا لوکیشن کی اجازت فعال کریں۔"
+    "search_for_mosque_or_enable_location": "ہم قریبی مسجد تجویز نہیں کر سکتے کیونکہ لوکیشن تک رسائی مسترد کر دی گئی ہے۔ براہِ کرم کسی مسجد کو تلاش کریں یا لوکیشن کی اجازت فعال کریں۔",
+    "location": "لوکیشن"
 }
