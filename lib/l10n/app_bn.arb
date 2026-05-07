@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "নির্বাচিত এলাকায় মসজিদ",
     "mosques_with": "সঙ্গে মসজিদ",
     "allow_mawaqit_to_access_my_location": "মাওয়াকিতকে আমার অবস্থান অ্যাক্সেস করার অনুমতি দিন.",
-    "enable_location_service_from_app_settings": "অবস্থান চালু করুন",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "অনুরোধ সময় শেষ হয়েছে",
     "no_internet_connection": "ইন্টারনেট সংযোগ নেই",
     "try_again": "আবার চেষ্টা কর",
