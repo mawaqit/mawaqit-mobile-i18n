@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "تاللىغان جايدىكى مەسچىت",
     "mosques_with": "مەسچىتلەر",
     "allow_mawaqit_to_access_my_location": "مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.",
-    "enable_location_service_from_app_settings": "ئورۇننى قوزغىتىڭ",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "ئىلتىماس ۋاقتى ئۆتتى",
     "no_internet_connection": "ئىنتېرنېت باغلىنىشى يوق",
     "try_again": "قايتا سىناڭ",
