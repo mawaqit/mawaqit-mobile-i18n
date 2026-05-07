@@ -1579,5 +1579,6 @@
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Min waawi hollude juulirde ɓurnde ɓadaaki ngam yamiroore nokkuure nde haɗaa. Tiiɗno yiylo juulirde walla hurmin yamiroore nokkuure nde."
+    "search_for_mosque_or_enable_location": "Min waawi hollude juulirde ɓurnde ɓadaaki ngam yamiroore nokkuure nde haɗaa. Tiiɗno yiylo juulirde walla hurmin yamiroore nokkuure nde.",
+    "location": "Location"
 }
