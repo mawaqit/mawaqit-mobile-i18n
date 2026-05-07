@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "Xhamitë në zonën e përzgjedhur",
     "mosques_with": "Xhamitë me",
     "allow_mawaqit_to_access_my_location": "Lejo Mawaqit të ketë qasje në vendndodhjen time.",
-    "enable_location_service_from_app_settings": "Aktivizo vendndodhjen",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "Kërkesa ka skaduar",
     "no_internet_connection": "Nuk ka Internet",
     "try_again": "Provo përsëri",
