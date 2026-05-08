@@ -367,7 +367,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Vi upptäckte att aviseringarna är fördröjda. Vänligen stäng av';
 
   @override
-  String get permission_message2 => 'så att aviseringarna kommer i tid.';
+  String get permission_message2 => 'Så att aviseringarna kommer i tid.';
 
   @override
   String get notifications_delay_detected => 'Fördröjda aviseringar upptäcktes';
@@ -488,10 +488,10 @@ class AppLocalizationsSv extends AppLocalizations {
       'Informationen har lagts till av moskéns ansvariga';
 
   @override
-  String get in_ => 'i_';
+  String get in_ => 'I';
 
   @override
-  String get imsak => 'Imsak\'';
+  String get imsak => 'Imsak.';
 
   @override
   String get eid => 'Eidbön';
@@ -584,7 +584,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get favorites_edit => 'Redigera favoritmoskéer';
 
   @override
-  String get minutes_to_athan => 'minuter till adhan';
+  String get minutes_to_athan => 'Minuter till adhan';
 
   @override
   String get show_tutorial => 'Visa guiden';
@@ -813,7 +813,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get surahs_chapter => 'Suror - kapitel';
 
   @override
-  String get my_likes => 'Gillade,';
+  String get my_likes => 'Mina gillningar';
 
   @override
   String get cancel => 'Avbryt';
@@ -962,7 +962,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get error_download_quran_failed =>
-      'Det gick inte att ladda ner Koranen';
+      'Nedladdningen av Koranen misslyckades';
 
   @override
   String get downloading_quran => 'Laddar ner Koranen...';
@@ -1077,7 +1077,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get skip => 'Hoppa över';
 
   @override
-  String get agree => 'Godkänn';
+  String get agree => 'Acceptera';
 
   @override
   String get return_no_search => 'Inge resultat hittades';
@@ -1311,7 +1311,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get no_virtual_mosque_found =>
-      'Tyvärr hittade vi inga moskéer i närheten';
+      'Tyvärr inga moskéer hittades i närheten';
 
   @override
   String get no_surah_found => 'Ingen sura hittades';
@@ -2187,14 +2187,14 @@ class AppLocalizationsSv extends AppLocalizations {
   String get close => 'Stäng';
 
   @override
-  String get semantic_mosque_page => 'Moskévy';
+  String get semantic_mosque_page => 'Moské sidan ';
 
   @override
-  String get semantic_of => 'av';
+  String get semantic_of => 'Av';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'olästa aviseringar från Mawaqit';
+      'Olästa aviseringar från Mawaqit';
 
   @override
   String get back => 'Tillbaka';
@@ -2248,7 +2248,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get semantic_playback_time_elapsed => 'Förfluten uppspelningstid';
 
   @override
-  String get semantic_remaining => 'Återstående,';
+  String get semantic_remaining => 'Kvar';
 
   @override
   String get semantic_turn_shuffle_off => 'Stäng av slumpvis uppspelning';
@@ -2304,16 +2304,16 @@ class AppLocalizationsSv extends AppLocalizations {
   String get semantic_clockwise => 'Medurs,';
 
   @override
-  String get sematnic_counter_clockwise => 'moturs';
+  String get sematnic_counter_clockwise => 'Moturs';
 
   @override
   String get semantic_rotate_slightly => 'Nästan klart. Vrid lite till';
 
   @override
-  String get semanitc_degrees_to_qibla => 'grader till Qibla';
+  String get semanitc_degrees_to_qibla => 'Grader till Qibla';
 
   @override
-  String get about => 'om';
+  String get about => 'Om';
 
   @override
   String get rotate => 'Vrid';
@@ -2396,7 +2396,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get semantic_not_in_favorites => 'Inte i favoriterna';
 
   @override
-  String get semantic_for => 'för';
+  String get semantic_for => 'För ';
 
   @override
   String get semantic_view_style => 'Visnings stil';
@@ -2463,7 +2463,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get clear_search => 'Rensa sökning';
 
   @override
-  String get mosques_found => 'moskéer hittades';
+  String get mosques_found => 'Moskéer hittades';
 
   @override
   String get mosque_added => 'Moské tillagd';
