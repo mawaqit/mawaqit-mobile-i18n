@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -278,7 +278,7 @@
     "battery_optimize": "Batterioptimering",
     "power_saver": "Strömsparläge",
     "permission_message1": "Vi upptäckte att aviseringarna är fördröjda. Vänligen stäng av",
-    "permission_message2": "så att aviseringarna kommer i tid.",
+    "permission_message2": "Så att aviseringarna kommer i tid.",
     "notifications_delay_detected": "Fördröjda aviseringar upptäcktes",
     "open_setting": "Öppna inställningar",
     "noJumua": "Ingen fredagsbön",
@@ -441,12 +441,12 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "i_",
+    "in_": "I",
     "@in_": {
         "description": "_",
         "type": "text"
     },
-    "imsak": "Imsak'",
+    "imsak": "Imsak.",
     "@imsak": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minuter till adhan",
+    "minutes_to_athan": "Minuter till adhan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -762,7 +762,7 @@
     "favorite_reciters": "Favoritrecitatörer",
     "surahs_downloaded": "Nedladdade - suror",
     "surahs_chapter": "Suror - kapitel",
-    "my_likes": "Gillade,",
+    "my_likes": "Mina gillningar",
     "cancel": "Avbryt",
     "next": "Nästa",
     "search_surah": "Sök efter sura",
@@ -807,7 +807,7 @@
     "calculation_adjustment_prayers_minutes": "minuter",
     "calculation_adjustment_angles": "Anpassade vinklar",
     "calculation_prayer_custom_angle": "Anpassad vinkel för",
-    "error_download_quran_failed": "Det gick inte att ladda ner Koranen",
+    "error_download_quran_failed": "Nedladdningen av Koranen misslyckades",
     "downloading_quran": "Laddar ner Koranen...",
     "processing": "Bearbetar...",
     "copied_to_clipboard": "Kopierat till klippbordet!",
@@ -841,7 +841,7 @@
     "notification_debugging": "Felsökning av aviseringar",
     "notification_debugging_details": "Aviseringsfelsökning är aktiverad. Om du ändrar aviseringsinställningarna kommer felsökningsdata att gå förlorad och felsökningen att inaktiveras.",
     "skip": "Hoppa över",
-    "agree": "Godkänn",
+    "agree": "Acceptera",
     "return_no_search": "Inge resultat hittades",
     "backend_environment_switch": "Byt backendmiljö",
     "set_development_environment": "Välj utvecklingsmiljö",
@@ -916,7 +916,7 @@
     "search": "Sök",
     "more": "Mer",
     "download_cancelled": "Nedladdning avbruten",
-    "no_virtual_mosque_found": "Tyvärr hittade vi inga moskéer i närheten",
+    "no_virtual_mosque_found": "Tyvärr inga moskéer hittades i närheten",
     "no_surah_found": "Ingen sura hittades",
     "no_favorite_recitor_found": "Ingen favoritrecitatör hittades",
     "no_recitator_found": "Ingen recitatör hittades",
@@ -1367,9 +1367,9 @@
     "sematnic_360_clock_layout": "360-klocklayout",
     "semantic_layout_menu_open": "Layoutmenyn är öppen",
     "close": "Stäng",
-    "semantic_mosque_page": "Moskévy",
-    "semantic_of": "av",
-    "semantic_unread_mawaqit_notifications": "olästa aviseringar från Mawaqit",
+    "semantic_mosque_page": "Moské sidan ",
+    "semantic_of": "Av",
+    "semantic_unread_mawaqit_notifications": "Olästa aviseringar från Mawaqit",
     "back": "Tillbaka",
     "semantic_download_all_surahs_for_offline_listening": "Ladda ner alla suror för offline-lyssning",
     "@semantic_download_all_surahs_for_offline_listening": {
@@ -1431,7 +1431,7 @@
     "@semantic_playback_time_elapsed": {
         "description": "-> semantic_playback_time_elapsed"
     },
-    "semantic_remaining": "Återstående,",
+    "semantic_remaining": "Kvar",
     "@semantic_remaining": {
         "description": "-> semantic_remaining"
     },
@@ -1473,10 +1473,10 @@
     "semantic_increase_pre_notification": "Öka aviseringstid",
     "semantic_facing_qibla": "Du är vänd mot Qibla",
     "semantic_clockwise": "Medurs,",
-    "sematnic_counter_clockwise": "moturs",
+    "sematnic_counter_clockwise": "Moturs",
     "semantic_rotate_slightly": "Nästan klart. Vrid lite till",
-    "semanitc_degrees_to_qibla": "grader till Qibla",
-    "about": "om",
+    "semanitc_degrees_to_qibla": "Grader till Qibla",
+    "about": "Om",
     "rotate": "Vrid",
     "semantic_close_audio_player": "Stäng ljudspelaren",
     "reciter_settings": "Recitatörs inställningar",
@@ -1542,7 +1542,7 @@
     "@semantic_not_in_favorites": {
         "description": "-> semantic_not_in_favorites"
     },
-    "semantic_for": "för",
+    "semantic_for": "För ",
     "semantic_view_style": "Visnings stil",
     "semantic_double_tap_to_change_view_style": "Dubbeltryck för att ändra visningsläge",
     "semantic_share_dua": "Dela duan",
@@ -1564,7 +1564,7 @@
     "selected": "vald",
     "double_tap_to_continue": "Dubbeltryck för att fortsätta",
     "clear_search": "Rensa sökning",
-    "mosques_found": "moskéer hittades",
+    "mosques_found": "Moskéer hittades",
     "mosque_added": "Moské tillagd",
     "mosque_removed": "Moské borttagen",
     "scroll_left_right_select_surah": "Bläddra åt vänster eller höger för att välja en sura",
