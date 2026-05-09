@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "المساجد في المنطقة المختارة",
     "mosques_with": "المساجد مع ",
     "allow_mawaqit_to_access_my_location": "السماح لـ مواقيت بالوصول إلى موقعي.",
-    "enable_location_service_from_app_settings": "Enable location",
+    "enable_location_service_from_app_settings": "تفعيل خاصية تحديد الموقع",
     "the_request_timeout": "انتهت مهلة الطلب",
     "no_internet_connection": "لا يوجد اتصال بالإنترنت",
     "try_again": "حاول مرة أخرى",
@@ -1215,7 +1215,7 @@
         "description": "->highlight_Tahajjud_Time"
     },
     "calendar_access_not_available": "الوصول إلى التقويم غير متاح.",
-    "calendar_allow_access_mawaqit": "يرجى السماح بالوصول إلى التقويم لعرض أحداثك على مواقيت 360.",
+    "calendar_allow_access_mawaqit": "الرجاء السماح بالوصول إلى التقويم لإظهار الأحداث الخاصة بك على مقطوعة 360.",
     "calendar_access_required": "يلزم الوصول إلى التقويم لعرض أحداثك.",
     "calendar_allow_access_button": "السماح بالوصول إلى التقويم",
     "calendar_loading": "جاري تحميل التقويمات…",
