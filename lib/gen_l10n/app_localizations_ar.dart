@@ -291,7 +291,8 @@ class AppLocalizationsAr extends AppLocalizations {
       'السماح لـ مواقيت بالوصول إلى موقعي.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings =>
+      'تفعيل خاصية تحديد الموقع';
 
   @override
   String get the_request_timeout => 'انتهت مهلة الطلب';
@@ -1819,7 +1820,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'يرجى السماح بالوصول إلى التقويم لعرض أحداثك على مواقيت 360.';
+      'الرجاء السماح بالوصول إلى التقويم لإظهار الأحداث الخاصة بك على مقطوعة 360.';
 
   @override
   String get calendar_access_required => 'يلزم الوصول إلى التقويم لعرض أحداثك.';
