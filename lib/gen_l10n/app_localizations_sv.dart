@@ -45,10 +45,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_Theme => 'Tema';
 
   @override
-  String get settings_TimeFormat12H => '12-timmars format';
+  String get settings_TimeFormat12H => '12-T';
 
   @override
-  String get settings_TimeFormat24H => '24-timmars format';
+  String get settings_TimeFormat24H => '24-T';
 
   @override
   String get settings_PrayerNotifications => 'Bön notiser';
@@ -177,7 +177,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get adhan_Madinah => 'Medinah';
 
   @override
-  String get adhan_Qods => 'Al-Quds';
+  String get adhan_Qods => 'Quds';
 
   @override
   String get adhan_AlAfassy => 'Al Afassy';
@@ -494,7 +494,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get imsak => 'Imsak.';
 
   @override
-  String get eid => 'Eidbön';
+  String get eid => 'Eid bönen om';
 
   @override
   String get minutes => 'Minuter';
