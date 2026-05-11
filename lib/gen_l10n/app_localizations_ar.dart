@@ -2156,7 +2156,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get semantic_grid_layout => 'نمط عرض شبكي';
 
   @override
-  String get sematnic_360_clock_layout => 'نمط عرض الساعة';
+  String get sematnic_360_clock_layout => 'نمط عرض الساعة 360';
 
   @override
   String get semantic_layout_menu_open => 'قائمة أنماط العرض مفتوحة';
@@ -2179,7 +2179,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
-      'تنزيل جميع السور للاستماع دون اتصال';
+      'تنزيل جميع السور للاستماع دون اتصال بالانترنت';
 
   @override
   String get semantic_download_all_surahs => 'تنزيل جميع السور';
