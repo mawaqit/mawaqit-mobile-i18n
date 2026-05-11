@@ -1364,14 +1364,14 @@
     "semantic_edit_home_settings": "تعديل إعدادات الصفحة الرئيسية",
     "semantic_list_layout": "نمط عرض القائمة",
     "semantic_grid_layout": "نمط عرض شبكي",
-    "sematnic_360_clock_layout": "نمط عرض الساعة",
+    "sematnic_360_clock_layout": "نمط عرض الساعة 360",
     "semantic_layout_menu_open": "قائمة أنماط العرض مفتوحة",
     "close": "إغلاق",
     "semantic_mosque_page": "صفحة المسجد",
     "semantic_of": "من",
     "semantic_unread_mawaqit_notifications": "إشعارات مواقيت غير مقروءة",
     "back": "رجوع",
-    "semantic_download_all_surahs_for_offline_listening": "تنزيل جميع السور للاستماع دون اتصال",
+    "semantic_download_all_surahs_for_offline_listening": "تنزيل جميع السور للاستماع دون اتصال بالانترنت",
     "@semantic_download_all_surahs_for_offline_listening": {
         "description": "-> semantic_download_all_surahs_for_offline_listening"
     },
