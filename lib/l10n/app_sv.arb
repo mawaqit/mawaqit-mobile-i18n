@@ -60,12 +60,12 @@
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12-timmars format",
+    "settings_TimeFormat12H": "12-T",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24-timmars format",
+    "settings_TimeFormat24H": "24-T",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
@@ -183,7 +183,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Al-Quds",
+    "adhan_Qods": "Quds",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
@@ -451,7 +451,7 @@
         "description": "_",
         "type": "text"
     },
-    "eid": "Eidbön",
+    "eid": "Eid bönen om",
     "@eid": {
         "description": "_",
         "type": "text"

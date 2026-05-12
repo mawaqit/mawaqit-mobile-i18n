@@ -293,7 +293,8 @@ class AppLocalizationsSq extends AppLocalizations {
       'Lejo Mawaqit të ketë qasje në vendndodhjen time.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings =>
+      'Aktivizo vendndodhjen';
 
   @override
   String get the_request_timeout => 'Kërkesa ka skaduar';
@@ -2113,7 +2114,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get tap_change_layout => 'Prek këtu për të ndryshuar pamjen';
 
   @override
-  String get step => 'Step';
+  String get step => 'Hap';
 
   @override
   String get jump_to_page => 'Shko te faqja';
@@ -2155,7 +2156,7 @@ class AppLocalizationsSq extends AppLocalizations {
       'Kjo do të shkarkojë të gjitha suret për dëgjim offline. Ju lutemi sigurohuni që jeni të lidhur me Wi-Fi përpara se të vazhdoni.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Prek për të ndryshuar njoftimin';
 
   @override
   String get adhan_at => 'Ezani në';
@@ -2191,13 +2192,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_grid_layout => 'Paraqitje me rrjetë';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => 'Paraqitja e orës 360';
 
   @override
   String get semantic_layout_menu_open => 'Menyja e paraqitjes është e hapur';
 
   @override
-  String get close => 'Close';
+  String get close => 'Mbyll';
 
   @override
   String get semantic_mosque_page => 'Faqja e xhamisë';
@@ -2210,7 +2211,7 @@ class AppLocalizationsSq extends AppLocalizations {
       'Njoftime të palexuara MAWAQIT';
 
   @override
-  String get back => 'Back';
+  String get back => 'Kthehu';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2297,10 +2298,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Zgjero listën e xhamive';
 
   @override
-  String get added => 'Added';
+  String get added => 'U shtua';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Nuk u shtua';
 
   @override
   String get semantic_navigate_to_mosque => 'Zgjero listën e xhamive';
@@ -2320,40 +2321,41 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_clockwise => 'Në drejtim të akrepave të orës';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise =>
+      'në drejtim të kundërt të akrepave të orës';
 
   @override
   String get semantic_rotate_slightly => 'Gati je. Rrotullo pak';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'gradë drejt Kiblës';
 
   @override
-  String get about => 'about';
+  String get about => 'rreth';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Rrotullo';
 
   @override
   String get semantic_close_audio_player => 'Mbyll luajtësin audio';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Cilësimet e recituesit';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Ajeti i mëparshëm';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Ajeti tjetër';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Ule';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Rrit';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Cilësimet e Kuranit';
 
   @override
   String get semantic_mushaf_view => 'Pamja e Mushafit';
@@ -2362,11 +2364,11 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_verse_list_view => 'Pamja e listës së ajeteve';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Nuk është shkarkuar';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Modaliteti i listës së ajeteve është aktivizuar për aksesueshmëri';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2468,48 +2470,48 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Hiq shënuesin';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Hiq shënuesin';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Shto shënues';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'zgjedhur';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Prek dy herë për të vazhduar';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Pastro kërkimin';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'xhami të gjetura';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Xhamia u shtua';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Xhamia u hoq';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Rrëshqit majtas ose djathtas për të zgjedhur një sure';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Rrëshqit majtas ose djathtas për të zgjedhur një lloj tjetër Mushafi';
 
   @override
   String get location_permission_required => 'Kërkohet leja e vendndodhjes';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Muaji i mëparshëm';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Muaji tjetër';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Shfaq imazhin';
 
   @override
   String get access_location_details =>

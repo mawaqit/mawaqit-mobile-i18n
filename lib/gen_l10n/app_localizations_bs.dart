@@ -296,7 +296,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Dozvolite da Mawaqit pristupi vašoj lokaciji.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Omogući lokaciju';
 
   @override
   String get the_request_timeout => 'Zahtjev je istekao';
@@ -2109,7 +2109,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get tap_change_layout => 'Dodirnite ovdje da promijenite raspored';
 
   @override
-  String get step => 'Step';
+  String get step => 'Korak';
 
   @override
   String get jump_to_page => 'Idi na stranicu';
@@ -2150,7 +2150,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Ovo će preuzeti sve sure za slušanje van mreže. Molimo provjerite da ste povezani na Wi-Fi prije nego nastavite.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Dodirnite za promjenu obavijesti';
 
   @override
   String get adhan_at => 'Ezan u';
@@ -2185,13 +2185,13 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_grid_layout => 'Prikaz mreže';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => '360 raspored sata';
 
   @override
   String get semantic_layout_menu_open => 'Meni rasporeda otvoren';
 
   @override
-  String get close => 'Close';
+  String get close => 'Zatvori';
 
   @override
   String get semantic_mosque_page => 'Stranica džamije';
@@ -2204,7 +2204,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Nepročitane MAWAQIT obavijesti';
 
   @override
-  String get back => 'Back';
+  String get back => 'Nazad';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2291,10 +2291,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Proširi listu džamija';
 
   @override
-  String get added => 'Added';
+  String get added => 'Dodano';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Nije dodano';
 
   @override
   String get semantic_navigate_to_mosque => 'Navigiraj do džamije';
@@ -2314,40 +2314,40 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_clockwise => 'U smjeru kazaljke na satu';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'suprotno od kazaljke na satu';
 
   @override
   String get semantic_rotate_slightly => 'Skoro je gotovo. Okrenite malo';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'stepeni prema Kibli';
 
   @override
-  String get about => 'about';
+  String get about => 'oko';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Okreni';
 
   @override
   String get semantic_close_audio_player => 'Zatvori audio player';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Postavke učača';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Prethodni ajet';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Sljedeći ajet';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Smanji';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Povećaj';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Postavke Kur’ana';
 
   @override
   String get semantic_mushaf_view => 'Prikaz Mushafa';
@@ -2356,11 +2356,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_verse_list_view => 'Prikaz liste ajeta';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Nije preuzeto';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Režim liste ajeta omogućen za pristupačnost';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2462,48 +2462,48 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Ukloni oznaku';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Ukloni oznaku';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Dodaj oznaku';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'odabrano';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Dvaput dodirnite za nastavak';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Obriši pretragu';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'pronađene džamije';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Džamija dodana';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Džamija uklonjena';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Pomjerite lijevo ili desno za odabir sure';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Prevucite lijevo ili desno za odabir drugog tipa Mushafa';
 
   @override
   String get location_permission_required => 'Potrebna je dozvola za lokaciju';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Prethodni mjesec';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Sljedeći mjesec';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Prikaži sliku';
 
   @override
   String get access_location_details =>

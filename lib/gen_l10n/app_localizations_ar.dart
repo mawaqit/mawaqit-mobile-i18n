@@ -291,7 +291,8 @@ class AppLocalizationsAr extends AppLocalizations {
       'السماح لـ مواقيت بالوصول إلى موقعي.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings =>
+      'تفعيل خاصية تحديد الموقع';
 
   @override
   String get the_request_timeout => 'انتهت مهلة الطلب';
@@ -1819,7 +1820,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'يرجى السماح بالوصول إلى التقويم لعرض أحداثك على مواقيت 360.';
+      'الرجاء السماح بالوصول إلى التقويم لإظهار الأحداث الخاصة بك على مقطوعة 360.';
 
   @override
   String get calendar_access_required => 'يلزم الوصول إلى التقويم لعرض أحداثك.';
@@ -1894,10 +1895,11 @@ class AppLocalizationsAr extends AppLocalizations {
   String get live_timer => 'مؤقت مباشر';
 
   @override
-  String get notify_before => 'إخطار من قبل';
+  String get notify_before => 'اشعار قبل';
 
   @override
-  String get take_time_appear_watch => 'قد يستغرق الظهور على ساعتك بضع ثوان.';
+  String get take_time_appear_watch =>
+      'قد يستغرق الأمر بضع ثوان ليظهر على ساعتك.\n';
 
   @override
   String get eid1 => 'العيد';
@@ -1926,7 +1928,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get examples => 'أمثلة';
 
   @override
-  String get real_time_weather => 'الطقس الفعلي لحظيًا';
+  String get real_time_weather => 'الطقس في الوقت الحقيقي\n';
 
   @override
   String get layout => 'أنماط';
@@ -1939,7 +1941,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get real_time_weather_needs_internet =>
-      'يتطلب الطقس اللحظي اتصالاً بالإنترنت لتحميل التحديثات.';
+      'يتطلب الاتصال بالانترنت لتحديث حالة الطقس';
 
   @override
   String get view_detail => 'عرض التفاصيل';
@@ -1970,7 +1972,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get analytics_description =>
-      'اسمح لنا بجمع بيانات استخدام مجهولة لتحسين التطبيق. لا نجمع بيانات شخصية ولا نشاركها مع أحد.';
+      'اسمح لنا بتحليل بيانات الاستخدام. لا نقوم بجمع بيانات شخصية ولا نشاركها مع أحد.';
 
   @override
   String get weather_clear => 'صافٍ';
@@ -2154,7 +2156,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get semantic_grid_layout => 'نمط عرض شبكي';
 
   @override
-  String get sematnic_360_clock_layout => 'نمط عرض الساعة';
+  String get sematnic_360_clock_layout => 'نمط عرض الساعة 360';
 
   @override
   String get semantic_layout_menu_open => 'قائمة أنماط العرض مفتوحة';
@@ -2177,7 +2179,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
-      'تنزيل جميع السور للاستماع دون اتصال';
+      'تنزيل جميع السور للاستماع دون اتصال بالانترنت';
 
   @override
   String get semantic_download_all_surahs => 'تنزيل جميع السور';
@@ -2289,7 +2291,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get semanitc_degrees_to_qibla => 'درجات إلى القبلة';
 
   @override
-  String get about => 'حوالي';
+  String get about => 'عن التطبيق';
 
   @override
   String get rotate => 'قم بالدوران';
@@ -2313,7 +2315,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get increase => 'زيادة';
 
   @override
-  String get quran_settings => 'إعدادات القرآن';
+  String get quran_settings => 'إعدادات المصحف';
 
   @override
   String get semantic_mushaf_view => 'عرض المصحف';

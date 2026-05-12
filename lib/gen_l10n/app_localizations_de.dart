@@ -296,7 +296,7 @@ class AppLocalizationsDe extends AppLocalizations {
       'Erlaube Mawaqit, auf meinen Standort zuzugreifen.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Standort aktivieren';
 
   @override
   String get the_request_timeout =>
@@ -2132,32 +2132,32 @@ class AppLocalizationsDe extends AppLocalizations {
   String get step => 'Layout-Menü öffnen';
 
   @override
-  String get jump_to_page => 'Jump to page';
+  String get jump_to_page => 'Zu Seite springen';
 
   @override
-  String get select_surah => 'Select Surah';
+  String get select_surah => 'Sure auswählen';
 
   @override
-  String get please_select_surah => 'Please select a surah';
+  String get please_select_surah => 'Bitte wählen Sie eine Sure aus';
 
   @override
   String get ayah_number => 'Ayah Number';
 
   @override
-  String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
+  String get ayah_num_greater_zero => 'Die Versnummer muss größer als 0 sein';
 
   @override
   String get ayah_number_exceeds_max =>
-      'Ayah number exceeds maximum for this surah';
+      'Die Versnummer überschreitet das Maximum für diese Sure';
 
   @override
-  String get update_page => 'Update page';
+  String get update_page => 'Seite aktualisieren';
 
   @override
-  String get enter_ayah_num => 'Enter Ayah num';
+  String get enter_ayah_num => 'Versnummer eingeben';
 
   @override
-  String get help => 'Help';
+  String get help => 'Hilfe';
 
   @override
   String get sofian_s_siregar => 'Sofian S. Siregar';

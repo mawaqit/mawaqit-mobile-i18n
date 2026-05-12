@@ -294,7 +294,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Zezwól Mawaqitowi na dostęp do mojej lokalizacji.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Włącz lokalizację';
 
   @override
   String get the_request_timeout => 'Upłynął limit czasu żądania';
@@ -2181,13 +2181,13 @@ class AppLocalizationsPl extends AppLocalizations {
   String get semantic_grid_layout => 'Układ siatki';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => 'Układ zegara 360';
 
   @override
   String get semantic_layout_menu_open => 'Menu układu otwarte';
 
   @override
-  String get close => 'Close';
+  String get close => 'Zamknij';
 
   @override
   String get semantic_mosque_page => 'Strona meczetu';
@@ -2200,7 +2200,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Nieprzeczytane powiadomienia MAWAQIT';
 
   @override
-  String get back => 'Back';
+  String get back => 'Wstecz';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2286,10 +2286,10 @@ class AppLocalizationsPl extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Rozwiń listę meczetów';
 
   @override
-  String get added => 'Added';
+  String get added => 'Dodano';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Nie dodano';
 
   @override
   String get semantic_navigate_to_mosque => 'Nawiguj do meczetu';
@@ -2309,40 +2309,41 @@ class AppLocalizationsPl extends AppLocalizations {
   String get semantic_clockwise => 'Zgodnie z ruchem wskazówek zegara';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise =>
+      'przeciwnie do ruchu wskazówek zegara';
 
   @override
   String get semantic_rotate_slightly => 'Prawie gotowe. Obróć lekko';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'stopnie do Kibli';
 
   @override
-  String get about => 'about';
+  String get about => 'około';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Obróć';
 
   @override
   String get semantic_close_audio_player => 'Zamknij odtwarzacz audio';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Ustawienia recytatora';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Poprzedni werset';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Następny werset';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Zmniejsz';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Zwiększ';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Ustawienia Koranu';
 
   @override
   String get semantic_mushaf_view => 'Widok Mushaf';
@@ -2351,11 +2352,11 @@ class AppLocalizationsPl extends AppLocalizations {
   String get semantic_verse_list_view => 'Widok listy wersetów';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Nie pobrano';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Tryb listy wersetów włączony dla dostępności';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2455,48 +2456,48 @@ class AppLocalizationsPl extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Usuń zakładkę';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Usuń zakładkę';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Dodaj zakładkę';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'wybrano';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Kliknij dwukrotnie, aby kontynuować';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Wyczyść wyszukiwanie';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'znalezione meczety';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Meczet dodany';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Meczet usunięty';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Przewiń w lewo lub w prawo, aby wybrać surę';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Przesuń w lewo lub w prawo, aby wybrać inny typ mushafu';
 
   @override
   String get location_permission_required => 'Wymagana zgoda na lokalizację';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Poprzedni miesiąc';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Następny miesiąc';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Zobacz obraz';
 
   @override
   String get access_location_details =>

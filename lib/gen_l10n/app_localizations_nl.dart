@@ -296,7 +296,7 @@ class AppLocalizationsNl extends AppLocalizations {
       'Geef Mawaqit toegang tot mijn locatie.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Locatie inschakelen';
 
   @override
   String get the_request_timeout => 'Het verzoek is verlopen';
@@ -2121,7 +2121,7 @@ class AppLocalizationsNl extends AppLocalizations {
   String get tap_change_layout => 'Tik hier om de indeling te wijzigen';
 
   @override
-  String get step => 'Step';
+  String get step => 'Stap';
 
   @override
   String get jump_to_page => 'Ga naar pagina';
@@ -2162,7 +2162,7 @@ class AppLocalizationsNl extends AppLocalizations {
       'Dit zal alle soera\'s downloaden voor offline luisteren. Zorg ervoor dat je verbonden bent met Wi-Fi voordat je doorgaat.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Tik om notificatie te wijzigen';
 
   @override
   String get adhan_at => 'Adhan om';
@@ -2196,13 +2196,13 @@ class AppLocalizationsNl extends AppLocalizations {
   String get semantic_grid_layout => 'Rasterindeling';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => '360-klokindeling';
 
   @override
   String get semantic_layout_menu_open => 'Indelingsmenu geopend';
 
   @override
-  String get close => 'Close';
+  String get close => 'Sluiten';
 
   @override
   String get semantic_mosque_page => 'Moskee-pagina';
@@ -2215,7 +2215,7 @@ class AppLocalizationsNl extends AppLocalizations {
       'Ongelezen MAWAQIT-meldingen';
 
   @override
-  String get back => 'Back';
+  String get back => 'Terug';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2301,10 +2301,10 @@ class AppLocalizationsNl extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Moskeelijst uitvouwen';
 
   @override
-  String get added => 'Added';
+  String get added => 'Toegevoegd';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Niet toegevoegd';
 
   @override
   String get semantic_navigate_to_mosque => 'Navigeren naar moskee';
@@ -2324,40 +2324,40 @@ class AppLocalizationsNl extends AppLocalizations {
   String get semantic_clockwise => 'Met de klok mee';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'tegen de klok in';
 
   @override
   String get semantic_rotate_slightly => 'Bijna daar. Draai iets';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'graden naar de Qibla';
 
   @override
-  String get about => 'about';
+  String get about => 'ongeveer';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Draaien';
 
   @override
   String get semantic_close_audio_player => 'Audiospeler sluiten';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Recitator-instellingen';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Vorige vers';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Volgende vers';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Verlagen';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Verhogen';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Koran-instellingen';
 
   @override
   String get semantic_mushaf_view => 'Mushaf-weergave';
@@ -2366,11 +2366,11 @@ class AppLocalizationsNl extends AppLocalizations {
   String get semantic_verse_list_view => 'Verzenlijst-weergave';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Niet gedownload';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Verslijstmodus ingeschakeld voor toegankelijkheid';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2470,48 +2470,48 @@ class AppLocalizationsNl extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Bladwijzer verwijderen';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Bladwijzer verwijderen';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Bladwijzer toevoegen';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'geselecteerd';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Dubbeltik om door te gaan';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Zoekopdracht wissen';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'moskeeën gevonden';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Moskee toegevoegd';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Moskee verwijderd';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Scroll naar links of rechts om een soera te selecteren';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Veeg naar links of rechts om een ander mushaf-type te selecteren';
 
   @override
   String get location_permission_required => 'Locatietoestemming vereist';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Vorige maand';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Volgende maand';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Afbeelding bekijken';
 
   @override
   String get access_location_details =>

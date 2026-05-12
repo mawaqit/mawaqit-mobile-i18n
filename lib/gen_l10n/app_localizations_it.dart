@@ -296,7 +296,7 @@ class AppLocalizationsIt extends AppLocalizations {
       'Consenti a Mawaqit di accedere alla mia posizione.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Abilita posizione';
 
   @override
   String get the_request_timeout => 'La richiesta è scaduta';
@@ -2487,40 +2487,40 @@ class AppLocalizationsIt extends AppLocalizations {
   String get selected => 'selezionato';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Tocca due volte per continuare';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Cancella ricerca';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'moschee trovate';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Moschea aggiunta';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Moschea rimossa';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Scorri a sinistra o destra per selezionare una sura';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Scorri a sinistra o destra per selezionare un tipo diverso di mushaf';
 
   @override
   String get location_permission_required =>
       'Autorizzazione alla posizione richiesta';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Mese precedente';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Mese successivo';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Visualizza immagine';
 
   @override
   String get access_location_details =>
