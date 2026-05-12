@@ -295,7 +295,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Разрешить Mawaqit получать доступ к моему местоположению.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Включить геолокацию';
 
   @override
   String get the_request_timeout => 'Время запроса истекло';
@@ -2108,7 +2108,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get tap_change_layout => 'Нажмите здесь, чтобы изменить макет';
 
   @override
-  String get step => 'Step';
+  String get step => 'Шаг';
 
   @override
   String get jump_to_page => 'Перейти на страницу';
@@ -2149,7 +2149,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Это скачает все суры для прослушивания офлайн. Пожалуйста, убедитесь, что вы подключены к Wi-Fi перед продолжением.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Нажмите, чтобы изменить уведомление';
 
   @override
   String get adhan_at => 'Азан в';
@@ -2186,13 +2186,13 @@ class AppLocalizationsRu extends AppLocalizations {
   String get semantic_grid_layout => 'Сетка';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => '360-градусный циферблат';
 
   @override
   String get semantic_layout_menu_open => 'Меню макета открыто';
 
   @override
-  String get close => 'Close';
+  String get close => 'Закрыть';
 
   @override
   String get semantic_mosque_page => 'Страница мечети';
@@ -2205,7 +2205,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Непрочитанные уведомления MAWAQIT';
 
   @override
-  String get back => 'Back';
+  String get back => 'Назад';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2292,10 +2292,10 @@ class AppLocalizationsRu extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Развернуть список мечетей';
 
   @override
-  String get added => 'Added';
+  String get added => 'Добавлено';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Не добавлено';
 
   @override
   String get semantic_navigate_to_mosque => 'Перейти к мечети';
@@ -2315,40 +2315,40 @@ class AppLocalizationsRu extends AppLocalizations {
   String get semantic_clockwise => 'По часовой стрелке';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'против часовой стрелки';
 
   @override
   String get semantic_rotate_slightly => 'Почти готово. Поверните немного';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'градусы до Киблы';
 
   @override
-  String get about => 'about';
+  String get about => 'около';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Повернуть';
 
   @override
   String get semantic_close_audio_player => 'Закрыть аудиоплеер';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Настройки чтеца';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Предыдущий аят';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Следующий аят';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Уменьшить';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Увеличить';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Настройки Корана';
 
   @override
   String get semantic_mushaf_view => 'Режим Мусхафа';
@@ -2357,11 +2357,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get semantic_verse_list_view => 'Список аятов';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Не загружено';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Режим списка аятов включён для доступности';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2463,48 +2463,48 @@ class AppLocalizationsRu extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Удалить закладку';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Удалить закладку';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Добавить закладку';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'выбрано';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Дважды нажмите, чтобы продолжить';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Очистить поиск';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'найденные мечети';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Мечеть добавлена';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Мечеть удалена';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Прокрутите влево или вправо, чтобы выбрать сиру';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Проведите влево или вправо, чтобы выбрать другой тип мусхафа';
 
   @override
   String get location_permission_required => 'Требуется разрешение на доступ к';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Предыдущий месяц';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Следующий месяц';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Просмотреть изображение';
 
   @override
   String get access_location_details =>
@@ -2514,7 +2514,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get location_off => 'Местоположение отключено';
 
   @override
-  String get semantic_pre_notification_time => 'pre-notification time';
+  String get semantic_pre_notification_time =>
+      'время предварительного уведомления';
 
   @override
   String get search_for_mosque_or_enable_location =>

@@ -295,7 +295,8 @@ class AppLocalizationsHu extends AppLocalizations {
       'Engedélyezd a Mawaqit számára, hogy hozzáférjen a tartózkodási helyedhez.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings =>
+      'Helymeghatározás engedélyezése';
 
   @override
   String get the_request_timeout => 'A kérés időtúllépés miatt megszakadt.';
@@ -2112,7 +2113,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get tap_change_layout => 'Koppintson ide az elrendezés módosításához';
 
   @override
-  String get step => 'Step';
+  String get step => 'Lépés';
 
   @override
   String get jump_to_page => 'Ugrás az oldalra';
@@ -2154,7 +2155,7 @@ class AppLocalizationsHu extends AppLocalizations {
       'Ez letölti az összes szúrát offline hallgatáshoz. Kérjük, folytatás előtt győződj meg róla, hogy Wi-Fi-hez csatlakozol.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Koppints az értesítés módosításához';
 
   @override
   String get adhan_at => 'Adhánkor';
@@ -2190,13 +2191,13 @@ class AppLocalizationsHu extends AppLocalizations {
   String get semantic_grid_layout => 'Rács elrendezés';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => '360 fokos óra elrendezés';
 
   @override
   String get semantic_layout_menu_open => 'Elrendezés menü nyitva';
 
   @override
-  String get close => 'Close';
+  String get close => 'Bezárás';
 
   @override
   String get semantic_mosque_page => 'Mecset oldal';
@@ -2209,7 +2210,7 @@ class AppLocalizationsHu extends AppLocalizations {
       'Olvasatlan MAWAQIT értesítések';
 
   @override
-  String get back => 'Back';
+  String get back => 'Vissza';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2297,10 +2298,10 @@ class AppLocalizationsHu extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Mecsetlista kibontása';
 
   @override
-  String get added => 'Added';
+  String get added => 'Hozzáadva';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Nincs hozzáadva';
 
   @override
   String get semantic_navigate_to_mosque => 'Navigálás a mecsethez';
@@ -2320,40 +2321,41 @@ class AppLocalizationsHu extends AppLocalizations {
   String get semantic_clockwise => 'Óramutató járásával megegyezően';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise =>
+      'óramutató járásával ellentétes irányban';
 
   @override
   String get semantic_rotate_slightly => 'Majdnem kész. Forgasd kicsit';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'fok a Kiblához';
 
   @override
-  String get about => 'about';
+  String get about => 'körülbelül';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Forgatás';
 
   @override
   String get semantic_close_audio_player => 'Hang lejátszó bezárása';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Recitátor beállításai';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Előző vers';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Következő vers';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Csökkentés';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Növelés';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Korán beállítások';
 
   @override
   String get semantic_mushaf_view => 'Mushaf nézet';
@@ -2362,11 +2364,11 @@ class AppLocalizationsHu extends AppLocalizations {
   String get semantic_verse_list_view => 'Versek listája nézet';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Nincs letöltve';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Az akadálymentességhez a verslista mód engedélyezve';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2468,49 +2470,49 @@ class AppLocalizationsHu extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Könyvjelző eltávolítása';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Könyvjelző eltávolítása';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Könyvjelző hozzáadása';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'kiválasztva';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Koppints duplán a folytatáshoz';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Keresés törlése';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'megtalált mecsetek';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Mecset hozzáadva';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Mecset eltávolítva';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Görgess balra vagy jobbra egy szúra kiválasztásához';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Húzz balra vagy jobbra egy másik muszaf típus kiválasztásához';
 
   @override
   String get location_permission_required =>
       'Helymeghatározási engedély szükséges';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Előző hónap';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Következő hónap';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Kép megtekintése';
 
   @override
   String get access_location_details =>

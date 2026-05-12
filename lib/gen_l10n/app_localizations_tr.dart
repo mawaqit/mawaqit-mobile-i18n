@@ -293,7 +293,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Mawaqit\'in konumuma erişmesine izin ver.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Konumu etkinleştir';
 
   @override
   String get the_request_timeout => 'İstek zaman aşımına uğradı';
@@ -2099,7 +2099,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get tap_change_layout => 'Düzeni değiştirmek için buraya dokunun';
 
   @override
-  String get step => 'Step';
+  String get step => 'Adım';
 
   @override
   String get jump_to_page => 'Sayfaya Git';
@@ -2140,7 +2140,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Bu, tüm sureleri çevrimdışı dinlemek için indirecek. Devam etmeden önce Wi-Fi\'ye bağlı olduğunuzdan emin olun.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Bildirimi değiştirmek için dokun';
 
   @override
   String get adhan_at => 'Ezan saatinde';
@@ -2175,13 +2175,13 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_grid_layout => 'Izgara düzeni';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => '360 saat düzeni';
 
   @override
   String get semantic_layout_menu_open => 'Düzen menüsü açık';
 
   @override
-  String get close => 'Close';
+  String get close => 'Kapat';
 
   @override
   String get semantic_mosque_page => 'Cami sayfası';
@@ -2194,7 +2194,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'MAWAQIT okunmamış bildirimler';
 
   @override
-  String get back => 'Back';
+  String get back => 'Geri';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2281,10 +2281,10 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Cami listesini genişlet';
 
   @override
-  String get added => 'Added';
+  String get added => 'Eklendi';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Eklenmedi';
 
   @override
   String get semantic_navigate_to_mosque => 'Camiye git';
@@ -2302,40 +2302,40 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_clockwise => 'Saat yönünde';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'saat yönünün tersine';
 
   @override
   String get semantic_rotate_slightly => 'Neredeyse oldu. Biraz çevirin';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'kıbleye derece';
 
   @override
-  String get about => 'about';
+  String get about => 'yaklaşık';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Döndür';
 
   @override
   String get semantic_close_audio_player => 'Ses oynatıcıyı kapat';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Kâri ayarları';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Önceki ayet';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Sonraki ayet';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Azalt';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Artır';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Kur’an ayarları';
 
   @override
   String get semantic_mushaf_view => 'Mushaf görünümü';
@@ -2344,11 +2344,11 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_verse_list_view => 'Ayet listesi görünümü';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'İndirilmedi';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Erişilebilirlik için ayet listesi modu etkin';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2446,48 +2446,48 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Yer işaretini kaldır';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Yer imini kaldır';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Yer imi ekle';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'seçildi';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Devam etmek için çift dokun';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Aramayı temizle';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'cami bulundu';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Cami eklendi';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Cami kaldırıldı';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Bir sure seçmek için sola veya sağa kaydır';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Farklı bir mushaf türü seçmek için sola veya sağa kaydır';
 
   @override
   String get location_permission_required => 'Konum izni gerekli';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Önceki ay';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Sonraki ay';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Görseli görüntüle';
 
   @override
   String get access_location_details =>

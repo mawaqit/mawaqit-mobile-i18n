@@ -293,7 +293,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'مواقیت کو میرے مقام تک رسائی کی اجازت دیں۔ ';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'مقام فعال کریں';
 
   @override
   String get the_request_timeout => 'درخواست کا وقت ختم ہو گیا۔';
@@ -2106,7 +2106,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get tap_change_layout => 'لے آؤٹ تبدیل کرنے کے لیے یہاں ٹیپ کریں';
 
   @override
-  String get step => 'Step';
+  String get step => 'مرحلہ';
 
   @override
   String get jump_to_page => 'صفحہ پر جائیں';
@@ -2147,7 +2147,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'یہ تمام سورتوں کو آف لائن سننے کے لیے ڈاؤن لوڈ کرے گا۔ براہ کرم جاری رکھنے سے پہلے یقینی بنائیں کہ آپ Wi-Fi سے منسلک ہیں۔';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'نوٹیفکیشن تبدیل کرنے کے لیے ٹیپ کریں';
 
   @override
   String get adhan_at => 'اذان';
@@ -2182,13 +2182,13 @@ class AppLocalizationsUr extends AppLocalizations {
   String get semantic_grid_layout => 'گرڈ لے آؤٹ';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => '360 گھڑی کا لے آؤٹ';
 
   @override
   String get semantic_layout_menu_open => 'لے آؤٹ مینو کھلا ہے';
 
   @override
-  String get close => 'Close';
+  String get close => 'بند کریں';
 
   @override
   String get semantic_mosque_page => 'مسجد کا صفحہ';
@@ -2201,7 +2201,7 @@ class AppLocalizationsUr extends AppLocalizations {
       'MAWAQIT کے غیر پڑھے گئے نوٹیفکیشنز';
 
   @override
-  String get back => 'Back';
+  String get back => 'واپس';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2287,10 +2287,10 @@ class AppLocalizationsUr extends AppLocalizations {
   String get semantic_expand_mosque_list => 'مساجد کی فہرست پھیلائیں';
 
   @override
-  String get added => 'Added';
+  String get added => 'شامل کیا گیا';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'شامل نہیں کیا گیا';
 
   @override
   String get semantic_navigate_to_mosque => 'مسجد تک جائیں';
@@ -2310,40 +2310,40 @@ class AppLocalizationsUr extends AppLocalizations {
   String get semantic_clockwise => 'گھڑی کی سمت میں';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'گھڑی کی مخالف سمت میں';
 
   @override
   String get semantic_rotate_slightly => 'تقریباً ہو گیا۔ تھوڑا سا گھمائیں';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'قبلہ کی سمت ڈگری';
 
   @override
-  String get about => 'about';
+  String get about => 'تقریباً';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'گھمائیں';
 
   @override
   String get semantic_close_audio_player => 'آڈیو پلیئر بند کریں';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'قاری کی ترتیبات';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'پچھلی آیت';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'اگلی آیت';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'کم کریں';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'بڑھائیں';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'قرآن کی ترتیبات';
 
   @override
   String get semantic_mushaf_view => 'مصحف ویو';
@@ -2352,11 +2352,11 @@ class AppLocalizationsUr extends AppLocalizations {
   String get semantic_verse_list_view => 'آیات کی فہرست ویو';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'ڈاؤن لوڈ نہیں ہوا';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'رسائی کے لیے آیات کی فہرست موڈ فعال ہے';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2456,48 +2456,48 @@ class AppLocalizationsUr extends AppLocalizations {
   String get semantic_ayah_list_actions => 'بک مارک ہٹائیں';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'بک مارک ہٹائیں';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'بک مارک شامل کریں';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'منتخب';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'جاری رکھنے کے لیے دو بار ٹیپ کریں';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'تلاش صاف کریں';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'مساجد مل گئیں';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'مسجد شامل کر دی گئی';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'مسجد ہٹا دی گئی';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'سورت منتخب کرنے کے لیے بائیں یا دائیں اسکرول کریں';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'مختلف مصحف منتخب کرنے کے لیے بائیں یا دائیں سوائپ کریں';
 
   @override
   String get location_permission_required => 'لوکیشن کی اجازت درکار ہے';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'پچھلا مہینہ';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'اگلا مہینہ';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'تصویر دیکھیں';
 
   @override
   String get access_location_details =>

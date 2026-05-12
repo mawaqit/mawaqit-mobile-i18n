@@ -293,7 +293,7 @@ class AppLocalizationsId extends AppLocalizations {
       'Izinkan Mawaqit mengakses lokasi saya.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'Aktifkan lokasi';
 
   @override
   String get the_request_timeout => 'Waktu permintaan telah habis';
@@ -2108,7 +2108,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get tap_change_layout => 'Ketuk di sini untuk mengubah tata letak';
 
   @override
-  String get step => 'Step';
+  String get step => 'Langkah';
 
   @override
   String get jump_to_page => 'Lompat ke halaman';
@@ -2149,7 +2149,7 @@ class AppLocalizationsId extends AppLocalizations {
       'Ini akan mengunduh semua surah untuk didengarkan secara offline. Pastikan Anda terhubung ke Wi-Fi sebelum melanjutkan.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'Ketuk untuk mengubah notifikasi';
 
   @override
   String get adhan_at => 'Adzan pada';
@@ -2184,13 +2184,13 @@ class AppLocalizationsId extends AppLocalizations {
   String get semantic_grid_layout => 'Tata letak grid';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => 'Tata letak jam 360';
 
   @override
   String get semantic_layout_menu_open => 'Menu tata letak terbuka';
 
   @override
-  String get close => 'Close';
+  String get close => 'Tutup';
 
   @override
   String get semantic_mosque_page => 'Halaman masjid';
@@ -2203,7 +2203,7 @@ class AppLocalizationsId extends AppLocalizations {
       'Notifikasi MAWAQIT belum dibaca';
 
   @override
-  String get back => 'Back';
+  String get back => 'Kembali';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
@@ -2290,10 +2290,10 @@ class AppLocalizationsId extends AppLocalizations {
   String get semantic_expand_mosque_list => 'Perluas daftar masjid';
 
   @override
-  String get added => 'Added';
+  String get added => 'Ditambahkan';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'Tidak ditambahkan';
 
   @override
   String get semantic_navigate_to_mosque => 'Navigasi ke masjid';
@@ -2313,40 +2313,40 @@ class AppLocalizationsId extends AppLocalizations {
   String get semantic_clockwise => 'Searah jarum jam';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'berlawanan arah jarum jam';
 
   @override
   String get semantic_rotate_slightly => 'Hampir sampai. Putar sedikit';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'derajat ke arah kiblat';
 
   @override
-  String get about => 'about';
+  String get about => 'sekitar';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'Putar';
 
   @override
   String get semantic_close_audio_player => 'Tutup pemutar audio';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'Pengaturan pembaca';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'Ayat sebelumnya';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'Ayat berikutnya';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'Kurangi';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'Tingkatkan';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'Pengaturan Al-Qur\'an';
 
   @override
   String get semantic_mushaf_view => 'Tampilan mushaf';
@@ -2355,11 +2355,11 @@ class AppLocalizationsId extends AppLocalizations {
   String get semantic_verse_list_view => 'Tampilan daftar ayat';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'Belum diunduh';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'Mode daftar ayat diaktifkan untuk aksesibilitas';
 
   @override
   String get semantic_switch_verse_list =>
@@ -2460,48 +2460,48 @@ class AppLocalizationsId extends AppLocalizations {
   String get semantic_ayah_list_actions => 'Hapus penanda';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'Hapus penanda';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'Tambah penanda';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'dipilih';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'Ketuk dua kali untuk melanjutkan';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'Hapus pencarian';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'masjid ditemukan';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'Masjid ditambahkan';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'Masjid dihapus';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'Gulir ke kiri atau kanan untuk memilih surah';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'Geser kiri atau kanan untuk memilih jenis mushaf lain';
 
   @override
   String get location_permission_required => 'Izin lokasi diperlukan';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'Bulan sebelumnya';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'Bulan berikutnya';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'Lihat gambar';
 
   @override
   String get access_location_details =>

@@ -293,7 +293,7 @@ class AppLocalizationsUg extends AppLocalizations {
       'مەۋاقىتنىڭ ئورۇن ئۇچۇرىنى زىيارەت قىلىشىغا يول قويىدۇ.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'ئورۇننى قوزغىتىڭ';
 
   @override
   String get the_request_timeout => 'ئىلتىماس ۋاقتى ئۆتتى';
@@ -2497,7 +2497,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get semantic_next_month => 'كېيىنكى ئاي';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'رەسىمنى كۆرۈش';
 
   @override
   String get access_location_details =>
