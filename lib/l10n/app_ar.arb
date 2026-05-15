@@ -1219,7 +1219,7 @@
     "calendar_access_required": "يلزم الوصول إلى التقويم لعرض أحداثك.",
     "calendar_allow_access_button": "السماح بالوصول إلى التقويم",
     "calendar_loading": "جاري تحميل التقويمات…",
-    "calendar_select_for_mawaqit": "اختر التقاويم التي تريد عرضها على مواقيت 360.",
+    "calendar_select_for_mawaqit": "اختر التقويم الذي تريد عرضه على مواقيت 360",
     "calendar_enable_all": "تفعيل الكل",
     "calendar_disable_all": "تعطيل الكل",
     "calendar_other_calendars": "تقويمات أخرى",
@@ -1488,9 +1488,9 @@
     "semantic_mushaf_view": "عرض المصحف",
     "semantic_verse_list_view": "عرض قائمة الآيات",
     "not_downloaded": "لم يتم التحميل",
-    "verse_list_enabled_for_accessibility": "تم تفعيل وضع قائمة الآيات للوصول",
+    "verse_list_enabled_for_accessibility": "تم تفعيل وضع الوصول لقائمة الآيات",
     "semantic_switch_verse_list": "صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل.",
-    "semantic_decrease_hijri_adjustment": "تقليل ضبط الهجري",
+    "semantic_decrease_hijri_adjustment": "تقليل التقويم الهجري",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
@@ -1502,7 +1502,7 @@
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "زيادة ضبط الهجري",
+    "semantic_increase_hijri_adjustment": "زيادة التقويم الهجري",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
