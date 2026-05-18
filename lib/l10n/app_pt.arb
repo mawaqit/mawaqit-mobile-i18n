@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "Não podemos sugerir a mesquita mais próxima porque o acesso à localização foi negado. Pesquise uma mesquita ou ative a permissão de localização.",
     "location": "Localização",
     "stop": "Parar",
-    "plays_adhan_prayer_arrives": "Reproduz o adhan quando chega a hora da oração"
+    "plays_adhan_prayer_arrives": "Reproduz o adhan quando chega a hora da oração",
+    "play_in_silent_mode": "Reproduzir no modo silencioso"
 }
