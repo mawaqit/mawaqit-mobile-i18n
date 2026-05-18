@@ -2517,5 +2517,5 @@ class AppLocalizationsPl extends AppLocalizations {
   String get location => 'Lokalizacja';
 
   @override
-  String get stop => 'Stop';
+  String get stop => 'Zatrzymaj';
 }

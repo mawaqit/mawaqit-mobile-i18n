@@ -2509,5 +2509,5 @@ class AppLocalizationsSv extends AppLocalizations {
   String get location => 'Plats';
 
   @override
-  String get stop => 'Stop';
+  String get stop => 'Stoppa';
 }

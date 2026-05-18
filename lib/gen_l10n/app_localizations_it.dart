@@ -2540,5 +2540,5 @@ class AppLocalizationsIt extends AppLocalizations {
   String get location => 'Posizione';
 
   @override
-  String get stop => 'Stop';
+  String get stop => 'Interrompi';
 }

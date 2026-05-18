@@ -2525,5 +2525,5 @@ class AppLocalizationsRu extends AppLocalizations {
   String get location => 'Геолокация';
 
   @override
-  String get stop => 'Stop';
+  String get stop => 'Остановить';
 }

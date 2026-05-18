@@ -2507,5 +2507,5 @@ class AppLocalizationsTr extends AppLocalizations {
   String get location => 'Konum';
 
   @override
-  String get stop => 'Stop';
+  String get stop => 'Durdur';
 }
