@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "Məkan girişi rədd edildiyi üçün ən yaxın məscidi təklif edə bilmirik. Zəhmət olmasa məscid axtarın və ya məkan icazəsini aktiv edin.",
     "location": "Location",
-    "stop": "Durdur"
+    "stop": "Durdur",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
 }
