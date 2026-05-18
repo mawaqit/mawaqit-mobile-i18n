@@ -2521,4 +2521,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get location => 'Lokacija';
+
+  @override
+  String get stop => 'Zaustavi';
 }

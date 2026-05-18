@@ -1833,7 +1833,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get calendar_select_for_mawaqit =>
-      'اختر التقاويم التي تريد عرضها على مواقيت 360.';
+      'اختر التقويم الذي تريد عرضه على مواقيت 360';
 
   @override
   String get calendar_enable_all => 'تفعيل الكل';
@@ -2328,14 +2328,14 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'تم تفعيل وضع قائمة الآيات للوصول';
+      'تم تفعيل وضع الوصول لقائمة الآيات';
 
   @override
   String get semantic_switch_verse_list =>
       'صفحة المصحف. قم بالتبديل إلى عرض قائمة الآيات للوصول الكامل.';
 
   @override
-  String get semantic_decrease_hijri_adjustment => 'تقليل ضبط الهجري';
+  String get semantic_decrease_hijri_adjustment => 'تقليل التقويم الهجري';
 
   @override
   String get semantic_minimum_adjustment_reached =>
@@ -2345,7 +2345,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get semantic_current_adjustment => 'الضبط الحالي';
 
   @override
-  String get semantic_increase_hijri_adjustment => 'زيادة ضبط الهجري';
+  String get semantic_increase_hijri_adjustment => 'زيادة التقويم الهجري';
 
   @override
   String get semantic_maximum_adjustment_reached =>
@@ -2487,4 +2487,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get location => 'الموقع';
+
+  @override
+  String get stop => 'إيقاف';
 }

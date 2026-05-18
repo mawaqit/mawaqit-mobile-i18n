@@ -2505,4 +2505,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get location => 'Konum';
+
+  @override
+  String get stop => 'Durdur';
 }

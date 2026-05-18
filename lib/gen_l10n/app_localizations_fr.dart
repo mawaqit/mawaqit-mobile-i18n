@@ -2552,4 +2552,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get location => 'Localisation';
+
+  @override
+  String get stop => 'Arrêter';
 }

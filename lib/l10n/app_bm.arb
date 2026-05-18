@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "An tɛ se ka misiri min ka surun kɛ jira sababu yɔrɔ la sɔrɔya tɛ. I ka misiri dɔ ɲini walima yɔrɔ la bataki da.",
-    "location": "Location"
+    "location": "Location",
+    "stop": "Stop"
 }

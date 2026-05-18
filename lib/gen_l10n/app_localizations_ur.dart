@@ -2515,4 +2515,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get location => 'لوکیشن';
+
+  @override
+  String get stop => 'روکیں';
 }

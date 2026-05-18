@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "Wir können die nächstgelegene Moschee nicht vorschlagen, da der Standortzugriff verweigert wurde. Bitte suchen Sie nach einer Moschee oder aktivieren Sie die Standortberechtigung.",
-    "location": "Standort"
+    "location": "Standort",
+    "stop": "Stopp"
 }

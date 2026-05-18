@@ -2529,4 +2529,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get location => 'Vendndodhja';
+
+  @override
+  String get stop => 'Ndalo';
 }

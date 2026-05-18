@@ -2538,4 +2538,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get location => 'Posizione';
+
+  @override
+  String get stop => 'Interrompi';
 }

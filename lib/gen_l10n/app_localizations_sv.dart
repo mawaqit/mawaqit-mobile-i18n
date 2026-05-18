@@ -488,7 +488,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Informationen har lagts till av moskéns ansvariga';
 
   @override
-  String get in_ => 'I';
+  String get in_ => 'om ';
 
   @override
   String get imsak => 'Imsak.';
@@ -716,7 +716,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get meaning => 'Betyder';
 
   @override
-  String get al_quran => 'Koranen';
+  String get al_quran => 'Koran';
 
   @override
   String get surah_information => 'Information om suran';
@@ -1295,7 +1295,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get recitation_deleted_successfully => 'Recitationen har tagits bort';
 
   @override
-  String get quran => 'Koranen';
+  String get quran => 'Koran ';
 
   @override
   String get qibla => 'Qibla';
@@ -1392,13 +1392,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_language_pt => 'Portugisiska';
 
   @override
-  String get al_zikr => 'Adhkar';
+  String get al_zikr => 'Al Dhikr ';
 
   @override
   String get favorite_azkar => 'Favorit-dhikr';
 
   @override
-  String get all_azkar => 'Al adhikr';
+  String get all_azkar => 'Al Adhkar';
 
   @override
   String get device_audio_not_found => 'Ingen ljudfil hittades på enheten';
@@ -2507,4 +2507,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get location => 'Plats';
+
+  @override
+  String get stop => 'Stoppa';
 }

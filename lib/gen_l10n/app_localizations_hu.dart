@@ -2530,4 +2530,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get location => 'Helymeghatározás';
+
+  @override
+  String get stop => 'Leállítás';
 }

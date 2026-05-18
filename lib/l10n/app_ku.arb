@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "ناتوانین نزیکترین مزگەوت پێشنیار بکەین چونکە دەستگەیشتن بە شوێن ڕەتکراوە. تکایە مزگەوتێک بگەڕێن یان مۆڵەتی شوێن چالاک بکەن.",
-    "location": "شوێن"
+    "location": "شوێن",
+    "stop": "Stop"
 }

@@ -2529,4 +2529,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get location => 'Locatie';
+
+  @override
+  String get stop => 'Stoppen';
 }

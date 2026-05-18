@@ -2540,4 +2540,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get location => 'Ubicación';
+
+  @override
+  String get stop => 'Detener';
 }

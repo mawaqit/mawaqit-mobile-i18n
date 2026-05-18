@@ -441,7 +441,7 @@
         "description": "_",
         "type": "text"
     },
-    "in_": "I",
+    "in_": "om ",
     "@in_": {
         "description": "_",
         "type": "text"
@@ -730,7 +730,7 @@
     "ayahs": "Verser",
     "chapter": "Sura",
     "meaning": "Betyder",
-    "al_quran": "Koranen",
+    "al_quran": "Koran",
     "surah_information": "Information om suran",
     "surah_number": "Surans nummer",
     "quran_browsing": "Bläddra",
@@ -911,7 +911,7 @@
     "cant_download_more_than_3": "Kan inte ladda ner fler än 3 samtidigt.",
     "boost": "Förstärk",
     "recitation_deleted_successfully": "Recitationen har tagits bort",
-    "quran": "Koranen",
+    "quran": "Koran ",
     "qibla": "Qibla",
     "search": "Sök",
     "more": "Mer",
@@ -971,9 +971,9 @@
     "highlight_next_prayer_after_Iqama": "Markera nästa bön efter iqama",
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portugisiska",
-    "al_zikr": "Adhkar",
+    "al_zikr": "Al Dhikr ",
     "favorite_azkar": "Favorit-dhikr",
-    "all_azkar": "Al adhikr",
+    "all_azkar": "Al Adhkar",
     "device_audio_not_found": "Ingen ljudfil hittades på enheten",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "Vi kan inte hitta den närmaste moskén eftersom appen saknar åtkomst till din plats. Sök efter en moské eller aktivera platsåtkomst.",
-    "location": "Plats"
+    "location": "Plats",
+    "stop": "Stoppa"
 }

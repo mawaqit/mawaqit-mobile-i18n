@@ -2515,4 +2515,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get location => 'ئورۇن';
+
+  @override
+  String get stop => 'توختىتىش';
 }

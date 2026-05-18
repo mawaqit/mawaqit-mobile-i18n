@@ -2515,4 +2515,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get location => 'Location';
+
+  @override
+  String get stop => 'Stop';
 }

@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "ما نمی‌توانیم نزدیک‌ترین مسجد را پیشنهاد کنیم زیرا دسترسی به موقعیت مکانی رد شده است. لطفاً یک مسجد را جستجو کنید یا اجازه موقعیت را فعال کنید.",
-    "location": "Location"
+    "location": "Location",
+    "stop": "Stop"
 }
