@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "Nem tudjuk javasolni a legközelebbi mecsetet, mert a helyhozzáférés meg lett tagadva. Kérjük, keressen mecsetet vagy engedélyezze a helymeghatározást.",
     "location": "Helymeghatározás",
     "stop": "Leállítás",
-    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
+    "play_in_silent_mode": "Play in silent mode"
 }
