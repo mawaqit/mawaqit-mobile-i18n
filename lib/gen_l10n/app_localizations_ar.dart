@@ -2493,4 +2493,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives => 'يشغّل الأذان عند دخول وقت الصلاة';
+
+  @override
+  String get play_in_silent_mode => 'التشغيل في الوضع الصامت';
 }

@@ -2545,4 +2545,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Riproduce l\'adhan quando arriva l\'orario della preghiera';
+
+  @override
+  String get play_in_silent_mode => 'Riproduci in modalità silenziosa';
 }

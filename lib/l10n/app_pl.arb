@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "Nie możemy zasugerować najbliższego meczetu, ponieważ dostęp do lokalizacji został odrzucony. Wyszukaj meczet lub włącz uprawnienia lokalizacji.",
     "location": "Lokalizacja",
     "stop": "Zatrzymaj",
-    "plays_adhan_prayer_arrives": "Odtwarza adhan, gdy nadejdzie czas modlitwy"
+    "plays_adhan_prayer_arrives": "Odtwarza adhan, gdy nadejdzie czas modlitwy",
+    "play_in_silent_mode": "Odtwarzaj w trybie cichym"
 }

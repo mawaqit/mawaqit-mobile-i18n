@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "Min waawi hollude juulirde ɓurnde ɓadaaki ngam yamiroore nokkuure nde haɗaa. Tiiɗno yiylo juulirde walla hurmin yamiroore nokkuure nde.",
     "location": "Location",
     "stop": "Stop",
-    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
+    "play_in_silent_mode": "Play in silent mode"
 }

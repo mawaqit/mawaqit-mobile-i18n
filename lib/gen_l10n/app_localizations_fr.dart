@@ -2559,4 +2559,7 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Joue l’adhan lorsque l’heure de la prière arrive';
+
+  @override
+  String get play_in_silent_mode => 'Lire en mode silencieux';
 }

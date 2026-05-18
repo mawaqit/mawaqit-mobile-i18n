@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "இருப்பிட அணுகல் மறுக்கப்பட்டதால் அருகிலுள்ள பள்ளிவாசலை பரிந்துரைக்க முடியவில்லை. தயவுசெய்து ஒரு பள்ளிவாசலைத் தேடுங்கள் அல்லது இருப்பிட அனுமதியை இயக்குங்கள்.",
     "location": "Location",
     "stop": "Stop",
-    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
+    "play_in_silent_mode": "Play in silent mode"
 }

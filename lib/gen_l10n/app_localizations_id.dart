@@ -2526,4 +2526,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Memutar adzan saat waktu salat tiba';
+
+  @override
+  String get play_in_silent_mode => 'Putar dalam mode senyap';
 }

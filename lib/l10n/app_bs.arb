@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "Ne možemo predložiti najbližu džamiju jer je pristup lokaciji odbijen. Molimo pretražite džamiju ili omogućite dozvolu za lokaciju.",
     "location": "Lokacija",
     "stop": "Zaustavi",
-    "plays_adhan_prayer_arrives": "Pušta ezan kada nastupi vrijeme namaza"
+    "plays_adhan_prayer_arrives": "Pušta ezan kada nastupi vrijeme namaza",
+    "play_in_silent_mode": "Reproduciraj u tihom načinu"
 }

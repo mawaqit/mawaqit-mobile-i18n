@@ -2511,4 +2511,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives => 'Namaz vakti geldiğinde ezanı çalar';
+
+  @override
+  String get play_in_silent_mode => 'Sessiz modda çal';
 }

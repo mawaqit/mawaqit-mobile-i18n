@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "We kunnen de dichtstbijzijnde moskee niet voorstellen omdat toegang tot de locatie is geweigerd. Zoek alstublieft naar een moskee of schakel locatierechten in.",
     "location": "Locatie",
     "stop": "Stoppen",
-    "plays_adhan_prayer_arrives": "Speelt de adhan af wanneer het gebedstijd is"
+    "plays_adhan_prayer_arrives": "Speelt de adhan af wanneer het gebedstijd is",
+    "play_in_silent_mode": "Im Lautlosmodus abspielen"
 }

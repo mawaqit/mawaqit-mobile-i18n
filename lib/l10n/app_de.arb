@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "Wir können die nächstgelegene Moschee nicht vorschlagen, da der Standortzugriff verweigert wurde. Bitte suchen Sie nach einer Moschee oder aktivieren Sie die Standortberechtigung.",
     "location": "Standort",
     "stop": "Stopp",
-    "plays_adhan_prayer_arrives": "Spielt den Adhan ab, wenn die Gebetszeit beginnt"
+    "plays_adhan_prayer_arrives": "Spielt den Adhan ab, wenn die Gebetszeit beginnt",
+    "play_in_silent_mode": "Im Lautlosmodus abspielen"
 }
