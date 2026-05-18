@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "Vi kan inte hitta den närmaste moskén eftersom appen saknar åtkomst till din plats. Sök efter en moské eller aktivera platsåtkomst.",
     "location": "Plats",
-    "stop": "Stoppa"
+    "stop": "Stoppa",
+    "plays_adhan_prayer_arrives": "Spelar upp adhan när bönetiden börjar"
 }
