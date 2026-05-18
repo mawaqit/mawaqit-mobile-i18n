@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "موږ نشو کولی تر ټولو نږدې جومات وړاندیز کړو ځکه چې د موقعیت لاسرسی رد شوی دی. مهرباني وکړئ یو جومات ولټوئ یا د موقعیت اجازه فعاله کړئ.",
     "location": "Location",
-    "stop": "Stop"
+    "stop": "Stop",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
 }
