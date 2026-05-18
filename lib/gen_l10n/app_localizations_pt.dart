@@ -2541,4 +2541,8 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get stop => 'Parar';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Reproduz o adhan quando chega a hora da oração';
 }

@@ -2532,4 +2532,8 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get stop => 'Ndalo';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Luajn ezanin kur hyn koha e namazit';
 }

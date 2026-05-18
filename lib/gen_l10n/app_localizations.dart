@@ -4897,6 +4897,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Stop'**
   String get stop;
+
+  /// No description provided for @plays_adhan_prayer_arrives.
+  ///
+  /// In en, this message translates to:
+  /// **'Plays the adhan when prayer time arrives'**
+  String get plays_adhan_prayer_arrives;
 }
 
 class _AppLocalizationsDelegate

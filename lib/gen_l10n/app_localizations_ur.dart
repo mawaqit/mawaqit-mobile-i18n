@@ -2518,4 +2518,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get stop => 'روکیں';
+
+  @override
+  String get plays_adhan_prayer_arrives => 'نماز کا وقت ہونے پر اذان چلاتا ہے';
 }

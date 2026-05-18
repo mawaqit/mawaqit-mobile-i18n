@@ -2524,4 +2524,8 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get stop => 'Zaustavi';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Pušta ezan kada nastupi vrijeme namaza';
 }

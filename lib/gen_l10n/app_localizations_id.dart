@@ -2522,4 +2522,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get stop => 'Hentikan';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Memutar adzan saat waktu salat tiba';
 }

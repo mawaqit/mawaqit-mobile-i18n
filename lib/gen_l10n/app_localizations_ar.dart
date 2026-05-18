@@ -2490,4 +2490,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get stop => 'إيقاف';
+
+  @override
+  String get plays_adhan_prayer_arrives => 'يشغّل الأذان عند دخول وقت الصلاة';
 }
