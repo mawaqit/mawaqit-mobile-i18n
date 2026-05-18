@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "Nie możemy zasugerować najbliższego meczetu, ponieważ dostęp do lokalizacji został odrzucony. Wyszukaj meczet lub włącz uprawnienia lokalizacji.",
-    "location": "Lokalizacja"
+    "location": "Lokalizacja",
+    "stop": "Stop"
 }
