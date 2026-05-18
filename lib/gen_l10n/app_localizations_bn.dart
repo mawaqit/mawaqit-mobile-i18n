@@ -2523,4 +2523,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives => 'নামাজের সময় হলে আযান বাজায়';
+
+  @override
+  String get play_in_silent_mode => 'সাইলেন্ট মোডে চালান';
 }

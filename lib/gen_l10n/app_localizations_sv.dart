@@ -2514,4 +2514,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Spelar upp adhan när bönetiden börjar';
+
+  @override
+  String get play_in_silent_mode => 'Spela upp i tyst läge';
 }

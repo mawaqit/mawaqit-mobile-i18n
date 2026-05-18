@@ -2528,4 +2528,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Pušta ezan kada nastupi vrijeme namaza';
+
+  @override
+  String get play_in_silent_mode => 'Reproduciraj u tihom načinu';
 }

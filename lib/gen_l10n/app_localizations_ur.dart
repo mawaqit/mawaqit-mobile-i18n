@@ -2521,4 +2521,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives => 'نماز کا وقت ہونے پر اذان چلاتا ہے';
+
+  @override
+  String get play_in_silent_mode => 'سائلنٹ موڈ میں چلائیں';
 }

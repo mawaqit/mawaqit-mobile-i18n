@@ -4903,6 +4903,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Plays the adhan when prayer time arrives'**
   String get plays_adhan_prayer_arrives;
+
+  /// No description provided for @play_in_silent_mode.
+  ///
+  /// In en, this message translates to:
+  /// **'Play in silent mode'**
+  String get play_in_silent_mode;
 }
 
 class _AppLocalizationsDelegate

@@ -2530,4 +2530,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Воспроизводит азан при наступлении времени молитвы';
+
+  @override
+  String get play_in_silent_mode => 'Воспроизводить в беззвучном режиме';
 }

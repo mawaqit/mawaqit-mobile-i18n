@@ -2521,4 +2521,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives => 'ناماز ۋاقتى كىرگەندە ئەزان قويىدۇ';
+
+  @override
+  String get play_in_silent_mode => 'جىم ھالەتتە قويۇش';
 }

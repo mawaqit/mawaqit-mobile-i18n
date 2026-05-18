@@ -2536,4 +2536,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Speelt de adhan af wanneer het gebedstijd is';
+
+  @override
+  String get play_in_silent_mode => 'Im Lautlosmodus abspielen';
 }

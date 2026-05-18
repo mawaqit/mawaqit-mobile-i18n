@@ -2531,4 +2531,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Plays the adhan when prayer time arrives';
+
+  @override
+  String get play_in_silent_mode => 'Play in silent mode';
 }

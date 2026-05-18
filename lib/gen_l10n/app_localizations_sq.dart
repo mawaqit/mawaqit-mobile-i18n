@@ -2536,4 +2536,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get plays_adhan_prayer_arrives =>
       'Luajn ezanin kur hyn koha e namazit';
+
+  @override
+  String get play_in_silent_mode => 'Luaj në modalitetin pa zë';
 }
