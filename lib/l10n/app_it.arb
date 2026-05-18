@@ -1582,5 +1582,6 @@
     "search_for_mosque_or_enable_location": "Non possiamo suggerire la moschea più vicina perché l’accesso alla posizione è stato negato. Cerca una moschea o abilita l’autorizzazione alla posizione.",
     "location": "Posizione",
     "stop": "Interrompi",
-    "plays_adhan_prayer_arrives": "Riproduce l'adhan quando arriva l'orario della preghiera"
+    "plays_adhan_prayer_arrives": "Riproduce l'adhan quando arriva l'orario della preghiera",
+    "play_in_silent_mode": "Riproduci in modalità silenziosa"
 }
