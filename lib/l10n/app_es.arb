@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1581,5 +1581,5 @@
     },
     "search_for_mosque_or_enable_location": "No podemos sugerir la mezquita más cercana porque el acceso a la ubicación fue denegado. Por favor, busca una mezquita o habilita el permiso de ubicación.",
     "location": "Ubicación",
-    "stop": "Stop"
+    "stop": "Detener"
 }
