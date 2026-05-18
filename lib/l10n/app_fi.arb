@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "Emme voi ehdottaa lähintä moskeijaa, koska sijainnin käyttöoikeus on estetty. Etsi moskeija tai ota sijaintilupa käyttöön.",
     "location": "Location",
-    "stop": "Stop"
+    "stop": "Stop",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
 }
