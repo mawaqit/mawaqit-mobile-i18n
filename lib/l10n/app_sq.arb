@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "Nuk mund të sugjerojmë xhaminë më të afërt sepse qasja në vendndodhje është refuzuar. Ju lutemi kërkoni një xhami ose aktivizoni lejen e vendndodhjes.",
     "location": "Vendndodhja",
-    "stop": "Ndalo"
+    "stop": "Ndalo",
+    "plays_adhan_prayer_arrives": "Luajn ezanin kur hyn koha e namazit"
 }
