@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "Emme voi ehdottaa lähintä moskeijaa, koska sijainnin käyttöoikeus on estetty. Etsi moskeija tai ota sijaintilupa käyttöön.",
-    "location": "Location"
+    "location": "Location",
+    "stop": "Stop"
 }
