@@ -2508,4 +2508,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get stop => 'Durdur';
+
+  @override
+  String get plays_adhan_prayer_arrives => 'Namaz vakti geldiğinde ezanı çalar';
 }

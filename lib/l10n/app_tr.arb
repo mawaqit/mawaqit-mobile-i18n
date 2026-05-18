@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "Konum erişimi reddedildiği için en yakın camiyi öneremiyoruz. Lütfen bir cami arayın veya konum iznini etkinleştirin.",
     "location": "Konum",
-    "stop": "Durdur"
+    "stop": "Durdur",
+    "plays_adhan_prayer_arrives": "Namaz vakti geldiğinde ezanı çalar"
 }

@@ -2518,4 +2518,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get stop => 'توختىتىش';
+
+  @override
+  String get plays_adhan_prayer_arrives => 'ناماز ۋاقتى كىرگەندە ئەزان قويىدۇ';
 }

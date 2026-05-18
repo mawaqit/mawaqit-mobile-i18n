@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "ما نمی‌توانیم نزدیک‌ترین مسجد را پیشنهاد کنیم زیرا دسترسی به موقعیت مکانی رد شده است. لطفاً یک مسجد را جستجو کنید یا اجازه موقعیت را فعال کنید.",
     "location": "Location",
-    "stop": "Stop"
+    "stop": "Stop",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
 }

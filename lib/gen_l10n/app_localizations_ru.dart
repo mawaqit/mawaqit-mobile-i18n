@@ -2526,4 +2526,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get stop => 'Остановить';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Воспроизводит азан при наступлении времени молитвы';
 }

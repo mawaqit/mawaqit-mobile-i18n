@@ -2520,4 +2520,8 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get stop => 'Durdur';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Plays the adhan when prayer time arrives';
 }

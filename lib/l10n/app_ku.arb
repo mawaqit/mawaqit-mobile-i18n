@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "ناتوانین نزیکترین مزگەوت پێشنیار بکەین چونکە دەستگەیشتن بە شوێن ڕەتکراوە. تکایە مزگەوتێک بگەڕێن یان مۆڵەتی شوێن چالاک بکەن.",
     "location": "شوێن",
-    "stop": "Stop"
+    "stop": "Stop",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
 }

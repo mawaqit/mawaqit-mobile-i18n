@@ -2510,4 +2510,8 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get stop => 'Stoppa';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Spelar upp adhan när bönetiden börjar';
 }

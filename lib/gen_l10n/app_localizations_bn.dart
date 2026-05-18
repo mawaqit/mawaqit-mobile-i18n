@@ -2520,4 +2520,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get stop => 'বন্ধ করুন';
+
+  @override
+  String get plays_adhan_prayer_arrives => 'নামাজের সময় হলে আযান বাজায়';
 }

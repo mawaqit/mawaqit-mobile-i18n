@@ -2533,4 +2533,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get stop => 'Leállítás';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Plays the adhan when prayer time arrives';
 }

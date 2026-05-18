@@ -2546,4 +2546,8 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get stop => 'Stopp';
+
+  @override
+  String get plays_adhan_prayer_arrives =>
+      'Spielt den Adhan ab, wenn die Gebetszeit beginnt';
 }
