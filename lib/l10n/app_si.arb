@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "ස්ථාන ප්‍රවේශය ප්‍රතික්ෂේප කර ඇති බැවින් අපට ආසන්නම මස්ජිදය යෝජනා කළ නොහැක. කරුණාකර මස්ජිදයක් සොයන්න හෝ ස්ථාන අවසරය සක්‍රීය කරන්න.",
     "location": "Location",
-    "stop": "Stop"
+    "stop": "Stop",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives"
 }
