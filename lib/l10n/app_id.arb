@@ -1581,5 +1581,6 @@
     },
     "search_for_mosque_or_enable_location": "Kami tidak dapat menyarankan masjid terdekat karena akses lokasi ditolak. Silakan cari masjid atau aktifkan izin lokasi.",
     "location": "Lokasi",
-    "stop": "Hentikan"
+    "stop": "Hentikan",
+    "plays_adhan_prayer_arrives": "Memutar adzan saat waktu salat tiba"
 }
