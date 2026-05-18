@@ -2519,4 +2519,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get location => 'Lokasi';
+
+  @override
+  String get stop => 'Hentikan';
 }

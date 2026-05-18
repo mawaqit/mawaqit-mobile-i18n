@@ -2522,4 +2522,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get location => 'شوێن';
+
+  @override
+  String get stop => 'Stop';
 }

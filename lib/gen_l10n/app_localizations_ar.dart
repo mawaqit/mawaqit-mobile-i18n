@@ -2487,4 +2487,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get location => 'الموقع';
+
+  @override
+  String get stop => 'إيقاف';
 }

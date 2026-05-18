@@ -2523,4 +2523,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get location => 'Геолокация';
+
+  @override
+  String get stop => 'Stop';
 }

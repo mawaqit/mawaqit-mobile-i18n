@@ -2517,4 +2517,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get location => 'লোকেশন';
+
+  @override
+  String get stop => 'বন্ধ করুন';
 }

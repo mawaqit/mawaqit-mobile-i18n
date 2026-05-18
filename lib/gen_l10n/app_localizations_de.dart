@@ -2543,4 +2543,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get location => 'Standort';
+
+  @override
+  String get stop => 'Stopp';
 }
