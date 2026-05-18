@@ -1580,5 +1580,6 @@
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "Не можем да предложим най-близката джамия, защото достъпът до местоположението е отказан. Моля, потърсете джамия или разрешете достъп до местоположението.",
-    "location": "Location"
+    "location": "Location",
+    "stop": "Stop"
 }
