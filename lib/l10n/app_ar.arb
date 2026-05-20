@@ -1583,5 +1583,7 @@
     "location": "الموقع",
     "stop": "إيقاف",
     "plays_adhan_prayer_arrives": "يشغّل الأذان عند دخول وقت الصلاة",
-    "play_in_silent_mode": "التشغيل في الوضع الصامت"
+    "play_in_silent_mode": "التشغيل في الوضع الصامت",
+    "notifications_not_arriving": "الإشعارات لا تصل؟",
+    "android_phones_aggressively": "بعض هواتف أندرويد تغلق التطبيقات في الخلفية بشكل صارم."
 }
