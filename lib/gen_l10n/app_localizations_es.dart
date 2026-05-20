@@ -2550,4 +2550,11 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Reproducir en modo silencioso';
+
+  @override
+  String get notifications_not_arriving => '¿Las notificaciones no llegan?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Algunos teléfonos Android cierran las aplicaciones en segundo plano de forma agresiva.';
 }

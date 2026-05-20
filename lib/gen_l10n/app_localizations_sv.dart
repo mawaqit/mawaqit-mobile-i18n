@@ -2517,4 +2517,11 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Spela upp i tyst läge';
+
+  @override
+  String get notifications_not_arriving => 'Kommer inte aviseringarna fram?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Vissa Android-telefoner stänger appar i bakgrunden väldigt aggressivt.';
 }

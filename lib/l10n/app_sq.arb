@@ -1583,5 +1583,7 @@
     "location": "Vendndodhja",
     "stop": "Ndalo",
     "plays_adhan_prayer_arrives": "Luajn ezanin kur hyn koha e namazit",
-    "play_in_silent_mode": "Luaj në modalitetin pa zë"
+    "play_in_silent_mode": "Luaj në modalitetin pa zë",
+    "notifications_not_arriving": "Njoftimet nuk po vijnë?",
+    "android_phones_aggressively": "Disa telefona Android i mbyllin aplikacionet në sfond në mënyrë agresive."
 }

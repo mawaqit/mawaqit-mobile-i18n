@@ -2539,4 +2539,11 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Im Lautlosmodus abspielen';
+
+  @override
+  String get notifications_not_arriving => 'Komen meldingen niet aan?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Sommige Android-telefoons sluiten apps op de achtergrond erg agressief.';
 }

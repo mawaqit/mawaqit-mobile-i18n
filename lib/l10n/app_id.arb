@@ -1583,5 +1583,7 @@
     "location": "Lokasi",
     "stop": "Hentikan",
     "plays_adhan_prayer_arrives": "Memutar adzan saat waktu salat tiba",
-    "play_in_silent_mode": "Putar dalam mode senyap"
+    "play_in_silent_mode": "Putar dalam mode senyap",
+    "notifications_not_arriving": "Notifikasi tidak masuk?",
+    "android_phones_aggressively": "Beberapa ponsel Android menutup aplikasi di latar belakang secara agresif."
 }

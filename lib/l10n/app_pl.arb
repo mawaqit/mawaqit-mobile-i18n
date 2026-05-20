@@ -1583,5 +1583,7 @@
     "location": "Lokalizacja",
     "stop": "Zatrzymaj",
     "plays_adhan_prayer_arrives": "Odtwarza adhan, gdy nadejdzie czas modlitwy",
-    "play_in_silent_mode": "Odtwarzaj w trybie cichym"
+    "play_in_silent_mode": "Odtwarzaj w trybie cichym",
+    "notifications_not_arriving": "Powiadomienia nie przychodzą?",
+    "android_phones_aggressively": "Niektóre telefony z Androidem agresywnie zamykają aplikacje działające w tle."
 }

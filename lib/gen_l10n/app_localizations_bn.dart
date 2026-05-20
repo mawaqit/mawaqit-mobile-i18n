@@ -2526,4 +2526,11 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'সাইলেন্ট মোডে চালান';
+
+  @override
+  String get notifications_not_arriving => 'নোটিফিকেশন আসছে না?';
+
+  @override
+  String get android_phones_aggressively =>
+      'কিছু অ্যান্ড্রয়েড ফোন ব্যাকগ্রাউন্ডে অ্যাপগুলো আক্রমণাত্মকভাবে বন্ধ করে দেয়।.';
 }

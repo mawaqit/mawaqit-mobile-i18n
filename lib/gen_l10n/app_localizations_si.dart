@@ -2525,4 +2525,11 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Play in silent mode';
+
+  @override
+  String get notifications_not_arriving => 'Notifications not arriving?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Some Android phones aggressively close apps in the background.';
 }

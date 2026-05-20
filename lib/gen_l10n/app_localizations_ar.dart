@@ -2496,4 +2496,11 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'التشغيل في الوضع الصامت';
+
+  @override
+  String get notifications_not_arriving => 'الإشعارات لا تصل؟';
+
+  @override
+  String get android_phones_aggressively =>
+      'بعض هواتف أندرويد تغلق التطبيقات في الخلفية بشكل صارم.';
 }
