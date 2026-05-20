@@ -2539,4 +2539,11 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Luaj në modalitetin pa zë';
+
+  @override
+  String get notifications_not_arriving => 'Njoftimet nuk po vijnë?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Disa telefona Android i mbyllin aplikacionet në sfond në mënyrë agresive.';
 }

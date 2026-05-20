@@ -2529,4 +2529,11 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Putar dalam mode senyap';
+
+  @override
+  String get notifications_not_arriving => 'Notifikasi tidak masuk?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Beberapa ponsel Android menutup aplikasi di latar belakang secara agresif.';
 }

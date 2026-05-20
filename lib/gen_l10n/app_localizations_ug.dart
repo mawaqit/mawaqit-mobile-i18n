@@ -2524,4 +2524,11 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'جىم ھالەتتە قويۇش';
+
+  @override
+  String get notifications_not_arriving => 'ئۇقتۇرۇشلار كەلمەيۋاتامدۇ?';
+
+  @override
+  String get android_phones_aggressively =>
+      'بەزى ئاندرويد تېلېفونلىرى ئارقا سۇپادىكى ئەپلەرنى قاتتىق تاقايدۇ.';
 }

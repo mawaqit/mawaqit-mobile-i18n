@@ -2524,4 +2524,11 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'سائلنٹ موڈ میں چلائیں';
+
+  @override
+  String get notifications_not_arriving => 'نوٹیفیکیشنز نہیں آ رہے؟';
+
+  @override
+  String get android_phones_aggressively =>
+      'کچھ اینڈرائیڈ فونز بیک گراؤنڈ میں ایپس کو سختی سے بند کر دیتے ہیں۔.';
 }

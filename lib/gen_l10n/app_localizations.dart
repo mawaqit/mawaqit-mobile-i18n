@@ -4909,6 +4909,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Play in silent mode'**
   String get play_in_silent_mode;
+
+  /// No description provided for @notifications_not_arriving.
+  ///
+  /// In en, this message translates to:
+  /// **'Notifications not arriving?'**
+  String get notifications_not_arriving;
+
+  /// No description provided for @android_phones_aggressively.
+  ///
+  /// In en, this message translates to:
+  /// **'Some Android phones aggressively close apps in the background.'**
+  String get android_phones_aggressively;
 }
 
 class _AppLocalizationsDelegate

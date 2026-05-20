@@ -2533,4 +2533,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Воспроизводить в беззвучном режиме';
+
+  @override
+  String get notifications_not_arriving => 'Уведомления не приходят?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Некоторые телефоны Android агрессивно закрывают приложения в фоновом режиме.';
 }

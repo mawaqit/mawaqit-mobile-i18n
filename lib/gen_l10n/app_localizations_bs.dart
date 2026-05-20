@@ -2531,4 +2531,11 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Reproduciraj u tihom načinu';
+
+  @override
+  String get notifications_not_arriving => 'Obavijesti ne stižu?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Neki Android telefoni agresivno zatvaraju aplikacije u pozadini.';
 }

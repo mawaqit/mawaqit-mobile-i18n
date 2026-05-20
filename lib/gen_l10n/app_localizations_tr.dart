@@ -2514,4 +2514,11 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get play_in_silent_mode => 'Sessiz modda çal';
+
+  @override
+  String get notifications_not_arriving => 'Bildirimler gelmiyor mu?';
+
+  @override
+  String get android_phones_aggressively =>
+      'Bazı Android telefonlar arka plandaki uygulamaları agresif şekilde kapatır.';
 }
