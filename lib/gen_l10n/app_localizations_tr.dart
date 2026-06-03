@@ -1813,7 +1813,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Kuzey ve Batı Afrika’da yaygındır';
 
   @override
-  String get select => 'Seleccionar';
+  String get select => 'Seç';
 
   @override
   String get unknown_smartwatch => 'Bilinmeyen akıllı saat';
@@ -1839,7 +1839,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get calendar_access_required =>
-      'El acceso al calendario es necesario para mostrar tus eventos.';
+      'Calendar access is required to show your events.';
 
   @override
   String get calendar_allow_access_button => 'Takvim erişimine izin ver';
@@ -1858,7 +1858,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get calendar_disable_all => 'Hepsini Devre Dışı Bırak';
 
   @override
-  String get calendar_other_calendars => 'Otros calendarios';
+  String get calendar_other_calendars => 'Diğer Takvimler';
 
   @override
   String get calendar_times_shown_in =>
@@ -1877,25 +1877,23 @@ class AppLocalizationsTr extends AppLocalizations {
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app =>
-      'Abrir esta mezquita en la aplicación MAWAQIT';
+  String get open_in_mawaqit_app => 'Bu camiyi MAWAQIT uygulamasında açın';
 
   @override
-  String get mosque_name => 'Nombre de la mezquita';
+  String get mosque_name => 'Camı adı';
 
   @override
-  String get mosque_not_found => 'Mezquita no encontrada';
+  String get mosque_not_found => 'Cami bulunamadı';
 
   @override
-  String get invalid_mosque_link => 'Enlace de mezquita inválido';
+  String get invalid_mosque_link => 'Geçersiz cami bağlantısı';
 
   @override
   String get not_open_mosque_link =>
-      'No se pudo abrir el enlace de esta mezquita. Por favor, inténtalo de nuevo.';
+      'Bu cami linki açılamadı. Lütfen tekrar deneyin.';
 
   @override
-  String get no_calendars_on_this_device =>
-      'No se encontraron calendarios en este dispositivo.';
+  String get no_calendars_on_this_device => 'Bu cihazda takvim bulunamadı.';
 
   @override
   String get calendar_event_at_this_time => 'Bu zamandaki etkinlik';
@@ -1927,7 +1925,7 @@ class AppLocalizationsTr extends AppLocalizations {
       'Yalnızca bu namaz için canlı etkinliği gizle';
 
   @override
-  String get settings => 'Configuración';
+  String get settings => 'Ayarlar';
 
   @override
   String get azkar => 'Zikirler';
@@ -1937,10 +1935,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get tajweed_description =>
-      'Reglas de tajwīd codificadas por colores para una recitación correcta';
+      'Doğru tilavet için renk kodlu tecvid kuralları';
 
   @override
-  String get tajwid_rules => 'Reglas de tajwīd';
+  String get tajwid_rules => 'Tecvid Kuralları';
 
   @override
   String get examples => 'Örnekler';
@@ -1949,7 +1947,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get real_time_weather => 'Gerçek Zamanlı Hava Durumu';
 
   @override
-  String get layout => 'Diseño';
+  String get layout => 'Düzen';
 
   @override
   String get list => 'Liste';
@@ -2020,7 +2018,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get weather_smoke => 'Duman';
 
   @override
-  String get weather_mist => 'Yoğun nemli hava';
+  String get weather_mist => 'Hafif Si';
 
   @override
   String get weather_snow => 'Kar';
@@ -2032,10 +2030,10 @@ class AppLocalizationsTr extends AppLocalizations {
   String get weather_drizzle => 'Çiseleme';
 
   @override
-  String get weather_thunderstorm => 'Gök gürültülü fırtına';
+  String get weather_thunderstorm => 'Fırtına';
 
   @override
-  String get weather_squall => 'Fırtına';
+  String get weather_squall => 'Anı Fırtına';
 
   @override
   String get weather_celsius => '°C';
@@ -2443,13 +2441,13 @@ class AppLocalizationsTr extends AppLocalizations {
   String get semantic_off => 'Kapalı';
 
   @override
-  String get semantic_ayah_list_actions => 'Yer işaretini kaldır';
+  String get semantic_ayah_list_actions => 'Ayet Listesi İşlemleri';
 
   @override
-  String get remove_bookmark => 'Yer imini kaldır';
+  String get remove_bookmark => 'Yer İşaretini kaldır';
 
   @override
-  String get add_bookmark => 'Yer imi ekle';
+  String get add_bookmark => 'Yer İşaretini ekle';
 
   @override
   String get selected => 'seçildi';

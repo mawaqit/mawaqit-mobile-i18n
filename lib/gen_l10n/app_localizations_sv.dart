@@ -494,7 +494,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get imsak => 'Imsak.';
 
   @override
-  String get eid => 'Eid bönen om';
+  String get eid => 'Eid bönen börjar';
 
   @override
   String get minutes => 'Minuter';
