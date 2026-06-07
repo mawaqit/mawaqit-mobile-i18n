@@ -2509,7 +2509,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get location => 'Plats';
 
   @override
-  String get stop => 'Stoppa';
+  String get stop => 'Stopp';
 
   @override
   String get plays_adhan_prayer_arrives =>
