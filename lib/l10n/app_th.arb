@@ -1,86 +1,86 @@
 {
     "@@locale": "th",
-    "bottomNavbar_mawaqit": "MAWAQIT",
+    "bottomNavbar_mawaqit": "กวี",
     "@bottomNavbar_mawaqit": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_favorites": "Favorites",
+    "bottomNavbar_favorites": "รายการโปรด",
     "@bottomNavbar_favorites": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_qibla": "Qibla",
+    "bottomNavbar_qibla": "กิบลัต",
     "@bottomNavbar_qibla": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_search": "Search",
+    "bottomNavbar_search": "ค้นหา",
     "@bottomNavbar_search": {
         "description": "_",
         "type": "text"
     },
-    "bottomNavbar_settings": "Settings",
+    "bottomNavbar_settings": "การตั้งค่า",
     "@bottomNavbar_settings": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeAuto": "Auto",
+    "settings_ThemeAuto": "อัตโนมัติ",
     "@settings_ThemeAuto": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeDark": "Dark",
+    "settings_ThemeDark": "มืด",
     "@settings_ThemeDark": {
         "description": "_",
         "type": "text"
     },
-    "settings_ThemeLight": "Light",
+    "settings_ThemeLight": "แสงสว่าง",
     "@settings_ThemeLight": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat": "Time format",
+    "settings_TimeFormat": "รูปแบบเวลา",
     "@settings_TimeFormat": {
         "description": "_",
         "type": "text"
     },
-    "settings_LanguageSelection": "Language selection",
+    "settings_LanguageSelection": "การเลือกภาษา",
     "@settings_LanguageSelection": {
         "description": "_",
         "type": "text"
     },
-    "settings_Language": "Language",
+    "settings_Language": "ภาษา",
     "@settings_Language": {
         "description": "_",
         "type": "text"
     },
-    "settings_Theme": "Theme",
+    "settings_Theme": "ธีม",
     "@settings_Theme": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat12H": "12H",
+    "settings_TimeFormat12H": "12ชม",
     "@settings_TimeFormat12H": {
         "description": "_",
         "type": "text"
     },
-    "settings_TimeFormat24H": "24H",
+    "settings_TimeFormat24H": "24ชม",
     "@settings_TimeFormat24H": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Prayer Notifications",
-    "settings_PrayerPreNotifications": "Pre-Prayer notification",
-    "settings_ShuruqPreNotifications": "Pre-Shuruq notification",
-    "settings_Calculations": "Calculations",
-    "settings_RateOurApp": "Rate our app",
+    "settings_PrayerNotifications": "การแจ้งเตือนคำอธิษฐาน",
+    "settings_PrayerPreNotifications": "การแจ้งเตือนก่อนเริ่มการอธิษฐาน",
+    "settings_ShuruqPreNotifications": "การแจ้งเตือนก่อนเริ่มพิธี",
+    "settings_Calculations": "การคำนวณ",
+    "settings_RateOurApp": "ให้คะแนนแอปของเรา",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "What's new",
-    "settings_SupportMawaqit": "Support Mawaqit",
+    "settings_WhatsNew": "มีอะไรใหม่",
+    "settings_SupportMawaqit": "สนับสนุนมาวากิต",
     "settings_News": "News",
     "settings_MakeADonation": "Make a donation",
     "bismillah": "Bismillah",
@@ -158,390 +158,390 @@
         "type": "text"
     },
     "sabah": "Sabah",
-    "settings_PrayerNotification_NoNotification": "You have currently set up not to be notified for this prayer.",
+    "settings_PrayerNotification_NoNotification": "ขณะนี้คุณได้ตั้งค่าไม่ให้รับการแจ้งเตือนเกี่ยวกับการสวดมนต์นี้แล้ว",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Beep ringtone application upon notification.",
+    "settings_PrayerNotification_Bip": "แอปพลิเคชันเสียงเรียกเข้าเมื่อมีการแจ้งเตือน",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "อาธาน",
     "@adhan": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "มักกะฮ์ (ฟัจร์)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Madinah",
+    "adhan_Madinah": "มาดีนะห์",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Qods",
+    "adhan_Qods": "กอดส์",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Al Afassy",
+    "adhan_AlAfassy": "อัล อาฟาสซี",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (Fajr)",
+    "adhan_AlAfassy_fajr": "อัล อัฟัสซี (ฟัจร์)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Muhammad_jazy": "Muhammad Jazy",
+    "adhan_Muhammad_jazy": "มูฮัมหมัด จาซี",
     "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Abdul Bassit",
+    "adhan_AbdAlBassat": "อับดุล บาสสิต",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
+    "adhan_type": "เลือกประเภทของอะซาน การเลือกนี้จะถูกนำไปใช้กับทุกการละหมาดที่มีการแจ้งเตือนอะซาน",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "None",
+    "settings_prayer_Notification_None": "ไม่มี",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "You have not set any notification for this Prayer.",
+    "prayer_Notification_NoNotification": "คุณยังไม่ได้ตั้งค่าการแจ้งเตือนสำหรับการสวดมนต์นี้",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "This setting allows you to define a notification before the prayer.",
+    "prayer_PreNotification_Description": "การตั้งค่านี้ช่วยให้คุณกำหนดการแจ้งเตือนก่อนการละหมาดได้",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
-    "search_TryParis": "Try Paris, Essalam etc.",
-    "search_ByGPS": "Search by GPS",
-    "search_HelpText": "You may search a mosque by writing:\n- The mosque name\n- The association name\n- The city, address, country...etc.\n\nOr you may hit the locating button to find surrounding mosques.",
-    "search_MaxFavMosquesReached": "You have reached the maximum of the favorite mosques.",
-    "search_iOs14_message": "Searching using GPS may take some time on iOS 14, please wait.",
-    "search_error": "Oops an internal error has occurred'",
-    "search_your_location": "Your location",
-    "search_location_disabled": "Please look up for a mosque by name or city, or allow location manually in your settings.",
-    "search_settings": "Settings",
-    "no_services_text": "Mosques didn't provided this info",
-    "welcome": "Welcome to",
-    "mawaqit": "MAWAQIT",
-    "connecting": "Connecting Muslims",
+    "search_TryParis": "ลองดูที่ปารีส เอสซาลาม ฯลฯ",
+    "search_ByGPS": "ค้นหาด้วย GPS",
+    "search_HelpText": "คุณสามารถค้นหามัสยิดได้โดยพิมพ์:\n- ชื่อมัสยิด\n- ชื่อสมาคม\n- เมือง ที่อยู่ ประเทศ... เป็นต้น\n\nหรือคุณอาจกดปุ่มค้นหาเพื่อค้นหามัสยิดใกล้เคียง",
+    "search_MaxFavMosquesReached": "คุณได้เข้าชมมัสยิดที่ชื่นชอบครบจำนวนสูงสุดแล้ว",
+    "search_iOs14_message": "การค้นหาโดยใช้ GPS อาจใช้เวลานานบน iOS 14 โปรดรอสักครู่",
+    "search_error": "เกิดข้อผิดพลาดภายในขึ้น",
+    "search_your_location": "ตำแหน่งของคุณ",
+    "search_location_disabled": "โปรดค้นหามัสยิดโดยใช้ชื่อหรือเมือง หรืออนุญาตการค้นหาตามสถานที่ด้วยตนเองในการตั้งค่าของคุณ",
+    "search_settings": "การตั้งค่า",
+    "no_services_text": "มัสยิดไม่ได้ให้ข้อมูลนี้",
+    "welcome": "ยินดีต้อนรับสู่",
+    "mawaqit": "มาวาคิต",
+    "connecting": "การเชื่อมโยงชาวมุสลิม",
     "to_mosques": "To Mosques",
-    "get_started": "Get started",
-    "get_prayer_notifications_for": "Get prayer notifications for",
-    "turn_on_notifications": "Turn on prayer notifications",
-    "no_thanks": "No thank's",
-    "notification_denied": "You have denied notification permissions, so you won't receive any notifications.",
-    "at_least_one_mosque": "Add at least one mosque to continue",
-    "set_up_your_prayer": "Set up your prayer",
-    "notifications": "Notifications",
-    "mosques_around_you": "Mosques around you",
-    "mosques_in_the_selected_area": "Mosques in the selected area",
-    "mosques_with": "Mosques with",
-    "allow_mawaqit_to_access_my_location": "Allow Mawaqit to access my location.",
-    "enable_location_service_from_app_settings": "Enable location",
-    "the_request_timeout": "The request timed out",
-    "no_internet_connection": "No Internet Connection",
-    "try_again": "Try again",
-    "virtual_mosque": "Virtual Mosque",
-    "no_mosque_in_selected_area": "Couldn't find any mosques in the selected area",
+    "get_started": "เริ่มต้นเลย",
+    "get_prayer_notifications_for": "รับการแจ้งเตือนคำอธิษฐานสำหรับ",
+    "turn_on_notifications": "เปิดการแจ้งเตือนคำอธิษฐาน",
+    "no_thanks": "ไม่ล่ะ ขอบคุณ",
+    "notification_denied": "คุณได้ปฏิเสธการอนุญาตการแจ้งเตือน ดังนั้นคุณจะไม่ได้รับการแจ้งเตือนใดๆ",
+    "at_least_one_mosque": "เพิ่มมัสยิดอย่างน้อยหนึ่งแห่งเพื่อดำเนินการต่อ",
+    "set_up_your_prayer": "ตั้งคำอธิษฐานของคุณ",
+    "notifications": "การแจ้งเตือน",
+    "mosques_around_you": "มัสยิดรอบตัวคุณ",
+    "mosques_in_the_selected_area": "มัสยิดในพื้นที่ที่เลือก",
+    "mosques_with": "มัสยิดด้วย",
+    "allow_mawaqit_to_access_my_location": "อนุญาตให้ Mawaqit เข้าถึงตำแหน่งที่ตั้งของฉัน",
+    "enable_location_service_from_app_settings": "เปิดใช้งานตำแหน่ง",
+    "the_request_timeout": "การร้องขอหมดเวลา",
+    "no_internet_connection": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต",
+    "try_again": "ลองอีกครั้ง",
+    "virtual_mosque": "มัสยิดเสมือนจริง",
+    "no_mosque_in_selected_area": "ไม่พบมัสยิดใดๆ ในพื้นที่ที่เลือกไว้",
     "no_mosque_with": "Couldn't find any mosques with",
-    "retry": "Retry",
-    "search_here": "Search Here",
-    "enter_at_least_3_char": "Enter at-least 3 characters to search",
-    "jumua1": "Jum'a 1",
-    "prayer_times": "Prayer times",
-    "remove_this_city": "Remove this city",
-    "add_this_city": "Add this city",
-    "add_this_mosque": "Add this mosque",
-    "remove_this_mosque": "Remove this mosque",
-    "services": "Services",
-    "share": "Share",
-    "itinerary": "Itinerary",
-    "call": "Call",
-    "dnd": "Do Not Disturb",
-    "battery_optimize": "Battery Optimization",
-    "power_saver": "Power Saver",
-    "permission_message1": "We detected a delayed notification, Please turn off",
-    "permission_message2": "to receive the notification on time.",
+    "retry": "ลองอีกครั้ง",
+    "search_here": "ค้นหาที่นี่",
+    "enter_at_least_3_char": "กรุณาป้อนอย่างน้อย 3 ตัวอักษรเพื่อค้นหา",
+    "jumua1": "จุมอะห์ 1",
+    "prayer_times": "เวลาสวดมนต์",
+    "remove_this_city": "เอาเมืองนี้ออกไป",
+    "add_this_city": "เพิ่มเมืองนี้",
+    "add_this_mosque": "เพิ่มมัสยิดแห่งนี้",
+    "remove_this_mosque": "ถอดมัสยิดแห่งนี้ออก",
+    "services": "บริการ",
+    "share": "แบ่งปัน",
+    "itinerary": "กำหนดการเดินทาง",
+    "call": "เรียก",
+    "dnd": "ห้ามรบกวน",
+    "battery_optimize": "การเพิ่มประสิทธิภาพแบตเตอรี่",
+    "power_saver": "ประหยัดพลังงาน",
+    "permission_message1": "เราตรวจพบการแจ้งเตือนที่ล่าช้า โปรดปิดใช้งาน",
+    "permission_message2": "เพื่อให้ได้รับการแจ้งเตือนทันเวลา",
     "notifications_delay_detected": "Notifications delay detected",
-    "open_setting": "Open settings",
-    "noJumua": "No jum'a",
+    "open_setting": "เปิดการตั้งค่า",
+    "noJumua": "ไม่นะ จูอา",
     "@noJumua": {
         "description": "_",
         "type": "text"
     },
-    "jumua": "Jum'a",
+    "jumua": "จูมอา",
     "@jumua": {
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "The sensor in your device that MAWAQIT uses to determine the Qibla is not working as expected, which is affecting our ability to display the Qibla direction.",
-    "connection_not_found": "Compass Calibration setting is disabled. Please ensure your connection is turned on and try again by changing the direction.",
-    "currently_located_at": "Currently located at",
-    "facing_makkah": "You're facing Makkah",
-    "not_facing_Makkah": "You're not facing Makkah",
-    "qibla_Error_retry": "Retry",
+    "qibla_sensor": "เซ็นเซอร์ในอุปกรณ์ของคุณที่ MAWAQIT ใช้ในการกำหนดทิศกิบลัตทำงานผิดปกติ ซึ่งส่งผลต่อความสามารถในการแสดงทิศกิบลัตของเรา",
+    "connection_not_found": "การตั้งค่าการปรับเทียบเข็มทิศถูกปิดใช้งาน โปรดตรวจสอบให้แน่ใจว่าการเชื่อมต่อของคุณเปิดอยู่ และลองอีกครั้งโดยเปลี่ยนทิศทาง",
+    "currently_located_at": "ปัจจุบันตั้งอยู่ที่",
+    "facing_makkah": "คุณหันหน้าไปทางมักกะฮ์",
+    "not_facing_Makkah": "คุณไม่ได้หันหน้าไปทางมักกะฮ์",
+    "qibla_Error_retry": "ลองอีกครั้ง",
     "@qibla_Error_retry": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDenied": "Location service permission denied",
+    "qibla_Error_LocationDenied": "การอนุญาตบริการตำแหน่งถูกปฏิเสธ",
     "@qibla_Error_LocationDenied": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Location service Denied Forever !",
+    "qibla_Error_LocationDeniedForever": "บริการระบุตำแหน่งถูกปฏิเสธตลอดไป!",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_PleaseEnable": "Please enable Location service",
+    "qibla_Error_PleaseEnable": "กรุณาเปิดใช้บริการระบุตำแหน่ง",
     "@qibla_Error_PleaseEnable": {
         "description": "_",
         "type": "text"
     },
-    "qibla_Direction": "QIBLA \nDIRECTION",
+    "qibla_Direction": "ทิศกิบลัต\nทิศทาง",
     "@qibla_Direction": {
         "description": "_",
         "type": "text"
     },
-    "favorites_FavoriteMosques": "Favorites mosques",
+    "favorites_FavoriteMosques": "มัสยิดที่ชื่นชอบ",
     "@favorites_FavoriteMosques": {
         "description": "_",
         "type": "text"
     },
-    "favorites_Error": "Something went wrong...",
+    "favorites_Error": "มีบางอย่างผิดพลาด...",
     "@favorites_Error": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Image": "Image",
+    "announcement_Image": "ภาพ",
     "@announcement_Image": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_Video": "Video",
+    "announcement_Type_Video": "วีดีโอ",
     "@announcement_Type_Video": {
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flash Info",
+    "announcement_Type_FlashInfo": "ข้อมูลแฟลช",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "DONATE",
+    "mosque_DonateText1": "บริจาค",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText2": "TO MOSQUE",
+    "mosque_DonateText2": "ไปที่มัสยิด",
     "@mosque_DonateText2": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Could not launch",
+    "mosque_Error_CouldNotLaunch": "ไม่สามารถเปิดตัวได้",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
     },
-    "mosque_PrayerTimes": "Prayer times",
+    "mosque_PrayerTimes": "เวลาสวดมนต์",
     "@mosque_PrayerTimes": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Website": "Website",
+    "mosque_Website": "เว็บไซต์",
     "@mosque_Website": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Address": "Address",
+    "mosque_Address": "ที่อยู่",
     "@mosque_Address": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Phone": "Phone",
+    "mosque_Phone": "โทรศัพท์",
     "@mosque_Phone": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Email": "Email",
+    "mosque_Email": "อีเมล",
     "@mosque_Email": {
         "description": "_",
         "type": "text"
     },
-    "mosque_ByMawaqit": "By MAWAQIT https://mawaqit.net",
+    "mosque_ByMawaqit": "โดย MAWAQIT https://mawaqit.net",
     "@mosque_ByMawaqit": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_Parking": "Parking",
+    "mosque_Facilities_Parking": "ที่จอดรถ",
     "@mosque_Facilities_Parking": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Disabled Access",
+    "mosque_Facilities_DisabledAccess": "การเข้าถึงของผู้พิการ",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Ablution Room",
+    "mosque_Facilities_AblutionsRoom": "ห้องสรง",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Women Space",
+    "mosque_Facilities_WomanSpace": "อวกาศสตรี",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AdultsCourse": "Adults Courses",
+    "mosque_Facilities_AdultsCourse": "หลักสูตรสำหรับผู้ใหญ่",
     "@mosque_Facilities_AdultsCourse": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_ChildrenCourses": "Children Courses",
+    "mosque_Facilities_ChildrenCourses": "หลักสูตรสำหรับเด็ก",
     "@mosque_Facilities_ChildrenCourses": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Salat Al Eid",
+    "mosque_Facilities_SalatAlAid": "ซาลาต อัล อีด",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Salat Al Janaza",
+    "mosque_Facilities_SalatAlJanaza": "ซาลาต อัล ญานาซา",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftar Ramadan",
+    "mosques_Facilities_IftarRamadan": "อิฟตาร์รอมฎอน",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "All this information is filled in by the people in charge of the mosque",
+    "mosque_facilities_Info": "ข้อมูลทั้งหมดนี้กรอกโดยผู้รับผิดชอบมัสยิด",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
     },
-    "in_": "in",
+    "in_": "ใน",
     "@in_": {
         "description": "_",
         "type": "text"
     },
-    "imsak": "Imsak",
+    "imsak": "อิมสัก",
     "@imsak": {
         "description": "_",
         "type": "text"
     },
-    "eid": "Eid prayer at",
+    "eid": "สวดมนต์อีดที่",
     "@eid": {
         "description": "_",
         "type": "text"
     },
-    "minutes": "Minutes",
+    "minutes": "นาที",
     "@minutes": {
         "description": "_",
         "type": "text"
     },
-    "jumua2": "Jum'a 2",
+    "jumua2": "ญุมอะฮ์ 2",
     "@jumua2": {
         "description": "_",
         "type": "text"
     },
-    "please_update": "A newer version of MAWAQIT is available, please update",
+    "please_update": "มีเวอร์ชันใหม่กว่าของ MAWAQIT ให้ใช้งานแล้ว โปรดอัปเดตเป็นเวอร์ชันใหม่",
     "@please_update": {
         "description": "_",
         "type": "text"
     },
-    "update": "Update",
+    "update": "อัปเดต",
     "@update": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Skip tutorial",
+    "tutorial_skip": "ข้ามบทช่วยสอน",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_next": "Next",
+    "tutorial_next": "ต่อไป",
     "@tutorial_next": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_main_mosque": "Your main mosque",
+    "tutorial_title_main_mosque": "มัสยิดหลักของคุณ",
     "@tutorial_title_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Your main mosque show up here.\nYou can slide left and right to switch between your favorite mosques.",
+    "tutorial_text_main_mosque": "มัสยิดหลักของคุณจะปรากฏที่นี่\nคุณสามารถเลื่อนไปทางซ้ายและขวาเพื่อสลับระหว่างมัสยิดที่คุณชื่นชอบได้",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Next prayer indicator",
+    "tutorial_title_countdown": "ตัวบ่งชี้การอธิษฐานถัดไป",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "This countdown shows you the time remaining before the next prayer.",
+    "tutorial_text_countdown": "ตัวนับถอยหลังนี้แสดงเวลาที่เหลืออยู่ก่อนถึงเวลาละหมาดครั้งต่อไป",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Mosque Information",
+    "tutorial_title_mosque_info": "ข้อมูลมัสยิด",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Everything about your Mosque: Facilities, Address, Phone, Mail, Donation, and more.",
+    "tutorial_text_mosque_info": "ข้อมูลทุกอย่างเกี่ยวกับมัสยิดของคุณ: สิ่งอำนวยความสะดวก ที่อยู่ เบอร์โทรศัพท์ จดหมาย การบริจาค และอื่นๆ",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "Mosque messages and announcements",
+    "tutorial_title_announcements": "ข้อความและประกาศจากมัสยิด",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Notifications about messages and announcements from your mosque will show up here.\nWhen you tap this button, you will see the full details. These announcements can be a Flash message, an Image, or even a Video.",
+    "tutorial_text_announcements": "ข้อความและประกาศจากมัสยิดของคุณจะปรากฏที่นี่\nเมื่อคุณแตะปุ่มนี้ คุณจะเห็นรายละเอียดทั้งหมด ประกาศเหล่านี้อาจเป็นข้อความแฟลช รูปภาพ หรือแม้แต่วิดีโอ",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_1": "Select your language",
+    "onboarding_title_1": "เลือกภาษาของคุณ",
     "@onboarding_title_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_1": "Select your preferred language from the list below",
+    "onboarding_text_1": "เลือกภาษาที่คุณต้องการจากรายการด้านล่าง",
     "@onboarding_text_1": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_2": "Welcome to MAWAQIT",
+    "onboarding_title_2": "ยินดีต้อนรับสู่ MAWAQIT",
     "@onboarding_title_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT is an ecosystem that offers you a new way to track and manage prayer times, the application in your hands is part of this ecosystem, it allows you to find mosques and follow its news and prayer times",
+    "onboarding_text_2": "MAWAQIT คือระบบนิเวศที่นำเสนอวิธีการใหม่ในการติดตามและจัดการเวลาละหมาด แอปพลิเคชันในมือคุณเป็นส่วนหนึ่งของระบบนิเวศนี้ ช่วยให้คุณค้นหามัสยิด ติดตามข่าวสาร และเวลาละหมาดได้",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
@@ -551,7 +551,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Whether you are in a low-light environment or prefer darker background colors on your phone, you can take advantage of Dark mode for improved visual comfort",
+    "onboarding_text_3": "ไม่ว่าคุณจะอยู่ในสภาพแวดล้อมที่มีแสงน้อยหรือชอบสีพื้นหลังที่เข้มกว่าบนโทรศัพท์ของคุณ คุณก็สามารถใช้โหมดมืดเพื่อเพิ่มความสบายตาได้",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
@@ -561,142 +561,142 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Please pick your main mosque from the list below or search for a mosque near your current location",
+    "onboarding_text_4": "โปรดเลือกมัสยิดหลักของคุณจากรายการด้านล่าง หรือค้นหามัสยิดที่อยู่ใกล้กับตำแหน่งปัจจุบันของคุณ",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
     },
-    "loading": "Loading",
+    "loading": "กำลังโหลด",
     "@loading": {
         "description": "_",
         "type": "text"
     },
-    "loading_please_wait": "Loading... Please wait",
+    "loading_please_wait": "กำลังโหลด... โปรดรอสักครู่",
     "@loading_please_wait": {
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Loading complete",
+    "loading_loaded": "กำลังโหลดเสร็จสมบูรณ์",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
     },
-    "favorites_edit": "Edit Favorite Mosques",
+    "favorites_edit": "แก้ไขมัสยิดที่ชื่นชอบ",
     "@favorites_edit": {
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minutes to athan",
+    "minutes_to_athan": "นาทีถึงอาธาน",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Review the tutorial",
+    "show_tutorial": "ทบทวนบทช่วยสอน",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_chose_mosque_please": "Please choose a mosque from the search list",
+    "onboarding_chose_mosque_please": "โปรดเลือกมัสยิดจากรายการที่ค้นหา",
     "@onboarding_chose_mosque_please": {
         "description": "_",
         "type": "text"
     },
-    "done": "Done",
+    "done": "เสร็จแล้ว",
     "@done": {
         "description": "_",
         "type": "text"
     },
-    "ok": "OK",
+    "ok": "ตกลง",
     "@ok": {
         "description": "_",
         "type": "text"
     },
-    "km": "km",
+    "km": "กม",
     "@km": {
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_title": "Open the app",
+    "notification_open_app_title": "เปิดแอป",
     "@notification_open_app_title": {
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Please open the app to maintain notifications",
+    "notification_open_app_body": "โปรดเปิดแอปเพื่อรับการแจ้งเตือน",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Select a prayer notification",
+    "tutorial_title_notification": "เลือกการแจ้งเตือนคำอธิษฐาน",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "ที่นี่คุณสามารถเลือกประเภทการแจ้งเตือนได้ ไม่ว่าจะเป็นเสียงอะซาน เสียงบี๊บ หรือแบบเงียบ",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Become a MAWAQIT ambassador and offer our solution to your mosque, it's free\nhttps://mawaqit.net",
+    "search_no_result": "ร่วมเป็นทูตของ MAWAQIT และนำเสนอโซลูชันของเราให้แก่มัสยิดของคุณ ไม่มีค่าใช้จ่าย\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_title": "Rate MAWAQIT",
+    "rate_popin_title": "ให้คะแนน MAWAQIT",
     "@rate_popin_title": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "If you like this app, please take a little bit of your time to review it !\nIt really helps us.",
+    "rate_popin_message": "หากคุณชอบแอปนี้ โปรดสละเวลาสักเล็กน้อยเพื่อเขียนรีวิวให้เราด้วย!\nมันช่วยเราได้มากจริงๆ",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "RATE",
+    "rate_popin_rate": "ประเมิน",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_no": "NO THANKS",
+    "rate_popin_no": "ไม่ ขอบคุณ",
     "@rate_popin_no": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_later": "MAYBE LATER",
+    "rate_popin_later": "อาจจะทีหลัง",
     "@rate_popin_later": {
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "You can view all messages from this mosque by clicking on the speaker at the top of the screen.",
+    "message_see_all": "คุณสามารถดูข้อความทั้งหมดจากมัสยิดนี้ได้โดยคลิกที่ไอคอนลำโพงที่ด้านบนของหน้าจอ",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Makkah",
+    "adhan_Makkah": "มักกะห์",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "อิคามะ",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "ที่นี่คุณจะพบระยะเวลาระหว่างอะซานและอิกอมะฮ์ที่มัสยิด",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
     },
-    "calendar_tooltip_download": "Download calendar",
+    "calendar_tooltip_download": "ดาวน์โหลดปฏิทิน",
     "@calendar_tooltip_download": {
         "description": "_",
         "type": "text"
     },
-    "calendar_download_permission_refused": "Download permission refused definitely, please allow download",
+    "calendar_download_permission_refused": "ไม่อนุญาตให้ดาวน์โหลด โปรดอนุญาตการดาวน์โหลด",
     "@calendar_download_permission_refused": {
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Downloading calendar...",
+    "calendar_downloading": "กำลังดาวน์โหลดปฏิทิน...",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
@@ -706,65 +706,65 @@
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied": "Location Permission Denied, please allow it.",
+    "location_permission_denied": "ไม่ได้รับอนุญาตให้เข้าถึงตำแหน่งที่ตั้ง โปรดอนุญาต",
     "@location_permission_denied": {
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Location Permission Denied Forever, please allow it in the settings page.",
+    "location_permission_denied_forever": "การอนุญาตการเข้าถึงตำแหน่งที่ตั้งถูกปฏิเสธตลอดไป โปรดอนุญาตในหน้าการตั้งค่า",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "You should have at least one mosque.",
-    "and": "and",
-    "continue_to_app": "Continue",
-    "add": "Add",
-    "mosque": "Mosque",
-    "on_boarding_nearest_mosque": "Lets find the nearest mosque",
-    "on_boarding_nearest_mosque_text": "Here are the mosques found around you according to your geolocation",
-    "search_no_result_for_text": "We did not find any result for",
-    "surah_audio_downloading": "Surah Audio Downloading...",
+    "at_least_one_mosque_error": "คุณควรมีมัสยิดอย่างน้อยหนึ่งแห่ง",
+    "and": "และ",
+    "continue_to_app": "ดำเนินการต่อ",
+    "add": "เพิ่ม",
+    "mosque": "มัสยิด",
+    "on_boarding_nearest_mosque": "ไปหามัสยิดที่ใกล้ที่สุดกันเถอะ",
+    "on_boarding_nearest_mosque_text": "นี่คือมัสยิดที่พบอยู่รอบตัวคุณตามตำแหน่งทางภูมิศาสตร์ของคุณ",
+    "search_no_result_for_text": "เราไม่พบผลลัพธ์ใดๆ",
+    "surah_audio_downloading": "กำลังดาวน์โหลดไฟล์เสียงซูเราะห์...",
     "msg_internet_connection": "You don't have any internet connection",
-    "read_quran": "Read Quran",
-    "ayahs": "Ayahs",
-    "chapter": "Surah",
-    "meaning": "Meaning",
-    "al_quran": "Al Quran",
-    "surah_information": "Surah Information",
-    "surah_number": "Surah Number",
-    "quran_browsing": "Browsing",
-    "quran_search_placeholder": "Search by name of surah, number...",
-    "quran_verse_search": "Verse search",
-    "quran_translation": "Translation",
-    "quran_mushaf": "Mushaf",
-    "quran_juzz": "Juzz",
-    "ayah": "Ayah",
-    "quran_verses": "Verses",
-    "surah": "Surah",
-    "continue_reading": "Continue reading",
-    "bookmarks": "Bookmarks",
-    "juzz": "Juzz",
-    "quran_page": "Page",
-    "quran_turning_page": "Turning page",
-    "quran_from_right_to_left": "From right to left",
-    "quran_from_left_to_right": "From left to right",
-    "quran_from_top_to_bottom": "From top to bottom",
-    "quran_from_bottom_to_top": "From bottom to top",
-    "quran_pages_color": "Pages color",
-    "english_tr": "English",
-    "french_tr": "French",
-    "spanish_tr": "Spanish",
-    "muhammad_hamidullah": "Muhammad Hamidullah",
-    "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
-    "sheikh_isa_garcia": "Sheikh Isa Garcia",
-    "reciters": "Reciters",
-    "favorite_reciters": "Favorite reciters",
-    "surahs_downloaded": "Surahs downloaded",
-    "surahs_chapter": "Surahs - Chapter",
-    "my_likes": "My Likes",
-    "cancel": "Cancel",
-    "next": "Next",
+    "read_quran": "อ่านอัลกุรอาน",
+    "ayahs": "อายะห์",
+    "chapter": "ซูเราะห์",
+    "meaning": "ความหมาย",
+    "al_quran": "อัลกุรอาน",
+    "surah_information": "ข้อมูลซูเราะห์",
+    "surah_number": "หมายเลขซูเราะห์",
+    "quran_browsing": "การเรียกดู",
+    "quran_search_placeholder": "ค้นหาตามชื่อซูเราะห์ หมายเลข...",
+    "quran_verse_search": "ค้นหากลอน",
+    "quran_translation": "การแปล",
+    "quran_mushaf": "มูซาฟ",
+    "quran_juzz": "แจ๊ส",
+    "ayah": "อ๋อ.",
+    "quran_verses": "โองการ",
+    "surah": "ซูเราะห์",
+    "continue_reading": "อ่านต่อ",
+    "bookmarks": "บุ๊กมาร์ก",
+    "juzz": "แจ๊ส",
+    "quran_page": "หน้าหนังสือ",
+    "quran_turning_page": "กำลังพลิกหน้า",
+    "quran_from_right_to_left": "จากขวาไปซ้าย",
+    "quran_from_left_to_right": "จากซ้ายไปขวา",
+    "quran_from_top_to_bottom": "จากบนลงล่าง",
+    "quran_from_bottom_to_top": "จากล่างขึ้นบน",
+    "quran_pages_color": "สีของหน้า",
+    "english_tr": "ภาษาอังกฤษ",
+    "french_tr": "ภาษาฝรั่งเศส",
+    "spanish_tr": "สเปน",
+    "muhammad_hamidullah": "มูฮัมหมัด ฮามิดุลลาห์",
+    "abdullah_yusuf_ali": "อับดุลลาห์ ยูซุฟ อาลี",
+    "sheikh_isa_garcia": "เชค อิซา การ์เซีย",
+    "reciters": "ผู้อ่าน",
+    "favorite_reciters": "ผู้อ่านที่ชื่นชอบ",
+    "surahs_downloaded": "ดาวน์โหลด Surahs แล้ว",
+    "surahs_chapter": "ซูเราะห์ - บท",
+    "my_likes": "ความชอบของฉัน",
+    "cancel": "ยกเลิก",
+    "next": "ต่อไป",
     "search_surah": "Search Surah",
     "not_downloaded_recitation": "You have not downloaded any recitation yet.",
     "not_favorite_reciter": "You have not marked any reciter favorite yet.",
@@ -1205,45 +1205,45 @@
     "most_widespread_riwayah": "ริวายะห์ที่แพร่หลายที่สุดทั่วโลก",
     "warsh_an_nafi": "วอร์ช อัน นาฟิ",
     "popular_across_north_west_africa": "เป็นที่นิยมทั่วแอฟริกาเหนือและตะวันตก",
-    "select": "Select",
-    "unknown_smartwatch": "สมาร์ตวอชที่ไม่รู้จัก",
-    "connected_watch": "นาฬิกาที่เชื่อมต่อแล้ว",
-    "ready_play_watch": "พร้อมเล่นบน นาฬิกาของคุณ",
-    "transliteration": "Transliteration",
-    "highlight_Tahajjud_Time": "Highlight Tahajjud Time",
+    "select": "เลือก",
+    "unknown_smartwatch": "สมาร์ทวอทช์ที่ไม่รู้จัก",
+    "connected_watch": "เชื่อมต่อนาฬิกาแล้ว",
+    "ready_play_watch": "พร้อมเล่นบนนาฬิกาของคุณแล้ว",
+    "transliteration": "การทับศัพท์",
+    "highlight_Tahajjud_Time": "เน้นเวลาละหมาดตะฮัจญุด",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
-    "calendar_access_not_available": "Calendar access is not available.",
-    "calendar_allow_access_mawaqit": "Please allow calendar access to show your events on MAWAQIT 360.",
-    "calendar_access_required": "Calendar access is required to show your events.",
-    "calendar_allow_access_button": "Allow calendar access",
-    "calendar_loading": "Loading calendars…",
-    "calendar_select_for_mawaqit": "Select the calendars you want to display on MAWAQIT 360.",
-    "calendar_enable_all": "Enable all",
-    "calendar_disable_all": "Disable all",
-    "calendar_other_calendars": "Other calendars",
-    "calendar_times_shown_in": "Times shown in",
-    "calendar_starts_on": "Starts on",
-    "calendar_ends_on": "Ends on",
-    "calendar_events_at_this_time": "Events at this time",
-    "hamza_roberto_piccardo": "Hamza Roberto Piccardo",
+    "calendar_access_not_available": "ไม่สามารถเข้าถึงปฏิทินได้",
+    "calendar_allow_access_mawaqit": "โปรดอนุญาตการเข้าถึงปฏิทินเพื่อแสดงกิจกรรมของคุณบน MAWAQIT 360",
+    "calendar_access_required": "จำเป็นต้องเข้าถึงปฏิทินเพื่อดูเหตุการณ์ของคุณ",
+    "calendar_allow_access_button": "อนุญาตให้เข้าถึงปฏิทิน",
+    "calendar_loading": "กำลังโหลดปฏิทิน…",
+    "calendar_select_for_mawaqit": "เลือกปฏิทินที่คุณต้องการแสดงบน MAWAQIT 360",
+    "calendar_enable_all": "เปิดใช้งานทั้งหมด",
+    "calendar_disable_all": "ปิดการใช้งานทั้งหมด",
+    "calendar_other_calendars": "ปฏิทินอื่นๆ",
+    "calendar_times_shown_in": "เวลาที่แสดงใน",
+    "calendar_starts_on": "เริ่มเมื่อ",
+    "calendar_ends_on": "สิ้นสุดเมื่อ",
+    "calendar_events_at_this_time": "เหตุการณ์ที่เกิดขึ้นในเวลานี้",
+    "hamza_roberto_piccardo": "ฮัมซา โรแบร์โต ปิคคาร์โด",
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
-    "open_in_mawaqit_app": "Open this mosque in MAWAQIT app",
-    "mosque_name": "Mosque name",
-    "mosque_not_found": "Mosque not found",
-    "invalid_mosque_link": "Invalid mosque link",
-    "not_open_mosque_link": "Could not open this mosque link. Please try again.",
-    "no_calendars_on_this_device": "No calendars found on this device.",
-    "calendar_event_at_this_time": "Event at this time",
+    "open_in_mawaqit_app": "เปิดมัสยิดนี้ในแอป MAWAQIT",
+    "mosque_name": "ชื่อมัสยิด",
+    "mosque_not_found": "ไม่พบมัสยิด",
+    "invalid_mosque_link": "ลิงก์มัสยิดไม่ถูกต้อง",
+    "not_open_mosque_link": "ไม่สามารถเปิดลิงก์มัสยิดนี้ได้ โปรดลองใหม่อีกครั้ง",
+    "no_calendars_on_this_device": "ไม่พบปฏิทินใดๆ ในอุปกรณ์นี้",
+    "calendar_event_at_this_time": "เหตุการณ์ในครั้งนี้",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Search by Ayah or Surah",
-    "matching_surahs": "Matching Surahs",
-    "matching_ayahs": "Matching Ayahs",
+    "search_ayah_surah": "ค้นหาตามอายะห์หรือซูเราะห์",
+    "matching_surahs": "ซูเราะห์ที่ตรงกัน",
+    "matching_ayahs": "การจับคู่พี่เลี้ยงเด็ก",
     "live_timer": "ตัวจับเวลาสด",
     "@live_timer": {
         "description": "live_timer"
@@ -1252,226 +1252,226 @@
     "@notify_before": {
         "description": "notify_before"
     },
-    "take_time_appear_watch": "It may take a few seconds to appear on your watch.",
-    "eid1": "Eid",
-    "hide_live_activity_for_prayer": "Hide live activity for this prayer only",
+    "take_time_appear_watch": "อาจใช้เวลาสักครู่จึงจะปรากฏบนนาฬิกาของคุณ",
+    "eid1": "วันอีด",
+    "hide_live_activity_for_prayer": "ซ่อนกิจกรรมสดสำหรับคำอธิษฐานนี้เท่านั้น",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "settings": "Settings",
+    "settings": "การตั้งค่า",
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Azkar",
+    "azkar": "อย่างรวดเร็ว",
     "@azkar": {
         "description": "-> azkar"
     },
-    "quran_tajweed": "Qur’an Tajwīd",
-    "tajweed_description": "Color-coded tajwīd rules for correct recitation",
-    "tajwid_rules": "Tajwid rules",
-    "examples": "Examples",
-    "real_time_weather": "Real-Time Weather",
-    "layout": "Layout",
-    "list": "List",
-    "grid": "Grid",
-    "real_time_weather_needs_internet": "Real-time weather needs an internet connection to download updates.",
-    "view_detail": "View detail",
-    "temperature": "Temperature",
-    "tahajjud_time": "Tahajjud Time",
-    "last_third": "Last third",
-    "midnight": "Midnight",
-    "failed_to_update": "Failed to update.",
-    "tap_to_retry": "Tap to retry",
-    "support_mawaqit_association": "Support the MAWAQIT Association",
-    "help_improve_mawaqit": "Help improve MAWAQIT",
-    "analytics_description": "Allow anonymous usage analysis to help us improve the app. No personal data. Never shared.",
-    "weather_clear": "Clear",
-    "weather_clouds": "Clouds",
-    "weather_tornado": "Tornado",
-    "weather_ash": "Ash",
-    "weather_dust": "Dust",
-    "weather_sand": "Sand",
-    "weather_fog": "Fog",
-    "weather_haze": "Haze",
-    "weather_smoke": "Smoke",
-    "weather_mist": "Mist",
-    "weather_snow": "Snow",
-    "weather_rain": "Rain",
-    "weather_drizzle": "Drizzle",
-    "weather_thunderstorm": "Thunderstorm",
-    "weather_squall": "Squall",
-    "weather_celsius": "°C",
-    "animated_background": "Animated background",
-    "weather": "Weather",
-    "weather_need_internet": "This feature needs an internet connection to download updates.",
-    "weather_light_rain": "Light rain",
-    "edit": "Edit",
-    "iqama_countdown": "Iqama countdown",
-    "next_prayer_countdown": "Next prayer countdown",
+    "quran_tajweed": "การอ่านอัลกุรอานตามหลักตัจวีด",
+    "tajweed_description": "กฎตัจวีดแบบใช้รหัสสีเพื่อการอ่านที่ถูกต้อง",
+    "tajwid_rules": "กฎของทัจวีด",
+    "examples": "ตัวอย่าง",
+    "real_time_weather": "สภาพอากาศแบบเรียลไทม์",
+    "layout": "สภาพอากาศแบบเรียลไทม์",
+    "list": "รายการ",
+    "grid": "กริด",
+    "real_time_weather_needs_internet": "การดูสภาพอากาศแบบเรียลไทม์จำเป็นต้องใช้การเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดข้อมูลอัปเดต",
+    "view_detail": "ดูรายละเอียด",
+    "temperature": "อุณหภูมิ",
+    "tahajjud_time": "เวลาตะฮัจญุด",
+    "last_third": "ที่สามสุดท้าย",
+    "midnight": "เที่ยงคืน",
+    "failed_to_update": "การอัปเดตล้มเหลว",
+    "tap_to_retry": "การอัปเดตล้มเหลว",
+    "support_mawaqit_association": "สนับสนุนสมาคม MAWAQIT",
+    "help_improve_mawaqit": "ช่วยปรับปรุง MAWAQIT ให้ดียิ่งขึ้น",
+    "analytics_description": "อนุญาตให้วิเคราะห์การใช้งานแบบไม่ระบุตัวตนเพื่อช่วยเราปรับปรุงแอป ไม่มีข้อมูลส่วนบุคคล ไม่มีการแชร์ข้อมูลใดๆ ทั้งสิ้น",
+    "weather_clear": "ชัดเจน",
+    "weather_clouds": "เมฆ",
+    "weather_tornado": "ทอร์นาโด",
+    "weather_ash": "เถ้า",
+    "weather_dust": "ฝุ่น",
+    "weather_sand": "ทราย",
+    "weather_fog": "หมอก",
+    "weather_haze": "หมอก",
+    "weather_smoke": "ควัน",
+    "weather_mist": "หมอก",
+    "weather_snow": "หิมะ",
+    "weather_rain": "ฝน",
+    "weather_drizzle": "ฝนตกปรอยๆ",
+    "weather_thunderstorm": "พายุฝนฟ้าคะนอง",
+    "weather_squall": "สควอลล์",
+    "weather_celsius": "องศาเซลเซียส",
+    "animated_background": "พื้นหลังเคลื่อนไหว",
+    "weather": "สภาพอากาศ",
+    "weather_need_internet": "ฟังก์ชันนี้จำเป็นต้องใช้การเชื่อมต่ออินเทอร์เน็ตเพื่อดาวน์โหลดการอัปเดต",
+    "weather_light_rain": "ฝนตกปรอยๆ",
+    "edit": "แก้ไข",
+    "iqama_countdown": "นับถอยหลังสู่การได้รับอิคามา",
+    "next_prayer_countdown": "นับถอยหลังสวดมนต์ต่อไป",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
     },
-    "next_prayer": "Next Prayer",
-    "live_countdown_for_all_pray": "Live countdown will be active for all prayers, showing a timer for each upcoming prayer automatically.",
-    "live_countdown": "Live countdown",
-    "quick_quran_reading_access": "Quick Quran reading access",
-    "quick_quran_discription": "Once you open the Quran tab, continue where you left off.",
-    "live_activity_tooltip": "Live Activities appear on your Lock Screen and Dynamic Island (if supported). When enabled, a live timer shows the countdown to the next prayer or iqama.",
-    "prayer": "Prayer",
+    "next_prayer": "คำอธิษฐานถัดไป",
+    "live_countdown_for_all_pray": "ระบบจะเปิดใช้งานการนับถอยหลังแบบเรียลไทม์สำหรับทุกการละหมาด โดยจะแสดงตัวจับเวลาสำหรับการละหมาดแต่ละครั้งที่จะเกิดขึ้นโดยอัตโนมัติ",
+    "live_countdown": "นับถอยหลังสด",
+    "quick_quran_reading_access": "เข้าถึงการอ่านอัลกุรอานได้อย่างรวดเร็ว",
+    "quick_quran_discription": "เมื่อคุณเปิดแท็บอัลกุรอานแล้ว ให้ดำเนินการต่อจากจุดที่คุณหยุดไว้",
+    "live_activity_tooltip": "กิจกรรมแบบเรียลไทม์จะปรากฏบนหน้าจอล็อกและ Dynamic Island (หากรองรับ) เมื่อเปิดใช้งาน ตัวจับเวลาแบบเรียลไทม์จะแสดงการนับถอยหลังไปยังการละหมาดหรืออิกอมะฮ์ครั้งถัดไป",
+    "prayer": "คำอธิษฐาน",
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
         "description": "-> weather_fahrenheit"
     },
-    "weather_your_location": "Shows weather for your location, not the mosque.",
-    "view_360_currently_selected": "360 View is currently selected",
-    "tap_change_layout": "Tap here to change the layout",
-    "step": "Step",
+    "weather_your_location": "แสดงสภาพอากาศสำหรับตำแหน่งของคุณ ไม่ใช่สภาพอากาศของมัสยิด",
+    "view_360_currently_selected": "ขณะนี้ได้เลือกมุมมอง 360 องศาแล้ว",
+    "tap_change_layout": "แตะที่นี่เพื่อเปลี่ยนรูปแบบการแสดงผล",
+    "step": "ขั้นตอน",
     "@step": {
         "description": "-> step"
     },
-    "jump_to_page": "Jump to page",
-    "select_surah": "Select Surah",
-    "please_select_surah": "Please select a surah",
-    "ayah_number": "Ayah Number",
-    "ayah_num_greater_zero": "Ayah number must be greater than 0",
-    "ayah_number_exceeds_max": "Ayah number exceeds maximum for this surah",
-    "update_page": "Update page",
-    "enter_ayah_num": "Enter Ayah num",
-    "help": "Help",
+    "jump_to_page": "ข้ามไปที่หน้า",
+    "select_surah": "เลือกซูเราะห์",
+    "please_select_surah": "โปรดเลือกซูเราะห์หนึ่งบท",
+    "ayah_number": "เบอร์พ่อ",
+    "ayah_num_greater_zero": "หมายเลขอายะห์ต้องมากกว่า 0",
+    "ayah_number_exceeds_max": "หมายเลขอายะห์เกินจำนวนสูงสุดสำหรับซูเราะห์นี้",
+    "update_page": "อัพเดทเพจ",
+    "enter_ayah_num": "ใส่หมายเลขพ่อ",
+    "help": "ช่วย",
     "@help": {
         "description": "-> help"
     },
-    "sofian_s_siregar": "Sofian S. Siregar",
+    "sofian_s_siregar": "โซฟิอัน เอส. ซิเรการ์",
     "@sofian_s_siregar": {
         "description": "-> sofian_s_siregar"
     },
-    "download_all_surahs": "Download all surahs",
+    "download_all_surahs": "ดาวน์โหลดซูเราะห์ทั้งหมด",
     "@download_all_surahs": {
         "description": "download_all_surahs"
     },
-    "this_will_download_all_surahs_for_offline": "This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.",
+    "this_will_download_all_surahs_for_offline": "การดำเนินการนี้จะดาวน์โหลดซูเราะห์ทั้งหมดเพื่อฟังแบบออฟไลน์ โปรดตรวจสอบให้แน่ใจว่าคุณเชื่อมต่อกับ Wi-Fi ก่อนดำเนินการต่อ",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     },
-    "tap_change_notification": "Tap to change notification",
-    "adhan_at": "อะซาน ที่",
-    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
-    "semantic_open_notifications": "Open notifications",
-    "semantic_tap_to_change_notification": "Tap to change notification settings",
-    "semantic_edit_mosques": "Open to edit your mosques",
-    "semantic_change_layout": "Change home layout",
-    "semantic_open_layout_menu": "open layout menu",
-    "semantic_edit_home_settings": "Edit home settings",
-    "semantic_list_layout": "List layout",
-    "semantic_grid_layout": "Grid layout",
-    "sematnic_360_clock_layout": "360 clock layout",
-    "semantic_layout_menu_open": "Layout menu open",
-    "close": "Close",
-    "semantic_mosque_page": "Mosque page",
-    "semantic_of": "of",
-    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
-    "back": "Back",
-    "semantic_download_all_surahs_for_offline_listening": "Download all surahs for offline listening",
+    "tap_change_notification": "แตะเพื่อเปลี่ยนการแจ้งเตือน",
+    "adhan_at": "อาธาน และ",
+    "semantic_mawaqit_notification": "การแจ้งเตือนที่ยังไม่ได้อ่านจาก MAWAQIT",
+    "semantic_open_notifications": "เปิดการแจ้งเตือน",
+    "semantic_tap_to_change_notification": "แตะเพื่อเปลี่ยนการตั้งค่าการแจ้งเตือน",
+    "semantic_edit_mosques": "เปิดให้แก้ไขข้อมูลมัสยิดของคุณ",
+    "semantic_change_layout": "เปลี่ยนผังบ้าน",
+    "semantic_open_layout_menu": "เปิดเมนูเค้าโครง",
+    "semantic_edit_home_settings": "แก้ไขการตั้งค่าบ้าน",
+    "semantic_list_layout": "เค้าโครงรายการ",
+    "semantic_grid_layout": "เค้าโครงตาราง",
+    "sematnic_360_clock_layout": "รูปแบบนาฬิกา 360 องศา",
+    "semantic_layout_menu_open": "เมนูเค้าโครงเปิดอยู่",
+    "close": "ปิด",
+    "semantic_mosque_page": "หน้ามัสยิด",
+    "semantic_of": "ของ",
+    "semantic_unread_mawaqit_notifications": "การแจ้งเตือน Mawaqit ที่ยังไม่ได้อ่าน",
+    "back": "กลับ",
+    "semantic_download_all_surahs_for_offline_listening": "ดาวน์โหลดซูเราะห์ทั้งหมดเพื่อฟังแบบออฟไลน์",
     "@semantic_download_all_surahs_for_offline_listening": {
         "description": "-> semantic_download_all_surahs_for_offline_listening"
     },
-    "semantic_download_all_surahs": "Download all surahs",
+    "semantic_download_all_surahs": "ดาวน์โหลดซูเราะห์ทั้งหมด",
     "@semantic_download_all_surahs": {
         "description": "-> semantic_download_all_surahs"
     },
-    "semantic_bulk_download_progress": "Bulk download progress",
+    "semantic_bulk_download_progress": "ความคืบหน้าการดาวน์โหลดจำนวนมาก",
     "@semantic_bulk_download_progress": {
         "description": "-> semantic_bulk_download_progress"
     },
-    "semantic_surahs_downloaded": "surahs downloaded",
+    "semantic_surahs_downloaded": "ดาวน์โหลดซูเราะห์",
     "@semantic_surahs_downloaded": {
         "description": "-> semantic_surahs_downloaded"
     },
-    "semantic_cancel_download_all_surahs": "Cancel download all surahs",
+    "semantic_cancel_download_all_surahs": "ยกเลิกการดาวน์โหลดซูเราะห์ทั้งหมด",
     "@semantic_cancel_download_all_surahs": {
         "description": "-> semantic_cancel_download_all_surahs"
     },
-    "semantic_bulk_download_in_progress": "Bulk download in progress.",
+    "semantic_bulk_download_in_progress": "กำลังดาวน์โหลดข้อมูลจำนวนมาก",
     "@semantic_bulk_download_in_progress": {
         "description": "-> "
     },
-    "semantic_replay_current_surah": "Replay current surah",
+    "semantic_replay_current_surah": "เล่นซูเราะห์ปัจจุบันซ้ำ",
     "@semantic_replay_current_surah": {
         "description": "-> semantic_replay_current_surah"
     },
-    "semantic_pause_current_surah": "Pause current surah",
+    "semantic_pause_current_surah": "หยุดซูเราะห์ปัจจุบันไว้ก่อน",
     "@semantic_pause_current_surah": {
         "description": "-> semantic_pause_current_surah"
     },
-    "semantic_play_current_surah": "Play current surah",
+    "semantic_play_current_surah": "เล่นซูเราะห์ปัจจุบัน",
     "@semantic_play_current_surah": {
         "description": "-> semantic_play_current_surah"
     },
-    "semantic_open_play_on_watch_options_for": "Open play on watch options for",
+    "semantic_open_play_on_watch_options_for": "เปิดใช้งานการเล่นบนตัวเลือกการรับชมสำหรับ",
     "@semantic_open_play_on_watch_options_for": {
         "description": "-> semantic_open_play_on_watch_options_for"
     },
-    "semantic_now_playing_surah": "Now playing. Surah",
+    "semantic_now_playing_surah": "กำลังเล่น. ซูเราะห์",
     "@semantic_now_playing_surah": {
         "description": "-> semantic_now_playing_surah"
     },
-    "semantic_recited_by": "Recited by",
+    "semantic_recited_by": "ท่องโดย",
     "@semantic_recited_by": {
         "description": "-> semantic_recited_by"
     },
-    "semantic_minimize_player": "Minimize player",
+    "semantic_minimize_player": "ย่อขนาดเครื่องเล่น",
     "@semantic_minimize_player": {
         "description": "-> semantic_minimize_player"
     },
-    "semantic_elapsed": "Elapsed",
+    "semantic_elapsed": "ผ่านไปแล้ว",
     "@semantic_elapsed": {
         "description": "-> "
     },
-    "semantic_playback_time_elapsed": "Playback time. Elapsed",
+    "semantic_playback_time_elapsed": "เวลาเล่น. ผ่านไปแล้ว",
     "@semantic_playback_time_elapsed": {
         "description": "-> semantic_playback_time_elapsed"
     },
-    "semantic_remaining": "Remaining",
+    "semantic_remaining": "ที่เหลืออยู่",
     "@semantic_remaining": {
         "description": "-> semantic_remaining"
     },
-    "semantic_turn_shuffle_off": "Turn shuffle off",
+    "semantic_turn_shuffle_off": "ปิดการสับเปลี่ยน",
     "@semantic_turn_shuffle_off": {
         "description": "-> semantic_turn_shuffle_off"
     },
-    "semantic_turn_shuffle_on": "Turn shuffle on",
+    "semantic_turn_shuffle_on": "เปิดสุ่มเพลง",
     "@semantic_turn_shuffle_on": {
         "description": "-> semantic_turn_shuffle_on"
     },
-    "semantic_previous_surah": "Previous surah",
+    "semantic_previous_surah": "ซูเราะห์ก่อนหน้า",
     "@semantic_previous_surah": {
         "description": "-> semantic_previous_surah"
     },
-    "semantic_next_surah": "Next surah",
+    "semantic_next_surah": "ซูเราะห์ต่อไป",
     "@semantic_next_surah": {
         "description": "-> semantic_next_surah"
     },
-    "semantic_turn_repeat_current_surah_off": "Turn repeat current surah off",
+    "semantic_turn_repeat_current_surah_off": "ปิดการเล่นซ้ำซูเราะห์ปัจจุบัน",
     "@semantic_turn_repeat_current_surah_off": {
         "description": "-> semantic_turn_repeat_current_surah_off"
     },
-    "semantic_turn_repeat_current_surah_on": "Turn repeat current surah on",
+    "semantic_turn_repeat_current_surah_on": "เปิดใช้งานการเล่นซ้ำซูเราะห์ปัจจุบัน",
     "@semantic_turn_repeat_current_surah_on": {
         "description": "-> semantic_turn_repeat_current_surah_on"
     },
-    "semantic_pause": "Pause",
+    "semantic_pause": "หยุดชั่วคราว",
     "@semantic_pause": {
         "description": "-> semantic_pause"
     },
-    "semantic_use_current_location": "Use current location",
-    "semantic_collapse_mosque_list": "Collapse mosque list",
-    "semantic_expand_mosque_list": "Expand mosque list",
-    "added": "Added",
-    "not_added": "Not added",
-    "semantic_navigate_to_mosque": "Navigate to mosque",
-    "semantic_decrease_pre_notification": "Decrease pre-notification time",
-    "semantic_increase_pre_notification": "Increase pre-notification time",
-    "semantic_facing_qibla": "You are facing the Qibla",
+    "semantic_use_current_location": "ใช้ตำแหน่งปัจจุบัน",
+    "semantic_collapse_mosque_list": "ยุบรายชื่อมัสยิด",
+    "semantic_expand_mosque_list": "ขยายรายชื่อมัสยิด",
+    "added": "เพิ่มแล้ว",
+    "not_added": "ไม่ได้เพิ่ม",
+    "semantic_navigate_to_mosque": "นำทางไปยังมัสยิด",
+    "semantic_decrease_pre_notification": "ลดระยะเวลาการแจ้งล่วงหน้า",
+    "semantic_increase_pre_notification": "เพิ่มระยะเวลาการแจ้งล่วงหน้า",
+    "semantic_facing_qibla": "คุณหันหน้าไปทางทิศกิบลัต",
     "semantic_clockwise": "Clockwise",
     "sematnic_counter_clockwise": "counter-clockwise",
     "semantic_rotate_slightly": "Almost there. Rotate slightly",
@@ -1561,29 +1561,29 @@
     "semantic_ayah_list_actions": "Ayah list actions",
     "remove_bookmark": "Remove bookmark",
     "add_bookmark": "Add bookmark",
-    "selected": "selected",
-    "double_tap_to_continue": "Double tap to continue",
-    "clear_search": "Clear search",
-    "mosques_found": "mosques found",
-    "mosque_added": "Mosque added",
-    "mosque_removed": "Mosque removed",
-    "scroll_left_right_select_surah": "Scroll left or right to select a surah",
-    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
+    "selected": "เลือกแล้ว",
+    "double_tap_to_continue": "แตะสองครั้งเพื่อดำเนินการต่อ",
+    "clear_search": "ล้างการค้นหา",
+    "mosques_found": "พบมัสยิด",
+    "mosque_added": "เพิ่มมัสยิดแล้ว",
+    "mosque_removed": "มัสยิดถูกถอดออก",
+    "scroll_left_right_select_surah": "เลื่อนไปทางซ้ายหรือขวาเพื่อเลือกซูเราะห์",
+    "swipe_left_right_select_mushaf_type": "เลื่อนไปทางซ้ายหรือขวาเพื่อเลือกประเภทมุสฮัฟที่แตกต่างกัน",
     "location_permission_required": "จำเป็นต้องได้รับอนุญาตตำแหน่งที่ตั้ง",
-    "semantic_previous_month": "Previous month",
-    "semantic_next_month": "Next month",
-    "semantic_view_image": "View image",
+    "semantic_previous_month": "เดือนที่แล้ว",
+    "semantic_next_month": "เดือนหน้า",
+    "semantic_view_image": "ดูภาพ",
     "access_location_details": "เพื่อแสดงสภาพอากาศในพื้นที่อย่างแม่นยำ ทิศทางกิบลัต และข้อมูลมัสยิดตามตำแหน่งปัจจุบันของคุณ MAWAQIT จำเป็นต้องเข้าถึงตำแหน่งของคุณ คุณได้ปฏิเสธการอนุญาตนี้ก่อนหน้านี้",
-    "location_off": "ปิดตำแหน่งที่ตั้ง",
-    "semantic_pre_notification_time": "pre-notification time",
+    "location_off": "ปิดตำแหน่ง",
+    "semantic_pre_notification_time": "เวลาแจ้งล่วงหน้า",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "เราไม่สามารถแนะนำมัสยิดที่ใกล้ที่สุดได้ เนื่องจากการเข้าถึงตำแหน่งถูกปฏิเสธ กรุณาค้นหามัสยิดหรือเปิดใช้งานการอนุญาตตำแหน่ง",
-    "location": "Location",
-    "stop": "Stop",
-    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
-    "play_in_silent_mode": "Play in silent mode",
-    "notifications_not_arriving": "Notifications not arriving?",
-    "android_phones_aggressively": "Some Android phones aggressively close apps in the background."
+    "location": "ที่ตั้ง",
+    "stop": "หยุด",
+    "plays_adhan_prayer_arrives": "มีเสียงอะซานดังขึ้นเมื่อถึงเวลาละหมาด",
+    "play_in_silent_mode": "เล่นในโหมดเงียบ",
+    "notifications_not_arriving": "ไม่ได้รับการแจ้งเตือนใช่ไหม?",
+    "android_phones_aggressively": "โทรศัพท์ Android บางรุ่นปิดแอปที่ทำงานอยู่เบื้องหลังอย่างรวดเร็วและรุนแรง"
 }
