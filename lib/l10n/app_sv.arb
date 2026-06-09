@@ -1581,7 +1581,7 @@
     },
     "search_for_mosque_or_enable_location": "Vi kan inte hitta den närmaste moskén eftersom appen saknar åtkomst till din plats. Sök efter en moské eller aktivera platsåtkomst.",
     "location": "Plats",
-    "stop": "Stoppa",
+    "stop": "Stopp",
     "plays_adhan_prayer_arrives": "Spelar upp adhan när bönetiden börjar",
     "play_in_silent_mode": "Spela upp i tyst läge",
     "notifications_not_arriving": "Kommer inte aviseringarna fram?",
