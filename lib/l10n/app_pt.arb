@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1585,5 +1585,9 @@
     "plays_adhan_prayer_arrives": "Reproduz o adhan quando chega a hora da oração",
     "play_in_silent_mode": "Reproduzir no modo silencioso",
     "notifications_not_arriving": "As notificações não estão chegando?",
-    "android_phones_aggressively": "Alguns telefones Android fecham aplicativos em segundo plano de forma agressiva."
+    "android_phones_aggressively": "Alguns telefones Android fecham aplicativos em segundo plano de forma agressiva.",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    }
 }
