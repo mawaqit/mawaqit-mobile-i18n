@@ -1585,5 +1585,9 @@
     "plays_adhan_prayer_arrives": "มีเสียงอะซานดังขึ้นเมื่อถึงเวลาละหมาด",
     "play_in_silent_mode": "เล่นในโหมดเงียบ",
     "notifications_not_arriving": "ไม่ได้รับการแจ้งเตือนใช่ไหม?",
-    "android_phones_aggressively": "โทรศัพท์ Android บางรุ่นปิดแอปที่ทำงานอยู่เบื้องหลังอย่างรวดเร็วและรุนแรง"
+    "android_phones_aggressively": "โทรศัพท์ Android บางรุ่นปิดแอปที่ทำงานอยู่เบื้องหลังอย่างรวดเร็วและรุนแรง",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    }
 }
