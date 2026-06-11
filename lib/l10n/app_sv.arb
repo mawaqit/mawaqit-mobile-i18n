@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1585,5 +1585,9 @@
     "plays_adhan_prayer_arrives": "Spelar upp adhan när bönetiden börjar",
     "play_in_silent_mode": "Spela upp i tyst läge",
     "notifications_not_arriving": "Kommer inte aviseringarna fram?",
-    "android_phones_aggressively": "Vissa Android-telefoner stänger appar i bakgrunden väldigt aggressivt."
+    "android_phones_aggressively": "Vissa Android-telefoner stänger appar i bakgrunden väldigt aggressivt.",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    }
 }
