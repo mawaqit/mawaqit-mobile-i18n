@@ -2529,4 +2529,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get besim_korkut => 'เบซิม คอร์คุต';
+
+  @override
+  String get settings_language_bs => 'บอสเนีย';
 }

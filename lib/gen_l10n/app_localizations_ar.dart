@@ -2509,4 +2509,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get besim_korkut => 'بسيم كوركوت';
+
+  @override
+  String get settings_language_bs => 'البوسنية';
 }

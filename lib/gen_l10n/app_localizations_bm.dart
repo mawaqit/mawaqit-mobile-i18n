@@ -2538,4 +2538,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get besim_korkut => 'Besim Korkut';
+
+  @override
+  String get settings_language_bs => 'Bosnian';
 }

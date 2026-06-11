@@ -4933,6 +4933,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Besim Korkut'**
   String get besim_korkut;
+
+  /// No description provided for @settings_language_bs.
+  ///
+  /// In en, this message translates to:
+  /// **'Bosnian'**
+  String get settings_language_bs;
 }
 
 class _AppLocalizationsDelegate

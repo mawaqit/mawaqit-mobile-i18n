@@ -1593,5 +1593,6 @@
     "besim_korkut": "Besim Korkut",
     "@besim_korkut": {
         "description": "-> besim_korkut"
-    }
+    },
+    "settings_language_bs": "Bośniacki"
 }

@@ -2537,4 +2537,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get besim_korkut => 'بەسىم كوركۇت';
+
+  @override
+  String get settings_language_bs => 'بوسنىيەچە';
 }

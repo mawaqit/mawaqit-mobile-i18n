@@ -2537,4 +2537,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get besim_korkut => 'بیسم کورکوت';
+
+  @override
+  String get settings_language_bs => 'بوسنیائی';
 }
