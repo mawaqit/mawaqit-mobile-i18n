@@ -1585,5 +1585,13 @@
     "plays_adhan_prayer_arrives": "নামাজের সময় হলে আযান বাজায়",
     "play_in_silent_mode": "সাইলেন্ট মোডে চালান",
     "notifications_not_arriving": "নোটিফিকেশন আসছে না?",
-    "android_phones_aggressively": "কিছু অ্যান্ড্রয়েড ফোন ব্যাকগ্রাউন্ডে অ্যাপগুলো আক্রমণাত্মকভাবে বন্ধ করে দেয়।."
+    "android_phones_aggressively": "কিছু অ্যান্ড্রয়েড ফোন ব্যাকগ্রাউন্ডে অ্যাপগুলো আক্রমণাত্মকভাবে বন্ধ করে দেয়।.",
+    "elmir_kuliev": "এলমির কুলিয়েভ",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    },
+    "besim_korkut": "বেসিম কোরকুত",
+    "@besim_korkut": {
+        "description": "-> besim_korkut"
+    }
 }

@@ -2555,4 +2555,10 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Alcuni telefoni Android chiudono aggressivamente le app in background.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
+
+  @override
+  String get besim_korkut => 'Besim Korkut';
 }

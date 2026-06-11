@@ -2539,4 +2539,10 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Some Android phones aggressively close apps in the background.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
+
+  @override
+  String get besim_korkut => 'Besim Korkut';
 }

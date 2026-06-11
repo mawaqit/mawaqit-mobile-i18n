@@ -2546,4 +2546,10 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Sommige Android-telefoons sluiten apps op de achtergrond erg agressief.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
+
+  @override
+  String get besim_korkut => 'Besim Korkut';
 }

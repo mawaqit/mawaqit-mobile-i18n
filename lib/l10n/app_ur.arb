@@ -1585,5 +1585,13 @@
     "plays_adhan_prayer_arrives": "نماز کا وقت ہونے پر اذان چلاتا ہے",
     "play_in_silent_mode": "سائلنٹ موڈ میں چلائیں",
     "notifications_not_arriving": "نوٹیفیکیشنز نہیں آ رہے؟",
-    "android_phones_aggressively": "کچھ اینڈرائیڈ فونز بیک گراؤنڈ میں ایپس کو سختی سے بند کر دیتے ہیں۔."
+    "android_phones_aggressively": "کچھ اینڈرائیڈ فونز بیک گراؤنڈ میں ایپس کو سختی سے بند کر دیتے ہیں۔.",
+    "elmir_kuliev": "ایلمیر کولییف",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    },
+    "besim_korkut": "بیسم کورکوت",
+    "@besim_korkut": {
+        "description": "-> besim_korkut"
+    }
 }

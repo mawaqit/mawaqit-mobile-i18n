@@ -4921,6 +4921,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Some Android phones aggressively close apps in the background.'**
   String get android_phones_aggressively;
+
+  /// -> Elmir Kuliev
+  ///
+  /// In en, this message translates to:
+  /// **'Elmir Kuliev'**
+  String get elmir_kuliev;
+
+  /// -> besim_korkut
+  ///
+  /// In en, this message translates to:
+  /// **'Besim Korkut'**
+  String get besim_korkut;
 }
 
 class _AppLocalizationsDelegate

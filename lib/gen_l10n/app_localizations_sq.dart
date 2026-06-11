@@ -2546,4 +2546,10 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Disa telefona Android i mbyllin aplikacionet në sfond në mënyrë agresive.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
+
+  @override
+  String get besim_korkut => 'Besim Korkut';
 }

@@ -1585,5 +1585,13 @@
     "plays_adhan_prayer_arrives": "Reproduce el adhan cuando llega la hora de la oración",
     "play_in_silent_mode": "Reproducir en modo silencioso",
     "notifications_not_arriving": "¿Las notificaciones no llegan?",
-    "android_phones_aggressively": "Algunos teléfonos Android cierran las aplicaciones en segundo plano de forma agresiva."
+    "android_phones_aggressively": "Algunos teléfonos Android cierran las aplicaciones en segundo plano de forma agresiva.",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    },
+    "besim_korkut": "Besim Korkut",
+    "@besim_korkut": {
+        "description": "-> besim_korkut"
+    }
 }

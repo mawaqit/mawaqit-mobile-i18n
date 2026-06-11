@@ -2569,4 +2569,10 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Certains téléphones Android ferment agressivement les applications en arrière-plan.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
+
+  @override
+  String get besim_korkut => 'Besim Korkut';
 }

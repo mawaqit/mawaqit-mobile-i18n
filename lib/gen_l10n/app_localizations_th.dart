@@ -2523,4 +2523,10 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'โทรศัพท์ Android บางรุ่นปิดแอปที่ทำงานอยู่เบื้องหลังอย่างรวดเร็วและรุนแรง';
+
+  @override
+  String get elmir_kuliev => 'เอลมีร์ คูลิเยฟ';
+
+  @override
+  String get besim_korkut => 'เบซิม คอร์คุต';
 }
