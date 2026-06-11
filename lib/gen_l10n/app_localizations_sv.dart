@@ -2524,4 +2524,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Vissa Android-telefoner stänger appar i bakgrunden väldigt aggressivt.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
 }

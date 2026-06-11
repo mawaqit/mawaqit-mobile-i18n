@@ -2561,4 +2561,7 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Einige Android-Smartphones schließen Apps im Hintergrund sehr aggressiv.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
 }

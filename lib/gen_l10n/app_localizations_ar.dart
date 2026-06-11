@@ -2503,4 +2503,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'بعض هواتف أندرويد تغلق التطبيقات في الخلفية بشكل صارم.';
+
+  @override
+  String get elmir_kuliev => 'إلمير قولييف';
 }

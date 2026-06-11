@@ -2536,4 +2536,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Beberapa ponsel Android menutup aplikasi di latar belakang secara agresif.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
 }

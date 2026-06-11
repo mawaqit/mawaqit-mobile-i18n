@@ -2547,4 +2547,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Néhány Android telefon agresszívan bezárja a háttérben futó alkalmazásokat.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
 }

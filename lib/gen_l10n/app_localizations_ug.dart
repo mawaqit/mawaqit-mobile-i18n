@@ -2531,4 +2531,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'بەزى ئاندرويد تېلېفونلىرى ئارقا سۇپادىكى ئەپلەرنى قاتتىق تاقايدۇ.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
 }

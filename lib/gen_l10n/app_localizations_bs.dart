@@ -2538,4 +2538,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get android_phones_aggressively =>
       'Neki Android telefoni agresivno zatvaraju aplikacije u pozadini.';
+
+  @override
+  String get elmir_kuliev => 'Elmir Kuliev';
 }
