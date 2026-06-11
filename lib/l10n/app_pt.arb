@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1589,5 +1589,9 @@
     "elmir_kuliev": "Elmir Kuliev",
     "@elmir_kuliev": {
         "description": "-> Elmir Kuliev"
+    },
+    "besim_korkut": "Besim Korkut",
+    "@besim_korkut": {
+        "description": "-> besim_korkut"
     }
 }
