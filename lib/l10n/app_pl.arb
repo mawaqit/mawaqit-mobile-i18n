@@ -1585,5 +1585,9 @@
     "plays_adhan_prayer_arrives": "Odtwarza adhan, gdy nadejdzie czas modlitwy",
     "play_in_silent_mode": "Odtwarzaj w trybie cichym",
     "notifications_not_arriving": "Powiadomienia nie przychodzą?",
-    "android_phones_aggressively": "Niektóre telefony z Androidem agresywnie zamykają aplikacje działające w tle."
+    "android_phones_aggressively": "Niektóre telefony z Androidem agresywnie zamykają aplikacje działające w tle.",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    }
 }
