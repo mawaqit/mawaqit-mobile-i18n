@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1593,5 +1593,6 @@
     "besim_korkut": "Besim Korkut",
     "@besim_korkut": {
         "description": "-> besim_korkut"
-    }
+    },
+    "settings_language_bs": "Bósnio"
 }
