@@ -1585,5 +1585,9 @@
     "plays_adhan_prayer_arrives": "Speelt de adhan af wanneer het gebedstijd is",
     "play_in_silent_mode": "Im Lautlosmodus abspielen",
     "notifications_not_arriving": "Komen meldingen niet aan?",
-    "android_phones_aggressively": "Sommige Android-telefoons sluiten apps op de achtergrond erg agressief."
+    "android_phones_aggressively": "Sommige Android-telefoons sluiten apps op de achtergrond erg agressief.",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    }
 }
