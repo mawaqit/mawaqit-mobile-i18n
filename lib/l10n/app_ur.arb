@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1593,5 +1593,6 @@
     "besim_korkut": "بیسم کورکوت",
     "@besim_korkut": {
         "description": "-> besim_korkut"
-    }
+    },
+    "settings_language_bs": "بوسنیائی"
 }
