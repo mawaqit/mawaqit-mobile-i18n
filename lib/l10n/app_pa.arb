@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1585,5 +1585,9 @@
     "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "Play in silent mode",
     "notifications_not_arriving": "Notifications not arriving?",
-    "android_phones_aggressively": "Some Android phones aggressively close apps in the background."
+    "android_phones_aggressively": "Some Android phones aggressively close apps in the background.",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    }
 }
