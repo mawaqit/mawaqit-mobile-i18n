@@ -2542,5 +2542,8 @@ class AppLocalizationsRu extends AppLocalizations {
       'Некоторые телефоны Android агрессивно закрывают приложения в фоновом режиме.';
 
   @override
-  String get elmir_kuliev => 'Elmir Kuliev';
+  String get elmir_kuliev => 'Эльмир Кулиев';
+
+  @override
+  String get besim_korkut => 'Бесим Коркут';
 }

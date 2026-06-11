@@ -2506,4 +2506,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get elmir_kuliev => 'إلمير قولييف';
+
+  @override
+  String get besim_korkut => 'بسيم كوركوت';
 }

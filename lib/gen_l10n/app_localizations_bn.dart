@@ -2535,5 +2535,8 @@ class AppLocalizationsBn extends AppLocalizations {
       'কিছু অ্যান্ড্রয়েড ফোন ব্যাকগ্রাউন্ডে অ্যাপগুলো আক্রমণাত্মকভাবে বন্ধ করে দেয়।.';
 
   @override
-  String get elmir_kuliev => 'Elmir Kuliev';
+  String get elmir_kuliev => 'এলমির কুলিয়েভ';
+
+  @override
+  String get besim_korkut => 'বেসিম কোরকুত';
 }

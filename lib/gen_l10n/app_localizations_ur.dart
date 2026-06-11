@@ -2533,5 +2533,8 @@ class AppLocalizationsUr extends AppLocalizations {
       'کچھ اینڈرائیڈ فونز بیک گراؤنڈ میں ایپس کو سختی سے بند کر دیتے ہیں۔.';
 
   @override
-  String get elmir_kuliev => 'Elmir Kuliev';
+  String get elmir_kuliev => 'ایلمیر کولییف';
+
+  @override
+  String get besim_korkut => 'بیسم کورکوت';
 }

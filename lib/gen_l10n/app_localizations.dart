@@ -4927,6 +4927,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Elmir Kuliev'**
   String get elmir_kuliev;
+
+  /// -> besim_korkut
+  ///
+  /// In en, this message translates to:
+  /// **'Besim Korkut'**
+  String get besim_korkut;
 }
 
 class _AppLocalizationsDelegate

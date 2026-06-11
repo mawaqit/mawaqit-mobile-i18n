@@ -2537,4 +2537,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get elmir_kuliev => 'Elmir Kuliev';
+
+  @override
+  String get besim_korkut => 'Besim Korkut';
 }
