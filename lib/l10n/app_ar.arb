@@ -1593,5 +1593,6 @@
     "besim_korkut": "بسيم كوركوت",
     "@besim_korkut": {
         "description": "-> besim_korkut"
-    }
+    },
+    "settings_language_bs": "البوسنية"
 }
