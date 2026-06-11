@@ -2546,4 +2546,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get besim_korkut => 'Бесим Коркут';
+
+  @override
+  String get settings_language_bs => 'Боснийский';
 }
