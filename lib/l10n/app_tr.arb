@@ -1585,5 +1585,9 @@
     "plays_adhan_prayer_arrives": "Namaz vakti geldiğinde ezanı çalar",
     "play_in_silent_mode": "Sessiz modda çal",
     "notifications_not_arriving": "Bildirimler gelmiyor mu?",
-    "android_phones_aggressively": "Bazı Android telefonlar arka plandaki uygulamaları agresif şekilde kapatır."
+    "android_phones_aggressively": "Bazı Android telefonlar arka plandaki uygulamaları agresif şekilde kapatır.",
+    "elmir_kuliev": "Elmir Kuliev",
+    "@elmir_kuliev": {
+        "description": "-> Elmir Kuliev"
+    }
 }
