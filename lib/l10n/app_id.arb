@@ -1594,5 +1594,6 @@
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
-    "settings_language_bs": "Bosnia"
+    "settings_language_bs": "Bosnia",
+    "something_wrong_getting_location": "Terjadi kesalahan saat mendapatkan lokasi Anda. Silakan coba lagi."
 }
