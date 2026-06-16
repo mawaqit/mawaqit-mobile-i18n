@@ -2533,4 +2533,8 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bosniska';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Ett fel uppstod när din plats skulle hämtas. Försök igen.';
 }

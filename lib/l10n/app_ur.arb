@@ -1594,5 +1594,6 @@
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
-    "settings_language_bs": "بوسنیائی"
+    "settings_language_bs": "بوسنیائی",
+    "something_wrong_getting_location": "آپ کی لوکیشن حاصل کرتے وقت ایک خرابی پیش آگئی۔ براہ کرم دوبارہ کوشش کریں۔."
 }

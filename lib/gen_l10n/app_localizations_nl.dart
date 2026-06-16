@@ -2555,4 +2555,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bosnisch';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Er is iets misgegaan bij het ophalen van je locatie. Probeer het opnieuw.';
 }

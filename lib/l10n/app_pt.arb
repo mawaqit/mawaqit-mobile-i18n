@@ -1594,5 +1594,6 @@
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
-    "settings_language_bs": "Bósnio"
+    "settings_language_bs": "Bósnio",
+    "something_wrong_getting_location": "Ocorreu um erro ao obter sua localização. Tente novamente."
 }

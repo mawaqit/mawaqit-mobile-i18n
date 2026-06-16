@@ -2578,4 +2578,8 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bosniaque';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Une erreur s’est produite lors de la récupération de votre position. Veuillez réessayer.';
 }

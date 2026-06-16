@@ -1594,5 +1594,6 @@
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
-    "settings_language_bs": "بوسنىيەچە"
+    "settings_language_bs": "بوسنىيەچە",
+    "something_wrong_getting_location": "ئورنىڭىزنى ئېلىشتا خاتالىق يۈز بەردى. قايتا سىناڭ."
 }

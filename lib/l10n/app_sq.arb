@@ -1594,5 +1594,6 @@
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
-    "settings_language_bs": "Boshnjakisht"
+    "settings_language_bs": "Boshnjakisht",
+    "something_wrong_getting_location": "Diçka shkoi keq gjatë marrjes së vendndodhjes suaj. Ju lutemi provoni përsëri."
 }

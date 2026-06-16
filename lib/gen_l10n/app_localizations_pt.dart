@@ -2565,4 +2565,8 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bósnio';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Ocorreu um erro ao obter sua localização. Tente novamente.';
 }

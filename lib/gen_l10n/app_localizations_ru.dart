@@ -2549,4 +2549,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Боснийский';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Произошла ошибка при определении вашего местоположения. Пожалуйста, попробуйте снова.';
 }

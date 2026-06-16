@@ -2542,4 +2542,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'বসনীয়';
+
+  @override
+  String get something_wrong_getting_location =>
+      'আপনার অবস্থান পাওয়ার সময় কিছু ভুল হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।.';
 }

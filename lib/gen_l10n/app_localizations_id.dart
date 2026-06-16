@@ -2545,4 +2545,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bosnia';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Terjadi kesalahan saat mendapatkan lokasi Anda. Silakan coba lagi.';
 }

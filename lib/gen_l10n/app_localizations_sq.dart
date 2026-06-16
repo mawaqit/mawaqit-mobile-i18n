@@ -2555,4 +2555,8 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Boshnjakisht';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Diçka shkoi keq gjatë marrjes së vendndodhjes suaj. Ju lutemi provoni përsëri.';
 }
