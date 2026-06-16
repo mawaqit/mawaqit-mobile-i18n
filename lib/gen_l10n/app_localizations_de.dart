@@ -2570,4 +2570,8 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bosnisch';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Beim Abrufen Ihres Standorts ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.';
 }

@@ -2541,4 +2541,8 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bośniacki';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Wystąpił błąd podczas pobierania Twojej lokalizacji. Spróbuj ponownie.';
 }

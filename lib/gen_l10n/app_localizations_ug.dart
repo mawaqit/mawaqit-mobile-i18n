@@ -2540,4 +2540,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'بوسنىيەچە';
+
+  @override
+  String get something_wrong_getting_location =>
+      'ئورنىڭىزنى ئېلىشتا خاتالىق يۈز بەردى. قايتا سىناڭ.';
 }

@@ -2528,4 +2528,8 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Boşnakça';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Konumunuz alınırken bir hata oluştu. Lütfen tekrar deneyin.';
 }

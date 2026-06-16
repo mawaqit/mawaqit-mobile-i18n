@@ -2566,4 +2566,8 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bosnio';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Se produjo un error al obtener tu ubicación. Por favor, inténtalo de nuevo.';
 }

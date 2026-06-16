@@ -2540,4 +2540,8 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'Bosnian';
+
+  @override
+  String get something_wrong_getting_location =>
+      'Something went wrong while getting your location. Please try again.';
 }

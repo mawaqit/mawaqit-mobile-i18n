@@ -4939,6 +4939,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Bosnian'**
   String get settings_language_bs;
+
+  /// No description provided for @something_wrong_getting_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Something went wrong while getting your location. Please try again.'**
+  String get something_wrong_getting_location;
 }
 
 class _AppLocalizationsDelegate

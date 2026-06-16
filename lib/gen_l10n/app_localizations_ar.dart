@@ -2512,4 +2512,8 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get settings_language_bs => 'البوسنية';
+
+  @override
+  String get something_wrong_getting_location =>
+      'حدث خطأ أثناء الحصول على موقعك. يرجى المحاولة مرة أخرى.';
 }
