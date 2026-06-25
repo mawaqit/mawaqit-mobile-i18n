@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Bosnian",
-    "something_wrong_getting_location": "هەڵەیەک ڕوویدا لە کاتی وەرگرتنی شوێنەکەت. تکایە دووبارە هەوڵ بدە."
+    "something_wrong_getting_location": "هەڵەیەک ڕوویدا لە کاتی وەرگرتنی شوێنەکەت. تکایە دووبارە هەوڵ بدە.",
+    "custom_volume": "Custom volume"
 }
