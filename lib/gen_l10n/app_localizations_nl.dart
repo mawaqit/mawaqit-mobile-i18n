@@ -2559,4 +2559,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Er is iets misgegaan bij het ophalen van je locatie. Probeer het opnieuw.';
+
+  @override
+  String get custom_volume => 'Aangepast volume';
 }

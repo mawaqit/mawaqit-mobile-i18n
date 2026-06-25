@@ -4,9 +4,9 @@ import 'app_localizations.dart';
 
 // ignore_for_file: type=lint
 
-/// The translations for Pushto Pashto (`ps`).
-class AppLocalizationsPs extends AppLocalizations {
-  AppLocalizationsPs([String locale = 'ps']) : super(locale);
+/// The translations for Khmer Central Khmer (`km`).
+class AppLocalizationsKm extends AppLocalizations {
+  AppLocalizationsKm([String locale = 'km']) : super(locale);
 
   @override
   String get bottomNavbar_mawaqit => 'MAWAQIT';
@@ -1709,16 +1709,16 @@ class AppLocalizationsPs extends AppLocalizations {
   String get yaser_salamah_murattal => 'Yaser Salamah';
 
   @override
-  String get yassin_aljazairi => 'یاسین الجزایری';
+  String get yassin_aljazairi => 'Yassin Al-Jazairi';
 
   @override
-  String get mohammed_abdelkarim => 'محمد عبد الکریم';
+  String get mohammed_abdelkarim => 'Mohammed Abdelkarim';
 
   @override
-  String get alayoun_elkouchi => 'العيون الکوشی';
+  String get alayoun_elkouchi => 'Al-Ayoun El-Kouchi';
 
   @override
-  String get abdelkarim_daghoush => 'عبد الکریم داغوش';
+  String get abdelkarim_daghoush => 'Abdelkarim Daghoush';
 
   @override
   String get murattal => 'Murattal';
@@ -1808,32 +1808,32 @@ class AppLocalizationsPs extends AppLocalizations {
   String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
 
   @override
-  String get hafs_an_asim => 'حفص عن عاصم';
+  String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
 
   @override
-  String get most_widespread_riwayah => 'په نړۍ کې تر ټولو ډېره خپره شوې روايت';
+  String get most_widespread_riwayah => 'The most widespread riwāyah worldwide';
 
   @override
-  String get warsh_an_nafi => 'ورش عن نافع';
+  String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
 
   @override
   String get popular_across_north_west_africa =>
-      'په شمالي او لوېديځه افريقا کې مشهوره';
+      'Popular across North & West Africa';
 
   @override
   String get select => 'Select';
 
   @override
-  String get unknown_smartwatch => 'نااشنا سمارټ واچ';
+  String get unknown_smartwatch => 'Unknown smartwatch';
 
   @override
-  String get connected_watch => 'نښلول شوی ساعت';
+  String get connected_watch => 'Connected watch';
 
   @override
-  String get ready_play_watch => 'ستاسو په ساعت کې د غږولو لپاره چمتو دی';
+  String get ready_play_watch => 'is ready to play on your watch';
 
   @override
-  String get transliteration => 'ټرانسلېتراسیون';
+  String get transliteration => 'Transliteration';
 
   @override
   String get highlight_Tahajjud_Time => 'Highlight Tahajjud Time';
@@ -1917,10 +1917,10 @@ class AppLocalizationsPs extends AppLocalizations {
   String get matching_ayahs => 'Matching Ayahs';
 
   @override
-  String get live_timer => 'ژوندی ټایمر';
+  String get live_timer => 'Live Timer';
 
   @override
-  String get notify_before => 'مخکې خبر ورکړئ';
+  String get notify_before => 'Notify before';
 
   @override
   String get take_time_appear_watch =>
@@ -2119,7 +2119,7 @@ class AppLocalizationsPs extends AppLocalizations {
   String get please_select_surah => 'Please select a surah';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Ayah number';
 
   @override
   String get ayah_num_greater_zero => 'Ayah number must be greater than 0';
@@ -2151,7 +2151,7 @@ class AppLocalizationsPs extends AppLocalizations {
   String get tap_change_notification => 'Tap to change notification';
 
   @override
-  String get adhan_at => 'اذان په';
+  String get adhan_at => 'Adhan at';
 
   @override
   String get semantic_mawaqit_notification =>
@@ -2489,7 +2489,7 @@ class AppLocalizationsPs extends AppLocalizations {
       'Swipe left or right to select a different mushaf type';
 
   @override
-  String get location_permission_required => 'د موقعیت اجازه ته اړتیا ده';
+  String get location_permission_required => 'Location Permission Required';
 
   @override
   String get semantic_previous_month => 'Previous month';
@@ -2502,17 +2502,17 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get access_location_details =>
-      'د دې لپاره چې ستاسو د اوسني موقعیت پر بنسټ دقیق محلي هوا، د قبلې لوری او د جومات معلومات وښيي، MAWAQIT ته ستاسو موقعیت ته لاسرسی پکار دی. تاسو مخکې دا اجازه رد کړې ده.';
+      'To show you accurate local weather, Qibla direction, and mosque information based on your current position, MAWAQIT needs to access your location. You previously denied this permission.';
 
   @override
-  String get location_off => 'موقعیت بند دی';
+  String get location_off => 'Location Off';
 
   @override
   String get semantic_pre_notification_time => 'pre-notification time';
 
   @override
   String get search_for_mosque_or_enable_location =>
-      'موږ نشو کولی تر ټولو نږدې جومات وړاندیز کړو ځکه چې د موقعیت لاسرسی رد شوی دی. مهرباني وکړئ یو جومات ولټوئ یا د موقعیت اجازه فعاله کړئ.';
+      'We can’t suggest the nearest mosque because location access is denied. Please search for a mosque or enable location permission.';
 
   @override
   String get location => 'Location';

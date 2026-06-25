@@ -2516,4 +2516,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'حدث خطأ أثناء الحصول على موقعك. يرجى المحاولة مرة أخرى.';
+
+  @override
+  String get custom_volume => 'تخصيص مستوى الصوت';
 }

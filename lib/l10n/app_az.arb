@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Bosnian",
-    "something_wrong_getting_location": "Something went wrong while getting your location. Please try again."
+    "something_wrong_getting_location": "Something went wrong while getting your location. Please try again.",
+    "custom_volume": "Custom volume"
 }

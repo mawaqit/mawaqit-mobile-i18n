@@ -2553,4 +2553,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Произошла ошибка при определении вашего местоположения. Пожалуйста, попробуйте снова.';
+
+  @override
+  String get custom_volume => 'Пользовательская громкость';
 }

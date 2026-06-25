@@ -2549,4 +2549,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Terjadi kesalahan saat mendapatkan lokasi Anda. Silakan coba lagi.';
+
+  @override
+  String get custom_volume => 'Volume kustom';
 }

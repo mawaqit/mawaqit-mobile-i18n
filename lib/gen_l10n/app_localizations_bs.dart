@@ -2551,4 +2551,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Nešto je pošlo po zlu prilikom dobijanja vaše lokacije. Molimo pokušajte ponovo.';
+
+  @override
+  String get custom_volume => 'Prilagođena jačina zvuka';
 }

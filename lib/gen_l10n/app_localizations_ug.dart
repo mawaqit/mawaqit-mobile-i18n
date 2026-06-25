@@ -2544,4 +2544,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'ئورنىڭىزنى ئېلىشتا خاتالىق يۈز بەردى. قايتا سىناڭ.';
+
+  @override
+  String get custom_volume => 'ئىختىيارىي ئاۋاز دەرىجىسى';
 }

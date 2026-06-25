@@ -2552,4 +2552,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Something went wrong while getting your location. Please try again.';
+
+  @override
+  String get custom_volume => 'Custom volume';
 }

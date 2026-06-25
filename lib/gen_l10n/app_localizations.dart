@@ -22,7 +22,9 @@ import 'app_localizations_hi.dart';
 import 'app_localizations_hu.dart';
 import 'app_localizations_id.dart';
 import 'app_localizations_it.dart';
+import 'app_localizations_km.dart';
 import 'app_localizations_ku.dart';
+import 'app_localizations_lo.dart';
 import 'app_localizations_ms.dart';
 import 'app_localizations_nl.dart';
 import 'app_localizations_pa.dart';
@@ -142,7 +144,9 @@ abstract class AppLocalizations {
     Locale('hu'),
     Locale('id'),
     Locale('it'),
+    Locale('km'),
     Locale('ku'),
+    Locale('lo'),
     Locale('ms'),
     Locale('nl'),
     Locale('pa'),
@@ -4945,6 +4949,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Something went wrong while getting your location. Please try again.'**
   String get something_wrong_getting_location;
+
+  /// No description provided for @custom_volume.
+  ///
+  /// In en, this message translates to:
+  /// **'Custom volume'**
+  String get custom_volume;
 }
 
 class _AppLocalizationsDelegate
@@ -4975,7 +4985,9 @@ class _AppLocalizationsDelegate
     'hu',
     'id',
     'it',
+    'km',
     'ku',
+    'lo',
     'ms',
     'nl',
     'pa',
@@ -5034,8 +5046,12 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
       return AppLocalizationsId();
     case 'it':
       return AppLocalizationsIt();
+    case 'km':
+      return AppLocalizationsKm();
     case 'ku':
       return AppLocalizationsKu();
+    case 'lo':
+      return AppLocalizationsLo();
     case 'ms':
       return AppLocalizationsMs();
     case 'nl':

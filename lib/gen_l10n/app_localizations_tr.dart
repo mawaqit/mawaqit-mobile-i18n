@@ -2532,4 +2532,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Konumunuz alınırken bir hata oluştu. Lütfen tekrar deneyin.';
+
+  @override
+  String get custom_volume => 'Özel ses düzeyi';
 }

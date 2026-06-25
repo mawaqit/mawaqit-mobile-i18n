@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "البوسنية",
-    "something_wrong_getting_location": "حدث خطأ أثناء الحصول على موقعك. يرجى المحاولة مرة أخرى."
+    "something_wrong_getting_location": "حدث خطأ أثناء الحصول على موقعك. يرجى المحاولة مرة أخرى.",
+    "custom_volume": "تخصيص مستوى الصوت"
 }

@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Bosniaque",
-    "something_wrong_getting_location": "Une erreur s’est produite lors de la récupération de votre position. Veuillez réessayer."
+    "something_wrong_getting_location": "Une erreur s’est produite lors de la récupération de votre position. Veuillez réessayer.",
+    "custom_volume": "Volume personnalisé"
 }
