@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Bośniacki",
-    "something_wrong_getting_location": "Wystąpił błąd podczas pobierania Twojej lokalizacji. Spróbuj ponownie."
+    "something_wrong_getting_location": "Wystąpił błąd podczas pobierania Twojej lokalizacji. Spróbuj ponownie.",
+    "custom_volume": "Custom volume"
 }
