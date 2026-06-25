@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Boşnakça",
-    "something_wrong_getting_location": "Konumunuz alınırken bir hata oluştu. Lütfen tekrar deneyin."
+    "something_wrong_getting_location": "Konumunuz alınırken bir hata oluştu. Lütfen tekrar deneyin.",
+    "custom_volume": "Custom volume"
 }
