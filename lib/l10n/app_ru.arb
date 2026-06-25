@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Боснийский",
-    "something_wrong_getting_location": "Произошла ошибка при определении вашего местоположения. Пожалуйста, попробуйте снова."
+    "something_wrong_getting_location": "Произошла ошибка при определении вашего местоположения. Пожалуйста, попробуйте снова.",
+    "custom_volume": "Custom volume"
 }
