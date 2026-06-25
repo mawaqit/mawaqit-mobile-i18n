@@ -2559,4 +2559,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Diçka shkoi keq gjatë marrjes së vendndodhjes suaj. Ju lutemi provoni përsëri.';
+
+  @override
+  String get custom_volume => 'Volum i personalizuar';
 }

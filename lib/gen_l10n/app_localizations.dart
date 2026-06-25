@@ -4949,6 +4949,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Something went wrong while getting your location. Please try again.'**
   String get something_wrong_getting_location;
+
+  /// No description provided for @custom_volume.
+  ///
+  /// In en, this message translates to:
+  /// **'Custom volume'**
+  String get custom_volume;
 }
 
 class _AppLocalizationsDelegate

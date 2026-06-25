@@ -2545,4 +2545,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Wystąpił błąd podczas pobierania Twojej lokalizacji. Spróbuj ponownie.';
+
+  @override
+  String get custom_volume => 'Custom volume';
 }

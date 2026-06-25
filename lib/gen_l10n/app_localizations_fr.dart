@@ -2582,4 +2582,7 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get something_wrong_getting_location =>
       'Une erreur s’est produite lors de la récupération de votre position. Veuillez réessayer.';
+
+  @override
+  String get custom_volume => 'Custom volume';
 }
