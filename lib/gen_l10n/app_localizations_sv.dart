@@ -2539,5 +2539,5 @@ class AppLocalizationsSv extends AppLocalizations {
       'Ett fel uppstod när din plats skulle hämtas. Försök igen.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Anpassad volym';
 }

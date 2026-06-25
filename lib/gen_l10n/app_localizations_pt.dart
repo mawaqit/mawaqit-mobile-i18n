@@ -2571,5 +2571,5 @@ class AppLocalizationsPt extends AppLocalizations {
       'Ocorreu um erro ao obter sua localização. Tente novamente.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Volume personalizado';
 }

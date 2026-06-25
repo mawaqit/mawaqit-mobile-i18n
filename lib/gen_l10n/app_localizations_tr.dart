@@ -2534,5 +2534,5 @@ class AppLocalizationsTr extends AppLocalizations {
       'Konumunuz alınırken bir hata oluştu. Lütfen tekrar deneyin.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Özel ses düzeyi';
 }

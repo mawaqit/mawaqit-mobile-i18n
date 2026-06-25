@@ -2561,5 +2561,5 @@ class AppLocalizationsNl extends AppLocalizations {
       'Er is iets misgegaan bij het ophalen van je locatie. Probeer het opnieuw.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Aangepast volume';
 }

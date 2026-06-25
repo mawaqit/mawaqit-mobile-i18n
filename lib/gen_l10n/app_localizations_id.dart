@@ -2551,5 +2551,5 @@ class AppLocalizationsId extends AppLocalizations {
       'Terjadi kesalahan saat mendapatkan lokasi Anda. Silakan coba lagi.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Volume kustom';
 }

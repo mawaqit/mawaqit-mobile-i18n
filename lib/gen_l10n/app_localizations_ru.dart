@@ -2555,5 +2555,5 @@ class AppLocalizationsRu extends AppLocalizations {
       'Произошла ошибка при определении вашего местоположения. Пожалуйста, попробуйте снова.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Пользовательская громкость';
 }

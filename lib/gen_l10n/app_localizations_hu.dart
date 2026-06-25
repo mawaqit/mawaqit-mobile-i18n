@@ -2562,5 +2562,5 @@ class AppLocalizationsHu extends AppLocalizations {
       'Something went wrong while getting your location. Please try again.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Egyéni hangerő';
 }

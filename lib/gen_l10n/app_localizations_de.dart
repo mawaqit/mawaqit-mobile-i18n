@@ -2576,5 +2576,5 @@ class AppLocalizationsDe extends AppLocalizations {
       'Beim Abrufen Ihres Standorts ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'Eigene Lautstärke';
 }

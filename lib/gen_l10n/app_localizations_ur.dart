@@ -2546,5 +2546,5 @@ class AppLocalizationsUr extends AppLocalizations {
       'آپ کی لوکیشن حاصل کرتے وقت ایک خرابی پیش آگئی۔ براہ کرم دوبارہ کوشش کریں۔.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'حسبِ ضرورت آواز';
 }
