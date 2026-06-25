@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1595,5 +1595,6 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Bosniska",
-    "something_wrong_getting_location": "Ett fel uppstod när din plats skulle hämtas. Försök igen."
+    "something_wrong_getting_location": "Ett fel uppstod när din plats skulle hämtas. Försök igen.",
+    "custom_volume": "Custom volume"
 }
