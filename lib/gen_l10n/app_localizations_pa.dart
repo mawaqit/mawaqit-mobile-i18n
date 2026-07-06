@@ -2550,4 +2550,13 @@ class AppLocalizationsPa extends AppLocalizations {
 
   @override
   String get custom_volume => 'Custom volume';
+
+  @override
+  String get general => 'General';
+
+  @override
+  String get prayer_location => 'Prayer & Location';
+
+  @override
+  String get privacy => 'Privacy';
 }

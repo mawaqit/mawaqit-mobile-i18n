@@ -2562,4 +2562,13 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get custom_volume => 'Aangepast volume';
+
+  @override
+  String get general => 'Algemeen';
+
+  @override
+  String get prayer_location => 'Gebed & Locatie';
+
+  @override
+  String get privacy => 'Privacy';
 }

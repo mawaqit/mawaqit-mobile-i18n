@@ -2552,4 +2552,13 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get custom_volume => 'Volume kustom';
+
+  @override
+  String get general => 'Umum';
+
+  @override
+  String get prayer_location => 'Salat & Lokasi';
+
+  @override
+  String get privacy => 'Privasi';
 }

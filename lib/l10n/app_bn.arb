@@ -1596,5 +1596,8 @@
     },
     "settings_language_bs": "বসনীয়",
     "something_wrong_getting_location": "আপনার অবস্থান পাওয়ার সময় কিছু ভুল হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।.",
-    "custom_volume": "কাস্টম ভলিউম"
+    "custom_volume": "কাস্টম ভলিউম",
+    "general": "সাধারণ",
+    "prayer_location": "নামাজ ও লোকেশন",
+    "privacy": "গোপনীয়তা"
 }

@@ -1596,5 +1596,8 @@
     },
     "settings_language_bs": "Bosnio",
     "something_wrong_getting_location": "Se produjo un error al obtener tu ubicación. Por favor, inténtalo de nuevo.",
-    "custom_volume": "Volumen personalizado"
+    "custom_volume": "Volumen personalizado",
+    "general": "General",
+    "prayer_location": "Oración y ubicación",
+    "privacy": "Privacidad"
 }

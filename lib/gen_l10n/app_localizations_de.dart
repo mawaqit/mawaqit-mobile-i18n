@@ -2577,4 +2577,13 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get custom_volume => 'Eigene Lautstärke';
+
+  @override
+  String get general => 'Allgemein';
+
+  @override
+  String get prayer_location => 'Gebet & Standort';
+
+  @override
+  String get privacy => 'Datenschutz';
 }

@@ -2540,4 +2540,13 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get custom_volume => 'Anpassad volym';
+
+  @override
+  String get general => 'Allmänt';
+
+  @override
+  String get prayer_location => 'Bön och Plats';
+
+  @override
+  String get privacy => 'Sekretess';
 }

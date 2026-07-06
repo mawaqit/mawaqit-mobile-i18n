@@ -1596,5 +1596,8 @@
     },
     "settings_language_bs": "Bosnyák",
     "something_wrong_getting_location": "Something went wrong while getting your location. Please try again.",
-    "custom_volume": "Egyéni hangerő"
+    "custom_volume": "Egyéni hangerő",
+    "general": "Általános",
+    "prayer_location": "Ima és Helymeghatározás",
+    "privacy": "Adatvédelem"
 }

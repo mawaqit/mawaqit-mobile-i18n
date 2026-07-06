@@ -2563,4 +2563,13 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get custom_volume => 'Egyéni hangerő';
+
+  @override
+  String get general => 'Általános';
+
+  @override
+  String get prayer_location => 'Ima és Helymeghatározás';
+
+  @override
+  String get privacy => 'Adatvédelem';
 }

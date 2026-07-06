@@ -2548,4 +2548,13 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get custom_volume => 'Niestandardowa głośność';
+
+  @override
+  String get general => 'Ogólne';
+
+  @override
+  String get prayer_location => 'Modlitwa i lokalizacja';
+
+  @override
+  String get privacy => 'Prywatność';
 }

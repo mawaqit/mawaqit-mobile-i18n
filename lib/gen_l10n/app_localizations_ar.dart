@@ -2519,4 +2519,13 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get custom_volume => 'تخصيص مستوى الصوت';
+
+  @override
+  String get general => 'عام';
+
+  @override
+  String get prayer_location => 'الصلاة والموقع';
+
+  @override
+  String get privacy => 'الخصوصية';
 }

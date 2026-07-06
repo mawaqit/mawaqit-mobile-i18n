@@ -1596,5 +1596,8 @@
     },
     "settings_language_bs": "Bosanski",
     "something_wrong_getting_location": "Nešto je pošlo po zlu prilikom dobijanja vaše lokacije. Molimo pokušajte ponovo.",
-    "custom_volume": "Prilagođena jačina zvuka"
+    "custom_volume": "Prilagođena jačina zvuka",
+    "general": "Opće",
+    "prayer_location": "Namaz i Lokacija",
+    "privacy": "Privatnost"
 }

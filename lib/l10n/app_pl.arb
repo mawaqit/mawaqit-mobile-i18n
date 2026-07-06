@@ -1596,5 +1596,8 @@
     },
     "settings_language_bs": "Bośniacki",
     "something_wrong_getting_location": "Wystąpił błąd podczas pobierania Twojej lokalizacji. Spróbuj ponownie.",
-    "custom_volume": "Niestandardowa głośność"
+    "custom_volume": "Niestandardowa głośność",
+    "general": "Ogólne",
+    "prayer_location": "Modlitwa i lokalizacja",
+    "privacy": "Prywatność"
 }

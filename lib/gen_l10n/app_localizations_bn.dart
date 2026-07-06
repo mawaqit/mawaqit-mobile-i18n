@@ -2549,4 +2549,13 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get custom_volume => 'কাস্টম ভলিউম';
+
+  @override
+  String get general => 'সাধারণ';
+
+  @override
+  String get prayer_location => 'নামাজ ও লোকেশন';
+
+  @override
+  String get privacy => 'গোপনীয়তা';
 }

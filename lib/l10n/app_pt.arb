@@ -1596,5 +1596,8 @@
     },
     "settings_language_bs": "Bósnio",
     "something_wrong_getting_location": "Ocorreu um erro ao obter sua localização. Tente novamente.",
-    "custom_volume": "Volume personalizado"
+    "custom_volume": "Volume personalizado",
+    "general": "Geral",
+    "prayer_location": "Oração e Localização",
+    "privacy": "Privacidade"
 }
