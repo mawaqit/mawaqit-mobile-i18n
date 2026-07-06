@@ -1597,5 +1597,7 @@
     "settings_language_bs": "البوسنية",
     "something_wrong_getting_location": "حدث خطأ أثناء الحصول على موقعك. يرجى المحاولة مرة أخرى.",
     "custom_volume": "تخصيص مستوى الصوت",
-    "general": "General"
+    "general": "عام",
+    "prayer_location": "الصلاة والموقع",
+    "privacy": "الخصوصية"
 }
