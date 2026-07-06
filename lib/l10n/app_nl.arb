@@ -1596,5 +1596,6 @@
     },
     "settings_language_bs": "Bosnisch",
     "something_wrong_getting_location": "Er is iets misgegaan bij het ophalen van je locatie. Probeer het opnieuw.",
-    "custom_volume": "Aangepast volume"
+    "custom_volume": "Aangepast volume",
+    "general": "General"
 }
