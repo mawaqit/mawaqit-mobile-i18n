@@ -2554,4 +2554,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get custom_volume => 'Prilagođena jačina zvuka';
+
+  @override
+  String get general => 'General';
 }

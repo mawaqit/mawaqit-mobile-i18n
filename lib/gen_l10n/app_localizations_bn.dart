@@ -2549,4 +2549,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get custom_volume => 'কাস্টম ভলিউম';
+
+  @override
+  String get general => 'General';
 }

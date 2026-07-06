@@ -2552,4 +2552,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get custom_volume => 'Volume kustom';
+
+  @override
+  String get general => 'General';
 }

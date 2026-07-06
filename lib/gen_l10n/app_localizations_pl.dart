@@ -2548,4 +2548,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get custom_volume => 'Niestandardowa głośność';
+
+  @override
+  String get general => 'General';
 }

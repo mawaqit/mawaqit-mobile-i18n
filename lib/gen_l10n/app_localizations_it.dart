@@ -2571,4 +2571,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get custom_volume => 'Volume personalizzato';
+
+  @override
+  String get general => 'General';
 }

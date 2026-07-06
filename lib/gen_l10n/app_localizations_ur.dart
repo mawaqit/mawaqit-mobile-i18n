@@ -2547,4 +2547,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get custom_volume => 'حسبِ ضرورت آواز';
+
+  @override
+  String get general => 'General';
 }

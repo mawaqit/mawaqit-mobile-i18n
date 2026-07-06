@@ -2519,4 +2519,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get custom_volume => 'تخصيص مستوى الصوت';
+
+  @override
+  String get general => 'General';
 }

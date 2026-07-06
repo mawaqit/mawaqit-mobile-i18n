@@ -2562,4 +2562,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get custom_volume => 'Aangepast volume';
+
+  @override
+  String get general => 'General';
 }

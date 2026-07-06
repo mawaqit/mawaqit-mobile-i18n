@@ -2547,4 +2547,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get custom_volume => 'ئىختىيارىي ئاۋاز دەرىجىسى';
+
+  @override
+  String get general => 'General';
 }

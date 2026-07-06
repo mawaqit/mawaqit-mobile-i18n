@@ -2535,4 +2535,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get custom_volume => 'Özel ses düzeyi';
+
+  @override
+  String get general => 'General';
 }

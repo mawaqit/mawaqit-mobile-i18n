@@ -2540,4 +2540,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get custom_volume => 'Anpassad volym';
+
+  @override
+  String get general => 'General';
 }

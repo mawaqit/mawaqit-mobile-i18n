@@ -2557,4 +2557,7 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get custom_volume => 'Custom volume';
+
+  @override
+  String get general => 'General';
 }

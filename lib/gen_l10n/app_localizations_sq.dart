@@ -2562,4 +2562,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get custom_volume => 'Volum i personalizuar';
+
+  @override
+  String get general => 'General';
 }

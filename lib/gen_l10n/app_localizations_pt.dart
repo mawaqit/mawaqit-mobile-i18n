@@ -2572,4 +2572,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get custom_volume => 'Volume personalizado';
+
+  @override
+  String get general => 'General';
 }

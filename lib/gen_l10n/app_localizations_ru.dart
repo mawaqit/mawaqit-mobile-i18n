@@ -2556,4 +2556,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get custom_volume => 'Пользовательская громкость';
+
+  @override
+  String get general => 'General';
 }

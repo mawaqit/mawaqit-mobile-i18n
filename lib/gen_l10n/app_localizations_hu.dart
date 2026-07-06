@@ -2563,4 +2563,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get custom_volume => 'Egyéni hangerő';
+
+  @override
+  String get general => 'General';
 }
