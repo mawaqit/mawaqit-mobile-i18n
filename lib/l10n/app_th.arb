@@ -1597,5 +1597,7 @@
     "settings_language_bs": "บอสเนีย",
     "something_wrong_getting_location": "Something went wrong while getting your location. Please try again.",
     "custom_volume": "Custom volume",
-    "general": "General"
+    "general": "General",
+    "prayer_location": "Prayer & Location",
+    "privacy": "Privacy"
 }
