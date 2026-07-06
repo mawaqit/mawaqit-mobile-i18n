@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1597,5 +1597,7 @@
     "settings_language_bs": "بوسنیائی",
     "something_wrong_getting_location": "آپ کی لوکیشن حاصل کرتے وقت ایک خرابی پیش آگئی۔ براہ کرم دوبارہ کوشش کریں۔.",
     "custom_volume": "حسبِ ضرورت آواز",
-    "general": "General"
+    "general": "عمومی",
+    "prayer_location": "نماز اور لوکیشن",
+    "privacy": "رازداری"
 }
