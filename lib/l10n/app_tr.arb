@@ -1597,5 +1597,7 @@
     "settings_language_bs": "Boşnakça",
     "something_wrong_getting_location": "Konumunuz alınırken bir hata oluştu. Lütfen tekrar deneyin.",
     "custom_volume": "Özel ses düzeyi",
-    "general": "General"
+    "general": "Genel",
+    "prayer_location": "Namaz ve Konum",
+    "privacy": "Gizlilik"
 }
