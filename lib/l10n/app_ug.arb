@@ -1597,5 +1597,7 @@
     "settings_language_bs": "بوسنىيەچە",
     "something_wrong_getting_location": "ئورنىڭىزنى ئېلىشتا خاتالىق يۈز بەردى. قايتا سىناڭ.",
     "custom_volume": "ئىختىيارىي ئاۋاز دەرىجىسى",
-    "general": "General"
+    "general": "ئادەتتىكى",
+    "prayer_location": "ناماز ۋە ئورۇن",
+    "privacy": "مەخپىيەتلىك"
 }
