@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1596,5 +1596,6 @@
     },
     "settings_language_bs": "Bósnio",
     "something_wrong_getting_location": "Ocorreu um erro ao obter sua localização. Tente novamente.",
-    "custom_volume": "Volume personalizado"
+    "custom_volume": "Volume personalizado",
+    "general": "General"
 }
