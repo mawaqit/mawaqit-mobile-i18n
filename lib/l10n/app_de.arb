@@ -1597,5 +1597,7 @@
     "settings_language_bs": "Bosnisch",
     "something_wrong_getting_location": "Beim Abrufen Ihres Standorts ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
     "custom_volume": "Eigene Lautstärke",
-    "general": "General"
+    "general": "Allgemein",
+    "prayer_location": "Gebet & Standort",
+    "privacy": "Datenschutz"
 }
