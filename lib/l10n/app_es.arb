@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1597,5 +1597,7 @@
     "settings_language_bs": "Bosnio",
     "something_wrong_getting_location": "Se produjo un error al obtener tu ubicación. Por favor, inténtalo de nuevo.",
     "custom_volume": "Volumen personalizado",
-    "general": "General"
+    "general": "General",
+    "prayer_location": "Oración y ubicación",
+    "privacy": "Privacidad"
 }
