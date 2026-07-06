@@ -4961,6 +4961,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'General'**
   String get general;
+
+  /// No description provided for @prayer_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer & Location'**
+  String get prayer_location;
+
+  /// No description provided for @privacy.
+  ///
+  /// In en, this message translates to:
+  /// **'Privacy'**
+  String get privacy;
 }
 
 class _AppLocalizationsDelegate

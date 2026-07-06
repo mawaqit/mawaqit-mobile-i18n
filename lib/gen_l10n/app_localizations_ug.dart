@@ -2549,5 +2549,11 @@ class AppLocalizationsUg extends AppLocalizations {
   String get custom_volume => 'ئىختىيارىي ئاۋاز دەرىجىسى';
 
   @override
-  String get general => 'General';
+  String get general => 'ئادەتتىكى';
+
+  @override
+  String get prayer_location => 'ناماز ۋە ئورۇن';
+
+  @override
+  String get privacy => 'مەخپىيەتلىك';
 }

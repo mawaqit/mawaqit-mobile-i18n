@@ -2537,5 +2537,11 @@ class AppLocalizationsTr extends AppLocalizations {
   String get custom_volume => 'Özel ses düzeyi';
 
   @override
-  String get general => 'General';
+  String get general => 'Genel';
+
+  @override
+  String get prayer_location => 'Namaz ve Konum';
+
+  @override
+  String get privacy => 'Gizlilik';
 }

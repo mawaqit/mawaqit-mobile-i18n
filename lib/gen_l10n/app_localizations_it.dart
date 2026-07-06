@@ -2573,5 +2573,11 @@ class AppLocalizationsIt extends AppLocalizations {
   String get custom_volume => 'Volume personalizzato';
 
   @override
-  String get general => 'General';
+  String get general => 'Generale';
+
+  @override
+  String get prayer_location => 'Preghiera e posizione';
+
+  @override
+  String get privacy => 'Privacy';
 }

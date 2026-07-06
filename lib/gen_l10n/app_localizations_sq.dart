@@ -2564,5 +2564,11 @@ class AppLocalizationsSq extends AppLocalizations {
   String get custom_volume => 'Volum i personalizuar';
 
   @override
-  String get general => 'General';
+  String get general => 'Të përgjithshme';
+
+  @override
+  String get prayer_location => 'Namazi dhe Vendndodhja';
+
+  @override
+  String get privacy => 'Privatësia';
 }

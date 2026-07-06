@@ -2549,5 +2549,11 @@ class AppLocalizationsUr extends AppLocalizations {
   String get custom_volume => 'حسبِ ضرورت آواز';
 
   @override
-  String get general => 'General';
+  String get general => 'عمومی';
+
+  @override
+  String get prayer_location => 'نماز اور لوکیشن';
+
+  @override
+  String get privacy => 'رازداری';
 }

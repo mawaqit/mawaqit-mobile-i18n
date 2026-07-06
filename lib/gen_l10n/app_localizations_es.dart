@@ -2576,4 +2576,10 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get general => 'General';
+
+  @override
+  String get prayer_location => 'Oración y ubicación';
+
+  @override
+  String get privacy => 'Privacidad';
 }

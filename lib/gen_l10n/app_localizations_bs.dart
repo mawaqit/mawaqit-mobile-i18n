@@ -2556,5 +2556,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get custom_volume => 'Prilagođena jačina zvuka';
 
   @override
-  String get general => 'General';
+  String get general => 'Opće';
+
+  @override
+  String get prayer_location => 'Namaz i Lokacija';
+
+  @override
+  String get privacy => 'Privatnost';
 }

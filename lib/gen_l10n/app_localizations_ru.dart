@@ -2558,5 +2558,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get custom_volume => 'Пользовательская громкость';
 
   @override
-  String get general => 'General';
+  String get general => 'Общие';
+
+  @override
+  String get prayer_location => 'Молитва и геолокация';
+
+  @override
+  String get privacy => 'Конфиденциальность';
 }
