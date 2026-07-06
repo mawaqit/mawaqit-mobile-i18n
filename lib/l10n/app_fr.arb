@@ -1597,5 +1597,7 @@
     "settings_language_bs": "Bosniaque",
     "something_wrong_getting_location": "Une erreur s’est produite lors de la récupération de votre position. Veuillez réessayer.",
     "custom_volume": "Volume personnalisé",
-    "general": "General"
+    "general": "Général",
+    "prayer_location": "Prière et localisation",
+    "privacy": "Confidentialité"
 }
