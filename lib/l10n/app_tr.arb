@@ -1596,5 +1596,6 @@
     },
     "settings_language_bs": "Boşnakça",
     "something_wrong_getting_location": "Konumunuz alınırken bir hata oluştu. Lütfen tekrar deneyin.",
-    "custom_volume": "Özel ses düzeyi"
+    "custom_volume": "Özel ses düzeyi",
+    "general": "General"
 }
