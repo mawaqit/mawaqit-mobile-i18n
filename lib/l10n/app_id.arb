@@ -1596,5 +1596,6 @@
     },
     "settings_language_bs": "Bosnia",
     "something_wrong_getting_location": "Terjadi kesalahan saat mendapatkan lokasi Anda. Silakan coba lagi.",
-    "custom_volume": "Volume kustom"
+    "custom_volume": "Volume kustom",
+    "general": "General"
 }
