@@ -1600,5 +1600,6 @@
     "general": "Umum",
     "prayer_location": "Salat & Lokasi",
     "privacy": "Privasi",
-    "play_full_adhan": "Putar adzan lengkap"
+    "play_full_adhan": "Putar adzan lengkap",
+    "full_adhan_will_keep_repeating": "Adzan lengkap akan terus berulang hingga Anda menutupnya."
 }
