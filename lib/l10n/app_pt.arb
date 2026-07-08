@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1599,5 +1599,6 @@
     "custom_volume": "Volume personalizado",
     "general": "Geral",
     "prayer_location": "Oração e Localização",
-    "privacy": "Privacidade"
+    "privacy": "Privacidade",
+    "play_full_adhan": "Reproduzir adhan completo"
 }
