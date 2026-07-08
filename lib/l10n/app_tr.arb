@@ -1600,5 +1600,6 @@
     "general": "Genel",
     "prayer_location": "Namaz ve Konum",
     "privacy": "Gizlilik",
-    "play_full_adhan": "Tam ezanı çal"
+    "play_full_adhan": "Tam ezanı çal",
+    "full_adhan_will_keep_repeating": "Tam ezan siz kapatana kadar tekrar etmeye devam edecek."
 }
