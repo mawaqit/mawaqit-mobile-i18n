@@ -2557,4 +2557,7 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get privacy => 'Privacy';
+
+  @override
+  String get play_full_adhan => 'Play full adhan';
 }

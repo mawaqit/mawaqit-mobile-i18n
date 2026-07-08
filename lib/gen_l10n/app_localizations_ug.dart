@@ -2556,4 +2556,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get privacy => 'مەخپىيەتلىك';
+
+  @override
+  String get play_full_adhan => 'تولۇق ئەزاننى قويۇش';
 }

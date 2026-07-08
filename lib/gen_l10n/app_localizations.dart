@@ -4973,6 +4973,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Privacy'**
   String get privacy;
+
+  /// No description provided for @play_full_adhan.
+  ///
+  /// In en, this message translates to:
+  /// **'Play full adhan'**
+  String get play_full_adhan;
 }
 
 class _AppLocalizationsDelegate

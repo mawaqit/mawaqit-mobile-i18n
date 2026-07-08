@@ -2563,4 +2563,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get privacy => 'Privatnost';
+
+  @override
+  String get play_full_adhan => 'Reproduciraj cijeli ezan';
 }

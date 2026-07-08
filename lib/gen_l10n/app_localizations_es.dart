@@ -2582,4 +2582,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get privacy => 'Privacidad';
+
+  @override
+  String get play_full_adhan => 'Reproducir adhan completo';
 }

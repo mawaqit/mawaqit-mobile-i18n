@@ -2528,4 +2528,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get privacy => 'الخصوصية';
+
+  @override
+  String get play_full_adhan => 'تشغيل الأذان كاملاً';
 }

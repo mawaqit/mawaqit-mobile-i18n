@@ -1599,5 +1599,6 @@
     "custom_volume": "Volumen personalizado",
     "general": "General",
     "prayer_location": "Oración y ubicación",
-    "privacy": "Privacidad"
+    "privacy": "Privacidad",
+    "play_full_adhan": "Reproducir adhan completo"
 }

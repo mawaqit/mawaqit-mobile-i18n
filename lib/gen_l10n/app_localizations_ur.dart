@@ -2556,4 +2556,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get privacy => 'رازداری';
+
+  @override
+  String get play_full_adhan => 'مکمل اذان چلائیں';
 }

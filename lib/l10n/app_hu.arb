@@ -1599,5 +1599,6 @@
     "custom_volume": "Egyéni hangerő",
     "general": "Általános",
     "prayer_location": "Ima és Helymeghatározás",
-    "privacy": "Adatvédelem"
+    "privacy": "Adatvédelem",
+    "play_full_adhan": "Teljes adhán lejátszása"
 }

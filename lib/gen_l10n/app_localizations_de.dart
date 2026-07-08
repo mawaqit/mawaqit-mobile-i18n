@@ -2586,4 +2586,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get privacy => 'Datenschutz';
+
+  @override
+  String get play_full_adhan => 'Vollständigen Adhan abspielen';
 }

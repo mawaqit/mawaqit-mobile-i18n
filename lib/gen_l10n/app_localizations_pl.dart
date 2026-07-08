@@ -2557,4 +2557,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get privacy => 'Prywatność';
+
+  @override
+  String get play_full_adhan => 'Odtwórz pełny adhan';
 }

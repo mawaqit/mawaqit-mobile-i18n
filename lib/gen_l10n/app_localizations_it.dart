@@ -2580,4 +2580,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get privacy => 'Privacy';
+
+  @override
+  String get play_full_adhan => 'Riproduci l\'adhan completo';
 }

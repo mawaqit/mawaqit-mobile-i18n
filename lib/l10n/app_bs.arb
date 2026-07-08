@@ -1599,5 +1599,6 @@
     "custom_volume": "Prilagođena jačina zvuka",
     "general": "Opće",
     "prayer_location": "Namaz i Lokacija",
-    "privacy": "Privatnost"
+    "privacy": "Privatnost",
+    "play_full_adhan": "Reproduciraj cijeli ezan"
 }

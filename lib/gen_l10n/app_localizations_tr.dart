@@ -2544,4 +2544,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get privacy => 'Gizlilik';
+
+  @override
+  String get play_full_adhan => 'Tam ezanı çal';
 }

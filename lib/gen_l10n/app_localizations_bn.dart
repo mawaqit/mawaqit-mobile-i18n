@@ -2558,4 +2558,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get privacy => 'গোপনীয়তা';
+
+  @override
+  String get play_full_adhan => 'সম্পূর্ণ আজান চালান';
 }

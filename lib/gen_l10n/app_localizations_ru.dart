@@ -2565,4 +2565,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get privacy => 'Конфиденциальность';
+
+  @override
+  String get play_full_adhan => 'Воспроизвести полный азан';
 }
