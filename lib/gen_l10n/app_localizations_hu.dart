@@ -2572,4 +2572,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get privacy => 'Adatvédelem';
+
+  @override
+  String get play_full_adhan => 'Teljes adhán lejátszása';
 }

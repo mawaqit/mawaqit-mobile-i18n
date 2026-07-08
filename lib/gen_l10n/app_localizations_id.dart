@@ -2561,4 +2561,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get privacy => 'Privasi';
+
+  @override
+  String get play_full_adhan => 'Putar adzan lengkap';
 }

@@ -2549,4 +2549,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get privacy => 'Sekretess';
+
+  @override
+  String get play_full_adhan => 'Spela upp hela adhan';
 }

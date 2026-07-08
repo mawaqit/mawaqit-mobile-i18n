@@ -2571,4 +2571,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get privacy => 'Privatësia';
+
+  @override
+  String get play_full_adhan => 'Luaj ezanin e plotë';
 }

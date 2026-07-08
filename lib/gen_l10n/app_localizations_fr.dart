@@ -2594,4 +2594,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get privacy => 'Confidentialité';
+
+  @override
+  String get play_full_adhan => 'Lire l’adhan en entier';
 }
