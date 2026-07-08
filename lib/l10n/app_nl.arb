@@ -1600,5 +1600,6 @@
     "general": "Algemeen",
     "prayer_location": "Gebed & Locatie",
     "privacy": "Privacy",
-    "play_full_adhan": "Speel volledige adhan af"
+    "play_full_adhan": "Speel volledige adhan af",
+    "full_adhan_will_keep_repeating": "De volledige adhan blijft zich herhalen totdat je deze sluit."
 }
