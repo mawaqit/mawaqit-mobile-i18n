@@ -1600,5 +1600,6 @@
     "general": "Opće",
     "prayer_location": "Namaz i Lokacija",
     "privacy": "Privatnost",
-    "play_full_adhan": "Reproduciraj cijeli ezan"
+    "play_full_adhan": "Reproduciraj cijeli ezan",
+    "full_adhan_will_keep_repeating": "Cijeli ezan će se ponavljati dok ga ne zatvorite."
 }
