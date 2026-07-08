@@ -1600,5 +1600,6 @@
     "general": "عام",
     "prayer_location": "الصلاة والموقع",
     "privacy": "الخصوصية",
-    "play_full_adhan": "تشغيل الأذان كاملاً"
+    "play_full_adhan": "تشغيل الأذان كاملاً",
+    "full_adhan_will_keep_repeating": "سيستمر الأذان الكامل في التكرار حتى تقوم بإغلاقه."
 }
