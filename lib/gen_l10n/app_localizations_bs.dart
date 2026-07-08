@@ -2566,4 +2566,8 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Reproduciraj cijeli ezan';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'Cijeli ezan će se ponavljati dok ga ne zatvorite.';
 }

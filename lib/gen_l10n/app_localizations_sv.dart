@@ -2552,4 +2552,8 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Spela upp hela adhan';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'Hela adhan kommer att fortsätta upprepas tills du stänger den.';
 }

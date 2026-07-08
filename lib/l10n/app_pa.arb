@@ -1600,5 +1600,6 @@
     "general": "General",
     "prayer_location": "Prayer & Location",
     "privacy": "Privacy",
-    "play_full_adhan": "Play full adhan"
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it."
 }

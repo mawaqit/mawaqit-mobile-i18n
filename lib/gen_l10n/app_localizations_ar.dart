@@ -2531,4 +2531,8 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'تشغيل الأذان كاملاً';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'سيستمر الأذان الكامل في التكرار حتى تقوم بإغلاقه.';
 }

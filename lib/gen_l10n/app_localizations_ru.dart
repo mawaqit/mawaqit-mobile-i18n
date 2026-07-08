@@ -2568,4 +2568,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Воспроизвести полный азан';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'Полный азан будет повторяться, пока вы его не закроете.';
 }

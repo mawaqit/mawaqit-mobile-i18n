@@ -1600,5 +1600,6 @@
     "general": "Të përgjithshme",
     "prayer_location": "Namazi dhe Vendndodhja",
     "privacy": "Privatësia",
-    "play_full_adhan": "Luaj ezanin e plotë"
+    "play_full_adhan": "Luaj ezanin e plotë",
+    "full_adhan_will_keep_repeating": "Ezani i plotë do të vazhdojë të përsëritet derisa ta mbyllni."
 }

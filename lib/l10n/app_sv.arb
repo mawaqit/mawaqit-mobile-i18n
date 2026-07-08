@@ -1600,5 +1600,6 @@
     "general": "Allmänt",
     "prayer_location": "Bön och Plats",
     "privacy": "Sekretess",
-    "play_full_adhan": "Spela upp hela adhan"
+    "play_full_adhan": "Spela upp hela adhan",
+    "full_adhan_will_keep_repeating": "Hela adhan kommer att fortsätta upprepas tills du stänger den."
 }

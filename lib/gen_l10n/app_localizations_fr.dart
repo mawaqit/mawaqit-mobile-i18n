@@ -2597,4 +2597,8 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Lire l’adhan en entier';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'L’adhan complet continuera à se répéter jusqu’à ce que vous le fermiez.';
 }
