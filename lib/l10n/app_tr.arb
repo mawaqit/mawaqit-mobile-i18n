@@ -1599,5 +1599,6 @@
     "custom_volume": "Özel ses düzeyi",
     "general": "Genel",
     "prayer_location": "Namaz ve Konum",
-    "privacy": "Gizlilik"
+    "privacy": "Gizlilik",
+    "play_full_adhan": "Tam ezanı çal"
 }
