@@ -1599,5 +1599,6 @@
     "custom_volume": "Eigene Lautstärke",
     "general": "Allgemein",
     "prayer_location": "Gebet & Standort",
-    "privacy": "Datenschutz"
+    "privacy": "Datenschutz",
+    "play_full_adhan": "Vollständigen Adhan abspielen"
 }
