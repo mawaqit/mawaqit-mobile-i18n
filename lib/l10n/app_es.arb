@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1600,5 +1600,6 @@
     "general": "General",
     "prayer_location": "Oración y ubicación",
     "privacy": "Privacidad",
-    "play_full_adhan": "Reproducir adhan completo"
+    "play_full_adhan": "Reproducir adhan completo",
+    "full_adhan_will_keep_repeating": "El adhan completo seguirá repitiéndose hasta que lo cierres."
 }
