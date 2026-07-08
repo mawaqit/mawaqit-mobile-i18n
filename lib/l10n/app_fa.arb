@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "این برنامه توسط انجمن MAWAQIT توسعه داده شده است.\n\nانجمن MAWAQIT یک سازمان غیرانتفاعی است که در سال ۲۰۲۱ در فرانسه تأسیس شد. هدف ما توسعه راه‌حل‌های نوآورانه در زمینه فناوری اطلاعات و فناوری دیجیتال، مانند نرم‌افزارها و وب‌سایت‌ها، و همچنین آموزش و تربیت در زمینه راه‌حل‌های دیجیتال و ابزارهای IT است.\n\nاکوسیستم MAWAQIT محصول اصلی ما است و داستان آن از سال ۲۰۱۶ آغاز شد، با یک برنامه برای صفحه‌نمایش‌های بزرگ مختص مساجد، سپس یک اپلیکیشن موبایل، افزونه دستیار خانگی و مهارت الکسا، و غیره.\n\nMAWAQIT راهی جدید برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. در واقع، ما یک سیستم جامع فراهم می‌آوریم که به مدیران مساجد ابزاری آنلاین و در دسترس ۲۴ ساعته ارائه می‌دهد تا بتوانند برنامه‌ها، اخبار مساجد و بسیاری ویژگی‌های دیگر را مدیریت کنند. از سوی دیگر، مومنان از طریق یک اپلیکیشن موبایل می‌توانند برنامه‌های دقیق نه تقریبی مسجد مورد علاقه خود را مشاهده کرده و از اخبار و سایر امکانات مانند جستجوی مسجد با استفاده از موقعیت مکانی، اذان، قبله و غیره بهره‌مند شوند. ما قابلیت اطمینان و کیفیت را به عنوان ارزش‌های اصلی خود قرار داده‌ایم. هدف ما روشن است: ساخت بهترین خدمت برای مساجد با استفاده از فناوری و طراحی.\n\nاگر از این برنامه خوشتان آمده است، لطفاً نظر خود را در فروشگاه مربوطه به اشتراک بگذارید.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -254,7 +254,7 @@
     "mosques_in_the_selected_area": "مساجد در محدوده انتخاب شده",
     "mosques_with": "مساجد با",
     "allow_mawaqit_to_access_my_location": "اجازه دهید مواقیت به موقعیت مکانی من دسترسی داشته باشد.",
-    "enable_location_service_from_app_settings": "فعال‌سازی موقعیت",
+    "enable_location_service_from_app_settings": "Enable location",
     "the_request_timeout": "زمان درخواست منقضی شد",
     "no_internet_connection": "اتصالی به اینترنت وجود ندارد",
     "try_again": "دوباره سعی کنید",
@@ -740,7 +740,7 @@
     "quran_mushaf": "قران",
     "quran_juzz": "جز",
     "ayah": "آيه",
-    "quran_verses": "آیاتها",
+    "quran_verses": "آيات",
     "surah": "سورة",
     "continue_reading": "ادامه مطلب",
     "bookmarks": "نشانک ها",
@@ -1124,10 +1124,10 @@
     "salah_albudair_murattal": "Salah AlBudair",
     "tawfeeq_assayegh": "Tawfeeq Assayegh",
     "yaser_salamah_murattal": "Yaser Salamah",
-    "yassin_aljazairi": "یاسین الجزائری",
-    "mohammed_abdelkarim": "محمد عبدالکریم",
+    "yassin_aljazairi": "یاسین الجزایری",
+    "mohammed_abdelkarim": "محمد عبدکریم",
     "alayoun_elkouchi": "العیون الکوشی",
-    "abdelkarim_daghoush": "عبدالکریم دغوش",
+    "abdelkarim_daghoush": "عبدالکریم داغوش",
     "murattal": "مرتّل",
     "mujawwad": "مجوّد",
     "moallim": "قرآن آموزشی",
@@ -1140,7 +1140,7 @@
     "select_ending_verse": "آیه پایان را انتخاب کنید",
     "range_repeat": "تکرار محدوده",
     "verse_repeat": "تکرار آیه",
-    "improved_Hafs_Rewaya_Force_Update": "ما قِرائتِ حَفص عَن عاصم را بهبود داده‌ایم. همین حالا دانلود کنید تا با نگه‌داشتن روی هر آیه، تفسیر را بررسی و قرائت‌ها را گوش دهید.",
+    "improved_Hafs_Rewaya_Force_Update": "We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
@@ -1156,55 +1156,55 @@
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "تنظیمات ۳۶۰",
+    "three_sixty_setting": "360 Settings",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "رفتار",
+    "behavior": "Behavior",
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "نماز بعدی",
+    "next_prayer_open": "Next prayer",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "همه بسته‌اند",
+    "all_prayer_closed": "All closed",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
-    "recomended_next_prayer": "توصیه‌شده: فقط نماز بعدی",
+    "recomended_next_prayer": "Recommended: Next prayer only",
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "تایمر زنده",
+    "live_preview": "Live Preview",
     "@live_preview": {
         "description": "-> live_preview"
     },
-    "font_Size_Normal": "معمولی",
+    "font_Size_Normal": "Normal",
     "@font_Size_Normal": {
         "description": "-> font_Size_Normal"
     },
-    "font_Size_Large": "بزرگ",
+    "font_Size_Large": "Large",
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "همه باز است",
+    "all_Prayer_Open": "All open",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
-    "settingFontSize": "اندازه قلم",
+    "settingFontSize": "Font Size",
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "یک‌سوم آخر شب",
+    "last_Third_Of_The_Night": "Last Third Of The Night",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
     "shaykh_aminuddin_muhammad": "شیخ امین‌الدین محمد",
-    "hafs_an_asim": "حَفص عَن عاصم",
-    "most_widespread_riwayah": "رِوایَتِ رایج‌ در سراسر دنیا",
-    "warsh_an_nafi": "وَرش عَن نافع",
-    "popular_across_north_west_africa": "رایج در شمال و غرب آفریقا",
+    "hafs_an_asim": "حفص عن عاصم",
+    "most_widespread_riwayah": "رایج‌ترین قرائت در سراسر جهان",
+    "warsh_an_nafi": "ورش عن نافع",
+    "popular_across_north_west_africa": "محبوب در سراسر شمال و غرب آفریقا",
     "select": "انتخاب",
     "unknown_smartwatch": "ساعت هوشمند ناشناخته",
     "connected_watch": "ساعت متصل",
@@ -1325,14 +1325,14 @@
     "weather_your_location": "وضعیت هوا را برای مکان شما نمایش می‌دهد، نه مسجد.",
     "view_360_currently_selected": "نمای ۳۶۰ در حال حاضر انتخاب شده است",
     "tap_change_layout": "برای تغییر طرح اینجا را لمس کنید",
-    "step": "مرحله",
+    "step": "Step",
     "@step": {
         "description": "-> step"
     },
     "jump_to_page": "رفتن به صفحه",
     "select_surah": "انتخاب سوره",
     "please_select_surah": "لطفاً یک سوره را انتخاب کنید",
-    "ayah_number": "Sofian S. Siregar",
+    "ayah_number": "Ayah Number",
     "ayah_num_greater_zero": "شماره آیه باید بزرگتر از 0 باشد",
     "ayah_number_exceeds_max": "شماره آیه از حداکثر مقدار این سوره بیشتر است",
     "update_page": "به‌روزرسانی صفحه",
@@ -1349,256 +1349,256 @@
     "@download_all_surahs": {
         "description": "download_all_surahs"
     },
-    "this_will_download_all_surahs_for_offline": "این همه سوره‌ها را برای گوش دادن آفلاین دانلود می‌کند. لطفاً قبل از ادامه مطمئن شوید که به Wi-Fi متصل هستید.",
+    "this_will_download_all_surahs_for_offline": "این کار تمام سوره‌ها را برای گوش دادن آفلاین دانلود می‌کند. لطفاً پیش از ادامه مطمئن شوید که به Wi-Fi متصل هستید.",
     "@this_will_download_all_surahs_for_offline": {
         "description": "this_will_download_all_surahs_for_offline"
     },
-    "tap_change_notification": "برای تغییر اعلان ضربه بزنید",
+    "tap_change_notification": "Tap to change notification",
     "adhan_at": "اذان در",
-    "semantic_mawaqit_notification": "اعلان‌های خوانده‌نشده از MAWAQIT",
-    "semantic_open_notifications": "باز کردن اعلان‌ها",
-    "semantic_tap_to_change_notification": "برای تغییر تنظیمات اعلان ضربه بزنید",
-    "semantic_edit_mosques": "برای ویرایش مساجد خود باز کنید",
-    "semantic_change_layout": "تغییر چیدمان صفحه اصلی",
-    "semantic_open_layout_menu": "باز کردن منوی چیدمان",
-    "semantic_edit_home_settings": "ویرایش تنظیمات صفحه اصلی",
-    "semantic_list_layout": "چیدمان لیستی",
-    "semantic_grid_layout": "چیدمان شبکه‌ای",
-    "sematnic_360_clock_layout": "چیدمان ساعت ۳۶۰",
-    "semantic_layout_menu_open": "منوی چیدمان باز است",
-    "close": "بستن",
-    "semantic_mosque_page": "صفحه مسجد",
-    "semantic_of": "از",
-    "semantic_unread_mawaqit_notifications": "اعلان‌های خوانده‌نشده MAWAQIT",
-    "back": "بازگشت",
-    "semantic_download_all_surahs_for_offline_listening": "همه سوره‌ها را برای گوش دادن آفلاین دانلود کنید",
+    "semantic_mawaqit_notification": "unread notifications from MAWAQIT",
+    "semantic_open_notifications": "Open notifications",
+    "semantic_tap_to_change_notification": "Tap to change notification settings",
+    "semantic_edit_mosques": "Open to edit your mosques",
+    "semantic_change_layout": "Change home layout",
+    "semantic_open_layout_menu": "open layout menu",
+    "semantic_edit_home_settings": "Edit home settings",
+    "semantic_list_layout": "List layout",
+    "semantic_grid_layout": "Grid layout",
+    "sematnic_360_clock_layout": "360 clock layout",
+    "semantic_layout_menu_open": "Layout menu open",
+    "close": "Close",
+    "semantic_mosque_page": "Mosque page",
+    "semantic_of": "of",
+    "semantic_unread_mawaqit_notifications": "unread Mawaqit notifications",
+    "back": "Back",
+    "semantic_download_all_surahs_for_offline_listening": "Download all surahs for offline listening",
     "@semantic_download_all_surahs_for_offline_listening": {
         "description": "-> semantic_download_all_surahs_for_offline_listening"
     },
-    "semantic_download_all_surahs": "دانلود همه سوره‌ها",
+    "semantic_download_all_surahs": "Download all surahs",
     "@semantic_download_all_surahs": {
         "description": "-> semantic_download_all_surahs"
     },
-    "semantic_bulk_download_progress": "پیشرفت دانلود دسته‌جمعی",
+    "semantic_bulk_download_progress": "Bulk download progress",
     "@semantic_bulk_download_progress": {
         "description": "-> semantic_bulk_download_progress"
     },
-    "semantic_surahs_downloaded": "سوره‌های دانلود شده",
+    "semantic_surahs_downloaded": "surahs downloaded",
     "@semantic_surahs_downloaded": {
         "description": "-> semantic_surahs_downloaded"
     },
-    "semantic_cancel_download_all_surahs": "لغو دانلود همه سوره‌ها",
+    "semantic_cancel_download_all_surahs": "Cancel download all surahs",
     "@semantic_cancel_download_all_surahs": {
         "description": "-> semantic_cancel_download_all_surahs"
     },
-    "semantic_bulk_download_in_progress": "دانلود دسته‌جمعی در حال انجام است.",
+    "semantic_bulk_download_in_progress": "Bulk download in progress.",
     "@semantic_bulk_download_in_progress": {
         "description": "-> "
     },
-    "semantic_replay_current_surah": "پخش مجدد سوره فعلی",
+    "semantic_replay_current_surah": "Replay current surah",
     "@semantic_replay_current_surah": {
         "description": "-> semantic_replay_current_surah"
     },
-    "semantic_pause_current_surah": "مکث سوره فعلی",
+    "semantic_pause_current_surah": "Pause current surah",
     "@semantic_pause_current_surah": {
         "description": "-> semantic_pause_current_surah"
     },
-    "semantic_play_current_surah": "پخش سوره فعلی",
+    "semantic_play_current_surah": "Play current surah",
     "@semantic_play_current_surah": {
         "description": "-> semantic_play_current_surah"
     },
-    "semantic_open_play_on_watch_options_for": "باز کردن گزینه‌های پخش روی ساعت برای",
+    "semantic_open_play_on_watch_options_for": "Open play on watch options for",
     "@semantic_open_play_on_watch_options_for": {
         "description": "-> semantic_open_play_on_watch_options_for"
     },
-    "semantic_now_playing_surah": "در حال پخش. سوره",
+    "semantic_now_playing_surah": "Now playing. Surah",
     "@semantic_now_playing_surah": {
         "description": "-> semantic_now_playing_surah"
     },
-    "semantic_recited_by": "قرائت توسط",
+    "semantic_recited_by": "Recited by",
     "@semantic_recited_by": {
         "description": "-> semantic_recited_by"
     },
-    "semantic_minimize_player": "کوچک کردن پخش‌کننده",
+    "semantic_minimize_player": "Minimize player",
     "@semantic_minimize_player": {
         "description": "-> semantic_minimize_player"
     },
-    "semantic_elapsed": "سپری‌شده",
+    "semantic_elapsed": "Elapsed",
     "@semantic_elapsed": {
         "description": "-> "
     },
-    "semantic_playback_time_elapsed": "زمان پخش. سپری‌شده",
+    "semantic_playback_time_elapsed": "Playback time. Elapsed",
     "@semantic_playback_time_elapsed": {
         "description": "-> semantic_playback_time_elapsed"
     },
-    "semantic_remaining": "باقی‌مانده",
+    "semantic_remaining": "Remaining",
     "@semantic_remaining": {
         "description": "-> semantic_remaining"
     },
-    "semantic_turn_shuffle_off": "خاموش کردن پخش تصادفی",
+    "semantic_turn_shuffle_off": "Turn shuffle off",
     "@semantic_turn_shuffle_off": {
         "description": "-> semantic_turn_shuffle_off"
     },
-    "semantic_turn_shuffle_on": "روشن کردن پخش تصادفی",
+    "semantic_turn_shuffle_on": "Turn shuffle on",
     "@semantic_turn_shuffle_on": {
         "description": "-> semantic_turn_shuffle_on"
     },
-    "semantic_previous_surah": "سوره قبلی",
+    "semantic_previous_surah": "Previous surah",
     "@semantic_previous_surah": {
         "description": "-> semantic_previous_surah"
     },
-    "semantic_next_surah": "سوره بعدی",
+    "semantic_next_surah": "Next surah",
     "@semantic_next_surah": {
         "description": "-> semantic_next_surah"
     },
-    "semantic_turn_repeat_current_surah_off": "خاموش کردن تکرار سوره فعلی",
+    "semantic_turn_repeat_current_surah_off": "Turn repeat current surah off",
     "@semantic_turn_repeat_current_surah_off": {
         "description": "-> semantic_turn_repeat_current_surah_off"
     },
-    "semantic_turn_repeat_current_surah_on": "روشن کردن تکرار سوره فعلی",
+    "semantic_turn_repeat_current_surah_on": "Turn repeat current surah on",
     "@semantic_turn_repeat_current_surah_on": {
         "description": "-> semantic_turn_repeat_current_surah_on"
     },
-    "semantic_pause": "توقف",
+    "semantic_pause": "Pause",
     "@semantic_pause": {
         "description": "-> semantic_pause"
     },
-    "semantic_use_current_location": "استفاده از موقعیت فعلی",
-    "semantic_collapse_mosque_list": "بستن فهرست مساجد",
-    "semantic_expand_mosque_list": "باز کردن فهرست مساجد",
-    "added": "اضافه شد",
-    "not_added": "اضافه نشده",
-    "semantic_navigate_to_mosque": "مسیریابی به مسجد",
-    "semantic_decrease_pre_notification": "کاهش زمان اعلان پیش‌نما",
-    "semantic_increase_pre_notification": "افزایش زمان اعلان پیش‌نما",
-    "semantic_facing_qibla": "شما رو به قبله هستید",
-    "semantic_clockwise": "در جهت عقربه‌های ساعت",
-    "sematnic_counter_clockwise": "خلاف جهت عقربه‌های ساعت",
-    "semantic_rotate_slightly": "تقریباً رسیدید. کمی بچرخانید",
-    "semanitc_degrees_to_qibla": "درجه به سمت قبله",
-    "about": "حدود",
-    "rotate": "چرخش",
-    "semantic_close_audio_player": "بستن پخش‌کننده صوتی",
-    "reciter_settings": "تنظیمات قاری",
-    "previous_verse": "آیه قبلی",
-    "next_verse": "آیه بعدی",
-    "decrease": "کاهش",
-    "increase": "افزایش",
-    "quran_settings": "تنظیمات قرآن",
-    "semantic_mushaf_view": "نمای مصحف",
-    "semantic_verse_list_view": "نمای فهرست آیات",
-    "not_downloaded": "دانلود نشده",
-    "verse_list_enabled_for_accessibility": "حالت فهرست آیات برای دسترس‌پذیری فعال شد",
-    "semantic_switch_verse_list": "صفحه مصحف. برای دسترسی کامل به نمای فهرست آیات بروید.",
-    "semantic_decrease_hijri_adjustment": "کاهش تنظیم هجری",
+    "semantic_use_current_location": "Use current location",
+    "semantic_collapse_mosque_list": "Collapse mosque list",
+    "semantic_expand_mosque_list": "Expand mosque list",
+    "added": "Added",
+    "not_added": "Not added",
+    "semantic_navigate_to_mosque": "Navigate to mosque",
+    "semantic_decrease_pre_notification": "Decrease pre-notification time",
+    "semantic_increase_pre_notification": "Increase pre-notification time",
+    "semantic_facing_qibla": "You are facing the Qibla",
+    "semantic_clockwise": "Clockwise",
+    "sematnic_counter_clockwise": "counter-clockwise",
+    "semantic_rotate_slightly": "Almost there. Rotate slightly",
+    "semanitc_degrees_to_qibla": "degrees to Qibla",
+    "about": "about",
+    "rotate": "Rotate",
+    "semantic_close_audio_player": "Close audio player",
+    "reciter_settings": "Reciter settings",
+    "previous_verse": "Previous verse",
+    "next_verse": "Next verse",
+    "decrease": "Decrease",
+    "increase": "Increases",
+    "quran_settings": "Quran settings",
+    "semantic_mushaf_view": "Mushaf view",
+    "semantic_verse_list_view": "Verse list view",
+    "not_downloaded": "Not downloaded",
+    "verse_list_enabled_for_accessibility": "Verse list mode enabled for accessibility",
+    "semantic_switch_verse_list": "Mushaf page. Switch to verse list view for full accessibility.",
+    "semantic_decrease_hijri_adjustment": "Decrease Hijri adjustment",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
-    "semantic_minimum_adjustment_reached": "حداقل تنظیم انجام شد",
+    "semantic_minimum_adjustment_reached": "Minimum adjustment reached",
     "@semantic_minimum_adjustment_reached": {
         "description": "-> semantic_minimum_adjustment_reached"
     },
-    "semantic_current_adjustment": "تنظیم فعلی",
+    "semantic_current_adjustment": "Current adjustment",
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "افزایش تنظیم هجری",
+    "semantic_increase_hijri_adjustment": "Increase Hijri adjustment",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
-    "semantic_maximum_adjustment_reached": "حداکثر تنظیم انجام شد",
+    "semantic_maximum_adjustment_reached": "Maximum adjustment reached",
     "@semantic_maximum_adjustment_reached": {
         "description": "-> semantic_maximum_adjustment_reached"
     },
-    "semantic_minimum_size_reached": "حداقل اندازه رسید",
+    "semantic_minimum_size_reached": "Minimum size reached",
     "@semantic_minimum_size_reached": {
         "description": "-> semantic_minimum_size_reached"
     },
-    "semantic_decrease": "کاهش",
+    "semantic_decrease": "Decrease",
     "@semantic_decrease": {
         "description": "-> semantic_decrease"
     },
-    "semantic_current_size": "اندازه فعلی",
+    "semantic_current_size": "Current size",
     "@semantic_current_size": {
         "description": "-> semantic_current_size"
     },
-    "semantic_increase": "افزایش",
+    "semantic_increase": "Increase",
     "@semantic_increase": {
         "description": "-> semantic_increase"
     },
-    "semantic_maximum_size_reached": "حداکثر اندازه رسید",
+    "semantic_maximum_size_reached": "Maximum size reached",
     "@semantic_maximum_size_reached": {
         "description": "-> semantic_maximum_size_reached"
     },
-    "semantic_favorite": "مورد علاقه",
+    "semantic_favorite": "Favorite",
     "@semantic_favorite": {
         "description": "-> semantic_favorite"
     },
-    "semantic_added_to_favorites": "به علاقه‌مندی‌ها اضافه شد",
+    "semantic_added_to_favorites": "Added to favorites",
     "@semantic_added_to_favorites": {
         "description": "-> semantic_added_to_favorites"
     },
-    "semantic_not_in_favorites": "در علاقه‌مندی‌ها نیست",
+    "semantic_not_in_favorites": "Not in favorites",
     "@semantic_not_in_favorites": {
         "description": "-> semantic_not_in_favorites"
     },
-    "semantic_for": "برای",
-    "semantic_view_style": "سبک نمایش",
-    "semantic_double_tap_to_change_view_style": "برای تغییر سبک دوبار لمس کنید",
-    "semantic_share_dua": "اشتراک‌گذاری دعا",
-    "semantic_tasbih_settings": "تنظیمات تسبیح",
-    "semantic_tasbih_counter": "شمارنده تسبیح",
-    "semantic_previous_dua": "دعای قبلی",
-    "semantic_next_dua": "دعای بعدی",
-    "semantic_dua": "دعا",
-    "semantic_opens": "باز می‌کند",
-    "semantic_opens_language_selection": "انتخاب زبان را باز می‌کند",
-    "semantic_device": "دستگاه",
-    "semantic_light": "روشن",
-    "semantic_dark": "تاریک",
-    "semantic_on": "روشن",
-    "semantic_off": "روشن",
-    "semantic_ayah_list_actions": "حذف نشانک",
-    "remove_bookmark": "حذف نشانک",
-    "add_bookmark": "افزودن نشانک",
-    "selected": "انتخاب‌شده",
-    "double_tap_to_continue": "برای ادامه دوبار ضربه بزنید",
-    "clear_search": "پاک کردن جستجو",
-    "mosques_found": "مسجد یافت شد",
-    "mosque_added": "مسجد اضافه شد",
-    "mosque_removed": "مسجد حذف شد",
-    "scroll_left_right_select_surah": "برای انتخاب سوره به چپ یا راست اسکرول کنید",
-    "swipe_left_right_select_mushaf_type": "برای انتخاب نوع دیگر مصحف به چپ یا راست بکشید",
-    "location_permission_required": "اجازه موقعیت لازم است",
-    "semantic_previous_month": "ماه قبل",
-    "semantic_next_month": "ماه بعد",
-    "semantic_view_image": "مشاهده تصویر",
+    "semantic_for": "for",
+    "semantic_view_style": "View style",
+    "semantic_double_tap_to_change_view_style": "Double tap to change view style",
+    "semantic_share_dua": "Share dua",
+    "semantic_tasbih_settings": "Tasbih settings",
+    "semantic_tasbih_counter": "Tasbih counter",
+    "semantic_previous_dua": "Previous dua",
+    "semantic_next_dua": "Next dua",
+    "semantic_dua": "Dua",
+    "semantic_opens": "Opens",
+    "semantic_opens_language_selection": "Opens language selection",
+    "semantic_device": "Device",
+    "semantic_light": "Light",
+    "semantic_dark": "Dark",
+    "semantic_on": "On",
+    "semantic_off": "Off",
+    "semantic_ayah_list_actions": "Ayah list actions",
+    "remove_bookmark": "Remove bookmark",
+    "add_bookmark": "Add bookmark",
+    "selected": "selected",
+    "double_tap_to_continue": "Double tap to continue",
+    "clear_search": "Clear search",
+    "mosques_found": "mosques found",
+    "mosque_added": "Mosque added",
+    "mosque_removed": "Mosque removed",
+    "scroll_left_right_select_surah": "Scroll left or right to select a surah",
+    "swipe_left_right_select_mushaf_type": "Swipe left or right to select a different mushaf type",
+    "location_permission_required": "اجازه موقعیت مورد نیاز است",
+    "semantic_previous_month": "Previous month",
+    "semantic_next_month": "Next month",
+    "semantic_view_image": "View image",
     "access_location_details": "برای نمایش دقیق آب‌وهوای محلی، جهت قبله و اطلاعات مساجد بر اساس موقعیت فعلی شما، MAWAQIT نیاز به دسترسی به موقعیت شما دارد. شما قبلاً این اجازه را رد کرده‌اید.",
     "location_off": "موقعیت خاموش است",
-    "semantic_pre_notification_time": "زمان اعلان پیش‌نما",
+    "semantic_pre_notification_time": "pre-notification time",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
     "search_for_mosque_or_enable_location": "ما نمی‌توانیم نزدیک‌ترین مسجد را پیشنهاد کنیم زیرا دسترسی به موقعیت مکانی رد شده است. لطفاً یک مسجد را جستجو کنید یا اجازه موقعیت را فعال کنید.",
-    "location": "موقعیت مکانی",
-    "stop": "توقف",
-    "plays_adhan_prayer_arrives": "با فرا رسیدن وقت نماز، اذان پخش می‌کند",
-    "play_in_silent_mode": "پخش در حالت بی‌صدا",
-    "notifications_not_arriving": "اعلان‌ها دریافت نمی‌شوند؟",
-    "android_phones_aggressively": "برخی گوشی‌های اندرویدی برنامه‌ها را در پس‌زمینه به‌صورت تهاجمی می‌بندند.",
-    "elmir_kuliev": "المیر قلی‌یف",
+    "location": "Location",
+    "stop": "Stop",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
+    "play_in_silent_mode": "Play in silent mode",
+    "notifications_not_arriving": "Notifications not arriving?",
+    "android_phones_aggressively": "Some Android phones aggressively close apps in the background.",
+    "elmir_kuliev": "Elmir Kuliev",
     "@elmir_kuliev": {
         "description": "-> Elmir Kuliev"
     },
-    "besim_korkut": "بسیم کورکوت",
+    "besim_korkut": "Besim Korkut",
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
-    "settings_language_bs": "بوسنیایی",
-    "something_wrong_getting_location": "هنگام دریافت موقعیت شما مشکلی پیش آمد. لطفاً دوباره تلاش کنید.",
-    "custom_volume": "میزان صدای سفارشی",
-    "general": "عمومی",
-    "prayer_location": "نماز و موقعیت مکانی",
-    "privacy": "حریم خصوصی",
-    "play_full_adhan": "پخش کامل اذان"
+    "settings_language_bs": "Bosnian",
+    "something_wrong_getting_location": "Something went wrong while getting your location. Please try again.",
+    "custom_volume": "Custom volume",
+    "general": "General",
+    "prayer_location": "Prayer & Location",
+    "privacy": "Privacy",
+    "play_full_adhan": "Play full adhan"
 }
