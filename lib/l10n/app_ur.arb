@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1600,5 +1600,6 @@
     "general": "عمومی",
     "prayer_location": "نماز اور لوکیشن",
     "privacy": "رازداری",
-    "play_full_adhan": "مکمل اذان چلائیں"
+    "play_full_adhan": "مکمل اذان چلائیں",
+    "full_adhan_will_keep_repeating": "مکمل اذان اس وقت تک بار بار چلتی رہے گی جب تک آپ اسے بند نہ کریں۔"
 }
