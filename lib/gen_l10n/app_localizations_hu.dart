@@ -2575,4 +2575,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Teljes adhán lejátszása';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'A teljes adhán ismétlődni fog, amíg be nem zárja.';
 }

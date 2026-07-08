@@ -2583,4 +2583,8 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Riproduci l\'adhan completo';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'L\'adhan completo continuerà a ripetersi finché non lo chiudi.';
 }

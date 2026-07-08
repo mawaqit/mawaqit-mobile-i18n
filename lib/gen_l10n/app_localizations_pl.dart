@@ -2560,4 +2560,8 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Odtwórz pełny adhan';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'Pełny adhan będzie powtarzany, dopóki go nie zamkniesz.';
 }

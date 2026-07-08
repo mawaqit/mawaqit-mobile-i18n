@@ -2559,4 +2559,8 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'مکمل اذان چلائیں';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'مکمل اذان اس وقت تک بار بار چلتی رہے گی جب تک آپ اسے بند نہ کریں۔';
 }

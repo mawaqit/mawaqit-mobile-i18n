@@ -2559,4 +2559,8 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Play full adhan';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'Full adhan will keep repeating until you close it.';
 }

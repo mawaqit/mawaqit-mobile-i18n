@@ -2551,4 +2551,8 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'เล่นอะซานครบทั้งหมด';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'อะซานครบทั้งหมดจะเล่นซ้ำไปเรื่อย ๆ จนกว่าคุณจะปิด';
 }

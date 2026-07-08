@@ -2561,4 +2561,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'সম্পূর্ণ আজান চালান';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'সম্পূর্ণ আজান আপনি বন্ধ না করা পর্যন্ত বারবার চলতে থাকবে।.';
 }

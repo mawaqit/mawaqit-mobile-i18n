@@ -2574,4 +2574,8 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Luaj ezanin e plotë';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'Ezani i plotë do të vazhdojë të përsëritet derisa ta mbyllni.';
 }

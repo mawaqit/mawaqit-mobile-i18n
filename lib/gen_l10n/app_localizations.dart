@@ -4979,6 +4979,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Play full adhan'**
   String get play_full_adhan;
+
+  /// No description provided for @full_adhan_will_keep_repeating.
+  ///
+  /// In en, this message translates to:
+  /// **'Full adhan will keep repeating until you close it.'**
+  String get full_adhan_will_keep_repeating;
 }
 
 class _AppLocalizationsDelegate

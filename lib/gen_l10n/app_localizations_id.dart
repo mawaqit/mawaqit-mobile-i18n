@@ -2564,4 +2564,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Putar adzan lengkap';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'Adzan lengkap akan terus berulang hingga Anda menutupnya.';
 }

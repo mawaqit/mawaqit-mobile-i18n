@@ -2574,4 +2574,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'Speel volledige adhan af';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'De volledige adhan blijft zich herhalen totdat je deze sluit.';
 }

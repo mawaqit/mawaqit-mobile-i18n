@@ -2567,4 +2567,8 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'ئەذانی تەواو پخش بکە';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'ئەذانی تەواو بەردەوام دووبارە دەبێتەوە تا دایدەخەیت.';
 }

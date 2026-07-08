@@ -2559,4 +2559,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get play_full_adhan => 'تولۇق ئەزاننى قويۇش';
+
+  @override
+  String get full_adhan_will_keep_repeating =>
+      'تولۇق ئەزان سىز ئۇنى ياپقۇچە تەكرار قويۇلىدۇ.';
 }
