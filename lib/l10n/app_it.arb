@@ -1600,5 +1600,6 @@
     "general": "Generale",
     "prayer_location": "Preghiera e posizione",
     "privacy": "Privacy",
-    "play_full_adhan": "Riproduci l'adhan completo"
+    "play_full_adhan": "Riproduci l'adhan completo",
+    "full_adhan_will_keep_repeating": "L'adhan completo continuerà a ripetersi finché non lo chiudi."
 }
