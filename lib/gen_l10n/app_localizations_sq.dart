@@ -2578,4 +2578,10 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Ezani i plotë do të vazhdojë të përsëritet derisa ta mbyllni.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Persisht';
 }

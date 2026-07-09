@@ -2593,4 +2593,10 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Der vollständige Adhan wird wiederholt, bis Sie ihn schließen.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Persisch';
 }

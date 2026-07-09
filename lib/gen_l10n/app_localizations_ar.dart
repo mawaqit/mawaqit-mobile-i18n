@@ -2535,4 +2535,10 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'سيستمر الأذان الكامل في التكرار حتى تقوم بإغلاقه.';
+
+  @override
+  String get hussein_taji_kal_dari => 'حسين تاجي كال داري';
+
+  @override
+  String get settings_language_fa => 'الفارسية';
 }

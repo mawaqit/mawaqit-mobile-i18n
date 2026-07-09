@@ -2564,4 +2564,10 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Pełny adhan będzie powtarzany, dopóki go nie zamkniesz.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Perski';
 }

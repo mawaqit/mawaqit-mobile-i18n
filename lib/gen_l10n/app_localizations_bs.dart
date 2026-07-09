@@ -2570,4 +2570,10 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Cijeli ezan će se ponavljati dok ga ne zatvorite.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Perzijski';
 }

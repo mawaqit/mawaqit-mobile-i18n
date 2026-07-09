@@ -2556,4 +2556,10 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Hela adhan kommer att fortsätta upprepas tills du stänger den.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Persiska';
 }

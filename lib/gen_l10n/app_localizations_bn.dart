@@ -2565,4 +2565,10 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'সম্পূর্ণ আজান আপনি বন্ধ না করা পর্যন্ত বারবার চলতে থাকবে।.';
+
+  @override
+  String get hussein_taji_kal_dari => 'হুসেইন তাজি কাল দারি';
+
+  @override
+  String get settings_language_fa => 'ফারসি';
 }

@@ -2563,4 +2563,10 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'تولۇق ئەزان سىز ئۇنى ياپقۇچە تەكرار قويۇلىدۇ.';
+
+  @override
+  String get hussein_taji_kal_dari => 'ھۈسەيىن تاجى كال دارى';
+
+  @override
+  String get settings_language_fa => 'پارسچە';
 }
