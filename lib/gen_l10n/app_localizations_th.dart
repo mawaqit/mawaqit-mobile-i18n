@@ -2555,4 +2555,10 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'อะซานครบทั้งหมดจะเล่นซ้ำไปเรื่อย ๆ จนกว่าคุณจะปิด';
+
+  @override
+  String get hussein_taji_kal_dari => 'ฮุสเซน ทาจี คาล ดารี';
+
+  @override
+  String get settings_language_fa => 'ภาษาเปอร์เซีย';
 }

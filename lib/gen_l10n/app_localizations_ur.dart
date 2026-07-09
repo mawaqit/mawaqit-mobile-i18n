@@ -940,8 +940,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get calculation_high_latitude_middle => 'Middle of the night';
 
   @override
-  String get calculation_high_latitude_one_seventh =>
-      'One-seventh of the night';
+  String get calculation_high_latitude_one_seventh => 'رات کا ایک ساتواں حصہ';
 
   @override
   String get calculation_high_latitude_angle_based => 'Angle based method';
@@ -2563,4 +2562,10 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'مکمل اذان اس وقت تک بار بار چلتی رہے گی جب تک آپ اسے بند نہ کریں۔';
+
+  @override
+  String get hussein_taji_kal_dari => 'حسین تاجی کال داری';
+
+  @override
+  String get settings_language_fa => 'فارسی';
 }

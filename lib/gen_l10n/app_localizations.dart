@@ -4985,6 +4985,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Full adhan will keep repeating until you close it.'**
   String get full_adhan_will_keep_repeating;
+
+  /// No description provided for @hussein_taji_kal_dari.
+  ///
+  /// In en, this message translates to:
+  /// **'Hussein Taji Kal Dari'**
+  String get hussein_taji_kal_dari;
+
+  /// No description provided for @settings_language_fa.
+  ///
+  /// In en, this message translates to:
+  /// **'Persian'**
+  String get settings_language_fa;
 }
 
 class _AppLocalizationsDelegate

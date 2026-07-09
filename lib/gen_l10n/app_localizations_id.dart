@@ -2568,4 +2568,10 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Adzan lengkap akan terus berulang hingga Anda menutupnya.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Persia';
 }

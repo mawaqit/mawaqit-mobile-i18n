@@ -2551,4 +2551,10 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Tam ezan siz kapatana kadar tekrar etmeye devam edecek.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Farsça';
 }

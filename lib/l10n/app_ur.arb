@@ -799,7 +799,7 @@
     "calculation_high_latitude": "Higher latitudes",
     "calculation_high_latitude_none": "None",
     "calculation_high_latitude_middle": "Middle of the night",
-    "calculation_high_latitude_one_seventh": "One-seventh of the night",
+    "calculation_high_latitude_one_seventh": "رات کا ایک ساتواں حصہ",
     "calculation_high_latitude_angle_based": "Angle based method",
     "calculation_adjustment": "Manual correction",
     "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
@@ -1601,5 +1601,7 @@
     "prayer_location": "نماز اور لوکیشن",
     "privacy": "رازداری",
     "play_full_adhan": "مکمل اذان چلائیں",
-    "full_adhan_will_keep_repeating": "مکمل اذان اس وقت تک بار بار چلتی رہے گی جب تک آپ اسے بند نہ کریں۔"
+    "full_adhan_will_keep_repeating": "مکمل اذان اس وقت تک بار بار چلتی رہے گی جب تک آپ اسے بند نہ کریں۔",
+    "hussein_taji_kal_dari": "حسین تاجی کال داری",
+    "settings_language_fa": "فارسی"
 }

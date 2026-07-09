@@ -2579,4 +2579,10 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'A teljes adhán ismétlődni fog, amíg be nem zárja.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+
+  @override
+  String get settings_language_fa => 'Perzsa';
 }

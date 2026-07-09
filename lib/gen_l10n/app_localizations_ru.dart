@@ -2572,4 +2572,10 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get full_adhan_will_keep_repeating =>
       'Полный азан будет повторяться, пока вы его не закроете.';
+
+  @override
+  String get hussein_taji_kal_dari => 'Хусейн Таджи Каль Дари';
+
+  @override
+  String get settings_language_fa => 'Персидский';
 }
