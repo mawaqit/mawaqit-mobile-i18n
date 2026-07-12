@@ -2152,7 +2152,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'This will download all surahs for offline listening. Please make sure you’re connected to Wi-Fi before continuing.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'پەنجەی لێبدە بۆ گۆڕینی ئاگانامە';
 
   @override
   String get adhan_at => 'Ezan li';
