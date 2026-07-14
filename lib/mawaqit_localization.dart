@@ -34,5 +34,6 @@ class MawaqitLocalization {
     Locale('tr', 'TR'),
     Locale('ur', 'PK'),
     Locale('sq', 'AL'),
+    Locale('fa', 'IR'),
   ];
 }
