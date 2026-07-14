@@ -133,7 +133,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get settings_CreditsText =>
-      'حق نشر و مالکیت معنوی\n\nکپی‌رایت © ۲۰۲۱ برای مواقیت متعلق به بنیاد مواقیت، تمامی حقوق محفوظ است.\nمالکیت معنوی و حقوق کپی‌رایت این برنامه، افزونه‌ها، افزودنی‌ها یا محتوای آن متعلق به مواقیت برای انجمن مواقیت است.\nاین نسخه از برنامه تنها برای توزیع خیریه و به عنوان وقف مجاز است. هرگونه استفاده یا توزیع تجاری اکیداً ممنوع است.\nاین مجوز به هیچ عنوان به معنی فروش یا واگذاری هیچ‌یک از حقوق مربوط به این محصول یا اجزای آن، افزونه‌ها، افزودنی‌ها یا محتوا نمی‌باشد. بلکه فقط اجازه توزیع خیریه از طریق پلتفرم فعلی فروشگاه‌های اپلیکیشن را می‌دهد.\n\n محدودیت‌ها و ممنوعیت‌ها:\nتوزیع مجدد برنامه، چه از طریق کد منبع یا فایل‌های باینری، یا مهندسی معکوس آن، چه با تغییرات و چه بدون آن، تخلف از کپی‌رایت محسوب می‌شود و فرد متخلف در معرض پیگرد قانونی قرار می‌گیرد.\nهیچ شخصی حق ندارد این برنامه را خارج از فروشگاه‌های رسمی اپل یا گوگل پلی بدون کسب مجوز رسمی کتبی از صاحب کپی‌رایت، یعنی مواقیت، توزیع کند. این کار نقض قانون حمایت از مالکیت فکری است و مسئول آن در معرض اقدامات قانونی قرار خواهد گرفت.\nاستفاده از نام برنامه، برند، نشان تجاری، یا نام صاحب کپی‌رایت مواقیت برای تبلیغ محصولات مشابه یا مشتق‌شده از این برنامه، یا هر محصول دیگر، بدون کسب اجازه کتبی قبلی ممنوع است.\n\n سلب مسئولیت:\nاین برنامه به همان صورت که هست (\"as is\") توسط مالکین و سهام‌داران منتشر شده است.\nشرکت توسعه‌دهنده و مالک برنامه هیچگونه ضمانت صریح یا ضمنی ارائه نمی‌دهد؛ از جمله ولی نه محدود به ضمانت کاربرد برنامه برای اهداف خاص یا تجاری.\nدر هیچ حالتی، بنیاد مواقیت یا سهام‌داران آن، در برابر هیچ‌گونه خسارتی مسئول نیستند؛ چه مستقیم، چه غیرمستقیم یا اتفاقی، از جمله اما نه محدود به:\nاز دست رفتن داده‌ها\nقطع فعالیت‌های تجاری\nاز دست رفتن سود\nیا سایر زیان‌ها (خواه بر اساس قرارداد، تقصیر، سهل‌انگاری یا دلایل دیگر)\n\n حقوق اشخاص ثالث:\nحقوق کپی‌رایت مربوط به هرگونه محتوای اشخاص ثالث داخل برنامه محفوظ بوده و متعلق به صاحبان آن است.\n\nتصاویر و پس‌زمینه‌ها:\nتصاویر: کپی‌رایت متعلق به Shutterstock است.\nآیکون‌ها: تحت مجوز Creative Commons BY 4.0 از Flaticon استفاده شده است.\nفایل‌های غیرفونت و غیرآیکون تحت مجوز MIT هستند.\nفونت‌ها: Roboto از Google Fonts تحت مجوز SIL Open Font License 1.1 (OFL) منتشر شده‌اند.\nبسته‌های Cupertino متعلق به شرکت Apple هستند.\n\n کد، بسته‌ها و چارچوب‌ها:\nبرنامه با استفاده از فریم‌ورک Flutter از Google توسعه یافته است و شامل بسته‌های زیر است:\n\nhttp\n\ngeolocator\n\nflutter_platform_widgets\n\nshared_preferences\n\nprovider\n\nflutter_local_notifications\n\naudioplayers\n\ntoggle_switch\n\ncupertino_icons\n\nmarquee_widget\n\nintl\n\nflutter_switch\n\njson_annotation';
+      'حق نشر و مالکیت معنوی\n\nکپی‌رایت © ۲۰۲۱ برای مواقیت متعلق به بنیاد مواقیت، تمامی حقوق محفوظ است.\nمالکیت معنوی و حقوق کپی‌رایت این برنامه، افزونه‌ها، افزودنی‌ها یا محتوای آن متعلق به مواقیت برای انجمن مواقیت است.\nاین نسخه از برنامه تنها برای توزیع خیریه و به عنوان وقف مجاز است. هرگونه استفاده یا توزیع تجاری اکیداً ممنوع است.\nاین مجوز به هیچ عنوان به معنی فروش یا واگذاری هیچ‌یک از حقوق مربوط به این محصول یا اجزای آن، افزونه‌ها، افزودنی‌ها یا محتوا نمی‌باشد. بلکه فقط اجازه توزیع خیریه از طریق پلتفرم فعلی فروشگاه‌های اپلیکیشن را می‌دهد.\n\n محدودیت‌ها و ممنوعیت‌ها:\nتوزیع مجدد برنامه، چه از طریق کد منبع یا فایل‌های باینری، یا مهندسی معکوس آن، چه با تغییرات و چه بدون آن، تخلف از کپی‌رایت محسوب می‌شود و فرد متخلف در معرض پیگرد قانونی قرار می‌گیرد.\nهیچ شخصی حق ندارد این برنامه را خارج از فروشگاه‌های رسمی اپل یا گوگل پلی بدون کسب مجوز رسمی کتبی از صاحب کپی‌رایت، یعنی مواقیت، توزیع کند. این کار نقض قانون حمایت از مالکیت فکری است و مسئول آن در معرض اقدامات قانونی قرار خواهد گرفت.\nاستفاده از نام برنامه، برند، نشان تجاری، یا نام صاحب کپی‌رایت مواقیت برای تبلیغ محصولات مشابه یا مشتق‌شده از این برنامه، یا هر محصول دیگر، بدون کسب اجازه کتبی قبلی ممنوع است.\n\n سلب مسئولیت:\nاین برنامه به همان صورت که هست (\"as is\") توسط مالکین و سهام‌داران منتشر شده است.\nشرکت توسعه‌دهنده و مالک برنامه هیچگونه ضمانت صریح یا ضمنی ارائه نمی‌دهد؛ از جمله ولی نه محدود به ضمانت کاربرد برنامه برای اهداف خاص یا تجاری.\nدر هیچ حالتی، بنیاد مواقیت یا سهام‌داران آن، در برابر هیچ‌گونه خسارتی مسئول نیستند؛ چه مستقیم، چه غیرمستقیم یا اتفاقی، از جمله اما نه محدود به:\nاز دست رفتن داده‌ها\nقطع فعالیت‌های تجاری\nاز دست رفتن سود\nیا سایر زیان‌ها (خواه بر اساس قرارداد، تقصیر، سهل‌انگاری یا دلایل دیگر)\n\n حقوق اشخاص ثالث:\nحقوق کپی‌رایت مربوط به هرگونه محتوای اشخاص ثالث داخل برنامه محفوظ بوده و متعلق به صاحبان آن است.\n\nتصاویر و پس‌زمینه‌ها:\nتصاویر: کپی‌رایت متعلق به Shutterstock است.\nآیکون‌ها: تحت مجوز Creative Commons BY 4.0 از Flaticon استفاده شده است.\nفایل‌های غیرفونت و غیرآیکون تحت مجوز MIT هستند.\nفونت‌ها: Roboto از Google Fonts تحت مجوز SIL Open Font License 1.1 (OFL) منتشر شده‌اند.\nبسته‌های Cupertino متعلق به شرکت Apple هستند.\n\n کد، بسته‌ها و چارچوب‌ها:\nبرنامه با استفاده از فریم‌ورک Flutter از Google توسعه یافته است و شامل بسته‌های زیر است:\n\n\nhttp\ngeolocator\nflutter_platform_widgets\nshared_preferences\nprovider\nflutter_local_notifications\naudioplayers\ntoggle_switch\ncupertino_icons\nmarquee_widget\nintl\nflutter_switch\njson_annotation';
 
   @override
   String get settings_AboutUsText =>
@@ -293,7 +293,7 @@ class AppLocalizationsFa extends AppLocalizations {
       'اجازه دهید مواقیت به موقعیت مکانی من دسترسی داشته باشد.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Enable location';
+  String get enable_location_service_from_app_settings => 'فعال‌سازی موقعیت';
 
   @override
   String get the_request_timeout => 'زمان درخواست منقضی شد';
@@ -750,7 +750,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get ayah => 'آيه';
 
   @override
-  String get quran_verses => 'آيات';
+  String get quran_verses => 'آیاتها';
 
   @override
   String get surah => 'سورة';
@@ -1613,110 +1613,109 @@ class AppLocalizationsFa extends AppLocalizations {
   String get tablawi => 'محمد الطبلاوی';
 
   @override
-  String get abdul_rashid_ali_sufi => 'Abdul Rashid Ali Sufi';
+  String get abdul_rashid_ali_sufi => 'عبدالرشید علی صوفی';
 
   @override
-  String get abdullaah_ajuhaynee_murattal => 'Abdullaah Ajuhaynee';
+  String get abdullaah_ajuhaynee_murattal => 'عبدالله الجهنی';
 
   @override
-  String get abdullaah_basfar_murattal => 'Abdullah Basfar';
+  String get abdullaah_basfar_murattal => 'عبدالله بصفر';
 
   @override
-  String get abdullah_matroud_murattal => 'Abdullah Matroud';
+  String get abdullah_matroud_murattal => 'عبدالله مطرود';
 
   @override
-  String get ahmed_al_ajamy_murattal => 'Ahmed Al Ajamy';
+  String get ahmed_al_ajamy_murattal => 'احمد العجمی';
 
   @override
-  String get ahmed_neana_murattal => 'Ahmed Neana';
+  String get ahmed_neana_murattal => 'احمد نَعینه';
 
   @override
-  String get akram_alaqimy_murattal => 'Akram Alaqimy';
+  String get akram_alaqimy_murattal => 'اکرم العاقمی';
 
   @override
-  String get ali_hajjaj_suesy_murattal => 'Ali Hajjaj Suesy';
+  String get ali_hajjaj_suesy_murattal => 'علی حجاج سویسی';
 
   @override
-  String get ali_jaber_murattal => 'Ali Jaber';
+  String get ali_jaber_murattal => 'علی جابر';
 
   @override
-  String get ayman_sowaid_murattal => 'Ayman Sowaid';
+  String get ayman_sowaid_murattal => 'ایمن سوید';
 
   @override
-  String get aziz_alii_murattal => 'Aziz Alii';
+  String get aziz_alii_murattal => 'عزیز علی';
 
   @override
-  String get fares_abbad_murattal => 'Fares Abbad';
+  String get fares_abbad_murattal => 'فارس عباد';
 
   @override
-  String get hudhaify_murattal => 'Hudhaify';
+  String get hudhaify_murattal => 'حذیفی';
 
   @override
-  String get husary_muallim => 'Husary (Mu\'allim)';
+  String get husary_muallim => 'حصری (معلم)';
 
   @override
-  String get ibrahim_akhdar_murattal => 'Ibrahim Akhdar';
+  String get ibrahim_akhdar_murattal => 'ابراهیم اخضر';
 
   @override
-  String get khaalid_qahataanee_murattal => 'Khaalid Qahataanee';
+  String get khaalid_qahataanee_murattal => 'خالد القحطانی';
 
   @override
-  String get khalid_al_mohanna => 'Khalid Al Mohanna';
+  String get khalid_al_mohanna => 'خالد المهنا';
 
   @override
-  String get mahmoud_ali_al_banna_murattal => 'Mahmoud Ali Al Banna';
+  String get mahmoud_ali_al_banna_murattal => 'محمود علی البنا';
 
   @override
-  String get minshawy_mujawwad => 'Minshawy (Mujawwad)';
+  String get minshawy_mujawwad => 'منشاوی (مجوّد)';
 
   @override
-  String get mohammad_rashad_alshareef => 'Mohammad Rashad Alshareef';
+  String get mohammad_rashad_alshareef => 'محمد رشاد الشریف';
 
   @override
-  String get muhammad_abdulKareem_murattal => 'Muhammad Abdul Kareem';
+  String get muhammad_abdulKareem_murattal => 'محمد عبد الکریم';
 
   @override
-  String get muhammad_ayyoub_murattal => 'Muhammad Ayyoub';
+  String get muhammad_ayyoub_murattal => 'محمد ایوب';
 
   @override
-  String get muhammad_jibreel_murattal => 'Muhammad Jibreel';
+  String get muhammad_jibreel_murattal => 'محمد جبریل';
 
   @override
-  String get muhsin_al_qasim_murattal => 'Muhsin Al Qasim';
+  String get muhsin_al_qasim_murattal => 'محسن القاسم';
 
   @override
-  String get nabil_rifai3_murattal => 'Nabil Rifai';
+  String get nabil_rifai3_murattal => 'نبیل الرفاعی';
 
   @override
-  String get nasser_alqatami_murattal => 'Nasser Alqatami';
+  String get nasser_alqatami_murattal => 'ناصر القطامی';
 
   @override
-  String get sahl_yassin_murattal => 'Sahl Yassin';
+  String get sahl_yassin_murattal => 'سهل یاسین';
 
   @override
-  String get salaah_abdulRahman_bukhatir_murattal =>
-      'Salaah AbdulRahman Bukhatir';
+  String get salaah_abdulRahman_bukhatir_murattal => 'صلاح عبدالرحمن بخاطر';
 
   @override
-  String get salah_albudair_murattal => 'Salah AlBudair';
+  String get salah_albudair_murattal => 'صلاح البدیر';
 
   @override
-  String get tawfeeq_assayegh => 'Tawfeeq Assayegh';
+  String get tawfeeq_assayegh => 'توفیق الصائغ';
 
   @override
-  String get yaser_salamah_murattal => 'Yaser Salamah';
+  String get yaser_salamah_murattal => 'یاسر سلامه';
 
   @override
-  String get yassin_aljazairi => 'یاسین الجزایری';
+  String get yassin_aljazairi => 'یاسین الجزائری';
 
   @override
-  String get mohammed_abdelkarim => 'محمد عبدکریم';
+  String get mohammed_abdelkarim => 'محمد عبدالکریم';
 
   @override
   String get alayoun_elkouchi => 'العیون الکوشی';
 
   @override
-  String get abdelkarim_daghoush => 'عبدالکریم داغوش';
+  String get abdelkarim_daghoush => 'عبدالکریم دغوش';
 
   @override
   String get murattal => 'مرتّل';
@@ -1756,7 +1755,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get improved_Hafs_Rewaya_Force_Update =>
-      'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
+      'ما قِرائتِ حَفص عَن عاصم را بهبود داده‌ایم. همین حالا دانلود کنید تا با نگه‌داشتن روی هر آیه، تفسیر را بررسی و قرائت‌ها را گوش دهید.';
 
   @override
   String get mawaqit_three_sixty_description =>
@@ -1770,53 +1769,52 @@ class AppLocalizationsFa extends AppLocalizations {
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => 'تنظیمات ۳۶۰';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'رفتار';
 
   @override
-  String get next_prayer_open => 'Next prayer';
+  String get next_prayer_open => 'نماز بعدی';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'همه بسته‌اند';
 
   @override
-  String get recomended_next_prayer => 'Recommended: Next prayer only';
+  String get recomended_next_prayer => 'توصیه‌شده: فقط نماز بعدی';
 
   @override
-  String get live_preview => 'Live Preview';
+  String get live_preview => 'تایمر زنده';
 
   @override
-  String get font_Size_Normal => 'Normal';
+  String get font_Size_Normal => 'معمولی';
 
   @override
-  String get font_Size_Large => 'Large';
+  String get font_Size_Large => 'بزرگ';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'همه باز است';
 
   @override
-  String get settingFontSize => 'Font Size';
+  String get settingFontSize => 'اندازه قلم';
 
   @override
-  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+  String get last_Third_Of_The_Night => 'یک‌سوم آخر شب';
 
   @override
   String get shaykh_aminuddin_muhammad => 'شیخ امین‌الدین محمد';
 
   @override
-  String get hafs_an_asim => 'حفص عن عاصم';
+  String get hafs_an_asim => 'حَفص عَن عاصم';
 
   @override
-  String get most_widespread_riwayah => 'رایج‌ترین قرائت در سراسر جهان';
+  String get most_widespread_riwayah => 'رِوایَتِ رایج‌ در سراسر دنیا';
 
   @override
-  String get warsh_an_nafi => 'ورش عن نافع';
+  String get warsh_an_nafi => 'وَرش عَن نافع';
 
   @override
-  String get popular_across_north_west_africa =>
-      'محبوب در سراسر شمال و غرب آفریقا';
+  String get popular_across_north_west_africa => 'رایج در شمال و غرب آفریقا';
 
   @override
   String get select => 'انتخاب';
@@ -2105,7 +2103,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get tap_change_layout => 'برای تغییر طرح اینجا را لمس کنید';
 
   @override
-  String get step => 'Step';
+  String get step => 'مرحله';
 
   @override
   String get jump_to_page => 'رفتن به صفحه';
@@ -2117,7 +2115,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get please_select_surah => 'لطفاً یک سوره را انتخاب کنید';
 
   @override
-  String get ayah_number => 'Ayah Number';
+  String get ayah_number => 'Sofian S. Siregar';
 
   @override
   String get ayah_num_greater_zero => 'شماره آیه باید بزرگتر از 0 باشد';
@@ -2143,360 +2141,356 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get this_will_download_all_surahs_for_offline =>
-      'این کار تمام سوره‌ها را برای گوش دادن آفلاین دانلود می‌کند. لطفاً پیش از ادامه مطمئن شوید که به Wi-Fi متصل هستید.';
+      'این همه سوره‌ها را برای گوش دادن آفلاین دانلود می‌کند. لطفاً قبل از ادامه مطمئن شوید که به Wi-Fi متصل هستید.';
 
   @override
-  String get tap_change_notification => 'Tap to change notification';
+  String get tap_change_notification => 'برای تغییر اعلان ضربه بزنید';
 
   @override
   String get adhan_at => 'اذان در';
 
   @override
   String get semantic_mawaqit_notification =>
-      'unread notifications from MAWAQIT';
+      'اعلان‌های خوانده‌نشده از MAWAQIT';
 
   @override
-  String get semantic_open_notifications => 'Open notifications';
+  String get semantic_open_notifications => 'باز کردن اعلان‌ها';
 
   @override
   String get semantic_tap_to_change_notification =>
-      'Tap to change notification settings';
+      'برای تغییر تنظیمات اعلان ضربه بزنید';
 
   @override
-  String get semantic_edit_mosques => 'Open to edit your mosques';
+  String get semantic_edit_mosques => 'برای ویرایش مساجد خود باز کنید';
 
   @override
-  String get semantic_change_layout => 'Change home layout';
+  String get semantic_change_layout => 'تغییر چیدمان صفحه اصلی';
 
   @override
-  String get semantic_open_layout_menu => 'open layout menu';
+  String get semantic_open_layout_menu => 'باز کردن منوی چیدمان';
 
   @override
-  String get semantic_edit_home_settings => 'Edit home settings';
+  String get semantic_edit_home_settings => 'ویرایش تنظیمات صفحه اصلی';
 
   @override
-  String get semantic_list_layout => 'List layout';
+  String get semantic_list_layout => 'چیدمان لیستی';
 
   @override
-  String get semantic_grid_layout => 'Grid layout';
+  String get semantic_grid_layout => 'چیدمان شبکه‌ای';
 
   @override
-  String get sematnic_360_clock_layout => '360 clock layout';
+  String get sematnic_360_clock_layout => 'چیدمان ساعت ۳۶۰';
 
   @override
-  String get semantic_layout_menu_open => 'Layout menu open';
+  String get semantic_layout_menu_open => 'منوی چیدمان باز است';
 
   @override
-  String get close => 'Close';
+  String get close => 'بستن';
 
   @override
-  String get semantic_mosque_page => 'Mosque page';
+  String get semantic_mosque_page => 'صفحه مسجد';
 
   @override
-  String get semantic_of => 'of';
+  String get semantic_of => 'از';
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'unread Mawaqit notifications';
+      'اعلان‌های خوانده‌نشده MAWAQIT';
 
   @override
-  String get back => 'Back';
+  String get back => 'بازگشت';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
-      'Download all surahs for offline listening';
+      'همه سوره‌ها را برای گوش دادن آفلاین دانلود کنید';
 
   @override
-  String get semantic_download_all_surahs => 'Download all surahs';
+  String get semantic_download_all_surahs => 'دانلود همه سوره‌ها';
 
   @override
-  String get semantic_bulk_download_progress => 'Bulk download progress';
+  String get semantic_bulk_download_progress => 'پیشرفت دانلود دسته‌جمعی';
 
   @override
-  String get semantic_surahs_downloaded => 'surahs downloaded';
+  String get semantic_surahs_downloaded => 'سوره‌های دانلود شده';
 
   @override
-  String get semantic_cancel_download_all_surahs =>
-      'Cancel download all surahs';
+  String get semantic_cancel_download_all_surahs => 'لغو دانلود همه سوره‌ها';
 
   @override
-  String get semantic_bulk_download_in_progress => 'Bulk download in progress.';
+  String get semantic_bulk_download_in_progress =>
+      'دانلود دسته‌جمعی در حال انجام است.';
 
   @override
-  String get semantic_replay_current_surah => 'Replay current surah';
+  String get semantic_replay_current_surah => 'پخش مجدد سوره فعلی';
 
   @override
-  String get semantic_pause_current_surah => 'Pause current surah';
+  String get semantic_pause_current_surah => 'مکث سوره فعلی';
 
   @override
-  String get semantic_play_current_surah => 'Play current surah';
+  String get semantic_play_current_surah => 'پخش سوره فعلی';
 
   @override
   String get semantic_open_play_on_watch_options_for =>
-      'Open play on watch options for';
+      'باز کردن گزینه‌های پخش روی ساعت برای';
 
   @override
-  String get semantic_now_playing_surah => 'Now playing. Surah';
+  String get semantic_now_playing_surah => 'در حال پخش. سوره';
 
   @override
-  String get semantic_recited_by => 'Recited by';
+  String get semantic_recited_by => 'قرائت توسط';
 
   @override
-  String get semantic_minimize_player => 'Minimize player';
+  String get semantic_minimize_player => 'کوچک کردن پخش‌کننده';
 
   @override
-  String get semantic_elapsed => 'Elapsed';
+  String get semantic_elapsed => 'سپری‌شده';
 
   @override
-  String get semantic_playback_time_elapsed => 'Playback time. Elapsed';
+  String get semantic_playback_time_elapsed => 'زمان پخش. سپری‌شده';
 
   @override
-  String get semantic_remaining => 'Remaining';
+  String get semantic_remaining => 'باقی‌مانده';
 
   @override
-  String get semantic_turn_shuffle_off => 'Turn shuffle off';
+  String get semantic_turn_shuffle_off => 'خاموش کردن پخش تصادفی';
 
   @override
-  String get semantic_turn_shuffle_on => 'Turn shuffle on';
+  String get semantic_turn_shuffle_on => 'روشن کردن پخش تصادفی';
 
   @override
-  String get semantic_previous_surah => 'Previous surah';
+  String get semantic_previous_surah => 'سوره قبلی';
 
   @override
-  String get semantic_next_surah => 'Next surah';
+  String get semantic_next_surah => 'سوره بعدی';
 
   @override
   String get semantic_turn_repeat_current_surah_off =>
-      'Turn repeat current surah off';
+      'خاموش کردن تکرار سوره فعلی';
 
   @override
   String get semantic_turn_repeat_current_surah_on =>
-      'Turn repeat current surah on';
+      'روشن کردن تکرار سوره فعلی';
 
   @override
-  String get semantic_pause => 'Pause';
+  String get semantic_pause => 'توقف';
 
   @override
-  String get semantic_use_current_location => 'Use current location';
+  String get semantic_use_current_location => 'استفاده از موقعیت فعلی';
 
   @override
-  String get semantic_collapse_mosque_list => 'Collapse mosque list';
+  String get semantic_collapse_mosque_list => 'بستن فهرست مساجد';
 
   @override
-  String get semantic_expand_mosque_list => 'Expand mosque list';
+  String get semantic_expand_mosque_list => 'باز کردن فهرست مساجد';
 
   @override
-  String get added => 'Added';
+  String get added => 'اضافه شد';
 
   @override
-  String get not_added => 'Not added';
+  String get not_added => 'اضافه نشده';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigate to mosque';
+  String get semantic_navigate_to_mosque => 'مسیریابی به مسجد';
 
   @override
-  String get semantic_decrease_pre_notification =>
-      'Decrease pre-notification time';
+  String get semantic_decrease_pre_notification => 'کاهش زمان اعلان پیش‌نما';
 
   @override
-  String get semantic_increase_pre_notification =>
-      'Increase pre-notification time';
+  String get semantic_increase_pre_notification => 'افزایش زمان اعلان پیش‌نما';
 
   @override
-  String get semantic_facing_qibla => 'You are facing the Qibla';
+  String get semantic_facing_qibla => 'شما رو به قبله هستید';
 
   @override
-  String get semantic_clockwise => 'Clockwise';
+  String get semantic_clockwise => 'در جهت عقربه‌های ساعت';
 
   @override
-  String get sematnic_counter_clockwise => 'counter-clockwise';
+  String get sematnic_counter_clockwise => 'خلاف جهت عقربه‌های ساعت';
 
   @override
-  String get semantic_rotate_slightly => 'Almost there. Rotate slightly';
+  String get semantic_rotate_slightly => 'تقریباً رسیدید. کمی بچرخانید';
 
   @override
-  String get semanitc_degrees_to_qibla => 'degrees to Qibla';
+  String get semanitc_degrees_to_qibla => 'درجه به سمت قبله';
 
   @override
-  String get about => 'about';
+  String get about => 'حدود';
 
   @override
-  String get rotate => 'Rotate';
+  String get rotate => 'چرخش';
 
   @override
-  String get semantic_close_audio_player => 'Close audio player';
+  String get semantic_close_audio_player => 'بستن پخش‌کننده صوتی';
 
   @override
-  String get reciter_settings => 'Reciter settings';
+  String get reciter_settings => 'تنظیمات قاری';
 
   @override
-  String get previous_verse => 'Previous verse';
+  String get previous_verse => 'آیه قبلی';
 
   @override
-  String get next_verse => 'Next verse';
+  String get next_verse => 'آیه بعدی';
 
   @override
-  String get decrease => 'Decrease';
+  String get decrease => 'کاهش';
 
   @override
-  String get increase => 'Increases';
+  String get increase => 'افزایش';
 
   @override
-  String get quran_settings => 'Quran settings';
+  String get quran_settings => 'تنظیمات قرآن';
 
   @override
-  String get semantic_mushaf_view => 'Mushaf view';
+  String get semantic_mushaf_view => 'نمای مصحف';
 
   @override
-  String get semantic_verse_list_view => 'Verse list view';
+  String get semantic_verse_list_view => 'نمای فهرست آیات';
 
   @override
-  String get not_downloaded => 'Not downloaded';
+  String get not_downloaded => 'دانلود نشده';
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Verse list mode enabled for accessibility';
+      'حالت فهرست آیات برای دسترس‌پذیری فعال شد';
 
   @override
   String get semantic_switch_verse_list =>
-      'Mushaf page. Switch to verse list view for full accessibility.';
+      'صفحه مصحف. برای دسترسی کامل به نمای فهرست آیات بروید.';
 
   @override
-  String get semantic_decrease_hijri_adjustment => 'Decrease Hijri adjustment';
+  String get semantic_decrease_hijri_adjustment => 'کاهش تنظیم هجری';
 
   @override
-  String get semantic_minimum_adjustment_reached =>
-      'Minimum adjustment reached';
+  String get semantic_minimum_adjustment_reached => 'حداقل تنظیم انجام شد';
 
   @override
-  String get semantic_current_adjustment => 'Current adjustment';
+  String get semantic_current_adjustment => 'تنظیم فعلی';
 
   @override
-  String get semantic_increase_hijri_adjustment => 'Increase Hijri adjustment';
+  String get semantic_increase_hijri_adjustment => 'افزایش تنظیم هجری';
 
   @override
-  String get semantic_maximum_adjustment_reached =>
-      'Maximum adjustment reached';
+  String get semantic_maximum_adjustment_reached => 'حداکثر تنظیم انجام شد';
 
   @override
-  String get semantic_minimum_size_reached => 'Minimum size reached';
+  String get semantic_minimum_size_reached => 'حداقل اندازه رسید';
 
   @override
-  String get semantic_decrease => 'Decrease';
+  String get semantic_decrease => 'کاهش';
 
   @override
-  String get semantic_current_size => 'Current size';
+  String get semantic_current_size => 'اندازه فعلی';
 
   @override
-  String get semantic_increase => 'Increase';
+  String get semantic_increase => 'افزایش';
 
   @override
-  String get semantic_maximum_size_reached => 'Maximum size reached';
+  String get semantic_maximum_size_reached => 'حداکثر اندازه رسید';
 
   @override
-  String get semantic_favorite => 'Favorite';
+  String get semantic_favorite => 'مورد علاقه';
 
   @override
-  String get semantic_added_to_favorites => 'Added to favorites';
+  String get semantic_added_to_favorites => 'به علاقه‌مندی‌ها اضافه شد';
 
   @override
-  String get semantic_not_in_favorites => 'Not in favorites';
+  String get semantic_not_in_favorites => 'در علاقه‌مندی‌ها نیست';
 
   @override
-  String get semantic_for => 'for';
+  String get semantic_for => 'برای';
 
   @override
-  String get semantic_view_style => 'View style';
+  String get semantic_view_style => 'سبک نمایش';
 
   @override
   String get semantic_double_tap_to_change_view_style =>
-      'Double tap to change view style';
+      'برای تغییر سبک دوبار لمس کنید';
 
   @override
-  String get semantic_share_dua => 'Share dua';
+  String get semantic_share_dua => 'اشتراک‌گذاری دعا';
 
   @override
-  String get semantic_tasbih_settings => 'Tasbih settings';
+  String get semantic_tasbih_settings => 'تنظیمات تسبیح';
 
   @override
-  String get semantic_tasbih_counter => 'Tasbih counter';
+  String get semantic_tasbih_counter => 'شمارنده تسبیح';
 
   @override
-  String get semantic_previous_dua => 'Previous dua';
+  String get semantic_previous_dua => 'دعای قبلی';
 
   @override
-  String get semantic_next_dua => 'Next dua';
+  String get semantic_next_dua => 'دعای بعدی';
 
   @override
-  String get semantic_dua => 'Dua';
+  String get semantic_dua => 'دعا';
 
   @override
-  String get semantic_opens => 'Opens';
+  String get semantic_opens => 'باز می‌کند';
 
   @override
-  String get semantic_opens_language_selection => 'Opens language selection';
+  String get semantic_opens_language_selection => 'انتخاب زبان را باز می‌کند';
 
   @override
-  String get semantic_device => 'Device';
+  String get semantic_device => 'دستگاه';
 
   @override
-  String get semantic_light => 'Light';
+  String get semantic_light => 'روشن';
 
   @override
-  String get semantic_dark => 'Dark';
+  String get semantic_dark => 'تاریک';
 
   @override
-  String get semantic_on => 'On';
+  String get semantic_on => 'روشن';
 
   @override
-  String get semantic_off => 'Off';
+  String get semantic_off => 'روشن';
 
   @override
-  String get semantic_ayah_list_actions => 'Ayah list actions';
+  String get semantic_ayah_list_actions => 'حذف نشانک';
 
   @override
-  String get remove_bookmark => 'Remove bookmark';
+  String get remove_bookmark => 'حذف نشانک';
 
   @override
-  String get add_bookmark => 'Add bookmark';
+  String get add_bookmark => 'افزودن نشانک';
 
   @override
-  String get selected => 'selected';
+  String get selected => 'انتخاب‌شده';
 
   @override
-  String get double_tap_to_continue => 'Double tap to continue';
+  String get double_tap_to_continue => 'برای ادامه دوبار ضربه بزنید';
 
   @override
-  String get clear_search => 'Clear search';
+  String get clear_search => 'پاک کردن جستجو';
 
   @override
-  String get mosques_found => 'mosques found';
+  String get mosques_found => 'مسجد یافت شد';
 
   @override
-  String get mosque_added => 'Mosque added';
+  String get mosque_added => 'مسجد اضافه شد';
 
   @override
-  String get mosque_removed => 'Mosque removed';
+  String get mosque_removed => 'مسجد حذف شد';
 
   @override
   String get scroll_left_right_select_surah =>
-      'Scroll left or right to select a surah';
+      'برای انتخاب سوره به چپ یا راست اسکرول کنید';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Swipe left or right to select a different mushaf type';
+      'برای انتخاب نوع دیگر مصحف به چپ یا راست بکشید';
 
   @override
-  String get location_permission_required => 'اجازه موقعیت مورد نیاز است';
+  String get location_permission_required => 'اجازه موقعیت لازم است';
 
   @override
-  String get semantic_previous_month => 'Previous month';
+  String get semantic_previous_month => 'ماه قبل';
 
   @override
-  String get semantic_next_month => 'Next month';
+  String get semantic_next_month => 'ماه بعد';
 
   @override
-  String get semantic_view_image => 'View image';
+  String get semantic_view_image => 'مشاهده تصویر';
 
   @override
   String get access_location_details =>
@@ -2506,69 +2500,69 @@ class AppLocalizationsFa extends AppLocalizations {
   String get location_off => 'موقعیت خاموش است';
 
   @override
-  String get semantic_pre_notification_time => 'pre-notification time';
+  String get semantic_pre_notification_time => 'زمان اعلان پیش‌نما';
 
   @override
   String get search_for_mosque_or_enable_location =>
       'ما نمی‌توانیم نزدیک‌ترین مسجد را پیشنهاد کنیم زیرا دسترسی به موقعیت مکانی رد شده است. لطفاً یک مسجد را جستجو کنید یا اجازه موقعیت را فعال کنید.';
 
   @override
-  String get location => 'Location';
+  String get location => 'موقعیت مکانی';
 
   @override
-  String get stop => 'Stop';
+  String get stop => 'توقف';
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Plays the adhan when prayer time arrives';
+      'با فرا رسیدن وقت نماز، اذان پخش می‌کند';
 
   @override
-  String get play_in_silent_mode => 'Play in silent mode';
+  String get play_in_silent_mode => 'پخش در حالت بی‌صدا';
 
   @override
-  String get notifications_not_arriving => 'Notifications not arriving?';
+  String get notifications_not_arriving => 'اعلان‌ها دریافت نمی‌شوند؟';
 
   @override
   String get android_phones_aggressively =>
-      'Some Android phones aggressively close apps in the background.';
+      'برخی گوشی‌های اندرویدی برنامه‌ها را در پس‌زمینه به‌صورت تهاجمی می‌بندند.';
 
   @override
-  String get elmir_kuliev => 'Elmir Kuliev';
+  String get elmir_kuliev => 'المیر قلی‌یف';
 
   @override
-  String get besim_korkut => 'Besim Korkut';
+  String get besim_korkut => 'بسیم کورکوت';
 
   @override
-  String get settings_language_bs => 'Bosnian';
+  String get settings_language_bs => 'بوسنیایی';
 
   @override
   String get something_wrong_getting_location =>
-      'Something went wrong while getting your location. Please try again.';
+      'هنگام دریافت موقعیت شما مشکلی پیش آمد. لطفاً دوباره تلاش کنید.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'میزان صدای سفارشی';
 
   @override
-  String get general => 'General';
+  String get general => 'عمومی';
 
   @override
-  String get prayer_location => 'Prayer & Location';
+  String get prayer_location => 'نماز و موقعیت مکانی';
 
   @override
-  String get privacy => 'Privacy';
+  String get privacy => 'حریم خصوصی';
 
   @override
-  String get play_full_adhan => 'Play full adhan';
+  String get play_full_adhan => 'پخش کامل اذان';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Full adhan will keep repeating until you close it.';
+      'اذان کامل تا زمانی که آن را ببندید به تکرار ادامه خواهد داد.';
 
   @override
-  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+  String get hussein_taji_kal_dari => 'حسین تاجی کال داری';
 
   @override
-  String get settings_language_fa => 'Persian';
+  String get settings_language_fa => 'فارسی';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
