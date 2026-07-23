@@ -226,14 +226,14 @@ class AppLocalizationsUr extends AppLocalizations {
       'iOS 14 پر GPS کا استعمال کرتے ہوئے تلاش کرنے میں کچھ وقت لگ سکتا ہے، براہ کرم انتظار کریں۔';
 
   @override
-  String get search_error => 'Oops an internal error has occurred\'';
+  String get search_error => 'اوہ! ایک اندرونی خرابی پیش آ گئی ہے۔';
 
   @override
-  String get search_your_location => 'Your location';
+  String get search_your_location => 'آپ کا مقام';
 
   @override
   String get search_location_disabled =>
-      'Please look up for a mosque by name or city, or allow location manually in your settings.';
+      'براہِ کرم مسجد کو نام یا شہر کے ذریعے تلاش کریں، یا اپنی ترتیبات میں جا کر مقام تک رسائی کو دستی طور پر فعال کریں.';
 
   @override
   String get search_settings => 'Settings';
@@ -691,24 +691,24 @@ class AppLocalizationsUr extends AppLocalizations {
   String get mosque => 'Mosque';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'آئیے قریب ترین مسجد تلاش کریں';
 
   @override
   String get on_boarding_nearest_mosque_text =>
-      'Here are the mosques found around you according to your geolocation';
+      'آپ کے جغرافیائی مقام کے مطابق آپ کے آس پاس پائی جانے والی مساجد یہ ہیں۔';
 
   @override
-  String get search_no_result_for_text => 'We did not find any result for';
+  String get search_no_result_for_text => 'ہمیں اس کے لیے کوئی نتیجہ نہیں ملا';
 
   @override
-  String get surah_audio_downloading => 'Surah Audio Downloading...';
+  String get surah_audio_downloading => 'سورۃ کی آڈیو ڈاؤن لوڈ ہو رہی ہے';
 
   @override
   String get msg_internet_connection =>
-      'You don\'t have any internet connection';
+      'آپ کے پاس انٹرنیٹ کنکشن موجود نہیں ہے۔';
 
   @override
-  String get read_quran => 'Read Quran';
+  String get read_quran => 'قرآن پڑھیں';
 
   @override
   String get ayahs => 'آیات';
@@ -717,13 +717,13 @@ class AppLocalizationsUr extends AppLocalizations {
   String get chapter => 'سورت';
 
   @override
-  String get meaning => 'Meaning';
+  String get meaning => 'معنی';
 
   @override
-  String get al_quran => 'Al Quran';
+  String get al_quran => 'القرآن';
 
   @override
-  String get surah_information => 'Surah Information';
+  String get surah_information => 'سورت کی معلومات';
 
   @override
   String get surah_number => 'سورت نمبر';
@@ -738,10 +738,10 @@ class AppLocalizationsUr extends AppLocalizations {
   String get quran_verse_search => 'آیت کی تلاش';
 
   @override
-  String get quran_translation => 'Translation';
+  String get quran_translation => 'ترجمہ';
 
   @override
-  String get quran_mushaf => 'Mushaf';
+  String get quran_mushaf => 'مصحف';
 
   @override
   String get quran_juzz => 'پارہ';
@@ -771,61 +771,61 @@ class AppLocalizationsUr extends AppLocalizations {
   String get quran_turning_page => 'ورق پلٹنا';
 
   @override
-  String get quran_from_right_to_left => 'From right to left';
+  String get quran_from_right_to_left => 'دائیں سے بائیں';
 
   @override
-  String get quran_from_left_to_right => 'From left to right';
+  String get quran_from_left_to_right => 'بائیں سے دائیں';
 
   @override
-  String get quran_from_top_to_bottom => 'From top to bottom';
+  String get quran_from_top_to_bottom => 'اوپر سے نیچے';
 
   @override
-  String get quran_from_bottom_to_top => 'From bottom to top';
+  String get quran_from_bottom_to_top => 'نیچے سے اوپر';
 
   @override
   String get quran_pages_color => 'صفحات کا رنگ';
 
   @override
-  String get english_tr => 'English';
+  String get english_tr => 'انگریزی';
 
   @override
-  String get french_tr => 'French';
+  String get french_tr => 'فرانسیسی';
 
   @override
-  String get spanish_tr => 'Spanish';
+  String get spanish_tr => 'ہسپانوی';
 
   @override
-  String get muhammad_hamidullah => 'Muhammad Hamidullah';
+  String get muhammad_hamidullah => 'محمد حمید اللہ';
 
   @override
-  String get abdullah_yusuf_ali => 'Abdullah Yusuf Ali';
+  String get abdullah_yusuf_ali => 'عبداللہ یوسف علی';
 
   @override
-  String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
+  String get sheikh_isa_garcia => 'شیخ عیسیٰ گارسیا';
 
   @override
   String get reciters => 'قاری';
 
   @override
-  String get favorite_reciters => 'Favorite reciters';
+  String get favorite_reciters => 'پسندیدہ قراء';
 
   @override
-  String get surahs_downloaded => 'Surahs downloaded';
+  String get surahs_downloaded => 'ڈاؤن لوڈ کی گئی سورتیں';
 
   @override
-  String get surahs_chapter => 'Surahs - Chapter';
+  String get surahs_chapter => 'سورتیں - ابواب';
 
   @override
-  String get my_likes => 'My Likes';
+  String get my_likes => 'میری پسندیدہ';
 
   @override
   String get cancel => 'منسوخ کریں';
 
   @override
-  String get next => 'Next';
+  String get next => 'اگلے';
 
   @override
-  String get search_surah => 'Search Surah';
+  String get search_surah => 'سورت تلاش کریں';
 
   @override
   String get not_downloaded_recitation =>
@@ -836,10 +836,10 @@ class AppLocalizationsUr extends AppLocalizations {
       'آپ نے ابھی تک کسی قاری کو پسندیدہ نشان زد نہیں کیا ہے۔';
 
   @override
-  String get search_reciter => 'Search Reciter';
+  String get search_reciter => 'قاری تلاش کریں';
 
   @override
-  String get al_quran_al_kareem => 'Al Quran Al Kareem';
+  String get al_quran_al_kareem => 'القرآن الکریم';
 
   @override
   String get surahs => 'سورتیں';
@@ -849,30 +849,30 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get calculation_info =>
-      'The settings in this section only concern the prayer times that are calculated from your geolocation, and do not concern the prayer times of mosques.';
+      'اس حصے کی ترتیبات صرف ان نماز کے اوقات سے متعلق ہیں جو آپ کے جغرافیائی مقام کی بنیاد پر حساب کیے جاتے ہیں، اور ان کا مساجد کے نماز کے اوقات سے کوئی تعلق نہیں ہے.';
 
   @override
-  String get calculation_madhab => 'Jurisprudence - Madhab';
+  String get calculation_madhab => 'فقہ - مذہب';
 
   @override
-  String get calculation_madhab_shafii => 'Shafi’i, Hanbali and Maliki';
+  String get calculation_madhab_shafii => 'شافعی، حنبلی اور مالکی';
 
   @override
   String get calculation_madhab_shafii_countries =>
-      'Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...';
+      'اردن، فلسطین، یمن، صومالیہ، اریٹیریا، ملائیشیا، انڈونیشیا، برونائی، جنوبی مصر، سعودی عرب، قطر، شمالی افریقہ، مغربی افریقہ، متحدہ عرب امارات، کویت...';
 
   @override
   String get calculation_madhab_hanafi => 'Hanafi';
 
   @override
   String get calculation_madhab_hanafi_countries =>
-      'Levant, Pakistan, Afghanistan, India, Bangladesh, Iraq, Turkey, Russia, China, Balkans...';
+      'بلادِ شام، پاکستان، افغانستان، بھارت، بنگلہ دیش، عراق، ترکی، روس، چین، بلقان...';
 
   @override
-  String get calculation_methods => 'Calculation methods';
+  String get calculation_methods => 'اوقاتِ نماز کے حساب کے طریقے';
 
   @override
-  String get calculation_methods_france => 'Muslim of France (ex UOIF)';
+  String get calculation_methods_france => 'مسلم آف فرانس (سابق UOIF)';
 
   @override
   String get calculation_methods_algeria =>
@@ -880,55 +880,52 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get calculation_methods_morocco =>
-      'Moroccan Ministry of Wakfs and Islamic Affairs';
+      'مراکش کی وزارتِ اوقاف و اسلامی امور';
 
   @override
-  String get calculation_methods_muslim_world => 'Muslim World League';
+  String get calculation_methods_muslim_world => 'رابطہ عالمِ اسلامی';
 
   @override
-  String get calculation_methods_egyptian =>
-      'Egyptian General Authority of Survey';
+  String get calculation_methods_egyptian => 'مصری جنرل اتھارٹی برائے سروے';
 
   @override
-  String get calculation_methods_karachi =>
-      'University of Islamic Sciences, Karachi';
+  String get calculation_methods_karachi => 'جامعہ علومِ اسلامیہ، کراچی';
 
   @override
-  String get calculation_methods_umm_al_qura =>
-      'Umm al-Qura University, Makkah';
+  String get calculation_methods_umm_al_qura => 'جامعہ اُمّ القریٰ، مکہ مکرمہ';
 
   @override
-  String get calculation_methods_dubai => 'The Gulf Region';
+  String get calculation_methods_dubai => 'خلیجی خطہ';
 
   @override
   String get calculation_methods_moon => 'Moon Sighting Committee';
 
   @override
   String get calculation_methods_north_america =>
-      'Islamic Society of North America';
+      'اسلامک سوسائٹی آف نارتھ امریکہ';
 
   @override
-  String get calculation_methods_kuwait => 'Kuwait';
+  String get calculation_methods_kuwait => 'کویت';
 
   @override
-  String get calculation_methods_qatar => 'Qatar';
+  String get calculation_methods_qatar => 'قطر';
 
   @override
-  String get calculation_methods_singapore => 'Singapore';
+  String get calculation_methods_singapore => 'سنگاپور';
 
   @override
-  String get calculation_methods_turkey => 'Turkey';
+  String get calculation_methods_turkey => 'ترکی';
 
   @override
   String get calculation_methods_tehran =>
-      'Institute of Geophysics, University of Tehran';
+      'تہران یونیورسٹی کا ادارۂ ارضی طبیعیات';
 
   @override
   String get calculation_methods_russia =>
-      'Spiritual Administration of Muslims in Russia';
+      'روس میں مسلمانوں کی روحانی انتظامیہ';
 
   @override
-  String get calculation_methods_custom => 'Custom angles';
+  String get calculation_methods_custom => 'حسبِ ضرورت زاویے';
 
   @override
   String get calculation_high_latitude => 'Higher latitudes';
@@ -1524,10 +1521,10 @@ class AppLocalizationsUr extends AppLocalizations {
   String get albanian => 'البانی';
 
   @override
-  String get delete_all => 'Delete All';
+  String get delete_all => 'سب حذف کریں';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'تمام ڈاؤن لوڈز حذف کریں';
 
   @override
   String get delete_recitations_message =>
@@ -1549,7 +1546,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get compass_calibration =>
-      'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+      'کمپاس کی کیلیبریشن کی ترتیب غیر فعال ہے۔ اپنے فون کو اس طرح آٹھ کے ہندسے کی شکل میں 3 بار جھکائیں اور حرکت دیں۔';
 
   @override
   String get compass_accuracy => 'Compass Accuracy';
@@ -1783,7 +1780,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get all_prayer_closed => 'سب بند';
 
   @override
-  String get recomended_next_prayer => 'Recommended: Next prayer only';
+  String get recomended_next_prayer => 'تجویز کردہ: صرف اگلی نماز';
 
   @override
   String get live_preview => 'Live Preview';
