@@ -986,7 +986,7 @@
     "@add_new_audio": {
         "description": "-> add_new_audio"
     },
-    "selecet_audio_before_delete": "You need to add another audio file for notifications before deleting the selected audio file",
+    "selecet_audio_before_delete": "منتخب آڈیو فائل کو حذف کرنے سے پہلے آپ کو نوٹیفکیشنز کے لیے ایک اور آڈیو فائل شامل کرنا ہوگی۔",
     "@selecet_audio_before_delete": {
         "description": "-> selecet_audio_before_delete"
     },
@@ -1048,15 +1048,15 @@
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
     },
-    "delete_recitations_message": "Are you sure you want to delete all downloaded recitations?",
+    "delete_recitations_message": "کیا آپ واقعی تمام ڈاؤن لوڈ شدہ تلاوتیں حذف کرنا چاہتے ہیں؟",
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
     },
-    "downloaded_deleted_successfully": "All downloaded recitations deleted successfully",
+    "downloaded_deleted_successfully": "تمام ڈاؤن لوڈ شدہ تلاوتیں کامیابی کے ساتھ حذف کر دی گئیں۔",
     "@downloaded_deleted_successfully": {
         "description": "-> downloaded_deleted_successfully"
     },
-    "failed_delete_recitations": "Failed to delete all recitations",
+    "failed_delete_recitations": "تمام تلاوتیں حذف کرنے میں ناکامی ہوئی۔",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
