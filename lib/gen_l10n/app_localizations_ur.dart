@@ -1414,7 +1414,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get selecet_audio_before_delete =>
-      'You need to add another audio file for notifications before deleting the selected audio file';
+      'منتخب آڈیو فائل کو حذف کرنے سے پہلے آپ کو نوٹیفکیشنز کے لیے ایک اور آڈیو فائل شامل کرنا ہوگی۔';
 
   @override
   String get addding_file_prompt =>
@@ -1531,14 +1531,15 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get delete_recitations_message =>
-      'Are you sure you want to delete all downloaded recitations?';
+      'کیا آپ واقعی تمام ڈاؤن لوڈ شدہ تلاوتیں حذف کرنا چاہتے ہیں؟';
 
   @override
   String get downloaded_deleted_successfully =>
-      'All downloaded recitations deleted successfully';
+      'تمام ڈاؤن لوڈ شدہ تلاوتیں کامیابی کے ساتھ حذف کر دی گئیں۔';
 
   @override
-  String get failed_delete_recitations => 'Failed to delete all recitations';
+  String get failed_delete_recitations =>
+      'تمام تلاوتیں حذف کرنے میں ناکامی ہوئی۔';
 
   @override
   String get no_azkar_result => 'کوئی یاد دہانی کے نتائج دستیاب نہیں ہیں\t';
