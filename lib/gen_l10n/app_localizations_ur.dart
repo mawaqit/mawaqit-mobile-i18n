@@ -876,7 +876,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get calculation_methods_algeria =>
-      'Algerian Ministry of Religious Affairs and Wakfs';
+      'الجزائر کی وزارتِ مذہبی امور و اوقاف';
 
   @override
   String get calculation_methods_morocco =>
@@ -898,7 +898,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get calculation_methods_dubai => 'خلیجی خطہ';
 
   @override
-  String get calculation_methods_moon => 'Moon Sighting Committee';
+  String get calculation_methods_moon => 'رویتِ ہلال کمیٹی';
 
   @override
   String get calculation_methods_north_america =>
@@ -928,35 +928,35 @@ class AppLocalizationsUr extends AppLocalizations {
   String get calculation_methods_custom => 'حسبِ ضرورت زاویے';
 
   @override
-  String get calculation_high_latitude => 'Higher latitudes';
+  String get calculation_high_latitude => 'بلند عرض البلد';
 
   @override
-  String get calculation_high_latitude_none => 'None';
+  String get calculation_high_latitude_none => 'کوئی نہیں';
 
   @override
-  String get calculation_high_latitude_middle => 'Middle of the night';
+  String get calculation_high_latitude_middle => 'آدھی رات';
 
   @override
   String get calculation_high_latitude_one_seventh => 'رات کا ایک ساتواں حصہ';
 
   @override
-  String get calculation_high_latitude_angle_based => 'Angle based method';
+  String get calculation_high_latitude_angle_based => 'زاویہ پر مبنی طریقہ';
 
   @override
-  String get calculation_adjustment => 'Manual correction';
+  String get calculation_adjustment => 'دستی تصحیح';
 
   @override
   String get calculation_adjustment_subtitle =>
-      'Prayer adjustment and custom angles';
+      'نماز کے اوقات میں تبدیلی اور حسبِ ضرورت زاویے';
 
   @override
-  String get calculation_adjustment_prayers => 'Prayer adjustments';
+  String get calculation_adjustment_prayers => 'نماز کے اوقات میں تبدیلیاں';
 
   @override
   String get calculation_adjustment_prayers_minutes => 'منٹ';
 
   @override
-  String get calculation_adjustment_angles => 'Custom angles';
+  String get calculation_adjustment_angles => 'حسبِ ضرورت زاویے';
 
   @override
   String get calculation_prayer_custom_angle => 'زاوية مخصصة لـ';
@@ -1337,22 +1337,22 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get update_new_version =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+      'کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے \'اپ ڈیٹ\' پر کلک کریں';
 
   @override
   String get update_quran_zip =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے \'اپ ڈیٹ\' پر کلک کریں.';
 
   @override
   String get update_latest_quran_version =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے \'اپ ڈیٹ\' پر کلک کریں.';
 
   @override
   String get update_latest_quran =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے \'اپ ڈیٹ\' پر کلک کریں.';
 
   @override
-  String get set_notification_for_all_parayer => 'Set this for every prayer';
+  String get set_notification_for_all_parayer => 'اسے ہر نماز کے لیے مقرر کریں';
 
   @override
   String get powered_by_mawaqit => 'Powered by MAWAQIT';
@@ -1364,7 +1364,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get prayer_times_by_location => 'مقام کے مطابق نماز کے اوقات';
 
   @override
-  String get already_in_list => 'is already in your list!';
+  String get already_in_list => 'پہلے ہی آپ کی فہرست میں موجود ہے!';
 
   @override
   String get got_it => 'Got it!';
@@ -1379,7 +1379,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String get select_rewaya => 'Select Rewaya';
 
   @override
-  String get download_in_progress => 'Download in progress, please wait...';
+  String get download_in_progress =>
+      'ڈاؤن لوڈ جاری ہے، براہِ کرم انتظار کریں...';
 
   @override
   String get highlight_next_prayer_after_Iqama =>
@@ -1389,7 +1390,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get helmi_nasr => 'ڈاکٹر حلمی نصر';
 
   @override
-  String get settings_language_pt => 'Portuguese';
+  String get settings_language_pt => 'پرتگالی';
 
   @override
   String get al_zikr => 'الذکر';
@@ -1401,13 +1402,13 @@ class AppLocalizationsUr extends AppLocalizations {
   String get all_azkar => 'تمام اذکار';
 
   @override
-  String get device_audio_not_found => 'Device audio not found';
+  String get device_audio_not_found => 'ڈیوائس میں کوئی آڈیو فائل نہیں ملی';
 
   @override
-  String get device_media => 'Device Media';
+  String get device_media => 'ڈیوائس میڈیا';
 
   @override
-  String get add_new_audio => 'Add a new audio file';
+  String get add_new_audio => 'نئی آڈیو فائل شامل کریں';
 
   @override
   String get selecet_audio_before_delete =>
@@ -1415,14 +1416,14 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get addding_file_prompt =>
-      'You can add multiple audio files, but please make sure not to add the same audio file.';
+      'آپ متعدد آڈیو فائلیں شامل کر سکتے ہیں، لیکن براہِ کرم یقینی بنائیں کہ ایک ہی آڈیو فائل دوبارہ شامل نہ کریں.';
 
   @override
   String get ios_audio_file_picking_prompt =>
-      'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+      'براہِ کرم ایسی آڈیو فائل منتخب کریں جس کا دورانیہ زیادہ سے زیادہ 30 سیکنڈ یا اس سے کم ہو۔ زیادہ دورانیے والی آڈیو فائل آپ کی نماز کی اطلاع میں خلل ڈال سکتی ہے.';
 
   @override
-  String get select_audio_from_device => 'Select audio (mp3) from device.';
+  String get select_audio_from_device => 'ڈیوائس سے آڈیو (mp3) منتخب کریں.';
 
   @override
   String get add_ticket => 'ٹکٹ شامل کریں';
@@ -1491,7 +1492,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt =>
-      'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+      'ایک آڈیو فائل منتخب کریں، ہم اسے iOS کے موافق فارمیٹ میں تبدیل کر دیں گے اور iOS پلیٹ فارم کی حدود کی وجہ سے اسے 30 سیکنڈ تک مختصر کر دیں گے.';
 
   @override
   String get confirm_deletion => 'حذف کی تصدیق کریں';
@@ -1504,7 +1505,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get notified_boost =>
-      'Get notified about the latest updates on MAWAQIT Boost projects.';
+      'MAWAQIT Boost منصوبوں کی تازہ ترین معلومات کے بارے میں اطلاعات حاصل کریں.';
 
   @override
   String get contact_us_boost =>

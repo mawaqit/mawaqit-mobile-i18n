@@ -780,14 +780,14 @@
     "calculation_madhab_hanafi_countries": "بلادِ شام، پاکستان، افغانستان، بھارت، بنگلہ دیش، عراق، ترکی، روس، چین، بلقان...",
     "calculation_methods": "اوقاتِ نماز کے حساب کے طریقے",
     "calculation_methods_france": "مسلم آف فرانس (سابق UOIF)",
-    "calculation_methods_algeria": "Algerian Ministry of Religious Affairs and Wakfs",
+    "calculation_methods_algeria": "الجزائر کی وزارتِ مذہبی امور و اوقاف",
     "calculation_methods_morocco": "مراکش کی وزارتِ اوقاف و اسلامی امور",
     "calculation_methods_muslim_world": "رابطہ عالمِ اسلامی",
     "calculation_methods_egyptian": "مصری جنرل اتھارٹی برائے سروے",
     "calculation_methods_karachi": "جامعہ علومِ اسلامیہ، کراچی",
     "calculation_methods_umm_al_qura": "جامعہ اُمّ القریٰ، مکہ مکرمہ",
     "calculation_methods_dubai": "خلیجی خطہ",
-    "calculation_methods_moon": "Moon Sighting Committee",
+    "calculation_methods_moon": "رویتِ ہلال کمیٹی",
     "calculation_methods_north_america": "اسلامک سوسائٹی آف نارتھ امریکہ",
     "calculation_methods_kuwait": "کویت",
     "calculation_methods_qatar": "قطر",
@@ -796,16 +796,16 @@
     "calculation_methods_tehran": "تہران یونیورسٹی کا ادارۂ ارضی طبیعیات",
     "calculation_methods_russia": "روس میں مسلمانوں کی روحانی انتظامیہ",
     "calculation_methods_custom": "حسبِ ضرورت زاویے",
-    "calculation_high_latitude": "Higher latitudes",
-    "calculation_high_latitude_none": "None",
-    "calculation_high_latitude_middle": "Middle of the night",
+    "calculation_high_latitude": "بلند عرض البلد",
+    "calculation_high_latitude_none": "کوئی نہیں",
+    "calculation_high_latitude_middle": "آدھی رات",
     "calculation_high_latitude_one_seventh": "رات کا ایک ساتواں حصہ",
-    "calculation_high_latitude_angle_based": "Angle based method",
-    "calculation_adjustment": "Manual correction",
-    "calculation_adjustment_subtitle": "Prayer adjustment and custom angles",
-    "calculation_adjustment_prayers": "Prayer adjustments",
+    "calculation_high_latitude_angle_based": "زاویہ پر مبنی طریقہ",
+    "calculation_adjustment": "دستی تصحیح",
+    "calculation_adjustment_subtitle": "نماز کے اوقات میں تبدیلی اور حسبِ ضرورت زاویے",
+    "calculation_adjustment_prayers": "نماز کے اوقات میں تبدیلیاں",
     "calculation_adjustment_prayers_minutes": "منٹ",
-    "calculation_adjustment_angles": "Custom angles",
+    "calculation_adjustment_angles": "حسبِ ضرورت زاویے",
     "calculation_prayer_custom_angle": "زاوية مخصصة لـ",
     "error_download_quran_failed": "قرآن پاک ڈاؤن لوڈ کرنے میں ناکام",
     "downloading_quran": "قرآن ڈاؤن لوڈ ہو رہا ہے...",
@@ -924,23 +924,23 @@
     "no_bookmark_ayah": "کوئی بُک مارکس دستیاب نہیں ہیں۔ برائے مہربانی اس آیت پر لمبی دبا کر رکھیں جسے آپ بُک مارک کرنا چاہتے ہیں۔",
     "page": "صفحہ",
     "prayer_times_in": "نماز کے اوقات",
-    "update_new_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom",
+    "update_new_version": "کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے 'اپ ڈیٹ' پر کلک کریں",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_quran_zip": "کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے 'اپ ڈیٹ' پر کلک کریں.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran_version": "کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے 'اپ ڈیٹ' پر کلک کریں.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "A new version of the Quran is available for download. Tap 'Update' to access the latest enhancements and continue your journey with divine wisdom.",
+    "update_latest_quran": "کتابت کی بہتری کے ساتھ ایک نظرِ ثانی شدہ ورژن جاری کر دیا گیا ہے۔ پڑھنے اور غور و فکر کے اپنے سفر کو جاری رکھنے کے لیے 'اپ ڈیٹ' پر کلک کریں.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
-    "set_notification_for_all_parayer": "Set this for every prayer",
+    "set_notification_for_all_parayer": "اسے ہر نماز کے لیے مقرر کریں",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     },
@@ -950,7 +950,7 @@
     },
     "adjust_hijri_date": "ہجری تاریخ کو ایڈجسٹ کریں",
     "prayer_times_by_location": "مقام کے مطابق نماز کے اوقات",
-    "already_in_list": "is already in your list!",
+    "already_in_list": "پہلے ہی آپ کی فہرست میں موجود ہے!",
     "got_it": "Got it!",
     "mushaf_warsh": "ورش",
     "@mushaf_warsh": {
@@ -964,25 +964,25 @@
     "@select_rewaya": {
         "description": "-> select_rewaya"
     },
-    "download_in_progress": "Download in progress, please wait...",
+    "download_in_progress": "ڈاؤن لوڈ جاری ہے، براہِ کرم انتظار کریں...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
     "highlight_next_prayer_after_Iqama": "اقامت کے بعد اگلی نماز کو نمایاں دکھائیں",
     "helmi_nasr": "ڈاکٹر حلمی نصر",
-    "settings_language_pt": "Portuguese",
+    "settings_language_pt": "پرتگالی",
     "al_zikr": "الذکر",
     "favorite_azkar": "پسندیدہ اذکار",
     "all_azkar": "تمام اذکار",
-    "device_audio_not_found": "Device audio not found",
+    "device_audio_not_found": "ڈیوائس میں کوئی آڈیو فائل نہیں ملی",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
     },
-    "device_media": "Device Media",
+    "device_media": "ڈیوائس میڈیا",
     "@device_media": {
         "description": "-> device_media"
     },
-    "add_new_audio": "Add a new audio file",
+    "add_new_audio": "نئی آڈیو فائل شامل کریں",
     "@add_new_audio": {
         "description": "-> add_new_audio"
     },
@@ -990,15 +990,15 @@
     "@selecet_audio_before_delete": {
         "description": "-> selecet_audio_before_delete"
     },
-    "addding_file_prompt": "You can add multiple audio files, but please make sure not to add the same audio file.",
+    "addding_file_prompt": "آپ متعدد آڈیو فائلیں شامل کر سکتے ہیں، لیکن براہِ کرم یقینی بنائیں کہ ایک ہی آڈیو فائل دوبارہ شامل نہ کریں.",
     "@addding_file_prompt": {
         "description": "-> addding_file_prompt"
     },
-    "ios_audio_file_picking_prompt": "Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.",
+    "ios_audio_file_picking_prompt": "براہِ کرم ایسی آڈیو فائل منتخب کریں جس کا دورانیہ زیادہ سے زیادہ 30 سیکنڈ یا اس سے کم ہو۔ زیادہ دورانیے والی آڈیو فائل آپ کی نماز کی اطلاع میں خلل ڈال سکتی ہے.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
     },
-    "select_audio_from_device": "Select audio (mp3) from device.",
+    "select_audio_from_device": "ڈیوائس سے آڈیو (mp3) منتخب کریں.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
@@ -1022,7 +1022,7 @@
     "draw_info": "ہر مہینے ایک قرعہ اندازی۔ جیتنے کے اپنے امکانات بڑھانے کے لیے ہر 24 گھنٹے میں ایک نیا ٹکٹ شامل کریں!",
     "enter_valid_email": "درست ای میل درج کریں",
     "please_enter_email": "براہ کرم ای میل درج کریں",
-    "select_device_audo_for_ios_propmpt": "Select an audio file, and we'll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.",
+    "select_device_audo_for_ios_propmpt": "ایک آڈیو فائل منتخب کریں، ہم اسے iOS کے موافق فارمیٹ میں تبدیل کر دیں گے اور iOS پلیٹ فارم کی حدود کی وجہ سے اسے 30 سیکنڈ تک مختصر کر دیں گے.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
@@ -1032,7 +1032,7 @@
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "Get notified about the latest updates on MAWAQIT Boost projects.",
+    "notified_boost": "MAWAQIT Boost منصوبوں کی تازہ ترین معلومات کے بارے میں اطلاعات حاصل کریں.",
     "contact_us_boost": "اپنے پروجیکٹ کو یہاں شامل کرنے کے لیے، ہم سے اس پر رابطہ کریں:",
     "prayer_times_set_by_mosque": "نماز کے اوقات اور یہاں موجود تمام معلومات مسجد کی طرف سے مقرر کی جاتی ہیں، نہ کہ MAWAQIT کی طرف سے",
     "@prayer_times_set_by_mosque": {
