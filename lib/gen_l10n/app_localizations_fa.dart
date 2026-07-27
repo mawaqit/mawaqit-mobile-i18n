@@ -2563,6 +2563,9 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'فارسی';
+
+  @override
+  String get mawaqit_non_profit => 'مواقيت سازمان غیرانتفاعی · رایگان برای همه';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -5130,4 +5133,8 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get settings_language_fa => 'Persian';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT non-profit organization · free for everyone';
 }

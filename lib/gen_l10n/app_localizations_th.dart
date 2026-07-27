@@ -2561,4 +2561,8 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'ภาษาเปอร์เซีย';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT non-profit organization · free for everyone';
 }

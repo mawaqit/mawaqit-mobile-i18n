@@ -2569,4 +2569,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'پارسچە';
+
+  @override
+  String get mawaqit_non_profit =>
+      'مواقيت پايدا ئالمايدىغان تەشكىلات · ھەممەيلەن ئۈچۈن ھەقسىز';
 }

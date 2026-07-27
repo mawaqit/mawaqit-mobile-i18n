@@ -2570,4 +2570,8 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'Perski';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT organizacja non-profit · bezpłatna dla wszystkich';
 }

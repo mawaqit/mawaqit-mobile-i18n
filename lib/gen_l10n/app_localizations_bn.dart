@@ -2574,4 +2574,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'ফারসি';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT organizatë jofitimprurëse · falas për të gjithë';
 }

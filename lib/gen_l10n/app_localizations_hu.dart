@@ -2585,4 +2585,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'Perzsa';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT nonprofit szervezet · mindenki számára ingyenes';
 }

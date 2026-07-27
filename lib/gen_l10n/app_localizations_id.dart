@@ -2574,4 +2574,8 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'Persia';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT organisasi nirlaba · gratis untuk semua';
 }
