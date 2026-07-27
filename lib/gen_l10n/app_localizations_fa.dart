@@ -2115,7 +2115,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get please_select_surah => 'لطفاً یک سوره را انتخاب کنید';
 
   @override
-  String get ayah_number => 'Sofian S. Siregar';
+  String get ayah_number => 'شماره آیه';
 
   @override
   String get ayah_num_greater_zero => 'شماره آیه باید بزرگتر از 0 باشد';
