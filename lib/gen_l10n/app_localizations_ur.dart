@@ -2567,4 +2567,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'فارسی';
+
+  @override
+  String get mawaqit_non_profit => 'مواقيت غیر منافع بخش تنظیم · سب کے لیے مفت';
 }

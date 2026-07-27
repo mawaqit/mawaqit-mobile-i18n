@@ -2562,4 +2562,8 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'Persiska';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT ideell organisation · gratis för alla';
 }

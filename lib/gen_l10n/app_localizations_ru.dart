@@ -2578,4 +2578,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'Персидский';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT некоммерческая организация · бесплатно для всех';
 }

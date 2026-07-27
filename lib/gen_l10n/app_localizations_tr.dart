@@ -2557,4 +2557,8 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'Farsça';
+
+  @override
+  String get mawaqit_non_profit =>
+      'MAWAQIT kâr amacı gütmeyen kuruluş · herkes için ücretsiz';
 }

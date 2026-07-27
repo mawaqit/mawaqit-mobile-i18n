@@ -2541,4 +2541,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get settings_language_fa => 'الفارسية';
+
+  @override
+  String get mawaqit_non_profit => 'مواقيت منظمة غير ربحية · مجانية للجميع';
 }

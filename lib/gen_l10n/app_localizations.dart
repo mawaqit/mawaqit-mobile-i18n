@@ -4998,6 +4998,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Persian'**
   String get settings_language_fa;
+
+  /// No description provided for @mawaqit_non_profit.
+  ///
+  /// In en, this message translates to:
+  /// **'MAWAQIT non-profit organization · free for everyone'**
+  String get mawaqit_non_profit;
 }
 
 class _AppLocalizationsDelegate
