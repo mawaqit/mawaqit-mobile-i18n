@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1603,5 +1603,6 @@
     "play_full_adhan": "Reproducir adhan completo",
     "full_adhan_will_keep_repeating": "El adhan completo seguirá repitiéndose hasta que lo cierres.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
-    "settings_language_fa": "Persa"
+    "settings_language_fa": "Persa",
+    "mawaqit_non_profit": "MAWAQIT organización sin ánimo de lucro · gratis para todos"
 }
