@@ -370,7 +370,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get permission_message2 => 'বিজ্ঞপ্তি বিলম্ব সনাক্ত করা হয়েছে';
 
   @override
-  String get notifications_delay_detected => 'Notifications delay detected';
+  String get notifications_delay_detected => 'বিজ্ঞপ্তির বিলম্ব শনাক্ত হয়েছে';
 
   @override
   String get open_setting => 'ওপেন সেটিংস';
@@ -682,84 +682,84 @@ class AppLocalizationsBn extends AppLocalizations {
   String get and => 'এবং';
 
   @override
-  String get continue_to_app => 'Continue';
+  String get continue_to_app => 'চালিয়ে যান';
 
   @override
-  String get add => 'Add';
+  String get add => 'যোগ করুন';
 
   @override
-  String get mosque => 'Mosque';
+  String get mosque => 'মসজিদ';
 
   @override
-  String get on_boarding_nearest_mosque => 'Lets find the nearest mosque';
+  String get on_boarding_nearest_mosque => 'চলুন নিকটতম মসজিদটি খুঁজে বের করি';
 
   @override
   String get on_boarding_nearest_mosque_text =>
-      'Here are the mosques found around you according to your geolocation';
+      'আপনার অবস্থানের উপর ভিত্তি করে আশেপাশের এই মসজিদ গুলো পাওয়া গিয়েছে';
 
   @override
-  String get search_no_result_for_text => 'We did not find any result for';
+  String get search_no_result_for_text =>
+      'এগুলোর জন্য আমরা কোনো ফলাফল খুঁজে পাইনি';
 
   @override
-  String get surah_audio_downloading => 'Surah Audio Downloading...';
+  String get surah_audio_downloading => 'সুরা অডিও ডাউনলোড হচ্ছে ';
 
   @override
-  String get msg_internet_connection =>
-      'You don\'t have any internet connection';
+  String get msg_internet_connection => 'আপনার ইন্টারনেট সংযোগ নেই';
 
   @override
-  String get read_quran => 'Read Quran';
+  String get read_quran => 'কুরআন পড়ুন';
 
   @override
-  String get ayahs => 'Ayahs';
+  String get ayahs => 'আয়াত';
 
   @override
-  String get chapter => 'Surah';
+  String get chapter => 'সুরা';
 
   @override
-  String get meaning => 'Meaning';
+  String get meaning => 'অর্থ';
 
   @override
-  String get al_quran => 'Al Quran';
+  String get al_quran => 'আল কুরআন ';
 
   @override
-  String get surah_information => 'Surah Information';
+  String get surah_information => 'সুরা বিষয়ক তথ্য';
 
   @override
-  String get surah_number => 'Surah Number';
+  String get surah_number => 'সুরা নাম্বার';
 
   @override
-  String get quran_browsing => 'Browsing';
+  String get quran_browsing => 'ব্রাউজিং';
 
   @override
-  String get quran_search_placeholder => 'Search by name of surah, number...';
+  String get quran_search_placeholder => 'সুরা নাম, নাম্বার.. দিয়ে খুঁজুন';
 
   @override
-  String get quran_verse_search => 'Verse search';
+  String get quran_verse_search => 'ভার্স খুঁজুন';
 
   @override
-  String get quran_translation => 'Translation';
+  String get quran_translation => 'অনুবাদ';
 
   @override
-  String get quran_mushaf => 'Mushaf';
+  String get quran_mushaf => 'মুসহাফ';
 
   @override
   String get quran_juzz => 'পারা';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'আয়াত';
 
   @override
-  String get quran_verses => 'Verses';
+  String get quran_verses => 'ভার্সেস';
 
   @override
-  String get surah => 'Surah';
+  String get surah => 'সুরা';
 
   @override
-  String get continue_reading => 'Continue reading';
+  String get continue_reading => 'পড়া চালিয়ে যান';
 
   @override
-  String get bookmarks => 'Bookmarks';
+  String get bookmarks => 'বুকমার্ক';
 
   @override
   String get juzz => 'পারা';
@@ -768,111 +768,110 @@ class AppLocalizationsBn extends AppLocalizations {
   String get quran_page => 'পৃষ্ঠা';
 
   @override
-  String get quran_turning_page => 'Turning page';
+  String get quran_turning_page => 'পাতা উলটানো';
 
   @override
-  String get quran_from_right_to_left => 'From right to left';
+  String get quran_from_right_to_left => 'ডান থেকে বামে';
 
   @override
-  String get quran_from_left_to_right => 'From left to right';
+  String get quran_from_left_to_right => 'বাম থেকে ডানে';
 
   @override
-  String get quran_from_top_to_bottom => 'From top to bottom';
+  String get quran_from_top_to_bottom => 'উপর থেকে নিচে';
 
   @override
-  String get quran_from_bottom_to_top => 'From bottom to top';
+  String get quran_from_bottom_to_top => 'নিচে থেকে উপরে';
 
   @override
-  String get quran_pages_color => 'Pages color';
+  String get quran_pages_color => 'পাতার রঙ';
 
   @override
-  String get english_tr => 'English';
+  String get english_tr => 'ইংরেজি';
 
   @override
-  String get french_tr => 'French';
+  String get french_tr => 'ফ্রেঞ্চ';
 
   @override
-  String get spanish_tr => 'Spanish';
+  String get spanish_tr => 'স্প্যানিশ';
 
   @override
-  String get muhammad_hamidullah => 'Muhammad Hamidullah';
+  String get muhammad_hamidullah => 'মুহাম্মদ হামিদুল্লাহ';
 
   @override
-  String get abdullah_yusuf_ali => 'Abdullah Yusuf Ali';
+  String get abdullah_yusuf_ali => 'আবদুল্লাহ ইউসুফ আলী';
 
   @override
-  String get sheikh_isa_garcia => 'Sheikh Isa Garcia';
+  String get sheikh_isa_garcia => 'শাইখ ঈসা গার্সিয়া';
 
   @override
-  String get reciters => 'Reciters';
+  String get reciters => 'ক্বারীগণ';
 
   @override
-  String get favorite_reciters => 'Favorite reciters';
+  String get favorite_reciters => 'প্রিয় ক্বারীগণ';
 
   @override
-  String get surahs_downloaded => 'Surahs downloaded';
+  String get surahs_downloaded => 'ডাউনলোড কৃত সুরাসমুহ';
 
   @override
-  String get surahs_chapter => 'Surahs - Chapter';
+  String get surahs_chapter => 'সুরা- অধ্যায়';
 
   @override
-  String get my_likes => 'My Likes';
+  String get my_likes => 'আমার পছন্দসমুহ';
 
   @override
   String get cancel => 'বাতিল';
 
   @override
-  String get next => 'Next';
+  String get next => 'পরবর্তী';
 
   @override
-  String get search_surah => 'Search Surah';
+  String get search_surah => 'সুরা খুজুন';
 
   @override
-  String get not_downloaded_recitation =>
-      'You have not downloaded any recitation yet.';
+  String get not_downloaded_recitation => 'আপনি কোনো তেলাওয়াত ডাউনলোড করেন নি';
 
   @override
   String get not_favorite_reciter =>
-      'You have not marked any reciter favorite yet.';
+      'আপনি এখনো কোনো তেলাওয়াত কারিকে পছন্দের তালিকায় যোগ করেন নি।';
 
   @override
-  String get search_reciter => 'Search Reciter';
+  String get search_reciter => 'তেলাওয়াতকারি খুঁজুন';
 
   @override
-  String get al_quran_al_kareem => 'Al Quran Al Kareem';
+  String get al_quran_al_kareem => 'আল কুরআন কারিম';
 
   @override
-  String get surahs => 'Surahs';
+  String get surahs => 'সুরা সমুহ';
 
   @override
-  String get chapters => 'Chapters';
+  String get chapters => 'অধ্যায়';
 
   @override
   String get calculation_info =>
       'এই অংশের সেটিংস শুধুমাত্র আপনার অবস্থানের (জিওলোকেশন) ভিত্তিতে হিসাব করা নামাজের সময়ের সাথে সম্পর্কিত, মসজিদের নামাজের সময়ের সাথে নয়.';
 
   @override
-  String get calculation_madhab => 'Jurisprudence - Madhab';
+  String get calculation_madhab => 'ফিকাহ - মাজহাব';
 
   @override
-  String get calculation_madhab_shafii => 'Shafi’i, Hanbali and Maliki';
+  String get calculation_madhab_shafii => 'শাফীঈ, হানবালি এবং মালিকি';
 
   @override
   String get calculation_madhab_shafii_countries =>
-      'Jordan, Palestine, Yemen, Somalia, Eritrea, Malaysia, Indonesia, Brunei, Southern Egypt, Saudi Arabia, Qatar, North Africa, West Africa, United Arab Emirates, Kuwait...';
+      'জর্ডান, ফিলিস্তিন, ইয়েমেন, সোমালিয়া, ইরিত্রিয়া, মালয়েশিয়া, ইন্দোনেশিয়া, ব্রুনেই, দক্ষিণ মিশর, সৌদি আরব, কাতার, উত্তর আফ্রিকা, পশ্চিম আফ্রিকা, সংযুক্ত আরব আমিরাত, কুয়েত...';
 
   @override
-  String get calculation_madhab_hanafi => 'Hanafi';
+  String get calculation_madhab_hanafi => 'হানাফি';
 
   @override
   String get calculation_madhab_hanafi_countries =>
       'লেভান্ট, পাকিস্তান, আফগানিস্তান, ভারত, বাংলাদেশ, ইরাক, তুরস্ক, রাশিয়া, চীন, বালকান...';
 
   @override
-  String get calculation_methods => 'Calculation methods';
+  String get calculation_methods => 'ক্যালকুলেশ এর পদ্ধতিসমুহ';
 
   @override
-  String get calculation_methods_france => 'Muslim of France (ex UOIF)';
+  String get calculation_methods_france => 'ফ্রান্স এর মুসলিম (ex UOIF)';
 
   @override
   String get calculation_methods_algeria =>
@@ -907,20 +906,20 @@ class AppLocalizationsBn extends AppLocalizations {
       'ইসলামিক সোসাইটি অফ নর্থ আমেরিকা';
 
   @override
-  String get calculation_methods_kuwait => 'Kuwait';
+  String get calculation_methods_kuwait => 'কুয়েত';
 
   @override
-  String get calculation_methods_qatar => 'Qatar';
+  String get calculation_methods_qatar => 'কাতার';
 
   @override
-  String get calculation_methods_singapore => 'Singapore';
+  String get calculation_methods_singapore => 'সিংগাপুর';
 
   @override
-  String get calculation_methods_turkey => 'Turkey';
+  String get calculation_methods_turkey => 'তুর্কী';
 
   @override
   String get calculation_methods_tehran =>
-      'Institute of Geophysics, University of Tehran';
+      'তেহরান বিশ্ববিদ্যালয়, ইনস্টিটিউট অব জিওফিজিক্স';
 
   @override
   String get calculation_methods_russia =>
@@ -933,48 +932,47 @@ class AppLocalizationsBn extends AppLocalizations {
   String get calculation_high_latitude => 'উচ্চতর অক্ষাংশ';
 
   @override
-  String get calculation_high_latitude_none => 'None';
+  String get calculation_high_latitude_none => 'কোনটাই না';
 
   @override
-  String get calculation_high_latitude_middle => 'Middle of the night';
+  String get calculation_high_latitude_middle => 'মধ্যরাতে';
 
   @override
-  String get calculation_high_latitude_one_seventh =>
-      'One-seventh of the night';
+  String get calculation_high_latitude_one_seventh => 'রাতের এক সপ্তমাংশ';
 
   @override
-  String get calculation_high_latitude_angle_based => 'Angle based method';
+  String get calculation_high_latitude_angle_based => 'এংগেল বেজড পদ্ধতি';
 
   @override
-  String get calculation_adjustment => 'Manual correction';
+  String get calculation_adjustment => 'ম্যানুয়াল সংশোধন';
 
   @override
   String get calculation_adjustment_subtitle =>
-      'Prayer adjustment and custom angles';
+      'নামাজের সমন্বয় এবং কাস্টম এংগেল';
 
   @override
-  String get calculation_adjustment_prayers => 'Prayer adjustments';
+  String get calculation_adjustment_prayers => 'নামাজের সমন্বয়';
 
   @override
   String get calculation_adjustment_prayers_minutes => 'মিনিট';
 
   @override
-  String get calculation_adjustment_angles => 'Custom angles';
+  String get calculation_adjustment_angles => 'কাস্টম এংগেল';
 
   @override
   String get calculation_prayer_custom_angle => 'জন্য কাস্টম কোণ';
 
   @override
-  String get error_download_quran_failed => 'Failed to download Quran';
+  String get error_download_quran_failed => 'কুরআন ডাউনলোড করতে ব্যার্থ হয়েছে';
 
   @override
-  String get downloading_quran => 'Downloading Quran...';
+  String get downloading_quran => 'কুরআন ডাউনলোড হচ্ছে...';
 
   @override
-  String get processing => 'Processing...';
+  String get processing => 'প্রক্রিয়াধীন....';
 
   @override
-  String get copied_to_clipboard => 'Copied to your clipboard !';
+  String get copied_to_clipboard => 'ক্লিপবোর্ড এ কপি হয়েছে!';
 
   @override
   String get download_quran_popup_title => 'সর্বশেষ সজানো';
@@ -1342,31 +1340,32 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get update_new_version =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom';
+      'কুরআনের একটি নতুন সংস্করণ ডাউনলোডের জন্য উপলভ্য। সর্বশেষ আপডেট পেতে ‘আপডেট’ চাপুন এবং আল্লাহর জ্ঞানের আলোয় আপনার যাত্রা চালিয়ে যান';
 
   @override
   String get update_quran_zip =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'কুরআনের একটি নতুন সংস্করণ ডাউনলোডের জন্য প্রস্তুত। সর্বশেষ আপডেট পেতে ‘আপডেট’ চাপুন এবং আল্লাহর জ্ঞানে আপনার যাত্রা অব্যাহত রাখুন।';
 
   @override
   String get update_latest_quran_version =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'কুরআনের একটি নতুন সংস্করণ ডাউনলোডের জন্য উপলভ্য। সর্বশেষ উন্নয়নগুলো পেতে ‘আপডেট’ চাপুন এবং আল্লাহর জ্ঞানের আলোয় আপনার যাত্রা চালিয়ে যান।.';
 
   @override
   String get update_latest_quran =>
-      'A new version of the Quran is available for download. Tap \'Update\' to access the latest enhancements and continue your journey with divine wisdom.';
+      'কুরআনের একটি নতুন সংস্করণ ডাউনলোডের জন্য উপলভ্য। সর্বশেষ উন্নয়ন পেতে ‘আপডেট’ চাপুন এবং আল্লাহর জ্ঞানের পথে আপনার যাত্রা অব্যাহত রাখুন।';
 
   @override
-  String get set_notification_for_all_parayer => 'Set this for every prayer';
+  String get set_notification_for_all_parayer =>
+      'প্রতিটি নামাজের জন্য এটি নির্ধারণ করুন';
 
   @override
-  String get powered_by_mawaqit => 'Powered by MAWAQIT';
+  String get powered_by_mawaqit => 'MAWAQIT দ্বারা পরিচালিত';
 
   @override
   String get adjust_hijri_date => 'অবস্থান অনুযায়ী নামাজের সময়';
 
   @override
-  String get prayer_times_by_location => 'Prayer times by location';
+  String get prayer_times_by_location => 'অবস্থান অনুযায়ী নামাজের সময়';
 
   @override
   String get already_in_list => 'এটি আপনার তালিকায় ইতিমধ্যেই আছে!';
@@ -1375,16 +1374,17 @@ class AppLocalizationsBn extends AppLocalizations {
   String get got_it => 'বুঝেছি!';
 
   @override
-  String get mushaf_warsh => 'Warsh';
+  String get mushaf_warsh => 'ওয়ারশ';
 
   @override
-  String get mushaf_hafs => 'Hafs';
+  String get mushaf_hafs => 'হাফস';
 
   @override
-  String get select_rewaya => 'Select Rewaya';
+  String get select_rewaya => 'রেওয়ায়া নির্বাচন করুন';
 
   @override
-  String get download_in_progress => 'Download in progress, please wait...';
+  String get download_in_progress =>
+      'ডাউনলোড চলছে, অনুগ্রহ করে অপেক্ষা করুন...';
 
   @override
   String get highlight_next_prayer_after_Iqama =>
@@ -1394,7 +1394,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get helmi_nasr => 'ড. হেলমি নাসর';
 
   @override
-  String get settings_language_pt => 'Portuguese';
+  String get settings_language_pt => 'পর্তুগীজ';
 
   @override
   String get al_zikr => 'আল-যিকর';
@@ -1406,28 +1406,29 @@ class AppLocalizationsBn extends AppLocalizations {
   String get all_azkar => 'সমস্ত যিকির';
 
   @override
-  String get device_audio_not_found => 'Device audio not found';
+  String get device_audio_not_found => 'ডিভাইসের অডিও পাওয়া যায়নি';
 
   @override
-  String get device_media => 'Device Media';
+  String get device_media => 'ডিভাইস মিডিয়া';
 
   @override
-  String get add_new_audio => 'Add a new audio file';
+  String get add_new_audio => 'নতুন অডিও ফাইল যোগ করুন';
 
   @override
   String get selecet_audio_before_delete =>
-      'You need to add another audio file for notifications before deleting the selected audio file';
+      'নির্বাচিত অডিও ফাইল মুছে ফেলার আগে আপনাকে নোটিফিকেশনের জন্য আরেকটি অডিও ফাইল যোগ করতে হবে';
 
   @override
   String get addding_file_prompt =>
-      'You can add multiple audio files, but please make sure not to add the same audio file.';
+      'আপনি একাধিক অডিও ফাইল যোগ করতে পারেন, তবে একই অডিও ফাইল দুইবার যোগ করবেন না দয়া করে।';
 
   @override
   String get ios_audio_file_picking_prompt =>
-      'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+      'দয়া করে সর্বোচ্চ ৩০ সেকেন্ড বা তার কম সময়ের একটি অডিও ফাইল নির্বাচন করুন। বেশি দীর্ঘ অডিও ফাইল আপনার নামাজের নোটিফিকেশন বাধাগ্রস্থ করতে পারে';
 
   @override
-  String get select_audio_from_device => 'Select audio (mp3) from device.';
+  String get select_audio_from_device =>
+      'ডিভাইস থেকে অডিও (এমপি৩) নির্বাচন করুন';
 
   @override
   String get add_ticket => 'টিকিট যোগ করুন';
@@ -1496,24 +1497,25 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get select_device_audo_for_ios_propmpt =>
-      'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+      'একটি অডিও ফাইল নির্বাচন করুন, আমরা সেটিকে iOS-এর সঙ্গে সামঞ্জস্যপূর্ণ ফরম্যাটে রূপান্তর করব এবং iOS প্ল্যাটফর্মের সীমাবদ্ধতার কারণে ৩০ সেকেন্ডে ট্রিম করব';
 
   @override
-  String get confirm_deletion => 'Confirm Deletion';
+  String get confirm_deletion => 'মুছে ফেলা নিশ্চিত করুন';
 
   @override
   String get sure_remove_rewaya =>
-      'Are you sure you want to remove this Rewaya?';
+      'আপনি কি নিশ্চিত যে আপনি এই রেওয়ায়া মুছে ফেলতে চান';
 
   @override
-  String get file_not_found => 'File not found';
+  String get file_not_found => 'ফাইল পাওয়া যায়নি';
 
   @override
   String get notified_boost =>
-      'Get notified about the latest updates on MAWAQIT Boost projects.';
+      'MAWAQIT Boost প্রকল্পের সর্বশেষ আপডেট সম্পর্কে জানতে নোটিফিকেশন পান';
 
   @override
-  String get contact_us_boost => 'To list your project here, contact us at';
+  String get contact_us_boost =>
+      'আপনার প্রকল্প এখানে তালিকাভুক্ত করতে, আমাদের সাথে যোগাযোগ করুন';
 
   @override
   String get prayer_times_set_by_mosque =>
@@ -1526,37 +1528,38 @@ class AppLocalizationsBn extends AppLocalizations {
   String get albanian => 'আলবেনীয়';
 
   @override
-  String get delete_all => 'Delete All';
+  String get delete_all => 'সব মুছে ফেলুন';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'সব ডাউনলোড মুছে ফেলুন';
 
   @override
   String get delete_recitations_message =>
-      'Are you sure you want to delete all downloaded recitations?';
+      'আপনি কি নিশ্চিত যে আপনি সমস্ত ডাউনলোডকৃত তেলাওয়াত মুছে ফেলতে চান?';
 
   @override
   String get downloaded_deleted_successfully =>
-      'All downloaded recitations deleted successfully';
+      'সমস্ত ডাউনলোডকৃত তেলাওয়াত সফলভাবে মুছে ফেলা হয়েছে।';
 
   @override
-  String get failed_delete_recitations => 'Failed to delete all recitations';
+  String get failed_delete_recitations =>
+      'সমস্ত তেলাওয়াত মুছে ফেলা ব্যর্থ হয়েছে';
 
   @override
-  String get no_azkar_result => 'No remembrance results available';
+  String get no_azkar_result => ' স্মরন করার মত কোনো  ফলাফল পাওয়া যায়নি';
 
   @override
   String get search_title => 'শিরোনাম ব্যবহার করে অনুসন্ধান করুন';
 
   @override
   String get compass_calibration =>
-      'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+      'কম্পাস ক্যালিব্রেশন সেটিং নিষ্ক্রিয় রয়েছে। ফোনটি তিনবার এইভাবে আটের আকৃতিতে ঢালু করে এবং নাড়ান।';
 
   @override
-  String get compass_accuracy => 'Compass Accuracy';
+  String get compass_accuracy => 'কম্পাসের নির্ভুলতা';
 
   @override
-  String get low => 'Low';
+  String get low => 'লো';
 
   @override
   String get tafsir => 'তাফসির';
@@ -1759,7 +1762,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get improved_Hafs_Rewaya_Force_Update =>
-      'We have improved your Hafs Rewaya. Download now to explore Tafsir and listen to recitations by long-pressing on any Ayah';
+      'আমরা আপনার হাফস রেওয়ায়ার উন্নতি করেছি। এখনই ডাউনলোড করুন, যাতে যেকোনো আয়াত দীর্ঘক্ষণ চেপে ধরে তাফসির দেখতে এবং তিলাওয়াত শুনতে পারেন।';
 
   @override
   String get mawaqit_three_sixty_description =>
@@ -1785,16 +1788,16 @@ class AppLocalizationsBn extends AppLocalizations {
   String get all_prayer_closed => 'সব বন্ধ';
 
   @override
-  String get recomended_next_prayer => 'Recommended: Next prayer only';
+  String get recomended_next_prayer => 'প্রস্তাবিত: শুধুমাত্র পরবর্তী নামাজ';
 
   @override
-  String get live_preview => 'Live Preview';
+  String get live_preview => 'সরাসরি পূর্বদর্শন';
 
   @override
-  String get font_Size_Normal => 'Normal';
+  String get font_Size_Normal => 'স্বাভাবিক';
 
   @override
-  String get font_Size_Large => 'Large';
+  String get font_Size_Large => 'বড়';
 
   @override
   String get all_Prayer_Open => 'সব খোলা';

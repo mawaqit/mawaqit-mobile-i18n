@@ -489,7 +489,7 @@ class AppLocalizationsUg extends AppLocalizations {
       'بۇ ئۇچۇرلارنىڭ ھەممىسىنى مەسچىتكە مەسئۇل كىشىلەر تولدۇرغان';
 
   @override
-  String get in_ => 'دا';
+  String get in_ => '-';
 
   @override
   String get imsak => 'زولۇق';
