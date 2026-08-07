@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Первая молитва",
     "admin_prayerSlot2": "Вторая молитва",
-    "admin_prayerSlot3": "Третья молитва"
+    "admin_prayerSlot3": "Третья молитва",
+    "admin_minutes": "{count} мин",
+    "admin_seconds": "{count} с",
+    "admin_announcementCounts": "{total} из {maxTotal} · {enabled} из {maxEnabled} включено"
 }

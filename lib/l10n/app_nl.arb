@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Eerste gebed",
     "admin_prayerSlot2": "Tweede gebed",
-    "admin_prayerSlot3": "Derde gebed"
+    "admin_prayerSlot3": "Derde gebed",
+    "admin_minutes": "{count} min",
+    "admin_seconds": "{count} s",
+    "admin_announcementCounts": "{total} van {maxTotal} · {enabled} van {maxEnabled} ingeschakeld"
 }

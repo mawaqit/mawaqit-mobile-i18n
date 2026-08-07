@@ -3083,4 +3083,20 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get admin_prayerSlot3 => 'ئۈچىنچى ناماز';
+
+  @override
+  String admin_minutes(int count) {
+    return '$count مىنۇت';
+  }
+
+  @override
+  String admin_seconds(int count) {
+    return '$count سېكۇنت';
+  }
+
+  @override
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled) {
+    return '$maxTotal دىن $total · $maxEnabled دىن $enabled ئاكتىپ';
+  }
 }

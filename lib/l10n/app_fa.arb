@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "نماز اول",
     "admin_prayerSlot2": "نماز دوم",
-    "admin_prayerSlot3": "نماز سوم"
+    "admin_prayerSlot3": "نماز سوم",
+    "admin_minutes": "{count} دقیقه",
+    "admin_seconds": "{count} ثانیه",
+    "admin_announcementCounts": "{total} از {maxTotal} · {enabled} از {maxEnabled} فعال"
 }

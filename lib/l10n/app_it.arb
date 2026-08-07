@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Prima preghiera",
     "admin_prayerSlot2": "Seconda preghiera",
-    "admin_prayerSlot3": "Terza preghiera"
+    "admin_prayerSlot3": "Terza preghiera",
+    "admin_minutes": "{count} min",
+    "admin_seconds": "{count} s",
+    "admin_announcementCounts": "{total} di {maxTotal} · {enabled} di {maxEnabled} attivi"
 }

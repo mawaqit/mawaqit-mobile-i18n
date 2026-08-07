@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "بىرىنچى ناماز",
     "admin_prayerSlot2": "ئىككىنچى ناماز",
-    "admin_prayerSlot3": "ئۈچىنچى ناماز"
+    "admin_prayerSlot3": "ئۈچىنچى ناماز",
+    "admin_minutes": "{count} مىنۇت",
+    "admin_seconds": "{count} سېكۇنت",
+    "admin_announcementCounts": "{maxTotal} دىن {total} · {maxEnabled} دىن {enabled} ئاكتىپ"
 }

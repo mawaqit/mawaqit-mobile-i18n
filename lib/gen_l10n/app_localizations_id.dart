@@ -3087,4 +3087,20 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get admin_prayerSlot3 => 'Salat ketiga';
+
+  @override
+  String admin_minutes(int count) {
+    return '$count mnt';
+  }
+
+  @override
+  String admin_seconds(int count) {
+    return '$count dtk';
+  }
+
+  @override
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled) {
+    return '$total dari $maxTotal · $enabled dari $maxEnabled aktif';
+  }
 }

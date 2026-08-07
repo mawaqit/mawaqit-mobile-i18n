@@ -3045,4 +3045,20 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get admin_prayerSlot3 => 'الصلاة الثالثة';
+
+  @override
+  String admin_minutes(int count) {
+    return '$count دقيقة';
+  }
+
+  @override
+  String admin_seconds(int count) {
+    return '$count ثانية';
+  }
+
+  @override
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled) {
+    return '$total من $maxTotal · $enabled من $maxEnabled مفعّل';
+  }
 }

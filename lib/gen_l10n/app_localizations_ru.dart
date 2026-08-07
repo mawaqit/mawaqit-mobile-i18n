@@ -3089,4 +3089,20 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get admin_prayerSlot3 => 'Третья молитва';
+
+  @override
+  String admin_minutes(int count) {
+    return '$count мин';
+  }
+
+  @override
+  String admin_seconds(int count) {
+    return '$count с';
+  }
+
+  @override
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled) {
+    return '$total из $maxTotal · $enabled из $maxEnabled включено';
+  }
 }

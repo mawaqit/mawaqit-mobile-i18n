@@ -1801,5 +1801,38 @@
     },
     "admin_prayerSlot1": "First prayer",
     "admin_prayerSlot2": "Second prayer",
-    "admin_prayerSlot3": "Third prayer"
+    "admin_prayerSlot3": "Third prayer",
+    "admin_minutes": "{count} min",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_seconds": "{count}s",
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} of {maxTotal} \u00b7 {enabled} of {maxEnabled} enabled",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }

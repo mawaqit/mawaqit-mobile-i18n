@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Namazi i parë",
     "admin_prayerSlot2": "Namazi i dytë",
-    "admin_prayerSlot3": "Namazi i tretë"
+    "admin_prayerSlot3": "Namazi i tretë",
+    "admin_minutes": "{count} min",
+    "admin_seconds": "{count} s",
+    "admin_announcementCounts": "{total} nga {maxTotal} · {enabled} nga {maxEnabled} aktive"
 }

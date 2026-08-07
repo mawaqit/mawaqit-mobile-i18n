@@ -5952,6 +5952,25 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Third prayer'**
   String get admin_prayerSlot3;
+
+  /// No description provided for @admin_minutes.
+  ///
+  /// In en, this message translates to:
+  /// **'{count} min'**
+  String admin_minutes(int count);
+
+  /// No description provided for @admin_seconds.
+  ///
+  /// In en, this message translates to:
+  /// **'{count}s'**
+  String admin_seconds(int count);
+
+  /// No description provided for @admin_announcementCounts.
+  ///
+  /// In en, this message translates to:
+  /// **'{total} of {maxTotal} · {enabled} of {maxEnabled} enabled'**
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled);
 }
 
 class _AppLocalizationsDelegate

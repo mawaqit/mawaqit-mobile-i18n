@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "الصلاة الأولى",
     "admin_prayerSlot2": "الصلاة الثانية",
-    "admin_prayerSlot3": "الصلاة الثالثة"
+    "admin_prayerSlot3": "الصلاة الثالثة",
+    "admin_minutes": "{count} دقيقة",
+    "admin_seconds": "{count} ثانية",
+    "admin_announcementCounts": "{total} من {maxTotal} · {enabled} من {maxEnabled} مفعّل"
 }

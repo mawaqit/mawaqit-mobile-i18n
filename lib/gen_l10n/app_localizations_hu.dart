@@ -3100,4 +3100,20 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get admin_prayerSlot3 => 'Harmadik ima';
+
+  @override
+  String admin_minutes(int count) {
+    return '$count perc';
+  }
+
+  @override
+  String admin_seconds(int count) {
+    return '$count mp';
+  }
+
+  @override
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled) {
+    return '$total / $maxTotal · $enabled / $maxEnabled bekapcsolva';
+  }
 }

@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "نوێژی یەکەم",
     "admin_prayerSlot2": "نوێژی دووەم",
-    "admin_prayerSlot3": "نوێژی سێیەم"
+    "admin_prayerSlot3": "نوێژی سێیەم",
+    "admin_minutes": "{count} خولەک",
+    "admin_seconds": "{count} چرکە",
+    "admin_announcementCounts": "{total} لە {maxTotal} · {enabled} لە {maxEnabled} چالاک"
 }

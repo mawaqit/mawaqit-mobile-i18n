@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "প্রথম নামাজ",
     "admin_prayerSlot2": "দ্বিতীয় নামাজ",
-    "admin_prayerSlot3": "তৃতীয় নামাজ"
+    "admin_prayerSlot3": "তৃতীয় নামাজ",
+    "admin_minutes": "{count} মিনিট",
+    "admin_seconds": "{count} সেকেন্ড",
+    "admin_announcementCounts": "{maxTotal}-এর মধ্যে {total} · {maxEnabled}-এর মধ্যে {enabled} সক্রিয়"
 }

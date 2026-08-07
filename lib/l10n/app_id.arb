@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Salat pertama",
     "admin_prayerSlot2": "Salat kedua",
-    "admin_prayerSlot3": "Salat ketiga"
+    "admin_prayerSlot3": "Salat ketiga",
+    "admin_minutes": "{count} mnt",
+    "admin_seconds": "{count} dtk",
+    "admin_announcementCounts": "{total} dari {maxTotal} · {enabled} dari {maxEnabled} aktif"
 }

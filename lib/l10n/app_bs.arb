@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Prvi namaz",
     "admin_prayerSlot2": "Drugi namaz",
-    "admin_prayerSlot3": "Treći namaz"
+    "admin_prayerSlot3": "Treći namaz",
+    "admin_minutes": "{count} min",
+    "admin_seconds": "{count} s",
+    "admin_announcementCounts": "{total} od {maxTotal} · {enabled} od {maxEnabled} uključeno"
 }

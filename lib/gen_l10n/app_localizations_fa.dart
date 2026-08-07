@@ -3072,6 +3072,22 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get admin_prayerSlot3 => 'نماز سوم';
+
+  @override
+  String admin_minutes(int count) {
+    return '$count دقیقه';
+  }
+
+  @override
+  String admin_seconds(int count) {
+    return '$count ثانیه';
+  }
+
+  @override
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled) {
+    return '$total از $maxTotal · $enabled از $maxEnabled فعال';
+  }
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).

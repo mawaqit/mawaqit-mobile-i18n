@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Första bönen",
     "admin_prayerSlot2": "Andra bönen",
-    "admin_prayerSlot3": "Tredje bönen"
+    "admin_prayerSlot3": "Tredje bönen",
+    "admin_minutes": "{count} min",
+    "admin_seconds": "{count} s",
+    "admin_announcementCounts": "{total} av {maxTotal} · {enabled} av {maxEnabled} aktiva"
 }

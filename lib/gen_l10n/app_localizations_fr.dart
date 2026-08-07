@@ -3125,4 +3125,20 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get admin_prayerSlot3 => 'Troisième prière';
+
+  @override
+  String admin_minutes(int count) {
+    return '$count min';
+  }
+
+  @override
+  String admin_seconds(int count) {
+    return '$count s';
+  }
+
+  @override
+  String admin_announcementCounts(
+      int total, int maxTotal, int enabled, int maxEnabled) {
+    return '$total sur $maxTotal · $enabled sur $maxEnabled activées';
+  }
 }

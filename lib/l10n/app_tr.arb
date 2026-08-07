@@ -1801,5 +1801,8 @@
     },
     "admin_prayerSlot1": "Birinci namaz",
     "admin_prayerSlot2": "İkinci namaz",
-    "admin_prayerSlot3": "Üçüncü namaz"
+    "admin_prayerSlot3": "Üçüncü namaz",
+    "admin_minutes": "{count} dk",
+    "admin_seconds": "{count} sn",
+    "admin_announcementCounts": "{maxTotal} içinden {total} · {maxEnabled} içinden {enabled} etkin"
 }
