@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Namazi i dytë",
     "admin_prayerSlot3": "Namazi i tretë",
     "admin_minutes": "{count} min",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} s",
-    "admin_announcementCounts": "{total} nga {maxTotal} · {enabled} nga {maxEnabled} aktive"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} nga {maxTotal} · {enabled} nga {maxEnabled} aktive",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }
