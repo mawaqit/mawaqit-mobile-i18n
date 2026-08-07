@@ -1818,7 +1818,7 @@
             }
         }
     },
-    "admin_announcementCounts": "{total} of {maxTotal} \u00b7 {enabled} of {maxEnabled} enabled",
+    "admin_announcementCounts": "{total} of {maxTotal} · {enabled} of {maxEnabled} enabled",
     "@admin_announcementCounts": {
         "placeholders": {
             "total": {
