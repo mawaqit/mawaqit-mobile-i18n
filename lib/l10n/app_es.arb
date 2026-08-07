@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "El adhan completo seguirá repitiéndose hasta que lo cierres.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Persa",
-    "mawaqit_non_profit": "MAWAQIT organización sin ánimo de lucro · gratis para todos"
+    "mawaqit_non_profit": "MAWAQIT organización sin ánimo de lucro · gratis para todos",
+    "garmin_watch_detected": "Reloj Garmin detectado",
+    "garmin_support_detected": "Hemos detectado compatibilidad con Garmin en tu dispositivo. ¿Deseas sincronizar los horarios de oración con tu reloj Garmin?",
+    "never_remind_me": "No volver a recordármelo",
+    "remind_me_later": "Recordármelo más tarde",
+    "you_can_enable_garmin_sync": "Puedes activar la sincronización con Garmin en cualquier momento desde Ajustes → Acciones pendientes.",
+    "pending_actions": "Acciones pendientes",
+    "setup_garmin_watch": "Configurar reloj Garmin",
+    "sync_prayer_times_garmin": "Sincronizar los horarios de oración con tu reloj Garmin",
+    "setup_garmin": "Configurar Garmin",
+    "open_garmin_device_selection": "Abrir la selección del dispositivo Garmin"
 }
