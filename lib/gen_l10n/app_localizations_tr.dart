@@ -2561,4 +2561,37 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT kâr amacı gütmeyen kuruluş · herkes için ücretsiz';
+
+  @override
+  String get garmin_watch_detected => 'Garmin saati algılandı';
+
+  @override
+  String get garmin_support_detected =>
+      'Cihazınızda Garmin desteği algılandı. Namaz vakitlerinizi Garmin saatinizle senkronize etmek ister misiniz?';
+
+  @override
+  String get never_remind_me => 'Bir Daha Hatırlatma';
+
+  @override
+  String get remind_me_later => 'Daha Sonra Hatırlat';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Garmin senkronizasyonunu istediğiniz zaman Ayarlar → Bekleyen İşlemler bölümünden etkinleştirebilirsiniz.';
+
+  @override
+  String get pending_actions => 'Bekleyen İşlemler';
+
+  @override
+  String get setup_garmin_watch => 'Garmin Saatini Kur';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Namaz vakitlerini Garmin saatinizle senkronize edin';
+
+  @override
+  String get setup_garmin => 'Garmin\'i Kur';
+
+  @override
+  String get open_garmin_device_selection => 'Garmin cihaz seçimini aç';
 }

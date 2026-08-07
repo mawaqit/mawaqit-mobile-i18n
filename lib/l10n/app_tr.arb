@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "Tam ezan siz kapatana kadar tekrar etmeye devam edecek.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Farsça",
-    "mawaqit_non_profit": "MAWAQIT kâr amacı gütmeyen kuruluş · herkes için ücretsiz"
+    "mawaqit_non_profit": "MAWAQIT kâr amacı gütmeyen kuruluş · herkes için ücretsiz",
+    "garmin_watch_detected": "Garmin saati algılandı",
+    "garmin_support_detected": "Cihazınızda Garmin desteği algılandı. Namaz vakitlerinizi Garmin saatinizle senkronize etmek ister misiniz?",
+    "never_remind_me": "Bir Daha Hatırlatma",
+    "remind_me_later": "Daha Sonra Hatırlat",
+    "you_can_enable_garmin_sync": "Garmin senkronizasyonunu istediğiniz zaman Ayarlar → Bekleyen İşlemler bölümünden etkinleştirebilirsiniz.",
+    "pending_actions": "Bekleyen İşlemler",
+    "setup_garmin_watch": "Garmin Saatini Kur",
+    "sync_prayer_times_garmin": "Namaz vakitlerini Garmin saatinizle senkronize edin",
+    "setup_garmin": "Garmin'i Kur",
+    "open_garmin_device_selection": "Garmin cihaz seçimini aç"
 }

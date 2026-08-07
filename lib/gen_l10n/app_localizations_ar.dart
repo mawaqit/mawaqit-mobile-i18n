@@ -2544,4 +2544,36 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get mawaqit_non_profit => 'مواقيت منظمة غير ربحية · مجانية للجميع';
+
+  @override
+  String get garmin_watch_detected => 'تم اكتشاف ساعة Garmin';
+
+  @override
+  String get garmin_support_detected =>
+      'اكتشفنا دعم Garmin على جهازك. هل ترغب في مزامنة أوقات الصلاة مع ساعة Garmin؟';
+
+  @override
+  String get never_remind_me => 'عدم التذكير مرة أخرى';
+
+  @override
+  String get remind_me_later => 'ذكّرني لاحقًا';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'يمكنك تفعيل مزامنة Garmin في أي وقت من الإعدادات ← الإجراءات المعلقة';
+
+  @override
+  String get pending_actions => 'الإجراءات المعلقة';
+
+  @override
+  String get setup_garmin_watch => 'إعداد ساعة Garmin';
+
+  @override
+  String get sync_prayer_times_garmin => 'مزامنة أوقات الصلاة مع ساعة Garmin';
+
+  @override
+  String get setup_garmin => 'إعداد Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'فتح اختيار جهاز Garmin';
 }

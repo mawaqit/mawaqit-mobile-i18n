@@ -2570,4 +2570,37 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get mawaqit_non_profit => 'مواقيت غیر منافع بخش تنظیم · سب کے لیے مفت';
+
+  @override
+  String get garmin_watch_detected => 'Garmin گھڑی دریافت ہوئی';
+
+  @override
+  String get garmin_support_detected =>
+      'آپ کے آلے پر Garmin سپورٹ دستیاب ہے۔ کیا آپ اپنی نماز کے اوقات Garmin گھڑی کے ساتھ ہم آہنگ کرنا چاہتے ہیں؟';
+
+  @override
+  String get never_remind_me => 'دوبارہ یاد نہ دلائیں';
+
+  @override
+  String get remind_me_later => 'بعد میں یاد دلائیں';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'آپ کسی بھی وقت Settings → Pending Actions سے Garmin ہم آہنگی فعال کر سکتے ہیں۔';
+
+  @override
+  String get pending_actions => 'زیر التواء اقدامات';
+
+  @override
+  String get setup_garmin_watch => 'Garmin گھڑی سیٹ اپ کریں';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'نماز کے اوقات Garmin گھڑی سے ہم آہنگ کریں';
+
+  @override
+  String get setup_garmin => 'Garmin سیٹ اپ کریں';
+
+  @override
+  String get open_garmin_device_selection => 'Garmin ڈیوائس منتخب کریں';
 }

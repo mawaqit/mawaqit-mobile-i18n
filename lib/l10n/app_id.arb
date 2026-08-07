@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "Adzan lengkap akan terus berulang hingga Anda menutupnya.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Persia",
-    "mawaqit_non_profit": "MAWAQIT organisasi nirlaba · gratis untuk semua"
+    "mawaqit_non_profit": "MAWAQIT organisasi nirlaba · gratis untuk semua",
+    "garmin_watch_detected": "Jam Garmin Terdeteksi",
+    "garmin_support_detected": "Kami mendeteksi dukungan Garmin pada perangkat Anda. Apakah Anda ingin menyinkronkan jadwal salat ke jam Garmin Anda?",
+    "never_remind_me": "Jangan Ingatkan Lagi",
+    "remind_me_later": "Ingatkan Nanti",
+    "you_can_enable_garmin_sync": "Anda dapat mengaktifkan sinkronisasi Garmin kapan saja melalui Pengaturan → Tindakan Tertunda.",
+    "pending_actions": "Tindakan Tertunda",
+    "setup_garmin_watch": "Siapkan Jam Garmin",
+    "sync_prayer_times_garmin": "Sinkronkan jadwal salat ke jam Garmin Anda",
+    "setup_garmin": "Siapkan Garmin",
+    "open_garmin_device_selection": "Buka pemilihan perangkat Garmin"
 }

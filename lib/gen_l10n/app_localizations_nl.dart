@@ -2588,4 +2588,37 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT non-profitorganisatie · gratis voor iedereen';
+
+  @override
+  String get garmin_watch_detected => 'Garmin-horloge gedetecteerd';
+
+  @override
+  String get garmin_support_detected =>
+      'Garmin-ondersteuning is gedetecteerd op uw apparaat. Wilt u uw gebedstijden synchroniseren met uw Garmin-horloge?';
+
+  @override
+  String get never_remind_me => 'Niet meer herinneren';
+
+  @override
+  String get remind_me_later => 'Later herinneren';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'U kunt Garmin-synchronisatie op elk moment inschakelen via Instellingen → Openstaande acties.';
+
+  @override
+  String get pending_actions => 'Openstaande acties';
+
+  @override
+  String get setup_garmin_watch => 'Garmin-horloge instellen';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Gebedstijden synchroniseren met uw Garmin-horloge';
+
+  @override
+  String get setup_garmin => 'Garmin instellen';
+
+  @override
+  String get open_garmin_device_selection => 'Garmin-apparaatselectie openen';
 }

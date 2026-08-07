@@ -2578,4 +2578,37 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT organisasi nirlaba · gratis untuk semua';
+
+  @override
+  String get garmin_watch_detected => 'Jam Garmin Terdeteksi';
+
+  @override
+  String get garmin_support_detected =>
+      'Kami mendeteksi dukungan Garmin pada perangkat Anda. Apakah Anda ingin menyinkronkan jadwal salat ke jam Garmin Anda?';
+
+  @override
+  String get never_remind_me => 'Jangan Ingatkan Lagi';
+
+  @override
+  String get remind_me_later => 'Ingatkan Nanti';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Anda dapat mengaktifkan sinkronisasi Garmin kapan saja melalui Pengaturan → Tindakan Tertunda.';
+
+  @override
+  String get pending_actions => 'Tindakan Tertunda';
+
+  @override
+  String get setup_garmin_watch => 'Siapkan Jam Garmin';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Sinkronkan jadwal salat ke jam Garmin Anda';
+
+  @override
+  String get setup_garmin => 'Siapkan Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'Buka pemilihan perangkat Garmin';
 }

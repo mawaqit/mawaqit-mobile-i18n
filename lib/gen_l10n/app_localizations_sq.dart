@@ -2588,4 +2588,37 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT organizatë jofitimprurëse · falas për të gjithë';
+
+  @override
+  String get garmin_watch_detected => 'U zbulua ora Garmin';
+
+  @override
+  String get garmin_support_detected =>
+      'U zbulua mbështetja për Garmin në pajisjen tuaj. Dëshironi të sinkronizoni oraret e namazit me orën tuaj Garmin?';
+
+  @override
+  String get never_remind_me => 'Mos më kujto më';
+
+  @override
+  String get remind_me_later => 'Kujtomë më vonë';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Mund ta aktivizoni sinkronizimin Garmin në çdo kohë te Cilësimet → Veprimet në pritje.';
+
+  @override
+  String get pending_actions => 'Veprimet në pritje';
+
+  @override
+  String get setup_garmin_watch => 'Konfiguro orën Garmin';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Sinkronizo oraret e namazit me orën Garmin';
+
+  @override
+  String get setup_garmin => 'Konfiguro Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'Hap zgjedhjen e pajisjes Garmin';
 }

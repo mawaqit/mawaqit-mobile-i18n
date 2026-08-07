@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "تولۇق ئەزان سىز ئۇنى ياپقۇچە تەكرار قويۇلىدۇ.",
     "hussein_taji_kal_dari": "ھۈسەيىن تاجى كال دارى",
     "settings_language_fa": "پارسچە",
-    "mawaqit_non_profit": "مواقيت پايدا ئالمايدىغان تەشكىلات · ھەممەيلەن ئۈچۈن ھەقسىز"
+    "mawaqit_non_profit": "مواقيت پايدا ئالمايدىغان تەشكىلات · ھەممەيلەن ئۈچۈن ھەقسىز",
+    "garmin_watch_detected": "Garmin سائىتى بايقالدى",
+    "garmin_support_detected": "ئۈسكۈنىڭىزدە Garmin قوللىشى بايقالدى. ناماز ۋاقىتلىرىنى Garmin سائىتىڭىز بىلەن ماسقەدەملەشنى خالامسىز؟",
+    "never_remind_me": "قايتا ئەسكەرتمە",
+    "remind_me_later": "كېيىن ئەسكەرت",
+    "you_can_enable_garmin_sync": "Garmin ماسقەدەملەشنى ھەر ۋاقىت تەڭشەكلەر → كۈتۈۋاتقان ۋەزىپىلەر ئارقىلىق قوزغىتالايسىز.",
+    "pending_actions": "كۈتۈۋاتقان ۋەزىپىلەر",
+    "setup_garmin_watch": "Garmin سائىتىنى تەڭشەش",
+    "sync_prayer_times_garmin": "ناماز ۋاقىتلىرىنى Garmin سائىتى بىلەن ماسقەدەملەش",
+    "setup_garmin": "Garmin نى تەڭشەش",
+    "open_garmin_device_selection": "Garmin ئۈسكۈنىسىنى تاللاشنى ئېچىش"
 }

@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "Полный азан будет повторяться, пока вы его не закроете.",
     "hussein_taji_kal_dari": "Хусейн Таджи Каль Дари",
     "settings_language_fa": "Персидский",
-    "mawaqit_non_profit": "MAWAQIT некоммерческая организация · бесплатно для всех"
+    "mawaqit_non_profit": "MAWAQIT некоммерческая организация · бесплатно для всех",
+    "garmin_watch_detected": "Обнаружены часы Garmin",
+    "garmin_support_detected": "На вашем устройстве обнаружена поддержка Garmin. Хотите синхронизировать время намазов с часами Garmin?",
+    "never_remind_me": "Больше не напоминать",
+    "remind_me_later": "Напомнить позже",
+    "you_can_enable_garmin_sync": "Вы можете включить синхронизацию Garmin в любое время: Настройки → Ожидающие действия.",
+    "pending_actions": "Ожидающие действия",
+    "setup_garmin_watch": "Настроить часы Garmin",
+    "sync_prayer_times_garmin": "Синхронизировать время намазов с часами Garmin",
+    "setup_garmin": "Настроить Garmin",
+    "open_garmin_device_selection": "Открыть выбор устройства Garmin"
 }

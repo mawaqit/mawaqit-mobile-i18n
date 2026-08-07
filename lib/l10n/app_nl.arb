@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "De volledige adhan blijft zich herhalen totdat je deze sluit.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Perzisch",
-    "mawaqit_non_profit": "MAWAQIT non-profitorganisatie · gratis voor iedereen"
+    "mawaqit_non_profit": "MAWAQIT non-profitorganisatie · gratis voor iedereen",
+    "garmin_watch_detected": "Garmin-horloge gedetecteerd",
+    "garmin_support_detected": "Garmin-ondersteuning is gedetecteerd op uw apparaat. Wilt u uw gebedstijden synchroniseren met uw Garmin-horloge?",
+    "never_remind_me": "Niet meer herinneren",
+    "remind_me_later": "Later herinneren",
+    "you_can_enable_garmin_sync": "U kunt Garmin-synchronisatie op elk moment inschakelen via Instellingen → Openstaande acties.",
+    "pending_actions": "Openstaande acties",
+    "setup_garmin_watch": "Garmin-horloge instellen",
+    "sync_prayer_times_garmin": "Gebedstijden synchroniseren met uw Garmin-horloge",
+    "setup_garmin": "Garmin instellen",
+    "open_garmin_device_selection": "Garmin-apparaatselectie openen"
 }

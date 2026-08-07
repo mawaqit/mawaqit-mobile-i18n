@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "সম্পূর্ণ আজান আপনি বন্ধ না করা পর্যন্ত বারবার চলতে থাকবে।.",
     "hussein_taji_kal_dari": "হুসেইন তাজি কাল দারি",
     "settings_language_fa": "ফারসি",
-    "mawaqit_non_profit": "MAWAQIT organizatë jofitimprurëse · falas për të gjithë"
+    "mawaqit_non_profit": "MAWAQIT organizatë jofitimprurëse · falas për të gjithë",
+    "garmin_watch_detected": "Garmin ঘড়ি শনাক্ত হয়েছে",
+    "garmin_support_detected": "আপনার ডিভাইসে Garmin সমর্থন শনাক্ত হয়েছে। আপনি কি আপনার নামাজের সময়সূচি Garmin ঘড়ির সাথে সিঙ্ক করতে চান?",
+    "never_remind_me": "আর মনে করিয়ে দেবেন না",
+    "remind_me_later": "পরে মনে করিয়ে দিন",
+    "you_can_enable_garmin_sync": "আপনি যেকোনো সময় সেটিংস → অপেক্ষমাণ কার্যক্রম থেকে Garmin সিঙ্ক চালু করতে পারবেন।",
+    "pending_actions": "অপেক্ষমাণ কার্যক্রম",
+    "setup_garmin_watch": "Garmin ঘড়ি সেট আপ করুন",
+    "sync_prayer_times_garmin": "নামাজের সময়সূচি Garmin ঘড়ির সাথে সিঙ্ক করুন",
+    "setup_garmin": "Garmin সেট আপ করুন",
+    "open_garmin_device_selection": "Garmin ডিভাইস নির্বাচন খুলুন"
 }

@@ -2611,4 +2611,38 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT association à but non lucratif · gratuite pour tous';
+
+  @override
+  String get garmin_watch_detected => 'Montre Garmin détectée';
+
+  @override
+  String get garmin_support_detected =>
+      'La prise en charge de Garmin a été détectée sur votre appareil. Souhaitez-vous synchroniser vos horaires de prière avec votre montre Garmin?';
+
+  @override
+  String get never_remind_me => 'Ne plus me le rappeler';
+
+  @override
+  String get remind_me_later => 'Me le rappeler plus tard';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Vous pouvez activer la synchronisation Garmin à tout moment depuis Paramètres → Actions en attente.\n';
+
+  @override
+  String get pending_actions => 'Actions en attente';
+
+  @override
+  String get setup_garmin_watch => 'Configurer la montre Garmin';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Synchroniser les horaires de prière avec votre montre Garmin';
+
+  @override
+  String get setup_garmin => 'Configurer Garmin';
+
+  @override
+  String get open_garmin_device_selection =>
+      'Ouvrir la sélection de l\'appareil Garmin';
 }

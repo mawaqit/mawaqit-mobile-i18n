@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "อะซานครบทั้งหมดจะเล่นซ้ำไปเรื่อย ๆ จนกว่าคุณจะปิด",
     "hussein_taji_kal_dari": "ฮุสเซน ทาจี คาล ดารี",
     "settings_language_fa": "ภาษาเปอร์เซีย",
-    "mawaqit_non_profit": "MAWAQIT non-profit organization · free for everyone"
+    "mawaqit_non_profit": "MAWAQIT non-profit organization · free for everyone",
+    "garmin_watch_detected": "Garmin Watch Detected",
+    "garmin_support_detected": "We detected Garmin support on your device. Would you like to sync your prayer times with your Garmin watch?",
+    "never_remind_me": "Never Remind Me",
+    "remind_me_later": "Remind Me Later",
+    "you_can_enable_garmin_sync": "You can enable Garmin sync anytime from Settings → Pending Actions",
+    "pending_actions": "Pending Actions",
+    "setup_garmin_watch": "Set up Garmin Watch",
+    "sync_prayer_times_garmin": "Sync prayer times to your Garmin watch",
+    "setup_garmin": "Set up Garmin",
+    "open_garmin_device_selection": "Open Garmin device selection"
 }
