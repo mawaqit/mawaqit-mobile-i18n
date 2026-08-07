@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "سيستمر الأذان الكامل في التكرار حتى تقوم بإغلاقه.",
     "hussein_taji_kal_dari": "حسين تاجي كال داري",
     "settings_language_fa": "الفارسية",
-    "mawaqit_non_profit": "مواقيت منظمة غير ربحية · مجانية للجميع"
+    "mawaqit_non_profit": "مواقيت منظمة غير ربحية · مجانية للجميع",
+    "garmin_watch_detected": "تم اكتشاف ساعة Garmin",
+    "garmin_support_detected": "اكتشفنا دعم Garmin على جهازك. هل ترغب في مزامنة أوقات الصلاة مع ساعة Garmin؟",
+    "never_remind_me": "عدم التذكير مرة أخرى",
+    "remind_me_later": "ذكّرني لاحقًا",
+    "you_can_enable_garmin_sync": "يمكنك تفعيل مزامنة Garmin في أي وقت من الإعدادات ← الإجراءات المعلقة",
+    "pending_actions": "الإجراءات المعلقة",
+    "setup_garmin_watch": "إعداد ساعة Garmin",
+    "sync_prayer_times_garmin": "مزامنة أوقات الصلاة مع ساعة Garmin",
+    "setup_garmin": "إعداد Garmin",
+    "open_garmin_device_selection": "فتح اختيار جهاز Garmin"
 }
