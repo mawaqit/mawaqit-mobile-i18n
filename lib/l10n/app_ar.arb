@@ -1663,7 +1663,7 @@
     "admin_iqamaSound": "الصوت",
     "admin_iqamaCountdown": "عدّ تنازلي بملء الشاشة",
     "admin_iqamaDisplayTime": "مدة عرض الإشارة",
-    "admin_iqamaAlwaysHhMm": "عرض أوقات الإقامة دائمًا بصيغة hh:mm",
+    "admin_iqamaAlwaysHhMm": "عرض أوقات الإقامة دائمًا بصيغة الساعة:الدقيقة",
     "admin_iqamaCalendarNote": "أوقات الإقامة المضبوطة بالتقويم تبقى كما هي — عدّلها على الموقع.",
     "admin_eidPrayerTimes": "أوقات صلاة العيد",
     "admin_ramadanImsak": "رمضان",

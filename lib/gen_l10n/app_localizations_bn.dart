@@ -2739,7 +2739,8 @@ class AppLocalizationsBn extends AppLocalizations {
   String get admin_iqamaDisplayTime => 'সংকেত দেখানোর সময়';
 
   @override
-  String get admin_iqamaAlwaysHhMm => 'ইকামতের সময় সবসময় hh:mm হিসেবে দেখান';
+  String get admin_iqamaAlwaysHhMm =>
+      'ইকামতের সময় সবসময় ঘণ্টা:মিনিট হিসেবে দেখান';
 
   @override
   String get admin_iqamaCalendarNote =>

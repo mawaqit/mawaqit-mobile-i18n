@@ -1663,7 +1663,7 @@
     "admin_iqamaSound": "دەنگ",
     "admin_iqamaCountdown": "ژماردنی سەرەوەخوار بە پڕی شاشە",
     "admin_iqamaDisplayTime": "ماوەی پیشاندانی نیشانە",
-    "admin_iqamaAlwaysHhMm": "هەمیشە کاتەکانی قامەت وەک hh:mm پیشان بدە",
+    "admin_iqamaAlwaysHhMm": "هەمیشە کاتەکانی قامەت وەک کاتژمێر:خولەک پیشان بدە",
     "admin_iqamaCalendarNote": "ئەو کاتانەی قامەت کە بە ساڵنامە دانراون وەک خۆیان دەمێننەوە — لە ماڵپەڕ دەستکارییان بکە.",
     "admin_eidPrayerTimes": "کاتەکانی نوێژی جەژن",
     "admin_ramadanImsak": "ڕەمەزان",

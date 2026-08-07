@@ -1663,7 +1663,7 @@
     "admin_iqamaSound": "ئاۋاز",
     "admin_iqamaCountdown": "پۈتۈن ئېكراندا تەتۈر سانا",
     "admin_iqamaDisplayTime": "بەلگىنىڭ كۆرسىتىلىش ۋاقتى",
-    "admin_iqamaAlwaysHhMm": "قامەت ۋاقىتلىرىنى ھەمىشە hh:mm شەكلىدە كۆرسەت",
+    "admin_iqamaAlwaysHhMm": "قامەت ۋاقىتلىرىنى ھەمىشە سائەت:مىنۇت شەكلىدە كۆرسەت",
     "admin_iqamaCalendarNote": "كالېندار ئارقىلىق بەلگىلەنگەن قامەت ۋاقىتلىرى ئۆزگەرمەيدۇ — ئۇلارنى توربەتتە تەھرىرلەڭ.",
     "admin_eidPrayerTimes": "ھېيت نامىزى ۋاقىتلىرى",
     "admin_ramadanImsak": "رامىزان",

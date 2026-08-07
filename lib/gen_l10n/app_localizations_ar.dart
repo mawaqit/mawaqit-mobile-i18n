@@ -2704,7 +2704,8 @@ class AppLocalizationsAr extends AppLocalizations {
   String get admin_iqamaDisplayTime => 'مدة عرض الإشارة';
 
   @override
-  String get admin_iqamaAlwaysHhMm => 'عرض أوقات الإقامة دائمًا بصيغة hh:mm';
+  String get admin_iqamaAlwaysHhMm =>
+      'عرض أوقات الإقامة دائمًا بصيغة الساعة:الدقيقة';
 
   @override
   String get admin_iqamaCalendarNote =>

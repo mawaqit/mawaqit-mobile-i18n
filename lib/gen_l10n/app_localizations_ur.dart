@@ -2731,7 +2731,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String get admin_iqamaDisplayTime => 'اشارے کے دکھائے جانے کا وقت';
 
   @override
-  String get admin_iqamaAlwaysHhMm => 'اقامت کے اوقات ہمیشہ hh:mm میں دکھائیں';
+  String get admin_iqamaAlwaysHhMm =>
+      'اقامت کے اوقات ہمیشہ گھنٹہ:منٹ میں دکھائیں';
 
   @override
   String get admin_iqamaCalendarNote =>

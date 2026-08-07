@@ -2727,7 +2727,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get admin_iqamaAlwaysHhMm =>
-      'اوقات اقامه همیشه به شکل hh:mm نمایش داده شود';
+      'اوقات اقامه همیشه به شکل ساعت:دقیقه نمایش داده شود';
 
   @override
   String get admin_iqamaCalendarNote =>

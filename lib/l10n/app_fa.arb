@@ -1663,7 +1663,7 @@
     "admin_iqamaSound": "صدا",
     "admin_iqamaCountdown": "شمارش معکوس تمام‌صفحه",
     "admin_iqamaDisplayTime": "مدت نمایش نشانه",
-    "admin_iqamaAlwaysHhMm": "اوقات اقامه همیشه به شکل hh:mm نمایش داده شود",
+    "admin_iqamaAlwaysHhMm": "اوقات اقامه همیشه به شکل ساعت:دقیقه نمایش داده شود",
     "admin_iqamaCalendarNote": "اوقات اقامه که با تقویم تنظیم شده‌اند بدون تغییر می‌مانند — آن‌ها را در وب‌سایت ویرایش کنید.",
     "admin_eidPrayerTimes": "اوقات نماز عید",
     "admin_ramadanImsak": "رمضان",

@@ -1663,7 +1663,7 @@
     "admin_iqamaSound": "শব্দ",
     "admin_iqamaCountdown": "পূর্ণ স্ক্রিনে গণনা",
     "admin_iqamaDisplayTime": "সংকেত দেখানোর সময়",
-    "admin_iqamaAlwaysHhMm": "ইকামতের সময় সবসময় hh:mm হিসেবে দেখান",
+    "admin_iqamaAlwaysHhMm": "ইকামতের সময় সবসময় ঘণ্টা:মিনিট হিসেবে দেখান",
     "admin_iqamaCalendarNote": "ক্যালেন্ডার দিয়ে নির্ধারিত ইকামতের সময় অপরিবর্তিত থাকে — সেগুলো ওয়েবসাইটে সম্পাদনা করুন।",
     "admin_eidPrayerTimes": "ঈদের নামাজের সময়",
     "admin_ramadanImsak": "রমজান",

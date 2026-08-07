@@ -2738,7 +2738,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get admin_iqamaAlwaysHhMm =>
-      'قامەت ۋاقىتلىرىنى ھەمىشە hh:mm شەكلىدە كۆرسەت';
+      'قامەت ۋاقىتلىرىنى ھەمىشە سائەت:مىنۇت شەكلىدە كۆرسەت';
 
   @override
   String get admin_iqamaCalendarNote =>

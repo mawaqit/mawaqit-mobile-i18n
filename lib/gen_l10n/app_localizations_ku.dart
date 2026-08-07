@@ -2744,7 +2744,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get admin_iqamaAlwaysHhMm =>
-      'هەمیشە کاتەکانی قامەت وەک hh:mm پیشان بدە';
+      'هەمیشە کاتەکانی قامەت وەک کاتژمێر:خولەک پیشان بدە';
 
   @override
   String get admin_iqamaCalendarNote =>

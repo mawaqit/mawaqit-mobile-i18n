@@ -1663,7 +1663,7 @@
     "admin_iqamaSound": "آواز",
     "admin_iqamaCountdown": "پوری اسکرین پر الٹی گنتی",
     "admin_iqamaDisplayTime": "اشارے کے دکھائے جانے کا وقت",
-    "admin_iqamaAlwaysHhMm": "اقامت کے اوقات ہمیشہ hh:mm میں دکھائیں",
+    "admin_iqamaAlwaysHhMm": "اقامت کے اوقات ہمیشہ گھنٹہ:منٹ میں دکھائیں",
     "admin_iqamaCalendarNote": "کیلنڈر سے مقرر کردہ اوقاتِ اقامت ویسے ہی رہیں گے — انہیں ویب سائٹ پر تبدیل کریں۔",
     "admin_eidPrayerTimes": "نمازِ عید کے اوقات",
     "admin_ramadanImsak": "رمضان",
