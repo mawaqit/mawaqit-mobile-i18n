@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Вторая молитва",
     "admin_prayerSlot3": "Третья молитва",
     "admin_minutes": "{count} мин",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} с",
-    "admin_announcementCounts": "{total} из {maxTotal} · {enabled} из {maxEnabled} включено"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} из {maxTotal} · {enabled} из {maxEnabled} включено",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }

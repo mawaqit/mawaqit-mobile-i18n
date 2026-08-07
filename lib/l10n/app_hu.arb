@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Második ima",
     "admin_prayerSlot3": "Harmadik ima",
     "admin_minutes": "{count} perc",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} mp",
-    "admin_announcementCounts": "{total} / {maxTotal} · {enabled} / {maxEnabled} bekapcsolva"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} / {maxTotal} · {enabled} / {maxEnabled} bekapcsolva",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }

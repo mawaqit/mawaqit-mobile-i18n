@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "ئىككىنچى ناماز",
     "admin_prayerSlot3": "ئۈچىنچى ناماز",
     "admin_minutes": "{count} مىنۇت",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} سېكۇنت",
-    "admin_announcementCounts": "{maxTotal} دىن {total} · {maxEnabled} دىن {enabled} ئاكتىپ"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{maxTotal} دىن {total} · {maxEnabled} دىن {enabled} ئاكتىپ",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }

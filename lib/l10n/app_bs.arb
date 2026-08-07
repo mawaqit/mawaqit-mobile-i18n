@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Drugi namaz",
     "admin_prayerSlot3": "Treći namaz",
     "admin_minutes": "{count} min",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} s",
-    "admin_announcementCounts": "{total} od {maxTotal} · {enabled} od {maxEnabled} uključeno"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} od {maxTotal} · {enabled} od {maxEnabled} uključeno",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }

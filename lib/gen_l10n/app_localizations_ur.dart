@@ -3089,7 +3089,11 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String admin_announcementCounts(
-      int total, int maxTotal, int enabled, int maxEnabled) {
+    int total,
+    int maxTotal,
+    int enabled,
+    int maxEnabled,
+  ) {
     return '$maxTotal میں سے $total · $maxEnabled میں سے $enabled فعال';
   }
 }

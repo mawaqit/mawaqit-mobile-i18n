@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Segunda oración",
     "admin_prayerSlot3": "Tercera oración",
     "admin_minutes": "{count} min",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} s",
-    "admin_announcementCounts": "{total} de {maxTotal} · {enabled} de {maxEnabled} activados"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} de {maxTotal} · {enabled} de {maxEnabled} activados",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }

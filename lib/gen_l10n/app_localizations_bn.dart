@@ -3097,7 +3097,11 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String admin_announcementCounts(
-      int total, int maxTotal, int enabled, int maxEnabled) {
+    int total,
+    int maxTotal,
+    int enabled,
+    int maxEnabled,
+  ) {
     return '$maxTotal-এর মধ্যে $total · $maxEnabled-এর মধ্যে $enabled সক্রিয়';
   }
 }

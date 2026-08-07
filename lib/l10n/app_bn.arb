@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "দ্বিতীয় নামাজ",
     "admin_prayerSlot3": "তৃতীয় নামাজ",
     "admin_minutes": "{count} মিনিট",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} সেকেন্ড",
-    "admin_announcementCounts": "{maxTotal}-এর মধ্যে {total} · {maxEnabled}-এর মধ্যে {enabled} সক্রিয়"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{maxTotal}-এর মধ্যে {total} · {maxEnabled}-এর মধ্যে {enabled} সক্রিয়",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }
