@@ -1634,6 +1634,14 @@
     "admin_noMosques": "هیچ مزگەوتێک نەدۆزرایەوە.",
     "admin_archivedNotConfigurable": "ئەم مزگەوتە ئەرشیفکراوە — ناتوانرێت ڕێک بخرێت.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "ئەرشیفکراو",
     "admin_openMessages": "پەیامەکان",
     "admin_openConfiguration": "ڕێکخستن",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "ماوەی بانگ",
     "admin_adhanDurationHelp": "ئەم دەنگە پێش بانگ کۆتایی دێت، بۆیە شاشە پێویستە بزانێت بانگدەرەکەت چەند خایەن دەبێت.",
     "admin_customAdhanFile": "پەڕگەی بارکراو: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "هێشتا هیچ پەڕگەیەک بار نەکراوە — لە ماڵپەڕ یەکێک زیاد بکە.",
     "admin_adhanNoPrayers": "هیچ نوێژێک",
     "admin_prayerDurationGroup": "خولەک بۆ هەر نوێژێک",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "ماوە",
     "admin_fieldIsEvent": "ئەمە ڕووداوێکە",
     "admin_fieldStartsAt": "دەست پێدەکات {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "کۆتایی دێت {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "پیشاندان لە",
     "admin_fieldMainScreen": "شاشەی سەرەکیی مزگەوت",
     "admin_fieldSecondaryScreen": "شاشەی دووەم",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "بەستەری ڤیدیۆیەکی یوتیوب بنووسە.",
     "admin_flashUnavailable": "دەستکاری پەیامی خێرا لە ئێستادا بەردەست نییە.",
     "admin_unsavedChanges": "گۆڕانکاری پاشەکەوتنەکراو: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "نوێژی یەکەم",
     "admin_prayerSlot2": "نوێژی دووەم",
     "admin_prayerSlot3": "نوێژی سێیەم"

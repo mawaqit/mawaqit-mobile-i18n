@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Masjid tidak ditemukan.",
     "admin_archivedNotConfigurable": "Masjid ini diarsipkan — tidak dapat diatur.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Diarsipkan",
     "admin_openMessages": "Pesan",
     "admin_openConfiguration": "Konfigurasi",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Durasi adzan",
     "admin_adhanDurationHelp": "Suara ini berhenti sebelum adzan selesai, jadi layar perlu tahu berapa lama muazin Anda mengumandangkannya.",
     "admin_customAdhanFile": "Berkas terunggah: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Belum ada berkas yang diunggah — tambahkan lewat situs.",
     "admin_adhanNoPrayers": "Tidak ada salat",
     "admin_prayerDurationGroup": "MENIT PER SALAT",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Durasi",
     "admin_fieldIsEvent": "Ini adalah acara",
     "admin_fieldStartsAt": "Mulai {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Berakhir {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Tampilkan di",
     "admin_fieldMainScreen": "Layar utama masjid",
     "admin_fieldSecondaryScreen": "Layar kedua",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Masukkan tautan video YouTube.",
     "admin_flashUnavailable": "Pengubahan pesan kilat sedang tidak tersedia.",
     "admin_unsavedChanges": "{count} perubahan belum disimpan",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Salat pertama",
     "admin_prayerSlot2": "Salat kedua",
     "admin_prayerSlot3": "Salat ketiga"

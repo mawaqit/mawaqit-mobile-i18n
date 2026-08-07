@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Keine Moscheen gefunden.",
     "admin_archivedNotConfigurable": "Diese Moschee ist archiviert — nicht konfigurierbar.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Archiviert",
     "admin_openMessages": "Nachrichten",
     "admin_openConfiguration": "Konfiguration",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Dauer des Adhan",
     "admin_adhanDurationHelp": "Dieser Ton endet vor dem Adhan, daher muss der Bildschirm wissen, wie lange dein Muezzin braucht.",
     "admin_customAdhanFile": "Hochgeladene Datei: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Noch keine Datei hochgeladen — füge eine auf der Website hinzu.",
     "admin_adhanNoPrayers": "Keine Gebete",
     "admin_prayerDurationGroup": "MINUTEN PRO GEBET",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Dauer",
     "admin_fieldIsEvent": "Dies ist eine Veranstaltung",
     "admin_fieldStartsAt": "Beginnt {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Endet {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Anzeigen auf",
     "admin_fieldMainScreen": "Haupt-Moscheebildschirm",
     "admin_fieldSecondaryScreen": "Zweitbildschirm",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Gib einen YouTube-Videolink ein.",
     "admin_flashUnavailable": "Das Bearbeiten der Kurznachricht ist derzeit nicht möglich.",
     "admin_unsavedChanges": "{count} nicht gespeicherte Änderungen",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Erstes Gebet",
     "admin_prayerSlot2": "Zweites Gebet",
     "admin_prayerSlot3": "Drittes Gebet"

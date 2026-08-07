@@ -1634,6 +1634,14 @@
     "admin_noMosques": "No se encontraron mezquitas.",
     "admin_archivedNotConfigurable": "Esta mezquita está archivada: no se puede configurar.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Archivada",
     "admin_openMessages": "Mensajes",
     "admin_openConfiguration": "Configuración",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Duración del adhan",
     "admin_adhanDurationHelp": "Este sonido termina antes que el adhan, así que la pantalla necesita saber cuánto tarda tu almuédano.",
     "admin_customAdhanFile": "Archivo subido: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Aún no se ha subido ningún archivo: añade uno en el sitio web.",
     "admin_adhanNoPrayers": "Ninguna oración",
     "admin_prayerDurationGroup": "MINUTOS POR ORACIÓN",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Duración",
     "admin_fieldIsEvent": "Esto es un evento",
     "admin_fieldStartsAt": "Empieza {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Termina {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Mostrar en",
     "admin_fieldMainScreen": "Pantalla principal de la mezquita",
     "admin_fieldSecondaryScreen": "Pantalla secundaria",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Introduce un enlace de vídeo de YouTube.",
     "admin_flashUnavailable": "La edición del mensaje flash no está disponible ahora mismo.",
     "admin_unsavedChanges": "{count} cambios sin guardar",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Primera oración",
     "admin_prayerSlot2": "Segunda oración",
     "admin_prayerSlot3": "Tercera oración"

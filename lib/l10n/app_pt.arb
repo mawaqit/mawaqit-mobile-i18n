@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Nenhuma mesquita encontrada.",
     "admin_archivedNotConfigurable": "Esta mesquita está arquivada — não é configurável.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Arquivada",
     "admin_openMessages": "Mensagens",
     "admin_openConfiguration": "Configuração",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Duração do adhan",
     "admin_adhanDurationHelp": "Este som termina antes do adhan, por isso o ecrã precisa de saber quanto tempo demora o seu muezim.",
     "admin_customAdhanFile": "Ficheiro enviado: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Ainda não foi enviado nenhum ficheiro — adicione um no site.",
     "admin_adhanNoPrayers": "Nenhuma oração",
     "admin_prayerDurationGroup": "MINUTOS POR ORAÇÃO",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Duração",
     "admin_fieldIsEvent": "Isto é um evento",
     "admin_fieldStartsAt": "Começa {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Termina {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Mostrar em",
     "admin_fieldMainScreen": "Ecrã principal da mesquita",
     "admin_fieldSecondaryScreen": "Ecrã secundário",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Introduza um link de vídeo do YouTube.",
     "admin_flashUnavailable": "A edição da mensagem rápida não está disponível de momento.",
     "admin_unsavedChanges": "{count} alterações não guardadas",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Primeira oração",
     "admin_prayerSlot2": "Segunda oração",
     "admin_prayerSlot3": "Terceira oração"

@@ -1634,6 +1634,14 @@
     "admin_noMosques": "کوئی مسجد نہیں ملی۔",
     "admin_archivedNotConfigurable": "یہ مسجد محفوظ شدہ ہے — اس کی ترتیب ممکن نہیں۔",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "محفوظ شدہ",
     "admin_openMessages": "پیغامات",
     "admin_openConfiguration": "ترتیبات",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "اذان کا دورانیہ",
     "admin_adhanDurationHelp": "یہ آواز اذان سے پہلے ختم ہو جاتی ہے، اس لیے اسکرین کو معلوم ہونا چاہیے کہ آپ کے مؤذن کو کتنا وقت لگتا ہے۔",
     "admin_customAdhanFile": "اپ لوڈ کردہ فائل: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "ابھی کوئی فائل اپ لوڈ نہیں ہوئی — ویب سائٹ پر ایک شامل کریں۔",
     "admin_adhanNoPrayers": "کوئی نماز نہیں",
     "admin_prayerDurationGroup": "فی نماز منٹ",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "دورانیہ",
     "admin_fieldIsEvent": "یہ ایک تقریب ہے",
     "admin_fieldStartsAt": "آغاز {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "اختتام {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "یہاں دکھائیں",
     "admin_fieldMainScreen": "مسجد کی مرکزی اسکرین",
     "admin_fieldSecondaryScreen": "ثانوی اسکرین",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "یوٹیوب ویڈیو کا لنک درج کریں۔",
     "admin_flashUnavailable": "فوری پیغام میں ترمیم اس وقت دستیاب نہیں۔",
     "admin_unsavedChanges": "غیر محفوظ تبدیلیاں: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "پہلی نماز",
     "admin_prayerSlot2": "دوسری نماز",
     "admin_prayerSlot3": "تیسری نماز"

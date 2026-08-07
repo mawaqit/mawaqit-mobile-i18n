@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Inga moskéer hittades.",
     "admin_archivedNotConfigurable": "Den här moskén är arkiverad — går inte att konfigurera.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Arkiverad",
     "admin_openMessages": "Meddelanden",
     "admin_openConfiguration": "Konfiguration",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Adhanens längd",
     "admin_adhanDurationHelp": "Det här ljudet tar slut före adhanen, så skärmen behöver veta hur lång tid din muezzin tar.",
     "admin_customAdhanFile": "Uppladdad fil: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Ingen fil uppladdad än — lägg till en på webbplatsen.",
     "admin_adhanNoPrayers": "Inga böner",
     "admin_prayerDurationGroup": "MINUTER PER BÖN",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Längd",
     "admin_fieldIsEvent": "Det här är ett evenemang",
     "admin_fieldStartsAt": "Börjar {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Slutar {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Visa på",
     "admin_fieldMainScreen": "Moskéns huvudskärm",
     "admin_fieldSecondaryScreen": "Andra skärmen",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Ange en länk till en YouTube-video.",
     "admin_flashUnavailable": "Det går inte att redigera snabbmeddelandet just nu.",
     "admin_unsavedChanges": "{count} osparade ändringar",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Första bönen",
     "admin_prayerSlot2": "Andra bönen",
     "admin_prayerSlot3": "Tredje bönen"

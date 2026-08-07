@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Nuk u gjet asnjë xhami.",
     "admin_archivedNotConfigurable": "Kjo xhami është arkivuar — nuk mund të konfigurohet.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "E arkivuar",
     "admin_openMessages": "Mesazhet",
     "admin_openConfiguration": "Konfigurimi",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Kohëzgjatja e ezanit",
     "admin_adhanDurationHelp": "Ky tingull mbaron para ezanit, prandaj ekrani duhet të dijë sa zgjat muezini yt.",
     "admin_customAdhanFile": "Skedari i ngarkuar: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Ende nuk është ngarkuar asnjë skedar — shtoje në faqen e internetit.",
     "admin_adhanNoPrayers": "Asnjë namaz",
     "admin_prayerDurationGroup": "MINUTA PËR NAMAZ",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Kohëzgjatja",
     "admin_fieldIsEvent": "Kjo është një ngjarje",
     "admin_fieldStartsAt": "Fillon {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Mbaron {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Shfaq në",
     "admin_fieldMainScreen": "Ekrani kryesor i xhamisë",
     "admin_fieldSecondaryScreen": "Ekrani dytësor",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Vendos një lidhje videoje nga YouTube.",
     "admin_flashUnavailable": "Redaktimi i mesazhit të shpejtë nuk është i disponueshëm tani.",
     "admin_unsavedChanges": "Ndryshime të paruajtura: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Namazi i parë",
     "admin_prayerSlot2": "Namazi i dytë",
     "admin_prayerSlot3": "Namazi i tretë"

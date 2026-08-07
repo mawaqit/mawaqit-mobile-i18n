@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Nije pronađena nijedna džamija.",
     "admin_archivedNotConfigurable": "Ova džamija je arhivirana — ne može se podešavati.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Arhivirana",
     "admin_openMessages": "Poruke",
     "admin_openConfiguration": "Konfiguracija",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Trajanje ezana",
     "admin_adhanDurationHelp": "Ovaj zvuk završava prije ezana, pa ekran treba znati koliko traje vaš mujezin.",
     "admin_customAdhanFile": "Otpremljena datoteka: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Nijedna datoteka još nije otpremljena — dodajte je na web stranici.",
     "admin_adhanNoPrayers": "Nema namaza",
     "admin_prayerDurationGroup": "MINUTA PO NAMAZU",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Trajanje",
     "admin_fieldIsEvent": "Ovo je događaj",
     "admin_fieldStartsAt": "Počinje {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Završava {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Prikaži na",
     "admin_fieldMainScreen": "Glavni ekran džamije",
     "admin_fieldSecondaryScreen": "Drugi ekran",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Unesite link YouTube videa.",
     "admin_flashUnavailable": "Uređivanje brze poruke trenutno nije dostupno.",
     "admin_unsavedChanges": "Nesačuvane izmjene: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Prvi namaz",
     "admin_prayerSlot2": "Drugi namaz",
     "admin_prayerSlot3": "Treći namaz"

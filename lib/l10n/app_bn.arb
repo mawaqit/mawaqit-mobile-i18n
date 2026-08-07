@@ -1634,6 +1634,14 @@
     "admin_noMosques": "কোনো মসজিদ পাওয়া যায়নি।",
     "admin_archivedNotConfigurable": "এই মসজিদটি আর্কাইভ করা — এর সেটিংস বদলানো যাবে না।",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "আর্কাইভ করা",
     "admin_openMessages": "বার্তা",
     "admin_openConfiguration": "কনফিগারেশন",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "আযানের দৈর্ঘ্য",
     "admin_adhanDurationHelp": "এই শব্দটি আযান শেষ হওয়ার আগেই থেমে যায়, তাই আপনার মুয়াজ্জিনের কত সময় লাগে তা স্ক্রিনের জানা দরকার।",
     "admin_customAdhanFile": "আপলোড করা ফাইল: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "এখনও কোনো ফাইল আপলোড করা হয়নি — ওয়েবসাইটে একটি যোগ করুন।",
     "admin_adhanNoPrayers": "কোনো নামাজ নেই",
     "admin_prayerDurationGroup": "প্রতি নামাজে মিনিট",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "সময়কাল",
     "admin_fieldIsEvent": "এটি একটি অনুষ্ঠান",
     "admin_fieldStartsAt": "শুরু {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "শেষ {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "যেখানে দেখাবে",
     "admin_fieldMainScreen": "মসজিদের প্রধান স্ক্রিন",
     "admin_fieldSecondaryScreen": "দ্বিতীয় স্ক্রিন",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "একটি ইউটিউব ভিডিও লিঙ্ক দিন।",
     "admin_flashUnavailable": "দ্রুত বার্তা সম্পাদনা এখন করা যাচ্ছে না।",
     "admin_unsavedChanges": "অসংরক্ষিত পরিবর্তন: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "প্রথম নামাজ",
     "admin_prayerSlot2": "দ্বিতীয় নামাজ",
     "admin_prayerSlot3": "তৃতীয় নামাজ"

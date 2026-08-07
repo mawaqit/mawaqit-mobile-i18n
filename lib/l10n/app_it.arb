@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Nessuna moschea trovata.",
     "admin_archivedNotConfigurable": "Questa moschea è archiviata — non configurabile.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Archiviata",
     "admin_openMessages": "Messaggi",
     "admin_openConfiguration": "Configurazione",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Durata dell'adhan",
     "admin_adhanDurationHelp": "Questo suono finisce prima dell'adhan, quindi lo schermo deve sapere quanto tempo impiega il tuo muezzin.",
     "admin_customAdhanFile": "File caricato: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Nessun file caricato — aggiungine uno sul sito.",
     "admin_adhanNoPrayers": "Nessuna preghiera",
     "admin_prayerDurationGroup": "MINUTI PER PREGHIERA",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Durata",
     "admin_fieldIsEvent": "Questo è un evento",
     "admin_fieldStartsAt": "Inizia {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Finisce {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Mostra su",
     "admin_fieldMainScreen": "Schermo principale della moschea",
     "admin_fieldSecondaryScreen": "Schermo secondario",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Inserisci un link a un video YouTube.",
     "admin_flashUnavailable": "La modifica del messaggio flash non è disponibile al momento.",
     "admin_unsavedChanges": "{count} modifiche non salvate",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Prima preghiera",
     "admin_prayerSlot2": "Seconda preghiera",
     "admin_prayerSlot3": "Terza preghiera"

@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Мечети не найдены.",
     "admin_archivedNotConfigurable": "Эта мечеть в архиве — настроить её нельзя.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "В архиве",
     "admin_openMessages": "Сообщения",
     "admin_openConfiguration": "Настройки",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Длительность азана",
     "admin_adhanDurationHelp": "Этот звук заканчивается раньше азана, поэтому экрану нужно знать, сколько времени занимает ваш муэдзин.",
     "admin_customAdhanFile": "Загруженный файл: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Файл ещё не загружен — добавьте его на сайте.",
     "admin_adhanNoPrayers": "Нет молитв",
     "admin_prayerDurationGroup": "МИНУТ НА МОЛИТВУ",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Длительность",
     "admin_fieldIsEvent": "Это событие",
     "admin_fieldStartsAt": "Начало {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Окончание {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Показывать на",
     "admin_fieldMainScreen": "Главный экран мечети",
     "admin_fieldSecondaryScreen": "Второй экран",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Введите ссылку на видео с YouTube.",
     "admin_flashUnavailable": "Редактирование срочного сообщения сейчас недоступно.",
     "admin_unsavedChanges": "Несохранённых изменений: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Первая молитва",
     "admin_prayerSlot2": "Вторая молитва",
     "admin_prayerSlot3": "Третья молитва"

@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Nem található mecset.",
     "admin_archivedNotConfigurable": "Ez a mecset archiválva van — nem állítható be.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Archivált",
     "admin_openMessages": "Üzenetek",
     "admin_openConfiguration": "Beállítások",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Az adhan hossza",
     "admin_adhanDurationHelp": "Ez a hang az adhan előtt véget ér, ezért a képernyőnek tudnia kell, mennyi ideig tart a müezzined.",
     "admin_customAdhanFile": "Feltöltött fájl: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Még nincs feltöltött fájl — adj hozzá egyet a webhelyen.",
     "admin_adhanNoPrayers": "Nincs ima",
     "admin_prayerDurationGroup": "PERC IMÁNKÉNT",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Hossz",
     "admin_fieldIsEvent": "Ez egy esemény",
     "admin_fieldStartsAt": "Kezdés: {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Vége: {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Megjelenítés itt",
     "admin_fieldMainScreen": "A mecset fő képernyője",
     "admin_fieldSecondaryScreen": "Másodlagos képernyő",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Adj meg egy YouTube-videó hivatkozását.",
     "admin_flashUnavailable": "A gyorsüzenet szerkesztése jelenleg nem érhető el.",
     "admin_unsavedChanges": "Nem mentett módosítások: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Első ima",
     "admin_prayerSlot2": "Második ima",
     "admin_prayerSlot3": "Harmadik ima"

@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Nie znaleziono meczetów.",
     "admin_archivedNotConfigurable": "Ten meczet jest zarchiwizowany — nie można go konfigurować.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Zarchiwizowany",
     "admin_openMessages": "Wiadomości",
     "admin_openConfiguration": "Konfiguracja",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Długość adhanu",
     "admin_adhanDurationHelp": "Ten dźwięk kończy się przed adhanem, więc ekran musi wiedzieć, ile czasu zajmuje twojemu muezinowi.",
     "admin_customAdhanFile": "Przesłany plik: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Nie przesłano jeszcze pliku — dodaj go na stronie.",
     "admin_adhanNoPrayers": "Brak modlitw",
     "admin_prayerDurationGroup": "MINUTY NA MODLITWĘ",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Czas trwania",
     "admin_fieldIsEvent": "To jest wydarzenie",
     "admin_fieldStartsAt": "Zaczyna się {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Kończy się {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Pokaż na",
     "admin_fieldMainScreen": "Główny ekran meczetu",
     "admin_fieldSecondaryScreen": "Ekran dodatkowy",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Podaj link do filmu na YouTube.",
     "admin_flashUnavailable": "Edycja wiadomości błyskawicznej jest teraz niedostępna.",
     "admin_unsavedChanges": "Niezapisane zmiany: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Pierwsza modlitwa",
     "admin_prayerSlot2": "Druga modlitwa",
     "admin_prayerSlot3": "Trzecia modlitwa"

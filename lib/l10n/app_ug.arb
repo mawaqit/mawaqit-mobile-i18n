@@ -1634,6 +1634,14 @@
     "admin_noMosques": "مەسچىت تېپىلمىدى.",
     "admin_archivedNotConfigurable": "بۇ مەسچىت ئارخىپلانغان — تەڭشىگىلى بولمايدۇ.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "ئارخىپلانغان",
     "admin_openMessages": "ئۇچۇرلار",
     "admin_openConfiguration": "تەڭشەك",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "ئەزان ئۇزۇنلۇقى",
     "admin_adhanDurationHelp": "بۇ ئاۋاز ئەزاندىن بۇرۇن ئاخىرلىشىدۇ، شۇڭا ئېكران ئەزانچىڭىزنىڭ قانچىلىك ۋاقىت ئالىدىغانلىقىنى بىلىشى كېرەك.",
     "admin_customAdhanFile": "يۈكلەنگەن ھۆججەت: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "تېخى ھۆججەت يۈكلەنمىدى — توربەتتە بىرنى قوشۇڭ.",
     "admin_adhanNoPrayers": "ناماز يوق",
     "admin_prayerDurationGroup": "ھەر نامازغا مىنۇت",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "داۋاملىشىش ۋاقتى",
     "admin_fieldIsEvent": "بۇ بىر پائالىيەت",
     "admin_fieldStartsAt": "باشلىنىدۇ {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "ئاخىرلىشىدۇ {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "كۆرسىتىش ئورنى",
     "admin_fieldMainScreen": "مەسچىتنىڭ ئاساسىي ئېكرانى",
     "admin_fieldSecondaryScreen": "ئىككىنچى ئېكران",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "YouTube سىن ئۇلانمىسىنى كىرگۈزۈڭ.",
     "admin_flashUnavailable": "تېز ئۇچۇرنى تەھرىرلەش ھازىر ئىشلەتكىلى بولمايدۇ.",
     "admin_unsavedChanges": "ساقلانمىغان ئۆزگەرتىشلەر: {count}",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "بىرىنچى ناماز",
     "admin_prayerSlot2": "ئىككىنچى ناماز",
     "admin_prayerSlot3": "ئۈچىنچى ناماز"

@@ -1634,6 +1634,14 @@
     "admin_noMosques": "لا توجد مساجد.",
     "admin_archivedNotConfigurable": "هذا المسجد مؤرشف — لا يمكن ضبطه.",
     "admin_mosqueId": "المعرّف {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "مؤرشف",
     "admin_openMessages": "الرسائل",
     "admin_openConfiguration": "الإعدادات",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "مدة الأذان",
     "admin_adhanDurationHelp": "ينتهي هذا الصوت قبل انتهاء الأذان، لذا تحتاج الشاشة إلى معرفة المدة التي يستغرقها مؤذّنك.",
     "admin_customAdhanFile": "الملف المرفوع: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "لم يُرفع أي ملف بعد — أضِف واحدًا على الموقع.",
     "admin_adhanNoPrayers": "لا صلوات",
     "admin_prayerDurationGroup": "الدقائق لكل صلاة",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "المدة",
     "admin_fieldIsEvent": "هذا حدث",
     "admin_fieldStartsAt": "يبدأ {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "ينتهي {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "العرض على",
     "admin_fieldMainScreen": "شاشة المسجد الرئيسية",
     "admin_fieldSecondaryScreen": "الشاشة الثانوية",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "أدخل رابط فيديو من يوتيوب.",
     "admin_flashUnavailable": "تعديل الرسالة العاجلة غير متاح حاليًا.",
     "admin_unsavedChanges": "{count} تغييرات غير محفوظة",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "الصلاة الأولى",
     "admin_prayerSlot2": "الصلاة الثانية",
     "admin_prayerSlot3": "الصلاة الثالثة"

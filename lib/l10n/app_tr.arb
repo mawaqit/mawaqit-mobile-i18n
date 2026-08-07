@@ -1634,6 +1634,14 @@
     "admin_noMosques": "Cami bulunamadı.",
     "admin_archivedNotConfigurable": "Bu cami arşivlenmiş — yapılandırılamaz.",
     "admin_mosqueId": "ID {id}",
+    "@admin_mosqueId": {
+        "placeholders": {
+            "id": {
+                "type": "String",
+                "example": "1234"
+            }
+        }
+    },
     "admin_statusArchived": "Arşivlenmiş",
     "admin_openMessages": "Mesajlar",
     "admin_openConfiguration": "Yapılandırma",
@@ -1669,6 +1677,14 @@
     "admin_adhanDurationLabel": "Ezan süresi",
     "admin_adhanDurationHelp": "Bu ses ezandan önce biter, bu yüzden ekranın müezzininin ne kadar sürdüğünü bilmesi gerekir.",
     "admin_customAdhanFile": "Yüklenen dosya: {name}",
+    "@admin_customAdhanFile": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "adhan.mp3"
+            }
+        }
+    },
     "admin_customAdhanMissing": "Henüz dosya yüklenmedi — web sitesinden bir tane ekle.",
     "admin_adhanNoPrayers": "Namaz yok",
     "admin_prayerDurationGroup": "NAMAZ BAŞINA DAKİKA",
@@ -1747,7 +1763,23 @@
     "admin_fieldDuration": "Süre",
     "admin_fieldIsEvent": "Bu bir etkinlik",
     "admin_fieldStartsAt": "Başlangıç {date}",
+    "@admin_fieldStartsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldEndsAt": "Bitiş {date}",
+    "@admin_fieldEndsAt": {
+        "placeholders": {
+            "date": {
+                "type": "String",
+                "example": "12 Aug 2026"
+            }
+        }
+    },
     "admin_fieldShowOn": "Şurada göster",
     "admin_fieldMainScreen": "Ana cami ekranı",
     "admin_fieldSecondaryScreen": "İkincil ekran",
@@ -1760,6 +1792,13 @@
     "admin_invalidYoutube": "Bir YouTube video bağlantısı gir.",
     "admin_flashUnavailable": "Kısa mesajı düzenlemek şu anda kullanılamıyor.",
     "admin_unsavedChanges": "{count} kaydedilmemiş değişiklik",
+    "@admin_unsavedChanges": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_prayerSlot1": "Birinci namaz",
     "admin_prayerSlot2": "İkinci namaz",
     "admin_prayerSlot3": "Üçüncü namaz"
