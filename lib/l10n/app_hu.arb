@@ -1582,9 +1582,9 @@
     "search_for_mosque_or_enable_location": "Nem tudjuk javasolni a legközelebbi mecsetet, mert a helyhozzáférés meg lett tagadva. Kérjük, keressen mecsetet vagy engedélyezze a helymeghatározást.",
     "location": "Helymeghatározás",
     "stop": "Leállítás",
-    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
-    "play_in_silent_mode": "Play in silent mode",
-    "notifications_not_arriving": "Notifications not arriving?",
+    "plays_adhan_prayer_arrives": "Lejátssza az adzánt az ima idejének kezdetekor",
+    "play_in_silent_mode": "Lejátszás néma módban is",
+    "notifications_not_arriving": "Nem érkeznek meg az értesítések?",
     "android_phones_aggressively": "Néhány Android telefon agresszívan bezárja a háttérben futó alkalmazásokat.",
     "elmir_kuliev": "Elmir Kuliev",
     "@elmir_kuliev": {
@@ -1595,7 +1595,7 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Bosnyák",
-    "something_wrong_getting_location": "Something went wrong while getting your location. Please try again.",
+    "something_wrong_getting_location": "Hiba történt a tartózkodási hely meghatározása közben. Kérjük, próbálja újra.",
     "custom_volume": "Egyéni hangerő",
     "general": "Általános",
     "prayer_location": "Ima és Helymeghatározás",
@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "A teljes adhán ismétlődni fog, amíg be nem zárja.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Perzsa",
-    "mawaqit_non_profit": "MAWAQIT nonprofit szervezet · mindenki számára ingyenes"
+    "mawaqit_non_profit": "MAWAQIT nonprofit szervezet · mindenki számára ingyenes",
+    "garmin_watch_detected": "Garmin óra észlelve",
+    "garmin_support_detected": "Garmin támogatás érhető el az eszközén. Szeretné szinkronizálni az imaidőket Garmin órájával?",
+    "never_remind_me": "Ne emlékeztessen újra",
+    "remind_me_later": "Emlékeztessen később",
+    "you_can_enable_garmin_sync": "A Garmin szinkronizálást bármikor engedélyezheti a Beállítások → Függő műveletek menüben.",
+    "pending_actions": "Függő műveletek",
+    "setup_garmin_watch": "Garmin óra beállítása",
+    "sync_prayer_times_garmin": "Imaidők szinkronizálása Garmin órával",
+    "setup_garmin": "Garmin beállítása",
+    "open_garmin_device_selection": "Garmin eszköz kiválasztásának megnyitása"
 }
