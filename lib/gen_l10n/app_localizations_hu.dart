@@ -2625,63 +2625,63 @@ class AppLocalizationsHu extends AppLocalizations {
       'Garmin eszköz kiválasztásának megnyitása';
 
   @override
-  String get admin_adminTitle => 'Mosque admin';
+  String get admin_adminTitle => 'Mecset adminisztráció';
 
   @override
-  String get admin_adminTileSubtitle =>
-      'Announcements, prayer settings and adhan';
+  String get admin_adminTileSubtitle => 'Közlemények, imabeállítások és adhan';
 
   @override
-  String get admin_signInHeadline => 'Manage your mosque';
+  String get admin_signInHeadline => 'Kezeld a mecsetedet';
 
   @override
   String get admin_signInIntro =>
-      'Sign in with the account you use on mawaqit.net to manage the mosques you run.';
+      'Jelentkezz be azzal a fiókkal, amelyet a mawaqit.net oldalon használsz, hogy kezelhesd a rád bízott mecseteket.';
 
   @override
   String get admin_capabilityMessages =>
-      'Post announcements and a flash message';
+      'Közlemények és gyorsüzenet közzététele';
 
   @override
-  String get admin_capabilityTimes => 'Set iqama, jumua and Eid times';
+  String get admin_capabilityTimes =>
+      'Ikáma, dzsuma és Íd időpontjainak beállítása';
 
   @override
-  String get admin_capabilityAdhan => 'Choose the adhan and how it plays';
+  String get admin_capabilityAdhan => 'Az adhan és lejátszásának kiválasztása';
 
   @override
-  String get admin_notAnAdminTitle => 'Not an admin yet?';
+  String get admin_notAnAdminTitle => 'Még nem vagy adminisztrátor?';
 
   @override
   String get admin_notAnAdminBody =>
-      'Mosques are registered on the MAWAQIT website, where the team reviews them before the account is activated.';
+      'A mecseteket a MAWAQIT webhelyén regisztrálják, ahol a csapat ellenőrzi őket, mielőtt a fiókot aktiválná.';
 
   @override
-  String get admin_registerMosque => 'Register a mosque';
+  String get admin_registerMosque => 'Mecset regisztrálása';
 
   @override
-  String get admin_registerUnavailable => 'Could not open the website.';
+  String get admin_registerUnavailable => 'A webhelyet nem sikerült megnyitni.';
 
   @override
-  String get admin_signIn => 'Sign in';
+  String get admin_signIn => 'Bejelentkezés';
 
   @override
-  String get admin_signInAgain => 'Sign in again';
+  String get admin_signInAgain => 'Bejelentkezés újra';
 
   @override
-  String get admin_sessionExpired => 'Your session has expired.';
+  String get admin_sessionExpired => 'A munkameneted lejárt.';
 
   @override
-  String get admin_myMosques => 'My mosques';
+  String get admin_myMosques => 'Mecseteim';
 
   @override
-  String get admin_logOut => 'Log out';
+  String get admin_logOut => 'Kijelentkezés';
 
   @override
-  String get admin_noMosques => 'No mosques found.';
+  String get admin_noMosques => 'Nem található mecset.';
 
   @override
   String get admin_archivedNotConfigurable =>
-      'This mosque is archived — not configurable.';
+      'Ez a mecset archiválva van — nem állítható be.';
 
   @override
   String admin_mosqueId(String id) {
@@ -2689,411 +2689,415 @@ class AppLocalizationsHu extends AppLocalizations {
   }
 
   @override
-  String get admin_statusArchived => 'Archived';
+  String get admin_statusArchived => 'Archivált';
 
   @override
-  String get admin_openMessages => 'Messages';
+  String get admin_openMessages => 'Üzenetek';
 
   @override
-  String get admin_openConfiguration => 'Configuration';
+  String get admin_openConfiguration => 'Beállítások';
 
   @override
-  String get admin_configurationTitle => 'Configuration';
+  String get admin_configurationTitle => 'Beállítások';
 
   @override
-  String get admin_configurationSaved => 'Configuration saved';
+  String get admin_configurationSaved => 'A beállítások mentve';
 
   @override
-  String get admin_oneUnsavedChange => '1 unsaved change';
+  String get admin_oneUnsavedChange => '1 nem mentett módosítás';
 
   @override
-  String get admin_sectionRegional => 'Regional settings';
+  String get admin_sectionRegional => 'Területi beállítások';
 
   @override
   String get admin_sectionAdhan => 'Al-Athan';
 
   @override
-  String get admin_sectionIqama => 'Iqama';
+  String get admin_sectionIqama => 'Ikáma';
 
   @override
-  String get admin_sectionJumua => 'Jumua';
+  String get admin_sectionJumua => 'Dzsuma';
 
   @override
-  String get admin_sectionPrayerDuration => 'Prayer duration';
+  String get admin_sectionPrayerDuration => 'Az ima hossza';
 
   @override
-  String get admin_sectionDuas => 'Invocations and hadiths';
+  String get admin_sectionDuas => 'Fohászok és hadíszok';
 
   @override
-  String get admin_sectionEid => 'Eid and Ramadan';
+  String get admin_sectionEid => 'Íd és ramadán';
 
   @override
-  String get admin_sectionNotYet => 'Not editable in the app yet';
+  String get admin_sectionNotYet => 'Az alkalmazásban még nem szerkeszthető';
 
   @override
-  String get admin_iqamaEnabled => 'Iqama enabled';
+  String get admin_iqamaEnabled => 'Ikáma bekapcsolva';
 
   @override
   String get admin_iqamaEnabledHelp =>
-      'Turning this off also stops the waiting times, the iqama signal and the invocations after prayer from showing on the mosque screen.';
+      'Ha ezt kikapcsolod, a mecset képernyőjén a várakozási idők, az ikáma jelzése és az ima utáni fohászok sem jelennek meg.';
 
   @override
-  String get admin_iqamaWaitingTimes => 'WAITING TIME AFTER ADHAN (MINUTES)';
+  String get admin_iqamaWaitingTimes => 'VÁRAKOZÁS AZ ADHAN UTÁN (PERC)';
 
   @override
-  String get admin_iqamaSignal => 'IQAMA SIGNAL';
+  String get admin_iqamaSignal => 'IKÁMA JELZÉSE';
 
   @override
-  String get admin_iqamaSound => 'Sound';
+  String get admin_iqamaSound => 'Hang';
 
   @override
-  String get admin_iqamaCountdown => 'Full-screen countdown';
+  String get admin_iqamaCountdown => 'Teljes képernyős visszaszámlálás';
 
   @override
-  String get admin_iqamaDisplayTime => 'Signal display time';
+  String get admin_iqamaDisplayTime => 'A jelzés megjelenítési ideje';
 
   @override
-  String get admin_iqamaAlwaysHhMm => 'Always show iqama times as hh:mm';
+  String get admin_iqamaAlwaysHhMm =>
+      'Az ikáma időpontjai mindig óó:pp formában';
 
   @override
   String get admin_iqamaCalendarNote =>
-      'Iqama times set by calendar stay as they are — edit those on the website.';
+      'A naptárral beállított ikáma-időpontok változatlanok maradnak — a webhelyen szerkeszd őket.';
 
   @override
-  String get admin_eidPrayerTimes => 'EID PRAYER TIMES';
+  String get admin_eidPrayerTimes => 'AZ ÍD IMÁJÁNAK IDŐPONTJAI';
 
   @override
-  String get admin_ramadanImsak => 'RAMADAN';
+  String get admin_ramadanImsak => 'RAMADÁN';
 
   @override
   String get admin_eidPrayerHelp =>
-      'Shown on the mosque screen for the week before Eid. Leave a prayer unset if it isn’t held.';
+      'Az Íd előtti héten jelenik meg a mecset képernyőjén. Hagyd üresen azt az imát, amelyet nem tartanak meg.';
 
   @override
-  String get admin_imsakBeforeFajr => 'Show imsak before fajr';
+  String get admin_imsakBeforeFajr => 'Imszák megjelenítése a fadzsr előtt';
 
   @override
   String get admin_imsakHelp =>
-      'How early imsak appears. With fajr at 04:00 and 30 minutes here, the screen shows 03:30.';
+      'Mennyivel korábban jelenik meg az imszák. Ha a fadzsr 04:00, és itt 30 perc szerepel, a képernyő 03:30-at mutat.';
 
   @override
-  String get admin_imsakOff => 'Off';
+  String get admin_imsakOff => 'Ki';
 
   @override
-  String get admin_eidNoPrayerTime => 'No prayer time set';
+  String get admin_eidNoPrayerTime => 'Nincs beállítva időpont';
 
   @override
-  String get admin_adhanSoundLabel => 'Sound';
+  String get admin_adhanSoundLabel => 'Hang';
 
   @override
-  String get admin_adhanPlaysFor => 'PLAYS FOR';
+  String get admin_adhanPlaysFor => 'EKKOR SZÓL';
 
   @override
-  String get admin_adhanDurationLabel => 'Adhan length';
+  String get admin_adhanDurationLabel => 'Az adhan hossza';
 
   @override
   String get admin_adhanDurationHelp =>
-      'This sound stops before the adhan does, so the screen needs to know how long your muezzin takes.';
+      'Ez a hang az adhan előtt véget ér, ezért a képernyőnek tudnia kell, mennyi ideig tart a müezzined.';
 
   @override
   String admin_customAdhanFile(String name) {
-    return 'Uploaded file: $name';
+    return 'Feltöltött fájl: $name';
   }
 
   @override
   String get admin_customAdhanMissing =>
-      'No file uploaded yet — add one on the website.';
+      'Még nincs feltöltött fájl — adj hozzá egyet a webhelyen.';
 
   @override
-  String get admin_adhanNoPrayers => 'No prayers';
+  String get admin_adhanNoPrayers => 'Nincs ima';
 
   @override
-  String get admin_prayerDurationGroup => 'MINUTES PER PRAYER';
+  String get admin_prayerDurationGroup => 'PERC IMÁNKÉNT';
 
   @override
   String get admin_prayerDurationHelp =>
-      'The black screen during prayer and the invocations after it both last this long.';
+      'Az ima alatti fekete képernyő és az utána következő fohászok ennyi ideig tartanak.';
 
   @override
-  String get admin_duasInvocations => 'INVOCATIONS';
+  String get admin_duasInvocations => 'FOHÁSZOK';
 
   @override
-  String get admin_duasHadiths => 'HADITHS';
+  String get admin_duasHadiths => 'HADÍSZOK';
 
   @override
-  String get admin_duaAfterAdhan => 'Duaa after adhan';
+  String get admin_duaAfterAdhan => 'Duá az adhan után';
 
   @override
-  String get admin_duaAfterPrayer => 'Invocations after prayer';
+  String get admin_duaAfterPrayer => 'Fohászok az ima után';
 
   @override
-  String get admin_randomHadith => 'Show a hadith every 5 minutes';
+  String get admin_randomHadith => 'Hadísz megjelenítése 5 percenként';
 
   @override
-  String get admin_hadithSource => 'From Riyad as-Salihin, by Imam an-Nawawi.';
+  String get admin_hadithSource =>
+      'Nawawi imám Rijád asz-Szálihín című művéből.';
 
   @override
-  String get admin_hadithPause => 'Pause between';
+  String get admin_hadithPause => 'Szünet a következők között';
 
   @override
-  String get admin_hadithPauseNever => 'Never';
+  String get admin_hadithPauseNever => 'Soha';
 
   @override
   String get admin_hadithPauseHelp =>
-      'For a mosque that holds lessons between two prayers.';
+      'Olyan mecsetnek, amely két ima között órákat tart.';
 
   @override
-  String get admin_duasAllOff => 'All off';
+  String get admin_duasAllOff => 'Minden kikapcsolva';
 
   @override
-  String get admin_summaryDuaAdhan => 'After adhan';
+  String get admin_summaryDuaAdhan => 'Adhan után';
 
   @override
-  String get admin_summaryDuaPrayer => 'After prayer';
+  String get admin_summaryDuaPrayer => 'Ima után';
 
   @override
-  String get admin_summaryHadiths => 'Hadiths';
+  String get admin_summaryHadiths => 'Hadíszok';
 
   @override
-  String get admin_regionalHijri => 'HIJRI DATE';
+  String get admin_regionalHijri => 'HIDZSRI DÁTUM';
 
   @override
-  String get admin_regionalMosqueScreen => 'MOSQUE SCREEN';
+  String get admin_regionalMosqueScreen => 'MECSET KÉPERNYŐJE';
 
   @override
-  String get admin_regionalRegion => 'REGION';
+  String get admin_regionalRegion => 'RÉGIÓ';
 
   @override
-  String get admin_timezoneLabel => 'Time zone (set on the website)';
+  String get admin_timezoneLabel => 'Időzóna (a webhelyen állítható be)';
 
   @override
-  String get admin_timezoneUnknown => 'Unknown';
+  String get admin_timezoneUnknown => 'Ismeretlen';
 
   @override
-  String get admin_dstLabel => 'Daylight saving';
+  String get admin_dstLabel => 'Nyári időszámítás';
 
   @override
   String get admin_dstDatesNote =>
-      'Summer and winter changeover dates stay as they are — set them on the website.';
+      'A nyári és téli időszámítás váltásának dátumai változatlanok maradnak — a webhelyen állítsd be őket.';
 
   @override
-  String get admin_hijriAdjustmentLabel => 'Date adjustment';
+  String get admin_hijriAdjustmentLabel => 'Dátumkorrekció';
 
   @override
-  String get admin_jumuaTimeGroup => 'JUMUA TIME';
+  String get admin_jumuaTimeGroup => 'A DZSUMA IDŐPONTJA';
 
   @override
-  String get admin_jumuaDuringGroup => 'DURING JUMUA';
+  String get admin_jumuaDuringGroup => 'A DZSUMA ALATT';
 
   @override
-  String get admin_jumuaSameAsDuhr => 'Same time as Dhuhr';
+  String get admin_jumuaSameAsDuhr => 'Ugyanakkor, mint a zuhr';
 
   @override
-  String get admin_jumuaFollowsDuhr => 'Runs at Dhuhr — your own time is kept.';
+  String get admin_jumuaFollowsDuhr =>
+      'A zuhr idején tartják — a saját időpontod megmarad.';
 
   @override
-  String get admin_jumuaApplyDst => 'Add an hour in summer time';
+  String get admin_jumuaApplyDst => 'Egy óra hozzáadása nyári időszámításkor';
 
   @override
-  String get admin_jumuaDuration => 'Duration (preach + prayer)';
+  String get admin_jumuaDuration => 'Hossz (prédikáció + ima)';
 
   @override
   String get admin_jumuaDurationHelp =>
-      'Whatever shows during jumua lasts this long.';
+      'Minden, ami a dzsuma alatt látszik, ennyi ideig tart.';
 
   @override
-  String get admin_jumuaBlackScreen => 'Black screen during jumua';
+  String get admin_jumuaBlackScreen => 'Fekete képernyő a dzsuma alatt';
 
   @override
-  String get admin_jumuaDhikr => 'Show a hadith on jumua etiquette';
+  String get admin_jumuaDhikr =>
+      'Hadísz megjelenítése a dzsuma illemszabályairól';
 
   @override
-  String get admin_jumuaNoTime => 'No time set';
+  String get admin_jumuaNoTime => 'Nincs beállítva időpont';
 
   @override
-  String get admin_summaryAsDuhr => 'Dhuhr';
+  String get admin_summaryAsDuhr => 'Zuhr';
 
   @override
-  String get admin_timeNotSet => 'Not set';
+  String get admin_timeNotSet => 'Nincs beállítva';
 
   @override
-  String get admin_clearTime => 'Clear';
+  String get admin_clearTime => 'Törlés';
 
   @override
-  String get admin_flashContent => 'Content';
+  String get admin_flashContent => 'Tartalom';
 
   @override
-  String get admin_flashContentHint => 'Message shown on the mosque screen';
+  String get admin_flashContentHint => 'A mecset képernyőjén megjelenő üzenet';
 
   @override
-  String get admin_flashOrientation => 'Orientation';
+  String get admin_flashOrientation => 'Tájolás';
 
   @override
-  String get admin_flashColor => 'Color';
+  String get admin_flashColor => 'Szín';
 
   @override
-  String get admin_flashStartDate => 'Start date';
+  String get admin_flashStartDate => 'Kezdő dátum';
 
   @override
-  String get admin_flashExpireDate => 'End date';
+  String get admin_flashExpireDate => 'Záró dátum';
 
   @override
-  String get admin_flashTooShort => 'At least 30 characters';
+  String get admin_flashTooShort => 'Legalább 30 karakter';
 
   @override
-  String get admin_flashSaved => 'Flash message saved';
+  String get admin_flashSaved => 'A gyorsüzenet mentve';
 
   @override
-  String get admin_flashSaving => 'Saving…';
+  String get admin_flashSaving => 'Mentés…';
 
   @override
-  String get admin_flashDelete => 'Delete';
+  String get admin_flashDelete => 'Törlés';
 
   @override
-  String get admin_flashDeleteTitle => 'Delete this flash message?';
+  String get admin_flashDeleteTitle => 'Törlöd ezt a gyorsüzenetet?';
 
   @override
   String get admin_deleteBody =>
-      'It will stop showing on the mosque screen. This can’t be undone.';
+      'Nem jelenik meg többé a mecset képernyőjén. Ez nem vonható vissza.';
 
   @override
-  String get admin_flashDeleted => 'Flash message deleted';
+  String get admin_flashDeleted => 'A gyorsüzenet törölve';
 
   @override
-  String get admin_tabAnnouncements => 'Announcements';
+  String get admin_tabAnnouncements => 'Közlemények';
 
   @override
-  String get admin_tabFlash => 'Flash message';
+  String get admin_tabFlash => 'Gyorsüzenet';
 
   @override
-  String get admin_announcementsEmpty => 'No announcements yet.';
+  String get admin_announcementsEmpty => 'Még nincs közlemény.';
 
   @override
-  String get admin_announcementNew => 'New announcement';
+  String get admin_announcementNew => 'Új közlemény';
 
   @override
-  String get admin_announcementEdit => 'Edit announcement';
+  String get admin_announcementEdit => 'Közlemény szerkesztése';
 
   @override
-  String get admin_announcementSaved => 'Announcement saved';
+  String get admin_announcementSaved => 'A közlemény mentve';
 
   @override
-  String get admin_announcementDeleted => 'Announcement deleted';
+  String get admin_announcementDeleted => 'A közlemény törölve';
 
   @override
-  String get admin_announcementDeleteTitle => 'Delete this announcement?';
+  String get admin_announcementDeleteTitle => 'Törlöd ezt a közleményt?';
 
   @override
   String get admin_announcementLimitReached =>
-      'You’ve reached the limit of enabled announcements.';
+      'Elérted a bekapcsolt közlemények határát.';
 
   @override
-  String get admin_discardTitle => 'Discard changes?';
+  String get admin_discardTitle => 'Elveted a módosításokat?';
 
   @override
-  String get admin_discardBody => 'What you’ve written here won’t be saved.';
+  String get admin_discardBody => 'Amit ide írtál, nem lesz mentve.';
 
   @override
-  String get admin_discard => 'Discard';
+  String get admin_discard => 'Elvetés';
 
   @override
-  String get admin_keepEditing => 'Keep editing';
+  String get admin_keepEditing => 'Szerkesztés folytatása';
 
   @override
-  String get admin_chipScreen => 'Screen';
+  String get admin_chipScreen => 'Képernyő';
 
   @override
-  String get admin_chipMobile => 'Mobile';
+  String get admin_chipMobile => 'Mobil';
 
   @override
-  String get admin_statusEnabled => 'Enabled';
+  String get admin_statusEnabled => 'Bekapcsolva';
 
   @override
-  String get admin_statusDisabled => 'Disabled';
+  String get admin_statusDisabled => 'Kikapcsolva';
 
   @override
-  String get admin_typeText => 'Text';
+  String get admin_typeText => 'Szöveg';
 
   @override
-  String get admin_fieldTitle => 'Title';
+  String get admin_fieldTitle => 'Cím';
 
   @override
-  String get admin_fieldMessage => 'Message';
+  String get admin_fieldMessage => 'Üzenet';
 
   @override
-  String get admin_fieldVideo => 'YouTube link';
+  String get admin_fieldVideo => 'YouTube-hivatkozás';
 
   @override
   String get admin_fieldVideoHint => 'https://www.youtube.com/watch?v=…';
 
   @override
   String get admin_fieldVideoHelp =>
-      'YouTube videos only — shorts aren’t accepted.';
+      'Csak YouTube-videók — a shortsokat nem fogadja el.';
 
   @override
-  String get admin_fieldOrientation => 'TV orientation';
+  String get admin_fieldOrientation => 'Képernyő tájolása';
 
   @override
-  String get admin_fieldDuration => 'Duration';
+  String get admin_fieldDuration => 'Hossz';
 
   @override
-  String get admin_fieldIsEvent => 'This is an event';
+  String get admin_fieldIsEvent => 'Ez egy esemény';
 
   @override
   String admin_fieldStartsAt(String date) {
-    return 'Starts $date';
+    return 'Kezdés: $date';
   }
 
   @override
   String admin_fieldEndsAt(String date) {
-    return 'Ends $date';
+    return 'Vége: $date';
   }
 
   @override
-  String get admin_fieldShowOn => 'Show on';
+  String get admin_fieldShowOn => 'Megjelenítés itt';
 
   @override
-  String get admin_fieldMainScreen => 'Main mosque screen';
+  String get admin_fieldMainScreen => 'A mecset fő képernyője';
 
   @override
-  String get admin_fieldSecondaryScreen => 'Secondary screen';
+  String get admin_fieldSecondaryScreen => 'Másodlagos képernyő';
 
   @override
-  String get admin_fieldMobile => 'Mawaqit app';
+  String get admin_fieldMobile => 'Mawaqit alkalmazás';
 
   @override
-  String get admin_pickImage => 'Choose a photo';
+  String get admin_pickImage => 'Fénykép választása';
 
   @override
-  String get admin_replaceImage => 'Change photo';
+  String get admin_replaceImage => 'Fénykép cseréje';
 
   @override
-  String get admin_orientationLandscape => 'Landscape';
+  String get admin_orientationLandscape => 'Fekvő';
 
   @override
-  String get admin_orientationPortrait => 'Portrait';
+  String get admin_orientationPortrait => 'Álló';
 
   @override
-  String get admin_requiredField => 'Required';
+  String get admin_requiredField => 'Kötelező';
 
   @override
-  String get admin_invalidYoutube => 'Enter a YouTube video link.';
+  String get admin_invalidYoutube => 'Adj meg egy YouTube-videó hivatkozását.';
 
   @override
   String get admin_flashUnavailable =>
-      'Editing the flash message isn’t available right now.';
+      'A gyorsüzenet szerkesztése jelenleg nem érhető el.';
 
   @override
   String admin_unsavedChanges(int count) {
-    return '$count unsaved changes';
+    return 'Nem mentett módosítások: $count';
   }
 
   @override
-  String get admin_prayerSlot1 => 'First prayer';
+  String get admin_prayerSlot1 => 'Első ima';
 
   @override
-  String get admin_prayerSlot2 => 'Second prayer';
+  String get admin_prayerSlot2 => 'Második ima';
 
   @override
-  String get admin_prayerSlot3 => 'Third prayer';
+  String get admin_prayerSlot3 => 'Harmadik ima';
 }
