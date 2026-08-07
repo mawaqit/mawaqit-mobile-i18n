@@ -2582,4 +2582,37 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT некоммерческая организация · бесплатно для всех';
+
+  @override
+  String get garmin_watch_detected => 'Обнаружены часы Garmin';
+
+  @override
+  String get garmin_support_detected =>
+      'На вашем устройстве обнаружена поддержка Garmin. Хотите синхронизировать время намазов с часами Garmin?';
+
+  @override
+  String get never_remind_me => 'Больше не напоминать';
+
+  @override
+  String get remind_me_later => 'Напомнить позже';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Вы можете включить синхронизацию Garmin в любое время: Настройки → Ожидающие действия.';
+
+  @override
+  String get pending_actions => 'Ожидающие действия';
+
+  @override
+  String get setup_garmin_watch => 'Настроить часы Garmin';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Синхронизировать время намазов с часами Garmin';
+
+  @override
+  String get setup_garmin => 'Настроить Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'Открыть выбор устройства Garmin';
 }

@@ -2566,4 +2566,37 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT ideell organisation · gratis för alla';
+
+  @override
+  String get garmin_watch_detected => 'Garmin-klocka upptäckt';
+
+  @override
+  String get garmin_support_detected =>
+      'Garmin-stöd har upptäckts på din enhet. Vill du synkronisera bönetiderna med din Garmin-klocka?';
+
+  @override
+  String get never_remind_me => 'Påminn mig aldrig igen';
+
+  @override
+  String get remind_me_later => 'Påminn mig senare';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Du kan aktivera Garmin-synkronisering när som helst via Inställningar → Väntande åtgärder.';
+
+  @override
+  String get pending_actions => 'Väntande åtgärder';
+
+  @override
+  String get setup_garmin_watch => 'Konfigurera Garmin-klocka';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Synkronisera bönetider med din Garmin-klocka';
+
+  @override
+  String get setup_garmin => 'Konfigurera Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'Öppna val av Garmin-enhet';
 }

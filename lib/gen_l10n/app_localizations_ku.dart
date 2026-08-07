@@ -2524,21 +2524,21 @@ class AppLocalizationsKu extends AppLocalizations {
   String get location => 'شوێن';
 
   @override
-  String get stop => 'Stop';
+  String get stop => 'وەستاندن';
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Plays the adhan when prayer time arrives';
+      'کاتێک کاتی نوێژ دەگات، ئەزان لێدەدات';
 
   @override
-  String get play_in_silent_mode => 'Play in silent mode';
+  String get play_in_silent_mode => 'لە دۆخی بێدەنگدا لێبدە';
 
   @override
-  String get notifications_not_arriving => 'Notifications not arriving?';
+  String get notifications_not_arriving => 'ئاگادارکردنەوەکان ناگەن؟';
 
   @override
   String get android_phones_aggressively =>
-      'Some Android phones aggressively close apps in the background.';
+      'هەندێک لە مۆبایلەکانی ئەندرۆید، بە شێوەیەکی توند ئەپەکان لە پشتەوە دادەخەن.';
 
   @override
   String get elmir_kuliev => 'Elmir Kuliev';
@@ -2551,19 +2551,19 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get something_wrong_getting_location =>
-      'Something went wrong while getting your location. Please try again.';
+      'لە وەرگرتنی شوێنی تۆ هەڵەیەک ڕوویدا. تکایە دووبارە هەوڵ بدەوە.';
 
   @override
-  String get custom_volume => 'Custom volume';
+  String get custom_volume => 'ئاستی دەنگی تایبەت';
 
   @override
-  String get general => 'General';
+  String get general => 'گشتی';
 
   @override
-  String get prayer_location => 'Prayer & Location';
+  String get prayer_location => 'نوێژ و شوێن';
 
   @override
-  String get privacy => 'Privacy';
+  String get privacy => 'تایبەتمەندی';
 
   @override
   String get play_full_adhan => 'ئەذانی تەواو پخش بکە';
@@ -2580,5 +2580,39 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get mawaqit_non_profit =>
-      'MAWAQIT non-profit organization · free for everyone';
+      'ڕێکخراوی ناپارەیی MAWAQIT · بۆ هەمووان بەخۆڕایی';
+
+  @override
+  String get garmin_watch_detected => 'کاتژمێری Garmin دۆزرایەوە';
+
+  @override
+  String get garmin_support_detected =>
+      'پشتگیری Garmin لەسەر ئامێرەکەت دۆزرایەوە. دەتەوێت کاتەکانی نوێژ لەگەڵ کاتژمێری Garmin هاوکات بکەیت؟';
+
+  @override
+  String get never_remind_me => 'دووبارە بیرم مەخەرەوە';
+
+  @override
+  String get remind_me_later => 'دواتر بیرم بخەرەوە';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'دەتوانیت هەر کاتێک هاوکاتکردنی Garmin لە ڕێگای ڕێکخستنەکان → کردارە چاوەڕوانکراوەکان چالاک بکەیت.';
+
+  @override
+  String get pending_actions => 'کردارە چاوەڕوانکراوەکان';
+
+  @override
+  String get setup_garmin_watch => 'ئامادەکردنی کاتژمێری Garmin';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'هاوکاتکردنی کاتەکانی نوێژ لەگەڵ کاتژمێری Garmin';
+
+  @override
+  String get setup_garmin => 'ئامادەکردنی Garmin';
+
+  @override
+  String get open_garmin_device_selection =>
+      'کردنەوەی هەڵبژاردنی ئامێری Garmin';
 }

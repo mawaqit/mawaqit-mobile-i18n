@@ -2573,4 +2573,38 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'مواقيت پايدا ئالمايدىغان تەشكىلات · ھەممەيلەن ئۈچۈن ھەقسىز';
+
+  @override
+  String get garmin_watch_detected => 'Garmin سائىتى بايقالدى';
+
+  @override
+  String get garmin_support_detected =>
+      'ئۈسكۈنىڭىزدە Garmin قوللىشى بايقالدى. ناماز ۋاقىتلىرىنى Garmin سائىتىڭىز بىلەن ماسقەدەملەشنى خالامسىز؟';
+
+  @override
+  String get never_remind_me => 'قايتا ئەسكەرتمە';
+
+  @override
+  String get remind_me_later => 'كېيىن ئەسكەرت';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Garmin ماسقەدەملەشنى ھەر ۋاقىت تەڭشەكلەر → كۈتۈۋاتقان ۋەزىپىلەر ئارقىلىق قوزغىتالايسىز.';
+
+  @override
+  String get pending_actions => 'كۈتۈۋاتقان ۋەزىپىلەر';
+
+  @override
+  String get setup_garmin_watch => 'Garmin سائىتىنى تەڭشەش';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'ناماز ۋاقىتلىرىنى Garmin سائىتى بىلەن ماسقەدەملەش';
+
+  @override
+  String get setup_garmin => 'Garmin نى تەڭشەش';
+
+  @override
+  String get open_garmin_device_selection =>
+      'Garmin ئۈسكۈنىسىنى تاللاشنى ئېچىش';
 }

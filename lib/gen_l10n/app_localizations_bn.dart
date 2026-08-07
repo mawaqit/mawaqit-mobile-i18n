@@ -2578,4 +2578,37 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT organizatë jofitimprurëse · falas për të gjithë';
+
+  @override
+  String get garmin_watch_detected => 'Garmin ঘড়ি শনাক্ত হয়েছে';
+
+  @override
+  String get garmin_support_detected =>
+      'আপনার ডিভাইসে Garmin সমর্থন শনাক্ত হয়েছে। আপনি কি আপনার নামাজের সময়সূচি Garmin ঘড়ির সাথে সিঙ্ক করতে চান?';
+
+  @override
+  String get never_remind_me => 'আর মনে করিয়ে দেবেন না';
+
+  @override
+  String get remind_me_later => 'পরে মনে করিয়ে দিন';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'আপনি যেকোনো সময় সেটিংস → অপেক্ষমাণ কার্যক্রম থেকে Garmin সিঙ্ক চালু করতে পারবেন।';
+
+  @override
+  String get pending_actions => 'অপেক্ষমাণ কার্যক্রম';
+
+  @override
+  String get setup_garmin_watch => 'Garmin ঘড়ি সেট আপ করুন';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'নামাজের সময়সূচি Garmin ঘড়ির সাথে সিঙ্ক করুন';
+
+  @override
+  String get setup_garmin => 'Garmin সেট আপ করুন';
+
+  @override
+  String get open_garmin_device_selection => 'Garmin ডিভাইস নির্বাচন খুলুন';
 }

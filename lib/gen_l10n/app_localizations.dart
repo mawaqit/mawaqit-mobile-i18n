@@ -5004,6 +5004,66 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'MAWAQIT non-profit organization · free for everyone'**
   String get mawaqit_non_profit;
+
+  /// No description provided for @garmin_watch_detected.
+  ///
+  /// In en, this message translates to:
+  /// **'Garmin Watch Detected'**
+  String get garmin_watch_detected;
+
+  /// No description provided for @garmin_support_detected.
+  ///
+  /// In en, this message translates to:
+  /// **'We detected Garmin support on your device. Would you like to sync your prayer times with your Garmin watch?'**
+  String get garmin_support_detected;
+
+  /// No description provided for @never_remind_me.
+  ///
+  /// In en, this message translates to:
+  /// **'Never Remind Me'**
+  String get never_remind_me;
+
+  /// No description provided for @remind_me_later.
+  ///
+  /// In en, this message translates to:
+  /// **'Remind Me Later'**
+  String get remind_me_later;
+
+  /// No description provided for @you_can_enable_garmin_sync.
+  ///
+  /// In en, this message translates to:
+  /// **'You can enable Garmin sync anytime from Settings → Pending Actions'**
+  String get you_can_enable_garmin_sync;
+
+  /// No description provided for @pending_actions.
+  ///
+  /// In en, this message translates to:
+  /// **'Pending Actions'**
+  String get pending_actions;
+
+  /// No description provided for @setup_garmin_watch.
+  ///
+  /// In en, this message translates to:
+  /// **'Set up Garmin Watch'**
+  String get setup_garmin_watch;
+
+  /// No description provided for @sync_prayer_times_garmin.
+  ///
+  /// In en, this message translates to:
+  /// **'Sync prayer times to your Garmin watch'**
+  String get sync_prayer_times_garmin;
+
+  /// No description provided for @setup_garmin.
+  ///
+  /// In en, this message translates to:
+  /// **'Set up Garmin'**
+  String get setup_garmin;
+
+  /// No description provided for @open_garmin_device_selection.
+  ///
+  /// In en, this message translates to:
+  /// **'Open Garmin device selection'**
+  String get open_garmin_device_selection;
 }
 
 class _AppLocalizationsDelegate

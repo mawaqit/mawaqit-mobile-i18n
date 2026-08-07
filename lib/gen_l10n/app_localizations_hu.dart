@@ -2536,13 +2536,13 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Plays the adhan when prayer time arrives';
+      'Lejátssza az adzánt az ima idejének kezdetekor';
 
   @override
-  String get play_in_silent_mode => 'Play in silent mode';
+  String get play_in_silent_mode => 'Lejátszás néma módban is';
 
   @override
-  String get notifications_not_arriving => 'Notifications not arriving?';
+  String get notifications_not_arriving => 'Nem érkeznek meg az értesítések?';
 
   @override
   String get android_phones_aggressively =>
@@ -2559,7 +2559,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get something_wrong_getting_location =>
-      'Something went wrong while getting your location. Please try again.';
+      'Hiba történt a tartózkodási hely meghatározása közben. Kérjük, próbálja újra.';
 
   @override
   String get custom_volume => 'Egyéni hangerő';
@@ -2589,4 +2589,38 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT nonprofit szervezet · mindenki számára ingyenes';
+
+  @override
+  String get garmin_watch_detected => 'Garmin óra észlelve';
+
+  @override
+  String get garmin_support_detected =>
+      'Garmin támogatás érhető el az eszközén. Szeretné szinkronizálni az imaidőket Garmin órájával?';
+
+  @override
+  String get never_remind_me => 'Ne emlékeztessen újra';
+
+  @override
+  String get remind_me_later => 'Emlékeztessen később';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'A Garmin szinkronizálást bármikor engedélyezheti a Beállítások → Függő műveletek menüben.';
+
+  @override
+  String get pending_actions => 'Függő műveletek';
+
+  @override
+  String get setup_garmin_watch => 'Garmin óra beállítása';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Imaidők szinkronizálása Garmin órával';
+
+  @override
+  String get setup_garmin => 'Garmin beállítása';
+
+  @override
+  String get open_garmin_device_selection =>
+      'Garmin eszköz kiválasztásának megnyitása';
 }

@@ -2566,6 +2566,38 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get mawaqit_non_profit => 'مواقيت سازمان غیرانتفاعی · رایگان برای همه';
+
+  @override
+  String get garmin_watch_detected => 'ساعت Garmin شناسایی شد';
+
+  @override
+  String get garmin_support_detected =>
+      'پشتیبانی Garmin در دستگاه شما شناسایی شد. آیا می‌خواهید اوقات شرعی را با ساعت Garmin خود همگام‌سازی کنید؟';
+
+  @override
+  String get never_remind_me => 'دیگر یادآوری نکن';
+
+  @override
+  String get remind_me_later => 'بعداً یادآوری کن';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'هر زمان می‌توانید همگام‌سازی Garmin را از مسیر تنظیمات → اقدامات در انتظار فعال کنید.';
+
+  @override
+  String get pending_actions => 'اقدامات در انتظار';
+
+  @override
+  String get setup_garmin_watch => 'راه‌اندازی ساعت Garmin';
+
+  @override
+  String get sync_prayer_times_garmin => 'همگام‌سازی اوقات شرعی با ساعت Garmin';
+
+  @override
+  String get setup_garmin => 'راه‌اندازی Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'باز کردن انتخاب دستگاه Garmin';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -5137,4 +5169,37 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT non-profit organization · free for everyone';
+
+  @override
+  String get garmin_watch_detected => 'Garmin Watch Detected';
+
+  @override
+  String get garmin_support_detected =>
+      'We detected Garmin support on your device. Would you like to sync your prayer times with your Garmin watch?';
+
+  @override
+  String get never_remind_me => 'Never Remind Me';
+
+  @override
+  String get remind_me_later => 'Remind Me Later';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'You can enable Garmin sync anytime from Settings → Pending Actions';
+
+  @override
+  String get pending_actions => 'Pending Actions';
+
+  @override
+  String get setup_garmin_watch => 'Set up Garmin Watch';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Sync prayer times to your Garmin watch';
+
+  @override
+  String get setup_garmin => 'Set up Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'Open Garmin device selection';
 }

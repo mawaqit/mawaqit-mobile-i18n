@@ -2580,4 +2580,37 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get mawaqit_non_profit =>
       'MAWAQIT neprofitna organizacija · besplatna za sve';
+
+  @override
+  String get garmin_watch_detected => 'Garmin sat otkriven';
+
+  @override
+  String get garmin_support_detected =>
+      'Garmin podrška je otkrivena na vašem uređaju. Želite li sinhronizovati vremena namaza sa svojim Garmin satom?';
+
+  @override
+  String get never_remind_me => 'Ne podsjećaj više';
+
+  @override
+  String get remind_me_later => 'Podsjeti me kasnije';
+
+  @override
+  String get you_can_enable_garmin_sync =>
+      'Garmin sinhronizaciju možete omogućiti u bilo kojem trenutku u Postavke → Radnje na čekanju.';
+
+  @override
+  String get pending_actions => 'Radnje na čekanju';
+
+  @override
+  String get setup_garmin_watch => 'Postavi Garmin sat';
+
+  @override
+  String get sync_prayer_times_garmin =>
+      'Sinhronizuj vremena namaza sa Garmin satom';
+
+  @override
+  String get setup_garmin => 'Postavi Garmin';
+
+  @override
+  String get open_garmin_device_selection => 'Otvori izbor Garmin uređaja';
 }
