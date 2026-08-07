@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "دوسری نماز",
     "admin_prayerSlot3": "تیسری نماز",
     "admin_minutes": "{count} منٹ",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} سیکنڈ",
-    "admin_announcementCounts": "{maxTotal} میں سے {total} · {maxEnabled} میں سے {enabled} فعال"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{maxTotal} میں سے {total} · {maxEnabled} میں سے {enabled} فعال",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }
