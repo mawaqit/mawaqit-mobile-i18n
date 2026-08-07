@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "الصلاة الثانية",
     "admin_prayerSlot3": "الصلاة الثالثة",
     "admin_minutes": "{count} دقيقة",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} ثانية",
-    "admin_announcementCounts": "{total} من {maxTotal} · {enabled} من {maxEnabled} مفعّل"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} من {maxTotal} · {enabled} من {maxEnabled} مفعّل",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }
