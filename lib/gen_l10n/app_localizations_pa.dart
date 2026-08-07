@@ -3095,7 +3095,11 @@ class AppLocalizationsPa extends AppLocalizations {
 
   @override
   String admin_announcementCounts(
-      int total, int maxTotal, int enabled, int maxEnabled) {
+    int total,
+    int maxTotal,
+    int enabled,
+    int maxEnabled,
+  ) {
     return '$total of $maxTotal · $enabled of $maxEnabled enabled';
   }
 }
