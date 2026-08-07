@@ -5064,6 +5064,894 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Open Garmin device selection'**
   String get open_garmin_device_selection;
+
+  /// No description provided for @admin_adminTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosque admin'**
+  String get admin_adminTitle;
+
+  /// No description provided for @admin_adminTileSubtitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Announcements, prayer settings and adhan'**
+  String get admin_adminTileSubtitle;
+
+  /// No description provided for @admin_signInHeadline.
+  ///
+  /// In en, this message translates to:
+  /// **'Manage your mosque'**
+  String get admin_signInHeadline;
+
+  /// No description provided for @admin_signInIntro.
+  ///
+  /// In en, this message translates to:
+  /// **'Sign in with the account you use on mawaqit.net to manage the mosques you run.'**
+  String get admin_signInIntro;
+
+  /// No description provided for @admin_capabilityMessages.
+  ///
+  /// In en, this message translates to:
+  /// **'Post announcements and a flash message'**
+  String get admin_capabilityMessages;
+
+  /// No description provided for @admin_capabilityTimes.
+  ///
+  /// In en, this message translates to:
+  /// **'Set iqama, jumua and Eid times'**
+  String get admin_capabilityTimes;
+
+  /// No description provided for @admin_capabilityAdhan.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose the adhan and how it plays'**
+  String get admin_capabilityAdhan;
+
+  /// No description provided for @admin_notAnAdminTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Not an admin yet?'**
+  String get admin_notAnAdminTitle;
+
+  /// No description provided for @admin_notAnAdminBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Mosques are registered on the MAWAQIT website, where the team reviews them before the account is activated.'**
+  String get admin_notAnAdminBody;
+
+  /// No description provided for @admin_registerMosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Register a mosque'**
+  String get admin_registerMosque;
+
+  /// No description provided for @admin_registerUnavailable.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not open the website.'**
+  String get admin_registerUnavailable;
+
+  /// No description provided for @admin_signIn.
+  ///
+  /// In en, this message translates to:
+  /// **'Sign in'**
+  String get admin_signIn;
+
+  /// No description provided for @admin_signInAgain.
+  ///
+  /// In en, this message translates to:
+  /// **'Sign in again'**
+  String get admin_signInAgain;
+
+  /// No description provided for @admin_sessionExpired.
+  ///
+  /// In en, this message translates to:
+  /// **'Your session has expired.'**
+  String get admin_sessionExpired;
+
+  /// No description provided for @admin_myMosques.
+  ///
+  /// In en, this message translates to:
+  /// **'My mosques'**
+  String get admin_myMosques;
+
+  /// No description provided for @admin_logOut.
+  ///
+  /// In en, this message translates to:
+  /// **'Log out'**
+  String get admin_logOut;
+
+  /// No description provided for @admin_noMosques.
+  ///
+  /// In en, this message translates to:
+  /// **'No mosques found.'**
+  String get admin_noMosques;
+
+  /// No description provided for @admin_archivedNotConfigurable.
+  ///
+  /// In en, this message translates to:
+  /// **'This mosque is archived — not configurable.'**
+  String get admin_archivedNotConfigurable;
+
+  /// No description provided for @admin_mosqueId.
+  ///
+  /// In en, this message translates to:
+  /// **'ID {id}'**
+  String admin_mosqueId(String id);
+
+  /// No description provided for @admin_statusArchived.
+  ///
+  /// In en, this message translates to:
+  /// **'Archived'**
+  String get admin_statusArchived;
+
+  /// No description provided for @admin_openMessages.
+  ///
+  /// In en, this message translates to:
+  /// **'Messages'**
+  String get admin_openMessages;
+
+  /// No description provided for @admin_openConfiguration.
+  ///
+  /// In en, this message translates to:
+  /// **'Configuration'**
+  String get admin_openConfiguration;
+
+  /// No description provided for @admin_configurationTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Configuration'**
+  String get admin_configurationTitle;
+
+  /// No description provided for @admin_configurationSaved.
+  ///
+  /// In en, this message translates to:
+  /// **'Configuration saved'**
+  String get admin_configurationSaved;
+
+  /// No description provided for @admin_oneUnsavedChange.
+  ///
+  /// In en, this message translates to:
+  /// **'1 unsaved change'**
+  String get admin_oneUnsavedChange;
+
+  /// No description provided for @admin_sectionRegional.
+  ///
+  /// In en, this message translates to:
+  /// **'Regional settings'**
+  String get admin_sectionRegional;
+
+  /// No description provided for @admin_sectionAdhan.
+  ///
+  /// In en, this message translates to:
+  /// **'Al-Athan'**
+  String get admin_sectionAdhan;
+
+  /// No description provided for @admin_sectionIqama.
+  ///
+  /// In en, this message translates to:
+  /// **'Iqama'**
+  String get admin_sectionIqama;
+
+  /// No description provided for @admin_sectionJumua.
+  ///
+  /// In en, this message translates to:
+  /// **'Jumua'**
+  String get admin_sectionJumua;
+
+  /// No description provided for @admin_sectionPrayerDuration.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer duration'**
+  String get admin_sectionPrayerDuration;
+
+  /// No description provided for @admin_sectionDuas.
+  ///
+  /// In en, this message translates to:
+  /// **'Invocations and hadiths'**
+  String get admin_sectionDuas;
+
+  /// No description provided for @admin_sectionEid.
+  ///
+  /// In en, this message translates to:
+  /// **'Eid and Ramadan'**
+  String get admin_sectionEid;
+
+  /// No description provided for @admin_sectionNotYet.
+  ///
+  /// In en, this message translates to:
+  /// **'Not editable in the app yet'**
+  String get admin_sectionNotYet;
+
+  /// No description provided for @admin_iqamaEnabled.
+  ///
+  /// In en, this message translates to:
+  /// **'Iqama enabled'**
+  String get admin_iqamaEnabled;
+
+  /// No description provided for @admin_iqamaEnabledHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'Turning this off also stops the waiting times, the iqama signal and the invocations after prayer from showing on the mosque screen.'**
+  String get admin_iqamaEnabledHelp;
+
+  /// No description provided for @admin_iqamaWaitingTimes.
+  ///
+  /// In en, this message translates to:
+  /// **'WAITING TIME AFTER ADHAN (MINUTES)'**
+  String get admin_iqamaWaitingTimes;
+
+  /// No description provided for @admin_iqamaSignal.
+  ///
+  /// In en, this message translates to:
+  /// **'IQAMA SIGNAL'**
+  String get admin_iqamaSignal;
+
+  /// No description provided for @admin_iqamaSound.
+  ///
+  /// In en, this message translates to:
+  /// **'Sound'**
+  String get admin_iqamaSound;
+
+  /// No description provided for @admin_iqamaCountdown.
+  ///
+  /// In en, this message translates to:
+  /// **'Full-screen countdown'**
+  String get admin_iqamaCountdown;
+
+  /// No description provided for @admin_iqamaDisplayTime.
+  ///
+  /// In en, this message translates to:
+  /// **'Signal display time'**
+  String get admin_iqamaDisplayTime;
+
+  /// No description provided for @admin_iqamaAlwaysHhMm.
+  ///
+  /// In en, this message translates to:
+  /// **'Always show iqama times as hh:mm'**
+  String get admin_iqamaAlwaysHhMm;
+
+  /// No description provided for @admin_iqamaCalendarNote.
+  ///
+  /// In en, this message translates to:
+  /// **'Iqama times set by calendar stay as they are — edit those on the website.'**
+  String get admin_iqamaCalendarNote;
+
+  /// No description provided for @admin_eidPrayerTimes.
+  ///
+  /// In en, this message translates to:
+  /// **'EID PRAYER TIMES'**
+  String get admin_eidPrayerTimes;
+
+  /// No description provided for @admin_ramadanImsak.
+  ///
+  /// In en, this message translates to:
+  /// **'RAMADAN'**
+  String get admin_ramadanImsak;
+
+  /// No description provided for @admin_eidPrayerHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'Shown on the mosque screen for the week before Eid. Leave a prayer unset if it isn’t held.'**
+  String get admin_eidPrayerHelp;
+
+  /// No description provided for @admin_imsakBeforeFajr.
+  ///
+  /// In en, this message translates to:
+  /// **'Show imsak before fajr'**
+  String get admin_imsakBeforeFajr;
+
+  /// No description provided for @admin_imsakHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'How early imsak appears. With fajr at 04:00 and 30 minutes here, the screen shows 03:30.'**
+  String get admin_imsakHelp;
+
+  /// No description provided for @admin_imsakOff.
+  ///
+  /// In en, this message translates to:
+  /// **'Off'**
+  String get admin_imsakOff;
+
+  /// No description provided for @admin_eidNoPrayerTime.
+  ///
+  /// In en, this message translates to:
+  /// **'No prayer time set'**
+  String get admin_eidNoPrayerTime;
+
+  /// No description provided for @admin_adhanSoundLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Sound'**
+  String get admin_adhanSoundLabel;
+
+  /// No description provided for @admin_adhanPlaysFor.
+  ///
+  /// In en, this message translates to:
+  /// **'PLAYS FOR'**
+  String get admin_adhanPlaysFor;
+
+  /// No description provided for @admin_adhanDurationLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Adhan length'**
+  String get admin_adhanDurationLabel;
+
+  /// No description provided for @admin_adhanDurationHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'This sound stops before the adhan does, so the screen needs to know how long your muezzin takes.'**
+  String get admin_adhanDurationHelp;
+
+  /// No description provided for @admin_customAdhanFile.
+  ///
+  /// In en, this message translates to:
+  /// **'Uploaded file: {name}'**
+  String admin_customAdhanFile(String name);
+
+  /// No description provided for @admin_customAdhanMissing.
+  ///
+  /// In en, this message translates to:
+  /// **'No file uploaded yet — add one on the website.'**
+  String get admin_customAdhanMissing;
+
+  /// No description provided for @admin_adhanNoPrayers.
+  ///
+  /// In en, this message translates to:
+  /// **'No prayers'**
+  String get admin_adhanNoPrayers;
+
+  /// No description provided for @admin_prayerDurationGroup.
+  ///
+  /// In en, this message translates to:
+  /// **'MINUTES PER PRAYER'**
+  String get admin_prayerDurationGroup;
+
+  /// No description provided for @admin_prayerDurationHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'The black screen during prayer and the invocations after it both last this long.'**
+  String get admin_prayerDurationHelp;
+
+  /// No description provided for @admin_duasInvocations.
+  ///
+  /// In en, this message translates to:
+  /// **'INVOCATIONS'**
+  String get admin_duasInvocations;
+
+  /// No description provided for @admin_duasHadiths.
+  ///
+  /// In en, this message translates to:
+  /// **'HADITHS'**
+  String get admin_duasHadiths;
+
+  /// No description provided for @admin_duaAfterAdhan.
+  ///
+  /// In en, this message translates to:
+  /// **'Duaa after adhan'**
+  String get admin_duaAfterAdhan;
+
+  /// No description provided for @admin_duaAfterPrayer.
+  ///
+  /// In en, this message translates to:
+  /// **'Invocations after prayer'**
+  String get admin_duaAfterPrayer;
+
+  /// No description provided for @admin_randomHadith.
+  ///
+  /// In en, this message translates to:
+  /// **'Show a hadith every 5 minutes'**
+  String get admin_randomHadith;
+
+  /// No description provided for @admin_hadithSource.
+  ///
+  /// In en, this message translates to:
+  /// **'From Riyad as-Salihin, by Imam an-Nawawi.'**
+  String get admin_hadithSource;
+
+  /// No description provided for @admin_hadithPause.
+  ///
+  /// In en, this message translates to:
+  /// **'Pause between'**
+  String get admin_hadithPause;
+
+  /// No description provided for @admin_hadithPauseNever.
+  ///
+  /// In en, this message translates to:
+  /// **'Never'**
+  String get admin_hadithPauseNever;
+
+  /// No description provided for @admin_hadithPauseHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'For a mosque that holds lessons between two prayers.'**
+  String get admin_hadithPauseHelp;
+
+  /// No description provided for @admin_duasAllOff.
+  ///
+  /// In en, this message translates to:
+  /// **'All off'**
+  String get admin_duasAllOff;
+
+  /// No description provided for @admin_summaryDuaAdhan.
+  ///
+  /// In en, this message translates to:
+  /// **'After adhan'**
+  String get admin_summaryDuaAdhan;
+
+  /// No description provided for @admin_summaryDuaPrayer.
+  ///
+  /// In en, this message translates to:
+  /// **'After prayer'**
+  String get admin_summaryDuaPrayer;
+
+  /// No description provided for @admin_summaryHadiths.
+  ///
+  /// In en, this message translates to:
+  /// **'Hadiths'**
+  String get admin_summaryHadiths;
+
+  /// No description provided for @admin_regionalHijri.
+  ///
+  /// In en, this message translates to:
+  /// **'HIJRI DATE'**
+  String get admin_regionalHijri;
+
+  /// No description provided for @admin_regionalMosqueScreen.
+  ///
+  /// In en, this message translates to:
+  /// **'MOSQUE SCREEN'**
+  String get admin_regionalMosqueScreen;
+
+  /// No description provided for @admin_regionalRegion.
+  ///
+  /// In en, this message translates to:
+  /// **'REGION'**
+  String get admin_regionalRegion;
+
+  /// No description provided for @admin_timezoneLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Time zone (set on the website)'**
+  String get admin_timezoneLabel;
+
+  /// No description provided for @admin_timezoneUnknown.
+  ///
+  /// In en, this message translates to:
+  /// **'Unknown'**
+  String get admin_timezoneUnknown;
+
+  /// No description provided for @admin_dstLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Daylight saving'**
+  String get admin_dstLabel;
+
+  /// No description provided for @admin_dstDatesNote.
+  ///
+  /// In en, this message translates to:
+  /// **'Summer and winter changeover dates stay as they are — set them on the website.'**
+  String get admin_dstDatesNote;
+
+  /// No description provided for @admin_hijriAdjustmentLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Date adjustment'**
+  String get admin_hijriAdjustmentLabel;
+
+  /// No description provided for @admin_jumuaTimeGroup.
+  ///
+  /// In en, this message translates to:
+  /// **'JUMUA TIME'**
+  String get admin_jumuaTimeGroup;
+
+  /// No description provided for @admin_jumuaDuringGroup.
+  ///
+  /// In en, this message translates to:
+  /// **'DURING JUMUA'**
+  String get admin_jumuaDuringGroup;
+
+  /// No description provided for @admin_jumuaSameAsDuhr.
+  ///
+  /// In en, this message translates to:
+  /// **'Same time as Dhuhr'**
+  String get admin_jumuaSameAsDuhr;
+
+  /// No description provided for @admin_jumuaFollowsDuhr.
+  ///
+  /// In en, this message translates to:
+  /// **'Runs at Dhuhr — your own time is kept.'**
+  String get admin_jumuaFollowsDuhr;
+
+  /// No description provided for @admin_jumuaApplyDst.
+  ///
+  /// In en, this message translates to:
+  /// **'Add an hour in summer time'**
+  String get admin_jumuaApplyDst;
+
+  /// No description provided for @admin_jumuaDuration.
+  ///
+  /// In en, this message translates to:
+  /// **'Duration (preach + prayer)'**
+  String get admin_jumuaDuration;
+
+  /// No description provided for @admin_jumuaDurationHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'Whatever shows during jumua lasts this long.'**
+  String get admin_jumuaDurationHelp;
+
+  /// No description provided for @admin_jumuaBlackScreen.
+  ///
+  /// In en, this message translates to:
+  /// **'Black screen during jumua'**
+  String get admin_jumuaBlackScreen;
+
+  /// No description provided for @admin_jumuaDhikr.
+  ///
+  /// In en, this message translates to:
+  /// **'Show a hadith on jumua etiquette'**
+  String get admin_jumuaDhikr;
+
+  /// No description provided for @admin_jumuaNoTime.
+  ///
+  /// In en, this message translates to:
+  /// **'No time set'**
+  String get admin_jumuaNoTime;
+
+  /// No description provided for @admin_summaryAsDuhr.
+  ///
+  /// In en, this message translates to:
+  /// **'Dhuhr'**
+  String get admin_summaryAsDuhr;
+
+  /// No description provided for @admin_timeNotSet.
+  ///
+  /// In en, this message translates to:
+  /// **'Not set'**
+  String get admin_timeNotSet;
+
+  /// No description provided for @admin_clearTime.
+  ///
+  /// In en, this message translates to:
+  /// **'Clear'**
+  String get admin_clearTime;
+
+  /// No description provided for @admin_flashContent.
+  ///
+  /// In en, this message translates to:
+  /// **'Content'**
+  String get admin_flashContent;
+
+  /// No description provided for @admin_flashContentHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Message shown on the mosque screen'**
+  String get admin_flashContentHint;
+
+  /// No description provided for @admin_flashOrientation.
+  ///
+  /// In en, this message translates to:
+  /// **'Orientation'**
+  String get admin_flashOrientation;
+
+  /// No description provided for @admin_flashColor.
+  ///
+  /// In en, this message translates to:
+  /// **'Color'**
+  String get admin_flashColor;
+
+  /// No description provided for @admin_flashStartDate.
+  ///
+  /// In en, this message translates to:
+  /// **'Start date'**
+  String get admin_flashStartDate;
+
+  /// No description provided for @admin_flashExpireDate.
+  ///
+  /// In en, this message translates to:
+  /// **'End date'**
+  String get admin_flashExpireDate;
+
+  /// No description provided for @admin_flashTooShort.
+  ///
+  /// In en, this message translates to:
+  /// **'At least 30 characters'**
+  String get admin_flashTooShort;
+
+  /// No description provided for @admin_flashSaved.
+  ///
+  /// In en, this message translates to:
+  /// **'Flash message saved'**
+  String get admin_flashSaved;
+
+  /// No description provided for @admin_flashSaving.
+  ///
+  /// In en, this message translates to:
+  /// **'Saving…'**
+  String get admin_flashSaving;
+
+  /// No description provided for @admin_flashDelete.
+  ///
+  /// In en, this message translates to:
+  /// **'Delete'**
+  String get admin_flashDelete;
+
+  /// No description provided for @admin_flashDeleteTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Delete this flash message?'**
+  String get admin_flashDeleteTitle;
+
+  /// No description provided for @admin_deleteBody.
+  ///
+  /// In en, this message translates to:
+  /// **'It will stop showing on the mosque screen. This can’t be undone.'**
+  String get admin_deleteBody;
+
+  /// No description provided for @admin_flashDeleted.
+  ///
+  /// In en, this message translates to:
+  /// **'Flash message deleted'**
+  String get admin_flashDeleted;
+
+  /// No description provided for @admin_tabAnnouncements.
+  ///
+  /// In en, this message translates to:
+  /// **'Announcements'**
+  String get admin_tabAnnouncements;
+
+  /// No description provided for @admin_tabFlash.
+  ///
+  /// In en, this message translates to:
+  /// **'Flash message'**
+  String get admin_tabFlash;
+
+  /// No description provided for @admin_announcementsEmpty.
+  ///
+  /// In en, this message translates to:
+  /// **'No announcements yet.'**
+  String get admin_announcementsEmpty;
+
+  /// No description provided for @admin_announcementNew.
+  ///
+  /// In en, this message translates to:
+  /// **'New announcement'**
+  String get admin_announcementNew;
+
+  /// No description provided for @admin_announcementEdit.
+  ///
+  /// In en, this message translates to:
+  /// **'Edit announcement'**
+  String get admin_announcementEdit;
+
+  /// No description provided for @admin_announcementSaved.
+  ///
+  /// In en, this message translates to:
+  /// **'Announcement saved'**
+  String get admin_announcementSaved;
+
+  /// No description provided for @admin_announcementDeleted.
+  ///
+  /// In en, this message translates to:
+  /// **'Announcement deleted'**
+  String get admin_announcementDeleted;
+
+  /// No description provided for @admin_announcementDeleteTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Delete this announcement?'**
+  String get admin_announcementDeleteTitle;
+
+  /// No description provided for @admin_announcementLimitReached.
+  ///
+  /// In en, this message translates to:
+  /// **'You’ve reached the limit of enabled announcements.'**
+  String get admin_announcementLimitReached;
+
+  /// No description provided for @admin_discardTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Discard changes?'**
+  String get admin_discardTitle;
+
+  /// No description provided for @admin_discardBody.
+  ///
+  /// In en, this message translates to:
+  /// **'What you’ve written here won’t be saved.'**
+  String get admin_discardBody;
+
+  /// No description provided for @admin_discard.
+  ///
+  /// In en, this message translates to:
+  /// **'Discard'**
+  String get admin_discard;
+
+  /// No description provided for @admin_keepEditing.
+  ///
+  /// In en, this message translates to:
+  /// **'Keep editing'**
+  String get admin_keepEditing;
+
+  /// No description provided for @admin_chipScreen.
+  ///
+  /// In en, this message translates to:
+  /// **'Screen'**
+  String get admin_chipScreen;
+
+  /// No description provided for @admin_chipMobile.
+  ///
+  /// In en, this message translates to:
+  /// **'Mobile'**
+  String get admin_chipMobile;
+
+  /// No description provided for @admin_statusEnabled.
+  ///
+  /// In en, this message translates to:
+  /// **'Enabled'**
+  String get admin_statusEnabled;
+
+  /// No description provided for @admin_statusDisabled.
+  ///
+  /// In en, this message translates to:
+  /// **'Disabled'**
+  String get admin_statusDisabled;
+
+  /// No description provided for @admin_typeText.
+  ///
+  /// In en, this message translates to:
+  /// **'Text'**
+  String get admin_typeText;
+
+  /// No description provided for @admin_fieldTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Title'**
+  String get admin_fieldTitle;
+
+  /// No description provided for @admin_fieldMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Message'**
+  String get admin_fieldMessage;
+
+  /// No description provided for @admin_fieldVideo.
+  ///
+  /// In en, this message translates to:
+  /// **'YouTube link'**
+  String get admin_fieldVideo;
+
+  /// No description provided for @admin_fieldVideoHint.
+  ///
+  /// In en, this message translates to:
+  /// **'https://www.youtube.com/watch?v=…'**
+  String get admin_fieldVideoHint;
+
+  /// No description provided for @admin_fieldVideoHelp.
+  ///
+  /// In en, this message translates to:
+  /// **'YouTube videos only — shorts aren’t accepted.'**
+  String get admin_fieldVideoHelp;
+
+  /// No description provided for @admin_fieldOrientation.
+  ///
+  /// In en, this message translates to:
+  /// **'TV orientation'**
+  String get admin_fieldOrientation;
+
+  /// No description provided for @admin_fieldDuration.
+  ///
+  /// In en, this message translates to:
+  /// **'Duration'**
+  String get admin_fieldDuration;
+
+  /// No description provided for @admin_fieldIsEvent.
+  ///
+  /// In en, this message translates to:
+  /// **'This is an event'**
+  String get admin_fieldIsEvent;
+
+  /// No description provided for @admin_fieldStartsAt.
+  ///
+  /// In en, this message translates to:
+  /// **'Starts {date}'**
+  String admin_fieldStartsAt(String date);
+
+  /// No description provided for @admin_fieldEndsAt.
+  ///
+  /// In en, this message translates to:
+  /// **'Ends {date}'**
+  String admin_fieldEndsAt(String date);
+
+  /// No description provided for @admin_fieldShowOn.
+  ///
+  /// In en, this message translates to:
+  /// **'Show on'**
+  String get admin_fieldShowOn;
+
+  /// No description provided for @admin_fieldMainScreen.
+  ///
+  /// In en, this message translates to:
+  /// **'Main mosque screen'**
+  String get admin_fieldMainScreen;
+
+  /// No description provided for @admin_fieldSecondaryScreen.
+  ///
+  /// In en, this message translates to:
+  /// **'Secondary screen'**
+  String get admin_fieldSecondaryScreen;
+
+  /// No description provided for @admin_fieldMobile.
+  ///
+  /// In en, this message translates to:
+  /// **'Mawaqit app'**
+  String get admin_fieldMobile;
+
+  /// No description provided for @admin_pickImage.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose a photo'**
+  String get admin_pickImage;
+
+  /// No description provided for @admin_replaceImage.
+  ///
+  /// In en, this message translates to:
+  /// **'Change photo'**
+  String get admin_replaceImage;
+
+  /// No description provided for @admin_orientationLandscape.
+  ///
+  /// In en, this message translates to:
+  /// **'Landscape'**
+  String get admin_orientationLandscape;
+
+  /// No description provided for @admin_orientationPortrait.
+  ///
+  /// In en, this message translates to:
+  /// **'Portrait'**
+  String get admin_orientationPortrait;
+
+  /// No description provided for @admin_requiredField.
+  ///
+  /// In en, this message translates to:
+  /// **'Required'**
+  String get admin_requiredField;
+
+  /// No description provided for @admin_invalidYoutube.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter a YouTube video link.'**
+  String get admin_invalidYoutube;
+
+  /// No description provided for @admin_flashUnavailable.
+  ///
+  /// In en, this message translates to:
+  /// **'Editing the flash message isn’t available right now.'**
+  String get admin_flashUnavailable;
+
+  /// No description provided for @admin_unsavedChanges.
+  ///
+  /// In en, this message translates to:
+  /// **'{count} unsaved changes'**
+  String admin_unsavedChanges(int count);
+
+  /// No description provided for @admin_prayerSlot1.
+  ///
+  /// In en, this message translates to:
+  /// **'First prayer'**
+  String get admin_prayerSlot1;
+
+  /// No description provided for @admin_prayerSlot2.
+  ///
+  /// In en, this message translates to:
+  /// **'Second prayer'**
+  String get admin_prayerSlot2;
+
+  /// No description provided for @admin_prayerSlot3.
+  ///
+  /// In en, this message translates to:
+  /// **'Third prayer'**
+  String get admin_prayerSlot3;
 }
 
 class _AppLocalizationsDelegate

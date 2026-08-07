@@ -2576,4 +2576,473 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get open_garmin_device_selection => 'فتح اختيار جهاز Garmin';
+
+  @override
+  String get admin_adminTitle => 'إدارة المسجد';
+
+  @override
+  String get admin_adminTileSubtitle => 'الإعلانات وإعدادات الصلاة والأذان';
+
+  @override
+  String get admin_signInHeadline => 'أدِر مسجدك';
+
+  @override
+  String get admin_signInIntro =>
+      'سجّل الدخول بالحساب الذي تستعمله على mawaqit.net لإدارة المساجد التي تشرف عليها.';
+
+  @override
+  String get admin_capabilityMessages => 'نشر الإعلانات ورسالة عاجلة';
+
+  @override
+  String get admin_capabilityTimes => 'ضبط أوقات الإقامة والجمعة والعيد';
+
+  @override
+  String get admin_capabilityAdhan => 'اختيار الأذان وطريقة تشغيله';
+
+  @override
+  String get admin_notAnAdminTitle => 'لست مشرفًا بعد؟';
+
+  @override
+  String get admin_notAnAdminBody =>
+      'تُسجَّل المساجد على موقع MAWAQIT، حيث يراجعها الفريق قبل تفعيل الحساب.';
+
+  @override
+  String get admin_registerMosque => 'تسجيل مسجد';
+
+  @override
+  String get admin_registerUnavailable => 'تعذّر فتح الموقع.';
+
+  @override
+  String get admin_signIn => 'تسجيل الدخول';
+
+  @override
+  String get admin_signInAgain => 'تسجيل الدخول من جديد';
+
+  @override
+  String get admin_sessionExpired => 'انتهت صلاحية جلستك.';
+
+  @override
+  String get admin_myMosques => 'مساجدي';
+
+  @override
+  String get admin_logOut => 'تسجيل الخروج';
+
+  @override
+  String get admin_noMosques => 'لا توجد مساجد.';
+
+  @override
+  String get admin_archivedNotConfigurable =>
+      'هذا المسجد مؤرشف — لا يمكن ضبطه.';
+
+  @override
+  String admin_mosqueId(String id) {
+    return 'المعرّف $id';
+  }
+
+  @override
+  String get admin_statusArchived => 'مؤرشف';
+
+  @override
+  String get admin_openMessages => 'الرسائل';
+
+  @override
+  String get admin_openConfiguration => 'الإعدادات';
+
+  @override
+  String get admin_configurationTitle => 'الإعدادات';
+
+  @override
+  String get admin_configurationSaved => 'تم حفظ الإعدادات';
+
+  @override
+  String get admin_oneUnsavedChange => 'تغيير واحد غير محفوظ';
+
+  @override
+  String get admin_sectionRegional => 'الإعدادات الإقليمية';
+
+  @override
+  String get admin_sectionAdhan => 'الأذان';
+
+  @override
+  String get admin_sectionIqama => 'الإقامة';
+
+  @override
+  String get admin_sectionJumua => 'الجمعة';
+
+  @override
+  String get admin_sectionPrayerDuration => 'مدة الصلاة';
+
+  @override
+  String get admin_sectionDuas => 'الأدعية والأحاديث';
+
+  @override
+  String get admin_sectionEid => 'العيد ورمضان';
+
+  @override
+  String get admin_sectionNotYet => 'غير قابل للتعديل في التطبيق بعد';
+
+  @override
+  String get admin_iqamaEnabled => 'تفعيل الإقامة';
+
+  @override
+  String get admin_iqamaEnabledHelp =>
+      'إيقاف هذا يمنع كذلك ظهور أوقات الانتظار وإشارة الإقامة والأدعية بعد الصلاة على شاشة المسجد.';
+
+  @override
+  String get admin_iqamaWaitingTimes => 'مدة الانتظار بعد الأذان (بالدقائق)';
+
+  @override
+  String get admin_iqamaSignal => 'إشارة الإقامة';
+
+  @override
+  String get admin_iqamaSound => 'الصوت';
+
+  @override
+  String get admin_iqamaCountdown => 'عدّ تنازلي بملء الشاشة';
+
+  @override
+  String get admin_iqamaDisplayTime => 'مدة عرض الإشارة';
+
+  @override
+  String get admin_iqamaAlwaysHhMm => 'عرض أوقات الإقامة دائمًا بصيغة hh:mm';
+
+  @override
+  String get admin_iqamaCalendarNote =>
+      'أوقات الإقامة المضبوطة بالتقويم تبقى كما هي — عدّلها على الموقع.';
+
+  @override
+  String get admin_eidPrayerTimes => 'أوقات صلاة العيد';
+
+  @override
+  String get admin_ramadanImsak => 'رمضان';
+
+  @override
+  String get admin_eidPrayerHelp =>
+      'تظهر على شاشة المسجد في الأسبوع السابق للعيد. اترك الصلاة بلا وقت إن لم تُقَم.';
+
+  @override
+  String get admin_imsakBeforeFajr => 'إظهار الإمساك قبل الفجر';
+
+  @override
+  String get admin_imsakHelp =>
+      'كم يظهر الإمساك مبكرًا. إذا كان الفجر 04:00 وهنا 30 دقيقة، تعرض الشاشة 03:30.';
+
+  @override
+  String get admin_imsakOff => 'مغلق';
+
+  @override
+  String get admin_eidNoPrayerTime => 'لم يُضبط وقت الصلاة';
+
+  @override
+  String get admin_adhanSoundLabel => 'الصوت';
+
+  @override
+  String get admin_adhanPlaysFor => 'يُشغَّل في';
+
+  @override
+  String get admin_adhanDurationLabel => 'مدة الأذان';
+
+  @override
+  String get admin_adhanDurationHelp =>
+      'ينتهي هذا الصوت قبل انتهاء الأذان، لذا تحتاج الشاشة إلى معرفة المدة التي يستغرقها مؤذّنك.';
+
+  @override
+  String admin_customAdhanFile(String name) {
+    return 'الملف المرفوع: $name';
+  }
+
+  @override
+  String get admin_customAdhanMissing =>
+      'لم يُرفع أي ملف بعد — أضِف واحدًا على الموقع.';
+
+  @override
+  String get admin_adhanNoPrayers => 'لا صلوات';
+
+  @override
+  String get admin_prayerDurationGroup => 'الدقائق لكل صلاة';
+
+  @override
+  String get admin_prayerDurationHelp =>
+      'الشاشة السوداء أثناء الصلاة والأدعية بعدها تستمر هذه المدة.';
+
+  @override
+  String get admin_duasInvocations => 'الأدعية';
+
+  @override
+  String get admin_duasHadiths => 'الأحاديث';
+
+  @override
+  String get admin_duaAfterAdhan => 'دعاء بعد الأذان';
+
+  @override
+  String get admin_duaAfterPrayer => 'أذكار بعد الصلاة';
+
+  @override
+  String get admin_randomHadith => 'عرض حديث كل 5 دقائق';
+
+  @override
+  String get admin_hadithSource => 'من رياض الصالحين للإمام النووي.';
+
+  @override
+  String get admin_hadithPause => 'التوقّف بين';
+
+  @override
+  String get admin_hadithPauseNever => 'أبدًا';
+
+  @override
+  String get admin_hadithPauseHelp => 'لمسجد يقيم دروسًا بين صلاتين.';
+
+  @override
+  String get admin_duasAllOff => 'الكل مغلق';
+
+  @override
+  String get admin_summaryDuaAdhan => 'بعد الأذان';
+
+  @override
+  String get admin_summaryDuaPrayer => 'بعد الصلاة';
+
+  @override
+  String get admin_summaryHadiths => 'الأحاديث';
+
+  @override
+  String get admin_regionalHijri => 'التاريخ الهجري';
+
+  @override
+  String get admin_regionalMosqueScreen => 'شاشة المسجد';
+
+  @override
+  String get admin_regionalRegion => 'المنطقة';
+
+  @override
+  String get admin_timezoneLabel => 'المنطقة الزمنية (تُضبط على الموقع)';
+
+  @override
+  String get admin_timezoneUnknown => 'غير معروفة';
+
+  @override
+  String get admin_dstLabel => 'التوقيت الصيفي';
+
+  @override
+  String get admin_dstDatesNote =>
+      'تواريخ التحوّل بين الصيفي والشتوي تبقى كما هي — اضبطها على الموقع.';
+
+  @override
+  String get admin_hijriAdjustmentLabel => 'تعديل التاريخ';
+
+  @override
+  String get admin_jumuaTimeGroup => 'وقت الجمعة';
+
+  @override
+  String get admin_jumuaDuringGroup => 'أثناء الجمعة';
+
+  @override
+  String get admin_jumuaSameAsDuhr => 'نفس وقت الظهر';
+
+  @override
+  String get admin_jumuaFollowsDuhr => 'تُقام مع الظهر — ويبقى وقتك محفوظًا.';
+
+  @override
+  String get admin_jumuaApplyDst => 'إضافة ساعة في التوقيت الصيفي';
+
+  @override
+  String get admin_jumuaDuration => 'المدة (الخطبة + الصلاة)';
+
+  @override
+  String get admin_jumuaDurationHelp =>
+      'كل ما يُعرض أثناء الجمعة يستمر هذه المدة.';
+
+  @override
+  String get admin_jumuaBlackScreen => 'شاشة سوداء أثناء الجمعة';
+
+  @override
+  String get admin_jumuaDhikr => 'عرض حديث في آداب الجمعة';
+
+  @override
+  String get admin_jumuaNoTime => 'لم يُضبط وقت';
+
+  @override
+  String get admin_summaryAsDuhr => 'الظهر';
+
+  @override
+  String get admin_timeNotSet => 'غير مضبوط';
+
+  @override
+  String get admin_clearTime => 'مسح';
+
+  @override
+  String get admin_flashContent => 'المحتوى';
+
+  @override
+  String get admin_flashContentHint => 'الرسالة المعروضة على شاشة المسجد';
+
+  @override
+  String get admin_flashOrientation => 'الاتجاه';
+
+  @override
+  String get admin_flashColor => 'اللون';
+
+  @override
+  String get admin_flashStartDate => 'تاريخ البداية';
+
+  @override
+  String get admin_flashExpireDate => 'تاريخ النهاية';
+
+  @override
+  String get admin_flashTooShort => '30 حرفًا على الأقل';
+
+  @override
+  String get admin_flashSaved => 'تم حفظ الرسالة العاجلة';
+
+  @override
+  String get admin_flashSaving => 'جارٍ الحفظ…';
+
+  @override
+  String get admin_flashDelete => 'حذف';
+
+  @override
+  String get admin_flashDeleteTitle => 'حذف هذه الرسالة العاجلة؟';
+
+  @override
+  String get admin_deleteBody =>
+      'لن تظهر بعد ذلك على شاشة المسجد. لا يمكن التراجع عن هذا.';
+
+  @override
+  String get admin_flashDeleted => 'تم حذف الرسالة العاجلة';
+
+  @override
+  String get admin_tabAnnouncements => 'الإعلانات';
+
+  @override
+  String get admin_tabFlash => 'رسالة عاجلة';
+
+  @override
+  String get admin_announcementsEmpty => 'لا توجد إعلانات بعد.';
+
+  @override
+  String get admin_announcementNew => 'إعلان جديد';
+
+  @override
+  String get admin_announcementEdit => 'تعديل الإعلان';
+
+  @override
+  String get admin_announcementSaved => 'تم حفظ الإعلان';
+
+  @override
+  String get admin_announcementDeleted => 'تم حذف الإعلان';
+
+  @override
+  String get admin_announcementDeleteTitle => 'حذف هذا الإعلان؟';
+
+  @override
+  String get admin_announcementLimitReached =>
+      'لقد بلغت الحد الأقصى للإعلانات المفعّلة.';
+
+  @override
+  String get admin_discardTitle => 'تجاهل التغييرات؟';
+
+  @override
+  String get admin_discardBody => 'ما كتبته هنا لن يُحفظ.';
+
+  @override
+  String get admin_discard => 'تجاهل';
+
+  @override
+  String get admin_keepEditing => 'متابعة التحرير';
+
+  @override
+  String get admin_chipScreen => 'الشاشة';
+
+  @override
+  String get admin_chipMobile => 'الهاتف';
+
+  @override
+  String get admin_statusEnabled => 'مفعّل';
+
+  @override
+  String get admin_statusDisabled => 'معطّل';
+
+  @override
+  String get admin_typeText => 'نص';
+
+  @override
+  String get admin_fieldTitle => 'العنوان';
+
+  @override
+  String get admin_fieldMessage => 'الرسالة';
+
+  @override
+  String get admin_fieldVideo => 'رابط يوتيوب';
+
+  @override
+  String get admin_fieldVideoHint => 'https://www.youtube.com/watch?v=…';
+
+  @override
+  String get admin_fieldVideoHelp =>
+      'فيديوهات يوتيوب فقط — لا تُقبل مقاطع Shorts.';
+
+  @override
+  String get admin_fieldOrientation => 'اتجاه الشاشة';
+
+  @override
+  String get admin_fieldDuration => 'المدة';
+
+  @override
+  String get admin_fieldIsEvent => 'هذا حدث';
+
+  @override
+  String admin_fieldStartsAt(String date) {
+    return 'يبدأ $date';
+  }
+
+  @override
+  String admin_fieldEndsAt(String date) {
+    return 'ينتهي $date';
+  }
+
+  @override
+  String get admin_fieldShowOn => 'العرض على';
+
+  @override
+  String get admin_fieldMainScreen => 'شاشة المسجد الرئيسية';
+
+  @override
+  String get admin_fieldSecondaryScreen => 'الشاشة الثانوية';
+
+  @override
+  String get admin_fieldMobile => 'تطبيق مواقيت';
+
+  @override
+  String get admin_pickImage => 'اختيار صورة';
+
+  @override
+  String get admin_replaceImage => 'تغيير الصورة';
+
+  @override
+  String get admin_orientationLandscape => 'أفقي';
+
+  @override
+  String get admin_orientationPortrait => 'عمودي';
+
+  @override
+  String get admin_requiredField => 'مطلوب';
+
+  @override
+  String get admin_invalidYoutube => 'أدخل رابط فيديو من يوتيوب.';
+
+  @override
+  String get admin_flashUnavailable => 'تعديل الرسالة العاجلة غير متاح حاليًا.';
+
+  @override
+  String admin_unsavedChanges(int count) {
+    return '$count تغييرات غير محفوظة';
+  }
+
+  @override
+  String get admin_prayerSlot1 => 'الصلاة الأولى';
+
+  @override
+  String get admin_prayerSlot2 => 'الصلاة الثانية';
+
+  @override
+  String get admin_prayerSlot3 => 'الصلاة الثالثة';
 }
