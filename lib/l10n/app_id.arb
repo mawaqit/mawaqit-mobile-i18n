@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Salat kedua",
     "admin_prayerSlot3": "Salat ketiga",
     "admin_minutes": "{count} mnt",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} dtk",
-    "admin_announcementCounts": "{total} dari {maxTotal} · {enabled} dari {maxEnabled} aktif"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} dari {maxTotal} · {enabled} dari {maxEnabled} aktif",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }
