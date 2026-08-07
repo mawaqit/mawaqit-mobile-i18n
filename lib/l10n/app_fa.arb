@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "اذان کامل تا زمانی که آن را ببندید به تکرار ادامه خواهد داد.",
     "hussein_taji_kal_dari": "حسین تاجی کال داری",
     "settings_language_fa": "فارسی",
-    "mawaqit_non_profit": "مواقيت سازمان غیرانتفاعی · رایگان برای همه"
+    "mawaqit_non_profit": "مواقيت سازمان غیرانتفاعی · رایگان برای همه",
+    "garmin_watch_detected": "ساعت Garmin شناسایی شد",
+    "garmin_support_detected": "پشتیبانی Garmin در دستگاه شما شناسایی شد. آیا می‌خواهید اوقات شرعی را با ساعت Garmin خود همگام‌سازی کنید؟",
+    "never_remind_me": "دیگر یادآوری نکن",
+    "remind_me_later": "بعداً یادآوری کن",
+    "you_can_enable_garmin_sync": "هر زمان می‌توانید همگام‌سازی Garmin را از مسیر تنظیمات → اقدامات در انتظار فعال کنید.",
+    "pending_actions": "اقدامات در انتظار",
+    "setup_garmin_watch": "راه‌اندازی ساعت Garmin",
+    "sync_prayer_times_garmin": "همگام‌سازی اوقات شرعی با ساعت Garmin",
+    "setup_garmin": "راه‌اندازی Garmin",
+    "open_garmin_device_selection": "باز کردن انتخاب دستگاه Garmin"
 }
