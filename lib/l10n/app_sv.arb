@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Andra bönen",
     "admin_prayerSlot3": "Tredje bönen",
     "admin_minutes": "{count} min",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} s",
-    "admin_announcementCounts": "{total} av {maxTotal} · {enabled} av {maxEnabled} aktiva"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} av {maxTotal} · {enabled} av {maxEnabled} aktiva",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }
