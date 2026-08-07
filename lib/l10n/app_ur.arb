@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1604,5 +1604,15 @@
     "full_adhan_will_keep_repeating": "مکمل اذان اس وقت تک بار بار چلتی رہے گی جب تک آپ اسے بند نہ کریں۔",
     "hussein_taji_kal_dari": "حسین تاجی کال داری",
     "settings_language_fa": "فارسی",
-    "mawaqit_non_profit": "مواقيت غیر منافع بخش تنظیم · سب کے لیے مفت"
+    "mawaqit_non_profit": "مواقيت غیر منافع بخش تنظیم · سب کے لیے مفت",
+    "garmin_watch_detected": "Garmin گھڑی دریافت ہوئی",
+    "garmin_support_detected": "آپ کے آلے پر Garmin سپورٹ دستیاب ہے۔ کیا آپ اپنی نماز کے اوقات Garmin گھڑی کے ساتھ ہم آہنگ کرنا چاہتے ہیں؟",
+    "never_remind_me": "دوبارہ یاد نہ دلائیں",
+    "remind_me_later": "بعد میں یاد دلائیں",
+    "you_can_enable_garmin_sync": "آپ کسی بھی وقت Settings → Pending Actions سے Garmin ہم آہنگی فعال کر سکتے ہیں۔",
+    "pending_actions": "زیر التواء اقدامات",
+    "setup_garmin_watch": "Garmin گھڑی سیٹ اپ کریں",
+    "sync_prayer_times_garmin": "نماز کے اوقات Garmin گھڑی سے ہم آہنگ کریں",
+    "setup_garmin": "Garmin سیٹ اپ کریں",
+    "open_garmin_device_selection": "Garmin ڈیوائس منتخب کریں"
 }
