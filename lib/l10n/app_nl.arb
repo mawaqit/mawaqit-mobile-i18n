@@ -1803,6 +1803,36 @@
     "admin_prayerSlot2": "Tweede gebed",
     "admin_prayerSlot3": "Derde gebed",
     "admin_minutes": "{count} min",
+    "@admin_minutes": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "admin_seconds": "{count} s",
-    "admin_announcementCounts": "{total} van {maxTotal} · {enabled} van {maxEnabled} ingeschakeld"
+    "@admin_seconds": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "admin_announcementCounts": "{total} van {maxTotal} · {enabled} van {maxEnabled} ingeschakeld",
+    "@admin_announcementCounts": {
+        "placeholders": {
+            "total": {
+                "type": "int"
+            },
+            "maxTotal": {
+                "type": "int"
+            },
+            "enabled": {
+                "type": "int"
+            },
+            "maxEnabled": {
+                "type": "int"
+            }
+        }
+    }
 }
