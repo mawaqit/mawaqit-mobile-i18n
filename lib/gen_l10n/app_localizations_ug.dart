@@ -2609,63 +2609,63 @@ class AppLocalizationsUg extends AppLocalizations {
       'Garmin ئۈسكۈنىسىنى تاللاشنى ئېچىش';
 
   @override
-  String get admin_adminTitle => 'Mosque admin';
+  String get admin_adminTitle => 'مەسچىت باشقۇرۇش';
 
   @override
   String get admin_adminTileSubtitle =>
-      'Announcements, prayer settings and adhan';
+      'ئۇقتۇرۇشلار، ناماز تەڭشەكلىرى ۋە ئەزان';
 
   @override
-  String get admin_signInHeadline => 'Manage your mosque';
+  String get admin_signInHeadline => 'مەسچىتىڭىزنى باشقۇرۇڭ';
 
   @override
   String get admin_signInIntro =>
-      'Sign in with the account you use on mawaqit.net to manage the mosques you run.';
+      'مەسئۇل بولغان مەسچىتلەرنى باشقۇرۇش ئۈچۈن mawaqit.net دا ئىشلىتىدىغان ھېساباتىڭىز بىلەن كىرىڭ.';
 
   @override
-  String get admin_capabilityMessages =>
-      'Post announcements and a flash message';
+  String get admin_capabilityMessages => 'ئۇقتۇرۇش ۋە تېز ئۇچۇر ئېلان قىلىش';
 
   @override
-  String get admin_capabilityTimes => 'Set iqama, jumua and Eid times';
+  String get admin_capabilityTimes =>
+      'قامەت، جۈمە ۋە ھېيت ۋاقىتلىرىنى بەلگىلەش';
 
   @override
-  String get admin_capabilityAdhan => 'Choose the adhan and how it plays';
+  String get admin_capabilityAdhan => 'ئەزان ۋە ئۇنىڭ قويۇلۇش ئۇسۇلىنى تاللاش';
 
   @override
-  String get admin_notAnAdminTitle => 'Not an admin yet?';
+  String get admin_notAnAdminTitle => 'تېخى باشقۇرغۇچى ئەمەسمۇ؟';
 
   @override
   String get admin_notAnAdminBody =>
-      'Mosques are registered on the MAWAQIT website, where the team reviews them before the account is activated.';
+      'مەسچىتلەر MAWAQIT توربېتىدە خەتلىتىلىدۇ، گۇرۇپپا ھېسابات ئاكتىپلىنىشتىن بۇرۇن ئۇلارنى تەكشۈرىدۇ.';
 
   @override
-  String get admin_registerMosque => 'Register a mosque';
+  String get admin_registerMosque => 'مەسچىت خەتلىتىش';
 
   @override
-  String get admin_registerUnavailable => 'Could not open the website.';
+  String get admin_registerUnavailable => 'توربەتنى ئاچقىلى بولمىدى.';
 
   @override
-  String get admin_signIn => 'Sign in';
+  String get admin_signIn => 'كىرىش';
 
   @override
-  String get admin_signInAgain => 'Sign in again';
+  String get admin_signInAgain => 'قايتا كىرىش';
 
   @override
-  String get admin_sessionExpired => 'Your session has expired.';
+  String get admin_sessionExpired => 'ئەڭگىمە ۋاقتىڭىز توشتى.';
 
   @override
-  String get admin_myMosques => 'My mosques';
+  String get admin_myMosques => 'مېنىڭ مەسچىتلىرىم';
 
   @override
-  String get admin_logOut => 'Log out';
+  String get admin_logOut => 'چېكىنىش';
 
   @override
-  String get admin_noMosques => 'No mosques found.';
+  String get admin_noMosques => 'مەسچىت تېپىلمىدى.';
 
   @override
   String get admin_archivedNotConfigurable =>
-      'This mosque is archived — not configurable.';
+      'بۇ مەسچىت ئارخىپلانغان — تەڭشىگىلى بولمايدۇ.';
 
   @override
   String admin_mosqueId(String id) {
@@ -2673,411 +2673,414 @@ class AppLocalizationsUg extends AppLocalizations {
   }
 
   @override
-  String get admin_statusArchived => 'Archived';
+  String get admin_statusArchived => 'ئارخىپلانغان';
 
   @override
-  String get admin_openMessages => 'Messages';
+  String get admin_openMessages => 'ئۇچۇرلار';
 
   @override
-  String get admin_openConfiguration => 'Configuration';
+  String get admin_openConfiguration => 'تەڭشەك';
 
   @override
-  String get admin_configurationTitle => 'Configuration';
+  String get admin_configurationTitle => 'تەڭشەك';
 
   @override
-  String get admin_configurationSaved => 'Configuration saved';
+  String get admin_configurationSaved => 'تەڭشەك ساقلاندى';
 
   @override
-  String get admin_oneUnsavedChange => '1 unsaved change';
+  String get admin_oneUnsavedChange => '1 ساقلانمىغان ئۆزگەرتىش';
 
   @override
-  String get admin_sectionRegional => 'Regional settings';
+  String get admin_sectionRegional => 'رايون تەڭشەكلىرى';
 
   @override
-  String get admin_sectionAdhan => 'Al-Athan';
+  String get admin_sectionAdhan => 'ئەزان';
 
   @override
-  String get admin_sectionIqama => 'Iqama';
+  String get admin_sectionIqama => 'قامەت';
 
   @override
-  String get admin_sectionJumua => 'Jumua';
+  String get admin_sectionJumua => 'جۈمە';
 
   @override
-  String get admin_sectionPrayerDuration => 'Prayer duration';
+  String get admin_sectionPrayerDuration => 'ناماز ۋاقتى';
 
   @override
-  String get admin_sectionDuas => 'Invocations and hadiths';
+  String get admin_sectionDuas => 'دۇئا ۋە ھەدىسلەر';
 
   @override
-  String get admin_sectionEid => 'Eid and Ramadan';
+  String get admin_sectionEid => 'ھېيت ۋە رامىزان';
 
   @override
-  String get admin_sectionNotYet => 'Not editable in the app yet';
+  String get admin_sectionNotYet => 'ئەپتە تېخى ئۆزگەرتكىلى بولمايدۇ';
 
   @override
-  String get admin_iqamaEnabled => 'Iqama enabled';
+  String get admin_iqamaEnabled => 'قامەت ئوچۇق';
 
   @override
   String get admin_iqamaEnabledHelp =>
-      'Turning this off also stops the waiting times, the iqama signal and the invocations after prayer from showing on the mosque screen.';
+      'بۇنى ئېتىۋەتسىڭىز، مەسچىت ئېكرانىدا كۈتۈش ۋاقىتلىرى، قامەت بەلگىسى ۋە ناماز ئاخىرىدىكى دۇئالارمۇ كۆرۈنمەيدۇ.';
 
   @override
-  String get admin_iqamaWaitingTimes => 'WAITING TIME AFTER ADHAN (MINUTES)';
+  String get admin_iqamaWaitingTimes => 'ئەزاندىن كېيىنكى كۈتۈش (مىنۇت)';
 
   @override
-  String get admin_iqamaSignal => 'IQAMA SIGNAL';
+  String get admin_iqamaSignal => 'قامەت بەلگىسى';
 
   @override
-  String get admin_iqamaSound => 'Sound';
+  String get admin_iqamaSound => 'ئاۋاز';
 
   @override
-  String get admin_iqamaCountdown => 'Full-screen countdown';
+  String get admin_iqamaCountdown => 'پۈتۈن ئېكراندا تەتۈر سانا';
 
   @override
-  String get admin_iqamaDisplayTime => 'Signal display time';
+  String get admin_iqamaDisplayTime => 'بەلگىنىڭ كۆرسىتىلىش ۋاقتى';
 
   @override
-  String get admin_iqamaAlwaysHhMm => 'Always show iqama times as hh:mm';
+  String get admin_iqamaAlwaysHhMm =>
+      'قامەت ۋاقىتلىرىنى ھەمىشە hh:mm شەكلىدە كۆرسەت';
 
   @override
   String get admin_iqamaCalendarNote =>
-      'Iqama times set by calendar stay as they are — edit those on the website.';
+      'كالېندار ئارقىلىق بەلگىلەنگەن قامەت ۋاقىتلىرى ئۆزگەرمەيدۇ — ئۇلارنى توربەتتە تەھرىرلەڭ.';
 
   @override
-  String get admin_eidPrayerTimes => 'EID PRAYER TIMES';
+  String get admin_eidPrayerTimes => 'ھېيت نامىزى ۋاقىتلىرى';
 
   @override
-  String get admin_ramadanImsak => 'RAMADAN';
+  String get admin_ramadanImsak => 'رامىزان';
 
   @override
   String get admin_eidPrayerHelp =>
-      'Shown on the mosque screen for the week before Eid. Leave a prayer unset if it isn’t held.';
+      'ھېيتتىن بىر ھەپتە بۇرۇن مەسچىت ئېكرانىدا كۆرسىتىلىدۇ. ئوقۇلمايدىغان نامازنى ۋاقىتسىز قالدۇرۇڭ.';
 
   @override
-  String get admin_imsakBeforeFajr => 'Show imsak before fajr';
+  String get admin_imsakBeforeFajr => 'بامداتتىن بۇرۇن ئىمساكنى كۆرسەت';
 
   @override
   String get admin_imsakHelp =>
-      'How early imsak appears. With fajr at 04:00 and 30 minutes here, the screen shows 03:30.';
+      'ئىمساكنىڭ قانچىلىك بۇرۇن كۆرۈنىدىغانلىقى. بامدات 04:00 ۋە بۇ يەردە 30 مىنۇت بولسا، ئېكران 03:30 نى كۆرسىتىدۇ.';
 
   @override
-  String get admin_imsakOff => 'Off';
+  String get admin_imsakOff => 'ئېتىك';
 
   @override
-  String get admin_eidNoPrayerTime => 'No prayer time set';
+  String get admin_eidNoPrayerTime => 'ۋاقىت بەلگىلەنمىگەن';
 
   @override
-  String get admin_adhanSoundLabel => 'Sound';
+  String get admin_adhanSoundLabel => 'ئاۋاز';
 
   @override
-  String get admin_adhanPlaysFor => 'PLAYS FOR';
+  String get admin_adhanPlaysFor => 'مۇنۇ ۋاقىتلاردا قويۇلىدۇ';
 
   @override
-  String get admin_adhanDurationLabel => 'Adhan length';
+  String get admin_adhanDurationLabel => 'ئەزان ئۇزۇنلۇقى';
 
   @override
   String get admin_adhanDurationHelp =>
-      'This sound stops before the adhan does, so the screen needs to know how long your muezzin takes.';
+      'بۇ ئاۋاز ئەزاندىن بۇرۇن ئاخىرلىشىدۇ، شۇڭا ئېكران ئەزانچىڭىزنىڭ قانچىلىك ۋاقىت ئالىدىغانلىقىنى بىلىشى كېرەك.';
 
   @override
   String admin_customAdhanFile(String name) {
-    return 'Uploaded file: $name';
+    return 'يۈكلەنگەن ھۆججەت: $name';
   }
 
   @override
   String get admin_customAdhanMissing =>
-      'No file uploaded yet — add one on the website.';
+      'تېخى ھۆججەت يۈكلەنمىدى — توربەتتە بىرنى قوشۇڭ.';
 
   @override
-  String get admin_adhanNoPrayers => 'No prayers';
+  String get admin_adhanNoPrayers => 'ناماز يوق';
 
   @override
-  String get admin_prayerDurationGroup => 'MINUTES PER PRAYER';
+  String get admin_prayerDurationGroup => 'ھەر نامازغا مىنۇت';
 
   @override
   String get admin_prayerDurationHelp =>
-      'The black screen during prayer and the invocations after it both last this long.';
+      'ناماز جەريانىدىكى قارا ئېكران ۋە ئۇنىڭدىن كېيىنكى دۇئالار شۇنچە ۋاقىت داۋاملىشىدۇ.';
 
   @override
-  String get admin_duasInvocations => 'INVOCATIONS';
+  String get admin_duasInvocations => 'دۇئالار';
 
   @override
-  String get admin_duasHadiths => 'HADITHS';
+  String get admin_duasHadiths => 'ھەدىسلەر';
 
   @override
-  String get admin_duaAfterAdhan => 'Duaa after adhan';
+  String get admin_duaAfterAdhan => 'ئەزاندىن كېيىنكى دۇئا';
 
   @override
-  String get admin_duaAfterPrayer => 'Invocations after prayer';
+  String get admin_duaAfterPrayer => 'ناماز ئاخىرىدىكى دۇئالار';
 
   @override
-  String get admin_randomHadith => 'Show a hadith every 5 minutes';
+  String get admin_randomHadith => 'ھەر 5 مىنۇتتا بىر ھەدىس كۆرسەت';
 
   @override
-  String get admin_hadithSource => 'From Riyad as-Salihin, by Imam an-Nawawi.';
+  String get admin_hadithSource =>
+      'ئىمام نەۋەۋىينىڭ رىياز ئۇس-سالىھىن ناملىق ئەسىرىدىن.';
 
   @override
-  String get admin_hadithPause => 'Pause between';
+  String get admin_hadithPause => 'ئارىلىقتا توختات';
 
   @override
-  String get admin_hadithPauseNever => 'Never';
+  String get admin_hadithPauseNever => 'ھەرگىز';
 
   @override
   String get admin_hadithPauseHelp =>
-      'For a mosque that holds lessons between two prayers.';
+      'ئىككى ناماز ئارىلىقىدا دەرس ئۆتىدىغان مەسچىتلەر ئۈچۈن.';
 
   @override
-  String get admin_duasAllOff => 'All off';
+  String get admin_duasAllOff => 'ھەممىسى ئېتىك';
 
   @override
-  String get admin_summaryDuaAdhan => 'After adhan';
+  String get admin_summaryDuaAdhan => 'ئەزاندىن كېيىن';
 
   @override
-  String get admin_summaryDuaPrayer => 'After prayer';
+  String get admin_summaryDuaPrayer => 'نامازدىن كېيىن';
 
   @override
-  String get admin_summaryHadiths => 'Hadiths';
+  String get admin_summaryHadiths => 'ھەدىسلەر';
 
   @override
-  String get admin_regionalHijri => 'HIJRI DATE';
+  String get admin_regionalHijri => 'ھىجرىيە چېسلاسى';
 
   @override
-  String get admin_regionalMosqueScreen => 'MOSQUE SCREEN';
+  String get admin_regionalMosqueScreen => 'مەسچىت ئېكرانى';
 
   @override
-  String get admin_regionalRegion => 'REGION';
+  String get admin_regionalRegion => 'رايون';
 
   @override
-  String get admin_timezoneLabel => 'Time zone (set on the website)';
+  String get admin_timezoneLabel => 'ۋاقىت رايونى (توربەتتە بەلگىلىنىدۇ)';
 
   @override
-  String get admin_timezoneUnknown => 'Unknown';
+  String get admin_timezoneUnknown => 'نامەلۇم';
 
   @override
-  String get admin_dstLabel => 'Daylight saving';
+  String get admin_dstLabel => 'يازلىق ۋاقىت';
 
   @override
   String get admin_dstDatesNote =>
-      'Summer and winter changeover dates stay as they are — set them on the website.';
+      'يازلىق ۋە قىشلىق ۋاقىت ئالماشتۇرۇش چېسلالىرى ئۆزگەرمەيدۇ — ئۇلارنى توربەتتە بەلگىلەڭ.';
 
   @override
-  String get admin_hijriAdjustmentLabel => 'Date adjustment';
+  String get admin_hijriAdjustmentLabel => 'چېسلا تۈزىتىش';
 
   @override
-  String get admin_jumuaTimeGroup => 'JUMUA TIME';
+  String get admin_jumuaTimeGroup => 'جۈمە ۋاقتى';
 
   @override
-  String get admin_jumuaDuringGroup => 'DURING JUMUA';
+  String get admin_jumuaDuringGroup => 'جۈمە جەريانىدا';
 
   @override
-  String get admin_jumuaSameAsDuhr => 'Same time as Dhuhr';
+  String get admin_jumuaSameAsDuhr => 'پىشىن بىلەن ئوخشاش ۋاقىت';
 
   @override
-  String get admin_jumuaFollowsDuhr => 'Runs at Dhuhr — your own time is kept.';
+  String get admin_jumuaFollowsDuhr =>
+      'پىشىندا ئوقۇلىدۇ — ئۆز ۋاقتىڭىز ساقلىنىپ قالىدۇ.';
 
   @override
-  String get admin_jumuaApplyDst => 'Add an hour in summer time';
+  String get admin_jumuaApplyDst => 'يازلىق ۋاقىتتا بىر سائەت قوش';
 
   @override
-  String get admin_jumuaDuration => 'Duration (preach + prayer)';
+  String get admin_jumuaDuration => 'داۋاملىشىش (خۇتبە + ناماز)';
 
   @override
   String get admin_jumuaDurationHelp =>
-      'Whatever shows during jumua lasts this long.';
+      'جۈمە جەريانىدا كۆرسىتىلگەن ھەممە نەرسە شۇنچە ۋاقىت داۋاملىشىدۇ.';
 
   @override
-  String get admin_jumuaBlackScreen => 'Black screen during jumua';
+  String get admin_jumuaBlackScreen => 'جۈمە جەريانىدا قارا ئېكران';
 
   @override
-  String get admin_jumuaDhikr => 'Show a hadith on jumua etiquette';
+  String get admin_jumuaDhikr => 'جۈمە ئەدەپلىرى ھەققىدە ھەدىس كۆرسەت';
 
   @override
-  String get admin_jumuaNoTime => 'No time set';
+  String get admin_jumuaNoTime => 'ۋاقىت بەلگىلەنمىگەن';
 
   @override
-  String get admin_summaryAsDuhr => 'Dhuhr';
+  String get admin_summaryAsDuhr => 'پىشىن';
 
   @override
-  String get admin_timeNotSet => 'Not set';
+  String get admin_timeNotSet => 'بەلگىلەنمىگەن';
 
   @override
-  String get admin_clearTime => 'Clear';
+  String get admin_clearTime => 'تازىلا';
 
   @override
-  String get admin_flashContent => 'Content';
+  String get admin_flashContent => 'مەزمۇن';
 
   @override
-  String get admin_flashContentHint => 'Message shown on the mosque screen';
+  String get admin_flashContentHint => 'مەسچىت ئېكرانىدا كۆرسىتىلىدىغان ئۇچۇر';
 
   @override
-  String get admin_flashOrientation => 'Orientation';
+  String get admin_flashOrientation => 'يۆنىلىش';
 
   @override
-  String get admin_flashColor => 'Color';
+  String get admin_flashColor => 'رەڭ';
 
   @override
-  String get admin_flashStartDate => 'Start date';
+  String get admin_flashStartDate => 'باشلىنىش چېسلاسى';
 
   @override
-  String get admin_flashExpireDate => 'End date';
+  String get admin_flashExpireDate => 'ئاخىرلىشىش چېسلاسى';
 
   @override
-  String get admin_flashTooShort => 'At least 30 characters';
+  String get admin_flashTooShort => 'ئاز دېگەندە 30 ھەرپ';
 
   @override
-  String get admin_flashSaved => 'Flash message saved';
+  String get admin_flashSaved => 'تېز ئۇچۇر ساقلاندى';
 
   @override
-  String get admin_flashSaving => 'Saving…';
+  String get admin_flashSaving => 'ساقلىنىۋاتىدۇ…';
 
   @override
-  String get admin_flashDelete => 'Delete';
+  String get admin_flashDelete => 'ئۆچۈر';
 
   @override
-  String get admin_flashDeleteTitle => 'Delete this flash message?';
+  String get admin_flashDeleteTitle => 'بۇ تېز ئۇچۇر ئۆچۈرۈلسۇنمۇ؟';
 
   @override
   String get admin_deleteBody =>
-      'It will stop showing on the mosque screen. This can’t be undone.';
+      'ئۇ مەسچىت ئېكرانىدا كۆرۈنمەيدۇ. بۇنى قايتۇرغىلى بولمايدۇ.';
 
   @override
-  String get admin_flashDeleted => 'Flash message deleted';
+  String get admin_flashDeleted => 'تېز ئۇچۇر ئۆچۈرۈلدى';
 
   @override
-  String get admin_tabAnnouncements => 'Announcements';
+  String get admin_tabAnnouncements => 'ئۇقتۇرۇشلار';
 
   @override
-  String get admin_tabFlash => 'Flash message';
+  String get admin_tabFlash => 'تېز ئۇچۇر';
 
   @override
-  String get admin_announcementsEmpty => 'No announcements yet.';
+  String get admin_announcementsEmpty => 'تېخى ئۇقتۇرۇش يوق.';
 
   @override
-  String get admin_announcementNew => 'New announcement';
+  String get admin_announcementNew => 'يېڭى ئۇقتۇرۇش';
 
   @override
-  String get admin_announcementEdit => 'Edit announcement';
+  String get admin_announcementEdit => 'ئۇقتۇرۇشنى تەھرىرلەش';
 
   @override
-  String get admin_announcementSaved => 'Announcement saved';
+  String get admin_announcementSaved => 'ئۇقتۇرۇش ساقلاندى';
 
   @override
-  String get admin_announcementDeleted => 'Announcement deleted';
+  String get admin_announcementDeleted => 'ئۇقتۇرۇش ئۆچۈرۈلدى';
 
   @override
-  String get admin_announcementDeleteTitle => 'Delete this announcement?';
+  String get admin_announcementDeleteTitle => 'بۇ ئۇقتۇرۇش ئۆچۈرۈلسۇنمۇ؟';
 
   @override
   String get admin_announcementLimitReached =>
-      'You’ve reached the limit of enabled announcements.';
+      'ئاكتىپ ئۇقتۇرۇش چېكىگە يەتتىڭىز.';
 
   @override
-  String get admin_discardTitle => 'Discard changes?';
+  String get admin_discardTitle => 'ئۆزگەرتىشلەر تاشلىۋېتىلسۇنمۇ؟';
 
   @override
-  String get admin_discardBody => 'What you’ve written here won’t be saved.';
+  String get admin_discardBody => 'بۇ يەرگە يازغىنىڭىز ساقلانمايدۇ.';
 
   @override
-  String get admin_discard => 'Discard';
+  String get admin_discard => 'تاشلىۋەت';
 
   @override
-  String get admin_keepEditing => 'Keep editing';
+  String get admin_keepEditing => 'تەھرىرلەشنى داۋاملاشتۇر';
 
   @override
-  String get admin_chipScreen => 'Screen';
+  String get admin_chipScreen => 'ئېكران';
 
   @override
-  String get admin_chipMobile => 'Mobile';
+  String get admin_chipMobile => 'يانفون';
 
   @override
-  String get admin_statusEnabled => 'Enabled';
+  String get admin_statusEnabled => 'ئوچۇق';
 
   @override
-  String get admin_statusDisabled => 'Disabled';
+  String get admin_statusDisabled => 'ئېتىك';
 
   @override
-  String get admin_typeText => 'Text';
+  String get admin_typeText => 'تېكىست';
 
   @override
-  String get admin_fieldTitle => 'Title';
+  String get admin_fieldTitle => 'ماۋزۇ';
 
   @override
-  String get admin_fieldMessage => 'Message';
+  String get admin_fieldMessage => 'ئۇچۇر';
 
   @override
-  String get admin_fieldVideo => 'YouTube link';
+  String get admin_fieldVideo => 'YouTube ئۇلانمىسى';
 
   @override
   String get admin_fieldVideoHint => 'https://www.youtube.com/watch?v=…';
 
   @override
   String get admin_fieldVideoHelp =>
-      'YouTube videos only — shorts aren’t accepted.';
+      'پەقەت YouTube سىنلىرى — shorts قوبۇل قىلىنمايدۇ.';
 
   @override
-  String get admin_fieldOrientation => 'TV orientation';
+  String get admin_fieldOrientation => 'ئېكران يۆنىلىشى';
 
   @override
-  String get admin_fieldDuration => 'Duration';
+  String get admin_fieldDuration => 'داۋاملىشىش ۋاقتى';
 
   @override
-  String get admin_fieldIsEvent => 'This is an event';
+  String get admin_fieldIsEvent => 'بۇ بىر پائالىيەت';
 
   @override
   String admin_fieldStartsAt(String date) {
-    return 'Starts $date';
+    return 'باشلىنىدۇ $date';
   }
 
   @override
   String admin_fieldEndsAt(String date) {
-    return 'Ends $date';
+    return 'ئاخىرلىشىدۇ $date';
   }
 
   @override
-  String get admin_fieldShowOn => 'Show on';
+  String get admin_fieldShowOn => 'كۆرسىتىش ئورنى';
 
   @override
-  String get admin_fieldMainScreen => 'Main mosque screen';
+  String get admin_fieldMainScreen => 'مەسچىتنىڭ ئاساسىي ئېكرانى';
 
   @override
-  String get admin_fieldSecondaryScreen => 'Secondary screen';
+  String get admin_fieldSecondaryScreen => 'ئىككىنچى ئېكران';
 
   @override
-  String get admin_fieldMobile => 'Mawaqit app';
+  String get admin_fieldMobile => 'Mawaqit ئەپى';
 
   @override
-  String get admin_pickImage => 'Choose a photo';
+  String get admin_pickImage => 'سۈرەت تاللاش';
 
   @override
-  String get admin_replaceImage => 'Change photo';
+  String get admin_replaceImage => 'سۈرەتنى ئۆزگەرتىش';
 
   @override
-  String get admin_orientationLandscape => 'Landscape';
+  String get admin_orientationLandscape => 'توغرا';
 
   @override
-  String get admin_orientationPortrait => 'Portrait';
+  String get admin_orientationPortrait => 'بويىغا';
 
   @override
-  String get admin_requiredField => 'Required';
+  String get admin_requiredField => 'چوقۇم تولدۇرۇلىدۇ';
 
   @override
-  String get admin_invalidYoutube => 'Enter a YouTube video link.';
+  String get admin_invalidYoutube => 'YouTube سىن ئۇلانمىسىنى كىرگۈزۈڭ.';
 
   @override
   String get admin_flashUnavailable =>
-      'Editing the flash message isn’t available right now.';
+      'تېز ئۇچۇرنى تەھرىرلەش ھازىر ئىشلەتكىلى بولمايدۇ.';
 
   @override
   String admin_unsavedChanges(int count) {
-    return '$count unsaved changes';
+    return 'ساقلانمىغان ئۆزگەرتىشلەر: $count';
   }
 
   @override
-  String get admin_prayerSlot1 => 'First prayer';
+  String get admin_prayerSlot1 => 'بىرىنچى ناماز';
 
   @override
-  String get admin_prayerSlot2 => 'Second prayer';
+  String get admin_prayerSlot2 => 'ئىككىنچى ناماز';
 
   @override
-  String get admin_prayerSlot3 => 'Third prayer';
+  String get admin_prayerSlot3 => 'ئۈچىنچى ناماز';
 }
