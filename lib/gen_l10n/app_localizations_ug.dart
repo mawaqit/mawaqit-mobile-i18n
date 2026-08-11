@@ -2669,7 +2669,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String admin_mosqueId(String id) {
-    return 'ID $id';
+    return 'كىمملىك $id';
   }
 
   @override
