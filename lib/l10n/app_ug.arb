@@ -1633,7 +1633,7 @@
     "admin_logOut": "چېكىنىش",
     "admin_noMosques": "مەسچىت تېپىلمىدى.",
     "admin_archivedNotConfigurable": "بۇ مەسچىت ئارخىپلانغان — تەڭشىگىلى بولمايدۇ.",
-    "admin_mosqueId": "ID {id}",
+    "admin_mosqueId": "كىمملىك {id}",
     "@admin_mosqueId": {
         "placeholders": {
             "id": {
