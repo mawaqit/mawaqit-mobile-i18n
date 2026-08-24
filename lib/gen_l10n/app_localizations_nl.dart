@@ -3131,4 +3131,21 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'Toestemming voor meldingen vereist';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Meldingen inschakelen';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Meldingen moeten zijn ingeschakeld zodat MAWAQIT de Adhan kan afspelen en gebedsmeldingen kan versturen.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Locatie is nodig om nauwkeurige gebedstijden, moskee-informatie en weerupdates te ontvangen.';
+
+  @override
+  String get manage_mosque => 'Moskee beheren';
 }

@@ -3123,4 +3123,21 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'Требуется разрешение на уведомления';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Включить уведомления';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Необходимо включить уведомления, чтобы MAWAQIT мог воспроизводить азан и отправлять уведомления о времени молитв.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Местоположение необходимо для получения точного времени молитв, информации о мечетях и обновлений погоды.';
+
+  @override
+  String get manage_mosque => 'Управление мечетью';
 }

@@ -3134,4 +3134,21 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'Értesítési engedély szükséges';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Értesítések engedélyezése';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Az értesítéseket engedélyezni kell ahhoz, hogy a MAWAQIT lejátszhassa az adhánt és imaértesítéseket küldhessen.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'A pontos imaidők, a mecsetekkel kapcsolatos információk és az időjárási frissítések megtekintéséhez helymeghatározás szükséges.';
+
+  @override
+  String get manage_mosque => 'Mecset kezelése';
 }

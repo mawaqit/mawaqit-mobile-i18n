@@ -1838,5 +1838,10 @@
     "beta": "Beta",
     "for_mosque_administrators_only": "For mosque administrators only",
     "admins_only": "Admins only",
-    "notification_permission_required": "Notification permission required"
+    "notification_permission_required": "Notification permission required",
+    "enable_location": "Enable Location",
+    "enable_notifications": "ئاگادارکردنەوەکان چالاک بکە",
+    "notifications_required_for_adhan": "دەبێت ئاگادارکردنەوەکان چالاک بکرێن بۆ ئەوەی MAWAQIT بتوانێت ئەزان پەخش بکات و ئاگادارکردنەوەکانی نوێژ بنێرێت.",
+    "location_required_for_prayer_times": "بۆ بەدەستهێنانی کاتی دروستی نوێژ، زانیارییەکانی مزگەوت و نوێکردنەوەکانی کەشوهەوا، شوێن پێویستە.",
+    "manage_mosque": "Manage mosque"
 }

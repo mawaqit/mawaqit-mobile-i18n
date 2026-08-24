@@ -3107,4 +3107,21 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get notification_permission_required => 'Aviseringsbehörighet krävs';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Aktivera aviseringar';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Aviseringar måste vara aktiverade för att MAWAQIT ska kunna spela upp Adhan och skicka böneaviseringar.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Plats behövs för att få korrekta bönetider, information om moskéer och väderuppdateringar.';
+
+  @override
+  String get manage_mosque => 'Hantera moské';
 }

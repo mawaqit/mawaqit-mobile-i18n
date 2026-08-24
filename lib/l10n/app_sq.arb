@@ -1838,5 +1838,10 @@
     "beta": "Beta",
     "for_mosque_administrators_only": "Vetëm për administratorët e xhamive",
     "admins_only": "Vetëm adminët",
-    "notification_permission_required": "Kërkohet leja për njoftimet"
+    "notification_permission_required": "Kërkohet leja për njoftimet",
+    "enable_location": "Enable Location",
+    "enable_notifications": "Aktivizo njoftimet",
+    "notifications_required_for_adhan": "Njoftimet duhet të aktivizohen që MAWAQIT të mund të luajë Ezanin dhe të dërgojë njoftime për namazin.",
+    "location_required_for_prayer_times": "Vendndodhja nevojitet për të marrë oraret e sakta të namazit, informacionet për xhamitë dhe përditësimet e motit.",
+    "manage_mosque": "Menaxho xhaminë"
 }

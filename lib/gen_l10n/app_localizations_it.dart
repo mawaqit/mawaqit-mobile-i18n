@@ -3145,4 +3145,21 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'È necessaria l\'autorizzazione per le notifiche';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Abilita le notifiche';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Le notifiche devono essere abilitate affinché MAWAQIT possa riprodurre l’Adhan e inviare notifiche di preghiera.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'La posizione è necessaria per ottenere orari di preghiera accurati, informazioni sulle moschee e aggiornamenti meteo.';
+
+  @override
+  String get manage_mosque => 'Gestisci la moschea';
 }

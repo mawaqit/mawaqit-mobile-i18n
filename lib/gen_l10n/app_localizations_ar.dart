@@ -3078,4 +3078,21 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get notification_permission_required => 'إذن الإشعارات مطلوب';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'تفعيل الإشعارات';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'يجب تفعيل الإشعارات ليتمكن تطبيق مواقيت من تشغيل الأذان وإرسال إشعارات الصلاة.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'الموقع مطلوب للحصول على أوقات الصلاة الدقيقة ومعلومات المساجد وتحديثات الطقس.';
+
+  @override
+  String get manage_mosque => 'إدارة المسجد';
 }

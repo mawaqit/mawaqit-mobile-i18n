@@ -1838,5 +1838,10 @@
     "beta": "Beta",
     "for_mosque_administrators_only": "Solo per gli amministratori delle moschee",
     "admins_only": "Solo admin",
-    "notification_permission_required": "È necessaria l'autorizzazione per le notifiche"
+    "notification_permission_required": "È necessaria l'autorizzazione per le notifiche",
+    "enable_location": "Enable Location",
+    "enable_notifications": "Abilita le notifiche",
+    "notifications_required_for_adhan": "Le notifiche devono essere abilitate affinché MAWAQIT possa riprodurre l’Adhan e inviare notifiche di preghiera.",
+    "location_required_for_prayer_times": "La posizione è necessaria per ottenere orari di preghiera accurati, informazioni sulle moschee e aggiornamenti meteo.",
+    "manage_mosque": "Gestisci la moschea"
 }

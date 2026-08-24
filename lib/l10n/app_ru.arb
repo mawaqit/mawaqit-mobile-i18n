@@ -1838,5 +1838,10 @@
     "beta": "Бета",
     "for_mosque_administrators_only": "Только для администраторов мечетей",
     "admins_only": "Только админы",
-    "notification_permission_required": "Требуется разрешение на уведомления"
+    "notification_permission_required": "Требуется разрешение на уведомления",
+    "enable_location": "Enable Location",
+    "enable_notifications": "Включить уведомления",
+    "notifications_required_for_adhan": "Необходимо включить уведомления, чтобы MAWAQIT мог воспроизводить азан и отправлять уведомления о времени молитв.",
+    "location_required_for_prayer_times": "Местоположение необходимо для получения точного времени молитв, информации о мечетях и обновлений погоды.",
+    "manage_mosque": "Управление мечетью"
 }
