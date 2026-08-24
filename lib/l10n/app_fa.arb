@@ -1838,5 +1838,10 @@
     "beta": "بتا",
     "for_mosque_administrators_only": "فقط برای مدیران مساجد",
     "admins_only": "فقط مدیران",
-    "notification_permission_required": "اجازه دسترسی به اعلان‌ها الزامی است"
+    "notification_permission_required": "اجازه دسترسی به اعلان‌ها الزامی است",
+    "enable_location": "Enable Location",
+    "enable_notifications": "فعال کردن اعلان‌ها",
+    "notifications_required_for_adhan": "برای اینکه MAWAQIT بتواند اذان را پخش کند و اعلان‌های نماز را ارسال کند، باید اعلان‌ها فعال باشند.",
+    "location_required_for_prayer_times": "برای دریافت اوقات دقیق نماز، اطلاعات مساجد و به‌روزرسانی‌های آب‌وهوا، موقعیت مکانی لازم است.",
+    "manage_mosque": "مدیریت مسجد"
 }
