@@ -3107,4 +3107,8 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get beta => 'বিটা';
+
+  @override
+  String get for_mosque_administrators_only =>
+      'শুধুমাত্র মসজিদের প্রশাসকদের জন্য';
 }

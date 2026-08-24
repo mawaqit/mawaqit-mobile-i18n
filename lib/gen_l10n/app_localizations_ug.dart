@@ -3106,4 +3106,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get beta => 'سىناق';
+
+  @override
+  String get for_mosque_administrators_only =>
+      'پەقەت مەسچىت باشقۇرغۇچىلىرى ئۈچۈن';
 }

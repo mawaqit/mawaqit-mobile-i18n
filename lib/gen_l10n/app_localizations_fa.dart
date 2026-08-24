@@ -3095,6 +3095,9 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get beta => 'بتا';
+
+  @override
+  String get for_mosque_administrators_only => 'فقط برای مدیران مساجد';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6195,4 +6198,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get beta => 'Beta';
+
+  @override
+  String get for_mosque_administrators_only => 'For mosque administrators only';
 }

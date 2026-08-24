@@ -3132,4 +3132,8 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get beta => 'Beta';
+
+  @override
+  String get for_mosque_administrators_only =>
+      'Apenas para administradores de mesquitas';
 }
