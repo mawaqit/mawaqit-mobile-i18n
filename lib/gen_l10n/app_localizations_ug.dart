@@ -3103,4 +3103,7 @@ class AppLocalizationsUg extends AppLocalizations {
   ) {
     return '$maxTotal دىن $total · $maxEnabled دىن $enabled ئاكتىپ';
   }
+
+  @override
+  String get beta => 'سىناق';
 }

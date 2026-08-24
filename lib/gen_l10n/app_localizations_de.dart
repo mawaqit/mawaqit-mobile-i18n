@@ -3134,4 +3134,7 @@ class AppLocalizationsDe extends AppLocalizations {
   ) {
     return '$total von $maxTotal · $enabled von $maxEnabled aktiviert';
   }
+
+  @override
+  String get beta => 'Beta';
 }

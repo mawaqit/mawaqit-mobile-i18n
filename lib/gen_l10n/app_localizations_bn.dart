@@ -3104,4 +3104,7 @@ class AppLocalizationsBn extends AppLocalizations {
   ) {
     return '$maxTotal-এর মধ্যে $total · $maxEnabled-এর মধ্যে $enabled সক্রিয়';
   }
+
+  @override
+  String get beta => 'বিটা';
 }

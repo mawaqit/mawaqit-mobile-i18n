@@ -3109,4 +3109,7 @@ class AppLocalizationsRu extends AppLocalizations {
   ) {
     return '$total из $maxTotal · $enabled из $maxEnabled включено';
   }
+
+  @override
+  String get beta => 'Бета';
 }

@@ -3087,4 +3087,7 @@ class AppLocalizationsTr extends AppLocalizations {
   ) {
     return '$maxTotal içinden $total · $maxEnabled içinden $enabled etkin';
   }
+
+  @override
+  String get beta => 'Beta';
 }

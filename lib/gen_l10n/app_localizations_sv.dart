@@ -3094,4 +3094,7 @@ class AppLocalizationsSv extends AppLocalizations {
   ) {
     return '$total av $maxTotal · $enabled av $maxEnabled aktiva';
   }
+
+  @override
+  String get beta => 'Beta';
 }

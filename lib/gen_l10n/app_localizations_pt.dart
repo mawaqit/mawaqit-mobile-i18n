@@ -3129,4 +3129,7 @@ class AppLocalizationsPt extends AppLocalizations {
   ) {
     return '$total de $maxTotal · $enabled de $maxEnabled ativados';
   }
+
+  @override
+  String get beta => 'Beta';
 }

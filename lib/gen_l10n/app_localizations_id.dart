@@ -3107,4 +3107,7 @@ class AppLocalizationsId extends AppLocalizations {
   ) {
     return '$total dari $maxTotal · $enabled dari $maxEnabled aktif';
   }
+
+  @override
+  String get beta => 'Beta';
 }

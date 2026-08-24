@@ -5975,6 +5975,12 @@ abstract class AppLocalizations {
     int enabled,
     int maxEnabled,
   );
+
+  /// No description provided for @beta.
+  ///
+  /// In en, this message translates to:
+  /// **'Beta'**
+  String get beta;
 }
 
 class _AppLocalizationsDelegate

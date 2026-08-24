@@ -3108,4 +3108,7 @@ class AppLocalizationsKu extends AppLocalizations {
   ) {
     return '$total لە $maxTotal · $enabled لە $maxEnabled چالاک';
   }
+
+  @override
+  String get beta => 'Beta';
 }
