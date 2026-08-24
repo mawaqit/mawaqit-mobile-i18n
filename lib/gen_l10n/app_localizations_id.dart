@@ -3113,7 +3113,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'For MAWAQIT mosque administrators only';
+      'Hanya untuk pengelola masjid MAWAQIT';
 
   @override
   String get admins_only => 'Khusus admin';

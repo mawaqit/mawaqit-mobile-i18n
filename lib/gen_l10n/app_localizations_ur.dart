@@ -3102,7 +3102,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'For MAWAQIT mosque administrators only';
+      'صرف مواقيت مساجد کے منتظمین کے لیے';
 
   @override
   String get admins_only => 'صرف ایڈمنز';

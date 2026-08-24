@@ -3108,7 +3108,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'For MAWAQIT mosque administrators only';
+      'Tylko dla administratorów meczetów MAWAQIT';
 
   @override
   String get admins_only => 'Tylko admini';

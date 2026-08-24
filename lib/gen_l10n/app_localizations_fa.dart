@@ -3097,8 +3097,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get beta => 'بتا';
 
   @override
-  String get for_mosque_administrators_only =>
-      'For MAWAQIT mosque administrators only';
+  String get for_mosque_administrators_only => 'فقط برای مدیران مساجد مواقيت';
 
   @override
   String get admins_only => 'فقط مدیران';
