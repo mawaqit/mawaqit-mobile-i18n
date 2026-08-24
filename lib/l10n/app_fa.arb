@@ -1837,5 +1837,6 @@
     },
     "beta": "بتا",
     "for_mosque_administrators_only": "فقط برای مدیران مساجد",
-    "admins_only": "فقط مدیران"
+    "admins_only": "فقط مدیران",
+    "notification_permission_required": "اجازه دسترسی به اعلان‌ها الزامی است"
 }
