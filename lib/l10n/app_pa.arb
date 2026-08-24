@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1834,5 +1834,6 @@
                 "type": "int"
             }
         }
-    }
+    },
+    "beta": "Beta"
 }
