@@ -3101,4 +3101,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get for_mosque_administrators_only =>
       'Endast för moskéadministratörer';
+
+  @override
+  String get admins_only => 'Endast admins';
 }

@@ -3109,4 +3109,7 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only => 'For mosque administrators only';
+
+  @override
+  String get admins_only => 'Admins only';
 }
