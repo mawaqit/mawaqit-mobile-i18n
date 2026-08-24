@@ -3130,5 +3130,5 @@ class AppLocalizationsLo extends AppLocalizations {
       'Location is needed to get accurate prayer times, mosque information, and weather updates.';
 
   @override
-  String get manage_mosque => 'Manage mosque';
+  String get manage_mosque => 'Manage Mosque';
 }

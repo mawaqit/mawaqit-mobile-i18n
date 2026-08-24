@@ -3123,7 +3123,8 @@ class AppLocalizationsNl extends AppLocalizations {
   String get beta => 'Bèta';
 
   @override
-  String get for_mosque_administrators_only => 'Alleen voor moskee-beheerders';
+  String get for_mosque_administrators_only =>
+      'Alleen voor beheerders van MAWAQIT-moskeeën';
 
   @override
   String get admins_only => 'Alleen admins';
@@ -3147,5 +3148,5 @@ class AppLocalizationsNl extends AppLocalizations {
       'Locatie is nodig om nauwkeurige gebedstijden, moskee-informatie en weerupdates te ontvangen.';
 
   @override
-  String get manage_mosque => 'Moskee beheren';
+  String get manage_mosque => 'Manage Mosque';
 }

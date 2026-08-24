@@ -3139,7 +3139,8 @@ class AppLocalizationsDe extends AppLocalizations {
   String get beta => 'Beta';
 
   @override
-  String get for_mosque_administrators_only => 'Nur für Moscheeverwalter';
+  String get for_mosque_administrators_only =>
+      'Nur für MAWAQIT-Moscheeverwalter';
 
   @override
   String get admins_only => 'Nur Admins';
@@ -3163,5 +3164,5 @@ class AppLocalizationsDe extends AppLocalizations {
       'Der Standort wird benötigt, um genaue Gebetszeiten, Moschee-Informationen und Wetteraktualisierungen zu erhalten.';
 
   @override
-  String get manage_mosque => 'Moschee verwalten';
+  String get manage_mosque => 'Manage Mosque';
 }

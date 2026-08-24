@@ -3133,5 +3133,5 @@ class AppLocalizationsBn extends AppLocalizations {
       'সঠিক নামাজের সময়, মসজিদের তথ্য এবং আবহাওয়ার আপডেট পেতে অবস্থান প্রয়োজন।.';
 
   @override
-  String get manage_mosque => 'মসজিদ পরিচালনা';
+  String get manage_mosque => 'Manage Mosque';
 }

@@ -5985,7 +5985,7 @@ abstract class AppLocalizations {
   /// No description provided for @for_mosque_administrators_only.
   ///
   /// In en, this message translates to:
-  /// **'For mosque administrators only'**
+  /// **'For MAWAQIT mosque administrators only'**
   String get for_mosque_administrators_only;
 
   /// No description provided for @admins_only.

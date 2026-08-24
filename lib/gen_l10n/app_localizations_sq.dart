@@ -3125,7 +3125,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'Vetëm për administratorët e xhamive';
+      'Vetëm për administratorët e xhamive MAWAQIT';
 
   @override
   String get admins_only => 'Vetëm adminët';
@@ -3148,5 +3148,5 @@ class AppLocalizationsSq extends AppLocalizations {
       'Vendndodhja nevojitet për të marrë oraret e sakta të namazit, informacionet për xhamitë dhe përditësimet e motit.';
 
   @override
-  String get manage_mosque => 'Menaxho xhaminë';
+  String get manage_mosque => 'Manage Mosque';
 }

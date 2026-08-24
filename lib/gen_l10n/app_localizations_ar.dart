@@ -3071,7 +3071,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get beta => 'تجريبي';
 
   @override
-  String get for_mosque_administrators_only => 'متاح لمسؤولي المساجد فقط';
+  String get for_mosque_administrators_only => 'متاح لمسؤولي مساجد مواقيت فقط';
 
   @override
   String get admins_only => 'للمسؤولين فقط';
@@ -3094,5 +3094,5 @@ class AppLocalizationsAr extends AppLocalizations {
       'الموقع مطلوب للحصول على أوقات الصلاة الدقيقة ومعلومات المساجد وتحديثات الطقس.';
 
   @override
-  String get manage_mosque => 'إدارة المسجد';
+  String get manage_mosque => 'Manage Mosque';
 }

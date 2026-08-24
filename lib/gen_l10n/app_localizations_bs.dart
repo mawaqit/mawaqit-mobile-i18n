@@ -3115,7 +3115,8 @@ class AppLocalizationsBs extends AppLocalizations {
   String get beta => 'Beta';
 
   @override
-  String get for_mosque_administrators_only => 'Samo za administratore džamija';
+  String get for_mosque_administrators_only =>
+      'Samo za administratore MAWAQIT džamija';
 
   @override
   String get admins_only => 'Samo administratori';
@@ -3139,5 +3140,5 @@ class AppLocalizationsBs extends AppLocalizations {
       'Lokacija je potrebna za dobijanje tačnih vremena namaza, informacija o džamijama i vremenskih ažuriranja.';
 
   @override
-  String get manage_mosque => 'Upravljaj džamijom';
+  String get manage_mosque => 'Manage Mosque';
 }

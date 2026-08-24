@@ -3137,5 +3137,5 @@ class AppLocalizationsKu extends AppLocalizations {
       'بۆ بەدەستهێنانی کاتی دروستی نوێژ، زانیارییەکانی مزگەوت و نوێکردنەوەکانی کەشوهەوا، شوێن پێویستە.';
 
   @override
-  String get manage_mosque => 'Manage mosque';
+  String get manage_mosque => 'Manage Mosque';
 }
