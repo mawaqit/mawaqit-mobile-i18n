@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa_AF",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "For mosque administrators only"
+    "for_mosque_administrators_only": "For mosque administrators only",
+    "admins_only": "Admins only"
 }
