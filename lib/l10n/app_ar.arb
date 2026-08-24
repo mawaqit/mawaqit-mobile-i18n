@@ -1838,5 +1838,10 @@
     "beta": "تجريبي",
     "for_mosque_administrators_only": "متاح لمسؤولي المساجد فقط",
     "admins_only": "للمسؤولين فقط",
-    "notification_permission_required": "إذن الإشعارات مطلوب"
+    "notification_permission_required": "إذن الإشعارات مطلوب",
+    "enable_location": "Enable Location",
+    "enable_notifications": "تفعيل الإشعارات",
+    "notifications_required_for_adhan": "يجب تفعيل الإشعارات ليتمكن تطبيق مواقيت من تشغيل الأذان وإرسال إشعارات الصلاة.",
+    "location_required_for_prayer_times": "الموقع مطلوب للحصول على أوقات الصلاة الدقيقة ومعلومات المساجد وتحديثات الطقس.",
+    "manage_mosque": "إدارة المسجد"
 }
