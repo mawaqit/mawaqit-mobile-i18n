@@ -1835,5 +1835,6 @@
             }
         }
     },
-    "beta": "Bêta"
+    "beta": "Bêta",
+    "for_mosque_administrators_only": "Réservé aux administrateurs de mosquées"
 }
