@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1838,5 +1838,10 @@
     "beta": "بیٹا",
     "for_mosque_administrators_only": "صرف مسجد کے منتظمین کے لیے",
     "admins_only": "صرف ایڈمنز",
-    "notification_permission_required": "اطلاعات کی اجازت درکار ہے"
+    "notification_permission_required": "اطلاعات کی اجازت درکار ہے",
+    "enable_location": "Enable Location",
+    "enable_notifications": "اطلاعات فعال کریں",
+    "notifications_required_for_adhan": "MAWAQIT کے لیے اذان چلانے اور نماز کی اطلاعات بھیجنے کے لیے اطلاعات کو فعال کرنا ضروری ہے.",
+    "location_required_for_prayer_times": "درست نماز کے اوقات، مساجد کی معلومات اور موسم کی تازہ ترین صورتحال حاصل کرنے کے لیے مقام درکار ہے.",
+    "manage_mosque": "مسجد کا انتظام"
 }
