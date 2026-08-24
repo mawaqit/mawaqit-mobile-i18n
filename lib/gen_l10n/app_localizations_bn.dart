@@ -3110,7 +3110,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'শুধুমাত্র মসজিদের প্রশাসকদের জন্য';
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'শুধু অ্যাডমিন';
@@ -3133,5 +3133,5 @@ class AppLocalizationsBn extends AppLocalizations {
       'সঠিক নামাজের সময়, মসজিদের তথ্য এবং আবহাওয়ার আপডেট পেতে অবস্থান প্রয়োজন।.';
 
   @override
-  String get manage_mosque => 'Manage Mosque';
+  String get manage_mosque => 'মসজিদ পরিচালনা';
 }

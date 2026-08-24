@@ -1836,12 +1836,12 @@
         }
     },
     "beta": "Béta",
-    "for_mosque_administrators_only": "Csak MAWAQIT mecseti adminisztrátoroknak",
+    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
     "admins_only": "Csak adminok",
     "notification_permission_required": "Értesítési engedély szükséges",
     "enable_location": "Enable Location",
     "enable_notifications": "Értesítések engedélyezése",
     "notifications_required_for_adhan": "Az értesítéseket engedélyezni kell ahhoz, hogy a MAWAQIT lejátszhassa az adhánt és imaértesítéseket küldhessen.",
     "location_required_for_prayer_times": "A pontos imaidők, a mecsetekkel kapcsolatos információk és az időjárási frissítések megtekintéséhez helymeghatározás szükséges.",
-    "manage_mosque": "Manage Mosque"
+    "manage_mosque": "Mecset kezelése"
 }

@@ -3100,7 +3100,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'Endast för administratörer av MAWAQIT-moskéer';
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'Endast admins';
@@ -3123,5 +3123,5 @@ class AppLocalizationsSv extends AppLocalizations {
       'Plats behövs för att få korrekta bönetider, information om moskéer och väderuppdateringar.';
 
   @override
-  String get manage_mosque => 'Manage Mosque';
+  String get manage_mosque => 'Hantera moské';
 }

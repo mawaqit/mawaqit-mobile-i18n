@@ -3109,7 +3109,8 @@ class AppLocalizationsTa extends AppLocalizations {
   String get beta => 'Beta';
 
   @override
-  String get for_mosque_administrators_only => 'For mosque administrators only';
+  String get for_mosque_administrators_only =>
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'Admins only';

@@ -1836,12 +1836,12 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "Nur für MAWAQIT-Moscheeverwalter",
+    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
     "admins_only": "Nur Admins",
     "notification_permission_required": "Benachrichtigungsberechtigung erforderlich",
     "enable_location": "Enable Location",
     "enable_notifications": "Benachrichtigungen aktivieren",
     "notifications_required_for_adhan": "Benachrichtigungen müssen aktiviert sein, damit MAWAQIT den Adhan abspielen und Gebetsbenachrichtigungen senden kann.",
     "location_required_for_prayer_times": "Der Standort wird benötigt, um genaue Gebetszeiten, Moschee-Informationen und Wetteraktualisierungen zu erhalten.",
-    "manage_mosque": "Manage Mosque"
+    "manage_mosque": "Moschee verwalten"
 }

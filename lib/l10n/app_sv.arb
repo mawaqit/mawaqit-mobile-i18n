@@ -1836,12 +1836,12 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "Endast för administratörer av MAWAQIT-moskéer",
+    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
     "admins_only": "Endast admins",
     "notification_permission_required": "Aviseringsbehörighet krävs",
     "enable_location": "Enable Location",
     "enable_notifications": "Aktivera aviseringar",
     "notifications_required_for_adhan": "Aviseringar måste vara aktiverade för att MAWAQIT ska kunna spela upp Adhan och skicka böneaviseringar.",
     "location_required_for_prayer_times": "Plats behövs för att få korrekta bönetider, information om moskéer och väderuppdateringar.",
-    "manage_mosque": "Manage Mosque"
+    "manage_mosque": "Hantera moské"
 }
