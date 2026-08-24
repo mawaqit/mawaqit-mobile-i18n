@@ -3113,4 +3113,8 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get admins_only => 'پەقەت باشقۇرغۇچىلار';
+
+  @override
+  String get notification_permission_required =>
+      'ئۇقتۇرۇشقا رۇخسەت بېرىش تەلەپ قىلىنىدۇ';
 }

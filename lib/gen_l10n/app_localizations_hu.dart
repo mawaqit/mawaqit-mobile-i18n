@@ -3130,4 +3130,8 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get admins_only => 'Csak adminok';
+
+  @override
+  String get notification_permission_required =>
+      'Értesítési engedély szükséges';
 }

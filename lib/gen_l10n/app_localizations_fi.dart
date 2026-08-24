@@ -3112,4 +3112,8 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get admins_only => 'Admins only';
+
+  @override
+  String get notification_permission_required =>
+      'Notification permission required';
 }

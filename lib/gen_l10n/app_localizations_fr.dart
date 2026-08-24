@@ -3155,4 +3155,8 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get admins_only => 'Admins uniquement';
+
+  @override
+  String get notification_permission_required =>
+      'Autorisation de notification requise';
 }

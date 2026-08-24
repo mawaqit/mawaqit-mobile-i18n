@@ -3075,4 +3075,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get admins_only => 'للمسؤولين فقط';
+
+  @override
+  String get notification_permission_required => 'إذن الإشعارات مطلوب';
 }

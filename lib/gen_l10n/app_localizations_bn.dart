@@ -3114,4 +3114,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get admins_only => 'শুধু অ্যাডমিন';
+
+  @override
+  String get notification_permission_required => 'বিজ্ঞপ্তির অনুমতি প্রয়োজন';
 }

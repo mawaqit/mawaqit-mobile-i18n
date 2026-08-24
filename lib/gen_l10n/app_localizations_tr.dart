@@ -3097,4 +3097,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get admins_only => 'Sadece yöneticiler';
+
+  @override
+  String get notification_permission_required => 'Bildirim izni gerekli';
 }

@@ -3104,4 +3104,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get admins_only => 'Endast admins';
+
+  @override
+  String get notification_permission_required => 'Aviseringsbehörighet krävs';
 }

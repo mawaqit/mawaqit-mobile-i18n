@@ -3112,4 +3112,8 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get admins_only => 'Tylko admini';
+
+  @override
+  String get notification_permission_required =>
+      'Wymagane zezwolenie na powiadomienia';
 }

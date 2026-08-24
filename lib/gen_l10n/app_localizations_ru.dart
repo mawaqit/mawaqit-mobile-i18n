@@ -3119,4 +3119,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get admins_only => 'Только админы';
+
+  @override
+  String get notification_permission_required =>
+      'Требуется разрешение на уведомления';
 }
