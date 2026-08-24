@@ -1836,7 +1836,7 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
+    "for_mosque_administrators_only": "Hanya untuk pengelola masjid MAWAQIT",
     "admins_only": "Khusus admin",
     "notification_permission_required": "Izin notifikasi diperlukan",
     "enable_location": "Enable Location",
