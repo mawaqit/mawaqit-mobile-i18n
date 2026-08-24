@@ -3105,4 +3105,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get admins_only => 'صرف ایڈمنز';
+
+  @override
+  String get notification_permission_required => 'اطلاعات کی اجازت درکار ہے';
 }

@@ -3116,4 +3116,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get admins_only => 'Khusus admin';
+
+  @override
+  String get notification_permission_required => 'Izin notifikasi diperlukan';
 }

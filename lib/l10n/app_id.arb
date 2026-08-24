@@ -1837,5 +1837,6 @@
     },
     "beta": "Beta",
     "for_mosque_administrators_only": "Hanya untuk pengelola masjid",
-    "admins_only": "Khusus admin"
+    "admins_only": "Khusus admin",
+    "notification_permission_required": "Izin notifikasi diperlukan"
 }

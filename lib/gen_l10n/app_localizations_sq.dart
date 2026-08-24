@@ -3129,4 +3129,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get admins_only => 'Vetëm adminët';
+
+  @override
+  String get notification_permission_required => 'Kërkohet leja për njoftimet';
 }

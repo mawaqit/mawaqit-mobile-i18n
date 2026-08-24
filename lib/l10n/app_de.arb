@@ -1837,5 +1837,6 @@
     },
     "beta": "Beta",
     "for_mosque_administrators_only": "Nur für Moscheeverwalter",
-    "admins_only": "Nur Admins"
+    "admins_only": "Nur Admins",
+    "notification_permission_required": "Benachrichtigungsberechtigung erforderlich"
 }

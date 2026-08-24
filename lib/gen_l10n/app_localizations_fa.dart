@@ -3101,6 +3101,10 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get admins_only => 'فقط مدیران';
+
+  @override
+  String get notification_permission_required =>
+      'اجازه دسترسی به اعلان‌ها الزامی است';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6207,4 +6211,8 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get admins_only => 'Admins only';
+
+  @override
+  String get notification_permission_required =>
+      'Notification permission required';
 }

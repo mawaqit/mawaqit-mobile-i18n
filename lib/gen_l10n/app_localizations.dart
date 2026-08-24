@@ -5993,6 +5993,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Admins only'**
   String get admins_only;
+
+  /// No description provided for @notification_permission_required.
+  ///
+  /// In en, this message translates to:
+  /// **'Notification permission required'**
+  String get notification_permission_required;
 }
 
 class _AppLocalizationsDelegate

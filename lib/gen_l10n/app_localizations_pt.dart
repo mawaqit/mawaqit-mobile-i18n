@@ -3139,4 +3139,8 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get admins_only => 'Só administradores';
+
+  @override
+  String get notification_permission_required =>
+      'É necessária permissão para notificações';
 }

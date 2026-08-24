@@ -1837,5 +1837,6 @@
     },
     "beta": "Beta",
     "for_mosque_administrators_only": "Endast för moskéadministratörer",
-    "admins_only": "Endast admins"
+    "admins_only": "Endast admins",
+    "notification_permission_required": "Aviseringsbehörighet krävs"
 }

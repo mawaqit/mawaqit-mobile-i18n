@@ -3127,4 +3127,8 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get admins_only => 'Alleen admins';
+
+  @override
+  String get notification_permission_required =>
+      'Toestemming voor meldingen vereist';
 }

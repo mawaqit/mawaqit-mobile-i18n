@@ -1837,5 +1837,6 @@
     },
     "beta": "Beta",
     "for_mosque_administrators_only": "Yalnızca cami yöneticileri için",
-    "admins_only": "Sadece yöneticiler"
+    "admins_only": "Sadece yöneticiler",
+    "notification_permission_required": "Bildirim izni gerekli"
 }

@@ -3119,4 +3119,8 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get admins_only => 'Samo administratori';
+
+  @override
+  String get notification_permission_required =>
+      'Dozvola za obavještenja je potrebna';
 }
