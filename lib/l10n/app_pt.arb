@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1835,5 +1835,6 @@
             }
         }
     },
-    "beta": "Beta"
+    "beta": "Beta",
+    "for_mosque_administrators_only": "Apenas para administradores de mesquitas"
 }
