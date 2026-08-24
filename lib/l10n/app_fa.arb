@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "بتا",
-    "for_mosque_administrators_only": "فقط برای مدیران مساجد"
+    "for_mosque_administrators_only": "فقط برای مدیران مساجد",
+    "admins_only": "فقط مدیران"
 }
