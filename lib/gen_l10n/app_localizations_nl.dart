@@ -3118,4 +3118,7 @@ class AppLocalizationsNl extends AppLocalizations {
   ) {
     return '$total van $maxTotal · $enabled van $maxEnabled ingeschakeld';
   }
+
+  @override
+  String get beta => 'Bèta';
 }

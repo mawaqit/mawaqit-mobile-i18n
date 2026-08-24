@@ -1354,7 +1354,7 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "چېكىلسە ئۇقتۇرۇشنى ئۆزگەرتىدۇ",
-    "adhan_at": "ئەزاندا",
+    "adhan_at": "ئەزان ۋاقتى",
     "semantic_mawaqit_notification": "مەۋاقىتنىڭ تېخى ئوقۇمىغان ئۇقتۇرۇشى",
     "semantic_open_notifications": "ئۇقتۇرۇش ئاچ",
     "semantic_tap_to_change_notification": "چېكىلسە ئۇقتۇرۇش تەڭشىكىنى ئۆزگەرتىدۇ",
@@ -1633,7 +1633,7 @@
     "admin_logOut": "چېكىنىش",
     "admin_noMosques": "مەسچىت تېپىلمىدى.",
     "admin_archivedNotConfigurable": "بۇ مەسچىت ئارخىپلانغان — تەڭشىگىلى بولمايدۇ.",
-    "admin_mosqueId": "ID {id}",
+    "admin_mosqueId": "كىمملىك {id}",
     "@admin_mosqueId": {
         "placeholders": {
             "id": {
@@ -1673,7 +1673,7 @@
     "admin_imsakOff": "ئېتىك",
     "admin_eidNoPrayerTime": "ۋاقىت بەلگىلەنمىگەن",
     "admin_adhanSoundLabel": "ئاۋاز",
-    "admin_adhanPlaysFor": "مۇنۇ ۋاقىتلاردا قويۇلىدۇ",
+    "admin_adhanPlaysFor": "مۇنۇ ۋاقىتلاردا ياڭرايدۇ",
     "admin_adhanDurationLabel": "ئەزان ئۇزۇنلۇقى",
     "admin_adhanDurationHelp": "بۇ ئاۋاز ئەزاندىن بۇرۇن ئاخىرلىشىدۇ، شۇڭا ئېكران ئەزانچىڭىزنىڭ قانچىلىك ۋاقىت ئالىدىغانلىقىنى بىلىشى كېرەك.",
     "admin_customAdhanFile": "يۈكلەنگەن ھۆججەت: {name}",
@@ -1834,5 +1834,6 @@
                 "type": "int"
             }
         }
-    }
+    },
+    "beta": "سىناق"
 }

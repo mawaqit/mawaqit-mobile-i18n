@@ -2148,7 +2148,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get tap_change_notification => 'چېكىلسە ئۇقتۇرۇشنى ئۆزگەرتىدۇ';
 
   @override
-  String get adhan_at => 'ئەزاندا';
+  String get adhan_at => 'ئەزان ۋاقتى';
 
   @override
   String get semantic_mawaqit_notification =>
@@ -2669,7 +2669,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String admin_mosqueId(String id) {
-    return 'ID $id';
+    return 'كىمملىك $id';
   }
 
   @override
@@ -2771,7 +2771,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get admin_adhanSoundLabel => 'ئاۋاز';
 
   @override
-  String get admin_adhanPlaysFor => 'مۇنۇ ۋاقىتلاردا قويۇلىدۇ';
+  String get admin_adhanPlaysFor => 'مۇنۇ ۋاقىتلاردا ياڭرايدۇ';
 
   @override
   String get admin_adhanDurationLabel => 'ئەزان ئۇزۇنلۇقى';
@@ -3103,4 +3103,7 @@ class AppLocalizationsUg extends AppLocalizations {
   ) {
     return '$maxTotal دىن $total · $maxEnabled دىن $enabled ئاكتىپ';
   }
+
+  @override
+  String get beta => 'سىناق';
 }

@@ -3092,6 +3092,9 @@ class AppLocalizationsFa extends AppLocalizations {
   ) {
     return '$total از $maxTotal · $enabled از $maxEnabled فعال';
   }
+
+  @override
+  String get beta => 'بتا';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6189,4 +6192,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   ) {
     return '$total of $maxTotal · $enabled of $maxEnabled enabled';
   }
+
+  @override
+  String get beta => 'Beta';
 }

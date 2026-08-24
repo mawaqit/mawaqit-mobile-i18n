@@ -3120,4 +3120,7 @@ class AppLocalizationsHu extends AppLocalizations {
   ) {
     return '$total / $maxTotal · $enabled / $maxEnabled bekapcsolva';
   }
+
+  @override
+  String get beta => 'Béta';
 }

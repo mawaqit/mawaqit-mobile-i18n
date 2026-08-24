@@ -3066,4 +3066,7 @@ class AppLocalizationsAr extends AppLocalizations {
   ) {
     return '$total من $maxTotal · $enabled من $maxEnabled مفعّل';
   }
+
+  @override
+  String get beta => 'تجريبي';
 }

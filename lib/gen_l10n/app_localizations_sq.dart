@@ -3119,4 +3119,7 @@ class AppLocalizationsSq extends AppLocalizations {
   ) {
     return '$total nga $maxTotal · $enabled nga $maxEnabled aktive';
   }
+
+  @override
+  String get beta => 'Beta';
 }

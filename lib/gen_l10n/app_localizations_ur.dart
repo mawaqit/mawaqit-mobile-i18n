@@ -3096,4 +3096,7 @@ class AppLocalizationsUr extends AppLocalizations {
   ) {
     return '$maxTotal میں سے $total · $maxEnabled میں سے $enabled فعال';
   }
+
+  @override
+  String get beta => 'بیٹا';
 }
