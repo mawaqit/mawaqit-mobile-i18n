@@ -1838,5 +1838,10 @@
     "beta": "سىناق",
     "for_mosque_administrators_only": "پەقەت مەسچىت باشقۇرغۇچىلىرى ئۈچۈن",
     "admins_only": "پەقەت باشقۇرغۇچىلار",
-    "notification_permission_required": "ئۇقتۇرۇشقا رۇخسەت بېرىش تەلەپ قىلىنىدۇ"
+    "notification_permission_required": "ئۇقتۇرۇشقا رۇخسەت بېرىش تەلەپ قىلىنىدۇ",
+    "enable_location": "Enable Location",
+    "enable_notifications": "ئۇقتۇرۇشلارنى قوزغىتىش",
+    "notifications_required_for_adhan": "MAWAQIT نىڭ ئەزاننى قويۇشى ۋە ناماز ئۇقتۇرۇشلىرىنى ئەۋەتىشى ئۈچۈن ئۇقتۇرۇشلارنى قوزغىتىش كېرەك.",
+    "location_required_for_prayer_times": "توغرا ناماز ۋاقىتلىرى، مەسچىت ئۇچۇرلىرى ۋە ھاۋارايى يېڭىلانمىلىرىنى ئېلىش ئۈچۈن ئورۇن ئۇچۇرى كېرەك.",
+    "manage_mosque": "مەسچىتنى باشقۇرۇش"
 }
