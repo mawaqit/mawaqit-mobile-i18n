@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "বিটা",
-    "for_mosque_administrators_only": "শুধুমাত্র মসজিদের প্রশাসকদের জন্য"
+    "for_mosque_administrators_only": "শুধুমাত্র মসজিদের প্রশাসকদের জন্য",
+    "admins_only": "শুধু অ্যাডমিন"
 }
