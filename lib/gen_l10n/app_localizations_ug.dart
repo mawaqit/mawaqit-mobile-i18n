@@ -3117,4 +3117,21 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'ئۇقتۇرۇشقا رۇخسەت بېرىش تەلەپ قىلىنىدۇ';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'ئۇقتۇرۇشلارنى قوزغىتىش';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'MAWAQIT نىڭ ئەزاننى قويۇشى ۋە ناماز ئۇقتۇرۇشلىرىنى ئەۋەتىشى ئۈچۈن ئۇقتۇرۇشلارنى قوزغىتىش كېرەك.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'توغرا ناماز ۋاقىتلىرى، مەسچىت ئۇچۇرلىرى ۋە ھاۋارايى يېڭىلانمىلىرىنى ئېلىش ئۈچۈن ئورۇن ئۇچۇرى كېرەك.';
+
+  @override
+  String get manage_mosque => 'مەسچىتنى باشقۇرۇش';
 }

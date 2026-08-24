@@ -3113,4 +3113,21 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'Notification permission required';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Enable Notifications';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Notifications must be enabled for MAWAQIT to play Adhan and send prayer notifications.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Location is needed to get accurate prayer times, mosque information, and weather updates.';
+
+  @override
+  String get manage_mosque => 'Manage mosque';
 }

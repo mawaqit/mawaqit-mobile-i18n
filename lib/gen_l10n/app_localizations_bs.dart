@@ -3123,4 +3123,21 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'Dozvola za obavještenja je potrebna';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Omogući obavijesti';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Obavijesti moraju biti omogućene kako bi MAWAQIT mogao reproducirati ezan i slati obavijesti o namazu.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Lokacija je potrebna za dobijanje tačnih vremena namaza, informacija o džamijama i vremenskih ažuriranja.';
+
+  @override
+  String get manage_mosque => 'Upravljaj džamijom';
 }

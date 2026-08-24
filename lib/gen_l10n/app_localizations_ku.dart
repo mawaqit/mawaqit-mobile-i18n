@@ -3121,4 +3121,21 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'Notification permission required';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'ئاگادارکردنەوەکان چالاک بکە';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'دەبێت ئاگادارکردنەوەکان چالاک بکرێن بۆ ئەوەی MAWAQIT بتوانێت ئەزان پەخش بکات و ئاگادارکردنەوەکانی نوێژ بنێرێت.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'بۆ بەدەستهێنانی کاتی دروستی نوێژ، زانیارییەکانی مزگەوت و نوێکردنەوەکانی کەشوهەوا، شوێن پێویستە.';
+
+  @override
+  String get manage_mosque => 'Manage mosque';
 }

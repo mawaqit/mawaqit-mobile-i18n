@@ -3119,4 +3119,21 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get notification_permission_required => 'Izin notifikasi diperlukan';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Aktifkan notifikasi';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Notifikasi harus diaktifkan agar MAWAQIT dapat memutar Adzan dan mengirimkan notifikasi waktu salat.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Lokasi diperlukan untuk mendapatkan waktu salat yang akurat, informasi masjid, dan pembaruan cuaca.';
+
+  @override
+  String get manage_mosque => 'Kelola Masjid';
 }

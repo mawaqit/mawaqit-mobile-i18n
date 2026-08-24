@@ -3132,4 +3132,21 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get notification_permission_required => 'Kërkohet leja për njoftimet';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Aktivizo njoftimet';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Njoftimet duhet të aktivizohen që MAWAQIT të mund të luajë Ezanin dhe të dërgojë njoftime për namazin.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Vendndodhja nevojitet për të marrë oraret e sakta të namazit, informacionet për xhamitë dhe përditësimet e motit.';
+
+  @override
+  String get manage_mosque => 'Menaxho xhaminë';
 }

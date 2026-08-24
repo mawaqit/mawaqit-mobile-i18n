@@ -3105,6 +3105,23 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get notification_permission_required =>
       'اجازه دسترسی به اعلان‌ها الزامی است';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'فعال کردن اعلان‌ها';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'برای اینکه MAWAQIT بتواند اذان را پخش کند و اعلان‌های نماز را ارسال کند، باید اعلان‌ها فعال باشند.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'برای دریافت اوقات دقیق نماز، اطلاعات مساجد و به‌روزرسانی‌های آب‌وهوا، موقعیت مکانی لازم است.';
+
+  @override
+  String get manage_mosque => 'مدیریت مسجد';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6215,4 +6232,21 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get notification_permission_required =>
       'Notification permission required';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Enable Notifications';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'Notifications must be enabled for MAWAQIT to play Adhan and send prayer notifications.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Location is needed to get accurate prayer times, mosque information, and weather updates.';
+
+  @override
+  String get manage_mosque => 'Manage mosque';
 }

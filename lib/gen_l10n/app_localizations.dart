@@ -5999,6 +5999,36 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Notification permission required'**
   String get notification_permission_required;
+
+  /// No description provided for @enable_location.
+  ///
+  /// In en, this message translates to:
+  /// **'Enable Location'**
+  String get enable_location;
+
+  /// No description provided for @enable_notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Enable Notifications'**
+  String get enable_notifications;
+
+  /// No description provided for @notifications_required_for_adhan.
+  ///
+  /// In en, this message translates to:
+  /// **'Notifications must be enabled for MAWAQIT to play Adhan and send prayer notifications.'**
+  String get notifications_required_for_adhan;
+
+  /// No description provided for @location_required_for_prayer_times.
+  ///
+  /// In en, this message translates to:
+  /// **'Location is needed to get accurate prayer times, mosque information, and weather updates.'**
+  String get location_required_for_prayer_times;
+
+  /// No description provided for @manage_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Manage Mosque'**
+  String get manage_mosque;
 }
 
 class _AppLocalizationsDelegate

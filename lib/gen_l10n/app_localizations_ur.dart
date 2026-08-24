@@ -3108,4 +3108,21 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get notification_permission_required => 'اطلاعات کی اجازت درکار ہے';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'اطلاعات فعال کریں';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'MAWAQIT کے لیے اذان چلانے اور نماز کی اطلاعات بھیجنے کے لیے اطلاعات کو فعال کرنا ضروری ہے.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'درست نماز کے اوقات، مساجد کی معلومات اور موسم کی تازہ ترین صورتحال حاصل کرنے کے لیے مقام درکار ہے.';
+
+  @override
+  String get manage_mosque => 'مسجد کا انتظام';
 }

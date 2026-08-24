@@ -3117,4 +3117,21 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get notification_permission_required => 'বিজ্ঞপ্তির অনুমতি প্রয়োজন';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'বিজ্ঞপ্তি চালু করুন';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'يجب تفعيل الإشعارات ليتمكن تطبيق مواقيت من تشغيل الأذان وإرسال إشعارات الصلاة.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'সঠিক নামাজের সময়, মসজিদের তথ্য এবং আবহাওয়ার আপডেট পেতে অবস্থান প্রয়োজন।.';
+
+  @override
+  String get manage_mosque => 'মসজিদ পরিচালনা';
 }

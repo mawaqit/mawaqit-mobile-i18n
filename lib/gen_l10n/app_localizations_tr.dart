@@ -3100,4 +3100,21 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get notification_permission_required => 'Bildirim izni gerekli';
+
+  @override
+  String get enable_location => 'Enable Location';
+
+  @override
+  String get enable_notifications => 'Bildirimleri etkinleştir';
+
+  @override
+  String get notifications_required_for_adhan =>
+      'MAWAQIT\'in Ezan\'ı çalabilmesi ve namaz bildirimleri gönderebilmesi için bildirimlerin etkinleştirilmesi gerekir.';
+
+  @override
+  String get location_required_for_prayer_times =>
+      'Doğru namaz vakitlerini, cami bilgilerini ve hava durumu güncellemelerini almak için konum gereklidir.';
+
+  @override
+  String get manage_mosque => 'Camiyi yönet';
 }
