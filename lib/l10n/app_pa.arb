@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1838,5 +1838,10 @@
     "beta": "Beta",
     "for_mosque_administrators_only": "For mosque administrators only",
     "admins_only": "Admins only",
-    "notification_permission_required": "Notification permission required"
+    "notification_permission_required": "Notification permission required",
+    "enable_location": "Enable Location",
+    "enable_notifications": "Enable Notifications",
+    "notifications_required_for_adhan": "Notifications must be enabled for MAWAQIT to play Adhan and send prayer notifications.",
+    "location_required_for_prayer_times": "Location is needed to get accurate prayer times, mosque information, and weather updates.",
+    "manage_mosque": "Manage mosque"
 }
