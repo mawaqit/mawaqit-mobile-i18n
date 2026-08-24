@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "Solo para administradores de mezquitas"
+    "for_mosque_administrators_only": "Solo para administradores de mezquitas",
+    "admins_only": "Solo admins"
 }

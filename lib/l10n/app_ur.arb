@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "بیٹا",
-    "for_mosque_administrators_only": "صرف مسجد کے منتظمین کے لیے"
+    "for_mosque_administrators_only": "صرف مسجد کے منتظمین کے لیے",
+    "admins_only": "صرف ایڈمنز"
 }

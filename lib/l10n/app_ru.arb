@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "Бета",
-    "for_mosque_administrators_only": "Только для администраторов мечетей"
+    "for_mosque_administrators_only": "Только для администраторов мечетей",
+    "admins_only": "Только админы"
 }

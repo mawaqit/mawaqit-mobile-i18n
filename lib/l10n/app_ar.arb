@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "تجريبي",
-    "for_mosque_administrators_only": "متاح لمسؤولي المساجد فقط"
+    "for_mosque_administrators_only": "متاح لمسؤولي المساجد فقط",
+    "admins_only": "للمسؤولين فقط"
 }

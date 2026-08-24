@@ -3072,4 +3072,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only => 'متاح لمسؤولي المساجد فقط';
+
+  @override
+  String get admins_only => 'للمسؤولين فقط';
 }

@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "Solo per gli amministratori delle moschee"
+    "for_mosque_administrators_only": "Solo per gli amministratori delle moschee",
+    "admins_only": "Solo admin"
 }

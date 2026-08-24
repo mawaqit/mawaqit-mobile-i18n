@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "Samo za administratore džamija"
+    "for_mosque_administrators_only": "Samo za administratore džamija",
+    "admins_only": "Samo administratori"
 }

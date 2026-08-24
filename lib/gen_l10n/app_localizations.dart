@@ -5987,6 +5987,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'For mosque administrators only'**
   String get for_mosque_administrators_only;
+
+  /// No description provided for @admins_only.
+  ///
+  /// In en, this message translates to:
+  /// **'Admins only'**
+  String get admins_only;
 }
 
 class _AppLocalizationsDelegate

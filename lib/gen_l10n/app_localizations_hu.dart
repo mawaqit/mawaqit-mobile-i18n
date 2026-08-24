@@ -3127,4 +3127,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get for_mosque_administrators_only =>
       'Csak mecseti adminisztrátoroknak';
+
+  @override
+  String get admins_only => 'Csak adminok';
 }

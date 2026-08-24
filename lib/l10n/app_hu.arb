@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "Béta",
-    "for_mosque_administrators_only": "Csak mecseti adminisztrátoroknak"
+    "for_mosque_administrators_only": "Csak mecseti adminisztrátoroknak",
+    "admins_only": "Csak adminok"
 }
