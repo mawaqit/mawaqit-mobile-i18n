@@ -1838,5 +1838,10 @@
     "beta": "Beta",
     "for_mosque_administrators_only": "Yalnızca cami yöneticileri için",
     "admins_only": "Sadece yöneticiler",
-    "notification_permission_required": "Bildirim izni gerekli"
+    "notification_permission_required": "Bildirim izni gerekli",
+    "enable_location": "Enable Location",
+    "enable_notifications": "Bildirimleri etkinleştir",
+    "notifications_required_for_adhan": "MAWAQIT'in Ezan'ı çalabilmesi ve namaz bildirimleri gönderebilmesi için bildirimlerin etkinleştirilmesi gerekir.",
+    "location_required_for_prayer_times": "Doğru namaz vakitlerini, cami bilgilerini ve hava durumu güncellemelerini almak için konum gereklidir.",
+    "manage_mosque": "Camiyi yönet"
 }
