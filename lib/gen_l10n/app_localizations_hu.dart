@@ -3126,7 +3126,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'Csak MAWAQIT mecseti adminisztrátoroknak';
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'Csak adminok';
@@ -3150,5 +3150,5 @@ class AppLocalizationsHu extends AppLocalizations {
       'A pontos imaidők, a mecsetekkel kapcsolatos információk és az időjárási frissítések megtekintéséhez helymeghatározás szükséges.';
 
   @override
-  String get manage_mosque => 'Manage Mosque';
+  String get manage_mosque => 'Mecset kezelése';
 }

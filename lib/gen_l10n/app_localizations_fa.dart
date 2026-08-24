@@ -3097,7 +3097,8 @@ class AppLocalizationsFa extends AppLocalizations {
   String get beta => 'بتا';
 
   @override
-  String get for_mosque_administrators_only => 'فقط برای مدیران مساجد مواقيت';
+  String get for_mosque_administrators_only =>
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'فقط مدیران';
@@ -3121,7 +3122,7 @@ class AppLocalizationsFa extends AppLocalizations {
       'برای دریافت اوقات دقیق نماز، اطلاعات مساجد و به‌روزرسانی‌های آب‌وهوا، موقعیت مکانی لازم است.';
 
   @override
-  String get manage_mosque => 'Manage Mosque';
+  String get manage_mosque => 'مدیریت مسجد';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6224,7 +6225,8 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   String get beta => 'Beta';
 
   @override
-  String get for_mosque_administrators_only => 'For mosque administrators only';
+  String get for_mosque_administrators_only =>
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'Admins only';

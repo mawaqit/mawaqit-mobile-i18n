@@ -3137,7 +3137,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'Solo per gli amministratori delle moschee MAWAQIT';
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'Solo admin';
@@ -3161,5 +3161,5 @@ class AppLocalizationsIt extends AppLocalizations {
       'La posizione è necessaria per ottenere orari di preghiera accurati, informazioni sulle moschee e aggiornamenti meteo.';
 
   @override
-  String get manage_mosque => 'Manage Mosque';
+  String get manage_mosque => 'Gestisci la moschea';
 }

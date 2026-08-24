@@ -3093,7 +3093,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'Yalnızca MAWAQIT cami yöneticileri için';
+      'For MAWAQIT mosque administrators only';
 
   @override
   String get admins_only => 'Sadece yöneticiler';
@@ -3116,5 +3116,5 @@ class AppLocalizationsTr extends AppLocalizations {
       'Doğru namaz vakitlerini, cami bilgilerini ve hava durumu güncellemelerini almak için konum gereklidir.';
 
   @override
-  String get manage_mosque => 'Manage Mosque';
+  String get manage_mosque => 'Camiyi yönet';
 }
