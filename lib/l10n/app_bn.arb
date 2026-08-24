@@ -1836,12 +1836,12 @@
         }
     },
     "beta": "বিটা",
-    "for_mosque_administrators_only": "শুধুমাত্র মসজিদের প্রশাসকদের জন্য",
+    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
     "admins_only": "শুধু অ্যাডমিন",
     "notification_permission_required": "বিজ্ঞপ্তির অনুমতি প্রয়োজন",
     "enable_location": "Enable Location",
     "enable_notifications": "বিজ্ঞপ্তি চালু করুন",
     "notifications_required_for_adhan": "يجب تفعيل الإشعارات ليتمكن تطبيق مواقيت من تشغيل الأذان وإرسال إشعارات الصلاة.",
     "location_required_for_prayer_times": "সঠিক নামাজের সময়, মসজিদের তথ্য এবং আবহাওয়ার আপডেট পেতে অবস্থান প্রয়োজন।.",
-    "manage_mosque": "Manage Mosque"
+    "manage_mosque": "মসজিদ পরিচালনা"
 }
