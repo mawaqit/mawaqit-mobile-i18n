@@ -3099,4 +3099,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get beta => 'بیٹا';
+
+  @override
+  String get for_mosque_administrators_only => 'صرف مسجد کے منتظمین کے لیے';
 }

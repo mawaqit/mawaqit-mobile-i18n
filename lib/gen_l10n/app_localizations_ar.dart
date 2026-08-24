@@ -3069,4 +3069,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get beta => 'تجريبي';
+
+  @override
+  String get for_mosque_administrators_only => 'متاح لمسؤولي المساجد فقط';
 }

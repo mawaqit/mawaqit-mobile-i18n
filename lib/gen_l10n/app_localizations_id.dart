@@ -3110,4 +3110,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get beta => 'Beta';
+
+  @override
+  String get for_mosque_administrators_only => 'Hanya untuk pengelola masjid';
 }

@@ -1835,5 +1835,6 @@
             }
         }
     },
-    "beta": "Beta"
+    "beta": "Beta",
+    "for_mosque_administrators_only": "Endast för moskéadministratörer"
 }

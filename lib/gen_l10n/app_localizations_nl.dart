@@ -3121,4 +3121,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get beta => 'Bèta';
+
+  @override
+  String get for_mosque_administrators_only => 'Alleen voor moskee-beheerders';
 }

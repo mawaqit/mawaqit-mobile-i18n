@@ -3112,4 +3112,8 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get beta => 'Бета';
+
+  @override
+  String get for_mosque_administrators_only =>
+      'Только для администраторов мечетей';
 }
