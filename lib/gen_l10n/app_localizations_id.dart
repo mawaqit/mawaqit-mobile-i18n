@@ -3112,7 +3112,8 @@ class AppLocalizationsId extends AppLocalizations {
   String get beta => 'Beta';
 
   @override
-  String get for_mosque_administrators_only => 'Hanya untuk pengelola masjid';
+  String get for_mosque_administrators_only =>
+      'Hanya untuk pengelola masjid MAWAQIT';
 
   @override
   String get admins_only => 'Khusus admin';
@@ -3135,5 +3136,5 @@ class AppLocalizationsId extends AppLocalizations {
       'Lokasi diperlukan untuk mendapatkan waktu salat yang akurat, informasi masjid, dan pembaruan cuaca.';
 
   @override
-  String get manage_mosque => 'Kelola Masjid';
+  String get manage_mosque => 'Manage Mosque';
 }

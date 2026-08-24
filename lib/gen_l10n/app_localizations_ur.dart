@@ -3101,7 +3101,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String get beta => 'بیٹا';
 
   @override
-  String get for_mosque_administrators_only => 'صرف مسجد کے منتظمین کے لیے';
+  String get for_mosque_administrators_only =>
+      'صرف مواقيت مساجد کے منتظمین کے لیے';
 
   @override
   String get admins_only => 'صرف ایڈمنز';
@@ -3124,5 +3125,5 @@ class AppLocalizationsUr extends AppLocalizations {
       'درست نماز کے اوقات، مساجد کی معلومات اور موسم کی تازہ ترین صورتحال حاصل کرنے کے لیے مقام درکار ہے.';
 
   @override
-  String get manage_mosque => 'مسجد کا انتظام';
+  String get manage_mosque => 'Manage Mosque';
 }
