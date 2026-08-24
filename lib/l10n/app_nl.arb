@@ -1836,5 +1836,6 @@
         }
     },
     "beta": "Bèta",
-    "for_mosque_administrators_only": "Alleen voor moskee-beheerders"
+    "for_mosque_administrators_only": "Alleen voor moskee-beheerders",
+    "admins_only": "Alleen admins"
 }
