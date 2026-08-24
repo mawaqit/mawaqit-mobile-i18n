@@ -1837,5 +1837,6 @@
     },
     "beta": "Beta",
     "for_mosque_administrators_only": "Vetëm për administratorët e xhamive",
-    "admins_only": "Vetëm adminët"
+    "admins_only": "Vetëm adminët",
+    "notification_permission_required": "Kërkohet leja për njoftimet"
 }
