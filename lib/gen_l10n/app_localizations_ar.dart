@@ -3071,8 +3071,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get beta => 'تجريبي';
 
   @override
-  String get for_mosque_administrators_only =>
-      'For MAWAQIT mosque administrators only';
+  String get for_mosque_administrators_only => 'متاح لمسؤولي مساجد مواقيت فقط';
 
   @override
   String get admins_only => 'للمسؤولين فقط';

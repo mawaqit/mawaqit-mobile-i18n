@@ -1836,7 +1836,7 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
+    "for_mosque_administrators_only": "Vetëm për administratorët e xhamive MAWAQIT",
     "admins_only": "Vetëm adminët",
     "notification_permission_required": "Kërkohet leja për njoftimet",
     "enable_location": "Enable Location",

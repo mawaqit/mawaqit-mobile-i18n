@@ -1836,7 +1836,7 @@
         }
     },
     "beta": "تجريبي",
-    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
+    "for_mosque_administrators_only": "متاح لمسؤولي مساجد مواقيت فقط",
     "admins_only": "للمسؤولين فقط",
     "notification_permission_required": "إذن الإشعارات مطلوب",
     "enable_location": "Enable Location",

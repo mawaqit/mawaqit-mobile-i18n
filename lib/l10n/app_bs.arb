@@ -1836,7 +1836,7 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
+    "for_mosque_administrators_only": "Samo za administratore MAWAQIT džamija",
     "admins_only": "Samo administratori",
     "notification_permission_required": "Dozvola za obavještenja je potrebna",
     "enable_location": "Enable Location",

@@ -3109,7 +3109,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'For MAWAQIT mosque administrators only';
+      'پەقەت مواقيت مەسچىت باشقۇرغۇچىلىرى ئۈچۈن';
 
   @override
   String get admins_only => 'پەقەت باشقۇرغۇچىلار';

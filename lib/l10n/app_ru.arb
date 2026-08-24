@@ -1836,7 +1836,7 @@
         }
     },
     "beta": "Бета",
-    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
+    "for_mosque_administrators_only": "Только для администраторов мечетей MAWAQIT'",
     "admins_only": "Только админы",
     "notification_permission_required": "Требуется разрешение на уведомления",
     "enable_location": "Enable Location",

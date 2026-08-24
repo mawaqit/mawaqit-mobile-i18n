@@ -3151,7 +3151,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'For MAWAQIT mosque administrators only';
+      'Réservé aux administrateurs des mosquées MAWAQIT';
 
   @override
   String get admins_only => 'Admins uniquement';
