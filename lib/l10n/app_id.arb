@@ -1838,5 +1838,10 @@
     "beta": "Beta",
     "for_mosque_administrators_only": "Hanya untuk pengelola masjid",
     "admins_only": "Khusus admin",
-    "notification_permission_required": "Izin notifikasi diperlukan"
+    "notification_permission_required": "Izin notifikasi diperlukan",
+    "enable_location": "Enable Location",
+    "enable_notifications": "Aktifkan notifikasi",
+    "notifications_required_for_adhan": "Notifikasi harus diaktifkan agar MAWAQIT dapat memutar Adzan dan mengirimkan notifikasi waktu salat.",
+    "location_required_for_prayer_times": "Lokasi diperlukan untuk mendapatkan waktu salat yang akurat, informasi masjid, dan pembaruan cuaca.",
+    "manage_mosque": "Kelola Masjid"
 }
