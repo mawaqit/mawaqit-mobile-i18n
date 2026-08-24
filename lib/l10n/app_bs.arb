@@ -1836,12 +1836,12 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "Samo za administratore MAWAQIT džamija",
+    "for_mosque_administrators_only": "For MAWAQIT mosque administrators only",
     "admins_only": "Samo administratori",
     "notification_permission_required": "Dozvola za obavještenja je potrebna",
     "enable_location": "Enable Location",
     "enable_notifications": "Omogući obavijesti",
     "notifications_required_for_adhan": "Obavijesti moraju biti omogućene kako bi MAWAQIT mogao reproducirati ezan i slati obavijesti o namazu.",
     "location_required_for_prayer_times": "Lokacija je potrebna za dobijanje tačnih vremena namaza, informacija o džamijama i vremenskih ažuriranja.",
-    "manage_mosque": "Manage Mosque"
+    "manage_mosque": "Upravljaj džamijom"
 }
