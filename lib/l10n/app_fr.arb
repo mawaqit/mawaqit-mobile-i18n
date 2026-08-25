@@ -1843,5 +1843,11 @@
     "enable_notifications": "Activer les notifications",
     "notifications_required_for_adhan": "Les notifications doivent être activées pour que MAWAQIT puisse diffuser l’Adhan et envoyer des notifications de prière.",
     "location_required_for_prayer_times": "La localisation est nécessaire pour obtenir des horaires de prière précis, des informations sur les mosquées et les mises à jour météo.",
-    "manage_mosque": "Gérer la mosquée"
+    "manage_mosque": "Gérer la mosquée",
+    "how_managing_your_mosque": "Comment se passe la gestion de votre mosquée ?",
+    "rating_helps_improve_admin": "Votre évaluation nous aide à améliorer l’espace d’administration.",
+    "tell_us_more": "Dites-nous-en plus (facultatif)",
+    "what_worked_well": "Qu’est-ce qui a bien fonctionné et qu’est-ce qui n’a pas fonctionné ?",
+    "thank_you_for_your_feedback": "Merci pour vos commentaires.",
+    "could_not_send_your_feedback": "Impossible d’envoyer vos commentaires. Veuillez réessayer."
 }
