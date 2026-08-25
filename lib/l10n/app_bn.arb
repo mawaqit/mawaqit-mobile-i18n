@@ -1843,5 +1843,11 @@
     "enable_notifications": "বিজ্ঞপ্তি চালু করুন",
     "notifications_required_for_adhan": "يجب تفعيل الإشعارات ليتمكن تطبيق مواقيت من تشغيل الأذان وإرسال إشعارات الصلاة.",
     "location_required_for_prayer_times": "সঠিক নামাজের সময়, মসজিদের তথ্য এবং আবহাওয়ার আপডেট পেতে অবস্থান প্রয়োজন।.",
-    "manage_mosque": "মসজিদ পরিচালনা"
+    "manage_mosque": "মসজিদ পরিচালনা",
+    "how_managing_your_mosque": "How is managing your mosque going?",
+    "rating_helps_improve_admin": "Your rating helps us improve the admin area.",
+    "tell_us_more": "Tell us more (optional)",
+    "what_worked_well": "What worked well, what did not?",
+    "thank_you_for_your_feedback": "Thank you for your feedback.",
+    "could_not_send_your_feedback": "Could not send your feedback. Please try again."
 }
