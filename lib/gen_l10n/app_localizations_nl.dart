@@ -3149,4 +3149,24 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get manage_mosque => 'Moskee beheren';
+
+  @override
+  String get how_managing_your_mosque => 'Hoe gaat het beheren van je moskee?';
+
+  @override
+  String get rating_helps_improve_admin =>
+      'Je beoordeling helpt ons het beheergedeelte te verbeteren.';
+
+  @override
+  String get tell_us_more => 'Vertel ons meer (optioneel)';
+
+  @override
+  String get what_worked_well => 'Wat werkte goed en wat niet?';
+
+  @override
+  String get thank_you_for_your_feedback => 'Bedankt voor je feedback.';
+
+  @override
+  String get could_not_send_your_feedback =>
+      'Je feedback kon niet worden verzonden. Probeer het opnieuw.';
 }

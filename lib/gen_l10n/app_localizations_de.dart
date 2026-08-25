@@ -3165,4 +3165,25 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get manage_mosque => 'Moschee verwalten';
+
+  @override
+  String get how_managing_your_mosque =>
+      'Wie läuft die Verwaltung Ihrer Moschee?';
+
+  @override
+  String get rating_helps_improve_admin =>
+      'Ihre Bewertung hilft uns, den Admin-Bereich zu verbessern.';
+
+  @override
+  String get tell_us_more => 'Erzählen Sie uns mehr (optional)';
+
+  @override
+  String get what_worked_well => 'Was hat gut funktioniert und was nicht?';
+
+  @override
+  String get thank_you_for_your_feedback => 'Vielen Dank für Ihr Feedback.';
+
+  @override
+  String get could_not_send_your_feedback =>
+      'Ihr Feedback konnte nicht gesendet werden. Bitte versuchen Sie es erneut.';
 }
