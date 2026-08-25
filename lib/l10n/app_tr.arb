@@ -1843,5 +1843,11 @@
     "enable_notifications": "Bildirimleri etkinleştir",
     "notifications_required_for_adhan": "MAWAQIT'in Ezan'ı çalabilmesi ve namaz bildirimleri gönderebilmesi için bildirimlerin etkinleştirilmesi gerekir.",
     "location_required_for_prayer_times": "Doğru namaz vakitlerini, cami bilgilerini ve hava durumu güncellemelerini almak için konum gereklidir.",
-    "manage_mosque": "Camiyi yönet"
+    "manage_mosque": "Camiyi yönet",
+    "how_managing_your_mosque": "Caminizi yönetmek nasıl gidiyor?",
+    "rating_helps_improve_admin": "Puanınız yönetici alanını geliştirmemize yardımcı olur.",
+    "tell_us_more": "Bize daha fazla bilgi verin (isteğe bağlı)",
+    "what_worked_well": "Ne iyi çalıştı, ne çalışmadı?",
+    "thank_you_for_your_feedback": "Geri bildiriminiz için teşekkür ederiz.",
+    "could_not_send_your_feedback": "Geri bildiriminiz gönderilemedi. Lütfen tekrar deneyin."
 }
