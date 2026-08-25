@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1843,5 +1843,11 @@
     "enable_notifications": "Activar notificaciones",
     "notifications_required_for_adhan": "Las notificaciones deben estar activadas para que MAWAQIT reproduzca el Adhan y envíe notificaciones de oración.",
     "location_required_for_prayer_times": "Se necesita la ubicación para obtener horarios de oración precisos, información sobre mezquitas y actualizaciones meteorológicas.",
-    "manage_mosque": "Gestionar mezquita"
+    "manage_mosque": "Gestionar mezquita",
+    "how_managing_your_mosque": "How is managing your mosque going?",
+    "rating_helps_improve_admin": "Your rating helps us improve the admin area.",
+    "tell_us_more": "Tell us more (optional)",
+    "what_worked_well": "What worked well, what did not?",
+    "thank_you_for_your_feedback": "Thank you for your feedback.",
+    "could_not_send_your_feedback": "Could not send your feedback. Please try again."
 }
