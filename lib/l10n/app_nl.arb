@@ -1843,5 +1843,11 @@
     "enable_notifications": "Meldingen inschakelen",
     "notifications_required_for_adhan": "Meldingen moeten zijn ingeschakeld zodat MAWAQIT de Adhan kan afspelen en gebedsmeldingen kan versturen.",
     "location_required_for_prayer_times": "Locatie is nodig om nauwkeurige gebedstijden, moskee-informatie en weerupdates te ontvangen.",
-    "manage_mosque": "Moskee beheren"
+    "manage_mosque": "Moskee beheren",
+    "how_managing_your_mosque": "Hoe gaat het beheren van je moskee?",
+    "rating_helps_improve_admin": "Je beoordeling helpt ons het beheergedeelte te verbeteren.",
+    "tell_us_more": "Vertel ons meer (optioneel)",
+    "what_worked_well": "Wat werkte goed en wat niet?",
+    "thank_you_for_your_feedback": "Bedankt voor je feedback.",
+    "could_not_send_your_feedback": "Je feedback kon niet worden verzonden. Probeer het opnieuw."
 }
