@@ -6029,6 +6029,42 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Manage Mosque'**
   String get manage_mosque;
+
+  /// No description provided for @how_managing_your_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'How is managing your mosque going?'**
+  String get how_managing_your_mosque;
+
+  /// No description provided for @rating_helps_improve_admin.
+  ///
+  /// In en, this message translates to:
+  /// **'Your rating helps us improve the admin area.'**
+  String get rating_helps_improve_admin;
+
+  /// No description provided for @tell_us_more.
+  ///
+  /// In en, this message translates to:
+  /// **'Tell us more (optional)'**
+  String get tell_us_more;
+
+  /// No description provided for @what_worked_well.
+  ///
+  /// In en, this message translates to:
+  /// **'What worked well, what did not?'**
+  String get what_worked_well;
+
+  /// No description provided for @thank_you_for_your_feedback.
+  ///
+  /// In en, this message translates to:
+  /// **'Thank you for your feedback.'**
+  String get thank_you_for_your_feedback;
+
+  /// No description provided for @could_not_send_your_feedback.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not send your feedback. Please try again.'**
+  String get could_not_send_your_feedback;
 }
 
 class _AppLocalizationsDelegate

@@ -1843,5 +1843,11 @@
     "enable_notifications": "Включить уведомления",
     "notifications_required_for_adhan": "Необходимо включить уведомления, чтобы MAWAQIT мог воспроизводить азан и отправлять уведомления о времени молитв.",
     "location_required_for_prayer_times": "Местоположение необходимо для получения точного времени молитв, информации о мечетях и обновлений погоды.",
-    "manage_mosque": "Управление мечетью"
+    "manage_mosque": "Управление мечетью",
+    "how_managing_your_mosque": "How is managing your mosque going?",
+    "rating_helps_improve_admin": "Your rating helps us improve the admin area.",
+    "tell_us_more": "Tell us more (optional)",
+    "what_worked_well": "What worked well, what did not?",
+    "thank_you_for_your_feedback": "Thank you for your feedback.",
+    "could_not_send_your_feedback": "Could not send your feedback. Please try again."
 }

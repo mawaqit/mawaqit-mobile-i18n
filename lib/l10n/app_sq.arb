@@ -1843,5 +1843,11 @@
     "enable_notifications": "Aktivizo njoftimet",
     "notifications_required_for_adhan": "Njoftimet duhet të aktivizohen që MAWAQIT të mund të luajë Ezanin dhe të dërgojë njoftime për namazin.",
     "location_required_for_prayer_times": "Vendndodhja nevojitet për të marrë oraret e sakta të namazit, informacionet për xhamitë dhe përditësimet e motit.",
-    "manage_mosque": "Menaxho xhaminë"
+    "manage_mosque": "Menaxho xhaminë",
+    "how_managing_your_mosque": "How is managing your mosque going?",
+    "rating_helps_improve_admin": "Your rating helps us improve the admin area.",
+    "tell_us_more": "Tell us more (optional)",
+    "what_worked_well": "What worked well, what did not?",
+    "thank_you_for_your_feedback": "Thank you for your feedback.",
+    "could_not_send_your_feedback": "Could not send your feedback. Please try again."
 }

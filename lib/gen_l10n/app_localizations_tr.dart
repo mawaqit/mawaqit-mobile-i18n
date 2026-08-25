@@ -3117,4 +3117,25 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get manage_mosque => 'Camiyi yönet';
+
+  @override
+  String get how_managing_your_mosque => 'Caminizi yönetmek nasıl gidiyor?';
+
+  @override
+  String get rating_helps_improve_admin =>
+      'Puanınız yönetici alanını geliştirmemize yardımcı olur.';
+
+  @override
+  String get tell_us_more => 'Bize daha fazla bilgi verin (isteğe bağlı)';
+
+  @override
+  String get what_worked_well => 'Ne iyi çalıştı, ne çalışmadı?';
+
+  @override
+  String get thank_you_for_your_feedback =>
+      'Geri bildiriminiz için teşekkür ederiz.';
+
+  @override
+  String get could_not_send_your_feedback =>
+      'Geri bildiriminiz gönderilemedi. Lütfen tekrar deneyin.';
 }

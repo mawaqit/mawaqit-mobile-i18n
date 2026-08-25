@@ -3122,6 +3122,26 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get manage_mosque => 'مدیریت مسجد';
+
+  @override
+  String get how_managing_your_mosque => 'How is managing your mosque going?';
+
+  @override
+  String get rating_helps_improve_admin =>
+      'Your rating helps us improve the admin area.';
+
+  @override
+  String get tell_us_more => 'Tell us more (optional)';
+
+  @override
+  String get what_worked_well => 'What worked well, what did not?';
+
+  @override
+  String get thank_you_for_your_feedback => 'Thank you for your feedback.';
+
+  @override
+  String get could_not_send_your_feedback =>
+      'Could not send your feedback. Please try again.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6250,4 +6270,24 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get manage_mosque => 'Manage Mosque';
+
+  @override
+  String get how_managing_your_mosque => 'How is managing your mosque going?';
+
+  @override
+  String get rating_helps_improve_admin =>
+      'Your rating helps us improve the admin area.';
+
+  @override
+  String get tell_us_more => 'Tell us more (optional)';
+
+  @override
+  String get what_worked_well => 'What worked well, what did not?';
+
+  @override
+  String get thank_you_for_your_feedback => 'Thank you for your feedback.';
+
+  @override
+  String get could_not_send_your_feedback =>
+      'Could not send your feedback. Please try again.';
 }

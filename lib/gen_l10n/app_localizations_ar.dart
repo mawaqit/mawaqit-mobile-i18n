@@ -3095,4 +3095,24 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get manage_mosque => 'إدارة المسجد';
+
+  @override
+  String get how_managing_your_mosque => 'كيف تسير إدارة مسجدك؟';
+
+  @override
+  String get rating_helps_improve_admin =>
+      'تقييمك يساعدنا على تحسين قسم الإدارة.';
+
+  @override
+  String get tell_us_more => 'أخبرنا المزيد (اختياري)';
+
+  @override
+  String get what_worked_well => 'ما الذي سار بشكل جيد، وما الذي لم يسر؟';
+
+  @override
+  String get thank_you_for_your_feedback => 'شكرًا على ملاحظاتك.';
+
+  @override
+  String get could_not_send_your_feedback =>
+      'تعذّر إرسال ملاحظاتك. يُرجى المحاولة مرة أخرى.';
 }
