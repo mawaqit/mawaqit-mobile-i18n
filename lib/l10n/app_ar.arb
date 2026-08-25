@@ -1843,5 +1843,11 @@
     "enable_notifications": "تفعيل الإشعارات",
     "notifications_required_for_adhan": "يجب تفعيل الإشعارات ليتمكن تطبيق مواقيت من تشغيل الأذان وإرسال إشعارات الصلاة.",
     "location_required_for_prayer_times": "الموقع مطلوب للحصول على أوقات الصلاة الدقيقة ومعلومات المساجد وتحديثات الطقس.",
-    "manage_mosque": "إدارة المسجد"
+    "manage_mosque": "إدارة المسجد",
+    "how_managing_your_mosque": "كيف تسير إدارة مسجدك؟",
+    "rating_helps_improve_admin": "تقييمك يساعدنا على تحسين قسم الإدارة.",
+    "tell_us_more": "أخبرنا المزيد (اختياري)",
+    "what_worked_well": "ما الذي سار بشكل جيد، وما الذي لم يسر؟",
+    "thank_you_for_your_feedback": "شكرًا على ملاحظاتك.",
+    "could_not_send_your_feedback": "تعذّر إرسال ملاحظاتك. يُرجى المحاولة مرة أخرى."
 }
