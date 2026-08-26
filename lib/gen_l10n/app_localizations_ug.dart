@@ -3119,7 +3119,7 @@ class AppLocalizationsUg extends AppLocalizations {
       'ئۇقتۇرۇشقا رۇخسەت بېرىش تەلەپ قىلىنىدۇ';
 
   @override
-  String get enable_location => 'Enable Location';
+  String get enable_location => 'ئورۇننى قوزغات';
 
   @override
   String get enable_notifications => 'ئۇقتۇرۇشلارنى قوزغىتىش';
@@ -3136,22 +3136,24 @@ class AppLocalizationsUg extends AppLocalizations {
   String get manage_mosque => 'مەسچىتنى باشقۇرۇش';
 
   @override
-  String get how_managing_your_mosque => 'How is managing your mosque going?';
+  String get how_managing_your_mosque =>
+      'مەسچىتىڭىزنى باشقۇرۇش قانداق كېتىۋاتىدۇ؟';
 
   @override
   String get rating_helps_improve_admin =>
-      'Your rating helps us improve the admin area.';
+      'باھالىشىڭىز باشقۇرۇش رايونىنى ياخشىلىشىمىزغا ياردەم بېرىدۇ.';
 
   @override
-  String get tell_us_more => 'Tell us more (optional)';
+  String get tell_us_more => 'تەپسىلاتىنى ئېيتىپ بېرىڭ (ئىختىيارىي)';
 
   @override
-  String get what_worked_well => 'What worked well, what did not?';
+  String get what_worked_well =>
+      'قايسى ياخشى ئىشلەۋاتىدۇ، قايسى ئىشلىمەيۋاتىدۇ؟';
 
   @override
-  String get thank_you_for_your_feedback => 'Thank you for your feedback.';
+  String get thank_you_for_your_feedback => 'قايتۇرغان ئىنكاسىڭىزغا رەھمەت.';
 
   @override
   String get could_not_send_your_feedback =>
-      'Could not send your feedback. Please try again.';
+      'قايتۇرغان ئىنكاسىڭىزنى يوللىيالمىدى. قايتا سىناڭ.';
 }
