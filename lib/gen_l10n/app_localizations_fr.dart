@@ -3198,4 +3198,7 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get could_not_send_your_feedback =>
       'Impossible d’envoyer vos commentaires. Veuillez réessayer.';
+
+  @override
+  String get analog_clock => 'Horloge analogique';
 }

@@ -1849,5 +1849,6 @@
     "tell_us_more": "Erzählen Sie uns mehr (optional)",
     "what_worked_well": "Was hat gut funktioniert und was nicht?",
     "thank_you_for_your_feedback": "Vielen Dank für Ihr Feedback.",
-    "could_not_send_your_feedback": "Ihr Feedback konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    "could_not_send_your_feedback": "Ihr Feedback konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
+    "analog_clock": "Analoge Uhr"
 }

@@ -3115,4 +3115,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get could_not_send_your_feedback =>
       'تعذّر إرسال ملاحظاتك. يُرجى المحاولة مرة أخرى.';
+
+  @override
+  String get analog_clock => 'الساعة التناظرية';
 }

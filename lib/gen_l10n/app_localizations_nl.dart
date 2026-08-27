@@ -3169,4 +3169,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get could_not_send_your_feedback =>
       'Je feedback kon niet worden verzonden. Probeer het opnieuw.';
+
+  @override
+  String get analog_clock => 'Analoge klok';
 }

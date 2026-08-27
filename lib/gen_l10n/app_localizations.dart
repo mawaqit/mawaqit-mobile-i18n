@@ -6065,6 +6065,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Could not send your feedback. Please try again.'**
   String get could_not_send_your_feedback;
+
+  /// No description provided for @analog_clock.
+  ///
+  /// In en, this message translates to:
+  /// **'Analog Clock'**
+  String get analog_clock;
 }
 
 class _AppLocalizationsDelegate
