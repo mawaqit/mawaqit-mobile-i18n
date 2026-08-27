@@ -1849,5 +1849,6 @@
     "tell_us_more": "Vertel ons meer (optioneel)",
     "what_worked_well": "Wat werkte goed en wat niet?",
     "thank_you_for_your_feedback": "Bedankt voor je feedback.",
-    "could_not_send_your_feedback": "Je feedback kon niet worden verzonden. Probeer het opnieuw."
+    "could_not_send_your_feedback": "Je feedback kon niet worden verzonden. Probeer het opnieuw.",
+    "analog_clock": "Analoge klok"
 }
