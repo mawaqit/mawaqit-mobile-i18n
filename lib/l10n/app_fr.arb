@@ -1849,5 +1849,6 @@
     "tell_us_more": "Dites-nous-en plus (facultatif)",
     "what_worked_well": "Qu’est-ce qui a bien fonctionné et qu’est-ce qui n’a pas fonctionné ?",
     "thank_you_for_your_feedback": "Merci pour vos commentaires.",
-    "could_not_send_your_feedback": "Impossible d’envoyer vos commentaires. Veuillez réessayer."
+    "could_not_send_your_feedback": "Impossible d’envoyer vos commentaires. Veuillez réessayer.",
+    "analog_clock": "Horloge analogique"
 }
