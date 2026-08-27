@@ -3156,4 +3156,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get could_not_send_your_feedback =>
       'قايتۇرغان ئىنكاسىڭىزنى يوللىيالمىدى. قايتا سىناڭ.';
+
+  @override
+  String get analog_clock => 'ئانالوگ سائەت';
 }

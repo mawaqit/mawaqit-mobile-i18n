@@ -3138,4 +3138,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get could_not_send_your_feedback =>
       'Geri bildiriminiz gönderilemedi. Lütfen tekrar deneyin.';
+
+  @override
+  String get analog_clock => 'Analog saat';
 }
