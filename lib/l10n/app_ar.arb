@@ -1849,5 +1849,6 @@
     "tell_us_more": "أخبرنا المزيد (اختياري)",
     "what_worked_well": "ما الذي سار بشكل جيد، وما الذي لم يسر؟",
     "thank_you_for_your_feedback": "شكرًا على ملاحظاتك.",
-    "could_not_send_your_feedback": "تعذّر إرسال ملاحظاتك. يُرجى المحاولة مرة أخرى."
+    "could_not_send_your_feedback": "تعذّر إرسال ملاحظاتك. يُرجى المحاولة مرة أخرى.",
+    "analog_clock": "الساعة التناظرية"
 }
