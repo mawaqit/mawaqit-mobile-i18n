@@ -1956,7 +1956,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get last_third => 'الثلث الأخير';
 
   @override
-  String get midnight => 'منتصف الليل';
+  String get midnight => 'نصف الليل';
 
   @override
   String get failed_to_update => 'فشل في التحديث.';
