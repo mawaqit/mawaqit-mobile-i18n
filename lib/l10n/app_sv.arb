@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1586,11 +1586,11 @@
     "play_in_silent_mode": "Spela upp i tyst läge",
     "notifications_not_arriving": "Kommer inte aviseringarna fram?",
     "android_phones_aggressively": "Vissa Android-telefoner stänger appar i bakgrunden väldigt aggressivt.",
-    "elmir_kuliev": "Elmir Kuliev",
+    "elmir_kuliev": "Elmir kuliev",
     "@elmir_kuliev": {
         "description": "-> Elmir Kuliev"
     },
-    "besim_korkut": "Besim Korkut",
+    "besim_korkut": "Besim korkut",
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
@@ -1601,13 +1601,13 @@
     "prayer_location": "Bön och Plats",
     "privacy": "Sekretess",
     "play_full_adhan": "Spela upp hela adhan",
-    "full_adhan_will_keep_repeating": "Hela adhan kommer att fortsätta upprepas tills du stänger den.",
-    "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
+    "full_adhan_will_keep_repeating": "Hela adhan upprepas tills du stänger av den ",
+    "hussein_taji_kal_dari": "Hussein Taji kal dari",
     "settings_language_fa": "Persiska",
     "mawaqit_non_profit": "MAWAQIT ideell organisation · gratis för alla",
     "garmin_watch_detected": "Garmin-klocka upptäckt",
     "garmin_support_detected": "Garmin-stöd har upptäckts på din enhet. Vill du synkronisera bönetiderna med din Garmin-klocka?",
-    "never_remind_me": "Påminn mig aldrig igen",
+    "never_remind_me": "Påminn mig aldrig ",
     "remind_me_later": "Påminn mig senare",
     "you_can_enable_garmin_sync": "Du kan aktivera Garmin-synkronisering när som helst via Inställningar → Väntande åtgärder.",
     "pending_actions": "Väntande åtgärder",
@@ -1633,7 +1633,7 @@
     "admin_logOut": "Logga ut",
     "admin_noMosques": "Inga moskéer hittades.",
     "admin_archivedNotConfigurable": "Den här moskén är arkiverad — går inte att konfigurera.",
-    "admin_mosqueId": "ID {id}",
+    "admin_mosqueId": "ID",
     "@admin_mosqueId": {
         "placeholders": {
             "id": {
@@ -1649,9 +1649,9 @@
     "admin_configurationSaved": "Konfigurationen sparad",
     "admin_oneUnsavedChange": "1 osparad ändring",
     "admin_sectionRegional": "Regionala inställningar",
-    "admin_sectionAdhan": "Al-Athan",
+    "admin_sectionAdhan": "Al Adhan",
     "admin_sectionIqama": "Iqama",
-    "admin_sectionJumua": "Jumua",
+    "admin_sectionJumua": "Fredagsbön ",
     "admin_sectionPrayerDuration": "Bönens längd",
     "admin_sectionDuas": "Böner och hadither",
     "admin_sectionEid": "Eid och ramadan",
@@ -1666,7 +1666,7 @@
     "admin_iqamaAlwaysHhMm": "Visa alltid iqama-tider som hh:mm",
     "admin_iqamaCalendarNote": "Iqama-tider som satts via kalendern förblir oförändrade — ändra dem på webbplatsen.",
     "admin_eidPrayerTimes": "TIDER FÖR EID-BÖNEN",
-    "admin_ramadanImsak": "RAMADAN",
+    "admin_ramadanImsak": "Ramadan ",
     "admin_eidPrayerHelp": "Visas på moskéskärmen veckan före Eid. Lämna en bön utan tid om den inte hålls.",
     "admin_imsakBeforeFajr": "Visa imsak före fajr",
     "admin_imsakHelp": "Hur tidigt imsak visas. Med fajr 04:00 och 30 minuter här visar skärmen 03:30.",
@@ -1704,7 +1704,7 @@
     "admin_summaryHadiths": "Hadither",
     "admin_regionalHijri": "HIJRI-DATUM",
     "admin_regionalMosqueScreen": "MOSKÉSKÄRM",
-    "admin_regionalRegion": "REGION",
+    "admin_regionalRegion": "Region ",
     "admin_timezoneLabel": "Tidszon (ställs in på webbplatsen)",
     "admin_timezoneUnknown": "Okänd",
     "admin_dstLabel": "Sommartid",
@@ -1802,7 +1802,7 @@
     "admin_prayerSlot1": "Första bönen",
     "admin_prayerSlot2": "Andra bönen",
     "admin_prayerSlot3": "Tredje bönen",
-    "admin_minutes": "{count} min",
+    "admin_minutes": "Min",
     "@admin_minutes": {
         "placeholders": {
             "count": {
@@ -1839,7 +1839,7 @@
     "for_mosque_administrators_only": "Endast för administratörer av MAWAQIT-moskéer",
     "admins_only": "Endast admins",
     "notification_permission_required": "Aviseringsbehörighet krävs",
-    "enable_location": "Enable Location",
+    "enable_location": "Aktivera platstjänster ",
     "enable_notifications": "Aktivera aviseringar",
     "notifications_required_for_adhan": "Aviseringar måste vara aktiverade för att MAWAQIT ska kunna spela upp Adhan och skicka böneaviseringar.",
     "location_required_for_prayer_times": "Plats behövs för att få korrekta bönetider, information om moskéer och väderuppdateringar.",
