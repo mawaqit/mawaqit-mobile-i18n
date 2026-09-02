@@ -2526,10 +2526,10 @@ class AppLocalizationsSv extends AppLocalizations {
       'Vissa Android-telefoner stänger appar i bakgrunden väldigt aggressivt.';
 
   @override
-  String get elmir_kuliev => 'Elmir Kuliev';
+  String get elmir_kuliev => 'Elmir kuliev';
 
   @override
-  String get besim_korkut => 'Besim Korkut';
+  String get besim_korkut => 'Besim korkut';
 
   @override
   String get settings_language_bs => 'Bosniska';
@@ -2555,10 +2555,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Hela adhan kommer att fortsätta upprepas tills du stänger den.';
+      'Hela adhan upprepas tills du stänger av den ';
 
   @override
-  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+  String get hussein_taji_kal_dari => 'Hussein Taji kal dari';
 
   @override
   String get settings_language_fa => 'Persiska';
@@ -2575,7 +2575,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Garmin-stöd har upptäckts på din enhet. Vill du synkronisera bönetiderna med din Garmin-klocka?';
 
   @override
-  String get never_remind_me => 'Påminn mig aldrig igen';
+  String get never_remind_me => 'Påminn mig aldrig ';
 
   @override
   String get remind_me_later => 'Påminn mig senare';
@@ -2663,7 +2663,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String admin_mosqueId(String id) {
-    return 'ID $id';
+    return 'ID';
   }
 
   @override
@@ -2688,13 +2688,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_sectionRegional => 'Regionala inställningar';
 
   @override
-  String get admin_sectionAdhan => 'Al-Athan';
+  String get admin_sectionAdhan => 'Al Adhan';
 
   @override
   String get admin_sectionIqama => 'Iqama';
 
   @override
-  String get admin_sectionJumua => 'Jumua';
+  String get admin_sectionJumua => 'Fredagsbön ';
 
   @override
   String get admin_sectionPrayerDuration => 'Bönens längd';
@@ -2741,7 +2741,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_eidPrayerTimes => 'TIDER FÖR EID-BÖNEN';
 
   @override
-  String get admin_ramadanImsak => 'RAMADAN';
+  String get admin_ramadanImsak => 'Ramadan ';
 
   @override
   String get admin_eidPrayerHelp =>
@@ -2839,7 +2839,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_regionalMosqueScreen => 'MOSKÉSKÄRM';
 
   @override
-  String get admin_regionalRegion => 'REGION';
+  String get admin_regionalRegion => 'Region ';
 
   @override
   String get admin_timezoneLabel => 'Tidszon (ställs in på webbplatsen)';
@@ -3077,7 +3077,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String admin_minutes(int count) {
-    return '$count min';
+    return 'Min';
   }
 
   @override
@@ -3109,7 +3109,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get notification_permission_required => 'Aviseringsbehörighet krävs';
 
   @override
-  String get enable_location => 'Enable Location';
+  String get enable_location => 'Aktivera platstjänster ';
 
   @override
   String get enable_notifications => 'Aktivera aviseringar';
