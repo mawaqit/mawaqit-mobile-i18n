@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -157,7 +157,7 @@
         "description": "_",
         "type": "text"
     },
-    "sabah": "Fajr imsak",
+    "sabah": "Fajr ",
     "settings_PrayerNotification_NoNotification": "Du har valt att inte få notiser för denna bön.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "Vi kan inte hitta den närmaste moskén eftersom appen saknar åtkomst till din plats. Sök efter en moské eller aktivera platsåtkomst.",
     "location": "Plats",
     "stop": "Stopp",
-    "plays_adhan_prayer_arrives": "Spelar upp adhan när bönetiden börjar",
+    "plays_adhan_prayer_arrives": "Spelar upp adhan när bönen börjar",
     "play_in_silent_mode": "Spela upp i tyst läge",
     "notifications_not_arriving": "Kommer inte aviseringarna fram?",
     "android_phones_aggressively": "Vissa Android-telefoner stänger appar i bakgrunden väldigt aggressivt.",
@@ -1689,7 +1689,7 @@
     "admin_adhanNoPrayers": "Inga böner",
     "admin_prayerDurationGroup": "MINUTER PER BÖN",
     "admin_prayerDurationHelp": "Den svarta skärmen under bönen och bönerna efter den varar så här länge.",
-    "admin_duasInvocations": "BÖNER",
+    "admin_duasInvocations": "Dua ",
     "admin_duasHadiths": "HADITHER",
     "admin_duaAfterAdhan": "Dua efter adhan",
     "admin_duaAfterPrayer": "Böner efter bönen",
@@ -1710,8 +1710,8 @@
     "admin_dstLabel": "Sommartid",
     "admin_dstDatesNote": "Datumen för växlingen mellan sommar- och vintertid förblir oförändrade — ställ in dem på webbplatsen.",
     "admin_hijriAdjustmentLabel": "Datumjustering",
-    "admin_jumuaTimeGroup": "TID FÖR JUMUA",
-    "admin_jumuaDuringGroup": "UNDER JUMUA",
+    "admin_jumuaTimeGroup": "Fredagsböns tid ",
+    "admin_jumuaDuringGroup": "Under fredagsbönen ",
     "admin_jumuaSameAsDuhr": "Samma tid som Dhohr",
     "admin_jumuaFollowsDuhr": "Hålls vid Dhohr — din egen tid behålls.",
     "admin_jumuaApplyDst": "Lägg till en timme under sommartid",
