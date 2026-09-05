@@ -158,7 +158,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get isha => 'Isha';
 
   @override
-  String get sabah => 'Fajr imsak';
+  String get sabah => 'Fajr ';
 
   @override
   String get settings_PrayerNotification_NoNotification =>
@@ -2512,8 +2512,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get stop => 'Stopp';
 
   @override
-  String get plays_adhan_prayer_arrives =>
-      'Spelar upp adhan när bönetiden börjar';
+  String get plays_adhan_prayer_arrives => 'Spelar upp adhan när bönen börjar';
 
   @override
   String get play_in_silent_mode => 'Spela upp i tyst läge';
@@ -2793,7 +2792,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Den svarta skärmen under bönen och bönerna efter den varar så här länge.';
 
   @override
-  String get admin_duasInvocations => 'BÖNER';
+  String get admin_duasInvocations => 'Dua ';
 
   @override
   String get admin_duasHadiths => 'HADITHER';
@@ -2858,10 +2857,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_hijriAdjustmentLabel => 'Datumjustering';
 
   @override
-  String get admin_jumuaTimeGroup => 'TID FÖR JUMUA';
+  String get admin_jumuaTimeGroup => 'Fredagsböns tid ';
 
   @override
-  String get admin_jumuaDuringGroup => 'UNDER JUMUA';
+  String get admin_jumuaDuringGroup => 'Under fredagsbönen ';
 
   @override
   String get admin_jumuaSameAsDuhr => 'Samma tid som Dhohr';
