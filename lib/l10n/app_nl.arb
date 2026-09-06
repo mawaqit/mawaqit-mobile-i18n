@@ -1850,5 +1850,11 @@
     "what_worked_well": "Wat werkte goed en wat niet?",
     "thank_you_for_your_feedback": "Bedankt voor je feedback.",
     "could_not_send_your_feedback": "Je feedback kon niet worden verzonden. Probeer het opnieuw.",
-    "analog_clock": "Analoge klok"
+    "analog_clock": "Analoge klok",
+    "credit_card": "Creditcard of betaalpas",
+    "donate_paypal": "Doneer met PayPal",
+    "or_bank_transfer": "Of via bankoverschrijving op mawaqit.net",
+    "please_enter_valid_amount": "Voer een geldig bedrag in",
+    "payment_declined": "Betaling geweigerd. Probeer een andere kaart of een andere manier om te doneren.",
+    "donations_unavailable": "Donaties zijn tijdelijk niet beschikbaar. Probeer het over een moment opnieuw."
 }
