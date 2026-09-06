@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "Orologio analogico"
+    "analog_clock": "Orologio analogico",
+    "credit_card": "Carta di credito o debito",
+    "donate_paypal": "Dona con PayPal",
+    "or_bank_transfer": "Oppure tramite bonifico bancario su mawaqit.net",
+    "please_enter_valid_amount": "Inserisci un importo valido",
+    "payment_declined": "Pagamento rifiutato. Prova con un’altra carta o un altro metodo di donazione.",
+    "donations_unavailable": "Le donazioni non sono temporaneamente disponibili. Riprova tra poco."
 }
