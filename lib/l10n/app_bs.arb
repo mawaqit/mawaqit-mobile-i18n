@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "Analogni sat"
+    "analog_clock": "Analogni sat",
+    "credit_card": "Kreditna ili debitna kartica",
+    "donate_paypal": "Donirajte putem PayPala",
+    "or_bank_transfer": "Ili bankovnim transferom na mawaqit.net",
+    "please_enter_valid_amount": "Unesite ispravan iznos",
+    "payment_declined": "Plaćanje je odbijeno. Pokušajte s drugom karticom ili drugim načinom doniranja.",
+    "donations_unavailable": "Donacije su privremeno nedostupne. Pokušajte ponovo za koji trenutak."
 }
