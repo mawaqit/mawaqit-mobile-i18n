@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "Zegar analogowy"
+    "analog_clock": "Zegar analogowy",
+    "credit_card": "Karta kredytowa lub debetowa",
+    "donate_paypal": "Karta kredytowa lub debetowa",
+    "or_bank_transfer": "Lub przelewem bankowym na mawaqit.net",
+    "please_enter_valid_amount": "Wpisz prawidłową kwotę",
+    "payment_declined": "Płatność odrzucona. Spróbuj użyć innej karty lub innego sposobu przekazania darowizny.",
+    "donations_unavailable": "Darowizny są tymczasowo niedostępne. Spróbuj ponownie za chwilę."
 }
