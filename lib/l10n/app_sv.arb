@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -446,7 +446,7 @@
         "description": "_",
         "type": "text"
     },
-    "imsak": "Imsak.",
+    "imsak": "Imsak ",
     "@imsak": {
         "description": "_",
         "type": "text"
@@ -1574,7 +1574,7 @@
     "semantic_next_month": "Nästa månad",
     "semantic_view_image": "Visa bild",
     "access_location_details": "MAWAQIT behöver åtkomst till din plats för att kunna visa korrekt lokalt väder, Qibla-riktning och information om moskéer baserat på din nuvarande position. Du har tidigare nekat denna åtkomst.",
-    "location_off": "Platstjänster avstängda",
+    "location_off": "Platstjänsten är avstängd",
     "semantic_pre_notification_time": "förvarningstid",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
@@ -1601,7 +1601,7 @@
     "prayer_location": "Bön och Plats",
     "privacy": "Sekretess",
     "play_full_adhan": "Spela upp hela adhan",
-    "full_adhan_will_keep_repeating": "Hela adhan upprepas tills du stänger av den ",
+    "full_adhan_will_keep_repeating": "Hela adhan uppspelningen upprepas tills du stänger av den ",
     "hussein_taji_kal_dari": "Hussein Taji kal dari",
     "settings_language_fa": "Persiska",
     "mawaqit_non_profit": "MAWAQIT ideell organisation · gratis för alla",
@@ -1621,7 +1621,7 @@
     "admin_signInIntro": "Logga in med kontot du använder på mawaqit.net för att hantera de moskéer du ansvarar för.",
     "admin_capabilityMessages": "Publicera meddelanden och ett snabbmeddelande",
     "admin_capabilityTimes": "Ställa in tider för iqama, fredagsbön och Eid",
-    "admin_capabilityAdhan": "Välja adhan och hur den spelas upp",
+    "admin_capabilityAdhan": "Välja adhan och hur ska den spelas upp",
     "admin_notAnAdminTitle": "Inte administratör än?",
     "admin_notAnAdminBody": "Moskéer registreras på MAWAQIT webbplats, där teamet granskar dem innan kontot aktiveras.",
     "admin_registerMosque": "Registrera en moské",
