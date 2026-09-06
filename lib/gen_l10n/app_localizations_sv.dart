@@ -491,7 +491,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get in_ => 'om ';
 
   @override
-  String get imsak => 'Imsak.';
+  String get imsak => 'Imsak ';
 
   @override
   String get eid => 'Eid bönen om ';
@@ -2496,7 +2496,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'MAWAQIT behöver åtkomst till din plats för att kunna visa korrekt lokalt väder, Qibla-riktning och information om moskéer baserat på din nuvarande position. Du har tidigare nekat denna åtkomst.';
 
   @override
-  String get location_off => 'Platstjänster avstängda';
+  String get location_off => 'Platstjänsten är avstängd';
 
   @override
   String get semantic_pre_notification_time => 'förvarningstid';
@@ -2554,7 +2554,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Hela adhan upprepas tills du stänger av den ';
+      'Hela adhan uppspelningen upprepas tills du stänger av den ';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji kal dari';
@@ -2622,7 +2622,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Ställa in tider för iqama, fredagsbön och Eid';
 
   @override
-  String get admin_capabilityAdhan => 'Välja adhan och hur den spelas upp';
+  String get admin_capabilityAdhan => 'Välja adhan och hur ska den spelas upp';
 
   @override
   String get admin_notAnAdminTitle => 'Inte administratör än?';
