@@ -3118,4 +3118,24 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get analog_clock => 'الساعة التناظرية';
+
+  @override
+  String get credit_card => 'بطاقة ائتمانية أو بطاقة خصم';
+
+  @override
+  String get donate_paypal => 'تبرع عبر PayPal';
+
+  @override
+  String get or_bank_transfer => 'أو عبر التحويل البنكي على mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'يرجى إدخال مبلغ صالح';
+
+  @override
+  String get payment_declined =>
+      'تم رفض الدفع. جرّب بطاقة أخرى أو طريقة تبرع أخرى.';
+
+  @override
+  String get donations_unavailable =>
+      'التبرعات غير متاحة مؤقتًا. يرجى المحاولة مرة أخرى بعد قليل.';
 }

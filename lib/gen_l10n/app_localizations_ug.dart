@@ -3159,4 +3159,24 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get analog_clock => 'ئانالوگ سائەت';
+
+  @override
+  String get credit_card => 'ئىناۋەتلىك ياكى بانكا كارتىسى';
+
+  @override
+  String get donate_paypal => 'PayPal ئارقىلىق ئىئانە قىلىڭ';
+
+  @override
+  String get or_bank_transfer => 'ياكى mawaqit.net ئارقىلىق بانكا يۆتكەش بىلەن';
+
+  @override
+  String get please_enter_valid_amount => 'ئىناۋەتلىك سومما كىرگۈزۈڭ';
+
+  @override
+  String get payment_declined =>
+      'تۆلەش رەت قىلىندى. باشقا كارتا ياكى باشقا ئىئانە قىلىش ئۇسۇلىنى سىناپ بېقىڭ.';
+
+  @override
+  String get donations_unavailable =>
+      'ئىئانىلەر ۋاقىتلىق ئىشلەتكىلى بولمايدۇ. بىر ئازدىن كېيىن قايتا سىناپ بېقىڭ.';
 }

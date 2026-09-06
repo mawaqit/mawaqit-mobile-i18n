@@ -3174,4 +3174,24 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get analog_clock => 'Analóg óra';
+
+  @override
+  String get credit_card => 'Hitel- vagy betéti kártya';
+
+  @override
+  String get donate_paypal => 'Adományozás PayPallal';
+
+  @override
+  String get or_bank_transfer => 'Vagy banki átutalással a mawaqit.net oldalon';
+
+  @override
+  String get please_enter_valid_amount => 'Adjon meg érvényes összeget';
+
+  @override
+  String get payment_declined =>
+      'A fizetés elutasítva. Próbáljon ki egy másik kártyát vagy más adományozási módot.';
+
+  @override
+  String get donations_unavailable =>
+      'Az adományozás átmenetileg nem érhető el. Kérjük, próbálja újra egy kis idő múlva.';
 }

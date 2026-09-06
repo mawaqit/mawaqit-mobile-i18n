@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "ساعت آنالوگ"
+    "analog_clock": "ساعت آنالوگ",
+    "credit_card": "کارت اعتباری یا نقدی",
+    "donate_paypal": "اهدای کمک از طریق PayPal",
+    "or_bank_transfer": "یا از طریق انتقال بانکی در mawaqit.net",
+    "please_enter_valid_amount": "لطفاً مبلغ معتبری وارد کنید",
+    "payment_declined": "پرداخت رد شد. کارت دیگری یا روش دیگری برای اهدا را امتحان کنید.",
+    "donations_unavailable": "اهدای کمک موقتاً در دسترس نیست. لطفاً لحظاتی دیگر دوباره تلاش کنید."
 }

@@ -3160,4 +3160,24 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get analog_clock => 'Jam analog';
+
+  @override
+  String get credit_card => 'Kartu kredit atau debit';
+
+  @override
+  String get donate_paypal => 'Donasi dengan PayPal';
+
+  @override
+  String get or_bank_transfer => 'Atau melalui transfer bank di mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'Silakan masukkan jumlah yang valid';
+
+  @override
+  String get payment_declined =>
+      'Pembayaran ditolak. Coba kartu lain atau cara berdonasi lainnya.';
+
+  @override
+  String get donations_unavailable =>
+      'Donasi untuk sementara tidak tersedia. Silakan coba lagi sebentar lagi.';
 }

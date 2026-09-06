@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "Аналоговые часы"
+    "analog_clock": "Аналоговые часы",
+    "credit_card": "Кредитная или дебетовая карта",
+    "donate_paypal": "Пожертвовать через PayPal",
+    "or_bank_transfer": "Или банковским переводом на mawaqit.net",
+    "please_enter_valid_amount": "Введите допустимую сумму",
+    "payment_declined": "Платёж отклонён. Попробуйте другую карту или другой способ пожертвования.",
+    "donations_unavailable": "Пожертвования временно недоступны. Пожалуйста, попробуйте снова через некоторое время."
 }

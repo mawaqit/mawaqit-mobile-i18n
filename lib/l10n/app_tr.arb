@@ -1850,5 +1850,11 @@
     "what_worked_well": "Ne iyi çalıştı, ne çalışmadı?",
     "thank_you_for_your_feedback": "Geri bildiriminiz için teşekkür ederiz.",
     "could_not_send_your_feedback": "Geri bildiriminiz gönderilemedi. Lütfen tekrar deneyin.",
-    "analog_clock": "Analog saat"
+    "analog_clock": "Analog saat",
+    "credit_card": "Kredi veya banka kartı",
+    "donate_paypal": "PayPal ile bağış yap'",
+    "or_bank_transfer": "Veya mawaqit.net üzerinden banka havalesiyle",
+    "please_enter_valid_amount": "Lütfen geçerli bir tutar girin",
+    "payment_declined": "Ödeme reddedildi. Başka bir kart veya başka bir bağış yöntemi deneyin.",
+    "donations_unavailable": "Bağışlar geçici olarak kullanılamıyor. Lütfen biraz sonra tekrar deneyin."
 }

@@ -3157,4 +3157,25 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get analog_clock => 'অ্যানালগ ঘড়ি';
+
+  @override
+  String get credit_card => 'ক্রেডিট বা ডেবিট কার্ড';
+
+  @override
+  String get donate_paypal => 'PayPal দিয়ে দান করুন';
+
+  @override
+  String get or_bank_transfer =>
+      'অথবা mawaqit.net-এ ব্যাংক ট্রান্সফারের মাধ্যমে';
+
+  @override
+  String get please_enter_valid_amount => 'অনুগ্রহ করে একটি বৈধ পরিমাণ লিখুন';
+
+  @override
+  String get payment_declined =>
+      'পেমেন্ট প্রত্যাখ্যান করা হয়েছে। অন্য একটি কার্ড বা অন্য কোনো দানের পদ্ধতি চেষ্টা করুন।.';
+
+  @override
+  String get donations_unavailable =>
+      'দান সাময়িকভাবে unavailable। অনুগ্রহ করে কিছুক্ষণ পর আবার চেষ্টা করুন।.';
 }

@@ -3172,4 +3172,24 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get analog_clock => 'Analoge klok';
+
+  @override
+  String get credit_card => 'Creditcard of betaalpas';
+
+  @override
+  String get donate_paypal => 'Doneer met PayPal';
+
+  @override
+  String get or_bank_transfer => 'Of via bankoverschrijving op mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'Voer een geldig bedrag in';
+
+  @override
+  String get payment_declined =>
+      'Betaling geweigerd. Probeer een andere kaart of een andere manier om te doneren.';
+
+  @override
+  String get donations_unavailable =>
+      'Donaties zijn tijdelijk niet beschikbaar. Probeer het over een moment opnieuw.';
 }

@@ -3141,4 +3141,24 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get analog_clock => 'Analog saat';
+
+  @override
+  String get credit_card => 'Kredi veya banka kartı';
+
+  @override
+  String get donate_paypal => 'PayPal ile bağış yap\'';
+
+  @override
+  String get or_bank_transfer => 'Veya mawaqit.net üzerinden banka havalesiyle';
+
+  @override
+  String get please_enter_valid_amount => 'Lütfen geçerli bir tutar girin';
+
+  @override
+  String get payment_declined =>
+      'Ödeme reddedildi. Başka bir kart veya başka bir bağış yöntemi deneyin.';
+
+  @override
+  String get donations_unavailable =>
+      'Bağışlar geçici olarak kullanılamıyor. Lütfen biraz sonra tekrar deneyin.';
 }

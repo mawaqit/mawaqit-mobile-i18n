@@ -3149,4 +3149,24 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get analog_clock => 'اینالاگ گھڑی';
+
+  @override
+  String get credit_card => 'کریڈٹ یا ڈیبٹ کارڈ';
+
+  @override
+  String get donate_paypal => 'PayPal کے ذریعے عطیہ کریں';
+
+  @override
+  String get or_bank_transfer => 'یا mawaqit.net پر بینک ٹرانسفر کے ذریعے';
+
+  @override
+  String get please_enter_valid_amount => 'براہِ کرم درست رقم درج کریں';
+
+  @override
+  String get payment_declined =>
+      'ادائیگی مسترد کر دی گئی۔ کوئی دوسرا کارڈ یا عطیہ کرنے کا دوسرا طریقہ آزمائیں۔.';
+
+  @override
+  String get donations_unavailable =>
+      'عطیات عارضی طور پر دستیاب نہیں ہیں۔ براہِ کرم کچھ دیر بعد دوبارہ کوشش کریں۔.';
 }
