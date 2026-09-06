@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "Analóg óra"
+    "analog_clock": "Analóg óra",
+    "credit_card": "Hitel- vagy betéti kártya",
+    "donate_paypal": "Adományozás PayPallal",
+    "or_bank_transfer": "Vagy banki átutalással a mawaqit.net oldalon",
+    "please_enter_valid_amount": "Adjon meg érvényes összeget",
+    "payment_declined": "A fizetés elutasítva. Próbáljon ki egy másik kártyát vagy más adományozási módot.",
+    "donations_unavailable": "Az adományozás átmenetileg nem érhető el. Kérjük, próbálja újra egy kis idő múlva."
 }
