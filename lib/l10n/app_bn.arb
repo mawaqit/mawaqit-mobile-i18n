@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "অ্যানালগ ঘড়ি"
+    "analog_clock": "অ্যানালগ ঘড়ি",
+    "credit_card": "ক্রেডিট বা ডেবিট কার্ড",
+    "donate_paypal": "PayPal দিয়ে দান করুন",
+    "or_bank_transfer": "অথবা mawaqit.net-এ ব্যাংক ট্রান্সফারের মাধ্যমে",
+    "please_enter_valid_amount": "অনুগ্রহ করে একটি বৈধ পরিমাণ লিখুন",
+    "payment_declined": "পেমেন্ট প্রত্যাখ্যান করা হয়েছে। অন্য একটি কার্ড বা অন্য কোনো দানের পদ্ধতি চেষ্টা করুন।.",
+    "donations_unavailable": "দান সাময়িকভাবে unavailable। অনুগ্রহ করে কিছুক্ষণ পর আবার চেষ্টা করুন।."
 }
