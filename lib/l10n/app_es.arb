@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1850,5 +1850,11 @@
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
     "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
-    "analog_clock": "Reloj analógico"
+    "analog_clock": "Reloj analógico",
+    "credit_card": "Tarjeta de crédito o débito",
+    "donate_paypal": "Donar con PayPal",
+    "or_bank_transfer": "O mediante transferencia bancaria en mawaqit.net",
+    "please_enter_valid_amount": "Introduce un importe válido",
+    "payment_declined": "Pago rechazado. Prueba con otra tarjeta u otra forma de donar.",
+    "donations_unavailable": "Las donaciones no están disponibles temporalmente. Inténtalo de nuevo en unos momentos."
 }
