@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1850,5 +1850,11 @@
     "what_worked_well": "Vad fungerade bra och vad fungerade inte?",
     "thank_you_for_your_feedback": "Tack för din feedback ",
     "could_not_send_your_feedback": "Det gick inte att skicka din feedback. Försök igen",
-    "analog_clock": "Analog klocka"
+    "analog_clock": "Analog klocka",
+    "credit_card": "Kredit- eller betalkort",
+    "donate_paypal": "Donera med PayPal",
+    "or_bank_transfer": "Eller via banköverföring på mawaqit.net",
+    "please_enter_valid_amount": "Ange ett giltigt belopp",
+    "payment_declined": "Betalningen nekades. Försök med ett annat kort eller ett annat sätt att donera.",
+    "donations_unavailable": "Donationer är tillfälligt otillgängliga. Försök igen om en stund."
 }
