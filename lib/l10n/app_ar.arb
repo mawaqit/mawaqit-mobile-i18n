@@ -1850,5 +1850,11 @@
     "what_worked_well": "ما الذي سار بشكل جيد، وما الذي لم يسر؟",
     "thank_you_for_your_feedback": "شكرًا على ملاحظاتك.",
     "could_not_send_your_feedback": "تعذّر إرسال ملاحظاتك. يُرجى المحاولة مرة أخرى.",
-    "analog_clock": "الساعة التناظرية"
+    "analog_clock": "الساعة التناظرية",
+    "credit_card": "بطاقة ائتمانية أو بطاقة خصم",
+    "donate_paypal": "تبرع عبر PayPal",
+    "or_bank_transfer": "أو عبر التحويل البنكي على mawaqit.net",
+    "please_enter_valid_amount": "يرجى إدخال مبلغ صالح",
+    "payment_declined": "تم رفض الدفع. جرّب بطاقة أخرى أو طريقة تبرع أخرى.",
+    "donations_unavailable": "التبرعات غير متاحة مؤقتًا. يرجى المحاولة مرة أخرى بعد قليل."
 }
