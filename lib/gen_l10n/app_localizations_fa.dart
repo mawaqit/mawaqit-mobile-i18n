@@ -3145,6 +3145,26 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get analog_clock => 'ساعت آنالوگ';
+
+  @override
+  String get credit_card => 'کارت اعتباری یا نقدی';
+
+  @override
+  String get donate_paypal => 'اهدای کمک از طریق PayPal';
+
+  @override
+  String get or_bank_transfer => 'یا از طریق انتقال بانکی در mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'لطفاً مبلغ معتبری وارد کنید';
+
+  @override
+  String get payment_declined =>
+      'پرداخت رد شد. کارت دیگری یا روش دیگری برای اهدا را امتحان کنید.';
+
+  @override
+  String get donations_unavailable =>
+      'اهدای کمک موقتاً در دسترس نیست. لطفاً لحظاتی دیگر دوباره تلاش کنید.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6296,4 +6316,24 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get analog_clock => 'Analog Clock';
+
+  @override
+  String get credit_card => 'Credit or debit card';
+
+  @override
+  String get donate_paypal => 'Donate with PayPal';
+
+  @override
+  String get or_bank_transfer => 'Or by bank transfer, on mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'Please enter a valid amount';
+
+  @override
+  String get payment_declined =>
+      'Payment declined. Try another card or another way to give.';
+
+  @override
+  String get donations_unavailable =>
+      'Donations are temporarily unavailable. Please try again in a moment.';
 }

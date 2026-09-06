@@ -3156,4 +3156,24 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get analog_clock => 'Analog Clock';
+
+  @override
+  String get credit_card => 'Credit or debit card';
+
+  @override
+  String get donate_paypal => 'Donate with PayPal';
+
+  @override
+  String get or_bank_transfer => 'Or by bank transfer, on mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'Please enter a valid amount';
+
+  @override
+  String get payment_declined =>
+      'Payment declined. Try another card or another way to give.';
+
+  @override
+  String get donations_unavailable =>
+      'Donations are temporarily unavailable. Please try again in a moment.';
 }

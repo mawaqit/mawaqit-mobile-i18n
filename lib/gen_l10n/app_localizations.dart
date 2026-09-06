@@ -6071,6 +6071,42 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Analog Clock'**
   String get analog_clock;
+
+  /// No description provided for @credit_card.
+  ///
+  /// In en, this message translates to:
+  /// **'Credit or debit card'**
+  String get credit_card;
+
+  /// No description provided for @donate_paypal.
+  ///
+  /// In en, this message translates to:
+  /// **'Donate with PayPal'**
+  String get donate_paypal;
+
+  /// No description provided for @or_bank_transfer.
+  ///
+  /// In en, this message translates to:
+  /// **'Or by bank transfer, on mawaqit.net'**
+  String get or_bank_transfer;
+
+  /// No description provided for @please_enter_valid_amount.
+  ///
+  /// In en, this message translates to:
+  /// **'Please enter a valid amount'**
+  String get please_enter_valid_amount;
+
+  /// No description provided for @payment_declined.
+  ///
+  /// In en, this message translates to:
+  /// **'Payment declined. Try another card or another way to give.'**
+  String get payment_declined;
+
+  /// No description provided for @donations_unavailable.
+  ///
+  /// In en, this message translates to:
+  /// **'Donations are temporarily unavailable. Please try again in a moment.'**
+  String get donations_unavailable;
 }
 
 class _AppLocalizationsDelegate

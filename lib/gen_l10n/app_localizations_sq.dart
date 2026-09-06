@@ -3172,4 +3172,25 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get analog_clock => 'Ora analoge';
+
+  @override
+  String get credit_card => 'Kartë krediti ose debiti';
+
+  @override
+  String get donate_paypal => 'Dhuro me PayPal';
+
+  @override
+  String get or_bank_transfer => 'Ju lutemi, vendosni një shumë të vlefshme';
+
+  @override
+  String get please_enter_valid_amount =>
+      'Ju lutemi, vendosni një shumë të vlefshme';
+
+  @override
+  String get payment_declined =>
+      'Pagesa u refuzua. Provoni një kartë tjetër ose një mënyrë tjetër për të dhuruar.';
+
+  @override
+  String get donations_unavailable =>
+      'Dhurimet janë përkohësisht të padisponueshme. Ju lutemi, provoni përsëri pas pak.';
 }

@@ -3164,4 +3164,24 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get analog_clock => 'Analogni sat';
+
+  @override
+  String get credit_card => 'Kreditna ili debitna kartica';
+
+  @override
+  String get donate_paypal => 'Donirajte putem PayPala';
+
+  @override
+  String get or_bank_transfer => 'Ili bankovnim transferom na mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'Unesite ispravan iznos';
+
+  @override
+  String get payment_declined =>
+      'Plaćanje je odbijeno. Pokušajte s drugom karticom ili drugim načinom doniranja.';
+
+  @override
+  String get donations_unavailable =>
+      'Donacije su privremeno nedostupne. Pokušajte ponovo za koji trenutak.';
 }

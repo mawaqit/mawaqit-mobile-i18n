@@ -3163,4 +3163,24 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get analog_clock => 'Аналоговые часы';
+
+  @override
+  String get credit_card => 'Кредитная или дебетовая карта';
+
+  @override
+  String get donate_paypal => 'Пожертвовать через PayPal';
+
+  @override
+  String get or_bank_transfer => 'Или банковским переводом на mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'Введите допустимую сумму';
+
+  @override
+  String get payment_declined =>
+      'Платёж отклонён. Попробуйте другую карту или другой способ пожертвования.';
+
+  @override
+  String get donations_unavailable =>
+      'Пожертвования временно недоступны. Пожалуйста, попробуйте снова через некоторое время.';
 }

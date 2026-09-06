@@ -3156,4 +3156,24 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get analog_clock => 'Zegar analogowy';
+
+  @override
+  String get credit_card => 'Karta kredytowa lub debetowa';
+
+  @override
+  String get donate_paypal => 'Karta kredytowa lub debetowa';
+
+  @override
+  String get or_bank_transfer => 'Lub przelewem bankowym na mawaqit.net';
+
+  @override
+  String get please_enter_valid_amount => 'Wpisz prawidłową kwotę';
+
+  @override
+  String get payment_declined =>
+      'Płatność odrzucona. Spróbuj użyć innej karty lub innego sposobu przekazania darowizny.';
+
+  @override
+  String get donations_unavailable =>
+      'Darowizny są tymczasowo niedostępne. Spróbuj ponownie za chwilę.';
 }
