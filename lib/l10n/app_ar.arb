@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "أو عبر التحويل البنكي على mawaqit.net",
     "please_enter_valid_amount": "يرجى إدخال مبلغ صالح",
     "payment_declined": "تم رفض الدفع. جرّب بطاقة أخرى أو طريقة تبرع أخرى.",
-    "donations_unavailable": "التبرعات غير متاحة مؤقتًا. يرجى المحاولة مرة أخرى بعد قليل."
+    "donations_unavailable": "التبرعات غير متاحة مؤقتًا. يرجى المحاولة مرة أخرى بعد قليل.",
+    "mute_with_volume_buttons": "كتم الصوت باستخدام أزرار مستوى الصوت"
 }
