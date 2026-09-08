@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Veya mawaqit.net üzerinden banka havalesiyle",
     "please_enter_valid_amount": "Lütfen geçerli bir tutar girin",
     "payment_declined": "Ödeme reddedildi. Başka bir kart veya başka bir bağış yöntemi deneyin.",
-    "donations_unavailable": "Bağışlar geçici olarak kullanılamıyor. Lütfen biraz sonra tekrar deneyin."
+    "donations_unavailable": "Bağışlar geçici olarak kullanılamıyor. Lütfen biraz sonra tekrar deneyin.",
+    "mute_with_volume_buttons": "Ses düğmeleriyle sessize al"
 }
