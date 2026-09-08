@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Lub przelewem bankowym na mawaqit.net",
     "please_enter_valid_amount": "Wpisz prawidłową kwotę",
     "payment_declined": "Płatność odrzucona. Spróbuj użyć innej karty lub innego sposobu przekazania darowizny.",
-    "donations_unavailable": "Darowizny są tymczasowo niedostępne. Spróbuj ponownie za chwilę."
+    "donations_unavailable": "Darowizny są tymczasowo niedostępne. Spróbuj ponownie za chwilę.",
+    "mute_with_volume_buttons": "Wyciszanie przyciskami głośności"
 }
