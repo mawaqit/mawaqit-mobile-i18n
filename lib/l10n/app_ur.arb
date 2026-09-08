@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "یا mawaqit.net پر بینک ٹرانسفر کے ذریعے",
     "please_enter_valid_amount": "براہِ کرم درست رقم درج کریں",
     "payment_declined": "ادائیگی مسترد کر دی گئی۔ کوئی دوسرا کارڈ یا عطیہ کرنے کا دوسرا طریقہ آزمائیں۔.",
-    "donations_unavailable": "عطیات عارضی طور پر دستیاب نہیں ہیں۔ براہِ کرم کچھ دیر بعد دوبارہ کوشش کریں۔."
+    "donations_unavailable": "عطیات عارضی طور پر دستیاب نہیں ہیں۔ براہِ کرم کچھ دیر بعد دوبارہ کوشش کریں۔.",
+    "mute_with_volume_buttons": "والیوم بٹن سے خاموش کریں"
 }
