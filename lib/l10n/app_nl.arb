@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Of via bankoverschrijving op mawaqit.net",
     "please_enter_valid_amount": "Voer een geldig bedrag in",
     "payment_declined": "Betaling geweigerd. Probeer een andere kaart of een andere manier om te doneren.",
-    "donations_unavailable": "Donaties zijn tijdelijk niet beschikbaar. Probeer het over een moment opnieuw."
+    "donations_unavailable": "Donaties zijn tijdelijk niet beschikbaar. Probeer het over een moment opnieuw.",
+    "mute_with_volume_buttons": "Dempen met de volumeknoppen"
 }
