@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Ili bankovnim transferom na mawaqit.net",
     "please_enter_valid_amount": "Unesite ispravan iznos",
     "payment_declined": "Plaćanje je odbijeno. Pokušajte s drugom karticom ili drugim načinom doniranja.",
-    "donations_unavailable": "Donacije su privremeno nedostupne. Pokušajte ponovo za koji trenutak."
+    "donations_unavailable": "Donacije su privremeno nedostupne. Pokušajte ponovo za koji trenutak.",
+    "mute_with_volume_buttons": "Utišaj tipkama za jačinu zvuka"
 }
