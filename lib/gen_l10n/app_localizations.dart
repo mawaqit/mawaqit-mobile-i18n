@@ -6107,6 +6107,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Donations are temporarily unavailable. Please try again in a moment.'**
   String get donations_unavailable;
+
+  /// No description provided for @mute_with_volume_buttons.
+  ///
+  /// In en, this message translates to:
+  /// **'Mute with volume buttons'**
+  String get mute_with_volume_buttons;
 }
 
 class _AppLocalizationsDelegate

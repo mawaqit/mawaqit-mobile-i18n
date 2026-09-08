@@ -3161,4 +3161,7 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Bağışlar geçici olarak kullanılamıyor. Lütfen biraz sonra tekrar deneyin.';
+
+  @override
+  String get mute_with_volume_buttons => 'Ses düğmeleriyle sessize al';
 }

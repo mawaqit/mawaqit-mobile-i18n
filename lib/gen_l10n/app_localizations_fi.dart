@@ -3177,4 +3177,7 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Donations are temporarily unavailable. Please try again in a moment.';
+
+  @override
+  String get mute_with_volume_buttons => 'Mute with volume buttons';
 }

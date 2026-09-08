@@ -3192,4 +3192,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Donaties zijn tijdelijk niet beschikbaar. Probeer het over een moment opnieuw.';
+
+  @override
+  String get mute_with_volume_buttons => 'Dempen met de volumeknoppen';
 }

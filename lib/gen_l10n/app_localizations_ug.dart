@@ -3179,4 +3179,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'ئىئانىلەر ۋاقىتلىق ئىشلەتكىلى بولمايدۇ. بىر ئازدىن كېيىن قايتا سىناپ بېقىڭ.';
+
+  @override
+  String get mute_with_volume_buttons => 'ئاۋاز كۇنۇپكىلىرى بىلەن جىم قىلش';
 }

@@ -3184,4 +3184,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Donacije su privremeno nedostupne. Pokušajte ponovo za koji trenutak.';
+
+  @override
+  String get mute_with_volume_buttons => 'Utišaj tipkama za jačinu zvuka';
 }

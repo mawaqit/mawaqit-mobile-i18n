@@ -3221,4 +3221,8 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Les dons sont temporairement indisponibles. Veuillez réessayer dans un instant.';
+
+  @override
+  String get mute_with_volume_buttons =>
+      'Couper le son avec les boutons de volume';
 }

@@ -3194,4 +3194,7 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Az adományozás átmenetileg nem érhető el. Kérjük, próbálja újra egy kis idő múlva.';
+
+  @override
+  String get mute_with_volume_buttons => 'Némítás a hangerőgombokkal';
 }

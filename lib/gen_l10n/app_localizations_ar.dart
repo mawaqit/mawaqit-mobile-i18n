@@ -3138,4 +3138,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'التبرعات غير متاحة مؤقتًا. يرجى المحاولة مرة أخرى بعد قليل.';
+
+  @override
+  String get mute_with_volume_buttons => 'كتم الصوت باستخدام أزرار مستوى الصوت';
 }

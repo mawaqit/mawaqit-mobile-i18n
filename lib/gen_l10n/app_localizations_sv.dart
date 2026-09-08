@@ -3168,4 +3168,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Donationer är tillfälligt otillgängliga. Försök igen om en stund.';
+
+  @override
+  String get mute_with_volume_buttons => 'Stäng av ljudet med volymknapparna';
 }

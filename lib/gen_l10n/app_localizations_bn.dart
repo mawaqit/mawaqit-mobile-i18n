@@ -3178,4 +3178,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'দান সাময়িকভাবে unavailable। অনুগ্রহ করে কিছুক্ষণ পর আবার চেষ্টা করুন।.';
+
+  @override
+  String get mute_with_volume_buttons => 'ভলিউম বোতাম দিয়ে নিঃশব্দ করুন';
 }

@@ -3180,4 +3180,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Donasi untuk sementara tidak tersedia. Silakan coba lagi sebentar lagi.';
+
+  @override
+  String get mute_with_volume_buttons => 'Bisukan dengan tombol volume';
 }
