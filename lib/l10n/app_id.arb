@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Atau melalui transfer bank di mawaqit.net",
     "please_enter_valid_amount": "Silakan masukkan jumlah yang valid",
     "payment_declined": "Pembayaran ditolak. Coba kartu lain atau cara berdonasi lainnya.",
-    "donations_unavailable": "Donasi untuk sementara tidak tersedia. Silakan coba lagi sebentar lagi."
+    "donations_unavailable": "Donasi untuk sementara tidak tersedia. Silakan coba lagi sebentar lagi.",
+    "mute_with_volume_buttons": "Bisukan dengan tombol volume"
 }
