@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Oder per Banküberweisung auf mawaqit.net",
     "please_enter_valid_amount": "Bitte geben Sie einen gültigen Betrag ein",
     "payment_declined": "Zahlung abgelehnt. Versuchen Sie es mit einer anderen Karte oder einer anderen Zahlungsmethode.",
-    "donations_unavailable": "Spenden sind vorübergehend nicht verfügbar. Bitte versuchen Sie es in Kürze erneut."
+    "donations_unavailable": "Spenden sind vorübergehend nicht verfügbar. Bitte versuchen Sie es in Kürze erneut.",
+    "mute_with_volume_buttons": "Mit den Lautstärketasten stummschalten"
 }

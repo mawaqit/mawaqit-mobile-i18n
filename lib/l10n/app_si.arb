@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Or by bank transfer, on mawaqit.net",
     "please_enter_valid_amount": "Please enter a valid amount",
     "payment_declined": "Payment declined. Try another card or another way to give.",
-    "donations_unavailable": "Donations are temporarily unavailable. Please try again in a moment."
+    "donations_unavailable": "Donations are temporarily unavailable. Please try again in a moment.",
+    "mute_with_volume_buttons": "Mute with volume buttons"
 }
