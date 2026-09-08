@@ -1856,5 +1856,6 @@
     "or_bank_transfer": "Oppure tramite bonifico bancario su mawaqit.net",
     "please_enter_valid_amount": "Inserisci un importo valido",
     "payment_declined": "Pagamento rifiutato. Prova con un’altra carta o un altro metodo di donazione.",
-    "donations_unavailable": "Le donazioni non sono temporaneamente disponibili. Riprova tra poco."
+    "donations_unavailable": "Le donazioni non sono temporaneamente disponibili. Riprova tra poco.",
+    "mute_with_volume_buttons": "Disattiva audio con i pulsanti del volume"
 }
