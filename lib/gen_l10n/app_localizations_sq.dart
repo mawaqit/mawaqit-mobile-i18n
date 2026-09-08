@@ -3193,4 +3193,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Dhurimet janë përkohësisht të padisponueshme. Ju lutemi, provoni përsëri pas pak.';
+
+  @override
+  String get mute_with_volume_buttons => 'Hesht me butonat e volumit';
 }

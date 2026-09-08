@@ -3165,6 +3165,9 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'اهدای کمک موقتاً در دسترس نیست. لطفاً لحظاتی دیگر دوباره تلاش کنید.';
+
+  @override
+  String get mute_with_volume_buttons => 'بی‌صدا کردن با دکمه‌های تنظیم صدا';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6336,4 +6339,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get donations_unavailable =>
       'Donations are temporarily unavailable. Please try again in a moment.';
+
+  @override
+  String get mute_with_volume_buttons => 'Mute with volume buttons';
 }

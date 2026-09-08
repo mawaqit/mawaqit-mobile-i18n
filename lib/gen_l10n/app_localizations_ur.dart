@@ -3169,4 +3169,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'عطیات عارضی طور پر دستیاب نہیں ہیں۔ براہِ کرم کچھ دیر بعد دوبارہ کوشش کریں۔.';
+
+  @override
+  String get mute_with_volume_buttons => 'والیوم بٹن سے خاموش کریں';
 }

@@ -3210,4 +3210,8 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Spenden sind vorübergehend nicht verfügbar. Bitte versuchen Sie es in Kürze erneut.';
+
+  @override
+  String get mute_with_volume_buttons =>
+      'Mit den Lautstärketasten stummschalten';
 }

@@ -3183,4 +3183,7 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get donations_unavailable =>
       'Пожертвования временно недоступны. Пожалуйста, попробуйте снова через некоторое время.';
+
+  @override
+  String get mute_with_volume_buttons => 'Отключение звука кнопками громкости';
 }
