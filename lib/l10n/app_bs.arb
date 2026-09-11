@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Unesite ispravan iznos",
     "payment_declined": "Plaćanje je odbijeno. Pokušajte s drugom karticom ili drugim načinom doniranja.",
     "donations_unavailable": "Donacije su privremeno nedostupne. Pokušajte ponovo za koji trenutak.",
-    "mute_with_volume_buttons": "Utišaj tipkama za jačinu zvuka"
+    "mute_with_volume_buttons": "Utišaj tipkama za jačinu zvuka",
+    "may_allah_reward_you": "Neka vas Allah nagradi dobrim",
+    "thank_you_for_your_generosity": "Hvala vam na vašoj velikodušnosti"
 }
