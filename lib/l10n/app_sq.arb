@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Ju lutemi, vendosni një shumë të vlefshme",
     "payment_declined": "Pagesa u refuzua. Provoni një kartë tjetër ose një mënyrë tjetër për të dhuruar.",
     "donations_unavailable": "Dhurimet janë përkohësisht të padisponueshme. Ju lutemi, provoni përsëri pas pak.",
-    "mute_with_volume_buttons": "Hesht me butonat e volumit"
+    "mute_with_volume_buttons": "Hesht me butonat e volumit",
+    "may_allah_reward_you": "Allahu ju shpërbleftë me të mira",
+    "thank_you_for_your_generosity": "Faleminderit për bujarinë tuaj"
 }
