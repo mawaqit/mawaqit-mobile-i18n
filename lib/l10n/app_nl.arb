@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Voer een geldig bedrag in",
     "payment_declined": "Betaling geweigerd. Probeer een andere kaart of een andere manier om te doneren.",
     "donations_unavailable": "Donaties zijn tijdelijk niet beschikbaar. Probeer het over een moment opnieuw.",
-    "mute_with_volume_buttons": "Dempen met de volumeknoppen"
+    "mute_with_volume_buttons": "Dempen met de volumeknoppen",
+    "may_allah_reward_you": "Moge Allah u met het goede belonen",
+    "thank_you_for_your_generosity": "Bedankt voor uw vrijgevigheid"
 }

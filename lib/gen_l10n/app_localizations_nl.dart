@@ -3195,4 +3195,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Dempen met de volumeknoppen';
+
+  @override
+  String get may_allah_reward_you => 'Moge Allah u met het goede belonen';
+
+  @override
+  String get thank_you_for_your_generosity => 'Bedankt voor uw vrijgevigheid';
 }

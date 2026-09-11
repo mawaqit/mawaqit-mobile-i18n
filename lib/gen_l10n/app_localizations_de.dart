@@ -3214,4 +3214,11 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get mute_with_volume_buttons =>
       'Mit den Lautstärketasten stummschalten';
+
+  @override
+  String get may_allah_reward_you => 'Möge Allah Sie mit Gutem belohnen';
+
+  @override
+  String get thank_you_for_your_generosity =>
+      'Vielen Dank für Ihre Großzügigkeit';
 }

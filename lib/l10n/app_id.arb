@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Silakan masukkan jumlah yang valid",
     "payment_declined": "Pembayaran ditolak. Coba kartu lain atau cara berdonasi lainnya.",
     "donations_unavailable": "Donasi untuk sementara tidak tersedia. Silakan coba lagi sebentar lagi.",
-    "mute_with_volume_buttons": "Bisukan dengan tombol volume"
+    "mute_with_volume_buttons": "Bisukan dengan tombol volume",
+    "may_allah_reward_you": "Semoga Allah membalasmu dengan kebaikan",
+    "thank_you_for_your_generosity": "Terima kasih atas kemurahan hati Anda"
 }

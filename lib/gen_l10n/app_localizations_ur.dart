@@ -3172,4 +3172,10 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'والیوم بٹن سے خاموش کریں';
+
+  @override
+  String get may_allah_reward_you => 'اللہ آپ کو جزائے خیر عطا فرمائے';
+
+  @override
+  String get thank_you_for_your_generosity => 'آپ کی سخاوت کا شکریہ';
 }

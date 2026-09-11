@@ -3185,4 +3185,10 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Mute with volume buttons';
+
+  @override
+  String get may_allah_reward_you => 'May Allah reward you with goodness';
+
+  @override
+  String get thank_you_for_your_generosity => 'Thank you for your generosity';
 }

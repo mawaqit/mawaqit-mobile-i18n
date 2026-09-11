@@ -3168,6 +3168,12 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'بی‌صدا کردن با دکمه‌های تنظیم صدا';
+
+  @override
+  String get may_allah_reward_you => 'خداوند شما را با خیر پاداش دهد';
+
+  @override
+  String get thank_you_for_your_generosity => 'از سخاوت شما سپاسگزاریم';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6342,4 +6348,10 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get mute_with_volume_buttons => 'Mute with volume buttons';
+
+  @override
+  String get may_allah_reward_you => 'May Allah reward you with goodness';
+
+  @override
+  String get thank_you_for_your_generosity => 'Thank you for your generosity';
 }

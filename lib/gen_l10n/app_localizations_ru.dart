@@ -3186,4 +3186,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Отключение звука кнопками громкости';
+
+  @override
+  String get may_allah_reward_you => 'Пусть Аллах воздаст вам благом';
+
+  @override
+  String get thank_you_for_your_generosity => 'Спасибо за вашу щедрость';
 }

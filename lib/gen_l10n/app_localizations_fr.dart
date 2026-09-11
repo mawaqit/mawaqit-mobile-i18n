@@ -3225,4 +3225,10 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get mute_with_volume_buttons =>
       'Couper le son avec les boutons de volume';
+
+  @override
+  String get may_allah_reward_you => 'Qu’Allah vous récompense par le bien';
+
+  @override
+  String get thank_you_for_your_generosity => 'Merci pour votre générosité';
 }

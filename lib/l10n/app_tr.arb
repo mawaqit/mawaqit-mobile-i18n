@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Lütfen geçerli bir tutar girin",
     "payment_declined": "Ödeme reddedildi. Başka bir kart veya başka bir bağış yöntemi deneyin.",
     "donations_unavailable": "Bağışlar geçici olarak kullanılamıyor. Lütfen biraz sonra tekrar deneyin.",
-    "mute_with_volume_buttons": "Ses düğmeleriyle sessize al"
+    "mute_with_volume_buttons": "Ses düğmeleriyle sessize al",
+    "may_allah_reward_you": "Allah sizden razı olsun",
+    "thank_you_for_your_generosity": "Cömertliğiniz için teşekkür ederiz"
 }

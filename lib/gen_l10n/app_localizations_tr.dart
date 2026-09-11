@@ -3164,4 +3164,11 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Ses düğmeleriyle sessize al';
+
+  @override
+  String get may_allah_reward_you => 'Allah sizden razı olsun';
+
+  @override
+  String get thank_you_for_your_generosity =>
+      'Cömertliğiniz için teşekkür ederiz';
 }

@@ -3171,4 +3171,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Stäng av ljudet med volymknapparna';
+
+  @override
+  String get may_allah_reward_you => 'Må Allah belöna er med godhet';
+
+  @override
+  String get thank_you_for_your_generosity => 'Tack för er generositet';
 }

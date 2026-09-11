@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Adjon meg érvényes összeget",
     "payment_declined": "A fizetés elutasítva. Próbáljon ki egy másik kártyát vagy más adományozási módot.",
     "donations_unavailable": "Az adományozás átmenetileg nem érhető el. Kérjük, próbálja újra egy kis idő múlva.",
-    "mute_with_volume_buttons": "Némítás a hangerőgombokkal"
+    "mute_with_volume_buttons": "Némítás a hangerőgombokkal",
+    "may_allah_reward_you": "Allah jutalmazzon meg benneteket jósággal",
+    "thank_you_for_your_generosity": "Köszönjük nagylelkűségedet"
 }

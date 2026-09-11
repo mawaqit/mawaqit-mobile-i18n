@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Introduza um valor válido",
     "payment_declined": "Pagamento recusado. Experimente outro cartão ou outra forma de doar.",
     "donations_unavailable": "As doações estão temporariamente indisponíveis. Tente novamente daqui a pouco.",
-    "mute_with_volume_buttons": "Silenciar com os botões de volume"
+    "mute_with_volume_buttons": "Silenciar com os botões de volume",
+    "may_allah_reward_you": "Que Allah vos recompense com o bem",
+    "thank_you_for_your_generosity": "Obrigado pela vossa generosidade"
 }
