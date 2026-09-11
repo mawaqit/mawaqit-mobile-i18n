@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Wpisz prawidłową kwotę",
     "payment_declined": "Płatność odrzucona. Spróbuj użyć innej karty lub innego sposobu przekazania darowizny.",
     "donations_unavailable": "Darowizny są tymczasowo niedostępne. Spróbuj ponownie za chwilę.",
-    "mute_with_volume_buttons": "Wyciszanie przyciskami głośności"
+    "mute_with_volume_buttons": "Wyciszanie przyciskami głośności",
+    "may_allah_reward_you": "Niech Allah wynagrodzi Cię dobrem",
+    "thank_you_for_your_generosity": "Dziękuję za Twoją hojność"
 }
