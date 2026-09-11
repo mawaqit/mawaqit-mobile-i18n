@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "Ange ett giltigt belopp",
     "payment_declined": "Betalningen nekades. Försök med ett annat kort eller ett annat sätt att donera.",
     "donations_unavailable": "Donationer är tillfälligt otillgängliga. Försök igen om en stund.",
-    "mute_with_volume_buttons": "Stäng av ljudet med volymknapparna"
+    "mute_with_volume_buttons": "Stäng av ljudet med volymknapparna",
+    "may_allah_reward_you": "Må Allah belöna er med godhet",
+    "thank_you_for_your_generosity": "Tack för er generositet"
 }
