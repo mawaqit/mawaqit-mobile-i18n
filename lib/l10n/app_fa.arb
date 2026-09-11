@@ -1857,5 +1857,7 @@
     "please_enter_valid_amount": "لطفاً مبلغ معتبری وارد کنید",
     "payment_declined": "پرداخت رد شد. کارت دیگری یا روش دیگری برای اهدا را امتحان کنید.",
     "donations_unavailable": "اهدای کمک موقتاً در دسترس نیست. لطفاً لحظاتی دیگر دوباره تلاش کنید.",
-    "mute_with_volume_buttons": "بی‌صدا کردن با دکمه‌های تنظیم صدا"
+    "mute_with_volume_buttons": "بی‌صدا کردن با دکمه‌های تنظیم صدا",
+    "may_allah_reward_you": "خداوند شما را با خیر پاداش دهد",
+    "thank_you_for_your_generosity": "از سخاوت شما سپاسگزاریم"
 }
