@@ -3182,4 +3182,10 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'ئاۋاز كۇنۇپكىلىرى بىلەن جىم قىلش';
+
+  @override
+  String get may_allah_reward_you => 'ئاللاھ سىزنى ياخشىلىق بىلەن مۇكاپاتلىسۇن';
+
+  @override
+  String get thank_you_for_your_generosity => 'سېخىيلىقىڭىز ئۈچۈن رەھمەت';
 }

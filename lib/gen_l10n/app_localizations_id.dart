@@ -3183,4 +3183,11 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Bisukan dengan tombol volume';
+
+  @override
+  String get may_allah_reward_you => 'Semoga Allah membalasmu dengan kebaikan';
+
+  @override
+  String get thank_you_for_your_generosity =>
+      'Terima kasih atas kemurahan hati Anda';
 }

@@ -6113,6 +6113,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Mute with volume buttons'**
   String get mute_with_volume_buttons;
+
+  /// No description provided for @may_allah_reward_you.
+  ///
+  /// In en, this message translates to:
+  /// **'May Allah reward you with goodness'**
+  String get may_allah_reward_you;
+
+  /// No description provided for @thank_you_for_your_generosity.
+  ///
+  /// In en, this message translates to:
+  /// **'Thank you for your generosity'**
+  String get thank_you_for_your_generosity;
 }
 
 class _AppLocalizationsDelegate

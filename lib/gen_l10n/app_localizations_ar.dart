@@ -3141,4 +3141,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'كتم الصوت باستخدام أزرار مستوى الصوت';
+
+  @override
+  String get may_allah_reward_you => 'جزاك الله خيرًا';
+
+  @override
+  String get thank_you_for_your_generosity => 'شكرًا لك على كرمك';
 }

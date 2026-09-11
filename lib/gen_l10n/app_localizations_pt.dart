@@ -3206,4 +3206,11 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Silenciar com os botões de volume';
+
+  @override
+  String get may_allah_reward_you => 'Que Allah vos recompense com o bem';
+
+  @override
+  String get thank_you_for_your_generosity =>
+      'Obrigado pela vossa generosidade';
 }

@@ -3187,4 +3187,11 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Utišaj tipkama za jačinu zvuka';
+
+  @override
+  String get may_allah_reward_you => 'Neka vas Allah nagradi dobrim';
+
+  @override
+  String get thank_you_for_your_generosity =>
+      'Hvala vam na vašoj velikodušnosti';
 }

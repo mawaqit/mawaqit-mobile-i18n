@@ -3196,4 +3196,10 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Hesht me butonat e volumit';
+
+  @override
+  String get may_allah_reward_you => 'Allahu ju shpërbleftë me të mira';
+
+  @override
+  String get thank_you_for_your_generosity => 'Faleminderit për bujarinë tuaj';
 }

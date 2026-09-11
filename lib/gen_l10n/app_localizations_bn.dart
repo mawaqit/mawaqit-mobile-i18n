@@ -3181,4 +3181,11 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'ভলিউম বোতাম দিয়ে নিঃশব্দ করুন';
+
+  @override
+  String get may_allah_reward_you => 'আল্লাহ আপনাকে উত্তম প্রতিদান দিন';
+
+  @override
+  String get thank_you_for_your_generosity =>
+      'আপনার উদারতার জন্য আপনাকে ধন্যবাদ';
 }

@@ -3179,4 +3179,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Wyciszanie przyciskami głośności';
+
+  @override
+  String get may_allah_reward_you => 'Niech Allah wynagrodzi Cię dobrem';
+
+  @override
+  String get thank_you_for_your_generosity => 'Dziękuję za Twoją hojność';
 }

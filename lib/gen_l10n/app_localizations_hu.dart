@@ -3197,4 +3197,11 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get mute_with_volume_buttons => 'Némítás a hangerőgombokkal';
+
+  @override
+  String get may_allah_reward_you =>
+      'Allah jutalmazzon meg benneteket jósággal';
+
+  @override
+  String get thank_you_for_your_generosity => 'Köszönjük nagylelkűségedet';
 }
