@@ -3121,7 +3121,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get notification_permission_required =>
-      'Notification permission required';
+      'مۆڵەتی ئاگادارکردنەوە پێویستە';
 
   @override
   String get enable_location => 'Enable Location';

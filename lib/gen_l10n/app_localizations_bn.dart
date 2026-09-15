@@ -3126,7 +3126,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get notifications_required_for_adhan =>
-      'يجب تفعيل الإشعارات ليتمكن تطبيق مواقيت من تشغيل الأذان وإرسال إشعارات الصلاة.';
+      'MAWAQIT-এর আজান বাজানো এবং নামাজের বিজ্ঞপ্তি পাঠানোর জন্য বিজ্ঞপ্তি চালু করতে হবে।.';
 
   @override
   String get location_required_for_prayer_times =>
