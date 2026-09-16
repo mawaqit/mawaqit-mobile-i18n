@@ -1859,5 +1859,7 @@
     "donations_unavailable": "Darowizny są tymczasowo niedostępne. Spróbuj ponownie za chwilę.",
     "mute_with_volume_buttons": "Wyciszanie przyciskami głośności",
     "may_allah_reward_you": "Niech Allah wynagrodzi Cię dobrem",
-    "thank_you_for_your_generosity": "Dziękuję za Twoją hojność"
+    "thank_you_for_your_generosity": "Dziękuję za Twoją hojność",
+    "bluetooth_permission": "Bluetooth Permission",
+    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
 }
