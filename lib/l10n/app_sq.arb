@@ -1860,6 +1860,6 @@
     "mute_with_volume_buttons": "Hesht me butonat e volumit",
     "may_allah_reward_you": "Allahu ju shpërbleftë me të mira",
     "thank_you_for_your_generosity": "Faleminderit për bujarinë tuaj",
-    "bluetooth_permission": "Bluetooth Permission",
-    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
+    "bluetooth_permission": "Leja e Bluetooth-it",
+    "bluetooth_permission_required_garmin": "Kërkohet për t'u lidhur dhe sinkronizuar me orën tuaj Garmin."
 }
