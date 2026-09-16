@@ -1860,6 +1860,6 @@
     "mute_with_volume_buttons": "Dempen met de volumeknoppen",
     "may_allah_reward_you": "Moge Allah u met het goede belonen",
     "thank_you_for_your_generosity": "Bedankt voor uw vrijgevigheid",
-    "bluetooth_permission": "Bluetooth Permission",
-    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
+    "bluetooth_permission": "Bluetooth-toestemming",
+    "bluetooth_permission_required_garmin": "Vereist om te verbinden en synchroniseren met uw Garmin-horloge."
 }
