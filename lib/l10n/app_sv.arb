@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1860,6 +1860,6 @@
     "mute_with_volume_buttons": "Stäng av ljudet med volymknapparna",
     "may_allah_reward_you": "Må Allah belöna er med godhet",
     "thank_you_for_your_generosity": "Tack för er generositet",
-    "bluetooth_permission": "Bluetooth Permission",
-    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
+    "bluetooth_permission": "Bluetooth-tillåtelse",
+    "bluetooth_permission_required_garmin": "Krävs för att ansluta och synkronisera med din Garmin-klocka."
 }
