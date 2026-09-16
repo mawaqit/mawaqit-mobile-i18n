@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1859,5 +1859,7 @@
     "donations_unavailable": "Las donaciones no están disponibles temporalmente. Inténtalo de nuevo en unos momentos.",
     "mute_with_volume_buttons": "Silenciar con los botones de volumen",
     "may_allah_reward_you": "Que Allah te recompense con el bien",
-    "thank_you_for_your_generosity": "Gracias por tu generosidad"
+    "thank_you_for_your_generosity": "Gracias por tu generosidad",
+    "bluetooth_permission": "Permiso de Bluetooth",
+    "bluetooth_permission_required_garmin": "Requerido para conectar y sincronizar con tu reloj Garmin."
 }
