@@ -1860,6 +1860,6 @@
     "mute_with_volume_buttons": "Отключение звука кнопками громкости",
     "may_allah_reward_you": "Пусть Аллах воздаст вам благом",
     "thank_you_for_your_generosity": "Спасибо за вашу щедрость",
-    "bluetooth_permission": "Bluetooth Permission",
-    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
+    "bluetooth_permission": "Разрешение Bluetooth",
+    "bluetooth_permission_required_garmin": "Требуется для подключения и синхронизации с часами Garmin."
 }
