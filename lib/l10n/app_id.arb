@@ -1859,5 +1859,7 @@
     "donations_unavailable": "Donasi untuk sementara tidak tersedia. Silakan coba lagi sebentar lagi.",
     "mute_with_volume_buttons": "Bisukan dengan tombol volume",
     "may_allah_reward_you": "Semoga Allah membalasmu dengan kebaikan",
-    "thank_you_for_your_generosity": "Terima kasih atas kemurahan hati Anda"
+    "thank_you_for_your_generosity": "Terima kasih atas kemurahan hati Anda",
+    "bluetooth_permission": "Bluetooth Permission",
+    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
 }
