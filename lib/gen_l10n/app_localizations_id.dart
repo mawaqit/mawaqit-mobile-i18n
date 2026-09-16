@@ -3192,9 +3192,9 @@ class AppLocalizationsId extends AppLocalizations {
       'Terima kasih atas kemurahan hati Anda';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'Izin Bluetooth';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'Diperlukan untuk menghubungkan dan menyinkronkan jam Garmin Anda.';
 }

@@ -3179,9 +3179,9 @@ class AppLocalizationsSv extends AppLocalizations {
   String get thank_you_for_your_generosity => 'Tack för er generositet';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'Bluetooth-tillåtelse';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'Krävs för att ansluta och synkronisera med din Garmin-klocka.';
 }

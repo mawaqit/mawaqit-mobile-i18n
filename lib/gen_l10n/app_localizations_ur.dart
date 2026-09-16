@@ -3180,9 +3180,9 @@ class AppLocalizationsUr extends AppLocalizations {
   String get thank_you_for_your_generosity => 'آپ کی سخاوت کا شکریہ';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'بلوٹوتھ کی اجازت';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'آپ کی Garmin گھڑی سے منسلک اور ہم آہنگ کرنے کے لیے درکار ہے۔';
 }

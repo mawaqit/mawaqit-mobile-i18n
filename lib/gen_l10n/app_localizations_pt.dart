@@ -3215,9 +3215,9 @@ class AppLocalizationsPt extends AppLocalizations {
       'Obrigado pela vossa generosidade';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'Permissão de Bluetooth';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'Necessário para conectar e sincronizar com o seu relógio Garmin.';
 }

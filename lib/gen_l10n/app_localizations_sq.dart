@@ -3204,9 +3204,9 @@ class AppLocalizationsSq extends AppLocalizations {
   String get thank_you_for_your_generosity => 'Faleminderit për bujarinë tuaj';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'Leja e Bluetooth-it';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'Kërkohet për t\'u lidhur dhe sinkronizuar me orën tuaj Garmin.';
 }

@@ -3206,9 +3206,9 @@ class AppLocalizationsHu extends AppLocalizations {
   String get thank_you_for_your_generosity => 'Köszönjük nagylelkűségedet';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'Bluetooth engedély';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'Szükséges a Garmin órához való kapcsolódáshoz és szinkronizáláshoz.';
 }

@@ -3193,9 +3193,9 @@ class AppLocalizationsKu extends AppLocalizations {
   String get thank_you_for_your_generosity => 'Thank you for your generosity';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'ڕێگەپێدانی بلوتووس';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'پێویستە بۆ پەیوەستکردن و هاوکاتکردن لەگەڵ کاتژمێری Garmin.';
 }

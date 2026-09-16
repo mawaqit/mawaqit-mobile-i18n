@@ -3190,9 +3190,9 @@ class AppLocalizationsUg extends AppLocalizations {
   String get thank_you_for_your_generosity => 'سېخىيلىقىڭىز ئۈچۈن رەھمەت';
 
   @override
-  String get bluetooth_permission => 'Bluetooth Permission';
+  String get bluetooth_permission => 'كۆكچىش ھوقۇقى';
 
   @override
   String get bluetooth_permission_required_garmin =>
-      'Required to connect and sync with your Garmin watch.';
+      'Garmin سائىتىگە ئۇلاش ۋە ماسقەدەملەش ئۈچۈن زۆرۈر.';
 }
