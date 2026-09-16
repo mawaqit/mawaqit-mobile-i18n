@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1859,5 +1859,7 @@
     "donations_unavailable": "عطیات عارضی طور پر دستیاب نہیں ہیں۔ براہِ کرم کچھ دیر بعد دوبارہ کوشش کریں۔.",
     "mute_with_volume_buttons": "والیوم بٹن سے خاموش کریں",
     "may_allah_reward_you": "اللہ آپ کو جزائے خیر عطا فرمائے",
-    "thank_you_for_your_generosity": "آپ کی سخاوت کا شکریہ"
+    "thank_you_for_your_generosity": "آپ کی سخاوت کا شکریہ",
+    "bluetooth_permission": "Bluetooth Permission",
+    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
 }
