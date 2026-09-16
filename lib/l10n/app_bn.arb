@@ -1860,6 +1860,6 @@
     "mute_with_volume_buttons": "ভলিউম বোতাম দিয়ে নিঃশব্দ করুন",
     "may_allah_reward_you": "আল্লাহ আপনাকে উত্তম প্রতিদান দিন",
     "thank_you_for_your_generosity": "আপনার উদারতার জন্য আপনাকে ধন্যবাদ",
-    "bluetooth_permission": "Bluetooth Permission",
-    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
+    "bluetooth_permission": "ব্লুটুথ অনুমতি",
+    "bluetooth_permission_required_garmin": "আপনার Garmin ঘড়ির সাথে সংযোগ ও সিঙ্ক করতে প্রয়োজন৷"
 }
