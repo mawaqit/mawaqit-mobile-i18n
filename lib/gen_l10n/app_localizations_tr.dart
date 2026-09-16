@@ -3171,4 +3171,11 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get thank_you_for_your_generosity =>
       'Cömertliğiniz için teşekkür ederiz';
+
+  @override
+  String get bluetooth_permission => 'Bluetooth İzni';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Garmin saatinize bağlanmak ve senkronize etmek için gereklidir.';
 }
