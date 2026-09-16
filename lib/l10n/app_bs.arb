@@ -1860,6 +1860,6 @@
     "mute_with_volume_buttons": "Utišaj tipkama za jačinu zvuka",
     "may_allah_reward_you": "Neka vas Allah nagradi dobrim",
     "thank_you_for_your_generosity": "Hvala vam na vašoj velikodušnosti",
-    "bluetooth_permission": "Bluetooth Permission",
-    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
+    "bluetooth_permission": "Dozvola za Bluetooth",
+    "bluetooth_permission_required_garmin": "Potrebno za povezivanje i sinhronizaciju sa Garmin satom."
 }
