@@ -3174,6 +3174,13 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get thank_you_for_your_generosity => 'از سخاوت شما سپاسگزاریم';
+
+  @override
+  String get bluetooth_permission => 'مجوز بلوتوث';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'برای اتصال و همگام‌سازی با ساعت Garmin شما لازم است.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6354,4 +6361,11 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get thank_you_for_your_generosity => 'Thank you for your generosity';
+
+  @override
+  String get bluetooth_permission => 'Bluetooth Permission';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Required to connect and sync with your Garmin watch.';
 }

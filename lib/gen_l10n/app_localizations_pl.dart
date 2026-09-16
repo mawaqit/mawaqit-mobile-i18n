@@ -3185,4 +3185,11 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get thank_you_for_your_generosity => 'Dziękuję za Twoją hojność';
+
+  @override
+  String get bluetooth_permission => 'Uprawnienie Bluetooth';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Wymagane do połączenia i synchronizacji z zegarkiem Garmin.';
 }

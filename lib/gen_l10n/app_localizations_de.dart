@@ -3221,4 +3221,11 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get thank_you_for_your_generosity =>
       'Vielen Dank für Ihre Großzügigkeit';
+
+  @override
+  String get bluetooth_permission => 'Bluetooth-Berechtigung';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Erforderlich zum Verbinden und Synchronisieren mit Ihrer Garmin-Uhr.';
 }

@@ -3192,4 +3192,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get thank_you_for_your_generosity => 'Спасибо за вашу щедрость';
+
+  @override
+  String get bluetooth_permission => 'Разрешение Bluetooth';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Требуется для подключения и синхронизации с часами Garmin.';
 }

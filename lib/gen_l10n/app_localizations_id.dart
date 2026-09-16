@@ -3190,4 +3190,11 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get thank_you_for_your_generosity =>
       'Terima kasih atas kemurahan hati Anda';
+
+  @override
+  String get bluetooth_permission => 'Izin Bluetooth';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Diperlukan untuk menghubungkan dan menyinkronkan jam Garmin Anda.';
 }

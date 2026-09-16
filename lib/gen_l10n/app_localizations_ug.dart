@@ -3188,4 +3188,11 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get thank_you_for_your_generosity => 'سېخىيلىقىڭىز ئۈچۈن رەھمەت';
+
+  @override
+  String get bluetooth_permission => 'كۆكچىش ھوقۇقى';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Garmin سائىتىگە ئۇلاش ۋە ماسقەدەملەش ئۈچۈن زۆرۈر.';
 }

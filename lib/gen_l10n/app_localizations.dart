@@ -6125,6 +6125,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Thank you for your generosity'**
   String get thank_you_for_your_generosity;
+
+  /// No description provided for @bluetooth_permission.
+  ///
+  /// In en, this message translates to:
+  /// **'Bluetooth Permission'**
+  String get bluetooth_permission;
+
+  /// No description provided for @bluetooth_permission_required_garmin.
+  ///
+  /// In en, this message translates to:
+  /// **'Required to connect and sync with your Garmin watch.'**
+  String get bluetooth_permission_required_garmin;
 }
 
 class _AppLocalizationsDelegate

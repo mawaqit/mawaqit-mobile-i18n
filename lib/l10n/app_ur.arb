@@ -1859,5 +1859,7 @@
     "donations_unavailable": "عطیات عارضی طور پر دستیاب نہیں ہیں۔ براہِ کرم کچھ دیر بعد دوبارہ کوشش کریں۔.",
     "mute_with_volume_buttons": "والیوم بٹن سے خاموش کریں",
     "may_allah_reward_you": "اللہ آپ کو جزائے خیر عطا فرمائے",
-    "thank_you_for_your_generosity": "آپ کی سخاوت کا شکریہ"
+    "thank_you_for_your_generosity": "آپ کی سخاوت کا شکریہ",
+    "bluetooth_permission": "بلوٹوتھ کی اجازت",
+    "bluetooth_permission_required_garmin": "آپ کی Garmin گھڑی سے منسلک اور ہم آہنگ کرنے کے لیے درکار ہے۔"
 }

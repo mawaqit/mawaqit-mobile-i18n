@@ -3147,4 +3147,11 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get thank_you_for_your_generosity => 'شكرًا لك على كرمك';
+
+  @override
+  String get bluetooth_permission => 'إذن البلوتوث';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'مطلوب للاتصال والمزامنة مع ساعة Garmin الخاصة بك.';
 }

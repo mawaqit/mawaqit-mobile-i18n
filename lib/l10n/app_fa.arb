@@ -1859,5 +1859,7 @@
     "donations_unavailable": "اهدای کمک موقتاً در دسترس نیست. لطفاً لحظاتی دیگر دوباره تلاش کنید.",
     "mute_with_volume_buttons": "بی‌صدا کردن با دکمه‌های تنظیم صدا",
     "may_allah_reward_you": "خداوند شما را با خیر پاداش دهد",
-    "thank_you_for_your_generosity": "از سخاوت شما سپاسگزاریم"
+    "thank_you_for_your_generosity": "از سخاوت شما سپاسگزاریم",
+    "bluetooth_permission": "مجوز بلوتوث",
+    "bluetooth_permission_required_garmin": "برای اتصال و همگام‌سازی با ساعت Garmin شما لازم است."
 }

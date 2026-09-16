@@ -3188,4 +3188,11 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get thank_you_for_your_generosity =>
       'আপনার উদারতার জন্য আপনাকে ধন্যবাদ';
+
+  @override
+  String get bluetooth_permission => 'ব্লুটুথ অনুমতি';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'আপনার Garmin ঘড়ির সাথে সংযোগ ও সিঙ্ক করতে প্রয়োজন৷';
 }

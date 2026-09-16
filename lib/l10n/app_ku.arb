@@ -1859,5 +1859,7 @@
     "donations_unavailable": "Donations are temporarily unavailable. Please try again in a moment.",
     "mute_with_volume_buttons": "Mute with volume buttons",
     "may_allah_reward_you": "May Allah reward you with goodness",
-    "thank_you_for_your_generosity": "Thank you for your generosity"
+    "thank_you_for_your_generosity": "Thank you for your generosity",
+    "bluetooth_permission": "ڕێگەپێدانی بلوتووس",
+    "bluetooth_permission_required_garmin": "پێویستە بۆ پەیوەستکردن و هاوکاتکردن لەگەڵ کاتژمێری Garmin."
 }

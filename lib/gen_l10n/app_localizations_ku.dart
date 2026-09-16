@@ -3191,4 +3191,11 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get thank_you_for_your_generosity => 'Thank you for your generosity';
+
+  @override
+  String get bluetooth_permission => 'ڕێگەپێدانی بلوتووس';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'پێویستە بۆ پەیوەستکردن و هاوکاتکردن لەگەڵ کاتژمێری Garmin.';
 }

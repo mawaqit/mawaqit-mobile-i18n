@@ -1859,5 +1859,7 @@
     "donations_unavailable": "ئىئانىلەر ۋاقىتلىق ئىشلەتكىلى بولمايدۇ. بىر ئازدىن كېيىن قايتا سىناپ بېقىڭ.",
     "mute_with_volume_buttons": "ئاۋاز كۇنۇپكىلىرى بىلەن جىم قىلش",
     "may_allah_reward_you": "ئاللاھ سىزنى ياخشىلىق بىلەن مۇكاپاتلىسۇن",
-    "thank_you_for_your_generosity": "سېخىيلىقىڭىز ئۈچۈن رەھمەت"
+    "thank_you_for_your_generosity": "سېخىيلىقىڭىز ئۈچۈن رەھمەت",
+    "bluetooth_permission": "كۆكچىش ھوقۇقى",
+    "bluetooth_permission_required_garmin": "Garmin سائىتىگە ئۇلاش ۋە ماسقەدەملەش ئۈچۈن زۆرۈر."
 }

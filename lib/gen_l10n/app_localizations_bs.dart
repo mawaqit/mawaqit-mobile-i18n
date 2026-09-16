@@ -3194,4 +3194,11 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get thank_you_for_your_generosity =>
       'Hvala vam na vašoj velikodušnosti';
+
+  @override
+  String get bluetooth_permission => 'Dozvola za Bluetooth';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Potrebno za povezivanje i sinhronizaciju sa Garmin satom.';
 }

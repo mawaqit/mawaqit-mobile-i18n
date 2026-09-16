@@ -3201,4 +3201,11 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get thank_you_for_your_generosity => 'Bedankt voor uw vrijgevigheid';
+
+  @override
+  String get bluetooth_permission => 'Bluetooth-toestemming';
+
+  @override
+  String get bluetooth_permission_required_garmin =>
+      'Vereist om te verbinden en synchroniseren met uw Garmin-horloge.';
 }
