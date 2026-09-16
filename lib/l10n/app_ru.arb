@@ -1859,5 +1859,7 @@
     "donations_unavailable": "Пожертвования временно недоступны. Пожалуйста, попробуйте снова через некоторое время.",
     "mute_with_volume_buttons": "Отключение звука кнопками громкости",
     "may_allah_reward_you": "Пусть Аллах воздаст вам благом",
-    "thank_you_for_your_generosity": "Спасибо за вашу щедрость"
+    "thank_you_for_your_generosity": "Спасибо за вашу щедрость",
+    "bluetooth_permission": "Bluetooth Permission",
+    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
 }
