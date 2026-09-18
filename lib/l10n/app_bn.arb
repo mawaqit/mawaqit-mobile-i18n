@@ -1839,7 +1839,7 @@
     "for_mosque_administrators_only": "শুধুমাত্র মসজিদের প্রশাসকদের জন্য",
     "admins_only": "শুধু অ্যাডমিন",
     "notification_permission_required": "বিজ্ঞপ্তির অনুমতি প্রয়োজন",
-    "enable_location": "Enable Location",
+    "enable_location": "লোকেশন সক্রিয় করুন",
     "enable_notifications": "বিজ্ঞপ্তি চালু করুন",
     "notifications_required_for_adhan": "MAWAQIT-এর আজান বাজানো এবং নামাজের বিজ্ঞপ্তি পাঠানোর জন্য বিজ্ঞপ্তি চালু করতে হবে।.",
     "location_required_for_prayer_times": "সঠিক নামাজের সময়, মসজিদের তথ্য এবং আবহাওয়ার আপডেট পেতে অবস্থান প্রয়োজন।.",
