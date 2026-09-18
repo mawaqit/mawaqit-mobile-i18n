@@ -3119,7 +3119,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get notification_permission_required => 'বিজ্ঞপ্তির অনুমতি প্রয়োজন';
 
   @override
-  String get enable_location => 'Enable Location';
+  String get enable_location => 'লোকেশন সক্রিয় করুন';
 
   @override
   String get enable_notifications => 'বিজ্ঞপ্তি চালু করুন';
