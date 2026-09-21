@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa_AF",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1861,5 +1861,9 @@
     "may_allah_reward_you": "May Allah reward you with goodness",
     "thank_you_for_your_generosity": "Thank you for your generosity",
     "bluetooth_permission": "Bluetooth Permission",
-    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch."
+    "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch.",
+    "Dr-Abu-Bakr-Muhammad": "دکتر ابوبکر محمد زکریا",
+    "Bayan-ul-Quran-Dr. Israr Ahmed": "Bayan-ul-Quran (Dr. Israr Ahmed)",
+    "Maulana-Azizul-Haque-al-Umari": "Maulana Azizul Haque al-Umari",
+    "Hindi": "هندی"
 }

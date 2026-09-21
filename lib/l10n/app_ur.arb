@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1861,5 +1861,9 @@
     "may_allah_reward_you": "اللہ آپ کو جزائے خیر عطا فرمائے",
     "thank_you_for_your_generosity": "آپ کی سخاوت کا شکریہ",
     "bluetooth_permission": "بلوٹوتھ کی اجازت",
-    "bluetooth_permission_required_garmin": "آپ کی Garmin گھڑی سے منسلک اور ہم آہنگ کرنے کے لیے درکار ہے۔"
+    "bluetooth_permission_required_garmin": "آپ کی Garmin گھڑی سے منسلک اور ہم آہنگ کرنے کے لیے درکار ہے۔",
+    "Dr-Abu-Bakr-Muhammad": "ڈاکٹر ابو بکر محمد زکریا",
+    "Bayan-ul-Quran-Dr. Israr Ahmed": "بیان القرآن (ڈاکٹر اسرار احمد)",
+    "Maulana-Azizul-Haque-al-Umari": "مولانا عزیز الحق العمری",
+    "Hindi": "ہندی"
 }

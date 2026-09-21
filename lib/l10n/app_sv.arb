@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1861,5 +1861,9 @@
     "may_allah_reward_you": "Må Allah belöna er med godhet",
     "thank_you_for_your_generosity": "Tack för er generositet",
     "bluetooth_permission": "Bluetooth-tillåtelse",
-    "bluetooth_permission_required_garmin": "Krävs för att ansluta och synkronisera med din Garmin-klocka."
+    "bluetooth_permission_required_garmin": "Krävs för att ansluta och synkronisera med din Garmin-klocka.",
+    "Dr-Abu-Bakr-Muhammad": "Dr Abu Bakr Muhammad",
+    "Bayan-ul-Quran-Dr. Israr Ahmed": "Bayan-ul-Quran (Dr. Israr Ahmed)",
+    "Maulana-Azizul-Haque-al-Umari": "Maulana Azizul Haque al-Umari",
+    "Hindi": "Hindi"
 }
