@@ -6147,7 +6147,7 @@ abstract class AppLocalizations {
   /// No description provided for @dr_abu_bakr_muhammad.
   ///
   /// In en, this message translates to:
-  /// **'Dr Abu Bakr Muhammad'**
+  /// **'Dr Abu Bakr Muhammad Zakaria'**
   String get dr_abu_bakr_muhammad;
 
   /// No description provided for @maulana_azizul_haque_al_umari.
