@@ -3221,4 +3221,16 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'Requerido para conectar y sincronizar con tu reloj Garmin.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr Israr Ahmed)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'Dr. Abu Bakr Muhammad Zakaria';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
+
+  @override
+  String get hindi => 'Hindi';
 }

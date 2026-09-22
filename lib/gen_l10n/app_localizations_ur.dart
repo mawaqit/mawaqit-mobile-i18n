@@ -3185,4 +3185,16 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'آپ کی Garmin گھڑی سے منسلک اور ہم آہنگ کرنے کے لیے درکار ہے۔';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'بیان القرآن (ڈاکٹر اسرار احمد)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'ڈاکٹر ابو بکر محمد زکریا';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'مولانا عزیز الحق العمری';
+
+  @override
+  String get hindi => 'ہندی';
 }

@@ -3195,4 +3195,16 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'আপনার Garmin ঘড়ির সাথে সংযোগ ও সিঙ্ক করতে প্রয়োজন৷';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'বয়ানুল কুরআন (ড. ইসরার আহমদ)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'ড. আবু বকর মুহাম্মাদ যাকারিয়া';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'মাওলানা আজিজুল হক আল-উমারী';
+
+  @override
+  String get hindi => 'হিন্দি';
 }

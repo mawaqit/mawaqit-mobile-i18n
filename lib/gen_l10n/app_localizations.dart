@@ -6137,6 +6137,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Required to connect and sync with your Garmin watch.'**
   String get bluetooth_permission_required_garmin;
+
+  /// No description provided for @bayan_ul_quran_israr_ahmed.
+  ///
+  /// In en, this message translates to:
+  /// **'Bayan-ul-Quran (Dr. Israr Ahmed)'**
+  String get bayan_ul_quran_israr_ahmed;
+
+  /// No description provided for @dr_abu_bakr_muhammad.
+  ///
+  /// In en, this message translates to:
+  /// **'Dr Abu Bakr Muhammad'**
+  String get dr_abu_bakr_muhammad;
+
+  /// No description provided for @maulana_azizul_haque_al_umari.
+  ///
+  /// In en, this message translates to:
+  /// **'Maulana Azizul Haque al-Umari'**
+  String get maulana_azizul_haque_al_umari;
+
+  /// No description provided for @hindi.
+  ///
+  /// In en, this message translates to:
+  /// **'Hindi'**
+  String get hindi;
 }
 
 class _AppLocalizationsDelegate
