@@ -3209,4 +3209,16 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'Kërkohet për t\'u lidhur dhe sinkronizuar me orën tuaj Garmin.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'Bejan-ul-Kuran (Dr. Israr Ahmed)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'Dr. Abu Bakr Muhammad Zakaria';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
+
+  @override
+  String get hindi => 'Hindisht';
 }

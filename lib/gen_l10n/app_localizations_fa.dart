@@ -3181,6 +3181,18 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'برای اتصال و همگام‌سازی با ساعت Garmin شما لازم است.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'بیان‌القرآن (دکتر اسرار احمد)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'ډاکټر ابو بکر محمد زکریا';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'مولانا عزیزالحق العمری';
+
+  @override
+  String get hindi => 'هندی';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6368,4 +6380,16 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get bluetooth_permission_required_garmin =>
       'Required to connect and sync with your Garmin watch.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul Quran Dr. Israr Ahmed';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'دکتر ابوبکر محمد زکریا';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
+
+  @override
+  String get hindi => 'هندی';
 }

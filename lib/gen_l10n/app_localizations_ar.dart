@@ -3154,4 +3154,16 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'مطلوب للاتصال والمزامنة مع ساعة Garmin الخاصة بك.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'بيان القرآن (الدكتور إسـرار أحمد)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'مولانا عزيز الحق العمري';
+
+  @override
+  String get hindi => 'الهندية';
 }

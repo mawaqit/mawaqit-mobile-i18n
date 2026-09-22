@@ -2632,7 +2632,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Moskéer registreras på MAWAQIT webbplats, där teamet granskar dem innan kontot aktiveras.';
 
   @override
-  String get admin_registerMosque => 'Registrera en moské';
+  String get admin_registerMosque => 'Registrera moské';
 
   @override
   String get admin_registerUnavailable =>
@@ -2645,7 +2645,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_signInAgain => 'Logga in igen';
 
   @override
-  String get admin_sessionExpired => 'Din session har gått ut.';
+  String get admin_sessionExpired => 'Din session har löpt ut.';
 
   @override
   String get admin_myMosques => 'Mina moskéer';
@@ -2699,7 +2699,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_sectionPrayerDuration => 'Bönens längd';
 
   @override
-  String get admin_sectionDuas => 'Böner och hadither';
+  String get admin_sectionDuas => 'Dua och hadither';
 
   @override
   String get admin_sectionEid => 'Eid och Ramadan';
@@ -2757,13 +2757,13 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_imsakOff => 'Av';
 
   @override
-  String get admin_eidNoPrayerTime => 'Ingen tid angiven';
+  String get admin_eidNoPrayerTime => 'Ingen bönetid inställd';
 
   @override
   String get admin_adhanSoundLabel => 'Ljud';
 
   @override
-  String get admin_adhanPlaysFor => 'SPELAS VID';
+  String get admin_adhanPlaysFor => 'Spelas för ';
 
   @override
   String get admin_adhanDurationLabel => 'Adhans längd';
@@ -2779,29 +2779,29 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get admin_customAdhanMissing =>
-      'Ingen fil uppladdad än — lägg till en på webbplatsen.';
+      'Ingen fil har laddats upp än – lägg till en på webbplatsen';
 
   @override
   String get admin_adhanNoPrayers => 'Inga böner';
 
   @override
-  String get admin_prayerDurationGroup => 'MINUTER PER BÖN';
+  String get admin_prayerDurationGroup => 'Minuter per bön ';
 
   @override
   String get admin_prayerDurationHelp =>
-      'Den svarta skärmen under bönen och bönerna efter den varar så här länge.';
+      'Den svarta skärmen under bönen och dua efteråt varar båda så här länge. ';
 
   @override
   String get admin_duasInvocations => 'Dua ';
 
   @override
-  String get admin_duasHadiths => 'HADITHER';
+  String get admin_duasHadiths => 'Hadither ';
 
   @override
   String get admin_duaAfterAdhan => 'Dua efter adhan';
 
   @override
-  String get admin_duaAfterPrayer => 'Böner efter bönen';
+  String get admin_duaAfterPrayer => 'Dua efter bönen';
 
   @override
   String get admin_randomHadith => 'Visa en hadith var 5:e minut';
@@ -3184,4 +3184,16 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'Krävs för att ansluta och synkronisera med din Garmin-klocka.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr.Israr Ahmed)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'Dr Abu bakr Mohammed Zakaria ';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
+
+  @override
+  String get hindi => 'Hindi';
 }

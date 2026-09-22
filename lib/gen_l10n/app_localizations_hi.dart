@@ -3194,4 +3194,16 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'Required to connect and sync with your Garmin watch.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'बयान-उल-क़ुरआन (डॉ. इसरार अहमद)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'डॉ. अबू बक्र मुहम्मद ज़कारिया';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'मौलाना अज़ीज़ुल हक़ अल-उमरी';
+
+  @override
+  String get hindi => 'हिन्दी';
 }

@@ -3199,4 +3199,16 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get bluetooth_permission_required_garmin =>
       'Требуется для подключения и синхронизации с часами Garmin.';
+
+  @override
+  String get bayan_ul_quran_israr_ahmed => 'Баян-уль-Куран (д-р Исрар Ахмед)';
+
+  @override
+  String get dr_abu_bakr_muhammad => 'Доктор Абу Бакр Мухаммад Закария';
+
+  @override
+  String get maulana_azizul_haque_al_umari => 'Маулана Азизуль Хак аль-Умари';
+
+  @override
+  String get hindi => 'Хинди';
 }
