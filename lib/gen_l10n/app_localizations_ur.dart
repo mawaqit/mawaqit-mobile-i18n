@@ -3187,10 +3187,10 @@ class AppLocalizationsUr extends AppLocalizations {
       'آپ کی Garmin گھڑی سے منسلک اور ہم آہنگ کرنے کے لیے درکار ہے۔';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'بیان القرآن (ڈاکٹر اسرار احمد)';
+  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'ڈاکٹر ابو بکر محمد زکریا';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
 
   @override
   String get maulana_azizul_haque_al_umari => 'مولانا عزیز الحق العمری';

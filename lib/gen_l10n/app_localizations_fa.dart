@@ -3183,10 +3183,10 @@ class AppLocalizationsFa extends AppLocalizations {
       'برای اتصال و همگام‌سازی با ساعت Garmin شما لازم است.';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'بیان‌القرآن (دکتر اسرار احمد)';
+  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'ډاکټر ابو بکر محمد زکریا';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
 
   @override
   String get maulana_azizul_haque_al_umari => 'مولانا عزیزالحق العمری';
@@ -6382,10 +6382,10 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
       'Required to connect and sync with your Garmin watch.';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul Quran Dr. Israr Ahmed';
+  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'دکتر ابوبکر محمد زکریا';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
 
   @override
   String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';

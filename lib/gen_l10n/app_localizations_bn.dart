@@ -3197,10 +3197,10 @@ class AppLocalizationsBn extends AppLocalizations {
       'আপনার Garmin ঘড়ির সাথে সংযোগ ও সিঙ্ক করতে প্রয়োজন৷';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'বয়ানুল কুরআন (ড. ইসরার আহমদ)';
+  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'ড. আবু বকর মুহাম্মাদ যাকারিয়া';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
 
   @override
   String get maulana_azizul_haque_al_umari => 'মাওলানা আজিজুল হক আল-উমারী';
