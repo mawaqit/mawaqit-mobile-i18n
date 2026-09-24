@@ -3184,7 +3184,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'Donations are temporarily unavailable. Please try again in a moment.';
 
   @override
-  String get mute_with_volume_buttons => 'Mute with volume buttons';
+  String get mute_with_volume_buttons => 'بە دوگمەکانی دەنگەوە بێدەنگ بکە';
 
   @override
   String get may_allah_reward_you => 'May Allah reward you with goodness';
