@@ -3213,17 +3213,17 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get adhan_custom_volume_description =>
-      'Choose a dedicated volume level for the Adhan. Your original phone volume is restored when the Adhan finishes.';
+      'ئاستێکی تایبەت بۆ دەنگی ئەزان هەڵبژێرە. دوای تەواوبوونی ئەزان، ئاستی دەنگی سەرەتایی مۆبایلەکەت دەگەڕێتەوە.';
 
   @override
   String get adhan_alarm_channel_description =>
-      'Plays the Adhan through the alarm channel, so it can be heard in silent or vibrate mode, and in Do Not Disturb (DND) when alarms are allowed.';
+      'ئەزان لە ڕێگەی کەناڵی ئاگادارکەرەوەی ئەلارم پەخش دەکرێت، بۆیە لە دۆخی بێدەنگ یان لەرینەوە و هەروەها لە دۆخی مەهێڵە بێزارم بکەن (DND) کاتێک ئەلارمەکان ڕێگەپێدراون، دەبیسترێت.';
 
   @override
   String get adhan_stop_with_volume_button_description =>
-      'Stop the Adhan instantly by pressing any volume button on your phone.';
+      'بە فشاردانی هەر یەکێک لە دوگمەکانی دەنگی مۆبایلەکەت، ئەزان دەستبەجێ بوەستێنە.';
 
   @override
   String get adhan_audio_interruption_description =>
-      'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.';
+      'دەنگە کورتەکانی ئاگادارکردنەوە ئەزان ناوەستێنن. ئەزان تەنها کاتێک دەوەستێت کە پەیوەندییەکی تەلەفۆنی بێت یان ئەپێکی تر کۆنترۆڵی دەنگ وەربگرێت.';
 }
