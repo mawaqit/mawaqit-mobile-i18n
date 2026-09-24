@@ -3159,11 +3159,27 @@ class AppLocalizationsAr extends AppLocalizations {
   String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'أبو بكر محمد زكريا';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
 
   @override
   String get maulana_azizul_haque_al_umari => 'مولانا عزيز الحق العمري';
 
   @override
   String get hindi => 'الهندية';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'اختر مستوى صوت مخصصًا للأذان. ستتم استعادة مستوى صوت الهاتف الأصلي عند انتهاء الأذان.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'يتم تشغيل الأذان عبر قناة المنبّه، بحيث يمكن سماعه في الوضع الصامت أو وضع الاهتزاز، وكذلك في وضع عدم الإزعاج (DND) عندما يُسمح للمنبّهات بالعمل.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'أوقف الأذان فورًا بالضغط على أي زر من أزرار مستوى الصوت في هاتفك.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'لن توقف أصوات الإشعارات القصيرة الأذان. سيتوقف الأذان فقط إذا وردت مكالمة هاتفية أو استحوذ تطبيق آخر على الصوت.';
 }

@@ -3233,11 +3233,27 @@ class AppLocalizationsDe extends AppLocalizations {
   String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
 
   @override
   String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
 
   @override
   String get hindi => 'Hindi';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Wählen Sie eine eigene Lautstärke für den Adhan. Die ursprüngliche Lautstärke Ihres Telefons wird nach Ende des Adhans wiederhergestellt.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Der Adhan wird über den Alarmkanal abgespielt und kann daher im Lautlos- oder Vibrationsmodus sowie bei „Nicht stören“ (DND) gehört werden, wenn Alarme zugelassen sind.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Beenden Sie den Adhan sofort, indem Sie eine beliebige Lautstärketaste Ihres Telefons drücken.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Kurze Benachrichtigungstöne beenden den Adhan nicht. Er wird nur beendet, wenn ein Telefonanruf oder eine andere App die Audiowiedergabe übernimmt.';
 }

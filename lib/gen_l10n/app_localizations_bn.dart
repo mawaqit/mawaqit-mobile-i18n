@@ -3200,11 +3200,27 @@ class AppLocalizationsBn extends AppLocalizations {
   String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'ড. আবু বকর মুহাম্মাদ যাকারিয়া';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
 
   @override
   String get maulana_azizul_haque_al_umari => 'মাওলানা আজিজুল হক আল-উমারী';
 
   @override
   String get hindi => 'হিন্দি';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'আজানের জন্য একটি নির্দিষ্ট ভলিউম স্তর নির্বাচন করুন। আজান শেষ হলে আপনার ফোনের আগের ভলিউম পুনরুদ্ধার করা হবে।';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'আজান অ্যালার্ম চ্যানেলের মাধ্যমে বাজানো হয়, তাই ফোন সাইলেন্ট বা ভাইব্রেশন মোডে থাকলেও এবং অ্যালার্মের অনুমতি থাকলে ডু নট ডিস্টার্ব (DND) মোডেও এটি শোনা যায়।';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'ফোনের যেকোনো ভলিউম বোতাম চাপলে আজান সঙ্গে সঙ্গে বন্ধ হয়ে যাবে।';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'ছোট বিজ্ঞপ্তির শব্দ আজান বন্ধ করবে না। ফোন কল এলে বা অন্য কোনো অ্যাপ অডিও নিয়ন্ত্রণ নিলে তবেই আজান বন্ধ হবে।';
 }

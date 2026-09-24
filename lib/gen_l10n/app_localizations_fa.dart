@@ -3186,13 +3186,29 @@ class AppLocalizationsFa extends AppLocalizations {
   String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
 
   @override
   String get maulana_azizul_haque_al_umari => 'مولانا عزیزالحق العمری';
 
   @override
   String get hindi => 'هندی';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'یک سطح صدای اختصاصی برای اذان انتخاب کنید. پس از پایان اذان، سطح صدای اصلی گوشی شما بازیابی می‌شود.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'اذان از طریق کانال زنگ هشدار پخش می‌شود، بنابراین در حالت بی‌صدا یا لرزش و همچنین در حالت مزاحم نشوید (DND)، در صورتی که هشدارها مجاز باشند، قابل شنیدن است.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'با فشار دادن هر یک از دکمه‌های تنظیم صدای گوشی، اذان را فوراً متوقف کنید.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'صداهای کوتاه اعلان، اذان را متوقف نمی‌کنند. اذان فقط در صورتی متوقف می‌شود که تماس تلفنی برقرار شود یا برنامه دیگری کنترل صدا را به دست بگیرد.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6385,11 +6401,27 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
 
   @override
   String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
 
   @override
   String get hindi => 'هندی';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Choose a dedicated volume level for the Adhan. Your original phone volume is restored when the Adhan finishes.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Plays the Adhan through the alarm channel, so it can be heard in silent or vibrate mode, and in Do Not Disturb (DND) when alarms are allowed.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Stop the Adhan instantly by pressing any volume button on your phone.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.';
 }

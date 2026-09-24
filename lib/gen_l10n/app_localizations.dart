@@ -6161,6 +6161,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Hindi'**
   String get hindi;
+
+  /// No description provided for @adhan_custom_volume_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose a dedicated volume level for the Adhan. Your original phone volume is restored when the Adhan finishes.'**
+  String get adhan_custom_volume_description;
+
+  /// No description provided for @adhan_alarm_channel_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Plays the Adhan through the alarm channel, so it can be heard in silent or vibrate mode, and in Do Not Disturb (DND) when alarms are allowed.'**
+  String get adhan_alarm_channel_description;
+
+  /// No description provided for @adhan_stop_with_volume_button_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Stop the Adhan instantly by pressing any volume button on your phone.'**
+  String get adhan_stop_with_volume_button_description;
+
+  /// No description provided for @adhan_audio_interruption_description.
+  ///
+  /// In en, this message translates to:
+  /// **'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.'**
+  String get adhan_audio_interruption_description;
 }
 
 class _AppLocalizationsDelegate

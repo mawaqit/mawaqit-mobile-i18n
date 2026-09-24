@@ -3200,11 +3200,27 @@ class AppLocalizationsUg extends AppLocalizations {
   String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
 
   @override
   String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
 
   @override
   String get hindi => 'ھىندىچە';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'ئەزان ئۈچۈن مەخسۇس ئاۋاز دەرىجىسىنى تاللاڭ. ئەزان ئاخىرلاشقاندىن كېيىن تېلېفونىڭىزنىڭ ئەسلى ئاۋاز دەرىجىسى ئەسلىگە كەلتۈرۈلىدۇ.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'ئەزان ئاگاھلاندۇرۇش قانىلى ئارقىلىق قويۇلىدۇ، شۇڭا جىمجىت ياكى تىترەش ھالىتىدە، شۇنداقلا ئاگاھلاندۇرۇشلارغا رۇخسەت قىلىنغاندا ئاۋارە قىلماڭ (DND) ھالىتىدىمۇ ئاڭلىغىلى بولىدۇ.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'تېلېفونىڭىزدىكى خالىغان ئاۋاز كۇنۇپكىسىنى بېسىپ ئەزاننى دەرھال توختىتىڭ.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'قىسقا ئۇقتۇرۇش ئاۋازلىرى ئەزاننى توختاتمايدۇ. پەقەت تېلېفون سۆزلىشىش چاقىرىقى كەلگەندە ياكى باشقا بىر ئەپ ئاۋازنى كونترول قىلغاندا ئەزان توختايدۇ.';
 }

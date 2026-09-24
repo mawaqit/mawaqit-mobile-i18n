@@ -1863,7 +1863,11 @@
     "bluetooth_permission": "Bluetooth Permission",
     "bluetooth_permission_required_garmin": "Required to connect and sync with your Garmin watch.",
     "bayan_ul_quran_israr_ahmed": "Bayan-ul-Quran (Dr. Israr Ahmed)",
-    "dr_abu_bakr_muhammad": "Dr Abu Bakr Muhammad",
+    "dr_abu_bakr_muhammad": "Dr Abu Bakr Muhammad Zakaria",
     "maulana_azizul_haque_al_umari": "मौलाना अज़ीज़ुल हक़ अल-उमरी",
-    "hindi": "हिन्दी"
+    "hindi": "हिन्दी",
+    "adhan_custom_volume_description": "Choose a dedicated volume level for the Adhan. Your original phone volume is restored when the Adhan finishes.",
+    "adhan_alarm_channel_description": "Plays the Adhan through the alarm channel, so it can be heard in silent or vibrate mode, and in Do Not Disturb (DND) when alarms are allowed.",
+    "adhan_stop_with_volume_button_description": "Stop the Adhan instantly by pressing any volume button on your phone.",
+    "adhan_audio_interruption_description": "Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio."
 }

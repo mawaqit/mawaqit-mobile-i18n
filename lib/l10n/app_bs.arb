@@ -1863,7 +1863,11 @@
     "bluetooth_permission": "Dozvola za Bluetooth",
     "bluetooth_permission_required_garmin": "Potrebno za povezivanje i sinhronizaciju sa Garmin satom.",
     "bayan_ul_quran_israr_ahmed": "Bayan-ul-Quran (Dr. Israr Ahmed)",
-    "dr_abu_bakr_muhammad": "Dr Abu Bakr Muhammad",
+    "dr_abu_bakr_muhammad": "Dr Abu Bakr Muhammad Zakaria",
     "maulana_azizul_haque_al_umari": "Maulana Azizul Haque al-Umari",
-    "hindi": "Hindski"
+    "hindi": "Hindski",
+    "adhan_custom_volume_description": "Odaberite poseban nivo jačine zvuka za ezan. Originalni nivo jačine zvuka telefona bit će vraćen kada se ezan završi.",
+    "adhan_alarm_channel_description": "Ezan se reproducira putem kanala za alarme, tako da se može čuti u tihom ili vibracijskom načinu rada, kao i u režimu Ne uznemiravaj (DND) kada su alarmi dozvoljeni.",
+    "adhan_stop_with_volume_button_description": "Odmah zaustavite ezan pritiskom na bilo koju tipku za jačinu zvuka na telefonu.",
+    "adhan_audio_interruption_description": "Kratki zvukovi obavijesti neće zaustaviti ezan. Zaustavit će se samo ako dođe telefonski poziv ili druga aplikacija preuzme kontrolu nad zvukom."
 }

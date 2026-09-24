@@ -3214,11 +3214,27 @@ class AppLocalizationsSq extends AppLocalizations {
   String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
 
   @override
-  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad';
+  String get dr_abu_bakr_muhammad => 'Dr Abu Bakr Muhammad Zakaria';
 
   @override
   String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
 
   @override
   String get hindi => 'Hindisht';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Zgjidhni një nivel të veçantë volumi për Ezanin. Volumi fillestar i telefonit do të rikthehet kur Ezani të përfundojë.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Ezani luhet përmes kanalit të alarmit, kështu që mund të dëgjohet në modalitetin pa zë ose me dridhje, si dhe në Mos shqetëso (DND) kur alarmet lejohen.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Ndaloni menjëherë Ezanin duke shtypur cilindo buton të volumit në telefonin tuaj.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Tingujt e shkurtër të njoftimeve nuk do ta ndalojnë Ezanin. Ai do të ndalet vetëm nëse vjen një telefonatë ose një aplikacion tjetër merr kontrollin e audios.';
 }
