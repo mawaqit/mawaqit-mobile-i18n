@@ -3211,4 +3211,20 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get hindi => 'Хинди';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Выберите отдельный уровень громкости для азана. Исходный уровень громкости телефона будет восстановлен после окончания азана.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Азан воспроизводится через канал будильника, поэтому его можно услышать в беззвучном режиме или режиме вибрации, а также в режиме «Не беспокоить» (DND), если будильники разрешены.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Мгновенно остановите азан, нажав любую кнопку регулировки громкости на телефоне.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Короткие звуки уведомлений не остановят азан. Он остановится только в случае телефонного звонка или если другое приложение перехватит звук.';
 }

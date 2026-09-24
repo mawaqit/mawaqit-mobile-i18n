@@ -3207,4 +3207,20 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get hindi => 'ھىندىچە';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'ئەزان ئۈچۈن مەخسۇس ئاۋاز دەرىجىسىنى تاللاڭ. ئەزان ئاخىرلاشقاندىن كېيىن تېلېفونىڭىزنىڭ ئەسلى ئاۋاز دەرىجىسى ئەسلىگە كەلتۈرۈلىدۇ.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'ئەزان ئاگاھلاندۇرۇش قانىلى ئارقىلىق قويۇلىدۇ، شۇڭا جىمجىت ياكى تىترەش ھالىتىدە، شۇنداقلا ئاگاھلاندۇرۇشلارغا رۇخسەت قىلىنغاندا ئاۋارە قىلماڭ (DND) ھالىتىدىمۇ ئاڭلىغىلى بولىدۇ.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'تېلېفونىڭىزدىكى خالىغان ئاۋاز كۇنۇپكىسىنى بېسىپ ئەزاننى دەرھال توختىتىڭ.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'قىسقا ئۇقتۇرۇش ئاۋازلىرى ئەزاننى توختاتمايدۇ. پەقەت تېلېفون سۆزلىشىش چاقىرىقى كەلگەندە ياكى باشقا بىر ئەپ ئاۋازنى كونترول قىلغاندا ئەزان توختايدۇ.';
 }

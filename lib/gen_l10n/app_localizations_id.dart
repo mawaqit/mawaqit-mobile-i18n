@@ -3209,4 +3209,20 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get hindi => 'Hindi';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Pilih tingkat volume khusus untuk Adzan. Volume asli ponsel Anda akan dipulihkan setelah Adzan selesai.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Adzan diputar melalui saluran alarm, sehingga dapat terdengar dalam mode senyap atau getar, serta dalam mode Jangan Ganggu (DND) jika alarm diizinkan.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Hentikan Adzan secara langsung dengan menekan tombol volume apa pun di ponsel Anda.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Suara notifikasi singkat tidak akan menghentikan Adzan. Adzan hanya akan berhenti jika ada panggilan telepon atau aplikasi lain mengambil alih audio.';
 }

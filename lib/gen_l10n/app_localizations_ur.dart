@@ -3197,4 +3197,20 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get hindi => 'ہندی';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'اذان کے لیے مخصوص والیوم لیول منتخب کریں۔ اذان ختم ہونے کے بعد آپ کے فون کا اصل والیوم بحال کر دیا جائے گا.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'اذان الارم چینل کے ذریعے چلائی جاتی ہے، اس لیے اسے سائلنٹ یا وائبریٹ موڈ میں، اور جب الارمز کی اجازت ہو تو ڈو ناٹ ڈسٹرب (DND) میں بھی سنا جا سکتا ہے۔';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'اپنے فون کا کوئی بھی والیوم بٹن دبا کر اذان فوراً بند کریں.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'مختصر اطلاعاتی آوازیں اذان کو بند نہیں کریں گی۔ اذان صرف اس وقت بند ہوگی جب فون کال آئے یا کوئی دوسری ایپ آڈیو کا کنٹرول سنبھال لے۔';
 }

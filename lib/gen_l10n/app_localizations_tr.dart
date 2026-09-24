@@ -3190,4 +3190,20 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get hindi => 'Hindi';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Ezan için özel bir ses seviyesi seçin. Ezan sona erdiğinde telefonunuzun önceki ses seviyesi geri yüklenir.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Ezan alarm kanalı üzerinden çalınır; bu nedenle sessiz veya titreşim modunda ve alarmlara izin verildiğinde Rahatsız Etmeyin (DND) modunda da duyulabilir.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Telefonunuzdaki herhangi bir ses düğmesine basarak Ezanı anında durdurun.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Kısa bildirim sesleri Ezanı durdurmaz. Ezan yalnızca bir telefon görüşmesi geldiğinde veya başka bir uygulama sesi devraldığında durur.';
 }

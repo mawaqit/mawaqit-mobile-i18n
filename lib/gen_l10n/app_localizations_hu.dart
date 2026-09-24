@@ -3223,4 +3223,20 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get hindi => 'Hindi';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Válasszon külön hangerőszintet az adhánhoz. Az adhán befejezése után a telefon eredeti hangereje visszaáll.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Az adhán a riasztási csatornán keresztül szólal meg, ezért néma vagy rezgő módban, valamint Ne zavarjanak (DND) módban is hallható, ha a riasztások engedélyezve vannak.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Állítsa le az adhánt azonnal a telefon bármelyik hangerőgombjának megnyomásával.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'A rövid értesítési hangok nem állítják le az adhánt. Csak akkor áll le, ha telefonhívás érkezik, vagy egy másik alkalmazás átveszi a hang lejátszását.';
 }

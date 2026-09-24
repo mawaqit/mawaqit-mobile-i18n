@@ -3166,4 +3166,20 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get hindi => 'الهندية';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'اختر مستوى صوت مخصصًا للأذان. ستتم استعادة مستوى صوت الهاتف الأصلي عند انتهاء الأذان.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'يتم تشغيل الأذان عبر قناة المنبّه، بحيث يمكن سماعه في الوضع الصامت أو وضع الاهتزاز، وكذلك في وضع عدم الإزعاج (DND) عندما يُسمح للمنبّهات بالعمل.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'أوقف الأذان فورًا بالضغط على أي زر من أزرار مستوى الصوت في هاتفك.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'لن توقف أصوات الإشعارات القصيرة الأذان. سيتوقف الأذان فقط إذا وردت مكالمة هاتفية أو استحوذ تطبيق آخر على الصوت.';
 }

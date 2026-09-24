@@ -3213,4 +3213,20 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get hindi => 'Hindski';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Odaberite poseban nivo jačine zvuka za ezan. Originalni nivo jačine zvuka telefona bit će vraćen kada se ezan završi.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'Ezan se reproducira putem kanala za alarme, tako da se može čuti u tihom ili vibracijskom načinu rada, kao i u režimu Ne uznemiravaj (DND) kada su alarmi dozvoljeni.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Odmah zaustavite ezan pritiskom na bilo koju tipku za jačinu zvuka na telefonu.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Kratki zvukovi obavijesti neće zaustaviti ezan. Zaustavit će se samo ako dođe telefonski poziv ili druga aplikacija preuzme kontrolu nad zvukom.';
 }

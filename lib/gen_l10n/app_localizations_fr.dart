@@ -3250,4 +3250,20 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get hindi => 'Hindi';
+
+  @override
+  String get adhan_custom_volume_description =>
+      'Choisissez un niveau de volume dédié à l’Adhan. Le volume initial de votre téléphone sera rétabli à la fin de l’Adhan.';
+
+  @override
+  String get adhan_alarm_channel_description =>
+      'L’Adhan est diffusé via le canal des alarmes. Il peut ainsi être entendu en mode silencieux ou vibration, ainsi qu’en mode Ne pas déranger (NPD) lorsque les alarmes sont autorisées.';
+
+  @override
+  String get adhan_stop_with_volume_button_description =>
+      'Arrêtez immédiatement l’Adhan en appuyant sur n’importe quel bouton de volume de votre téléphone.';
+
+  @override
+  String get adhan_audio_interruption_description =>
+      'Les sons de notification courts n’arrêteront pas l’Adhan. Il ne s’arrêtera que si un appel téléphonique ou une autre application prend le contrôle du son.';
 }
