@@ -3196,7 +3196,7 @@ class AppLocalizationsHi extends AppLocalizations {
       'Required to connect and sync with your Garmin watch.';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
+  String get bayan_ul_quran_israr_ahmed => 'बयान-उल-क़ुरआन (डॉ. इसरार अहमद)';
 
   @override
   String get dr_abu_bakr_muhammad => 'डॉ. अबू बक्र मुहम्मद ज़कारिया';
