@@ -3183,7 +3183,7 @@ class AppLocalizationsFa extends AppLocalizations {
       'برای اتصال و همگام‌سازی با ساعت Garmin شما لازم است.';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
+  String get bayan_ul_quran_israr_ahmed => 'بیان‌القرآن (دکتر اسرار احمد)';
 
   @override
   String get dr_abu_bakr_muhammad => 'ډاکټر ابو بکر محمد زکریا';

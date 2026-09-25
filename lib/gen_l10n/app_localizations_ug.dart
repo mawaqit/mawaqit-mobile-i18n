@@ -3197,7 +3197,8 @@ class AppLocalizationsUg extends AppLocalizations {
       'Garmin سائىتىگە ئۇلاش ۋە ماسقەدەملەش ئۈچۈن زۆرۈر.';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
+  String get bayan_ul_quran_israr_ahmed =>
+      'بايانۇل قۇرئان (دوكتور ئىسرار ئەھمەد)';
 
   @override
   String get dr_abu_bakr_muhammad => 'دوكتور ئەبۇ بەكر مۇھەممەد زەكەرىيا';

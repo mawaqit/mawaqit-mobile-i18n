@@ -3193,7 +3193,8 @@ class AppLocalizationsKm extends AppLocalizations {
       'Required to connect and sync with your Garmin watch.';
 
   @override
-  String get bayan_ul_quran_israr_ahmed => 'Bayan-ul-Quran (Dr. Israr Ahmed)';
+  String get bayan_ul_quran_israr_ahmed =>
+      'ការពន្យល់អំពីគម្ពីរគូរ៉ាន (បណ្ឌិត អ៊ីស្រារ អាម៉ាត់)';
 
   @override
   String get dr_abu_bakr_muhammad => 'បណ្ឌិត អាប៊ូ បាក្រ មូហាំម៉ាត់';
