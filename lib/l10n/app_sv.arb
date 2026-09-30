@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1598,7 +1598,7 @@
     "something_wrong_getting_location": "Ett fel uppstod när din plats skulle hämtas. Försök igen.",
     "custom_volume": "Anpassad volym",
     "general": "Allmänt",
-    "prayer_location": "Bön och Plats",
+    "prayer_location": "Bön och plats",
     "privacy": "Sekretess",
     "play_full_adhan": "Spela upp hela adhan",
     "full_adhan_will_keep_repeating": "Hela adhan uppspelningen upprepas tills du stänger av den ",
