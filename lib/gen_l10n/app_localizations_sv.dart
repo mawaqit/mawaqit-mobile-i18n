@@ -2544,7 +2544,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get general => 'Allmänt';
 
   @override
-  String get prayer_location => 'Bön och Plats';
+  String get prayer_location => 'Bön och plats';
 
   @override
   String get privacy => 'Sekretess';
