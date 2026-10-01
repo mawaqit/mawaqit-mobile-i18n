@@ -1869,5 +1869,6 @@
     "adhan_custom_volume_description": "Zgjidhni një nivel të veçantë volumi për Ezanin. Volumi fillestar i telefonit do të rikthehet kur Ezani të përfundojë.",
     "adhan_alarm_channel_description": "Ezani luhet përmes kanalit të alarmit, kështu që mund të dëgjohet në modalitetin pa zë ose me dridhje, si dhe në Mos shqetëso (DND) kur alarmet lejohen.",
     "adhan_stop_with_volume_button_description": "Ndaloni menjëherë Ezanin duke shtypur cilindo buton të volumit në telefonin tuaj.",
-    "adhan_audio_interruption_description": "Tingujt e shkurtër të njoftimeve nuk do ta ndalojnë Ezanin. Ai do të ndalet vetëm nëse vjen një telefonatë ose një aplikacion tjetër merr kontrollin e audios."
+    "adhan_audio_interruption_description": "Tingujt e shkurtër të njoftimeve nuk do ta ndalojnë Ezanin. Ai do të ndalet vetëm nëse vjen një telefonatë ose një aplikacion tjetër merr kontrollin e audios.",
+    "indo_pak": "Indi-Pakistan"
 }
