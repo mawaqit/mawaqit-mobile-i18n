@@ -2798,7 +2798,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_duasHadiths => 'Hadither ';
 
   @override
-  String get admin_duaAfterAdhan => 'Dua efter adhan';
+  String get admin_duaAfterAdhan => 'Dua efter Adhan ';
 
   @override
   String get admin_duaAfterPrayer => 'Dua efter bönen';
@@ -2823,7 +2823,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_duasAllOff => 'Allt av';
 
   @override
-  String get admin_summaryDuaAdhan => 'Efter adhan';
+  String get admin_summaryDuaAdhan => 'Efter Adhan';
 
   @override
   String get admin_summaryDuaPrayer => 'Efter bönen';
@@ -2967,13 +2967,13 @@ class AppLocalizationsSv extends AppLocalizations {
       'Du har nått gränsen för aktiverade meddelanden.';
 
   @override
-  String get admin_discardTitle => 'Kasta ändringarna?';
+  String get admin_discardTitle => '    Ignorera ändringarna?';
 
   @override
   String get admin_discardBody => 'Det du har skrivit här sparas inte.';
 
   @override
-  String get admin_discard => 'Kasta';
+  String get admin_discard => 'Ignorera \n';
 
   @override
   String get admin_keepEditing => 'Fortsätt redigera';
@@ -3035,7 +3035,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get admin_fieldMainScreen => 'Moskéns huvudskärm';
 
   @override
-  String get admin_fieldSecondaryScreen => 'Andra skärmen';
+  String get admin_fieldSecondaryScreen => '    Sekundär skärm';
 
   @override
   String get admin_fieldMobile => 'Mawaqit appen';
@@ -3083,7 +3083,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String admin_seconds(int count) {
-    return '$count s';
+    return '$count  s';
   }
 
   @override
@@ -3093,7 +3093,7 @@ class AppLocalizationsSv extends AppLocalizations {
     int enabled,
     int maxEnabled,
   ) {
-    return '$total av $maxTotal · $enabled av $maxEnabled aktiva';
+    return '$total av $maxTotal · $enabled av $maxEnabled aktiverade ';
   }
 
   @override
@@ -3212,4 +3212,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'Korta aviseringsljud stoppar inte Adhan. Den stoppas endast om ett telefonsamtal eller en annan app tar över ljudet.';
+
+  @override
+  String get indo_pak => 'Indien och Pakistan';
 }

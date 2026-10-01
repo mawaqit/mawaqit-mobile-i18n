@@ -3251,4 +3251,7 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'I brevi suoni delle notifiche non interromperanno l’Adhan. Si interromperà solo se arriva una chiamata o un’altra app prende il controllo dell’audio.';
+
+  @override
+  String get indo_pak => 'India-Pakistan';
 }

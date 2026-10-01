@@ -3224,4 +3224,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'قىسقا ئۇقتۇرۇش ئاۋازلىرى ئەزاننى توختاتمايدۇ. پەقەت تېلېفون سۆزلىشىش چاقىرىقى كەلگەندە ياكى باشقا بىر ئەپ ئاۋازنى كونترول قىلغاندا ئەزان توختايدۇ.';
+
+  @override
+  String get indo_pak => 'ھىندىستان-پاكىستان';
 }

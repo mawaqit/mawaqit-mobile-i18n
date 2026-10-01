@@ -6185,6 +6185,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.'**
   String get adhan_audio_interruption_description;
+
+  /// No description provided for @indo_pak.
+  ///
+  /// In en, this message translates to:
+  /// **'Indo-Pak'**
+  String get indo_pak;
 }
 
 class _AppLocalizationsDelegate

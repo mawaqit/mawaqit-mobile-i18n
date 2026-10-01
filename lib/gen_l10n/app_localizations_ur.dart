@@ -3213,4 +3213,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'مختصر اطلاعاتی آوازیں اذان کو بند نہیں کریں گی۔ اذان صرف اس وقت بند ہوگی جب فون کال آئے یا کوئی دوسری ایپ آڈیو کا کنٹرول سنبھال لے۔';
+
+  @override
+  String get indo_pak => 'پاک و ہند';
 }

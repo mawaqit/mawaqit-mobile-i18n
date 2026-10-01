@@ -3226,4 +3226,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'دەنگە کورتەکانی ئاگادارکردنەوە ئەزان ناوەستێنن. ئەزان تەنها کاتێک دەوەستێت کە پەیوەندییەکی تەلەفۆنی بێت یان ئەپێکی تر کۆنترۆڵی دەنگ وەربگرێت.';
+
+  @override
+  String get indo_pak => 'هند و پاکستان';
 }

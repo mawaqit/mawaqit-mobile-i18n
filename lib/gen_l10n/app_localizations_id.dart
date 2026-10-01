@@ -3225,4 +3225,7 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'Suara notifikasi singkat tidak akan menghentikan Adzan. Adzan hanya akan berhenti jika ada panggilan telepon atau aplikasi lain mengambil alih audio.';
+
+  @override
+  String get indo_pak => 'India-Pakistan';
 }
