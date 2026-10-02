@@ -3204,7 +3204,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get dr_abu_bakr_muhammad => 'دوكتور ئەبۇ بەكر مۇھەممەد زەكەرىيا';
 
   @override
-  String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
+  String get maulana_azizul_haque_al_umari => 'مەۋلانا ئەزىزۇل ھەق ئەل-ئۆمەرى';
 
   @override
   String get hindi => 'ھىندىچە';
