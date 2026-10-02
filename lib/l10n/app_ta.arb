@@ -1869,5 +1869,6 @@
     "adhan_custom_volume_description": "Choose a dedicated volume level for the Adhan. Your original phone volume is restored when the Adhan finishes.",
     "adhan_alarm_channel_description": "Plays the Adhan through the alarm channel, so it can be heard in silent or vibrate mode, and in Do Not Disturb (DND) when alarms are allowed.",
     "adhan_stop_with_volume_button_description": "Stop the Adhan instantly by pressing any volume button on your phone.",
-    "adhan_audio_interruption_description": "Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio."
+    "adhan_audio_interruption_description": "Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.",
+    "indo_pak": "இந்தியா–பாகிஸ்தான்"
 }

@@ -3209,6 +3209,9 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'صداهای کوتاه اعلان، اذان را متوقف نمی‌کنند. اذان فقط در صورتی متوقف می‌شود که تماس تلفنی برقرار شود یا برنامه دیگری کنترل صدا را به دست بگیرد.';
+
+  @override
+  String get indo_pak => 'هند و پاکستان';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6424,4 +6427,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get adhan_audio_interruption_description =>
       'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.';
+
+  @override
+  String get indo_pak => 'هند-پاکستان';
 }

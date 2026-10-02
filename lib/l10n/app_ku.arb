@@ -1038,8 +1038,8 @@
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
-    "hasan_nahi": "Hasan Nahi",
-    "albanian": "Albanian",
+    "hasan_nahi": "حەسەن ناهی",
+    "albanian": "ئەڵبانیایی",
     "delete_all": "Delete All",
     "@delete_all": {
         "description": "-> delete_all"
@@ -1200,7 +1200,7 @@
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
-    "shaykh_aminuddin_muhammad": "Shaykh Aminuddin Muhammad",
+    "shaykh_aminuddin_muhammad": "شێخ ئەمینەدین محەممەد",
     "hafs_an_asim": "Hafs ʿan ʿĀṣim",
     "most_widespread_riwayah": "Riwāyahê herî berfireh li dinyayê",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
@@ -1586,11 +1586,11 @@
     "play_in_silent_mode": "لە دۆخی بێدەنگدا لێبدە",
     "notifications_not_arriving": "ئاگادارکردنەوەکان ناگەن؟",
     "android_phones_aggressively": "هەندێک لە مۆبایلەکانی ئەندرۆید، بە شێوەیەکی توند ئەپەکان لە پشتەوە دادەخەن.",
-    "elmir_kuliev": "Elmir Kuliev",
+    "elmir_kuliev": "ئەلمیر کولییێڤ",
     "@elmir_kuliev": {
         "description": "-> Elmir Kuliev"
     },
-    "besim_korkut": "Besim Korkut",
+    "besim_korkut": "بەسیم کۆرکوت",
     "@besim_korkut": {
         "description": "-> besim_korkut"
     },
@@ -1602,7 +1602,7 @@
     "privacy": "تایبەتمەندی",
     "play_full_adhan": "ئەذانی تەواو پخش بکە",
     "full_adhan_will_keep_repeating": "ئەذانی تەواو بەردەوام دووبارە دەبێتەوە تا دایدەخەیت.",
-    "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
+    "hussein_taji_kal_dari": "هوسێن تاجی کال داری",
     "settings_language_fa": "فارسی",
     "mawaqit_non_profit": "ڕێکخراوی ناپارەیی MAWAQIT · بۆ هەمووان بەخۆڕایی",
     "garmin_watch_detected": "کاتژمێری Garmin دۆزرایەوە",
@@ -1864,10 +1864,11 @@
     "bluetooth_permission_required_garmin": "پێویستە بۆ پەیوەستکردن و هاوکاتکردن لەگەڵ کاتژمێری Garmin.",
     "bayan_ul_quran_israr_ahmed": "بەیانی قورئان (د. ئیسڕار ئەحمەد)",
     "dr_abu_bakr_muhammad": "د. ئەبو بەکر محەممەد",
-    "maulana_azizul_haque_al_umari": "Maulana Azizul Haque al-Umari",
+    "maulana_azizul_haque_al_umari": "مەولانا عەزیزول حەق ئەل‌عومەری",
     "hindi": "هیندی",
     "adhan_custom_volume_description": "ئاستێکی تایبەت بۆ دەنگی ئەزان هەڵبژێرە. دوای تەواوبوونی ئەزان، ئاستی دەنگی سەرەتایی مۆبایلەکەت دەگەڕێتەوە.",
     "adhan_alarm_channel_description": "ئەزان لە ڕێگەی کەناڵی ئاگادارکەرەوەی ئەلارم پەخش دەکرێت، بۆیە لە دۆخی بێدەنگ یان لەرینەوە و هەروەها لە دۆخی مەهێڵە بێزارم بکەن (DND) کاتێک ئەلارمەکان ڕێگەپێدراون، دەبیسترێت.",
     "adhan_stop_with_volume_button_description": "بە فشاردانی هەر یەکێک لە دوگمەکانی دەنگی مۆبایلەکەت، ئەزان دەستبەجێ بوەستێنە.",
-    "adhan_audio_interruption_description": "دەنگە کورتەکانی ئاگادارکردنەوە ئەزان ناوەستێنن. ئەزان تەنها کاتێک دەوەستێت کە پەیوەندییەکی تەلەفۆنی بێت یان ئەپێکی تر کۆنترۆڵی دەنگ وەربگرێت."
+    "adhan_audio_interruption_description": "دەنگە کورتەکانی ئاگادارکردنەوە ئەزان ناوەستێنن. ئەزان تەنها کاتێک دەوەستێت کە پەیوەندییەکی تەلەفۆنی بێت یان ئەپێکی تر کۆنترۆڵی دەنگ وەربگرێت.",
+    "indo_pak": "هند و پاکستان"
 }

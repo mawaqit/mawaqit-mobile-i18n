@@ -3229,4 +3229,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'Kratki zvukovi obavijesti neće zaustaviti ezan. Zaustavit će se samo ako dođe telefonski poziv ili druga aplikacija preuzme kontrolu nad zvukom.';
+
+  @override
+  String get indo_pak => 'Indija-Pakistan';
 }

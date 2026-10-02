@@ -3220,4 +3220,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'Krótkie dźwięki powiadomień nie zatrzymają Adhanu. Zostanie on zatrzymany tylko wtedy, gdy połączenie telefoniczne lub inna aplikacja przejmie dźwięk.';
+
+  @override
+  String get indo_pak => 'Indie i Pakistan';
 }

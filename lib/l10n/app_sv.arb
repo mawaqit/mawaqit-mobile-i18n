@@ -1598,7 +1598,7 @@
     "something_wrong_getting_location": "Ett fel uppstod när din plats skulle hämtas. Försök igen.",
     "custom_volume": "Anpassad volym",
     "general": "Allmänt",
-    "prayer_location": "Bön och Plats",
+    "prayer_location": "Bön och plats",
     "privacy": "Sekretess",
     "play_full_adhan": "Spela upp hela adhan",
     "full_adhan_will_keep_repeating": "Hela adhan uppspelningen upprepas tills du stänger av den ",
@@ -1691,7 +1691,7 @@
     "admin_prayerDurationHelp": "Den svarta skärmen under bönen och dua efteråt varar båda så här länge. ",
     "admin_duasInvocations": "Dua ",
     "admin_duasHadiths": "Hadither ",
-    "admin_duaAfterAdhan": "Dua efter adhan",
+    "admin_duaAfterAdhan": "Dua efter Adhan ",
     "admin_duaAfterPrayer": "Dua efter bönen",
     "admin_randomHadith": "Visa en hadith var 5:e minut",
     "admin_hadithSource": "Från Riyad as-Salihin av imam an-Nawawi.",
@@ -1699,7 +1699,7 @@
     "admin_hadithPauseNever": "Aldrig",
     "admin_hadithPauseHelp": "För en moské som håller lektioner mellan två böner.",
     "admin_duasAllOff": "Allt av",
-    "admin_summaryDuaAdhan": "Efter adhan",
+    "admin_summaryDuaAdhan": "Efter Adhan",
     "admin_summaryDuaPrayer": "Efter bönen",
     "admin_summaryHadiths": "Hadither",
     "admin_regionalHijri": "HIJRI DATUM",
@@ -1745,9 +1745,9 @@
     "admin_announcementDeleted": "Meddelandet borttaget",
     "admin_announcementDeleteTitle": "Ta bort det här meddelandet?",
     "admin_announcementLimitReached": "Du har nått gränsen för aktiverade meddelanden.",
-    "admin_discardTitle": "Kasta ändringarna?",
+    "admin_discardTitle": "    Ignorera ändringarna?",
     "admin_discardBody": "Det du har skrivit här sparas inte.",
-    "admin_discard": "Kasta",
+    "admin_discard": "Ignorera \n",
     "admin_keepEditing": "Fortsätt redigera",
     "admin_chipScreen": "Skärm",
     "admin_chipMobile": "Mobil",
@@ -1782,7 +1782,7 @@
     },
     "admin_fieldShowOn": "Visa på",
     "admin_fieldMainScreen": "Moskéns huvudskärm",
-    "admin_fieldSecondaryScreen": "Andra skärmen",
+    "admin_fieldSecondaryScreen": "    Sekundär skärm",
     "admin_fieldMobile": "Mawaqit appen",
     "admin_pickImage": "Välj ett foto",
     "admin_replaceImage": "Byt foto",
@@ -1810,7 +1810,7 @@
             }
         }
     },
-    "admin_seconds": "{count} s",
+    "admin_seconds": "{count}  s",
     "@admin_seconds": {
         "placeholders": {
             "count": {
@@ -1818,7 +1818,7 @@
             }
         }
     },
-    "admin_announcementCounts": "{total} av {maxTotal} · {enabled} av {maxEnabled} aktiva",
+    "admin_announcementCounts": "{total} av {maxTotal} · {enabled} av {maxEnabled} aktiverade ",
     "@admin_announcementCounts": {
         "placeholders": {
             "total": {
@@ -1869,5 +1869,6 @@
     "adhan_custom_volume_description": "Välj en särskild volymnivå för Adhan. Telefonens ursprungliga volym återställs när Adhan är klar.",
     "adhan_alarm_channel_description": "Adhan spelas upp via alarmkanalen, så att den kan höras i ljudlöst läge eller vibrationsläge och i Stör ej (DND) när alarm är tillåtna.",
     "adhan_stop_with_volume_button_description": "Stoppa Adhan direkt genom att trycka på valfri volymknapp på telefonen.",
-    "adhan_audio_interruption_description": "Korta aviseringsljud stoppar inte Adhan. Den stoppas endast om ett telefonsamtal eller en annan app tar över ljudet."
+    "adhan_audio_interruption_description": "Korta aviseringsljud stoppar inte Adhan. Den stoppas endast om ett telefonsamtal eller en annan app tar över ljudet.",
+    "indo_pak": "Indien och Pakistan"
 }

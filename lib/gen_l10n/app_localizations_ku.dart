@@ -1521,10 +1521,10 @@ class AppLocalizationsKu extends AppLocalizations {
       'Prayer times and all the information here are set by the mosque, not MAWAQIT';
 
   @override
-  String get hasan_nahi => 'Hasan Nahi';
+  String get hasan_nahi => 'حەسەن ناهی';
 
   @override
-  String get albanian => 'Albanian';
+  String get albanian => 'ئەڵبانیایی';
 
   @override
   String get delete_all => 'Delete All';
@@ -1807,7 +1807,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get last_Third_Of_The_Night => 'Last Third Of The Night';
 
   @override
-  String get shaykh_aminuddin_muhammad => 'Shaykh Aminuddin Muhammad';
+  String get shaykh_aminuddin_muhammad => 'شێخ ئەمینەدین محەممەد';
 
   @override
   String get hafs_an_asim => 'Hafs ʿan ʿĀṣim';
@@ -2541,10 +2541,10 @@ class AppLocalizationsKu extends AppLocalizations {
       'هەندێک لە مۆبایلەکانی ئەندرۆید، بە شێوەیەکی توند ئەپەکان لە پشتەوە دادەخەن.';
 
   @override
-  String get elmir_kuliev => 'Elmir Kuliev';
+  String get elmir_kuliev => 'ئەلمیر کولییێڤ';
 
   @override
-  String get besim_korkut => 'Besim Korkut';
+  String get besim_korkut => 'بەسیم کۆرکوت';
 
   @override
   String get settings_language_bs => 'بۆسنایی';
@@ -2573,7 +2573,7 @@ class AppLocalizationsKu extends AppLocalizations {
       'ئەذانی تەواو بەردەوام دووبارە دەبێتەوە تا دایدەخەیت.';
 
   @override
-  String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
+  String get hussein_taji_kal_dari => 'هوسێن تاجی کال داری';
 
   @override
   String get settings_language_fa => 'فارسی';
@@ -3206,7 +3206,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get dr_abu_bakr_muhammad => 'د. ئەبو بەکر محەممەد';
 
   @override
-  String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
+  String get maulana_azizul_haque_al_umari => 'مەولانا عەزیزول حەق ئەل‌عومەری';
 
   @override
   String get hindi => 'هیندی';
@@ -3226,4 +3226,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'دەنگە کورتەکانی ئاگادارکردنەوە ئەزان ناوەستێنن. ئەزان تەنها کاتێک دەوەستێت کە پەیوەندییەکی تەلەفۆنی بێت یان ئەپێکی تر کۆنترۆڵی دەنگ وەربگرێت.';
+
+  @override
+  String get indo_pak => 'هند و پاکستان';
 }

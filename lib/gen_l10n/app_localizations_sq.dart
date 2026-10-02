@@ -3237,4 +3237,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'Tingujt e shkurtër të njoftimeve nuk do ta ndalojnë Ezanin. Ai do të ndalet vetëm nëse vjen një telefonatë ose një aplikacion tjetër merr kontrollin e audios.';
+
+  @override
+  String get indo_pak => 'Indi-Pakistan';
 }

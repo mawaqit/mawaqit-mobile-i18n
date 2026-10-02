@@ -3204,7 +3204,7 @@ class AppLocalizationsUg extends AppLocalizations {
   String get dr_abu_bakr_muhammad => 'دوكتور ئەبۇ بەكر مۇھەممەد زەكەرىيا';
 
   @override
-  String get maulana_azizul_haque_al_umari => 'Maulana Azizul Haque al-Umari';
+  String get maulana_azizul_haque_al_umari => 'مەۋلانا ئەزىزۇل ھەق ئەل-ئۆمەرى';
 
   @override
   String get hindi => 'ھىندىچە';
@@ -3224,4 +3224,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'قىسقا ئۇقتۇرۇش ئاۋازلىرى ئەزاننى توختاتمايدۇ. پەقەت تېلېفون سۆزلىشىش چاقىرىقى كەلگەندە ياكى باشقا بىر ئەپ ئاۋازنى كونترول قىلغاندا ئەزان توختايدۇ.';
+
+  @override
+  String get indo_pak => 'ھىندىستان-پاكىستان';
 }

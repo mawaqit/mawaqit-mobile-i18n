@@ -3182,4 +3182,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'لن توقف أصوات الإشعارات القصيرة الأذان. سيتوقف الأذان فقط إذا وردت مكالمة هاتفية أو استحوذ تطبيق آخر على الصوت.';
+
+  @override
+  String get indo_pak => 'الهند وباكستان';
 }

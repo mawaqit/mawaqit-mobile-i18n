@@ -3223,4 +3223,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get adhan_audio_interruption_description =>
       'ছোট বিজ্ঞপ্তির শব্দ আজান বন্ধ করবে না। ফোন কল এলে বা অন্য কোনো অ্যাপ অডিও নিয়ন্ত্রণ নিলে তবেই আজান বন্ধ হবে।';
+
+  @override
+  String get indo_pak => 'ভারত-পাকিস্তান';
 }
