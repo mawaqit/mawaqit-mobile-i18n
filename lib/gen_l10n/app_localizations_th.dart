@@ -3212,5 +3212,5 @@ class AppLocalizationsTh extends AppLocalizations {
       'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.';
 
   @override
-  String get indo_pak => 'อินเดีย–ปากีสถาน';
+  String get indo_pak => 'Indo-Pak';
 }

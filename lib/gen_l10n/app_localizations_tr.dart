@@ -3208,5 +3208,5 @@ class AppLocalizationsTr extends AppLocalizations {
       'Kısa bildirim sesleri Ezanı durdurmaz. Ezan yalnızca bir telefon görüşmesi geldiğinde veya başka bir uygulama sesi devraldığında durur.';
 
   @override
-  String get indo_pak => 'Hindistan-Pakistan';
+  String get indo_pak => 'Indo-Pak';
 }

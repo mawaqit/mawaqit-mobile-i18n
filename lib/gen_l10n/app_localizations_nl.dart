@@ -3238,5 +3238,5 @@ class AppLocalizationsNl extends AppLocalizations {
       'Korte meldingsgeluiden stoppen de Adhan niet. De Adhan stopt alleen als een telefoongesprek of een andere app de audio overneemt.';
 
   @override
-  String get indo_pak => 'India-Pakistan';
+  String get indo_pak => 'Indo-Pak';
 }
