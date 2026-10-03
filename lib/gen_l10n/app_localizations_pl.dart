@@ -3222,5 +3222,5 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krótkie dźwięki powiadomień nie zatrzymają Adhanu. Zostanie on zatrzymany tylko wtedy, gdy połączenie telefoniczne lub inna aplikacja przejmie dźwięk.';
 
   @override
-  String get indo_pak => 'Indie i Pakistan';
+  String get indo_pak => 'Indo-Pak';
 }
