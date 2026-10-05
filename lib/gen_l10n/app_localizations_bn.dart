@@ -3225,7 +3225,7 @@ class AppLocalizationsBn extends AppLocalizations {
       'ছোট বিজ্ঞপ্তির শব্দ আজান বন্ধ করবে না। ফোন কল এলে বা অন্য কোনো অ্যাপ অডিও নিয়ন্ত্রণ নিলে তবেই আজান বন্ধ হবে।';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'ইন্দো-পাক';
 
   @override
   String get popular_across_south_asia => 'দক্ষিণ এশিয়া জুড়ে জনপ্রিয়';

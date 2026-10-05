@@ -3229,7 +3229,7 @@ class AppLocalizationsBg extends AppLocalizations {
       'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'Индо-Пакистан';
 
   @override
   String get popular_across_south_asia => 'Популярно в Южна Азия';

@@ -3214,7 +3214,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Korta aviseringsljud stoppar inte Adhan. Den stoppas endast om ett telefonsamtal eller en annan app tar över ljudet.';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'Indo-Pakistansk';
 
   @override
   String get popular_across_south_asia => 'Populär i Sydasien';

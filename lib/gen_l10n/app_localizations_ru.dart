@@ -3229,7 +3229,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Короткие звуки уведомлений не остановят азан. Он остановится только в случае телефонного звонка или если другое приложение перехватит звук.';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'Индо-Пакистанский';
 
   @override
   String get popular_across_south_asia => 'Популярные по Южной Азии';
