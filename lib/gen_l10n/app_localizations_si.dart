@@ -3221,4 +3221,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'දක්ෂිණ ආසියාව පුරා ජනප්‍රියයි';
 }

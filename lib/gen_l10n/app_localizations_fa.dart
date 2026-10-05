@@ -3212,6 +3212,9 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'محبوب در سراسر جنوب آسیا';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6430,4 +6433,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'محبوب در سراسر جنوب آسیا';
 }

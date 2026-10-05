@@ -3230,4 +3230,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'Популярные по Южной Азии';
 }
