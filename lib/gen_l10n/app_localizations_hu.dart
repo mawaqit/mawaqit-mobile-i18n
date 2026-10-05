@@ -3241,7 +3241,7 @@ class AppLocalizationsHu extends AppLocalizations {
       'A rövid értesítési hangok nem állítják le az adhánt. Csak akkor áll le, ha telefonhívás érkezik, vagy egy másik alkalmazás átveszi a hang lejátszását.';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'Indo-pakisztáni';
 
   @override
   String get popular_across_south_asia => 'Népszerű Dél-Ázsiában';

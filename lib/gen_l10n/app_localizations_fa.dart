@@ -3211,7 +3211,7 @@ class AppLocalizationsFa extends AppLocalizations {
       'صداهای کوتاه اعلان، اذان را متوقف نمی‌کنند. اذان فقط در صورتی متوقف می‌شود که تماس تلفنی برقرار شود یا برنامه دیگری کنترل صدا را به دست بگیرد.';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'هندی-پاکیستانی';
 
   @override
   String get popular_across_south_asia => 'محبوب در سراسر جنوب آسیا';
@@ -6432,7 +6432,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
       'Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'اندو - پاک';
 
   @override
   String get popular_across_south_asia => 'محبوب در سراسر جنوب آسیا';

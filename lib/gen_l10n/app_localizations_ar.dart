@@ -3184,7 +3184,7 @@ class AppLocalizationsAr extends AppLocalizations {
       'لن توقف أصوات الإشعارات القصيرة الأذان. سيتوقف الأذان فقط إذا وردت مكالمة هاتفية أو استحوذ تطبيق آخر على الصوت.';
 
   @override
-  String get indo_pak => 'Indo-Pak';
+  String get indo_pak => 'الهندية الباكستانية';
 
   @override
   String get popular_across_south_asia =>
