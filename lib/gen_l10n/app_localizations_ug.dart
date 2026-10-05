@@ -3226,5 +3226,8 @@ class AppLocalizationsUg extends AppLocalizations {
       'قىسقا ئۇقتۇرۇش ئاۋازلىرى ئەزاننى توختاتمايدۇ. پەقەت تېلېفون سۆزلىشىش چاقىرىقى كەلگەندە ياكى باشقا بىر ئەپ ئاۋازنى كونترول قىلغاندا ئەزان توختايدۇ.';
 
   @override
-  String get indo_pak => 'ھىندىستان-پاكىستان';
+  String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'جەنۇبىي ئاسىيا بويىچە كەڭ تارقالغان';
 }

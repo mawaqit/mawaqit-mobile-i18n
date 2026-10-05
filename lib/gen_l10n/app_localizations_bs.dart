@@ -3231,5 +3231,8 @@ class AppLocalizationsBs extends AppLocalizations {
       'Kratki zvukovi obavijesti neće zaustaviti ezan. Zaustavit će se samo ako dođe telefonski poziv ili druga aplikacija preuzme kontrolu nad zvukom.';
 
   @override
-  String get indo_pak => 'Indija-Pakistan';
+  String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'Popularan u Južnoj Aziji';
 }

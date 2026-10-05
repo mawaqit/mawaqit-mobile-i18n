@@ -3227,5 +3227,8 @@ class AppLocalizationsId extends AppLocalizations {
       'Suara notifikasi singkat tidak akan menghentikan Adzan. Adzan hanya akan berhenti jika ada panggilan telepon atau aplikasi lain mengambil alih audio.';
 
   @override
-  String get indo_pak => 'India-Pakistan';
+  String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'Populer di Asia Selatan';
 }

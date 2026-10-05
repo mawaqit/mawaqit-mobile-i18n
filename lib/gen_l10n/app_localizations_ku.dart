@@ -3228,5 +3228,9 @@ class AppLocalizationsKu extends AppLocalizations {
       'دەنگە کورتەکانی ئاگادارکردنەوە ئەزان ناوەستێنن. ئەزان تەنها کاتێک دەوەستێت کە پەیوەندییەکی تەلەفۆنی بێت یان ئەپێکی تر کۆنترۆڵی دەنگ وەربگرێت.';
 
   @override
-  String get indo_pak => 'هند و پاکستان';
+  String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia =>
+      'لە سەرانسەری باشووری ئاسیادا بەناوبانگە';
 }

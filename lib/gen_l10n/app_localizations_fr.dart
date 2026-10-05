@@ -3268,5 +3268,8 @@ class AppLocalizationsFr extends AppLocalizations {
       'Les sons de notification courts n’arrêteront pas l’Adhan. Il ne s’arrêtera que si un appel téléphonique ou une autre application prend le contrôle du son.';
 
   @override
-  String get indo_pak => 'Inde-Pakistan';
+  String get indo_pak => 'Indo-Pak';
+
+  @override
+  String get popular_across_south_asia => 'Populaire en Asie du Sud';
 }

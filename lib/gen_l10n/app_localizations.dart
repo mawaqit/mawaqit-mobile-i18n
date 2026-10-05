@@ -6191,6 +6191,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Indo-Pak'**
   String get indo_pak;
+
+  /// No description provided for @popular_across_south_asia.
+  ///
+  /// In en, this message translates to:
+  /// **'Popular across South Asia'**
+  String get popular_across_south_asia;
 }
 
 class _AppLocalizationsDelegate
