@@ -1870,5 +1870,6 @@
     "adhan_alarm_channel_description": "Ezan alarm kanalı üzerinden çalınır; bu nedenle sessiz veya titreşim modunda ve alarmlara izin verildiğinde Rahatsız Etmeyin (DND) modunda da duyulabilir.",
     "adhan_stop_with_volume_button_description": "Telefonunuzdaki herhangi bir ses düğmesine basarak Ezanı anında durdurun.",
     "adhan_audio_interruption_description": "Kısa bildirim sesleri Ezanı durdurmaz. Ezan yalnızca bir telefon görüşmesi geldiğinde veya başka bir uygulama sesi devraldığında durur.",
-    "indo_pak": "Indo-Pak"
+    "indo_pak": "Indo-Pak",
+    "popular_across_south_asia": "Güney Asya’da yaygındır"
 }
