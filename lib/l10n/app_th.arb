@@ -1873,6 +1873,10 @@
     "indo_pak": "อินโด-ปากีสถาน",
     "popular_across_south_asia": "เป็นที่นิยมทั่วเอเชียใต้",
     "surahs_available": "surahs available",
-    "missing_surahs": "Missing surahs",
-    "missing_surahs_hint": "Tap a surah to listen with another reciter."
+    "missing_surahs": "ซูเราะห์ที่ไม่มี",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "ซูเราะห์ในการอ่านนี้",
+    "missing_surahs_suggestion": "ฟังซูเราะห์ที่ไม่มีจากผู้อ่านท่านอื่น",
+    "not_available_from_reciter": "ผู้อ่านท่านนี้ไม่มีซูเราะห์นี้",
+    "find_another_reciter": "ค้นหาผู้อ่านท่านอื่น"
 }
