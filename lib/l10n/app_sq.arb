@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Popullor në të gjithë Azinë Jugore",
     "surahs_available": "suret në dispozicion",
     "missing_surahs": "Suret që mungojnë",
-    "missing_surahs_hint": "Trokit mbi një sure për të dëgjuar me një recitues tjetër."
+    "missing_surahs_hint": "Trokit mbi një sure për të dëgjuar me një recitues tjetër.",
+    "surahs_in_this_recitation": "Suret në këtë recitim",
+    "missing_surahs_suggestion": "Dëgjoni suret që mungojnë me një recitues tjetër",
+    "not_available_from_reciter": "Nuk ofrohet nga ky recitues",
+    "find_another_reciter": "Gjeni një recitues tjetër"
 }
