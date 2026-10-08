@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Популярно в Южна Азия",
     "surahs_available": "налични сури",
     "missing_surahs": "Липсващи сури",
-    "missing_surahs_hint": "Докоснете сурата, за да я слушате с друг рецитатор."
+    "missing_surahs_hint": "Докоснете сурата, за да я слушате с друг рецитатор.",
+    "surahs_in_this_recitation": "Сури в този рецитал",
+    "missing_surahs_suggestion": "Слушайте липсващите сури от друг рецитатор",
+    "not_available_from_reciter": "Не е налично при този рецитатор",
+    "find_another_reciter": "Намерете друг рецитатор"
 }
