@@ -1873,6 +1873,10 @@
     "indo_pak": "इंडो-पाक",
     "popular_across_south_asia": "दक्षिण एशिया में लोकप्रिय",
     "surahs_available": "सूरहें उपलब्ध हैं",
-    "missing_surahs": "लापता सूरहें",
-    "missing_surahs_hint": "किसी सूरह पर टैप करें ताकि आप दूसरे क़ारी से सुन सकें।"
+    "missing_surahs": "छूटी हुई सूरहें",
+    "missing_surahs_hint": "किसी सूरह पर टैप करें ताकि आप दूसरे क़ारी से सुन सकें।",
+    "surahs_in_this_recitation": "इस तिलावत की सूरहें",
+    "missing_surahs_suggestion": "छूटी हुई सूरहें किसी दूसरे क़ारी से सुनें",
+    "not_available_from_reciter": "इस क़ारी के पास उपलब्ध नहीं",
+    "find_another_reciter": "दूसरा क़ारी खोजें"
 }
