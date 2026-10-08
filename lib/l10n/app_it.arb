@@ -1873,6 +1873,10 @@
     "indo_pak": "Indo-Pakistani",
     "popular_across_south_asia": "Popolare nel Sud Asia",
     "surahs_available": "sure disponibili",
-    "missing_surahs": "Sura mancanti",
-    "missing_surahs_hint": "Tocca una sura per ascoltarla con un altro recitatore."
+    "missing_surahs": "Sure mancanti",
+    "missing_surahs_hint": "Tocca una sura per ascoltarla con un altro recitatore.",
+    "surahs_in_this_recitation": "Sure in questa recitazione",
+    "missing_surahs_suggestion": "Ascolta le sure mancanti con un altro recitatore",
+    "not_available_from_reciter": "Non disponibile per questo recitatore",
+    "find_another_reciter": "Trova un altro recitatore"
 }
