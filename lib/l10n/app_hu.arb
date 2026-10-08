@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Népszerű Dél-Ázsiában",
     "surahs_available": "elérhető szúrák",
     "missing_surahs": "Hiányzó szúrák",
-    "missing_surahs_hint": "Koppintson egy szúrára, hogy másik recitátorral hallgassa meg."
+    "missing_surahs_hint": "Koppintson egy szúrára, hogy másik recitátorral hallgassa meg.",
+    "surahs_in_this_recitation": "Szúrák ebben a recitációban",
+    "missing_surahs_suggestion": "Hallgassa meg a hiányzó szúrákat egy másik recitálótól",
+    "not_available_from_reciter": "Ennél a recitálónál nem érhető el",
+    "find_another_reciter": "Másik recitáló keresése"
 }
