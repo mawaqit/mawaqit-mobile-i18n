@@ -1873,6 +1873,10 @@
     "indo_pak": "ອິນໂດ-ປາກ",
     "popular_across_south_asia": "ທີ່ນິຍົມໃນພາກໃຕ້ຂອງອາຊີຢູ່ຮ່ວມກັນ",
     "surahs_available": "surahs available",
-    "missing_surahs": "Missing surahs",
-    "missing_surahs_hint": "Tap a surah to listen with another reciter."
+    "missing_surahs": "ຊູເຣາະທີ່ຂາດໄປ",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "ຊູເຣາະໃນການອ່ານນີ້",
+    "missing_surahs_suggestion": "ຟັງຊູເຣາະທີ່ຂາດໄປຈາກຜູ້ອ່ານຄົນອື່ນ",
+    "not_available_from_reciter": "ບໍ່ມີຈາກຜູ້ອ່ານຄົນນີ້",
+    "find_another_reciter": "ຊອກຫາຜູ້ອ່ານຄົນອື່ນ"
 }
