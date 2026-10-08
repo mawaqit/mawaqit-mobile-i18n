@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Popular across South Asia",
     "surahs_available": "surahs available",
     "missing_surahs": "Missing surahs",
-    "missing_surahs_hint": "Tap a surah to listen with another reciter."
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "Surahs in this recitation",
+    "missing_surahs_suggestion": "Listen to the missing surahs with another reciter",
+    "not_available_from_reciter": "Not available from this reciter",
+    "find_another_reciter": "Find another reciter"
 }
