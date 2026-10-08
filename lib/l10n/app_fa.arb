@@ -1873,6 +1873,10 @@
     "indo_pak": "هندی-پاکیستانی",
     "popular_across_south_asia": "محبوب در سراسر جنوب آسیا",
     "surahs_available": "سوره‌ها موجود است",
-    "missing_surahs": "سوره‌های موجود نیستند",
-    "missing_surahs_hint": "روی یک سوره بزنید تا با قاری دیگری گوش دهید."
+    "missing_surahs": "سوره‌های ناموجود",
+    "missing_surahs_hint": "روی یک سوره بزنید تا با قاری دیگری گوش دهید.",
+    "surahs_in_this_recitation": "سوره‌های این تلاوت",
+    "missing_surahs_suggestion": "سوره‌های ناموجود را با قاری دیگری بشنوید",
+    "not_available_from_reciter": "از این قاری در دسترس نیست",
+    "find_another_reciter": "یافتن قاری دیگر"
 }
