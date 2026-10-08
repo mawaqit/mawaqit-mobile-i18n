@@ -1873,6 +1873,10 @@
     "indo_pak": "ឥណ្ឌូ-ប៉ាក់",
     "popular_across_south_asia": "ពេញនិយមទូទាំងអាស៊ីខាងត្បូង​",
     "surahs_available": "surahs available",
-    "missing_surahs": "Missing surahs",
-    "missing_surahs_hint": "Tap a surah to listen with another reciter."
+    "missing_surahs": "ស៊ូរ៉ោះដែលខ្វះ",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "ស៊ូរ៉ោះក្នុងការសូត្រនេះ",
+    "missing_surahs_suggestion": "ស្តាប់ស៊ូរ៉ោះដែលខ្វះជាមួយអ្នកសូត្រផ្សេង",
+    "not_available_from_reciter": "មិនមានពីអ្នកសូត្រនេះទេ",
+    "find_another_reciter": "ស្វែងរកអ្នកសូត្រផ្សេង"
 }
