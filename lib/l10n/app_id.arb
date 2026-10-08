@@ -1873,6 +1873,10 @@
     "indo_pak": "Indo-Pak",
     "popular_across_south_asia": "Populer di Asia Selatan",
     "surahs_available": "surah tersedia",
-    "missing_surahs": "Surah yang hilang",
-    "missing_surahs_hint": "Ketuk surah untuk mendengarkan dengan qari lain."
+    "missing_surahs": "Surah yang tidak tersedia",
+    "missing_surahs_hint": "Ketuk surah untuk mendengarkan dengan qari lain.",
+    "surahs_in_this_recitation": "Surah dalam bacaan ini",
+    "missing_surahs_suggestion": "Dengarkan surah yang tidak tersedia dari qari lain",
+    "not_available_from_reciter": "Tidak tersedia dari qari ini",
+    "find_another_reciter": "Cari qari lain"
 }
