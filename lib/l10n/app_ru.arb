@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Популярные по Южной Азии",
     "surahs_available": "суры доступны",
     "missing_surahs": "Отсутствующие суры",
-    "missing_surahs_hint": "Нажмите на суру, чтобы прослушать её с другим чтецом."
+    "missing_surahs_hint": "Нажмите на суру, чтобы прослушать её с другим чтецом.",
+    "surahs_in_this_recitation": "Суры в этом чтении",
+    "missing_surahs_suggestion": "Послушайте отсутствующие суры у другого чтеца",
+    "not_available_from_reciter": "Недоступно у этого чтеца",
+    "find_another_reciter": "Найти другого чтеца"
 }
