@@ -1873,6 +1873,10 @@
     "indo_pak": "Indo-Pakistani",
     "popular_across_south_asia": "A bɛ dɔn Janzan Asia bɛɛ kɔnɔ",
     "surahs_available": "Suraw ye bɛ yen.",
-    "missing_surahs": "Suraw kɛlɛ bɛ yera ka banma",
-    "missing_surahs_hint": "Bɔ fɔ surah kɛ, o ma tɛmɛ fɛ ka kɛ la reciter kalan kɛ."
+    "missing_surahs": "Surati minnu tɛ yen",
+    "missing_surahs_hint": "Bɔ fɔ surah kɛ, o ma tɛmɛ fɛ ka kɛ la reciter kalan kɛ.",
+    "surahs_in_this_recitation": "Surati minnu bɛ nin kalan in na",
+    "missing_surahs_suggestion": "Surati minnu tɛ yen, olu lamɛn kalanbaga wɛrɛ fɛ",
+    "not_available_from_reciter": "A tɛ sɔrɔ nin kalanbaga in fɛ",
+    "find_another_reciter": "Kalanbaga wɛrɛ ɲini"
 }
