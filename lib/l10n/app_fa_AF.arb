@@ -1871,5 +1871,12 @@
     "adhan_stop_with_volume_button_description": "Stop the Adhan instantly by pressing any volume button on your phone.",
     "adhan_audio_interruption_description": "Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.",
     "indo_pak": "اندو - پاک",
-    "popular_across_south_asia": "محبوب در سراسر جنوب آسیا"
+    "popular_across_south_asia": "محبوب در سراسر جنوب آسیا",
+    "surahs_available": "surahs available",
+    "missing_surahs": "سوره‌های ناموجود",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "سوره‌های این تلاوت",
+    "missing_surahs_suggestion": "سوره‌های ناموجود را از قاری دیگر بشنوید",
+    "not_available_from_reciter": "از این قاری موجود نیست",
+    "find_another_reciter": "قاری دیگری را پیدا کنید"
 }

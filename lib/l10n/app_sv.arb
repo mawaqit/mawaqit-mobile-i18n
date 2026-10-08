@@ -1871,5 +1871,12 @@
     "adhan_stop_with_volume_button_description": "Stoppa Adhan direkt genom att trycka på valfri volymknapp på telefonen.",
     "adhan_audio_interruption_description": "Korta aviseringsljud stoppar inte Adhan. Den stoppas endast om ett telefonsamtal eller en annan app tar över ljudet.",
     "indo_pak": "Indo-Pakistansk",
-    "popular_across_south_asia": "Populär i Sydasien"
+    "popular_across_south_asia": "Populär i Sydasien",
+    "surahs_available": "sûror tillgängliga",
+    "missing_surahs": "Saknade suror",
+    "missing_surahs_hint": "Tryck på en sura för att lyssna med en annan recitatör.",
+    "surahs_in_this_recitation": "Suror i den här recitationen",
+    "missing_surahs_suggestion": "Lyssna på de saknade surorna hos en annan recitatör",
+    "not_available_from_reciter": "Inte tillgänglig hos den här recitatören",
+    "find_another_reciter": "Hitta en annan recitatör"
 }

@@ -1871,5 +1871,12 @@
     "adhan_stop_with_volume_button_description": "Natychmiast zatrzymaj Adhan, naciskając dowolny przycisk głośności w telefonie.",
     "adhan_audio_interruption_description": "Krótkie dźwięki powiadomień nie zatrzymają Adhanu. Zostanie on zatrzymany tylko wtedy, gdy połączenie telefoniczne lub inna aplikacja przejmie dźwięk.",
     "indo_pak": "Indo-Pak",
-    "popular_across_south_asia": "Popularna w Azji Południowej"
+    "popular_across_south_asia": "Popularna w Azji Południowej",
+    "surahs_available": "sury dostępne",
+    "missing_surahs": "Brakujące sury",
+    "missing_surahs_hint": "Stuknij w surę, aby odsłuchać z innym recytatorem.",
+    "surahs_in_this_recitation": "Sury w tej recytacji",
+    "missing_surahs_suggestion": "Posłuchaj brakujących sur u innego recytatora",
+    "not_available_from_reciter": "Niedostępne u tego recytatora",
+    "find_another_reciter": "Znajdź innego recytatora"
 }

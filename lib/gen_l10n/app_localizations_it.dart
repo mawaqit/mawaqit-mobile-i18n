@@ -3257,4 +3257,28 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Popolare nel Sud Asia';
+
+  @override
+  String get surahs_available => 'sure disponibili';
+
+  @override
+  String get missing_surahs => 'Sure mancanti';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tocca una sura per ascoltarla con un altro recitatore.';
+
+  @override
+  String get surahs_in_this_recitation => 'Sure in questa recitazione';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Ascolta le sure mancanti con un altro recitatore';
+
+  @override
+  String get not_available_from_reciter =>
+      'Non disponibile per questo recitatore';
+
+  @override
+  String get find_another_reciter => 'Trova un altro recitatore';
 }

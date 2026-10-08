@@ -1871,5 +1871,12 @@
     "adhan_stop_with_volume_button_description": "بە فشاردانی هەر یەکێک لە دوگمەکانی دەنگی مۆبایلەکەت، ئەزان دەستبەجێ بوەستێنە.",
     "adhan_audio_interruption_description": "دەنگە کورتەکانی ئاگادارکردنەوە ئەزان ناوەستێنن. ئەزان تەنها کاتێک دەوەستێت کە پەیوەندییەکی تەلەفۆنی بێت یان ئەپێکی تر کۆنترۆڵی دەنگ وەربگرێت.",
     "indo_pak": "یەندۆ-پاک",
-    "popular_across_south_asia": "لە سەرانسەری باشووری ئاسیادا بەناوبانگە"
+    "popular_across_south_asia": "لە سەرانسەری باشووری ئاسیادا بەناوبانگە",
+    "surahs_available": "surahs available",
+    "missing_surahs": "Missing surahs",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "Surahs in this recitation",
+    "missing_surahs_suggestion": "Listen to the missing surahs with another reciter",
+    "not_available_from_reciter": "Not available from this reciter",
+    "find_another_reciter": "Find another reciter"
 }

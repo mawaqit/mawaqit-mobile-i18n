@@ -3235,4 +3235,27 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Popularan u Južnoj Aziji';
+
+  @override
+  String get surahs_available => 'dostupne sure';
+
+  @override
+  String get missing_surahs => 'Sure koje nedostaju';
+
+  @override
+  String get missing_surahs_hint =>
+      'Dodirnite suru da slušate sa drugim učačem.';
+
+  @override
+  String get surahs_in_this_recitation => 'Sure u ovom učenju';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Preslušajte sure koje nedostaju kod drugog učača';
+
+  @override
+  String get not_available_from_reciter => 'Nije dostupno kod ovog učača';
+
+  @override
+  String get find_another_reciter => 'Pronađi drugog učača';
 }

@@ -1871,5 +1871,12 @@
     "adhan_stop_with_volume_button_description": "Мгновенно остановите азан, нажав любую кнопку регулировки громкости на телефоне.",
     "adhan_audio_interruption_description": "Короткие звуки уведомлений не остановят азан. Он остановится только в случае телефонного звонка или если другое приложение перехватит звук.",
     "indo_pak": "Индо-Пакистанский",
-    "popular_across_south_asia": "Популярные по Южной Азии"
+    "popular_across_south_asia": "Популярные по Южной Азии",
+    "surahs_available": "суры доступны",
+    "missing_surahs": "Отсутствующие суры",
+    "missing_surahs_hint": "Нажмите на суру, чтобы прослушать её с другим чтецом.",
+    "surahs_in_this_recitation": "Суры в этом чтении",
+    "missing_surahs_suggestion": "Послушайте отсутствующие суры у другого чтеца",
+    "not_available_from_reciter": "Недоступно у этого чтеца",
+    "find_another_reciter": "Найти другого чтеца"
 }

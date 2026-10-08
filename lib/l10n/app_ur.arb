@@ -1871,5 +1871,12 @@
     "adhan_stop_with_volume_button_description": "اپنے فون کا کوئی بھی والیوم بٹن دبا کر اذان فوراً بند کریں.",
     "adhan_audio_interruption_description": "مختصر اطلاعاتی آوازیں اذان کو بند نہیں کریں گی۔ اذان صرف اس وقت بند ہوگی جب فون کال آئے یا کوئی دوسری ایپ آڈیو کا کنٹرول سنبھال لے۔",
     "indo_pak": "ہند و پاک",
-    "popular_across_south_asia": "جنوبی ایشیا میں مقبول"
+    "popular_across_south_asia": "جنوبی ایشیا میں مقبول",
+    "surahs_available": "سورتیں دستیاب ہیں",
+    "missing_surahs": "غیر دستیاب سورتیں",
+    "missing_surahs_hint": "دوسرے قاری کے ساتھ سننے کے لیے کسی سورۃ پر ٹیپ کریں۔",
+    "surahs_in_this_recitation": "اس تلاوت کی سورتیں",
+    "missing_surahs_suggestion": "غیر دستیاب سورتیں کسی دوسرے قاری سے سنیں",
+    "not_available_from_reciter": "اس قاری کی آواز میں دستیاب نہیں",
+    "find_another_reciter": "دوسرا قاری تلاش کریں"
 }

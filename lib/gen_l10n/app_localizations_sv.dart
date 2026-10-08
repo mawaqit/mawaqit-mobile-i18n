@@ -3218,4 +3218,28 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Populär i Sydasien';
+
+  @override
+  String get surahs_available => 'sûror tillgängliga';
+
+  @override
+  String get missing_surahs => 'Saknade suror';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tryck på en sura för att lyssna med en annan recitatör.';
+
+  @override
+  String get surahs_in_this_recitation => 'Suror i den här recitationen';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Lyssna på de saknade surorna hos en annan recitatör';
+
+  @override
+  String get not_available_from_reciter =>
+      'Inte tillgänglig hos den här recitatören';
+
+  @override
+  String get find_another_reciter => 'Hitta en annan recitatör';
 }

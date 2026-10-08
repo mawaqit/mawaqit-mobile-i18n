@@ -1871,5 +1871,12 @@
     "adhan_stop_with_volume_button_description": "Beenden Sie den Adhan sofort, indem Sie eine beliebige Lautstärketaste Ihres Telefons drücken.",
     "adhan_audio_interruption_description": "Kurze Benachrichtigungstöne beenden den Adhan nicht. Er wird nur beendet, wenn ein Telefonanruf oder eine andere App die Audiowiedergabe übernimmt.",
     "indo_pak": "Indo-Pakistan",
-    "popular_across_south_asia": "Weit verbreitet in Südasien"
+    "popular_across_south_asia": "Weit verbreitet in Südasien",
+    "surahs_available": "Suren verfügbar",
+    "missing_surahs": "Fehlende Suren",
+    "missing_surahs_hint": "Tippe auf eine Sure, um sie mit einem anderen Rezitator zu hören.",
+    "surahs_in_this_recitation": "Suren in dieser Rezitation",
+    "missing_surahs_suggestion": "Fehlende Suren bei einem anderen Rezitator anhören",
+    "not_available_from_reciter": "Bei diesem Rezitator nicht verfügbar",
+    "find_another_reciter": "Anderen Rezitator finden"
 }

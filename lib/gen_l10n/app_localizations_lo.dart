@@ -3225,4 +3225,26 @@ class AppLocalizationsLo extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'ທີ່ນິຍົມໃນພາກໃຕ້ຂອງອາຊີຢູ່ຮ່ວມກັນ';
+
+  @override
+  String get surahs_available => 'surahs available';
+
+  @override
+  String get missing_surahs => 'ຊູເຣາະທີ່ຂາດໄປ';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'ຊູເຣາະໃນການອ່ານນີ້';
+
+  @override
+  String get missing_surahs_suggestion => 'ຟັງຊູເຣາະທີ່ຂາດໄປຈາກຜູ້ອ່ານຄົນອື່ນ';
+
+  @override
+  String get not_available_from_reciter => 'ບໍ່ມີຈາກຜູ້ອ່ານຄົນນີ້';
+
+  @override
+  String get find_another_reciter => 'ຊອກຫາຜູ້ອ່ານຄົນອື່ນ';
 }

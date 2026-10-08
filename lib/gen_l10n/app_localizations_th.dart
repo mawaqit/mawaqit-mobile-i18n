@@ -3216,4 +3216,27 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'เป็นที่นิยมทั่วเอเชียใต้';
+
+  @override
+  String get surahs_available => 'surahs available';
+
+  @override
+  String get missing_surahs => 'ซูเราะห์ที่ไม่มี';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'ซูเราะห์ในการอ่านนี้';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'ฟังซูเราะห์ที่ไม่มีจากผู้อ่านท่านอื่น';
+
+  @override
+  String get not_available_from_reciter => 'ผู้อ่านท่านนี้ไม่มีซูเราะห์นี้';
+
+  @override
+  String get find_another_reciter => 'ค้นหาผู้อ่านท่านอื่น';
 }

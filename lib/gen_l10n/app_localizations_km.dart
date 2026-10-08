@@ -3226,4 +3226,27 @@ class AppLocalizationsKm extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'ពេញនិយមទូទាំងអាស៊ីខាងត្បូង​';
+
+  @override
+  String get surahs_available => 'surahs available';
+
+  @override
+  String get missing_surahs => 'ស៊ូរ៉ោះដែលខ្វះ';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'ស៊ូរ៉ោះក្នុងការសូត្រនេះ';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'ស្តាប់ស៊ូរ៉ោះដែលខ្វះជាមួយអ្នកសូត្រផ្សេង';
+
+  @override
+  String get not_available_from_reciter => 'មិនមានពីអ្នកសូត្រនេះទេ';
+
+  @override
+  String get find_another_reciter => 'ស្វែងរកអ្នកសូត្រផ្សេង';
 }

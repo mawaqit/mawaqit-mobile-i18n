@@ -3272,4 +3272,27 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Populaire en Asie du Sud';
+
+  @override
+  String get surahs_available => 'sourates disponibles';
+
+  @override
+  String get missing_surahs => 'Sourates manquantes';
+
+  @override
+  String get missing_surahs_hint =>
+      'Touchez une sourate pour l’écouter avec un autre récitateur.';
+
+  @override
+  String get surahs_in_this_recitation => 'Sourates de cette récitation';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Écoutez les sourates manquantes avec un autre récitateur';
+
+  @override
+  String get not_available_from_reciter => 'Non disponible pour ce récitateur';
+
+  @override
+  String get find_another_reciter => 'Trouver un autre récitateur';
 }

@@ -3231,4 +3231,27 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Populer di Asia Selatan';
+
+  @override
+  String get surahs_available => 'surah tersedia';
+
+  @override
+  String get missing_surahs => 'Surah yang tidak tersedia';
+
+  @override
+  String get missing_surahs_hint =>
+      'Ketuk surah untuk mendengarkan dengan qari lain.';
+
+  @override
+  String get surahs_in_this_recitation => 'Surah dalam bacaan ini';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Dengarkan surah yang tidak tersedia dari qari lain';
+
+  @override
+  String get not_available_from_reciter => 'Tidak tersedia dari qari ini';
+
+  @override
+  String get find_another_reciter => 'Cari qari lain';
 }

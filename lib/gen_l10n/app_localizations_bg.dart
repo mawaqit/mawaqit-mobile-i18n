@@ -3233,4 +3233,27 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Популярно в Южна Азия';
+
+  @override
+  String get surahs_available => 'налични сури';
+
+  @override
+  String get missing_surahs => 'Липсващи сури';
+
+  @override
+  String get missing_surahs_hint =>
+      'Докоснете сурата, за да я слушате с друг рецитатор.';
+
+  @override
+  String get surahs_in_this_recitation => 'Сури в този рецитал';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Слушайте липсващите сури от друг рецитатор';
+
+  @override
+  String get not_available_from_reciter => 'Не е налично при този рецитатор';
+
+  @override
+  String get find_another_reciter => 'Намерете друг рецитатор';
 }

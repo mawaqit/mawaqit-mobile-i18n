@@ -3224,4 +3224,27 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'A bɛ dɔn Janzan Asia bɛɛ kɔnɔ';
+
+  @override
+  String get surahs_available => 'Suraw ye bɛ yen.';
+
+  @override
+  String get missing_surahs => 'Surati minnu tɛ yen';
+
+  @override
+  String get missing_surahs_hint =>
+      'Bɔ fɔ surah kɛ, o ma tɛmɛ fɛ ka kɛ la reciter kalan kɛ.';
+
+  @override
+  String get surahs_in_this_recitation => 'Surati minnu bɛ nin kalan in na';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Surati minnu tɛ yen, olu lamɛn kalanbaga wɛrɛ fɛ';
+
+  @override
+  String get not_available_from_reciter => 'A tɛ sɔrɔ nin kalanbaga in fɛ';
+
+  @override
+  String get find_another_reciter => 'Kalanbaga wɛrɛ ɲini';
 }

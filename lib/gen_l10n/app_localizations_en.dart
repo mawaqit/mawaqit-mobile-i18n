@@ -3225,4 +3225,27 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Popular across South Asia';
+
+  @override
+  String get surahs_available => 'surahs available';
+
+  @override
+  String get missing_surahs => 'Missing surahs';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'Surahs in this recitation';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Listen to the missing surahs with another reciter';
+
+  @override
+  String get not_available_from_reciter => 'Not available from this reciter';
+
+  @override
+  String get find_another_reciter => 'Find another reciter';
 }
