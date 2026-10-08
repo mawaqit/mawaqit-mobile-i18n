@@ -3194,8 +3194,21 @@ class AppLocalizationsAr extends AppLocalizations {
   String get surahs_available => 'السور المتوفرة';
 
   @override
-  String get missing_surahs => 'السور الناقصة';
+  String get missing_surahs => 'السور غير المتوفرة';
 
   @override
   String get missing_surahs_hint => 'اضغط على السورة للاستماع بصوت قارئ آخر.';
+
+  @override
+  String get surahs_in_this_recitation => 'السور في هذه التلاوة';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'استمع إلى السور غير المتوفرة بصوت قارئ آخر';
+
+  @override
+  String get not_available_from_reciter => 'غير متوفرة لدى هذا القارئ';
+
+  @override
+  String get find_another_reciter => 'ابحث عن قارئ آخر';
 }

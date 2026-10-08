@@ -3260,9 +3260,22 @@ class AppLocalizationsEs extends AppLocalizations {
   String get surahs_available => 'suras disponibles';
 
   @override
-  String get missing_surahs => 'Suras faltantes';
+  String get missing_surahs => 'Suras no disponibles';
 
   @override
   String get missing_surahs_hint =>
       'Toca una sura para escucharla con otro recitador.';
+
+  @override
+  String get surahs_in_this_recitation => 'Suras en esta recitación';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Escucha las suras que faltan con otro recitador';
+
+  @override
+  String get not_available_from_reciter => 'No disponible con este recitador';
+
+  @override
+  String get find_another_reciter => 'Buscar otro recitador';
 }

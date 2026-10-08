@@ -6215,6 +6215,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Tap a surah to listen with another reciter.'**
   String get missing_surahs_hint;
+
+  /// No description provided for @surahs_in_this_recitation.
+  ///
+  /// In en, this message translates to:
+  /// **'Surahs in this recitation'**
+  String get surahs_in_this_recitation;
+
+  /// No description provided for @missing_surahs_suggestion.
+  ///
+  /// In en, this message translates to:
+  /// **'Listen to the missing surahs with another reciter'**
+  String get missing_surahs_suggestion;
+
+  /// No description provided for @not_available_from_reciter.
+  ///
+  /// In en, this message translates to:
+  /// **'Not available from this reciter'**
+  String get not_available_from_reciter;
+
+  /// No description provided for @find_another_reciter.
+  ///
+  /// In en, this message translates to:
+  /// **'Find another reciter'**
+  String get find_another_reciter;
 }
 
 class _AppLocalizationsDelegate

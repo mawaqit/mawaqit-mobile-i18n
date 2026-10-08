@@ -3236,4 +3236,17 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get missing_surahs_hint =>
       'Başqa qarici ilə dinləmək üçün surəyə toxunun.';
+
+  @override
+  String get surahs_in_this_recitation => 'Bu qiraətdəki surələr';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Çatışmayan surələri başqa qarinin ifasında dinləyin';
+
+  @override
+  String get not_available_from_reciter => 'Bu qari üçün mövcud deyil';
+
+  @override
+  String get find_another_reciter => 'Başqa qari tapın';
 }

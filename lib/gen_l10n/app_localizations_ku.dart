@@ -3243,4 +3243,17 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get missing_surahs_hint =>
       'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'Surahs in this recitation';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Listen to the missing surahs with another reciter';
+
+  @override
+  String get not_available_from_reciter => 'Not available from this reciter';
+
+  @override
+  String get find_another_reciter => 'Find another reciter';
 }

@@ -3230,9 +3230,22 @@ class AppLocalizationsFf extends AppLocalizations {
   String get surahs_available => 'Surahji ena woodi';
 
   @override
-  String get missing_surahs => 'Suuraaji ɗiɗiɗiɗi wonaani e ɗii laawol';
+  String get missing_surahs => 'Cimooje ŋakkuɗe';
 
   @override
   String get missing_surahs_hint =>
       'Danndu surah makko, teŋ to anndu ka reveedi e baare mawɓe.';
+
+  @override
+  String get surahs_in_this_recitation => 'Cimooje nder ndee jangugol';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Hedto cimooje ŋakkuɗe e jangoowo goɗɗo';
+
+  @override
+  String get not_available_from_reciter => 'Alaa ka jangoowo oo';
+
+  @override
+  String get find_another_reciter => 'Yiylo jangoowo goɗɗo';
 }

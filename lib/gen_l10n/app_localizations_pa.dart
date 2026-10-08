@@ -3231,9 +3231,21 @@ class AppLocalizationsPa extends AppLocalizations {
   String get surahs_available => 'surahs available';
 
   @override
-  String get missing_surahs => 'Missing surahs';
+  String get missing_surahs => 'ਗੁੰਮ ਸੂਰਤਾਂ';
 
   @override
   String get missing_surahs_hint =>
       'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'ਇਸ ਤਿਲਾਵਤ ਵਿੱਚ ਸੂਰਤਾਂ';
+
+  @override
+  String get missing_surahs_suggestion => 'ਗੁੰਮ ਸੂਰਤਾਂ ਕਿਸੇ ਹੋਰ ਕਾਰੀ ਤੋਂ ਸੁਣੋ';
+
+  @override
+  String get not_available_from_reciter => 'ਇਸ ਕਾਰੀ ਕੋਲ ਉਪਲਬਧ ਨਹੀਂ';
+
+  @override
+  String get find_another_reciter => 'ਕੋਈ ਹੋਰ ਕਾਰੀ ਲੱਭੋ';
 }

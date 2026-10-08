@@ -3229,9 +3229,22 @@ class AppLocalizationsSi extends AppLocalizations {
   String get surahs_available => 'surahs available';
 
   @override
-  String get missing_surahs => 'Missing surahs';
+  String get missing_surahs => 'නැති සූරා';
 
   @override
   String get missing_surahs_hint =>
       'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'මෙම කියවීමේ සූරා';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'නැති සූරා වෙනත් කියවන්නෙකුගෙන් අසන්න';
+
+  @override
+  String get not_available_from_reciter => 'මෙම කියවන්නාගෙන් ලබා ගත නොහැක';
+
+  @override
+  String get find_another_reciter => 'වෙනත් කියවන්නෙකු සොයන්න';
 }

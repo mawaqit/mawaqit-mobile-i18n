@@ -3233,9 +3233,22 @@ class AppLocalizationsFi extends AppLocalizations {
   String get surahs_available => 'suurat saatavilla';
 
   @override
-  String get missing_surahs => 'Puuttuvat surat';
+  String get missing_surahs => 'Puuttuvat suurat';
 
   @override
   String get missing_surahs_hint =>
       'Napauta suuraa kuunnellaksesi toisen resitaattorin kanssa.';
+
+  @override
+  String get surahs_in_this_recitation => 'Suurat tässä resitaatiossa';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Kuuntele puuttuvat suurat toiselta resitoijalta';
+
+  @override
+  String get not_available_from_reciter => 'Ei saatavilla tältä resitoijalta';
+
+  @override
+  String get find_another_reciter => 'Etsi toinen resitoija';
 }

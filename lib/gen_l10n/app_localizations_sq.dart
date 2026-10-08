@@ -3253,4 +3253,17 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get missing_surahs_hint =>
       'Trokit mbi një sure për të dëgjuar me një recitues tjetër.';
+
+  @override
+  String get surahs_in_this_recitation => 'Suret në këtë recitim';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Dëgjoni suret që mungojnë me një recitues tjetër';
+
+  @override
+  String get not_available_from_reciter => 'Nuk ofrohet nga ky recitues';
+
+  @override
+  String get find_another_reciter => 'Gjeni një recitues tjetër';
 }

@@ -3272,4 +3272,18 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get missing_surahs_hint =>
       'Tippe auf eine Sure, um sie mit einem anderen Rezitator zu hören.';
+
+  @override
+  String get surahs_in_this_recitation => 'Suren in dieser Rezitation';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Fehlende Suren bei einem anderen Rezitator anhören';
+
+  @override
+  String get not_available_from_reciter =>
+      'Bei diesem Rezitator nicht verfügbar';
+
+  @override
+  String get find_another_reciter => 'Anderen Rezitator finden';
 }

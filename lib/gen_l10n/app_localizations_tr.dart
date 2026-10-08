@@ -3222,4 +3222,17 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get missing_surahs_hint =>
       'Dinlemek için bir sureye dokunun ve farklı bir kıraat seçin.';
+
+  @override
+  String get surahs_in_this_recitation => 'Bu tilavetteki sureler';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Eksik sureleri başka bir kâriden dinleyin';
+
+  @override
+  String get not_available_from_reciter => 'Bu kâri için mevcut değil';
+
+  @override
+  String get find_another_reciter => 'Başka bir kâri bul';
 }

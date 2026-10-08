@@ -3252,4 +3252,18 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get missing_surahs_hint =>
       'Tik op een soera om te luisteren met een andere reciteur.';
+
+  @override
+  String get surahs_in_this_recitation => 'Soera\'s in deze recitatie';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'Beluister de ontbrekende soera\'s bij een andere voordrager';
+
+  @override
+  String get not_available_from_reciter =>
+      'Niet beschikbaar bij deze voordrager';
+
+  @override
+  String get find_another_reciter => 'Andere voordrager zoeken';
 }

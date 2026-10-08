@@ -3220,11 +3220,24 @@ class AppLocalizationsFa extends AppLocalizations {
   String get surahs_available => 'سوره‌ها موجود است';
 
   @override
-  String get missing_surahs => 'سوره‌های موجود نیستند';
+  String get missing_surahs => 'سوره‌های ناموجود';
 
   @override
   String get missing_surahs_hint =>
       'روی یک سوره بزنید تا با قاری دیگری گوش دهید.';
+
+  @override
+  String get surahs_in_this_recitation => 'سوره‌های این تلاوت';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'سوره‌های ناموجود را با قاری دیگری بشنوید';
+
+  @override
+  String get not_available_from_reciter => 'از این قاری در دسترس نیست';
+
+  @override
+  String get find_another_reciter => 'یافتن قاری دیگر';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6451,9 +6464,22 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   String get surahs_available => 'surahs available';
 
   @override
-  String get missing_surahs => 'Missing surahs';
+  String get missing_surahs => 'سوره‌های ناموجود';
 
   @override
   String get missing_surahs_hint =>
       'Tap a surah to listen with another reciter.';
+
+  @override
+  String get surahs_in_this_recitation => 'سوره‌های این تلاوت';
+
+  @override
+  String get missing_surahs_suggestion =>
+      'سوره‌های ناموجود را از قاری دیگر بشنوید';
+
+  @override
+  String get not_available_from_reciter => 'از این قاری موجود نیست';
+
+  @override
+  String get find_another_reciter => 'قاری دیگری را پیدا کنید';
 }
