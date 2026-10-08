@@ -3218,4 +3218,14 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Populär i Sydasien';
+
+  @override
+  String get surahs_available => 'sûror tillgängliga';
+
+  @override
+  String get missing_surahs => 'Saknade suror';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tryck på en sura för att lyssna med en annan recitatör.';
 }

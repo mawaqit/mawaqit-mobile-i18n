@@ -3254,4 +3254,14 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Popular em todo o sul da Ásia';
+
+  @override
+  String get surahs_available => 'suras disponíveis';
+
+  @override
+  String get missing_surahs => 'Suras ausentes';
+
+  @override
+  String get missing_surahs_hint =>
+      'Toque em uma surata para ouvir com outro recitador.';
 }

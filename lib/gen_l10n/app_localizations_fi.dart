@@ -3228,4 +3228,14 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get popular_across_south_asia =>
       'Suosittuja kaikkialla Etelä-Aasiassa';
+
+  @override
+  String get surahs_available => 'suurat saatavilla';
+
+  @override
+  String get missing_surahs => 'Puuttuvat surat';
+
+  @override
+  String get missing_surahs_hint =>
+      'Napauta suuraa kuunnellaksesi toisen resitaattorin kanssa.';
 }

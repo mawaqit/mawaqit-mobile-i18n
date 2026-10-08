@@ -3225,4 +3225,14 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Laɓɓi e Duwal e Saare Asia';
+
+  @override
+  String get surahs_available => 'Surahji ena woodi';
+
+  @override
+  String get missing_surahs => 'Suuraaji ɗiɗiɗiɗi wonaani e ɗii laawol';
+
+  @override
+  String get missing_surahs_hint =>
+      'Danndu surah makko, teŋ to anndu ka reveedi e baare mawɓe.';
 }

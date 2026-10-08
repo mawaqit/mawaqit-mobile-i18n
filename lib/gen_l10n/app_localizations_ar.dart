@@ -3189,4 +3189,13 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get popular_across_south_asia =>
       'شائعة في جنوب آسيا‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎';
+
+  @override
+  String get surahs_available => 'السور المتوفرة';
+
+  @override
+  String get missing_surahs => 'السور الناقصة';
+
+  @override
+  String get missing_surahs_hint => 'اضغط على السورة للاستماع بصوت قارئ آخر.';
 }

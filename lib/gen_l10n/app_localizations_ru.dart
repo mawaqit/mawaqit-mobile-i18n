@@ -3233,4 +3233,14 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Популярные по Южной Азии';
+
+  @override
+  String get surahs_available => 'суры доступны';
+
+  @override
+  String get missing_surahs => 'Отсутствующие суры';
+
+  @override
+  String get missing_surahs_hint =>
+      'Нажмите на суру, чтобы прослушать её с другим чтецом.';
 }

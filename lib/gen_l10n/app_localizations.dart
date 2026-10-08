@@ -6197,6 +6197,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Popular across South Asia'**
   String get popular_across_south_asia;
+
+  /// No description provided for @surahs_available.
+  ///
+  /// In en, this message translates to:
+  /// **'surahs available'**
+  String get surahs_available;
+
+  /// No description provided for @missing_surahs.
+  ///
+  /// In en, this message translates to:
+  /// **'Missing surahs'**
+  String get missing_surahs;
+
+  /// No description provided for @missing_surahs_hint.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap a surah to listen with another reciter.'**
+  String get missing_surahs_hint;
 }
 
 class _AppLocalizationsDelegate

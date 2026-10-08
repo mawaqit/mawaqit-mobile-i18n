@@ -3245,4 +3245,14 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Népszerű Dél-Ázsiában';
+
+  @override
+  String get surahs_available => 'elérhető szúrák';
+
+  @override
+  String get missing_surahs => 'Hiányzó szúrák';
+
+  @override
+  String get missing_surahs_hint =>
+      'Koppintson egy szúrára, hogy másik recitátorral hallgassa meg.';
 }

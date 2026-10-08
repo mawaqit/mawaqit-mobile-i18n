@@ -3228,4 +3228,14 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'दक्षिण एशिया में लोकप्रिय';
+
+  @override
+  String get surahs_available => 'सूरहें उपलब्ध हैं';
+
+  @override
+  String get missing_surahs => 'लापता सूरहें';
+
+  @override
+  String get missing_surahs_hint =>
+      'किसी सूरह पर टैप करें ताकि आप दूसरे क़ारी से सुन सकें।';
 }

@@ -3215,6 +3215,16 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'محبوب در سراسر جنوب آسیا';
+
+  @override
+  String get surahs_available => 'سوره‌ها موجود است';
+
+  @override
+  String get missing_surahs => 'سوره‌های موجود نیستند';
+
+  @override
+  String get missing_surahs_hint =>
+      'روی یک سوره بزنید تا با قاری دیگری گوش دهید.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6436,4 +6446,14 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get popular_across_south_asia => 'محبوب در سراسر جنوب آسیا';
+
+  @override
+  String get surahs_available => 'surahs available';
+
+  @override
+  String get missing_surahs => 'Missing surahs';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tap a surah to listen with another reciter.';
 }

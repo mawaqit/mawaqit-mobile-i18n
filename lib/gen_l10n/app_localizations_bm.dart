@@ -3224,4 +3224,14 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'A bɛ dɔn Janzan Asia bɛɛ kɔnɔ';
+
+  @override
+  String get surahs_available => 'Suraw ye bɛ yen.';
+
+  @override
+  String get missing_surahs => 'Suraw kɛlɛ bɛ yera ka banma';
+
+  @override
+  String get missing_surahs_hint =>
+      'Bɔ fɔ surah kɛ, o ma tɛmɛ fɛ ka kɛ la reciter kalan kɛ.';
 }

@@ -3231,4 +3231,14 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Populer di Asia Selatan';
+
+  @override
+  String get surahs_available => 'surah tersedia';
+
+  @override
+  String get missing_surahs => 'Surah yang hilang';
+
+  @override
+  String get missing_surahs_hint =>
+      'Ketuk surah untuk mendengarkan dengan qari lain.';
 }

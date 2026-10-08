@@ -3262,4 +3262,14 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Weit verbreitet in Südasien';
+
+  @override
+  String get surahs_available => 'Suren verfügbar';
+
+  @override
+  String get missing_surahs => 'Fehlende Suren';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tippe auf eine Sure, um sie mit einem anderen Rezitator zu hören.';
 }

@@ -3212,4 +3212,14 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Güney Asya’da yaygındır';
+
+  @override
+  String get surahs_available => 'mevcut sureler';
+
+  @override
+  String get missing_surahs => 'Eksik sureler';
+
+  @override
+  String get missing_surahs_hint =>
+      'Dinlemek için bir sureye dokunun ve farklı bir kıraat seçin.';
 }

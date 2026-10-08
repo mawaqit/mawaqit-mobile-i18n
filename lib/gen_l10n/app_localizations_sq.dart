@@ -3243,4 +3243,14 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Popullor në të gjithë Azinë Jugore';
+
+  @override
+  String get surahs_available => 'suret në dispozicion';
+
+  @override
+  String get missing_surahs => 'Suret që mungojnë';
+
+  @override
+  String get missing_surahs_hint =>
+      'Trokit mbi një sure për të dëgjuar me një recitues tjetër.';
 }

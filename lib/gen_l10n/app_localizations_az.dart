@@ -3226,4 +3226,14 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Cənubi Asiyada məşhurdur';
+
+  @override
+  String get surahs_available => 'mövcud surələr';
+
+  @override
+  String get missing_surahs => 'Çatışmayan surələr';
+
+  @override
+  String get missing_surahs_hint =>
+      'Başqa qarici ilə dinləmək üçün surəyə toxunun.';
 }

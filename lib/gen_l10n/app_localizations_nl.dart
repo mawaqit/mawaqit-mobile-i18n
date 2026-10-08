@@ -3242,4 +3242,14 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Populair in Zuid-Azië';
+
+  @override
+  String get surahs_available => 'soera’s beschikbaar';
+
+  @override
+  String get missing_surahs => 'Ontbrekende soera\'s';
+
+  @override
+  String get missing_surahs_hint =>
+      'Tik op een soera om te luisteren met een andere reciteur.';
 }

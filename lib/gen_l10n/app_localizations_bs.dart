@@ -3235,4 +3235,14 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get popular_across_south_asia => 'Popularan u Južnoj Aziji';
+
+  @override
+  String get surahs_available => 'dostupne sure';
+
+  @override
+  String get missing_surahs => 'Nedostajuće sure';
+
+  @override
+  String get missing_surahs_hint =>
+      'Dodirnite suru da slušate sa drugim učačem.';
 }
