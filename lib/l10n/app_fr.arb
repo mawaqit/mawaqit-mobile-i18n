@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Populaire en Asie du Sud",
     "surahs_available": "sourates disponibles",
     "missing_surahs": "Sourates manquantes",
-    "missing_surahs_hint": "Touchez une sourate pour l’écouter avec un autre récitateur."
+    "missing_surahs_hint": "Touchez une sourate pour l’écouter avec un autre récitateur.",
+    "surahs_in_this_recitation": "Sourates de cette récitation",
+    "missing_surahs_suggestion": "Écoutez les sourates manquantes avec un autre récitateur",
+    "not_available_from_reciter": "Non disponible pour ce récitateur",
+    "find_another_reciter": "Trouver un autre récitateur"
 }
