@@ -1873,6 +1873,10 @@
     "indo_pak": "انډو-پاک",
     "popular_across_south_asia": "په جنوبي اسيا کې مشهوره",
     "surahs_available": "surahs available",
-    "missing_surahs": "Missing surahs",
-    "missing_surahs_hint": "Tap a surah to listen with another reciter."
+    "missing_surahs": "نه موجود سورتونه",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "په دې تلاوت کې سورتونه",
+    "missing_surahs_suggestion": "نه موجود سورتونه د بل قاري په غږ واورئ",
+    "not_available_from_reciter": "د دې قاري سره شتون نلري",
+    "find_another_reciter": "بل قاري ومومئ"
 }
