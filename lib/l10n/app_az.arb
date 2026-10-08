@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Cənubi Asiyada məşhurdur",
     "surahs_available": "mövcud surələr",
     "missing_surahs": "Çatışmayan surələr",
-    "missing_surahs_hint": "Başqa qarici ilə dinləmək üçün surəyə toxunun."
+    "missing_surahs_hint": "Başqa qarici ilə dinləmək üçün surəyə toxunun.",
+    "surahs_in_this_recitation": "Bu qiraətdəki surələr",
+    "missing_surahs_suggestion": "Çatışmayan surələri başqa qarinin ifasında dinləyin",
+    "not_available_from_reciter": "Bu qari üçün mövcud deyil",
+    "find_another_reciter": "Başqa qari tapın"
 }
