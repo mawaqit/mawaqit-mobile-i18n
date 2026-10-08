@@ -1873,6 +1873,10 @@
     "indo_pak": "Indo-Pak",
     "popular_across_south_asia": "Popularan u Južnoj Aziji",
     "surahs_available": "dostupne sure",
-    "missing_surahs": "Nedostajuće sure",
-    "missing_surahs_hint": "Dodirnite suru da slušate sa drugim učačem."
+    "missing_surahs": "Sure koje nedostaju",
+    "missing_surahs_hint": "Dodirnite suru da slušate sa drugim učačem.",
+    "surahs_in_this_recitation": "Sure u ovom učenju",
+    "missing_surahs_suggestion": "Preslušajte sure koje nedostaju kod drugog učača",
+    "not_available_from_reciter": "Nije dostupno kod ovog učača",
+    "find_another_reciter": "Pronađi drugog učača"
 }
