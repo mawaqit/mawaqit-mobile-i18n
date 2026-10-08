@@ -1871,5 +1871,8 @@
     "adhan_stop_with_volume_button_description": "Stop the Adhan instantly by pressing any volume button on your phone.",
     "adhan_audio_interruption_description": "Short notification sounds won’t stop the Adhan. It will only stop if a phone call or another app takes over the audio.",
     "indo_pak": "Indo-Pakistani",
-    "popular_across_south_asia": "Laɓɓi e Duwal e Saare Asia"
+    "popular_across_south_asia": "Laɓɓi e Duwal e Saare Asia",
+    "surahs_available": "Surahji ena woodi",
+    "missing_surahs": "Suuraaji ɗiɗiɗiɗi wonaani e ɗii laawol",
+    "missing_surahs_hint": "Danndu surah makko, teŋ to anndu ka reveedi e baare mawɓe."
 }
