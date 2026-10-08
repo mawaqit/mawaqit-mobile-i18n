@@ -1874,5 +1874,9 @@
     "popular_across_south_asia": "Güney Asya’da yaygındır",
     "surahs_available": "mevcut sureler",
     "missing_surahs": "Eksik sureler",
-    "missing_surahs_hint": "Dinlemek için bir sureye dokunun ve farklı bir kıraat seçin."
+    "missing_surahs_hint": "Dinlemek için bir sureye dokunun ve farklı bir kıraat seçin.",
+    "surahs_in_this_recitation": "Bu tilavetteki sureler",
+    "missing_surahs_suggestion": "Eksik sureleri başka bir kâriden dinleyin",
+    "not_available_from_reciter": "Bu kâri için mevcut değil",
+    "find_another_reciter": "Başka bir kâri bul"
 }
