@@ -1873,6 +1873,10 @@
     "indo_pak": "Indo-Pakistanilainen",
     "popular_across_south_asia": "Suosittuja kaikkialla Etelä-Aasiassa",
     "surahs_available": "suurat saatavilla",
-    "missing_surahs": "Puuttuvat surat",
-    "missing_surahs_hint": "Napauta suuraa kuunnellaksesi toisen resitaattorin kanssa."
+    "missing_surahs": "Puuttuvat suurat",
+    "missing_surahs_hint": "Napauta suuraa kuunnellaksesi toisen resitaattorin kanssa.",
+    "surahs_in_this_recitation": "Suurat tässä resitaatiossa",
+    "missing_surahs_suggestion": "Kuuntele puuttuvat suurat toiselta resitoijalta",
+    "not_available_from_reciter": "Ei saatavilla tältä resitoijalta",
+    "find_another_reciter": "Etsi toinen resitoija"
 }
