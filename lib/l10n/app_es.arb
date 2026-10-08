@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1871,5 +1871,8 @@
     "adhan_stop_with_volume_button_description": "Detén el Adhan al instante pulsando cualquier botón de volumen de tu teléfono.",
     "adhan_audio_interruption_description": "Los sonidos breves de las notificaciones no detendrán el Adhan. Solo se detendrá si recibes una llamada o si otra aplicación toma el control del audio.",
     "indo_pak": "Indo-Pakistán",
-    "popular_across_south_asia": "Popular en el sur de Asia"
+    "popular_across_south_asia": "Popular en el sur de Asia",
+    "surahs_available": "suras disponibles",
+    "missing_surahs": "Suras faltantes",
+    "missing_surahs_hint": "Toca una sura para escucharla con otro recitador."
 }
