@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1873,6 +1873,10 @@
     "indo_pak": "ہند و پاک",
     "popular_across_south_asia": "جنوبی ایشیا میں مقبول",
     "surahs_available": "سورتیں دستیاب ہیں",
-    "missing_surahs": "غائب سورتیں",
-    "missing_surahs_hint": "دوسرے قاری کے ساتھ سننے کے لیے کسی سورۃ پر ٹیپ کریں۔"
+    "missing_surahs": "غیر دستیاب سورتیں",
+    "missing_surahs_hint": "دوسرے قاری کے ساتھ سننے کے لیے کسی سورۃ پر ٹیپ کریں۔",
+    "surahs_in_this_recitation": "اس تلاوت کی سورتیں",
+    "missing_surahs_suggestion": "غیر دستیاب سورتیں کسی دوسرے قاری سے سنیں",
+    "not_available_from_reciter": "اس قاری کی آواز میں دستیاب نہیں",
+    "find_another_reciter": "دوسرا قاری تلاش کریں"
 }
