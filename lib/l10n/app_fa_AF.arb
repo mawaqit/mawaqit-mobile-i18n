@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa_AF",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1873,6 +1873,10 @@
     "indo_pak": "اندو - پاک",
     "popular_across_south_asia": "محبوب در سراسر جنوب آسیا",
     "surahs_available": "surahs available",
-    "missing_surahs": "Missing surahs",
-    "missing_surahs_hint": "Tap a surah to listen with another reciter."
+    "missing_surahs": "سوره‌های ناموجود",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "سوره‌های این تلاوت",
+    "missing_surahs_suggestion": "سوره‌های ناموجود را از قاری دیگر بشنوید",
+    "not_available_from_reciter": "از این قاری موجود نیست",
+    "find_another_reciter": "قاری دیگری را پیدا کنید"
 }
