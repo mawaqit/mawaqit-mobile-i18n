@@ -1871,5 +1871,8 @@
     "adhan_stop_with_volume_button_description": "تېلېفونىڭىزدىكى خالىغان ئاۋاز كۇنۇپكىسىنى بېسىپ ئەزاننى دەرھال توختىتىڭ.",
     "adhan_audio_interruption_description": "قىسقا ئۇقتۇرۇش ئاۋازلىرى ئەزاننى توختاتمايدۇ. پەقەت تېلېفون سۆزلىشىش چاقىرىقى كەلگەندە ياكى باشقا بىر ئەپ ئاۋازنى كونترول قىلغاندا ئەزان توختايدۇ.",
     "indo_pak": "ھىندى-پاك",
-    "popular_across_south_asia": "جەنۇبىي ئاسىيا بويىچە كەڭ تارقالغان"
+    "popular_across_south_asia": "جەنۇبىي ئاسىيا بويىچە كەڭ تارقالغان",
+    "surahs_available": "surahs available",
+    "missing_surahs": "Missing surahs",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter."
 }
