@@ -1873,6 +1873,10 @@
     "indo_pak": "ھىندى-پاك",
     "popular_across_south_asia": "جەنۇبىي ئاسىيا بويىچە كەڭ تارقالغان",
     "surahs_available": "surahs available",
-    "missing_surahs": "Missing surahs",
-    "missing_surahs_hint": "Tap a surah to listen with another reciter."
+    "missing_surahs": "يوق سۈرىلەر",
+    "missing_surahs_hint": "Tap a surah to listen with another reciter.",
+    "surahs_in_this_recitation": "بۇ قىرائەتتىكى سۈرىلەر",
+    "missing_surahs_suggestion": "يوق سۈرىلەرنى باشقا قارىدىن ئاڭلاڭ",
+    "not_available_from_reciter": "بۇ قارىدا يوق",
+    "find_another_reciter": "باشقا قارى ئىزدەش"
 }
