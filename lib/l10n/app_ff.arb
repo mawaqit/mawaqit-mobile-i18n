@@ -1873,6 +1873,10 @@
     "indo_pak": "Indo-Pakistani",
     "popular_across_south_asia": "Laɓɓi e Duwal e Saare Asia",
     "surahs_available": "Surahji ena woodi",
-    "missing_surahs": "Suuraaji ɗiɗiɗiɗi wonaani e ɗii laawol",
-    "missing_surahs_hint": "Danndu surah makko, teŋ to anndu ka reveedi e baare mawɓe."
+    "missing_surahs": "Cimooje ŋakkuɗe",
+    "missing_surahs_hint": "Danndu surah makko, teŋ to anndu ka reveedi e baare mawɓe.",
+    "surahs_in_this_recitation": "Cimooje nder ndee jangugol",
+    "missing_surahs_suggestion": "Hedto cimooje ŋakkuɗe e jangoowo goɗɗo",
+    "not_available_from_reciter": "Alaa ka jangoowo oo",
+    "find_another_reciter": "Yiylo jangoowo goɗɗo"
 }
