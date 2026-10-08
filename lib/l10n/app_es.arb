@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1873,6 +1873,10 @@
     "indo_pak": "Indo-Pakistán",
     "popular_across_south_asia": "Popular en el sur de Asia",
     "surahs_available": "suras disponibles",
-    "missing_surahs": "Suras faltantes",
-    "missing_surahs_hint": "Toca una sura para escucharla con otro recitador."
+    "missing_surahs": "Suras no disponibles",
+    "missing_surahs_hint": "Toca una sura para escucharla con otro recitador.",
+    "surahs_in_this_recitation": "Suras en esta recitación",
+    "missing_surahs_suggestion": "Escucha las suras que faltan con otro recitador",
+    "not_available_from_reciter": "No disponible con este recitador",
+    "find_another_reciter": "Buscar otro recitador"
 }
