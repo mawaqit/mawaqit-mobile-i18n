@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1872,7 +1872,7 @@
     "adhan_audio_interruption_description": "Korta aviseringsljud stoppar inte Adhan. Den stoppas endast om ett telefonsamtal eller en annan app tar över ljudet.",
     "indo_pak": "Indo-Pakistansk",
     "popular_across_south_asia": "Populär i Sydasien",
-    "surahs_available": "sûror tillgängliga",
+    "surahs_available": "suror tillgängliga",
     "missing_surahs": "Saknade suror",
     "missing_surahs_hint": "Tryck på en sura för att lyssna med en annan recitatör.",
     "surahs_in_this_recitation": "Suror i den här recitationen",
