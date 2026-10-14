@@ -2052,5 +2052,21 @@
     "semantic_repeat_range_stop": "Ndalo përsëritjen dhe luaj të gjithë suren",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
+    },
+    "settings_Display": "Ekrani",
+    "@settings_Display": {
+        "description": "Settings page section header (theme, language, time format)."
+    },
+    "settings_FeaturesAndPrivacy": "Veçoritë dhe privatësia",
+    "@settings_FeaturesAndPrivacy": {
+        "description": "Settings page section header (features and privacy settings)."
+    },
+    "settings_ThemeInfo": "Zgjidh të çelëtën, të errëtën ose sistemin.",
+    "@settings_ThemeInfo": {
+        "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
+    },
+    "settings_TimeFormatInfo": "Zbatohet për oraret në aplikacion, njoftime dhe orët e lidhura.",
+    "@settings_TimeFormatInfo": {
+        "description": "Info sheet text for the Time format (12H/24H) setting."
     }
 }
