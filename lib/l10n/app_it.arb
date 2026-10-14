@@ -851,7 +851,7 @@
     "banner_enable": "Abilitazione banner",
     "banner": "Stendardo",
     "show_details": "Mostra dettagli",
-    "auto_detect_location": "Suggerisci la moschea più vicina",
+    "auto_detect_location": "Suggerisci automaticamente la moschea più vicina",
     "auto_detect_explanation": "Quando sei lontano dalla tua moschea, l'app suggerirà automaticamente di cercare la moschea più vicina in base alla tua posizione.",
     "auto_detect_location_title": "Sembra che tu sia lontano dalla tua moschea",
     "auto_detect_location_message": "Vuoi cercare la moschea più vicina per orari di preghiera precisi?",
