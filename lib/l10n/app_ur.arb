@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "اس تلاوت کی سورتیں",
     "missing_surahs_suggestion": "غیر دستیاب سورتیں کسی دوسرے قاری سے سنیں",
     "not_available_from_reciter": "اس قاری کی آواز میں دستیاب نہیں",
-    "find_another_reciter": "دوسرا قاری تلاش کریں"
+    "find_another_reciter": "دوسرا قاری تلاش کریں",
+    "status_on": "چالو",
+    "status_off": "بند"
 }
