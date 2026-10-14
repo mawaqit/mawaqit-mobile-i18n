@@ -851,7 +851,7 @@
     "banner_enable": "Activation de la bannière",
     "banner": "Bannière",
     "show_details": "Afficher les détails",
-    "auto_detect_location": "Suggérer la mosquée la plus proche",
+    "auto_detect_location": "Suggérer automatiquement la mosquée la plus proche",
     "auto_detect_explanation": "Lorsque vous êtes loin de votre mosquée, l'application suggérera automatiquement de chercher la mosquée la plus proche en fonction de votre emplacement.",
     "auto_detect_location_title": "Il semble que vous soyez loin de votre mosquée",
     "auto_detect_location_message": "Voulez-vous chercher la mosquée la plus proche pour les heures de prière précises?",
