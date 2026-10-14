@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "سورەتەکانی ئەم خوێندنەوەیە",
     "missing_surahs_suggestion": "گوێ لە سورەتە بەردەست نەبووەکان بگرە لە قورئانخوێنێکی تر",
     "not_available_from_reciter": "لەلای ئەم قورئانخوێنە بەردەست نییە",
-    "find_another_reciter": "قورئانخوێنێکی تر بدۆزەرەوە"
+    "find_another_reciter": "قورئانخوێنێکی تر بدۆزەرەوە",
+    "status_on": "چالاک",
+    "status_off": "ناچالاک"
 }
