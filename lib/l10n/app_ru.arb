@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Суры в этом чтении",
     "missing_surahs_suggestion": "Послушайте отсутствующие суры у другого чтеца",
     "not_available_from_reciter": "Недоступно у этого чтеца",
-    "find_another_reciter": "Найти другого чтеца"
+    "find_another_reciter": "Найти другого чтеца",
+    "status_on": "Вкл",
+    "status_off": "Выкл"
 }
