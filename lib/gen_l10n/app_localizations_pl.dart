@@ -1106,7 +1106,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get show_details => 'Pokaż szczegóły';
 
   @override
-  String get auto_detect_location => 'Zasugeruj najbliższy meczet';
+  String get auto_detect_location => 'Automatycznie sugeruj najbliższy meczet';
 
   @override
   String get auto_detect_explanation =>

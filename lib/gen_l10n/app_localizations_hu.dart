@@ -1116,7 +1116,8 @@ class AppLocalizationsHu extends AppLocalizations {
   String get show_details => 'Részletek megjelenítése';
 
   @override
-  String get auto_detect_location => 'Javasold a legközelebbi mecsetet';
+  String get auto_detect_location =>
+      'A legközelebbi mecset automatikus ajánlása';
 
   @override
   String get auto_detect_explanation =>

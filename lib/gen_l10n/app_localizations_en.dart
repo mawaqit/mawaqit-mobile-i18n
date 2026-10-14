@@ -1110,7 +1110,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get show_details => 'Show Details';
 
   @override
-  String get auto_detect_location => 'Suggest nearest mosque';
+  String get auto_detect_location => 'Auto suggest nearest mosque';
 
   @override
   String get auto_detect_explanation =>

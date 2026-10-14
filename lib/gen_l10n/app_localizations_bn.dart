@@ -1109,7 +1109,8 @@ class AppLocalizationsBn extends AppLocalizations {
   String get show_details => 'বিস্তারিত দেখাও';
 
   @override
-  String get auto_detect_location => 'সাজেস্ট করুন সবচেয়ে কাছাকাছি মসজিদ';
+  String get auto_detect_location =>
+      'স্বয়ংক্রিয়ভাবে সবচেয়ে কাছের মসজিদ সাজেস্ট করুন';
 
   @override
   String get auto_detect_explanation =>

@@ -851,7 +851,7 @@
     "banner_enable": "Banner inschakelen",
     "banner": "Banier",
     "show_details": "Toon details",
-    "auto_detect_location": "Suggereer de dichtstbijzijnde moskee",
+    "auto_detect_location": "Dichtstbijzijnde moskee automatisch voorstellen",
     "auto_detect_explanation": "Wanneer u zich ver van uw moskee bevindt, zal de app automatisch voorstellen te zoeken naar de dichtstbijzijnde moskee op basis van uw locatie.",
     "auto_detect_location_title": "Het lijkt erop dat u ver verwijderd bent van uw moskee",
     "auto_detect_location_message": "Wilt u zoeken naar de dichtstbijzijnde moskee voor nauwkeurige gebedstijden?",

@@ -1107,7 +1107,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get show_details => 'تفصیلات دکھائیں';
 
   @override
-  String get auto_detect_location => 'قریبی مسجد کا تجویز کریں';
+  String get auto_detect_location => 'قریب ترین مسجد خودکار طور پر تجویز کریں';
 
   @override
   String get auto_detect_explanation =>

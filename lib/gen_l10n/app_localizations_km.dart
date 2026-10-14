@@ -1110,7 +1110,7 @@ class AppLocalizationsKm extends AppLocalizations {
   String get show_details => 'Show Details';
 
   @override
-  String get auto_detect_location => 'Suggest nearest mosque';
+  String get auto_detect_location => 'ណែនាំម៉ាស្ជិទជិតបំផុតដោយស្វ័យប្រវត្តិ';
 
   @override
   String get auto_detect_explanation =>

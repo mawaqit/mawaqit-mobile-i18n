@@ -1105,7 +1105,7 @@ class AppLocalizationsTr extends AppLocalizations {
   String get show_details => 'Detayları göster';
 
   @override
-  String get auto_detect_location => 'En yakın camiyi öner';
+  String get auto_detect_location => 'En yakın camiyi otomatik öner';
 
   @override
   String get auto_detect_explanation =>

@@ -1095,7 +1095,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get show_details => 'اظهر التفاصيل';
 
   @override
-  String get auto_detect_location => 'اقترح أقرب مسجد';
+  String get auto_detect_location => 'اقتراح أقرب مسجد تلقائيًا';
 
   @override
   String get auto_detect_explanation =>

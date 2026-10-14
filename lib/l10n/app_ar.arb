@@ -851,7 +851,7 @@
     "banner_enable": "تمكين الشعار",
     "banner": "راية",
     "show_details": "اظهر التفاصيل",
-    "auto_detect_location": "اقترح أقرب مسجد",
+    "auto_detect_location": "اقتراح أقرب مسجد تلقائيًا",
     "auto_detect_explanation": "عندما تكون بعيدًا عن مسجدك، سيقوم التطبيق تلقائيًا بتقديم اقتراح بحث عن أقرب مسجد بناءً على موقعك",
     "auto_detect_location_title": "يبدو أنك بعيد عن المسجد الخاص بك",
     "auto_detect_location_message": "هل ترغب في البحث عن أقرب مسجد لأوقات الصلاة الدقيقة؟",

@@ -851,7 +851,7 @@
     "banner_enable": "Omogući baner",
     "banner": "Baner",
     "show_details": "Prikaži detalje",
-    "auto_detect_location": "Preporučite najbližu džamiju",
+    "auto_detect_location": "Automatski predloži najbližu džamiju",
     "auto_detect_explanation": "Kada ste udaljeni od vaše džamije, aplikacija će automatski predložiti pretragu najbliže džamije na temelju vaše lokacije",
     "auto_detect_location_title": "Čini se da ste udaljeni od vaše džamije\n",
     "auto_detect_location_message": "Želite li pretražiti najbližu džamiju za tačna namaska vremena?",

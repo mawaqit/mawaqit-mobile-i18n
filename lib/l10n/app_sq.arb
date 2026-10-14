@@ -851,7 +851,7 @@
     "banner_enable": "Aktivizo bannerin",
     "banner": "Banner",
     "show_details": "Shfaq Detajet",
-    "auto_detect_location": "Sugjeroni xhaminë më të afërt",
+    "auto_detect_location": "Sugjero automatikisht xhaminë më të afërt",
     "auto_detect_explanation": "Kur jeni larg nga xhamia juaj, aplikacioni do të sugjerojë automatikisht kërkimin e xhamisë më të afërt bazuar në vendndodhjen tuaj.",
     "auto_detect_location_title": "Duket se jeni larg xhamisë suaj",
     "auto_detect_location_message": "Dëshironi të kërkoni për xhaminë më të afërt për kohët e sakta të namazit?",

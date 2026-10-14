@@ -1108,7 +1108,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get show_details => 'Visa detaljer,';
 
   @override
-  String get auto_detect_location => 'Föreslå närmaste moské';
+  String get auto_detect_location => 'Föreslå närmaste moské automatiskt';
 
   @override
   String get auto_detect_explanation =>

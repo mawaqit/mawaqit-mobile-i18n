@@ -1110,7 +1110,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get show_details => 'نیشاندانی وردەکارییەکان';
 
   @override
-  String get auto_detect_location => 'پێشنیاری نزیکترین مزگەوت';
+  String get auto_detect_location => 'پێشنیاری خۆکاری نزیکترین مزگەوت';
 
   @override
   String get auto_detect_explanation =>
@@ -3373,15 +3373,16 @@ class AppLocalizationsKu extends AppLocalizations {
       'Stop repeating, play the whole surah';
 
   @override
-  String get settings_Display => 'Display';
+  String get settings_Display => 'پیشاندان';
 
   @override
-  String get settings_FeaturesAndPrivacy => 'Features & privacy';
+  String get settings_FeaturesAndPrivacy =>
+      'تایبەتمەندی و تایبەتمەندییەکانی پاراستن';
 
   @override
-  String get settings_ThemeInfo => 'Choose Light, Dark, or System.';
+  String get settings_ThemeInfo => 'ڕوون، تاریک یان سیستەم هەڵبژێرە.';
 
   @override
   String get settings_TimeFormatInfo =>
-      'Applies to all times in the app, notifications, and connected watches.';
+      'بۆ کاتەکانی ئەپ، ئاگادارکردنەوەکان و کاتژمێرە پەیوەستەکان جێبەجێ دەبێت.';
 }

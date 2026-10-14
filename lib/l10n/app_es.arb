@@ -851,7 +851,7 @@
     "banner_enable": "Habilitar banner",
     "banner": "Bandera",
     "show_details": "Mostrar detalles",
-    "auto_detect_location": "Sugerir la mezquita más cercana",
+    "auto_detect_location": "Sugerir automáticamente la mezquita más cercana",
     "auto_detect_explanation": "Cuando estás lejos de tu mezquita, la aplicación sugerirá automáticamente buscar la mezquita más cercana según tu ubicación.",
     "auto_detect_location_title": "Parece que estás lejos de tu mezquita",
     "auto_detect_location_message": "¿Quieres buscar la mezquita más cercana para obtener los horarios de oración precisos?",

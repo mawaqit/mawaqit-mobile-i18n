@@ -1120,7 +1120,8 @@ class AppLocalizationsPt extends AppLocalizations {
   String get show_details => 'Mostrar detalhes';
 
   @override
-  String get auto_detect_location => 'Sugira a mesquita mais próxima';
+  String get auto_detect_location =>
+      'Sugerir automaticamente a mesquita mais próxima';
 
   @override
   String get auto_detect_explanation =>

@@ -851,7 +851,7 @@
     "banner_enable": "بانەر چالاک بکە",
     "banner": "بانەر",
     "show_details": "نیشاندانی وردەکارییەکان",
-    "auto_detect_location": "پێشنیاری نزیکترین مزگەوت",
+    "auto_detect_location": "پێشنیاری خۆکاری نزیکترین مزگەوت",
     "auto_detect_explanation": "کاتێک لە مزگەوتەکەت دوور بوویت، ئەپەکە بە شێوەیەکی ئۆتۆماتیکی پێشنیاری گەڕان بەدوای نزیکترین مزگەوتدا دەکات بە پشتبەستن بە شوێنەکەت.",
     "auto_detect_location_title": "دیارە تۆ دوریت لە مزگەوتەکەی خۆتەوە",
     "auto_detect_location_message": "دەتەوێت بگەڕێیت بۆ نزیکترین مزگەوت بۆ بەدەستهێنانی کاتی دروستی بانگ؟",
@@ -2053,19 +2053,19 @@
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
     },
-    "settings_Display": "Display",
+    "settings_Display": "پیشاندان",
     "@settings_Display": {
         "description": "Settings page section header (theme, language, time format)."
     },
-    "settings_FeaturesAndPrivacy": "Features & privacy",
+    "settings_FeaturesAndPrivacy": "تایبەتمەندی و تایبەتمەندییەکانی پاراستن",
     "@settings_FeaturesAndPrivacy": {
         "description": "Settings page section header (features and privacy settings)."
     },
-    "settings_ThemeInfo": "Choose Light, Dark, or System.",
+    "settings_ThemeInfo": "ڕوون، تاریک یان سیستەم هەڵبژێرە.",
     "@settings_ThemeInfo": {
         "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
     },
-    "settings_TimeFormatInfo": "Applies to all times in the app, notifications, and connected watches.",
+    "settings_TimeFormatInfo": "بۆ کاتەکانی ئەپ، ئاگادارکردنەوەکان و کاتژمێرە پەیوەستەکان جێبەجێ دەبێت.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
     }
