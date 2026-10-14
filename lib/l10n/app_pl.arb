@@ -851,7 +851,7 @@
     "banner_enable": "Włącz baner",
     "banner": "Transparent",
     "show_details": "Pokaż szczegóły",
-    "auto_detect_location": "Zasugeruj najbliższy meczet",
+    "auto_detect_location": "Automatycznie sugeruj najbliższy meczet",
     "auto_detect_explanation": "Gdy jesteś daleko od meczetu, aplikacja automatycznie sugeruje wyszukiwanie najbliższego meczetu na podstawie Twojej lokalizacji.",
     "auto_detect_location_title": "Wydaje się, że jesteś daleko od meczetu",
     "auto_detect_location_message": "Czy chcesz szukać najbliższego meczetu dla dokładnych godzin modlitwy?",
