@@ -1880,5 +1880,177 @@
     "not_available_from_reciter": "មិនមានពីអ្នកសូត្រនេះទេ",
     "find_another_reciter": "ស្វែងរកអ្នកសូត្រផ្សេង",
     "status_on": "On",
-    "status_off": "Off"
+    "status_off": "Off",
+    "repeat_range_title": "Repeat a range",
+    "@repeat_range_title": {
+        "description": "Title of the Quran audio sheet that repeats a range of verses"
+    },
+    "repeat_range_verse_count": "{count, plural, one{{count} verse} other{{count} verses}}",
+    "@repeat_range_verse_count": {
+        "description": "Subtitle after the surah name, e.g. 'Al-Fatihah · 7 verses'",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "7"
+            }
+        }
+    },
+    "repeat_range_select_range": "Select range",
+    "@repeat_range_select_range": {
+        "description": "Heading above the From/To slider"
+    },
+    "repeat_range_hint": "Drag the handles or scroll the verses",
+    "@repeat_range_hint": {
+        "description": "Hint under 'Select range'"
+    },
+    "repeat_range_reset": "Reset",
+    "@repeat_range_reset": {
+        "description": "Button: back to the whole surah with repeat off"
+    },
+    "repeat_range_repeat": "Repeat",
+    "@repeat_range_repeat": {
+        "description": "Label of the repeat switch/counter"
+    },
+    "repeat_range_play_once": "Play once",
+    "@repeat_range_play_once": {
+        "description": "Main button when repeat is off"
+    },
+    "repeat_range_play_times": "{count, plural, other{Play {count} times}}",
+    "@repeat_range_play_times": {
+        "description": "Main button when repeat is on (count is 2 to 10)",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    "repeat_range_play_on_loop": "Play on loop",
+    "@repeat_range_play_on_loop": {
+        "description": "Main button when repeat is set to infinite"
+    },
+    "repeat_range_progress": "{current} of {total}",
+    "@repeat_range_progress": {
+        "description": "Player chip: which play of the range is running, e.g. '255–257 · 2 of 3'",
+        "placeholders": {
+            "current": {
+                "type": "int",
+                "example": "2"
+            },
+            "total": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    "repeat_range_on_loop": "on loop",
+    "@repeat_range_on_loop": {
+        "description": "Player chip when the range repeats forever, e.g. '255–257 · on loop'"
+    },
+    "semantic_repeat_range_go_to_verse": "{side}: go to verse {verse}",
+    "@semantic_repeat_range_go_to_verse": {
+        "description": "Screen reader label of a step button; side is 'From' or 'To'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            },
+            "verse": {
+                "type": "int",
+                "example": "256"
+            }
+        }
+    },
+    "semantic_repeat_range_next_verse": "{side}: next verse",
+    "@semantic_repeat_range_next_verse": {
+        "description": "Screen reader label of a disabled step button; side is 'From' or 'To'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            }
+        }
+    },
+    "semantic_repeat_range_previous_verse": "{side}: previous verse",
+    "@semantic_repeat_range_previous_verse": {
+        "description": "Screen reader label of a disabled step button; side is 'From' or 'To'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            }
+        }
+    },
+    "semantic_repeat_range_side_verse": "{side} verse {verse}",
+    "@semantic_repeat_range_side_verse": {
+        "description": "Screen reader announcement when From or To changes, e.g. 'From verse 256'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            },
+            "verse": {
+                "type": "int",
+                "example": "256"
+            }
+        }
+    },
+    "semantic_repeat_range_turn_off": "Turn off repeat",
+    "@semantic_repeat_range_turn_off": {
+        "description": "Screen reader label of the minus button when the count is 2"
+    },
+    "semantic_repeat_range_play_fewer": "Play fewer times",
+    "@semantic_repeat_range_play_fewer": {
+        "description": "Screen reader label of the minus button"
+    },
+    "semantic_repeat_range_play_more": "Play more times",
+    "@semantic_repeat_range_play_more": {
+        "description": "Screen reader label of the plus button"
+    },
+    "semantic_repeat_range_plays_times": "{count, plural, other{Plays {count} times}}",
+    "@semantic_repeat_range_plays_times": {
+        "description": "Screen reader value of the repeat counter",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    "semantic_repeat_range_plays_on_loop": "Plays on loop",
+    "@semantic_repeat_range_plays_on_loop": {
+        "description": "Screen reader value of the repeat counter when infinite"
+    },
+    "semantic_repeat_range_chip_verse": "Repeating verse {verse}",
+    "@semantic_repeat_range_chip_verse": {
+        "description": "Screen reader label of the player chip for a one-verse range",
+        "placeholders": {
+            "verse": {
+                "type": "int",
+                "example": "6"
+            }
+        }
+    },
+    "semantic_repeat_range_chip_verses": "Repeating verses {start} to {end}",
+    "@semantic_repeat_range_chip_verses": {
+        "description": "Screen reader label of the player chip",
+        "placeholders": {
+            "start": {
+                "type": "int",
+                "example": "255"
+            },
+            "end": {
+                "type": "int",
+                "example": "257"
+            }
+        }
+    },
+    "semantic_repeat_range_open_settings": "Open repeat settings",
+    "@semantic_repeat_range_open_settings": {
+        "description": "Screen reader hint of the player chip"
+    },
+    "semantic_repeat_range_stop": "Stop repeating, play the whole surah",
+    "@semantic_repeat_range_stop": {
+        "description": "Screen reader label of the chip's close button"
+    }
 }
