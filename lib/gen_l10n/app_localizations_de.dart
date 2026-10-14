@@ -3404,4 +3404,18 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Wiederholen beenden, ganze Sure abspielen';
+
+  @override
+  String get settings_Display => 'Anzeige';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Funktionen & Datenschutz';
+
+  @override
+  String get settings_ThemeInfo =>
+      'Hell, Dunkel oder Systemeinstellung wählen.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Gilt für alle Zeiten in der App, in Benachrichtigungen und auf verbundenen Uhren.';
 }

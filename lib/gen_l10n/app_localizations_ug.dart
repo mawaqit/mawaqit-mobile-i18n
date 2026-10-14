@@ -3367,4 +3367,18 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'تەكرارلاشنى توختىتىپ پۈتۈن سۈرىنى قويۇش';
+
+  @override
+  String get settings_Display => 'كۆرۈنۈش';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'ئىقتىدارلار ۋە مەخپىيەتلىك';
+
+  @override
+  String get settings_ThemeInfo =>
+      'يورۇق، قاراڭغۇ ياكى سىستېما ھالىتىنى تاللاڭ.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'ئەپ، ئۇقتۇرۇش ۋە ئۇلانغان سائەتلەردىكى بارلىق ۋاقىتلارغا قوللىنىلىدۇ.';
 }

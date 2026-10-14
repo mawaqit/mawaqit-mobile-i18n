@@ -3350,4 +3350,17 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get semantic_repeat_range_stop => 'Tekrarı durdur, tüm sureyi oynat';
+
+  @override
+  String get settings_Display => 'Görünüm';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Özellikler ve gizlilik';
+
+  @override
+  String get settings_ThemeInfo => 'Açık, koyu veya sistem temasını seçin.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Uygulamadaki, bildirimlerdeki ve bağlı saatlerdeki tüm saatler için geçerlidir.';
 }

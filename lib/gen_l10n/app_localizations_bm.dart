@@ -3363,4 +3363,17 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Stop repeating, play the whole surah';
+
+  @override
+  String get settings_Display => 'Display';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Features & privacy';
+
+  @override
+  String get settings_ThemeInfo => 'Choose Light, Dark, or System.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Applies to all times in the app, notifications, and connected watches.';
 }

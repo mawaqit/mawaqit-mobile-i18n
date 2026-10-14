@@ -3356,4 +3356,17 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get semantic_repeat_range_stop => 'دہرانا بند کریں، پوری سورت چلائیں';
+
+  @override
+  String get settings_Display => 'ڈسپلے';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'خصوصیات اور رازداری';
+
+  @override
+  String get settings_ThemeInfo => 'روشن، گہرا یا سسٹم منتخب کریں۔';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'ایپ، اطلاعات اور منسلک گھڑیوں کے تمام اوقات پر لاگو ہوتا ہے۔';
 }

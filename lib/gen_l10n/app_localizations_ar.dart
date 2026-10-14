@@ -3335,4 +3335,17 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get semantic_repeat_range_stop => 'إيقاف التكرار وتشغيل السورة كاملة';
+
+  @override
+  String get settings_Display => 'العرض';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'الميزات والخصوصية';
+
+  @override
+  String get settings_ThemeInfo => 'اختر الفاتح أو الداكن أو إعدادات النظام.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'يُطبّق على الأوقات في التطبيق والإشعارات والساعات المتصلة.';
 }

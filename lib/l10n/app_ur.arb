@@ -2052,5 +2052,21 @@
     "semantic_repeat_range_stop": "دہرانا بند کریں، پوری سورت چلائیں",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
+    },
+    "settings_Display": "ڈسپلے",
+    "@settings_Display": {
+        "description": "Settings page section header (theme, language, time format)."
+    },
+    "settings_FeaturesAndPrivacy": "خصوصیات اور رازداری",
+    "@settings_FeaturesAndPrivacy": {
+        "description": "Settings page section header (features and privacy settings)."
+    },
+    "settings_ThemeInfo": "روشن، گہرا یا سسٹم منتخب کریں۔",
+    "@settings_ThemeInfo": {
+        "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
+    },
+    "settings_TimeFormatInfo": "ایپ، اطلاعات اور منسلک گھڑیوں کے تمام اوقات پر لاگو ہوتا ہے۔",
+    "@settings_TimeFormatInfo": {
+        "description": "Info sheet text for the Time format (12H/24H) setting."
     }
 }

@@ -3357,4 +3357,17 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get semantic_repeat_range_stop => 'Sluta upprepa, spela hela suran';
+
+  @override
+  String get settings_Display => 'Visning';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Funktioner och integritet';
+
+  @override
+  String get settings_ThemeInfo => 'Välj ljust, mörkt eller system.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Gäller alla tider i appen, aviseringar och anslutna klockor.';
 }

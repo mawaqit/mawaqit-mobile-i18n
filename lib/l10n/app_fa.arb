@@ -2052,5 +2052,21 @@
     "semantic_repeat_range_stop": "توقف تکرار، پخش کل سوره",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
+    },
+    "settings_Display": "نمایش",
+    "@settings_Display": {
+        "description": "Settings page section header (theme, language, time format)."
+    },
+    "settings_FeaturesAndPrivacy": "قابلیت‌ها و حریم خصوصی",
+    "@settings_FeaturesAndPrivacy": {
+        "description": "Settings page section header (features and privacy settings)."
+    },
+    "settings_ThemeInfo": "روشن، تاریک یا سیستم را انتخاب کنید.",
+    "@settings_ThemeInfo": {
+        "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
+    },
+    "settings_TimeFormatInfo": "برای زمان‌های برنامه، اعلان‌ها و ساعت‌های متصل اعمال می‌شود.",
+    "@settings_TimeFormatInfo": {
+        "description": "Info sheet text for the Time format (12H/24H) setting."
     }
 }

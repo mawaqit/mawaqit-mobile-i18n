@@ -3379,4 +3379,18 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Zaustavi ponavljanje i pusti cijelu suru';
+
+  @override
+  String get settings_Display => 'Prikaz';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Funkcije i privatnost';
+
+  @override
+  String get settings_ThemeInfo =>
+      'Odaberite svijetlu, tamnu ili sistemsku temu.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Primjenjuje se na sva vremena u aplikaciji, obavijestima i povezanim satovima.';
 }

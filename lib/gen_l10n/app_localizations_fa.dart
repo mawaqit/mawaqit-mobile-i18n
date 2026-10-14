@@ -3351,6 +3351,19 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get semantic_repeat_range_stop => 'توقف تکرار، پخش کل سوره';
+
+  @override
+  String get settings_Display => 'نمایش';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'قابلیت‌ها و حریم خصوصی';
+
+  @override
+  String get settings_ThemeInfo => 'روشن، تاریک یا سیستم را انتخاب کنید.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'برای زمان‌های برنامه، اعلان‌ها و ساعت‌های متصل اعمال می‌شود.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6710,4 +6723,17 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get semantic_repeat_range_stop =>
       'Stop repeating, play the whole surah';
+
+  @override
+  String get settings_Display => 'Display';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Features & privacy';
+
+  @override
+  String get settings_ThemeInfo => 'Choose Light, Dark, or System.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Applies to all times in the app, notifications, and connected watches.';
 }
