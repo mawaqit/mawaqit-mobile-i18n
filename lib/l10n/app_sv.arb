@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -851,7 +851,7 @@
     "banner_enable": "Aktivera notis banners",
     "banner": "Notis banner",
     "show_details": "Visa detaljer,",
-    "auto_detect_location": "Föreslå närmaste moské",
+    "auto_detect_location": "Föreslå närmaste moské automatiskt",
     "auto_detect_explanation": "När du är långt från din moské föreslår appen automatiskt den närmaste moskén baserat på din plats.",
     "auto_detect_location_title": "Det verkar som att du är långt från din moské",
     "auto_detect_location_message": "Vill du hitta den närmste moskén för korrekta bönetider?",
