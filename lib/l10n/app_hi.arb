@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "इस तिलावत की सूरहें",
     "missing_surahs_suggestion": "छूटी हुई सूरहें किसी दूसरे क़ारी से सुनें",
     "not_available_from_reciter": "इस क़ारी के पास उपलब्ध नहीं",
-    "find_another_reciter": "दूसरा क़ारी खोजें"
+    "find_another_reciter": "दूसरा क़ारी खोजें",
+    "status_on": "चालू है",
+    "status_off": "बंद"
 }
