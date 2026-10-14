@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "ਇਸ ਤਿਲਾਵਤ ਵਿੱਚ ਸੂਰਤਾਂ",
     "missing_surahs_suggestion": "ਗੁੰਮ ਸੂਰਤਾਂ ਕਿਸੇ ਹੋਰ ਕਾਰੀ ਤੋਂ ਸੁਣੋ",
     "not_available_from_reciter": "ਇਸ ਕਾਰੀ ਕੋਲ ਉਪਲਬਧ ਨਹੀਂ",
-    "find_another_reciter": "ਕੋਈ ਹੋਰ ਕਾਰੀ ਲੱਭੋ"
+    "find_another_reciter": "ਕੋਈ ਹੋਰ ਕਾਰੀ ਲੱਭੋ",
+    "status_on": "On",
+    "status_off": "Off"
 }
