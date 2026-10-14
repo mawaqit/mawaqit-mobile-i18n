@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Sourates de cette récitation",
     "missing_surahs_suggestion": "Écoutez les sourates manquantes avec un autre récitateur",
     "not_available_from_reciter": "Non disponible pour ce récitateur",
-    "find_another_reciter": "Trouver un autre récitateur"
+    "find_another_reciter": "Trouver un autre récitateur",
+    "status_on": "Oui",
+    "status_off": "Désactivé"
 }
