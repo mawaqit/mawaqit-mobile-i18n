@@ -2052,5 +2052,21 @@
     "semantic_repeat_range_stop": "Ismétlés leállítása, az egész szúra lejátszása",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
+    },
+    "settings_Display": "Megjelenítés",
+    "@settings_Display": {
+        "description": "Settings page section header (theme, language, time format)."
+    },
+    "settings_FeaturesAndPrivacy": "Funkciók és adatvédelem",
+    "@settings_FeaturesAndPrivacy": {
+        "description": "Settings page section header (features and privacy settings)."
+    },
+    "settings_ThemeInfo": "Válasszon világos, sötét vagy rendszer témát.",
+    "@settings_ThemeInfo": {
+        "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
+    },
+    "settings_TimeFormatInfo": "Az alkalmazásban, értesítésekben és csatlakoztatott órákon megjelenő időkre vonatkozik.",
+    "@settings_TimeFormatInfo": {
+        "description": "Info sheet text for the Time format (12H/24H) setting."
     }
 }
