@@ -2052,5 +2052,21 @@
     "semantic_repeat_range_stop": "পুনরাবৃত্তি বন্ধ করে পুরো সূরা চালান",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
+    },
+    "settings_Display": "ডিসপ্লে",
+    "@settings_Display": {
+        "description": "Settings page section header (theme, language, time format)."
+    },
+    "settings_FeaturesAndPrivacy": "ফিচার ও গোপনীয়তা",
+    "@settings_FeaturesAndPrivacy": {
+        "description": "Settings page section header (features and privacy settings)."
+    },
+    "settings_ThemeInfo": "লাইট, ডার্ক বা সিস্টেম থিম বেছে নিন।",
+    "@settings_ThemeInfo": {
+        "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
+    },
+    "settings_TimeFormatInfo": "অ্যাপ, নোটিফিকেশন ও সংযুক্ত ঘড়ির সব সময়ের ক্ষেত্রে প্রযোজ্য।",
+    "@settings_TimeFormatInfo": {
+        "description": "Info sheet text for the Time format (12H/24H) setting."
     }
 }
