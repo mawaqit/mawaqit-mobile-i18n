@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Suratas nesta recitação",
     "missing_surahs_suggestion": "Ouça as suratas em falta com outro recitador",
     "not_available_from_reciter": "Não disponível com este recitador",
-    "find_another_reciter": "Encontrar outro recitador"
+    "find_another_reciter": "Encontrar outro recitador",
+    "status_on": "Sim",
+    "status_off": "Não"
 }
