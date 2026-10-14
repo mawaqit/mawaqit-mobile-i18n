@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Suret në këtë recitim",
     "missing_surahs_suggestion": "Dëgjoni suret që mungojnë me një recitues tjetër",
     "not_available_from_reciter": "Nuk ofrohet nga ky recitues",
-    "find_another_reciter": "Gjeni një recitues tjetër"
+    "find_another_reciter": "Gjeni një recitues tjetër",
+    "status_on": "Ndezur",
+    "status_off": "Fikur"
 }
