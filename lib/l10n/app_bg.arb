@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Сури в този рецитал",
     "missing_surahs_suggestion": "Слушайте липсващите сури от друг рецитатор",
     "not_available_from_reciter": "Не е налично при този рецитатор",
-    "find_another_reciter": "Намерете друг рецитатор"
+    "find_another_reciter": "Намерете друг рецитатор",
+    "status_on": "Включено",
+    "status_off": "Изключено"
 }
