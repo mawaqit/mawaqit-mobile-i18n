@@ -1110,7 +1110,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get show_details => 'Prikaži detalje';
 
   @override
-  String get auto_detect_location => 'Preporučite najbližu džamiju';
+  String get auto_detect_location => 'Automatski predloži najbližu džamiju';
 
   @override
   String get auto_detect_explanation =>

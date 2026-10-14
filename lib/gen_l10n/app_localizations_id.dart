@@ -1109,7 +1109,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get show_details => 'Tampilkan Detail';
 
   @override
-  String get auto_detect_location => 'Usulkan masjid terdekat';
+  String get auto_detect_location => 'Sarankan masjid terdekat secara otomatis';
 
   @override
   String get auto_detect_explanation =>

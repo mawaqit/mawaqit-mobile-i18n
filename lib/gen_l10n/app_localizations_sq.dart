@@ -1115,7 +1115,8 @@ class AppLocalizationsSq extends AppLocalizations {
   String get show_details => 'Shfaq Detajet';
 
   @override
-  String get auto_detect_location => 'Sugjeroni xhaminë më të afërt';
+  String get auto_detect_location =>
+      'Sugjero automatikisht xhaminë më të afërt';
 
   @override
   String get auto_detect_explanation =>

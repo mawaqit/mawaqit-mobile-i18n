@@ -1104,7 +1104,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get show_details => 'แสดงรายละเอียด';
 
   @override
-  String get auto_detect_location => 'แนะนำมัสยิดที่ใกล้ที่สุด';
+  String get auto_detect_location => 'แนะนำมัสยิดที่ใกล้ที่สุดโดยอัตโนมัติ';
 
   @override
   String get auto_detect_explanation =>

@@ -1125,7 +1125,8 @@ class AppLocalizationsFr extends AppLocalizations {
   String get show_details => 'Afficher les détails';
 
   @override
-  String get auto_detect_location => 'Suggérer la mosquée la plus proche';
+  String get auto_detect_location =>
+      'Suggérer automatiquement la mosquée la plus proche';
 
   @override
   String get auto_detect_explanation =>

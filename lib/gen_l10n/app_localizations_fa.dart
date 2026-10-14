@@ -1104,7 +1104,7 @@ class AppLocalizationsFa extends AppLocalizations {
   String get show_details => 'نمایش جزئیات';
 
   @override
-  String get auto_detect_location => 'پیشنهاد مسجد نزدیک';
+  String get auto_detect_location => 'پیشنهاد خودکار نزدیک‌ترین مسجد';
 
   @override
   String get auto_detect_explanation =>
@@ -4466,7 +4466,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   String get show_details => 'نمایش جزئیات';
 
   @override
-  String get auto_detect_location => 'پیشنهاد مسجد نزدیک';
+  String get auto_detect_location => 'پیشنهاد خودکار نزدیک‌ترین مسجد';
 
   @override
   String get auto_detect_explanation =>

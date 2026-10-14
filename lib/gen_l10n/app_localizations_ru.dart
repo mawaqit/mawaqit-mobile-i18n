@@ -1109,7 +1109,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get show_details => 'Показать детали';
 
   @override
-  String get auto_detect_location => 'Предложить ближайшую мечеть';
+  String get auto_detect_location =>
+      'Автоматически предлагать ближайшую мечеть';
 
   @override
   String get auto_detect_explanation =>

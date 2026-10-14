@@ -2226,7 +2226,7 @@ abstract class AppLocalizations {
   /// No description provided for @auto_detect_location.
   ///
   /// In en, this message translates to:
-  /// **'Suggest nearest mosque'**
+  /// **'Auto suggest nearest mosque'**
   String get auto_detect_location;
 
   /// No description provided for @auto_detect_explanation.

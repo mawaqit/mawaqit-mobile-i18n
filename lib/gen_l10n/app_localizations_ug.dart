@@ -1106,7 +1106,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String get show_details => 'تەپسىلاتىنى كۆرسەت';
 
   @override
-  String get auto_detect_location => 'يېقىن مەسچىتنى تەۋسىيە قىلىدۇ';
+  String get auto_detect_location =>
+      'ئەڭ يېقىن مەسچىتنى ئاپتوماتىك تەۋسىيە قىلىش';
 
   @override
   String get auto_detect_explanation =>

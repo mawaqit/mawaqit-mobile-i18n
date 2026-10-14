@@ -1117,7 +1117,8 @@ class AppLocalizationsNl extends AppLocalizations {
   String get show_details => 'Toon details';
 
   @override
-  String get auto_detect_location => 'Suggereer de dichtstbijzijnde moskee';
+  String get auto_detect_location =>
+      'Dichtstbijzijnde moskee automatisch voorstellen';
 
   @override
   String get auto_detect_explanation =>
