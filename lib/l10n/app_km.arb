@@ -851,7 +851,7 @@
     "banner_enable": "Banner enable",
     "banner": "Banner",
     "show_details": "Show Details",
-    "auto_detect_location": "Suggest nearest mosque",
+    "auto_detect_location": "ណែនាំម៉ាស្ជិទជិតបំផុតដោយស្វ័យប្រវត្តិ",
     "auto_detect_explanation": "When you are distant from your mosque, the app will automatically suggest searching for the nearest mosque based on your location.",
     "auto_detect_location_title": "It seems you are distant from your mosque",
     "auto_detect_location_message": "Do you want to search for the nearest mosque for accurate prayer times?",
