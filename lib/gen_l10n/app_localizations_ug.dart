@@ -3258,4 +3258,113 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get status_off => 'ئۆچۈرۈلگەن';
+
+  @override
+  String get repeat_range_title => 'دائىرىنى تەكرارلاش';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count ئايەت',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'دائىرە تاللاش';
+
+  @override
+  String get repeat_range_hint =>
+      'تۇتقۇچلارنى سۆرەڭ ياكى ئايەتلەرنى سىيرىلدۇرۇڭ';
+
+  @override
+  String get repeat_range_reset => 'ئەسلىگە قايتۇرۇش';
+
+  @override
+  String get repeat_range_repeat => 'تەكرارلاش';
+
+  @override
+  String get repeat_range_play_once => 'بىر قېتىم قويۇش';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count قېتىم قويۇش',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'توختىماي قويۇش';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$total دىن $current';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'توختىماي';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: $verse-ئايەتكە بېرىش';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: كېيىنكى ئايەت';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: ئالدىنقى ئايەت';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: $verse-ئايەت';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'تەكرارلاشنى تاقاش';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'ئازراق قويۇش';
+
+  @override
+  String get semantic_repeat_range_play_more => 'كۆپرەك قويۇش';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count قېتىم قويۇلىدۇ',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'توختىماي قويۇلىدۇ';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return '$verse-ئايەت تەكرارلىنىۋاتىدۇ';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return '$start–$end-ئايەتلەر تەكرارلىنىۋاتىدۇ';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings => 'تەكرارلاش تەڭشىكىنى ئېچىش';
+
+  @override
+  String get semantic_repeat_range_stop =>
+      'تەكرارلاشنى توختىتىپ پۈتۈن سۈرىنى قويۇش';
 }

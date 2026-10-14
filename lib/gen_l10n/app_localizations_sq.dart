@@ -3272,4 +3272,114 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get status_off => 'Fikur';
+
+  @override
+  String get repeat_range_title => 'Përsërit një shtrirje';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count ajete',
+      one: '$count ajet',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'Zgjidh shtrirjen';
+
+  @override
+  String get repeat_range_hint => 'Tërhiq dorezat ose rrëshqit ajetet';
+
+  @override
+  String get repeat_range_reset => 'Rivendos';
+
+  @override
+  String get repeat_range_repeat => 'Përsërit';
+
+  @override
+  String get repeat_range_play_once => 'Luaj një herë';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Luaj $count herë',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'Luaj pa ndërprerje';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current nga $total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'pa ndërprerje';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: shko te ajeti $verse';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: ajeti tjetër';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: ajeti i mëparshëm';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: ajeti $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'Çaktivizo përsëritjen';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'Luaj më pak herë';
+
+  @override
+  String get semantic_repeat_range_play_more => 'Luaj më shumë herë';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Luhet $count herë',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'Luhet pa ndërprerje';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'Po përsëritet ajeti $verse';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'Po përsëriten ajetet $start–$end';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings =>
+      'Hap cilësimet e përsëritjes';
+
+  @override
+  String get semantic_repeat_range_stop =>
+      'Ndalo përsëritjen dhe luaj të gjithë suren';
 }

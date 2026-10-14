@@ -1880,5 +1880,177 @@
     "not_available_from_reciter": "Inte tillgänglig hos den här recitatören",
     "find_another_reciter": "Hitta en annan recitatör",
     "status_on": "På",
-    "status_off": "Av"
+    "status_off": "Av",
+    "repeat_range_title": "Upprepa ett intervall",
+    "@repeat_range_title": {
+        "description": "Title of the Quran audio sheet that repeats a range of verses"
+    },
+    "repeat_range_verse_count": "{count, plural, one{{count} vers} other{{count} verser}}",
+    "@repeat_range_verse_count": {
+        "description": "Subtitle after the surah name, e.g. 'Al-Fatihah · 7 verses'",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "7"
+            }
+        }
+    },
+    "repeat_range_select_range": "Välj intervall",
+    "@repeat_range_select_range": {
+        "description": "Heading above the From/To slider"
+    },
+    "repeat_range_hint": "Dra i reglagen eller bläddra bland verserna",
+    "@repeat_range_hint": {
+        "description": "Hint under 'Select range'"
+    },
+    "repeat_range_reset": "Återställ",
+    "@repeat_range_reset": {
+        "description": "Button: back to the whole surah with repeat off"
+    },
+    "repeat_range_repeat": "Upprepa",
+    "@repeat_range_repeat": {
+        "description": "Label of the repeat switch/counter"
+    },
+    "repeat_range_play_once": "Spela en gång",
+    "@repeat_range_play_once": {
+        "description": "Main button when repeat is off"
+    },
+    "repeat_range_play_times": "{count, plural, other{Spela {count} gånger}}",
+    "@repeat_range_play_times": {
+        "description": "Main button when repeat is on (count is 2 to 10)",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    "repeat_range_play_on_loop": "Spela i slinga",
+    "@repeat_range_play_on_loop": {
+        "description": "Main button when repeat is set to infinite"
+    },
+    "repeat_range_progress": "{current} av {total}",
+    "@repeat_range_progress": {
+        "description": "Player chip: which play of the range is running, e.g. '255–257 · 2 of 3'",
+        "placeholders": {
+            "current": {
+                "type": "int",
+                "example": "2"
+            },
+            "total": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    "repeat_range_on_loop": "i slinga",
+    "@repeat_range_on_loop": {
+        "description": "Player chip when the range repeats forever, e.g. '255–257 · on loop'"
+    },
+    "semantic_repeat_range_go_to_verse": "{side}: gå till vers {verse}",
+    "@semantic_repeat_range_go_to_verse": {
+        "description": "Screen reader label of a step button; side is 'From' or 'To'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            },
+            "verse": {
+                "type": "int",
+                "example": "256"
+            }
+        }
+    },
+    "semantic_repeat_range_next_verse": "{side}: nästa vers",
+    "@semantic_repeat_range_next_verse": {
+        "description": "Screen reader label of a disabled step button; side is 'From' or 'To'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            }
+        }
+    },
+    "semantic_repeat_range_previous_verse": "{side}: föregående vers",
+    "@semantic_repeat_range_previous_verse": {
+        "description": "Screen reader label of a disabled step button; side is 'From' or 'To'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            }
+        }
+    },
+    "semantic_repeat_range_side_verse": "{side}: vers {verse}",
+    "@semantic_repeat_range_side_verse": {
+        "description": "Screen reader announcement when From or To changes, e.g. 'From verse 256'",
+        "placeholders": {
+            "side": {
+                "type": "String",
+                "example": "From"
+            },
+            "verse": {
+                "type": "int",
+                "example": "256"
+            }
+        }
+    },
+    "semantic_repeat_range_turn_off": "Stäng av upprepning",
+    "@semantic_repeat_range_turn_off": {
+        "description": "Screen reader label of the minus button when the count is 2"
+    },
+    "semantic_repeat_range_play_fewer": "Spela färre gånger",
+    "@semantic_repeat_range_play_fewer": {
+        "description": "Screen reader label of the minus button"
+    },
+    "semantic_repeat_range_play_more": "Spela fler gånger",
+    "@semantic_repeat_range_play_more": {
+        "description": "Screen reader label of the plus button"
+    },
+    "semantic_repeat_range_plays_times": "{count, plural, other{Spelas {count} gånger}}",
+    "@semantic_repeat_range_plays_times": {
+        "description": "Screen reader value of the repeat counter",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3"
+            }
+        }
+    },
+    "semantic_repeat_range_plays_on_loop": "Spelas i slinga",
+    "@semantic_repeat_range_plays_on_loop": {
+        "description": "Screen reader value of the repeat counter when infinite"
+    },
+    "semantic_repeat_range_chip_verse": "Upprepar vers {verse}",
+    "@semantic_repeat_range_chip_verse": {
+        "description": "Screen reader label of the player chip for a one-verse range",
+        "placeholders": {
+            "verse": {
+                "type": "int",
+                "example": "6"
+            }
+        }
+    },
+    "semantic_repeat_range_chip_verses": "Upprepar verserna {start} till {end}",
+    "@semantic_repeat_range_chip_verses": {
+        "description": "Screen reader label of the player chip",
+        "placeholders": {
+            "start": {
+                "type": "int",
+                "example": "255"
+            },
+            "end": {
+                "type": "int",
+                "example": "257"
+            }
+        }
+    },
+    "semantic_repeat_range_open_settings": "Öppna upprepningsinställningar",
+    "@semantic_repeat_range_open_settings": {
+        "description": "Screen reader hint of the player chip"
+    },
+    "semantic_repeat_range_stop": "Sluta upprepa, spela hela suran",
+    "@semantic_repeat_range_stop": {
+        "description": "Screen reader label of the chip's close button"
+    }
 }

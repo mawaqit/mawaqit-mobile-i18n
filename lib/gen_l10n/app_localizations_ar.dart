@@ -3217,4 +3217,122 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get status_off => 'معطّل';
+
+  @override
+  String get repeat_range_title => 'تكرار نطاق';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count آية',
+      many: '$count آية',
+      few: '$count آيات',
+      two: 'آيتان',
+      one: 'آية واحدة',
+      zero: 'لا آيات',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'تحديد النطاق';
+
+  @override
+  String get repeat_range_hint => 'اسحب المقابض أو مرّر الآيات';
+
+  @override
+  String get repeat_range_reset => 'إعادة تعيين';
+
+  @override
+  String get repeat_range_repeat => 'تكرار';
+
+  @override
+  String get repeat_range_play_once => 'تشغيل مرة واحدة';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'تشغيل $count مرة',
+      many: 'تشغيل $count مرة',
+      few: 'تشغيل $count مرات',
+      two: 'تشغيل مرتين',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'تشغيل بلا توقف';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current من $total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'بلا توقف';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: انتقل إلى الآية $verse';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: الآية التالية';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: الآية السابقة';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: الآية $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'إيقاف التكرار';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'تشغيل مرات أقل';
+
+  @override
+  String get semantic_repeat_range_play_more => 'تشغيل مرات أكثر';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'يُشغَّل $count مرة',
+      many: 'يُشغَّل $count مرة',
+      few: 'يُشغَّل $count مرات',
+      two: 'يُشغَّل مرتين',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'يُشغَّل بلا توقف';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'تكرار الآية $verse';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'تكرار الآيات من $start إلى $end';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings => 'فتح إعدادات التكرار';
+
+  @override
+  String get semantic_repeat_range_stop => 'إيقاف التكرار وتشغيل السورة كاملة';
 }

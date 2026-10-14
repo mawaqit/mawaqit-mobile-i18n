@@ -3262,4 +3262,121 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get status_off => 'Выкл';
+
+  @override
+  String get repeat_range_title => 'Повтор диапазона';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count аята',
+      many: '$count аятов',
+      few: '$count аята',
+      one: '$count аят',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'Выберите диапазон';
+
+  @override
+  String get repeat_range_hint => 'Перетащите ползунки или прокрутите аяты';
+
+  @override
+  String get repeat_range_reset => 'Сбросить';
+
+  @override
+  String get repeat_range_repeat => 'Повтор';
+
+  @override
+  String get repeat_range_play_once => 'Воспроизвести один раз';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Воспроизвести $count раза',
+      many: 'Воспроизвести $count раз',
+      few: 'Воспроизвести $count раза',
+      one: 'Воспроизвести $count раз',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'Воспроизводить по кругу';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current из $total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'по кругу';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: перейти к аяту $verse';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: следующий аят';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: предыдущий аят';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: аят $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'Выключить повтор';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'Воспроизводить реже';
+
+  @override
+  String get semantic_repeat_range_play_more => 'Воспроизводить чаще';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Воспроизводится $count раза',
+      many: 'Воспроизводится $count раз',
+      few: 'Воспроизводится $count раза',
+      one: 'Воспроизводится $count раз',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'Воспроизводится по кругу';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'Повтор аята $verse';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'Повтор аятов $start–$end';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings => 'Открыть настройки повтора';
+
+  @override
+  String get semantic_repeat_range_stop =>
+      'Остановить повтор и воспроизвести всю суру';
 }

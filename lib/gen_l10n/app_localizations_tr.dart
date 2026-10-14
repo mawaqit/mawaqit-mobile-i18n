@@ -3241,4 +3241,113 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get status_off => 'Kapalı';
+
+  @override
+  String get repeat_range_title => 'Aralık tekrarla';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count ayet',
+      one: '$count ayet',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'Aralık seçin';
+
+  @override
+  String get repeat_range_hint =>
+      'Tutamaçları sürükleyin veya ayetleri kaydırın';
+
+  @override
+  String get repeat_range_reset => 'Sıfırla';
+
+  @override
+  String get repeat_range_repeat => 'Tekrarla';
+
+  @override
+  String get repeat_range_play_once => 'Bir kez oynat';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count kez oynat',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'Sürekli oynat';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current/$total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'sürekli';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: $verse. ayete git';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: sonraki ayet';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: önceki ayet';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: $verse. ayet';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'Tekrarı kapat';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'Daha az oynat';
+
+  @override
+  String get semantic_repeat_range_play_more => 'Daha çok oynat';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count kez oynatılır',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'Sürekli oynatılır';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return '$verse. ayet tekrarlanıyor';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return '$start–$end. ayetler tekrarlanıyor';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings => 'Tekrar ayarlarını aç';
+
+  @override
+  String get semantic_repeat_range_stop => 'Tekrarı durdur, tüm sureyi oynat';
 }

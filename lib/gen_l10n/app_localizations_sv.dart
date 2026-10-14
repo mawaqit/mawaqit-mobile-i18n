@@ -3248,4 +3248,113 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get status_off => 'Av';
+
+  @override
+  String get repeat_range_title => 'Upprepa ett intervall';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count verser',
+      one: '$count vers',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'Välj intervall';
+
+  @override
+  String get repeat_range_hint => 'Dra i reglagen eller bläddra bland verserna';
+
+  @override
+  String get repeat_range_reset => 'Återställ';
+
+  @override
+  String get repeat_range_repeat => 'Upprepa';
+
+  @override
+  String get repeat_range_play_once => 'Spela en gång';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Spela $count gånger',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'Spela i slinga';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current av $total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'i slinga';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: gå till vers $verse';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: nästa vers';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: föregående vers';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: vers $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'Stäng av upprepning';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'Spela färre gånger';
+
+  @override
+  String get semantic_repeat_range_play_more => 'Spela fler gånger';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Spelas $count gånger',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'Spelas i slinga';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'Upprepar vers $verse';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'Upprepar verserna $start till $end';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings =>
+      'Öppna upprepningsinställningar';
+
+  @override
+  String get semantic_repeat_range_stop => 'Sluta upprepa, spela hela suran';
 }

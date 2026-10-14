@@ -3257,4 +3257,113 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get status_off => 'बंद';
+
+  @override
+  String get repeat_range_title => 'एक सीमा दोहराएं';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count आयतें',
+      one: '$count आयत',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'सीमा चुनें';
+
+  @override
+  String get repeat_range_hint => 'हैंडल घसीटें या आयतों को स्क्रॉल करें';
+
+  @override
+  String get repeat_range_reset => 'रीसेट करें';
+
+  @override
+  String get repeat_range_repeat => 'दोहराएं';
+
+  @override
+  String get repeat_range_play_once => 'एक बार चलाएं';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count बार चलाएँ',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'बार-बार चलाएँ';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current में से $total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'बार-बार';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: go to verse $verse';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: next verse';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: previous verse';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side verse $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'Turn off repeat';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'Play fewer times';
+
+  @override
+  String get semantic_repeat_range_play_more => 'Play more times';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Plays $count times',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'Plays on loop';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'Repeating verse $verse';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'Repeating verses $start to $end';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings => 'Open repeat settings';
+
+  @override
+  String get semantic_repeat_range_stop =>
+      'Stop repeating, play the whole surah';
 }
