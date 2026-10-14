@@ -2052,5 +2052,21 @@
     "semantic_repeat_range_stop": "تەكرارلاشنى توختىتىپ پۈتۈن سۈرىنى قويۇش",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
+    },
+    "settings_Display": "كۆرۈنۈش",
+    "@settings_Display": {
+        "description": "Settings page section header (theme, language, time format)."
+    },
+    "settings_FeaturesAndPrivacy": "ئىقتىدارلار ۋە مەخپىيەتلىك",
+    "@settings_FeaturesAndPrivacy": {
+        "description": "Settings page section header (features and privacy settings)."
+    },
+    "settings_ThemeInfo": "يورۇق، قاراڭغۇ ياكى سىستېما ھالىتىنى تاللاڭ.",
+    "@settings_ThemeInfo": {
+        "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
+    },
+    "settings_TimeFormatInfo": "ئەپ، ئۇقتۇرۇش ۋە ئۇلانغان سائەتلەردىكى بارلىق ۋاقىتلارغا قوللىنىلىدۇ.",
+    "@settings_TimeFormatInfo": {
+        "description": "Info sheet text for the Time format (12H/24H) setting."
     }
 }
