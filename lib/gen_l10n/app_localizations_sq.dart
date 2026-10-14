@@ -3266,4 +3266,10 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Gjeni një recitues tjetër';
+
+  @override
+  String get status_on => 'Ndezur';
+
+  @override
+  String get status_off => 'Fikur';
 }

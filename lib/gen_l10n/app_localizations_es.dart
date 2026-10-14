@@ -3278,4 +3278,10 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Buscar otro recitador';
+
+  @override
+  String get status_on => 'Sí';
+
+  @override
+  String get status_off => 'No';
 }

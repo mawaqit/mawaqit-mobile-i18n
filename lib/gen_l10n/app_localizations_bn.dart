@@ -3252,4 +3252,10 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'অন্য ক্বারী খুঁজুন';
+
+  @override
+  String get status_on => 'চালু';
+
+  @override
+  String get status_off => 'বন্ধ';
 }

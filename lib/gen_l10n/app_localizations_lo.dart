@@ -3247,4 +3247,10 @@ class AppLocalizationsLo extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'ຊອກຫາຜູ້ອ່ານຄົນອື່ນ';
+
+  @override
+  String get status_on => 'On';
+
+  @override
+  String get status_off => 'Off';
 }

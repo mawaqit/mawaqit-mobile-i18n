@@ -3295,4 +3295,10 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Trouver un autre récitateur';
+
+  @override
+  String get status_on => 'Oui';
+
+  @override
+  String get status_off => 'Désactivé';
 }

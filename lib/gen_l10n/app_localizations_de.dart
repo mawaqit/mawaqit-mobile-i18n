@@ -3286,4 +3286,10 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Anderen Rezitator finden';
+
+  @override
+  String get status_on => 'An';
+
+  @override
+  String get status_off => 'Aus';
 }

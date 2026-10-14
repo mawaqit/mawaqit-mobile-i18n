@@ -3268,4 +3268,10 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Másik recitáló keresése';
+
+  @override
+  String get status_on => 'Be';
+
+  @override
+  String get status_off => 'Ki';
 }

@@ -3242,4 +3242,10 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Hitta en annan recitatör';
+
+  @override
+  String get status_on => 'På';
+
+  @override
+  String get status_off => 'Av';
 }

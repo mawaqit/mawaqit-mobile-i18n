@@ -3242,4 +3242,10 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'دوسرا قاری تلاش کریں';
+
+  @override
+  String get status_on => 'چالو';
+
+  @override
+  String get status_off => 'بند';
 }

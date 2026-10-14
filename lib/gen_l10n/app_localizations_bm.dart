@@ -3247,4 +3247,10 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Kalanbaga wɛrɛ ɲini';
+
+  @override
+  String get status_on => 'Jatigiya la';
+
+  @override
+  String get status_off => 'Ka dɔrɔn';
 }

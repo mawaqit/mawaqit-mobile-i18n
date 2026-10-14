@@ -3249,4 +3249,10 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Znajdź innego recytatora';
+
+  @override
+  String get status_on => 'Wł';
+
+  @override
+  String get status_off => 'Wył';
 }

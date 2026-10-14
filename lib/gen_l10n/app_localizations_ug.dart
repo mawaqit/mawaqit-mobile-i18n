@@ -3252,4 +3252,10 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'باشقا قارى ئىزدەش';
+
+  @override
+  String get status_on => 'ئوچۇق';
+
+  @override
+  String get status_off => 'ئۆچۈرۈلگەن';
 }

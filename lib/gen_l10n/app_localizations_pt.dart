@@ -3277,4 +3277,10 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Encontrar outro recitador';
+
+  @override
+  String get status_on => 'Sim';
+
+  @override
+  String get status_off => 'Não';
 }

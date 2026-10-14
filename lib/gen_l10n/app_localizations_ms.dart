@@ -3248,4 +3248,10 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Cari qari lain';
+
+  @override
+  String get status_on => 'On';
+
+  @override
+  String get status_off => 'Off';
 }

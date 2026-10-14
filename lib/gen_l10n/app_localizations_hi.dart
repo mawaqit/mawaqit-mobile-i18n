@@ -3251,4 +3251,10 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'दूसरा क़ारी खोजें';
+
+  @override
+  String get status_on => 'चालू है';
+
+  @override
+  String get status_off => 'बंद';
 }

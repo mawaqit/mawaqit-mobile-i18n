@@ -3239,4 +3239,10 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'ค้นหาผู้อ่านท่านอื่น';
+
+  @override
+  String get status_on => 'On';
+
+  @override
+  String get status_off => 'Off';
 }

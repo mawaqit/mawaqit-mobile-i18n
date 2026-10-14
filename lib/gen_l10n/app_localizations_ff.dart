@@ -3248,4 +3248,10 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Yiylo jangoowo goɗɗo';
+
+  @override
+  String get status_on => 'Ɓeydiiɗo';
+
+  @override
+  String get status_off => 'Oɗon dillereɗo';
 }

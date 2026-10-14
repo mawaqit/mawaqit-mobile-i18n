@@ -3258,4 +3258,10 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Pronađi drugog učača';
+
+  @override
+  String get status_on => 'Uklj';
+
+  @override
+  String get status_off => 'Isklj';
 }
