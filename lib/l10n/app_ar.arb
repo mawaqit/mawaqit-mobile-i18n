@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "السور في هذه التلاوة",
     "missing_surahs_suggestion": "استمع إلى السور غير المتوفرة بصوت قارئ آخر",
     "not_available_from_reciter": "غير متوفرة لدى هذا القارئ",
-    "find_another_reciter": "ابحث عن قارئ آخر"
+    "find_another_reciter": "ابحث عن قارئ آخر",
+    "status_on": "مفعّل",
+    "status_off": "معطّل"
 }
