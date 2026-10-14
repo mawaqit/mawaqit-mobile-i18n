@@ -851,7 +851,7 @@
     "banner_enable": "Szalagcím engedélyezése",
     "banner": "Szalagcím",
     "show_details": "Részletek megjelenítése",
-    "auto_detect_location": "Javasold a legközelebbi mecsetet",
+    "auto_detect_location": "A legközelebbi mecset automatikus ajánlása",
     "auto_detect_explanation": "Amikor távol vagy a mecsetedtől, az alkalmazás automatikusan javasolni fogja a legközelebbi mecset keresését a tartózkodási helyed alapján.",
     "auto_detect_location_title": "Úgy tűnik, távol vagy a mecsetedtől.",
     "auto_detect_location_message": "Szeretnéd megkeresni a legközelebbi mecsetet a pontos imaidőpontokért?",
