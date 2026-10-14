@@ -3255,4 +3255,116 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get status_off => 'Wył';
+
+  @override
+  String get repeat_range_title => 'Powtarzaj zakres';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count wersetu',
+      many: '$count wersetów',
+      few: '$count wersety',
+      one: '$count werset',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'Wybierz zakres';
+
+  @override
+  String get repeat_range_hint => 'Przeciągnij uchwyty lub przewiń wersety';
+
+  @override
+  String get repeat_range_reset => 'Resetuj';
+
+  @override
+  String get repeat_range_repeat => 'Powtarzaj';
+
+  @override
+  String get repeat_range_play_once => 'Odtwórz raz';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Odtwórz $count razy',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'Odtwarzaj w pętli';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current z $total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'w pętli';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: przejdź do wersetu $verse';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: następny werset';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: poprzedni werset';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: werset $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'Wyłącz powtarzanie';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'Odtwarzaj rzadziej';
+
+  @override
+  String get semantic_repeat_range_play_more => 'Odtwarzaj częściej';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Odtwarzane $count razy',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'Odtwarzane w pętli';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'Powtarzanie wersetu $verse';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'Powtarzanie wersetów $start–$end';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings =>
+      'Otwórz ustawienia powtarzania';
+
+  @override
+  String get semantic_repeat_range_stop =>
+      'Zatrzymaj powtarzanie i odtwórz całą surę';
 }

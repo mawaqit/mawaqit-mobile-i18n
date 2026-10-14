@@ -3248,4 +3248,112 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get status_off => 'بند';
+
+  @override
+  String get repeat_range_title => 'آیات کی حد دہرائیں';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count آیات',
+      one: '$count آیت',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'حد منتخب کریں';
+
+  @override
+  String get repeat_range_hint => 'ہینڈل گھسیٹیں یا آیات کو اسکرول کریں';
+
+  @override
+  String get repeat_range_reset => 'ری سیٹ';
+
+  @override
+  String get repeat_range_repeat => 'دہرائیں';
+
+  @override
+  String get repeat_range_play_once => 'ایک بار چلائیں';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count بار چلائیں',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'مسلسل چلائیں';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$total میں سے $current';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'مسلسل';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: آیت $verse پر جائیں';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: اگلی آیت';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: پچھلی آیت';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: آیت $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'دہرانا بند کریں';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'کم بار چلائیں';
+
+  @override
+  String get semantic_repeat_range_play_more => 'زیادہ بار چلائیں';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count بار چلے گا',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'مسلسل چلے گا';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'آیت $verse دہرائی جا رہی ہے';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'آیات $start سے $end تک دہرائی جا رہی ہیں';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings => 'دہرانے کی ترتیبات کھولیں';
+
+  @override
+  String get semantic_repeat_range_stop => 'دہرانا بند کریں، پوری سورت چلائیں';
 }

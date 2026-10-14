@@ -3260,4 +3260,113 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get status_off => 'Nonaktif';
+
+  @override
+  String get repeat_range_title => 'Ulangi rentang';
+
+  @override
+  String repeat_range_verse_count(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count ayat',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_select_range => 'Pilih rentang';
+
+  @override
+  String get repeat_range_hint => 'Geser pegangan atau gulir ayat';
+
+  @override
+  String get repeat_range_reset => 'Atur ulang';
+
+  @override
+  String get repeat_range_repeat => 'Ulangi';
+
+  @override
+  String get repeat_range_play_once => 'Putar sekali';
+
+  @override
+  String repeat_range_play_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Putar $count kali',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get repeat_range_play_on_loop => 'Putar terus-menerus';
+
+  @override
+  String repeat_range_progress(int current, int total) {
+    return '$current dari $total';
+  }
+
+  @override
+  String get repeat_range_on_loop => 'terus-menerus';
+
+  @override
+  String semantic_repeat_range_go_to_verse(String side, int verse) {
+    return '$side: ke ayat $verse';
+  }
+
+  @override
+  String semantic_repeat_range_next_verse(String side) {
+    return '$side: ayat berikutnya';
+  }
+
+  @override
+  String semantic_repeat_range_previous_verse(String side) {
+    return '$side: ayat sebelumnya';
+  }
+
+  @override
+  String semantic_repeat_range_side_verse(String side, int verse) {
+    return '$side: ayat $verse';
+  }
+
+  @override
+  String get semantic_repeat_range_turn_off => 'Matikan pengulangan';
+
+  @override
+  String get semantic_repeat_range_play_fewer => 'Putar lebih sedikit';
+
+  @override
+  String get semantic_repeat_range_play_more => 'Putar lebih banyak';
+
+  @override
+  String semantic_repeat_range_plays_times(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: 'Diputar $count kali',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get semantic_repeat_range_plays_on_loop => 'Diputar terus-menerus';
+
+  @override
+  String semantic_repeat_range_chip_verse(int verse) {
+    return 'Mengulang ayat $verse';
+  }
+
+  @override
+  String semantic_repeat_range_chip_verses(int start, int end) {
+    return 'Mengulang ayat $start sampai $end';
+  }
+
+  @override
+  String get semantic_repeat_range_open_settings =>
+      'Buka pengaturan pengulangan';
+
+  @override
+  String get semantic_repeat_range_stop =>
+      'Hentikan pengulangan, putar seluruh surah';
 }

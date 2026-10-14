@@ -6251,6 +6251,150 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Off'**
   String get status_off;
+
+  /// Title of the Quran audio sheet that repeats a range of verses
+  ///
+  /// In en, this message translates to:
+  /// **'Repeat a range'**
+  String get repeat_range_title;
+
+  /// Subtitle after the surah name, e.g. 'Al-Fatihah · 7 verses'
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, one{{count} verse} other{{count} verses}}'**
+  String repeat_range_verse_count(int count);
+
+  /// Heading above the From/To slider
+  ///
+  /// In en, this message translates to:
+  /// **'Select range'**
+  String get repeat_range_select_range;
+
+  /// Hint under 'Select range'
+  ///
+  /// In en, this message translates to:
+  /// **'Drag the handles or scroll the verses'**
+  String get repeat_range_hint;
+
+  /// Button: back to the whole surah with repeat off
+  ///
+  /// In en, this message translates to:
+  /// **'Reset'**
+  String get repeat_range_reset;
+
+  /// Label of the repeat switch/counter
+  ///
+  /// In en, this message translates to:
+  /// **'Repeat'**
+  String get repeat_range_repeat;
+
+  /// Main button when repeat is off
+  ///
+  /// In en, this message translates to:
+  /// **'Play once'**
+  String get repeat_range_play_once;
+
+  /// Main button when repeat is on (count is 2 to 10)
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, other{Play {count} times}}'**
+  String repeat_range_play_times(int count);
+
+  /// Main button when repeat is set to infinite
+  ///
+  /// In en, this message translates to:
+  /// **'Play on loop'**
+  String get repeat_range_play_on_loop;
+
+  /// Player chip: which play of the range is running, e.g. '255–257 · 2 of 3'
+  ///
+  /// In en, this message translates to:
+  /// **'{current} of {total}'**
+  String repeat_range_progress(int current, int total);
+
+  /// Player chip when the range repeats forever, e.g. '255–257 · on loop'
+  ///
+  /// In en, this message translates to:
+  /// **'on loop'**
+  String get repeat_range_on_loop;
+
+  /// Screen reader label of a step button; side is 'From' or 'To'
+  ///
+  /// In en, this message translates to:
+  /// **'{side}: go to verse {verse}'**
+  String semantic_repeat_range_go_to_verse(String side, int verse);
+
+  /// Screen reader label of a disabled step button; side is 'From' or 'To'
+  ///
+  /// In en, this message translates to:
+  /// **'{side}: next verse'**
+  String semantic_repeat_range_next_verse(String side);
+
+  /// Screen reader label of a disabled step button; side is 'From' or 'To'
+  ///
+  /// In en, this message translates to:
+  /// **'{side}: previous verse'**
+  String semantic_repeat_range_previous_verse(String side);
+
+  /// Screen reader announcement when From or To changes, e.g. 'From verse 256'
+  ///
+  /// In en, this message translates to:
+  /// **'{side} verse {verse}'**
+  String semantic_repeat_range_side_verse(String side, int verse);
+
+  /// Screen reader label of the minus button when the count is 2
+  ///
+  /// In en, this message translates to:
+  /// **'Turn off repeat'**
+  String get semantic_repeat_range_turn_off;
+
+  /// Screen reader label of the minus button
+  ///
+  /// In en, this message translates to:
+  /// **'Play fewer times'**
+  String get semantic_repeat_range_play_fewer;
+
+  /// Screen reader label of the plus button
+  ///
+  /// In en, this message translates to:
+  /// **'Play more times'**
+  String get semantic_repeat_range_play_more;
+
+  /// Screen reader value of the repeat counter
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, other{Plays {count} times}}'**
+  String semantic_repeat_range_plays_times(int count);
+
+  /// Screen reader value of the repeat counter when infinite
+  ///
+  /// In en, this message translates to:
+  /// **'Plays on loop'**
+  String get semantic_repeat_range_plays_on_loop;
+
+  /// Screen reader label of the player chip for a one-verse range
+  ///
+  /// In en, this message translates to:
+  /// **'Repeating verse {verse}'**
+  String semantic_repeat_range_chip_verse(int verse);
+
+  /// Screen reader label of the player chip
+  ///
+  /// In en, this message translates to:
+  /// **'Repeating verses {start} to {end}'**
+  String semantic_repeat_range_chip_verses(int start, int end);
+
+  /// Screen reader hint of the player chip
+  ///
+  /// In en, this message translates to:
+  /// **'Open repeat settings'**
+  String get semantic_repeat_range_open_settings;
+
+  /// Screen reader label of the chip's close button
+  ///
+  /// In en, this message translates to:
+  /// **'Stop repeating, play the whole surah'**
+  String get semantic_repeat_range_stop;
 }
 
 class _AppLocalizationsDelegate
