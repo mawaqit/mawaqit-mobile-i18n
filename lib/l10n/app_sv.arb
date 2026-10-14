@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2052,5 +2052,21 @@
     "semantic_repeat_range_stop": "Sluta upprepa, spela hela suran",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
+    },
+    "settings_Display": "Visning",
+    "@settings_Display": {
+        "description": "Settings page section header (theme, language, time format)."
+    },
+    "settings_FeaturesAndPrivacy": "Funktioner och integritet",
+    "@settings_FeaturesAndPrivacy": {
+        "description": "Settings page section header (features and privacy settings)."
+    },
+    "settings_ThemeInfo": "Välj ljust, mörkt eller system.",
+    "@settings_ThemeInfo": {
+        "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
+    },
+    "settings_TimeFormatInfo": "Gäller alla tider i appen, aviseringar och anslutna klockor.",
+    "@settings_TimeFormatInfo": {
+        "description": "Info sheet text for the Time format (12H/24H) setting."
     }
 }
