@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Sure u ovom učenju",
     "missing_surahs_suggestion": "Preslušajte sure koje nedostaju kod drugog učača",
     "not_available_from_reciter": "Nije dostupno kod ovog učača",
-    "find_another_reciter": "Pronađi drugog učača"
+    "find_another_reciter": "Pronađi drugog učača",
+    "status_on": "Uklj",
+    "status_off": "Isklj"
 }
