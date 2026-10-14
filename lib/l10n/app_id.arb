@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Surah dalam bacaan ini",
     "missing_surahs_suggestion": "Dengarkan surah yang tidak tersedia dari qari lain",
     "not_available_from_reciter": "Tidak tersedia dari qari ini",
-    "find_another_reciter": "Cari qari lain"
+    "find_another_reciter": "Cari qari lain",
+    "status_on": "Aktif",
+    "status_off": "Nonaktif"
 }

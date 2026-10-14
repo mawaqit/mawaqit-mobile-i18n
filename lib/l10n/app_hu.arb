@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Szúrák ebben a recitációban",
     "missing_surahs_suggestion": "Hallgassa meg a hiányzó szúrákat egy másik recitálótól",
     "not_available_from_reciter": "Ennél a recitálónál nem érhető el",
-    "find_another_reciter": "Másik recitáló keresése"
+    "find_another_reciter": "Másik recitáló keresése",
+    "status_on": "Be",
+    "status_off": "Ki"
 }

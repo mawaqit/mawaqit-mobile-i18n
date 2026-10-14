@@ -3249,4 +3249,10 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Başqa qari tapın';
+
+  @override
+  String get status_on => 'Açıqdır';
+
+  @override
+  String get status_off => 'Söndürülüb';
 }

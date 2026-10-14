@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Bu qiraətdəki surələr",
     "missing_surahs_suggestion": "Çatışmayan surələri başqa qarinin ifasında dinləyin",
     "not_available_from_reciter": "Bu qari üçün mövcud deyil",
-    "find_another_reciter": "Başqa qari tapın"
+    "find_another_reciter": "Başqa qari tapın",
+    "status_on": "Açıqdır",
+    "status_off": "Söndürülüb"
 }

@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Surati minnu bɛ nin kalan in na",
     "missing_surahs_suggestion": "Surati minnu tɛ yen, olu lamɛn kalanbaga wɛrɛ fɛ",
     "not_available_from_reciter": "A tɛ sɔrɔ nin kalanbaga in fɛ",
-    "find_another_reciter": "Kalanbaga wɛrɛ ɲini"
+    "find_another_reciter": "Kalanbaga wɛrɛ ɲini",
+    "status_on": "Jatigiya la",
+    "status_off": "Ka dɔrɔn"
 }

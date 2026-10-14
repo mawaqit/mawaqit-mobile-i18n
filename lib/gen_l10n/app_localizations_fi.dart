@@ -3251,4 +3251,10 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Etsi toinen resitoija';
+
+  @override
+  String get status_on => 'Päällä';
+
+  @override
+  String get status_off => 'Pois päältä';
 }

@@ -3266,4 +3266,10 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Andere voordrager zoeken';
+
+  @override
+  String get status_on => 'Aan';
+
+  @override
+  String get status_off => 'Uit';
 }

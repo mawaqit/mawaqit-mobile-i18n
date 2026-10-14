@@ -3238,6 +3238,12 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'یافتن قاری دیگر';
+
+  @override
+  String get status_on => 'روشن';
+
+  @override
+  String get status_off => 'خاموش';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6482,4 +6488,10 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get find_another_reciter => 'قاری دیگری را پیدا کنید';
+
+  @override
+  String get status_on => 'On';
+
+  @override
+  String get status_off => 'Off';
 }

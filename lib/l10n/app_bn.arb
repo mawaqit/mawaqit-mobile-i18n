@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "এই তিলাওয়াতের সূরা",
     "missing_surahs_suggestion": "অনুপলব্ধ সূরাগুলো অন্য ক্বারীর কণ্ঠে শুনুন",
     "not_available_from_reciter": "এই ক্বারীর কাছে উপলব্ধ নেই",
-    "find_another_reciter": "অন্য ক্বারী খুঁজুন"
+    "find_another_reciter": "অন্য ক্বারী খুঁজুন",
+    "status_on": "চালু",
+    "status_off": "বন্ধ"
 }

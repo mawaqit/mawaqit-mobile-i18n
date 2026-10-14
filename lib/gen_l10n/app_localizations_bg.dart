@@ -3256,4 +3256,10 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Намерете друг рецитатор';
+
+  @override
+  String get status_on => 'Включено';
+
+  @override
+  String get status_off => 'Изключено';
 }

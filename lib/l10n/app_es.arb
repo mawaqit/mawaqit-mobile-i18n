@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Suras en esta recitación",
     "missing_surahs_suggestion": "Escucha las suras que faltan con otro recitador",
     "not_available_from_reciter": "No disponible con este recitador",
-    "find_another_reciter": "Buscar otro recitador"
+    "find_another_reciter": "Buscar otro recitador",
+    "status_on": "Sí",
+    "status_off": "No"
 }

@@ -6239,6 +6239,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Find another reciter'**
   String get find_another_reciter;
+
+  /// No description provided for @status_on.
+  ///
+  /// In en, this message translates to:
+  /// **'On'**
+  String get status_on;
+
+  /// No description provided for @status_off.
+  ///
+  /// In en, this message translates to:
+  /// **'Off'**
+  String get status_off;
 }
 
 class _AppLocalizationsDelegate

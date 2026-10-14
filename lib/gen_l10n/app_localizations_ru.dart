@@ -3256,4 +3256,10 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Найти другого чтеца';
+
+  @override
+  String get status_on => 'Вкл';
+
+  @override
+  String get status_off => 'Выкл';
 }

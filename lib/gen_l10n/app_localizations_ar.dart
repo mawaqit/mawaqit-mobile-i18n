@@ -3211,4 +3211,10 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'ابحث عن قارئ آخر';
+
+  @override
+  String get status_on => 'مفعّل';
+
+  @override
+  String get status_off => 'معطّل';
 }

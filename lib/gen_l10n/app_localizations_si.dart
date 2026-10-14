@@ -3247,4 +3247,10 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'වෙනත් කියවන්නෙකු සොයන්න';
+
+  @override
+  String get status_on => 'On';
+
+  @override
+  String get status_off => 'Off';
 }

@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Bu tilavetteki sureler",
     "missing_surahs_suggestion": "Eksik sureleri başka bir kâriden dinleyin",
     "not_available_from_reciter": "Bu kâri için mevcut değil",
-    "find_another_reciter": "Başka bir kâri bul"
+    "find_another_reciter": "Başka bir kâri bul",
+    "status_on": "Açık",
+    "status_off": "Kapalı"
 }

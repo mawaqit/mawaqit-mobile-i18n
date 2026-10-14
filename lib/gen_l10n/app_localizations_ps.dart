@@ -3248,4 +3248,10 @@ class AppLocalizationsPs extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'بل قاري ومومئ';
+
+  @override
+  String get status_on => 'On';
+
+  @override
+  String get status_off => 'Off';
 }

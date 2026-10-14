@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "په دې تلاوت کې سورتونه",
     "missing_surahs_suggestion": "نه موجود سورتونه د بل قاري په غږ واورئ",
     "not_available_from_reciter": "د دې قاري سره شتون نلري",
-    "find_another_reciter": "بل قاري ومومئ"
+    "find_another_reciter": "بل قاري ومومئ",
+    "status_on": "On",
+    "status_off": "Off"
 }

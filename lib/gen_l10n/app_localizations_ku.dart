@@ -3256,4 +3256,10 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Find another reciter';
+
+  @override
+  String get status_on => 'On';
+
+  @override
+  String get status_off => 'Off';
 }

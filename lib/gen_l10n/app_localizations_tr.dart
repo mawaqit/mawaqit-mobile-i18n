@@ -3235,4 +3235,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get find_another_reciter => 'Başka bir kâri bul';
+
+  @override
+  String get status_on => 'Açık';
+
+  @override
+  String get status_off => 'Kapalı';
 }

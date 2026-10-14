@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Suurat tässä resitaatiossa",
     "missing_surahs_suggestion": "Kuuntele puuttuvat suurat toiselta resitoijalta",
     "not_available_from_reciter": "Ei saatavilla tältä resitoijalta",
-    "find_another_reciter": "Etsi toinen resitoija"
+    "find_another_reciter": "Etsi toinen resitoija",
+    "status_on": "Päällä",
+    "status_off": "Pois päältä"
 }
