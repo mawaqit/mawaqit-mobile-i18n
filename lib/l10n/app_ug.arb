@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "بۇ قىرائەتتىكى سۈرىلەر",
     "missing_surahs_suggestion": "يوق سۈرىلەرنى باشقا قارىدىن ئاڭلاڭ",
     "not_available_from_reciter": "بۇ قارىدا يوق",
-    "find_another_reciter": "باشقا قارى ئىزدەش"
+    "find_another_reciter": "باشقا قارى ئىزدەش",
+    "status_on": "ئوچۇق",
+    "status_off": "ئۆچۈرۈلگەن"
 }
