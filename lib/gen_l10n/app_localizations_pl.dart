@@ -3367,4 +3367,17 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Zatrzymaj powtarzanie i odtwórz całą surę';
+
+  @override
+  String get settings_Display => 'Wyświetlanie';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Funkcje i prywatność';
+
+  @override
+  String get settings_ThemeInfo => 'Wybierz jasny, ciemny lub systemowy.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Dotyczy godzin w aplikacji, powiadomieniach i połączonych zegarkach.';
 }

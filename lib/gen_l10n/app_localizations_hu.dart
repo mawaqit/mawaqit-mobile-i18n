@@ -3383,4 +3383,18 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Ismétlés leállítása, az egész szúra lejátszása';
+
+  @override
+  String get settings_Display => 'Megjelenítés';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Funkciók és adatvédelem';
+
+  @override
+  String get settings_ThemeInfo =>
+      'Válasszon világos, sötét vagy rendszer témát.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Az alkalmazásban, értesítésekben és csatlakoztatott órákon megjelenő időkre vonatkozik.';
 }

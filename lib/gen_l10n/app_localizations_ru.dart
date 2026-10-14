@@ -3379,4 +3379,18 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Остановить повтор и воспроизвести всю суру';
+
+  @override
+  String get settings_Display => 'Экран';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Функции и конфиденциальность';
+
+  @override
+  String get settings_ThemeInfo =>
+      'Выберите светлую, тёмную или системную тему.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Применяется ко времени в приложении, уведомлениях и подключённых часах.';
 }

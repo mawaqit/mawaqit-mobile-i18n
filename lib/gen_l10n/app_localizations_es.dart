@@ -3395,4 +3395,17 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Dejar de repetir y reproducir toda la sura';
+
+  @override
+  String get settings_Display => 'Pantalla';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Funciones y privacidad';
+
+  @override
+  String get settings_ThemeInfo => 'Elige claro, oscuro o sistema.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Se aplica a las horas de la app, las notificaciones y los relojes conectados.';
 }

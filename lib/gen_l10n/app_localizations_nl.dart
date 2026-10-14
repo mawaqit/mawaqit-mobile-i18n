@@ -3383,4 +3383,17 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Stop met herhalen, speel de hele soera af';
+
+  @override
+  String get settings_Display => 'Weergave';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Functies en privacy';
+
+  @override
+  String get settings_ThemeInfo => 'Kies licht, donker of systeem.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Geldt voor alle tijden in de app, meldingen en verbonden horloges.';
 }

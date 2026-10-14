@@ -3412,4 +3412,17 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Arrêter la répétition et lire toute la sourate';
+
+  @override
+  String get settings_Display => 'Affichage';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Fonctions et confidentialité';
+
+  @override
+  String get settings_ThemeInfo => 'Choisissez clair, sombre ou système.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'S’applique aux heures de l’app, aux notifications et aux montres connectées.';
 }

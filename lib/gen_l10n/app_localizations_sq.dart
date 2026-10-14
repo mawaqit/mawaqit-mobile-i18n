@@ -3382,4 +3382,18 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Ndalo përsëritjen dhe luaj të gjithë suren';
+
+  @override
+  String get settings_Display => 'Ekrani';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Veçoritë dhe privatësia';
+
+  @override
+  String get settings_ThemeInfo =>
+      'Zgjidh të çelëtën, të errëtën ose sistemin.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Zbatohet për oraret në aplikacion, njoftime dhe orët e lidhura.';
 }

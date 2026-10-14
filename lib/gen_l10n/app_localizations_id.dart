@@ -3369,4 +3369,17 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'Hentikan pengulangan, putar seluruh surah';
+
+  @override
+  String get settings_Display => 'Tampilan';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'Fitur & privasi';
+
+  @override
+  String get settings_ThemeInfo => 'Pilih Terang, Gelap, atau Sistem.';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'Berlaku untuk semua waktu di aplikasi, notifikasi, dan jam terhubung.';
 }

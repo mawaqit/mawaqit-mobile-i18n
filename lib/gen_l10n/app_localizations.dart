@@ -6395,6 +6395,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Stop repeating, play the whole surah'**
   String get semantic_repeat_range_stop;
+
+  /// Settings page section header (theme, language, time format).
+  ///
+  /// In en, this message translates to:
+  /// **'Display'**
+  String get settings_Display;
+
+  /// Settings page section header (features and privacy settings).
+  ///
+  /// In en, this message translates to:
+  /// **'Features & privacy'**
+  String get settings_FeaturesAndPrivacy;
+
+  /// Info sheet text for the Theme setting. Light, Dark and System are the theme options.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose Light, Dark, or System.'**
+  String get settings_ThemeInfo;
+
+  /// Info sheet text for the Time format (12H/24H) setting.
+  ///
+  /// In en, this message translates to:
+  /// **'Applies to all times in the app, notifications, and connected watches.'**
+  String get settings_TimeFormatInfo;
 }
 
 class _AppLocalizationsDelegate

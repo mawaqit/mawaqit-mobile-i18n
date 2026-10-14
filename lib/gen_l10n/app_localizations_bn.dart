@@ -3367,4 +3367,17 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get semantic_repeat_range_stop =>
       'পুনরাবৃত্তি বন্ধ করে পুরো সূরা চালান';
+
+  @override
+  String get settings_Display => 'ডিসপ্লে';
+
+  @override
+  String get settings_FeaturesAndPrivacy => 'ফিচার ও গোপনীয়তা';
+
+  @override
+  String get settings_ThemeInfo => 'লাইট, ডার্ক বা সিস্টেম থিম বেছে নিন।';
+
+  @override
+  String get settings_TimeFormatInfo =>
+      'অ্যাপ, নোটিফিকেশন ও সংযুক্ত ঘড়ির সব সময়ের ক্ষেত্রে প্রযোজ্য।';
 }
