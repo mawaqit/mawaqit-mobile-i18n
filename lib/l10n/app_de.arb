@@ -851,7 +851,7 @@
     "banner_enable": "Banner aktivieren",
     "banner": "Banner",
     "show_details": "Zeige Details",
-    "auto_detect_location": "Die nächstgelegene Moschee vorschlagen",
+    "auto_detect_location": "Nächstgelegene Moschee automatisch vorschlagen",
     "auto_detect_explanation": "Wenn Sie von Ihrer Moschee entfernt sind, schlägt die App automatisch vor, nach der nächstgelegenen Moschee basierend auf Ihrem Standort zu suchen.",
     "auto_detect_location_title": "Es scheint, dass Sie von Ihrer Moschee entfernt sind",
     "auto_detect_location_message": "Möchten Sie nach der nächstgelegenen Moschee für genaue Gebetszeiten suchen?",
