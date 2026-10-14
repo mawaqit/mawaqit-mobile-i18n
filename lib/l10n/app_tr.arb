@@ -851,7 +851,7 @@
     "banner_enable": "Banner'ı etkinleştir",
     "banner": "Afiş",
     "show_details": "Detayları göster",
-    "auto_detect_location": "En yakın camiyi öner",
+    "auto_detect_location": "En yakın camiyi otomatik öner",
     "auto_detect_explanation": "Mescidinizden uzakta olduğunuzda, uygulama konumunuza dayalı olarak en yakın camiyi aramayı otomatik olarak önerecektir.",
     "auto_detect_location_title": "Mescidinizden uzak görünüyor",
     "auto_detect_location_message": "Daha doğru namaz vakitleri için en yakın camiyi aramak ister misiniz?",
