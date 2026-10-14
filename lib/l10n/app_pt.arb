@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -851,7 +851,7 @@
     "banner_enable": "Ativar anúncio",
     "banner": "Banner/anúncio",
     "show_details": "Mostrar detalhes",
-    "auto_detect_location": "Sugira a mesquita mais próxima",
+    "auto_detect_location": "Sugerir automaticamente a mesquita mais próxima",
     "auto_detect_explanation": "Quando estiver longe da sua mesquita, a aplicação irá sugerir automaticamente a procura da mesquita mais próxima conforme a sua localização.",
     "auto_detect_location_title": "Parece que você está distante da sua mesquita",
     "auto_detect_location_message": "Deseja procurar a mesquita mais próxima para saber os horários exatos das orações?",
