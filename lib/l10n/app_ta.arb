@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "இந்த ஓதுதலில் உள்ள சூராக்கள்",
     "missing_surahs_suggestion": "விடுபட்ட சூராக்களை வேறு காரியிடம் கேளுங்கள்",
     "not_available_from_reciter": "இந்த காரியிடம் கிடைக்கவில்லை",
-    "find_another_reciter": "வேறு காரியைத் தேடுங்கள்"
+    "find_another_reciter": "வேறு காரியைத் தேடுங்கள்",
+    "status_on": "On",
+    "status_off": "Off"
 }
