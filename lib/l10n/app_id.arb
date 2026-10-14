@@ -851,7 +851,7 @@
     "banner_enable": "Aktifkan spanduk",
     "banner": "Spanduk",
     "show_details": "Tampilkan Detail",
-    "auto_detect_location": "Usulkan masjid terdekat",
+    "auto_detect_location": "Sarankan masjid terdekat secara otomatis",
     "auto_detect_explanation": "Ketika Anda jauh dari masjid Anda, aplikasi akan secara otomatis menyarankan untuk mencari masjid terdekat berdasarkan lokasi Anda.",
     "auto_detect_location_title": "Sepertinya Anda jauh dari masjid Anda",
     "auto_detect_location_message": "Apakah Anda ingin mencari masjid terdekat untuk waktu salat yang akurat?",
