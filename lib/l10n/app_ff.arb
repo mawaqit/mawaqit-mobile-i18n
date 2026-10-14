@@ -1878,5 +1878,7 @@
     "surahs_in_this_recitation": "Cimooje nder ndee jangugol",
     "missing_surahs_suggestion": "Hedto cimooje ŋakkuɗe e jangoowo goɗɗo",
     "not_available_from_reciter": "Alaa ka jangoowo oo",
-    "find_another_reciter": "Yiylo jangoowo goɗɗo"
+    "find_another_reciter": "Yiylo jangoowo goɗɗo",
+    "status_on": "Ɓeydiiɗo",
+    "status_off": "Oɗon dillereɗo"
 }
