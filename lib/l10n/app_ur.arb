@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -951,7 +951,7 @@
     "adjust_hijri_date": "ہجری تاریخ کو ایڈجسٹ کریں",
     "prayer_times_by_location": "مقام کے مطابق نماز کے اوقات",
     "already_in_list": "پہلے ہی آپ کی فہرست میں موجود ہے!",
-    "got_it": "Got it!",
+    "got_it": "سمجھ گیا!",
     "mushaf_warsh": "ورش",
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
