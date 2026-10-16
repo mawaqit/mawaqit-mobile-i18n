@@ -1367,7 +1367,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get already_in_list => 'پہلے ہی آپ کی فہرست میں موجود ہے!';
 
   @override
-  String get got_it => 'Got it!';
+  String get got_it => 'سمجھ گیا!';
 
   @override
   String get mushaf_warsh => 'ورش';
