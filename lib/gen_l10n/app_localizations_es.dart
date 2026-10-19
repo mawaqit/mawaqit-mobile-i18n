@@ -756,7 +756,7 @@ class AppLocalizationsEs extends AppLocalizations {
   String get quran_juzz => 'Juzz';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'Aleya';
 
   @override
   String get quran_verses => 'Versos';
