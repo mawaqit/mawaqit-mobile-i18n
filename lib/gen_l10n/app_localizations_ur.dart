@@ -747,7 +747,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get quran_juzz => 'پارہ';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'آیت';
 
   @override
   String get quran_verses => 'آیاتہا';

@@ -3233,14 +3233,13 @@ class AppLocalizationsUg extends AppLocalizations {
   String get popular_across_south_asia => 'جەنۇبىي ئاسىيا بويىچە كەڭ تارقالغان';
 
   @override
-  String get surahs_available => 'surahs available';
+  String get surahs_available => 'مەۋجۇت سۈرە';
 
   @override
   String get missing_surahs => 'يوق سۈرىلەر';
 
   @override
-  String get missing_surahs_hint =>
-      'Tap a surah to listen with another reciter.';
+  String get missing_surahs_hint => 'باشقا قارىدىن ئاڭلاشتا سۈرە چېكىلىدۇ.';
 
   @override
   String get surahs_in_this_recitation => 'بۇ قىرائەتتىكى سۈرىلەر';

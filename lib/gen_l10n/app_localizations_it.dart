@@ -752,7 +752,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get quran_juzz => 'Juzz';
 
   @override
-  String get ayah => 'Ayah';
+  String get ayah => 'Versetto';
 
   @override
   String get quran_verses => 'Versetti';
