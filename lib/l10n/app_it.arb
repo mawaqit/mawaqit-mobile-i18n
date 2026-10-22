@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "Questa applicazione è sviluppata dall'associazione MAWAQIT.\n\nL'associazione MAWAQIT è un'organizzazione senza scopo di lucro creata nel 2021 in Francia.\nIl nostro obiettivo è lo sviluppo di soluzioni innovative legate all'IT e alla tecnologia digitale come software e siti web; insegnare e formarsi in soluzioni digitali e strumenti IT.\n\nL'ecosistema MAWAQIT è il nostro prodotto di punta e la sua storia è iniziata nel 2016, con un'applicazione su grandi schermi dedicata alle moschee, poi un'app mobile, un add-on home-assistant e un'abilità alexa, ecc.\n\nMAWAQIT ti offre un nuovo modo di tracciare e gestire i tempi di preghiera, infatti offriamo un sistema end-to-end che offre ai gestori delle moschee uno strumento online disponibile 24 ore su 24, permettendo loro di gestire orari, notizie e informazioni. molte altre caratteristiche. I fedeli, invece, beneficiano di un'applicazione mobile che permette loro di consultare gli orari esatti e non approssimativi della loro moschea preferita, nonché le notizie e altre funzionalità come la ricerca di una moschea tramite geolocalizzazione, l'adhan , la qibla. ... ecc. Abbiamo fatto dell'affidabilità e della qualità i nostri valori principali. La nostra ambizione è chiara: costruire il miglior servizio per le nostre moschee grazie alla tecnologia e al design.\n\nSe ti è piaciuta questa applicazione, dai la tua opinione sullo store.",
+    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Scegli un tipo di adhan. Questa scelta sarà applicata in ogni preghiera che ha la notifica dell'adhan.",
+    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minuti per athan",
+    "minutes_to_athan": "minutes to athan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Qui puoi selezionare un tipo di notifica, Athan, bip o silenzioso",
+    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Qui trovi la durata tra adhan e iqama alla moschea",
+    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "Scaricare fallito",
     "download_pages": "Scarica le pagine",
     "notification": "Notifica",
-    "notification_not_supported_below_7": "Non è possibile ricevere le notifiche di Athan o degli orari di preghiera perché il dispositivo utilizza Android 7 o inferiore.",
+    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "Ottimizzazione della batteria",
     "battery_optimization_subtitle": "Per ricevere le notifiche di preghiera senza problemi, è necessario disattivare l'ottimizzazione della batteria per MAWAQIT.",
     "allow": "Consenti",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "Non possiamo suggerire la moschea più vicina perché l’accesso alla posizione è stato negato. Cerca una moschea o abilita l’autorizzazione alla posizione.",
     "location": "Posizione",
     "stop": "Interrompi",
-    "plays_adhan_prayer_arrives": "Riproduce l'adhan quando arriva l'orario della preghiera",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "Riproduci in modalità silenziosa",
     "notifications_not_arriving": "Le notifiche non arrivano?",
     "android_phones_aggressively": "Alcuni telefoni Android chiudono aggressivamente le app in background.",
@@ -1600,8 +1600,8 @@
     "general": "Generale",
     "prayer_location": "Preghiera e posizione",
     "privacy": "Privacy",
-    "play_full_adhan": "Riproduci l'adhan completo",
-    "full_adhan_will_keep_repeating": "L'adhan completo continuerà a ripetersi finché non lo chiudi.",
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Persiano",
     "mawaqit_non_profit": "MAWAQIT organizzazione senza scopo di lucro · gratuita per tutti",
