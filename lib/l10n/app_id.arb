@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "Aplikasi ini dikembangkan oleh asosiasi MAWAQIT.\n\nAsosiasi MAWAQIT adalah organisasi nirlaba yang didirikan pada tahun 2021 di Prancis.\nTujuan kami adalah pengembangan solusi inovatif yang berkaitan dengan IT dan teknologi digital seperti perangkat lunak dan situs web; mengajar dan melatih solusi digital dan alat IT.\n\nEkosistem MAWAQIT adalah produk unggulan kami dan kisahnya dimulai pada tahun 2016, dengan aplikasi pada layar besar yang didedikasikan untuk masjid, kemudian aplikasi seluler, pengaya asisten rumah tangga, dan keterampilan alexa, dll.\n\nMAWAQIT menawarkan cara baru untuk melacak dan mengatur waktu shalat, bahkan kami menawarkan sistem end-to-end yang menawarkan kepada para manajer masjid alat online yang tersedia 24 / 24 jam yang memungkinkan mereka untuk mengatur jadwal, berita masjid dan banyak fitur lainnya. Umat beriman, pada bagian mereka, mendapatkan keuntungan dari aplikasi seluler yang memungkinkan mereka untuk melihat jadwal yang tepat dan bukan perkiraan dari masjid favorit mereka, serta berita dan fungsi lainnya seperti mencari masjid berdasarkan geolokasi, adzan, kiblat, ... dll. Kami menjadikan keandalan dan kualitas sebagai nilai utama kami. Ambisi kami jelas: untuk membangun layanan terbaik bagi masjid-masjid kami berkat teknologi dan desain.\n\nJika Anda menyukai aplikasi ini, berikan pendapat Anda di toko.",
+    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Pilih jenis adzan. Pilihan ini akan diterapkan di setiap salat yang memiliki notifikasi adzan.",
+    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "menit ke athan",
+    "minutes_to_athan": "minutes to athan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Di sini Anda dapat memilih jenis notifikasi, Athan, bip atau hening",
+    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Di sini Anda dapat menemukan durasi antara adzan dan iqamah di masjid",
+    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "Unduhan Gagal",
     "download_pages": "Unduh halaman",
     "notification": "Pemberitahuan",
-    "notification_not_supported_below_7": "Anda tidak dapat menerima notifikasi Athan atau waktu salat karena perangkat Anda menggunakan Android 7 atau lebih rendah.",
+    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "Optimalisasi baterai",
     "battery_optimization_subtitle": "Untuk menerima notifikasi salat dengan lancar, Anda harus menonaktifkan pengoptimalan baterai untuk MAWAQIT.",
     "allow": "Izinkan",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "Kami tidak dapat menyarankan masjid terdekat karena akses lokasi ditolak. Silakan cari masjid atau aktifkan izin lokasi.",
     "location": "Lokasi",
     "stop": "Hentikan",
-    "plays_adhan_prayer_arrives": "Memutar adzan saat waktu salat tiba",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "Putar dalam mode senyap",
     "notifications_not_arriving": "Notifikasi tidak masuk?",
     "android_phones_aggressively": "Beberapa ponsel Android menutup aplikasi di latar belakang secara agresif.",
@@ -1600,8 +1600,8 @@
     "general": "Umum",
     "prayer_location": "Salat & Lokasi",
     "privacy": "Privasi",
-    "play_full_adhan": "Putar adzan lengkap",
-    "full_adhan_will_keep_repeating": "Adzan lengkap akan terus berulang hingga Anda menutupnya.",
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Persia",
     "mawaqit_non_profit": "MAWAQIT organisasi nirlaba · gratis untuk semua",
