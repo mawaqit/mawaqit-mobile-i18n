@@ -420,7 +420,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.'**
+  /// **'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the Adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.'**
   String get settings_AboutUsText;
 
   /// _
@@ -528,7 +528,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.'**
+  /// **'Choose a type of Adhan. This choice will be applied in every prayer that has the Adhan notification.'**
   String get adhan_type;
 
   /// _
@@ -1257,10 +1257,10 @@ abstract class AppLocalizations {
   /// **'Edit Favorite Mosques'**
   String get favorites_edit;
 
-  /// minutes to athan
+  /// minutes to Adhan
   ///
   /// In en, this message translates to:
-  /// **'minutes to athan'**
+  /// **'minutes to Adhan'**
   String get minutes_to_athan;
 
   /// _
@@ -1314,7 +1314,7 @@ abstract class AppLocalizations {
   /// \
   ///
   /// In en, this message translates to:
-  /// **'Here you can select a type of notification, Athan, bip or silent'**
+  /// **'Here you can select a type of notification: Adhan, beep or silent'**
   String get tutorial_text_notification;
 
   /// _
@@ -1374,7 +1374,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Here you find the duration between adhan and iqama at the mosque'**
+  /// **'Here you find the duration between Adhan and iqama at the mosque'**
   String get tutorial_text_iqama;
 
   /// _
@@ -2064,7 +2064,7 @@ abstract class AppLocalizations {
   /// No description provided for @notification_not_supported_below_7.
   ///
   /// In en, this message translates to:
-  /// **'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.'**
+  /// **'You can\'t receive Adhan or prayer time notifications because your device uses Android 7 or lower.'**
   String get notification_not_supported_below_7;
 
   /// No description provided for @battery_optimization.
@@ -4906,7 +4906,7 @@ abstract class AppLocalizations {
   /// No description provided for @plays_adhan_prayer_arrives.
   ///
   /// In en, this message translates to:
-  /// **'Plays the adhan when prayer time arrives'**
+  /// **'Plays the Adhan when prayer time arrives'**
   String get plays_adhan_prayer_arrives;
 
   /// No description provided for @play_in_silent_mode.
@@ -4978,13 +4978,13 @@ abstract class AppLocalizations {
   /// No description provided for @play_full_adhan.
   ///
   /// In en, this message translates to:
-  /// **'Play full adhan'**
+  /// **'Play full Adhan'**
   String get play_full_adhan;
 
   /// No description provided for @full_adhan_will_keep_repeating.
   ///
   /// In en, this message translates to:
-  /// **'Full adhan will keep repeating until you close it.'**
+  /// **'Full Adhan will keep repeating until you close it.'**
   String get full_adhan_will_keep_repeating;
 
   /// No description provided for @hussein_taji_kal_dari.
@@ -5074,7 +5074,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_adminTileSubtitle.
   ///
   /// In en, this message translates to:
-  /// **'Announcements, prayer settings and adhan'**
+  /// **'Announcements, prayer settings and Adhan'**
   String get admin_adminTileSubtitle;
 
   /// No description provided for @admin_signInHeadline.
@@ -5104,7 +5104,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_capabilityAdhan.
   ///
   /// In en, this message translates to:
-  /// **'Choose the adhan and how it plays'**
+  /// **'Choose the Adhan and how it plays'**
   String get admin_capabilityAdhan;
 
   /// No description provided for @admin_notAnAdminTitle.
@@ -5224,7 +5224,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_sectionAdhan.
   ///
   /// In en, this message translates to:
-  /// **'Al-Athan'**
+  /// **'Adhan'**
   String get admin_sectionAdhan;
 
   /// No description provided for @admin_sectionIqama.
@@ -5380,7 +5380,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_adhanDurationHelp.
   ///
   /// In en, this message translates to:
-  /// **'This sound stops before the adhan does, so the screen needs to know how long your muezzin takes.'**
+  /// **'This sound stops before the Adhan does, so the screen needs to know how long your muezzin takes.'**
   String get admin_adhanDurationHelp;
 
   /// No description provided for @admin_customAdhanFile.
@@ -5428,7 +5428,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_duaAfterAdhan.
   ///
   /// In en, this message translates to:
-  /// **'Duaa after adhan'**
+  /// **'Duaa after Adhan'**
   String get admin_duaAfterAdhan;
 
   /// No description provided for @admin_duaAfterPrayer.
@@ -5476,7 +5476,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_summaryDuaAdhan.
   ///
   /// In en, this message translates to:
-  /// **'After adhan'**
+  /// **'After Adhan'**
   String get admin_summaryDuaAdhan;
 
   /// No description provided for @admin_summaryDuaPrayer.
