@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "اتھن کے لیے منٹ",
+    "minutes_to_athan": "منٹ میں اذان",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "یہاں آپ نوٹیفکیشن کی ایک قسم، ایتھن، بِپ یا خاموش منتخب کر سکتے ہیں۔",
+    "tutorial_text_notification": "یہاں آپ نوٹیفکیشن کی قسم منتخب کر سکتے ہیں: اذان، بیپ یا خاموش",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
