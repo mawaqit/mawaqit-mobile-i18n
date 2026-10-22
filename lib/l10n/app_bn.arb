@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "এই অ্যাপ্লিকেশনটি MAWAQIT অ্যাসোসিয়েশন দ্বারা উন্নত করা হয়েছে.\n\nমাওয়াকিট অ্যাসোসিয়েশন ফ্রান্সে 2021 সালে তৈরি একটি অলাভজনক সংস্থা।\nআমাদের উদ্দেশ্য হল সফ্টওয়্যার এবং ওয়েবসাইটগুলির মতো আইটি এবং ডিজিটাল প্রযুক্তি সম্পর্কিত উদ্ভাবনী সমাধানগুলির বিকাশ; ডিজিটাল সমাধান এবং আইটি সরঞ্জাম শেখান এবং প্রশিক্ষণ.\n\nমাওয়াকিত ইকোসিস্টেম হল আমাদের ফ্ল্যাগশিপ প্রোডাক্ট এবং এর গল্পটি 2016 সালে শুরু হয়েছিল, মসজিদে নিবেদিত বড় স্ক্রিনে একটি অ্যাপ্লিকেশন, তারপর একটি মোবাইল অ্যাপ, একটি হোম-অ্যাসিস্ট্যান্ট অ্যাড-অন এবং একটি আলেক্সা দক্ষতা ইত্যাদি।\n\nমাওয়াকিট আপনাকে নামাজের সময় ট্র্যাক এবং পরিচালনা করার একটি নতুন উপায় অফার করে, আসলে আমরা একটি এন্ড-টু-এন্ড সিস্টেম অফার করি যা মসজিদ পরিচালকদের একটি অনলাইন টুল 24/24ঘন্টা উপলব্ধ করে যা তাদের সময়সূচী, মসজিদের খবর এবং অন্যান্য অনেক বৈশিষ্ট্য পরিচালনা করতে দেয়। বিশ্বস্তরা, তাদের পক্ষ থেকে, একটি মোবাইল অ্যাপ্লিকেশন থেকে উপকৃত হয় যা তাদের তাদের প্রিয় মসজিদের সঠিক এবং আনুমানিক সময়সূচী, সেইসাথে সংবাদ এবং অন্যান্য কার্যকারিতা যেমন ভৌগলিক অবস্থান, আযান, আযান, কিবলা ... ইত্যাদি। আমরা নির্ভরযোগ্যতা এবং গুণমানকে আমাদের প্রধান মান করেছি। আমাদের উচ্চাকাঙ্ক্ষা পরিষ্কার: প্রযুক্তি এবং ডিজাইনের জন্য আমাদের মসজিদের জন্য সেরা পরিষেবা তৈরি করা।\n\nআপনি যদি এই অ্যাপ্লিকেশনটি পছন্দ করেন তবে অনুগ্রহ করে দোকানে আপনার মতামত দিন।",
+    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "এক প্রকার আযান বেছে নিন। আযান বিজ্ঞপ্তি আছে এমন প্রতিটি নামাজে এই পছন্দটি প্রয়োগ করা হবে।",
+    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "এথান থেকে মিনিট",
+    "minutes_to_athan": "minutes to athan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "এখানে আপনি একটি ধরনের বিজ্ঞপ্তি, আথান, বিপ বা নীরব নির্বাচন করতে পারেন",
+    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "এখানে আপনি মসজিদে আযান এবং ইকামার মধ্যে সময়কাল পাবেন",
+    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "ডাউনলোড ব্যর্থ হয়েছে",
     "download_pages": "পৃষ্ঠা ডাউনলোড করুন",
     "notification": "বিজ্ঞপ্তি",
-    "notification_not_supported_below_7": "আপনার ডিভাইস Android 7 বা তাতো নেটওয়ার্কের নোটিফিকেশন প্রাপ্ত করতে পারবেন না।",
+    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "ব্যাটারি অপ্টিমাইজেশন",
     "battery_optimization_subtitle": "প্রার্থনা সময়ের বিজ্ঞপ্তি সমস্যার নেটিভ অপটিমাইজেশন বন্ধ করতে, আপনার ডিভাইসের ব্যাটারি অপটিমাইজেশন বন্ধ করতে হবে।",
     "allow": "অনুমতি দিন",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "অবস্থান অ্যাক্সেস অস্বীকার করা হয়েছে, তাই আমরা নিকটস্থ মসজিদের পরামর্শ দিতে পারছি না। অনুগ্রহ করে একটি মসজিদ অনুসন্ধান করুন অথবা অবস্থানের অনুমতি চালু করুন।",
     "location": "লোকেশন",
     "stop": "বন্ধ করুন",
-    "plays_adhan_prayer_arrives": "নামাজের সময় হলে আযান বাজায়",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "সাইলেন্ট মোডে চালান",
     "notifications_not_arriving": "নোটিফিকেশন আসছে না?",
     "android_phones_aggressively": "কিছু অ্যান্ড্রয়েড ফোন ব্যাকগ্রাউন্ডে অ্যাপগুলো আক্রমণাত্মকভাবে বন্ধ করে দেয়।.",
@@ -1600,8 +1600,8 @@
     "general": "সাধারণ",
     "prayer_location": "নামাজ ও লোকেশন",
     "privacy": "গোপনীয়তা",
-    "play_full_adhan": "সম্পূর্ণ আজান চালান",
-    "full_adhan_will_keep_repeating": "সম্পূর্ণ আজান আপনি বন্ধ না করা পর্যন্ত বারবার চলতে থাকবে।.",
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it.",
     "hussein_taji_kal_dari": "হুসেইন তাজি কাল দারি",
     "settings_language_fa": "ফারসি",
     "mawaqit_non_profit": "MAWAQIT organizatë jofitimprurëse · falas për të gjithë",
