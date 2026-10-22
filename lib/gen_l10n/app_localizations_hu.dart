@@ -2711,7 +2711,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get admin_sectionRegional => 'Területi beállítások';
 
   @override
-  String get admin_sectionAdhan => 'Al-Athan';
+  String get admin_sectionAdhan => 'Adhan';
 
   @override
   String get admin_sectionIqama => 'Ikáma';
