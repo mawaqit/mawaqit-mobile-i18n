@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -1649,7 +1649,7 @@
     "admin_configurationSaved": "Configuração guardada",
     "admin_oneUnsavedChange": "1 alteração não guardada",
     "admin_sectionRegional": "Definições regionais",
-    "admin_sectionAdhan": "Al-Athan",
+    "admin_sectionAdhan": "Adhan",
     "admin_sectionIqama": "Iqama",
     "admin_sectionJumua": "Jumua",
     "admin_sectionPrayerDuration": "Duração da oração",
