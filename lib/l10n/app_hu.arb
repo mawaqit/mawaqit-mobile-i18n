@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma.",
+    "tutorial_text_notification": "Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben.",
+    "tutorial_text_iqama": "Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"

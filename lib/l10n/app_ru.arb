@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Выберите тип азана. Это параметр будет активен для каждой молитвы, для которой включено уведомление",
+    "adhan_type": "Выберите тип азана. Это параметр будет активен для каждой молитвы, для которой включено уведомление.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Здесь вы найдёте продолжительность времени между азаном и икамой мечети.",
+    "tutorial_text_iqama": "Здесь вы найдёте продолжительность времени между азаном и икамой мечети",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -1839,13 +1839,13 @@
     "for_mosque_administrators_only": "Только для администраторов мечетей MAWAQIT'",
     "admins_only": "Только админы",
     "notification_permission_required": "Требуется разрешение на уведомления",
-    "enable_location": "Enable Location",
+    "enable_location": "Включить геолокацию",
     "enable_notifications": "Включить уведомления",
     "notifications_required_for_adhan": "Необходимо включить уведомления, чтобы MAWAQIT мог воспроизводить азан и отправлять уведомления о времени молитв.",
     "location_required_for_prayer_times": "Местоположение необходимо для получения точного времени молитв, информации о мечетях и обновлений погоды.",
     "manage_mosque": "Управление мечетью",
-    "how_managing_your_mosque": "How is managing your mosque going?",
-    "rating_helps_improve_admin": "Your rating helps us improve the admin area.",
+    "how_managing_your_mosque": "Как вы управляете своей мечетью?",
+    "rating_helps_improve_admin": "Ваш рейтинг помогает нам улучшить область администрирования.",
     "tell_us_more": "Tell us more (optional)",
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",

@@ -137,7 +137,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'Ta aplikacja została opracowana przez stowarzyszenie MAWAQIT.\n\nStowarzyszenie MAWAQIT jest organizacją non-profit utworzoną w 2021 roku we Francji.\nNaszym celem jest opracowywanie innowacyjnych rozwiązań związanych z informatyką i cyfryzacją, takich jak oprogramowanie i strony internetowe; nauczanie i szkolenie w zakresie rozwiązań cyfrowych i narzędzi komputerowych.\n\nEkosystem MAWAQIT jest naszym flagowym produktem, a jego historia rozpoczęła się w 2016 roku od aplikacji na dużych ekranach dedykowanych meczetom, następnie aplikacji mobilnej, dodatku do asystenta domowego i umiejętności Alexa... itd.\n\nMAWAQIT oferuje nowy sposób monitorowania i zarządzania godzinami modlitw, w rzeczywistości oferujemy kompleksowy system, który zapewnia menedżerom meczetów narzędzie online dostępne 24 godziny na dobę, umożliwiające im zarządzanie godzinami, wiadomościami o meczetach i wieloma innymi funkcjami. W międzyczasie wierni mogą korzystać z aplikacji mobilnej, która pozwala im sprawdzić dokładny, a nie przybliżony harmonogram ich ulubionego meczetu, a także najnowsze wiadomości i inne funkcje, takie jak wyszukiwanie meczetu według geolokalizacji, adhan, qibla itp. Niezawodność i jakość to nasze podstawowe wartości. Nasza ambicja jest jasna: zbudować najlepszą usługę dla naszych meczetów poprzez technologię i design.\n\nJeśli podobała Ci się ta aplikacja, nie wahaj się wyrazić swojej opinii na temat sklepu.';
+      'Ta aplikacja została opracowana przez stowarzyszenie MAWAQIT.\n\nStowarzyszenie MAWAQIT jest organizacją non-profit utworzoną w 2021 roku we Francji.\nNaszym celem jest opracowywanie innowacyjnych rozwiązań związanych z informatyką i cyfryzacją, takich jak oprogramowanie i strony internetowe; nauczanie i szkolenie w zakresie rozwiązań cyfrowych i narzędzi komputerowych.\n\nEkosystem MAWAQIT jest naszym flagowym produktem, a jego historia rozpoczęła się w 2016 roku od aplikacji na dużych ekranach dedykowanych meczetom, następnie aplikacji mobilnej, dodatku do asystenta domowego i umiejętności Alexa... itd.\n\nMAWAQIT oferuje nowy sposób monitorowania i zarządzania godzinami modlitw, w rzeczywistości oferujemy kompleksowy system, który zapewnia menedżerom meczetów narzędzie online dostępne 24/24 godziny, umożliwiające im zarządzanie godzinami, wiadomościami o meczetach i wieloma innymi funkcjami. W międzyczasie wierni mogą korzystać z aplikacji mobilnej, która pozwala im sprawdzić dokładny, a nie przybliżony harmonogram ich ulubionego meczetu, a także najnowsze wiadomości i inne funkcje, takie jak wyszukiwanie meczetu według geolokalizacji, adhan, qibla itp. Niezawodność i jakość to nasze podstawowe wartości. Nasza ambicja jest jasna: zbudować najlepszą usługę dla naszych meczetów poprzez technologię i design.\n\nJeśli podobała Ci się ta aplikacja, nie wahaj się wyrazić swojej opinii na temat sklepu.';
 
   @override
   String get fajr => 'Fadżr';
@@ -584,7 +584,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get favorites_edit => 'Edytuj ulubione meczety';
 
   @override
-  String get minutes_to_athan => 'Minuty do Adan';
+  String get minutes_to_athan => 'minuty do Adan';
 
   @override
   String get show_tutorial => 'Przejrzyj samouczek';

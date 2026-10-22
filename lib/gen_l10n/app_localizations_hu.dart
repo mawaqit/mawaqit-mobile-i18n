@@ -622,7 +622,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma.';
+      'Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma';
 
   @override
   String get search_no_result =>
@@ -656,7 +656,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben.';
+      'Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben';
 
   @override
   String get calendar_tooltip_download => 'Naptár letöltése';

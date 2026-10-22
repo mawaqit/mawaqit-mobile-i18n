@@ -137,7 +137,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'Den här applikationen är utvecklad av MAWAQIT-föreningen.\n\nMAWAQIT-föreningen är en icke-vinstdrivande organisation som skapades 2021 i Frankrike. Vårt mål är att utveckla innovativa lösningar relaterade till IT och digital teknologi, såsom programvara och webbplatser; att undervisa och träna i digitala lösningar och IT-verktyg.\n\nMAWAQIT-ekosystemet är vår flaggskeppsprodukt och dess historia började 2016 med en applikation för stora skärmar dedikerad till moskéer, sedan en mobilapp, ett tillägg för hemmassistent och en Alexa-färdighet, etc.\n\nMAWAQIT erbjuder dig ett nytt sätt att följa och hantera böntider. Faktum är att vi erbjuder ett system från början till slut som ger moskéledare ett onlineverktyg tillgängligt dygnet runt, vilket gör att de kan hantera tidtabeller, nyheter om moskén och många andra funktioner. De troende, å sin sida, har en mobilapplikation som gör att de kan konsultera de exakta och inte ungefära tidtabellerna för sin favoritmoské, samt nyheter och andra funktioner såsom att söka efter en moské via geolokalisering, adhan, qibla, etc. Vi har gjort pålitlighet och kvalitet till våra huvudvärden. Vår ambition är tydlig: att bygga den bästa tjänsten för våra moskéer genom teknologi och design.\n\nOm du gillade den här applikationen, vänligen ge din åsikt på butiken.';
+      'Den här applikationen är utvecklad av MAWAQIT-föreningen.\n\nMAWAQIT-föreningen är en icke-vinstdrivande organisation som skapades 2021 i Frankrike. Vårt mål är att utveckla innovativa lösningar relaterade till IT och digital teknologi, såsom programvara och webbplatser; att undervisa och träna i digitala lösningar och IT-verktyg.\n\nMAWAQIT-ekosystemet är vår flaggskeppsprodukt och dess historia började 2016 med en applikation för stora skärmar dedikerad till moskéer, sedan en mobilapp, ett tillägg för hemmassistent och en Alexa-färdighet, etc.\n\nMAWAQIT erbjuder dig ett nytt sätt att följa och hantera böntider. Faktum är att vi erbjuder ett system från början till slut som ger moskéledare ett onlineverktyg tillgängligt 24/24, vilket gör att de kan hantera tidtabeller, nyheter om moskén och många andra funktioner. De troende, å sin sida, har en mobilapplikation som gör att de kan konsultera de exakta och inte ungefära tidtabellerna för sin favoritmoské, samt nyheter och andra funktioner såsom att söka efter en moské via geolokalisering, adhan, qibla, etc. Vi har gjort pålitlighet och kvalitet till våra huvudvärden. Vår ambition är tydlig: att bygga den bästa tjänsten för våra moskéer genom teknologi och design.\n\nOm du gillade den här applikationen, vänligen ge din åsikt på butiken.';
 
   @override
   String get fajr => 'Fajr';
@@ -584,7 +584,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get favorites_edit => 'Redigera favoritmoskéer';
 
   @override
-  String get minutes_to_athan => 'Minuter till adhan';
+  String get minutes_to_athan => 'minuter till adhan';
 
   @override
   String get show_tutorial => 'Visa guiden';
@@ -2554,7 +2554,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Hela adhan uppspelningen upprepas tills du stänger av den ';
+      'Hela adhan uppspelningen upprepas tills du stänger av den.';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji kal dari';

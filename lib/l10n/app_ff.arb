@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Suɓo noddinaango. Haŋkadi ko kanngo arata sahaa kala nde njuulu waɗi tintinol noddinaango.",
+    "adhan_type": "Choose a type of Adhan. This choice will be applied in every prayer that has the Adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minutes to athan",
+    "minutes_to_athan": "minutes to Adhan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
+    "tutorial_text_notification": "Here you can select a type of notification: Adhan, beep or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
+    "tutorial_text_iqama": "Here you find the duration between Adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "Download Failed",
     "download_pages": "Download the pages",
     "notification": "Notification",
-    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
+    "notification_not_supported_below_7": "You could not receive Adhan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "Battery optimization",
     "battery_optimization_subtitle": "To receive prayer notifications seamlessly, you must turn off battery optimization for MAWAQIT.",
     "allow": "Allow",

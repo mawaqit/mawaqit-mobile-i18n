@@ -194,7 +194,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'Выберите тип азана. Это параметр будет активен для каждой молитвы, для которой включено уведомление';
+      'Выберите тип азана. Это параметр будет активен для каждой молитвы, для которой включено уведомление.';
 
   @override
   String get settings_prayer_Notification_None => 'Нет';
@@ -651,7 +651,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Здесь вы найдёте продолжительность времени между азаном и икамой мечети.';
+      'Здесь вы найдёте продолжительность времени между азаном и икамой мечети';
 
   @override
   String get calendar_tooltip_download => 'Скачать календарь';
@@ -3126,7 +3126,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Требуется разрешение на уведомления';
 
   @override
-  String get enable_location => 'Enable Location';
+  String get enable_location => 'Включить геолокацию';
 
   @override
   String get enable_notifications => 'Включить уведомления';
@@ -3143,11 +3143,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get manage_mosque => 'Управление мечетью';
 
   @override
-  String get how_managing_your_mosque => 'How is managing your mosque going?';
+  String get how_managing_your_mosque => 'Как вы управляете своей мечетью?';
 
   @override
   String get rating_helps_improve_admin =>
-      'Your rating helps us improve the admin area.';
+      'Ваш рейтинг помогает нам улучшить область администрирования.';
 
   @override
   String get tell_us_more => 'Tell us more (optional)';
