@@ -137,7 +137,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'Это приложение разработано ассоциацией MAWAQIT.\n\nАссоциация MAWAQIT — это некоммерческая организация, созданная в 2021 году во Франции.\nНаша цель – разработка инновационных решений, связанных с ИТ и цифровыми технологиями, таких как программное обеспечение и веб-сайты; обучение работе с цифровыми решениями и ИТ-инструментами.\n\nЭкосистема MAWAQIT – это наш флагманский продукт, история которого началась в 2016 году с приложения для больших экранов, посвящённого мечетям, затем появилось полноценное мобильное приложение, позволяющее быть в курсе точного времени молитвы, а также находить близлежайщие мечети и связанную с ними информацию. Наша цель ясна: создать наилучший сервис для мечетей благодаря технологиям и дизайнерским решениям.\n\nЕсли вам понравилось это приложение, то, пожалуйста, оставьте свой отзыв в магазине приложений.';
+      'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
   String get fajr => 'Фаджр';
@@ -194,7 +194,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'Выберите тип азана. Это параметр будет активен для каждой молитвы, для которой включено уведомление';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'Нет';
@@ -587,7 +587,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get favorites_edit => 'Изменить спискок избранных мечетей';
 
   @override
-  String get minutes_to_athan => 'минут до азана';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'Посмотреть руководство';
@@ -617,7 +617,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'Здесь вы можете выбрать тип уведомления: азан, звуковой сигнал или беззвучный';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -651,7 +651,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Здесь вы найдёте продолжительность времени между азаном и икамой мечети.';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Скачать календарь';
@@ -1021,7 +1021,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'Вы не можете получать уведомления об Атане или времени молитвы, поскольку ваше устройство использует Android 7 или ниже.';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'Оптимизация батареи';
@@ -2530,7 +2530,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Воспроизводит азан при наступлении времени молитвы';
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'Воспроизводить в беззвучном режиме';
@@ -2568,11 +2568,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get privacy => 'Конфиденциальность';
 
   @override
-  String get play_full_adhan => 'Воспроизвести полный азан';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Полный азан будет повторяться, пока вы его не закроете.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'Хусейн Таджи Каль Дари';

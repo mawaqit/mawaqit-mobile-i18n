@@ -137,7 +137,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'Questa applicazione è sviluppata dall\'associazione MAWAQIT.\n\nL\'associazione MAWAQIT è un\'organizzazione senza scopo di lucro creata nel 2021 in Francia.\nIl nostro obiettivo è lo sviluppo di soluzioni innovative legate all\'IT e alla tecnologia digitale come software e siti web; insegnare e formarsi in soluzioni digitali e strumenti IT.\n\nL\'ecosistema MAWAQIT è il nostro prodotto di punta e la sua storia è iniziata nel 2016, con un\'applicazione su grandi schermi dedicata alle moschee, poi un\'app mobile, un add-on home-assistant e un\'abilità alexa, ecc.\n\nMAWAQIT ti offre un nuovo modo di tracciare e gestire i tempi di preghiera, infatti offriamo un sistema end-to-end che offre ai gestori delle moschee uno strumento online disponibile 24 ore su 24, permettendo loro di gestire orari, notizie e informazioni. molte altre caratteristiche. I fedeli, invece, beneficiano di un\'applicazione mobile che permette loro di consultare gli orari esatti e non approssimativi della loro moschea preferita, nonché le notizie e altre funzionalità come la ricerca di una moschea tramite geolocalizzazione, l\'adhan , la qibla. ... ecc. Abbiamo fatto dell\'affidabilità e della qualità i nostri valori principali. La nostra ambizione è chiara: costruire il miglior servizio per le nostre moschee grazie alla tecnologia e al design.\n\nSe ti è piaciuta questa applicazione, dai la tua opinione sullo store.';
+      'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
   String get fajr => 'Fajr';
@@ -194,7 +194,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'Scegli un tipo di adhan. Questa scelta sarà applicata in ogni preghiera che ha la notifica dell\'adhan.';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'Nessuno';
@@ -591,7 +591,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get favorites_edit => 'Modifica moschee preferite';
 
   @override
-  String get minutes_to_athan => 'minuti per athan';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'Rivedi il tutorial';
@@ -621,7 +621,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'Qui puoi selezionare un tipo di notifica, Athan, bip o silenzioso';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -655,7 +655,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Qui trovi la durata tra adhan e iqama alla moschea';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Scarica il calendario';
@@ -1028,7 +1028,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'Non è possibile ricevere le notifiche di Athan o degli orari di preghiera perché il dispositivo utilizza Android 7 o inferiore.';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'Ottimizzazione della batteria';
@@ -2545,7 +2545,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Riproduce l\'adhan quando arriva l\'orario della preghiera';
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'Riproduci in modalità silenziosa';
@@ -2583,11 +2583,11 @@ class AppLocalizationsIt extends AppLocalizations {
   String get privacy => 'Privacy';
 
   @override
-  String get play_full_adhan => 'Riproduci l\'adhan completo';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'L\'adhan completo continuerà a ripetersi finché non lo chiudi.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';

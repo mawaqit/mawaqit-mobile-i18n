@@ -2523,7 +2523,7 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Plays the Adhan when prayer time arrives';
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'Play in silent mode';
@@ -2561,11 +2561,11 @@ class AppLocalizationsAz extends AppLocalizations {
   String get privacy => 'Privacy';
 
   @override
-  String get play_full_adhan => 'Play full Adhan';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Full Adhan will keep repeating until you close it.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';

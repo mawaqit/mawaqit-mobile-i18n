@@ -137,7 +137,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'এই অ্যাপ্লিকেশনটি MAWAQIT অ্যাসোসিয়েশন দ্বারা উন্নত করা হয়েছে.\n\nমাওয়াকিট অ্যাসোসিয়েশন ফ্রান্সে 2021 সালে তৈরি একটি অলাভজনক সংস্থা।\nআমাদের উদ্দেশ্য হল সফ্টওয়্যার এবং ওয়েবসাইটগুলির মতো আইটি এবং ডিজিটাল প্রযুক্তি সম্পর্কিত উদ্ভাবনী সমাধানগুলির বিকাশ; ডিজিটাল সমাধান এবং আইটি সরঞ্জাম শেখান এবং প্রশিক্ষণ.\n\nমাওয়াকিত ইকোসিস্টেম হল আমাদের ফ্ল্যাগশিপ প্রোডাক্ট এবং এর গল্পটি 2016 সালে শুরু হয়েছিল, মসজিদে নিবেদিত বড় স্ক্রিনে একটি অ্যাপ্লিকেশন, তারপর একটি মোবাইল অ্যাপ, একটি হোম-অ্যাসিস্ট্যান্ট অ্যাড-অন এবং একটি আলেক্সা দক্ষতা ইত্যাদি।\n\nমাওয়াকিট আপনাকে নামাজের সময় ট্র্যাক এবং পরিচালনা করার একটি নতুন উপায় অফার করে, আসলে আমরা একটি এন্ড-টু-এন্ড সিস্টেম অফার করি যা মসজিদ পরিচালকদের একটি অনলাইন টুল 24/24ঘন্টা উপলব্ধ করে যা তাদের সময়সূচী, মসজিদের খবর এবং অন্যান্য অনেক বৈশিষ্ট্য পরিচালনা করতে দেয়। বিশ্বস্তরা, তাদের পক্ষ থেকে, একটি মোবাইল অ্যাপ্লিকেশন থেকে উপকৃত হয় যা তাদের তাদের প্রিয় মসজিদের সঠিক এবং আনুমানিক সময়সূচী, সেইসাথে সংবাদ এবং অন্যান্য কার্যকারিতা যেমন ভৌগলিক অবস্থান, আযান, আযান, কিবলা ... ইত্যাদি। আমরা নির্ভরযোগ্যতা এবং গুণমানকে আমাদের প্রধান মান করেছি। আমাদের উচ্চাকাঙ্ক্ষা পরিষ্কার: প্রযুক্তি এবং ডিজাইনের জন্য আমাদের মসজিদের জন্য সেরা পরিষেবা তৈরি করা।\n\nআপনি যদি এই অ্যাপ্লিকেশনটি পছন্দ করেন তবে অনুগ্রহ করে দোকানে আপনার মতামত দিন।';
+      'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
   String get fajr => 'ফজর';
@@ -194,7 +194,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'এক প্রকার আযান বেছে নিন। আযান বিজ্ঞপ্তি আছে এমন প্রতিটি নামাজে এই পছন্দটি প্রয়োগ করা হবে।';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'কোনোটিই নয়';
@@ -587,7 +587,7 @@ class AppLocalizationsBn extends AppLocalizations {
   String get favorites_edit => 'প্রিয় মসজিদ সম্পাদনা করুন';
 
   @override
-  String get minutes_to_athan => 'এথান থেকে মিনিট';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'টিউটোরিয়াল পর্যালোচনা করুন';
@@ -617,7 +617,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'এখানে আপনি একটি ধরনের বিজ্ঞপ্তি, আথান, বিপ বা নীরব নির্বাচন করতে পারেন';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -651,7 +651,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'এখানে আপনি মসজিদে আযান এবং ইকামার মধ্যে সময়কাল পাবেন';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'ক্যালেন্ডার ডাউনলোড করুন';
@@ -1020,7 +1020,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'আপনার ডিভাইস Android 7 বা তাতো নেটওয়ার্কের নোটিফিকেশন প্রাপ্ত করতে পারবেন না।';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'ব্যাটারি অপ্টিমাইজেশন';
@@ -2526,7 +2526,8 @@ class AppLocalizationsBn extends AppLocalizations {
   String get stop => 'বন্ধ করুন';
 
   @override
-  String get plays_adhan_prayer_arrives => 'নামাজের সময় হলে আযান বাজায়';
+  String get plays_adhan_prayer_arrives =>
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'সাইলেন্ট মোডে চালান';
@@ -2564,11 +2565,11 @@ class AppLocalizationsBn extends AppLocalizations {
   String get privacy => 'গোপনীয়তা';
 
   @override
-  String get play_full_adhan => 'সম্পূর্ণ আজান চালান';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'সম্পূর্ণ আজান আপনি বন্ধ না করা পর্যন্ত বারবার চলতে থাকবে।.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'হুসেইন তাজি কাল দারি';

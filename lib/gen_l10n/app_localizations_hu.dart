@@ -137,7 +137,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'Ezt az alkalmazást a MAWAQIT egyesület fejlesztette ki.\n\nA MAWAQIT egyesület egy 2021-ben Franciaországban létrehozott nonprofit szervezet. Célunk az informatikához és a digitális technológiához kapcsolódó innovatív megoldások, például szoftverek és weboldalak fejlesztése; digitális megoldások és informatikai eszközök oktatása és képzése.\n\nA MAWAQIT Ecosystem a zászlóshajó termékünk, amelynek története 2016-ban kezdődött, egy mecsetekre szánt nagy képernyőkön megjelenő alkalmazással, majd egy mobilalkalmazással, egy otthoni asszisztens-kiegészítővel és egy Alexa készséggel stb.\n\nA MAWAQIT új módot kínál az imaidők nyomon követésére és kezelésére, valójában egy végponttól végpontig tartó rendszert kínálunk, amely a mecsetek vezetőinek egy 24 / 24 órában elérhető online eszközt kínál, amely lehetővé teszi számukra a menetrendek, a mecset hírei és sok más funkció kezelését. A hívők a maguk részéről egy mobilalkalmazás előnyeit élvezhetik, amely lehetővé teszi számukra, hogy megtekinthessék kedvenc mecsetük pontos és nem hozzávetőleges menetrendjét, valamint a híreket és egyéb funkciókat, mint például a mecset keresése földrajzi helymeghatározás alapján, az imárahívás, a qibla iránya... stb. A megbízhatóságot és a minőséget tettük legfőbb értékeinkké. Ambíciónk egyértelmű: a technológiának és a tervezésnek köszönhetően a legjobb szolgáltatást nyújtani mecseteink számára.\n\nHa tetszett ez az alkalmazás, kérjük, mondd el véleményedet az áruházban.';
+      'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
   String get fajr => 'Hajnali';
@@ -194,7 +194,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'Válaszd ki az imára hívás típusát. Ez a választás minden olyan imára érvényes lesz, amelyhez \'imára hívás\' értesítés van beállítva.';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'Egyik sem';
@@ -592,7 +592,7 @@ class AppLocalizationsHu extends AppLocalizations {
   String get favorites_edit => 'Kedvenc mecsetek szerkesztése';
 
   @override
-  String get minutes_to_athan => 'percek imára hívásig';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'A bemutató áttekintése';
@@ -622,7 +622,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'Itt kiválaszthatod az értesítés típusát: Imára hívás, bip vagy néma.';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -656,7 +656,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben.';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Naptár letöltése';
@@ -1027,7 +1027,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'Nem tudtál imára hívás vagy imaidő értesítéseket kapni, mivel a készüléked Android 7 vagy annál alacsonyabb rendszert használ.';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'Akkumulátoroptimalizálás';
@@ -2537,7 +2537,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Lejátssza az adzánt az ima idejének kezdetekor';
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'Lejátszás néma módban is';
@@ -2575,11 +2575,11 @@ class AppLocalizationsHu extends AppLocalizations {
   String get privacy => 'Adatvédelem';
 
   @override
-  String get play_full_adhan => 'Teljes adhán lejátszása';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'A teljes adhán ismétlődni fog, amíg be nem zárja.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';

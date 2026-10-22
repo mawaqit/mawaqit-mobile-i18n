@@ -139,7 +139,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'Ovu aplikaciju razvilo je MAWAQIT udruženje.\n\nMAWAQIT udruženje je neprofitna organizacija osnovana 2021. godine u Francuskoj. Naš cilj je razvoj inovativnih rešenja vezanih za IT i digitalnu tehnologiju, kao što su softveri i veb sajtovi; podučavanje i obuka u vezi sa digitalnim rešenjima i IT alatima.\n\nMAWAQIT Ekosistem je naš vodeći proizvod, a njegova priča počela je 2016. godine, kada je nastala aplikacija za velike ekrane posvećena džamijama, a zatim mobilna aplikacija, dodatak za kućne asistente Alexa skill, itd.\n\nMAWAQIT vam nudi novi način praćenja i upravljanja vremenima molitve. Zapravo, nudimo sveobuhvatan sistem koji moske menadžerima omogućava pristup online alatu dostupnom 24 sata dnevno, koji im pomaže u upravljanju rasporedima, vestima o džamiji i mnogim drugim funkcijama. Vernici, sa svoje strane, imaju mobilnu aplikaciju koja im omogućava da konsultuju tačna, a ne približna vremena molitve u svojoj omiljenoj džamiji, kao i vesti i druge funkcionalnosti kao što su pretraga džamija po geolokaciji, ezan, kibla itd. Pouzdanost i kvalitet su naši glavni principi. Naša ambicija je jasna: izgraditi najbolju uslugu za naše džamije uz pomoć tehnologije i dizajna.\n\nAko vam se dopala ova aplikacija, molimo vas da podelite svoje mišljenje na prodavnici.';
+      'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
   String get fajr => 'Sabah';
@@ -196,7 +196,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'Izaberite vrstu ezana. Ovaj izbor će biti primenjen kao primarni zvučni signal za svaki namaz.';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'Ništa';
@@ -588,7 +588,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get favorites_edit => 'Uredi omiljene džamije';
 
   @override
-  String get minutes_to_athan => 'minuta do ezana';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'Pregledajte tutorijal';
@@ -618,7 +618,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'Ovdje možete odabrati vrstu obavijesti: Ezan, bip ili bez zvuka';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -652,7 +652,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Ovdje možete pronaći trajanje između ezana i ikameta u džamiji';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Preuzmi Takvim';
@@ -1021,7 +1021,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'Niste mogli primiti obavještenja o ezanu ili vremenima namaza jer vaš uređaj koristi Android 7 ili stariju verziju.';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'Optimizacija baterije';
@@ -2527,7 +2527,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Pušta ezan kada nastupi vrijeme namaza';
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'Reproduciraj u tihom načinu';
@@ -2565,11 +2565,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get privacy => 'Privatnost';
 
   @override
-  String get play_full_adhan => 'Reproduciraj cijeli ezan';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Cijeli ezan će se ponavljati dok ga ne zatvorite.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';

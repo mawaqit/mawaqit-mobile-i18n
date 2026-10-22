@@ -195,7 +195,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'เลือกประเภทของอะซาน การเลือกนี้จะถูกนำไปใช้กับทุกการละหมาดที่มีการแจ้งเตือนอะซาน';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'ไม่มี';
@@ -584,7 +584,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get favorites_edit => 'แก้ไขมัสยิดที่ชื่นชอบ';
 
   @override
-  String get minutes_to_athan => 'นาทีถึงอาธาน';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'ทบทวนบทช่วยสอน';
@@ -613,7 +613,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'ที่นี่คุณสามารถเลือกประเภทการแจ้งเตือนได้ ไม่ว่าจะเป็นเสียงอะซาน เสียงบี๊บ หรือแบบเงียบ';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -647,7 +647,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'ที่นี่คุณจะพบระยะเวลาระหว่างอะซานและอิกอมะฮ์ที่มัสยิด';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'ดาวน์โหลดปฏิทิน';
@@ -1015,7 +1015,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'คุณจะไม่สามารถรับการแจ้งเตือนเกี่ยวกับอะซานหรือเวลาละหมาดได้ เนื่องจากอุปกรณ์ของคุณใช้ระบบปฏิบัติการ Android 7 หรือต่ำกว่า';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'การปรับแต่งแบตเตอรี่';
@@ -2512,7 +2512,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'มีเสียงอะซานดังขึ้นเมื่อถึงเวลาละหมาด';
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'เล่นในโหมดเงียบ';
@@ -2550,11 +2550,11 @@ class AppLocalizationsTh extends AppLocalizations {
   String get privacy => 'Privacy';
 
   @override
-  String get play_full_adhan => 'เล่นอะซานครบทั้งหมด';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'อะซานครบทั้งหมดจะเล่นซ้ำไปเรื่อย ๆ จนกว่าคุณจะปิด';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'ฮุสเซน ทาจี คาล ดารี';

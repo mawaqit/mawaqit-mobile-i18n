@@ -137,7 +137,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'تم تطوير هذا التطبيق من قبل جمعية مواقيت.\n\nجمعية مواقيت هي منظمة غير ربحية تأسست عام 2021 في فرنسا.\nهدفنا هو تطوير الحلول المبتكرة المتعلقة بتكنولوجيا المعلومات والتكنولوجيا الرقمية مثل البرامج والمواقع الإلكترونية. التدريس والتدريب في الحلول الرقمية وأدوات تكنولوجيا المعلومات.\n\nيعتبر نظام \"مواقيت\" منتجنا الرائد وقد بدأت قصته في عام 2016 ، مع تطبيق على الشاشات الكبيرة المخصصة للمساجد ، ثم تطبيق جوال ، ومساعد منزلي ، ومهارة اليكسا ، إلخ.\n\nيوفر لك \"مواقيت\" طريقة جديدة لتتبع أوقات الصلاة وإدارتها ، في الواقع نحن نقدم نظامًا شاملاً يوفر لمديري المساجد أداة متاحة عبر الأنترنت على مدار 24 ساعة تتيح لهم إدارة أوقات الصلاة وأخبار المسجد والعديد من الميزات الأخرى. يستفيد المسلمون من جانبهم من تطبيق على الهاتف المحمول يتيح لهم الاطلاع على أوقات الصلاة الدقيقة وغير التقريبية لمسجدهم ، فضلاً عن الأخبار والوظائف الأخرى مثل البحث عن مسجد حسب الموقع الجغرافي ، والأذان ، و القبلة ... إلخ. لقد جعلنا الموثوقية والجودة قيمنا الرئيسية. طموحنا واضح: بناء أفضل خدمة لمساجدنا بفضل التكنولوجيا والتصميم.\n\nاذا أعجبك هذا التطبيق ، فيرجى ابداء رأيك على الستور.';
+      'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
 
   @override
   String get fajr => 'الفجر';
@@ -193,7 +193,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'اختر نوع الأذان.\nسيتم تطبيق هذا الاختيار على كل صلاة تحتوي على إشعار الأذان';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'لا إشعار';
@@ -581,7 +581,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get favorites_edit => 'تعديل المساجد المفضلة';
 
   @override
-  String get minutes_to_athan => 'دقائق حتى آذان';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'راجع البرنامج التعليمي';
@@ -611,7 +611,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'هنا يمكنك اختيار نوع الإشعار: أذان، رنين، أو صامت.';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -645,7 +645,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'هنا تجد المدة بين الأذان والإقامة في المسجد';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'تنزيل التقويم';
@@ -1007,7 +1007,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'لم تتمكن من تلقي إخطارات بأوقات الفناء أو الصلاة لأن جهازك يستخدم أندرويد 7 أو أقل.';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'تحسين البطارية';
@@ -2492,7 +2492,8 @@ class AppLocalizationsAr extends AppLocalizations {
   String get stop => 'إيقاف';
 
   @override
-  String get plays_adhan_prayer_arrives => 'يشغّل الأذان عند دخول وقت الصلاة';
+  String get plays_adhan_prayer_arrives =>
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'التشغيل في الوضع الصامت';
@@ -2530,11 +2531,11 @@ class AppLocalizationsAr extends AppLocalizations {
   String get privacy => 'الخصوصية';
 
   @override
-  String get play_full_adhan => 'تشغيل الأذان كاملاً';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'سيستمر الأذان الكامل في التكرار حتى تقوم بإغلاقه.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'حسين تاجي كال داري';

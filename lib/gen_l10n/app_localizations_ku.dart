@@ -194,7 +194,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'جۆری بانگدان هەڵبژێرە. ئەم هەڵبژاردەیە جێبەجێ دەکرێت لەسەر ئەو نوێژانەی کە دۆخی بانگدانیان بۆ چالاک کراوە.';
+      'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.';
 
   @override
   String get settings_prayer_Notification_None => 'هیچ';
@@ -587,7 +587,7 @@ class AppLocalizationsKu extends AppLocalizations {
   String get favorites_edit => 'مزگەوتە دڵخوازەکانت بگۆڕە';
 
   @override
-  String get minutes_to_athan => 'خولەک بۆ بانگ';
+  String get minutes_to_athan => 'minutes to athan';
 
   @override
   String get show_tutorial => 'ڕێنماییەکان هەڵبسەنگێنە';
@@ -618,7 +618,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'لێرەدا دەتوانیت جۆرێک لە ئاگادارکردنەوە هەڵبژێریت، بانگ، بیپ یان بێدەنگ';
+      'Here you can select a type of notification, Athan, bip or silent';
 
   @override
   String get search_no_result =>
@@ -652,7 +652,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'لێرە ماوەی نێوان بانگ و قامەت لە مزگەوتەکە دەدۆزیتەوە';
+      'Here you find the duration between adhan and iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'داگرتنی خشتە';
@@ -1021,7 +1021,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get notification_not_supported_below_7 =>
-      'تۆ ناتوانیت بانگ یاخود کاتەکانی بانگ یاخود ئاگادارییەکان بەدەستت بگات ئەگەر مۆبایلەکەت ئەندرۆید ٧ یاخود کەمتر بەکاربهێنێت.';
+      'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.';
 
   @override
   String get battery_optimization => 'باشترکردنی پاتری';
@@ -2528,7 +2528,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'کاتێک کاتی نوێژ دەگات، ئەزان لێدەدات';
+      'Plays the adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'لە دۆخی بێدەنگدا لێبدە';
@@ -2566,11 +2566,11 @@ class AppLocalizationsKu extends AppLocalizations {
   String get privacy => 'تایبەتمەندی';
 
   @override
-  String get play_full_adhan => 'ئەذانی تەواو پخش بکە';
+  String get play_full_adhan => 'Play full adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'ئەذانی تەواو بەردەوام دووبارە دەبێتەوە تا دایدەخەیت.';
+      'Full adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'هوسێن تاجی کال داری';
