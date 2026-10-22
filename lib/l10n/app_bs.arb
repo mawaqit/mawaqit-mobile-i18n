@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "Ovu aplikaciju razvilo je MAWAQIT udruženje.\n\nMAWAQIT udruženje je neprofitna organizacija osnovana 2021. godine u Francuskoj. Naš cilj je razvoj inovativnih rešenja vezanih za IT i digitalnu tehnologiju, kao što su softveri i veb sajtovi; podučavanje i obuka u vezi sa digitalnim rešenjima i IT alatima.\n\nMAWAQIT Ekosistem je naš vodeći proizvod, a njegova priča počela je 2016. godine, kada je nastala aplikacija za velike ekrane posvećena džamijama, a zatim mobilna aplikacija, dodatak za kućne asistente Alexa skill, itd.\n\nMAWAQIT vam nudi novi način praćenja i upravljanja vremenima molitve. Zapravo, nudimo sveobuhvatan sistem koji moske menadžerima omogućava pristup online alatu dostupnom 24 sata dnevno, koji im pomaže u upravljanju rasporedima, vestima o džamiji i mnogim drugim funkcijama. Vernici, sa svoje strane, imaju mobilnu aplikaciju koja im omogućava da konsultuju tačna, a ne približna vremena molitve u svojoj omiljenoj džamiji, kao i vesti i druge funkcionalnosti kao što su pretraga džamija po geolokaciji, ezan, kibla itd. Pouzdanost i kvalitet su naši glavni principi. Naša ambicija je jasna: izgraditi najbolju uslugu za naše džamije uz pomoć tehnologije i dizajna.\n\nAko vam se dopala ova aplikacija, molimo vas da podelite svoje mišljenje na prodavnici.",
+    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Izaberite vrstu ezana. Ovaj izbor će biti primenjen kao primarni zvučni signal za svaki namaz.",
+    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minuta do ezana",
+    "minutes_to_athan": "minutes to athan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Ovdje možete odabrati vrstu obavijesti: Ezan, bip ili bez zvuka",
+    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Ovdje možete pronaći trajanje između ezana i ikameta u džamiji",
+    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "Preuzimanje nije uspjelo",
     "download_pages": "Preuzmite stranice",
     "notification": "Obavještenja",
-    "notification_not_supported_below_7": "Niste mogli primiti obavještenja o ezanu ili vremenima namaza jer vaš uređaj koristi Android 7 ili stariju verziju.",
+    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "Optimizacija baterije",
     "battery_optimization_subtitle": "Da biste bez problema primali obavještenja o namazu, morate isključiti optimizaciju baterije za MAWAQIT.",
     "allow": "Dozvoli",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "Ne možemo predložiti najbližu džamiju jer je pristup lokaciji odbijen. Molimo pretražite džamiju ili omogućite dozvolu za lokaciju.",
     "location": "Lokacija",
     "stop": "Zaustavi",
-    "plays_adhan_prayer_arrives": "Pušta ezan kada nastupi vrijeme namaza",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "Reproduciraj u tihom načinu",
     "notifications_not_arriving": "Obavijesti ne stižu?",
     "android_phones_aggressively": "Neki Android telefoni agresivno zatvaraju aplikacije u pozadini.",
@@ -1600,8 +1600,8 @@
     "general": "Opće",
     "prayer_location": "Namaz i Lokacija",
     "privacy": "Privatnost",
-    "play_full_adhan": "Reproduciraj cijeli ezan",
-    "full_adhan_will_keep_repeating": "Cijeli ezan će se ponavljati dok ga ne zatvorite.",
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Perzijski",
     "mawaqit_non_profit": "MAWAQIT neprofitna organizacija · besplatna za sve",
