@@ -137,7 +137,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get settings_AboutUsText =>
-      'This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.';
+      'Это приложение разработано ассоциацией MAWAQIT.\n\nАссоциация MAWAQIT — это некоммерческая организация, созданная в 2021 году во Франции.\nНаша цель – разработка инновационных решений, связанных с ИТ и цифровыми технологиями, таких как программное обеспечение и веб-сайты; обучение работе с цифровыми решениями и ИТ-инструментами.\n\nЭкосистема MAWAQIT – это наш флагманский продукт, история которого началась в 2016 году с приложения для больших экранов, посвящённого мечетям, затем появилось полноценное мобильное приложение, позволяющее быть в курсе точного времени молитвы, а также находить близлежайщие мечети и связанную с ними информацию. Наша цель ясна: создать наилучший сервис для мечетей благодаря технологиям и дизайнерским решениям.\n\nЕсли вам понравилось это приложение, то, пожалуйста, оставьте свой отзыв в магазине приложений.';
 
   @override
   String get fajr => 'Фаджр';
@@ -3126,7 +3126,7 @@ class AppLocalizationsRu extends AppLocalizations {
       'Требуется разрешение на уведомления';
 
   @override
-  String get enable_location => 'Enable Location';
+  String get enable_location => 'Включить геолокацию';
 
   @override
   String get enable_notifications => 'Включить уведомления';
@@ -3143,11 +3143,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get manage_mosque => 'Управление мечетью';
 
   @override
-  String get how_managing_your_mosque => 'How is managing your mosque going?';
+  String get how_managing_your_mosque => 'Как вы управляете своей мечетью?';
 
   @override
   String get rating_helps_improve_admin =>
-      'Your rating helps us improve the admin area.';
+      'Ваш рейтинг помогает нам улучшить область администрирования.';
 
   @override
   String get tell_us_more => 'Tell us more (optional)';

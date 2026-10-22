@@ -528,7 +528,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.'**
+  /// **'Choose a type of Adhan. This choice will be applied in every prayer that has the Adhan notification.'**
   String get adhan_type;
 
   /// _
@@ -1260,7 +1260,7 @@ abstract class AppLocalizations {
   /// minutes to athan
   ///
   /// In en, this message translates to:
-  /// **'minutes to athan'**
+  /// **'minutes to Adhan'**
   String get minutes_to_athan;
 
   /// _
@@ -1314,7 +1314,7 @@ abstract class AppLocalizations {
   /// \
   ///
   /// In en, this message translates to:
-  /// **'Here you can select a type of notification, Athan, bip or silent'**
+  /// **'Here you can select a type of notification: Adhan, beep or silent'**
   String get tutorial_text_notification;
 
   /// _
@@ -1374,7 +1374,7 @@ abstract class AppLocalizations {
   /// _
   ///
   /// In en, this message translates to:
-  /// **'Here you find the duration between adhan and iqama at the mosque'**
+  /// **'Here you find the duration between Adhan and Iqama at the mosque'**
   String get tutorial_text_iqama;
 
   /// _
@@ -2064,7 +2064,7 @@ abstract class AppLocalizations {
   /// No description provided for @notification_not_supported_below_7.
   ///
   /// In en, this message translates to:
-  /// **'You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.'**
+  /// **'You could not receive Adhan or prayer times notifications as your device uses Android 7 or lower.'**
   String get notification_not_supported_below_7;
 
   /// No description provided for @battery_optimization.
@@ -4906,7 +4906,7 @@ abstract class AppLocalizations {
   /// No description provided for @plays_adhan_prayer_arrives.
   ///
   /// In en, this message translates to:
-  /// **'Plays the adhan when prayer time arrives'**
+  /// **'Plays the Adhan when prayer time arrives'**
   String get plays_adhan_prayer_arrives;
 
   /// No description provided for @play_in_silent_mode.
@@ -4978,13 +4978,13 @@ abstract class AppLocalizations {
   /// No description provided for @play_full_adhan.
   ///
   /// In en, this message translates to:
-  /// **'Play full adhan'**
+  /// **'Play full Adhan'**
   String get play_full_adhan;
 
   /// No description provided for @full_adhan_will_keep_repeating.
   ///
   /// In en, this message translates to:
-  /// **'Full adhan will keep repeating until you close it.'**
+  /// **'Full Adhan will keep repeating until you close it.'**
   String get full_adhan_will_keep_repeating;
 
   /// No description provided for @hussein_taji_kal_dari.
