@@ -650,7 +650,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'یہاں آپ مسجد میں اذان اور اقامت کے درمیان کا دورانیہ دیکھ سکتے ہیں۔';
+      'یہاں آپ مسجد میں اذان اور اقامت کے درمیان کا دورانیہ دیکھ سکتے ہیں';
 
   @override
   String get calendar_tooltip_download => 'کیلنڈر ڈاؤن لوڈ کریں۔';
