@@ -1,5 +1,5 @@
 {
-    "@@locale": "fa_AF",
+    "@@locale": "fa-AF",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "این برنامه توسط انجمن MAWAQIT توسعه داده شده است.\n\nانجمن MAWAQIT یک سازمان غیرانتفاعی است که در سال ۲۰۲۱ در فرانسه تأسیس شد. هدف ما توسعه راه‌حل‌های نوآورانه در زمینه فناوری اطلاعات و فناوری دیجیتال، مانند نرم‌افزارها و وب‌سایت‌ها، و همچنین آموزش و تربیت در زمینه راه‌حل‌های دیجیتال و ابزارهای IT است.\n\nاکوسیستم MAWAQIT محصول اصلی ما است و داستان آن از سال ۲۰۱۶ آغاز شد، با یک برنامه برای صفحه‌نمایش‌های بزرگ مختص مساجد، سپس یک اپلیکیشن موبایل، افزونه دستیار خانگی و مهارت الکسا، و غیره.\n\nMAWAQIT راهی جدید برای پیگیری و مدیریت اوقات نماز به شما ارائه می‌دهد. در واقع، ما یک سیستم جامع فراهم می‌آوریم که به مدیران مساجد ابزاری آنلاین و در دسترس ۲۴ ساعته ارائه می‌دهد تا بتوانند برنامه‌ها، اخبار مساجد و بسیاری ویژگی‌های دیگر را مدیریت کنند. از سوی دیگر، مومنان از طریق یک اپلیکیشن موبایل می‌توانند برنامه‌های دقیق نه تقریبی مسجد مورد علاقه خود را مشاهده کرده و از اخبار و سایر امکانات مانند جستجوی مسجد با استفاده از موقعیت مکانی، اذان، قبله و غیره بهره‌مند شوند. ما قابلیت اطمینان و کیفیت را به عنوان ارزش‌های اصلی خود قرار داده‌ایم. هدف ما روشن است: ساخت بهترین خدمت برای مساجد با استفاده از فناوری و طراحی.\n\nاگر از این برنامه خوشتان آمده است، لطفاً نظر خود را در فروشگاه مربوطه به اشتراک بگذارید.",
+    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "نوع اذان را انتخاب کنید. این انتخاب برای تمام نمازهایی که اعلان اذان دارند، اعمال خواهد شد.",
+    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "دقایق مانده تا اذان",
+    "minutes_to_athan": "minutes to athan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "اینجا می‌توانید نوع اعلان را انتخاب کنید: اذان، بوق یا بی‌صدا",
+    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید",
+    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "بارگیری ناموفق بود",
     "download_pages": "صفحات را دانلود کنید",
     "notification": "اعلان",
-    "notification_not_supported_below_7": "شما نمی‌توانید اعلان‌های اذان یا اوقات نماز را دریافت کنید زیرا دستگاه شما از اندروید ۷ یا نسخه‌های پایین‌تر استفاده می‌کند.",
+    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "بهینه‌سازی مصرف باتری",
     "battery_optimization_subtitle": "برای دریافت بدون مشکل اعلان‌های نماز، باید بهینه‌سازی باتری برای مواقیت را خاموش کنید.",
     "allow": "اجازه دادن",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "ما نمی‌توانیم نزدیک‌ترین مسجد را پیشنهاد کنیم زیرا دسترسی به موقعیت مکانی رد شده است. لطفاً یک مسجد را جستجو کنید یا اجازه موقعیت را فعال کنید.",
     "location": "Location",
     "stop": "Stop",
-    "plays_adhan_prayer_arrives": "Plays the Adhan when prayer time arrives",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "Play in silent mode",
     "notifications_not_arriving": "Notifications not arriving?",
     "android_phones_aggressively": "Some Android phones aggressively close apps in the background.",
@@ -1600,8 +1600,8 @@
     "general": "General",
     "prayer_location": "Prayer & Location",
     "privacy": "Privacy",
-    "play_full_adhan": "Play full Adhan",
-    "full_adhan_will_keep_repeating": "Full Adhan will keep repeating until you close it.",
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Persian",
     "mawaqit_non_profit": "MAWAQIT non-profit organization · free for everyone",
