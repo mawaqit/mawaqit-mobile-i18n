@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "เลือกประเภทของอะซาน การเลือกนี้จะถูกนำไปใช้กับทุกการละหมาดที่มีการแจ้งเตือนอะซาน",
+    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "นาทีถึงอาธาน",
+    "minutes_to_athan": "minutes to athan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "ที่นี่คุณสามารถเลือกประเภทการแจ้งเตือนได้ ไม่ว่าจะเป็นเสียงอะซาน เสียงบี๊บ หรือแบบเงียบ",
+    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "ที่นี่คุณจะพบระยะเวลาระหว่างอะซานและอิกอมะฮ์ที่มัสยิด",
+    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "การดาวน์โหลดล้มเหลว",
     "download_pages": "ดาวน์โหลดหน้า",
     "notification": "การแจ้งเตือน",
-    "notification_not_supported_below_7": "คุณจะไม่สามารถรับการแจ้งเตือนเกี่ยวกับอะซานหรือเวลาละหมาดได้ เนื่องจากอุปกรณ์ของคุณใช้ระบบปฏิบัติการ Android 7 หรือต่ำกว่า",
+    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "การปรับแต่งแบตเตอรี่",
     "battery_optimization_subtitle": "เพื่อรับการแจ้งเตือนละหมาดอย่างต่อเนื่อง คุณต้องปิดการปรับแต่งแบตเตอรี่สำหรับ MAWAQIT",
     "allow": "อนุญาต",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "เราไม่สามารถแนะนำมัสยิดที่ใกล้ที่สุดได้ เนื่องจากการเข้าถึงตำแหน่งถูกปฏิเสธ กรุณาค้นหามัสยิดหรือเปิดใช้งานการอนุญาตตำแหน่ง",
     "location": "ที่ตั้ง",
     "stop": "หยุด",
-    "plays_adhan_prayer_arrives": "มีเสียงอะซานดังขึ้นเมื่อถึงเวลาละหมาด",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "เล่นในโหมดเงียบ",
     "notifications_not_arriving": "ไม่ได้รับการแจ้งเตือนใช่ไหม?",
     "android_phones_aggressively": "โทรศัพท์ Android บางรุ่นปิดแอปที่ทำงานอยู่เบื้องหลังอย่างรวดเร็วและรุนแรง",
@@ -1600,8 +1600,8 @@
     "general": "General",
     "prayer_location": "Prayer & Location",
     "privacy": "Privacy",
-    "play_full_adhan": "เล่นอะซานครบทั้งหมด",
-    "full_adhan_will_keep_repeating": "อะซานครบทั้งหมดจะเล่นซ้ำไปเรื่อย ๆ จนกว่าคุณจะปิด",
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it.",
     "hussein_taji_kal_dari": "ฮุสเซน ทาจี คาล ดารี",
     "settings_language_fa": "ภาษาเปอร์เซีย",
     "mawaqit_non_profit": "MAWAQIT non-profit organization · free for everyone",
