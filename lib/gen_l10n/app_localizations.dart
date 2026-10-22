@@ -5074,7 +5074,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_adminTileSubtitle.
   ///
   /// In en, this message translates to:
-  /// **'Announcements, prayer settings and adhan'**
+  /// **'Announcements, prayer settings and Adhan'**
   String get admin_adminTileSubtitle;
 
   /// No description provided for @admin_signInHeadline.
@@ -5104,7 +5104,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_capabilityAdhan.
   ///
   /// In en, this message translates to:
-  /// **'Choose the adhan and how it plays'**
+  /// **'Choose the Adhan and how it plays'**
   String get admin_capabilityAdhan;
 
   /// No description provided for @admin_notAnAdminTitle.
@@ -5224,7 +5224,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_sectionAdhan.
   ///
   /// In en, this message translates to:
-  /// **'Al-Athan'**
+  /// **'Adhan'**
   String get admin_sectionAdhan;
 
   /// No description provided for @admin_sectionIqama.
@@ -5380,7 +5380,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_adhanDurationHelp.
   ///
   /// In en, this message translates to:
-  /// **'This sound stops before the adhan does, so the screen needs to know how long your muezzin takes.'**
+  /// **'This sound stops before the Adhan does, so the screen needs to know how long your muezzin takes.'**
   String get admin_adhanDurationHelp;
 
   /// No description provided for @admin_customAdhanFile.
@@ -5428,7 +5428,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_duaAfterAdhan.
   ///
   /// In en, this message translates to:
-  /// **'Duaa after adhan'**
+  /// **'Duaa after Adhan'**
   String get admin_duaAfterAdhan;
 
   /// No description provided for @admin_duaAfterPrayer.
@@ -5476,7 +5476,7 @@ abstract class AppLocalizations {
   /// No description provided for @admin_summaryDuaAdhan.
   ///
   /// In en, this message translates to:
-  /// **'After adhan'**
+  /// **'After Adhan'**
   String get admin_summaryDuaAdhan;
 
   /// No description provided for @admin_summaryDuaPrayer.

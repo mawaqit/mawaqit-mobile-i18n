@@ -2604,7 +2604,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get admin_adminTileSubtitle =>
-      'Announcements, prayer settings and adhan';
+      'Announcements, prayer settings and Adhan';
 
   @override
   String get admin_signInHeadline => 'Manage your mosque';
@@ -2621,7 +2621,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get admin_capabilityTimes => 'Set iqama, jumua and Eid times';
 
   @override
-  String get admin_capabilityAdhan => 'Choose the adhan and how it plays';
+  String get admin_capabilityAdhan => 'Choose the Adhan and how it plays';
 
   @override
   String get admin_notAnAdminTitle => 'Not an admin yet?';
@@ -2685,7 +2685,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get admin_sectionRegional => 'Regional settings';
 
   @override
-  String get admin_sectionAdhan => 'Al-Athan';
+  String get admin_sectionAdhan => 'Adhan';
 
   @override
   String get admin_sectionIqama => 'Iqama';
@@ -2768,7 +2768,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get admin_adhanDurationHelp =>
-      'This sound stops before the adhan does, so the screen needs to know how long your muezzin takes.';
+      'This sound stops before the Adhan does, so the screen needs to know how long your muezzin takes.';
 
   @override
   String admin_customAdhanFile(String name) {
@@ -2796,7 +2796,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get admin_duasHadiths => 'HADITHS';
 
   @override
-  String get admin_duaAfterAdhan => 'Duaa after adhan';
+  String get admin_duaAfterAdhan => 'Duaa after Adhan';
 
   @override
   String get admin_duaAfterPrayer => 'Invocations after prayer';
@@ -2821,7 +2821,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get admin_duasAllOff => 'All off';
 
   @override
-  String get admin_summaryDuaAdhan => 'After adhan';
+  String get admin_summaryDuaAdhan => 'After Adhan';
 
   @override
   String get admin_summaryDuaPrayer => 'After prayer';

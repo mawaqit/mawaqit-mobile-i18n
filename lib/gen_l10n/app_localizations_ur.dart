@@ -586,7 +586,7 @@ class AppLocalizationsUr extends AppLocalizations {
   String get favorites_edit => 'پسندیدہ مساجد میں ترمیم کریں۔';
 
   @override
-  String get minutes_to_athan => 'اتھن کے لیے منٹ';
+  String get minutes_to_athan => 'منٹ میں اذان';
 
   @override
   String get show_tutorial => 'ٹیوٹوریل کا جائزہ لیں۔';
@@ -616,7 +616,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'یہاں آپ نوٹیفکیشن کی ایک قسم، ایتھن، بِپ یا خاموش منتخب کر سکتے ہیں۔';
+      'یہاں آپ نوٹیفکیشن کی قسم منتخب کر سکتے ہیں: اذان، بیپ یا خاموش';
 
   @override
   String get search_no_result =>

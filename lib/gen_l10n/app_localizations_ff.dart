@@ -2522,7 +2522,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Plays the adhan when prayer time arrives';
+      'Plays the Adhan when prayer time arrives';
 
   @override
   String get play_in_silent_mode => 'Play in silent mode';
@@ -2560,11 +2560,11 @@ class AppLocalizationsFf extends AppLocalizations {
   String get privacy => 'Privacy';
 
   @override
-  String get play_full_adhan => 'Play full adhan';
+  String get play_full_adhan => 'Play full Adhan';
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Full adhan will keep repeating until you close it.';
+      'Full Adhan will keep repeating until you close it.';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
@@ -2614,7 +2614,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get admin_adminTileSubtitle =>
-      'Announcements, prayer settings and adhan';
+      'Announcements, prayer settings and Adhan';
 
   @override
   String get admin_signInHeadline => 'Manage your mosque';
@@ -2631,7 +2631,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get admin_capabilityTimes => 'Set iqama, jumua and Eid times';
 
   @override
-  String get admin_capabilityAdhan => 'Choose the adhan and how it plays';
+  String get admin_capabilityAdhan => 'Choose the Adhan and how it plays';
 
   @override
   String get admin_notAnAdminTitle => 'Not an admin yet?';
@@ -2695,7 +2695,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get admin_sectionRegional => 'Regional settings';
 
   @override
-  String get admin_sectionAdhan => 'Al-Athan';
+  String get admin_sectionAdhan => 'Adhan';
 
   @override
   String get admin_sectionIqama => 'Iqama';
@@ -2778,7 +2778,7 @@ class AppLocalizationsFf extends AppLocalizations {
 
   @override
   String get admin_adhanDurationHelp =>
-      'This sound stops before the adhan does, so the screen needs to know how long your muezzin takes.';
+      'This sound stops before the Adhan does, so the screen needs to know how long your muezzin takes.';
 
   @override
   String admin_customAdhanFile(String name) {
@@ -2806,7 +2806,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get admin_duasHadiths => 'HADITHS';
 
   @override
-  String get admin_duaAfterAdhan => 'Duaa after adhan';
+  String get admin_duaAfterAdhan => 'Duaa after Adhan';
 
   @override
   String get admin_duaAfterPrayer => 'Invocations after prayer';
@@ -2831,7 +2831,7 @@ class AppLocalizationsFf extends AppLocalizations {
   String get admin_duasAllOff => 'All off';
 
   @override
-  String get admin_summaryDuaAdhan => 'After adhan';
+  String get admin_summaryDuaAdhan => 'After Adhan';
 
   @override
   String get admin_summaryDuaPrayer => 'After prayer';
