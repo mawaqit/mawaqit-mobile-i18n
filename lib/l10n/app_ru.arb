@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
+    "settings_AboutUsText": "Это приложение разработано ассоциацией MAWAQIT.\n\nАссоциация MAWAQIT — это некоммерческая организация, созданная в 2021 году во Франции.\nНаша цель – разработка инновационных решений, связанных с ИТ и цифровыми технологиями, таких как программное обеспечение и веб-сайты; обучение работе с цифровыми решениями и ИТ-инструментами.\n\nЭкосистема MAWAQIT – это наш флагманский продукт, история которого началась в 2016 году с приложения для больших экранов, посвящённого мечетям, затем появилось полноценное мобильное приложение, позволяющее быть в курсе точного времени молитвы, а также находить близлежайщие мечети и связанную с ними информацию. Наша цель ясна: создать наилучший сервис для мечетей благодаря технологиям и дизайнерским решениям.\n\nЕсли вам понравилось это приложение, то, пожалуйста, оставьте свой отзыв в магазине приложений.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -1839,13 +1839,13 @@
     "for_mosque_administrators_only": "Только для администраторов мечетей MAWAQIT'",
     "admins_only": "Только админы",
     "notification_permission_required": "Требуется разрешение на уведомления",
-    "enable_location": "Enable Location",
+    "enable_location": "Включить геолокацию",
     "enable_notifications": "Включить уведомления",
     "notifications_required_for_adhan": "Необходимо включить уведомления, чтобы MAWAQIT мог воспроизводить азан и отправлять уведомления о времени молитв.",
     "location_required_for_prayer_times": "Местоположение необходимо для получения точного времени молитв, информации о мечетях и обновлений погоды.",
     "manage_mosque": "Управление мечетью",
-    "how_managing_your_mosque": "How is managing your mosque going?",
-    "rating_helps_improve_admin": "Your rating helps us improve the admin area.",
+    "how_managing_your_mosque": "Как вы управляете своей мечетью?",
+    "rating_helps_improve_admin": "Ваш рейтинг помогает нам улучшить область администрирования.",
     "tell_us_more": "Tell us more (optional)",
     "what_worked_well": "What worked well, what did not?",
     "thank_you_for_your_feedback": "Thank you for your feedback.",
