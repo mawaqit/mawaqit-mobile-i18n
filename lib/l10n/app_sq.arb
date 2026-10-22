@@ -122,7 +122,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "Ky aplikacion është zhvilluar nga shoqata MAWAQIT.\n\nShoqata MAWAQIT është një organizatë jofitimprurëse e krijuar në vitin 2021 në Francë.\nObjektivi ynë është zhvillimi i zgjidhjeve inovative në lidhje me IT dhe teknologjinë dixhitale si softuerët dhe faqet e internetit; mësim dhe trajnim në zgjidhjet dixhitale dhe mjetet e TI-së.\n\nEkosistemi MAWAQIT është produkti ynë kryesor dhe historia e tij filloi në vitin 2016, me një aplikacion në ekrane të mëdha kushtuar xhamive, më pas një aplikacion celular, një shtesë për ndihmës në shtëpi dhe një aftësi Alexa, etj.\n\nMAWAQIT ju ofron një mënyrë të re për të gjurmuar dhe menaxhuar kohët e namazit, në fakt ne ofrojmë një sistem nga fundi në fund që u ofron menaxherëve të xhamive një mjet në internet të disponueshëm 24/24 orë duke i lejuar ata të menaxhojnë oraret, lajmet e xhamisë dhe shumë veçori të tjera. Besimtarët, nga ana e tyre, përfitojnë nga një aplikacion celular i cili u lejon atyre të konsultojnë oraret e sakta dhe jo të përafërta të xhamisë së tyre të preferuar, si dhe lajmet dhe funksionalitetet e tjera si kërkimi i një xhamie sipas vendndodhjes gjeografike, ezanit, kibla. ... etj. Ne i kemi bërë vlerat tona kryesore besueshmërinë dhe cilësinë. Ambicia jonë është e qartë: të ndërtojmë shërbimin më të mirë për xhamitë tona falë teknologjisë dhe dizajnit.\n\nNëse ju pëlqeu ky aplikacion, ju lutemi jepni mendimin tuaj në dyqan.",
+    "settings_AboutUsText": "This application is developed by the MAWAQIT association.\n\nThe MAWAQIT association is a non-profit organization created in 2021 in France.\nOur objective is the development of innovative solutions related to IT and digital technology such as software and websites; teach and train in digital solutions and IT tools.\n\nThe MAWAQIT Ecosystem is our flagship product and its story began in 2016, with an application on large screens dedicated to mosques, then a mobile app, a home-assistant add-on and an alexa skill, etc.\n\nMAWAQIT offers you a new way to track and manage prayer times, in fact we offer an end-to-end system that offers mosque managers an online tool available 24 / 24h allowing them to manage timetables, news of the mosque and many other features. The faithful, for their part, benefit from a mobile application which allows them to consult the exact and not approximate timetables of their favorite mosque, as well as the news and other functionalities such as the search for a mosque by geolocation, the adhan, the qibla. ... etc. We have made reliability and quality our main values. Our ambition is clear: to build the best service for our mosques thanks to technology and design.\n\nIf you liked this application, please give your opinion on the store.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -208,7 +208,7 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Zgjidhni një lloj ezani. Kjo zgjedhje do të zbatohet në çdo namaz që ka njoftimin e ezanit.",
+    "adhan_type": "Choose a type of adhan. This choice will be applied in every prayer that has the adhan notification.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minuta deri në ezan",
+    "minutes_to_athan": "minutes to athan",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -631,7 +631,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Këtu mund të zgjidhni një lloj njoftimi, Ezan, bip ose heshtur",
+    "tutorial_text_notification": "Here you can select a type of notification, Athan, bip or silent",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Këtu gjeni kohëzgjatjen ndërmjet ezanit dhe ikames në xhami",
+    "tutorial_text_iqama": "Here you find the duration between adhan and iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -824,7 +824,7 @@
     "download_failed": "Shkarkimi dështoi",
     "download_pages": "Shkarkoni faqet",
     "notification": "Njoftime",
-    "notification_not_supported_below_7": "Nuk mund të merrni njoftime për Ezan ose kohët e namazit pasi pajisja juaj përdor Android 7 ose më e ulët.",
+    "notification_not_supported_below_7": "You could not receive Athan or prayer times notifications as your device uses Android 7 or lower.",
     "battery_optimization": "Optimizimi i baterisë",
     "battery_optimization_subtitle": "Për të marrë njoftimet e namazit pa probleme, duhet të çaktivizoni optimizimin e baterisë për MAWAQIT.",
     "allow": "Lejo",
@@ -1582,7 +1582,7 @@
     "search_for_mosque_or_enable_location": "Nuk mund të sugjerojmë xhaminë më të afërt sepse qasja në vendndodhje është refuzuar. Ju lutemi kërkoni një xhami ose aktivizoni lejen e vendndodhjes.",
     "location": "Vendndodhja",
     "stop": "Ndalo",
-    "plays_adhan_prayer_arrives": "Luajn ezanin kur hyn koha e namazit",
+    "plays_adhan_prayer_arrives": "Plays the adhan when prayer time arrives",
     "play_in_silent_mode": "Luaj në modalitetin pa zë",
     "notifications_not_arriving": "Njoftimet nuk po vijnë?",
     "android_phones_aggressively": "Disa telefona Android i mbyllin aplikacionet në sfond në mënyrë agresive.",
@@ -1600,8 +1600,8 @@
     "general": "Të përgjithshme",
     "prayer_location": "Namazi dhe Vendndodhja",
     "privacy": "Privatësia",
-    "play_full_adhan": "Luaj ezanin e plotë",
-    "full_adhan_will_keep_repeating": "Ezani i plotë do të vazhdojë të përsëritet derisa ta mbyllni.",
+    "play_full_adhan": "Play full adhan",
+    "full_adhan_will_keep_repeating": "Full adhan will keep repeating until you close it.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Persisht",
     "mawaqit_non_profit": "MAWAQIT organizatë jofitimprurëse · falas për të gjithë",
