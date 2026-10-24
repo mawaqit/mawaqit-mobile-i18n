@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Här ser du tiden mellan adhan och iqama i moskén",
+    "tutorial_text_iqama": "Här ser du hur lång tid det är mellan Adhan och Iqama i moskén.",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -1604,7 +1604,7 @@
     "full_adhan_will_keep_repeating": "Hela adhan uppspelningen upprepas tills du stänger av den.",
     "hussein_taji_kal_dari": "Hussein Taji kal dari",
     "settings_language_fa": "Persiska",
-    "mawaqit_non_profit": "MAWAQIT ideell organisation · gratis för alla",
+    "mawaqit_non_profit": "MAWAQIT är en ideell organisation – gratis för alla.",
     "garmin_watch_detected": "Garmin-klocka upptäckt",
     "garmin_support_detected": "Garmin-stöd har upptäckts på din enhet. Vill du synkronisera bönetiderna med din Garmin-klocka?",
     "never_remind_me": "Påminn mig aldrig ",
@@ -1614,7 +1614,7 @@
     "setup_garmin_watch": "Konfigurera Garmin-klocka",
     "sync_prayer_times_garmin": "Synkronisera bönetider med din Garmin-klocka",
     "setup_garmin": "Konfigurera Garmin",
-    "open_garmin_device_selection": "Öppna val av Garmin-enhet",
+    "open_garmin_device_selection": "Öppna valet av Garmin-enhet",
     "admin_adminTitle": "Moskéadministration",
     "admin_adminTileSubtitle": "Meddelanden, bön inställningar och adhan",
     "admin_signInHeadline": "Hantera din moské",
@@ -1667,7 +1667,7 @@
     "admin_iqamaCalendarNote": "Iqama tider som satts via kalendern förblir oförändrade — ändra dem på webbplatsen.",
     "admin_eidPrayerTimes": "TIDER FÖR EID BÖNEN",
     "admin_ramadanImsak": "RAMADAN",
-    "admin_eidPrayerHelp": "Visas på moskéskärmen veckan före Eid. Lämna en bön utan tid om den inte hålls.",
+    "admin_eidPrayerHelp": "Visas på moskéns skärm under veckan före Eid. Lämna bönetiden tom om bönen inte hålls.",
     "admin_imsakBeforeFajr": "Visa imsak före Fajr",
     "admin_imsakHelp": "Hur tidigt imsak visas. Med Fajr 04:00 och 30 minuter här visar skärmen 03:30.",
     "admin_imsakOff": "Av",
