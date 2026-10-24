@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Aqui encontra a duração entre azan e iqama na mesquita",
+    "tutorial_text_iqama": "Here you find the duration between Adhan and Iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
