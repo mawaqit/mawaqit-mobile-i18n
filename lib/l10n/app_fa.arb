@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید",
+    "tutorial_text_iqama": "Here you find the duration between Adhan and Iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
