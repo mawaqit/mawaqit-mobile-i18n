@@ -647,7 +647,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Här ser du tiden mellan adhan och iqama i moskén';
+      'Här ser du hur lång tid det är mellan Adhan och Iqama i moskén.';
 
   @override
   String get calendar_tooltip_download => 'Laddar ned kalender';
@@ -2564,7 +2564,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get mawaqit_non_profit =>
-      'MAWAQIT ideell organisation · gratis för alla';
+      'MAWAQIT är en ideell organisation – gratis för alla.';
 
   @override
   String get garmin_watch_detected => 'Garmin-klocka upptäckt';
@@ -2597,7 +2597,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get setup_garmin => 'Konfigurera Garmin';
 
   @override
-  String get open_garmin_device_selection => 'Öppna val av Garmin-enhet';
+  String get open_garmin_device_selection => 'Öppna valet av Garmin-enhet';
 
   @override
   String get admin_adminTitle => 'Moskéadministration';
@@ -2744,7 +2744,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get admin_eidPrayerHelp =>
-      'Visas på moskéskärmen veckan före Eid. Lämna en bön utan tid om den inte hålls.';
+      'Visas på moskéns skärm under veckan före Eid. Lämna bönetiden tom om bönen inte hålls.';
 
   @override
   String get admin_imsakBeforeFajr => 'Visa imsak före Fajr';

@@ -648,7 +648,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Tutaj znajdziesz czas między Adanem a Iqamą w meczecie';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Pobierz kalendarz';

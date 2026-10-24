@@ -653,7 +653,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Hier vind je de tijdsduur tussen adhan en iqama bij de moskee';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Kalender downloaden';

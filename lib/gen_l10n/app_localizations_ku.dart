@@ -652,7 +652,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'لێرە ماوەی نێوان بانگ و قامەت لە مزگەوتەکە دەدۆزیتەوە';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'داگرتنی خشتە';

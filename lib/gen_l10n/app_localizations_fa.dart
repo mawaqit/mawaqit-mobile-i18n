@@ -651,7 +651,7 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'دانلود تقویم';
@@ -4013,7 +4013,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get tutorial_text_iqama =>
-      'مدت زمان بین اذان و اقامه در مسجد را می‌توانید اینجا مشاهده کنید';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'دانلود تقویم';

@@ -647,7 +647,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'بۇ جايدا مەسچىتتىكى ئەزان بىلەن تەكبىر ئارىسىدا داۋاملىشىدىغان ۋاقىتنى تاللىيالايسىز';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'چۈشۈرۈلگەن يىلنامە';

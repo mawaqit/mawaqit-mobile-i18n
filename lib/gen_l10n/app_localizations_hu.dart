@@ -656,7 +656,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Naptár letöltése';

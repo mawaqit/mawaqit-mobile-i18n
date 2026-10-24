@@ -652,7 +652,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Ovdje možete pronaći trajanje između ezana i ikameta u džamiji';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Preuzmi Takvim';
