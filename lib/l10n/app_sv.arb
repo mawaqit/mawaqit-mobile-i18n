@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -230,7 +230,7 @@
     },
     "search_TryParis": "Prova ”Paris”, ”Essalam” osv.",
     "search_ByGPS": "Sök med GPS",
-    "search_HelpText": "Du kan söka efter en moské genom:\n\n- Moskéns namn\n- Föreningens namn\n- Stad, adress, land osv.\n\nEller använd platsknappen för att hitta moskéer i närheten.",
+    "search_HelpText": "Du kan söka efter en moské genom:\n- Moskéns namn\n- Föreningens namn\n- Stad, adress, land osv.\n\nEller använd platsknappen för att hitta moskéer i närheten.",
     "search_MaxFavMosquesReached": "Du har nått det maximala antalet favoritmoskéer.",
     "search_iOs14_message": "Sökning med GPS kan ta lite tid, med iOS 14 vänligen vänta.",
     "search_error": "Ett internt fel uppstod",
@@ -240,13 +240,13 @@
     "no_services_text": "Moskén har inte angett denna information",
     "welcome": "Välkommen till",
     "mawaqit": "MAWAQIT",
-    "connecting": "Sammanför muslimer",
+    "connecting": "Förbinder muslimer ",
     "to_mosques": "Till moskéer",
     "get_started": "Kom igång",
     "get_prayer_notifications_for": "Få bön påminnelser för",
     "turn_on_notifications": "Aktivera bön påminnelser",
     "no_thanks": "Nej tack",
-    "notification_denied": "Du har nekat appen åtkomst till aviseringar, så inga aviseringar kommer att skickas.",
+    "notification_denied": "Du har nekat tillstånd för notiser och kommer därför inte att få några notiser.",
     "at_least_one_mosque": "Lägg till minst en moské för att fortsätta",
     "set_up_your_prayer": "Ställ in bön aviseringar",
     "notifications": "Notiser",
@@ -346,7 +346,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "Donera till moskén",
+    "mosque_DonateText1": "Donera ",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
@@ -356,7 +356,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Kunde inte öppna sidan",
+    "mosque_Error_CouldNotLaunch": "Kunde inte startas",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
@@ -376,7 +376,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Phone": "Telefon",
+    "mosque_Phone": "Telefon ",
     "@mosque_Phone": {
         "description": "_",
         "type": "text"
@@ -421,7 +421,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlAid": "Eidbön",
+    "mosque_Facilities_SalatAlAid": "Eidbön ",
     "@mosque_Facilities_SalatAlAid": {
         "description": "_",
         "type": "text"
@@ -436,7 +436,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_facilities_Info": "Informationen har lagts till av moskéns ansvariga",
+    "mosque_facilities_Info": "All denna information fylls i av de ansvariga för moskén.",
     "@mosque_facilities_Info": {
         "description": "_",
         "type": "text"
@@ -476,7 +476,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Hoppa över guiden",
+    "tutorial_skip": "Hoppa över introduktionen",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Här visas meddelanden och information från din moské. Tryck för att läsa mer.",
+    "tutorial_text_announcements": "Notiser om meddelanden och meddelanden från din moské visas här.\n\nNär du trycker på den här knappen kan du se all information. Dessa meddelanden kan innehålla ett snabbmeddelande, en bild eller till och med en video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -541,12 +541,12 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT gör det enkelt att följa bönetider, hitta moskéer och hålla dig uppdaterad med deras nyheter och information",
+    "onboarding_text_2": "MAWAQIT är ett ekosystem som erbjuder ett nytt sätt att följa och hantera bönetider. Appen du använder är en del av detta ekosystem och gör det möjligt för dig att hitta moskéer, följa deras nyheter och hålla dig uppdaterad om deras bönetider.",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_3": "Välj tema",
+    "onboarding_title_3": "Välj mörkt eller ljust tema",
     "@onboarding_title_3": {
         "description": "_",
         "type": "text"
@@ -576,7 +576,7 @@
         "description": "_",
         "type": "text"
     },
-    "loading_loaded": "Klart",
+    "loading_loaded": "Laddningen är klar ",
     "@loading_loaded": {
         "description": "_",
         "type": "text"
@@ -591,7 +591,7 @@
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Visa guiden",
+    "show_tutorial": "Visa introduktionen igen",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
@@ -1176,7 +1176,7 @@
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "Liveförhandsvisning",
+    "live_preview": "Förhandsvisning i realtid",
     "@live_preview": {
         "description": "-> live_preview"
     },
@@ -1262,7 +1262,7 @@
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Adhkar",
+    "azkar": "Åminnelser",
     "@azkar": {
         "description": "-> azkar"
     },
@@ -1314,7 +1314,7 @@
     "next_prayer": "Nästa bön",
     "live_countdown_for_all_pray": "Live-nedräkning visas automatiskt för alla kommande böner.",
     "live_countdown": "Live nedräkning",
-    "quick_quran_reading_access": "Snabb åtkomst till Koranen",
+    "quick_quran_reading_access": "Snabb åtkomst till Koran läsning ",
     "quick_quran_discription": "När du öppnar Koranen kan du fortsätta där du slutade.",
     "live_activity_tooltip": "Live aktiviteter visas på låsskärmen och i Dynamic Island (om det stöds). När funktionen är aktiverad visas en nedräkning till nästa bön eller iqama.",
     "prayer": "Bön",
@@ -1545,12 +1545,12 @@
     "semantic_for": "För ",
     "semantic_view_style": "Visnings stil",
     "semantic_double_tap_to_change_view_style": "Dubbeltryck för att ändra visningsläge",
-    "semantic_share_dua": "Dela duan",
+    "semantic_share_dua": "Dela Åkallan",
     "semantic_tasbih_settings": "Tasbihinställningar",
     "semantic_tasbih_counter": "Tasbihräknare",
     "semantic_previous_dua": "Föregående dua",
-    "semantic_next_dua": "Nästa dua",
-    "semantic_dua": "Dua",
+    "semantic_next_dua": "Nästa Åkallan",
+    "semantic_dua": "Åkallan",
     "semantic_opens": "Öppna",
     "semantic_opens_language_selection": "Öppnar språkval",
     "semantic_device": "Enhet",
@@ -1649,33 +1649,33 @@
     "admin_configurationSaved": "Konfigurationen sparad",
     "admin_oneUnsavedChange": "1 Osparade ändring",
     "admin_sectionRegional": "Regionala inställningar",
-    "admin_sectionAdhan": "Al Adhan",
+    "admin_sectionAdhan": " Adhan",
     "admin_sectionIqama": "Iqama",
     "admin_sectionJumua": "Fredagsbön ",
     "admin_sectionPrayerDuration": "Bönens längd",
-    "admin_sectionDuas": "Dua och hadither",
-    "admin_sectionEid": "Eid och Ramadan",
+    "admin_sectionDuas": "Åkallan och hadither",
+    "admin_sectionEid": "Ramadan och Eid ",
     "admin_sectionNotYet": "Går inte att ändra i appen än",
     "admin_iqamaEnabled": "Iqama aktiverad",
     "admin_iqamaEnabledHelp": "Om du stänger av detta visas inte heller väntetiderna, iqama signalen eller bönerna efter bönen på moskéskärmen.",
-    "admin_iqamaWaitingTimes": "VÄNTETID EFTER ADHAN (MINUTER)",
-    "admin_iqamaSignal": "IQAMA SIGNAL",
+    "admin_iqamaWaitingTimes": "Vänta tid efter Adhan (minuter)",
+    "admin_iqamaSignal": "Iqama signal ",
     "admin_iqamaSound": "Ljud",
     "admin_iqamaCountdown": "Nedräkning i helskärm",
     "admin_iqamaDisplayTime": "Signalens visningstid",
     "admin_iqamaAlwaysHhMm": "Visa alltid iqama tider som hh:mm",
     "admin_iqamaCalendarNote": "Iqama tider som satts via kalendern förblir oförändrade — ändra dem på webbplatsen.",
-    "admin_eidPrayerTimes": "TIDER FÖR EID BÖNEN",
-    "admin_ramadanImsak": "RAMADAN",
+    "admin_eidPrayerTimes": "Bönetider för Eid",
+    "admin_ramadanImsak": "Ramadan  ",
     "admin_eidPrayerHelp": "Visas på moskéns skärm under veckan före Eid. Lämna bönetiden tom om bönen inte hålls.",
     "admin_imsakBeforeFajr": "Visa imsak före Fajr",
-    "admin_imsakHelp": "Hur tidigt imsak visas. Med Fajr 04:00 och 30 minuter här visar skärmen 03:30.",
+    "admin_imsakHelp": "Ange hur många minuter före Fajr som Imsak ska visas. Om Fajr är kl. 04:00 och du anger 30 minuter, visas Imsak kl. 03:30 på skärmen.",
     "admin_imsakOff": "Av",
     "admin_eidNoPrayerTime": "Ingen bönetid inställd",
     "admin_adhanSoundLabel": "Ljud",
     "admin_adhanPlaysFor": "Spelas för ",
     "admin_adhanDurationLabel": "Adhans längd",
-    "admin_adhanDurationHelp": "Det här ljudet tar slut före adhan, så skärmen behöver veta hur lång tid din bönutroparen  tar på sig.",
+    "admin_adhanDurationHelp": "Det här ljudet slutar spelas upp innan Adhan är avslutat. Därför behöver du ange hur lång tid det tar för moskéns böneutropare att genomföra Adhan.",
     "admin_customAdhanFile": "Uppladdad fil: {name}",
     "@admin_customAdhanFile": {
         "placeholders": {
@@ -1688,11 +1688,11 @@
     "admin_customAdhanMissing": "Ingen fil har laddats upp än – lägg till en på webbplatsen",
     "admin_adhanNoPrayers": "Inga böner",
     "admin_prayerDurationGroup": "Minuter per bön ",
-    "admin_prayerDurationHelp": "Den svarta skärmen under bönen och dua efteråt varar båda så här länge. ",
-    "admin_duasInvocations": "Dua ",
+    "admin_prayerDurationHelp": "Den svarta skärmen under bönen och åkallelserna efter bönen visas under den angivna tiden.",
+    "admin_duasInvocations": "Åkallelser",
     "admin_duasHadiths": "Hadither ",
-    "admin_duaAfterAdhan": "Dua efter Adhan ",
-    "admin_duaAfterPrayer": "Dua efter bönen",
+    "admin_duaAfterAdhan": "Åkallelse efter Adhan ",
+    "admin_duaAfterPrayer": "Åkallelse efter bönen",
     "admin_randomHadith": "Visa en hadith var 5:e minut",
     "admin_hadithSource": "Från Riyad as-Salihin av imam an-Nawawi.",
     "admin_hadithPause": "Pausa mellan",
@@ -1702,14 +1702,14 @@
     "admin_summaryDuaAdhan": "Efter Adhan",
     "admin_summaryDuaPrayer": "Efter bönen",
     "admin_summaryHadiths": "Hadither",
-    "admin_regionalHijri": "HIJRI DATUM",
-    "admin_regionalMosqueScreen": "MOSKÉSKÄRM",
+    "admin_regionalHijri": "Hijri datum ",
+    "admin_regionalMosqueScreen": "Moské skärm ",
     "admin_regionalRegion": "Region  ",
     "admin_timezoneLabel": "Tidszon (ställs in på webbplatsen)",
     "admin_timezoneUnknown": "Okänd",
     "admin_dstLabel": "Sommartid",
-    "admin_dstDatesNote": "Datumen för växlingen mellan sommar- och vintertid förblir oförändrade — ställ in dem på webbplatsen.",
-    "admin_hijriAdjustmentLabel": "Datumjustering",
+    "admin_dstDatesNote": "Datumen för övergången mellan sommar- och vintertid förblir oförändrade – ställ in dem på webbplatsen.",
+    "admin_hijriAdjustmentLabel": "Datum justering",
     "admin_jumuaTimeGroup": "Fredagsböns tid ",
     "admin_jumuaDuringGroup": "Under fredagsbönen ",
     "admin_jumuaSameAsDuhr": "Samma tid som Dhohr",
@@ -1738,7 +1738,7 @@
     "admin_flashDeleted": "Snabbmeddelandet borttaget",
     "admin_tabAnnouncements": "Meddelanden",
     "admin_tabFlash": "Snabbmeddelande",
-    "admin_announcementsEmpty": "Inga meddelanden än.",
+    "admin_announcementsEmpty": "Inga meddelande än",
     "admin_announcementNew": "Nytt meddelande",
     "admin_announcementEdit": "Redigera meddelande",
     "admin_announcementSaved": "Meddelandet sparat",
@@ -1759,8 +1759,8 @@
     "admin_fieldVideo": "YouTube-länk",
     "admin_fieldVideoHint": "https://www.youtube.com/watch?v=",
     "admin_fieldVideoHelp": "Endast YouTube-videor — shorts accepteras inte.",
-    "admin_fieldOrientation": "Skärmorientering",
-    "admin_fieldDuration": "Längd",
+    "admin_fieldOrientation": "Tv Skärmorientering",
+    "admin_fieldDuration": "Varaktighet",
     "admin_fieldIsEvent": "Det här är ett evenemang",
     "admin_fieldStartsAt": "Börjar {date}",
     "@admin_fieldStartsAt": {
@@ -1802,7 +1802,7 @@
     "admin_prayerSlot1": "Första bönen",
     "admin_prayerSlot2": "Andra bönen",
     "admin_prayerSlot3": "Tredje bönen",
-    "admin_minutes": "Min",
+    "admin_minutes": "{count} min",
     "@admin_minutes": {
         "placeholders": {
             "count": {
@@ -1841,8 +1841,8 @@
     "notification_permission_required": "Aviseringsbehörighet krävs",
     "enable_location": "Aktivera platstjänster ",
     "enable_notifications": "Aktivera aviseringar",
-    "notifications_required_for_adhan": "Aviseringar måste vara aktiverade för att MAWAQIT ska kunna spela upp Adhan och skicka bön aviseringar.",
-    "location_required_for_prayer_times": "Plats behövs för att få korrekta bönetider, information om moskéer och väderuppdateringar.",
+    "notifications_required_for_adhan": "Notiser måste vara aktiverade för att MAWAQIT ska kunna spela upp Adhan och skicka bönenotiser.",
+    "location_required_for_prayer_times": "Platsåtkomst behövs för att få korrekta bönetider, information om moskéer och väderuppdateringar.",
     "manage_mosque": "Hantera moské",
     "how_managing_your_mosque": "Hur går det att hantera din moské?",
     "rating_helps_improve_admin": "Ditt omdöme hjälper oss att förbättra admin panelen ",
@@ -1860,16 +1860,16 @@
     "mute_with_volume_buttons": "Stäng av ljudet med volymknapparna",
     "may_allah_reward_you": "Må Allah belöna er med godhet",
     "thank_you_for_your_generosity": "Tack för er generositet",
-    "bluetooth_permission": "Bluetooth-tillåtelse",
+    "bluetooth_permission": "Bluetooth-behörighet",
     "bluetooth_permission_required_garmin": "Krävs för att ansluta och synkronisera med din Garmin-klocka.",
     "bayan_ul_quran_israr_ahmed": "Bayan-ul-Quran (Dr. Israr Ahmed)",
     "dr_abu_bakr_muhammad": "Dr Abu bakr Mohammed Zakaria",
     "maulana_azizul_haque_al_umari": "Maulana Azizul Haque al-Umari",
     "hindi": "Hindi",
-    "adhan_custom_volume_description": "Välj en särskild volymnivå för Adhan. Telefonens ursprungliga volym återställs när Adhan är klar.",
-    "adhan_alarm_channel_description": "Adhan spelas upp via alarmkanalen, så att den kan höras i ljudlöst läge eller vibrationsläge och i Stör ej (DND) när alarm är tillåtna.",
+    "adhan_custom_volume_description": "Välj en separat volymnivå för Adhan. När böneutropet är avslutat återställs telefonens tidigare volymnivå.",
+    "adhan_alarm_channel_description": "Spelar upp Adhan via telefonens alarmkanal, så att böneutropet hörs även när telefonen är i ljudlöst läge eller vibrationsläge, samt när Stör ej är aktiverat (om alarm är tillåtna).",
     "adhan_stop_with_volume_button_description": "Stoppa Adhan direkt genom att trycka på valfri volymknapp på telefonen.",
-    "adhan_audio_interruption_description": "Korta aviseringsljud stoppar inte Adhan. Den stoppas endast om ett telefonsamtal eller en annan app tar över ljudet.",
+    "adhan_audio_interruption_description": "Korta notisljud avbryter inte Adhan. Böneutropet avbryts endast om ett telefonsamtal eller en annan app tar över ljuduppspelningen.",
     "indo_pak": "Indo-Pakistansk",
     "popular_across_south_asia": "Populär i Sydasien",
     "surahs_available": "suror tillgängliga",
@@ -1925,7 +1925,7 @@
             }
         }
     },
-    "repeat_range_play_on_loop": "Spela i slinga",
+    "repeat_range_play_on_loop": "Spela upp kontinuerligt",
     "@repeat_range_play_on_loop": {
         "description": "Main button when repeat is set to infinite"
     },
@@ -1943,7 +1943,7 @@
             }
         }
     },
-    "repeat_range_on_loop": "i slinga",
+    "repeat_range_on_loop": "Upprepas kontinuerligt",
     "@repeat_range_on_loop": {
         "description": "Player chip when the range repeats forever, e.g. '255–257 · on loop'"
     },
@@ -2017,7 +2017,7 @@
             }
         }
     },
-    "semantic_repeat_range_plays_on_loop": "Spelas i slinga",
+    "semantic_repeat_range_plays_on_loop": "Spelas upp kontinuerligt",
     "@semantic_repeat_range_plays_on_loop": {
         "description": "Screen reader value of the repeat counter when infinite"
     },
@@ -2053,7 +2053,7 @@
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
     },
-    "settings_Display": "Visning",
+    "settings_Display": "Skärm ",
     "@settings_Display": {
         "description": "Settings page section header (theme, language, time format)."
     },
@@ -2065,7 +2065,7 @@
     "@settings_ThemeInfo": {
         "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
     },
-    "settings_TimeFormatInfo": "Gäller alla tider i appen, aviseringar och anslutna klockor.",
+    "settings_TimeFormatInfo": "Gäller alla tider i appen, notiser och anslutna smartklockor.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
     }
