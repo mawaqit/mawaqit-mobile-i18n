@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between Adhan and Iqama at the mosque",
+    "tutorial_text_iqama": "Tutaj znajdziesz czas między Adanem a Iqamą w meczecie",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
