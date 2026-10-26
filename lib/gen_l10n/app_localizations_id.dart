@@ -649,7 +649,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Here you find the duration between Adhan and Iqama at the mosque';
+      'Di sini Anda dapat menemukan durasi antara adzan dan iqamah di masjid';
 
   @override
   String get calendar_tooltip_download => 'Unduh kalender';

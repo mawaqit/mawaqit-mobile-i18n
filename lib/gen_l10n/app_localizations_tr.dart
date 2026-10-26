@@ -648,7 +648,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Here you find the duration between Adhan and Iqama at the mosque';
+      'Burada ezan ile camideki Kamet arasındaki süreyi bulabilirsiniz';
 
   @override
   String get calendar_tooltip_download => 'Takvimi indiriniz';
