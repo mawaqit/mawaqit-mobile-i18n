@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "ایپ، اطلاعات اور منسلک گھڑیوں کے تمام اوقات پر لاگو ہوتا ہے۔",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "اذان سے پہلے",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "اشراق سے پہلے",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "آپ کی اطلاعات میں اذان تک الٹی گنتی۔",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "آپ کی اطلاعات میں اشراق تک الٹی گنتی۔",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }
