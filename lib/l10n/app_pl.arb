@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "Dotyczy godzin w aplikacji, powiadomieniach i połączonych zegarkach.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "Przed Adanem",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "Przed wschodem słońca",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "Odliczanie do Adanu w powiadomieniach.",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "Odliczanie do wschodu słońca w powiadomieniach.",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }
