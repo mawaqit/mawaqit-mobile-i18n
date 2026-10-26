@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between Adhan and Iqama at the mosque",
+    "tutorial_text_iqama": "Itt találod az imára hívás és az ima kezdete közötti időtartamot a mecsetben",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
