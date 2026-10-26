@@ -3394,4 +3394,18 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Применяется ко времени в приложении, уведомлениях и подключённых часах.';
+
+  @override
+  String get before_adhan => 'Перед азаном';
+
+  @override
+  String get before_sunrise => 'Перед восходом солнца';
+
+  @override
+  String get live_countdown_description =>
+      'Обратный отсчёт до азана в уведомлениях.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Обратный отсчёт до восхода солнца в уведомлениях.';
 }

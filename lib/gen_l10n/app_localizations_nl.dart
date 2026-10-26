@@ -3397,4 +3397,18 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Geldt voor alle tijden in de app, meldingen en verbonden horloges.';
+
+  @override
+  String get before_adhan => 'Vóór de Adhan';
+
+  @override
+  String get before_sunrise => 'Vóór Shoeroeq';
+
+  @override
+  String get live_countdown_description =>
+      'Aftellen tot de Adhan in je meldingen.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Aftellen tot Shoeroeq in je meldingen.';
 }

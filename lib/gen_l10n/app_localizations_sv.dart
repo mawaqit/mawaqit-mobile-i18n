@@ -3370,4 +3370,18 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Gäller alla tider i appen, notiser och anslutna smartklockor.';
+
+  @override
+  String get before_adhan => 'Före adhan';
+
+  @override
+  String get before_sunrise => 'Före soluppgång';
+
+  @override
+  String get live_countdown_description =>
+      'Nedräkning till adhan i dina aviseringar.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Nedräkning till soluppgång i dina aviseringar.';
 }

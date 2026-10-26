@@ -3411,4 +3411,18 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Si applica agli orari nell’app, nelle notifiche e sugli orologi connessi.';
+
+  @override
+  String get before_adhan => 'Prima dell’Adhan';
+
+  @override
+  String get before_sunrise => 'Prima dell\'alba';
+
+  @override
+  String get live_countdown_description =>
+      'Conto alla rovescia all\'Adhan nelle tue notifiche.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Conto alla rovescia all\'alba nelle tue notifiche.';
 }

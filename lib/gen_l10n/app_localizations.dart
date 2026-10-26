@@ -6419,6 +6419,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Applies to all times in the app, notifications, and connected watches.'**
   String get settings_TimeFormatInfo;
+
+  /// Before Adhan
+  ///
+  /// In en, this message translates to:
+  /// **'Before Adhan'**
+  String get before_adhan;
+
+  /// Before Sunrise
+  ///
+  /// In en, this message translates to:
+  /// **'Before Sunrise'**
+  String get before_sunrise;
+
+  /// Countdown to Adhan in your notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Countdown to Adhan in your notifications.'**
+  String get live_countdown_description;
+
+  /// Countdown to Sunrise in your notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Countdown to Sunrise in your notifications.'**
+  String get live_countdown_description_sunrise;
 }
 
 class _AppLocalizationsDelegate

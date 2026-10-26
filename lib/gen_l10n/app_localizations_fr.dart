@@ -658,7 +658,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Ici vous trouvez la durée entre adhan et iqama à la mosquée';
+      'Here you find the duration between Adhan and Iqama at the mosque';
 
   @override
   String get calendar_tooltip_download => 'Télécharger le calendrier';
@@ -3426,4 +3426,18 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'S’applique aux heures de l’app, aux notifications et aux montres connectées.';
+
+  @override
+  String get before_adhan => 'Avant l’Adhan';
+
+  @override
+  String get before_sunrise => 'Avant le Chourouk';
+
+  @override
+  String get live_countdown_description =>
+      'Compte à rebours jusqu\'à l\'Adhan dans vos notifications.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Compte à rebours jusqu\'au Chourouk dans vos notifications.';
 }

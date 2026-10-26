@@ -3363,4 +3363,18 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Uygulamadaki, bildirimlerdeki ve bağlı saatlerdeki tüm saatler için geçerlidir.';
+
+  @override
+  String get before_adhan => 'Ezandan önce';
+
+  @override
+  String get before_sunrise => 'Gündoğumundan önce';
+
+  @override
+  String get live_countdown_description =>
+      'Bildirimlerinizde ezana geri sayım.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Bildirimlerinizde gündoğumuna geri sayım.';
 }

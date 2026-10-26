@@ -3393,4 +3393,18 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Primjenjuje se na sva vremena u aplikaciji, obavijestima i povezanim satovima.';
+
+  @override
+  String get before_adhan => 'Prije ezana';
+
+  @override
+  String get before_sunrise => 'Prije izlaska sunca';
+
+  @override
+  String get live_countdown_description =>
+      'Odbrojavanje do ezana u vašim obavijestima.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Odbrojavanje do izlaska sunca u vašim obavijestima.';
 }

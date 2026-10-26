@@ -3407,4 +3407,18 @@ class AppLocalizationsPt extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Aplica-se às horas na app, nas notificações e nos relógios ligados.';
+
+  @override
+  String get before_adhan => 'Antes do Azan';
+
+  @override
+  String get before_sunrise => 'Antes do nascer do sol';
+
+  @override
+  String get live_countdown_description =>
+      'Contagem regressiva até o Azan nas suas notificações.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Contagem regressiva até o nascer do sol nas suas notificações.';
 }

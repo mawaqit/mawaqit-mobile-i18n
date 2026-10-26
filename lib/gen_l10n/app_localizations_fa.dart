@@ -3364,6 +3364,20 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'برای زمان‌های برنامه، اعلان‌ها و ساعت‌های متصل اعمال می‌شود.';
+
+  @override
+  String get before_adhan => 'پیش از اذان';
+
+  @override
+  String get before_sunrise => 'پیش از طلوع آفتاب';
+
+  @override
+  String get live_countdown_description =>
+      'شمارش معکوس تا اذان در اعلان‌های شما.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'شمارش معکوس تا طلوع آفتاب در اعلان‌های شما.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6736,4 +6750,18 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get settings_TimeFormatInfo =>
       'Applies to all times in the app, notifications, and connected watches.';
+
+  @override
+  String get before_adhan => 'Before Adhan';
+
+  @override
+  String get before_sunrise => 'Before Sunrise';
+
+  @override
+  String get live_countdown_description =>
+      'Countdown to Adhan in your notifications.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Countdown to Sunrise in your notifications.';
 }

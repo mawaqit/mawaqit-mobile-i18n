@@ -3381,4 +3381,18 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'ئەپ، ئۇقتۇرۇش ۋە ئۇلانغان سائەتلەردىكى بارلىق ۋاقىتلارغا قوللىنىلىدۇ.';
+
+  @override
+  String get before_adhan => 'ئەزاندىن بۇرۇن';
+
+  @override
+  String get before_sunrise => 'كۈن چىقىشتىن بۇرۇن';
+
+  @override
+  String get live_countdown_description =>
+      'ئۇقتۇرۇشلىرىڭىزدا ئەزانغىچە تەتۈر ساناش.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'ئۇقتۇرۇشلىرىڭىزدا كۈن چىققۇچە تەتۈر ساناش.';
 }

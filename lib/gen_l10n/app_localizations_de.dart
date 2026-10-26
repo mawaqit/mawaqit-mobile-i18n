@@ -3419,4 +3419,18 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Gilt für alle Zeiten in der App, in Benachrichtigungen und auf verbundenen Uhren.';
+
+  @override
+  String get before_adhan => 'Vor dem Adhan';
+
+  @override
+  String get before_sunrise => 'Vor Sonnenaufgang';
+
+  @override
+  String get live_countdown_description =>
+      'Countdown bis zum Adhan in Ihren Benachrichtigungen.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Countdown bis zum Sonnenaufgang in Ihren Benachrichtigungen.';
 }
