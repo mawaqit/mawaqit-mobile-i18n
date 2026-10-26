@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "Применяется ко времени в приложении, уведомлениях и подключённых часах.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "Перед азаном",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "Перед восходом солнца",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "Обратный отсчёт до азана в уведомлениях.",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "Обратный отсчёт до восхода солнца в уведомлениях.",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }
