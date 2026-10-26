@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Here you find the duration between Adhan and Iqama at the mosque",
+    "tutorial_text_iqama": "এখানে আপনি মসজিদে আযান এবং ইকামার মধ্যে সময়কাল পাবেন",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
