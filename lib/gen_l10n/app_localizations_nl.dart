@@ -653,7 +653,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Hier vind je de tijdsduur tussen adhan en iqama bij de moskee';
+      'Hier finden Sie die Dauer zwischen Adhan und Iqama in der Moschee';
 
   @override
   String get calendar_tooltip_download => 'Kalender downloaden';
@@ -3397,4 +3397,18 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Geldt voor alle tijden in de app, meldingen en verbonden horloges.';
+
+  @override
+  String get before_adhan => 'Vóór de Adhan';
+
+  @override
+  String get before_sunrise => 'Vóór Shoeroeq';
+
+  @override
+  String get live_countdown_description =>
+      'Aftellen tot de Adhan in je meldingen.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Aftellen tot Shoeroeq in je meldingen.';
 }

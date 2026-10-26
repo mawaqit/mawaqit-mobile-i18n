@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "لێرە ماوەی نێوان بانگ و قامەت لە مزگەوتەکە دەدۆزیتەوە",
+    "tutorial_text_iqama": "Here you find the duration between Adhan and Iqama at the mosque",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "بۆ کاتەکانی ئەپ، ئاگادارکردنەوەکان و کاتژمێرە پەیوەستەکان جێبەجێ دەبێت.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "Before Adhan",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "Before Sunrise",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "Countdown to Adhan in your notifications.",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "Countdown to Sunrise in your notifications.",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }

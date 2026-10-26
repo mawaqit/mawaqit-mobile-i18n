@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "Uygulamadaki, bildirimlerdeki ve bağlı saatlerdeki tüm saatler için geçerlidir.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "Ezandan önce",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "Gündoğumundan önce",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "Bildirimlerinizde ezana geri sayım.",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "Bildirimlerinizde gündoğumuna geri sayım.",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }

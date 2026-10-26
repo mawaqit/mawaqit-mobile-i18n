@@ -3380,4 +3380,18 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Dotyczy godzin w aplikacji, powiadomieniach i połączonych zegarkach.';
+
+  @override
+  String get before_adhan => 'Przed Adanem';
+
+  @override
+  String get before_sunrise => 'Przed wschodem słońca';
+
+  @override
+  String get live_countdown_description =>
+      'Odliczanie do Adanu w powiadomieniach.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Odliczanie do wschodu słońca w powiadomieniach.';
 }

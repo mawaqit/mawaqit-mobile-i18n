@@ -3398,4 +3398,18 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Az alkalmazásban, értesítésekben és csatlakoztatott órákon megjelenő időkre vonatkozik.';
+
+  @override
+  String get before_adhan => 'Imára hívás előtt';
+
+  @override
+  String get before_sunrise => 'Napfelkelte előtt';
+
+  @override
+  String get live_countdown_description =>
+      'Visszaszámlálás az imára hívásig az értesítésekben.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Visszaszámlálás napfelkeltéig az értesítésekben.';
 }

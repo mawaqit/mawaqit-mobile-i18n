@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "Primjenjuje se na sva vremena u aplikaciji, obavijestima i povezanim satovima.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "Prije ezana",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "Prije izlaska sunca",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "Odbrojavanje do ezana u vašim obavijestima.",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "Odbrojavanje do izlaska sunca u vašim obavijestima.",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }

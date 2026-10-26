@@ -3381,4 +3381,18 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'অ্যাপ, নোটিফিকেশন ও সংযুক্ত ঘড়ির সব সময়ের ক্ষেত্রে প্রযোজ্য।';
+
+  @override
+  String get before_adhan => 'আযানের আগে';
+
+  @override
+  String get before_sunrise => 'সূর্যোদয়ের আগে';
+
+  @override
+  String get live_countdown_description =>
+      'আপনার নোটিফিকেশনে আযান পর্যন্ত কাউন্টডাউন।';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'আপনার নোটিফিকেশনে সূর্যোদয় পর্যন্ত কাউন্টডাউন।';
 }

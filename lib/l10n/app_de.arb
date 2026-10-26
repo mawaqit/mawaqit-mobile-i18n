@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "Gilt für alle Zeiten in der App, in Benachrichtigungen und auf verbundenen Uhren.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "Vor dem Adhan",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "Vor Sonnenaufgang",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "Countdown bis zum Adhan in Ihren Benachrichtigungen.",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "Countdown bis zum Sonnenaufgang in Ihren Benachrichtigungen.",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }

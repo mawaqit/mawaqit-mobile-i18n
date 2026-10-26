@@ -3382,4 +3382,18 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Berlaku untuk semua waktu di aplikasi, notifikasi, dan jam terhubung.';
+
+  @override
+  String get before_adhan => 'Sebelum Adzan';
+
+  @override
+  String get before_sunrise => 'Sebelum matahari terbit';
+
+  @override
+  String get live_countdown_description =>
+      'Hitung mundur menuju Adzan di notifikasi Anda.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Hitung mundur menuju matahari terbit di notifikasi Anda.';
 }

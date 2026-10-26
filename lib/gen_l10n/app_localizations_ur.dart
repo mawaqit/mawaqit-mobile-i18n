@@ -3369,4 +3369,18 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'ایپ، اطلاعات اور منسلک گھڑیوں کے تمام اوقات پر لاگو ہوتا ہے۔';
+
+  @override
+  String get before_adhan => 'اذان سے پہلے';
+
+  @override
+  String get before_sunrise => 'اشراق سے پہلے';
+
+  @override
+  String get live_countdown_description =>
+      'آپ کی اطلاعات میں اذان تک الٹی گنتی۔';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'آپ کی اطلاعات میں اشراق تک الٹی گنتی۔';
 }

@@ -3397,4 +3397,18 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'Zbatohet për oraret në aplikacion, njoftime dhe orët e lidhura.';
+
+  @override
+  String get before_adhan => 'Para ezanit';
+
+  @override
+  String get before_sunrise => 'Para lindjes së diellit';
+
+  @override
+  String get live_countdown_description =>
+      'Numërim mbrapsht deri në ezan në njoftimet tuaja.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'Numërim mbrapsht deri në lindjen e diellit në njoftimet tuaja.';
 }

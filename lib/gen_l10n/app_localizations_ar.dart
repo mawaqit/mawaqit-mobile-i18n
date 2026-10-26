@@ -3348,4 +3348,17 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get settings_TimeFormatInfo =>
       'يُطبّق على الأوقات في التطبيق والإشعارات والساعات المتصلة.';
+
+  @override
+  String get before_adhan => 'قبل الأذان';
+
+  @override
+  String get before_sunrise => 'قبل الشروق';
+
+  @override
+  String get live_countdown_description => 'عدّ تنازلي حتى الأذان في إشعاراتك.';
+
+  @override
+  String get live_countdown_description_sunrise =>
+      'عدّ تنازلي حتى الشروق في إشعاراتك.';
 }
