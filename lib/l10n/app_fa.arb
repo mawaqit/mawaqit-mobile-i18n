@@ -2068,5 +2068,21 @@
     "settings_TimeFormatInfo": "برای زمان‌های برنامه، اعلان‌ها و ساعت‌های متصل اعمال می‌شود.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
+    },
+    "before_adhan": "پیش از اذان",
+    "@before_adhan": {
+        "description": "Before Adhan"
+    },
+    "before_sunrise": "پیش از طلوع آفتاب",
+    "@before_sunrise": {
+        "description": "Before Sunrise"
+    },
+    "live_countdown_description": "شمارش معکوس تا اذان در اعلان‌های شما.",
+    "@live_countdown_description": {
+        "description": "Countdown to Adhan in your notifications."
+    },
+    "live_countdown_description_sunrise": "شمارش معکوس تا طلوع آفتاب در اعلان‌های شما.",
+    "@live_countdown_description_sunrise": {
+        "description": "Countdown to Sunrise in your notifications."
     }
 }
