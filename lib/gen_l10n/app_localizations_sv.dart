@@ -54,10 +54,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_PrayerNotifications => 'Bön notiser';
 
   @override
-  String get settings_PrayerPreNotifications => 'Bön påminnelse';
+  String get settings_PrayerPreNotifications => 'Notis före bönen';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Påminnelse före soluppgången';
+  String get settings_ShuruqPreNotifications => 'Notis före soluppgången';
 
   @override
   String get settings_Calculations => 'Beräkningar';
@@ -228,7 +228,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_error => 'Ett internt fel uppstod';
 
   @override
-  String get search_your_location => 'Din position';
+  String get search_your_location => 'Din plats ';
 
   @override
   String get search_location_disabled =>
@@ -494,7 +494,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get imsak => 'Imsak ';
 
   @override
-  String get eid => 'Eid bönen om ';
+  String get eid => 'Eid bönen kl';
 
   @override
   String get minutes => 'Minuter';
