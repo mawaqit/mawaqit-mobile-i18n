@@ -2084,5 +2084,41 @@
     "live_countdown_description_sunrise": "Cuenta atrás hasta el amanecer en sus notificaciones.",
     "@live_countdown_description_sunrise": {
         "description": "Countdown to Sunrise in your notifications."
+    },
+    "semantic_audio_downloading_percent": "Descargando para escuchar sin conexión, {percent} %",
+    "@semantic_audio_downloading_percent": {
+        "description": "Screen reader: progress of saving the playing surah offline, said at 25, 50 and 75%. {percent} is a number."
+    },
+    "semantic_audio_saved_offline": "Guardada para escuchar sin conexión",
+    "@semantic_audio_saved_offline": {
+        "description": "Screen reader: the playing surah has finished saving for offline listening."
+    },
+    "semantic_reciter_surah_saved": "{reciter}, esta sura está guardada sin conexión",
+    "@semantic_reciter_surah_saved": {
+        "description": "Screen reader: a reciter row in the reciter list when the current surah is saved for offline for that reciter. {reciter} is the reciter's name."
+    },
+    "semantic_audio_download_failed_retry": "Descarga fallida. Reintentar",
+    "@semantic_audio_download_failed_retry": {
+        "description": "Screen reader: the red chip in the audio player after the surah download failed. Tapping it retries."
+    },
+    "semantic_audio_starting": "Descargando las primeras aleyas. La reproducción empezará en breve",
+    "@semantic_audio_starting": {
+        "description": "Screen reader: the Play button of the verse audio player while the first verses download, before playback starts."
+    },
+    "surah_download_waiting": "En espera…",
+    "@surah_download_waiting": {
+        "description": "Shown on screen under a surah that waits in the download queue, in the reciter's \"Surahs downloaded\" list. Keep it short."
+    },
+    "semantic_download_surah": "Descargar {surah}",
+    "@semantic_download_surah": {
+        "description": "Screen reader: download button next to a surah in the reciter's \"Surahs downloaded\" list. {surah} is the surah name."
+    },
+    "semantic_delete_surah_download": "Eliminar la descarga de {surah}",
+    "@semantic_delete_surah_download": {
+        "description": "Screen reader: bin button next to a saved surah in the reciter's \"Surahs downloaded\" list. {surah} is the surah name."
+    },
+    "semantic_cancel_surah_download": "Cancelar la descarga de {surah}, {percent} %",
+    "@semantic_cancel_surah_download": {
+        "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
     }
 }

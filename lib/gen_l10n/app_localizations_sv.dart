@@ -54,10 +54,10 @@ class AppLocalizationsSv extends AppLocalizations {
   String get settings_PrayerNotifications => 'Bön notiser';
 
   @override
-  String get settings_PrayerPreNotifications => 'Bön påminnelse';
+  String get settings_PrayerPreNotifications => 'Notis före bönen';
 
   @override
-  String get settings_ShuruqPreNotifications => 'Påminnelse före soluppgången';
+  String get settings_ShuruqPreNotifications => 'Notis före soluppgången';
 
   @override
   String get settings_Calculations => 'Beräkningar';
@@ -228,7 +228,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get search_error => 'Ett internt fel uppstod';
 
   @override
-  String get search_your_location => 'Din position';
+  String get search_your_location => 'Din plats ';
 
   @override
   String get search_location_disabled =>
@@ -494,7 +494,7 @@ class AppLocalizationsSv extends AppLocalizations {
   String get imsak => 'Imsak ';
 
   @override
-  String get eid => 'Eid bönen om ';
+  String get eid => 'Eid bönen kl';
 
   @override
   String get minutes => 'Minuter';
@@ -609,7 +609,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Öppna appen för att fortsätta få aviseringar';
 
   @override
-  String get tutorial_title_notification => 'Välj bönavisering';
+  String get tutorial_title_notification => 'Välj en bönenotis';
 
   @override
   String get tutorial_text_notification =>
@@ -3384,4 +3384,43 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Nedräkning till soluppgång i dina aviseringar.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Laddar ner för offline-lyssning, $percent %';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Sparad för offline-lyssning';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, den här suran är sparad för offline-lyssning';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Nedladdning misslyckades. Försök igen';
+
+  @override
+  String get semantic_audio_starting =>
+      'De första verserna laddas ner. Uppspelningen startar snart';
+
+  @override
+  String get surah_download_waiting => 'Väntar…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Ladda ner $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Ta bort nedladdningen av $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Avbryt nedladdningen av $surah, $percent %';
+  }
 }

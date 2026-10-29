@@ -3433,4 +3433,43 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Countdown bis zum Sonnenaufgang in Ihren Benachrichtigungen.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Download für Offline-Nutzung, $percent %';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Für Offline-Nutzung gespeichert';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, diese Surah ist offline verfügbar';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Download fehlgeschlagen. Erneut versuchen';
+
+  @override
+  String get semantic_audio_starting =>
+      'Die ersten Verse werden heruntergeladen. Die Wiedergabe beginnt gleich';
+
+  @override
+  String get surah_download_waiting => 'Wartet…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return '$surah herunterladen';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Download von $surah löschen';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Download von $surah abbrechen, $percent %';
+  }
 }

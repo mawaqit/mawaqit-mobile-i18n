@@ -3408,4 +3408,44 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Обратный отсчёт до восхода солнца в уведомлениях.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Скачивание для офлайн-прослушивания, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline =>
+      'Сохранено для офлайн-прослушивания';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, эта сура сохранена для офлайн-прослушивания';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Загрузка не удалась. Повторить';
+
+  @override
+  String get semantic_audio_starting =>
+      'Скачиваются первые аяты. Воспроизведение скоро начнётся';
+
+  @override
+  String get surah_download_waiting => 'Ожидание…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Скачать: $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Удалить загрузку: $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Отменить загрузку: $surah, $percent%';
+  }
 }

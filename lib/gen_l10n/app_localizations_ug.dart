@@ -3395,4 +3395,42 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'ئۇقتۇرۇشلىرىڭىزدا كۈن چىققۇچە تەتۈر ساناش.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'تورسىز ئاڭلاش ئۈچۈن چۈشۈرۈۋاتىدۇ، $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'تورسىز ئاڭلاش ئۈچۈن ساقلاندى';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter، بۇ سۈرە تورسىز ئاڭلاش ئۈچۈن ساقلاندى';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry => 'چۈشۈرەلمىدى. قايتا سىناڭ';
+
+  @override
+  String get semantic_audio_starting =>
+      'دەسلەپكى ئايەتلەر چۈشۈرۈلۈۋاتىدۇ. قويۇش پات ئارىدا باشلىنىدۇ';
+
+  @override
+  String get surah_download_waiting => 'ساقلاۋاتىدۇ…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'چۈشۈرۈش: $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'چۈشۈرۈلمىنى ئۆچۈرۈش: $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'چۈشۈرۈشتىن ۋاز كېچىش: $surah، $percent%';
+  }
 }

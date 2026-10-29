@@ -3393,4 +3393,42 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Countdown to Sunrise in your notifications.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Downloading for offline, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Saved for offline';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, this surah saved for offline';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry => 'Download failed. Retry';
+
+  @override
+  String get semantic_audio_starting =>
+      'Downloading the first verses. Playback starts shortly';
+
+  @override
+  String get surah_download_waiting => 'Waiting…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Download $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Delete $surah download';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Cancel $surah download, $percent%';
+  }
 }

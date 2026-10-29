@@ -3377,4 +3377,44 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Bildirimlerinizde gündoğumuna geri sayım.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Çevrimdışı için indiriliyor, %$percent';
+  }
+
+  @override
+  String get semantic_audio_saved_offline =>
+      'Çevrimdışı dinleme için kaydedildi';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, bu sure çevrimdışı kaydedildi';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'İndirme başarısız. Yeniden dene';
+
+  @override
+  String get semantic_audio_starting =>
+      'İlk ayetler indiriliyor. Oynatma birazdan başlayacak';
+
+  @override
+  String get surah_download_waiting => 'Bekleniyor…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'İndir: $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'İndirmeyi sil: $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'İndirmeyi iptal et: $surah, %$percent';
+  }
 }

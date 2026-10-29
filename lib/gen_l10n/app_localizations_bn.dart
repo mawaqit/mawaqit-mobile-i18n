@@ -3395,4 +3395,43 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'আপনার নোটিফিকেশনে সূর্যোদয় পর্যন্ত কাউন্টডাউন।';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'অফলাইনের জন্য ডাউনলোড হচ্ছে, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'অফলাইনের জন্য সংরক্ষিত';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, এই সূরাটি অফলাইনের জন্য সংরক্ষিত';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'ডাউনলোড ব্যর্থ হয়েছে। পুনরায় চেষ্টা করুন';
+
+  @override
+  String get semantic_audio_starting =>
+      'প্রথম আয়াতগুলো ডাউনলোড হচ্ছে। শীঘ্রই প্লেব্যাক শুরু হবে';
+
+  @override
+  String get surah_download_waiting => 'অপেক্ষমাণ…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return '$surah ডাউনলোড করুন';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return '$surah ডাউনলোড মুছুন';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return '$surah ডাউনলোড বাতিল করুন, $percent%';
+  }
 }

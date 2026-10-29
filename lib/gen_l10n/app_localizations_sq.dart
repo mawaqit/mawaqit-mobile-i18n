@@ -3411,4 +3411,43 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Numërim mbrapsht deri në lindjen e diellit në njoftimet tuaja.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Duke u shkarkuar për dëgjim offline, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'U ruajt për dëgjim offline';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, kjo sure është ruajtur për dëgjim offline';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Shkarkimi dështoi. Provo përsëri';
+
+  @override
+  String get semantic_audio_starting =>
+      'Po shkarkohen ajetet e para. Luajtja fillon së shpejti';
+
+  @override
+  String get surah_download_waiting => 'Në pritje…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Shkarko $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Fshi shkarkimin: $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Anulo shkarkimin: $surah, $percent%';
+  }
 }

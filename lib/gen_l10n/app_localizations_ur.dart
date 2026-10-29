@@ -3383,4 +3383,43 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'آپ کی اطلاعات میں اشراق تک الٹی گنتی۔';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'آف لائن کے لیے ڈاؤن لوڈ ہو رہا ہے، $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'آف لائن سننے کے لیے محفوظ ہو گئی';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter، یہ سورت آف لائن محفوظ ہے';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'ڈاؤن لوڈ ناکام ہو گیا۔ دوبارہ کوشش کریں';
+
+  @override
+  String get semantic_audio_starting =>
+      'پہلی آیات ڈاؤن لوڈ ہو رہی ہیں۔ پلے بیک جلد شروع ہوگا';
+
+  @override
+  String get surah_download_waiting => 'انتظار میں…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return '$surah ڈاؤن لوڈ کریں';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return '$surah کا ڈاؤن لوڈ حذف کریں';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return '$surah کا ڈاؤن لوڈ منسوخ کریں، $percent%';
+  }
 }
