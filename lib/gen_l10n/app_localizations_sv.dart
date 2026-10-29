@@ -609,7 +609,7 @@ class AppLocalizationsSv extends AppLocalizations {
       'Öppna appen för att fortsätta få aviseringar';
 
   @override
-  String get tutorial_title_notification => 'Välj bönavisering';
+  String get tutorial_title_notification => 'Välj en bönenotis';
 
   @override
   String get tutorial_text_notification =>
