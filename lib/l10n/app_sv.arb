@@ -1,5 +1,5 @@
 {
-    "@@locale": "sv",
+    "@@locale": "sv-SE",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -626,7 +626,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Välj bönavisering",
+    "tutorial_title_notification": "Välj en bönenotis",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
