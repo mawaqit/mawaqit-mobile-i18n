@@ -6443,6 +6443,60 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Countdown to Sunrise in your notifications.'**
   String get live_countdown_description_sunrise;
+
+  /// Screen reader: progress of saving the playing surah offline, said at 25, 50 and 75%. {percent} is a number.
+  ///
+  /// In en, this message translates to:
+  /// **'Downloading for offline, {percent}%'**
+  String semantic_audio_downloading_percent(Object percent);
+
+  /// Screen reader: the playing surah has finished saving for offline listening.
+  ///
+  /// In en, this message translates to:
+  /// **'Saved for offline'**
+  String get semantic_audio_saved_offline;
+
+  /// Screen reader: a reciter row in the reciter list when the current surah is saved for offline for that reciter. {reciter} is the reciter's name.
+  ///
+  /// In en, this message translates to:
+  /// **'{reciter}, this surah saved for offline'**
+  String semantic_reciter_surah_saved(Object reciter);
+
+  /// Screen reader: the red chip in the audio player after the surah download failed. Tapping it retries.
+  ///
+  /// In en, this message translates to:
+  /// **'Download failed. Retry'**
+  String get semantic_audio_download_failed_retry;
+
+  /// Screen reader: the Play button of the verse audio player while the first verses download, before playback starts.
+  ///
+  /// In en, this message translates to:
+  /// **'Downloading the first verses. Playback starts shortly'**
+  String get semantic_audio_starting;
+
+  /// Shown on screen under a surah that waits in the download queue, in the reciter's "Surahs downloaded" list. Keep it short.
+  ///
+  /// In en, this message translates to:
+  /// **'Waiting…'**
+  String get surah_download_waiting;
+
+  /// Screen reader: download button next to a surah in the reciter's "Surahs downloaded" list. {surah} is the surah name.
+  ///
+  /// In en, this message translates to:
+  /// **'Download {surah}'**
+  String semantic_download_surah(Object surah);
+
+  /// Screen reader: bin button next to a saved surah in the reciter's "Surahs downloaded" list. {surah} is the surah name.
+  ///
+  /// In en, this message translates to:
+  /// **'Delete {surah} download'**
+  String semantic_delete_surah_download(Object surah);
+
+  /// Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number.
+  ///
+  /// In en, this message translates to:
+  /// **'Cancel {surah} download, {percent}%'**
+  String semantic_cancel_surah_download(Object percent, Object surah);
 }
 
 class _AppLocalizationsDelegate

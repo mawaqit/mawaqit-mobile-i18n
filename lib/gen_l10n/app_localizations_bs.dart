@@ -3407,4 +3407,43 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Odbrojavanje do izlaska sunca u vašim obavijestima.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Preuzimanje za slušanje van mreže, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Sačuvano za slušanje van mreže';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, ova sura je sačuvana za slušanje van mreže';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Preuzimanje nije uspjelo. Pokušajte ponovo';
+
+  @override
+  String get semantic_audio_starting =>
+      'Preuzimaju se prvi ajeti. Reprodukcija uskoro počinje';
+
+  @override
+  String get surah_download_waiting => 'Na čekanju…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Preuzmi: $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Izbriši preuzimanje: $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Otkaži preuzimanje: $surah, $percent%';
+  }
 }

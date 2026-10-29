@@ -3384,4 +3384,43 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Nedräkning till soluppgång i dina aviseringar.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Laddar ner för offline-lyssning, $percent %';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Sparad för offline-lyssning';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, den här suran är sparad för offline-lyssning';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Nedladdning misslyckades. Försök igen';
+
+  @override
+  String get semantic_audio_starting =>
+      'De första verserna laddas ner. Uppspelningen startar snart';
+
+  @override
+  String get surah_download_waiting => 'Väntar…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Ladda ner $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Ta bort nedladdningen av $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Avbryt nedladdningen av $surah, $percent %';
+  }
 }

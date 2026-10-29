@@ -3411,4 +3411,43 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Aftellen tot Shoeroeq in je meldingen.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Downloaden voor offline gebruik, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Opgeslagen voor offline gebruik';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, deze soera is offline opgeslagen';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Download mislukt. Opnieuw proberen';
+
+  @override
+  String get semantic_audio_starting =>
+      'De eerste verzen worden gedownload. Het afspelen begint zo';
+
+  @override
+  String get surah_download_waiting => 'Wachten…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return '$surah downloaden';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Download van $surah verwijderen';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Download van $surah annuleren, $percent%';
+  }
 }

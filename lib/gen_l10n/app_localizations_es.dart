@@ -3423,4 +3423,44 @@ class AppLocalizationsEs extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Cuenta atrás hasta el amanecer en sus notificaciones.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Descargando para escuchar sin conexión, $percent %';
+  }
+
+  @override
+  String get semantic_audio_saved_offline =>
+      'Guardada para escuchar sin conexión';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, esta sura está guardada sin conexión';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Descarga fallida. Reintentar';
+
+  @override
+  String get semantic_audio_starting =>
+      'Descargando las primeras aleyas. La reproducción empezará en breve';
+
+  @override
+  String get surah_download_waiting => 'En espera…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Descargar $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Eliminar la descarga de $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Cancelar la descarga de $surah, $percent %';
+  }
 }

@@ -3412,4 +3412,43 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Visszaszámlálás napfelkeltéig az értesítésekben.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Letöltés offline hallgatáshoz, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Mentve offline hallgatáshoz';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, ez a szúra offline elérhető';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'A letöltés sikertelen. Újrapróbálkozás';
+
+  @override
+  String get semantic_audio_starting =>
+      'Az első ájék letöltése folyamatban. A lejátszás hamarosan indul';
+
+  @override
+  String get surah_download_waiting => 'Várakozás…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Letöltés: $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Letöltés törlése: $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Letöltés megszakítása: $surah, $percent%';
+  }
 }

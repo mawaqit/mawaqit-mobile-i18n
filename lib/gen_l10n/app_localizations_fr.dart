@@ -3440,4 +3440,44 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Compte à rebours jusqu\'au Chourouk dans vos notifications.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Téléchargement hors ligne, $percent %';
+  }
+
+  @override
+  String get semantic_audio_saved_offline =>
+      'Enregistrée pour l’écoute hors ligne';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, cette sourate est disponible hors ligne';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry =>
+      'Échec du téléchargement. Réessayer';
+
+  @override
+  String get semantic_audio_starting =>
+      'Téléchargement des premiers versets. La lecture va bientôt commencer';
+
+  @override
+  String get surah_download_waiting => 'En attente…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Télécharger $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Supprimer le téléchargement de $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Annuler le téléchargement de $surah, $percent %';
+  }
 }

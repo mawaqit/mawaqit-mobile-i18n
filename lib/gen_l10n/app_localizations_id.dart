@@ -3396,4 +3396,42 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get live_countdown_description_sunrise =>
       'Hitung mundur menuju matahari terbit di notifikasi Anda.';
+
+  @override
+  String semantic_audio_downloading_percent(Object percent) {
+    return 'Mengunduh untuk offline, $percent%';
+  }
+
+  @override
+  String get semantic_audio_saved_offline => 'Tersimpan untuk offline';
+
+  @override
+  String semantic_reciter_surah_saved(Object reciter) {
+    return '$reciter, surah ini tersimpan untuk offline';
+  }
+
+  @override
+  String get semantic_audio_download_failed_retry => 'Unduhan gagal. Coba lagi';
+
+  @override
+  String get semantic_audio_starting =>
+      'Mengunduh ayat-ayat pertama. Pemutaran segera dimulai';
+
+  @override
+  String get surah_download_waiting => 'Menunggu…';
+
+  @override
+  String semantic_download_surah(Object surah) {
+    return 'Unduh $surah';
+  }
+
+  @override
+  String semantic_delete_surah_download(Object surah) {
+    return 'Hapus unduhan $surah';
+  }
+
+  @override
+  String semantic_cancel_surah_download(Object percent, Object surah) {
+    return 'Batalkan unduhan $surah, $percent%';
+  }
 }
