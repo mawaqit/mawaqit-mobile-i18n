@@ -70,21 +70,21 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Njoftime për namaz",
-    "settings_PrayerPreNotifications": "Paranjoftimet për namaz",
-    "settings_ShuruqPreNotifications": "Paranjoftimi për-lindjen e diellit",
+    "settings_PrayerNotifications": "Njoftimet për kohët e namazit",
+    "settings_PrayerPreNotifications": "Njoftim para kohës së namazit",
+    "settings_ShuruqPreNotifications": "Njoftim para lindjes së diellit",
     "settings_Calculations": "Llogaritjet",
     "settings_RateOurApp": "Vlerëso aplikacionin tonë",
     "@settings_RateOurApp": {
         "description": "_",
         "type": "text"
     },
-    "settings_WhatsNew": "Çfarë ka të re",
-    "settings_SupportMawaqit": "Përkrah Mawaqit",
-    "settings_News": "Lajme/Njoftime",
-    "settings_MakeADonation": "Bëni një donacion",
+    "settings_WhatsNew": "Të rejat",
+    "settings_SupportMawaqit": "Përkrahni Mawaqit",
+    "settings_News": "Njoftime dhe lajme",
+    "settings_MakeADonation": "Kontribuoni me një donacion",
     "bismillah": "Bismilah",
-    "settings_DonateToMawaqit": "Donacioni për MAWAQIT",
+    "settings_DonateToMawaqit": "Dhuroni për MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
@@ -94,7 +94,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_Credits": "Kreditë",
+    "settings_Credits": "Të drejtat dhe kushtet e përdorimit",
     "@settings_Credits": {
         "description": "_",
         "type": "text"
@@ -109,7 +109,7 @@
     "settings_language_fr": "Frengjisht",
     "settings_language_nl": "Holandisht",
     "settings_language_de": "Gjermanisht",
-    "settings_language_es": "Spanisht",
+    "settings_language_es": "Spanjisht",
     "settings_language_en": "Anglisht",
     "settings_language_it": "Italisht",
     "settings_language_tr": "Turqisht",
@@ -117,12 +117,12 @@
     "settings_language_id": "Indonezisht",
     "settings_language_ur": "Urdu",
     "settings_language_pl": "Polonisht",
-    "settings_CreditsText": "E drejta e autorit © 2021 MAWAQIT për Fondacionin MAWAQIT, të gjitha të drejtat e rezervuara.\n\nPronësia intelektuale dhe të drejtat e autorit të këtij aplikacioni ose shtojcave, shtesave ose përmbajtjes së tij janë në pronësi të MAWAQIT për shoqatën MAWAQIT.\n\nKy version është i licencuar vetëm për shpërndarje bamirësie dhe është një vakëf. Çdo përdorim komercial ose shpërndarje komerciale është rreptësisht i ndaluar.\n\nKjo licencë nuk tregon dhe nuk përfshin - në asnjë mënyrë - shitjen e ndonjë të drejte në lidhje me këtë produkt, ndonjë nga pjesët, shtojcat, shtesat ose përmbajtjen e tij. Përkundrazi, kjo licencë lejon vetëm shpërndarjen bamirëse të aplikacionit përmes platformës aktuale të dyqanit të aplikacioneve.\n\nRishpërndarja e aplikacionit duke përdorur kodin burimor ose skedarët binare, ose përdorimi i inxhinierisë së kundërt me ose pa bërë ndonjë ndryshim, do ta ekspozonte shkelësin ose atë që është përgjegjës për këtë shkelje të së drejtës së autorit ndaj veprimeve ligjore.\n\nAsnjë palë nuk ka të drejtë të rishpërndajë aplikacionin jashtë dyqaneve zyrtare të Apple ose Google Play pa një leje zyrtare me shkrim nga mbajtësi i së drejtës së autorit dhe pronari i aplikacionit, MAWAQIT për shoqatën MAWAQIT. Shpërndarja e këtij aplikacioni jashtë këtyre dyqaneve zyrtare do të ishte shkelje e ligjit për mbrojtjen e pronësisë intelektuale dhe do të ekspozonte përgjegjësit për këtë shkelje të së drejtës së autorit para veprimeve ligjore.\n\nNuk lejohet përdorimi i emrit ose markës së aplikacionit ose markës tregtare ose emrit të mbajtësit të së drejtës së autorit MAWAQIT për Fondacionin MAWAQIT për të promovuar produkte që janë të ngjashme ose që rrjedhin nga ky aplikacion ose ndonjë produkt tjetër pa marrë paraprakisht lejen me shkrim nga zotëruesi i së drejtës së autorit.\nKy aplikacion është i licencuar për t'u shpërndarë nga mbajtësit e të drejtave të autorit dhe aksionarët \"siç është\".\n\nZhvilluesi dhe kompania pronare e aplikacionit nuk jep asnjë garanci të qartë ose të nënkuptuar, duke përfshirë - por pa u kufizuar në - reklamimin dhe promovimin për përshtatshmërinë e aplikacionit për një qëllim të caktuar. Në çdo rast, MAWAQIT për shoqatën MAWAQIT, ose aksionerët nuk janë përgjegjës për ndonjë dëm, të drejtpërdrejtë, të tërthortë ose aksidental (veçanërisht, paralajmërues, pasues), duke përfshirë - por pa u kufizuar në - humbjen e përdorimit, të dhënave ose fitimeve; ose ndërprerje biznesi, pavarësisht nga shkaqet dhe detyrimet, qofshin këto detyrime kontraktuale, absolute ose deliktore (përfshirë neglizhencën ose ndryshe) të cilat janë shkaktuar - në një mënyrë ose në një tjetër - nga përdorimi i këtij aplikacioni.\n\nTë drejtat e autorit të çdo pale të tretë në aplikacion i rezervohen mbajtësit të tyre.\n\nImazhet dhe sfondet\n\nE drejta e autorit shkon te Shutterstock\nIkonat — Licenca CC BY 4.0\n\nE drejta e autorit shkon te Flaticons\nLicenca MIT zbatohet për të gjithë skedarët pa font dhe pa ikona.\nFontet — Licenca SIL OFL 1.1\n\nE drejta e autorit shkon te fontet e Google (fontet Roboto)\nE drejta e autorit Apple, paketat Cupertino\nKodi, Paketat dhe Kornizat\n\nFlutter nga Google\nPaketat: http, geolocator, flutter_platform_widgets, shared_preferences, ofruesi, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
+    "settings_CreditsText": "E drejta e autorit © 2021 MAWAQIT për Fondacionin MAWAQIT. Të gjitha të drejtat të rezervuara.\n\nPronësia intelektuale dhe të drejtat e autorit mbi këtë aplikacion, shtojcat, zgjerimet dhe përmbajtjen e tij i përkasin MAWAQIT për Shoqatën MAWAQIT.\n\nKy version licencohet vetëm për shpërndarje bamirëse dhe përbën një vakëf. Çdo përdorim ose shpërndarje për qëllime tregtare ndalohet rreptësisht.\n\nKjo licencë nuk parashikon dhe nuk përfshin në asnjë mënyrë shitjen e ndonjë të drejte mbi këtë produkt, pjesët, shtojcat, zgjerimet ose përmbajtjen e tij. Ajo lejon vetëm shpërndarjen bamirëse të aplikacionit përmes platformës përkatëse të dyqanit të aplikacioneve.\n\nRishpërndarja e aplikacionit nëpërmjet kodit burimor ose skedarëve binarë, apo përdorimi i inxhinierisë së kundërt, me ose pa ndryshime, mund të sjellë masa ligjore ndaj shkelësit ose personit përgjegjës për shkeljen e të drejtave të autorit.\n\nAsnjë palë nuk ka të drejtë ta rishpërndajë aplikacionin jashtë dyqaneve zyrtare të Apple ose Google Play pa lejen zyrtare me shkrim të mbajtësit të të drejtave të autorit dhe pronarit të aplikacionit, MAWAQIT për Shoqatën MAWAQIT. Shpërndarja jashtë këtyre dyqaneve zyrtare përbën shkelje të legjislacionit për mbrojtjen e pronësisë intelektuale dhe mund të sjellë masa ligjore ndaj personit përgjegjës.\n\nNdalohet përdorimi i emrit ose markës së aplikacionit, markës tregtare apo emrit të mbajtësit të të drejtave të autorit, MAWAQIT për Fondacionin MAWAQIT, për promovimin e produkteve të ngjashme, produkteve që rrjedhin nga ky aplikacion ose çfarëdo produkti tjetër, pa marrë paraprakisht lejen me shkrim të pronarit të të drejtave të autorit.\n\nMbajtësit e të drejtave të autorit dhe aksionarët e licencojnë këtë aplikacion për shpërndarje në gjendjen “siç është”.\n\nZhvilluesi dhe shoqëria pronare e aplikacionit nuk japin asnjë garanci të shprehur apo të nënkuptuar, përfshirë, pa u kufizuar në to, pretendimet në reklama ose materiale promovuese lidhur me përshtatshmërinë e aplikacionit për një qëllim të caktuar.\n\nNë asnjë rast, MAWAQIT për Shoqatën MAWAQIT ose aksionarët nuk mbajnë përgjegjësi për dëme të drejtpërdrejta, të tërthorta apo të rastësishme, përfshirë dëme të veçanta, ndëshkuese ose rrjedhimore. Kjo përfshin, pa u kufizuar në to, humbjen e mundësisë së përdorimit, të dhënave ose fitimeve, si dhe ndërprerjen e veprimtarisë së biznesit, pavarësisht shkakut apo bazës së përgjegjësisë, qoftë kontraktore, objektive apo jashtëkontraktore, përfshirë neglizhencën ose shkaqe të tjera, që lindin në çfarëdo mënyre nga përdorimi i këtij aplikacioni.\n\nTë drejtat e autorit mbi materialet e palëve të treta të përfshira në aplikacion mbeten të rezervuara për mbajtësit përkatës.\n\nImazhet dhe sfondet\n\nTë drejtat e autorit i përkasin Shutterstock.\n\nIkonat — Licenca CC BY 4.0\n\nTë drejtat e autorit i përkasin Flaticons.\n\nLicenca MIT zbatohet për të gjithë skedarët që nuk janë fonte ose ikona.\n\nFontet — Licenca SIL OFL 1.1\n\nTë drejtat e autorit i përkasin Google Fonts (fontet Roboto).\n\nTë drejtat e autorit për paketat Cupertino i përkasin Apple.\n\nKodi, paketat dhe strukturat e zhvillimit\n\nFlutter nga Google.\n\nPaketat: http, geolocator, flutter_platform_widgets, shared_preferences, provider, flutter_local_notifications, audioplayers, toggle_switch, cupertino_icons, marquee_widget, intl, flutter_switch, json_annotation",
     "@settings_CreditsText": {
         "description": "_",
         "type": "text"
     },
-    "settings_AboutUsText": "Ky aplikacion është zhvilluar nga shoqata MAWAQIT.\n\nShoqata MAWAQIT është një organizatë jofitimprurëse e krijuar në vitin 2021 në Francë.\nObjektivi ynë është zhvillimi i zgjidhjeve inovative në lidhje me IT dhe teknologjinë dixhitale si softuerët dhe faqet e internetit; mësim dhe trajnim në zgjidhjet dixhitale dhe mjetet e TI-së.\n\nEkosistemi MAWAQIT është produkti ynë kryesor dhe historia e tij filloi në vitin 2016, me një aplikacion në ekrane të mëdha kushtuar xhamive, më pas një aplikacion celular, një shtesë për ndihmës në shtëpi dhe një aftësi Alexa, etj.\n\nMAWAQIT ju ofron një mënyrë të re për të gjurmuar dhe menaxhuar kohët e namazit, në fakt ne ofrojmë një sistem nga fundi në fund që u ofron menaxherëve të xhamive një mjet në internet të disponueshëm 24/24 orë duke i lejuar ata të menaxhojnë oraret, lajmet e xhamisë dhe shumë veçori të tjera. Besimtarët, nga ana e tyre, përfitojnë nga një aplikacion celular i cili u lejon atyre të konsultojnë oraret e sakta dhe jo të përaflërta të xhamisë së tyre të preferuar, si dhe lajmet dhe funksionalitetet e tjera si kërkimi i një xhamie sipas vendndodhjes gjeografike, ezanit, kibla. ... etj. Ne i kemi bërë vlerat tona kryesore besueshmërinë dhe cilësinë. Ambicia jonë është e qartë: të ndërtojmë shërbimin më të mirë për xhamitë tona falë teknologjisë dhe dizajnit.\n\nNëse ju pëlqeu ky aplikacion, ju lutemi jepni mendimin tuaj në dyqan.",
+    "settings_AboutUsText": "Ky aplikacion është zhvilluar nga Shoqata MAWAQIT.\n\nShoqata MAWAQIT është një organizatë jofitimprurëse, e themeluar në vitin 2021 në Francë. Qëllimi ynë është të zhvillojmë zgjidhje novatore në fushën e teknologjisë së informacionit dhe teknologjisë digjitale, si programe kompjuterike dhe faqe interneti, si dhe të ofrojmë mësim dhe trajnime për përdorimin e zgjidhjeve digjitale dhe mjeteve informatike.\n\nEkosistemi MAWAQIT është produkti ynë kryesor. Historia e tij nisi në vitin 2016 me një aplikacion për ekranet e mëdha në xhami. Më pas u zgjerua me një aplikacion për telefon, një shtesë për Home Assistant, një funksion për Alexa dhe zgjidhje të tjera.\n\nMAWAQIT ju ofron një mënyrë të re për të ndjekur dhe administruar oraret e namazit. Sistemi ynë i plotë u mundëson administratorëve të xhamive të përdorin një mjet në internet, të disponueshëm gjatë gjithë kohës 24/24, për të menaxhuar oraret, lajmet e xhamisë dhe shumë funksione të tjera.\n\nBesimtarët, nga ana e tyre, mund të përdorin aplikacionin për telefon për të parë oraret e sakta, jo të përafërta, të xhamisë së tyre të preferuar, si dhe lajmet e saj. Aplikacioni ofron gjithashtu kërkimin e xhamive sipas vendndodhjes, ezanin, drejtimin e kibles dhe shumë veçori të tjera.\n\nBesueshmëria dhe cilësia janë vlerat tona kryesore. Synimi ynë është i qartë: të krijojmë shërbimin më të mirë për xhamitë tona përmes teknologjisë dhe dizajnit.\n\nNëse ju pëlqeu aplikacioni, ju lutemi të lini një vlerësim në dyqanin e aplikacioneve.",
     "@settings_AboutUsText": {
         "description": "_",
         "type": "text"
@@ -158,7 +158,7 @@
         "type": "text"
     },
     "sabah": "Sabahu",
-    "settings_PrayerNotification_NoNotification": "Aktualisht ju keni vendosur që të mos pranoni njoftime për këtë namaz.",
+    "settings_PrayerNotification_NoNotification": "Aktualisht, keni vendosur që të mos pranoni njoftime për këtë namaz.",
     "@settings_PrayerNotification_NoNotification": {
         "description": "_",
         "type": "text"
@@ -208,80 +208,80 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Zgjidhni një lloj ezani. Kjo zgjedhje do të zbatohet në çdo namaz që ka njoftimin e ezanit.",
+    "adhan_type": "Zgjidhni llojin e ezanit. Kjo zgjedhje do të zbatohet për çdo namaz që ka të aktivizuar njoftimin me ezan.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
     },
-    "settings_prayer_Notification_None": "Asnjëri",
+    "settings_prayer_Notification_None": "Asnjë",
     "@settings_prayer_Notification_None": {
         "description": "_",
         "type": "text"
     },
-    "prayer_Notification_NoNotification": "Ju nuk keni vendosur asnjë njoftim për këtë Namaz.",
+    "prayer_Notification_NoNotification": "Nuk keni caktuar asnjë njoftim për këtë namaz.",
     "@prayer_Notification_NoNotification": {
         "description": "_",
         "type": "text"
     },
-    "prayer_PreNotification_Description": "Ky cilësim ju lejon të përcaktoni një njoftim përpara namazit.",
+    "prayer_PreNotification_Description": "Zgjidhni sa minuta para kohës së namazit dëshironi të merrni njoftimin.",
     "@prayer_PreNotification_Description": {
         "description": "_",
         "type": "text"
     },
     "search_TryParis": "Provo Paris, Essalam etj.",
     "search_ByGPS": "Kërko me GPS",
-    "search_HelpText": "Ju mund të kërkoni një xhami duke shkruar:\n- Emrin e xhamisë\n- Emrin e shoqatës\n- Qytetin, adresën, shtetin...etj.\n\nOse mund të shtypni butonin e vendodhjës për të gjetur xhamitë përreth.",
+    "search_HelpText": "Mund të kërkoni një xhami duke shkruar:\n- Emrin e xhamisë\n- Emrin e shoqatës\n- Qytetin, adresën, shtetin etj.\n\nOse shtypni butonin e lokacionit për të gjetur xhamitë pranë jush.",
     "search_MaxFavMosquesReached": "Keni arritur maksimumin e xhamive të preferuara.",
     "search_iOs14_message": "Kërkimi duke përdorur GPS mund të marrë pak kohë në iOS 14, ju lutemi prisni.",
-    "search_error": "Ups, një gabim i brendshëm ka ndodhur'",
+    "search_error": "Na vjen keq, ndodhi një gabim i brendshëm",
     "search_your_location": "Lokacioni i juaj",
-    "search_location_disabled": "Ju lutemi kërkoni një xhami me emër ose qytet, ose lejoni të gjendët lokacioni manualisht në cilësimët tuaja.",
-    "search_settings": "Cilësimet",
-    "no_services_text": "Xhamitë nuk e dhanë këtë informacion",
+    "search_location_disabled": "Për të gjetur xhamitë pranë jush, lejoni qasjen te vendndodhja në konfigurimet e pajisjes. Mund të kërkoni edhe sipas emrit të xhamisë ose qytetit.",
+    "search_settings": "Preferancat",
+    "no_services_text": "Ky informacion nuk është ofruar nga xhamitë",
     "welcome": "Mirë se vini në",
     "mawaqit": "MAWAQIT",
-    "connecting": "Duke lidhur Muslimanët",
-    "to_mosques": "Me xhamitë",
+    "connecting": "Lidhim myslimanët",
+    "to_mosques": "me xhamitë e tyre",
     "get_started": "Filloni",
-    "get_prayer_notifications_for": "Merrni njoftimet e namazit për",
-    "turn_on_notifications": "Aktivizo njoftimet e namazit",
+    "get_prayer_notifications_for": "Merrni njoftime për kohët e namazit të xhamisë",
+    "turn_on_notifications": "Aktivizoni njoftimet për namaz",
     "no_thanks": "Jo, faleminderit",
-    "notification_denied": "Ju i keni refuzuar lejet e njoftimit, kështu që nuk do të merrni asnjë njoftim.",
-    "at_least_one_mosque": "Shto të paktën një xhami për të vazhduar",
-    "set_up_your_prayer": "Konfiguro namazin tënd",
-    "notifications": "Njoftimet",
+    "notification_denied": "Keni refuzuar lejen për njoftime, prandaj nuk do të merrni asnjë njoftim.",
+    "at_least_one_mosque": "Për të vazhduar, shtoni të paktën një xhami",
+    "set_up_your_prayer": "Konfiguroni",
+    "notifications": "njoftimet për namaz",
     "mosques_around_you": "Xhamitë rreth jush",
-    "mosques_in_the_selected_area": "Xhamitë në zonën e përzgjedhur",
+    "mosques_in_the_selected_area": "Xhamitë brenda zonës së përzgjedhur",
     "mosques_with": "Xhamitë me",
-    "allow_mawaqit_to_access_my_location": "Lejo Mawaqit të ketë qasje në vendndodhjen time.",
-    "enable_location_service_from_app_settings": "Aktivizo vendndodhjen",
+    "allow_mawaqit_to_access_my_location": "Lejoj Mawaqit të përdorë vendndodhjen time.",
+    "enable_location_service_from_app_settings": "Aktivizoni vendndodhjen",
     "the_request_timeout": "Kërkesa ka skaduar",
-    "no_internet_connection": "Nuk ka Internet",
+    "no_internet_connection": "Nuk ka internet",
     "try_again": "Provo përsëri",
-    "virtual_mosque": "Xhami virtuale",
-    "no_mosque_in_selected_area": "Nuk u gjet asnjë xhami në zonën e zgjedhur",
-    "no_mosque_with": "Nuk mund të gjejë asnjë xhami me",
+    "virtual_mosque": "Xhamia virtuale",
+    "no_mosque_in_selected_area": "Nuk u gjet asnjë xhami në zonën e përzgjedhur",
+    "no_mosque_with": "Nuk u gjet asnjë xhami me",
     "retry": "Provo përseri",
-    "search_here": "Kërko Këtu",
-    "enter_at_least_3_char": "Futni të paktën 3 karaktere për të kërkuar",
+    "search_here": "Kërko këtu",
+    "enter_at_least_3_char": "Vendosni së paku 3 karaktere",
     "jumua1": "Xhuma 1",
     "prayer_times": "Takvimi",
-    "remove_this_city": "Hiqeni këtë qytet",
-    "add_this_city": "Shto këtë qytet",
-    "add_this_mosque": "Shto këtë xhami",
-    "remove_this_mosque": "Hiqeni këtë xhami",
+    "remove_this_city": "Largojeni këtë qytet",
+    "add_this_city": "Shtojeni këtë qytet",
+    "add_this_mosque": "Shtojeni këtë xhami",
+    "remove_this_mosque": "Largojeni këtë xhami",
     "services": "Shërbimet",
     "share": "Shpërndaj",
     "itinerary": "Harta",
-    "call": "Thirr",
-    "dnd": "Mos shqetësoni",
+    "call": "Thirrni",
+    "dnd": "Mos shqetëso",
     "battery_optimize": "Optimizimi i baterisë",
-    "power_saver": "Kursime të baterisë",
-    "permission_message1": "Ne zbuluam një njoftim të vonuar, Ju lutemi fikeni",
-    "permission_message2": "për të marrë njoftimet në kohë.",
-    "notifications_delay_detected": "U zbulua një vonesë e njoftimeve",
-    "open_setting": "Hap cilësimet",
-    "noJumua": "Nuk ka xhuma",
+    "power_saver": "Kursimi i baterisë",
+    "permission_message1": "Njoftimi mbërriti me vonesë. Ju lutemi, fikni",
+    "permission_message2": "për t’i marrë njoftimet në kohë.",
+    "notifications_delay_detected": "U zbulua një vonesë në njoftime",
+    "open_setting": "Hap preferencat",
+    "noJumua": "Pa namaz të xhumasë",
     "@noJumua": {
         "description": "_",
         "type": "text"
@@ -291,11 +291,11 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_sensor": "Sensori në pajisjen tuaj që MAWAQIT përdor për të përcaktuar Kiblën nuk funksionon siç pritej, gjë që po ndikon në aftësinë tonë për të shfaqur drejtimin e Kiblës.",
-    "connection_not_found": "Cilësimi i kalibrimit të busullës është i çaktivizuar. Sigurohuni që lidhja juaj të jetë e aktivizuar dhe provoni përsëri duke ndryshuar drejtimin.",
+    "qibla_sensor": "Sensori i pajisjes suaj, të cilin MAWAQIT e përdor për të përcaktuar drejtimin e kibles, nuk po funksionon siç duhet. Për këtë arsye, drejtimi i kibles mund të mos shfaqet saktë.",
+    "connection_not_found": "Kalibrimi i busullës është i çaktivizuar. Sigurohuni që lidhja të jetë aktive dhe provoni përsëri duke ndryshuar drejtimin e pajisjes.",
     "currently_located_at": "Aktualisht ndodheni në",
-    "facing_makkah": "Ju jeni përballë Mekës",
-    "not_facing_Makkah": "Ju nuk jeni përballë Mekës",
+    "facing_makkah": "Jeni të orientuar drejt Mekës",
+    "not_facing_Makkah": "Nuk jeni të orientuar drejt Mekës",
     "qibla_Error_retry": "Provo përseri",
     "@qibla_Error_retry": {
         "description": "_",
@@ -306,7 +306,7 @@
         "description": "_",
         "type": "text"
     },
-    "qibla_Error_LocationDeniedForever": "Shërbimi i lokacionit është refuzuar përgjithmonë !",
+    "qibla_Error_LocationDeniedForever": "Shërbimi i lokacionit është refuzuar përgjithmonë!",
     "@qibla_Error_LocationDeniedForever": {
         "description": "_",
         "type": "text"
@@ -321,7 +321,7 @@
         "description": "_",
         "type": "text"
     },
-    "favorites_FavoriteMosques": "Xhamitë e preferuara",
+    "favorites_FavoriteMosques": "Xhamitë tuaja të preferuara",
     "@favorites_FavoriteMosques": {
         "description": "_",
         "type": "text"
@@ -341,12 +341,12 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Informacion Flash",
+    "announcement_Type_FlashInfo": "Flesh info",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
     },
-    "mosque_DonateText1": "DHURONI",
+    "mosque_DonateText1": "BËNI NJË DONACION",
     "@mosque_DonateText1": {
         "description": "_",
         "type": "text"
@@ -356,7 +356,7 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Error_CouldNotLaunch": "Nuk mund të nisej",
+    "mosque_Error_CouldNotLaunch": "Hapja dështoi",
     "@mosque_Error_CouldNotLaunch": {
         "description": "_",
         "type": "text"
@@ -396,17 +396,17 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_DisabledAccess": "Qasja me aftësi të kufizuara",
+    "mosque_Facilities_DisabledAccess": "Qasje për personat me aftësi të kufizuara",
     "@mosque_Facilities_DisabledAccess": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_AblutionsRoom": "Abdesthana",
+    "mosque_Facilities_AblutionsRoom": "Abdesthane",
     "@mosque_Facilities_AblutionsRoom": {
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_WomanSpace": "Hapësirë për gra",
+    "mosque_Facilities_WomanSpace": "Hapësira për gratë",
     "@mosque_Facilities_WomanSpace": {
         "description": "_",
         "type": "text"
@@ -426,12 +426,12 @@
         "description": "_",
         "type": "text"
     },
-    "mosque_Facilities_SalatAlJanaza": "Namazi i Xhenazes",
+    "mosque_Facilities_SalatAlJanaza": "Namazi i xhenazes",
     "@mosque_Facilities_SalatAlJanaza": {
         "description": "_",
         "type": "text"
     },
-    "mosques_Facilities_IftarRamadan": "Iftari në Ramazan",
+    "mosques_Facilities_IftarRamadan": "Iftar gjatë Ramazanit",
     "@mosques_Facilities_IftarRamadan": {
         "description": "_",
         "type": "text"
@@ -466,7 +466,7 @@
         "description": "_",
         "type": "text"
     },
-    "please_update": "Ekziston një version më i ri i MAWAQIT, ju lutemi përditësoni",
+    "please_update": "Një version më i ri i MAWAQIT është i disponueshëm. Ju lutemi, përditësoni aplikacionin",
     "@please_update": {
         "description": "_",
         "type": "text"
@@ -476,7 +476,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_skip": "Kapërceje tutorialin",
+    "tutorial_skip": "Anashkaloni udhëzuesin",
     "@tutorial_skip": {
         "description": "_",
         "type": "text"
@@ -491,27 +491,27 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_main_mosque": "Xhamia juaj kryesore shfaqet këtu.\nMund të rrëshqisni majtas dhe djathtas për të kaluar midis xhamive tuaja të preferuara.",
+    "tutorial_text_main_mosque": "Xhamia juaj kryesore shfaqet këtu.\nRrëshqitni majtas dhe djathtas për të parë xhamitë tuaja të preferuara.",
     "@tutorial_text_main_mosque": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_countdown": "Treguesi i namazit të ardhshëm",
+    "tutorial_title_countdown": "Koha e mbetur deri në namazin e ardhshëm",
     "@tutorial_title_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_countdown": "Ky numërim tregon kohën që ka mbetur deri në namazin e ardhshëm",
+    "tutorial_text_countdown": "Ky numërim mbrapsht tregon kohën e mbetur deri në namazin e ardhshëm.",
     "@tutorial_text_countdown": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_mosque_info": "Informacioni për Xhaminë",
+    "tutorial_title_mosque_info": "Të dhënat e xhamisë",
     "@tutorial_title_mosque_info": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_mosque_info": "Gjithçka rreth xhamisë suaj: objektet, adresa, telefoni, email, dhurimi dhe më shumë.",
+    "tutorial_text_mosque_info": "Këtu gjeni informacionet për xhaminë tuaj: shërbimet, adresën, numrin e telefonit, emailin, donacionet dhe të dhëna të tjera.",
     "@tutorial_text_mosque_info": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Njoftimet për mesazhet dhe njoftimet nga xhamia juaj do të shfaqen këtu.\nKur prekni këtë buton, do të shihni detajet e plota. Këto njoftime mund të jenë një mesazh Flash, një imazh ose edhe një video.",
+    "tutorial_text_announcements": "Këtu shfaqen njoftimet për mesazhet dhe lajmërimet nga xhamia juaj. Prekni këtë buton për të parë përmbajtjen e plotë. Lajmërimet mund të jenë mesazhe të shkurtra, imazhe apo video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
