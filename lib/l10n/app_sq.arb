@@ -541,17 +541,17 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_2": "MAWAQIT është një ekosistem që ju ofron një mënyrë të re për të gjurmuar dhe menaxhuar kohët e namazit, aplikacioni në duart tuaja është pjesë e këtij ekosistemi, ju lejon të gjeni xhami dhe të ndiqni lajmet dhe kohët e faljes",
+    "onboarding_text_2": "MAWAQIT është një ekosistem që ju ofron një mënyrë të re për të ndjekur dhe menaxhuar kohet e namazit. Ky aplikacion është pjesë e këtij ekosistemi dhe ju mundëson të gjeni xhami e të ndiqni lajmet, njoftimet dhe kohet e namazit",
     "@onboarding_text_2": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_title_3": "Zgjidhni një temë të errët/të ndritshme",
+    "onboarding_title_3": "Zgjidhni temën e errët ose të ndritshme",
     "@onboarding_title_3": {
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_3": "Pavarësisht nëse jeni në një mjedis me dritë të ulët ose preferoni ngjyra më të errëta të sfondit në telefonin tuaj, mund të përfitoni nga modaliteti i errët për rehati vizuale të përmirësuar",
+    "onboarding_text_3": "Nëse ndodheni në një ambient me pak dritë ose preferoni sfonde më të errëta në telefonin tuaj, përdorni modalitetin e errët për më shumë rehati gjatë shikimit të ekranit",
     "@onboarding_text_3": {
         "description": "_",
         "type": "text"
@@ -561,7 +561,7 @@
         "description": "_",
         "type": "text"
     },
-    "onboarding_text_4": "Ju lutemi zgjidhni xhaminë tuaj kryesore nga lista e mëposhtme ose kërkoni për një xhami afër vendndodhjes tuaj aktuale",
+    "onboarding_text_4": "Zgjidhni xhaminë tuaj kryesore nga lista e mëposhtme ose kërkoni një xhami pranë vendndodhjes suaj aktuale",
     "@onboarding_text_4": {
         "description": "_",
         "type": "text"
@@ -591,7 +591,7 @@
         "description": "minutes to athan",
         "type": "text"
     },
-    "show_tutorial": "Rishikoni tutorialin",
+    "show_tutorial": "Rishikoni udhëzuesin",
     "@show_tutorial": {
         "description": "_",
         "type": "text"
@@ -601,7 +601,7 @@
         "description": "_",
         "type": "text"
     },
-    "done": "U krye",
+    "done": "Përfundoi",
     "@done": {
         "description": "_",
         "type": "text"
@@ -626,17 +626,17 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Zgjidhni një njoftim namazi",
+    "tutorial_title_notification": "Zgjidhni njoftimin për namaz",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Këtu mund të zgjidhni një lloj njoftimi, Ezan, bip ose heshtur",
+    "tutorial_text_notification": "Këtu mund të zgjidhni llojin e njoftimit: ezan, bip ose pa zë",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
     },
-    "search_no_result": "Bëhuni ambasador i MAWAQIT dhe ofroni zgjidhjen tonë për xhaminë tuaj, është falas\nhttps://mawaqit.net",
+    "search_no_result": "Bëhuni ambasador i MAWAQIT dhe propozojini xhamisë suaj zgjidhjen tonë. Është falas!\nhttps://mawaqit.net",
     "@search_no_result": {
         "description": "_",
         "type": "text"
@@ -646,12 +646,12 @@
         "description": "_",
         "type": "text"
     },
-    "rate_popin_message": "Nëse ju pëlqen ky aplikacion, ju lutemi merrni pak nga koha juaj për ta rishikuar atë !\nNa ndihmon vërtet.",
+    "rate_popin_message": "Nëse ju pëlqen ky aplikacion, kushtoni pak kohë për të lënë një vlerësim!\nKjo na ndihmon shumë.",
     "@rate_popin_message": {
         "description": "_",
         "type": "text"
     },
-    "rate_popin_rate": "VLERËSIMI",
+    "rate_popin_rate": "VLERËSONI",
     "@rate_popin_rate": {
         "description": "_",
         "type": "text"
@@ -666,12 +666,12 @@
         "description": "_",
         "type": "text"
     },
-    "message_see_all": "Ju mund t'i shikoni të gjitha mesazhet nga kjo xhami duke klikuar në altoparlantin në krye të ekranit.",
+    "message_see_all": "Për të parë të gjitha mesazhet e kësaj xhamie, prekni ikonën e altoparlantit në pjesën e sipërme të ekranit.",
     "@message_see_all": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Mekas",
+    "adhan_Makkah": "Ezani i Mekës",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Këtu gjeni kohëzgjatjen ndërmjet ezanit dhe ikames në xhami",
+    "tutorial_text_iqama": "Këtu shihni kohën ndërmjet ezanit dhe ikametit në xhami",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -696,7 +696,7 @@
         "description": "_",
         "type": "text"
     },
-    "calendar_downloading": "Po shkarkon kalendarin...",
+    "calendar_downloading": "Kalendari po shkarkohet…",
     "@calendar_downloading": {
         "description": "_",
         "type": "text"
@@ -711,12 +711,12 @@
         "description": "_",
         "type": "text"
     },
-    "location_permission_denied_forever": "Leja e vendndodhjes u refuzua përgjithmonë, lejojeni atë në faqen e cilësimeve.",
+    "location_permission_denied_forever": "Leja për përdorimin e vendndodhjes është refuzuar përfundimisht. Aktivizojeni te preferencat e pajisjes.",
     "@location_permission_denied_forever": {
         "description": "_",
         "type": "text"
     },
-    "at_least_one_mosque_error": "Ju duhet të keni të paktën një xhami.",
+    "at_least_one_mosque_error": "Duhet të keni të paktën një xhami në listë.",
     "and": "dhe",
     "continue_to_app": "Vazhdo",
     "add": "Shto",
@@ -724,8 +724,8 @@
     "on_boarding_nearest_mosque": "Le të gjejmë xhaminë më të afërt",
     "on_boarding_nearest_mosque_text": "Këtu janë xhamitë që gjenden rreth jush sipas vendndodhjes tuaj",
     "search_no_result_for_text": "Nuk gjetëm asnjë rezultat për",
-    "surah_audio_downloading": "Audio e surës po shkarkohet...",
-    "msg_internet_connection": "Nuk ke lidhje interneti",
+    "surah_audio_downloading": "Duke shkarkuar audion e sures…",
+    "msg_internet_connection": "Pajisja juaj nuk është e lidhur me internetin",
     "read_quran": "Lexo Kuran",
     "ayahs": "Ajete",
     "chapter": "Surja",
@@ -735,7 +735,7 @@
     "surah_number": "Numri i sures",
     "quran_browsing": "Shfletimi",
     "quran_search_placeholder": "Kërko sipas emrit të sures, numrit...",
-    "quran_verse_search": "Kërkimi i ajetit",
+    "quran_verse_search": "Kërkimi i ajeteve",
     "quran_translation": "Përkthimi",
     "quran_mushaf": "Mushaf",
     "quran_juzz": "Xhuz",
@@ -767,12 +767,12 @@
     "next": "Vazhdo",
     "search_surah": "Kërko suren",
     "not_downloaded_recitation": "Nuk keni shkarkuar ende asnjë audio inqizim",
-    "not_favorite_reciter": "Nuk keni shënuar ende ndonjë recitues të preferuar.",
-    "search_reciter": "Kërko Recitues",
+    "not_favorite_reciter": "Ende nuk keni zgjedhur asnjë recitues të preferuar.",
+    "search_reciter": "Kërkoni recitues",
     "al_quran_al_kareem": "Kur'ani Famëlartë",
     "surahs": "Suret",
     "chapters": "Kapitujt",
-    "calculation_info": "Cilësimet në këtë seksion preokupohen vetëm me oraret e namazit që llogariten nga gjeo-lokacioni juaj, dhe nuk kanë të bëjnë me oraret e namazit të xhamive.",
+    "calculation_info": "Cilësimet në këtë seksion zbatohen vetëm për kohet e namazit të llogaritura sipas vendndodhjes suaj, jo për kohet e namazit të xhamive.",
     "calculation_madhab": "Jurisprudencë - Medh'hebi",
     "calculation_madhab_shafii": "Shafi’i, Hambeli dhe Maliki",
     "calculation_madhab_shafii_countries": "Jordania, Palestina, Jemeni, Somalia, Eritrea, Malajzia, Indonezia, Brunei, Egjipti Jugor, Arabia Saudite, Katari, Afrika e Veriut, Afrika Perëndimore, Emiratet e Bashkuara Arabe, Kuvajti...",
@@ -798,12 +798,12 @@
     "calculation_methods_custom": "Kënde(shkallë) të personalizuara",
     "calculation_high_latitude": "Gjerësia më e lartë",
     "calculation_high_latitude_none": "Asnjë",
-    "calculation_high_latitude_middle": "Mesi i natës",
+    "calculation_high_latitude_middle": "Mesnata",
     "calculation_high_latitude_one_seventh": "Një e shtata e natës",
     "calculation_high_latitude_angle_based": "Metoda e bazuar në kënd(shkallë)",
     "calculation_adjustment": "Korrigjim manual",
-    "calculation_adjustment_subtitle": "Rregullimi i namazit dhe këndet e personalizuara",
-    "calculation_adjustment_prayers": "Rregullimet e namazit",
+    "calculation_adjustment_subtitle": "Përshtatja e kohëve të namazit dhe përcaktimi i këndeve",
+    "calculation_adjustment_prayers": "Rregullimi i kohëve të namazit",
     "calculation_adjustment_prayers_minutes": "minuta",
     "calculation_adjustment_angles": "Kënde të personalizuara",
     "calculation_prayer_custom_angle": "Këndi i personalizuar për",
@@ -812,9 +812,9 @@
     "processing": "Po përpunohet...",
     "copied_to_clipboard": "U kopjua në (clipboard-in) tuaj!",
     "download_quran_popup_title": "Rregullimet e fundit",
-    "download_quran_popup_downloading_1": "Duhet të shkarkojmë faqet e Kuranit, do të duhen vetëm disa sekonda. Ne do të përdorim të dhënat tuaja celulare, do të kalojmë në Wi-Fi nëse është e nevojshme.",
+    "download_quran_popup_downloading_1": "Duhet të shkarkojmë faqet e Kuranit. Kjo do të zgjasë vetëm disa sekonda. Do të përdoren të dhënat tuaja celulare; nëse dëshironi, lidhuni me Wi-Fi.",
     "download_quran_popup_downloading_2": "Ne po përgatisim Kur'anin vetëm për ju, ju lutemi prisni disa sekonda!",
-    "download_quran_popup_downloading_3": "Discover the Quran's beauty! Tap 'Download' to access its timeless wisdom and be inspired by its divine words.",
+    "download_quran_popup_downloading_3": "Shtypni “Shkarko” për të nisur rrugëtimin tuaj të leximit dhe meditimit mbi Kuranin.",
     "download_quran_popup_confirm_cancel": "Jeni të sigurt që doni të anuloni shkarkimin? Pa këto të dhëna, nuk do të mund të lexoni Kur'anin, faqet nuk do të jenë të disponueshme.",
     "download_quran_popup_cancelled": "Diçka shkoi keq, ju lutemi shtypni përsëri butonin e shkarkimit!",
     "download": "Shkarkoni",
@@ -829,16 +829,16 @@
     "battery_optimization_subtitle": "Për të marrë njoftimet e namazit pa probleme, duhet të çaktivizoni optimizimin e baterisë për MAWAQIT.",
     "allow": "Lejo",
     "deny": "Refuzo",
-    "force_notification": "Detyro njoftimet",
-    "tutorial_text_foreground_service": "Prekja mbi të ju lejon të aktivizoni ose çaktivizoni 'Shërbimin në plan të parë'",
+    "force_notification": "Lejoni gjithmonë njoftimet",
+    "tutorial_text_foreground_service": "Prekni këtë opsion për të aktivizuar ose çaktivizuar “Shërbimin në plan të parë”",
     "enable": "Aktivizo",
     "disable": "Çaktivizo",
     "do_not_show_again": "Mos e shfaq më",
-    "force_notification_title": "MAWAQIT është aktiv për të siguruar që njoftimet e namazit aktivizohen në kohën e duhur.",
-    "force_notification_body": "Sepse namazi është detyrë për besimtarët në kohë të caktuar. Nisa(103)",
+    "force_notification_title": "MAWAQIT është aktiv për të siguruar që njoftimet për namaz të dërgohen në kohën e duhur.",
+    "force_notification_body": "“Vërtet, namazi është detyrim për besimtarët në kohë të caktuara.” En-Nisa, 4:103",
     "force_notification_dialog1_body": "Duke aktivizuar këtë opsion, aplikacioni do të qëndrojë aktiv për të siguruar që njoftimet e namazit të aktivizohen në kohën e duhur pa vonesë. Aplikacioni MAWAQIT do të jetë aktiv vetëm për këtë qëllim dhe ju mund ta çaktivizoni atë opsion në çdo kohë nga cilësimet.",
-    "force_notification_dialog2_body": "Pasi të keni aktivizuar 'Detyro njoftimet', rrëshqitni poshtë në sirtarin e njoftimeve, do ta shihni këtë njoftim atje",
-    "notification_debugging": "Korrigjimi i gabimit për njoftime",
+    "force_notification_dialog2_body": "Pasi të aktivizoni opsionin “Aktivizoni me detyrim njoftimet”, rrëshqitni poshtë për të hapur panelin e njoftimeve. Aty do të shihni këtë njoftim",
+    "notification_debugging": "Diagnostikimi i njoftimeve",
     "notification_debugging_details": "Korrigjimi i gabimit për njoftime është aktivizuar. Nëse ndryshoni cilësimet e njoftimit, të dhënat e korrigjimit do të humbasin dhe korrigjimi do të çaktivizohet.",
     "skip": "Kapërceni",
     "agree": "Pajtohem",
@@ -850,17 +850,17 @@
     "notification_delay_debugging_is": "Korrigjimi i vonesës së njoftimit është",
     "banner_enable": "Aktivizo bannerin",
     "banner": "Banner",
-    "show_details": "Shfaq Detajet",
+    "show_details": "Shfaq detajet",
     "auto_detect_location": "Sugjero automatikisht xhaminë më të afërt",
-    "auto_detect_explanation": "Kur jeni larg nga xhamia juaj, aplikacioni do të sugjerojë automatikisht kërkimin e xhamisë më të afërt bazuar në vendndodhjen tuaj.",
+    "auto_detect_explanation": "Kur jeni larg xhamisë suaj, aplikacioni do t’ju sugjerojë automatikisht të kërkoni xhaminë më të afërt sipas vendndodhjes suaj.",
     "auto_detect_location_title": "Duket se jeni larg xhamisë suaj",
-    "auto_detect_location_message": "Dëshironi të kërkoni për xhaminë më të afërt për kohët e sakta të namazit?",
+    "auto_detect_location_message": "Dëshironi të kërkoni xhaminë më të afërt për të marrë kohët e sakta të namazit?",
     "donation_success_toast": "Donacioni është kryer me sukses",
     "donation_success": "Faleminderit për donacionin tuaj, Allahu ju shpërbleftë",
     "donation_failed": "Donacioni dështoi",
     "donate_for_good": "DHURONI PËR BAMIRËSI",
-    "enter_amount_hint": "Shkruaj shumën",
-    "enter_donation_amount": "Shkruani shumën e dhurimit",
+    "enter_amount_hint": "Vendosni shumën",
+    "enter_donation_amount": "Shkruani shumën e donacionit",
     "google_pay_not_available": "Google Pay nuk është i disponueshëm në këtë pajisje",
     "error_performing_donation": "Ndodhi një gabim gjatë përpjekjes për të kryer donacionin",
     "recurring_pay_text": "Bëni këtë donacion çdo muaj.",
@@ -868,8 +868,8 @@
     "silent": "Pa zë",
     "default_": "E paracaktuar",
     "muazzin": "Muezini",
-    "information": "Informacion",
-    "news": "Lajme/Njoftime",
+    "information": "Informacione",
+    "news": "Lajme dhe njoftime",
     "calendar": "Kalendari",
     "system": "Sistemi",
     "change_mosque_order": "Tërhiqni dhe lëshoni xhamitë për të ndryshuar rendin dhe për të vendosur xhaminë kryesore",
@@ -877,11 +877,11 @@
     "save": "Ruaj",
     "main_mosque": "Xhamia kryesore",
     "mosques": "Xhamitë",
-    "no_news": "Asnjë lajm nga xhamia",
-    "mawaqit_notification": "Njoftimi nga Mawaqit",
-    "no_mawaqit_notification": "Asnjë njoftim nga Mawaqit",
-    "meccan": "Mekka",
-    "medinan": "Medina",
+    "no_news": "Nuk ka lajme nga xhamia",
+    "mawaqit_notification": "Njoftim nga Mawaqit",
+    "no_mawaqit_notification": "Nuk ka njoftime nga Mawaqit",
+    "meccan": "Mekase",
+    "medinan": "Medinase",
     "montada_islamic_foundation": "Fondacioni Islamik Montada",
     "rashid_maash": "Rashid Maash",
     "abdul_haleem": "Abdul Haleem",
@@ -893,7 +893,7 @@
     "reading": "Lexo ",
     "listening": "Dëgjo",
     "font_size": "Madhësia e shkronjave",
-    "font_size_arabic": "Madhësia e shkronjave arabisht",
+    "font_size_arabic": "Madhësia e shkronjave arabe",
     "horizontal": "Horizontal",
     "vertical": "Vertikal",
     "add_page_bookmarks": "Shtoni faqen në shënime",
@@ -921,26 +921,26 @@
     "no_favorite_recitor_found": "Nuk u gjet asnjë recitues i preferuar",
     "no_recitator_found": "Nuk u gjet asnjë recitues",
     "empty_quran_search": "Rezultatet e kërkimit do të shfaqen këtu",
-    "no_bookmark_ayah": "Nuk ka shënime të disponueshme. Ju lutemi shtypni gjatë mbi ajetin që dëshironi të shënoni.",
+    "no_bookmark_ayah": "Nuk keni asnjë ajet të shënuar. Mbajeni të shtypur ajetin që dëshironi të shënoni.",
     "page": "Faqe",
     "prayer_times_in": "Takvimi në",
-    "update_new_version": "Një version i ri i Kuranit është i disponueshëm për shkarkim. Kliko në 'Përditëso' për të hyrë në përmirësimet më të fundit dhe për të vazhduar udhëtimin tuaj me mençurinë hyjnore",
+    "update_new_version": "Një version i ri i Kuranit është gati për shkarkim. Prekni “Përditëso” për të marrë përmirësimet më të fundit dhe për të vazhduar rrugëtimin tuaj me urtësinë hyjnore",
     "@update_new_version": {
         "description": "Update the new version availiable"
     },
-    "update_quran_zip": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
+    "update_quran_zip": "Një version i përmirësuar i paraqitjes së tekstit është tashmë i disponueshëm. Prekni “Përditëso” për të vijuar leximin dhe meditimin mbi Kuranin.",
     "@update_quran_zip": {
         "description": "-> update_quran_zip"
     },
-    "update_latest_quran_version": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
+    "update_latest_quran_version": "Një version i përmirësuar i paraqitjes së tekstit është tashmë i disponueshëm. Prekni “Përditëso” për të vijuar leximin dhe meditimin mbi Kuranin.",
     "@update_latest_quran_version": {
         "description": "-> update_latest_quran_version"
     },
-    "update_latest_quran": "Është publikuar një version i rishikuar me përmirësime tipografike. Klikoni 'Përditëso' për të vazhduar udhëtimin tuaj të leximit dhe reflektimit.",
+    "update_latest_quran": "Një version i përmirësuar i paraqitjes së tekstit është tashmë i disponueshëm. Prekni “Përditëso” për të vijuar leximin dhe meditimin mbi Kuranin.",
     "@update_latest_quran": {
         "description": "-> update_latest_quran"
     },
-    "set_notification_for_all_parayer": "Vendoseni këtë për çdo namaz",
+    "set_notification_for_all_parayer": "Përdorni të njëjtin njoftim për të gjitha namazet",
     "@set_notification_for_all_parayer": {
         "description": "-> set_notification_for_all_parayer_"
     },
@@ -948,7 +948,7 @@
     "@powered_by_mawaqit": {
         "description": "-> powered_by_mawaqit_"
     },
-    "adjust_hijri_date": "Rregullo datën Hixhri",
+    "adjust_hijri_date": "Rregulloni datën hixhri",
     "prayer_times_by_location": "Kohët e namazit sipas vendndodhjes",
     "already_in_list": "Është tashmë në listën tuaj!",
     "got_it": "E kuptova!",
@@ -956,7 +956,7 @@
     "@mushaf_warsh": {
         "description": "-> mushaf_warsh"
     },
-    "mushaf_hafs": "Mushafi Hafs",
+    "mushaf_hafs": "Hafs",
     "@mushaf_hafs": {
         "description": "-> mushaf_hafs"
     },
@@ -964,7 +964,7 @@
     "@select_rewaya": {
         "description": "-> select_rewaya"
     },
-    "download_in_progress": "Po shkarkohet, ju lutemi pritni...",
+    "download_in_progress": "Po shkarkohet, ju lutemi prisni...",
     "@download_in_progress": {
         "description": "-> download_in_progress"
     },
@@ -974,110 +974,110 @@
     "al_zikr": "Al-Zikr",
     "favorite_azkar": "Favorite Azkar",
     "all_azkar": "All Azkar",
-    "device_audio_not_found": "Device audio not found",
+    "device_audio_not_found": "Skedari audio nuk u gjet në pajisje",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
     },
-    "device_media": "Device Media",
+    "device_media": "Audio nga pajisja",
     "@device_media": {
         "description": "-> device_media"
     },
-    "add_new_audio": "Add a new audio file",
+    "add_new_audio": "Shtoni një audio të re",
     "@add_new_audio": {
         "description": "-> add_new_audio"
     },
-    "selecet_audio_before_delete": "You need to add another audio file for notifications before deleting the selected audio file",
+    "selecet_audio_before_delete": "Për të fshirë skedarin e zgjedhur audio, fillimisht shtoni një skedar tjetër për njoftimet",
     "@selecet_audio_before_delete": {
         "description": "-> selecet_audio_before_delete"
     },
-    "addding_file_prompt": "You can add multiple audio files, but please make sure not to add the same audio file.",
+    "addding_file_prompt": "Mund të shtoni disa skedarë audio, por sigurohuni që të mos shtoni të njëjtin skedar më shumë se një herë.",
     "@addding_file_prompt": {
         "description": "-> addding_file_prompt"
     },
-    "ios_audio_file_picking_prompt": "Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.",
+    "ios_audio_file_picking_prompt": "Ju lutemi, zgjidhni një skedar audio me kohëzgjatje deri në 30 sekonda. Nëse zgjat më shumë, mund të pengojë funksionimin e njoftimit për namaz.",
     "@ios_audio_file_picking_prompt": {
         "description": "-> ios_audio_file_picking_prompt"
     },
-    "select_audio_from_device": "Select audio (mp3) from device.",
+    "select_audio_from_device": "Zgjidhni një audio në formatin Mp3 nga pajisja juaj.",
     "@select_audio_from_device": {
         "description": "-> select_audio_from_device"
     },
-    "add_ticket": "Shto një tiket",
-    "projects": "Projektet",
+    "add_ticket": "Krijoni një kërkesë për mbështetje",
+    "projects": "Projekte",
     "fill_form": "Për të shtuar projektin tuaj këtu, plotësoni këtë",
     "form": "formular",
-    "updates_draw": "Merrni përditësime dhe merrni pjesë në shortin për të fituar goodies nga",
+    "updates_draw": "Ndiqni të rejat dhe merrni pjesë në short për të fituar dhurata nga",
     "email_info": "Ky email do të përdoret për t'ju kontaktuar nëse fitoni shortin",
-    "enter_email": "Shkruani emailin tuaj",
-    "email_privacy": "MAWAQIT nuk do ta shpërndajë këtë email me askënd. Email-i do të fshihet automatikisht nga databaza jonë pas çdo shorti",
-    "submit": "Submit",
-    "disclaimer": "Dërgo",
+    "enter_email": "Vendosni emailin tuaj",
+    "email_privacy": "MAWAQIT nuk do ta ndajë adresën tuaj të emailit me askënd. Ajo do të fshihet automatikisht nga baza jonë e të dhënave pas çdo shorti",
+    "submit": "Dërgoni",
+    "disclaimer": "MAWAQIT nuk mban përgjegjësi për shërbimet ose produktet e ofruara nga projektet e listuara. Ju lutemi, bëni verifikimet tuaja përpara se t’i përdorni",
     "participating_with": "Jeni duke marrë pjesë me",
-    "no_of_tickets": "Numri i tiketav :",
-    "unparticipate": "Kliko për të tërhjekur pjesëmarrjen",
-    "next_ticket": "Bileta tjetër e disponueshme në",
+    "no_of_tickets": "Numri i biletave:",
+    "unparticipate": "Prekni për të anuluar pjesëmarrjen",
+    "next_ticket": "Bileta tjetër e disponueshme për",
     "click_here": "Kliko këtu",
     "mawaqit_store": "Dyqani MAWAQIT",
     "no_projects": "Nuk ka projekte",
     "draw_info": "Një short çdo muaj. Çdo 24 orë mund të shtoni një biletë të re për të rritur mundësinë tuaj për të fituar!",
-    "enter_valid_email": "Shëno një email të vlefshëm",
-    "please_enter_email": "Shënon një email ju lutem",
-    "select_device_audo_for_ios_propmpt": "Zgjidhni një skedar audio dhe ne do ta konvertojmë atë në një format të përputhshëm me iOS ndërsa e shkurtojmë në 30 sekonda për shkak të kufizimeve të platformës iOS.",
+    "enter_valid_email": "Shënoni një email të vlefshëm",
+    "please_enter_email": "Ju lutemi, shkruani një adresë emaili",
+    "select_device_audo_for_ios_propmpt": "Zgjidhni një skedar audio. Do ta konvertojmë në një format të përshtatshëm për iOS dhe do ta shkurtojmë në 30 sekonda për shkak të kufizimeve të platformës.",
     "@select_device_audo_for_ios_propmpt": {
         "description": "-> select_device_audo_for_ios_propmpt"
     },
-    "confirm_deletion": "Konfirmo fshirjen",
-    "sure_remove_rewaya": "Jeni të sigurt që dëshironi të hiqni këtë Rewaya?",
+    "confirm_deletion": "Konfirmoni fshirjen",
+    "sure_remove_rewaya": "A jeni të sigurt që dëshironi ta hiqni këtë rivajet?",
     "file_not_found": "Skedari nuk u gjet",
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "Merrni njoftime për përditësimet më të fundit mbi projektet MAWAQIT Boost.",
-    "contact_us_boost": "Për të listuar projektin tuaj këtu, na kontaktoni në",
+    "notified_boost": "Njoftohuni për zhvillimet më të fundit të projekteve MAWAQIT Boost.",
+    "contact_us_boost": "Për ta përfshirë projektin tuaj në këtë listë, na kontaktoni në",
     "prayer_times_set_by_mosque": "Kohët e namazit dhe të gjitha informacionet këtu përcaktohen nga xhamia, jo nga MAWAQIT",
     "@prayer_times_set_by_mosque": {
         "description": "-> prayer_times_set_by_mosque"
     },
     "hasan_nahi": "Hasan Nahi",
     "albanian": "Shqip",
-    "delete_all": "Delete All",
+    "delete_all": "Fshijini të gjitha",
     "@delete_all": {
         "description": "-> delete_all"
     },
-    "delete_all_downloads": "Delete All Downloads",
+    "delete_all_downloads": "Fshijini të gjitha shkarkimet",
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
     },
-    "delete_recitations_message": "Are you sure you want to delete all downloaded recitations?",
+    "delete_recitations_message": "A jeni të sigurt që dëshironi t’i fshini të gjitha recitimet e shkarkuara?",
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
     },
-    "downloaded_deleted_successfully": "All downloaded recitations deleted successfully",
+    "downloaded_deleted_successfully": "Të gjitha recitimet e shkarkuara u fshinë me sukses",
     "@downloaded_deleted_successfully": {
         "description": "-> downloaded_deleted_successfully"
     },
-    "failed_delete_recitations": "Failed to delete all recitations",
+    "failed_delete_recitations": "Fshirja e të gjitha recitimeve dështoi",
     "@failed_delete_recitations": {
         "description": "failed_delete_recitations"
     },
-    "no_azkar_result": "No remembrance results available",
-    "search_title": "Kërko duke përdorur titullin",
-    "compass_calibration": "Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this",
+    "no_azkar_result": "Nuk u gjet asnjë dhikër",
+    "search_title": "Kërkoni sipas titullit",
+    "compass_calibration": "Kalibrimi i busullës është i çaktivizuar. Anojeni telefonin dhe lëvizeni 3 herë duke formuar numrin tetë, si në ilustrim",
     "@compass_calibration": {
         "description": "-> compass_calibration"
     },
-    "compass_accuracy": "Compass Accuracy",
+    "compass_accuracy": "Saktësia e busullës",
     "@compass_accuracy": {
         "description": "-> compass_accuracy"
     },
-    "low": "Low",
+    "low": "e ulët",
     "@low": {
         "description": "-> low"
     },
-    "tafsir": "Tafsir",
+    "tafsir": "Tefsir",
     "copy": "Kopjo",
-    "no_tafsir": "Asnjë Tafsir nuk është shkarkuar ende",
-    "download_tafsir": "Shkarko Tafsirin",
+    "no_tafsir": "Nuk është shkarkuar ende asnjë tefsir",
+    "download_tafsir": "Shkarkoni tefsirin",
     "hussary": "Mahmoud Khalil Al‑Hussary",
     "hussary_mujawwad": "Al‑Hussary (Mujawwad)",
     "shuraim": "Saud Al‑Shuraim",
@@ -1131,99 +1131,99 @@
     "murattal": "Murattal",
     "mujawwad": "Mujawwad",
     "moallim": "Almusshaf Al Mo'llim",
-    "play": "Play",
-    "playback_settings": "Cilësimet e riprodhimit",
+    "play": "Dëgjoni",
+    "playback_settings": "Cilësimet e dëgjimit",
     "from": "Nga",
     "to": "Deri",
-    "range": "Shtrirje",
-    "select_starting_verse": "Zgjidh vargun fillestar",
-    "select_ending_verse": "Zgjidh vargun përfundimtar",
-    "range_repeat": "Përsërit shtrirjen",
-    "verse_repeat": "Përsërit vargun",
-    "improved_Hafs_Rewaya_Force_Update": "Ne kemi përmirësuar Riwaen tuaj Hafs. Shkarkoni tani për të eksploruar Tafsirin dhe për të dëgjuar këndimet duke mbajtur shtypur çdo Ajet",
+    "range": "Intervali",
+    "select_starting_verse": "Zgjidhni ajetin fillestar",
+    "select_ending_verse": "Zgjidhni ajetin përfundimtar",
+    "range_repeat": "Përsëritja e ajeteve të zgjedhura",
+    "verse_repeat": "Përsëritja e ajetit",
+    "improved_Hafs_Rewaya_Force_Update": "Kemi përmirësuar rivajetin Hafs. Shkarkojeni tani për të lexuar tefsirin dhe për të dëgjuar recitimet duke mbajtur të shtypur cilindo ajet",
     "@improved_Hafs_Rewaya_Force_Update": {
         "description": "-> improved_ Hafs_Rewaya_Force_Update"
     },
-    "mawaqit_three_sixty_description": "Shihni oraret e faljeve të marrin jetë me orën tonë të re të animuar",
+    "mawaqit_three_sixty_description": "Zbuloni një pamje më dinamike të kohëve të namazit me orën tonë të re",
     "@mawaqit_three_sixty_description": {
         "description": "-> mawaqit_three_sixty_description\r\n_"
     },
-    "hnpai_User_Guidance_MAWAQIT_360": "Gjatë përdorimit të pamjes 360, nuk mund ta çaktivizoni këtë cilësim",
+    "hnpai_User_Guidance_MAWAQIT_360": "Nuk mund ta çaktivizoni këtë cilësim gjatë përdorimit të pamjes 360°",
     "@hnpai_User_Guidance_MAWAQIT_360": {
         "description": "-> HNPAI_user_guidance_MAWAQIT_360\r\n_"
     },
-    "mawaqit_three_sixty_beta": "MAWAQIT 360 (Beta)",
+    "mawaqit_three_sixty_beta": "MAWAQIT 360",
     "@mawaqit_three_sixty_beta": {
         "description": "->mawaqit_three_sixty_beta\r\n_"
     },
-    "three_sixty_setting": "360 Settings",
+    "three_sixty_setting": "360 Preferencat",
     "@three_sixty_setting": {
         "description": "-> three_sixty_setting"
     },
-    "behavior": "Behavior",
+    "behavior": "Mënyra e shfaqjes",
     "@behavior": {
         "description": "-> behavior"
     },
-    "next_prayer_open": "Next prayer",
+    "next_prayer_open": "Namazi i ardhshëm",
     "@next_prayer_open": {
         "description": "-> next_prayer_open"
     },
-    "all_prayer_closed": "All closed",
+    "all_prayer_closed": "Të gjitha të mbyllura",
     "@all_prayer_closed": {
         "description": "-> all_prayer_closed"
     },
-    "recomended_next_prayer": "Recommended: Next prayer only",
+    "recomended_next_prayer": "Rekomandohet: vetëm namazi i ardhshëm",
     "@recomended_next_prayer": {
         "description": "-> recomended_next_prayer"
     },
-    "live_preview": "Live Preview",
+    "live_preview": "Shikoni si duket në kohë reale",
     "@live_preview": {
         "description": "-> live_preview"
     },
-    "font_Size_Normal": "Normal",
+    "font_Size_Normal": "Normale",
     "@font_Size_Normal": {
         "description": "-> font_Size_Normal"
     },
-    "font_Size_Large": "Large",
+    "font_Size_Large": "E madhe",
     "@font_Size_Large": {
         "description": "-> font_Size_Large"
     },
-    "all_Prayer_Open": "All open",
+    "all_Prayer_Open": "Të gjitha të hapura",
     "@all_Prayer_Open": {
         "description": "-> all_Prayer_Open"
     },
-    "settingFontSize": "Font Size",
+    "settingFontSize": "Madhësia e shkronjave",
     "@settingFontSize": {
         "description": "-> font_Size"
     },
-    "last_Third_Of_The_Night": "Last Third Of The Night",
+    "last_Third_Of_The_Night": "Një e treta e fundit e natës",
     "@last_Third_Of_The_Night": {
         "description": "->last_Third_Of_The_Night\r\n-"
     },
     "shaykh_aminuddin_muhammad": "Shejh Aminudin Muhamed",
     "hafs_an_asim": "Hafs ʿan ʿĀṣim",
-    "most_widespread_riwayah": "Riwāya më e përhapur në botë",
+    "most_widespread_riwayah": "Rivajeti më i përhapur në botë",
     "warsh_an_nafi": "Warsh ʿan Nāfiʿ",
-    "popular_across_north_west_africa": "E njohur në Afrikën Veriore dhe Perëndimore",
-    "select": "Zgjidh",
+    "popular_across_north_west_africa": "I përhapur në Afrikën Veriore dhe Perëndimore",
+    "select": "Zgjidhni",
     "unknown_smartwatch": "Orë inteligjente e panjohur",
-    "connected_watch": "Orë e lidhur",
-    "ready_play_watch": "gati për t’u luajtur në orën tënde",
-    "transliteration": "Transkriptim",
-    "highlight_Tahajjud_Time": "Nxjerr në pah kohën e Tahaxhudit",
+    "connected_watch": "Ora e lidhur",
+    "ready_play_watch": "është gati për t’u dëgjuar në orën tuaj inteligjente",
+    "transliteration": "Shkrimi me shkronja latine",
+    "highlight_Tahajjud_Time": "Theksoni kohën e tehexhudit",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
     },
     "calendar_access_not_available": "Qasja në kalendar nuk është e disponueshme.",
     "calendar_allow_access_mawaqit": "Ju lutemi lejoni qasjen në kalendar për të shfaqur ngjarjet tuaja në MAWAQIT 360.",
-    "calendar_access_required": "Qasja në kalendar është r nevojshme për të shfaqur ngjarjet tuaja.",
+    "calendar_access_required": "Për të shfaqur ngjarjet tuaja, duhet të lejoni qasjen në kalendar.",
     "calendar_allow_access_button": "Lejo qasjën në kalendar",
-    "calendar_loading": "Ngarkimi i kalendarëve…",
-    "calendar_select_for_mawaqit": "Zgjidhni kalendarët që dëshironi të shfaqen në MAWAQIT 360.",
-    "calendar_enable_all": "Aktivizo të gjitha",
-    "calendar_disable_all": "Çaktivizo të gjitha",
-    "calendar_other_calendars": "Kalendarë të tjerë",
-    "calendar_times_shown_in": "Orari shfaqet në",
+    "calendar_loading": "Kalendarët po ngarkohen…",
+    "calendar_select_for_mawaqit": "Zgjidhni kalendarët që dëshironi të shfaqni në MAWAQIT 360.",
+    "calendar_enable_all": "Aktivizojini të gjithë",
+    "calendar_disable_all": "Çaktivizojini të gjithë",
+    "calendar_other_calendars": "Kalendarët e tjerë",
+    "calendar_times_shown_in": "Kohët shfaqen sipas zonës kohore",
     "calendar_starts_on": "Fillon më",
     "calendar_ends_on": "Mbaron më",
     "calendar_events_at_this_time": "Ngjarje në këtë moment",
@@ -1231,92 +1231,92 @@
     "@hamza_roberto_piccardo": {
         "description": "-≥ hamza_roberto_piccardo"
     },
-    "open_in_mawaqit_app": "Hape këtë xhami në aplikacionin MAWAQIT",
+    "open_in_mawaqit_app": "Hapeni këtë xhami në aplikacionin MAWAQIT",
     "mosque_name": "Emri i xhamisë",
     "mosque_not_found": "Xhamia nuk u gjet",
     "invalid_mosque_link": "Linku i xhamisë është i pavlefshëm",
-    "not_open_mosque_link": "Nuk mund të hapet ky linku i xhamisë. Ju lutemi provoni përsëri.",
-    "no_calendars_on_this_device": "Nuk u gjetën kalendarë në këtë pajisje.",
+    "not_open_mosque_link": "Linku i xhamisë nuk mund te hapet. Ju lutemi, provoni përsëri.",
+    "no_calendars_on_this_device": "Në këtë pajisje nuk u gjet asnjë kalendar.",
     "calendar_event_at_this_time": "Ngjarje në këtë moment",
     "@calendar_event_at_this_time": {
         "description": "-> calendar_event_at_this_time"
     },
-    "search_ayah_surah": "Kërko sipas Ajetit ose Surës",
-    "matching_surahs": "Suret përkatëse",
-    "matching_ayahs": "Ajetet përkatëse",
+    "search_ayah_surah": "Kërkoni sipas ajetit ose sures",
+    "matching_surahs": "Suret e gjetura",
+    "matching_ayahs": "Ajetet e gjetura",
     "live_timer": "Kohëmatës i drejtpërdrejtë",
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Njofto paraprakisht",
+    "notify_before": "Njoftoni përpara",
     "@notify_before": {
         "description": "notify_before"
     },
     "take_time_appear_watch": "Mund të marrë disa sekonda të paraqitet në orën tuaj.",
     "eid1": "Bajram",
-    "hide_live_activity_for_prayer": "Fshih aktivitetin e drejtpërdrejtë vetëm për këtë namaz",
+    "hide_live_activity_for_prayer": "Mos e shfaqni aktivitetin në kohë reale për këtë namaz",
     "@hide_live_activity_for_prayer": {
         "description": "hide_live_activity_for_prayer"
     },
-    "settings": "Cilësimet",
+    "settings": "Preferencat",
     "@settings": {
         "description": "-> settings"
     },
-    "azkar": "Azkar",
+    "azkar": "Dhikri",
     "@azkar": {
         "description": "-> azkar"
     },
-    "quran_tajweed": "Kurani Tajwīd",
-    "tajweed_description": "Rregulla të tajwīdit të koduara me ngjyra për recitim të saktë",
-    "tajwid_rules": "Rregullat e Tajwidit",
+    "quran_tajweed": "Texhvidi i Kuranit",
+    "tajweed_description": "Rregullat e texhvidit të shënuara me ngjyra për recitim të saktë",
+    "tajwid_rules": "Rregullat e texhvidit",
     "examples": "Shembuj",
     "real_time_weather": "Moti në kohë reale",
-    "layout": "Pamja",
+    "layout": "Stili",
     "list": "Listë",
     "grid": "Rrjetë",
-    "real_time_weather_needs_internet": "Moti në kohë reale kërkon lidhje interneti për të shkarkuar përditësimet.",
-    "view_detail": "বিস্তারিত দেখুন",
+    "real_time_weather_needs_internet": "Për të përditësuar të dhënat e motit në kohë reale, nevojitet lidhje me internetin.",
+    "view_detail": "Shikoni detajet",
     "temperature": "Temperatura",
-    "tahajjud_time": "Koha e Tahaxhudit",
-    "last_third": "Treta e fundit",
-    "midnight": "Minuit",
+    "tahajjud_time": "Koha e namazit të tehexhudit",
+    "last_third": "E treta e fundit",
+    "midnight": "Mesi i natës",
     "failed_to_update": "Përditësimi dështoi.",
     "tap_to_retry": "Prekni për të provuar sërish",
     "support_mawaqit_association": "Mbështetni Shoqatën MAWAQIT",
-    "help_improve_mawaqit": "Ndihmoni në përmirësimin e MAWAQIT",
-    "analytics_description": "Lejo analizën anonime të përdorimit për të na ndihmuar të përmirësojmë aplikacionin. Pa të dhëna personale. Asnjëherë nuk shpërndahet.",
+    "help_improve_mawaqit": "Kontribuoni për ta bërë MAWAQIT më të mirë",
+    "analytics_description": "Na ndihmoni ta përmirësojmë aplikacionin duke lejuar analizimin anonim të përdorimit. Nuk mblidhen të dhëna personale.",
     "weather_clear": "I kthjellët",
-    "weather_clouds": "Re",
+    "weather_clouds": "Vranësira",
     "weather_tornado": "Tornado",
-    "weather_ash": "Hi",
+    "weather_ash": "Hi vullkanik",
     "weather_dust": "Pluhur",
     "weather_sand": "Rërë",
     "weather_fog": "Mjegull",
-    "weather_haze": "Zanë",
+    "weather_haze": "Ajër i turbullt",
     "weather_smoke": "Tym",
-    "weather_mist": "Lagështi",
-    "weather_snow": "Bore",
-    "weather_rain": "Shï",
-    "weather_drizzle": "Pikimë",
-    "weather_thunderstorm": "Stuhi me vetëtima",
+    "weather_mist": "Mjegull e lehtë",
+    "weather_snow": "Borë",
+    "weather_rain": "Reshje shiu",
+    "weather_drizzle": "Rigë shiu",
+    "weather_thunderstorm": "Stuhi me bubullima",
     "weather_squall": "Erë e fortë",
     "weather_celsius": "°C",
     "animated_background": "Sfond i animuar",
     "weather": "Moti",
-    "weather_need_internet": "Kjo veçori kërkon lidhje me internetin për të shkarkuar përditësimet.",
-    "weather_light_rain": "Shi i lehtë",
-    "edit": "Ndrysho",
-    "iqama_countdown": "Kohëmatës për Ikama-në",
-    "next_prayer_countdown": "Aktiviteti i gjallë gjithmonë aktiv",
+    "weather_need_internet": "Ky funksion kërkon lidhje me internetin për të shkarkuar përditësimet.",
+    "weather_light_rain": "Reshje të lehta shiu",
+    "edit": "Ndryshoni",
+    "iqama_countdown": "Koha e mbetur deri në ikamet",
+    "next_prayer_countdown": "Koha e mbetur deri në namazin e ardhshëm",
     "@next_prayer_countdown": {
         "description": "live_activity_always_on"
     },
     "next_prayer": "Namazi i ardhshëm",
-    "live_countdown_for_all_pray": "Numërimi i drejtpërdrejtë do të jetë aktiv për të gjitha namazet, duke treguar automatikisht një kohëmatës për secilën namaz të ardhshëm.",
-    "live_countdown": "Kohëmatës i drejtpërdrejtë",
+    "live_countdown_for_all_pray": "Numërimi mbrapsht në kohë reale do të jetë aktiv për të gjitha namazet, duke shfaqur automatikisht kohën e mbetur deri në çdo namaz të ardhshëm.",
+    "live_countdown": "Numërim mbrapsht në kohë reale",
     "quick_quran_reading_access": "Qasje e shpejtë për leximin e Kuranit",
     "quick_quran_discription": "Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.",
-    "live_activity_tooltip": "Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës i drejtpërdrejtë tregon sa ka mbetur deri në faljen ose ikametin e radhës.",
+    "live_activity_tooltip": "Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës në kohë reale tregon sa ka mbetur deri në namazin e ardhshëm ose deri në ikametin e radhës.",
     "prayer": "Namazet",
     "weather_fahrenheit": "°F",
     "@weather_fahrenheit": {
@@ -1324,19 +1324,19 @@
     },
     "weather_your_location": "Tregon motin për vendndodhjen tuaj, jo për xhaminë.",
     "view_360_currently_selected": "Pamja 360 është zgjedhur aktualisht",
-    "tap_change_layout": "Prek këtu për të ndryshuar pamjen",
+    "tap_change_layout": "Prekni këtu për të ndryshuar stilin",
     "step": "Hap",
     "@step": {
         "description": "-> step"
     },
-    "jump_to_page": "Shko te faqja",
+    "jump_to_page": "Kaloni te faqja",
     "select_surah": "Zgjidh suren",
     "please_select_surah": "Ju lutemi zgjidhni një sure",
     "ayah_number": "Numri i ajetit",
     "ayah_num_greater_zero": "Numri i ajetit duhet të jetë më i madh se 0",
     "ayah_number_exceeds_max": "Numri i ajetit tejkalon kufirin maksimal për këtë sure",
     "update_page": "Përditëso faqen",
-    "enter_ayah_num": "Fut numrin e ajetit",
+    "enter_ayah_num": "Shkruani numrin e ajetit",
     "help": "Ndihmë",
     "@help": {
         "description": "-> help"
@@ -1345,7 +1345,7 @@
     "@sofian_s_siregar": {
         "description": "-> sofian_s_siregar"
     },
-    "download_all_surahs": "Të shkarkohen të gjitha suret",
+    "download_all_surahs": "Shkarkoni të gjitha suret",
     "@download_all_surahs": {
         "description": "download_all_surahs"
     },
@@ -1355,21 +1355,21 @@
     },
     "tap_change_notification": "Prek për të ndryshuar njoftimin",
     "adhan_at": "Ezani në",
-    "semantic_mawaqit_notification": "Njoftime të palexuara nga MAWAQIT",
+    "semantic_mawaqit_notification": "njoftime të palexuara nga MAWAQIT",
     "semantic_open_notifications": "Hap njoftimet",
-    "semantic_tap_to_change_notification": "Prek për të ndryshuar cilësimet e njoftimeve",
-    "semantic_edit_mosques": "Hap për të redaktuar xhamitë e tua",
-    "semantic_change_layout": "Ndrysho paraqitjen e faqes kryesore",
-    "semantic_open_layout_menu": "Hap menynë e paraqitjes",
-    "semantic_edit_home_settings": "Redakto cilësimet e faqes kryesore",
-    "semantic_list_layout": "Paraqitje me listë",
-    "semantic_grid_layout": "Paraqitje me rrjetë",
+    "semantic_tap_to_change_notification": "Prek për të ndryshuar preferencat e njoftimeve",
+    "semantic_edit_mosques": "Hapeni për të menaxhuar xhamitë tuaja",
+    "semantic_change_layout": "Ndryshoni pamjen e faqes kryesore",
+    "semantic_open_layout_menu": "hapni menynë e pamjes",
+    "semantic_edit_home_settings": "Ndryshoni pamjen e faqes kryesore",
+    "semantic_list_layout": "Pamje në listë",
+    "semantic_grid_layout": "Pamje në rrjetë",
     "sematnic_360_clock_layout": "Paraqitja e orës 360",
-    "semantic_layout_menu_open": "Menyja e paraqitjes është e hapur",
+    "semantic_layout_menu_open": "Menyja e pamjes është e hapur",
     "close": "Mbyll",
     "semantic_mosque_page": "Faqja e xhamisë",
     "semantic_of": "nga",
-    "semantic_unread_mawaqit_notifications": "Njoftime të palexuara MAWAQIT",
+    "semantic_unread_mawaqit_notifications": "njoftime të palexuara nga Mawaqit",
     "back": "Kthehu",
     "semantic_download_all_surahs_for_offline_listening": "Shkarko të gjitha suret për dëgjim offline",
     "@semantic_download_all_surahs_for_offline_listening": {
@@ -1379,11 +1379,11 @@
     "@semantic_download_all_surahs": {
         "description": "-> semantic_download_all_surahs"
     },
-    "semantic_bulk_download_progress": "Progresi i shkarkimit në masë",
+    "semantic_bulk_download_progress": "Progresi i shkarkimit",
     "@semantic_bulk_download_progress": {
         "description": "-> semantic_bulk_download_progress"
     },
-    "semantic_surahs_downloaded": "Suret e shkarkuara",
+    "semantic_surahs_downloaded": "suret e shkarkuara",
     "@semantic_surahs_downloaded": {
         "description": "-> semantic_surahs_downloaded"
     },
@@ -1403,15 +1403,15 @@
     "@semantic_pause_current_surah": {
         "description": "-> semantic_pause_current_surah"
     },
-    "semantic_play_current_surah": "Luaj suret aktuale",
+    "semantic_play_current_surah": "Dëgjoni suren aktuale",
     "@semantic_play_current_surah": {
         "description": "-> semantic_play_current_surah"
     },
-    "semantic_open_play_on_watch_options_for": "Hap opsionet e luajtjes në orë për",
+    "semantic_open_play_on_watch_options_for": "Hapni opsionet e dëgjimit në orën inteligjente për",
     "@semantic_open_play_on_watch_options_for": {
         "description": "-> semantic_open_play_on_watch_options_for"
     },
-    "semantic_now_playing_surah": "Tani po luhet. Sure",
+    "semantic_now_playing_surah": "Po dëgjoni. Surja",
     "@semantic_now_playing_surah": {
         "description": "-> semantic_now_playing_surah"
     },
@@ -1419,27 +1419,27 @@
     "@semantic_recited_by": {
         "description": "-> semantic_recited_by"
     },
-    "semantic_minimize_player": "Minimizo luajtësin",
+    "semantic_minimize_player": "Minimizoni panelin e audios",
     "@semantic_minimize_player": {
         "description": "-> semantic_minimize_player"
     },
-    "semantic_elapsed": "I kaluar",
+    "semantic_elapsed": "Koha e kaluar",
     "@semantic_elapsed": {
         "description": "-> "
     },
-    "semantic_playback_time_elapsed": "Koha e riprodhimit. E kaluar",
+    "semantic_playback_time_elapsed": "Riprodhimi i audios. Koha e kaluar",
     "@semantic_playback_time_elapsed": {
         "description": "-> semantic_playback_time_elapsed"
     },
-    "semantic_remaining": "E mbetur",
+    "semantic_remaining": "Koha e mbetur",
     "@semantic_remaining": {
         "description": "-> semantic_remaining"
     },
-    "semantic_turn_shuffle_off": "Çaktivizo përzierjen",
+    "semantic_turn_shuffle_off": "Çaktivizoni renditjen e rastësishme",
     "@semantic_turn_shuffle_off": {
         "description": "-> semantic_turn_shuffle_off"
     },
-    "semantic_turn_shuffle_on": "Aktivizo përzierjen",
+    "semantic_turn_shuffle_on": "Aktivizoni renditjen e rastësishme",
     "@semantic_turn_shuffle_on": {
         "description": "-> semantic_turn_shuffle_on"
     },
@@ -1464,37 +1464,37 @@
         "description": "-> semantic_pause"
     },
     "semantic_use_current_location": "Përdor vendndodhjen aktuale",
-    "semantic_collapse_mosque_list": "Mbyll listën e xhamive",
-    "semantic_expand_mosque_list": "Zgjero listën e xhamive",
+    "semantic_collapse_mosque_list": "Mbyllni listën e xhamive",
+    "semantic_expand_mosque_list": "Zgjeroni listën e xhamive",
     "added": "U shtua",
     "not_added": "Nuk u shtua",
-    "semantic_navigate_to_mosque": "Zgjero listën e xhamive",
-    "semantic_decrease_pre_notification": "Ul kohën e njoftimit paraprak",
-    "semantic_increase_pre_notification": "Rrit kohën e njoftimit paraprak",
-    "semantic_facing_qibla": "Je i drejtuar nga Kibla",
+    "semantic_navigate_to_mosque": "Zgjeroni listën e xhamive",
+    "semantic_decrease_pre_notification": "Zvogëloni kohën e njoftimit paraprak",
+    "semantic_increase_pre_notification": "Rritni kohën e njoftimit paraprak",
+    "semantic_facing_qibla": "Jeni në drejtimin e kibles",
     "semantic_clockwise": "Në drejtim të akrepave të orës",
     "sematnic_counter_clockwise": "në drejtim të kundërt të akrepave të orës",
-    "semantic_rotate_slightly": "Gati je. Rrotullo pak",
-    "semanitc_degrees_to_qibla": "gradë drejt Kiblës",
+    "semantic_rotate_slightly": "Edhe pak. Kthejeni lehtë pajisjen",
+    "semanitc_degrees_to_qibla": "gradë drejt kibles",
     "about": "rreth",
     "rotate": "Rrotullo",
-    "semantic_close_audio_player": "Mbyll luajtësin audio",
-    "reciter_settings": "Cilësimet e recituesit",
-    "previous_verse": "Ajeti i mëparshëm",
-    "next_verse": "Ajeti tjetër",
-    "decrease": "Ule",
-    "increase": "Rrit",
+    "semantic_close_audio_player": "Mbyllni panelin e audios",
+    "reciter_settings": "Preferencat e recituesit",
+    "previous_verse": "Ajeti i paraprak",
+    "next_verse": "Ajeti vijues",
+    "decrease": "Ulni",
+    "increase": "Rritni",
     "quran_settings": "Cilësimet e Kuranit",
-    "semantic_mushaf_view": "Pamja e Mushafit",
+    "semantic_mushaf_view": "Pamja e Mus’hafit",
     "semantic_verse_list_view": "Pamja e listës së ajeteve",
     "not_downloaded": "Nuk është shkarkuar",
-    "verse_list_enabled_for_accessibility": "Modaliteti i listës së ajeteve është aktivizuar për aksesueshmëri",
-    "semantic_switch_verse_list": "Faqja e Mushafit. Kalo në pamjen e listës së ajeteve për aksesueshmëri të plotë.",
-    "semantic_decrease_hijri_adjustment": "Ul rregullimin e kalendarit hixhri",
+    "verse_list_enabled_for_accessibility": "Pamja e ajeteve në listë është aktivizuar për të lehtësuar qasjen",
+    "semantic_switch_verse_list": "Faqe e Mus’hafit. Kalo në pamjen e listës së ajeteve për qasshmëri të plotë.",
+    "semantic_decrease_hijri_adjustment": "Ulni rregullimin e kalendarit hixhri",
     "@semantic_decrease_hijri_adjustment": {
         "description": "-> semantic_decrease_hijri_adjustment"
     },
-    "semantic_minimum_adjustment_reached": "U arrit rregullimi minimal",
+    "semantic_minimum_adjustment_reached": "Është arritur kufiri minimal",
     "@semantic_minimum_adjustment_reached": {
         "description": "-> semantic_minimum_adjustment_reached"
     },
@@ -1502,19 +1502,19 @@
     "@semantic_current_adjustment": {
         "description": "-> semantic_current_adjustment"
     },
-    "semantic_increase_hijri_adjustment": "Rrit rregullimin e kalendarit hixhri",
+    "semantic_increase_hijri_adjustment": "Rritni rregullimin e kalendarit hixhri",
     "@semantic_increase_hijri_adjustment": {
         "description": "-> semantic_increase_hijri_adjustment"
     },
-    "semantic_maximum_adjustment_reached": "U arrit rregullimi maksimal",
+    "semantic_maximum_adjustment_reached": "Është arritur rregullimi maksimal",
     "@semantic_maximum_adjustment_reached": {
         "description": "-> semantic_maximum_adjustment_reached"
     },
-    "semantic_minimum_size_reached": "U arrit madhësia minimale",
+    "semantic_minimum_size_reached": "Është arritur madhësia minimale",
     "@semantic_minimum_size_reached": {
         "description": "-> semantic_minimum_size_reached"
     },
-    "semantic_decrease": "Ul",
+    "semantic_decrease": "Zvogëloni",
     "@semantic_decrease": {
         "description": "-> semantic_decrease"
     },
@@ -1526,7 +1526,7 @@
     "@semantic_increase": {
         "description": "-> semantic_increase"
     },
-    "semantic_maximum_size_reached": "U arrit madhësia maksimale",
+    "semantic_maximum_size_reached": "Është arritur madhësia maksimale",
     "@semantic_maximum_size_reached": {
         "description": "-> semantic_maximum_size_reached"
     },
@@ -1546,46 +1546,46 @@
     "semantic_view_style": "Stili i pamjes",
     "semantic_double_tap_to_change_view_style": "Prek dy herë për të ndryshuar stilin e pamjes",
     "semantic_share_dua": "Ndaj duanë",
-    "semantic_tasbih_settings": "Cilësimet e tesbihut",
+    "semantic_tasbih_settings": "Preferencat e tesbihut",
     "semantic_tasbih_counter": "Numëruesi i tesbihut",
     "semantic_previous_dua": "Duaja e mëparshme",
     "semantic_next_dua": "Duaja e radhës",
-    "semantic_dua": "Duaja e radhës",
+    "semantic_dua": "Duaja",
     "semantic_opens": "Hap",
     "semantic_opens_language_selection": "Hap përzgjedhjen e gjuhës",
     "semantic_device": "Pajisja",
     "semantic_light": "E ndritshme",
     "semantic_dark": "E errët",
-    "semantic_on": "E errët",
-    "semantic_off": "Joaktiv",
-    "semantic_ayah_list_actions": "Hiq shënuesin",
-    "remove_bookmark": "Hiq shënuesin",
-    "add_bookmark": "Shto shënues",
+    "semantic_on": "Ndezur",
+    "semantic_off": "Fikur",
+    "semantic_ayah_list_actions": "Opsionet e listës së ajeteve",
+    "remove_bookmark": "Hiqni shënues",
+    "add_bookmark": "Shtoni shënues",
     "selected": "zgjedhur",
     "double_tap_to_continue": "Prek dy herë për të vazhduar",
     "clear_search": "Pastro kërkimin",
     "mosques_found": "xhami të gjetura",
     "mosque_added": "Xhamia u shtua",
     "mosque_removed": "Xhamia u hoq",
-    "scroll_left_right_select_surah": "Rrëshqit majtas ose djathtas për të zgjedhur një sure",
-    "swipe_left_right_select_mushaf_type": "Rrëshqit majtas ose djathtas për të zgjedhur një lloj tjetër Mushafi",
+    "scroll_left_right_select_surah": "Lëvizni majtas ose djathtas për të zgjedhur një sure",
+    "swipe_left_right_select_mushaf_type": "Lëvizni majtas ose djathtas për të zgjedhur një lloj tjetër Mushafi",
     "location_permission_required": "Kërkohet leja e vendndodhjes",
     "semantic_previous_month": "Muaji i mëparshëm",
-    "semantic_next_month": "Muaji tjetër",
+    "semantic_next_month": "Muaji i ardhshëm",
     "semantic_view_image": "Shfaq imazhin",
-    "access_location_details": "Për t'ju treguar motin lokal të saktë, drejtimin e Kiblës dhe informacionin për xhamitë bazuar në pozicionin tuaj aktual, MAWAQIT ka nevojë për qasje në vendndodhjen tuaj. Ju e keni refuzuar më parë këtë leje.",
+    "access_location_details": "Për t’ju shfaqur të dhëna të sakta për motin lokal, drejtimin e kibles dhe xhamitë pranë jush, MAWAQIT ka nevojë për leje për të përdorur vendndodhjen tuaj. Këtë leje e keni refuzuar më parë.",
     "location_off": "Vendndodhja e çaktivizuar",
     "semantic_pre_notification_time": "koha e njoftimit paraprak",
     "@semantic_pre_notification_time": {
         "description": "-> semantic_pre_notification_time"
     },
-    "search_for_mosque_or_enable_location": "Nuk mund të sugjerojmë xhaminë më të afërt sepse qasja në vendndodhje është refuzuar. Ju lutemi kërkoni një xhami ose aktivizoni lejen e vendndodhjes.",
-    "location": "Vendndodhja",
+    "search_for_mosque_or_enable_location": "Nuk mund t’ju sugjerojmë xhaminë më të afërt, sepse nuk është dhënë leja për të përdorur vendndodhjen tuaj. Kërkoni një xhami ose aktivizoni lejen e vendndodhjes.",
+    "location": "Lokacioni",
     "stop": "Ndalo",
-    "plays_adhan_prayer_arrives": "Luajn ezanin kur hyn koha e namazit",
-    "play_in_silent_mode": "Luaj në modalitetin pa zë",
-    "notifications_not_arriving": "Njoftimet nuk po vijnë?",
-    "android_phones_aggressively": "Disa telefona Android i mbyllin aplikacionet në sfond në mënyrë agresive.",
+    "plays_adhan_prayer_arrives": "Ezani dëgjohet sapo të hyjë koha e namazit",
+    "play_in_silent_mode": "Ezani edhe kur telefoni është pa zë",
+    "notifications_not_arriving": "Keni probleme me njoftimet?",
+    "android_phones_aggressively": "Disa telefona Android i mbyllin me forcë aplikacionet që punojnë në sfond.",
     "elmir_kuliev": "Elmir Kuliev",
     "@elmir_kuliev": {
         "description": "-> Elmir Kuliev"
@@ -1595,42 +1595,42 @@
         "description": "-> besim_korkut"
     },
     "settings_language_bs": "Boshnjakisht",
-    "something_wrong_getting_location": "Diçka shkoi keq gjatë marrjes së vendndodhjes suaj. Ju lutemi provoni përsëri.",
+    "something_wrong_getting_location": "Ndodhi një gabim gjatë përcaktimit të vendndodhjes suaj. Ju lutemi, provoni përsëri.",
     "custom_volume": "Volum i personalizuar",
-    "general": "Të përgjithshme",
-    "prayer_location": "Namazi dhe Vendndodhja",
+    "general": "Preferencat",
+    "prayer_location": "Namazi dhe Lokacioni",
     "privacy": "Privatësia",
-    "play_full_adhan": "Luaj ezanin e plotë",
-    "full_adhan_will_keep_repeating": "Ezani i plotë do të vazhdojë të përsëritet derisa ta mbyllni.",
+    "play_full_adhan": "Dëgjoni ezanin e plotë",
+    "full_adhan_will_keep_repeating": "Ezani i plotë do të përsëritet derisa ta ndaloni.",
     "hussein_taji_kal_dari": "Hussein Taji Kal Dari",
     "settings_language_fa": "Persisht",
     "mawaqit_non_profit": "MAWAQIT organizatë jofitimprurëse · falas për të gjithë",
-    "garmin_watch_detected": "U zbulua ora Garmin",
-    "garmin_support_detected": "U zbulua mbështetja për Garmin në pajisjen tuaj. Dëshironi të sinkronizoni oraret e namazit me orën tuaj Garmin?",
-    "never_remind_me": "Mos më kujto më",
-    "remind_me_later": "Kujtomë më vonë",
-    "you_can_enable_garmin_sync": "Mund ta aktivizoni sinkronizimin Garmin në çdo kohë te Cilësimet → Veprimet në pritje.",
+    "garmin_watch_detected": "U zbulua një orë Garmin",
+    "garmin_support_detected": "Pajisja juaj mbështet lidhjen me Garmin. Dëshironi t’i sinkronizoni kohët e namazit me orën tuaj Garmin?",
+    "never_remind_me": "Mos ma kujtoni më",
+    "remind_me_later": "Ma kujtoni më vonë",
+    "you_can_enable_garmin_sync": "Mund ta aktivizoni sinkronizimin me Garmin në çdo kohë te Preferencat→ Veprimet në pritje",
     "pending_actions": "Veprimet në pritje",
     "setup_garmin_watch": "Konfiguro orën Garmin",
-    "sync_prayer_times_garmin": "Sinkronizo oraret e namazit me orën Garmin",
+    "sync_prayer_times_garmin": "Sinkronizoni kohët e namazit me orën tuaj Garmin",
     "setup_garmin": "Konfiguro Garmin",
-    "open_garmin_device_selection": "Hap zgjedhjen e pajisjes Garmin",
-    "admin_adminTitle": "Administrimi i xhamisë",
-    "admin_adminTileSubtitle": "Njoftime, cilësime të namazit dhe ezani",
-    "admin_signInHeadline": "Menaxho xhaminë tënde",
-    "admin_signInIntro": "Hyr me llogarinë që përdor në mawaqit.net për të menaxhuar xhamitë për të cilat je përgjegjës.",
-    "admin_capabilityMessages": "Publikimi i njoftimeve dhe i një mesazhi të shpejtë",
-    "admin_capabilityTimes": "Caktimi i orareve të ikametit, xhumasë dhe Bajramit",
-    "admin_capabilityAdhan": "Zgjedhja e ezanit dhe e mënyrës së luajtjes",
-    "admin_notAnAdminTitle": "Nuk je ende administrator?",
+    "open_garmin_device_selection": "Hapni listën për të zgjedhur pajisjen Garmin",
+    "admin_adminTitle": "Administratori i xhamisë",
+    "admin_adminTileSubtitle": "Njoftimet, preferencat e namazit dhe ezani",
+    "admin_signInHeadline": "Menaxhoni xhaminë tuaj",
+    "admin_signInIntro": "Hyni me llogarinë që përdorni në mawaqit.net për të menaxhuar xhamitë që administroni.",
+    "admin_capabilityMessages": "Publikoni njoftime dhe një mesazh të shkurtër",
+    "admin_capabilityTimes": "Caktoni kohët e ikametit, xhumasë dhe namazit të Bajramit",
+    "admin_capabilityAdhan": "Zgjidhni ezanin dhe mënyrën e lëshimit të tij",
+    "admin_notAnAdminTitle": "Nuk jeni ende administrator?",
     "admin_notAnAdminBody": "Xhamitë regjistrohen në faqen e MAWAQIT, ku ekipi i shqyrton para se llogaria të aktivizohet.",
-    "admin_registerMosque": "Regjistro një xhami",
-    "admin_registerUnavailable": "Faqja nuk mund të hapej.",
-    "admin_signIn": "Hyr",
-    "admin_signInAgain": "Hyr sërish",
-    "admin_sessionExpired": "Sesioni yt ka skaduar.",
-    "admin_myMosques": "Xhamitë e mia",
-    "admin_logOut": "Dil",
+    "admin_registerMosque": "Regjistroni xhaminë tuaj",
+    "admin_registerUnavailable": "Faqja e internetit nuk mund të hapej.",
+    "admin_signIn": "Hyni",
+    "admin_signInAgain": "Hyni përsëri",
+    "admin_sessionExpired": "Sesioni juaj ka skaduar.",
+    "admin_myMosques": "Xhamitë që administroj",
+    "admin_logOut": "Dilni nga llogaria",
     "admin_noMosques": "Nuk u gjet asnjë xhami.",
     "admin_archivedNotConfigurable": "Kjo xhami është arkivuar — nuk mund të konfigurohet.",
     "admin_mosqueId": "ID {id}",
@@ -1648,14 +1648,14 @@
     "admin_configurationTitle": "Konfigurimi",
     "admin_configurationSaved": "Konfigurimi u ruajt",
     "admin_oneUnsavedChange": "1 ndryshim i paruajtur",
-    "admin_sectionRegional": "Cilësimet rajonale",
+    "admin_sectionRegional": "Konfigurimet rajonale",
     "admin_sectionAdhan": "Ezani",
     "admin_sectionIqama": "Ikameti",
     "admin_sectionJumua": "Xhumaja",
     "admin_sectionPrayerDuration": "Kohëzgjatja e namazit",
-    "admin_sectionDuas": "Lutjet dhe hadithet",
+    "admin_sectionDuas": "Duatë dhe hadithet",
     "admin_sectionEid": "Bajrami dhe Ramazani",
-    "admin_sectionNotYet": "Ende nuk mund të ndryshohet në aplikacion",
+    "admin_sectionNotYet": "Ndryshimi në aplikacion nuk është ende i mundur",
     "admin_iqamaEnabled": "Ikameti i aktivizuar",
     "admin_iqamaEnabledHelp": "Çaktivizimi i kësaj bën që në ekranin e xhamisë të mos shfaqen as kohët e pritjes, as sinjali i ikametit, as lutjet pas namazit.",
     "admin_iqamaWaitingTimes": "PRITJA PAS EZANIT (MINUTA)",
@@ -1710,7 +1710,7 @@
     "admin_dstLabel": "Ora verore",
     "admin_dstDatesNote": "Datat e kalimit mes orës verore dhe dimërore mbeten të pandryshuara — caktoji në faqen e internetit.",
     "admin_hijriAdjustmentLabel": "Rregullimi i datës",
-    "admin_jumuaTimeGroup": "ORARI I XHUMASË",
+    "admin_jumuaTimeGroup": "KOHA E XHUMASË",
     "admin_jumuaDuringGroup": "GJATË XHUMASË",
     "admin_jumuaSameAsDuhr": "I njëjti orar si dreka",
     "admin_jumuaFollowsDuhr": "Falet në drekë — orari yt ruhet.",
