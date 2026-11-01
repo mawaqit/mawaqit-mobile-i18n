@@ -80,7 +80,7 @@
         "type": "text"
     },
     "settings_WhatsNew": "Vad är nytt",
-    "settings_SupportMawaqit": "Stöd MAWAQIT",
+    "settings_SupportMawaqit": "Stödja MAWAQIT",
     "settings_News": "Nyheter",
     "settings_MakeADonation": "Donera",
     "bismillah": "Bismillah",
@@ -168,47 +168,47 @@
         "description": "_",
         "type": "text"
     },
-    "adhan": "Adhan",
+    "adhan": "Böneutrop ",
     "@adhan": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah_fajr": "Makkah (Fajr)",
+    "adhan_Makkah_fajr": "Böneutrop från Makkah (Fajr)",
     "@adhan_Makkah_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Madinah": "Medinah",
+    "adhan_Madinah": "Böneutrop från Medinah",
     "@adhan_Madinah": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Qods": "Quds",
+    "adhan_Qods": "Böneutrop från Quds",
     "@adhan_Qods": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy": "Al Afassy",
+    "adhan_AlAfassy": "Böneutroparen Al Afassy",
     "@adhan_AlAfassy": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AlAfassy_fajr": "Al Afassy (Fajr)",
+    "adhan_AlAfassy_fajr": "Böneutroparen Al Afassy (Fajr)",
     "@adhan_AlAfassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_Muhammad_jazy": "Muhammad Jazy",
+    "adhan_Muhammad_jazy": "Böneutroparen Muhammad Jazy",
     "@adhan_AlAfadhan_Muhammad_jazyassy_fajr": {
         "description": "_",
         "type": "text"
     },
-    "adhan_AbdAlBassat": "Abdul Basit",
+    "adhan_AbdAlBassat": "Böneutroparen Abdul Basit",
     "@adhan_AbdAlBassat": {
         "description": "_",
         "type": "text"
     },
-    "adhan_type": "Välj en typ av adhan. Detta val används för alla böner med adhan-notiser.",
+    "adhan_type": "Välj en typ av adhan (böneutrop). Detta val används för alla böner med adhan-notiser.",
     "@adhan_type": {
         "description": "_",
         "type": "text"
@@ -586,7 +586,7 @@
         "description": "_",
         "type": "text"
     },
-    "minutes_to_athan": "minuter till adhan",
+    "minutes_to_athan": "minuter till Adhan (böneutrop)",
     "@minutes_to_athan": {
         "description": "minutes to athan",
         "type": "text"
@@ -626,7 +626,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Välj en bönenotis",
+    "tutorial_title_notification": "Välj en bön notis ",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
@@ -671,17 +671,17 @@
         "description": "_",
         "type": "text"
     },
-    "adhan_Makkah": "Mecka",
+    "adhan_Makkah": "Meckah ",
     "@adhan_Makkah": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_iqama": "Iqama",
+    "tutorial_title_iqama": "Bönens början ",
     "@tutorial_title_iqama": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Här ser du hur lång tid det är mellan Adhan och Iqama i moskén.",
+    "tutorial_text_iqama": "Här ser du hur lång tid det är mellan Adhan (böneutrop)och Iqama (bönens början) i moskén.",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -737,14 +737,14 @@
     "quran_search_placeholder": "Sök efter surans namn eller nummer...",
     "quran_verse_search": "Verssökning",
     "quran_translation": "Översättning",
-    "quran_mushaf": "Mushaf",
-    "quran_juzz": "Juz",
+    "quran_mushaf": "Mushaf koran ",
+    "quran_juzz": "Juz (läsdel)",
     "ayah": "Vers",
     "quran_verses": "Verser",
     "surah": "Sura",
     "continue_reading": "Fortsätt läs",
     "bookmarks": "Bokmärken",
-    "juzz": "Juz",
+    "juzz": "Juz (läsdel)",
     "quran_page": "Sida",
     "quran_turning_page": "Sidbläddring",
     "quran_from_right_to_left": "Från höger till vänster",
@@ -824,7 +824,7 @@
     "download_failed": "Nedladdning misslyckades",
     "download_pages": "Ladda ner sidorna",
     "notification": "Avisering",
-    "notification_not_supported_below_7": "Din enhet använder Android 7 eller äldre och stöder därför inte adhan- eller böntids aviseringar.",
+    "notification_not_supported_below_7": "Din enhet använder Android 7 eller äldre och stöder därför inte böneutrop - eller böntids notiser.",
     "battery_optimization": "Batterioptimering",
     "battery_optimization_subtitle": "För att ta emot bönetidsaviseringar utan avbrott måste du stänga av batterioptimeringen för MAWAQIT.",
     "allow": "Tillåt",
@@ -834,10 +834,10 @@
     "enable": "På",
     "disable": "Av",
     "do_not_show_again": "Visa inte detta igen",
-    "force_notification_title": "MAWAQIT är aktiv för att säkerställa att böntidsaviseringar skickas i tid.",
+    "force_notification_title": "MAWAQIT är aktiv för att säkerställa att böntids notiser skickas i tid.",
     "force_notification_body": "Bönen är alla troendes plikt knuten till bestämda tider (An-Nisa', vers 4: 103)",
     "force_notification_dialog1_body": "Aktivera detta alternativ för att säkerställa att böntidsaviseringar skickas i tid utan fördröjning. Funktionen kan när som helst stängas av i inställningarna.",
-    "force_notification_dialog2_body": "Svep ner aviseringfältet för att se notisen",
+    "force_notification_dialog2_body": "Efter att ha aktiverat 'Tvinga aviseringar', svep ned aviseringspanelen så ser du denna avisering där",
     "notification_debugging": "Felsökning av aviseringar",
     "notification_debugging_details": "Aviseringsfelsökning är aktiverad. Om du ändrar aviseringsinställningarna kommer felsökningsdata att gå förlorad och felsökningen att inaktiveras.",
     "skip": "Hoppa över",
@@ -971,9 +971,9 @@
     "highlight_next_prayer_after_Iqama": "Markera nästa bön efter iqama",
     "helmi_nasr": "Dr. Helmi Nasr",
     "settings_language_pt": "Portugisiska",
-    "al_zikr": "Al Dhikr ",
-    "favorite_azkar": "Favorit-dhikr",
-    "all_azkar": "Al Adhkar",
+    "al_zikr": "Åminnelse ",
+    "favorite_azkar": "Favorit åminnelse ",
+    "all_azkar": "Åminnelser",
     "device_audio_not_found": "Ingen ljudfil hittades på enheten",
     "@device_audio_not_found": {
         "description": "-> device_audio_not_found"
@@ -1354,7 +1354,7 @@
         "description": "this_will_download_all_surahs_for_offline"
     },
     "tap_change_notification": "Tryck för att ändra avisering",
-    "adhan_at": "Adhan om",
+    "adhan_at": "Böneutrop om",
     "semantic_mawaqit_notification": "olästa aviseringar från MAWAQIT",
     "semantic_open_notifications": "Öppna aviseringar",
     "semantic_tap_to_change_notification": "Tryck för att ändra aviseringsinställningar",
@@ -1477,7 +1477,7 @@
     "semantic_rotate_slightly": "Nästan klart. Vrid lite till",
     "semanitc_degrees_to_qibla": "Grader till Qibla",
     "about": "Om",
-    "rotate": "Vrid",
+    "rotate": "Rotera ",
     "semantic_close_audio_player": "Stäng ljudspelaren",
     "reciter_settings": "Recitatörs inställningar",
     "previous_verse": "Föregående vers",
@@ -1600,8 +1600,8 @@
     "general": "Allmänt",
     "prayer_location": "Bön och plats",
     "privacy": "Sekretess",
-    "play_full_adhan": "Spela upp hela adhan",
-    "full_adhan_will_keep_repeating": "Hela adhan uppspelningen upprepas tills du stänger av den.",
+    "play_full_adhan": "Spela upp hela böneutrop",
+    "full_adhan_will_keep_repeating": "Hela böneutropet uppspelningen upprepas tills du stänger av den.",
     "hussein_taji_kal_dari": "Hussein Taji kal dari",
     "settings_language_fa": "Persiska",
     "mawaqit_non_profit": "MAWAQIT är en ideell organisation – gratis för alla.",
@@ -1616,12 +1616,12 @@
     "setup_garmin": "Konfigurera Garmin",
     "open_garmin_device_selection": "Öppna valet av Garmin-enhet",
     "admin_adminTitle": "Moskéadministration",
-    "admin_adminTileSubtitle": "Meddelanden, bön inställningar och adhan",
+    "admin_adminTileSubtitle": "Meddelanden, bön inställningar och böneutrop ",
     "admin_signInHeadline": "Hantera din moské",
     "admin_signInIntro": "Logga in med kontot du använder på mawaqit.net för att hantera de moskéer du ansvarar för.",
     "admin_capabilityMessages": "Publicera meddelanden och ett snabbmeddelande",
-    "admin_capabilityTimes": "Ställa in tider för iqama, fredagsbön och Eid",
-    "admin_capabilityAdhan": "Välja adhan och hur ska den spelas upp",
+    "admin_capabilityTimes": "Ställa in tider för bönens början, fredagsbön och Eid",
+    "admin_capabilityAdhan": "Välja böneutrop och hur ska den spelas upp",
     "admin_notAnAdminTitle": "Inte administratör än?",
     "admin_notAnAdminBody": "Moskéer registreras på MAWAQIT webbplats, där teamet granskar dem innan kontot aktiveras.",
     "admin_registerMosque": "Registrera moské",
@@ -1649,22 +1649,22 @@
     "admin_configurationSaved": "Konfigurationen sparad",
     "admin_oneUnsavedChange": "1 Osparade ändring",
     "admin_sectionRegional": "Regionala inställningar",
-    "admin_sectionAdhan": " Adhan",
-    "admin_sectionIqama": "Iqama",
+    "admin_sectionAdhan": " Böneutrop ",
+    "admin_sectionIqama": "Bönens början ",
     "admin_sectionJumua": "Fredagsbön ",
     "admin_sectionPrayerDuration": "Bönens längd",
     "admin_sectionDuas": "Åkallan och hadither",
     "admin_sectionEid": "Ramadan och Eid ",
     "admin_sectionNotYet": "Går inte att ändra i appen än",
-    "admin_iqamaEnabled": "Iqama aktiverad",
-    "admin_iqamaEnabledHelp": "Om du stänger av detta visas inte heller väntetiderna, iqama signalen eller bönerna efter bönen på moskéskärmen.",
-    "admin_iqamaWaitingTimes": "Vänta tid efter Adhan (minuter)",
-    "admin_iqamaSignal": "Iqama signal ",
+    "admin_iqamaEnabled": "Bönens början aktiverad",
+    "admin_iqamaEnabledHelp": "Om du stänger av detta stoppas även väntetiderna,bönens början -signalen och/åkallan efter bönen från att visas på moskéskärmen.",
+    "admin_iqamaWaitingTimes": "Vänta tid efter böneutrop (minuter)",
+    "admin_iqamaSignal": "Bönens början signal ",
     "admin_iqamaSound": "Ljud",
     "admin_iqamaCountdown": "Nedräkning i helskärm",
     "admin_iqamaDisplayTime": "Signalens visningstid",
-    "admin_iqamaAlwaysHhMm": "Visa alltid iqama tider som hh:mm",
-    "admin_iqamaCalendarNote": "Iqama tider som satts via kalendern förblir oförändrade — ändra dem på webbplatsen.",
+    "admin_iqamaAlwaysHhMm": "Visa alltid bönens början  tider som hh:mm",
+    "admin_iqamaCalendarNote": "Bönens början tider som satts via kalendern förblir oförändrade — ändra dem på webbplatsen.",
     "admin_eidPrayerTimes": "Bönetider för Eid",
     "admin_ramadanImsak": "Ramadan  ",
     "admin_eidPrayerHelp": "Visas på moskéns skärm under veckan före Eid. Lämna bönetiden tom om bönen inte hålls.",
@@ -1674,8 +1674,8 @@
     "admin_eidNoPrayerTime": "Ingen bönetid inställd",
     "admin_adhanSoundLabel": "Ljud",
     "admin_adhanPlaysFor": "Spelas för ",
-    "admin_adhanDurationLabel": "Adhans längd",
-    "admin_adhanDurationHelp": "Det här ljudet slutar spelas upp innan Adhan är avslutat. Därför behöver du ange hur lång tid det tar för moskéns böneutropare att genomföra Adhan.",
+    "admin_adhanDurationLabel": "Böneutrops längd",
+    "admin_adhanDurationHelp": "Det här ljudet slutar spelas upp innan böneutrop är avslutat. Därför behöver du ange hur lång tid det tar för moskéns böneutropare att genomföra böneutropet ",
     "admin_customAdhanFile": "Uppladdad fil: {name}",
     "@admin_customAdhanFile": {
         "placeholders": {
@@ -2077,11 +2077,11 @@
     "@before_sunrise": {
         "description": "Before Sunrise"
     },
-    "live_countdown_description": "Nedräkning till adhan i dina aviseringar.",
+    "live_countdown_description": "Nedräkning till adhan i dina notiser.",
     "@live_countdown_description": {
         "description": "Countdown to Adhan in your notifications."
     },
-    "live_countdown_description_sunrise": "Nedräkning till soluppgång i dina aviseringar.",
+    "live_countdown_description_sunrise": "Nedräkning till soluppgång i dina notiser.",
     "@live_countdown_description_sunrise": {
         "description": "Countdown to Sunrise in your notifications."
     },
@@ -2113,11 +2113,11 @@
     "@semantic_download_surah": {
         "description": "Screen reader: download button next to a surah in the reciter's \"Surahs downloaded\" list. {surah} is the surah name."
     },
-    "semantic_delete_surah_download": "Ta bort nedladdningen av {surah}",
+    "semantic_delete_surah_download": "Ta bort nedladdningen för {surah}",
     "@semantic_delete_surah_download": {
         "description": "Screen reader: bin button next to a saved surah in the reciter's \"Surahs downloaded\" list. {surah} is the surah name."
     },
-    "semantic_cancel_surah_download": "Avbryt nedladdningen av {surah}, {percent} %",
+    "semantic_cancel_surah_download": "Avbryt nedladdning för {surah} , {percent} %",
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
     }
