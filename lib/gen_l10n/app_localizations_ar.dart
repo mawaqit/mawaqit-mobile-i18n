@@ -3400,4 +3400,15 @@ class AppLocalizationsAr extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'إلغاء تنزيل $surah، $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'This device has no compass, so MAWAQIT can\'t show the Qibla direction on it.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'No compass reading yet. Hold your phone flat and move it in a figure-of-eight, away from metal and magnets.';
+
+  @override
+  String get qibla_updating_location => 'Updating your location…';
 }
