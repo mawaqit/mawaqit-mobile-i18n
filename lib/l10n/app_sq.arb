@@ -2120,5 +2120,17 @@
     "semantic_cancel_surah_download": "Anulo shkarkimin: {surah}, {percent}%",
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
+    },
+    "qibla_compass_unavailable": "Kjo pajisje nuk ka busull, prandaj MAWAQIT nuk mund të shfaqë në të drejtimin e Kiblës.",
+    "@qibla_compass_unavailable": {
+        "description": "Qibla screen: the phone has no heading sensor."
+    },
+    "qibla_no_compass_reading": "Ende nuk ka lexim nga busulla. Mbajeni telefonin horizontalisht dhe lëvizeni në formë të një teti, larg metaleve dhe magneteve.",
+    "@qibla_no_compass_reading": {
+        "description": "Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button."
+    },
+    "qibla_updating_location": "Po përditësohet vendndodhja juaj…",
+    "@qibla_updating_location": {
+        "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     }
 }
