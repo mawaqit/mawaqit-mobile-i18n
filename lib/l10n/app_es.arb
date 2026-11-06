@@ -2120,5 +2120,17 @@
     "semantic_cancel_surah_download": "Cancelar la descarga de {surah}, {percent} %",
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
+    },
+    "qibla_compass_unavailable": "Este dispositivo no tiene brújula, por lo que MAWAQIT no puede mostrar en él la dirección de la Qibla.",
+    "@qibla_compass_unavailable": {
+        "description": "Qibla screen: the phone has no heading sensor."
+    },
+    "qibla_no_compass_reading": "Todavía no hay lectura de la brújula. Mantenga su teléfono en horizontal y muévalo dibujando un ocho, lejos de metales e imanes.",
+    "@qibla_no_compass_reading": {
+        "description": "Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button."
+    },
+    "qibla_updating_location": "Actualizando su ubicación…",
+    "@qibla_updating_location": {
+        "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     }
 }

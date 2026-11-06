@@ -3433,4 +3433,15 @@ class AppLocalizationsUg extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'چۈشۈرۈشتىن ۋاز كېچىش: $surah، $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'بۇ ئۈسكۈنىدە كومپاس يوق، شۇڭا مەۋاقىت ئۇنىڭدا قىبلە يۆنىلىشىنى كۆرسىتەلمەيدۇ.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'تېخى كومپاس ئۇچۇرى يوق. تېلېفونىڭىزنى تۈز تۇتۇپ، مېتال ۋە ماگنىتتىن يىراق جايدا 8 شەكلىدە ھەرىكەتلەندۈرۈڭ.';
+
+  @override
+  String get qibla_updating_location => 'ئورنىڭىز يېڭىلىنىۋاتىدۇ…';
 }

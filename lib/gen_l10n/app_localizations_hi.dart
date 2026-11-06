@@ -3431,4 +3431,15 @@ class AppLocalizationsHi extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Cancel $surah download, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'इस डिवाइस में कम्पास नहीं है, इसलिए MAWAQIT इस पर क़िबला की दिशा नहीं दिखा सकता।';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'अभी तक कम्पास की कोई रीडिंग नहीं मिली। अपने फ़ोन को समतल पकड़ें और धातु व चुंबक से दूर उसे 8 के आकार में घुमाएँ।';
+
+  @override
+  String get qibla_updating_location => 'आपकी लोकेशन अपडेट की जा रही है…';
 }

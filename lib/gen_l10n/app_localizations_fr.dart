@@ -3480,4 +3480,15 @@ class AppLocalizationsFr extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Annuler le téléchargement de $surah, $percent %';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'Cet appareil n\'a pas de boussole, MAWAQIT ne peut donc pas y afficher la direction de la Qibla.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'Aucune mesure de la boussole pour l\'instant. Tenez votre téléphone à plat et déplacez-le en dessinant un huit, loin du métal et des aimants.';
+
+  @override
+  String get qibla_updating_location => 'Mise à jour de votre position…';
 }

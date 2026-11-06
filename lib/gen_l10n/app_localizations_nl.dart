@@ -3450,4 +3450,15 @@ class AppLocalizationsNl extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Download van $surah annuleren, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'Dit apparaat heeft geen kompas, dus MAWAQIT kan hierop de Qibla-richting niet tonen.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'Nog geen kompasmeting. Houd uw telefoon plat en beweeg hem in de vorm van een acht, uit de buurt van metaal en magneten.';
+
+  @override
+  String get qibla_updating_location => 'Uw locatie wordt bijgewerkt…';
 }

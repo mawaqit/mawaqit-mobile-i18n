@@ -3434,4 +3434,15 @@ class AppLocalizationsBn extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return '$surah ডাউনলোড বাতিল করুন, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'এই ডিভাইসে কম্পাস নেই, তাই MAWAQIT এতে কিবলার দিক দেখাতে পারে না।';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'এখনও কম্পাসের কোনো রিডিং পাওয়া যায়নি। ফোনটি সমতলভাবে ধরে ধাতু ও চুম্বক থেকে দূরে ৮-এর আকারে নাড়ান।';
+
+  @override
+  String get qibla_updating_location => 'আপনার অবস্থান আপডেট করা হচ্ছে…';
 }

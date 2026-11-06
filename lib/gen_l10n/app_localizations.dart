@@ -34,6 +34,7 @@ import 'app_localizations_pt.dart';
 import 'app_localizations_ru.dart';
 import 'app_localizations_si.dart';
 import 'app_localizations_sq.dart';
+import 'app_localizations_sr.dart';
 import 'app_localizations_sv.dart';
 import 'app_localizations_ta.dart';
 import 'app_localizations_th.dart';
@@ -157,6 +158,7 @@ abstract class AppLocalizations {
     Locale('ru'),
     Locale('si'),
     Locale('sq'),
+    Locale('sr'),
     Locale('sv'),
     Locale('ta'),
     Locale('th'),
@@ -6497,6 +6499,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Cancel {surah} download, {percent}%'**
   String semantic_cancel_surah_download(Object percent, Object surah);
+
+  /// Qibla screen: the phone has no heading sensor.
+  ///
+  /// In en, this message translates to:
+  /// **'This device has no compass, so MAWAQIT can\'t show the Qibla direction on it.'**
+  String get qibla_compass_unavailable;
+
+  /// Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button.
+  ///
+  /// In en, this message translates to:
+  /// **'No compass reading yet. Hold your phone flat and move it in a figure-of-eight, away from metal and magnets.'**
+  String get qibla_no_compass_reading;
+
+  /// Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found.
+  ///
+  /// In en, this message translates to:
+  /// **'Updating your location…'**
+  String get qibla_updating_location;
 }
 
 class _AppLocalizationsDelegate
@@ -6539,6 +6559,7 @@ class _AppLocalizationsDelegate
     'ru',
     'si',
     'sq',
+    'sr',
     'sv',
     'ta',
     'th',
@@ -6624,6 +6645,8 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
       return AppLocalizationsSi();
     case 'sq':
       return AppLocalizationsSq();
+    case 'sr':
+      return AppLocalizationsSr();
     case 'sv':
       return AppLocalizationsSv();
     case 'ta':

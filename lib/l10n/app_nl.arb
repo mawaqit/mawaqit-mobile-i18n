@@ -2120,5 +2120,17 @@
     "semantic_cancel_surah_download": "Download van {surah} annuleren, {percent}%",
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
+    },
+    "qibla_compass_unavailable": "Dit apparaat heeft geen kompas, dus MAWAQIT kan hierop de Qibla-richting niet tonen.",
+    "@qibla_compass_unavailable": {
+        "description": "Qibla screen: the phone has no heading sensor."
+    },
+    "qibla_no_compass_reading": "Nog geen kompasmeting. Houd uw telefoon plat en beweeg hem in de vorm van een acht, uit de buurt van metaal en magneten.",
+    "@qibla_no_compass_reading": {
+        "description": "Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button."
+    },
+    "qibla_updating_location": "Uw locatie wordt bijgewerkt…",
+    "@qibla_updating_location": {
+        "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     }
 }

@@ -3437,4 +3437,15 @@ class AppLocalizationsKu extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Cancel $surah download, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'ئەم ئامێرە قیبلەنمای تێدا نییە، بۆیە مەواقیت ناتوانێت ئاڕاستەی قیبلەی لەسەر پیشان بدات.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'هێشتا هیچ خوێندنەوەیەکی قیبلەنما نییە. مۆبایلەکەت بە تەختی ڕابگرە و بە شێوەی ژمارە ٨ بیجوڵێنە، دوور لە کانزا و موگناتیس.';
+
+  @override
+  String get qibla_updating_location => 'شوێنەکەت نوێ دەکرێتەوە…';
 }

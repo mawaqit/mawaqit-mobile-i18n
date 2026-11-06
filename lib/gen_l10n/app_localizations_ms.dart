@@ -3428,4 +3428,15 @@ class AppLocalizationsMs extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Cancel $surah download, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'Peranti ini tidak mempunyai kompas, jadi MAWAQIT tidak dapat memaparkan arah Kiblat padanya.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'Belum ada bacaan kompas. Pegang telefon anda secara mendatar dan gerakkannya membentuk angka lapan, jauh daripada logam dan magnet.';
+
+  @override
+  String get qibla_updating_location => 'Mengemas kini lokasi anda…';
 }
