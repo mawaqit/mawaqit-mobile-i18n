@@ -3451,4 +3451,15 @@ class AppLocalizationsHu extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Letöltés megszakítása: $surah, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'Ezen az eszközön nincs iránytű, ezért a MAWAQIT nem tudja megjeleníteni rajta a Qibla irányát.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'Még nincs iránytűadat. Tartsa a telefont vízszintesen, és mozgassa nyolcas alakban, fémektől és mágnesektől távol.';
+
+  @override
+  String get qibla_updating_location => 'A tartózkodási hely frissítése…';
 }

@@ -3428,4 +3428,15 @@ class AppLocalizationsPs extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Cancel $surah download, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'دا وسیله قطب‌نما نه لري، نو مواقیت پرې د قبلې لوری نه شي ښودلی.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'تر اوسه د قطب‌نما لوستنه نه ده ترلاسه شوې. خپل تلیفون هوار ونیسئ او د فلز او مقناطیس څخه لرې یې د ۸ عدد په بڼه وخوځوئ.';
+
+  @override
+  String get qibla_updating_location => 'ستاسو موقعیت تازه کېږي…';
 }

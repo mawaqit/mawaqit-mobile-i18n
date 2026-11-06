@@ -3427,4 +3427,15 @@ class AppLocalizationsSi extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Cancel $surah download, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'මෙම උපාංගයේ මාලිමාවක් නොමැති නිසා, MAWAQIT හට එහි කිබ්ලා දිශාව පෙන්විය නොහැක.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'තවමත් මාලිමා කියවීමක් නැත. ඔබගේ දුරකථනය සමතලව අල්ලාගෙන, ලෝහ සහ චුම්බකවලින් ඈතව, අංක 8 හැඩයට චලනය කරන්න.';
+
+  @override
+  String get qibla_updating_location => 'ඔබගේ ස්ථානය යාවත්කාලීන වෙමින්…';
 }

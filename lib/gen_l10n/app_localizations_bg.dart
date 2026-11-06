@@ -3436,4 +3436,15 @@ class AppLocalizationsBg extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Cancel $surah download, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'Това устройство няма компас, затова MAWAQIT не може да покаже на него посоката на Кибла.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'Все още няма данни от компаса. Дръжте телефона хоризонтално и го движете във формата на осмица, далеч от метал и магнити.';
+
+  @override
+  String get qibla_updating_location => 'Местоположението ви се актуализира…';
 }

@@ -3417,6 +3417,17 @@ class AppLocalizationsFa extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'لغو دانلود $surah، $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'این دستگاه قطب‌نما ندارد، بنابراین مواقیت نمی‌تواند جهت قبله را روی آن نشان دهد.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'هنوز داده‌ای از قطب‌نما دریافت نشده است. گوشی خود را صاف نگه دارید و آن را دور از فلز و آهن‌ربا به شکل عدد ۸ حرکت دهید.';
+
+  @override
+  String get qibla_updating_location => 'در حال به‌روزرسانی موقعیت شما…';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6841,4 +6852,15 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'Cancel $surah download, $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'این دستگاه قطب‌نما ندارد، بنابراین مواقیت نمی‌تواند جهت قبله را روی آن نشان دهد.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'هنوز معلوماتی از قطب‌نما دریافت نشده است. تیلفون خود را هموار نگه دارید و آن را دور از فلز و مقناطیس به شکل عدد ۸ حرکت دهید.';
+
+  @override
+  String get qibla_updating_location => 'در حال تازه‌سازی موقعیت شما…';
 }

@@ -3417,4 +3417,15 @@ class AppLocalizationsTr extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return 'İndirmeyi iptal et: $surah, %$percent';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'Bu cihazda pusula bulunmadığı için MAWAQIT bu cihazda Kıble yönünü gösteremiyor.';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'Henüz pusula verisi yok. Telefonunuzu düz tutun ve metal ile mıknatıslardan uzakta sekiz çizecek şekilde hareket ettirin.';
+
+  @override
+  String get qibla_updating_location => 'Konumunuz güncelleniyor…';
 }

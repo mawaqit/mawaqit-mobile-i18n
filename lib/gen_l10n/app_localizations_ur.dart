@@ -3422,4 +3422,15 @@ class AppLocalizationsUr extends AppLocalizations {
   String semantic_cancel_surah_download(Object percent, Object surah) {
     return '$surah کا ڈاؤن لوڈ منسوخ کریں، $percent%';
   }
+
+  @override
+  String get qibla_compass_unavailable =>
+      'اس ڈیوائس میں کمپاس نہیں ہے، اس لیے مواقيت اس پر قبلہ کی سمت نہیں دکھا سکتی۔';
+
+  @override
+  String get qibla_no_compass_reading =>
+      'ابھی تک کمپاس کی کوئی ریڈنگ نہیں ملی۔ اپنے فون کو سیدھا لٹا کر پکڑیں اور دھات اور مقناطیس سے دور اسے آٹھ کے ہندسے کی شکل میں حرکت دیں۔';
+
+  @override
+  String get qibla_updating_location => 'آپ کا مقام اپ ڈیٹ ہو رہا ہے…';
 }
