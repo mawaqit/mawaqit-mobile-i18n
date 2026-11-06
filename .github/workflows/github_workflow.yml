@@ -34,6 +34,7 @@ jobs:
           sed -i 's/"pa-PK"/"pa"/g' lib/l10n/app_pa.arb
           sed -i 's/"fa-AF"/"fa_AF"/g' lib/l10n/app_fa_AF.arb
           sed -i 's/"fa-IR"/"fa"/g' lib/l10n/app_fa.arb
+          sed -i 's/"sr-CS"/"sr"/g' lib/l10n/app_sr.arb
 
       - name: Run flutter gen-l10n
         run: flutter gen-l10n
