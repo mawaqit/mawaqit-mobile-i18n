@@ -1,5 +1,5 @@
 {
-    "@@locale": "si",
+    "@@locale": "si-LK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2120,5 +2120,17 @@
     "semantic_cancel_surah_download": "Cancel {surah} download, {percent}%",
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
+    },
+    "qibla_compass_unavailable": "මෙම උපාංගයේ මාලිමාවක් නොමැති නිසා, MAWAQIT හට එහි කිබ්ලා දිශාව පෙන්විය නොහැක.",
+    "@qibla_compass_unavailable": {
+        "description": "Qibla screen: the phone has no heading sensor."
+    },
+    "qibla_no_compass_reading": "තවමත් මාලිමා කියවීමක් නැත. ඔබගේ දුරකථනය සමතලව අල්ලාගෙන, ලෝහ සහ චුම්බකවලින් ඈතව, අංක 8 හැඩයට චලනය කරන්න.",
+    "@qibla_no_compass_reading": {
+        "description": "Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button."
+    },
+    "qibla_updating_location": "ඔබගේ ස්ථානය යාවත්කාලීන වෙමින්…",
+    "@qibla_updating_location": {
+        "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     }
 }
