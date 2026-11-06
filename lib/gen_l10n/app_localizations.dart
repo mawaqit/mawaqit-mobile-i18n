@@ -6515,12 +6515,6 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Updating your location…'**
   String get qibla_updating_location;
-
-  /// Qibla screen: after fast movement the compass direction is not reliable yet. Shown instead of the compass until it settles; no button.
-  ///
-  /// In en, this message translates to:
-  /// **'Hold your phone still for a moment while the compass settles.'**
-  String get qibla_compass_settling;
 }
 
 class _AppLocalizationsDelegate
