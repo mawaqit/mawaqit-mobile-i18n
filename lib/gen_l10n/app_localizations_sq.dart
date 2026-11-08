@@ -2752,10 +2752,11 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get admin_iqamaEnabledHelp =>
-      'Çaktivizimi i kësaj bën që në ekranin e xhamisë të mos shfaqen as kohët e pritjes, as sinjali i ikametit, as lutjet pas namazit.';
+      'Nëse e çaktivizoni këtë opsion, në ekranin e xhamisë nuk do të shfaqen më kohët e pritjes, sinjali i ikametit dhe duatë pas namazit.';
 
   @override
-  String get admin_iqamaWaitingTimes => 'PRITJA PAS EZANIT (MINUTA)';
+  String get admin_iqamaWaitingTimes =>
+      'KOHA NGA EZANI DERI NË IKAMET (MINUTA)';
 
   @override
   String get admin_iqamaSignal => 'SINJALI I IKAMETIT';
@@ -2764,54 +2765,55 @@ class AppLocalizationsSq extends AppLocalizations {
   String get admin_iqamaSound => 'Tingulli';
 
   @override
-  String get admin_iqamaCountdown => 'Numërim mbrapsht në ekran të plotë';
+  String get admin_iqamaCountdown => 'Koha e mbetur në ekran të plotë';
 
   @override
-  String get admin_iqamaDisplayTime => 'Koha e shfaqjes së sinjalit';
+  String get admin_iqamaDisplayTime =>
+      'Kohëzgjatja e shfaqjes së njoftimit për ikamet';
 
   @override
   String get admin_iqamaAlwaysHhMm =>
-      'Shfaq gjithmonë oraret e ikametit si hh:mm';
+      'Shfaqni gjithmonë kohët e ikametit në formatin hh:mm';
 
   @override
   String get admin_iqamaCalendarNote =>
       'Oraret e ikametit të caktuara me kalendar mbeten të pandryshuara — redaktoji në faqen e internetit.';
 
   @override
-  String get admin_eidPrayerTimes => 'ORARET E NAMAZIT TË BAJRAMIT';
+  String get admin_eidPrayerTimes => 'KOHËT E NAMAZIT TË BAJRAMIT';
 
   @override
   String get admin_ramadanImsak => 'RAMAZANI';
 
   @override
   String get admin_eidPrayerHelp =>
-      'Shfaqet në ekranin e xhamisë javën para Bajramit. Lëre një namaz pa orar nëse nuk falet.';
+      'Shfaqen në ekranin e xhamisë gjatë javës para Bajramit. Nëse një namaz nuk falet, mos ia caktoni kohën.';
 
   @override
   String get admin_imsakBeforeFajr => 'Shfaq imsakun para sabahut';
 
   @override
   String get admin_imsakHelp =>
-      'Sa herët shfaqet imsaku. Me sabahun në 04:00 dhe 30 minuta këtu, ekrani shfaq 03:30.';
+      'Caktoni sa minuta përpara kohës së sabahut të shfaqet imsaku. Për shembull, nëse sabahu është në 04:00 dhe zgjidhni 30 minuta, koha e imsakut do të shfaqet si 03:30.';
 
   @override
   String get admin_imsakOff => 'Joaktiv';
 
   @override
-  String get admin_eidNoPrayerTime => 'Nuk është caktuar orar';
+  String get admin_eidNoPrayerTime => 'Nuk është caktuar koha e namazit';
 
   @override
   String get admin_adhanSoundLabel => 'Tingulli';
 
   @override
-  String get admin_adhanPlaysFor => 'LUHET NË';
+  String get admin_adhanPlaysFor => 'DËGJOHET PËR';
 
   @override
   String get admin_adhanDurationLabel => 'Kohëzgjatja e ezanit';
 
   @override
   String get admin_adhanDurationHelp =>
-      'Ky tingull mbaron para ezanit, prandaj ekrani duhet të dijë sa zgjat muezini yt.';
+      'Ky tingull përfundon para ezanit, prandaj ekrani duhet të dijë sa kohë i duhet myezinit tuaj për ta përfunduar ezanin.';
 
   @override
   String admin_customAdhanFile(String name) {
@@ -2826,7 +2828,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get admin_adhanNoPrayers => 'Asnjë namaz';
 
   @override
-  String get admin_prayerDurationGroup => 'MINUTA PËR NAMAZ';
+  String get admin_prayerDurationGroup => 'MINUTA PËR ÇDO NAMAZ';
 
   @override
   String get admin_prayerDurationHelp =>
