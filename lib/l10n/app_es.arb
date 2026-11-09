@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2132,5 +2132,6 @@
     "qibla_updating_location": "Actualizando su ubicación…",
     "@qibla_updating_location": {
         "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
-    }
+    },
+    "back_to_playing_ayah": "Volver al ayah que se está reproduciendo"
 }
