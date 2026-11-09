@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2133,5 +2133,6 @@
     "@qibla_updating_location": {
         "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     },
-    "back_to_playing_ayah": "Volver al ayah que se está reproduciendo"
+    "back_to_playing_ayah": "Volver al ayah que se está reproduciendo",
+    "{prayer} aalerts_set_for_other_mosque\tlerts are set for {mosque}. Changing them here will move them to this mosque.": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque."
 }
