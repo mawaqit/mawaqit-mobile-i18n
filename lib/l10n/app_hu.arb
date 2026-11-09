@@ -2135,5 +2135,6 @@
     },
     "back_to_playing_ayah": "Vissza a lejátszott ájához",
     "alerts_set_for_other_mosque": "A(z) {prayer} értesítései a(z) {mosque} számára vannak beállítva. Ha itt módosítja őket, erre a mecsetre kerülnek át.",
-    "alerts_set_for_unknown_mosque": "A(z) {prayer} értesítései egy másik mecset számára vannak beállítva. Ha itt módosítja őket, erre a mecsetre kerülnek át."
+    "alerts_set_for_unknown_mosque": "A(z) {prayer} értesítései egy másik mecset számára vannak beállítva. Ha itt módosítja őket, erre a mecsetre kerülnek át.",
+    "live_activity_tooltip_android": "Az élő frissítések az értesítési panelen és a zárolási képernyőn jelennek meg (az eszköztől és az Android verziójától függően)."
 }
