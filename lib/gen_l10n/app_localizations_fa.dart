@@ -3431,6 +3431,11 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get back_to_playing_ayah => 'بازگشت به آیه در حال پخش';
+
+  @override
+  String alerts_set_for_other_mosque(Object mosque, Object prayer) {
+    return '$prayer alerts are set for $mosque. Changing them here will move them to this mosque.';
+  }
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6869,4 +6874,9 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get back_to_playing_ayah => 'Back to playing ayah';
+
+  @override
+  String alerts_set_for_other_mosque(Object mosque, Object prayer) {
+    return '$prayer alerts are set for $mosque. Changing them here will move them to this mosque.';
+  }
 }
