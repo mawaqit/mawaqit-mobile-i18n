@@ -3465,6 +3465,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String alerts_set_for_other_mosque(Object mosque, Object prayer) {
-    return '$prayer alerts are set for $mosque. Changing them here will move them to this mosque.';
+    return 'Уведомления для $prayer настроены для $mosque. Если изменить их здесь, они будут перенесены на эту мечеть.';
+  }
+
+  @override
+  String alerts_set_for_unknown_mosque(Object prayer) {
+    return 'Уведомления для $prayer настроены для другой мечети. Если изменить их здесь, они будут перенесены на эту мечеть.';
   }
 }

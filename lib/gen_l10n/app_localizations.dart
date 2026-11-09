@@ -6529,6 +6529,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque.'**
   String alerts_set_for_other_mosque(Object mosque, Object prayer);
+
+  /// No description provided for @alerts_set_for_unknown_mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.'**
+  String alerts_set_for_unknown_mosque(Object prayer);
 }
 
 class _AppLocalizationsDelegate
