@@ -3459,4 +3459,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Обновление местоположения…';
+
+  @override
+  String get back_to_playing_ayah => 'Вернуться к воспроизводимому аяту';
 }

@@ -3433,4 +3433,7 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'آپ کا مقام اپ ڈیٹ ہو رہا ہے…';
+
+  @override
+  String get back_to_playing_ayah => 'چلائی جا رہی آیت پر واپس جائیں';
 }

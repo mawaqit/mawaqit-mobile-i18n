@@ -3441,4 +3441,7 @@ class AppLocalizationsKm extends AppLocalizations {
   @override
   String get qibla_updating_location =>
       'កំពុងធ្វើបច្ចុប្បន្នភាពទីតាំងរបស់អ្នក…';
+
+  @override
+  String get back_to_playing_ayah => 'Back to playing ayah';
 }

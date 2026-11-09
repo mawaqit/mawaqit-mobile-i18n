@@ -3475,4 +3475,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Aggiornamento della tua posizione…';
+
+  @override
+  String get back_to_playing_ayah => 'Torna all’āya in riproduzione';
 }

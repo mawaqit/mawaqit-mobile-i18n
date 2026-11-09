@@ -6517,6 +6517,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Updating your location…'**
   String get qibla_updating_location;
+
+  /// No description provided for @back_to_playing_ayah.
+  ///
+  /// In en, this message translates to:
+  /// **'Back to playing ayah'**
+  String get back_to_playing_ayah;
 }
 
 class _AppLocalizationsDelegate

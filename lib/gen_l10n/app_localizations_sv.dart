@@ -3436,4 +3436,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Uppdaterar din plats…';
+
+  @override
+  String get back_to_playing_ayah => 'Tillbaka till den ayah som spelas upp';
 }

@@ -3445,4 +3445,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Memperbarui lokasi Anda…';
+
+  @override
+  String get back_to_playing_ayah => 'Kembali ke ayat yang sedang diputar';
 }
