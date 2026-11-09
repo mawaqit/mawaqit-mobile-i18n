@@ -3414,4 +3414,9 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get back_to_playing_ayah => 'العودة إلى الآية قيد التشغيل';
+
+  @override
+  String alerts_set_for_other_mosque(Object mosque, Object prayer) {
+    return 'تنبيهات $prayer مضبوطة على $mosque. تغييرها هنا سينقلها إلى هذا المسجد.';
+  }
 }

@@ -3465,4 +3465,9 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get back_to_playing_ayah => 'Nazad na ajet koji se reproducira';
+
+  @override
+  String alerts_set_for_other_mosque(Object mosque, Object prayer) {
+    return '$prayer alerts are set for $mosque. Changing them here will move them to this mosque.';
+  }
 }
