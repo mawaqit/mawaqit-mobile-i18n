@@ -3474,4 +3474,8 @@ class AppLocalizationsNl extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Meldingen voor $prayer zijn ingesteld voor een andere moskee. Als je ze hier wijzigt, worden ze verplaatst naar deze moskee.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Live-updates verschijnen in je meldingenpaneel en op het vergrendelscherm (afhankelijk van het apparaat en de Android-versie).';
 }

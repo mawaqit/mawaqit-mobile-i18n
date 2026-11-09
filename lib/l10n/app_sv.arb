@@ -2135,5 +2135,6 @@
     },
     "back_to_playing_ayah": "Tillbaka till den ayah som spelas upp",
     "alerts_set_for_other_mosque": "Aviseringar för {prayer} är inställda för {mosque}. Om du ändrar dem här flyttas de till den här moskén.",
-    "alerts_set_for_unknown_mosque": "Aviseringar för {prayer} är inställda för en annan moské. Om du ändrar dem här flyttas de till den här moskén."
+    "alerts_set_for_unknown_mosque": "Aviseringar för {prayer} är inställda för en annan moské. Om du ändrar dem här flyttas de till den här moskén.",
+    "live_activity_tooltip_android": "Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version)."
 }

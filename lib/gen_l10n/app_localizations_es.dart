@@ -3487,4 +3487,8 @@ class AppLocalizationsEs extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Las alertas de $prayer están configuradas para otra mezquita. Cambiarlas aquí las trasladará a esta mezquita.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Las actualizaciones en directo aparecen en el panel de notificaciones y en la pantalla de bloqueo (según el dispositivo y la versión de Android).';
 }

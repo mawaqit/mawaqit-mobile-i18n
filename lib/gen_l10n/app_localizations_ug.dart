@@ -3457,4 +3457,8 @@ class AppLocalizationsUg extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer ئاگاھلاندۇرۇشلىرى باشقا بىر مەسچىت ئۈچۈن تەڭشەلگەن. بۇ يەردە ئۆزگەرتسىڭىز، ئۇلار بۇ مەسچىتكە يۆتكىلىدۇ.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'نەق مەيدان يېڭىلانمىلار ئۇقتۇرۇش تاختىڭىزدا ۋە قۇلۇپ ئېكرانىڭىزدا كۆرۈنىدۇ (ئۈسكۈنە ۋە ئاندىرويىد نەشرىگە باغلىق).';
 }

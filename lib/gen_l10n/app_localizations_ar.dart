@@ -3424,4 +3424,8 @@ class AppLocalizationsAr extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'تنبيهات $prayer مضبوطة لمسجد آخر. سيؤدي تغييرها هنا إلى نقلها إلى هذا المسجد.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'تظهر التحديثات المباشرة في لوحة الإشعارات وعلى شاشة القفل (وفقًا للجهاز وإصدار نظام أندرويد).';
 }

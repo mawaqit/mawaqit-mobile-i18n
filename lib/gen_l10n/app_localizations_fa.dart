@@ -3441,6 +3441,10 @@ class AppLocalizationsFa extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer alerts are set for another mosque. Changing them here will move them to this mosque.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'به‌روزرسانی‌های زنده در پنل اعلان‌ها و صفحه قفل شما نمایش داده می‌شوند (بسته به دستگاه و نسخه اندروید).';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6889,4 +6893,8 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer alerts are set for another mosque. Changing them here will move them to this mosque.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'به‌روزرسانی‌های زنده در پنل اعلان‌ها و روی صفحه قفل شما نمایش داده می‌شوند (بسته به دستگاه و نسخه اندروید).';
 }

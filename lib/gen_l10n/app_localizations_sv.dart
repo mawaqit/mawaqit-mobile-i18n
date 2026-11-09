@@ -3449,4 +3449,8 @@ class AppLocalizationsSv extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Aviseringar för $prayer är inställda för en annan moské. Om du ändrar dem här flyttas de till den här moskén.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version).';
 }
