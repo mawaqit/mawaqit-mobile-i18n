@@ -3419,4 +3419,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String alerts_set_for_other_mosque(Object mosque, Object prayer) {
     return 'تنبيهات $prayer مضبوطة على $mosque. تغييرها هنا سينقلها إلى هذا المسجد.';
   }
+
+  @override
+  String alerts_set_for_unknown_mosque(Object prayer) {
+    return 'تنبيهات $prayer مضبوطة لمسجد آخر. سيؤدي تغييرها هنا إلى نقلها إلى هذا المسجد.';
+  }
 }

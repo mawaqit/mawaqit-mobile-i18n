@@ -3468,6 +3468,11 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String alerts_set_for_other_mosque(Object mosque, Object prayer) {
-    return '$prayer alerts are set for $mosque. Changing them here will move them to this mosque.';
+    return 'A(z) $prayer értesítései a(z) $mosque számára vannak beállítva. Ha itt módosítja őket, erre a mecsetre kerülnek át.';
+  }
+
+  @override
+  String alerts_set_for_unknown_mosque(Object prayer) {
+    return 'A(z) $prayer értesítései egy másik mecset számára vannak beállítva. Ha itt módosítja őket, erre a mecsetre kerülnek át.';
   }
 }
