@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2135,5 +2135,6 @@
     },
     "back_to_playing_ayah": "Voltar para a ayah em reprodução",
     "alerts_set_for_other_mosque": "Os alertas de {prayer} estão definidos para {mosque}. Alterá-los aqui irá movê-los para esta mesquita.",
-    "alerts_set_for_unknown_mosque": "Os alertas de {prayer} estão definidos para outra mesquita. Alterá-los aqui irá movê-los para esta mesquita."
+    "alerts_set_for_unknown_mosque": "Os alertas de {prayer} estão definidos para outra mesquita. Alterá-los aqui irá movê-los para esta mesquita.",
+    "live_activity_tooltip_android": "As atualizações em tempo real aparecem no painel de notificações e na tela de bloqueio (dependendo do dispositivo e da versão do Android)."
 }
