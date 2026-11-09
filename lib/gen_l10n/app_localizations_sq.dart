@@ -3499,4 +3499,8 @@ class AppLocalizationsSq extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Njoftimet për $prayer janë caktuar për një xhami tjetër. Ndryshimi i tyre këtu do t\'i zhvendosë te kjo xhami.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Përditësimet e drejtpërdrejta shfaqen në panelin e njoftimeve dhe në ekranin e kyçjes (në varësi të pajisjes dhe versionit të Android).';
 }

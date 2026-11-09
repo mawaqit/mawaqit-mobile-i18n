@@ -6535,6 +6535,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.'**
   String alerts_set_for_unknown_mosque(Object prayer);
+
+  /// No description provided for @live_activity_tooltip_android.
+  ///
+  /// In en, this message translates to:
+  /// **'Live updates appear in your notification panel and on the Lock Screen (depending on device and Android version).'**
+  String get live_activity_tooltip_android;
 }
 
 class _AppLocalizationsDelegate

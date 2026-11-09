@@ -3446,4 +3446,8 @@ class AppLocalizationsUr extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer کے الرٹس کسی اور مسجد کے لیے سیٹ ہیں۔ انہیں یہاں تبدیل کرنے سے یہ اس مسجد پر منتقل ہو جائیں گے۔';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'لائیو اپ ڈیٹس آپ کے نوٹیفکیشن پینل اور لاک اسکرین پر ظاہر ہوتی ہیں (ڈیوائس اور اینڈرائیڈ ورژن کے مطابق)۔';
 }

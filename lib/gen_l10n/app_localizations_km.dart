@@ -3454,4 +3454,8 @@ class AppLocalizationsKm extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer alerts are set for another mosque. Changing them here will move them to this mosque.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'ការអាប់ដេតផ្ទាល់នឹងបង្ហាញនៅក្នុងផ្ទាំងការជូនដំណឹង និងនៅលើអេក្រង់ចាក់សោរបស់អ្នក (អាស្រ័យលើឧបករណ៍ និងកំណែ Android)។';
 }

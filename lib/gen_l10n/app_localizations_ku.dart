@@ -3461,4 +3461,8 @@ class AppLocalizationsKu extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'ئاگادارکردنەوەکانی $prayer بۆ مزگەوتێکی تر دانراون. گۆڕینیان لێرەدا دەیانگوازێتەوە بۆ ئەم مزگەوتە.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'نوێکارییە زیندووەکان لە پانێڵی ئاگادارکردنەوەکان و لەسەر شاشەی قوفڵکراو دەردەکەون (بەپێی ئامێرەکە و وەشانی ئەندرۆید).';
 }

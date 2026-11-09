@@ -3488,4 +3488,8 @@ class AppLocalizationsIt extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Gli avvisi per $prayer sono impostati per un\'altra moschea. Modificandoli qui, verranno spostati su questa moschea.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Gli aggiornamenti in tempo reale vengono visualizzati nel pannello delle notifiche e nella schermata di blocco (a seconda del dispositivo e della versione di Android).';
 }

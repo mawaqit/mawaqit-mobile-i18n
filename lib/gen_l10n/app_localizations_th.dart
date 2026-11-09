@@ -3443,4 +3443,8 @@ class AppLocalizationsTh extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer alerts are set for another mosque. Changing them here will move them to this mosque.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'การอัปเดตแบบเรียลไทม์จะแสดงในแผงการแจ้งเตือนและบนหน้าจอล็อกของคุณ (ขึ้นอยู่กับอุปกรณ์และเวอร์ชัน Android)';
 }

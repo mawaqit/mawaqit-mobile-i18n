@@ -3458,4 +3458,8 @@ class AppLocalizationsId extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Peringatan $prayer diatur untuk masjid lain. Mengubahnya di sini akan memindahkannya ke masjid ini.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Pembaruan langsung muncul di panel notifikasi dan di layar kunci Anda (tergantung pada perangkat dan versi Android).';
 }

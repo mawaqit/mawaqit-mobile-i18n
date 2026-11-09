@@ -3441,4 +3441,8 @@ class AppLocalizationsTr extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer bildirimleri başka bir cami için ayarlanmış. Bunları burada değiştirmek, bu camiye taşınmalarını sağlayacaktır.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Canlı güncellemeler, bildirim panelinizde ve kilit ekranınızda görünür (cihaza ve Android sürümüne bağlı olarak).';
 }

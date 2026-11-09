@@ -3496,4 +3496,8 @@ class AppLocalizationsDe extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Die Benachrichtigungen für $prayer sind für eine andere Moschee eingestellt. Wenn du sie hier änderst, werden sie auf diese Moschee übertragen.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Live-Updates werden in deinem Benachrichtigungsfeld und auf dem Sperrbildschirm angezeigt (abhängig vom Gerät und der Android-Version).';
 }

@@ -3475,4 +3475,8 @@ class AppLocalizationsHu extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'A(z) $prayer értesítései egy másik mecset számára vannak beállítva. Ha itt módosítja őket, erre a mecsetre kerülnek át.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Az élő frissítések az értesítési panelen és a zárolási képernyőn jelennek meg (az eszköztől és az Android verziójától függően).';
 }

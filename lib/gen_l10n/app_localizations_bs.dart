@@ -3475,4 +3475,8 @@ class AppLocalizationsBs extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Obavijesti za $prayer postavljene su za drugu džamiju. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Ažuriranja uživo prikazuju se na vašem panelu s obavještenjima i na zaključanom ekranu (u zavisnosti od uređaja i verzije Androida).';
 }

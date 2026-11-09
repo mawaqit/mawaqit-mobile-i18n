@@ -3472,4 +3472,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return 'Уведомления для $prayer настроены для другой мечети. Если изменить их здесь, они будут перенесены на эту мечеть.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Обновления в реальном времени отображаются на панели уведомлений и на экране блокировки (в зависимости от устройства и версии Android).';
 }

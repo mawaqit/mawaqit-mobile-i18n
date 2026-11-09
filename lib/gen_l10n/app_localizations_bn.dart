@@ -3458,4 +3458,8 @@ class AppLocalizationsBn extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer-এর অ্যালার্ট অন্য একটি মসজিদের জন্য সেট করা আছে। এখানে পরিবর্তন করলে সেগুলো এই মসজিদে স্থানান্তরিত হবে।';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'লাইভ আপডেট আপনার নোটিফিকেশন প্যানেলে এবং লক স্ক্রিনে দেখা যায় (ডিভাইস ও অ্যান্ড্রয়েড সংস্করণের ওপর নির্ভর করে)।';
 }

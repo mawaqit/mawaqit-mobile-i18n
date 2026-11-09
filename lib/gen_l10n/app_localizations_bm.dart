@@ -3452,4 +3452,8 @@ class AppLocalizationsBm extends AppLocalizations {
   String alerts_set_for_unknown_mosque(Object prayer) {
     return '$prayer alerts are set for another mosque. Changing them here will move them to this mosque.';
   }
+
+  @override
+  String get live_activity_tooltip_android =>
+      'Yɛlɛma kɛlɛn-kɛlɛn dɔw bɛ jira i ka notification panel ni ekran datugu kan (i ka appareil ni Android version bɔyɔrɔ la).';
 }
