@@ -2121,19 +2121,20 @@
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
     },
-    "qibla_compass_unavailable": "Ovaj uređaj nema kompas, pa MAWAQIT na njemu ne može da prikaže pravac Kible.",
+    "qibla_compass_unavailable": "Овај уређај нема компас, па MAWAQIT на њему не може да прикаже правац Кибле.",
     "@qibla_compass_unavailable": {
         "description": "Qibla screen: the phone has no heading sensor."
     },
-    "qibla_no_compass_reading": "Još nema očitavanja kompasa. Držite telefon vodoravno i pomerajte ga u obliku osmice, daleko od metala i magneta.",
+    "qibla_no_compass_reading": "Још нема очитавања компаса. Држите телефон водоравно и померајте га у облику осмице, далеко од метала и магнета.",
     "@qibla_no_compass_reading": {
         "description": "Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button."
     },
-    "qibla_updating_location": "Ažuriranje vaše lokacije…",
+    "qibla_updating_location": "Ажурирање ваше локације…",
     "@qibla_updating_location": {
         "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     },
     "back_to_playing_ayah": "Back to playing ayah",
     "alerts_set_for_other_mosque": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque.",
-    "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque."
+    "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.",
+    "live_activity_tooltip_android": "Ažuriranja uživo se prikazuju na panelu sa obaveštenjima i na zaključanom ekranu (u zavisnosti od uređaja i verzije Androida)."
 }
