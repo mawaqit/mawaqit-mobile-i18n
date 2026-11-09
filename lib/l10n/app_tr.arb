@@ -2134,5 +2134,6 @@
         "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     },
     "back_to_playing_ayah": "Oynatılan ayete dön",
-    "alerts_set_for_other_mosque": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque."
+    "alerts_set_for_other_mosque": "{prayer} bildirimleri {mosque} için ayarlanmış. Bunları burada değiştirmek, bu camiye taşınmalarını sağlayacaktır.",
+    "alerts_set_for_unknown_mosque": "{prayer} bildirimleri başka bir cami için ayarlanmış. Bunları burada değiştirmek, bu camiye taşınmalarını sağlayacaktır."
 }
