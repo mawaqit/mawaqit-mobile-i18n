@@ -3438,4 +3438,7 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'ඔබගේ ස්ථානය යාවත්කාලීන වෙමින්…';
+
+  @override
+  String get back_to_playing_ayah => 'Back to playing ayah';
 }

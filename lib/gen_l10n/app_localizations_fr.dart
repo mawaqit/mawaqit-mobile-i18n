@@ -3491,4 +3491,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Mise à jour de votre position…';
+
+  @override
+  String get back_to_playing_ayah => 'Retour à l’aya en cours de lecture';
 }

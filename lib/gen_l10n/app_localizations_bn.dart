@@ -3445,4 +3445,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'আপনার অবস্থান আপডেট করা হচ্ছে…';
+
+  @override
+  String get back_to_playing_ayah => 'চলমান আয়াতে ফিরে যান';
 }

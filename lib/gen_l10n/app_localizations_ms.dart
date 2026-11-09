@@ -3439,4 +3439,7 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Mengemas kini lokasi anda…';
+
+  @override
+  String get back_to_playing_ayah => 'Back to playing ayah';
 }

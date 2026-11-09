@@ -3461,4 +3461,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Uw locatie wordt bijgewerkt…';
+
+  @override
+  String get back_to_playing_ayah => 'Terug naar de afgespeelde aya';
 }

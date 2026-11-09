@@ -74,7 +74,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_SupportMawaqit => 'Podržite Mawaqit';
 
   @override
-  String get settings_News => 'Vijesti i Objave';
+  String get settings_News => 'Vijesti i objave';
 
   @override
   String get settings_MakeADonation => 'Udijeli trajnu sadaku';
@@ -164,7 +164,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get settings_PrayerNotification_NoNotification =>
-      'Podesili ste postavke da ne želite primati obavještenja za ovaj namaz.';
+      'Trenutno ste odabrali da ne primate obavijesti za ovaj namaz.';
 
   @override
   String get settings_PrayerNotification_Bip =>
@@ -174,10 +174,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get adhan => 'Ezan';
 
   @override
-  String get adhan_Makkah_fajr => 'Mekka(sabahski)';
+  String get adhan_Makkah_fajr => 'Mekanski(sabah)';
 
   @override
-  String get adhan_Madinah => 'Medina';
+  String get adhan_Madinah => 'Medinski';
 
   @override
   String get adhan_Qods => 'Qods';
@@ -186,7 +186,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get adhan_AlAfassy => 'Al Afassy';
 
   @override
-  String get adhan_AlAfassy_fajr => 'Al Afassy (sabahski)';
+  String get adhan_AlAfassy_fajr => 'Al Afassy (sabah)';
 
   @override
   String get adhan_Muhammad_jazy => 'Muhammad Jazy';
@@ -196,7 +196,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get adhan_type =>
-      'Izaberite vrstu ezana. Ovaj izbor će biti primenjen kao primarni zvučni signal za svaki namaz.';
+      'Odaberite ezan. Ovaj izbor primjenjivat će se na sve namaze za koje je uključena obavijest ezanom.';
 
   @override
   String get settings_prayer_Notification_None => 'Ništa';
@@ -207,7 +207,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get prayer_PreNotification_Description =>
-      'Ova postavka vam omogućava da definirate obavještenja prije namaza.';
+      'Ova postavka omogućava vam da podesite obavijest prije nastupanja namaskog vremena.';
 
   @override
   String get search_TryParis => 'Try Paris, Essalam etc.';
@@ -217,7 +217,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get search_HelpText =>
-      'Možete pretražiti ​​džamiju tako što ćete napisati:\n- Ime džamije\n- Ime udruženja\n- Grad, adresu, državu...itd.\n\nIli možete pritisnuti dugme za lociranje da pronađete okolne džamije';
+      'Džamiju možete pronaći unosom:\n- Naziva džamije\n- Naziva udruženja\n- Grada, adrese, države i slično\nIli dodirnite dugme za lokaciju kako biste pronašli džamije u blizini.';
 
   @override
   String get search_MaxFavMosquesReached =>
@@ -235,13 +235,13 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get search_location_disabled =>
-      'Molimo vas da potražite džamiju po imenu ili gradu, ili omogućite lokaciju ručno u vašim postavkama.';
+      'Molimo vas da potražite džamiju po imenu ili gradu, ili u postavkama uređaja dozvolite aplikaciji pristup lokaciji.';
 
   @override
   String get search_settings => 'Postavke';
 
   @override
-  String get no_services_text => 'Džamije nisu pružile ove informacije.';
+  String get no_services_text => 'Džamije nisu dostavile ove informacije';
 
   @override
   String get welcome => 'Dobrodošli u';
@@ -250,20 +250,20 @@ class AppLocalizationsBs extends AppLocalizations {
   String get mawaqit => 'MAWAQIT';
 
   @override
-  String get connecting => 'Povezivanje muslimana\n';
+  String get connecting => 'Povezujemo muslimane';
 
   @override
-  String get to_mosques => 'S džamijama';
+  String get to_mosques => 's njihovim džamijama';
 
   @override
   String get get_started => 'Započnite';
 
   @override
   String get get_prayer_notifications_for =>
-      'Primajte obavještenja o namazu za';
+      'Primajte obavijesti o namaskim vremenima džamije';
 
   @override
-  String get turn_on_notifications => 'Uključite obavještenja za namaz';
+  String get turn_on_notifications => 'Uključite obavijesti za namaz';
 
   @override
   String get no_thanks => 'Ne, hvala.';
@@ -274,45 +274,46 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get at_least_one_mosque =>
-      'Da biste nastavili, dodajte bar jednu džamiju.';
+      'Da biste nastavili, dodajte najmanje jednu džamiju';
 
   @override
-  String get set_up_your_prayer => 'Konfigurišite vaš namaz';
+  String get set_up_your_prayer => 'Prilagodite obavještenja za namaz';
 
   @override
-  String get notifications => 'Obavještenja';
+  String get notifications => 'Obavijesti';
 
   @override
-  String get mosques_around_you => 'Džamije u vašoj okolini';
+  String get mosques_around_you => 'Džamije u vašoj blizini';
 
   @override
-  String get mosques_in_the_selected_area => 'Džamije u odabranom području';
+  String get mosques_in_the_selected_area => 'Džamije na odabranom području';
 
   @override
   String get mosques_with => 'Džamije sa';
 
   @override
   String get allow_mawaqit_to_access_my_location =>
-      'Dozvolite da Mawaqit pristupi vašoj lokaciji.';
+      'Dozvolite aplikaciji Mawaqit pristup vašoj lokaciji.';
 
   @override
-  String get enable_location_service_from_app_settings => 'Omogući lokaciju';
+  String get enable_location_service_from_app_settings =>
+      'Omogućite pristup lokaciji';
 
   @override
-  String get the_request_timeout => 'Zahtjev je istekao';
+  String get the_request_timeout => 'Isteklo je vrijeme čekanja';
 
   @override
-  String get no_internet_connection => 'Bez internet konekcije.';
+  String get no_internet_connection => 'Bez internet konekcije';
 
   @override
   String get try_again => 'Pokušajte ponovo';
 
   @override
-  String get virtual_mosque => 'Virtuelna džamija';
+  String get virtual_mosque => 'Virtualna džamija';
 
   @override
   String get no_mosque_in_selected_area =>
-      'Nije pronađena nijedna džamija u odabranom području';
+      'Nije pronađena nijedna džamija na odabranom području';
 
   @override
   String get no_mosque_with => 'Nije pronađena nijedna džamija sa';
@@ -324,7 +325,8 @@ class AppLocalizationsBs extends AppLocalizations {
   String get search_here => 'Pretraži ovde';
 
   @override
-  String get enter_at_least_3_char => 'Unesite barem 3 karaktera za pretragu';
+  String get enter_at_least_3_char =>
+      'Unesite najmanje 3 karaktera za pretragu';
 
   @override
   String get jumua1 => 'Džuma 1';
@@ -351,13 +353,13 @@ class AppLocalizationsBs extends AppLocalizations {
   String get share => 'Dijeli';
 
   @override
-  String get itinerary => 'Itinerar(vodič)';
+  String get itinerary => 'Mapa/Ruta';
 
   @override
-  String get call => 'Pozovi';
+  String get call => 'Pozovite';
 
   @override
-  String get dnd => 'Ne ometaj';
+  String get dnd => 'Ne uznemiravaj';
 
   @override
   String get battery_optimize => 'Optimizacija baterije';
@@ -367,10 +369,11 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get permission_message1 =>
-      'Otkrili smo odgođeno obavještenje, molimo isključite';
+      'Otkrili smo kašnjenje obavještenja. Molimo vas, isključite';
 
   @override
-  String get permission_message2 => 'da biste primili obavještenja na vrijeme.';
+  String get permission_message2 =>
+      'kako biste obavještenja primali na vrijeme.';
 
   @override
   String get notifications_delay_detected =>
@@ -380,18 +383,18 @@ class AppLocalizationsBs extends AppLocalizations {
   String get open_setting => 'Otvorite postavke';
 
   @override
-  String get noJumua => 'Nema džume';
+  String get noJumua => 'Džuma se ne klanja';
 
   @override
   String get jumua => 'Džuma';
 
   @override
   String get qibla_sensor =>
-      'Senzor na vašem uređaju koji MAWAQIT koristi za određivanje kible ne funkcioniše kako je očekivano, ovo utječe na našu sposobnost da prikažemo tačan pravac kible.';
+      'Senzor na vašem uređaju koji MAWAQIT koristi za određivanje pravca kible ne radi ispravno. Zbog toga prikaz pravca kible može biti netačan.';
 
   @override
   String get connection_not_found =>
-      'Postavka kalibracije kompasa je onemogućena. Provjerite da li je internetska veza uključena i pokušajte ponovo promenom pravca.';
+      'Kalibracija kompasa je isključena. Provjerite da li je internet veza uključena i pokušajte ponovo promjenom položaja uređaja.';
 
   @override
   String get currently_located_at => 'Trenutno se nalazite u';
@@ -406,15 +409,15 @@ class AppLocalizationsBs extends AppLocalizations {
   String get qibla_Error_retry => 'Pokušajte ponovo';
 
   @override
-  String get qibla_Error_LocationDenied =>
-      'Dozvola za uslugu lokacije je odbijena';
+  String get qibla_Error_LocationDenied => 'Pristup lokaciji je odbijen';
 
   @override
   String get qibla_Error_LocationDeniedForever =>
-      'Dozvola za uslugu lokacije je trajno odbijena';
+      'Dozvola za uslugu lokacije je trajno odbijena!';
 
   @override
-  String get qibla_Error_PleaseEnable => 'Molimo omogućite uslugu lokacije';
+  String get qibla_Error_PleaseEnable =>
+      'Molimo vas, uključite uslugu lokacije';
 
   @override
   String get qibla_Direction => 'Pravac KIBLE';
@@ -423,10 +426,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get favorites_FavoriteMosques => 'Omiljene džamije';
 
   @override
-  String get favorites_Error => 'Nešto nije u redu...';
+  String get favorites_Error => 'Došlo je do greške…';
 
   @override
-  String get announcement_Image => 'Slike';
+  String get announcement_Image => 'Fotografija';
 
   @override
   String get announcement_Type_Video => 'Video';
@@ -459,13 +462,14 @@ class AppLocalizationsBs extends AppLocalizations {
   String get mosque_Email => 'E-mail';
 
   @override
-  String get mosque_ByMawaqit => 'Od MAWAQIT https://mawaqit.net';
+  String get mosque_ByMawaqit => 'Izradio MAWAQIT https://mawaqit.net';
 
   @override
   String get mosque_Facilities_Parking => 'Parking';
 
   @override
-  String get mosque_Facilities_DisabledAccess => 'Pristup invalidima';
+  String get mosque_Facilities_DisabledAccess =>
+      'Pristup osobama s invaliditetom';
 
   @override
   String get mosque_Facilities_AblutionsRoom => 'Abdesthana';
@@ -480,10 +484,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get mosque_Facilities_ChildrenCourses => 'Kursevi za djecu';
 
   @override
-  String get mosque_Facilities_SalatAlAid => 'Bajram namaz';
+  String get mosque_Facilities_SalatAlAid => 'Bajram-namaz';
 
   @override
-  String get mosque_Facilities_SalatAlJanaza => 'Dženaza namaz';
+  String get mosque_Facilities_SalatAlJanaza => 'Dženaza-namaz';
 
   @override
   String get mosques_Facilities_IftarRamadan => 'Ramazanski iftari';
@@ -496,7 +500,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get in_ => 'za';
 
   @override
-  String get imsak => 'Zora/Imsak';
+  String get imsak => 'Imsak';
 
   @override
   String get eid => 'Bajram-namaz u';
@@ -509,13 +513,13 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get please_update =>
-      'Dostupna je novija verzija MAWAQIT-a, molimo ažurirajte';
+      'Dostupna je novija verzija aplikacije MAWAQIT. Molimo vas, ažurirajte aplikaciju';
 
   @override
   String get update => 'Ažuriraj';
 
   @override
-  String get tutorial_skip => 'Preskoči tutorijal';
+  String get tutorial_skip => 'Preskočite upute';
 
   @override
   String get tutorial_next => 'Dalje';
@@ -525,77 +529,77 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tutorial_text_main_mosque =>
-      'Vaša glavna džamija se prikazuje ovdje.\nMožete klizati lijevo i desno za prebacivanje između svojih omiljenih džamija.';
+      'Ovdje se prikazuje vaša glavna džamija.\nPrevucite prstom ulijevo ili udesno da biste se prebacivali između omiljenih džamija.';
 
   @override
-  String get tutorial_title_countdown => 'Indikator sledećeg namaza';
+  String get tutorial_title_countdown => 'Odbrojavanje do sljedećeg namaza';
 
   @override
   String get tutorial_text_countdown =>
-      'Ovo odbrojavanje vam pokazuje preostalo vrijeme do sljedećeg namaza.';
+      'Ovo odbrojavanje pokazuje koliko je vremena ostalo do sljedećeg namaza.';
 
   @override
   String get tutorial_title_mosque_info => 'Informacije o džamiji';
 
   @override
   String get tutorial_text_mosque_info =>
-      'Sve o vašoj džamiji: sadržaji, prostorije, adresa, telefon, e-mail, donacije i još mnogo toga.';
+      'Sve o vašoj džamiji: sadržaji, adresa, telefon, e-mail, mogućnost doniranja i još mnogo toga.';
 
   @override
-  String get tutorial_title_announcements => 'Džamijske poruke i najave';
+  String get tutorial_title_announcements => 'Poruke i obavještenja iz džamije';
 
   @override
   String get tutorial_text_announcements =>
-      'Obavijesti o porukama i najavama iz vaše džamije pojaviće se ovde.\nKada dodirnete ovo dugme, vidjet ćete sve detalje. Ove obavještenja mogu biti Flash poruka, slike ili čak video.';
+      'Ovdje ćete primati obavještenja o porukama i objavama vaše džamije. Dodirom na ovo dugme otvarate njihov puni sadržaj. Objave mogu biti kratke poruke, slike ili videosnimci.';
 
   @override
   String get onboarding_title_1 => 'Odaberite jezik';
 
   @override
-  String get onboarding_text_1 => 'Odaberite željeni jezik sa liste ispod';
+  String get onboarding_text_1 => 'Odaberite željeni jezik s liste ispod';
 
   @override
   String get onboarding_title_2 => 'Dobrodošli u MAWAQIT';
 
   @override
   String get onboarding_text_2 =>
-      'MAWAQIT je ekosistem koji vam nudi novi način praćenja i upravljanja vremenom namaza, aplikacija u vašim rukama je dio ovog ekosistema, omogućava vam da pronađete džamije i pratite vijesti i vrijeme namaza';
+      'MAWAQIT je ekosistem koji vam nudi novi način praćenja i upravljanja namaskim vremenima. Aplikacija koju koristite dio je ovog ekosistema i omogućava vam da pronađete džamije te pratite njihove vijesti i namaska vremena';
 
   @override
-  String get onboarding_title_3 => 'Odaberite Tamnu/Svjetlu temu';
+  String get onboarding_title_3 => 'Odaberite tamnu ili svijetlu temu';
 
   @override
   String get onboarding_text_3 =>
-      'Bilo da se nalazite u okruženju sa slabim svetlom ili jednostavno preferirate tamnije boje pozadine na svom telefonu, možete iskoristiti Tamni režim za poboljšan vizuelni komfor.';
+      'Ako se nalazite u prostoru sa slabim osvjetljenjem ili jednostavno volite tamnije pozadine na telefonu, koristite tamni način prikaza za ugodnije gledanje ekrana';
 
   @override
   String get onboarding_title_4 => 'Dodajte svoju glavnu džamiju';
 
   @override
   String get onboarding_text_4 =>
-      'Molimo odaberite svoju glavnu džamiju sa liste ispod ili pretražite džamiju u blizini vaše trenutne lokacije.';
+      'Molimo vas, odaberite svoju glavnu džamiju s liste ispod ili potražite neku u blizini svoje trenutne lokacije';
 
   @override
   String get loading => 'Učitavanje';
 
   @override
-  String get loading_please_wait => 'Učitavanje... molimo sačekajte';
+  String get loading_please_wait => 'Učitava se… Molimo vas, sačekajte';
 
   @override
   String get loading_loaded => 'Učitavanje je završeno';
 
   @override
-  String get favorites_edit => 'Uredi omiljene džamije';
+  String get favorites_edit => 'Uredite omiljene džamije';
 
   @override
   String get minutes_to_athan => 'minuta do ezana';
 
   @override
-  String get show_tutorial => 'Pregledajte tutorijal';
+  String get show_tutorial => 'Ponovo prođite kroz upute';
 
   @override
   String get onboarding_chose_mosque_please =>
-      'Molimo odaberite džamiju sa liste pretrage';
+      'Molimo vas, odaberite jednu od pronađenih džamija';
 
   @override
   String get done => 'Završeno';
@@ -611,25 +615,25 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get notification_open_app_body =>
-      'Da biste dobijali obavještenja, molimo vas otvorite aplikaciju';
+      'Molimo vas, otvorite aplikaciju kako biste nastavili primati obavještenja';
 
   @override
-  String get tutorial_title_notification => 'Odaberite obaviještenje o namazu';
+  String get tutorial_title_notification => 'Odaberite obavještenje za namaz';
 
   @override
   String get tutorial_text_notification =>
-      'Ovdje možete odabrati vrstu obavijesti: Ezan, bip ili bez zvuka';
+      'Ovdje možete odabrati vrstu obavještenja: ezan, beep ili bez zvuka';
 
   @override
   String get search_no_result =>
-      'Postanite MAWAQIT ambasador i ponudite naše rješenje vašoj džamiji, besplatno je\nhttps://mawaqit.net';
+      'Budite ambasador MAWAQIT-a i predstavite naše rješenje svojoj džamiji. Potpuno je besplatno!\nhttps://mawaqit.net';
 
   @override
   String get rate_popin_title => 'Ocijenite MAWAQIT';
 
   @override
   String get rate_popin_message =>
-      'Ako vam se sviđa ova aplikacija, molimo vas da odvojite malo svog vremena i ostavite recenziju!\nTo nam stvarno pomaže.';
+      'Ako vam se sviđa ova aplikacija, odvojite malo vremena da je ocijenite!\nTo nam mnogo znači.';
 
   @override
   String get rate_popin_rate => 'OCIJENITE';
@@ -642,7 +646,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get message_see_all =>
-      'Sve poruke iz ove džamije možete pregledati klikom na zvučnik koji se nalazi na vrhu ekrana.';
+      'Sve poruke iz ove džamije možete pregledati dodirom na ikonu zvučnika na vrhu ekrana.';
 
   @override
   String get adhan_Makkah => 'Mekka';
@@ -652,32 +656,33 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Ovdje možete pronaći trajanje između ezana i ikameta u džamiji';
+      'Ovdje možete vidjeti vrijeme čekanja od ezana do ikameta u džamij';
 
   @override
-  String get calendar_tooltip_download => 'Preuzmi Takvim';
+  String get calendar_tooltip_download => 'Preuzmite takvim';
 
   @override
   String get calendar_download_permission_refused =>
-      'Preuzimanje je definitivno odbijeno, molimo vas dozvolite preuzimanje';
+      'Preuzimanje je blokirano. Da biste nastavili, odobrite dozvolu za preuzimanje u postavkama uređaja';
 
   @override
-  String get calendar_downloading => 'Preuzimanje Takvima...';
+  String get calendar_downloading => 'Preuzimanje takvima…';
 
   @override
   String get location_service_disabled =>
-      'Usluga lokacije je onemogućena, molimo vas dopustite pristup.';
+      'Lokacijske usluge su isključene. Molimo vas, uključite ih.';
 
   @override
   String get location_permission_denied =>
-      'Dozvola za pristup lokaciji je odbijena, molimo omogućite je.';
+      'Nije odobrena dozvola za pristup lokaciji. Molimo vas, omogućite pristup.';
 
   @override
   String get location_permission_denied_forever =>
-      'Dozvola za lokaciju je trajno odbijena, molimo omogućite je na stranici sa postavkama.';
+      'Pristup lokaciji je trajno odbijen. Molimo vas, odobrite u postavkama uređaja.';
 
   @override
-  String get at_least_one_mosque_error => 'Trebate imati barem jednu džamiju.';
+  String get at_least_one_mosque_error =>
+      'Potrebno je dodati najmanje jednu džamiju.';
 
   @override
   String get and => 'i';
@@ -3457,4 +3462,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Ažuriranje vaše lokacije…';
+
+  @override
+  String get back_to_playing_ayah => 'Nazad na ajet koji se reproducira';
 }

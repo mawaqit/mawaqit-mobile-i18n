@@ -3462,4 +3462,7 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'A tartózkodási hely frissítése…';
+
+  @override
+  String get back_to_playing_ayah => 'Vissza a lejátszott ájához';
 }

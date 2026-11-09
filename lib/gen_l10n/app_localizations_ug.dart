@@ -3444,4 +3444,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'ئورنىڭىز يېڭىلىنىۋاتىدۇ…';
+
+  @override
+  String get back_to_playing_ayah => 'قەدەمگە قايتىش';
 }

@@ -3448,4 +3448,7 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'شوێنەکەت نوێ دەکرێتەوە…';
+
+  @override
+  String get back_to_playing_ayah => 'گەڕانەوە بۆ ئایەتی پەخشکراو';
 }

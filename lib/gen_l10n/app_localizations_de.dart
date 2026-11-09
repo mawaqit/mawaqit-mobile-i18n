@@ -3483,4 +3483,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Ihr Standort wird aktualisiert…';
+
+  @override
+  String get back_to_playing_ayah => 'Zurück zum abgespielten Vers';
 }

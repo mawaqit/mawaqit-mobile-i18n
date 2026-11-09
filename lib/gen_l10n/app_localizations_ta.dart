@@ -3444,4 +3444,7 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get qibla_updating_location =>
       'உங்கள் இருப்பிடம் புதுப்பிக்கப்படுகிறது…';
+
+  @override
+  String get back_to_playing_ayah => 'Back to playing ayah';
 }

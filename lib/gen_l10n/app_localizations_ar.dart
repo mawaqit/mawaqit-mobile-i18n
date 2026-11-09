@@ -3411,4 +3411,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'جارٍ تحديث موقعك…';
+
+  @override
+  String get back_to_playing_ayah => 'العودة إلى الآية قيد التشغيل';
 }

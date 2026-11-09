@@ -3430,4 +3430,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'กำลังอัปเดตตำแหน่งของคุณ…';
+
+  @override
+  String get back_to_playing_ayah => 'Back to playing ayah';
 }

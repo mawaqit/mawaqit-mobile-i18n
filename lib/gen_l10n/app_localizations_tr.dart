@@ -3428,4 +3428,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'Konumunuz güncelleniyor…';
+
+  @override
+  String get back_to_playing_ayah => 'Oynatılan ayete dön';
 }

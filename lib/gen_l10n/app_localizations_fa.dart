@@ -3428,6 +3428,9 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get qibla_updating_location => 'در حال به‌روزرسانی موقعیت شما…';
+
+  @override
+  String get back_to_playing_ayah => 'بازگشت به آیه در حال پخش';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6863,4 +6866,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get qibla_updating_location => 'در حال تازه‌سازی موقعیت شما…';
+
+  @override
+  String get back_to_playing_ayah => 'Back to playing ayah';
 }
