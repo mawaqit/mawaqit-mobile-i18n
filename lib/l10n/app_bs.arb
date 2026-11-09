@@ -2135,5 +2135,6 @@
     },
     "back_to_playing_ayah": "Nazad na ajet koji se reproducira",
     "alerts_set_for_other_mosque": "Obavijesti za {prayer} postavljene su za {mosque}. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju.",
-    "alerts_set_for_unknown_mosque": "Obavijesti za {prayer} postavljene su za drugu džamiju. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju."
+    "alerts_set_for_unknown_mosque": "Obavijesti za {prayer} postavljene su za drugu džamiju. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju.",
+    "live_activity_tooltip_android": "Ažuriranja uživo prikazuju se na vašem panelu s obavještenjima i na zaključanom ekranu (u zavisnosti od uređaja i verzije Androida)."
 }
