@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2135,5 +2135,6 @@
     },
     "back_to_playing_ayah": "چلائی جا رہی آیت پر واپس جائیں",
     "alerts_set_for_other_mosque": "{prayer} کے الرٹس {mosque} کے لیے سیٹ ہیں۔ انہیں یہاں تبدیل کرنے سے یہ اس مسجد پر منتقل ہو جائیں گے۔",
-    "alerts_set_for_unknown_mosque": "{prayer} کے الرٹس کسی اور مسجد کے لیے سیٹ ہیں۔ انہیں یہاں تبدیل کرنے سے یہ اس مسجد پر منتقل ہو جائیں گے۔"
+    "alerts_set_for_unknown_mosque": "{prayer} کے الرٹس کسی اور مسجد کے لیے سیٹ ہیں۔ انہیں یہاں تبدیل کرنے سے یہ اس مسجد پر منتقل ہو جائیں گے۔",
+    "live_activity_tooltip_android": "لائیو اپ ڈیٹس آپ کے نوٹیفکیشن پینل اور لاک اسکرین پر ظاہر ہوتی ہیں (ڈیوائس اور اینڈرائیڈ ورژن کے مطابق)۔"
 }
