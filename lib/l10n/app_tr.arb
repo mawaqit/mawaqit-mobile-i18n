@@ -2132,5 +2132,6 @@
     "qibla_updating_location": "Konumunuz güncelleniyor…",
     "@qibla_updating_location": {
         "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
-    }
+    },
+    "back_to_playing_ayah": "Oynatılan ayete dön"
 }
