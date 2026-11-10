@@ -3478,5 +3478,5 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Az élő frissítések az értesítési panelen és a zárolási képernyőn jelennek meg (az eszköztől és az Android verziójától függően).';
+      'Az élő frissítések az értesítési panelen és a zárolási képernyőn jelennek meg (az eszköztől és az Android verziójától függően). Bekapcsoláskor egy élő időzítő visszaszámlálást mutat a következő imáig vagy iqamáig.';
 }

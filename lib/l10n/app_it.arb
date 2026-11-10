@@ -2136,5 +2136,5 @@
     "back_to_playing_ayah": "Torna all’āya in riproduzione",
     "alerts_set_for_other_mosque": "Gli avvisi per {prayer} sono impostati per {mosque}. Modificandoli qui, verranno spostati su questa moschea.",
     "alerts_set_for_unknown_mosque": "Gli avvisi per {prayer} sono impostati per un'altra moschea. Modificandoli qui, verranno spostati su questa moschea.",
-    "live_activity_tooltip_android": "Gli aggiornamenti in tempo reale vengono visualizzati nel pannello delle notifiche e nella schermata di blocco (a seconda del dispositivo e della versione di Android)."
+    "live_activity_tooltip_android": "Gli aggiornamenti in tempo reale vengono visualizzati nel pannello delle notifiche e nella schermata di blocco (a seconda del dispositivo e della versione di Android). Quando è attivo, un timer in tempo reale mostra il conto alla rovescia fino alla prossima preghiera o all'iqama."
 }

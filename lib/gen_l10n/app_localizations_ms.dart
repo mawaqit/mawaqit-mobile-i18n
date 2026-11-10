@@ -3455,5 +3455,5 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Kemas kini langsung dipaparkan dalam panel pemberitahuan dan pada Skrin Kunci anda (bergantung pada peranti dan versi Android).';
+      'Kemas kini langsung dipaparkan dalam panel pemberitahuan dan pada skrin kunci anda (bergantung pada peranti dan versi Android). Apabila diaktifkan, pemasa langsung memaparkan kiraan detik menuju solat seterusnya atau iqamah.';
 }

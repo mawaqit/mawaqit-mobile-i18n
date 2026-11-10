@@ -3458,5 +3458,5 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Live-päivitykset näkyvät ilmoituspaneelissa ja lukitusnäytössä (laitteesta ja Android-versiosta riippuen).';
+      'Live-päivitykset näkyvät ilmoituspaneelissa ja lukitusnäytössä (laitteesta ja Android-versiosta riippuen). Kun toiminto on käytössä, reaaliaikainen ajastin näyttää lähtölaskennan seuraavaan rukoushetkeen tai iqamaan.';
 }

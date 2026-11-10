@@ -3487,5 +3487,5 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'As atualizações em tempo real aparecem no painel de notificações e na tela de bloqueio (dependendo do dispositivo e da versão do Android).';
+      'As atualizações em tempo real aparecem no painel de notificações e no ecrã de bloqueio (dependendo do dispositivo e da versão do Android). Quando ativado, um temporizador em tempo real mostra a contagem decrescente até à próxima oração ou iqama.';
 }
