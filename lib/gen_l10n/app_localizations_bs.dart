@@ -98,40 +98,40 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_language_ar => 'Arapski';
 
   @override
-  String get settings_language_bn => 'Bengali';
+  String get settings_language_bn => 'Bengalski';
 
   @override
-  String get settings_language_fr => 'French';
+  String get settings_language_fr => 'Francuski';
 
   @override
-  String get settings_language_nl => 'Dutch';
+  String get settings_language_nl => 'Holandski';
 
   @override
-  String get settings_language_de => 'Deutsch';
+  String get settings_language_de => 'Njemački';
 
   @override
-  String get settings_language_es => 'Español';
+  String get settings_language_es => 'Španski';
 
   @override
-  String get settings_language_en => 'English';
+  String get settings_language_en => 'Engleski';
 
   @override
-  String get settings_language_it => 'Italiano';
+  String get settings_language_it => 'Italijanski';
 
   @override
-  String get settings_language_tr => 'Türkçe';
+  String get settings_language_tr => 'Turski';
 
   @override
-  String get settings_language_ru => 'Russian';
+  String get settings_language_ru => 'Ruski';
 
   @override
-  String get settings_language_id => 'Indonesian';
+  String get settings_language_id => 'Indonezijski';
 
   @override
   String get settings_language_ur => 'Urdu';
 
   @override
-  String get settings_language_pl => 'Polski';
+  String get settings_language_pl => 'Poljski';
 
   @override
   String get settings_CreditsText =>
@@ -702,13 +702,13 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get on_boarding_nearest_mosque_text =>
-      'Ovdje su džamije koje su pronađene u vašoj okolini prema vašoj geolokaciji';
+      'Na osnovu vaše lokacije pronađene su sljedeće obližnje džamije';
 
   @override
-  String get search_no_result_for_text => 'Nismo pronašli nikakve rezultate za';
+  String get search_no_result_for_text => 'Nismo pronašli rezultate za';
 
   @override
-  String get surah_audio_downloading => 'Audio Sura se trenutno preuzima...';
+  String get surah_audio_downloading => 'Preuzimanje audiosnimka sure…';
 
   @override
   String get msg_internet_connection => 'Nemate internet konekciju';
@@ -729,10 +729,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get al_quran => 'Kur\'an';
 
   @override
-  String get surah_information => 'Informacije o Suri';
+  String get surah_information => 'Informacije o suri';
 
   @override
-  String get surah_number => 'Broj Sure';
+  String get surah_number => 'Broj sure';
 
   @override
   String get quran_browsing => 'Pretraživanje';
@@ -762,7 +762,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get surah => 'Sura';
 
   @override
-  String get continue_reading => 'Continue reading';
+  String get continue_reading => 'Nastavite čitanje';
 
   @override
   String get bookmarks => 'Bilješke';
@@ -774,7 +774,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get quran_page => 'Stranica';
 
   @override
-  String get quran_turning_page => 'Okreni stranicu';
+  String get quran_turning_page => 'Okretanje stranice';
 
   @override
   String get quran_from_right_to_left => 'S desna na lijevo';
@@ -822,7 +822,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get surahs_chapter => 'Sure - Poglavlje';
 
   @override
-  String get my_likes => 'Moji lajkovi';
+  String get my_likes => 'Moji favoriti';
 
   @override
   String get cancel => 'Otkaži';
@@ -854,10 +854,10 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get calculation_info =>
-      'Postavke u ovom dijelu odnose se samo na vrijeme namaza koje se izračunava na osnovu vaše geolokacije, a ne na vrijeme namaza u džamijama.';
+      'Postavke u ovom odjeljku odnose se samo na namaska vremena izračunata prema vašoj lokaciji, a ne na namaska vremena džamija.';
 
   @override
-  String get calculation_madhab => 'Fikhska škola - Mezheb';
+  String get calculation_madhab => 'Pravna škola – mezheb';
 
   @override
   String get calculation_madhab_shafii => 'Shafi’i, Hanbali i Maliki';
@@ -934,7 +934,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get calculation_methods_custom => 'Prilagođeni stepeni';
 
   @override
-  String get calculation_high_latitude => 'Geografska širina';
+  String get calculation_high_latitude => 'Visoke geografske širine';
 
   @override
   String get calculation_high_latitude_none => 'Ništa';
@@ -957,7 +957,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Podešavanje namaza i prilagođeni uglovi-stepen';
 
   @override
-  String get calculation_adjustment_prayers => 'Podešavanja namaza ';
+  String get calculation_adjustment_prayers => 'Podešavanje namaskih vremena';
 
   @override
   String get calculation_adjustment_prayers_minutes => 'minuta';
@@ -985,15 +985,15 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get download_quran_popup_downloading_1 =>
-      'Moramo preuzeti stranice Kur\'ana, to će trajati samo nekoliko sekundi. Koristit ćemo vaše mobilne podatke, prebacite se na Wi-Fi ako je potrebno.';
+      'Preuzimanje stranica Kur’ana traje svega nekoliko sekundi. Koristit će se mobilni internet. Ako želite, prijeđite na Wi-Fi.';
 
   @override
   String get download_quran_popup_downloading_2 =>
-      'Pripremamo Kur\'an upravo za vas, molimo pričekajte nekoliko sekundi!';
+      'Pripremamo Kur\'an upravo za vas, molimo vas pričekajte nekoliko sekundi!';
 
   @override
   String get download_quran_popup_downloading_3 =>
-      'Otvorite ljepotu Kur\'ana! Dodirnite \'Preuzmi\' da biste pristupili njegovoj vječnoj mudrosti i inspirisali se riječima Uzvišenog Allaha.';
+      'Dodirnite „Preuzmi“ i započnite čitati Kur’an i razmišljati o njegovim porukama.';
 
   @override
   String get download_quran_popup_confirm_cancel =>
@@ -1022,18 +1022,18 @@ class AppLocalizationsBs extends AppLocalizations {
   String get download_pages => 'Preuzmite stranice';
 
   @override
-  String get notification => 'Obavještenja';
+  String get notification => 'Obavještenje';
 
   @override
   String get notification_not_supported_below_7 =>
-      'Niste mogli primiti obavještenja o ezanu ili vremenima namaza jer vaš uređaj koristi Android 7 ili stariju verziju.';
+      'Obavještenja ezanom i obavještenja o namaskim vremenima nisu dostupna jer vaš uređaj koristi Android 7 ili stariju verziju.';
 
   @override
   String get battery_optimization => 'Optimizacija baterije';
 
   @override
   String get battery_optimization_subtitle =>
-      'Da biste bez problema primali obavještenja o namazu, morate isključiti optimizaciju baterije za MAWAQIT.';
+      'Za pouzdano primanje obavještenja o namaskim vremenima potrebno je isključiti optimizaciju baterije za aplikaciju MAWAQIT.';
 
   @override
   String get allow => 'Dozvoli';
@@ -1042,11 +1042,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get deny => 'Odbij';
 
   @override
-  String get force_notification => 'Prisilna obavještenja';
+  String get force_notification => 'Pouzdana isporuka obavještenja';
 
   @override
   String get tutorial_text_foreground_service =>
-      'Dodirom na njega omogućava vam se da uključite ili isključite \'\'Usluge u pozadini\' ';
+      'Dodirom na ovu opciju možete uključiti ili isključiti „Servis u prvom planu“';
 
   @override
   String get enable => 'Uključi';
@@ -1059,22 +1059,22 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get force_notification_title =>
-      'MAWAQIT je aktivan kako bi osigurao da obavještenja o namazu budu aktivirana u tačno vrijeme.';
+      'MAWAQIT ostaje aktivan kako biste na vrijeme primali obavještenja za namaz.';
 
   @override
   String get force_notification_body =>
-      '\'\'...namaz je, uistinu, propisan vjernicima u određenim vremenskim razmacima. (Nisa, 103)';
+      '\'\'„Namaz je, zaista, vjernicima propisan u određeno vrijeme.“(Nisa, 103)';
 
   @override
   String get force_notification_dialog1_body =>
-      'Omogućavanjem ove opcije, aplikacija će ostati aktivna kako bi osigurala da obavještenja o namazu budu poslata u tačno vrijeme i bez kašnjenja. Aplikacija MAWAQIT će biti aktivna samo u tu svrhu, a ovu opciju možete isključiti u bilo kojem trenutku iz postavki.';
+      'Uključivanjem ove opcije aplikacija ostaje aktivna kako bi se obavještenja za namaz slala na vrijeme, bez kašnjenja. MAWAQIT će ostati aktivan isključivo u tu svrhu. Ovu opciju možete isključiti u bilo kojem trenutku u postavkama.';
 
   @override
   String get force_notification_dialog2_body =>
-      'Nakon što omogućite \'Prisilna obavještenja\', prevucite prstom prema dolje po traci sa obavještenjima i tamo ćete vidjeti ovo obavještenje';
+      'Nakon što uključite opciju „Pouzdana isporuka obavještenja“, povucite prstom od vrha ekrana prema dolje. U panelu s obavještenjima vidjet ćete ovo obavještenje';
 
   @override
-  String get notification_debugging => 'Otklanjanje grešaka';
+  String get notification_debugging => 'Dijagnostika obavještenja';
 
   @override
   String get notification_debugging_details =>
@@ -1090,20 +1090,20 @@ class AppLocalizationsBs extends AppLocalizations {
   String get return_no_search => 'Nema rezultata pretrage';
 
   @override
-  String get backend_environment_switch => 'Promjena pozadinskog okruženja';
+  String get backend_environment_switch => 'Promjena serverskog okruženja';
 
   @override
-  String get set_development_environment => 'Postavi razvojno okruženje';
+  String get set_development_environment => 'Postavite razvojno okruženje';
 
   @override
-  String get set_production_environment => 'Postavi okruženje za produkciju';
+  String get set_production_environment => 'Postavite produkcijsko okruženje';
 
   @override
   String get delay_notification => 'Odgodi obavještenje';
 
   @override
   String get notification_delay_debugging_is =>
-      'Otklanjanje grešaka odgode obavijesti je';
+      'Dijagnostika kašnjenja obavještenja je';
 
   @override
   String get banner_enable => 'Omogući baner';
@@ -1115,22 +1115,22 @@ class AppLocalizationsBs extends AppLocalizations {
   String get show_details => 'Prikaži detalje';
 
   @override
-  String get auto_detect_location => 'Automatski predloži najbližu džamiju';
+  String get auto_detect_location => 'Automatski predložite najbližu džamiju';
 
   @override
   String get auto_detect_explanation =>
-      'Kada ste udaljeni od vaše džamije, aplikacija će automatski predložiti pretragu najbliže džamije na temelju vaše lokacije';
+      'Kada ste daleko od svoje džamije, aplikacija će vam automatski predložiti da potražite najbližu džamiju na osnovu vaše lokacije.';
 
   @override
   String get auto_detect_location_title =>
-      'Čini se da ste udaljeni od vaše džamije\n';
+      'Izgleda da ste daleko od svoje džamije';
 
   @override
   String get auto_detect_location_message =>
       'Želite li pretražiti najbližu džamiju za tačna namaska vremena?';
 
   @override
-  String get donation_success_toast => 'Donacija uspješno izvršena';
+  String get donation_success_toast => 'Donacija je uspješno uplaćena';
 
   @override
   String get donation_success =>
@@ -1140,7 +1140,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get donation_failed => 'Donacija nije uspjela';
 
   @override
-  String get donate_for_good => 'Donirajte za dobro';
+  String get donate_for_good => 'DONIRAJTE ZA HAJR';
 
   @override
   String get enter_amount_hint => 'Unesite iznos';
@@ -1154,7 +1154,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get error_performing_donation =>
-      'Došlo je do greške prilikom pokušaja uplate donacije';
+      'Došlo je do greške prilikom uplate donacije';
 
   @override
   String get recurring_pay_text => 'Donirajte ovaj iznos svaki mjesec.';
@@ -1175,10 +1175,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get information => 'Informacije';
 
   @override
-  String get news => 'Vijesti/Objave';
+  String get news => 'Objave i vijesti';
 
   @override
-  String get calendar => 'Kalendar';
+  String get calendar => 'Takvim';
 
   @override
   String get system => 'Sistem';
@@ -1200,7 +1200,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get mosques => 'Džamije';
 
   @override
-  String get no_news => 'Nema novih vijesti/objave iz džamije ';
+  String get no_news => 'Nema novih objava iz džamije';
 
   @override
   String get mawaqit_notification => 'Mawaqit obavještenja';
@@ -1209,10 +1209,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get no_mawaqit_notification => 'Bez novih obavještenja od Mawaqit';
 
   @override
-  String get meccan => 'Mekanski';
+  String get meccan => 'Mekanska';
 
   @override
-  String get medinan => 'Medina';
+  String get medinan => 'Medinska';
 
   @override
   String get montada_islamic_foundation => 'Islamska fondacija Montada';
@@ -1245,10 +1245,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get listening => 'Slušanje';
 
   @override
-  String get font_size => 'Veličina slova- prijevod';
+  String get font_size => 'Veličina slova';
 
   @override
-  String get font_size_arabic => 'Veličina slova- arapski';
+  String get font_size_arabic => 'Veličina arapskih slova';
 
   @override
   String get horizontal => 'Horizontalno';
@@ -1275,19 +1275,19 @@ class AppLocalizationsBs extends AppLocalizations {
   String get downloaded => 'Preuzeto';
 
   @override
-  String get search_for_recitator => 'Pretraži učača';
+  String get search_for_recitator => 'Potražite učača';
 
   @override
-  String get search_for_surah => 'Pretraži suru';
+  String get search_for_surah => 'Pretražite suru';
 
   @override
-  String get search_for_fav_recitator => 'Pretraži omiljenog učača';
+  String get search_for_fav_recitator => 'Pretražite omiljenog učača';
 
   @override
-  String get listen_to_quran => 'Slušaj Kur\'an';
+  String get listen_to_quran => 'SLUŠAJTE KUR’AN';
 
   @override
-  String get search_hint_text => 'Pretraži džamiju ili grad';
+  String get search_hint_text => 'Pretražite džamiju ili grad';
 
   @override
   String get downloading => 'Preuzimanje';
@@ -1297,11 +1297,11 @@ class AppLocalizationsBs extends AppLocalizations {
       'Ne možete preuzeti više od 3 istovremeno.';
 
   @override
-  String get boost => 'Boost/povećaj';
+  String get boost => 'Boost/Podrška';
 
   @override
   String get recitation_deleted_successfully =>
-      'Audio zapisi su je uspješno izbrisani';
+      'Audiosnimak je uspješno obrisan';
 
   @override
   String get quran => 'Kur\'an';
@@ -1336,32 +1336,33 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get no_bookmark_ayah =>
-      'Nema dostupnih bilješki. Molimo pritisnite i zadržite prst na ajetu koji želite označiti.';
+      'Nemate označenih ajeta. Pritisnite i zadržite ajet koji želite označiti.';
 
   @override
   String get page => 'Stranica';
 
   @override
-  String get prayer_times_in => 'Vaktija u';
+  String get prayer_times_in => 'Namaska vremena za';
 
   @override
   String get update_new_version =>
-      'Nova verzija Kur\'ana je dostupna za preuzimanje. Dodirnite \'Ažuriraj\' kako biste pristupili najnovijim unapređenjima i nastavili svoje putovanje s božanskom mudrošću';
+      'Dostupna je nova verzija digitalnog izdanja Kur’ana. Dodirnite „Ažuriraj“ da preuzmete najnovija poboljšanja i nastavite svoje putovanje kroz Božiju mudrost';
 
   @override
   String get update_quran_zip =>
-      'Nova verzija Kur\'ana dostupna je za preuzimanje. Dodirnite \'Ažuriraj\' da pristupite najnovijim poboljšanjima i nastavite svoje putovanje s božanskom mudrošću.';
+      'Dostupna je nova verzija s tipografskim poboljšanjima. Dodirnite „Ažuriraj“ i nastavite svoje putovanje čitanja i razmišljanja o porukama Kur’ana.';
 
   @override
   String get update_latest_quran_version =>
-      'Nova verzija Kur\'ana je dostupna za preuzimanje. Dodirnite \'Ažuriraj\' kako biste pristupili najnovijim unapređenjima i nastavili svoje putovanje s božanskom mudrošću.';
+      'Dostupna je verzija s tipografskim poboljšanjima. Dodirnite „Ažuriraj“ za nastavak čitanja i promišljanja.';
 
   @override
   String get update_latest_quran =>
-      'Nova verzija Kur\'ana dostupna je za preuzimanje. Dodirnite \'Ažuriraj\' da pristupite najnovijim poboljšanjima i nastavite svoje putovanje s božanskom mudrošću.';
+      'Objavljena je revidirana verzija s poboljšanim prikazom teksta. Dodirnite „Ažuriraj“ da nastavite čitati i promišljati o porukama Kur’ana.';
 
   @override
-  String get set_notification_for_all_parayer => 'Postavi ovo za svaki namaz';
+  String get set_notification_for_all_parayer =>
+      'Primijenite ove postavke na sve namaze';
 
   @override
   String get powered_by_mawaqit => 'Powered by MAWAQIT';
@@ -1373,26 +1374,27 @@ class AppLocalizationsBs extends AppLocalizations {
   String get prayer_times_by_location => 'Namaska vremena prema lokaciji';
 
   @override
-  String get already_in_list => 'već je na vašoj listi!';
+  String get already_in_list => 'je već na vašoj listi!';
 
   @override
-  String get got_it => 'Razumijem!';
+  String get got_it => 'U redu!';
 
   @override
   String get mushaf_warsh => 'Warsh';
 
   @override
-  String get mushaf_hafs => 'Mus\'haf prema kiraetu Hafs';
+  String get mushaf_hafs => 'Hafs';
 
   @override
-  String get select_rewaya => 'Izaberite Rewayu';
+  String get select_rewaya => 'Odaberite rivajet';
 
   @override
-  String get download_in_progress => 'Preuzimanje u toku, molimo sačekajte...';
+  String get download_in_progress =>
+      'Preuzimanje je u toku. Molimo vas, sačekajte...';
 
   @override
   String get highlight_next_prayer_after_Iqama =>
-      'Nakon ikameta istakni vrijeme za sljedeću molitvu';
+      'Nakon ikameta istaknite vrijeme sljedećeg namaza';
 
   @override
   String get helmi_nasr => 'Dr. Helmi Nasr';
@@ -1401,128 +1403,129 @@ class AppLocalizationsBs extends AppLocalizations {
   String get settings_language_pt => 'Portuguese';
 
   @override
-  String get al_zikr => 'Al-Zikr';
+  String get al_zikr => 'Zikr';
 
   @override
-  String get favorite_azkar => 'Favorite Azkar';
+  String get favorite_azkar => 'Omiljeni zikr';
 
   @override
-  String get all_azkar => 'All Azkar';
+  String get all_azkar => 'Sve dove i zikrovi';
 
   @override
-  String get device_audio_not_found => 'Device audio not found';
+  String get device_audio_not_found =>
+      'Audiosnimak nije pronađen na vašem uređaju';
 
   @override
-  String get device_media => 'Device Media';
+  String get device_media => 'Medijski sadržaj uređaja';
 
   @override
-  String get add_new_audio => 'Add a new audio file';
+  String get add_new_audio => 'Dodajte novu audiodatoteku';
 
   @override
   String get selecet_audio_before_delete =>
-      'You need to add another audio file for notifications before deleting the selected audio file';
+      'Da biste obrisali odabrani audiosnimak, prvo dodajte drugi zvuk za obavještenja';
 
   @override
   String get addding_file_prompt =>
-      'You can add multiple audio files, but please make sure not to add the same audio file.';
+      'Možete dodati više audiodatoteka, ali pazite da istu datoteku ne dodate više puta.';
 
   @override
   String get ios_audio_file_picking_prompt =>
-      'Please choose an audio file with a maximum duration of 30 seconds or less. A longer duration audio file may interrupt your prayer notification.';
+      'Odaberite audiodatoteku koja traje najviše 30 sekundi. Duža datoteka može ometati obavještenje za namaz.';
 
   @override
-  String get select_audio_from_device => 'Select audio (mp3) from device.';
+  String get select_audio_from_device => 'Izaberite audiosnimak u Mp3 formatu.';
 
   @override
-  String get add_ticket => 'Add ticket';
+  String get add_ticket => 'Dodajte prijavu';
 
   @override
-  String get projects => 'Projects';
+  String get projects => 'Projekti';
 
   @override
-  String get fill_form => 'To add your project here fill up this';
+  String get fill_form => 'Da biste ovdje dodali svoj projekt, popunite ovaj';
 
   @override
-  String get form => 'form';
+  String get form => 'obrazac';
 
   @override
   String get updates_draw =>
-      'Get updates and participate in the draw to win goodies from';
+      'Pratite novosti i učestvujte u nagradnom izvlačenju za poklone koje daruje';
 
   @override
   String get email_info =>
-      'This email will be used to contact you if you win the draw';
+      'Ako budete izvučeni kao dobitnik, kontaktirat ćemo vas putem ove e-mail adrese';
 
   @override
-  String get enter_email => 'Enter your email';
+  String get enter_email => 'Unesite svoju e-mail adresu';
 
   @override
   String get email_privacy =>
-      'MAWAQIT will not share this email with anyone. The email will be automatically deleted from our database after each draw';
+      'Vašu e-mail adresu nećemo prosljeđivati drugima. Nakon svakog nagradnog izvlačenja automatski ćemo je izbrisati iz naše baze podataka';
 
   @override
-  String get submit => 'Submit';
+  String get submit => 'Pošaljite';
 
   @override
   String get disclaimer =>
-      'MAWAQIT is absolved from any responsibility regarding the services or products proposed by the listed projects. Please do your own due diligence and research';
+      'MAWAQIT nije odgovoran za usluge i proizvode ponuđene u okviru navedenih projekata. Prije donošenja odluke prikupite informacije i izvršite potrebne provjere';
 
   @override
-  String get participating_with => 'You\'re participating with';
+  String get participating_with => 'Učestvujete s';
 
   @override
-  String get no_of_tickets => 'No. of tickets:';
+  String get no_of_tickets => 'Broj prijava:';
 
   @override
-  String get unparticipate => 'Click to unparticipate';
+  String get unparticipate => 'Dodirnite da otkažete učešće';
 
   @override
-  String get next_ticket => 'The next ticket available in';
+  String get next_ticket => 'Sljedeća prijava dostupna za';
 
   @override
-  String get click_here => 'Click here';
+  String get click_here => 'Kliknite ovdje';
 
   @override
-  String get mawaqit_store => 'MAWAQIT Store';
+  String get mawaqit_store => 'MAWAQIT prodavnica';
 
   @override
-  String get no_projects => 'There are no projects';
+  String get no_projects => 'Trenutno nema dostupnih projekata';
 
   @override
   String get draw_info =>
-      'One draw every month. Every 24h you can add a new ticket to increase your chance to win!';
+      'Nagradno izvlačenje održava se jednom mjesečno. Svaka 24 sata možete dodati novu prijavu i povećati šanse za dobitak!';
 
   @override
-  String get enter_valid_email => 'Enter a valid email';
+  String get enter_valid_email => 'Unesite važeću e-mail adresu';
 
   @override
-  String get please_enter_email => 'Please enter an email';
+  String get please_enter_email => 'Unesite e-mail adresu';
 
   @override
   String get select_device_audo_for_ios_propmpt =>
-      'Select an audio file, and we\'ll convert it to an iOS compatible format while trimming it to 30 seconds due to iOS platform limitations.';
+      'Odaberite audiodatoteku. Pretvorit ćemo je u format kompatibilan s iOS-om i skratiti na 30 sekundi zbog ograničenja ove platforme.';
 
   @override
-  String get confirm_deletion => 'Potvrdi brisanje';
+  String get confirm_deletion => 'Potvrdite brisanje';
 
   @override
   String get sure_remove_rewaya =>
-      'Jeste li sigurni da želite ukloniti ovu Rewaya?';
+      'Jeste li sigurni da želite ukloniti ovaj rivajet?';
 
   @override
-  String get file_not_found => 'File not found';
+  String get file_not_found => 'Datoteka nije pronađena';
 
   @override
   String get notified_boost =>
-      'Primajte obavijesti o najnovijim ažuriranjima MAWAQIT Boost projekata.';
+      'Primajte obavještenja o najnovijim dešavanjima u projektima MAWAQIT Boost.';
 
   @override
   String get contact_us_boost =>
-      'Da biste naveli svoj projekat ovdje, kontaktirajte nas na';
+      'Za dodavanje svog projekta na ovu listu, javite nam se na';
 
   @override
   String get prayer_times_set_by_mosque =>
-      'Prayer times and all the information here are set by the mosque, not MAWAQIT';
+      'Namaska vremena i sve ovdje prikazane informacije određuje džamija, a ne MAWAQIT';
 
   @override
   String get hasan_nahi => 'Hasan Nahi';
@@ -1531,37 +1534,38 @@ class AppLocalizationsBs extends AppLocalizations {
   String get albanian => 'Albanski';
 
   @override
-  String get delete_all => 'Delete All';
+  String get delete_all => 'Obrišite sve';
 
   @override
-  String get delete_all_downloads => 'Delete All Downloads';
+  String get delete_all_downloads => 'Obrišite sve preuzete datoteke';
 
   @override
   String get delete_recitations_message =>
-      'Are you sure you want to delete all downloaded recitations?';
+      'Želite li zaista obrisati sve preuzete audiosnimke?';
 
   @override
   String get downloaded_deleted_successfully =>
-      'All downloaded recitations deleted successfully';
+      'Svi preuzeti audiosnimci uspješno su obrisani';
 
   @override
-  String get failed_delete_recitations => 'Failed to delete all recitations';
+  String get failed_delete_recitations =>
+      'Nije uspjelo brisanje svih audiosnimaka';
 
   @override
-  String get no_azkar_result => 'No remembrance results available';
+  String get no_azkar_result => 'Nije pronađen nijedan zikr';
 
   @override
-  String get search_title => 'Pretraži koristeći naslov';
+  String get search_title => 'Pretražite prema naslovu';
 
   @override
   String get compass_calibration =>
-      'Compass calibration setting is disabled. Tilt and move your phone 3 times in a figure-of-eight motion like this';
+      'Kalibracija kompasa je isključena. Nagnite telefon i pomjerite ga 3 puta u obliku osmice, kao što je prikazano';
 
   @override
-  String get compass_accuracy => 'Compass Accuracy';
+  String get compass_accuracy => 'Preciznost kompasa';
 
   @override
-  String get low => 'Low';
+  String get low => 'Niska';
 
   @override
   String get tafsir => 'Tefsir';
@@ -1570,10 +1574,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get copy => 'Kopiraj';
 
   @override
-  String get no_tafsir => 'Još nijedan tefsir nije preuzet';
+  String get no_tafsir => 'Još nije preuzet nijedan tefsir';
 
   @override
-  String get download_tafsir => 'Preuzmi tefsir';
+  String get download_tafsir => 'Preuzmite tefsir';
 
   @override
   String get hussary => 'Mahmoud Khalil Al‑Hussary';
@@ -1736,10 +1740,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get moallim => 'Almusshaf Al Mo\'llim';
 
   @override
-  String get play => 'Play';
+  String get play => 'Slušajte';
 
   @override
-  String get playback_settings => 'Postavke reprodukcije';
+  String get playback_settings => 'Postavke slušanja';
 
   @override
   String get from => 'Od';
@@ -1748,67 +1752,67 @@ class AppLocalizationsBs extends AppLocalizations {
   String get to => 'Do';
 
   @override
-  String get range => 'Opseg';
+  String get range => 'Raspon';
 
   @override
-  String get select_starting_verse => 'Odaberi početni ajet';
+  String get select_starting_verse => 'Odaberite početni ajet';
 
   @override
-  String get select_ending_verse => 'Odaberi završni ajet';
+  String get select_ending_verse => 'Odaberite završni ajet';
 
   @override
-  String get range_repeat => 'Ponavljaj opseg';
+  String get range_repeat => 'Ponavljanje raspona';
 
   @override
-  String get verse_repeat => 'Ponavljaj ajet';
+  String get verse_repeat => 'Ponavljanje ajeta';
 
   @override
   String get improved_Hafs_Rewaya_Force_Update =>
-      'Vaša Hafs Rewaja je poboljšana. Preuzmite odmah da pristupite Tefsiru i slušate učenje dugim pritiskom na bilo koji ajet.';
+      'Unaprijedili smo Hafsov rivajet u aplikaciji. Preuzmite ga sada, a zatim pritisnite i zadržite bilo koji ajet da pročitate tefsir i poslušate njegovo učenje';
 
   @override
   String get mawaqit_three_sixty_description =>
-      'Doživite prikaz namaskih vremena uz naš novi animirani sat.';
+      'Pratite namaska vremena na našem novom animiranom satu';
 
   @override
   String get hnpai_User_Guidance_MAWAQIT_360 =>
-      'Tokom korištenja 360 pregleda, ova opcija se ne može isključiti.';
+      'Tokom korištenja prikaza 360 ova opcija se ne može isključiti';
 
   @override
   String get mawaqit_three_sixty_beta => 'MAWAQIT 360 (Beta verzija)';
 
   @override
-  String get three_sixty_setting => '360 Settings';
+  String get three_sixty_setting => 'Postavke prikaza 360';
 
   @override
-  String get behavior => 'Behavior';
+  String get behavior => 'Način prikaza';
 
   @override
-  String get next_prayer_open => 'Next prayer';
+  String get next_prayer_open => 'Sljedeći namaz';
 
   @override
-  String get all_prayer_closed => 'All closed';
+  String get all_prayer_closed => 'Sve zatvoreno';
 
   @override
-  String get recomended_next_prayer => 'Recommended: Next prayer only';
+  String get recomended_next_prayer => 'Preporučeno: samo sljedeći namaz';
 
   @override
-  String get live_preview => 'Live Preview';
+  String get live_preview => 'Pregled uživo';
 
   @override
-  String get font_Size_Normal => 'Normal';
+  String get font_Size_Normal => 'Normalna';
 
   @override
-  String get font_Size_Large => 'Large';
+  String get font_Size_Large => 'Velika';
 
   @override
-  String get all_Prayer_Open => 'All open';
+  String get all_Prayer_Open => 'Sve otvoreno';
 
   @override
-  String get settingFontSize => 'Font Size';
+  String get settingFontSize => 'Veličina slova';
 
   @override
-  String get last_Third_Of_The_Night => 'Last Third Of The Night';
+  String get last_Third_Of_The_Night => 'Zadnja trećina';
 
   @override
   String get shaykh_aminuddin_muhammad => 'Šejh Eminuddin Muhammed';
@@ -1818,32 +1822,32 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get most_widespread_riwayah =>
-      'Die weltweit am weitesten verbreitete Rezitation';
+      'Najrasprostranjeniji rivajet na svijetu';
 
   @override
   String get warsh_an_nafi => 'Warsh ʿan Nāfiʿ';
 
   @override
   String get popular_across_north_west_africa =>
-      'Weit verbreitet in Nord- und Westafrika';
+      'Rasprostranjen u Sjevernoj i Zapadnoj Africi';
 
   @override
-  String get select => 'Odaberi';
+  String get select => 'Odaberite';
 
   @override
-  String get unknown_smartwatch => 'Nepoznati pametni sat';
+  String get unknown_smartwatch => 'Nepoznat pametni sat';
 
   @override
   String get connected_watch => 'Povezani sat';
 
   @override
-  String get ready_play_watch => 'je spremno za reprodukciju na vašem satu';
+  String get ready_play_watch => 'je spremno za slušanje na vašem satu';
 
   @override
   String get transliteration => 'Transliteracija';
 
   @override
-  String get highlight_Tahajjud_Time => 'Istakni vrijeme Tahajjud-namaza';
+  String get highlight_Tahajjud_Time => 'Istaknite vrijeme tehedžuda';
 
   @override
   String get calendar_access_not_available =>
@@ -1851,33 +1855,34 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get calendar_allow_access_mawaqit =>
-      'Dozvolite pristup kalendaru kako biste prikazali svoje događaje na MAWAQIT 360.';
+      'Omogućite pristup kalendaru za prikaz svojih događaja u MAWAQIT-u 360.';
 
   @override
   String get calendar_access_required =>
-      'Pristup kalendaru je potreban za prikaz vaših događaja.';
+      'Za prikaz vaših događaja potreban je pristup kalendaru.';
 
   @override
-  String get calendar_allow_access_button => 'Dozvoli pristup kalendaru';
+  String get calendar_allow_access_button => 'Dozvolite pristup kalendaru';
 
   @override
   String get calendar_loading => 'Učitavanje kalendara…';
 
   @override
   String get calendar_select_for_mawaqit =>
-      'Odaberite kalendare koje želite prikazati na MAWAQIT 360.';
+      'Odaberite kalendare koje želite prikazati u MAWAQIT-u 360.';
 
   @override
-  String get calendar_enable_all => 'Omogući sve';
+  String get calendar_enable_all => 'Uključite sve';
 
   @override
-  String get calendar_disable_all => 'Onemogući sve';
+  String get calendar_disable_all => 'Isključite sve';
 
   @override
   String get calendar_other_calendars => 'Ostali kalendari';
 
   @override
-  String get calendar_times_shown_in => 'Vremena prikazana u';
+  String get calendar_times_shown_in =>
+      'Vremena su prikazana u vremenskoj zoni';
 
   @override
   String get calendar_starts_on => 'Počinje';
@@ -1886,16 +1891,16 @@ class AppLocalizationsBs extends AppLocalizations {
   String get calendar_ends_on => 'Završava';
 
   @override
-  String get calendar_events_at_this_time => 'Događaji u ovom terminu';
+  String get calendar_events_at_this_time => 'Događaji u ovo vrijeme';
 
   @override
   String get hamza_roberto_piccardo => 'Hamza Roberto Piccardo';
 
   @override
-  String get open_in_mawaqit_app => 'Otvori ovu džamiju u MAWAQIT aplikaciji';
+  String get open_in_mawaqit_app => 'Otvorite ovu džamiju u aplikaciji MAWAQIT';
 
   @override
-  String get mosque_name => 'Naziv džamije';
+  String get mosque_name => 'Ime džamije';
 
   @override
   String get mosque_not_found => 'Džamija nije pronađena';
@@ -1909,19 +1914,19 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get no_calendars_on_this_device =>
-      'Na ovom uređaju nisu pronađeni kalendari.';
+      'Nema dostupnih kalendara na ovom uređaju.';
 
   @override
-  String get calendar_event_at_this_time => 'Događaj u ovom terminu';
+  String get calendar_event_at_this_time => 'Događaj u ovo vrijeme';
 
   @override
   String get search_ayah_surah => 'Pretraži po ajetu ili suri';
 
   @override
-  String get matching_surahs => 'Podudarne sure';
+  String get matching_surahs => 'Pronađene sure';
 
   @override
-  String get matching_ayahs => 'Podudarni ajeti';
+  String get matching_ayahs => 'Pronađeni ajeti';
 
   @override
   String get live_timer => 'Uživo tajmer';
@@ -1931,80 +1936,80 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get take_time_appear_watch =>
-      'Možda će biti potrebno nekoliko sekundi da se pojavi na vašem satu.';
+      'Može proći nekoliko sekundi prije nego što se prikaže na vašem satu.';
 
   @override
   String get eid1 => 'Bajram';
 
   @override
   String get hide_live_activity_for_prayer =>
-      'Sakrij live aktivnost samo za ovu molitvu';
+      'Sakrijte prikaz u stvarnom vremenu samo za ovaj namaz';
 
   @override
   String get settings => 'Postavke';
 
   @override
-  String get azkar => 'Azkar';
+  String get azkar => 'Zikr';
 
   @override
-  String get quran_tajweed => 'Kur’an Tadžvid';
+  String get quran_tajweed => 'Tedžvid Kur’ana';
 
   @override
   String get tajweed_description =>
-      'Pravila tadžvida označena bojama za ispravnu recitaciju';
+      'Tedžvidska pravila označena bojama za pravilno učenje Kur’ana';
 
   @override
-  String get tajwid_rules => 'Pravila tadžvida';
+  String get tajwid_rules => 'Tedžvidska pravila';
 
   @override
   String get examples => 'Primjeri';
 
   @override
-  String get real_time_weather => 'Vrijeme uživo';
+  String get real_time_weather => 'Vremenski podaci uživo';
 
   @override
-  String get layout => 'Raspored';
+  String get layout => 'Izgled';
 
   @override
   String get list => 'Lista';
 
   @override
-  String get grid => 'Mreža';
+  String get grid => 'Kartice';
 
   @override
   String get real_time_weather_needs_internet =>
-      'Vrijeme uživo zahtijeva internet vezu za preuzimanje ažuriranja.';
+      'Za preuzimanje ažuriranih vremenskih podataka potrebna je internetska veza.';
 
   @override
-  String get view_detail => 'Pregled detalja';
+  String get view_detail => 'Pogledajte detalje';
 
   @override
   String get temperature => 'Temperatura';
 
   @override
-  String get tahajjud_time => 'Vrijeme za Tahadžud';
+  String get tahajjud_time => 'Vrijeme tehedžud-namaza';
 
   @override
   String get last_third => 'Zadnja trećina';
 
   @override
-  String get midnight => 'Ponoć';
+  String get midnight => 'Sredina noći';
 
   @override
-  String get failed_to_update => 'Neuspješno ažuriranje.';
+  String get failed_to_update => 'Ažuriranje nije uspjelo.';
 
   @override
-  String get tap_to_retry => 'Dodirnite za ponovno pokušaj';
+  String get tap_to_retry => 'Dodirnite za ponovni pokušaj';
 
   @override
-  String get support_mawaqit_association => 'Podržite udruženje MAWAQIT';
+  String get support_mawaqit_association => 'Pružite podršku udruženju MAWAQIT';
 
   @override
-  String get help_improve_mawaqit => 'Pomozite unaprijediti MAWAQIT';
+  String get help_improve_mawaqit => 'Pomozite nam da unaprijedimo MAWAQIT';
 
   @override
   String get analytics_description =>
-      'Dozvolite anonimnu analizu korištenja kako bismo poboljšali aplikaciju. Nema ličnih podataka. Nikada se ne dijeli.';
+      'Dozvolite anonimnu analizu korištenja kako biste nam pomogli da poboljšamo aplikaciju. Bez ličnih podataka. Podaci se nikada ne dijele s drugima.';
 
   @override
   String get weather_clear => 'Vedro';
@@ -2016,7 +2021,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get weather_tornado => 'Tornado';
 
   @override
-  String get weather_ash => 'Pepeo';
+  String get weather_ash => 'Vulkanski pepeo';
 
   @override
   String get weather_dust => 'Prašina';
@@ -2028,13 +2033,13 @@ class AppLocalizationsBs extends AppLocalizations {
   String get weather_fog => 'Magla';
 
   @override
-  String get weather_haze => 'Izmaglica';
+  String get weather_haze => 'Sumaglica';
 
   @override
   String get weather_smoke => 'Dim';
 
   @override
-  String get weather_mist => 'Sumaglica';
+  String get weather_mist => 'Slaba magla';
 
   @override
   String get weather_snow => 'Snijeg';
@@ -2043,10 +2048,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get weather_rain => 'Kiša';
 
   @override
-  String get weather_drizzle => 'Slaba kiša';
+  String get weather_drizzle => 'Sitna kiša';
 
   @override
-  String get weather_thunderstorm => 'Grmljavina';
+  String get weather_thunderstorm => 'Oluja s grmljavinom';
 
   @override
   String get weather_squall => 'Olujni nalet vjetra';
@@ -2062,7 +2067,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get weather_need_internet =>
-      'Ova funkcija zahtijeva internet vezu za preuzimanje ažuriranja.';
+      'Ova funkcija zahtijeva vezu s internetom kako bi preuzimala ažuriranja.';
 
   @override
   String get weather_light_rain => 'Slaba kiša';
@@ -2071,31 +2076,31 @@ class AppLocalizationsBs extends AppLocalizations {
   String get edit => 'Uredi';
 
   @override
-  String get iqama_countdown => 'Odbrojavanje do Iqame';
+  String get iqama_countdown => 'Odbrojavanje do ikameta';
 
   @override
-  String get next_prayer_countdown => 'Uključena live aktivnost uvijek';
+  String get next_prayer_countdown => 'Odbrojavanje do sljedećeg namaza';
 
   @override
-  String get next_prayer => 'Sljedeća molitva';
+  String get next_prayer => 'Sljedeći namaz';
 
   @override
   String get live_countdown_for_all_pray =>
-      'Prikaz uživo odbrojavanja će biti aktivan za sve namaze, automatski prikazujući tajmer za svaki naredni namaz.';
+      'Odbrojavanje uživo bit će aktivno za sve namaze i automatski će prikazivati preostalo vrijeme do svakog sljedećeg namaza.';
 
   @override
-  String get live_countdown => 'Prijenosno odbrojavanje';
+  String get live_countdown => 'Odbrojavanje uživo';
 
   @override
-  String get quick_quran_reading_access => 'Brzi pristup čitanju Kur\'ana';
+  String get quick_quran_reading_access => 'Brzi pristup čitanju Kur’ana';
 
   @override
   String get quick_quran_discription =>
-      'Kada otvorite karticu Kur\'an, nastavite tamo gdje ste stali.';
+      'Kada otvorite karticu Kur’an, nastavite čitati tamo gdje ste stali.';
 
   @override
   String get live_activity_tooltip =>
-      'Uživo aktivnosti se pojavljuju na vašem zaključanom ekranu i Dynamic Islandu (ako je podržano). Kada je omogućeno, prikazuje se uživo odbrojavanje do sljedeće molitve ili ikameta.';
+      'Pratite odbrojavanje do sljedećeg namaza ili ikameta na zaključanom ekranu i u području Dynamic Island, ako ga vaš uređaj podržava. Za prikaz uključite opciju „Aktivnosti uživo“.';
 
   @override
   String get prayer => 'Namaz';
@@ -2105,25 +2110,26 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get weather_your_location =>
-      'Prikazuje vremensku prognozu za Vašu lokaciju, a ne za džamiju.';
+      'Prikazuje vremenske prilike na vašoj lokaciji, a ne na lokaciji džamije.';
 
   @override
-  String get view_360_currently_selected => '360 Pregled je trenutno odabran';
+  String get view_360_currently_selected => 'Trenutno je odabran prikaz 360.';
 
   @override
-  String get tap_change_layout => 'Dodirnite ovdje da promijenite raspored';
+  String get tap_change_layout =>
+      'Dodirnite ovdje da promijenite način prikaza';
 
   @override
   String get step => 'Korak';
 
   @override
-  String get jump_to_page => 'Idi na stranicu';
+  String get jump_to_page => 'Idite na stranicu';
 
   @override
   String get select_surah => 'Odaberite suru';
 
   @override
-  String get please_select_surah => 'Molimo odaberite suru';
+  String get please_select_surah => 'Molimo vas, izaberite suru';
 
   @override
   String get ayah_number => 'Broj ajeta';
@@ -2148,11 +2154,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get sofian_s_siregar => 'Sofian S. Siregar';
 
   @override
-  String get download_all_surahs => 'Preuzmi sve sure';
+  String get download_all_surahs => 'Preuzmite sve sure';
 
   @override
   String get this_will_download_all_surahs_for_offline =>
-      'Ovo će preuzeti sve sure za slušanje van mreže. Molimo provjerite da ste povezani na Wi-Fi prije nego nastavite.';
+      'Ovo će preuzeti sve sure za slušanje van mreže. Prije nego što nastavite, povežite se na Wi-Fi.';
 
   @override
   String get tap_change_notification => 'Dodirnite za promjenu obavijesti';
@@ -2175,25 +2181,25 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_edit_mosques => 'Otvori za uređivanje svojih džamija';
 
   @override
-  String get semantic_change_layout => 'Promijeni raspored početne stranice';
+  String get semantic_change_layout => 'Promijenite izgled početnog ekrana';
 
   @override
-  String get semantic_open_layout_menu => 'Otvori meni rasporeda';
+  String get semantic_open_layout_menu => 'otvorite meni za odabir izgleda';
 
   @override
-  String get semantic_edit_home_settings => 'Uredi postavke početne stranice';
+  String get semantic_edit_home_settings => 'Uredite postavke početnog ekrana';
 
   @override
   String get semantic_list_layout => 'Prikaz liste';
 
   @override
-  String get semantic_grid_layout => 'Prikaz mreže';
+  String get semantic_grid_layout => 'Prikaz kartica';
 
   @override
-  String get sematnic_360_clock_layout => '360 raspored sata';
+  String get sematnic_360_clock_layout => 'Prikaz sata 360';
 
   @override
-  String get semantic_layout_menu_open => 'Meni rasporeda otvoren';
+  String get semantic_layout_menu_open => 'Meni za odabir izgleda je otvoren';
 
   @override
   String get close => 'Zatvori';
@@ -2206,14 +2212,14 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get semantic_unread_mawaqit_notifications =>
-      'Nepročitane MAWAQIT obavijesti';
+      'nepročitane Mawaqit obavijesti';
 
   @override
   String get back => 'Nazad';
 
   @override
   String get semantic_download_all_surahs_for_offline_listening =>
-      'Preuzmi sve sure za slušanje van mreže';
+      'Preuzmite sve sure za slušanje van mreže';
 
   @override
   String get semantic_download_all_surahs => 'Preuzmi sve sure';
@@ -2222,43 +2228,44 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_bulk_download_progress => 'Napredak grupnog preuzimanja';
 
   @override
-  String get semantic_surahs_downloaded => 'Preuzete sure';
+  String get semantic_surahs_downloaded => 'preuzetih sura';
 
   @override
   String get semantic_cancel_download_all_surahs =>
-      'Otkaži preuzimanje svih sura';
+      'Otkažite preuzimanje svih sura';
 
   @override
   String get semantic_bulk_download_in_progress =>
-      'Grupno preuzimanje je u toku.';
+      'Preuzimanje svih sura je u toku.';
 
   @override
-  String get semantic_replay_current_surah => 'Ponovo pusti trenutnu suru';
+  String get semantic_replay_current_surah => 'Ponovo pustite trenutnu suru';
 
   @override
-  String get semantic_pause_current_surah => 'Pauziraj trenutnu suru';
+  String get semantic_pause_current_surah => 'Pauzirajte trenutnu suru';
 
   @override
-  String get semantic_play_current_surah => 'Pusti trenutnu suru';
+  String get semantic_play_current_surah => 'Pustite trenutnu suru';
 
   @override
   String get semantic_open_play_on_watch_options_for =>
-      'Otvori opcije reprodukcije na satu za';
+      'Otvorite opcije slušanja na satu za';
 
   @override
-  String get semantic_now_playing_surah => 'Sada se reproducira. Sura';
+  String get semantic_now_playing_surah => 'Trenutno slušate. Sura';
 
   @override
-  String get semantic_recited_by => 'Recitirao';
+  String get semantic_recited_by => 'Uči';
 
   @override
-  String get semantic_minimize_player => 'Smanji plejer';
+  String get semantic_minimize_player => 'Smanjite plejer';
 
   @override
   String get semantic_elapsed => 'Proteklo';
 
   @override
-  String get semantic_playback_time_elapsed => 'Vrijeme reprodukcije. Proteklo';
+  String get semantic_playback_time_elapsed =>
+      'Vrijeme slušanja. Proteklo vrijeme';
 
   @override
   String get semantic_remaining => 'Preostalo';
@@ -2290,10 +2297,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_use_current_location => 'Koristi trenutnu lokaciju';
 
   @override
-  String get semantic_collapse_mosque_list => 'Smanji listu džamija';
+  String get semantic_collapse_mosque_list => 'Smanjite listu džamija';
 
   @override
-  String get semantic_expand_mosque_list => 'Proširi listu džamija';
+  String get semantic_expand_mosque_list => 'Proširite listu džamija';
 
   @override
   String get added => 'Dodano';
@@ -2302,7 +2309,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get not_added => 'Nije dodano';
 
   @override
-  String get semantic_navigate_to_mosque => 'Navigiraj do džamije';
+  String get semantic_navigate_to_mosque => 'Pokrenite navigaciju do džamije';
 
   @override
   String get semantic_decrease_pre_notification =>
@@ -2313,7 +2320,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Povećaj vrijeme prethodne obavijesti';
 
   @override
-  String get semantic_facing_qibla => 'Okrenuti ste prema Kibli';
+  String get semantic_facing_qibla => 'Nalazite se u pravcu kible';
 
   @override
   String get semantic_clockwise => 'U smjeru kazaljke na satu';
@@ -2322,16 +2329,17 @@ class AppLocalizationsBs extends AppLocalizations {
   String get sematnic_counter_clockwise => 'suprotno od kazaljke na satu';
 
   @override
-  String get semantic_rotate_slightly => 'Skoro je gotovo. Okrenite malo';
+  String get semantic_rotate_slightly =>
+      'Skoro je gotovo. Blago zakrenite telefon';
 
   @override
-  String get semanitc_degrees_to_qibla => 'stepeni prema Kibli';
+  String get semanitc_degrees_to_qibla => 'stepeni do pravca kible';
 
   @override
   String get about => 'oko';
 
   @override
-  String get rotate => 'Okreni';
+  String get rotate => 'Okrenite';
 
   @override
   String get semantic_close_audio_player => 'Zatvori audio player';
@@ -2365,30 +2373,30 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get verse_list_enabled_for_accessibility =>
-      'Režim liste ajeta omogućen za pristupačnost';
+      'Radi pristupačnosti uključen je prikaz liste ajeta';
 
   @override
   String get semantic_switch_verse_list =>
-      'Stranica Mushafa. Pređite na prikaz liste ajeta za potpunu pristupačnost.';
+      'Stranica Mushafa. Za potpunu pristupačnost odaberite prikaz liste ajeta.';
 
   @override
   String get semantic_decrease_hijri_adjustment =>
-      'Smanji podešavanje hidžretskog kalendara';
+      'Smanjite korekciju hidžretskog datuma';
 
   @override
   String get semantic_minimum_adjustment_reached =>
-      'Dostignuto minimalno podešavanje';
+      'Dostignuta je najmanja vrijednost podešavanja';
 
   @override
   String get semantic_current_adjustment => 'Trenutno podešavanje';
 
   @override
   String get semantic_increase_hijri_adjustment =>
-      'Povećaj podešavanje hidžretskog kalendara';
+      'Povećajte korekciju hidžretskog datuma';
 
   @override
   String get semantic_maximum_adjustment_reached =>
-      'Dostignuto maksimalno podešavanje';
+      'Dostignuta je najveća vrijednost podešavanja';
 
   @override
   String get semantic_minimum_size_reached => 'Dostignuta minimalna veličina';

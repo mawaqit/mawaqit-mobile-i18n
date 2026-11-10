@@ -3455,5 +3455,5 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Live updates appear in your notification panel and on the Lock Screen (depending on device and Android version).';
+      'Live updates appear in your notification panel and on the Lock Screen (depending on device and Android version). When enabled, a live timer shows the countdown to the next prayer or iqama.';
 }
