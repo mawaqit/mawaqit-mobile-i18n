@@ -2136,5 +2136,5 @@
     "back_to_playing_ayah": "Back to playing ayah",
     "alerts_set_for_other_mosque": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque.",
     "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.",
-    "live_activity_tooltip_android": "Live updates appear in your notification panel and on the Lock Screen (depending on device and Android version)."
+    "live_activity_tooltip_android": "Live updates appear in your notification panel and on the Lock Screen (depending on device and Android version). When enabled, a live timer shows the countdown to the next prayer or iqama."
 }
