@@ -3461,5 +3461,5 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Pembaruan langsung muncul di panel notifikasi dan di layar kunci Anda (tergantung pada perangkat dan versi Android).';
+      'Pembaruan langsung muncul di panel notifikasi dan layar kunci Anda (tergantung perangkat dan versi Android). Saat diaktifkan, pengatur waktu langsung menampilkan hitung mundur menuju waktu salat berikutnya atau iqamah.';
 }

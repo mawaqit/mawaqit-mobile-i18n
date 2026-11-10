@@ -3507,5 +3507,5 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Les mises à jour en direct s\'affichent dans votre panneau de notifications et sur l\'écran de verrouillage (selon l\'appareil et la version d\'Android).';
+      'Les mises à jour en direct apparaissent dans votre panneau de notifications et sur l’écran de verrouillage (selon l’appareil et la version d’Android). Lorsqu’il est activé, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou à l’iqama.';
 }

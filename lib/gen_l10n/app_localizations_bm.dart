@@ -3455,5 +3455,5 @@ class AppLocalizationsBm extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Yɛlɛma kɛlɛn-kɛlɛn dɔw bɛ jira i ka notification panel ni ekran datugu kan (i ka appareil ni Android version bɔyɔrɔ la).';
+      'Yɛlɛma kura minnu bɛ kɛ sisan, olu bɛ jira notification panel ni ekran min bɛ datugu la (ka ɲɛsin appareil ni Android version ma). Ni a labɛnna, timer bɛ sɔrɔ min bɛ taamɛ waati lajɛli la ka taa sali nata walima iqama ma.';
 }

@@ -3457,5 +3457,5 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Canlı yeniləmələr bildiriş panelinizdə və kilid ekranında görünür (cihazdan və Android versiyasından asılı olaraq).';
+      'Canlı yeniləmələr bildiriş panelində və kilid ekranında görünür (cihazdan və Android versiyasından asılı olaraq). Aktiv edildikdə, canlı taymer növbəti namaza və ya iqaməyə qədər geri sayımı göstərir.';
 }

@@ -3491,5 +3491,5 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Gli aggiornamenti in tempo reale vengono visualizzati nel pannello delle notifiche e nella schermata di blocco (a seconda del dispositivo e della versione di Android).';
+      'Gli aggiornamenti in tempo reale vengono visualizzati nel pannello delle notifiche e nella schermata di blocco (a seconda del dispositivo e della versione di Android). Quando è attivo, un timer in tempo reale mostra il conto alla rovescia fino alla prossima preghiera o all\'iqama.';
 }

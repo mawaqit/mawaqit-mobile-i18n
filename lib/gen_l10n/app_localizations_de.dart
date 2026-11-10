@@ -3499,5 +3499,5 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Live-Updates werden in deinem Benachrichtigungsfeld und auf dem Sperrbildschirm angezeigt (abhängig vom Gerät und der Android-Version).';
+      'Live-Updates werden in deinem Benachrichtigungsfeld und auf dem Sperrbildschirm angezeigt (abhängig vom Gerät und der Android-Version). Wenn die Funktion aktiviert ist, zeigt ein Live-Timer den Countdown bis zum nächsten Gebet oder zur Iqama an.';
 }

@@ -3455,5 +3455,5 @@ class AppLocalizationsSr extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Ažuriranja uživo se prikazuju na panelu sa obaveštenjima i na zaključanom ekranu (u zavisnosti od uređaja i verzije Androida).';
+      'Ažuriranja uživo prikazuju se na tabli sa obaveštenjima i na zaključanom ekranu (u zavisnosti od uređaja i verzije Androida). Kada je ova funkcija uključena, tajmer uživo prikazuje odbrojavanje do sledeće molitve ili ikameta.';
 }
