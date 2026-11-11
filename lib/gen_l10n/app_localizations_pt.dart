@@ -3490,5 +3490,13 @@ class AppLocalizationsPt extends AppLocalizations {
       'As atualizações em tempo real aparecem no painel de notificações e no ecrã de bloqueio (dependendo do dispositivo e da versão do Android). Quando ativado, um temporizador em tempo real mostra a contagem decrescente até à próxima oração ou iqama.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'Permissão de alarmes desativada';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'O Adhan completo não pode jogar porque a permissão de alarmes está desativada.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Permita Alarmes para MAWAQIT nas Configurações do iPhone para que todo o Adhan possa tocar.';
 }

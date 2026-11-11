@@ -3464,5 +3464,13 @@ class AppLocalizationsBn extends AppLocalizations {
       'লাইভ আপডেটগুলি আপনার নোটিফিকেশন প্যানেলে এবং লক স্ক্রিনে দেখা যায় (ডিভাইস ও অ্যান্ড্রয়েড সংস্করণের ওপর নির্ভর করে)। চালু থাকলে, একটি লাইভ টাইমার পরবর্তী নামাজ বা ইকামত পর্যন্ত বাকি সময় গণনা করে দেখায়।';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'অ্যালার্মের অনুমতি বন্ধ আছে';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'অ্যালার্মের অনুমতি বন্ধ থাকায় সম্পূর্ণ আজান চালানো যাচ্ছে না।';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'সম্পূর্ণ আজান চালানোর জন্য iPhone-এর সেটিংসে MAWAQIT-এর অ্যালার্ম অনুমতি দিন।';
 }

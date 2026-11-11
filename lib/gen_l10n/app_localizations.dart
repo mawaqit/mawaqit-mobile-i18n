@@ -6547,6 +6547,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Alarms permission disabled'**
   String get alarms_permission_disabled;
+
+  /// No description provided for @full_adhan_cant_play_alarms_disabled.
+  ///
+  /// In en, this message translates to:
+  /// **'Full Adhan can\'t play because the Alarms permission is disabled.'**
+  String get full_adhan_cant_play_alarms_disabled;
+
+  /// No description provided for @allow_alarms_in_settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.'**
+  String get allow_alarms_in_settings;
 }
 
 class _AppLocalizationsDelegate

@@ -3452,5 +3452,13 @@ class AppLocalizationsUr extends AppLocalizations {
       'لائیو اپ ڈیٹس آپ کے نوٹیفکیشن پینل اور لاک اسکرین پر ظاہر ہوتی ہیں (ڈیوائس اور اینڈرائیڈ ورژن کے مطابق)۔ فعال ہونے پر، ایک لائیو ٹائمر اگلی نماز یا اقامت تک باقی وقت دکھاتا ہے۔';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'الارم کی اجازت غیر فعال ہے';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'مکمل اذان نہیں چلائی جا سکتی کیونکہ الارم کی اجازت غیر فعال ہے۔';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'مکمل اذان چلانے کے لیے iPhone کی سیٹنگز میں MAWAQIT کے لیے الارم کی اجازت دیں۔';
 }

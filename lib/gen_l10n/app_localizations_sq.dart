@@ -3505,5 +3505,13 @@ class AppLocalizationsSq extends AppLocalizations {
       'Përditësimet drejtpërdrejt shfaqen në panelin e njoftimeve dhe në ekranin e kyçjes (në varësi të pajisjes dhe versionit të Android). Kur aktivizohet, një kohëmatës në kohë reale tregon numërimin mbrapsht deri në namazin e ardhshëm ose ikametin.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'Leja e alarmeve është çaktivizuar';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Ezani i plotë nuk mund të luhet sepse leja e alarmeve është çaktivizuar.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Lejo alarmet për MAWAQIT te cilësimet e iPhone që Ezani i plotë të mund të luhet.';
 }

@@ -3510,5 +3510,14 @@ class AppLocalizationsFr extends AppLocalizations {
       'Les mises à jour en direct apparaissent dans votre panneau de notifications et sur l’écran de verrouillage (selon l’appareil et la version d’Android). Lorsqu’il est activé, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou à l’iqama.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled =>
+      'Autorisation des alarmes désactivée';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan ne peut pas jouer car la permission Alarmes est désactivée.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Autoriser les alarmes pour MAWAQIT dans les paramètres de l\'iPhone afin que l\'Adhan complet puisse jouer.';
 }

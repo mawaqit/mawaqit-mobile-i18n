@@ -3467,5 +3467,14 @@ class AppLocalizationsKu extends AppLocalizations {
       'نوێکارییە زیندووەکان لە پانێڵی ئاگادارکردنەوەکان و شاشەی قفڵکراوتدا پیشان دەدرێن (بەپێی ئامێرەکە و وەشانی ئەندرۆید). کاتێک چالاک دەکرێت، تایمەرێکی زیندوو کاتی ماوە تا نوێژی داهاتوو یان ئیقامە پیشان دەدات.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled =>
+      'ڕێگەپێدانی ئاڵارمەکان ناچالاک کراوە';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'ئەذانی تەواو ناتوانرێت پەخش بکرێت چونکە ڕێگەپێدانی ئاڵارمەکان ناچالاک کراوە.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'لە ڕێکخستنەکانی iPhone ڕێگە بە ئاڵارمەکانی MAWAQIT بدە بۆ ئەوەی ئەذانی تەواو پەخش بکرێت.';
 }

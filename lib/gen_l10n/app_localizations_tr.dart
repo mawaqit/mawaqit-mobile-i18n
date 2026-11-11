@@ -3447,5 +3447,13 @@ class AppLocalizationsTr extends AppLocalizations {
       'Canlı güncellemeler, bildirim panelinizde ve kilit ekranınızda görünür (cihaza ve Android sürümüne bağlı olarak). Etkinleştirildiğinde, canlı bir sayaç bir sonraki namaza veya ikamete kalan süreyi gösterir.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'Alarmlara izin verilmedi';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Tam ezan çalınamıyor çünkü alarm izni devre dışı.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Tam ezanın çalabilmesi için iPhone Ayarları\'nda MAWAQIT için alarmlara izin verin.';
 }

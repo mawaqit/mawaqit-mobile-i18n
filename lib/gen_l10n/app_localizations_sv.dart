@@ -3455,5 +3455,13 @@ class AppLocalizationsSv extends AppLocalizations {
       'Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version). När funktionen är aktiverad visar en livetimer nedräkningen till nästa bön eller iqama.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'Behörighet för alarm inaktiverad';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan kan inte spela eftersom behörigheten Alarm är inaktiverad.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Tillåt larm för MAWAQIT i iPhone-inställningar så att hela Adhan kan spela.';
 }

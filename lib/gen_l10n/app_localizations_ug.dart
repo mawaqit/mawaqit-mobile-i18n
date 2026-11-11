@@ -3463,5 +3463,13 @@ class AppLocalizationsUg extends AppLocalizations {
       'نەق مەيدان يېڭىلانمىلار ئۇقتۇرۇش تاختىڭىزدا ۋە قۇلۇپ ئېكرانىڭىزدا كۆرۈنىدۇ (ئۈسكۈنە ۋە ئاندىرويىد نەشرىگە باغلىق). قوزغىتىلغاندا، نەق مەيدان ۋاقىت ئۆلچىگۈچ كېيىنكى ناماز ياكى ئىقامەتكىچە قالغان ۋاقىتنى كۆرسىتىدۇ.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'ئاگاھلاندۇرۇش رۇخسىتى چەكلەنگەن';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'تولۇق ئەزاننى قويغىلى بولمايدۇ، چۈنكى ئاگاھلاندۇرۇش رۇخسىتى چەكلەنگەن.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'تولۇق ئەزاننى قويۇش ئۈچۈن iPhone تەڭشەكلىرىدە MAWAQIT ئۈچۈن ئاگاھلاندۇرۇشلارغا رۇخسەت قىلىڭ.';
 }

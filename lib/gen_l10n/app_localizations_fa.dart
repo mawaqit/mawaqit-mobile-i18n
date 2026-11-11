@@ -3447,7 +3447,15 @@ class AppLocalizationsFa extends AppLocalizations {
       'به‌روزرسانی‌های زنده در پنل اعلان‌ها و صفحه قفل شما نمایش داده می‌شوند (بسته به دستگاه و نسخه اندروید). با فعال کردن این قابلیت، یک تایمر زنده زمان باقی‌مانده تا نماز یا اقامه بعدی را نشان می‌دهد.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'مجوز هشدارها غیرفعال است';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'اذان کامل نمی‌تواند پخش شود زیرا مجوز هشدارها غیرفعال است.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'در تنظیمات iPhone، اجازه هشدارها را برای MAWAQIT فعال کنید تا اذان کامل پخش شود.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6903,4 +6911,12 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

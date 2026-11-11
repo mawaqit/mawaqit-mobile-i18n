@@ -3481,5 +3481,13 @@ class AppLocalizationsHu extends AppLocalizations {
       'Az élő frissítések az értesítési panelen és a zárolási képernyőn jelennek meg (az eszköztől és az Android verziójától függően). Bekapcsoláskor egy élő időzítő visszaszámlálást mutat a következő imáig vagy iqamáig.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'Az ébresztők engedélye letiltva';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'A teljes adhan nem játszható le, mert az ébresztők engedélye le van tiltva.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Engedélyezze a MAWAQIT ébresztőit az iPhone beállításaiban, hogy a teljes adhan lejátszható legyen.';
 }

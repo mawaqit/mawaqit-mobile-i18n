@@ -3502,5 +3502,13 @@ class AppLocalizationsDe extends AppLocalizations {
       'Live-Updates werden in deinem Benachrichtigungsfeld und auf dem Sperrbildschirm angezeigt (abhängig vom Gerät und der Android-Version). Wenn die Funktion aktiviert ist, zeigt ein Live-Timer den Countdown bis zum nächsten Gebet oder zur Iqama an.';
 
   @override
-  String get alarms_permission_disabled => 'Alarms permission disabled';
+  String get alarms_permission_disabled => 'Alarm-Berechtigung deaktiviert';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Vollständige Adhan kann nicht abgespielt werden, da die Alarm-Berechtigung deaktiviert ist.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Erlaube Alarme für MAWAQIT in den iPhone-Einstellungen, damit der volle Adhan spielen kann.';
 }
