@@ -2137,5 +2137,7 @@
     "alerts_set_for_other_mosque": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque.",
     "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.",
     "live_activity_tooltip_android": "Bayle ɗee kesɗitine e waktu ɗee feeñata e panneau notifications maa e ekran lock maa (ɗowtude e device e version Android). So feewi, timer ɗoo hollata waktu heddii haa ndee juulde yonti walla iqama.",
-    "alarms_permission_disabled": "Alarms permission disabled"
+    "alarms_permission_disabled": "Alarms permission disabled",
+    "full_adhan_cant_play_alarms_disabled": "Full Adhan can't play because the Alarms permission is disabled.",
+    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play."
 }
