@@ -1,5 +1,5 @@
 {
-    "@@locale": "pa",
+    "@@locale": "pa-PK",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2136,5 +2136,6 @@
     "back_to_playing_ayah": "Back to playing ayah",
     "alerts_set_for_other_mosque": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque.",
     "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.",
-    "live_activity_tooltip_android": "لائیو اپڈیٹس تہاڈے نوٹیفکیشن پینل تے لاک سکرین اُتے نظر آندیاں نیں (ڈیوائس تے اینڈرائیڈ دے ورژن دے مطابق)۔ جدوں ایہہ فیچر آن ہوندا اے، تاں اک لائیو ٹائمر اگلی نماز یا اقامت تک باقی وقت دکھاندا اے۔"
+    "live_activity_tooltip_android": "لائیو اپڈیٹس تہاڈے نوٹیفکیشن پینل تے لاک سکرین اُتے نظر آندیاں نیں (ڈیوائس تے اینڈرائیڈ دے ورژن دے مطابق)۔ جدوں ایہہ فیچر آن ہوندا اے، تاں اک لائیو ٹائمر اگلی نماز یا اقامت تک باقی وقت دکھاندا اے۔",
+    "alarms_permission_disabled": "Alarms permission disabled"
 }
