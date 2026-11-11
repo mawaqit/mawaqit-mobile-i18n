@@ -2136,5 +2136,8 @@
     "back_to_playing_ayah": "بازگشت به آیه در حال پخش",
     "alerts_set_for_other_mosque": "هشدارهای {prayer} برای {mosque} تنظیم شده‌اند. تغییر آن‌ها در اینجا باعث انتقالشان به این مسجد می‌شود.",
     "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.",
-    "live_activity_tooltip_android": "به‌روزرسانی‌های زنده در پنل اعلان‌ها و صفحه قفل شما نمایش داده می‌شوند (بسته به دستگاه و نسخه اندروید). با فعال کردن این قابلیت، یک تایمر زنده زمان باقی‌مانده تا نماز یا اقامه بعدی را نشان می‌دهد."
+    "live_activity_tooltip_android": "به‌روزرسانی‌های زنده در پنل اعلان‌ها و صفحه قفل شما نمایش داده می‌شوند (بسته به دستگاه و نسخه اندروید). با فعال کردن این قابلیت، یک تایمر زنده زمان باقی‌مانده تا نماز یا اقامه بعدی را نشان می‌دهد.",
+    "alarms_permission_disabled": "مجوز هشدارها غیرفعال است",
+    "full_adhan_cant_play_alarms_disabled": "اذان کامل نمی‌تواند پخش شود زیرا مجوز هشدارها غیرفعال است.",
+    "allow_alarms_in_settings": "در تنظیمات iPhone، اجازه هشدارها را برای MAWAQIT فعال کنید تا اذان کامل پخش شود."
 }

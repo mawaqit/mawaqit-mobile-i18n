@@ -3476,4 +3476,15 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Обновления в реальном времени отображаются на панели уведомлений и экране блокировки (в зависимости от устройства и версии Android). После включения этой функции таймер в реальном времени показывает обратный отсчёт до следующей молитвы или икамы.';
+
+  @override
+  String get alarms_permission_disabled => 'Разрешение будильников отключено';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Ахан не может играть, потому что разрешение на оповещение отключено.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Разрешить будильники для MAWAQIT в настройках iPhone, чтобы играть полный Adhan.';
 }

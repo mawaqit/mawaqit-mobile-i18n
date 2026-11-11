@@ -3462,4 +3462,15 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Pembaruan langsung muncul di panel notifikasi dan layar kunci Anda (tergantung perangkat dan versi Android). Saat diaktifkan, pengatur waktu langsung menampilkan hitung mundur menuju waktu salat berikutnya atau iqamah.';
+
+  @override
+  String get alarms_permission_disabled => 'Izin alarm dinonaktifkan';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Adzan lengkap tidak dapat diputar karena izin alarm dinonaktifkan.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Izinkan Alarm untuk MAWAQIT di Pengaturan iPhone agar Adzan lengkap dapat diputar.';
 }

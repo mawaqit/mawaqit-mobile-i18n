@@ -3447,4 +3447,15 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'การอัปเดตแบบเรียลไทม์จะแสดงในแผงการแจ้งเตือนและบนหน้าจอล็อก (ขึ้นอยู่กับอุปกรณ์และเวอร์ชัน Android) เมื่อเปิดใช้งาน ตัวจับเวลาแบบเรียลไทม์จะแสดงเวลานับถอยหลังจนถึงเวลาละหมาดหรืออิกอมะฮ์ครั้งถัดไป';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

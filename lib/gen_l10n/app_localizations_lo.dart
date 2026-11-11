@@ -3455,4 +3455,15 @@ class AppLocalizationsLo extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'ການອັບເດດແບບສົດຈະປາກົດຢູ່ໃນແຜງແຈ້ງເຕືອນ ແລະໜ້າຈໍລັອກຂອງທ່ານ (ຂຶ້ນກັບອຸປະກອນ ແລະເວີຊັນ Android). ເມື່ອເປີດໃຊ້ງານ ຕົວຈັບເວລາແບບສົດຈະສະແດງການນັບຖອຍຫຼັງໄປຫາເວລາລະໝາດຖັດໄປ ຫຼືອີກອາມະ.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

@@ -3464,4 +3464,15 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Актуализациите в реално време се показват в панела за известия и на заключения екран (в зависимост от устройството и версията на Android). Когато е активиран, таймерът в реално време показва обратно броене до следващата молитва или икамат.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

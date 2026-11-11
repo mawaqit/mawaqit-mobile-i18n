@@ -2136,5 +2136,8 @@
     "back_to_playing_ayah": "Back to playing ayah",
     "alerts_set_for_other_mosque": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque.",
     "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.",
-    "live_activity_tooltip_android": "සජීවී යාවත්කාලීන කිරීම් ඔබගේ දැනුම්දීම් පැනලයේ සහ අගුළු තිරයේ දිස් වේ (උපාංගය සහ Android අනුවාදය අනුව). සක්‍රිය කළ විට, සජීවී ටයිමරයක් මඟින් ඊළඟ යාඥාව හෝ ඉකාමත් වේලාව දක්වා ඉතිරි කාලය පෙන්වයි."
+    "live_activity_tooltip_android": "සජීවී යාවත්කාලීන කිරීම් ඔබගේ දැනුම්දීම් පැනලයේ සහ අගුළු තිරයේ දිස් වේ (උපාංගය සහ Android අනුවාදය අනුව). සක්‍රිය කළ විට, සජීවී ටයිමරයක් මඟින් ඊළඟ යාඥාව හෝ ඉකාමත් වේලාව දක්වා ඉතිරි කාලය පෙන්වයි.",
+    "alarms_permission_disabled": "Alarms permission disabled",
+    "full_adhan_cant_play_alarms_disabled": "Full Adhan can't play because the Alarms permission is disabled.",
+    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play."
 }

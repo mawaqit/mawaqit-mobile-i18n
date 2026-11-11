@@ -3478,4 +3478,16 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Live-updates verschijnen in je meldingenpaneel en op je vergrendelscherm (afhankelijk van je apparaat en Android-versie). Wanneer deze functie is ingeschakeld, toont een live timer het aftellen tot het volgende gebed of de iqama.';
+
+  @override
+  String get alarms_permission_disabled =>
+      'Toestemming voor alarmen uitgeschakeld';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'De volledige adhan kan niet worden afgespeeld omdat de toestemming voor alarmen is uitgeschakeld.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Sta alarmen toe voor MAWAQIT in iPhone-instellingen zodat de volledige Adhan kan spelen.';
 }

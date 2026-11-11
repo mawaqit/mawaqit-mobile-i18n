@@ -3458,4 +3458,15 @@ class AppLocalizationsKm extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'ការអាប់ដេតផ្ទាល់នឹងបង្ហាញនៅក្នុងផ្ទាំងការជូនដំណឹង និងលើអេក្រង់ចាក់សោ (អាស្រ័យលើឧបករណ៍ និងកំណែ Android)។ នៅពេលបើកដំណើរការ កម្មវិធីកំណត់ពេលវេលាផ្ទាល់នឹងបង្ហាញការរាប់ថយក្រោយរហូតដល់ម៉ោងអធិស្ឋានបន្ទាប់ ឬអ៊ីកាម៉ាត់។';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

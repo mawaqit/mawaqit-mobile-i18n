@@ -3456,4 +3456,15 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Live updates appear in your notification panel and on the Lock Screen (depending on device and Android version). When enabled, a live timer shows the countdown to the next prayer or iqama.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

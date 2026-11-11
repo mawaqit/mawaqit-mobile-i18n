@@ -2136,5 +2136,8 @@
     "back_to_playing_ayah": "Tillbaka till den ayah som spelas upp",
     "alerts_set_for_other_mosque": "Aviseringar för {prayer} är inställda för {mosque}. Om du ändrar dem här flyttas de till den här moskén.",
     "alerts_set_for_unknown_mosque": "Aviseringar för {prayer} är inställda för en annan moské. Om du ändrar dem här flyttas de till den här moskén.",
-    "live_activity_tooltip_android": "Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version). När funktionen är aktiverad visar en livetimer nedräkningen till nästa bön eller iqama."
+    "live_activity_tooltip_android": "Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version). När funktionen är aktiverad visar en livetimer nedräkningen till nästa bön eller iqama.",
+    "alarms_permission_disabled": "Behörighet för alarm inaktiverad",
+    "full_adhan_cant_play_alarms_disabled": "Full Adhan kan inte spela eftersom behörigheten Alarm är inaktiverad.",
+    "allow_alarms_in_settings": "Tillåt larm för MAWAQIT i iPhone-inställningar så att hela Adhan kan spela."
 }

@@ -3461,4 +3461,15 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'நேரலைப் புதுப்பிப்புகள் உங்கள் அறிவிப்புப் பலகையிலும் பூட்டுத் திரையிலும் தோன்றும் (சாதனம் மற்றும் Android பதிப்பைப் பொறுத்து). இயக்கப்பட்டிருக்கும்போது, அடுத்த தொழுகை அல்லது இகாமாவிற்கு மீதமுள்ள நேரத்தை நேரலை டைமர் காட்டும்.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

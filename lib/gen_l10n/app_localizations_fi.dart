@@ -3459,4 +3459,15 @@ class AppLocalizationsFi extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Live-päivitykset näkyvät ilmoituspaneelissa ja lukitusnäytössä (laitteesta ja Android-versiosta riippuen). Kun toiminto on käytössä, reaaliaikainen ajastin näyttää lähtölaskennan seuraavaan rukoushetkeen tai iqamaan.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

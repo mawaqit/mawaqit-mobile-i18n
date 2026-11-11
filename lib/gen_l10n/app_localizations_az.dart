@@ -3458,4 +3458,15 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Canlı yeniləmələr bildiriş panelində və kilid ekranında görünür (cihazdan və Android versiyasından asılı olaraq). Aktiv edildikdə, canlı taymer növbəti namaza və ya iqaməyə qədər geri sayımı göstərir.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Full Adhan can\'t play because the Alarms permission is disabled.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
 }

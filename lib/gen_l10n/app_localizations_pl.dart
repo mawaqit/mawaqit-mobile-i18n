@@ -3461,4 +3461,15 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Aktualizacje na żywo pojawiają się w panelu powiadomień i na ekranie blokady (w zależności od urządzenia i wersji Androida). Po włączeniu tej funkcji licznik na żywo pokazuje czas pozostały do następnej modlitwy lub iqamy.';
+
+  @override
+  String get alarms_permission_disabled => 'Uprawnienie alarmów wyłączone';
+
+  @override
+  String get full_adhan_cant_play_alarms_disabled =>
+      'Pełny Adhan nie może grać, ponieważ uprawnienia do alarmów są wyłączone.';
+
+  @override
+  String get allow_alarms_in_settings =>
+      'Zezwalaj na alarmy dla MAWAQIT w ustawieniach iPhone\'a, aby cały Adhan mógł grać.';
 }
