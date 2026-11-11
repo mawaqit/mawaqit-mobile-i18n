@@ -2137,5 +2137,7 @@
     "alerts_set_for_other_mosque": "{prayer} bildirimleri {mosque} için ayarlanmış. Bunları burada değiştirmek, bu camiye taşınmalarını sağlayacaktır.",
     "alerts_set_for_unknown_mosque": "{prayer} bildirimleri başka bir cami için ayarlanmış. Bunları burada değiştirmek, bu camiye taşınmalarını sağlayacaktır.",
     "live_activity_tooltip_android": "Canlı güncellemeler, bildirim panelinizde ve kilit ekranınızda görünür (cihaza ve Android sürümüne bağlı olarak). Etkinleştirildiğinde, canlı bir sayaç bir sonraki namaza veya ikamete kalan süreyi gösterir.",
-    "alarms_permission_disabled": "Alarms permission disabled"
+    "alarms_permission_disabled": "Alarmlara izin verilmedi",
+    "full_adhan_cant_play_alarms_disabled": "Tam ezan çalınamıyor çünkü alarm izni devre dışı.",
+    "allow_alarms_in_settings": "Tam ezanın çalabilmesi için iPhone Ayarları'nda MAWAQIT için alarmlara izin verin."
 }
