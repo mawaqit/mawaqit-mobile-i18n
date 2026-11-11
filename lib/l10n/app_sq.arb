@@ -2136,5 +2136,6 @@
     "back_to_playing_ayah": "Kthehu te ajeti që po luhet",
     "alerts_set_for_other_mosque": "Njoftimet për {prayer} janë caktuar për {mosque}. Ndryshimi i tyre këtu do t'i zhvendosë te kjo xhami.",
     "alerts_set_for_unknown_mosque": "Njoftimet për {prayer} janë caktuar për një xhami tjetër. Ndryshimi i tyre këtu do t'i zhvendosë te kjo xhami.",
-    "live_activity_tooltip_android": "Përditësimet drejtpërdrejt shfaqen në panelin e njoftimeve dhe në ekranin e kyçjes (në varësi të pajisjes dhe versionit të Android). Kur aktivizohet, një kohëmatës në kohë reale tregon numërimin mbrapsht deri në namazin e ardhshëm ose ikametin."
+    "live_activity_tooltip_android": "Përditësimet drejtpërdrejt shfaqen në panelin e njoftimeve dhe në ekranin e kyçjes (në varësi të pajisjes dhe versionit të Android). Kur aktivizohet, një kohëmatës në kohë reale tregon numërimin mbrapsht deri në namazin e ardhshëm ose ikametin.",
+    "alarms_permission_disabled": "Alarms permission disabled"
 }
