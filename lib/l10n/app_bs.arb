@@ -2136,5 +2136,6 @@
     "back_to_playing_ayah": "Nazad na ajet koji se reproducira",
     "alerts_set_for_other_mosque": "Obavijesti za {prayer} postavljene su za {mosque}. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju.",
     "alerts_set_for_unknown_mosque": "Obavijesti za {prayer} postavljene su za drugu džamiju. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju.",
-    "live_activity_tooltip_android": "Ažuriranja uživo prikazuju se na panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je omogućeno, mjerač vremena uživo prikazuje odbrojavanje do sljedećeg namaza ili ikameta."
+    "live_activity_tooltip_android": "Ažuriranja uživo prikazuju se na panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je omogućeno, mjerač vremena uživo prikazuje odbrojavanje do sljedećeg namaza ili ikameta.",
+    "alarms_permission_disabled": "Alarms permission disabled"
 }
