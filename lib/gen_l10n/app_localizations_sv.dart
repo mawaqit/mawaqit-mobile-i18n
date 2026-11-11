@@ -3453,4 +3453,7 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version). När funktionen är aktiverad visar en livetimer nedräkningen till nästa bön eller iqama.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

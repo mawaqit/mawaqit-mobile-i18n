@@ -3461,4 +3461,7 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Aktualizacje na żywo pojawiają się w panelu powiadomień i na ekranie blokady (w zależności od urządzenia i wersji Androida). Po włączeniu tej funkcji licznik na żywo pokazuje czas pozostały do następnej modlitwy lub iqamy.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

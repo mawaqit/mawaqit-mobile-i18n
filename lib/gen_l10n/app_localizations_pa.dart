@@ -3456,4 +3456,7 @@ class AppLocalizationsPa extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'لائیو اپڈیٹس تہاڈے نوٹیفکیشن پینل تے لاک سکرین اُتے نظر آندیاں نیں (ڈیوائس تے اینڈرائیڈ دے ورژن دے مطابق)۔ جدوں ایہہ فیچر آن ہوندا اے، تاں اک لائیو ٹائمر اگلی نماز یا اقامت تک باقی وقت دکھاندا اے۔';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

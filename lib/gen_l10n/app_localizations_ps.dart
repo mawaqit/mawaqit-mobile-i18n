@@ -3456,4 +3456,7 @@ class AppLocalizationsPs extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'ژوندي تازه معلومات ستاسو د خبرتیاوو په پینل او د لاک سکرین کې ښکاري (د وسیلې او Android نسخې پورې اړه لري). کله چې دا فعال وي، یو ژوندی ټایمر د راتلونکي لمانځه یا اقامت تر وخته پاتې وخت ښيي.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

@@ -3465,4 +3465,7 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'نوێکارییە زیندووەکان لە پانێڵی ئاگادارکردنەوەکان و شاشەی قفڵکراوتدا پیشان دەدرێن (بەپێی ئامێرەکە و وەشانی ئەندرۆید). کاتێک چالاک دەکرێت، تایمەرێکی زیندوو کاتی ماوە تا نوێژی داهاتوو یان ئیقامە پیشان دەدات.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

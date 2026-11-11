@@ -3456,4 +3456,7 @@ class AppLocalizationsBm extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Yɛlɛma kura minnu bɛ kɛ sisan, olu bɛ jira notification panel ni ekran min bɛ datugu la (ka ɲɛsin appareil ni Android version ma). Ni a labɛnna, timer bɛ sɔrɔ min bɛ taamɛ waati lajɛli la ka taa sali nata walima iqama ma.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

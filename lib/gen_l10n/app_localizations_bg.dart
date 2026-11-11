@@ -3464,4 +3464,7 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Актуализациите в реално време се показват в панела за известия и на заключения екран (в зависимост от устройството и версията на Android). Когато е активиран, таймерът в реално време показва обратно броене до следващата молитва или икамат.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

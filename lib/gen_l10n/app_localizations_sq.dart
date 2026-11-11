@@ -3503,4 +3503,7 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Përditësimet drejtpërdrejt shfaqen në panelin e njoftimeve dhe në ekranin e kyçjes (në varësi të pajisjes dhe versionit të Android). Kur aktivizohet, një kohëmatës në kohë reale tregon numërimin mbrapsht deri në namazin e ardhshëm ose ikametin.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

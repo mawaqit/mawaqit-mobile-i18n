@@ -3461,4 +3461,7 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'நேரலைப் புதுப்பிப்புகள் உங்கள் அறிவிப்புப் பலகையிலும் பூட்டுத் திரையிலும் தோன்றும் (சாதனம் மற்றும் Android பதிப்பைப் பொறுத்து). இயக்கப்பட்டிருக்கும்போது, அடுத்த தொழுகை அல்லது இகாமாவிற்கு மீதமுள்ள நேரத்தை நேரலை டைமர் காட்டும்.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

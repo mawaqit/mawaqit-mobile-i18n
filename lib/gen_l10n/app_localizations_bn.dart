@@ -3462,4 +3462,7 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'লাইভ আপডেটগুলি আপনার নোটিফিকেশন প্যানেলে এবং লক স্ক্রিনে দেখা যায় (ডিভাইস ও অ্যান্ড্রয়েড সংস্করণের ওপর নির্ভর করে)। চালু থাকলে, একটি লাইভ টাইমার পরবর্তী নামাজ বা ইকামত পর্যন্ত বাকি সময় গণনা করে দেখায়।';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

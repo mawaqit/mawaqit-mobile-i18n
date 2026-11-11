@@ -3456,4 +3456,7 @@ class AppLocalizationsFf extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Bayle ɗee kesɗitine e waktu ɗee feeñata e panneau notifications maa e ekran lock maa (ɗowtude e device e version Android). So feewi, timer ɗoo hollata waktu heddii haa ndee juulde yonti walla iqama.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

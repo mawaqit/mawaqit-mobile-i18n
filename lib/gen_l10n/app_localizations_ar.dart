@@ -3428,4 +3428,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'تظهر التحديثات المباشرة في لوحة الإشعارات الخاصة بك وعلى شاشة القفل (اعتمادا على الجهاز و إصدار الأندرويد). عند التمكين، يعرض المؤقت الحي العد التنازلي إلى الصلاة التالية أو إيكاما.';
+
+  @override
+  String get alarms_permission_disabled => 'تم تعطيل إذن المنبّهات';
 }

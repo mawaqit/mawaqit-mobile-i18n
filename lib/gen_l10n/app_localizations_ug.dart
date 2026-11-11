@@ -3461,4 +3461,7 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'نەق مەيدان يېڭىلانمىلار ئۇقتۇرۇش تاختىڭىزدا ۋە قۇلۇپ ئېكرانىڭىزدا كۆرۈنىدۇ (ئۈسكۈنە ۋە ئاندىرويىد نەشرىگە باغلىق). قوزغىتىلغاندا، نەق مەيدان ۋاقىت ئۆلچىگۈچ كېيىنكى ناماز ياكى ئىقامەتكىچە قالغان ۋاقىتنى كۆرسىتىدۇ.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

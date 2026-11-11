@@ -3458,4 +3458,7 @@ class AppLocalizationsKm extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'ការអាប់ដេតផ្ទាល់នឹងបង្ហាញនៅក្នុងផ្ទាំងការជូនដំណឹង និងលើអេក្រង់ចាក់សោ (អាស្រ័យលើឧបករណ៍ និងកំណែ Android)។ នៅពេលបើកដំណើរការ កម្មវិធីកំណត់ពេលវេលាផ្ទាល់នឹងបង្ហាញការរាប់ថយក្រោយរហូតដល់ម៉ោងអធិស្ឋានបន្ទាប់ ឬអ៊ីកាម៉ាត់។';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

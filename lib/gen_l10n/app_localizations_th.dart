@@ -3447,4 +3447,7 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'การอัปเดตแบบเรียลไทม์จะแสดงในแผงการแจ้งเตือนและบนหน้าจอล็อก (ขึ้นอยู่กับอุปกรณ์และเวอร์ชัน Android) เมื่อเปิดใช้งาน ตัวจับเวลาแบบเรียลไทม์จะแสดงเวลานับถอยหลังจนถึงเวลาละหมาดหรืออิกอมะฮ์ครั้งถัดไป';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

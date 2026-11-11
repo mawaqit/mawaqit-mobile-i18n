@@ -3450,4 +3450,7 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'لائیو اپ ڈیٹس آپ کے نوٹیفکیشن پینل اور لاک اسکرین پر ظاہر ہوتی ہیں (ڈیوائس اور اینڈرائیڈ ورژن کے مطابق)۔ فعال ہونے پر، ایک لائیو ٹائمر اگلی نماز یا اقامت تک باقی وقت دکھاتا ہے۔';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

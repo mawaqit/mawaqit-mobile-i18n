@@ -3487,4 +3487,7 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Ažuriranja uživo prikazuju se na panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je omogućeno, mjerač vremena uživo prikazuje odbrojavanje do sljedećeg namaza ili ikameta.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

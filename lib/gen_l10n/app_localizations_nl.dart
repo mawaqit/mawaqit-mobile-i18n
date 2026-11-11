@@ -3478,4 +3478,7 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'Live-updates verschijnen in je meldingenpaneel en op je vergrendelscherm (afhankelijk van je apparaat en Android-versie). Wanneer deze functie is ingeschakeld, toont een live timer het aftellen tot het volgende gebed of de iqama.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }

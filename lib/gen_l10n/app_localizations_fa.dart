@@ -3445,6 +3445,9 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get live_activity_tooltip_android =>
       'به‌روزرسانی‌های زنده در پنل اعلان‌ها و صفحه قفل شما نمایش داده می‌شوند (بسته به دستگاه و نسخه اندروید). با فعال کردن این قابلیت، یک تایمر زنده زمان باقی‌مانده تا نماز یا اقامه بعدی را نشان می‌دهد.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6897,4 +6900,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get live_activity_tooltip_android =>
       'به‌روزرسانی‌های زنده در پنل اعلان‌ها و صفحه قفل نمایش داده می‌شوند (بسته به دستگاه و نسخه اندروید). با فعال‌سازی این قابلیت، یک تایمر زنده زمان باقی‌مانده تا نماز بعدی یا اقامه را نشان می‌دهد.';
+
+  @override
+  String get alarms_permission_disabled => 'Alarms permission disabled';
 }
