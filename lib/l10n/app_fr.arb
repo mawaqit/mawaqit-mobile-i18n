@@ -2136,5 +2136,6 @@
     "back_to_playing_ayah": "Retour à l’aya en cours de lecture",
     "alerts_set_for_other_mosque": "Les alertes de {prayer} sont configurées pour {mosque}. Les modifier ici les déplacera vers cette mosquée.",
     "alerts_set_for_unknown_mosque": "Les alertes de {prayer} sont configurées pour une autre mosquée. Les modifier ici les déplacera vers cette mosquée.",
-    "live_activity_tooltip_android": "Les mises à jour en direct apparaissent dans votre panneau de notifications et sur l’écran de verrouillage (selon l’appareil et la version d’Android). Lorsqu’il est activé, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou à l’iqama."
+    "live_activity_tooltip_android": "Les mises à jour en direct apparaissent dans votre panneau de notifications et sur l’écran de verrouillage (selon l’appareil et la version d’Android). Lorsqu’il est activé, un minuteur en direct affiche le compte à rebours jusqu’à la prochaine prière ou à l’iqama.",
+    "alarms_permission_disabled": "Alarms permission disabled"
 }
