@@ -2136,5 +2136,6 @@
     "back_to_playing_ayah": "Zurück zum abgespielten Vers",
     "alerts_set_for_other_mosque": "Die Benachrichtigungen für {prayer} sind für {mosque} eingestellt. Wenn du sie hier änderst, werden sie auf diese Moschee übertragen.",
     "alerts_set_for_unknown_mosque": "Die Benachrichtigungen für {prayer} sind für eine andere Moschee eingestellt. Wenn du sie hier änderst, werden sie auf diese Moschee übertragen.",
-    "live_activity_tooltip_android": "Live-Updates werden in deinem Benachrichtigungsfeld und auf dem Sperrbildschirm angezeigt (abhängig vom Gerät und der Android-Version). Wenn die Funktion aktiviert ist, zeigt ein Live-Timer den Countdown bis zum nächsten Gebet oder zur Iqama an."
+    "live_activity_tooltip_android": "Live-Updates werden in deinem Benachrichtigungsfeld und auf dem Sperrbildschirm angezeigt (abhängig vom Gerät und der Android-Version). Wenn die Funktion aktiviert ist, zeigt ein Live-Timer den Countdown bis zum nächsten Gebet oder zur Iqama an.",
+    "alarms_permission_disabled": "Alarms permission disabled"
 }
