@@ -2420,7 +2420,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_added_to_favorites => 'Dodano u omiljene';
 
   @override
-  String get semantic_not_in_favorites => 'Nije u omiljenim';
+  String get semantic_not_in_favorites => 'Nije u omiljenima';
 
   @override
   String get semantic_for => 'za';
@@ -2433,7 +2433,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Dvaput dodirnite za promjenu stila prikaza';
 
   @override
-  String get semantic_share_dua => 'Podijeli dovu';
+  String get semantic_share_dua => 'Podijelite dovu';
 
   @override
   String get semantic_tasbih_settings => 'Postavke tesbiha';
@@ -2472,19 +2472,19 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_off => 'Isključeno';
 
   @override
-  String get semantic_ayah_list_actions => 'Ukloni oznaku';
+  String get semantic_ayah_list_actions => 'Opcije liste ajeta';
 
   @override
-  String get remove_bookmark => 'Ukloni oznaku';
+  String get remove_bookmark => 'Uklonite oznaku';
 
   @override
-  String get add_bookmark => 'Dodaj oznaku';
+  String get add_bookmark => 'Dodajte oznaku';
 
   @override
   String get selected => 'odabrano';
 
   @override
-  String get double_tap_to_continue => 'Dvaput dodirnite za nastavak';
+  String get double_tap_to_continue => 'Da biste nastavili, dodirnite dvaput';
 
   @override
   String get clear_search => 'Obriši pretragu';
@@ -2500,14 +2500,15 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get scroll_left_right_select_surah =>
-      'Pomjerite lijevo ili desno za odabir sure';
+      'Prevucite prstom ulijevo ili udesno da odaberete suru';
 
   @override
   String get swipe_left_right_select_mushaf_type =>
-      'Prevucite lijevo ili desno za odabir drugog tipa Mushafa';
+      'Prevucite prstom ulijevo ili udesno da odaberete vrstu mushafa';
 
   @override
-  String get location_permission_required => 'Potrebna je dozvola za lokaciju';
+  String get location_permission_required =>
+      'Potrebna je dozvola za pristup lokaciji';
 
   @override
   String get semantic_previous_month => 'Prethodni mjesec';
@@ -2516,21 +2517,22 @@ class AppLocalizationsBs extends AppLocalizations {
   String get semantic_next_month => 'Sljedeći mjesec';
 
   @override
-  String get semantic_view_image => 'Prikaži sliku';
+  String get semantic_view_image => 'Pogledajte fotografiju';
 
   @override
   String get access_location_details =>
-      'Da bi vam prikazao tačne lokalne vremenske podatke, smjer Kible i informacije o džamijama na osnovu vaše trenutne lokacije, MAWAQIT treba pristup vašoj lokaciji. Ranije ste odbili ovu dozvolu.';
+      'MAWAQIT-u je potreban pristup vašoj lokaciji kako bi vam prikazao tačne podatke o lokalnim vremenskim prilikama, pravcu kible i džamijama u blizini. Ranije ste odbili ovu dozvolu.';
 
   @override
-  String get location_off => 'Lokacija isključen';
+  String get location_off => 'Lokacija je isključena';
 
   @override
-  String get semantic_pre_notification_time => 'vrijeme prethodne obavijesti';
+  String get semantic_pre_notification_time =>
+      'obavještenje prije nastupanja vremena';
 
   @override
   String get search_for_mosque_or_enable_location =>
-      'Ne možemo predložiti najbližu džamiju jer je pristup lokaciji odbijen. Molimo pretražite džamiju ili omogućite dozvolu za lokaciju.';
+      'Ne možemo predložiti najbližu džamiju jer pristup lokaciji nije dozvoljen. Molimo vas, potražite džamiju ili omogućite pristup lokaciji.';
 
   @override
   String get location => 'Lokacija';
@@ -2540,17 +2542,17 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get plays_adhan_prayer_arrives =>
-      'Pušta ezan kada nastupi vrijeme namaza';
+      'Ezan se oglašava kada nastupi namasko vrijeme';
 
   @override
   String get play_in_silent_mode => 'Reproduciraj u tihom načinu';
 
   @override
-  String get notifications_not_arriving => 'Obavijesti ne stižu?';
+  String get notifications_not_arriving => 'Ne stižu vam obavijesti?';
 
   @override
   String get android_phones_aggressively =>
-      'Neki Android telefoni agresivno zatvaraju aplikacije u pozadini.';
+      'Neki Android telefoni prisilno zatvaraju aplikacije koje rade u pozadini.';
 
   @override
   String get elmir_kuliev => 'Elmir Kuliev';
@@ -2563,16 +2565,16 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get something_wrong_getting_location =>
-      'Nešto je pošlo po zlu prilikom dobijanja vaše lokacije. Molimo pokušajte ponovo.';
+      'Došlo je do greške pri određivanju vaše lokacije. Molimo vas, pokušajte ponovo.';
 
   @override
   String get custom_volume => 'Prilagođena jačina zvuka';
 
   @override
-  String get general => 'Opće';
+  String get general => 'Opće postavke';
 
   @override
-  String get prayer_location => 'Namaz i Lokacija';
+  String get prayer_location => 'Namaz i lokacija';
 
   @override
   String get privacy => 'Privatnost';
@@ -2582,7 +2584,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get full_adhan_will_keep_repeating =>
-      'Cijeli ezan će se ponavljati dok ga ne zatvorite.';
+      'Ezan će se reproducirati u cijelosti i ponavljati dok ga ne isključite.';
 
   @override
   String get hussein_taji_kal_dari => 'Hussein Taji Kal Dari';
@@ -2592,83 +2594,84 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get mawaqit_non_profit =>
-      'MAWAQIT neprofitna organizacija · besplatna za sve';
+      'MAWAQIT, neprofitna organizacija · besplatno za sve';
 
   @override
-  String get garmin_watch_detected => 'Garmin sat otkriven';
+  String get garmin_watch_detected => 'Otkriven je Garmin sat';
 
   @override
   String get garmin_support_detected =>
-      'Garmin podrška je otkrivena na vašem uređaju. Želite li sinhronizovati vremena namaza sa svojim Garmin satom?';
+      'Vaš uređaj podržava povezivanje s Garminom. Želite li sinhronizovati namaska vremena sa svojim Garmin satom?';
 
   @override
-  String get never_remind_me => 'Ne podsjećaj više';
+  String get never_remind_me => 'Ne podsjećaj me više';
 
   @override
   String get remind_me_later => 'Podsjeti me kasnije';
 
   @override
   String get you_can_enable_garmin_sync =>
-      'Garmin sinhronizaciju možete omogućiti u bilo kojem trenutku u Postavke → Radnje na čekanju.';
+      'Sinhronizaciju s Garminom možete uključiti u bilo kojem trenutku u odjeljku Postavke → Radnje na čekanju';
 
   @override
   String get pending_actions => 'Radnje na čekanju';
 
   @override
-  String get setup_garmin_watch => 'Postavi Garmin sat';
+  String get setup_garmin_watch => 'Podesite Garmin sat';
 
   @override
   String get sync_prayer_times_garmin =>
-      'Sinhronizuj vremena namaza sa Garmin satom';
+      'Prenesite namaska vremena na svoj Garmin sat';
 
   @override
-  String get setup_garmin => 'Postavi Garmin';
+  String get setup_garmin => 'Podesite Garmin';
 
   @override
   String get open_garmin_device_selection => 'Otvori izbor Garmin uređaja';
 
   @override
-  String get admin_adminTitle => 'Administracija džamije';
+  String get admin_adminTitle => 'Administrator džamije';
 
   @override
-  String get admin_adminTileSubtitle => 'Obavještenja, postavke namaza i ezan';
+  String get admin_adminTileSubtitle =>
+      'Objave, podešavanje namaskih vremena i ezana';
 
   @override
   String get admin_signInHeadline => 'Upravljajte svojom džamijom';
 
   @override
   String get admin_signInIntro =>
-      'Prijavite se računom koji koristite na mawaqit.net da biste upravljali džamijama za koje ste zaduženi.';
+      'Prijavite se računom koji koristite na mawaqit.net kako biste upravljali svojim džamijama.';
 
   @override
   String get admin_capabilityMessages =>
-      'Objavljivanje obavještenja i brze poruke';
+      'Objavljujte obavještenja i kratke poruke';
 
   @override
   String get admin_capabilityTimes =>
-      'Postavljanje vremena ikameta, džume i Bajrama';
+      'Podesite vreme ikameta, džume i bajram-namaza';
 
   @override
-  String get admin_capabilityAdhan => 'Odabir ezana i načina reprodukcije';
+  String get admin_capabilityAdhan => 'Odaberite ezan i način reprodukcije';
 
   @override
   String get admin_notAnAdminTitle => 'Još niste administrator?';
 
   @override
   String get admin_notAnAdminBody =>
-      'Džamije se registruju na web stranici MAWAQIT, gdje ih tim provjerava prije aktiviranja računa.';
+      'Džamije se registruju na web-stranici MAWAQIT-a. Tim provjerava prijave prije aktivacije računa.';
 
   @override
   String get admin_registerMosque => 'Registrujte džamiju';
 
   @override
-  String get admin_registerUnavailable => 'Nije moguće otvoriti web stranicu.';
+  String get admin_registerUnavailable => 'Nije moguće otvoriti web-stranicu.';
 
   @override
-  String get admin_signIn => 'Prijava';
+  String get admin_signIn => 'Prijavite se';
 
   @override
-  String get admin_signInAgain => 'Ponovna prijava';
+  String get admin_signInAgain => 'Prijavite se ponovo';
 
   @override
   String get admin_sessionExpired => 'Vaša sesija je istekla.';
@@ -2680,11 +2683,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_logOut => 'Odjava';
 
   @override
-  String get admin_noMosques => 'Nije pronađena nijedna džamija.';
+  String get admin_noMosques => 'Nema pronađenih džamija.';
 
   @override
   String get admin_archivedNotConfigurable =>
-      'Ova džamija je arhivirana — ne može se podešavati.';
+      'Džamija je arhivirana. Podešavanje nije dostupno.';
 
   @override
   String admin_mosqueId(String id) {
@@ -2731,37 +2734,38 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_sectionEid => 'Bajram i ramazan';
 
   @override
-  String get admin_sectionNotYet => 'Još se ne može mijenjati u aplikaciji';
+  String get admin_sectionNotYet =>
+      'Izmjene putem aplikacije još nisu dostupne';
 
   @override
   String get admin_iqamaEnabled => 'Ikamet uključen';
 
   @override
   String get admin_iqamaEnabledHelp =>
-      'Ako ovo isključite, na ekranu džamije se neće prikazivati ni vremena čekanja, ni znak za ikamet, ni dove poslije namaza.';
+      'Ako isključite ovu opciju, na ekranu džamije neće se prikazivati vrijeme čekanja, signal za ikamet ni dove nakon namaza.';
 
   @override
-  String get admin_iqamaWaitingTimes => 'ČEKANJE POSLIJE EZANA (MINUTE)';
+  String get admin_iqamaWaitingTimes => 'VRIJEME ČEKANJA NAKON EZANA (MINUTE)';
 
   @override
-  String get admin_iqamaSignal => 'ZNAK ZA IKAMET';
+  String get admin_iqamaSignal => 'SIGNALIZACIJA IKAMETA';
 
   @override
-  String get admin_iqamaSound => 'Zvuk';
+  String get admin_iqamaSound => 'Zvučni signal';
 
   @override
-  String get admin_iqamaCountdown => 'Odbrojavanje preko cijelog ekrana';
+  String get admin_iqamaCountdown => 'Prikaz odbrojavanja na cijelom ekranu';
 
   @override
-  String get admin_iqamaDisplayTime => 'Vrijeme prikaza znaka';
+  String get admin_iqamaDisplayTime => 'Trajanje prikaza signala';
 
   @override
   String get admin_iqamaAlwaysHhMm =>
-      'Uvijek prikaži vremena ikameta kao hh:mm';
+      'Uvijek prikazuj vrijeme ikameta u formatu hh:mm';
 
   @override
   String get admin_iqamaCalendarNote =>
-      'Vremena ikameta postavljena kalendarom ostaju ista — uredite ih na web stranici.';
+      'Vrijeme ikameta određeno kalendarom ostaje nepromijenjeno. Možete ga urediti na web-stranici.';
 
   @override
   String get admin_eidPrayerTimes => 'VRIJEME BAJRAM-NAMAZA';
@@ -2771,37 +2775,37 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get admin_eidPrayerHelp =>
-      'Prikazuje se na ekranu džamije sedmicu prije Bajrama. Ostavite namaz bez vremena ako se ne klanja.';
+      'Prikazuje se na ekranu džamije sedam dana prije Bajrama. Ako se namaz ne klanja, ostavite vrijeme nepodešeno.';
 
   @override
-  String get admin_imsakBeforeFajr => 'Prikaži imsak prije sabaha';
+  String get admin_imsakBeforeFajr => 'Prikaži vrijeme imsaka prije sabaha';
 
   @override
   String get admin_imsakHelp =>
-      'Koliko ranije se pojavljuje imsak. Uz sabah u 04:00 i 30 minuta ovdje, ekran prikazuje 03:30.';
+      'Odredite koliko minuta prije sabah-namaza treba prikazati vrijeme imsaka. Ako sabah nastupa u 04:00 i unesete 30 minuta, na ekranu će vrijeme imsaka biti 03:30.';
 
   @override
   String get admin_imsakOff => 'Isključeno';
 
   @override
-  String get admin_eidNoPrayerTime => 'Vrijeme nije postavljeno';
+  String get admin_eidNoPrayerTime => 'Vrijeme nije određeno';
 
   @override
   String get admin_adhanSoundLabel => 'Zvuk';
 
   @override
-  String get admin_adhanPlaysFor => 'PUŠTA SE UZ';
+  String get admin_adhanPlaysFor => 'ZVUK SE ČUJE ZA';
 
   @override
   String get admin_adhanDurationLabel => 'Trajanje ezana';
 
   @override
   String get admin_adhanDurationHelp =>
-      'Ovaj zvuk završava prije ezana, pa ekran treba znati koliko traje vaš mujezin.';
+      'Ovaj zvuk najavljuje početak ezana. Unesite koliko traje učenje ezana vašeg mujezina kako bi ekran pravilno pratio njegovo trajanje.';
 
   @override
   String admin_customAdhanFile(String name) {
-    return 'Otpremljena datoteka: $name';
+    return 'Učitana datoteka: $name';
   }
 
   @override
@@ -2809,14 +2813,14 @@ class AppLocalizationsBs extends AppLocalizations {
       'Nijedna datoteka još nije otpremljena — dodajte je na web stranici.';
 
   @override
-  String get admin_adhanNoPrayers => 'Nema namaza';
+  String get admin_adhanNoPrayers => 'Nema odabranih namaza';
 
   @override
-  String get admin_prayerDurationGroup => 'MINUTA PO NAMAZU';
+  String get admin_prayerDurationGroup => 'TRAJANJE NAMAZA U MINUTAMA';
 
   @override
   String get admin_prayerDurationHelp =>
-      'Crni ekran za vrijeme namaza i dove poslije njega traju ovoliko.';
+      'Kada je opcija „Crni ekran“ uključena, ekran tokom namaza ostaje crn onoliko minuta koliko ovdje odredite.';
 
   @override
   String get admin_duasInvocations => 'DOVE';
@@ -2828,13 +2832,14 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_duaAfterAdhan => 'Dova poslije ezana';
 
   @override
-  String get admin_duaAfterPrayer => 'Dove poslije namaza';
+  String get admin_duaAfterPrayer => 'Dova poslije namaza';
 
   @override
   String get admin_randomHadith => 'Prikaži hadis svakih 5 minuta';
 
   @override
-  String get admin_hadithSource => 'Iz Rijadus-salihina imama Nevevija.';
+  String get admin_hadithSource =>
+      'Iz zbirke „Rijadus-salihin“ imama Nevevija.';
 
   @override
   String get admin_hadithPause => 'Pauza između';
@@ -2844,7 +2849,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get admin_hadithPauseHelp =>
-      'Za džamiju koja drži predavanja između dva namaza.';
+      'Za džamije u kojima se između dva namaza održavaju predavanja.';
 
   @override
   String get admin_duasAllOff => 'Sve isključeno';
@@ -2868,21 +2873,20 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_regionalRegion => 'REGIJA';
 
   @override
-  String get admin_timezoneLabel =>
-      'Vremenska zona (postavlja se na web stranici)';
+  String get admin_timezoneLabel => 'Vremenska zona - podešena na web-stranici';
 
   @override
-  String get admin_timezoneUnknown => 'Nepoznata';
+  String get admin_timezoneUnknown => 'Nepoznato';
 
   @override
   String get admin_dstLabel => 'Ljetno računanje vremena';
 
   @override
   String get admin_dstDatesNote =>
-      'Datumi prelaska na ljetno i zimsko vrijeme ostaju isti — postavite ih na web stranici.';
+      'Datumi prelaska na ljetno i zimsko računanje vremena ostaju nepromijenjeni. Podesite ih na web-stranici.';
 
   @override
-  String get admin_hijriAdjustmentLabel => 'Ispravka datuma';
+  String get admin_hijriAdjustmentLabel => 'Podešavanje datuma';
 
   @override
   String get admin_jumuaTimeGroup => 'VRIJEME DŽUME';
@@ -2891,36 +2895,37 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_jumuaDuringGroup => 'TOKOM DŽUME';
 
   @override
-  String get admin_jumuaSameAsDuhr => 'Isto vrijeme kao podne';
+  String get admin_jumuaSameAsDuhr => 'Isto vrijeme kad i podne-namaz';
 
   @override
   String get admin_jumuaFollowsDuhr =>
       'Klanja se u podne — vaše vrijeme ostaje sačuvano.';
 
   @override
-  String get admin_jumuaApplyDst => 'Dodaj sat u ljetnom vremenu';
+  String get admin_jumuaApplyDst =>
+      'Dodaj jedan sat tokom ljetnog računanja vremena';
 
   @override
   String get admin_jumuaDuration => 'Trajanje (hutba + namaz)';
 
   @override
   String get admin_jumuaDurationHelp =>
-      'Sve što se prikazuje tokom džume traje ovoliko.';
+      'Trajanje hutbe i namaza koje ovdje odredite važi za prikaz crnog ekrana ili hadisa tokom džume.';
 
   @override
-  String get admin_jumuaBlackScreen => 'Crni ekran tokom džume';
+  String get admin_jumuaBlackScreen => 'Prikaži crni ekran tokom džume';
 
   @override
   String get admin_jumuaDhikr => 'Prikaži hadis o adabu džume';
 
   @override
-  String get admin_jumuaNoTime => 'Vrijeme nije postavljeno';
+  String get admin_jumuaNoTime => 'Nije određeno';
 
   @override
   String get admin_summaryAsDuhr => 'Podne';
 
   @override
-  String get admin_timeNotSet => 'Nije postavljeno';
+  String get admin_timeNotSet => 'Nije određeno';
 
   @override
   String get admin_clearTime => 'Obriši';
@@ -2929,10 +2934,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_flashContent => 'Sadržaj';
 
   @override
-  String get admin_flashContentHint => 'Poruka prikazana na ekranu džamije';
+  String get admin_flashContentHint =>
+      'Poruka koja se prikazuje na ekranu u džamiji';
 
   @override
-  String get admin_flashOrientation => 'Orijentacija';
+  String get admin_flashOrientation => 'Smjer kretanja';
 
   @override
   String get admin_flashColor => 'Boja';
@@ -2944,61 +2950,60 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_flashExpireDate => 'Datum završetka';
 
   @override
-  String get admin_flashTooShort => 'Najmanje 30 znakova';
+  String get admin_flashTooShort => 'Unesite najmanje 30 znakova';
 
   @override
-  String get admin_flashSaved => 'Brza poruka sačuvana';
+  String get admin_flashSaved => 'Kratka poruka je sačuvana';
 
   @override
-  String get admin_flashSaving => 'Čuvanje…';
+  String get admin_flashSaving => 'Spremanje…';
 
   @override
-  String get admin_flashDelete => 'Obriši';
+  String get admin_flashDelete => 'Izbriši';
 
   @override
-  String get admin_flashDeleteTitle => 'Obrisati ovu brzu poruku?';
+  String get admin_flashDeleteTitle => 'Želite li izbrisati ovu kratku poruku?';
 
   @override
   String get admin_deleteBody =>
-      'Više se neće prikazivati na ekranu džamije. Ovo se ne može poništiti.';
+      'Više se neće prikazivati na ekranu u džamiji. Ovu radnju nije moguće poništiti.';
 
   @override
-  String get admin_flashDeleted => 'Brza poruka obrisana';
+  String get admin_flashDeleted => 'Kratka poruka je izbrisana';
 
   @override
-  String get admin_tabAnnouncements => 'Obavještenja';
+  String get admin_tabAnnouncements => 'Vijesti i objave';
 
   @override
-  String get admin_tabFlash => 'Brza poruka';
+  String get admin_tabFlash => 'Kratka poruka';
 
   @override
-  String get admin_announcementsEmpty => 'Još nema obavještenja.';
+  String get admin_announcementsEmpty => 'Još nema objava.';
 
   @override
-  String get admin_announcementNew => 'Novo obavještenje';
+  String get admin_announcementNew => 'Nova objava';
 
   @override
-  String get admin_announcementEdit => 'Uredi obavještenje';
+  String get admin_announcementEdit => 'Uredi objavu';
 
   @override
-  String get admin_announcementSaved => 'Obavještenje sačuvano';
+  String get admin_announcementSaved => 'Objava je uspješno sačuvana';
 
   @override
-  String get admin_announcementDeleted => 'Obavještenje obrisano';
+  String get admin_announcementDeleted => 'Objava je izbrisana';
 
   @override
-  String get admin_announcementDeleteTitle => 'Obrisati ovo obavještenje?';
+  String get admin_announcementDeleteTitle => 'Želite li izbrisati ovu objavu?';
 
   @override
   String get admin_announcementLimitReached =>
-      'Dostigli ste ograničenje uključenih obavještenja.';
+      'Dostigli ste ograničenje broja aktivnih objava.';
 
   @override
-  String get admin_discardTitle => 'Odbaciti izmjene?';
+  String get admin_discardTitle => 'Želite li odbaciti izmjene?';
 
   @override
-  String get admin_discardBody =>
-      'Ono što ste ovdje napisali neće biti sačuvano.';
+  String get admin_discardBody => 'Vaš uneseni tekst neće biti sačuvan.';
 
   @override
   String get admin_discard => 'Odbaci';
@@ -3010,7 +3015,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_chipScreen => 'Ekran';
 
   @override
-  String get admin_chipMobile => 'Mobitel';
+  String get admin_chipMobile => 'Mobilni';
 
   @override
   String get admin_statusEnabled => 'Uključeno';
@@ -3035,7 +3040,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get admin_fieldVideoHelp =>
-      'Samo YouTube videi — shorts se ne prihvataju.';
+      'Dozvoljeni su samo standardni YouTube videozapisi, ne i Shorts sadržaji.';
 
   @override
   String get admin_fieldOrientation => 'Orijentacija ekrana';
@@ -3063,36 +3068,36 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_fieldMainScreen => 'Glavni ekran džamije';
 
   @override
-  String get admin_fieldSecondaryScreen => 'Drugi ekran';
+  String get admin_fieldSecondaryScreen => 'Sekundarni ekran';
 
   @override
   String get admin_fieldMobile => 'Mawaqit aplikacija';
 
   @override
-  String get admin_pickImage => 'Odaberi fotografiju';
+  String get admin_pickImage => 'Odaberite fotografiju';
 
   @override
-  String get admin_replaceImage => 'Promijeni fotografiju';
+  String get admin_replaceImage => 'Promijenite fotografiju';
 
   @override
-  String get admin_orientationLandscape => 'Vodoravno';
+  String get admin_orientationLandscape => 'Horizontalno';
 
   @override
-  String get admin_orientationPortrait => 'Uspravno';
+  String get admin_orientationPortrait => 'Vertikalno';
 
   @override
-  String get admin_requiredField => 'Obavezno';
+  String get admin_requiredField => 'Obavezno polje';
 
   @override
-  String get admin_invalidYoutube => 'Unesite link YouTube videa.';
+  String get admin_invalidYoutube => 'Unesite link YouTube videozapisa.';
 
   @override
   String get admin_flashUnavailable =>
-      'Uređivanje brze poruke trenutno nije dostupno.';
+      'Uređivanje kratke poruke trenutno nije dostupno.';
 
   @override
   String admin_unsavedChanges(int count) {
-    return 'Nesačuvane izmjene: $count';
+    return '$count izmjena nije sačuvano';
   }
 
   @override
@@ -3121,7 +3126,7 @@ class AppLocalizationsBs extends AppLocalizations {
     int enabled,
     int maxEnabled,
   ) {
-    return '$total od $maxTotal · $enabled od $maxEnabled uključeno';
+    return '$total od $maxTotal · $enabled od $maxEnabled aktivno';
   }
 
   @override
@@ -3129,31 +3134,31 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'Samo za administratore MAWAQIT džamija';
+      'Samo za administratore džamija na MAWAQIT-u';
 
   @override
-  String get admins_only => 'Samo administratori';
+  String get admins_only => 'Samo za administratore';
 
   @override
   String get notification_permission_required =>
-      'Dozvola za obavještenja je potrebna';
+      'Potrebna je dozvola za slanje obavijesti';
 
   @override
-  String get enable_location => 'Enable Location';
+  String get enable_location => 'Omogući lokaciju';
 
   @override
   String get enable_notifications => 'Omogući obavijesti';
 
   @override
   String get notifications_required_for_adhan =>
-      'Obavijesti moraju biti omogućene kako bi MAWAQIT mogao reproducirati ezan i slati obavijesti o namazu.';
+      'Obavijesti moraju biti omogućene kako bi MAWAQIT mogao reproducirati ezan i slati obavijesti o namaskim vremenima.';
 
   @override
   String get location_required_for_prayer_times =>
-      'Lokacija je potrebna za dobijanje tačnih vremena namaza, informacija o džamijama i vremenskih ažuriranja.';
+      'Za prikaz tačnih namaskih vremena, informacija o džamijama i vremenske prognoze potrebno je omogućiti pristup vašoj lokaciji.';
 
   @override
-  String get manage_mosque => 'Upravljaj džamijom';
+  String get manage_mosque => 'Upravljanje džamijom';
 
   @override
   String get how_managing_your_mosque => 'How is managing your mosque going?';
