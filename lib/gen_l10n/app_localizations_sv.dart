@@ -613,7 +613,7 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get tutorial_text_notification =>
-      'Här kan du välja hur du vill bli aviserad: adhan, ljudsignal eller tyst';
+      'Här kan du välja typ av bön-notis: böneutrop, pip eller ljudlöst läge.';
 
   @override
   String get search_no_result =>
@@ -3452,16 +3452,16 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version). När funktionen är aktiverad visar en livetimer nedräkningen till nästa bön eller iqama.';
+      'Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version). När funktionen är aktiverad visar en live nedräkningen till nästa bön eller bönens början.';
 
   @override
   String get alarms_permission_disabled => 'Behörighet för alarm inaktiverad';
 
   @override
   String get full_adhan_cant_play_alarms_disabled =>
-      'Full Adhan kan inte spela eftersom behörigheten Alarm är inaktiverad.';
+      'Full böneutrop kan inte spela eftersom alarm behörigheten är inaktiverad.';
 
   @override
   String get allow_alarms_in_settings =>
-      'Tillåt larm för MAWAQIT i iPhone-inställningar så att hela Adhan kan spela.';
+      'Tillåt larm för MAWAQIT i iPhone-inställningar så att hela böneutropet kan spela.';
 }
