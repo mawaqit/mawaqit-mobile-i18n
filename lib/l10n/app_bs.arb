@@ -70,9 +70,9 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotifications": "Obavještenja o namazu",
-    "settings_PrayerPreNotifications": "Obavještenje-prije nastupa namaskog vremena",
-    "settings_ShuruqPreNotifications": "Obavještenje-prije izlaska sunca",
+    "settings_PrayerNotifications": "Obavijesti za namaz",
+    "settings_PrayerPreNotifications": "Obavijest prije nastupanja namaskog vremena",
+    "settings_ShuruqPreNotifications": "Obavijest prije izlaska sunca",
     "settings_Calculations": "Kalkulacija",
     "settings_RateOurApp": "Ocijeni aplikaciju",
     "@settings_RateOurApp": {
@@ -81,7 +81,7 @@
     },
     "settings_WhatsNew": "Šta je novo",
     "settings_SupportMawaqit": "Podržite Mawaqit",
-    "settings_News": "Vijesti i objave",
+    "settings_News": "Objave i vijesti",
     "settings_MakeADonation": "Udijeli trajnu sadaku",
     "bismillah": "Bismillah",
     "settings_DonateToMawaqit": "Doniraj za MAWAQIT",
@@ -163,7 +163,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_PrayerNotification_Bip": "Odabran je zvučni signal (beep) za obavještenja.",
+    "settings_PrayerNotification_Bip": "Za obavijesti je odabran kratki zvučni signal „bip“",
     "@settings_PrayerNotification_Bip": {
         "description": "_",
         "type": "text"
@@ -243,12 +243,12 @@
     "connecting": "Povezujemo muslimane",
     "to_mosques": "s njihovim džamijama",
     "get_started": "Započnite",
-    "get_prayer_notifications_for": "Primajte obavijesti o namaskim vremenima džamije",
+    "get_prayer_notifications_for": "Primajte obavijesti prema namaskim vremenima džamije",
     "turn_on_notifications": "Uključite obavijesti za namaz",
     "no_thanks": "Ne, hvala.",
-    "notification_denied": "Odbili ste dozvole za obavještavanje, tako da nećete primati nikakva obavještenja.",
+    "notification_denied": "Odbili ste dozvolu za slanje obavijesti, sada nećete primati obavijesti.",
     "at_least_one_mosque": "Da biste nastavili, dodajte najmanje jednu džamiju",
-    "set_up_your_prayer": "Prilagodite obavještenja za namaz",
+    "set_up_your_prayer": "Podesite obavijesti za namaz",
     "notifications": "Obavijesti",
     "mosques_around_you": "Džamije u vašoj blizini",
     "mosques_in_the_selected_area": "Džamije na odabranom području",
@@ -277,9 +277,9 @@
     "dnd": "Ne uznemiravaj",
     "battery_optimize": "Optimizacija baterije",
     "power_saver": "Štednja baterije",
-    "permission_message1": "Otkrili smo kašnjenje obavještenja. Molimo vas, isključite",
-    "permission_message2": "kako biste obavještenja primali na vrijeme.",
-    "notifications_delay_detected": "Otkriveno je kašnjenje obavještenja",
+    "permission_message1": "Otkrili smo kašnjenje obavijesti. Molimo vas, isključite",
+    "permission_message2": "kako biste obavijesti primali na vrijeme.",
+    "notifications_delay_detected": "Otkriveno je kašnjenje obavijesti",
     "open_setting": "Otvorite postavke",
     "noJumua": "Džuma se ne klanja",
     "@noJumua": {
@@ -331,7 +331,7 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Image": "Fotografija",
+    "announcement_Image": "Slika",
     "@announcement_Image": {
         "description": "_",
         "type": "text"
@@ -341,7 +341,7 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flash info",
+    "announcement_Type_FlashInfo": "Kratka poruka",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
@@ -516,12 +516,12 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_announcements": "Poruke i obavještenja iz džamije",
+    "tutorial_title_announcements": "Poruke i objave iz džamije",
     "@tutorial_title_announcements": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Ovdje ćete primati obavještenja o porukama i objavama vaše džamije. Dodirom na ovo dugme otvarate njihov puni sadržaj. Objave mogu biti kratke poruke, slike ili videosnimci.",
+    "tutorial_text_announcements": "Ovdje će se prikazivati obavijesti o porukama i objavama iz vaše džamije. Dodirnite ovo dugme da vidite njihov puni sadržaj. Objave mogu biti kratke poruke, slike ili videozapisi.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -621,17 +621,17 @@
         "description": "_",
         "type": "text"
     },
-    "notification_open_app_body": "Molimo vas, otvorite aplikaciju kako biste nastavili primati obavještenja",
+    "notification_open_app_body": "Molimo vas, otvorite aplikaciju kako biste nastavili primati obavijesti",
     "@notification_open_app_body": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_title_notification": "Odaberite obavještenje za namaz",
+    "tutorial_title_notification": "Podesite način obavještavanja za namaz",
     "@tutorial_title_notification": {
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_notification": "Ovdje možete odabrati vrstu obavještenja: ezan, beep ili bez zvuka",
+    "tutorial_text_notification": "Ovdje možete odabrati vrstu obavijesti: ezan, beep ili bez zvuka",
     "@tutorial_text_notification": {
         "description": "\\",
         "type": "text"
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Ovdje možete vidjeti vrijeme čekanja od ezana do ikameta u džamij",
+    "tutorial_text_iqama": "Ovdje možete vidjeti vrijeme čekanja od ezana do ikameta u džamiji",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -752,8 +752,8 @@
     "quran_from_top_to_bottom": "Od vrha prema dnu",
     "quran_from_bottom_to_top": "Od dna prema vrhu",
     "quran_pages_color": "Boja stranica",
-    "english_tr": "English",
-    "french_tr": "French",
+    "english_tr": "Engleski",
+    "french_tr": "Francuski",
     "spanish_tr": "Spanish",
     "muhammad_hamidullah": "Muhammad Hamidullah",
     "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
@@ -824,7 +824,7 @@
     "download_failed": "Preuzimanje nije uspjelo",
     "download_pages": "Preuzmite stranice",
     "notification": "Obavještenje",
-    "notification_not_supported_below_7": "Obavještenja ezanom i obavještenja o namaskim vremenima nisu dostupna jer vaš uređaj koristi Android 7 ili stariju verziju.",
+    "notification_not_supported_below_7": "Obavijesti ezanom i obavijesti o namaskim vremenima nisu dostupna, jer vaš uređaj koristi Android 7 ili stariju verziju.",
     "battery_optimization": "Optimizacija baterije",
     "battery_optimization_subtitle": "Za pouzdano primanje obavještenja o namaskim vremenima potrebno je isključiti optimizaciju baterije za aplikaciju MAWAQIT.",
     "allow": "Dozvoli",
@@ -921,7 +921,7 @@
     "no_favorite_recitor_found": "Nije pronađen omiljeni učač",
     "no_recitator_found": "Nije pronađen učač",
     "empty_quran_search": "Rezultati pretrage će se prikazati ovdje",
-    "no_bookmark_ayah": "Nemate označenih ajeta. Pritisnite i zadržite ajet koji želite označiti.",
+    "no_bookmark_ayah": "Nemate sačuvanih bilješki. Dodirnite i zadržite ajet koji želite dodati u bilješke.",
     "page": "Stranica",
     "prayer_times_in": "Namaska vremena za",
     "update_new_version": "Dostupna je nova verzija digitalnog izdanja Kur’ana. Dodirnite „Ažuriraj“ da preuzmete najnovija poboljšanja i nastavite svoje putovanje kroz Božiju mudrost",
@@ -1048,7 +1048,7 @@
     "@delete_all_downloads": {
         "description": "-> delete_all_downloads"
     },
-    "delete_recitations_message": "Želite li zaista obrisati sve preuzete audiosnimke?",
+    "delete_recitations_message": "Želite li zaista izbrisati sve preuzete audiosnimke?",
     "@delete_recitations_message": {
         "description": "-> delete_recitations_message"
     },
@@ -1559,8 +1559,8 @@
     "semantic_on": "Uključeno",
     "semantic_off": "Isključeno",
     "semantic_ayah_list_actions": "Opcije liste ajeta",
-    "remove_bookmark": "Uklonite oznaku",
-    "add_bookmark": "Dodajte oznaku",
+    "remove_bookmark": "Uklonite bilješku",
+    "add_bookmark": "Dodajte bilješku",
     "selected": "odabrano",
     "double_tap_to_continue": "Da biste nastavili, dodirnite dvaput",
     "clear_search": "Obriši pretragu",
@@ -1572,7 +1572,7 @@
     "location_permission_required": "Potrebna je dozvola za pristup lokaciji",
     "semantic_previous_month": "Prethodni mjesec",
     "semantic_next_month": "Sljedeći mjesec",
-    "semantic_view_image": "Pogledajte fotografiju",
+    "semantic_view_image": "Prikaži sliku",
     "access_location_details": "MAWAQIT-u je potreban pristup vašoj lokaciji kako bi vam prikazao tačne podatke o lokalnim vremenskim prilikama, pravcu kible i džamijama u blizini. Ranije ste odbili ovu dozvolu.",
     "location_off": "Lokacija je isključena",
     "semantic_pre_notification_time": "obavještenje prije nastupanja vremena",
@@ -1713,7 +1713,7 @@
     "admin_jumuaTimeGroup": "VRIJEME DŽUME",
     "admin_jumuaDuringGroup": "TOKOM DŽUME",
     "admin_jumuaSameAsDuhr": "Isto vrijeme kad i podne-namaz",
-    "admin_jumuaFollowsDuhr": "Klanja se u podne — vaše vrijeme ostaje sačuvano.",
+    "admin_jumuaFollowsDuhr": "Džuma počinje u vrijeme podne-namaza.",
     "admin_jumuaApplyDst": "Dodaj jedan sat tokom ljetnog računanja vremena",
     "admin_jumuaDuration": "Trajanje (hutba + namaz)",
     "admin_jumuaDurationHelp": "Trajanje hutbe i namaza koje ovdje odredite važi za prikaz crnog ekrana ili hadisa tokom džume.",
@@ -1844,44 +1844,44 @@
     "notifications_required_for_adhan": "Obavijesti moraju biti omogućene kako bi MAWAQIT mogao reproducirati ezan i slati obavijesti o namaskim vremenima.",
     "location_required_for_prayer_times": "Za prikaz tačnih namaskih vremena, informacija o džamijama i vremenske prognoze potrebno je omogućiti pristup vašoj lokaciji.",
     "manage_mosque": "Upravljanje džamijom",
-    "how_managing_your_mosque": "How is managing your mosque going?",
-    "rating_helps_improve_admin": "Your rating helps us improve the admin area.",
-    "tell_us_more": "Tell us more (optional)",
-    "what_worked_well": "What worked well, what did not?",
-    "thank_you_for_your_feedback": "Thank you for your feedback.",
-    "could_not_send_your_feedback": "Could not send your feedback. Please try again.",
+    "how_managing_your_mosque": "Kako vam ide upravljanje džamijom?",
+    "rating_helps_improve_admin": "Vaša ocjena pomaže nam da poboljšamo administratorski dio aplikacije.",
+    "tell_us_more": "Recite nam nešto više (nije obavezno)",
+    "what_worked_well": "Šta je funkcionisalo dobro, a šta nije?",
+    "thank_you_for_your_feedback": "Hvala vam na povratnim informacijama.",
+    "could_not_send_your_feedback": "Slanje vaših povratnih informacija nije uspjelo. Pokušajte ponovo.",
     "analog_clock": "Analogni sat",
     "credit_card": "Kreditna ili debitna kartica",
     "donate_paypal": "Donirajte putem PayPala",
-    "or_bank_transfer": "Ili bankovnim transferom na mawaqit.net",
-    "please_enter_valid_amount": "Unesite ispravan iznos",
-    "payment_declined": "Plaćanje je odbijeno. Pokušajte s drugom karticom ili drugim načinom doniranja.",
-    "donations_unavailable": "Donacije su privremeno nedostupne. Pokušajte ponovo za koji trenutak.",
+    "or_bank_transfer": "Ili bankovnom uplatom putem mawaqit.net",
+    "please_enter_valid_amount": "Molimo vas, unesite važeći iznos",
+    "payment_declined": "Plaćanje je odbijeno. Pokušajte s drugom karticom ili odaberite drugi način donacije.",
+    "donations_unavailable": "Donacije trenutno nisu dostupne. Molimo pokušajte ponovo za nekoliko trenutaka.",
     "mute_with_volume_buttons": "Utišaj tipkama za jačinu zvuka",
-    "may_allah_reward_you": "Neka vas Allah nagradi dobrim",
-    "thank_you_for_your_generosity": "Hvala vam na vašoj velikodušnosti",
+    "may_allah_reward_you": "Neka vas Uzvišeni Allah nagradi svakim dobrom",
+    "thank_you_for_your_generosity": "Zahvaljujemo vam na darežljivosti",
     "bluetooth_permission": "Dozvola za Bluetooth",
-    "bluetooth_permission_required_garmin": "Potrebno za povezivanje i sinhronizaciju sa Garmin satom.",
-    "bayan_ul_quran_israr_ahmed": "Bejan-ul-Kur'an (dr. Israr Ahmed)",
+    "bluetooth_permission_required_garmin": "Potrebna je za povezivanje i sinhronizaciju s vašim Garmin satom.",
+    "bayan_ul_quran_israr_ahmed": "Bejanul-Kur’an (dr. Israr Ahmed)",
     "dr_abu_bakr_muhammad": "Dr. Abu Bakr Muhammed Zakaria",
     "maulana_azizul_haque_al_umari": "Maulana Azizul Haque al-Umari",
     "hindi": "Hindski",
-    "adhan_custom_volume_description": "Odaberite poseban nivo jačine zvuka za ezan. Originalni nivo jačine zvuka telefona bit će vraćen kada se ezan završi.",
-    "adhan_alarm_channel_description": "Ezan se reproducira putem kanala za alarme, tako da se može čuti u tihom ili vibracijskom načinu rada, kao i u režimu Ne uznemiravaj (DND) kada su alarmi dozvoljeni.",
-    "adhan_stop_with_volume_button_description": "Odmah zaustavite ezan pritiskom na bilo koju tipku za jačinu zvuka na telefonu.",
-    "adhan_audio_interruption_description": "Kratki zvukovi obavijesti neće zaustaviti ezan. Zaustavit će se samo ako dođe telefonski poziv ili druga aplikacija preuzme kontrolu nad zvukom.",
+    "adhan_custom_volume_description": "Odaberite koliko glasno želite slušati ezan. Nakon ezana zvuk telefona automatski se vraća na ranije podešenu jačinu.",
+    "adhan_alarm_channel_description": "Ezan se reproducira putem kanala za alarme, tako da se može čuti u tihom ili vibracijskom načinu rada, kao i u režimu Ne uznemiravaj (DND), ako su alarmi dozvoljeni.",
+    "adhan_stop_with_volume_button_description": "Odmah zaustavite ezan pritiskom na bilo koje dugme za jačinu zvuka na telefonu.",
+    "adhan_audio_interruption_description": "Kratki zvukovi obavijesti neće prekinuti ezan. Ezan će se zaustaviti samo ako telefonski poziv ili neka druga aplikacija preuzme kontrolu nad zvukom.",
     "indo_pak": "Indo-Pak",
-    "popular_across_south_asia": "Popularan u Južnoj Aziji",
+    "popular_across_south_asia": "Široko zastupljen u Južnoj Aziji",
     "surahs_available": "dostupne sure",
     "missing_surahs": "Sure koje nedostaju",
-    "missing_surahs_hint": "Dodirnite suru da slušate sa drugim učačem.",
+    "missing_surahs_hint": "Dodirnite suru da je poslušate u izvedbi drugog učača.",
     "surahs_in_this_recitation": "Sure u ovom učenju",
-    "missing_surahs_suggestion": "Preslušajte sure koje nedostaju kod drugog učača",
+    "missing_surahs_suggestion": "Sure koje nedostaju poslušajte u izvedbi drugog učača",
     "not_available_from_reciter": "Nije dostupno kod ovog učača",
-    "find_another_reciter": "Pronađi drugog učača",
+    "find_another_reciter": "Pronađite drugog učača",
     "status_on": "Uklj",
     "status_off": "Isklj",
-    "repeat_range_title": "Ponavljaj opseg",
+    "repeat_range_title": "Ponavljaj odabrani opseg",
     "@repeat_range_title": {
         "description": "Title of the Quran audio sheet that repeats a range of verses"
     },
@@ -1899,7 +1899,7 @@
     "@repeat_range_select_range": {
         "description": "Heading above the From/To slider"
     },
-    "repeat_range_hint": "Prevuci klizače ili listaj ajete",
+    "repeat_range_hint": "Povucite oznake ili listajte ajete",
     "@repeat_range_hint": {
         "description": "Hint under 'Select range'"
     },
@@ -1907,15 +1907,15 @@
     "@repeat_range_reset": {
         "description": "Button: back to the whole surah with repeat off"
     },
-    "repeat_range_repeat": "Ponavljaj",
+    "repeat_range_repeat": "Ponavljanje",
     "@repeat_range_repeat": {
         "description": "Label of the repeat switch/counter"
     },
-    "repeat_range_play_once": "Pusti jednom",
+    "repeat_range_play_once": "Poslušaj jednom",
     "@repeat_range_play_once": {
         "description": "Main button when repeat is off"
     },
-    "repeat_range_play_times": "{count, plural, one{Pusti {count} put} few{Pusti {count} puta} other{Pusti {count} puta}}",
+    "repeat_range_play_times": "{count, plural, other{Poslušaj {count} puta}}",
     "@repeat_range_play_times": {
         "description": "Main button when repeat is on (count is 2 to 10)",
         "placeholders": {
@@ -1925,7 +1925,7 @@
             }
         }
     },
-    "repeat_range_play_on_loop": "Puštaj u petlji",
+    "repeat_range_play_on_loop": "Reproduciraj neprekidno",
     "@repeat_range_play_on_loop": {
         "description": "Main button when repeat is set to infinite"
     },
@@ -1943,7 +1943,7 @@
             }
         }
     },
-    "repeat_range_on_loop": "u petlji",
+    "repeat_range_on_loop": "neprekidno ponavljanje",
     "@repeat_range_on_loop": {
         "description": "Player chip when the range repeats forever, e.g. '255–257 · on loop'"
     },
@@ -1999,15 +1999,15 @@
     "@semantic_repeat_range_turn_off": {
         "description": "Screen reader label of the minus button when the count is 2"
     },
-    "semantic_repeat_range_play_fewer": "Pusti manje puta",
+    "semantic_repeat_range_play_fewer": "Smanji broj ponavljanja",
     "@semantic_repeat_range_play_fewer": {
         "description": "Screen reader label of the minus button"
     },
-    "semantic_repeat_range_play_more": "Pusti više puta",
+    "semantic_repeat_range_play_more": "Povećaj broj ponavljanja",
     "@semantic_repeat_range_play_more": {
         "description": "Screen reader label of the plus button"
     },
-    "semantic_repeat_range_plays_times": "{count, plural, one{Pušta se {count} put} few{Pušta se {count} puta} other{Pušta se {count} puta}}",
+    "semantic_repeat_range_plays_times": "{count, plural, other{Reproducira se {count} puta}}",
     "@semantic_repeat_range_plays_times": {
         "description": "Screen reader value of the repeat counter",
         "placeholders": {
@@ -2017,11 +2017,11 @@
             }
         }
     },
-    "semantic_repeat_range_plays_on_loop": "Pušta se u petlji",
+    "semantic_repeat_range_plays_on_loop": "Reproducira neprekidno",
     "@semantic_repeat_range_plays_on_loop": {
         "description": "Screen reader value of the repeat counter when infinite"
     },
-    "semantic_repeat_range_chip_verse": "Ponavljanje ajeta {verse}",
+    "semantic_repeat_range_chip_verse": "Ponavlja se ajet {verse}",
     "@semantic_repeat_range_chip_verse": {
         "description": "Screen reader label of the player chip for a one-verse range",
         "placeholders": {
@@ -2031,7 +2031,7 @@
             }
         }
     },
-    "semantic_repeat_range_chip_verses": "Ponavljanje ajeta {start}–{end}",
+    "semantic_repeat_range_chip_verses": "Ponavljaju se ajeti od {start} do {end}",
     "@semantic_repeat_range_chip_verses": {
         "description": "Screen reader label of the player chip",
         "placeholders": {
@@ -2045,11 +2045,11 @@
             }
         }
     },
-    "semantic_repeat_range_open_settings": "Otvori postavke ponavljanja",
+    "semantic_repeat_range_open_settings": "Otvori opcije ponavljanja",
     "@semantic_repeat_range_open_settings": {
         "description": "Screen reader hint of the player chip"
     },
-    "semantic_repeat_range_stop": "Zaustavi ponavljanje i pusti cijelu suru",
+    "semantic_repeat_range_stop": "Zaustavi ponavljanje i poslušaj cijelu suru",
     "@semantic_repeat_range_stop": {
         "description": "Screen reader label of the chip's close button"
     },
@@ -2061,11 +2061,11 @@
     "@settings_FeaturesAndPrivacy": {
         "description": "Settings page section header (features and privacy settings)."
     },
-    "settings_ThemeInfo": "Odaberite svijetlu, tamnu ili sistemsku temu.",
+    "settings_ThemeInfo": "Odaberite svijetlu ili tamnu temu ili pratite postavke sistema.",
     "@settings_ThemeInfo": {
         "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
     },
-    "settings_TimeFormatInfo": "Primjenjuje se na sva vremena u aplikaciji, obavijestima i povezanim satovima.",
+    "settings_TimeFormatInfo": "Odabrani format vremena koristi se u cijeloj aplikaciji, obavijestima i na povezanim pametnim satovima.",
     "@settings_TimeFormatInfo": {
         "description": "Info sheet text for the Time format (12H/24H) setting."
     },
@@ -2085,15 +2085,15 @@
     "@live_countdown_description_sunrise": {
         "description": "Countdown to Sunrise in your notifications."
     },
-    "semantic_audio_downloading_percent": "Preuzimanje za slušanje van mreže, {percent}%",
+    "semantic_audio_downloading_percent": "Preuzimanje sure za slušanje bez interneta, {percent}%",
     "@semantic_audio_downloading_percent": {
         "description": "Screen reader: progress of saving the playing surah offline, said at 25, 50 and 75%. {percent} is a number."
     },
-    "semantic_audio_saved_offline": "Sačuvano za slušanje van mreže",
+    "semantic_audio_saved_offline": "Sačuvano za slušanje bez interneta",
     "@semantic_audio_saved_offline": {
         "description": "Screen reader: the playing surah has finished saving for offline listening."
     },
-    "semantic_reciter_surah_saved": "{reciter}, ova sura je sačuvana za slušanje van mreže",
+    "semantic_reciter_surah_saved": "{reciter}, ova sura je sačuvana za slušanje bez interneta",
     "@semantic_reciter_surah_saved": {
         "description": "Screen reader: a reciter row in the reciter list when the current surah is saved for offline for that reciter. {reciter} is the reciter's name."
     },
@@ -2101,7 +2101,7 @@
     "@semantic_audio_download_failed_retry": {
         "description": "Screen reader: the red chip in the audio player after the surah download failed. Tapping it retries."
     },
-    "semantic_audio_starting": "Preuzimaju se prvi ajeti. Reprodukcija uskoro počinje",
+    "semantic_audio_starting": "Preuzimaju se prvi ajeti. Reprodukcija počinje uskoro",
     "@semantic_audio_starting": {
         "description": "Screen reader: the Play button of the verse audio player while the first verses download, before playback starts."
     },
@@ -2121,21 +2121,21 @@
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
     },
-    "qibla_compass_unavailable": "Ovaj uređaj nema kompas, pa MAWAQIT na njemu ne može prikazati smjer Kible.",
+    "qibla_compass_unavailable": "Ovaj uređaj nema kompas, pa MAWAQIT ne može prikazati pravac kible.",
     "@qibla_compass_unavailable": {
         "description": "Qibla screen: the phone has no heading sensor."
     },
-    "qibla_no_compass_reading": "Još nema očitanja kompasa. Držite telefon vodoravno i pomjerajte ga u obliku osmice, daleko od metala i magneta.",
+    "qibla_no_compass_reading": "Kompas još nije očitao pravac. Držite telefon horizontalno i pomjerajte ga u obliku osmice, dalje od metalnih predmeta i magneta.",
     "@qibla_no_compass_reading": {
         "description": "Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button."
     },
-    "qibla_updating_location": "Ažuriranje vaše lokacije…",
+    "qibla_updating_location": "Vaša lokacija se ažurira…",
     "@qibla_updating_location": {
         "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     },
     "back_to_playing_ayah": "Nazad na ajet koji se reproducira",
-    "alerts_set_for_other_mosque": "Obavijesti za {prayer} postavljene su za {mosque}. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju.",
-    "alerts_set_for_unknown_mosque": "Obavijesti za {prayer} postavljene su za drugu džamiju. Ako ih promijenite ovdje, bit će prebačene na ovu džamiju.",
+    "alerts_set_for_other_mosque": "Obavijesti za {prayer} podešene su za džamiju {mosque}. Ako ih ovdje promijenite, ubuduće će se odnositi na ovu džamiju.",
+    "alerts_set_for_unknown_mosque": "Obavijesti za {prayer} podešene su za drugu džamiju. Ako ih ovdje promijenite, ubuduće će se odnositi na ovu džamiju.",
     "live_activity_tooltip_android": "Ažuriranja uživo prikazuju se na panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je omogućeno, mjerač vremena uživo prikazuje odbrojavanje do sljedećeg namaza ili ikameta.",
     "alarms_permission_disabled": "Dozvola za alarme je onemogućena",
     "full_adhan_cant_play_alarms_disabled": "Cijeli ezan se ne može reproducirati jer je dozvola za alarme onemogućena.",
