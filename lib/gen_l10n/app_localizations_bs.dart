@@ -55,7 +55,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get settings_PrayerPreNotifications =>
-      'Obavijest prije nastupanja namaskog vremena';
+      'Obavijest prije nastupa namaskog vremena';
 
   @override
   String get settings_ShuruqPreNotifications => 'Obavijest prije izlaska sunca';
@@ -82,13 +82,13 @@ class AppLocalizationsBs extends AppLocalizations {
   String get bismillah => 'Bismillah';
 
   @override
-  String get settings_DonateToMawaqit => 'Doniraj za MAWAQIT';
+  String get settings_DonateToMawaqit => 'Udijelite za MAWAQIT';
 
   @override
   String get settings_CheckForUpdates => 'Provjeri ažuriranja';
 
   @override
-  String get settings_Credits => 'Credits';
+  String get settings_Credits => 'Autorska prava i licence';
 
   @override
   String get settings_AboutUs => 'O aplikaciji Mawaqit';
@@ -227,7 +227,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Pretraga pomoću GPS-a može potrajati neko vreme na iOS 14, molimo vas da sačekate.';
 
   @override
-  String get search_error => 'Oups, došlo je do interne greške.';
+  String get search_error => 'Upss, došlo je do interne greške';
 
   @override
   String get search_your_location => 'Vaša lokacija';
@@ -321,11 +321,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get retry => 'Pokušajte ponovo';
 
   @override
-  String get search_here => 'Pretraži ovde';
+  String get search_here => 'Pretražite ovdje';
 
   @override
-  String get enter_at_least_3_char =>
-      'Unesite najmanje 3 karaktera za pretragu';
+  String get enter_at_least_3_char => 'Unesite najmanje 3 znaka za pretragu';
 
   @override
   String get jumua1 => 'Džuma 1';
@@ -655,7 +654,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get tutorial_text_iqama =>
-      'Ovdje možete vidjeti vrijeme čekanja od ezana do ikameta u džamiji';
+      'Ovdje možete vidjeti vrijeme čekanja između ezana i ikameta u džamiji';
 
   @override
   String get calendar_tooltip_download => 'Preuzmite takvim';
@@ -1058,7 +1057,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get force_notification_title =>
-      'MAWAQIT ostaje aktivan kako biste na vrijeme primali obavještenja za namaz.';
+      'MAWAQIT ostaje aktivan kako biste na vrijeme primali obavijesti za namaz.';
 
   @override
   String get force_notification_body =>
@@ -1066,18 +1065,18 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get force_notification_dialog1_body =>
-      'Uključivanjem ove opcije aplikacija ostaje aktivna kako bi se obavještenja za namaz slala na vrijeme, bez kašnjenja. MAWAQIT će ostati aktivan isključivo u tu svrhu. Ovu opciju možete isključiti u bilo kojem trenutku u postavkama.';
+      'Uključivanjem ove opcije aplikacija ostaje aktivna kako bi se obavijesti za namaz slale na vrijeme, bez kašnjenja. MAWAQIT će ostati aktivan isključivo u tu svrhu. Ovu opciju možete isključiti u bilo kojem trenutku u postavkama.';
 
   @override
   String get force_notification_dialog2_body =>
-      'Nakon što uključite opciju „Pouzdana isporuka obavještenja“, povucite prstom od vrha ekrana prema dolje. U panelu s obavještenjima vidjet ćete ovo obavještenje';
+      'Nakon što uključite opciju „Pouzdana isporuka obavijesti“, povucite prstom od vrha ekrana prema dolje. U panelu s obavještenjima vidjet ćete ovo obavještenje';
 
   @override
-  String get notification_debugging => 'Dijagnostika obavještenja';
+  String get notification_debugging => 'Dijagnostika obavijesti';
 
   @override
   String get notification_debugging_details =>
-      'Otklanjanje grešaka u obavijestima je omogućeno. Ako promijenite postavke obavještenja, podaci za otklanjanje grešaka će biti izgubljeni, a otklanjanje grešaka će biti onemogućeno.';
+      'Otklanjanje grešaka u obavijestima je omogućeno. Ako promijenite postavke obavijesti, podaci za otklanjanje grešaka će biti izgubljeni, a otklanjanje grešaka će biti onemogućeno.';
 
   @override
   String get skip => 'Preskoči';
@@ -1102,7 +1101,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get notification_delay_debugging_is =>
-      'Dijagnostika kašnjenja obavještenja je';
+      'Dijagnostika kašnjenja obavijesti je';
 
   @override
   String get banner_enable => 'Omogući baner';
@@ -1202,7 +1201,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get no_news => 'Nema novih objava iz džamije';
 
   @override
-  String get mawaqit_notification => 'Mawaqit obavještenja';
+  String get mawaqit_notification => 'Mawaqit obavijesti';
 
   @override
   String get no_mawaqit_notification => 'Bez novih obavještenja od Mawaqit';
@@ -1422,7 +1421,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get selecet_audio_before_delete =>
-      'Da biste obrisali odabrani audiosnimak, prvo dodajte drugi zvuk za obavještenja';
+      'Da biste obrisali odabrani audiosnimak, prvo dodajte drugi zvuk za obavijesti';
 
   @override
   String get addding_file_prompt =>
@@ -1516,7 +1515,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get notified_boost =>
-      'Primajte obavještenja o najnovijim dešavanjima u projektima MAWAQIT Boost.';
+      'Primajte obavijesti o najnovijim dešavanjima u projektima MAWAQIT Boost.';
 
   @override
   String get contact_us_boost =>
@@ -2633,7 +2632,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get admin_adminTileSubtitle =>
-      'Objave, podešavanje namaskih vremena i ezana';
+      'Objave, postavke namaskih vremena i ezana';
 
   @override
   String get admin_signInHeadline => 'Upravljajte svojom džamijom';
@@ -2643,8 +2642,7 @@ class AppLocalizationsBs extends AppLocalizations {
       'Prijavite se računom koji koristite na mawaqit.net kako biste upravljali svojim džamijama.';
 
   @override
-  String get admin_capabilityMessages =>
-      'Objavljujte obavještenja i kratke poruke';
+  String get admin_capabilityMessages => 'Postavljajte objave i kratke poruke';
 
   @override
   String get admin_capabilityTimes =>
@@ -2774,14 +2772,14 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get admin_eidPrayerHelp =>
-      'Prikazuje se na ekranu džamije sedam dana prije Bajrama. Ako se namaz ne klanja, ostavite vrijeme nepodešeno.';
+      'Prikazuje se na ekranu džamije sedam dana prije Bajrama. Ako se neki od namaza ne klanja, ostavite njegovo vrijeme nepodešeno.';
 
   @override
   String get admin_imsakBeforeFajr => 'Prikaži vrijeme imsaka prije sabaha';
 
   @override
   String get admin_imsakHelp =>
-      'Odredite koliko minuta prije sabah-namaza treba prikazati vrijeme imsaka. Ako sabah nastupa u 04:00 i unesete 30 minuta, na ekranu će vrijeme imsaka biti 03:30.';
+      'Odredite koliko minuta prije sabah-namaza treba prikazati vrijeme imsaka. Ako sabah nastupa u 04:00, a unesete 30 minuta, na ekranu će se prikazivati vrijeme imsaka 03:30.';
 
   @override
   String get admin_imsakOff => 'Isključeno';
@@ -2793,14 +2791,14 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_adhanSoundLabel => 'Zvuk';
 
   @override
-  String get admin_adhanPlaysFor => 'ZVUK SE ČUJE ZA';
+  String get admin_adhanPlaysFor => 'ČUJE SE ZA';
 
   @override
   String get admin_adhanDurationLabel => 'Trajanje ezana';
 
   @override
   String get admin_adhanDurationHelp =>
-      'Ovaj zvuk najavljuje početak ezana. Unesite koliko traje učenje ezana vašeg mujezina kako bi ekran pravilno pratio njegovo trajanje.';
+      'Ovaj zvuk najavljuje početak ezana. Podesite trajanje ezana prema učenju vašeg mujezina kako bi prikaz na ekranu bio tačan.';
 
   @override
   String admin_customAdhanFile(String name) {
@@ -2815,11 +2813,11 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_adhanNoPrayers => 'Nema odabranih namaza';
 
   @override
-  String get admin_prayerDurationGroup => 'TRAJANJE NAMAZA U MINUTAMA';
+  String get admin_prayerDurationGroup => 'MINUTE PO NAMAZU';
 
   @override
   String get admin_prayerDurationHelp =>
-      'Kada je opcija „Crni ekran“ uključena, ekran tokom namaza ostaje crn onoliko minuta koliko ovdje odredite.';
+      'Crni ekran tokom namaza i prikaz dova nakon namaza traju onoliko minuta koliko je ovdje podešeno.';
 
   @override
   String get admin_duasInvocations => 'DOVE';
@@ -2933,7 +2931,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get admin_flashContentHint =>
-      'Poruka koja se prikazuje na ekranu u džamiji';
+      'Poruka koja će biti prikazana na ekranu džamije';
 
   @override
   String get admin_flashOrientation => 'Smjer kretanja';
@@ -2970,7 +2968,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_flashDeleted => 'Kratka poruka je izbrisana';
 
   @override
-  String get admin_tabAnnouncements => 'Vijesti i objave';
+  String get admin_tabAnnouncements => 'Objave';
 
   @override
   String get admin_tabFlash => 'Kratka poruka';
@@ -2998,10 +2996,10 @@ class AppLocalizationsBs extends AppLocalizations {
       'Dostigli ste ograničenje broja aktivnih objava.';
 
   @override
-  String get admin_discardTitle => 'Želite li odbaciti izmjene?';
+  String get admin_discardTitle => 'Odbaciti izmjene?';
 
   @override
-  String get admin_discardBody => 'Vaš uneseni tekst neće biti sačuvan.';
+  String get admin_discardBody => 'Uneseni tekst neće biti sačuvan.';
 
   @override
   String get admin_discard => 'Odbaci';
@@ -3037,11 +3035,10 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_fieldVideoHint => 'https://www.youtube.com/watch?v=…';
 
   @override
-  String get admin_fieldVideoHelp =>
-      'Dozvoljeni su samo standardni YouTube videozapisi, ne i Shorts sadržaji.';
+  String get admin_fieldVideoHelp => 'Samo standardni YouTube videozapisi.';
 
   @override
-  String get admin_fieldOrientation => 'Orijentacija ekrana';
+  String get admin_fieldOrientation => 'Orijentacija TV ekrana';
 
   @override
   String get admin_fieldDuration => 'Trajanje';
@@ -3069,7 +3066,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_fieldSecondaryScreen => 'Sekundarni ekran';
 
   @override
-  String get admin_fieldMobile => 'Mawaqit aplikacija';
+  String get admin_fieldMobile => 'Mobilna aplikacija Mawaqit';
 
   @override
   String get admin_pickImage => 'Odaberite fotografiju';
@@ -3132,7 +3129,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get for_mosque_administrators_only =>
-      'Samo za administratore džamija na MAWAQIT-u';
+      'Samo za administratore MAWAQIT džamija';
 
   @override
   String get admins_only => 'Samo za administratore';
@@ -3186,7 +3183,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get credit_card => 'Kreditna ili debitna kartica';
 
   @override
-  String get donate_paypal => 'Donirajte putem PayPala';
+  String get donate_paypal => 'Udijelite putem PayPala';
 
   @override
   String get or_bank_transfer => 'Ili bankovnom uplatom putem mawaqit.net';
@@ -3401,7 +3398,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get settings_ThemeInfo =>
-      'Odaberite svijetlu ili tamnu temu ili pratite postavke sistema.';
+      'Odaberite svijetlu ili tamnu temu ili pratite postavke sistema telefona.';
 
   @override
   String get settings_TimeFormatInfo =>
@@ -3487,7 +3484,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get live_activity_tooltip_android =>
-      'Ažuriranja uživo prikazuju se na panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je omogućeno, mjerač vremena uživo prikazuje odbrojavanje do sljedećeg namaza ili ikameta.';
+      'Prikaz uživo prikazuje se u panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je ova opcija omogućena, prikazuje se odbrojavanje do sljedećeg namaskog vremena ili ikameta.';
 
   @override
   String get alarms_permission_disabled => 'Dozvola za alarme je onemogućena';

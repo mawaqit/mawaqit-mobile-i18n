@@ -279,7 +279,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get set_up_your_prayer => 'Konfiguroni';
 
   @override
-  String get notifications => 'njoftimet për namaz';
+  String get notifications => 'Njoftimet';
 
   @override
   String get mosques_around_you => 'Xhamitë rreth jush';
@@ -331,7 +331,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get jumua1 => 'Xhuma 1';
 
   @override
-  String get prayer_times => 'Takvimi';
+  String get prayer_times => 'Kohët e namazit';
 
   @override
   String get remove_this_city => 'Largojeni këtë qytet';
@@ -433,7 +433,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get announcement_Type_Video => 'Video';
 
   @override
-  String get announcement_Type_FlashInfo => 'Flesh info';
+  String get announcement_Type_FlashInfo => 'Mesazh i shkurtër';
 
   @override
   String get mosque_DonateText1 => 'BËNI NJË DONACION';
@@ -549,7 +549,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get tutorial_text_announcements =>
-      'Këtu shfaqen njoftimet për mesazhet dhe lajmërimet nga xhamia juaj. Prekni këtë buton për të parë përmbajtjen e plotë. Lajmërimet mund të jenë mesazhe të shkurtra, imazhe apo video.';
+      'Këtu shfaqen njoftimet për mesazhet dhe lajmërimet nga xhamia juaj. Prekni këtë buton për të parë të gjitha detajet. Lajmërimet mund të përmbajnë mesazhe të shkurtra, imazhe ose video.';
 
   @override
   String get onboarding_title_1 => 'Zgjidhni gjuhën tuaj';
@@ -811,7 +811,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get sheikh_isa_garcia => 'Sheik Isa Garcia';
 
   @override
-  String get reciters => 'Recituesit';
+  String get reciters => 'Lexuesit';
 
   @override
   String get favorite_reciters => 'Recituesit e preferuar';
@@ -994,7 +994,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get download_quran_popup_downloading_2 =>
-      'Ne po përgatisim Kur\'anin vetëm për ju, ju lutemi prisni disa sekonda!';
+      'Kurani po përgatitet për ju. Ju lutemi, prisni edhe pak sekonda!';
 
   @override
   String get download_quran_popup_downloading_3 =>
@@ -1101,14 +1101,13 @@ class AppLocalizationsSq extends AppLocalizations {
   String get set_development_environment => 'Vendos mjedisin e zhvillimit';
 
   @override
-  String get set_production_environment => 'Vendos Mjedisin e Prodhimit';
+  String get set_production_environment => 'Vendos mjedisin e prodhimit';
 
   @override
   String get delay_notification => 'Njoftimi me vonesë';
 
   @override
-  String get notification_delay_debugging_is =>
-      'Korrigjimi i vonesës së njoftimit është';
+  String get notification_delay_debugging_is => 'Vonesa e njoftimit është';
 
   @override
   String get banner_enable => 'Aktivizo bannerin';
@@ -1145,7 +1144,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get donation_failed => 'Donacioni dështoi';
 
   @override
-  String get donate_for_good => 'DHURONI PËR BAMIRËSI';
+  String get donate_for_good => 'DHURONI PËR TË MIRË';
 
   @override
   String get enter_amount_hint => 'Vendosni shumën';
@@ -1205,7 +1204,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get mosques => 'Xhamitë';
 
   @override
-  String get no_news => 'Nuk ka lajme nga xhamia';
+  String get no_news => 'Nuk ka njoftime të reja nga xhamia';
 
   @override
   String get mawaqit_notification => 'Njoftim nga Mawaqit';
@@ -1274,7 +1273,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get liked => 'Pëlqyer';
 
   @override
-  String get all_recitators => 'Të gjithë recituesit';
+  String get all_recitators => 'Të gjithë lexuesit';
 
   @override
   String get downloaded => 'E shkarkuar';
@@ -1849,7 +1848,7 @@ class AppLocalizationsSq extends AppLocalizations {
       'është gati për t’u dëgjuar në orën tuaj inteligjente';
 
   @override
-  String get transliteration => 'Shkrimi me shkronja latine';
+  String get transliteration => 'Transliterimi';
 
   @override
   String get highlight_Tahajjud_Time => 'Theksoni kohën e tehexhudit';
@@ -1877,10 +1876,10 @@ class AppLocalizationsSq extends AppLocalizations {
       'Zgjidhni kalendarët që dëshironi të shfaqni në MAWAQIT 360.';
 
   @override
-  String get calendar_enable_all => 'Aktivizojini të gjithë';
+  String get calendar_enable_all => 'Aktivizoni të gjithë';
 
   @override
-  String get calendar_disable_all => 'Çaktivizojini të gjithë';
+  String get calendar_disable_all => 'Çaktivizoni të gjithë';
 
   @override
   String get calendar_other_calendars => 'Kalendarët e tjerë';
@@ -1936,7 +1935,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get live_timer => 'Kohëmatës i drejtpërdrejtë';
 
   @override
-  String get notify_before => 'Njoftomë paraprakisht';
+  String get notify_before => 'Njofto paraprakisht';
 
   @override
   String get take_time_appear_watch =>
@@ -1972,7 +1971,7 @@ class AppLocalizationsSq extends AppLocalizations {
   String get real_time_weather => 'Moti në kohë reale';
 
   @override
-  String get layout => 'Stili';
+  String get layout => 'Pamja';
 
   @override
   String get list => 'Listë';
@@ -2099,11 +2098,11 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get quick_quran_reading_access =>
-      'Qasje e shpejtë për leximin e Kuranit';
+      'Qasje e shpejtë në leximin e Kuranit';
 
   @override
   String get quick_quran_discription =>
-      'Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.';
+      'Kur të hapni skedën e Kuranit, mund të vazhdoni leximin aty ku e keni ndërprerë.';
 
   @override
   String get live_activity_tooltip =>
@@ -2121,10 +2120,10 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get view_360_currently_selected =>
-      'Pamja 360 është zgjedhur aktualisht';
+      'Aktualisht është përzgjedhur pamja 360';
 
   @override
-  String get tap_change_layout => 'Prekni këtu për të ndryshuar stilin';
+  String get tap_change_layout => 'Prekni këtu për të ndryshuar pamjen';
 
   @override
   String get step => 'Hap';
@@ -2176,7 +2175,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get semantic_mawaqit_notification =>
-      'njoftime të palexuara nga MAWAQIT';
+      'njoftimet e palexuara nga MAWAQIT';
 
   @override
   String get semantic_open_notifications => 'Hap njoftimet';
@@ -2426,7 +2425,8 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_favorite => 'I preferuar';
 
   @override
-  String get semantic_added_to_favorites => 'U shtua te të preferuarat';
+  String get semantic_added_to_favorites =>
+      'U shtua në listën e të preferuarave';
 
   @override
   String get semantic_not_in_favorites => 'Nuk është në të preferuarat';
@@ -2475,10 +2475,10 @@ class AppLocalizationsSq extends AppLocalizations {
   String get semantic_dark => 'E errët';
 
   @override
-  String get semantic_on => 'Ndezur';
+  String get semantic_on => 'Aktiv';
 
   @override
-  String get semantic_off => 'Fikur';
+  String get semantic_off => 'Joaktiv';
 
   @override
   String get semantic_ayah_list_actions => 'Opsionet e listës së ajeteve';
@@ -2653,7 +2653,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get admin_capabilityMessages =>
-      'Publikoni njoftime dhe një mesazh të shkurtër';
+      'Publikoni njoftime dhe mesazhe të shkurtra';
 
   @override
   String get admin_capabilityTimes =>
@@ -2755,11 +2755,10 @@ class AppLocalizationsSq extends AppLocalizations {
       'Nëse e çaktivizoni këtë opsion, në ekranin e xhamisë nuk do të shfaqen më kohët e pritjes, sinjali i ikametit dhe duatë pas namazit.';
 
   @override
-  String get admin_iqamaWaitingTimes =>
-      'KOHA NGA EZANI DERI NË IKAMET (MINUTA)';
+  String get admin_iqamaWaitingTimes => 'KOHA E PRITJES PAS EZANIT (MINUTA)';
 
   @override
-  String get admin_iqamaSignal => 'SINJALI I IKAMETIT';
+  String get admin_iqamaSignal => 'SINJALIZIMI I IKAMETIT';
 
   @override
   String get admin_iqamaSound => 'Tingulli';
