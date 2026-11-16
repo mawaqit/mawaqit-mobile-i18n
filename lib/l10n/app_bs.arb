@@ -71,7 +71,7 @@
         "type": "text"
     },
     "settings_PrayerNotifications": "Obavijesti za namaz",
-    "settings_PrayerPreNotifications": "Obavijest prije nastupanja namaskog vremena",
+    "settings_PrayerPreNotifications": "Obavijest prije nastupa namaskog vremena",
     "settings_ShuruqPreNotifications": "Obavijest prije izlaska sunca",
     "settings_Calculations": "Kalkulacija",
     "settings_RateOurApp": "Ocijeni aplikaciju",
@@ -84,7 +84,7 @@
     "settings_News": "Objave i vijesti",
     "settings_MakeADonation": "Udijeli trajnu sadaku",
     "bismillah": "Bismillah",
-    "settings_DonateToMawaqit": "Doniraj za MAWAQIT",
+    "settings_DonateToMawaqit": "Udijelite za MAWAQIT",
     "@settings_DonateToMawaqit": {
         "description": "_",
         "type": "text"
@@ -94,7 +94,7 @@
         "description": "_",
         "type": "text"
     },
-    "settings_Credits": "Credits",
+    "settings_Credits": "Autorska prava i licence",
     "@settings_Credits": {
         "description": "_",
         "type": "text"
@@ -233,7 +233,7 @@
     "search_HelpText": "Džamiju možete pronaći unosom:\n- Naziva džamije\n- Naziva udruženja\n- Grada, adrese, države i slično\nIli dodirnite dugme za lokaciju kako biste pronašli džamije u blizini.",
     "search_MaxFavMosquesReached": "Dostigli ste maksimalni broj omiljenih džamija.",
     "search_iOs14_message": "Pretraga pomoću GPS-a može potrajati neko vreme na iOS 14, molimo vas da sačekate.",
-    "search_error": "Oups, došlo je do interne greške.",
+    "search_error": "Upss, došlo je do interne greške",
     "search_your_location": "Vaša lokacija",
     "search_location_disabled": "Molimo vas da potražite džamiju po imenu ili gradu, ili u postavkama uređaja dozvolite aplikaciji pristup lokaciji.",
     "search_settings": "Postavke",
@@ -262,8 +262,8 @@
     "no_mosque_in_selected_area": "Nije pronađena nijedna džamija na odabranom području",
     "no_mosque_with": "Nije pronađena nijedna džamija sa",
     "retry": "Pokušajte ponovo",
-    "search_here": "Pretraži ovde",
-    "enter_at_least_3_char": "Unesite najmanje 3 karaktera za pretragu",
+    "search_here": "Pretražite ovdje",
+    "enter_at_least_3_char": "Unesite najmanje 3 znaka za pretragu",
     "jumua1": "Džuma 1",
     "prayer_times": "Namaska vremena",
     "remove_this_city": "Uklonite ovaj grad",
@@ -681,7 +681,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_iqama": "Ovdje možete vidjeti vrijeme čekanja od ezana do ikameta u džamiji",
+    "tutorial_text_iqama": "Ovdje možete vidjeti vrijeme čekanja između ezana i ikameta u džamiji",
     "@tutorial_text_iqama": {
         "description": "_",
         "type": "text"
@@ -834,12 +834,12 @@
     "enable": "Uključi",
     "disable": "Isključi",
     "do_not_show_again": "Ne prikazuj ponovo",
-    "force_notification_title": "MAWAQIT ostaje aktivan kako biste na vrijeme primali obavještenja za namaz.",
+    "force_notification_title": "MAWAQIT ostaje aktivan kako biste na vrijeme primali obavijesti za namaz.",
     "force_notification_body": "''„Namaz je, zaista, vjernicima propisan u određeno vrijeme.“(Nisa, 103)",
-    "force_notification_dialog1_body": "Uključivanjem ove opcije aplikacija ostaje aktivna kako bi se obavještenja za namaz slala na vrijeme, bez kašnjenja. MAWAQIT će ostati aktivan isključivo u tu svrhu. Ovu opciju možete isključiti u bilo kojem trenutku u postavkama.",
-    "force_notification_dialog2_body": "Nakon što uključite opciju „Pouzdana isporuka obavještenja“, povucite prstom od vrha ekrana prema dolje. U panelu s obavještenjima vidjet ćete ovo obavještenje",
-    "notification_debugging": "Dijagnostika obavještenja",
-    "notification_debugging_details": "Otklanjanje grešaka u obavijestima je omogućeno. Ako promijenite postavke obavještenja, podaci za otklanjanje grešaka će biti izgubljeni, a otklanjanje grešaka će biti onemogućeno.",
+    "force_notification_dialog1_body": "Uključivanjem ove opcije aplikacija ostaje aktivna kako bi se obavijesti za namaz slale na vrijeme, bez kašnjenja. MAWAQIT će ostati aktivan isključivo u tu svrhu. Ovu opciju možete isključiti u bilo kojem trenutku u postavkama.",
+    "force_notification_dialog2_body": "Nakon što uključite opciju „Pouzdana isporuka obavijesti“, povucite prstom od vrha ekrana prema dolje. U panelu s obavještenjima vidjet ćete ovo obavještenje",
+    "notification_debugging": "Dijagnostika obavijesti",
+    "notification_debugging_details": "Otklanjanje grešaka u obavijestima je omogućeno. Ako promijenite postavke obavijesti, podaci za otklanjanje grešaka će biti izgubljeni, a otklanjanje grešaka će biti onemogućeno.",
     "skip": "Preskoči",
     "agree": "Slažem se",
     "return_no_search": "Nema rezultata pretrage",
@@ -847,7 +847,7 @@
     "set_development_environment": "Postavite razvojno okruženje",
     "set_production_environment": "Postavite produkcijsko okruženje",
     "delay_notification": "Odgodi obavještenje",
-    "notification_delay_debugging_is": "Dijagnostika kašnjenja obavještenja je",
+    "notification_delay_debugging_is": "Dijagnostika kašnjenja obavijesti je",
     "banner_enable": "Omogući baner",
     "banner": "Baner",
     "show_details": "Prikaži detalje",
@@ -878,7 +878,7 @@
     "main_mosque": "Glavna džamija",
     "mosques": "Džamije",
     "no_news": "Nema novih objava iz džamije",
-    "mawaqit_notification": "Mawaqit obavještenja",
+    "mawaqit_notification": "Mawaqit obavijesti",
     "no_mawaqit_notification": "Bez novih obavještenja od Mawaqit",
     "meccan": "Mekanska",
     "medinan": "Medinska",
@@ -986,7 +986,7 @@
     "@add_new_audio": {
         "description": "-> add_new_audio"
     },
-    "selecet_audio_before_delete": "Da biste obrisali odabrani audiosnimak, prvo dodajte drugi zvuk za obavještenja",
+    "selecet_audio_before_delete": "Da biste obrisali odabrani audiosnimak, prvo dodajte drugi zvuk za obavijesti",
     "@selecet_audio_before_delete": {
         "description": "-> selecet_audio_before_delete"
     },
@@ -1032,7 +1032,7 @@
     "@file_not_found": {
         "description": "-> file_not_found"
     },
-    "notified_boost": "Primajte obavještenja o najnovijim dešavanjima u projektima MAWAQIT Boost.",
+    "notified_boost": "Primajte obavijesti o najnovijim dešavanjima u projektima MAWAQIT Boost.",
     "contact_us_boost": "Za dodavanje svog projekta na ovu listu, javite nam se na",
     "prayer_times_set_by_mosque": "Namaska vremena i sve ovdje prikazane informacije određuje džamija, a ne MAWAQIT",
     "@prayer_times_set_by_mosque": {
@@ -1616,10 +1616,10 @@
     "setup_garmin": "Podesite Garmin",
     "open_garmin_device_selection": "Otvori izbor Garmin uređaja",
     "admin_adminTitle": "Administrator džamije",
-    "admin_adminTileSubtitle": "Objave, podešavanje namaskih vremena i ezana",
+    "admin_adminTileSubtitle": "Objave, postavke namaskih vremena i ezana",
     "admin_signInHeadline": "Upravljajte svojom džamijom",
     "admin_signInIntro": "Prijavite se računom koji koristite na mawaqit.net kako biste upravljali svojim džamijama.",
-    "admin_capabilityMessages": "Objavljujte obavještenja i kratke poruke",
+    "admin_capabilityMessages": "Postavljajte objave i kratke poruke",
     "admin_capabilityTimes": "Podesite vreme ikameta, džume i bajram-namaza",
     "admin_capabilityAdhan": "Odaberite ezan i način reprodukcije",
     "admin_notAnAdminTitle": "Još niste administrator?",
@@ -1667,15 +1667,15 @@
     "admin_iqamaCalendarNote": "Vrijeme ikameta određeno kalendarom ostaje nepromijenjeno. Možete ga urediti na web-stranici.",
     "admin_eidPrayerTimes": "VRIJEME BAJRAM-NAMAZA",
     "admin_ramadanImsak": "RAMAZAN",
-    "admin_eidPrayerHelp": "Prikazuje se na ekranu džamije sedam dana prije Bajrama. Ako se namaz ne klanja, ostavite vrijeme nepodešeno.",
+    "admin_eidPrayerHelp": "Prikazuje se na ekranu džamije sedam dana prije Bajrama. Ako se neki od namaza ne klanja, ostavite njegovo vrijeme nepodešeno.",
     "admin_imsakBeforeFajr": "Prikaži vrijeme imsaka prije sabaha",
-    "admin_imsakHelp": "Odredite koliko minuta prije sabah-namaza treba prikazati vrijeme imsaka. Ako sabah nastupa u 04:00 i unesete 30 minuta, na ekranu će vrijeme imsaka biti 03:30.",
+    "admin_imsakHelp": "Odredite koliko minuta prije sabah-namaza treba prikazati vrijeme imsaka. Ako sabah nastupa u 04:00, a unesete 30 minuta, na ekranu će se prikazivati vrijeme imsaka 03:30.",
     "admin_imsakOff": "Isključeno",
     "admin_eidNoPrayerTime": "Vrijeme nije određeno",
     "admin_adhanSoundLabel": "Zvuk",
-    "admin_adhanPlaysFor": "ZVUK SE ČUJE ZA",
+    "admin_adhanPlaysFor": "ČUJE SE ZA",
     "admin_adhanDurationLabel": "Trajanje ezana",
-    "admin_adhanDurationHelp": "Ovaj zvuk najavljuje početak ezana. Unesite koliko traje učenje ezana vašeg mujezina kako bi ekran pravilno pratio njegovo trajanje.",
+    "admin_adhanDurationHelp": "Ovaj zvuk najavljuje početak ezana. Podesite trajanje ezana prema učenju vašeg mujezina kako bi prikaz na ekranu bio tačan.",
     "admin_customAdhanFile": "Učitana datoteka: {name}",
     "@admin_customAdhanFile": {
         "placeholders": {
@@ -1687,8 +1687,8 @@
     },
     "admin_customAdhanMissing": "Nijedna datoteka još nije otpremljena — dodajte je na web stranici.",
     "admin_adhanNoPrayers": "Nema odabranih namaza",
-    "admin_prayerDurationGroup": "TRAJANJE NAMAZA U MINUTAMA",
-    "admin_prayerDurationHelp": "Kada je opcija „Crni ekran“ uključena, ekran tokom namaza ostaje crn onoliko minuta koliko ovdje odredite.",
+    "admin_prayerDurationGroup": "MINUTE PO NAMAZU",
+    "admin_prayerDurationHelp": "Crni ekran tokom namaza i prikaz dova nakon namaza traju onoliko minuta koliko je ovdje podešeno.",
     "admin_duasInvocations": "DOVE",
     "admin_duasHadiths": "HADISI",
     "admin_duaAfterAdhan": "Dova poslije ezana",
@@ -1724,7 +1724,7 @@
     "admin_timeNotSet": "Nije određeno",
     "admin_clearTime": "Obriši",
     "admin_flashContent": "Sadržaj",
-    "admin_flashContentHint": "Poruka koja se prikazuje na ekranu u džamiji",
+    "admin_flashContentHint": "Poruka koja će biti prikazana na ekranu džamije",
     "admin_flashOrientation": "Smjer kretanja",
     "admin_flashColor": "Boja",
     "admin_flashStartDate": "Datum početka",
@@ -1736,7 +1736,7 @@
     "admin_flashDeleteTitle": "Želite li izbrisati ovu kratku poruku?",
     "admin_deleteBody": "Više se neće prikazivati na ekranu u džamiji. Ovu radnju nije moguće poništiti.",
     "admin_flashDeleted": "Kratka poruka je izbrisana",
-    "admin_tabAnnouncements": "Vijesti i objave",
+    "admin_tabAnnouncements": "Objave",
     "admin_tabFlash": "Kratka poruka",
     "admin_announcementsEmpty": "Još nema objava.",
     "admin_announcementNew": "Nova objava",
@@ -1745,8 +1745,8 @@
     "admin_announcementDeleted": "Objava je izbrisana",
     "admin_announcementDeleteTitle": "Želite li izbrisati ovu objavu?",
     "admin_announcementLimitReached": "Dostigli ste ograničenje broja aktivnih objava.",
-    "admin_discardTitle": "Želite li odbaciti izmjene?",
-    "admin_discardBody": "Vaš uneseni tekst neće biti sačuvan.",
+    "admin_discardTitle": "Odbaciti izmjene?",
+    "admin_discardBody": "Uneseni tekst neće biti sačuvan.",
     "admin_discard": "Odbaci",
     "admin_keepEditing": "Nastavi uređivanje",
     "admin_chipScreen": "Ekran",
@@ -1758,8 +1758,8 @@
     "admin_fieldMessage": "Poruka",
     "admin_fieldVideo": "YouTube link",
     "admin_fieldVideoHint": "https://www.youtube.com/watch?v=…",
-    "admin_fieldVideoHelp": "Dozvoljeni su samo standardni YouTube videozapisi, ne i Shorts sadržaji.",
-    "admin_fieldOrientation": "Orijentacija ekrana",
+    "admin_fieldVideoHelp": "Samo standardni YouTube videozapisi.",
+    "admin_fieldOrientation": "Orijentacija TV ekrana",
     "admin_fieldDuration": "Trajanje",
     "admin_fieldIsEvent": "Ovo je događaj",
     "admin_fieldStartsAt": "Počinje {date}",
@@ -1783,7 +1783,7 @@
     "admin_fieldShowOn": "Prikaži na",
     "admin_fieldMainScreen": "Glavni ekran džamije",
     "admin_fieldSecondaryScreen": "Sekundarni ekran",
-    "admin_fieldMobile": "Mawaqit aplikacija",
+    "admin_fieldMobile": "Mobilna aplikacija Mawaqit",
     "admin_pickImage": "Odaberite fotografiju",
     "admin_replaceImage": "Promijenite fotografiju",
     "admin_orientationLandscape": "Horizontalno",
@@ -1836,7 +1836,7 @@
         }
     },
     "beta": "Beta",
-    "for_mosque_administrators_only": "Samo za administratore džamija na MAWAQIT-u",
+    "for_mosque_administrators_only": "Samo za administratore MAWAQIT džamija",
     "admins_only": "Samo za administratore",
     "notification_permission_required": "Potrebna je dozvola za slanje obavijesti",
     "enable_location": "Omogući lokaciju",
@@ -1852,7 +1852,7 @@
     "could_not_send_your_feedback": "Slanje vaših povratnih informacija nije uspjelo. Pokušajte ponovo.",
     "analog_clock": "Analogni sat",
     "credit_card": "Kreditna ili debitna kartica",
-    "donate_paypal": "Donirajte putem PayPala",
+    "donate_paypal": "Udijelite putem PayPala",
     "or_bank_transfer": "Ili bankovnom uplatom putem mawaqit.net",
     "please_enter_valid_amount": "Molimo vas, unesite važeći iznos",
     "payment_declined": "Plaćanje je odbijeno. Pokušajte s drugom karticom ili odaberite drugi način donacije.",
@@ -2061,7 +2061,7 @@
     "@settings_FeaturesAndPrivacy": {
         "description": "Settings page section header (features and privacy settings)."
     },
-    "settings_ThemeInfo": "Odaberite svijetlu ili tamnu temu ili pratite postavke sistema.",
+    "settings_ThemeInfo": "Odaberite svijetlu ili tamnu temu ili pratite postavke sistema telefona.",
     "@settings_ThemeInfo": {
         "description": "Info sheet text for the Theme setting. Light, Dark and System are the theme options."
     },
@@ -2136,7 +2136,7 @@
     "back_to_playing_ayah": "Nazad na ajet koji se reproducira",
     "alerts_set_for_other_mosque": "Obavijesti za {prayer} podešene su za džamiju {mosque}. Ako ih ovdje promijenite, ubuduće će se odnositi na ovu džamiju.",
     "alerts_set_for_unknown_mosque": "Obavijesti za {prayer} podešene su za drugu džamiju. Ako ih ovdje promijenite, ubuduće će se odnositi na ovu džamiju.",
-    "live_activity_tooltip_android": "Ažuriranja uživo prikazuju se na panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je omogućeno, mjerač vremena uživo prikazuje odbrojavanje do sljedećeg namaza ili ikameta.",
+    "live_activity_tooltip_android": "Prikaz uživo prikazuje se u panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je ova opcija omogućena, prikazuje se odbrojavanje do sljedećeg namaskog vremena ili ikameta.",
     "alarms_permission_disabled": "Dozvola za alarme je onemogućena",
     "full_adhan_cant_play_alarms_disabled": "Cijeli ezan se ne može reproducirati jer je dozvola za alarme onemogućena.",
     "allow_alarms_in_settings": "Dozvolite alarme za MAWAQIT u postavkama iPhonea kako bi se mogao reproducirati cijeli ezan."
