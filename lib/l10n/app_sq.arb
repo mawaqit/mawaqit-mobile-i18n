@@ -249,7 +249,7 @@
     "notification_denied": "Keni refuzuar lejen për njoftime, prandaj nuk do të merrni asnjë njoftim.",
     "at_least_one_mosque": "Për të vazhduar, shtoni të paktën një xhami",
     "set_up_your_prayer": "Konfiguroni",
-    "notifications": "njoftimet për namaz",
+    "notifications": "Njoftimet",
     "mosques_around_you": "Xhamitë rreth jush",
     "mosques_in_the_selected_area": "Xhamitë brenda zonës së përzgjedhur",
     "mosques_with": "Xhamitë me",
@@ -265,7 +265,7 @@
     "search_here": "Kërko këtu",
     "enter_at_least_3_char": "Vendosni së paku 3 karaktere",
     "jumua1": "Xhuma 1",
-    "prayer_times": "Takvimi",
+    "prayer_times": "Kohët e namazit",
     "remove_this_city": "Largojeni këtë qytet",
     "add_this_city": "Shtojeni këtë qytet",
     "add_this_mosque": "Shtojeni këtë xhami",
@@ -341,7 +341,7 @@
         "description": "_",
         "type": "text"
     },
-    "announcement_Type_FlashInfo": "Flesh info",
+    "announcement_Type_FlashInfo": "Mesazh i shkurtër",
     "@announcement_Type_FlashInfo": {
         "description": "_",
         "type": "text"
@@ -521,7 +521,7 @@
         "description": "_",
         "type": "text"
     },
-    "tutorial_text_announcements": "Këtu shfaqen njoftimet për mesazhet dhe lajmërimet nga xhamia juaj. Prekni këtë buton për të parë përmbajtjen e plotë. Lajmërimet mund të jenë mesazhe të shkurtra, imazhe apo video.",
+    "tutorial_text_announcements": "Këtu shfaqen njoftimet për mesazhet dhe lajmërimet nga xhamia juaj. Prekni këtë buton për të parë të gjitha detajet. Lajmërimet mund të përmbajnë mesazhe të shkurtra, imazhe ose video.",
     "@tutorial_text_announcements": {
         "description": "_",
         "type": "text"
@@ -758,7 +758,7 @@
     "muhammad_hamidullah": "Muhammad Hamidullah",
     "abdullah_yusuf_ali": "Abdullah Yusuf Ali",
     "sheikh_isa_garcia": "Sheik Isa Garcia",
-    "reciters": "Recituesit",
+    "reciters": "Lexuesit",
     "favorite_reciters": "Recituesit e preferuar",
     "surahs_downloaded": "Suret e shkarkuara",
     "surahs_chapter": "Suret - Kapitulli",
@@ -813,7 +813,7 @@
     "copied_to_clipboard": "U kopjua në (clipboard-in) tuaj!",
     "download_quran_popup_title": "Rregullimet e fundit",
     "download_quran_popup_downloading_1": "Duhet të shkarkojmë faqet e Kuranit. Kjo do të zgjasë vetëm disa sekonda. Do të përdoren të dhënat tuaja celulare; nëse dëshironi, lidhuni me Wi-Fi.",
-    "download_quran_popup_downloading_2": "Ne po përgatisim Kur'anin vetëm për ju, ju lutemi prisni disa sekonda!",
+    "download_quran_popup_downloading_2": "Kurani po përgatitet për ju. Ju lutemi, prisni edhe pak sekonda!",
     "download_quran_popup_downloading_3": "Shtypni “Shkarko” për të nisur rrugëtimin tuaj të leximit dhe meditimit mbi Kuranin.",
     "download_quran_popup_confirm_cancel": "Jeni të sigurt që doni të anuloni shkarkimin? Pa këto të dhëna, nuk do të mund të lexoni Kur'anin, faqet nuk do të jenë të disponueshme.",
     "download_quran_popup_cancelled": "Diçka shkoi keq, ju lutemi shtypni përsëri butonin e shkarkimit!",
@@ -845,9 +845,9 @@
     "return_no_search": "Kthehu pa kërkim",
     "backend_environment_switch": "Ndërrimi i mjedisit të backend-it",
     "set_development_environment": "Vendos mjedisin e zhvillimit",
-    "set_production_environment": "Vendos Mjedisin e Prodhimit",
+    "set_production_environment": "Vendos mjedisin e prodhimit",
     "delay_notification": "Njoftimi me vonesë",
-    "notification_delay_debugging_is": "Korrigjimi i vonesës së njoftimit është",
+    "notification_delay_debugging_is": "Vonesa e njoftimit është",
     "banner_enable": "Aktivizo bannerin",
     "banner": "Banner",
     "show_details": "Shfaq detajet",
@@ -858,7 +858,7 @@
     "donation_success_toast": "Donacioni është kryer me sukses",
     "donation_success": "Faleminderit për donacionin tuaj, Allahu ju shpërbleftë",
     "donation_failed": "Donacioni dështoi",
-    "donate_for_good": "DHURONI PËR BAMIRËSI",
+    "donate_for_good": "DHURONI PËR TË MIRË",
     "enter_amount_hint": "Vendosni shumën",
     "enter_donation_amount": "Shkruani shumën e donacionit",
     "google_pay_not_available": "Google Pay nuk është i disponueshëm në këtë pajisje",
@@ -877,7 +877,7 @@
     "save": "Ruaj",
     "main_mosque": "Xhamia kryesore",
     "mosques": "Xhamitë",
-    "no_news": "Nuk ka lajme nga xhamia",
+    "no_news": "Nuk ka njoftime të reja nga xhamia",
     "mawaqit_notification": "Njoftim nga Mawaqit",
     "no_mawaqit_notification": "Nuk ka njoftime nga Mawaqit",
     "meccan": "Mekase",
@@ -900,7 +900,7 @@
     "remove_page_bookmarks": "Hiqeni faqen nga shënime",
     "no_bookmarks": "Nuk ka shënime",
     "liked": "Pëlqyer",
-    "all_recitators": "Të gjithë recituesit",
+    "all_recitators": "Të gjithë lexuesit",
     "downloaded": "E shkarkuar",
     "search_for_recitator": "Kërkoni një recitues",
     "search_for_surah": "Kërkoni një sure",
@@ -1209,7 +1209,7 @@
     "unknown_smartwatch": "Orë inteligjente e panjohur",
     "connected_watch": "Ora e lidhur",
     "ready_play_watch": "është gati për t’u dëgjuar në orën tuaj inteligjente",
-    "transliteration": "Shkrimi me shkronja latine",
+    "transliteration": "Transliterimi",
     "highlight_Tahajjud_Time": "Theksoni kohën e tehexhudit",
     "@highlight_Tahajjud_Time": {
         "description": "->highlight_Tahajjud_Time"
@@ -1220,8 +1220,8 @@
     "calendar_allow_access_button": "Lejo qasjën në kalendar",
     "calendar_loading": "Kalendarët po ngarkohen…",
     "calendar_select_for_mawaqit": "Zgjidhni kalendarët që dëshironi të shfaqni në MAWAQIT 360.",
-    "calendar_enable_all": "Aktivizojini të gjithë",
-    "calendar_disable_all": "Çaktivizojini të gjithë",
+    "calendar_enable_all": "Aktivizoni të gjithë",
+    "calendar_disable_all": "Çaktivizoni të gjithë",
     "calendar_other_calendars": "Kalendarët e tjerë",
     "calendar_times_shown_in": "Kohët shfaqen sipas zonës kohore",
     "calendar_starts_on": "Fillon më",
@@ -1248,7 +1248,7 @@
     "@live_timer": {
         "description": "live_timer"
     },
-    "notify_before": "Njoftomë paraprakisht",
+    "notify_before": "Njofto paraprakisht",
     "@notify_before": {
         "description": "notify_before"
     },
@@ -1271,7 +1271,7 @@
     "tajwid_rules": "Rregullat e texhvidit",
     "examples": "Shembuj",
     "real_time_weather": "Moti në kohë reale",
-    "layout": "Stili",
+    "layout": "Pamja",
     "list": "Listë",
     "grid": "Rrjetë",
     "real_time_weather_needs_internet": "Për të përditësuar të dhënat e motit në kohë reale, nevojitet lidhje me internetin.",
@@ -1314,8 +1314,8 @@
     "next_prayer": "Namazi i ardhshëm",
     "live_countdown_for_all_pray": "Numërimi mbrapsht në kohë reale do të jetë aktiv për të gjitha namazet, duke shfaqur automatikisht kohën e mbetur deri në çdo namaz të ardhshëm.",
     "live_countdown": "Numërim mbrapsht në kohë reale",
-    "quick_quran_reading_access": "Qasje e shpejtë për leximin e Kuranit",
-    "quick_quran_discription": "Pasi të hapni skedën e Kuranit, vazhdoni aty ku keni mbetur.",
+    "quick_quran_reading_access": "Qasje e shpejtë në leximin e Kuranit",
+    "quick_quran_discription": "Kur të hapni skedën e Kuranit, mund të vazhdoni leximin aty ku e keni ndërprerë.",
     "live_activity_tooltip": "Aktivitetet e drejtpërdrejta shfaqen në Ekranin e Bllokuar dhe në Dynamic Island (nëse mbështetet). Kur janë të aktivizuara, një kohëmatës në kohë reale tregon sa ka mbetur deri në namazin e ardhshëm ose deri në ikametin e radhës.",
     "prayer": "Namazet",
     "weather_fahrenheit": "°F",
@@ -1323,8 +1323,8 @@
         "description": "-> weather_fahrenheit"
     },
     "weather_your_location": "Tregon motin për vendndodhjen tuaj, jo për xhaminë.",
-    "view_360_currently_selected": "Pamja 360 është zgjedhur aktualisht",
-    "tap_change_layout": "Prekni këtu për të ndryshuar stilin",
+    "view_360_currently_selected": "Aktualisht është përzgjedhur pamja 360",
+    "tap_change_layout": "Prekni këtu për të ndryshuar pamjen",
     "step": "Hap",
     "@step": {
         "description": "-> step"
@@ -1355,7 +1355,7 @@
     },
     "tap_change_notification": "Prek për të ndryshuar njoftimin",
     "adhan_at": "Ezani në",
-    "semantic_mawaqit_notification": "njoftime të palexuara nga MAWAQIT",
+    "semantic_mawaqit_notification": "njoftimet e palexuara nga MAWAQIT",
     "semantic_open_notifications": "Hap njoftimet",
     "semantic_tap_to_change_notification": "Prek për të ndryshuar preferencat e njoftimeve",
     "semantic_edit_mosques": "Hapeni për të menaxhuar xhamitë tuaja",
@@ -1534,7 +1534,7 @@
     "@semantic_favorite": {
         "description": "-> semantic_favorite"
     },
-    "semantic_added_to_favorites": "U shtua te të preferuarat",
+    "semantic_added_to_favorites": "U shtua në listën e të preferuarave",
     "@semantic_added_to_favorites": {
         "description": "-> semantic_added_to_favorites"
     },
@@ -1556,8 +1556,8 @@
     "semantic_device": "Pajisja",
     "semantic_light": "E ndritshme",
     "semantic_dark": "E errët",
-    "semantic_on": "Ndezur",
-    "semantic_off": "Fikur",
+    "semantic_on": "Aktiv",
+    "semantic_off": "Joaktiv",
     "semantic_ayah_list_actions": "Opsionet e listës së ajeteve",
     "remove_bookmark": "Hiqni shënues",
     "add_bookmark": "Shtoni shënues",
@@ -1619,7 +1619,7 @@
     "admin_adminTileSubtitle": "Njoftimet, preferencat e namazit dhe ezani",
     "admin_signInHeadline": "Menaxhoni xhaminë tuaj",
     "admin_signInIntro": "Hyni me llogarinë që përdorni në mawaqit.net për të menaxhuar xhamitë që administroni.",
-    "admin_capabilityMessages": "Publikoni njoftime dhe një mesazh të shkurtër",
+    "admin_capabilityMessages": "Publikoni njoftime dhe mesazhe të shkurtra",
     "admin_capabilityTimes": "Caktoni kohët e ikametit, xhumasë dhe namazit të Bajramit",
     "admin_capabilityAdhan": "Zgjidhni ezanin dhe mënyrën e lëshimit të tij",
     "admin_notAnAdminTitle": "Nuk jeni ende administrator?",
@@ -1658,8 +1658,8 @@
     "admin_sectionNotYet": "Ndryshimi në aplikacion nuk është ende i mundur",
     "admin_iqamaEnabled": "Ikameti i aktivizuar",
     "admin_iqamaEnabledHelp": "Nëse e çaktivizoni këtë opsion, në ekranin e xhamisë nuk do të shfaqen më kohët e pritjes, sinjali i ikametit dhe duatë pas namazit.",
-    "admin_iqamaWaitingTimes": "KOHA NGA EZANI DERI NË IKAMET (MINUTA)",
-    "admin_iqamaSignal": "SINJALI I IKAMETIT",
+    "admin_iqamaWaitingTimes": "KOHA E PRITJES PAS EZANIT (MINUTA)",
+    "admin_iqamaSignal": "SINJALIZIMI I IKAMETIT",
     "admin_iqamaSound": "Tingulli",
     "admin_iqamaCountdown": "Koha e mbetur në ekran të plotë",
     "admin_iqamaDisplayTime": "Kohëzgjatja e shfaqjes së njoftimit për ikamet",
