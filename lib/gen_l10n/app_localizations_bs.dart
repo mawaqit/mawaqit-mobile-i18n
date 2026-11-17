@@ -3011,7 +3011,7 @@ class AppLocalizationsBs extends AppLocalizations {
   String get admin_chipScreen => 'Ekran';
 
   @override
-  String get admin_chipMobile => 'Mobilni';
+  String get admin_chipMobile => 'Telefon';
 
   @override
   String get admin_statusEnabled => 'Uključeno';
