@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Përditësimet drejtpërdrejt shfaqen në panelin e njoftimeve dhe në ekranin e kyçjes (në varësi të pajisjes dhe versionit të Android). Kur aktivizohet, një kohëmatës në kohë reale tregon numërimin mbrapsht deri në namazin e ardhshëm ose ikametin.",
     "alarms_permission_disabled": "Leja e alarmeve është çaktivizuar",
     "full_adhan_cant_play_alarms_disabled": "Ezani i plotë nuk mund të luhet sepse leja e alarmeve është çaktivizuar.",
-    "allow_alarms_in_settings": "Lejoni alarmet për MAWAQIT te Preferencat e iPhone-it, në mënyrë që ezani të dëgjohet i plotë."
+    "allow_alarms_in_settings": "Lejoni alarmet për MAWAQIT te Preferencat e iPhone-it, në mënyrë që ezani të dëgjohet i plotë.",
+    "qibla_turn_right": "Kthehuni djathtas",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Kthehuni majtas",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Kalibroni busullën",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }
