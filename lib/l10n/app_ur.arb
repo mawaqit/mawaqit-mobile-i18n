@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "لائیو اپ ڈیٹس آپ کے نوٹیفکیشن پینل اور لاک اسکرین پر ظاہر ہوتی ہیں (ڈیوائس اور اینڈرائیڈ ورژن کے مطابق)۔ فعال ہونے پر، ایک لائیو ٹائمر اگلی نماز یا اقامت تک باقی وقت دکھاتا ہے۔",
     "alarms_permission_disabled": "الارم کی اجازت غیر فعال ہے",
     "full_adhan_cant_play_alarms_disabled": "مکمل اذان نہیں چلائی جا سکتی کیونکہ الارم کی اجازت غیر فعال ہے۔",
-    "allow_alarms_in_settings": "مکمل اذان چلانے کے لیے iPhone کی سیٹنگز میں MAWAQIT کے لیے الارم کی اجازت دیں۔"
+    "allow_alarms_in_settings": "مکمل اذان چلانے کے لیے iPhone کی سیٹنگز میں MAWAQIT کے لیے الارم کی اجازت دیں۔",
+    "qibla_turn_right": "دائیں مڑیں",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "بائیں مڑیں",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "کمپاس کیلیبریٹ کریں",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

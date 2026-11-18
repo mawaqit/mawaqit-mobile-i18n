@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "نوێکارییە زیندووەکان لە پانێڵی ئاگادارکردنەوەکان و شاشەی قفڵکراوتدا پیشان دەدرێن (بەپێی ئامێرەکە و وەشانی ئەندرۆید). کاتێک چالاک دەکرێت، تایمەرێکی زیندوو کاتی ماوە تا نوێژی داهاتوو یان ئیقامە پیشان دەدات.",
     "alarms_permission_disabled": "ڕێگەپێدانی ئاڵارمەکان ناچالاک کراوە",
     "full_adhan_cant_play_alarms_disabled": "ئەذانی تەواو ناتوانرێت پەخش بکرێت چونکە ڕێگەپێدانی ئاڵارمەکان ناچالاک کراوە.",
-    "allow_alarms_in_settings": "لە ڕێکخستنەکانی iPhone ڕێگە بە ئاڵارمەکانی MAWAQIT بدە بۆ ئەوەی ئەذانی تەواو پەخش بکرێت."
+    "allow_alarms_in_settings": "لە ڕێکخستنەکانی iPhone ڕێگە بە ئاڵارمەکانی MAWAQIT بدە بۆ ئەوەی ئەذانی تەواو پەخش بکرێت.",
+    "qibla_turn_right": "بەلای ڕاستدا بسووڕێوە",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "بەلای چەپدا بسووڕێوە",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "ڕێکخستنەوەی قیبلەنما",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

@@ -3456,4 +3456,13 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Tam ezanın çalabilmesi için iPhone Ayarları\'nda MAWAQIT için alarmlara izin verin.';
+
+  @override
+  String get qibla_turn_right => 'Sağa dönün';
+
+  @override
+  String get qibla_turn_left => 'Sola dönün';
+
+  @override
+  String get qibla_calibrate_compass => 'Pusulayı kalibre edin';
 }

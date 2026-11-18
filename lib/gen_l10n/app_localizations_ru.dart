@@ -3487,4 +3487,13 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Разрешить будильники для MAWAQIT в настройках iPhone, чтобы играть полный Adhan.';
+
+  @override
+  String get qibla_turn_right => 'Повернитесь направо';
+
+  @override
+  String get qibla_turn_left => 'Повернитесь налево';
+
+  @override
+  String get qibla_calibrate_compass => 'Откалибруйте компас';
 }

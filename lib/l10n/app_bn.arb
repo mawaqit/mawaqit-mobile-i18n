@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "লাইভ আপডেটগুলি আপনার নোটিফিকেশন প্যানেলে এবং লক স্ক্রিনে দেখা যায় (ডিভাইস ও অ্যান্ড্রয়েড সংস্করণের ওপর নির্ভর করে)। চালু থাকলে, একটি লাইভ টাইমার পরবর্তী নামাজ বা ইকামত পর্যন্ত বাকি সময় গণনা করে দেখায়।",
     "alarms_permission_disabled": "অ্যালার্মের অনুমতি বন্ধ আছে",
     "full_adhan_cant_play_alarms_disabled": "অ্যালার্মের অনুমতি বন্ধ থাকায় সম্পূর্ণ আজান চালানো যাচ্ছে না।",
-    "allow_alarms_in_settings": "সম্পূর্ণ আজান চালানোর জন্য iPhone-এর সেটিংসে MAWAQIT-এর অ্যালার্ম অনুমতি দিন।"
+    "allow_alarms_in_settings": "সম্পূর্ণ আজান চালানোর জন্য iPhone-এর সেটিংসে MAWAQIT-এর অ্যালার্ম অনুমতি দিন।",
+    "qibla_turn_right": "ডানে ঘুরুন",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "বামে ঘুরুন",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "কম্পাস ক্যালিব্রেট করুন",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

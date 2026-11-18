@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Canlı yeniləmələr bildiriş panelində və kilid ekranında görünür (cihazdan və Android versiyasından asılı olaraq). Aktiv edildikdə, canlı taymer növbəti namaza və ya iqaməyə qədər geri sayımı göstərir.",
     "alarms_permission_disabled": "Alarms permission disabled",
     "full_adhan_cant_play_alarms_disabled": "Full Adhan can't play because the Alarms permission is disabled.",
-    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play."
+    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.",
+    "qibla_turn_right": "Sağa dönün",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Sola dönün",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Kompası kalibrləyin",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Gli aggiornamenti in tempo reale vengono visualizzati nel pannello delle notifiche e nella schermata di blocco (a seconda del dispositivo e della versione di Android). Quando è attivo, un timer in tempo reale mostra il conto alla rovescia fino alla prossima preghiera o all'iqama.",
     "alarms_permission_disabled": "Autorizzazione allarmi disabilitata",
     "full_adhan_cant_play_alarms_disabled": "Adhan completo non può giocare perché il permesso degli avvisi è disabilitato.",
-    "allow_alarms_in_settings": "Consenti allarmi per MAWAQIT nelle impostazioni iPhone in modo che Adhan possa giocare completamente."
+    "allow_alarms_in_settings": "Consenti allarmi per MAWAQIT nelle impostazioni iPhone in modo che Adhan possa giocare completamente.",
+    "qibla_turn_right": "Gira a destra",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Gira a sinistra",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Calibra la bussola",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

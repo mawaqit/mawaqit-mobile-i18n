@@ -3511,4 +3511,13 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Erlaube Alarme für MAWAQIT in den iPhone-Einstellungen, damit der volle Adhan spielen kann.';
+
+  @override
+  String get qibla_turn_right => 'Nach rechts drehen';
+
+  @override
+  String get qibla_turn_left => 'Nach links drehen';
+
+  @override
+  String get qibla_calibrate_compass => 'Kompass kalibrieren';
 }

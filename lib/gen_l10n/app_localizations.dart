@@ -6559,6 +6559,27 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.'**
   String get allow_alarms_in_settings;
+
+  /// qibla_turn_right
+  /// Qibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. "TURN RIGHT · 23°".
+  ///
+  /// In en, this message translates to:
+  /// **'Turn right'**
+  String get qibla_turn_right;
+
+  /// qibla_turn_left
+  /// Qibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. "TURN LEFT · 23°".
+  ///
+  /// In en, this message translates to:
+  /// **'Turn left'**
+  String get qibla_turn_left;
+
+  /// qibla_calibrate_compass
+  /// Qibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative.
+  ///
+  /// In en, this message translates to:
+  /// **'Calibrate compass'**
+  String get qibla_calibrate_compass;
 }
 
 class _AppLocalizationsDelegate

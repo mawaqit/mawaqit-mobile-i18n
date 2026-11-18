@@ -3439,4 +3439,13 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'السماح بالتنبيهات لـ MAWAQT في إعدادات iPhone حتى يتمكن Adhan من اللعب.';
+
+  @override
+  String get qibla_turn_right => 'استدر يمينًا';
+
+  @override
+  String get qibla_turn_left => 'استدر يسارًا';
+
+  @override
+  String get qibla_calibrate_compass => 'معايرة البوصلة';
 }

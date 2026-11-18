@@ -3472,4 +3472,13 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'تولۇق ئەزاننى قويۇش ئۈچۈن iPhone تەڭشەكلىرىدە MAWAQIT ئۈچۈن ئاگاھلاندۇرۇشلارغا رۇخسەت قىلىڭ.';
+
+  @override
+  String get qibla_turn_right => 'ئوڭغا بۇرۇلۇڭ';
+
+  @override
+  String get qibla_turn_left => 'سولغا بۇرۇلۇڭ';
+
+  @override
+  String get qibla_calibrate_compass => 'كومپاسنى توغرىلاڭ';
 }

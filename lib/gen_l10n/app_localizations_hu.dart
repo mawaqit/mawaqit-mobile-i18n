@@ -3490,4 +3490,13 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Engedélyezze a MAWAQIT ébresztőit az iPhone beállításaiban, hogy a teljes adhan lejátszható legyen.';
+
+  @override
+  String get qibla_turn_right => 'Fordulj jobbra';
+
+  @override
+  String get qibla_turn_left => 'Fordulj balra';
+
+  @override
+  String get qibla_calibrate_compass => 'Iránytű kalibrálása';
 }

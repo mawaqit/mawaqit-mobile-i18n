@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Canlı güncellemeler, bildirim panelinizde ve kilit ekranınızda görünür (cihaza ve Android sürümüne bağlı olarak). Etkinleştirildiğinde, canlı bir sayaç bir sonraki namaza veya ikamete kalan süreyi gösterir.",
     "alarms_permission_disabled": "Alarmlara izin verilmedi",
     "full_adhan_cant_play_alarms_disabled": "Tam ezan çalınamıyor çünkü alarm izni devre dışı.",
-    "allow_alarms_in_settings": "Tam ezanın çalabilmesi için iPhone Ayarları'nda MAWAQIT için alarmlara izin verin."
+    "allow_alarms_in_settings": "Tam ezanın çalabilmesi için iPhone Ayarları'nda MAWAQIT için alarmlara izin verin.",
+    "qibla_turn_right": "Sağa dönün",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Sola dönün",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Pusulayı kalibre edin",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

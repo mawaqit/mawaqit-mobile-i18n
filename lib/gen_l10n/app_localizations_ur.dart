@@ -3461,4 +3461,13 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'مکمل اذان چلانے کے لیے iPhone کی سیٹنگز میں MAWAQIT کے لیے الارم کی اجازت دیں۔';
+
+  @override
+  String get qibla_turn_right => 'دائیں مڑیں';
+
+  @override
+  String get qibla_turn_left => 'بائیں مڑیں';
+
+  @override
+  String get qibla_calibrate_compass => 'کمپاس کیلیبریٹ کریں';
 }

@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Live-päivitykset näkyvät ilmoituspaneelissa ja lukitusnäytössä (laitteesta ja Android-versiosta riippuen). Kun toiminto on käytössä, reaaliaikainen ajastin näyttää lähtölaskennan seuraavaan rukoushetkeen tai iqamaan.",
     "alarms_permission_disabled": "Alarms permission disabled",
     "full_adhan_cant_play_alarms_disabled": "Full Adhan can't play because the Alarms permission is disabled.",
-    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play."
+    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.",
+    "qibla_turn_right": "Käänny oikealle",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Käänny vasemmalle",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Kalibroi kompassi",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

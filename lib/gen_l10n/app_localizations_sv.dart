@@ -3464,4 +3464,13 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Tillåt larm för MAWAQIT i iPhone-inställningar så att hela böneutropet kan spela.';
+
+  @override
+  String get qibla_turn_right => 'Vänd dig åt höger';
+
+  @override
+  String get qibla_turn_left => 'Vänd dig åt vänster';
+
+  @override
+  String get qibla_calibrate_compass => 'Kalibrera kompassen';
 }

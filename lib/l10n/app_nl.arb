@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Live-updates verschijnen in je meldingenpaneel en op je vergrendelscherm (afhankelijk van je apparaat en Android-versie). Wanneer deze functie is ingeschakeld, toont een live timer het aftellen tot het volgende gebed of de iqama.",
     "alarms_permission_disabled": "Toestemming voor alarmen uitgeschakeld",
     "full_adhan_cant_play_alarms_disabled": "De volledige adhan kan niet worden afgespeeld omdat de toestemming voor alarmen is uitgeschakeld.",
-    "allow_alarms_in_settings": "Sta alarmen toe voor MAWAQIT in iPhone-instellingen zodat de volledige Adhan kan spelen."
+    "allow_alarms_in_settings": "Sta alarmen toe voor MAWAQIT in iPhone-instellingen zodat de volledige Adhan kan spelen.",
+    "qibla_turn_right": "Draai naar rechts",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Draai naar links",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Kompas kalibreren",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

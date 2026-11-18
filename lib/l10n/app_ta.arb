@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "நேரலைப் புதுப்பிப்புகள் உங்கள் அறிவிப்புப் பலகையிலும் பூட்டுத் திரையிலும் தோன்றும் (சாதனம் மற்றும் Android பதிப்பைப் பொறுத்து). இயக்கப்பட்டிருக்கும்போது, அடுத்த தொழுகை அல்லது இகாமாவிற்கு மீதமுள்ள நேரத்தை நேரலை டைமர் காட்டும்.",
     "alarms_permission_disabled": "Alarms permission disabled",
     "full_adhan_cant_play_alarms_disabled": "Full Adhan can't play because the Alarms permission is disabled.",
-    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play."
+    "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.",
+    "qibla_turn_right": "வலதுபுறம் திரும்பவும்",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "இடதுபுறம் திரும்பவும்",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "திசைகாட்டியை அளவீடு செய்யவும்",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }

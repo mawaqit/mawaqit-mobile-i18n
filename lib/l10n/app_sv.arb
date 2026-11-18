@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Liveuppdateringar visas i aviseringspanelen och på låsskärmen (beroende på enhet och Android-version). När funktionen är aktiverad visar en live nedräkningen till nästa bön eller bönens början.",
     "alarms_permission_disabled": "Behörighet för alarm inaktiverad",
     "full_adhan_cant_play_alarms_disabled": "Full böneutrop kan inte spela eftersom alarm behörigheten är inaktiverad.",
-    "allow_alarms_in_settings": "Tillåt larm för MAWAQIT i iPhone-inställningar så att hela böneutropet kan spela."
+    "allow_alarms_in_settings": "Tillåt larm för MAWAQIT i iPhone-inställningar så att hela böneutropet kan spela.",
+    "qibla_turn_right": "Vänd dig åt höger",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Vänd dig åt vänster",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Kalibrera kompassen",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }
