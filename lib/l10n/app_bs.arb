@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Prikaz uživo prikazuje se u panelu s obavijestima i na zaključanom ekranu (ovisno o uređaju i verziji Androida). Kada je ova opcija omogućena, prikazuje se odbrojavanje do sljedećeg namaskog vremena ili ikameta.",
     "alarms_permission_disabled": "Dozvola za alarme je onemogućena",
     "full_adhan_cant_play_alarms_disabled": "Cijeli ezan se ne može reproducirati jer je dozvola za alarme onemogućena.",
-    "allow_alarms_in_settings": "Dozvolite alarme za MAWAQIT u postavkama iPhonea kako bi se mogao reproducirati cijeli ezan."
+    "allow_alarms_in_settings": "Dozvolite alarme za MAWAQIT u postavkama iPhonea kako bi se mogao reproducirati cijeli ezan.",
+    "qibla_turn_right": "Okrenite se udesno",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Okrenite se ulijevo",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Kalibrirajte kompas",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }
