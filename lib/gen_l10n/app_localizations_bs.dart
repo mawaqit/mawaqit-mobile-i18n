@@ -3496,4 +3496,13 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Dozvolite alarme za MAWAQIT u postavkama iPhonea kako bi se mogao reproducirati cijeli ezan.';
+
+  @override
+  String get qibla_turn_right => 'Okrenite se udesno';
+
+  @override
+  String get qibla_turn_left => 'Okrenite se ulijevo';
+
+  @override
+  String get qibla_calibrate_compass => 'Kalibrirajte kompas';
 }

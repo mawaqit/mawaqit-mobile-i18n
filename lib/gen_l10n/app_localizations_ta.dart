@@ -3472,4 +3472,13 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
+
+  @override
+  String get qibla_turn_right => 'வலதுபுறம் திரும்பவும்';
+
+  @override
+  String get qibla_turn_left => 'இடதுபுறம் திரும்பவும்';
+
+  @override
+  String get qibla_calibrate_compass => 'திசைகாட்டியை அளவீடு செய்யவும்';
 }

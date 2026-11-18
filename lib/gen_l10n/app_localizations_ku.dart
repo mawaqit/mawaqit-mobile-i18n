@@ -3477,4 +3477,13 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'لە ڕێکخستنەکانی iPhone ڕێگە بە ئاڵارمەکانی MAWAQIT بدە بۆ ئەوەی ئەذانی تەواو پەخش بکرێت.';
+
+  @override
+  String get qibla_turn_right => 'بەلای ڕاستدا بسووڕێوە';
+
+  @override
+  String get qibla_turn_left => 'بەلای چەپدا بسووڕێوە';
+
+  @override
+  String get qibla_calibrate_compass => 'ڕێکخستنەوەی قیبلەنما';
 }

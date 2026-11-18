@@ -3509,4 +3509,13 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Lejoni alarmet për MAWAQIT te Preferencat e iPhone-it, në mënyrë që ezani të dëgjohet i plotë.';
+
+  @override
+  String get qibla_turn_right => 'Kthehuni djathtas';
+
+  @override
+  String get qibla_turn_left => 'Kthehuni majtas';
+
+  @override
+  String get qibla_calibrate_compass => 'Kalibroni busullën';
 }

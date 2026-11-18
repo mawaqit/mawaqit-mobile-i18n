@@ -3473,4 +3473,13 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'সম্পূর্ণ আজান চালানোর জন্য iPhone-এর সেটিংসে MAWAQIT-এর অ্যালার্ম অনুমতি দিন।';
+
+  @override
+  String get qibla_turn_right => 'ডানে ঘুরুন';
+
+  @override
+  String get qibla_turn_left => 'বামে ঘুরুন';
+
+  @override
+  String get qibla_calibrate_compass => 'কম্পাস ক্যালিব্রেট করুন';
 }

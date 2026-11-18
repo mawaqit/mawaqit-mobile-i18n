@@ -3473,4 +3473,13 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'Izinkan Alarm untuk MAWAQIT di Pengaturan iPhone agar Adzan lengkap dapat diputar.';
+
+  @override
+  String get qibla_turn_right => 'Putar ke kanan';
+
+  @override
+  String get qibla_turn_left => 'Putar ke kiri';
+
+  @override
+  String get qibla_calibrate_compass => 'Kalibrasi kompas';
 }

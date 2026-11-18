@@ -3456,6 +3456,15 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get allow_alarms_in_settings =>
       'در تنظیمات iPhone، اجازه هشدارها را برای MAWAQIT فعال کنید تا اذان کامل پخش شود.';
+
+  @override
+  String get qibla_turn_right => 'به راست بچرخید';
+
+  @override
+  String get qibla_turn_left => 'به چپ بچرخید';
+
+  @override
+  String get qibla_calibrate_compass => 'کالیبره کردن قطب‌نما';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6919,4 +6928,13 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get allow_alarms_in_settings =>
       'Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.';
+
+  @override
+  String get qibla_turn_right => 'به راست بچرخید';
+
+  @override
+  String get qibla_turn_left => 'به چپ بچرخید';
+
+  @override
+  String get qibla_calibrate_compass => 'کالیبره کردن قطب‌نما';
 }
