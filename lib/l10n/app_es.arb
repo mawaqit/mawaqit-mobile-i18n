@@ -1,5 +1,5 @@
 {
-    "@@locale": "es",
+    "@@locale": "es-ES",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2139,5 +2139,17 @@
     "live_activity_tooltip_android": "Las actualizaciones en tiempo real aparecen en el panel de notificaciones y en la pantalla de bloqueo (según el dispositivo y la versión de Android). Cuando está activado, un temporizador en tiempo real muestra la cuenta atrás hasta la próxima oración o iqama.",
     "alarms_permission_disabled": "Permiso de alarmas desactivado",
     "full_adhan_cant_play_alarms_disabled": "El Adhan Completo no puede jugar porque el permiso de Alarmas está deshabilitado.",
-    "allow_alarms_in_settings": "Permitir alarmas para MAWAQIT en los ajustes del iPhone para que el Adhan completo pueda jugar."
+    "allow_alarms_in_settings": "Permitir alarmas para MAWAQIT en los ajustes del iPhone para que el Adhan completo pueda jugar.",
+    "qibla_turn_right": "Gire a la derecha",
+    "@qibla_turn_right": {
+        "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
+    },
+    "qibla_turn_left": "Gire a la izquierda",
+    "@qibla_turn_left": {
+        "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
+    },
+    "qibla_calibrate_compass": "Calibre la brújula",
+    "@qibla_calibrate_compass": {
+        "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    }
 }
