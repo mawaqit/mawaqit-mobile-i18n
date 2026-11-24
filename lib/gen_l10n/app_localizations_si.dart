@@ -3477,62 +3477,62 @@ class AppLocalizationsSi extends AppLocalizations {
   String get qibla_calibrate_compass => 'මාලිමාව ක්‍රමාංකනය කරන්න';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'දින දර්ශනයට එක් කරන්න';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'ඔබේ දින දර්ශනයේ $mosqueName හි සලාත් වේලාවන්ට දායක වන්න.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'මෙය එක් වරක ආයාත කිරීමක් නොව සජීවී දායකත්වයකි: පල්ලිය වේලාවන් වෙනස් කළ විට ඔබේ දින දර්ශනය ස්වයංක්‍රීයව යාවත්කාලීන වේ. නැවුම් කරන්නේ කවදාදැයි ඔබේ දින දර්ශන යෙදුම තීරණය කරයි, එබැවින් වෙනසක් පෙන්වීමට දිනක් දක්වා ගත විය හැක.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Apple දින දර්ශනයට එක් කරන්න';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'සබැඳිය පිටපත් කරන්න';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'කිසිදු යෙදුමකට දින දර්ශන සබැඳිය විවෘත කිරීමට නොහැකි විය. සබැඳිය පිටපත් කර එය ඔබේ දින දර්ශනයට අතින් එක් කරන්න.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return '$mosqueName හි සලාත් වේලාවන් ඔබේ දුරකථනයේ දින දර්ශනයකට එක් කරන්න. ඔබ යෙදුම විවෘත කරන සෑම විටම MAWAQIT ඉදිරි දින 60 යාවත්කාලීනව තබයි.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'මගේ දින දර්ශනයට එක් කරන්න';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'දින දර්ශනයක් තෝරන්න';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'සලාත් වේලාවන් $calendarName වෙත එක් කරන ලදී';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'මගේ දින දර්ශනයෙන් ඉවත් කරන්න';
 
   @override
   String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+      'සලාත් වේලාවන් ඔබේ දින දර්ශනයෙන් ඉවත් කරන ලදී';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'සබැඳියක් මගින් දායක වන්න';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'ස්වයංක්‍රීයව යාවත්කාලීන වන දින දර්ශනයක් සඳහා, පල්ලියේ සබැඳියට දායක වන්න.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'සබැඳිය පිටපත් කරන්න.\nඔබේ දින දර්ශන යෙදුමේ “දායකත්වය එක් කරන්න” හෝ “URL වෙතින්” සොයන්න.\nසබැඳිය අලවා සුරකින්න.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'ඔබේ දින දර්ශන යෙදුමට සබැඳියක් එක් කළ නොහැකි නම්, බ්‍රවුසරයක හෝ පරිගණකයක ඔබේ දින දර්ශනය විවෘත කර එහි එක් කරන්න.';
 }

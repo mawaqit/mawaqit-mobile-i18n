@@ -3475,62 +3475,61 @@ class AppLocalizationsSv extends AppLocalizations {
   String get qibla_calibrate_compass => 'Kalibrera kompassen';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'Lägg till i kalendern';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'Prenumerera på bönetiderna för $mosqueName i din kalender.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'Det är en liveprenumeration, inte en engångsimport: när moskén ändrar sina tider uppdateras din kalender av sig själv. Din kalenderapp bestämmer när den uppdateras, så det kan ta upp till ett dygn innan en ändring syns.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Lägg till i Apple Kalender';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'Kopiera länk';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'Ingen app kunde öppna kalenderlänken. Kopiera länken och lägg till den i din kalender manuellt.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return 'Lägg till bönetiderna för $mosqueName i en kalender på din telefon. MAWAQIT håller de kommande 60 dagarna uppdaterade varje gång du öppnar appen.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'Lägg till i min kalender';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'Välj en kalender';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'Bönetider tillagda i $calendarName';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'Ta bort från min kalender';
 
   @override
-  String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+  String get calendar_write_removed => 'Bönetider borttagna från din kalender';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'Prenumerera med en länk';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'För en kalender som uppdateras av sig själv, prenumerera på moskéns länk.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'Kopiera länken.\nLeta efter ”Lägg till prenumeration” eller ”Från URL” i din kalenderapp.\nKlistra in länken och spara.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'Om din kalenderapp inte kan lägga till en länk kan du öppna kalendern i en webbläsare eller på en dator och lägga till den där.';
 }

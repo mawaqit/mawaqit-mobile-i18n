@@ -3480,62 +3480,61 @@ class AppLocalizationsAz extends AppLocalizations {
   String get qibla_calibrate_compass => 'Kompası kalibrləyin';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'Təqvimə əlavə et';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return '$mosqueName namaz vaxtlarına təqviminizdə abunə olun.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'Bu birdəfəlik idxal deyil, canlı abunədir: məscid vaxtlarını dəyişəndə təqviminiz özü yenilənir. Nə vaxt yenilənəcəyinə təqvim tətbiqiniz qərar verir, ona görə dəyişikliyin görünməsi bir günə qədər çəkə bilər.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Apple Təqviminə əlavə et';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'Linki kopyala';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'Heç bir tətbiq təqvim linkini aça bilmədi. Linki kopyalayın və təqviminizə əl ilə əlavə edin.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return '$mosqueName namaz vaxtlarını telefonunuzdakı təqvimə əlavə edin. Tətbiqi hər açdığınızda MAWAQIT növbəti 60 günü yeniləyir.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'Təqvimimə əlavə et';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'Təqvim seçin';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'Namaz vaxtları bu təqvimə əlavə edildi: $calendarName';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'Təqvimimdən sil';
 
   @override
-  String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+  String get calendar_write_removed => 'Namaz vaxtları təqviminizdən silindi';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'Link ilə abunə ol';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'Özü yenilənən təqvim üçün məscidin linkinə abunə olun.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'Linki kopyalayın.\nTəqvim tətbiqinizdə “Abunə əlavə et” və ya “URL-dən” seçimini axtarın.\nLinki yapışdırın və yadda saxlayın.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'Təqvim tətbiqiniz link əlavə edə bilmirsə, təqviminizi brauzerdə və ya kompüterdə açıb orada əlavə edin.';
 }

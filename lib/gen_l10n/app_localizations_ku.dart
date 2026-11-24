@@ -3488,62 +3488,61 @@ class AppLocalizationsKu extends AppLocalizations {
   String get qibla_calibrate_compass => 'ڕێکخستنەوەی قیبلەنما';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'زیادکردن بۆ ڕۆژژمێر';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'لە ڕۆژژمێرەکەتدا بەشداری کاتەکانی نوێژی $mosqueName بکە.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'ئەمە بەشدارییەکی ڕاستەوخۆیە، نەک هاوردەکردنێکی یەکجارەکی: کاتێک مزگەوت کاتەکانی دەگۆڕێت، ڕۆژژمێرەکەت خۆی نوێ دەبێتەوە. ئەپی ڕۆژژمێرەکەت بڕیار دەدات کەی نوێ ببێتەوە، بۆیە لەوانەیە دەرکەوتنی گۆڕانکارییەک تا ڕۆژێک بخایەنێت.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'زیادکردن بۆ ڕۆژژمێری Apple';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'لەبەرگرتنەوەی بەستەر';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'هیچ ئەپێک نەیتوانی بەستەری ڕۆژژمێرەکە بکاتەوە. بەستەرەکە لەبەر بگرەوە و بە دەستی زیادی بکە بۆ ڕۆژژمێرەکەت.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return 'کاتەکانی نوێژی $mosqueName زیاد بکە بۆ ڕۆژژمێرێک لە مۆبایلەکەتدا. مەواقیت هەر جارێک ئەپەکە بکەیتەوە، 60 ڕۆژی داهاتوو نوێ دەکاتەوە.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'زیادکردن بۆ ڕۆژژمێرەکەم';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'ڕۆژژمێرێک هەڵبژێرە';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'کاتەکانی نوێژ زیادکران بۆ $calendarName';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'لابردن لە ڕۆژژمێرەکەم';
 
   @override
-  String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+  String get calendar_write_removed => 'کاتەکانی نوێژ لە ڕۆژژمێرەکەت لابران';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'بەشداریکردن بە بەستەر';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'بۆ ڕۆژژمێرێک کە خۆی نوێ دەبێتەوە، بەشداری بەستەری مزگەوتەکە بکە.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'بەستەرەکە لەبەر بگرەوە.\nلە ئەپی ڕۆژژمێرەکەتدا بەدوای «زیادکردنی بەشداریکردن» یان «لە URL» بگەڕێ.\nبەستەرەکە بلکێنە و پاشەکەوتی بکە.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'ئەگەر ئەپی ڕۆژژمێرەکەت ناتوانێت بەستەر زیاد بکات، ڕۆژژمێرەکەت لە وێبگەڕێک یان کۆمپیوتەرێکدا بکەرەوە و لەوێ زیادی بکە.';
 }

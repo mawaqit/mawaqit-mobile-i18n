@@ -3472,62 +3472,62 @@ class AppLocalizationsUr extends AppLocalizations {
   String get qibla_calibrate_compass => 'کمپاس کیلیبریٹ کریں';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'کیلنڈر میں شامل کریں';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'اپنے کیلنڈر میں $mosqueName کے نماز کے اوقات کو سبسکرائب کریں۔';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'یہ براہِ راست سبسکرپشن ہے، ایک بار کی درآمد نہیں: جب مسجد اپنے اوقات بدلتی ہے تو آپ کا کیلنڈر خود بخود اپ ڈیٹ ہو جاتا ہے۔ ریفریش کب ہو، یہ آپ کی کیلنڈر ایپ طے کرتی ہے، اس لیے کسی تبدیلی کے ظاہر ہونے میں ایک دن تک لگ سکتا ہے۔';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Apple کیلنڈر میں شامل کریں';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'لنک کاپی کریں';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'کوئی بھی ایپ کیلنڈر کا لنک نہیں کھول سکی۔ لنک کاپی کریں اور اسے دستی طور پر اپنے کیلنڈر میں شامل کریں۔';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return '$mosqueName کے نماز کے اوقات اپنے فون کے کسی کیلنڈر میں شامل کریں۔ جب بھی آپ ایپ کھولتے ہیں، مواقيت اگلے 60 دنوں کو تازہ رکھتا ہے۔';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'میرے کیلنڈر میں شامل کریں';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'کیلنڈر منتخب کریں';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'نماز کے اوقات $calendarName میں شامل کر دیے گئے';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'میرے کیلنڈر سے ہٹائیں';
 
   @override
   String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+      'نماز کے اوقات آپ کے کیلنڈر سے ہٹا دیے گئے';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'لنک کے ذریعے سبسکرائب کریں';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'خود بخود اپ ڈیٹ ہونے والے کیلنڈر کے لیے مسجد کے لنک کو سبسکرائب کریں۔';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'لنک کاپی کریں۔\nاپنی کیلنڈر ایپ میں «سبسکرپشن شامل کریں» یا «URL سے» تلاش کریں۔\nلنک پیسٹ کریں اور محفوظ کریں۔';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'اگر آپ کی کیلنڈر ایپ لنک شامل نہیں کر سکتی تو اپنا کیلنڈر براؤزر یا کمپیوٹر پر کھولیں اور وہاں شامل کریں۔';
 }

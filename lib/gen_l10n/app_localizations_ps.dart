@@ -3478,62 +3478,62 @@ class AppLocalizationsPs extends AppLocalizations {
   String get qibla_calibrate_compass => 'قطب‌نما کالیبره کړئ';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'کلیز ته ور اضافه کړئ';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'په خپل کلیز کې د $mosqueName د لمانځه وختونو ته ګډون وکړئ.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'دا ژوندی ګډون دی، نه یو ځلي واردول: کله چې جومات خپل وختونه بدل کړي، ستاسو کلیز پخپله تازه کیږي. ستاسو د کلیز اپلیکیشن پرېکړه کوي چې کله تازه شي، نو یو بدلون ممکن تر یوې ورځې پورې وخت ونیسي چې ښکاره شي.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Apple کلیز ته ور اضافه کړئ';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'لینک کاپي کړئ';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'هیڅ اپلیکیشن ونه توانېد چې د کلیز لینک پرانیزي. لینک کاپي کړئ او په لاسي ډول یې خپل کلیز ته ور اضافه کړئ.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return 'د $mosqueName د لمانځه وختونه ستاسو په تلیفون کې یو کلیز ته ور اضافه کړئ. MAWAQIT هر ځل چې اپلیکیشن پرانیزئ، راتلونکې 60 ورځې تازه ساتي.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'زما کلیز ته ور اضافه کړئ';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'یو کلیز وټاکئ';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'د لمانځه وختونه $calendarName ته ور اضافه شول';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'زما له کلیز څخه لرې کړئ';
 
   @override
   String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+      'د لمانځه وختونه ستاسو له کلیز څخه لرې شول';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'د لینک له لارې ګډون';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'د داسې کلیز لپاره چې پخپله تازه کیږي، د جومات لینک ته ګډون وکړئ.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'لینک کاپي کړئ.\nپه خپل کلیز اپلیکیشن کې «ګډون اضافه کړئ» یا «له URL څخه» ولټوئ.\nلینک پیسټ کړئ او خوندي یې کړئ.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'که ستاسو د کلیز اپلیکیشن لینک نشي اضافه کولی، خپل کلیز په براوزر یا کمپیوټر کې پرانیزئ او هلته یې اضافه کړئ.';
 }

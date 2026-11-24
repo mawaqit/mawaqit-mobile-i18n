@@ -3483,62 +3483,62 @@ class AppLocalizationsUg extends AppLocalizations {
   String get qibla_calibrate_compass => 'كومپاسنى توغرىلاڭ';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'كالېندارغا قوشۇش';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return '$mosqueName نىڭ ناماز ۋاقىتلىرىغا كالېندارىڭىزدا مۇشتەرى بولۇڭ.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'بۇ بىر قېتىملىق ئەكىرىش ئەمەس، جانلىق مۇشتەرىلىك: مەسچىت ۋاقىتلىرىنى ئۆزگەرتسە، كالېندارىڭىز ئۆزلۈكىدىن يېڭىلىنىدۇ. قاچان يېڭىلاشنى كالېندار ئەپىڭىز بەلگىلەيدۇ، شۇڭا بىر ئۆزگىرىشنىڭ كۆرۈنۈشىگە بىر كۈنگىچە ۋاقىت كېتىشى مۇمكىن.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Apple كالېندارىغا قوشۇش';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'ئۇلانمىنى كۆچۈرۈش';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'ھېچقانداق ئەپ كالېندار ئۇلانمىسىنى ئاچالمىدى. ئۇلانمىنى كۆچۈرۈپ، كالېندارىڭىزغا قولدا قوشۇڭ.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return '$mosqueName نىڭ ناماز ۋاقىتلىرىنى تېلېفونىڭىزدىكى بىر كالېندارغا قوشۇڭ. ئەپنى ھەر قېتىم ئاچقىنىڭىزدا مەۋاقىت كېيىنكى 60 كۈننى يېڭىلاپ تۇرىدۇ.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'كالېندارىمغا قوشۇش';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'كالېندار تاللاڭ';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'ناماز ۋاقىتلىرى قوشۇلدى: $calendarName';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'كالېندارىمدىن چىقىرىۋېتىش';
 
   @override
   String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+      'ناماز ۋاقىتلىرى كالېندارىڭىزدىن چىقىرىۋېتىلدى';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'ئۇلانما ئارقىلىق مۇشتەرى بولۇش';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'ئۆزلۈكىدىن يېڭىلىنىدىغان كالېندار ئۈچۈن مەسچىتنىڭ ئۇلانمىسىغا مۇشتەرى بولۇڭ.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'ئۇلانمىنى كۆچۈرۈڭ.\nكالېندار ئەپىڭىزدە «مۇشتەرىلىك قوشۇش» ياكى «URL دىن» نى ئىزدەڭ.\nئۇلانمىنى چاپلاپ ساقلاڭ.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'ئەگەر كالېندار ئەپىڭىز ئۇلانما قوشالمىسا، كالېندارىڭىزنى توركۆرگۈ ياكى كومپيۇتېردا ئېچىپ، ئۇ يەردە قوشۇڭ.';
 }

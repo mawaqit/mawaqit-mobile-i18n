@@ -3484,62 +3484,62 @@ class AppLocalizationsId extends AppLocalizations {
   String get qibla_calibrate_compass => 'Kalibrasi kompas';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'Tambahkan ke kalender';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'Berlangganan jadwal salat $mosqueName di kalender Anda.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'Ini adalah langganan langsung, bukan impor sekali saja: saat masjid mengubah jadwalnya, kalender Anda diperbarui dengan sendirinya. Aplikasi kalender Anda yang menentukan kapan memuat ulang, sehingga perubahan bisa memerlukan waktu hingga satu hari untuk muncul.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Tambahkan ke Kalender Apple';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'Salin tautan';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'Tidak ada aplikasi yang dapat membuka tautan kalender. Salin tautan dan tambahkan ke kalender Anda secara manual.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return 'Tambahkan jadwal salat $mosqueName ke kalender di ponsel Anda. MAWAQIT memperbarui 60 hari ke depan setiap kali Anda membuka aplikasi.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'Tambahkan ke kalender saya';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'Pilih kalender';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'Jadwal salat ditambahkan ke $calendarName';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'Hapus dari kalender saya';
 
   @override
   String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+      'Jadwal salat dihapus dari kalender Anda';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'Berlangganan dengan tautan';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'Untuk kalender yang diperbarui dengan sendirinya, berlanggananlah ke tautan masjid.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'Salin tautan.\nDi aplikasi kalender Anda, cari “Tambah langganan” atau “Dari URL”.\nTempel tautan lalu simpan.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'Jika aplikasi kalender Anda tidak dapat menambahkan tautan, buka kalender Anda di browser atau komputer dan tambahkan di sana.';
 }

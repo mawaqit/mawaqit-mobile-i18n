@@ -3483,62 +3483,62 @@ class AppLocalizationsTa extends AppLocalizations {
   String get qibla_calibrate_compass => 'திசைகாட்டியை அளவீடு செய்யவும்';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'நாட்காட்டியில் சேர்';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'உங்கள் நாட்காட்டியில் $mosqueName தொழுகை நேரங்களுக்குச் சந்தா செலுத்துங்கள்.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'இது ஒருமுறை இறக்குமதி அல்ல, நேரடிச் சந்தா: பள்ளிவாசல் நேரங்களை மாற்றும்போது உங்கள் நாட்காட்டி தானாகவே புதுப்பிக்கப்படும். எப்போது புதுப்பிப்பது என்பதை உங்கள் நாட்காட்டி ஆப்ஸ் முடிவு செய்யும், எனவே ஒரு மாற்றம் தெரிய ஒரு நாள் வரை ஆகலாம்.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Apple நாட்காட்டியில் சேர்';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'இணைப்பை நகலெடு';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'எந்த ஆப்ஸாலும் நாட்காட்டி இணைப்பைத் திறக்க முடியவில்லை. இணைப்பை நகலெடுத்து உங்கள் நாட்காட்டியில் கைமுறையாகச் சேர்க்கவும்.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return '$mosqueName தொழுகை நேரங்களை உங்கள் தொலைபேசியில் உள்ள ஒரு நாட்காட்டியில் சேர்க்கவும். ஒவ்வொரு முறை ஆப்ஸைத் திறக்கும்போதும் MAWAQIT அடுத்த 60 நாட்களைப் புதுப்பித்து வைக்கும்.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'என் நாட்காட்டியில் சேர்';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'நாட்காட்டியைத் தேர்ந்தெடுக்கவும்';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'தொழுகை நேரங்கள் $calendarName இல் சேர்க்கப்பட்டன';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'என் நாட்காட்டியிலிருந்து அகற்று';
 
   @override
   String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+      'தொழுகை நேரங்கள் உங்கள் நாட்காட்டியிலிருந்து அகற்றப்பட்டன';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'இணைப்பு மூலம் சந்தா செலுத்து';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'தானாகப் புதுப்பிக்கப்படும் நாட்காட்டிக்கு, பள்ளிவாசலின் இணைப்புக்குச் சந்தா செலுத்துங்கள்.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'இணைப்பை நகலெடுக்கவும்.\nஉங்கள் நாட்காட்டி ஆப்ஸில் “சந்தாவைச் சேர்” அல்லது “URL இலிருந்து” என்பதைத் தேடவும்.\nஇணைப்பை ஒட்டி சேமிக்கவும்.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'உங்கள் நாட்காட்டி ஆப்ஸால் இணைப்பைச் சேர்க்க முடியவில்லை என்றால், உலாவியில் அல்லது கணினியில் உங்கள் நாட்காட்டியைத் திறந்து அங்கே சேர்க்கவும்.';
 }

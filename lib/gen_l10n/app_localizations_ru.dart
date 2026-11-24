@@ -3498,62 +3498,62 @@ class AppLocalizationsRu extends AppLocalizations {
   String get qibla_calibrate_compass => 'Откалибруйте компас';
 
   @override
-  String get add_to_calendar => 'Add to calendar';
+  String get add_to_calendar => 'Добавить в календарь';
 
   @override
   String calendar_subscription_body(Object mosqueName) {
-    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+    return 'Подпишитесь на время молитв мечети $mosqueName в своём календаре.';
   }
 
   @override
   String get calendar_subscription_live_info =>
-      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+      'Это живая подписка, а не разовый импорт: когда мечеть меняет время, ваш календарь обновляется сам. Когда обновляться, решает приложение календаря, поэтому изменение может появиться в течение суток.';
 
   @override
-  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+  String get calendar_subscribe_ios => 'Добавить в Календарь Apple';
 
   @override
-  String get calendar_copy_link => 'Copy link';
+  String get calendar_copy_link => 'Копировать ссылку';
 
   @override
   String get calendar_subscription_open_failed =>
-      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+      'Ни одно приложение не смогло открыть ссылку на календарь. Скопируйте ссылку и добавьте её в календарь вручную.';
 
   @override
   String calendar_write_body(Object mosqueName) {
-    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+    return 'Добавьте время молитв мечети $mosqueName в календарь на телефоне. MAWAQIT обновляет ближайшие 60 дней при каждом открытии приложения.';
   }
 
   @override
-  String get calendar_write_button => 'Add to my calendar';
+  String get calendar_write_button => 'Добавить в мой календарь';
 
   @override
-  String get calendar_write_choose => 'Choose a calendar';
+  String get calendar_write_choose => 'Выберите календарь';
 
   @override
   String calendar_write_done(Object calendarName) {
-    return 'Prayer times added to $calendarName';
+    return 'Время молитв добавлено в $calendarName';
   }
 
   @override
-  String get calendar_write_remove => 'Remove from my calendar';
+  String get calendar_write_remove => 'Удалить из моего календаря';
 
   @override
   String get calendar_write_removed =>
-      'Prayer times removed from your calendar';
+      'Время молитв удалено из вашего календаря';
 
   @override
-  String get calendar_link_title => 'Subscribe with a link';
+  String get calendar_link_title => 'Подписка по ссылке';
 
   @override
   String get calendar_link_intro =>
-      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+      'Чтобы календарь обновлялся сам, подпишитесь на ссылку мечети.';
 
   @override
   String get calendar_link_steps =>
-      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+      'Скопируйте ссылку.\nВ приложении календаря найдите «Добавить подписку» или «По URL».\nВставьте ссылку и сохраните.';
 
   @override
   String get calendar_link_browser_hint =>
-      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
+      'Если приложение календаря не позволяет добавить ссылку, откройте календарь в браузере или на компьютере и добавьте её там.';
 }
