@@ -3481,4 +3481,64 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'كومپاسنى توغرىلاڭ';
+
+  @override
+  String get add_to_calendar => 'Add to calendar';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Subscribe to the prayer times of $mosqueName in your calendar.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.';
+
+  @override
+  String get calendar_subscribe_ios => 'Add to Apple Calendar';
+
+  @override
+  String get calendar_copy_link => 'Copy link';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'No app could open the calendar link. Copy the link and add it to your calendar manually.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Add the prayer times of $mosqueName to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.';
+  }
+
+  @override
+  String get calendar_write_button => 'Add to my calendar';
+
+  @override
+  String get calendar_write_choose => 'Choose a calendar';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Prayer times added to $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Remove from my calendar';
+
+  @override
+  String get calendar_write_removed =>
+      'Prayer times removed from your calendar';
+
+  @override
+  String get calendar_link_title => 'Subscribe with a link';
+
+  @override
+  String get calendar_link_intro =>
+      'For a calendar that updates on its own, subscribe to the mosque\'s link.';
+
+  @override
+  String get calendar_link_steps =>
+      'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.';
 }

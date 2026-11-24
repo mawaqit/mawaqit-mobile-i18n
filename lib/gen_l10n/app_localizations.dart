@@ -6580,6 +6580,102 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Calibrate compass'**
   String get qibla_calibrate_compass;
+
+  /// Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar.
+  ///
+  /// In en, this message translates to:
+  /// **'Add to calendar'**
+  String get add_to_calendar;
+
+  /// Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris.
+  ///
+  /// In en, this message translates to:
+  /// **'Subscribe to the prayer times of {mosqueName} in your calendar.'**
+  String calendar_subscription_body(Object mosqueName);
+
+  /// Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app.
+  ///
+  /// In en, this message translates to:
+  /// **'It\'s a live subscription, not a one-time import: when the mosque changes its times, your calendar updates by itself. Your calendar app decides when to refresh, so a change can take up to a day to appear.'**
+  String get calendar_subscription_live_info;
+
+  /// Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is.
+  ///
+  /// In en, this message translates to:
+  /// **'Add to Apple Calendar'**
+  String get calendar_subscribe_ios;
+
+  /// Add to calendar sheet: copies the subscription link.
+  ///
+  /// In en, this message translates to:
+  /// **'Copy link'**
+  String get calendar_copy_link;
+
+  /// Error shown when no app can open the calendar subscription link.
+  ///
+  /// In en, this message translates to:
+  /// **'No app could open the calendar link. Copy the link and add it to your calendar manually.'**
+  String get calendar_subscription_open_failed;
+
+  /// Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris.
+  ///
+  /// In en, this message translates to:
+  /// **'Add the prayer times of {mosqueName} to a calendar on your phone. MAWAQIT keeps the next 60 days up to date every time you open the app.'**
+  String calendar_write_body(Object mosqueName);
+
+  /// Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers.
+  ///
+  /// In en, this message translates to:
+  /// **'Add to my calendar'**
+  String get calendar_write_button;
+
+  /// Title of the list of the phone's calendars to write the prayers into.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose a calendar'**
+  String get calendar_write_choose;
+
+  /// Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer times added to {calendarName}'**
+  String calendar_write_done(Object calendarName);
+
+  /// Add to calendar sheet, Android: removes the written prayers of this mosque.
+  ///
+  /// In en, this message translates to:
+  /// **'Remove from my calendar'**
+  String get calendar_write_remove;
+
+  /// Toast after the written prayers were removed.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer times removed from your calendar'**
+  String get calendar_write_removed;
+
+  /// Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL.
+  ///
+  /// In en, this message translates to:
+  /// **'Subscribe with a link'**
+  String get calendar_link_title;
+
+  /// Add to calendar sheet: one line under the "Subscribe with a link" heading.
+  ///
+  /// In en, this message translates to:
+  /// **'For a calendar that updates on its own, subscribe to the mosque\'s link.'**
+  String get calendar_link_intro;
+
+  /// Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app.
+  ///
+  /// In en, this message translates to:
+  /// **'Copy the link.\nIn your calendar app, look for Add subscription or From URL.\nPaste the link and save.'**
+  String get calendar_link_steps;
+
+  /// Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link.
+  ///
+  /// In en, this message translates to:
+  /// **'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.'**
+  String get calendar_link_browser_hint;
 }
 
 class _AppLocalizationsDelegate
