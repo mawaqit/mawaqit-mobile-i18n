@@ -3475,4 +3475,64 @@ class AppLocalizationsSi extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'මාලිමාව ක්‍රමාංකනය කරන්න';
+
+  @override
+  String get add_to_calendar => 'දින දර්ශනයට එක් කරන්න';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'ඔබේ දින දර්ශනයේ $mosqueName හි සලාත් වේලාවන්ට දායක වන්න.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'මෙය එක් වරක ආයාත කිරීමක් නොව සජීවී දායකත්වයකි: පල්ලිය වේලාවන් වෙනස් කළ විට ඔබේ දින දර්ශනය ස්වයංක්‍රීයව යාවත්කාලීන වේ. නැවුම් කරන්නේ කවදාදැයි ඔබේ දින දර්ශන යෙදුම තීරණය කරයි, එබැවින් වෙනසක් පෙන්වීමට දිනක් දක්වා ගත විය හැක.';
+
+  @override
+  String get calendar_subscribe_ios => 'Apple දින දර්ශනයට එක් කරන්න';
+
+  @override
+  String get calendar_copy_link => 'සබැඳිය පිටපත් කරන්න';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'කිසිදු යෙදුමකට දින දර්ශන සබැඳිය විවෘත කිරීමට නොහැකි විය. සබැඳිය පිටපත් කර එය ඔබේ දින දර්ශනයට අතින් එක් කරන්න.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return '$mosqueName හි සලාත් වේලාවන් ඔබේ දුරකථනයේ දින දර්ශනයකට එක් කරන්න. ඔබ යෙදුම විවෘත කරන සෑම විටම MAWAQIT ඉදිරි දින 60 යාවත්කාලීනව තබයි.';
+  }
+
+  @override
+  String get calendar_write_button => 'මගේ දින දර්ශනයට එක් කරන්න';
+
+  @override
+  String get calendar_write_choose => 'දින දර්ශනයක් තෝරන්න';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'සලාත් වේලාවන් $calendarName වෙත එක් කරන ලදී';
+  }
+
+  @override
+  String get calendar_write_remove => 'මගේ දින දර්ශනයෙන් ඉවත් කරන්න';
+
+  @override
+  String get calendar_write_removed =>
+      'සලාත් වේලාවන් ඔබේ දින දර්ශනයෙන් ඉවත් කරන ලදී';
+
+  @override
+  String get calendar_link_title => 'සබැඳියක් මගින් දායක වන්න';
+
+  @override
+  String get calendar_link_intro =>
+      'ස්වයංක්‍රීයව යාවත්කාලීන වන දින දර්ශනයක් සඳහා, පල්ලියේ සබැඳියට දායක වන්න.';
+
+  @override
+  String get calendar_link_steps =>
+      'සබැඳිය පිටපත් කරන්න.\nඔබේ දින දර්ශන යෙදුමේ “දායකත්වය එක් කරන්න” හෝ “URL වෙතින්” සොයන්න.\nසබැඳිය අලවා සුරකින්න.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'ඔබේ දින දර්ශන යෙදුමට සබැඳියක් එක් කළ නොහැකි නම්, බ්‍රවුසරයක හෝ පරිගණකයක ඔබේ දින දර්ශනය විවෘත කර එහි එක් කරන්න.';
 }

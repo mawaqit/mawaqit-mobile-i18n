@@ -3448,4 +3448,63 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'معايرة البوصلة';
+
+  @override
+  String get add_to_calendar => 'إضافة إلى التقويم';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'اشترك في مواقيت صلاة $mosqueName داخل تقويمك.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'هذا اشتراك مباشر وليس استيرادًا لمرة واحدة: عندما يغيّر المسجد مواقيته، يتحدّث تقويمك تلقائيًا. يحدّد تطبيق التقويم موعد التحديث، لذا قد يستغرق ظهور التغيير حتى يوم واحد.';
+
+  @override
+  String get calendar_subscribe_ios => 'أضف إلى تقويم Apple';
+
+  @override
+  String get calendar_copy_link => 'نسخ الرابط';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'لم يتمكن أي تطبيق من فتح رابط التقويم. انسخ الرابط وأضفه إلى تقويمك يدويًا.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'أضف مواقيت صلاة $mosqueName إلى تقويم على هاتفك. يُبقي تطبيق مواقيت الأيام الستين القادمة محدّثة في كل مرة تفتح فيها التطبيق.';
+  }
+
+  @override
+  String get calendar_write_button => 'إضافة إلى تقويمي';
+
+  @override
+  String get calendar_write_choose => 'اختر تقويمًا';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'أُضيفت مواقيت الصلاة إلى $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'إزالة من تقويمي';
+
+  @override
+  String get calendar_write_removed => 'أُزيلت مواقيت الصلاة من تقويمك';
+
+  @override
+  String get calendar_link_title => 'الاشتراك عبر رابط';
+
+  @override
+  String get calendar_link_intro =>
+      'لتقويم يتحدّث تلقائيًا، اشترك في رابط المسجد.';
+
+  @override
+  String get calendar_link_steps =>
+      'انسخ الرابط.\nفي تطبيق التقويم، ابحث عن «إضافة اشتراك» أو «من عنوان URL».\nالصق الرابط واحفظ.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'إذا كان تطبيق التقويم لا يتيح إضافة رابط، افتح تقويمك في المتصفح أو على الكمبيوتر وأضفه من هناك.';
 }

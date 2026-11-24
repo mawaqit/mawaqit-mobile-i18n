@@ -3467,4 +3467,63 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'ปรับเทียบเข็มทิศ';
+
+  @override
+  String get add_to_calendar => 'เพิ่มลงในปฏิทิน';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'สมัครรับเวลาละหมาดของ $mosqueName ในปฏิทินของคุณ';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'นี่คือการสมัครรับแบบสด ไม่ใช่การนำเข้าครั้งเดียว: เมื่อมัสยิดเปลี่ยนเวลา ปฏิทินของคุณจะอัปเดตเอง แอปปฏิทินของคุณเป็นผู้กำหนดว่าจะรีเฟรชเมื่อใด การเปลี่ยนแปลงจึงอาจใช้เวลาถึงหนึ่งวันจึงจะแสดง';
+
+  @override
+  String get calendar_subscribe_ios => 'เพิ่มลงในปฏิทินของ Apple';
+
+  @override
+  String get calendar_copy_link => 'คัดลอกลิงก์';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'ไม่มีแอปใดเปิดลิงก์ปฏิทินได้ โปรดคัดลอกลิงก์แล้วเพิ่มลงในปฏิทินของคุณด้วยตนเอง';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'เพิ่มเวลาละหมาดของ $mosqueName ลงในปฏิทินบนโทรศัพท์ของคุณ MAWAQIT จะอัปเดต 60 วันข้างหน้าทุกครั้งที่คุณเปิดแอป';
+  }
+
+  @override
+  String get calendar_write_button => 'เพิ่มลงในปฏิทินของฉัน';
+
+  @override
+  String get calendar_write_choose => 'เลือกปฏิทิน';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'เพิ่มเวลาละหมาดลงใน $calendarName แล้ว';
+  }
+
+  @override
+  String get calendar_write_remove => 'นำออกจากปฏิทินของฉัน';
+
+  @override
+  String get calendar_write_removed => 'นำเวลาละหมาดออกจากปฏิทินของคุณแล้ว';
+
+  @override
+  String get calendar_link_title => 'สมัครรับด้วยลิงก์';
+
+  @override
+  String get calendar_link_intro =>
+      'หากต้องการปฏิทินที่อัปเดตเอง ให้สมัครรับลิงก์ของมัสยิด';
+
+  @override
+  String get calendar_link_steps =>
+      'คัดลอกลิงก์\nในแอปปฏิทินของคุณ ให้มองหา “เพิ่มการสมัครรับ” หรือ “จาก URL”\nวางลิงก์แล้วบันทึก';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'หากแอปปฏิทินของคุณเพิ่มลิงก์ไม่ได้ ให้เปิดปฏิทินในเบราว์เซอร์หรือบนคอมพิวเตอร์แล้วเพิ่มที่นั่น';
 }

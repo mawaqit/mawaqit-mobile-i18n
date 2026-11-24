@@ -3465,6 +3465,65 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'کالیبره کردن قطب‌نما';
+
+  @override
+  String get add_to_calendar => 'افزودن به تقویم';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'اشتراک اوقات نماز $mosqueName را به تقویم خود اضافه کنید.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'این یک اشتراک زنده است، نه وارد کردن یک‌باره: وقتی مسجد اوقاتش را تغییر دهد، تقویم شما خودبه‌خود به‌روز می‌شود. زمان به‌روزرسانی را برنامهٔ تقویم شما تعیین می‌کند، بنابراین ممکن است نمایش یک تغییر تا یک روز طول بکشد.';
+
+  @override
+  String get calendar_subscribe_ios => 'افزودن به تقویم Apple';
+
+  @override
+  String get calendar_copy_link => 'کپی پیوند';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'هیچ برنامه‌ای نتوانست پیوند تقویم را باز کند. پیوند را کپی کنید و آن را دستی به تقویم خود اضافه کنید.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'اوقات نماز $mosqueName را به یکی از تقویم‌های گوشی خود اضافه کنید. مواقیت هر بار که برنامه را باز می‌کنید، 60 روز آینده را به‌روز نگه می‌دارد.';
+  }
+
+  @override
+  String get calendar_write_button => 'افزودن به تقویم من';
+
+  @override
+  String get calendar_write_choose => 'یک تقویم انتخاب کنید';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'اوقات نماز به $calendarName اضافه شد';
+  }
+
+  @override
+  String get calendar_write_remove => 'حذف از تقویم من';
+
+  @override
+  String get calendar_write_removed => 'اوقات نماز از تقویم شما حذف شد';
+
+  @override
+  String get calendar_link_title => 'اشتراک با پیوند';
+
+  @override
+  String get calendar_link_intro =>
+      'برای تقویمی که خودبه‌خود به‌روز شود، پیوند مسجد را مشترک شوید.';
+
+  @override
+  String get calendar_link_steps =>
+      'پیوند را کپی کنید.\nدر برنامهٔ تقویم خود، «افزودن اشتراک» یا «از نشانی URL» را پیدا کنید.\nپیوند را جای‌گذاری و ذخیره کنید.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'اگر برنامهٔ تقویم شما نمی‌تواند پیوند اضافه کند، تقویم خود را در مرورگر یا روی رایانه باز کنید و آن را آنجا اضافه کنید.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -6937,4 +6996,63 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get qibla_calibrate_compass => 'کالیبره کردن قطب‌نما';
+
+  @override
+  String get add_to_calendar => 'افزودن به تقویم';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'اشتراک اوقات نماز $mosqueName را به تقویم خود اضافه کنید.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'این یک اشتراک زنده است، نه وارد کردن یک‌باره: وقتی مسجد اوقاتش را تغییر دهد، تقویم شما خودبه‌خود تازه می‌شود. زمان تازه‌سازی را اپلیکیشن تقویم شما تعیین می‌کند، بنابراین ممکن است نمایش یک تغییر تا یک روز طول بکشد.';
+
+  @override
+  String get calendar_subscribe_ios => 'افزودن به تقویم Apple';
+
+  @override
+  String get calendar_copy_link => 'کاپی لینک';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'هیچ اپلیکیشنی نتوانست لینک تقویم را باز کند. لینک را کاپی کنید و آن را دستی به تقویم خود اضافه کنید.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'اوقات نماز $mosqueName را به یکی از تقویم‌های تلفن خود اضافه کنید. مواقیت هر بار که اپلیکیشن را باز می‌کنید، 60 روز آینده را تازه نگه می‌دارد.';
+  }
+
+  @override
+  String get calendar_write_button => 'افزودن به تقویم من';
+
+  @override
+  String get calendar_write_choose => 'یک تقویم انتخاب کنید';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'اوقات نماز به $calendarName اضافه شد';
+  }
+
+  @override
+  String get calendar_write_remove => 'حذف از تقویم من';
+
+  @override
+  String get calendar_write_removed => 'اوقات نماز از تقویم شما حذف شد';
+
+  @override
+  String get calendar_link_title => 'اشتراک با لینک';
+
+  @override
+  String get calendar_link_intro =>
+      'برای تقویمی که خودبه‌خود تازه شود، لینک مسجد را مشترک شوید.';
+
+  @override
+  String get calendar_link_steps =>
+      'لینک را کاپی کنید.\nدر اپلیکیشن تقویم خود، «افزودن اشتراک» یا «از URL» را پیدا کنید.\nلینک را پیست و ذخیره کنید.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'اگر اپلیکیشن تقویم شما نمی‌تواند لینک اضافه کند، تقویم خود را در براوزر یا روی کمپیوتر باز کنید و آن را آنجا اضافه کنید.';
 }

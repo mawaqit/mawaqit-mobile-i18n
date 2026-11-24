@@ -3478,4 +3478,63 @@ class AppLocalizationsAz extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kompası kalibrləyin';
+
+  @override
+  String get add_to_calendar => 'Təqvimə əlavə et';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return '$mosqueName namaz vaxtlarına təqviminizdə abunə olun.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Bu birdəfəlik idxal deyil, canlı abunədir: məscid vaxtlarını dəyişəndə təqviminiz özü yenilənir. Nə vaxt yenilənəcəyinə təqvim tətbiqiniz qərar verir, ona görə dəyişikliyin görünməsi bir günə qədər çəkə bilər.';
+
+  @override
+  String get calendar_subscribe_ios => 'Apple Təqviminə əlavə et';
+
+  @override
+  String get calendar_copy_link => 'Linki kopyala';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Heç bir tətbiq təqvim linkini aça bilmədi. Linki kopyalayın və təqviminizə əl ilə əlavə edin.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return '$mosqueName namaz vaxtlarını telefonunuzdakı təqvimə əlavə edin. Tətbiqi hər açdığınızda MAWAQIT növbəti 60 günü yeniləyir.';
+  }
+
+  @override
+  String get calendar_write_button => 'Təqvimimə əlavə et';
+
+  @override
+  String get calendar_write_choose => 'Təqvim seçin';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Namaz vaxtları bu təqvimə əlavə edildi: $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Təqvimimdən sil';
+
+  @override
+  String get calendar_write_removed => 'Namaz vaxtları təqviminizdən silindi';
+
+  @override
+  String get calendar_link_title => 'Link ilə abunə ol';
+
+  @override
+  String get calendar_link_intro =>
+      'Özü yenilənən təqvim üçün məscidin linkinə abunə olun.';
+
+  @override
+  String get calendar_link_steps =>
+      'Linki kopyalayın.\nTəqvim tətbiqinizdə “Abunə əlavə et” və ya “URL-dən” seçimini axtarın.\nLinki yapışdırın və yadda saxlayın.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Təqvim tətbiqiniz link əlavə edə bilmirsə, təqviminizi brauzerdə və ya kompüterdə açıb orada əlavə edin.';
 }

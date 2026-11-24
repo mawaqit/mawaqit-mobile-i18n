@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "Kalibroni busullën",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "Shto në kalendar",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "Abonohu në kohët e namazit të {mosqueName} në kalendarin tënd.",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "Ky është një abonim i drejtpërdrejtë, jo një importim i njëhershëm: kur xhamia ndryshon oraret, kalendari yt përditësohet vetë. Aplikacioni i kalendarit vendos kur të rifreskohet, prandaj një ndryshim mund të shfaqet deri në një ditë më vonë.",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "Shto në Kalendarin e Apple",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "Kopjo lidhjen",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "Asnjë aplikacion nuk arriti ta hapë lidhjen e kalendarit. Kopjo lidhjen dhe shtoje manualisht në kalendarin tënd.",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "Shto kohët e namazit të {mosqueName} në një kalendar në telefonin tënd. MAWAQIT i mban të përditësuara 60 ditët e ardhshme sa herë që hap aplikacionin.",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "Shto në kalendarin tim",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "Zgjidh një kalendar",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "Kohët e namazit u shtuan në {calendarName}",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "Hiq nga kalendari im",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "Kohët e namazit u hoqën nga kalendari yt",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "Abonohu me një lidhje",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "Për një kalendar që përditësohet vetë, abonohu në lidhjen e xhamisë.",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "Kopjo lidhjen.\nNë aplikacionin e kalendarit, kërko „Shto abonim” ose „Nga URL”.\nNgjit lidhjen dhe ruaje.",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "Nëse aplikacioni i kalendarit nuk mund të shtojë një lidhje, hape kalendarin në një shfletues ose në kompjuter dhe shtoje atje.",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

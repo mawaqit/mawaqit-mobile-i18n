@@ -3486,4 +3486,63 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'ڕێکخستنەوەی قیبلەنما';
+
+  @override
+  String get add_to_calendar => 'زیادکردن بۆ ڕۆژژمێر';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'لە ڕۆژژمێرەکەتدا بەشداری کاتەکانی نوێژی $mosqueName بکە.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'ئەمە بەشدارییەکی ڕاستەوخۆیە، نەک هاوردەکردنێکی یەکجارەکی: کاتێک مزگەوت کاتەکانی دەگۆڕێت، ڕۆژژمێرەکەت خۆی نوێ دەبێتەوە. ئەپی ڕۆژژمێرەکەت بڕیار دەدات کەی نوێ ببێتەوە، بۆیە لەوانەیە دەرکەوتنی گۆڕانکارییەک تا ڕۆژێک بخایەنێت.';
+
+  @override
+  String get calendar_subscribe_ios => 'زیادکردن بۆ ڕۆژژمێری Apple';
+
+  @override
+  String get calendar_copy_link => 'لەبەرگرتنەوەی بەستەر';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'هیچ ئەپێک نەیتوانی بەستەری ڕۆژژمێرەکە بکاتەوە. بەستەرەکە لەبەر بگرەوە و بە دەستی زیادی بکە بۆ ڕۆژژمێرەکەت.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'کاتەکانی نوێژی $mosqueName زیاد بکە بۆ ڕۆژژمێرێک لە مۆبایلەکەتدا. مەواقیت هەر جارێک ئەپەکە بکەیتەوە، 60 ڕۆژی داهاتوو نوێ دەکاتەوە.';
+  }
+
+  @override
+  String get calendar_write_button => 'زیادکردن بۆ ڕۆژژمێرەکەم';
+
+  @override
+  String get calendar_write_choose => 'ڕۆژژمێرێک هەڵبژێرە';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'کاتەکانی نوێژ زیادکران بۆ $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'لابردن لە ڕۆژژمێرەکەم';
+
+  @override
+  String get calendar_write_removed => 'کاتەکانی نوێژ لە ڕۆژژمێرەکەت لابران';
+
+  @override
+  String get calendar_link_title => 'بەشداریکردن بە بەستەر';
+
+  @override
+  String get calendar_link_intro =>
+      'بۆ ڕۆژژمێرێک کە خۆی نوێ دەبێتەوە، بەشداری بەستەری مزگەوتەکە بکە.';
+
+  @override
+  String get calendar_link_steps =>
+      'بەستەرەکە لەبەر بگرەوە.\nلە ئەپی ڕۆژژمێرەکەتدا بەدوای «زیادکردنی بەشداریکردن» یان «لە URL» بگەڕێ.\nبەستەرەکە بلکێنە و پاشەکەوتی بکە.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'ئەگەر ئەپی ڕۆژژمێرەکەت ناتوانێت بەستەر زیاد بکات، ڕۆژژمێرەکەت لە وێبگەڕێک یان کۆمپیوتەرێکدا بکەرەوە و لەوێ زیادی بکە.';
 }

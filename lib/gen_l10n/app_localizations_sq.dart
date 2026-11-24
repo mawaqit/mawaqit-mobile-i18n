@@ -3518,4 +3518,64 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kalibroni busullën';
+
+  @override
+  String get add_to_calendar => 'Shto në kalendar';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Abonohu në kohët e namazit të $mosqueName në kalendarin tënd.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Ky është një abonim i drejtpërdrejtë, jo një importim i njëhershëm: kur xhamia ndryshon oraret, kalendari yt përditësohet vetë. Aplikacioni i kalendarit vendos kur të rifreskohet, prandaj një ndryshim mund të shfaqet deri në një ditë më vonë.';
+
+  @override
+  String get calendar_subscribe_ios => 'Shto në Kalendarin e Apple';
+
+  @override
+  String get calendar_copy_link => 'Kopjo lidhjen';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Asnjë aplikacion nuk arriti ta hapë lidhjen e kalendarit. Kopjo lidhjen dhe shtoje manualisht në kalendarin tënd.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Shto kohët e namazit të $mosqueName në një kalendar në telefonin tënd. MAWAQIT i mban të përditësuara 60 ditët e ardhshme sa herë që hap aplikacionin.';
+  }
+
+  @override
+  String get calendar_write_button => 'Shto në kalendarin tim';
+
+  @override
+  String get calendar_write_choose => 'Zgjidh një kalendar';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Kohët e namazit u shtuan në $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Hiq nga kalendari im';
+
+  @override
+  String get calendar_write_removed =>
+      'Kohët e namazit u hoqën nga kalendari yt';
+
+  @override
+  String get calendar_link_title => 'Abonohu me një lidhje';
+
+  @override
+  String get calendar_link_intro =>
+      'Për një kalendar që përditësohet vetë, abonohu në lidhjen e xhamisë.';
+
+  @override
+  String get calendar_link_steps =>
+      'Kopjo lidhjen.\nNë aplikacionin e kalendarit, kërko „Shto abonim” ose „Nga URL”.\nNgjit lidhjen dhe ruaje.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Nëse aplikacioni i kalendarit nuk mund të shtojë një lidhje, hape kalendarin në një shfletues ose në kompjuter dhe shtoje atje.';
 }

@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "كومپاسنى توغرىلاڭ",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "كالېندارغا قوشۇش",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "{mosqueName} نىڭ ناماز ۋاقىتلىرىغا كالېندارىڭىزدا مۇشتەرى بولۇڭ.",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "بۇ بىر قېتىملىق ئەكىرىش ئەمەس، جانلىق مۇشتەرىلىك: مەسچىت ۋاقىتلىرىنى ئۆزگەرتسە، كالېندارىڭىز ئۆزلۈكىدىن يېڭىلىنىدۇ. قاچان يېڭىلاشنى كالېندار ئەپىڭىز بەلگىلەيدۇ، شۇڭا بىر ئۆزگىرىشنىڭ كۆرۈنۈشىگە بىر كۈنگىچە ۋاقىت كېتىشى مۇمكىن.",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "Apple كالېندارىغا قوشۇش",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "ئۇلانمىنى كۆچۈرۈش",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "ھېچقانداق ئەپ كالېندار ئۇلانمىسىنى ئاچالمىدى. ئۇلانمىنى كۆچۈرۈپ، كالېندارىڭىزغا قولدا قوشۇڭ.",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "{mosqueName} نىڭ ناماز ۋاقىتلىرىنى تېلېفونىڭىزدىكى بىر كالېندارغا قوشۇڭ. ئەپنى ھەر قېتىم ئاچقىنىڭىزدا مەۋاقىت كېيىنكى 60 كۈننى يېڭىلاپ تۇرىدۇ.",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "كالېندارىمغا قوشۇش",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "كالېندار تاللاڭ",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "ناماز ۋاقىتلىرى قوشۇلدى: {calendarName}",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "كالېندارىمدىن چىقىرىۋېتىش",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "ناماز ۋاقىتلىرى كالېندارىڭىزدىن چىقىرىۋېتىلدى",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "ئۇلانما ئارقىلىق مۇشتەرى بولۇش",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "ئۆزلۈكىدىن يېڭىلىنىدىغان كالېندار ئۈچۈن مەسچىتنىڭ ئۇلانمىسىغا مۇشتەرى بولۇڭ.",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "ئۇلانمىنى كۆچۈرۈڭ.\nكالېندار ئەپىڭىزدە «مۇشتەرىلىك قوشۇش» ياكى «URL دىن» نى ئىزدەڭ.\nئۇلانمىنى چاپلاپ ساقلاڭ.",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "ئەگەر كالېندار ئەپىڭىز ئۇلانما قوشالمىسا، كالېندارىڭىزنى توركۆرگۈ ياكى كومپيۇتېردا ئېچىپ، ئۇ يەردە قوشۇڭ.",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

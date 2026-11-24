@@ -3478,4 +3478,63 @@ class AppLocalizationsKm extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'ក្រិតខ្នាតត្រីវិស័យ';
+
+  @override
+  String get add_to_calendar => 'បន្ថែមទៅប្រតិទិន';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'ជាវម៉ោងសឡាតរបស់ $mosqueName នៅក្នុងប្រតិទិនរបស់អ្នក។';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'នេះជាការជាវផ្ទាល់ មិនមែនការនាំចូលតែម្តងទេ៖ នៅពេលវិហារឥស្លាមប្តូរម៉ោង ប្រតិទិនរបស់អ្នកនឹងធ្វើបច្ចុប្បន្នភាពដោយខ្លួនឯង។ កម្មវិធីប្រតិទិនរបស់អ្នកជាអ្នកសម្រេចថាពេលណាត្រូវផ្ទុកឡើងវិញ ដូច្នេះការផ្លាស់ប្តូរអាចត្រូវការពេលរហូតដល់មួយថ្ងៃទើបបង្ហាញ។';
+
+  @override
+  String get calendar_subscribe_ios => 'បន្ថែមទៅប្រតិទិន Apple';
+
+  @override
+  String get calendar_copy_link => 'ចម្លងតំណ';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'គ្មានកម្មវិធីណាអាចបើកតំណប្រតិទិនបានទេ។ សូមចម្លងតំណ ហើយបន្ថែមវាទៅប្រតិទិនរបស់អ្នកដោយដៃ។';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'បន្ថែមម៉ោងសឡាតរបស់ $mosqueName ទៅប្រតិទិនមួយនៅលើទូរសព្ទរបស់អ្នក។ MAWAQIT រក្សា 60 ថ្ងៃខាងមុខឱ្យទាន់សម័យរាល់ពេលអ្នកបើកកម្មវិធី។';
+  }
+
+  @override
+  String get calendar_write_button => 'បន្ថែមទៅប្រតិទិនរបស់ខ្ញុំ';
+
+  @override
+  String get calendar_write_choose => 'ជ្រើសរើសប្រតិទិន';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'បានបន្ថែមម៉ោងសឡាតទៅ $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'ដកចេញពីប្រតិទិនរបស់ខ្ញុំ';
+
+  @override
+  String get calendar_write_removed => 'បានដកម៉ោងសឡាតចេញពីប្រតិទិនរបស់អ្នក';
+
+  @override
+  String get calendar_link_title => 'ជាវតាមតំណ';
+
+  @override
+  String get calendar_link_intro =>
+      'សម្រាប់ប្រតិទិនដែលធ្វើបច្ចុប្បន្នភាពដោយខ្លួនឯង សូមជាវតំណរបស់វិហារឥស្លាម។';
+
+  @override
+  String get calendar_link_steps =>
+      'ចម្លងតំណ។\nនៅក្នុងកម្មវិធីប្រតិទិនរបស់អ្នក រកមើល “បន្ថែមការជាវ” ឬ “ពី URL”។\nបិទភ្ជាប់តំណ ហើយរក្សាទុក។';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'ប្រសិនបើកម្មវិធីប្រតិទិនរបស់អ្នកមិនអាចបន្ថែមតំណបាន សូមបើកប្រតិទិនរបស់អ្នកនៅក្នុងកម្មវិធីរុករក ឬនៅលើកុំព្យូទ័រ ហើយបន្ថែមវានៅទីនោះ។';
 }

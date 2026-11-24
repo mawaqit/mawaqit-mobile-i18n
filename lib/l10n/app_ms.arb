@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "Tentukur kompas",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "Tambah ke kalendar",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "Langgan waktu solat {mosqueName} dalam kalendar anda.",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "Ini ialah langganan langsung, bukan import sekali sahaja: apabila masjid menukar waktunya, kalendar anda dikemas kini dengan sendiri. Aplikasi kalendar anda yang menentukan bila untuk menyegar semula, jadi sesuatu perubahan mungkin mengambil masa sehingga sehari untuk muncul.",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "Tambah ke Kalendar Apple",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "Salin pautan",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "Tiada aplikasi yang dapat membuka pautan kalendar. Salin pautan dan tambahkannya ke kalendar anda secara manual.",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "Tambah waktu solat {mosqueName} ke kalendar dalam telefon anda. MAWAQIT mengemas kini 60 hari akan datang setiap kali anda membuka aplikasi.",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "Tambah ke kalendar saya",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "Pilih kalendar",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "Waktu solat ditambah ke {calendarName}",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "Alih keluar dari kalendar saya",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "Waktu solat dialih keluar dari kalendar anda",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "Langgan dengan pautan",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "Untuk kalendar yang dikemas kini dengan sendiri, langgan pautan masjid.",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "Salin pautan.\nDalam aplikasi kalendar anda, cari “Tambah langganan” atau “Daripada URL”.\nTampal pautan dan simpan.",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "Jika aplikasi kalendar anda tidak boleh menambah pautan, buka kalendar anda dalam pelayar atau pada komputer dan tambahkannya di sana.",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

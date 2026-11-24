@@ -3465,4 +3465,64 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Pusulayı kalibre edin';
+
+  @override
+  String get add_to_calendar => 'Takvime ekle';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return '$mosqueName namaz vakitlerine takviminizden abone olun.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Bu tek seferlik bir içe aktarma değil, canlı bir aboneliktir: cami vakitlerini değiştirdiğinde takviminiz kendiliğinden güncellenir. Ne zaman yenileneceğine takvim uygulamanız karar verir, bu yüzden bir değişikliğin görünmesi bir güne kadar sürebilir.';
+
+  @override
+  String get calendar_subscribe_ios => 'Apple Takvim\'e ekle';
+
+  @override
+  String get calendar_copy_link => 'Bağlantıyı kopyala';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Takvim bağlantısını hiçbir uygulama açamadı. Bağlantıyı kopyalayın ve takviminize elle ekleyin.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return '$mosqueName namaz vakitlerini telefonunuzdaki bir takvime ekleyin. MAWAQIT, uygulamayı her açtığınızda önümüzdeki 60 günü güncel tutar.';
+  }
+
+  @override
+  String get calendar_write_button => 'Takvimime ekle';
+
+  @override
+  String get calendar_write_choose => 'Bir takvim seçin';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Namaz vakitleri şu takvime eklendi: $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Takvimimden kaldır';
+
+  @override
+  String get calendar_write_removed =>
+      'Namaz vakitleri takviminizden kaldırıldı';
+
+  @override
+  String get calendar_link_title => 'Bağlantıyla abone ol';
+
+  @override
+  String get calendar_link_intro =>
+      'Kendiliğinden güncellenen bir takvim için caminin bağlantısına abone olun.';
+
+  @override
+  String get calendar_link_steps =>
+      'Bağlantıyı kopyalayın.\nTakvim uygulamanızda “Abonelik ekle” veya “URL\'den” seçeneğini arayın.\nBağlantıyı yapıştırın ve kaydedin.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Takvim uygulamanız bağlantı ekleyemiyorsa takviminizi bir tarayıcıda veya bilgisayarda açıp oradan ekleyin.';
 }

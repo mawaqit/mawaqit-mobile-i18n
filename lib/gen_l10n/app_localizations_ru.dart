@@ -3496,4 +3496,64 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Откалибруйте компас';
+
+  @override
+  String get add_to_calendar => 'Добавить в календарь';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Подпишитесь на время молитв мечети $mosqueName в своём календаре.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Это живая подписка, а не разовый импорт: когда мечеть меняет время, ваш календарь обновляется сам. Когда обновляться, решает приложение календаря, поэтому изменение может появиться в течение суток.';
+
+  @override
+  String get calendar_subscribe_ios => 'Добавить в Календарь Apple';
+
+  @override
+  String get calendar_copy_link => 'Копировать ссылку';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Ни одно приложение не смогло открыть ссылку на календарь. Скопируйте ссылку и добавьте её в календарь вручную.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Добавьте время молитв мечети $mosqueName в календарь на телефоне. MAWAQIT обновляет ближайшие 60 дней при каждом открытии приложения.';
+  }
+
+  @override
+  String get calendar_write_button => 'Добавить в мой календарь';
+
+  @override
+  String get calendar_write_choose => 'Выберите календарь';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Время молитв добавлено в $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Удалить из моего календаря';
+
+  @override
+  String get calendar_write_removed =>
+      'Время молитв удалено из вашего календаря';
+
+  @override
+  String get calendar_link_title => 'Подписка по ссылке';
+
+  @override
+  String get calendar_link_intro =>
+      'Чтобы календарь обновлялся сам, подпишитесь на ссылку мечети.';
+
+  @override
+  String get calendar_link_steps =>
+      'Скопируйте ссылку.\nВ приложении календаря найдите «Добавить подписку» или «По URL».\nВставьте ссылку и сохраните.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Если приложение календаря не позволяет добавить ссылку, откройте календарь в браузере или на компьютере и добавьте её там.';
 }

@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "Pusulayı kalibre edin",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "Takvime ekle",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "{mosqueName} namaz vakitlerine takviminizden abone olun.",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "Bu tek seferlik bir içe aktarma değil, canlı bir aboneliktir: cami vakitlerini değiştirdiğinde takviminiz kendiliğinden güncellenir. Ne zaman yenileneceğine takvim uygulamanız karar verir, bu yüzden bir değişikliğin görünmesi bir güne kadar sürebilir.",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "Apple Takvim'e ekle",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "Bağlantıyı kopyala",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "Takvim bağlantısını hiçbir uygulama açamadı. Bağlantıyı kopyalayın ve takviminize elle ekleyin.",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "{mosqueName} namaz vakitlerini telefonunuzdaki bir takvime ekleyin. MAWAQIT, uygulamayı her açtığınızda önümüzdeki 60 günü güncel tutar.",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "Takvimime ekle",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "Bir takvim seçin",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "Namaz vakitleri şu takvime eklendi: {calendarName}",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "Takvimimden kaldır",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "Namaz vakitleri takviminizden kaldırıldı",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "Bağlantıyla abone ol",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "Kendiliğinden güncellenen bir takvim için caminin bağlantısına abone olun.",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "Bağlantıyı kopyalayın.\nTakvim uygulamanızda “Abonelik ekle” veya “URL'den” seçeneğini arayın.\nBağlantıyı yapıştırın ve kaydedin.",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "Takvim uygulamanız bağlantı ekleyemiyorsa takviminizi bir tarayıcıda veya bilgisayarda açıp oradan ekleyin.",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

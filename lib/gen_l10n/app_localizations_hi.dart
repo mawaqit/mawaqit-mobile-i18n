@@ -3479,4 +3479,64 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'कम्पास कैलिब्रेट करें';
+
+  @override
+  String get add_to_calendar => 'कैलेंडर में जोड़ें';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'अपने कैलेंडर में $mosqueName के नमाज़ के समय की सदस्यता लें।';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'यह एक लाइव सदस्यता है, एक बार का आयात नहीं: जब मस्जिद अपने समय बदलती है, तो आपका कैलेंडर अपने आप अपडेट हो जाता है। कब रीफ़्रेश करना है, यह आपका कैलेंडर ऐप तय करता है, इसलिए किसी बदलाव को दिखने में एक दिन तक लग सकता है।';
+
+  @override
+  String get calendar_subscribe_ios => 'Apple कैलेंडर में जोड़ें';
+
+  @override
+  String get calendar_copy_link => 'लिंक कॉपी करें';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'कोई भी ऐप कैलेंडर लिंक नहीं खोल सका। लिंक कॉपी करें और उसे अपने कैलेंडर में मैन्युअल रूप से जोड़ें।';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return '$mosqueName के नमाज़ के समय अपने फ़ोन के किसी कैलेंडर में जोड़ें। हर बार ऐप खोलने पर MAWAQIT अगले 60 दिनों को अपडेट रखता है।';
+  }
+
+  @override
+  String get calendar_write_button => 'मेरे कैलेंडर में जोड़ें';
+
+  @override
+  String get calendar_write_choose => 'कैलेंडर चुनें';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'नमाज़ के समय $calendarName में जोड़ दिए गए';
+  }
+
+  @override
+  String get calendar_write_remove => 'मेरे कैलेंडर से हटाएँ';
+
+  @override
+  String get calendar_write_removed =>
+      'नमाज़ के समय आपके कैलेंडर से हटा दिए गए';
+
+  @override
+  String get calendar_link_title => 'लिंक से सदस्यता लें';
+
+  @override
+  String get calendar_link_intro =>
+      'अपने आप अपडेट होने वाले कैलेंडर के लिए मस्जिद के लिंक की सदस्यता लें।';
+
+  @override
+  String get calendar_link_steps =>
+      'लिंक कॉपी करें।\nअपने कैलेंडर ऐप में “सदस्यता जोड़ें” या “URL से” खोजें।\nलिंक पेस्ट करें और सेव करें।';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'अगर आपका कैलेंडर ऐप लिंक नहीं जोड़ सकता, तो अपना कैलेंडर ब्राउज़र या कंप्यूटर पर खोलें और वहाँ जोड़ें।';
 }

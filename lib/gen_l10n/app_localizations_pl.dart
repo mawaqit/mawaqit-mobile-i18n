@@ -3481,4 +3481,64 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Skalibruj kompas';
+
+  @override
+  String get add_to_calendar => 'Dodaj do kalendarza';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Subskrybuj w swoim kalendarzu czasy modlitw meczetu $mosqueName.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'To subskrypcja na żywo, a nie jednorazowy import: gdy meczet zmieni godziny, twój kalendarz zaktualizuje się sam. O tym, kiedy odświeżyć dane, decyduje aplikacja kalendarza, więc zmiana może pojawić się nawet po dniu.';
+
+  @override
+  String get calendar_subscribe_ios => 'Dodaj do Kalendarza Apple';
+
+  @override
+  String get calendar_copy_link => 'Kopiuj link';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Żadna aplikacja nie mogła otworzyć linku do kalendarza. Skopiuj link i dodaj go ręcznie do swojego kalendarza.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Dodaj czasy modlitw meczetu $mosqueName do kalendarza w telefonie. MAWAQIT aktualizuje najbliższe 60 dni za każdym razem, gdy otwierasz aplikację.';
+  }
+
+  @override
+  String get calendar_write_button => 'Dodaj do mojego kalendarza';
+
+  @override
+  String get calendar_write_choose => 'Wybierz kalendarz';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Dodano czasy modlitw do kalendarza $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Usuń z mojego kalendarza';
+
+  @override
+  String get calendar_write_removed =>
+      'Usunięto czasy modlitw z twojego kalendarza';
+
+  @override
+  String get calendar_link_title => 'Subskrybuj przez link';
+
+  @override
+  String get calendar_link_intro =>
+      'Aby kalendarz aktualizował się sam, zasubskrybuj link meczetu.';
+
+  @override
+  String get calendar_link_steps =>
+      'Skopiuj link.\nW aplikacji kalendarza znajdź opcję „Dodaj subskrypcję” lub „Z adresu URL”.\nWklej link i zapisz.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Jeśli twoja aplikacja kalendarza nie pozwala dodać linku, otwórz kalendarz w przeglądarce lub na komputerze i dodaj go tam.';
 }

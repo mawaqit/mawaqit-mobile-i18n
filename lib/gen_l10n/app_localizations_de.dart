@@ -3520,4 +3520,64 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kompass kalibrieren';
+
+  @override
+  String get add_to_calendar => 'Zum Kalender hinzufügen';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Abonnieren Sie die Gebetszeiten von $mosqueName in Ihrem Kalender.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Es ist ein Live-Abonnement, kein einmaliger Import: Wenn die Moschee ihre Zeiten ändert, aktualisiert sich Ihr Kalender von selbst. Ihre Kalender-App entscheidet, wann sie aktualisiert, daher kann es bis zu einem Tag dauern, bis eine Änderung erscheint.';
+
+  @override
+  String get calendar_subscribe_ios => 'Zu Apple Kalender hinzufügen';
+
+  @override
+  String get calendar_copy_link => 'Link kopieren';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Keine App konnte den Kalenderlink öffnen. Kopieren Sie den Link und fügen Sie ihn manuell zu Ihrem Kalender hinzu.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Fügen Sie die Gebetszeiten von $mosqueName einem Kalender auf Ihrem Telefon hinzu. MAWAQIT hält die nächsten 60 Tage bei jedem Öffnen der App aktuell.';
+  }
+
+  @override
+  String get calendar_write_button => 'Zu meinem Kalender hinzufügen';
+
+  @override
+  String get calendar_write_choose => 'Kalender auswählen';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Gebetszeiten zu $calendarName hinzugefügt';
+  }
+
+  @override
+  String get calendar_write_remove => 'Aus meinem Kalender entfernen';
+
+  @override
+  String get calendar_write_removed =>
+      'Gebetszeiten aus Ihrem Kalender entfernt';
+
+  @override
+  String get calendar_link_title => 'Mit einem Link abonnieren';
+
+  @override
+  String get calendar_link_intro =>
+      'Für einen Kalender, der sich von selbst aktualisiert, abonnieren Sie den Link der Moschee.';
+
+  @override
+  String get calendar_link_steps =>
+      'Kopieren Sie den Link.\nSuchen Sie in Ihrer Kalender-App nach „Abonnement hinzufügen“ oder „Per URL“.\nFügen Sie den Link ein und speichern Sie.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Wenn Ihre Kalender-App keinen Link hinzufügen kann, öffnen Sie Ihren Kalender im Browser oder am Computer und fügen Sie ihn dort hinzu.';
 }

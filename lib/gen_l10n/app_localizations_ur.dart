@@ -3470,4 +3470,64 @@ class AppLocalizationsUr extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'کمپاس کیلیبریٹ کریں';
+
+  @override
+  String get add_to_calendar => 'کیلنڈر میں شامل کریں';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'اپنے کیلنڈر میں $mosqueName کے نماز کے اوقات کو سبسکرائب کریں۔';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'یہ براہِ راست سبسکرپشن ہے، ایک بار کی درآمد نہیں: جب مسجد اپنے اوقات بدلتی ہے تو آپ کا کیلنڈر خود بخود اپ ڈیٹ ہو جاتا ہے۔ ریفریش کب ہو، یہ آپ کی کیلنڈر ایپ طے کرتی ہے، اس لیے کسی تبدیلی کے ظاہر ہونے میں ایک دن تک لگ سکتا ہے۔';
+
+  @override
+  String get calendar_subscribe_ios => 'Apple کیلنڈر میں شامل کریں';
+
+  @override
+  String get calendar_copy_link => 'لنک کاپی کریں';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'کوئی بھی ایپ کیلنڈر کا لنک نہیں کھول سکی۔ لنک کاپی کریں اور اسے دستی طور پر اپنے کیلنڈر میں شامل کریں۔';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return '$mosqueName کے نماز کے اوقات اپنے فون کے کسی کیلنڈر میں شامل کریں۔ جب بھی آپ ایپ کھولتے ہیں، مواقيت اگلے 60 دنوں کو تازہ رکھتا ہے۔';
+  }
+
+  @override
+  String get calendar_write_button => 'میرے کیلنڈر میں شامل کریں';
+
+  @override
+  String get calendar_write_choose => 'کیلنڈر منتخب کریں';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'نماز کے اوقات $calendarName میں شامل کر دیے گئے';
+  }
+
+  @override
+  String get calendar_write_remove => 'میرے کیلنڈر سے ہٹائیں';
+
+  @override
+  String get calendar_write_removed =>
+      'نماز کے اوقات آپ کے کیلنڈر سے ہٹا دیے گئے';
+
+  @override
+  String get calendar_link_title => 'لنک کے ذریعے سبسکرائب کریں';
+
+  @override
+  String get calendar_link_intro =>
+      'خود بخود اپ ڈیٹ ہونے والے کیلنڈر کے لیے مسجد کے لنک کو سبسکرائب کریں۔';
+
+  @override
+  String get calendar_link_steps =>
+      'لنک کاپی کریں۔\nاپنی کیلنڈر ایپ میں «سبسکرپشن شامل کریں» یا «URL سے» تلاش کریں۔\nلنک پیسٹ کریں اور محفوظ کریں۔';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'اگر آپ کی کیلنڈر ایپ لنک شامل نہیں کر سکتی تو اپنا کیلنڈر براؤزر یا کمپیوٹر پر کھولیں اور وہاں شامل کریں۔';
 }

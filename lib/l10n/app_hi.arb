@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "कम्पास कैलिब्रेट करें",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "कैलेंडर में जोड़ें",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "अपने कैलेंडर में {mosqueName} के नमाज़ के समय की सदस्यता लें।",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "यह एक लाइव सदस्यता है, एक बार का आयात नहीं: जब मस्जिद अपने समय बदलती है, तो आपका कैलेंडर अपने आप अपडेट हो जाता है। कब रीफ़्रेश करना है, यह आपका कैलेंडर ऐप तय करता है, इसलिए किसी बदलाव को दिखने में एक दिन तक लग सकता है।",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "Apple कैलेंडर में जोड़ें",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "लिंक कॉपी करें",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "कोई भी ऐप कैलेंडर लिंक नहीं खोल सका। लिंक कॉपी करें और उसे अपने कैलेंडर में मैन्युअल रूप से जोड़ें।",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "{mosqueName} के नमाज़ के समय अपने फ़ोन के किसी कैलेंडर में जोड़ें। हर बार ऐप खोलने पर MAWAQIT अगले 60 दिनों को अपडेट रखता है।",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "मेरे कैलेंडर में जोड़ें",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "कैलेंडर चुनें",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "नमाज़ के समय {calendarName} में जोड़ दिए गए",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "मेरे कैलेंडर से हटाएँ",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "नमाज़ के समय आपके कैलेंडर से हटा दिए गए",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "लिंक से सदस्यता लें",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "अपने आप अपडेट होने वाले कैलेंडर के लिए मस्जिद के लिंक की सदस्यता लें।",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "लिंक कॉपी करें।\nअपने कैलेंडर ऐप में “सदस्यता जोड़ें” या “URL से” खोजें।\nलिंक पेस्ट करें और सेव करें।",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "अगर आपका कैलेंडर ऐप लिंक नहीं जोड़ सकता, तो अपना कैलेंडर ब्राउज़र या कंप्यूटर पर खोलें और वहाँ जोड़ें।",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

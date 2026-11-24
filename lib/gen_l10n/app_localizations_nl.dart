@@ -3499,4 +3499,63 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kompas kalibreren';
+
+  @override
+  String get add_to_calendar => 'Toevoegen aan agenda';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Abonneer u in uw agenda op de gebedstijden van $mosqueName.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Het is een live-abonnement, geen eenmalige import: als de moskee haar tijden wijzigt, wordt uw agenda vanzelf bijgewerkt. Uw agenda-app bepaalt wanneer er wordt vernieuwd, dus het kan tot een dag duren voordat een wijziging verschijnt.';
+
+  @override
+  String get calendar_subscribe_ios => 'Toevoegen aan Apple Agenda';
+
+  @override
+  String get calendar_copy_link => 'Link kopiëren';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Geen enkele app kon de agendalink openen. Kopieer de link en voeg hem handmatig toe aan uw agenda.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Voeg de gebedstijden van $mosqueName toe aan een agenda op uw telefoon. MAWAQIT houdt de komende 60 dagen bij telkens wanneer u de app opent.';
+  }
+
+  @override
+  String get calendar_write_button => 'Toevoegen aan mijn agenda';
+
+  @override
+  String get calendar_write_choose => 'Kies een agenda';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Gebedstijden toegevoegd aan $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Verwijderen uit mijn agenda';
+
+  @override
+  String get calendar_write_removed => 'Gebedstijden verwijderd uit uw agenda';
+
+  @override
+  String get calendar_link_title => 'Abonneren met een link';
+
+  @override
+  String get calendar_link_intro =>
+      'Voor een agenda die zichzelf bijwerkt, abonneert u zich op de link van de moskee.';
+
+  @override
+  String get calendar_link_steps =>
+      'Kopieer de link.\nZoek in uw agenda-app naar ‘Abonnement toevoegen’ of ‘Via URL’.\nPlak de link en sla op.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Als uw agenda-app geen link kan toevoegen, open dan uw agenda in een browser of op een computer en voeg hem daar toe.';
 }

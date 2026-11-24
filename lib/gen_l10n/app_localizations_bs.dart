@@ -3505,4 +3505,64 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kalibrirajte kompas';
+
+  @override
+  String get add_to_calendar => 'Dodaj u kalendar';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Pretplatite se na vremena namaza džamije $mosqueName u svom kalendaru.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Ovo je pretplata uživo, a ne jednokratni uvoz: kada džamija promijeni vremena, vaš kalendar se sam ažurira. Aplikacija kalendara odlučuje kada će se osvježiti, pa se promjena može pojaviti tek nakon jednog dana.';
+
+  @override
+  String get calendar_subscribe_ios => 'Dodaj u Apple Kalendar';
+
+  @override
+  String get calendar_copy_link => 'Kopiraj link';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Nijedna aplikacija nije mogla otvoriti link kalendara. Kopirajte link i ručno ga dodajte u svoj kalendar.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Dodajte vremena namaza džamije $mosqueName u kalendar na svom telefonu. MAWAQIT održava narednih 60 dana ažurnim svaki put kada otvorite aplikaciju.';
+  }
+
+  @override
+  String get calendar_write_button => 'Dodaj u moj kalendar';
+
+  @override
+  String get calendar_write_choose => 'Odaberite kalendar';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Vremena namaza su dodana u $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Ukloni iz mog kalendara';
+
+  @override
+  String get calendar_write_removed =>
+      'Vremena namaza su uklonjena iz vašeg kalendara';
+
+  @override
+  String get calendar_link_title => 'Pretplata putem linka';
+
+  @override
+  String get calendar_link_intro =>
+      'Za kalendar koji se sam ažurira, pretplatite se na link džamije.';
+
+  @override
+  String get calendar_link_steps =>
+      'Kopirajte link.\nU aplikaciji kalendara potražite „Dodaj pretplatu“ ili „Sa URL adrese“.\nZalijepite link i sačuvajte.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Ako vaša aplikacija kalendara ne može dodati link, otvorite kalendar u pregledniku ili na računaru i dodajte ga tamo.';
 }

@@ -3508,4 +3508,64 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Calibrar a bússola';
+
+  @override
+  String get add_to_calendar => 'Adicionar ao calendário';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Subscreva os horários de oração de $mosqueName no seu calendário.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'É uma subscrição em direto, não uma importação única: quando a mesquita altera os horários, o seu calendário atualiza-se sozinho. A sua aplicação de calendário decide quando atualizar, por isso uma alteração pode demorar até um dia a aparecer.';
+
+  @override
+  String get calendar_subscribe_ios => 'Adicionar ao Calendário da Apple';
+
+  @override
+  String get calendar_copy_link => 'Copiar ligação';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Nenhuma aplicação conseguiu abrir a ligação do calendário. Copie a ligação e adicione-a manualmente ao seu calendário.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Adicione os horários de oração de $mosqueName a um calendário no seu telemóvel. O MAWAQIT mantém os próximos 60 dias atualizados sempre que abre a aplicação.';
+  }
+
+  @override
+  String get calendar_write_button => 'Adicionar ao meu calendário';
+
+  @override
+  String get calendar_write_choose => 'Escolher um calendário';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Horários de oração adicionados a $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Remover do meu calendário';
+
+  @override
+  String get calendar_write_removed =>
+      'Horários de oração removidos do seu calendário';
+
+  @override
+  String get calendar_link_title => 'Subscrever com uma ligação';
+
+  @override
+  String get calendar_link_intro =>
+      'Para um calendário que se atualiza sozinho, subscreva a ligação da mesquita.';
+
+  @override
+  String get calendar_link_steps =>
+      'Copie a ligação.\nNa sua aplicação de calendário, procure «Adicionar subscrição» ou «A partir de URL».\nCole a ligação e guarde.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Se a sua aplicação de calendário não permitir adicionar uma ligação, abra o seu calendário num navegador ou num computador e adicione-a aí.';
 }

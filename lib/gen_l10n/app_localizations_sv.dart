@@ -3473,4 +3473,63 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kalibrera kompassen';
+
+  @override
+  String get add_to_calendar => 'Lägg till i kalendern';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Prenumerera på bönetiderna för $mosqueName i din kalender.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Det är en liveprenumeration, inte en engångsimport: när moskén ändrar sina tider uppdateras din kalender av sig själv. Din kalenderapp bestämmer när den uppdateras, så det kan ta upp till ett dygn innan en ändring syns.';
+
+  @override
+  String get calendar_subscribe_ios => 'Lägg till i Apple Kalender';
+
+  @override
+  String get calendar_copy_link => 'Kopiera länk';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Ingen app kunde öppna kalenderlänken. Kopiera länken och lägg till den i din kalender manuellt.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Lägg till bönetiderna för $mosqueName i en kalender på din telefon. MAWAQIT håller de kommande 60 dagarna uppdaterade varje gång du öppnar appen.';
+  }
+
+  @override
+  String get calendar_write_button => 'Lägg till i min kalender';
+
+  @override
+  String get calendar_write_choose => 'Välj en kalender';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Bönetider tillagda i $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Ta bort från min kalender';
+
+  @override
+  String get calendar_write_removed => 'Bönetider borttagna från din kalender';
+
+  @override
+  String get calendar_link_title => 'Prenumerera med en länk';
+
+  @override
+  String get calendar_link_intro =>
+      'För en kalender som uppdateras av sig själv, prenumerera på moskéns länk.';
+
+  @override
+  String get calendar_link_steps =>
+      'Kopiera länken.\nLeta efter ”Lägg till prenumeration” eller ”Från URL” i din kalenderapp.\nKlistra in länken och spara.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Om din kalenderapp inte kan lägga till en länk kan du öppna kalendern i en webbläsare eller på en dator och lägga till den där.';
 }

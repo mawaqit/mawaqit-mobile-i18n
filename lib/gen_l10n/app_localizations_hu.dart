@@ -3499,4 +3499,63 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Iránytű kalibrálása';
+
+  @override
+  String get add_to_calendar => 'Hozzáadás a naptárhoz';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Iratkozz fel a(z) $mosqueName imaidőire a naptáradban.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Ez élő feliratkozás, nem egyszeri importálás: ha a mecset módosítja az időpontokat, a naptárad magától frissül. A naptáralkalmazás dönti el, mikor frissít, ezért egy változás akár egy nap múlva jelenhet meg.';
+
+  @override
+  String get calendar_subscribe_ios => 'Hozzáadás az Apple Naptárhoz';
+
+  @override
+  String get calendar_copy_link => 'Link másolása';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Egyik alkalmazás sem tudta megnyitni a naptárlinket. Másold ki a linket, és add hozzá kézzel a naptáradhoz.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Add hozzá a(z) $mosqueName imaidőit a telefonod egyik naptárához. A MAWAQIT minden alkalommal naprakészen tartja a következő 60 napot, amikor megnyitod az alkalmazást.';
+  }
+
+  @override
+  String get calendar_write_button => 'Hozzáadás a naptáramhoz';
+
+  @override
+  String get calendar_write_choose => 'Válassz naptárt';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Imaidők hozzáadva ehhez: $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Eltávolítás a naptáramból';
+
+  @override
+  String get calendar_write_removed => 'Imaidők eltávolítva a naptáradból';
+
+  @override
+  String get calendar_link_title => 'Feliratkozás linkkel';
+
+  @override
+  String get calendar_link_intro =>
+      'Ha magától frissülő naptárt szeretnél, iratkozz fel a mecset linkjére.';
+
+  @override
+  String get calendar_link_steps =>
+      'Másold ki a linket.\nA naptáralkalmazásban keresd a „Feliratkozás hozzáadása” vagy az „URL-ből” lehetőséget.\nIllaszd be a linket, és mentsd.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Ha a naptáralkalmazásod nem tud linket hozzáadni, nyisd meg a naptárad böngészőben vagy számítógépen, és ott add hozzá.';
 }

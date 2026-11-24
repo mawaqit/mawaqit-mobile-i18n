@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "මාලිමාව ක්‍රමාංකනය කරන්න",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "දින දර්ශනයට එක් කරන්න",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "ඔබේ දින දර්ශනයේ {mosqueName} හි සලාත් වේලාවන්ට දායක වන්න.",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "මෙය එක් වරක ආයාත කිරීමක් නොව සජීවී දායකත්වයකි: පල්ලිය වේලාවන් වෙනස් කළ විට ඔබේ දින දර්ශනය ස්වයංක්‍රීයව යාවත්කාලීන වේ. නැවුම් කරන්නේ කවදාදැයි ඔබේ දින දර්ශන යෙදුම තීරණය කරයි, එබැවින් වෙනසක් පෙන්වීමට දිනක් දක්වා ගත විය හැක.",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "Apple දින දර්ශනයට එක් කරන්න",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "සබැඳිය පිටපත් කරන්න",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "කිසිදු යෙදුමකට දින දර්ශන සබැඳිය විවෘත කිරීමට නොහැකි විය. සබැඳිය පිටපත් කර එය ඔබේ දින දර්ශනයට අතින් එක් කරන්න.",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "{mosqueName} හි සලාත් වේලාවන් ඔබේ දුරකථනයේ දින දර්ශනයකට එක් කරන්න. ඔබ යෙදුම විවෘත කරන සෑම විටම MAWAQIT ඉදිරි දින 60 යාවත්කාලීනව තබයි.",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "මගේ දින දර්ශනයට එක් කරන්න",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "දින දර්ශනයක් තෝරන්න",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "සලාත් වේලාවන් {calendarName} වෙත එක් කරන ලදී",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "මගේ දින දර්ශනයෙන් ඉවත් කරන්න",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "සලාත් වේලාවන් ඔබේ දින දර්ශනයෙන් ඉවත් කරන ලදී",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "සබැඳියක් මගින් දායක වන්න",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "ස්වයංක්‍රීයව යාවත්කාලීන වන දින දර්ශනයක් සඳහා, පල්ලියේ සබැඳියට දායක වන්න.",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "සබැඳිය පිටපත් කරන්න.\nඔබේ දින දර්ශන යෙදුමේ “දායකත්වය එක් කරන්න” හෝ “URL වෙතින්” සොයන්න.\nසබැඳිය අලවා සුරකින්න.",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "ඔබේ දින දර්ශන යෙදුමට සබැඳියක් එක් කළ නොහැකි නම්, බ්‍රවුසරයක හෝ පරිගණකයක ඔබේ දින දර්ශනය විවෘත කර එහි එක් කරන්න.",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

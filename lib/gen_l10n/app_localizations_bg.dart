@@ -3484,4 +3484,64 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Калибрирайте компаса';
+
+  @override
+  String get add_to_calendar => 'Добави в календара';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Абонирайте се за времената за молитва на $mosqueName в календара си.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Това е абонамент на живо, а не еднократно импортиране: когато джамията промени времената си, календарът ви се обновява сам. Приложението за календар решава кога да опресни данните, затова промяната може да се появи до един ден по-късно.';
+
+  @override
+  String get calendar_subscribe_ios => 'Добави в Календар на Apple';
+
+  @override
+  String get calendar_copy_link => 'Копирай връзката';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Никое приложение не успя да отвори връзката към календара. Копирайте връзката и я добавете ръчно в календара си.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Добавете времената за молитва на $mosqueName в календар на телефона си. MAWAQIT поддържа следващите 60 дни актуални всеки път, когато отворите приложението.';
+  }
+
+  @override
+  String get calendar_write_button => 'Добави в моя календар';
+
+  @override
+  String get calendar_write_choose => 'Изберете календар';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Времената за молитва са добавени в $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Премахни от моя календар';
+
+  @override
+  String get calendar_write_removed =>
+      'Времената за молитва са премахнати от календара ви';
+
+  @override
+  String get calendar_link_title => 'Абонамент чрез връзка';
+
+  @override
+  String get calendar_link_intro =>
+      'За календар, който се обновява сам, се абонирайте за връзката на джамията.';
+
+  @override
+  String get calendar_link_steps =>
+      'Копирайте връзката.\nВ приложението за календар потърсете „Добавяне на абонамент“ или „От URL адрес“.\nПоставете връзката и запазете.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Ако приложението ви за календар не може да добави връзка, отворете календара си в браузър или на компютър и я добавете там.';
 }

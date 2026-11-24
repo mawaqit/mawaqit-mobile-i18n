@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "কম্পাস ক্যালিব্রেট করুন",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "ক্যালেন্ডারে যোগ করুন",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "আপনার ক্যালেন্ডারে {mosqueName}-এর নামাজের সময়সূচিতে সাবস্ক্রাইব করুন।",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "এটি একটি লাইভ সাবস্ক্রিপশন, একবারের ইমপোর্ট নয়: মসজিদ সময় পরিবর্তন করলে আপনার ক্যালেন্ডার নিজে থেকেই আপডেট হয়। কখন রিফ্রেশ হবে তা আপনার ক্যালেন্ডার অ্যাপ ঠিক করে, তাই কোনো পরিবর্তন দেখা দিতে এক দিন পর্যন্ত লাগতে পারে।",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "Apple ক্যালেন্ডারে যোগ করুন",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "লিংক কপি করুন",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "কোনো অ্যাপ ক্যালেন্ডারের লিংকটি খুলতে পারেনি। লিংকটি কপি করে নিজে আপনার ক্যালেন্ডারে যোগ করুন।",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "{mosqueName}-এর নামাজের সময়সূচি আপনার ফোনের একটি ক্যালেন্ডারে যোগ করুন। প্রতিবার অ্যাপ খুললে MAWAQIT পরবর্তী 60 দিন হালনাগাদ রাখে।",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "আমার ক্যালেন্ডারে যোগ করুন",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "একটি ক্যালেন্ডার বেছে নিন",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "নামাজের সময়সূচি {calendarName}-এ যোগ করা হয়েছে",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "আমার ক্যালেন্ডার থেকে সরান",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "নামাজের সময়সূচি আপনার ক্যালেন্ডার থেকে সরানো হয়েছে",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "লিংক দিয়ে সাবস্ক্রাইব করুন",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "নিজে থেকে আপডেট হওয়া ক্যালেন্ডারের জন্য মসজিদের লিংকে সাবস্ক্রাইব করুন।",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "লিংকটি কপি করুন।\nআপনার ক্যালেন্ডার অ্যাপে “সাবস্ক্রিপশন যোগ করুন” বা “URL থেকে” খুঁজুন।\nলিংকটি পেস্ট করে সেভ করুন।",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "আপনার ক্যালেন্ডার অ্যাপ লিংক যোগ করতে না পারলে ব্রাউজারে বা কম্পিউটারে ক্যালেন্ডার খুলে সেখানে যোগ করুন।",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

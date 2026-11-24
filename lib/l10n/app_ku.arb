@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "ڕێکخستنەوەی قیبلەنما",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "زیادکردن بۆ ڕۆژژمێر",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "لە ڕۆژژمێرەکەتدا بەشداری کاتەکانی نوێژی {mosqueName} بکە.",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "ئەمە بەشدارییەکی ڕاستەوخۆیە، نەک هاوردەکردنێکی یەکجارەکی: کاتێک مزگەوت کاتەکانی دەگۆڕێت، ڕۆژژمێرەکەت خۆی نوێ دەبێتەوە. ئەپی ڕۆژژمێرەکەت بڕیار دەدات کەی نوێ ببێتەوە، بۆیە لەوانەیە دەرکەوتنی گۆڕانکارییەک تا ڕۆژێک بخایەنێت.",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "زیادکردن بۆ ڕۆژژمێری Apple",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "لەبەرگرتنەوەی بەستەر",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "هیچ ئەپێک نەیتوانی بەستەری ڕۆژژمێرەکە بکاتەوە. بەستەرەکە لەبەر بگرەوە و بە دەستی زیادی بکە بۆ ڕۆژژمێرەکەت.",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "کاتەکانی نوێژی {mosqueName} زیاد بکە بۆ ڕۆژژمێرێک لە مۆبایلەکەتدا. مەواقیت هەر جارێک ئەپەکە بکەیتەوە، 60 ڕۆژی داهاتوو نوێ دەکاتەوە.",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "زیادکردن بۆ ڕۆژژمێرەکەم",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "ڕۆژژمێرێک هەڵبژێرە",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "کاتەکانی نوێژ زیادکران بۆ {calendarName}",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "لابردن لە ڕۆژژمێرەکەم",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "کاتەکانی نوێژ لە ڕۆژژمێرەکەت لابران",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "بەشداریکردن بە بەستەر",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "بۆ ڕۆژژمێرێک کە خۆی نوێ دەبێتەوە، بەشداری بەستەری مزگەوتەکە بکە.",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "بەستەرەکە لەبەر بگرەوە.\nلە ئەپی ڕۆژژمێرەکەتدا بەدوای «زیادکردنی بەشداریکردن» یان «لە URL» بگەڕێ.\nبەستەرەکە بلکێنە و پاشەکەوتی بکە.",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "ئەگەر ئەپی ڕۆژژمێرەکەت ناتوانێت بەستەر زیاد بکات، ڕۆژژمێرەکەت لە وێبگەڕێک یان کۆمپیوتەرێکدا بکەرەوە و لەوێ زیادی بکە.",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

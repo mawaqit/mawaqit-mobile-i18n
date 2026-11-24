@@ -3482,4 +3482,64 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kalibrasi kompas';
+
+  @override
+  String get add_to_calendar => 'Tambahkan ke kalender';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Berlangganan jadwal salat $mosqueName di kalender Anda.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Ini adalah langganan langsung, bukan impor sekali saja: saat masjid mengubah jadwalnya, kalender Anda diperbarui dengan sendirinya. Aplikasi kalender Anda yang menentukan kapan memuat ulang, sehingga perubahan bisa memerlukan waktu hingga satu hari untuk muncul.';
+
+  @override
+  String get calendar_subscribe_ios => 'Tambahkan ke Kalender Apple';
+
+  @override
+  String get calendar_copy_link => 'Salin tautan';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Tidak ada aplikasi yang dapat membuka tautan kalender. Salin tautan dan tambahkan ke kalender Anda secara manual.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Tambahkan jadwal salat $mosqueName ke kalender di ponsel Anda. MAWAQIT memperbarui 60 hari ke depan setiap kali Anda membuka aplikasi.';
+  }
+
+  @override
+  String get calendar_write_button => 'Tambahkan ke kalender saya';
+
+  @override
+  String get calendar_write_choose => 'Pilih kalender';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Jadwal salat ditambahkan ke $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Hapus dari kalender saya';
+
+  @override
+  String get calendar_write_removed =>
+      'Jadwal salat dihapus dari kalender Anda';
+
+  @override
+  String get calendar_link_title => 'Berlangganan dengan tautan';
+
+  @override
+  String get calendar_link_intro =>
+      'Untuk kalender yang diperbarui dengan sendirinya, berlanggananlah ke tautan masjid.';
+
+  @override
+  String get calendar_link_steps =>
+      'Salin tautan.\nDi aplikasi kalender Anda, cari “Tambah langganan” atau “Dari URL”.\nTempel tautan lalu simpan.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Jika aplikasi kalender Anda tidak dapat menambahkan tautan, buka kalender Anda di browser atau komputer dan tambahkan di sana.';
 }

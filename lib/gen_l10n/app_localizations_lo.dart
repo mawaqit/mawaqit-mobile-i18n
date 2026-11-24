@@ -3475,4 +3475,63 @@ class AppLocalizationsLo extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'ປັບທຽບເຂັມທິດ';
+
+  @override
+  String get add_to_calendar => 'ເພີ່ມໃສ່ປະຕິທິນ';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'ສະໝັກຮັບເວລາລະໝາດຂອງ $mosqueName ໃນປະຕິທິນຂອງທ່ານ.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'ນີ້ແມ່ນການສະໝັກຮັບແບບສືດ, ບໍ່ແມ່ນການນຳເຂົ້າຄັ້ງດຽວ: ເມື່ອມັດສະຍິດປ່ຽນເວລາ, ປະຕິທິນຂອງທ່ານຈະອັບເດດເອງ. ແອັບປະຕິທິນຂອງທ່ານເປັນຜູ້ກຳນົດວ່າຈະໂຫຼດຄືນເມື່ອໃດ, ສະນັ້ນການປ່ຽນແປງອາດໃຊ້ເວລາເຖິງໜຶ່ງມື້ຈຶ່ງຈະສະແດງ.';
+
+  @override
+  String get calendar_subscribe_ios => 'ເພີ່ມໃສ່ປະຕິທິນ Apple';
+
+  @override
+  String get calendar_copy_link => 'ສຳເນົາລິ້ງ';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'ບໍ່ມີແອັບໃດເປີດລິ້ງປະຕິທິນໄດ້. ສຳເນົາລິ້ງແລ້ວເພີ່ມໃສ່ປະຕິທິນຂອງທ່ານດ້ວຍຕົນເອງ.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'ເພີ່ມເວລາລະໝາດຂອງ $mosqueName ໃສ່ປະຕິທິນໃນໂທລະສັບຂອງທ່ານ. MAWAQIT ຈະອັບເດດ 60 ມື້ຂ້າງໜ້າທຸກຄັ້ງທີ່ທ່ານເປີດແອັບ.';
+  }
+
+  @override
+  String get calendar_write_button => 'ເພີ່ມໃສ່ປະຕິທິນຂອງຂ້ອຍ';
+
+  @override
+  String get calendar_write_choose => 'ເລືອກປະຕິທິນ';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'ເພີ່ມເວລາລະໝາດໃສ່ $calendarName ແລ້ວ';
+  }
+
+  @override
+  String get calendar_write_remove => 'ລຶບອອກຈາກປະຕິທິນຂອງຂ້ອຍ';
+
+  @override
+  String get calendar_write_removed => 'ລຶບເວລາລະໝາດອອກຈາກປະຕິທິນຂອງທ່ານແລ້ວ';
+
+  @override
+  String get calendar_link_title => 'ສະໝັກຮັບດ້ວຍລິ້ງ';
+
+  @override
+  String get calendar_link_intro =>
+      'ສຳລັບປະຕິທິນທີ່ອັບເດດເອງ, ໃຫ້ສະໝັກຮັບລິ້ງຂອງມັດສະຍິດ.';
+
+  @override
+  String get calendar_link_steps =>
+      'ສຳເນົາລິ້ງ.\nໃນແອັບປະຕິທິນຂອງທ່ານ, ຊອກຫາ “ເພີ່ມການສະໝັກຮັບ” ຫຼື “ຈາກ URL”.\nວາງລິ້ງແລ້ວບັນທຶກ.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'ຖ້າແອັບປະຕິທິນຂອງທ່ານເພີ່ມລິ້ງບໍ່ໄດ້, ໃຫ້ເປີດປະຕິທິນຂອງທ່ານໃນບຣາວເຊີ ຫຼື ໃນຄອມພິວເຕີ ແລ້ວເພີ່ມຢູ່ບ່ອນນັ້ນ.';
 }

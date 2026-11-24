@@ -2151,5 +2151,69 @@
     "qibla_calibrate_compass": "ក្រិតខ្នាតត្រីវិស័យ",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
+    },
+    "add_to_calendar": "បន្ថែមទៅប្រតិទិន",
+    "@add_to_calendar": {
+        "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
+    },
+    "calendar_subscription_body": "ជាវម៉ោងសឡាតរបស់ {mosqueName} នៅក្នុងប្រតិទិនរបស់អ្នក។",
+    "@calendar_subscription_body": {
+        "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_subscription_live_info": "នេះជាការជាវផ្ទាល់ មិនមែនការនាំចូលតែម្តងទេ៖ នៅពេលវិហារឥស្លាមប្តូរម៉ោង ប្រតិទិនរបស់អ្នកនឹងធ្វើបច្ចុប្បន្នភាពដោយខ្លួនឯង។ កម្មវិធីប្រតិទិនរបស់អ្នកជាអ្នកសម្រេចថាពេលណាត្រូវផ្ទុកឡើងវិញ ដូច្នេះការផ្លាស់ប្តូរអាចត្រូវការពេលរហូតដល់មួយថ្ងៃទើបបង្ហាញ។",
+    "@calendar_subscription_live_info": {
+        "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
+    },
+    "calendar_subscribe_ios": "បន្ថែមទៅប្រតិទិន Apple",
+    "@calendar_subscribe_ios": {
+        "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
+    },
+    "calendar_copy_link": "ចម្លងតំណ",
+    "@calendar_copy_link": {
+        "description": "Add to calendar sheet: copies the subscription link."
+    },
+    "calendar_subscription_open_failed": "គ្មានកម្មវិធីណាអាចបើកតំណប្រតិទិនបានទេ។ សូមចម្លងតំណ ហើយបន្ថែមវាទៅប្រតិទិនរបស់អ្នកដោយដៃ។",
+    "@calendar_subscription_open_failed": {
+        "description": "Error shown when no app can open the calendar subscription link."
+    },
+    "calendar_write_body": "បន្ថែមម៉ោងសឡាតរបស់ {mosqueName} ទៅប្រតិទិនមួយនៅលើទូរសព្ទរបស់អ្នក។ MAWAQIT រក្សា 60 ថ្ងៃខាងមុខឱ្យទាន់សម័យរាល់ពេលអ្នកបើកកម្មវិធី។",
+    "@calendar_write_body": {
+        "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
+    },
+    "calendar_write_button": "បន្ថែមទៅប្រតិទិនរបស់ខ្ញុំ",
+    "@calendar_write_button": {
+        "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
+    },
+    "calendar_write_choose": "ជ្រើសរើសប្រតិទិន",
+    "@calendar_write_choose": {
+        "description": "Title of the list of the phone's calendars to write the prayers into."
+    },
+    "calendar_write_done": "បានបន្ថែមម៉ោងសឡាតទៅ {calendarName}",
+    "@calendar_write_done": {
+        "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
+    },
+    "calendar_write_remove": "ដកចេញពីប្រតិទិនរបស់ខ្ញុំ",
+    "@calendar_write_remove": {
+        "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
+    },
+    "calendar_write_removed": "បានដកម៉ោងសឡាតចេញពីប្រតិទិនរបស់អ្នក",
+    "@calendar_write_removed": {
+        "description": "Toast after the written prayers were removed."
+    },
+    "calendar_link_title": "ជាវតាមតំណ",
+    "@calendar_link_title": {
+        "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
+    },
+    "calendar_link_intro": "សម្រាប់ប្រតិទិនដែលធ្វើបច្ចុប្បន្នភាពដោយខ្លួនឯង សូមជាវតំណរបស់វិហារឥស្លាម។",
+    "@calendar_link_intro": {
+        "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
+    },
+    "calendar_link_steps": "ចម្លងតំណ។\nនៅក្នុងកម្មវិធីប្រតិទិនរបស់អ្នក រកមើល “បន្ថែមការជាវ” ឬ “ពី URL”។\nបិទភ្ជាប់តំណ ហើយរក្សាទុក។",
+    "@calendar_link_steps": {
+        "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
+    },
+    "calendar_link_browser_hint": "ប្រសិនបើកម្មវិធីប្រតិទិនរបស់អ្នកមិនអាចបន្ថែមតំណបាន សូមបើកប្រតិទិនរបស់អ្នកនៅក្នុងកម្មវិធីរុករក ឬនៅលើកុំព្យូទ័រ ហើយបន្ថែមវានៅទីនោះ។",
+    "@calendar_link_browser_hint": {
+        "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     }
 }

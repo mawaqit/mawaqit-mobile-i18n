@@ -3479,4 +3479,63 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get qibla_calibrate_compass => 'Kalibroi kompassi';
+
+  @override
+  String get add_to_calendar => 'Lisää kalenteriin';
+
+  @override
+  String calendar_subscription_body(Object mosqueName) {
+    return 'Tilaa moskeijan $mosqueName rukousajat kalenteriisi.';
+  }
+
+  @override
+  String get calendar_subscription_live_info =>
+      'Kyseessä on jatkuva tilaus eikä kertaluonteinen tuonti: kun moskeija muuttaa aikojaan, kalenterisi päivittyy itsestään. Kalenterisovellus päättää, milloin se päivittää tiedot, joten muutoksen näkyminen voi kestää jopa vuorokauden.';
+
+  @override
+  String get calendar_subscribe_ios => 'Lisää Applen Kalenteriin';
+
+  @override
+  String get calendar_copy_link => 'Kopioi linkki';
+
+  @override
+  String get calendar_subscription_open_failed =>
+      'Mikään sovellus ei voinut avata kalenterilinkkiä. Kopioi linkki ja lisää se kalenteriisi käsin.';
+
+  @override
+  String calendar_write_body(Object mosqueName) {
+    return 'Lisää moskeijan $mosqueName rukousajat puhelimesi kalenteriin. MAWAQIT pitää seuraavat 60 päivää ajan tasalla aina, kun avaat sovelluksen.';
+  }
+
+  @override
+  String get calendar_write_button => 'Lisää omaan kalenteriin';
+
+  @override
+  String get calendar_write_choose => 'Valitse kalenteri';
+
+  @override
+  String calendar_write_done(Object calendarName) {
+    return 'Rukousajat lisätty kalenteriin $calendarName';
+  }
+
+  @override
+  String get calendar_write_remove => 'Poista omasta kalenterista';
+
+  @override
+  String get calendar_write_removed => 'Rukousajat poistettu kalenteristasi';
+
+  @override
+  String get calendar_link_title => 'Tilaa linkillä';
+
+  @override
+  String get calendar_link_intro =>
+      'Jos haluat kalenterin, joka päivittyy itsestään, tilaa moskeijan linkki.';
+
+  @override
+  String get calendar_link_steps =>
+      'Kopioi linkki.\nEtsi kalenterisovelluksesta kohta ”Lisää tilaus” tai ”URL-osoitteesta”.\nLiitä linkki ja tallenna.';
+
+  @override
+  String get calendar_link_browser_hint =>
+      'Jos kalenterisovelluksesi ei voi lisätä linkkiä, avaa kalenterisi selaimessa tai tietokoneella ja lisää se siellä.';
 }
