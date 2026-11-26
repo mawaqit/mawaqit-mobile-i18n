@@ -3555,4 +3555,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'Tamamı';
+
+  @override
+  String get duas_player_word_by_word => 'Kelime kelime';
 }

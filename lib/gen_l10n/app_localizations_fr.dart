@@ -3619,4 +3619,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'Complète';
+
+  @override
+  String get duas_player_word_by_word => 'Mot par mot';
 }

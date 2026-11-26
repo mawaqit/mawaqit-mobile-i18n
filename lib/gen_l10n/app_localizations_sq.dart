@@ -3608,4 +3608,7 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'E plotë';
+
+  @override
+  String get duas_player_word_by_word => 'Fjalë pas fjale';
 }

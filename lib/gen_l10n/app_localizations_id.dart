@@ -3572,4 +3572,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'Lengkap';
+
+  @override
+  String get duas_player_word_by_word => 'Kata demi kata';
 }

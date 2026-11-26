@@ -3571,4 +3571,7 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'تولۇق';
+
+  @override
+  String get duas_player_word_by_word => 'سۆزمۇ-سۆز';
 }

@@ -3598,4 +3598,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'Completa';
+
+  @override
+  String get duas_player_word_by_word => 'Palavra a palavra';
 }
