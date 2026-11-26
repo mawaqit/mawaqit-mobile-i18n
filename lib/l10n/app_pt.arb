@@ -2215,5 +2215,45 @@
     "calendar_link_browser_hint": "Se a sua aplicação de calendário não permitir adicionar uma ligação, abra o seu calendário num navegador ou num computador e adicione-a aí.",
     "@calendar_link_browser_hint": {
         "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
+    },
+    "duas_ruqyah_title": "Duas e Ruqyah",
+    "@duas_ruqyah_title": {
+        "description": "Title of the feature where you listen to recorded supplications (duas) and ruqyah recitations, with the words shown as they are said."
+    },
+    "duas_ruqyah_ruqyah": "Ruqyah",
+    "@duas_ruqyah_ruqyah": {
+        "description": "Category of recordings: ruqyah, Quran verses and prophetic supplications recited for healing and protection."
+    },
+    "duas_ruqyah_duas": "Duas",
+    "@duas_ruqyah_duas": {
+        "description": "Category of recordings: supplications (duas)."
+    },
+    "duas_player_background": "Fundo",
+    "@duas_player_background": {
+        "description": "Duas & Ruqyah player option: what is shown behind the text."
+    },
+    "duas_player_background_animation": "Animação",
+    "@duas_player_background_animation": {
+        "description": "Duas & Ruqyah player background choice: a drawn scene that moves slowly."
+    },
+    "duas_player_background_videos": "Vídeos",
+    "@duas_player_background_videos": {
+        "description": "Duas & Ruqyah player background choice: calm nature videos."
+    },
+    "duas_player_background_still": "Estático",
+    "@duas_player_background_still": {
+        "description": "Duas & Ruqyah player background choice: the drawn scene, not moving."
+    },
+    "duas_player_atmosphere": "Ambiente",
+    "@duas_player_atmosphere": {
+        "description": "Duas & Ruqyah player option, read by screen readers: which drawn scene is used as the background."
+    },
+    "duas_player_translation_phrase": "Por frase",
+    "@duas_player_translation_phrase": {
+        "description": "Duas & Ruqyah player translation option: show the translation one phrase at a time, as the reciter says it."
+    },
+    "duas_player_translation_full": "Completa",
+    "@duas_player_translation_full": {
+        "description": "Duas & Ruqyah player translation option: show the whole translation of the line."
     }
 }

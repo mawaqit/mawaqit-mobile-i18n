@@ -3545,4 +3545,34 @@ class AppLocalizationsKu extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'ئەگەر ئەپی ڕۆژژمێرەکەت ناتوانێت بەستەر زیاد بکات، ڕۆژژمێرەکەت لە وێبگەڕێک یان کۆمپیوتەرێکدا بکەرەوە و لەوێ زیادی بکە.';
+
+  @override
+  String get duas_ruqyah_title => 'دوعاکان و ڕوقیە';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'ڕوقیە';
+
+  @override
+  String get duas_ruqyah_duas => 'دوعاکان';
+
+  @override
+  String get duas_player_background => 'باکگراوند';
+
+  @override
+  String get duas_player_background_animation => 'ئەنیمەیشن';
+
+  @override
+  String get duas_player_background_videos => 'ڤیدیۆکان';
+
+  @override
+  String get duas_player_background_still => 'جێگیر';
+
+  @override
+  String get duas_player_atmosphere => 'کەشوهەوا';
+
+  @override
+  String get duas_player_translation_phrase => 'ڕستە بە ڕستە';
+
+  @override
+  String get duas_player_translation_full => 'تەواو';
 }

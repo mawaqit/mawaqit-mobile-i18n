@@ -3544,4 +3544,34 @@ class AppLocalizationsBg extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Ако приложението ви за календар не може да добави връзка, отворете календара си в браузър или на компютър и я добавете там.';
+
+  @override
+  String get duas_ruqyah_title => 'Duas & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Duas';
+
+  @override
+  String get duas_player_background => 'Background';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Videos';
+
+  @override
+  String get duas_player_background_still => 'Still';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosphere';
+
+  @override
+  String get duas_player_translation_phrase => 'Phrase';
+
+  @override
+  String get duas_player_translation_full => 'Full';
 }

@@ -3558,4 +3558,34 @@ class AppLocalizationsNl extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Als uw agenda-app geen link kan toevoegen, open dan uw agenda in een browser of op een computer en voeg hem daar toe.';
+
+  @override
+  String get duas_ruqyah_title => 'Dua\'s & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Dua\'s';
+
+  @override
+  String get duas_player_background => 'Achtergrond';
+
+  @override
+  String get duas_player_background_animation => 'Animatie';
+
+  @override
+  String get duas_player_background_videos => 'Video\'s';
+
+  @override
+  String get duas_player_background_still => 'Stilstaand';
+
+  @override
+  String get duas_player_atmosphere => 'Sfeer';
+
+  @override
+  String get duas_player_translation_phrase => 'Per zin';
+
+  @override
+  String get duas_player_translation_full => 'Volledig';
 }

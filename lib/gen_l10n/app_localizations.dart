@@ -6676,6 +6676,66 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'If your calendar app can\'t add a link, open your calendar in a browser or on a computer and add it there.'**
   String get calendar_link_browser_hint;
+
+  /// Title of the feature where you listen to recorded supplications (duas) and ruqyah recitations, with the words shown as they are said.
+  ///
+  /// In en, this message translates to:
+  /// **'Duas & Ruqyah'**
+  String get duas_ruqyah_title;
+
+  /// Category of recordings: ruqyah, Quran verses and prophetic supplications recited for healing and protection.
+  ///
+  /// In en, this message translates to:
+  /// **'Ruqyah'**
+  String get duas_ruqyah_ruqyah;
+
+  /// Category of recordings: supplications (duas).
+  ///
+  /// In en, this message translates to:
+  /// **'Duas'**
+  String get duas_ruqyah_duas;
+
+  /// Duas & Ruqyah player option: what is shown behind the text.
+  ///
+  /// In en, this message translates to:
+  /// **'Background'**
+  String get duas_player_background;
+
+  /// Duas & Ruqyah player background choice: a drawn scene that moves slowly.
+  ///
+  /// In en, this message translates to:
+  /// **'Animation'**
+  String get duas_player_background_animation;
+
+  /// Duas & Ruqyah player background choice: calm nature videos.
+  ///
+  /// In en, this message translates to:
+  /// **'Videos'**
+  String get duas_player_background_videos;
+
+  /// Duas & Ruqyah player background choice: the drawn scene, not moving.
+  ///
+  /// In en, this message translates to:
+  /// **'Still'**
+  String get duas_player_background_still;
+
+  /// Duas & Ruqyah player option, read by screen readers: which drawn scene is used as the background.
+  ///
+  /// In en, this message translates to:
+  /// **'Atmosphere'**
+  String get duas_player_atmosphere;
+
+  /// Duas & Ruqyah player translation option: show the translation one phrase at a time, as the reciter says it.
+  ///
+  /// In en, this message translates to:
+  /// **'Phrase'**
+  String get duas_player_translation_phrase;
+
+  /// Duas & Ruqyah player translation option: show the whole translation of the line.
+  ///
+  /// In en, this message translates to:
+  /// **'Full'**
+  String get duas_player_translation_full;
 }
 
 class _AppLocalizationsDelegate

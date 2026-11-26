@@ -3558,4 +3558,34 @@ class AppLocalizationsHu extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Ha a naptáralkalmazásod nem tud linket hozzáadni, nyisd meg a naptárad böngészőben vagy számítógépen, és ott add hozzá.';
+
+  @override
+  String get duas_ruqyah_title => 'Duák és Ruqja';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqja';
+
+  @override
+  String get duas_ruqyah_duas => 'Duák';
+
+  @override
+  String get duas_player_background => 'Háttér';
+
+  @override
+  String get duas_player_background_animation => 'Animáció';
+
+  @override
+  String get duas_player_background_videos => 'Videók';
+
+  @override
+  String get duas_player_background_still => 'Állókép';
+
+  @override
+  String get duas_player_atmosphere => 'Hangulat';
+
+  @override
+  String get duas_player_translation_phrase => 'Kifejezésenként';
+
+  @override
+  String get duas_player_translation_full => 'Teljes';
 }

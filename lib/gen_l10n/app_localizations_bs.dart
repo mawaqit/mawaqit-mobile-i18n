@@ -3565,4 +3565,34 @@ class AppLocalizationsBs extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Ako vaša aplikacija kalendara ne može dodati link, otvorite kalendar u pregledniku ili na računaru i dodajte ga tamo.';
+
+  @override
+  String get duas_ruqyah_title => 'Dove i rukja';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Rukja';
+
+  @override
+  String get duas_ruqyah_duas => 'Dove';
+
+  @override
+  String get duas_player_background => 'Pozadina';
+
+  @override
+  String get duas_player_background_animation => 'Animacija';
+
+  @override
+  String get duas_player_background_videos => 'Videozapisi';
+
+  @override
+  String get duas_player_background_still => 'Statično';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosfera';
+
+  @override
+  String get duas_player_translation_phrase => 'Fraza po fraza';
+
+  @override
+  String get duas_player_translation_full => 'Cijelo';
 }

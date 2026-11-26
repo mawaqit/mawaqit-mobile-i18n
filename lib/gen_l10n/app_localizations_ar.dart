@@ -3507,4 +3507,34 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'إذا كان تطبيق التقويم لا يتيح إضافة رابط، افتح تقويمك في المتصفح أو على الكمبيوتر وأضفه من هناك.';
+
+  @override
+  String get duas_ruqyah_title => 'الأدعية والرقية';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'الرقية الشرعية';
+
+  @override
+  String get duas_ruqyah_duas => 'الأدعية';
+
+  @override
+  String get duas_player_background => 'الخلفية';
+
+  @override
+  String get duas_player_background_animation => 'متحركة';
+
+  @override
+  String get duas_player_background_videos => 'فيديو';
+
+  @override
+  String get duas_player_background_still => 'ثابتة';
+
+  @override
+  String get duas_player_atmosphere => 'الأجواء';
+
+  @override
+  String get duas_player_translation_phrase => 'عبارة بعبارة';
+
+  @override
+  String get duas_player_translation_full => 'كاملة';
 }

@@ -3541,4 +3541,34 @@ class AppLocalizationsUg extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'ئەگەر كالېندار ئەپىڭىز ئۇلانما قوشالمىسا، كالېندارىڭىزنى توركۆرگۈ ياكى كومپيۇتېردا ئېچىپ، ئۇ يەردە قوشۇڭ.';
+
+  @override
+  String get duas_ruqyah_title => 'دۇئالار ۋە رۇقيە';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'رۇقيە';
+
+  @override
+  String get duas_ruqyah_duas => 'دۇئالار';
+
+  @override
+  String get duas_player_background => 'ئارقا كۆرۈنۈش';
+
+  @override
+  String get duas_player_background_animation => 'ھەرىكەتلىك';
+
+  @override
+  String get duas_player_background_videos => 'سىنلار';
+
+  @override
+  String get duas_player_background_still => 'تۇراقلىق';
+
+  @override
+  String get duas_player_atmosphere => 'كەيپىيات';
+
+  @override
+  String get duas_player_translation_phrase => 'جۈملە-جۈملە';
+
+  @override
+  String get duas_player_translation_full => 'تولۇق';
 }

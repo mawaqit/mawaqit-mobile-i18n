@@ -3541,4 +3541,34 @@ class AppLocalizationsTa extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'உங்கள் நாட்காட்டி ஆப்ஸால் இணைப்பைச் சேர்க்க முடியவில்லை என்றால், உலாவியில் அல்லது கணினியில் உங்கள் நாட்காட்டியைத் திறந்து அங்கே சேர்க்கவும்.';
+
+  @override
+  String get duas_ruqyah_title => 'Duas & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Duas';
+
+  @override
+  String get duas_player_background => 'Background';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Videos';
+
+  @override
+  String get duas_player_background_still => 'Still';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosphere';
+
+  @override
+  String get duas_player_translation_phrase => 'Phrase';
+
+  @override
+  String get duas_player_translation_full => 'Full';
 }

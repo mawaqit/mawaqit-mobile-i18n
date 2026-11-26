@@ -3535,4 +3535,34 @@ class AppLocalizationsSi extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'ඔබේ දින දර්ශන යෙදුමට සබැඳියක් එක් කළ නොහැකි නම්, බ්‍රවුසරයක හෝ පරිගණකයක ඔබේ දින දර්ශනය විවෘත කර එහි එක් කරන්න.';
+
+  @override
+  String get duas_ruqyah_title => 'Duas & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Duas';
+
+  @override
+  String get duas_player_background => 'Background';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Videos';
+
+  @override
+  String get duas_player_background_still => 'Still';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosphere';
+
+  @override
+  String get duas_player_translation_phrase => 'Phrase';
+
+  @override
+  String get duas_player_translation_full => 'Full';
 }

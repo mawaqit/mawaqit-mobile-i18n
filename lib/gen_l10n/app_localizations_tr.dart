@@ -3525,4 +3525,34 @@ class AppLocalizationsTr extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Takvim uygulamanız bağlantı ekleyemiyorsa takviminizi bir tarayıcıda veya bilgisayarda açıp oradan ekleyin.';
+
+  @override
+  String get duas_ruqyah_title => 'Dualar ve Rukye';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Rukye';
+
+  @override
+  String get duas_ruqyah_duas => 'Dualar';
+
+  @override
+  String get duas_player_background => 'Arka plan';
+
+  @override
+  String get duas_player_background_animation => 'Animasyon';
+
+  @override
+  String get duas_player_background_videos => 'Videolar';
+
+  @override
+  String get duas_player_background_still => 'Sabit';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosfer';
+
+  @override
+  String get duas_player_translation_phrase => 'İfade ifade';
+
+  @override
+  String get duas_player_translation_full => 'Tamamı';
 }

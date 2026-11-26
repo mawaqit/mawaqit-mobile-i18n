@@ -3542,4 +3542,34 @@ class AppLocalizationsBn extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'আপনার ক্যালেন্ডার অ্যাপ লিংক যোগ করতে না পারলে ব্রাউজারে বা কম্পিউটারে ক্যালেন্ডার খুলে সেখানে যোগ করুন।';
+
+  @override
+  String get duas_ruqyah_title => 'দোয়া ও রুকইয়াহ';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'রুকইয়াহ';
+
+  @override
+  String get duas_ruqyah_duas => 'দোয়া';
+
+  @override
+  String get duas_player_background => 'পটভূমি';
+
+  @override
+  String get duas_player_background_animation => 'অ্যানিমেশন';
+
+  @override
+  String get duas_player_background_videos => 'ভিডিও';
+
+  @override
+  String get duas_player_background_still => 'স্থির';
+
+  @override
+  String get duas_player_atmosphere => 'পরিবেশ';
+
+  @override
+  String get duas_player_translation_phrase => 'বাক্যাংশ অনুযায়ী';
+
+  @override
+  String get duas_player_translation_full => 'সম্পূর্ণ';
 }
