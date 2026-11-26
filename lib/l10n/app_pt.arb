@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2255,5 +2255,9 @@
     "duas_player_translation_full": "Completa",
     "@duas_player_translation_full": {
         "description": "Duas & Ruqyah player translation option: show the whole translation of the line."
+    },
+    "duas_player_word_by_word": "Palavra a palavra",
+    "@duas_player_word_by_word": {
+        "description": "Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed."
     }
 }
