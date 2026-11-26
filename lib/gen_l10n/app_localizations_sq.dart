@@ -3578,4 +3578,34 @@ class AppLocalizationsSq extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Nëse aplikacioni i kalendarit nuk mund të shtojë një lidhje, hape kalendarin në një shfletues ose në kompjuter dhe shtoje atje.';
+
+  @override
+  String get duas_ruqyah_title => 'Dua & Ruqja';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqja';
+
+  @override
+  String get duas_ruqyah_duas => 'Dua';
+
+  @override
+  String get duas_player_background => 'Sfondi';
+
+  @override
+  String get duas_player_background_animation => 'Animacion';
+
+  @override
+  String get duas_player_background_videos => 'Video';
+
+  @override
+  String get duas_player_background_still => 'Statik';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosfera';
+
+  @override
+  String get duas_player_translation_phrase => 'Frazë pas fraze';
+
+  @override
+  String get duas_player_translation_full => 'E plotë';
 }

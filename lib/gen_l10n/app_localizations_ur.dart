@@ -3530,4 +3530,34 @@ class AppLocalizationsUr extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'اگر آپ کی کیلنڈر ایپ لنک شامل نہیں کر سکتی تو اپنا کیلنڈر براؤزر یا کمپیوٹر پر کھولیں اور وہاں شامل کریں۔';
+
+  @override
+  String get duas_ruqyah_title => 'دعائیں اور رقیہ';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'رقیہ';
+
+  @override
+  String get duas_ruqyah_duas => 'دعائیں';
+
+  @override
+  String get duas_player_background => 'پس منظر';
+
+  @override
+  String get duas_player_background_animation => 'اینیمیشن';
+
+  @override
+  String get duas_player_background_videos => 'ویڈیوز';
+
+  @override
+  String get duas_player_background_still => 'ساکن';
+
+  @override
+  String get duas_player_atmosphere => 'ماحول';
+
+  @override
+  String get duas_player_translation_phrase => 'جملہ بہ جملہ';
+
+  @override
+  String get duas_player_translation_full => 'مکمل';
 }

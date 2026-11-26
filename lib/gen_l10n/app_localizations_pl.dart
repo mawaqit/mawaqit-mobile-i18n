@@ -3541,4 +3541,34 @@ class AppLocalizationsPl extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Jeśli twoja aplikacja kalendarza nie pozwala dodać linku, otwórz kalendarz w przeglądarce lub na komputerze i dodaj go tam.';
+
+  @override
+  String get duas_ruqyah_title => 'Dua i Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Dua';
+
+  @override
+  String get duas_player_background => 'Tło';
+
+  @override
+  String get duas_player_background_animation => 'Animacja';
+
+  @override
+  String get duas_player_background_videos => 'Filmy';
+
+  @override
+  String get duas_player_background_still => 'Nieruchome';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosfera';
+
+  @override
+  String get duas_player_translation_phrase => 'Po frazie';
+
+  @override
+  String get duas_player_translation_full => 'Całość';
 }

@@ -3589,4 +3589,34 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Si votre application de calendrier ne permet pas d’ajouter un lien, ouvrez votre calendrier dans un navigateur ou sur un ordinateur et ajoutez-le là.';
+
+  @override
+  String get duas_ruqyah_title => 'Invocations & Roqya';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Roqya';
+
+  @override
+  String get duas_ruqyah_duas => 'Invocations';
+
+  @override
+  String get duas_player_background => 'Arrière-plan';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Vidéos';
+
+  @override
+  String get duas_player_background_still => 'Fixe';
+
+  @override
+  String get duas_player_atmosphere => 'Ambiance';
+
+  @override
+  String get duas_player_translation_phrase => 'Par phrase';
+
+  @override
+  String get duas_player_translation_full => 'Complète';
 }

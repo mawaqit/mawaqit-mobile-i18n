@@ -3524,6 +3524,36 @@ class AppLocalizationsFa extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'اگر برنامهٔ تقویم شما نمی‌تواند پیوند اضافه کند، تقویم خود را در مرورگر یا روی رایانه باز کنید و آن را آنجا اضافه کنید.';
+
+  @override
+  String get duas_ruqyah_title => 'دعاها و رقیه';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'رقیه';
+
+  @override
+  String get duas_ruqyah_duas => 'دعاها';
+
+  @override
+  String get duas_player_background => 'پس‌زمینه';
+
+  @override
+  String get duas_player_background_animation => 'پویانمایی';
+
+  @override
+  String get duas_player_background_videos => 'ویدیوها';
+
+  @override
+  String get duas_player_background_still => 'ثابت';
+
+  @override
+  String get duas_player_atmosphere => 'حال‌وهوا';
+
+  @override
+  String get duas_player_translation_phrase => 'عبارت به عبارت';
+
+  @override
+  String get duas_player_translation_full => 'کامل';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -7055,4 +7085,34 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
   @override
   String get calendar_link_browser_hint =>
       'اگر اپلیکیشن تقویم شما نمی‌تواند لینک اضافه کند، تقویم خود را در براوزر یا روی کمپیوتر باز کنید و آن را آنجا اضافه کنید.';
+
+  @override
+  String get duas_ruqyah_title => 'Duas & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Duas';
+
+  @override
+  String get duas_player_background => 'Background';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Videos';
+
+  @override
+  String get duas_player_background_still => 'Still';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosphere';
+
+  @override
+  String get duas_player_translation_phrase => 'Phrase';
+
+  @override
+  String get duas_player_translation_full => 'Full';
 }

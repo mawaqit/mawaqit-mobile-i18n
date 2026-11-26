@@ -3537,4 +3537,34 @@ class AppLocalizationsAz extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Təqvim tətbiqiniz link əlavə edə bilmirsə, təqviminizi brauzerdə və ya kompüterdə açıb orada əlavə edin.';
+
+  @override
+  String get duas_ruqyah_title => 'Duas & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Duas';
+
+  @override
+  String get duas_player_background => 'Background';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Videos';
+
+  @override
+  String get duas_player_background_still => 'Still';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosphere';
+
+  @override
+  String get duas_player_translation_phrase => 'Phrase';
+
+  @override
+  String get duas_player_translation_full => 'Full';
 }

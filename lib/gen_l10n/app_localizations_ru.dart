@@ -3556,4 +3556,34 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Если приложение календаря не позволяет добавить ссылку, откройте календарь в браузере или на компьютере и добавьте её там.';
+
+  @override
+  String get duas_ruqyah_title => 'Дуа и рукъя';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Рукъя';
+
+  @override
+  String get duas_ruqyah_duas => 'Дуа';
+
+  @override
+  String get duas_player_background => 'Фон';
+
+  @override
+  String get duas_player_background_animation => 'Анимация';
+
+  @override
+  String get duas_player_background_videos => 'Видео';
+
+  @override
+  String get duas_player_background_still => 'Статичный';
+
+  @override
+  String get duas_player_atmosphere => 'Атмосфера';
+
+  @override
+  String get duas_player_translation_phrase => 'По фразам';
+
+  @override
+  String get duas_player_translation_full => 'Полностью';
 }

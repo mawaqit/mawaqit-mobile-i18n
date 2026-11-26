@@ -3532,4 +3532,34 @@ class AppLocalizationsSv extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Om din kalenderapp inte kan lägga till en länk kan du öppna kalendern i en webbläsare eller på en dator och lägga till den där.';
+
+  @override
+  String get duas_ruqyah_title => 'Duas & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Duas';
+
+  @override
+  String get duas_player_background => 'Bakgrund';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Videor';
+
+  @override
+  String get duas_player_background_still => 'Stillbild';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosfär';
+
+  @override
+  String get duas_player_translation_phrase => 'Fras för fras';
+
+  @override
+  String get duas_player_translation_full => 'Hela';
 }

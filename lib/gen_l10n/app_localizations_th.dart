@@ -3526,4 +3526,34 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'หากแอปปฏิทินของคุณเพิ่มลิงก์ไม่ได้ ให้เปิดปฏิทินในเบราว์เซอร์หรือบนคอมพิวเตอร์แล้วเพิ่มที่นั่น';
+
+  @override
+  String get duas_ruqyah_title => 'Duas & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Duas';
+
+  @override
+  String get duas_player_background => 'Background';
+
+  @override
+  String get duas_player_background_animation => 'Animation';
+
+  @override
+  String get duas_player_background_videos => 'Videos';
+
+  @override
+  String get duas_player_background_still => 'Still';
+
+  @override
+  String get duas_player_atmosphere => 'Atmosphere';
+
+  @override
+  String get duas_player_translation_phrase => 'Phrase';
+
+  @override
+  String get duas_player_translation_full => 'Full';
 }

@@ -3542,4 +3542,34 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get calendar_link_browser_hint =>
       'Jika aplikasi kalender Anda tidak dapat menambahkan tautan, buka kalender Anda di browser atau komputer dan tambahkan di sana.';
+
+  @override
+  String get duas_ruqyah_title => 'Doa & Ruqyah';
+
+  @override
+  String get duas_ruqyah_ruqyah => 'Ruqyah';
+
+  @override
+  String get duas_ruqyah_duas => 'Doa';
+
+  @override
+  String get duas_player_background => 'Latar belakang';
+
+  @override
+  String get duas_player_background_animation => 'Animasi';
+
+  @override
+  String get duas_player_background_videos => 'Video';
+
+  @override
+  String get duas_player_background_still => 'Diam';
+
+  @override
+  String get duas_player_atmosphere => 'Suasana';
+
+  @override
+  String get duas_player_translation_phrase => 'Per frasa';
+
+  @override
+  String get duas_player_translation_full => 'Lengkap';
 }
