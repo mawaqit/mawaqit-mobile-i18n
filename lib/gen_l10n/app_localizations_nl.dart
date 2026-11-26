@@ -3588,4 +3588,7 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'Volledig';
+
+  @override
+  String get duas_player_word_by_word => 'Woord voor woord';
 }

@@ -3554,6 +3554,9 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'کامل';
+
+  @override
+  String get duas_player_word_by_word => 'کلمه به کلمه';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -7115,4 +7118,7 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get duas_player_translation_full => 'Full';
+
+  @override
+  String get duas_player_word_by_word => 'Word by word';
 }

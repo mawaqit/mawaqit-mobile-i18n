@@ -3572,4 +3572,7 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'সম্পূর্ণ';
+
+  @override
+  String get duas_player_word_by_word => 'শব্দে শব্দে';
 }

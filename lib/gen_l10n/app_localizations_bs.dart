@@ -3595,4 +3595,7 @@ class AppLocalizationsBs extends AppLocalizations {
 
   @override
   String get duas_player_translation_full => 'Cijelo';
+
+  @override
+  String get duas_player_word_by_word => 'Riječ po riječ';
 }

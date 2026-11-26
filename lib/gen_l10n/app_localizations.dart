@@ -6736,6 +6736,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Full'**
   String get duas_player_translation_full;
+
+  /// Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed.
+  ///
+  /// In en, this message translates to:
+  /// **'Word by word'**
+  String get duas_player_word_by_word;
 }
 
 class _AppLocalizationsDelegate
