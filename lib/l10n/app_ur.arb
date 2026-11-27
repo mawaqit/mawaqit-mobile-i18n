@@ -1,5 +1,5 @@
 {
-    "@@locale": "ur",
+    "@@locale": "ur-PK",
     "bottomNavbar_mawaqit": "مواقیت",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2436,5 +2436,33 @@
     "onb_done_finish_error": "کچھ غلط ہو گیا۔ دوبارہ کوشش کریں۔",
     "@onb_done_finish_error": {
         "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
+    },
+    "wt_layout_choices": "اپنا لےآؤٹ منتخب کریں: 360، گرڈ یا فہرست۔",
+    "@wt_layout_choices": {
+        "description": "Feature walkthrough, session 2, part 2: tooltip over the 360 / grid / list buttons in the side layout panel. Reuses the term \"Layout\" (key layout)."
+    },
+    "wt_adhan_bell": "نماز کی اطلاع کھولنے کے لیے گھنٹی پر ٹیپ کریں۔",
+    "@wt_adhan_bell": {
+        "description": "Feature walkthrough, session 3, part 1: tooltip on the bell of the next prayer on Home. \"Prayer Notifications\" is the bell sheet title (key settings_PrayerNotifications)."
+    },
+    "wt_adhan_option": "نماز کے وقت اذان سننے کے لیے ”اذان“ منتخب کریں۔",
+    "@wt_adhan_option": {
+        "description": "Feature walkthrough, session 3, part 2: tooltip on the Adhan choice in the Prayer Notifications sheet. \"Adhan\" is that choice's label (key adhan)."
+    },
+    "wt_pre_prayer_bell": "نماز سے پہلے کی اطلاع سیٹ کرنے کے لیے گھنٹی پر ٹیپ کریں۔",
+    "@wt_pre_prayer_bell": {
+        "description": "Feature walkthrough, session 4, part 1: tooltip on the bell of the next prayer on Home. Reuses \"Pre-Prayer notification\" (key settings_PrayerPreNotifications)."
+    },
+    "wt_pre_prayer_setting": "نماز سے پہلے اطلاع پانے کے لیے ”اذان سے پہلے“ آن کریں۔",
+    "@wt_pre_prayer_setting": {
+        "description": "Feature walkthrough, session 4, part 2: tooltip on the Before Adhan switch in the sheet. \"Before Adhan\" is that switch's label (key before_adhan)."
+    },
+    "wt_full_adhan_bell": "اذان والی کسی نماز کی گھنٹی پر ٹیپ کریں۔",
+    "@wt_full_adhan_bell": {
+        "description": "Feature walkthrough, session 5, part 1 (iOS 26+): tooltip on the bell of a prayer set to Adhan."
+    },
+    "wt_full_adhan_switch": "پوری اذان سننے کے لیے ”مکمل اذان چلائیں“ آن کریں۔",
+    "@wt_full_adhan_switch": {
+        "description": "Feature walkthrough, session 5, part 2 (iOS 26+): tooltip on the Play full Adhan switch. \"Play full Adhan\" is that switch's label (key play_full_adhan)."
     }
 }
