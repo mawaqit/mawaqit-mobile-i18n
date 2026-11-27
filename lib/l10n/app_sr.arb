@@ -2121,98 +2121,98 @@
     "@semantic_cancel_surah_download": {
         "description": "Screen reader: cancel button next to a surah that is downloading, with its progress. {surah} is the surah name, {percent} is a number."
     },
-    "qibla_compass_unavailable": "Ovaj uređaj nema kompas, pa MAWAQIT na njemu ne može da prikaže pravac Kible.",
+    "qibla_compass_unavailable": "Овај уређај нема компас, па MAWAQIT на њему не може да прикаже правац Кибле.",
     "@qibla_compass_unavailable": {
         "description": "Qibla screen: the phone has no heading sensor."
     },
-    "qibla_no_compass_reading": "Još nema očitavanja kompasa. Držite telefon vodoravno i pomerajte ga u obliku osmice, daleko od metala i magneta.",
+    "qibla_no_compass_reading": "Још нема очитавања компаса. Држите телефон водоравно и померајте га у облику осмице, далеко од метала и магнета.",
     "@qibla_no_compass_reading": {
         "description": "Qibla screen: the location is known but the compass has not sent a usable reading yet. Shown with a retry button."
     },
-    "qibla_updating_location": "Ažuriranje vaše lokacije…",
+    "qibla_updating_location": "Ажурирање ваше локације…",
     "@qibla_updating_location": {
         "description": "Qibla screen: small note under the address while the direction uses a saved location and a fresh one is being found."
     },
     "back_to_playing_ayah": "Back to playing ayah",
     "alerts_set_for_other_mosque": "{prayer} alerts are set for {mosque}. Changing them here will move them to this mosque.",
     "alerts_set_for_unknown_mosque": "{prayer} alerts are set for another mosque. Changing them here will move them to this mosque.",
-    "live_activity_tooltip_android": "Ažuriranja uživo prikazuju se na tabli sa obaveštenjima i na zaključanom ekranu (u zavisnosti od uređaja i verzije Androida). Kada je ova funkcija uključena, tajmer uživo prikazuje odbrojavanje do sledeće molitve ili ikameta.",
+    "live_activity_tooltip_android": "Ажурирања уживо приказују се на табли са обавештењима и на закључаном екрану (у зависности од уређаја и верзије Андроида). Када је ова функција укључена, тајмер уживо приказује одбројавање до следеће молитве или икамета.",
     "alarms_permission_disabled": "Alarms permission disabled",
     "full_adhan_cant_play_alarms_disabled": "Full Adhan can't play because the Alarms permission is disabled.",
     "allow_alarms_in_settings": "Allow Alarms for MAWAQIT in iPhone Settings so the full Adhan can play.",
-    "qibla_turn_right": "Okrenite se udesno",
+    "qibla_turn_right": "Окрените се удесно",
     "@qibla_turn_right": {
         "description": "qibla_turn_right\nQibla screen: tells the user to turn clockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN RIGHT · 23°\"."
     },
-    "qibla_turn_left": "Okrenite se ulevo",
+    "qibla_turn_left": "Окрените се улево",
     "@qibla_turn_left": {
         "description": "qibla_turn_left\nQibla screen: tells the user to turn anticlockwise to face the Qibla. Short imperative, shown in small capitals before the number of degrees left, e.g. \"TURN LEFT · 23°\"."
     },
-    "qibla_calibrate_compass": "Kalibrišite kompas",
+    "qibla_calibrate_compass": "Калибришите компас",
     "@qibla_calibrate_compass": {
         "description": "qibla_calibrate_compass\nQibla screen: title shown while the phone's compass is not accurate enough, above the figure-of-eight instructions. Short imperative."
     },
-    "add_to_calendar": "Dodaj u kalendar",
+    "add_to_calendar": "Додај у календар",
     "@add_to_calendar": {
         "description": "Mosque information action and sheet title: subscribe to the mosque's live prayer times calendar."
     },
-    "calendar_subscription_body": "Pretplatite se na vremena namaza džamije {mosqueName} u svom kalendaru.",
+    "calendar_subscription_body": "Претплатите се на времена намаза џамије {mosqueName} у свом календару.",
     "@calendar_subscription_body": {
         "description": "Add to calendar sheet: first sentence. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
     },
-    "calendar_subscription_live_info": "Ovo je pretplata uživo, a ne jednokratni uvoz: kada džamija promeni vremena, vaš kalendar se sam ažurira. Aplikacija kalendara odlučuje kada će se osvežiti, pa promena može da se pojavi tek nakon jednog dana.",
+    "calendar_subscription_live_info": "Ово је претплата уживо, а не једнократни увоз: када џамија промени времена, ваш календар се сам ажурира. Апликација календара одлучује када ће се освежити, па промена може да се појави тек након једног дана.",
     "@calendar_subscription_live_info": {
         "description": "Add to calendar sheet: explains subscription vs import and that refresh timing depends on the calendar app."
     },
-    "calendar_subscribe_ios": "Dodaj u Apple Kalendar",
+    "calendar_subscribe_ios": "Додај у Apple Календар",
     "@calendar_subscribe_ios": {
         "description": "Add to calendar sheet, iOS: button that opens the subscription prompt of Apple Calendar, the built-in Calendar app. Keep the name Apple as is."
     },
-    "calendar_copy_link": "Kopiraj link",
+    "calendar_copy_link": "Копирај линк",
     "@calendar_copy_link": {
         "description": "Add to calendar sheet: copies the subscription link."
     },
-    "calendar_subscription_open_failed": "Nijedna aplikacija nije mogla da otvori link kalendara. Kopirajte link i ručno ga dodajte u svoj kalendar.",
+    "calendar_subscription_open_failed": "Ниједна апликација није могла да отвори линк календара. Копирајте линк и ручно га додајте у свој календар.",
     "@calendar_subscription_open_failed": {
         "description": "Error shown when no app can open the calendar subscription link."
     },
-    "calendar_write_body": "Dodajte vremena namaza džamije {mosqueName} u kalendar na svom telefonu. MAWAQIT održava narednih 60 dana ažurnim svaki put kada otvorite aplikaciju.",
+    "calendar_write_body": "Додајте времена намаза џамије {mosqueName} у календар на свом телефону. MAWAQIT одржава наредних 60 дана ажурним сваки пут када отворите апликацију.",
     "@calendar_write_body": {
         "description": "Add to calendar sheet, Android: first sentence. The app writes the prayers into a calendar on the phone. {mosqueName} is the mosque's name, e.g. Grande Mosquée de Paris."
     },
-    "calendar_write_button": "Dodaj u moj kalendar",
+    "calendar_write_button": "Додај у мој календар",
     "@calendar_write_button": {
         "description": "Add to calendar sheet, Android: main button; asks for calendar access, then writes the prayers."
     },
-    "calendar_write_choose": "Izaberite kalendar",
+    "calendar_write_choose": "Изаберите календар",
     "@calendar_write_choose": {
         "description": "Title of the list of the phone's calendars to write the prayers into."
     },
-    "calendar_write_done": "Vremena namaza su dodata u {calendarName}",
+    "calendar_write_done": "Времена намаза су додата у {calendarName}",
     "@calendar_write_done": {
         "description": "Toast after the prayers were written. {calendarName} is the chosen calendar's name, e.g. name@gmail.com."
     },
-    "calendar_write_remove": "Ukloni iz mog kalendara",
+    "calendar_write_remove": "Уклони из мог календара",
     "@calendar_write_remove": {
         "description": "Add to calendar sheet, Android: removes the written prayers of this mosque."
     },
-    "calendar_write_removed": "Vremena namaza su uklonjena iz vašeg kalendara",
+    "calendar_write_removed": "Времена намаза су уклоњена из вашег календара",
     "@calendar_write_removed": {
         "description": "Toast after the written prayers were removed."
     },
-    "calendar_link_title": "Pretplata putem linka",
+    "calendar_link_title": "Претплата путем линка",
     "@calendar_link_title": {
         "description": "Add to calendar sheet: heading of the fallback section for calendar apps that subscribe to a URL."
     },
-    "calendar_link_intro": "Za kalendar koji se sam ažurira, pretplatite se na link džamije.",
+    "calendar_link_intro": "За календар који се сам ажурира, претплатите се на линк џамије.",
     "@calendar_link_intro": {
         "description": "Add to calendar sheet: one line under the \"Subscribe with a link\" heading."
     },
-    "calendar_link_steps": "Kopirajte link.\nU aplikaciji kalendara potražite „Dodaj pretplatu“ ili „Sa URL adrese“.\nNalepite link i sačuvajte.",
+    "calendar_link_steps": "Копирајте линк.\nУ апликацији календара потражите „Додај претплату“ или „Са URL адресе“.\nНалепите линк и сачувајте.",
     "@calendar_link_steps": {
         "description": "Add to calendar sheet: numbered steps to subscribe any calendar app to the link. One step per line: the app numbers each line, so keep exactly 3 lines. Keep it general, without naming a calendar app."
     },
-    "calendar_link_browser_hint": "Ako vaša aplikacija kalendara ne može da doda link, otvorite kalendar u pregledaču ili na računaru i dodajte ga tamo.",
+    "calendar_link_browser_hint": "Ако ваша апликација календара не може да дода линк, отворите календар у прегледачу или на рачунару и додајте га тамо.",
     "@calendar_link_browser_hint": {
         "description": "Add to calendar sheet: tip under the steps for calendar apps that can't subscribe to a link."
     },
@@ -2259,5 +2259,182 @@
     "duas_player_word_by_word": "Word by word",
     "@duas_player_word_by_word": {
         "description": "Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed."
+    },
+    "onb_step_of": "{current} of {total}",
+    "@onb_step_of": {
+        "description": "Onboarding redesign (phase 1): Shell: step header label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_step_semantic": "Step {current} of {total}",
+    "@onb_step_semantic": {
+        "description": "Onboarding redesign (phase 1): Shell: step header screen-reader label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_welcome_title": "Welcome to MAWAQIT",
+    "@onb_welcome_title": {
+        "description": "Onboarding redesign (phase 2): Welcome H1."
+    },
+    "onb_welcome_subtitle": "Prayer times from your mosque.",
+    "@onb_welcome_subtitle": {
+        "description": "Onboarding redesign (phase 2): Welcome subtitle."
+    },
+    "onb_get_started": "Get Started",
+    "@onb_get_started": {
+        "description": "Onboarding redesign (phase 2): Welcome primary CTA."
+    },
+    "onb_theme_switch_to_light": "Switch to light theme",
+    "@onb_theme_switch_to_light": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_theme_switch_to_dark": "Switch to dark theme",
+    "@onb_theme_switch_to_dark": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_language_pill_semantic": "Language: {language}. Change language",
+    "@onb_language_pill_semantic": {
+        "description": "Onboarding redesign (phase 2): Language pill screen-reader label.",
+        "placeholders": {
+            "language": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_language_search_hint": "Search languages",
+    "@onb_language_search_hint": {
+        "description": "Onboarding redesign (phase 2): Language sheet search field."
+    },
+    "onb_language_suggested": "Suggested",
+    "@onb_language_suggested": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_device_language": "Your device language",
+    "@onb_language_device_language": {
+        "description": "Onboarding redesign (phase 2): Language sheet Suggested row sub-line."
+    },
+    "onb_language_all": "All Languages",
+    "@onb_language_all": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_results": "Results",
+    "@onb_language_results": {
+        "description": "Onboarding redesign (phase 2): Language sheet section while searching."
+    },
+    "onb_language_no_match": "No language matches “{query}”",
+    "@onb_language_no_match": {
+        "description": "Onboarding redesign (phase 2): Language sheet empty search.",
+        "placeholders": {
+            "query": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_location_title": "Find Your Mosque",
+    "@onb_location_title": {
+        "description": "Onboarding redesign (phase 3): Location H1."
+    },
+    "onb_location_body": "We use your location for prayer times and the Qibla.",
+    "@onb_location_body": {
+        "description": "Onboarding redesign (phase 3): Location body."
+    },
+    "onb_location_allow": "Allow Location",
+    "@onb_location_allow": {
+        "description": "Onboarding redesign (phase 3): Location primary CTA."
+    },
+    "onb_not_now": "Not Now",
+    "@onb_not_now": {
+        "description": "Onboarding redesign (phase 3): Secondary CTA on Location and Notifications."
+    },
+    "onb_location_footnote": "You can turn this off anytime in Settings.",
+    "@onb_location_footnote": {
+        "description": "Onboarding redesign (phase 3): Location dock footnote."
+    },
+    "onb_mosque_banner_denied": "Location is off. Search by mosque or city.",
+    "@onb_mosque_banner_denied": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location denied."
+    },
+    "onb_mosque_banner_skipped": "Turn on location to see mosques around you.",
+    "@onb_mosque_banner_skipped": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location skipped."
+    },
+    "onb_mosque_banner_turn_on": "Turn On",
+    "@onb_mosque_banner_turn_on": {
+        "description": "Onboarding redesign (phase 4): Mosque banner button (skipped)."
+    },
+    "onb_mosque_continue": "Continue · {count} added",
+    "@onb_mosque_continue": {
+        "description": "Onboarding redesign (phase 4): Mosque Continue button.",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_notif_title": "Every Prayer, On Time",
+    "@onb_notif_title": {
+        "description": "Onboarding redesign (phase 5): Notifications H1."
+    },
+    "onb_notif_body": "Alerts for all 5 prayers, with your phone’s sound.",
+    "@onb_notif_body": {
+        "description": "Onboarding redesign (phase 5): Notifications body (curly apostrophe)."
+    },
+    "onb_notif_allow": "Allow Alerts",
+    "@onb_notif_allow": {
+        "description": "Onboarding redesign (phase 5): Notifications primary CTA."
+    },
+    "onb_notif_footnote": "Change them anytime in Settings.",
+    "@onb_notif_footnote": {
+        "description": "Onboarding redesign (phase 5): Notifications dock footnote."
+    },
+    "onb_notif_card_now": "now",
+    "@onb_notif_card_now": {
+        "description": "Onboarding redesign (phase 5): Notification-card timestamp."
+    },
+    "onb_done_title": "You’re All Set",
+    "@onb_done_title": {
+        "description": "Onboarding redesign (phase 5): All Set H1 (curly apostrophe)."
+    },
+    "onb_done_summary_calculated": "{city} · calculated times",
+    "@onb_done_summary_calculated": {
+        "description": "Onboarding redesign (phase 5): All Set summary for a virtual city.",
+        "placeholders": {
+            "city": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_done_summary_more_mosques": "+{count, plural, one{{count} mosque} other{{count} mosques}}",
+    "@onb_done_summary_more_mosques": {
+        "description": "Onboarding redesign (phase 5): All Set summary, virtual city plus mosques.",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "onb_done_cta_semantic": "Bismillah, open MAWAQIT",
+    "@onb_done_cta_semantic": {
+        "description": "Onboarding redesign (phase 5): All Set CTA screen-reader label."
+    },
+    "onb_done_alerts_off": "Prayer alerts are off.",
+    "@onb_done_alerts_off": {
+        "description": "Onboarding redesign (phase 5): All Set line when prayer alerts are off (Not Now or denied); the existing `settings` key follows it as a link."
+    },
+    "onb_done_finish_error": "Something went wrong. Try again.",
+    "@onb_done_finish_error": {
+        "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
     }
 }
