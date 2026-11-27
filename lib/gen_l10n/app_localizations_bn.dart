@@ -3701,4 +3701,28 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get onb_done_finish_error => 'কিছু ভুল হয়েছে। আবার চেষ্টা করুন।';
+
+  @override
+  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+
+  @override
+  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+
+  @override
+  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+
+  @override
+  String get wt_pre_prayer_bell =>
+      'Tap the bell to set a Pre-Prayer notification.';
+
+  @override
+  String get wt_pre_prayer_setting =>
+      'Turn on Before Adhan to be notified before the prayer.';
+
+  @override
+  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+
+  @override
+  String get wt_full_adhan_switch =>
+      'Turn on Play full Adhan to hear the whole Adhan.';
 }

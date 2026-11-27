@@ -6946,6 +6946,48 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Something went wrong. Try again.'**
   String get onb_done_finish_error;
+
+  /// Feature walkthrough, session 2, part 2: tooltip over the 360 / grid / list buttons in the side layout panel. Reuses the term "Layout" (key layout).
+  ///
+  /// In en, this message translates to:
+  /// **'Choose your layout: 360, grid or list.'**
+  String get wt_layout_choices;
+
+  /// Feature walkthrough, session 3, part 1: tooltip on the bell of the next prayer on Home. "Prayer Notifications" is the bell sheet title (key settings_PrayerNotifications).
+  ///
+  /// In en, this message translates to:
+  /// **'Tap the bell to open Prayer Notifications.'**
+  String get wt_adhan_bell;
+
+  /// Feature walkthrough, session 3, part 2: tooltip on the Adhan choice in the Prayer Notifications sheet. "Adhan" is that choice's label (key adhan).
+  ///
+  /// In en, this message translates to:
+  /// **'Choose Adhan to hear it at prayer time.'**
+  String get wt_adhan_option;
+
+  /// Feature walkthrough, session 4, part 1: tooltip on the bell of the next prayer on Home. Reuses "Pre-Prayer notification" (key settings_PrayerPreNotifications).
+  ///
+  /// In en, this message translates to:
+  /// **'Tap the bell to set a Pre-Prayer notification.'**
+  String get wt_pre_prayer_bell;
+
+  /// Feature walkthrough, session 4, part 2: tooltip on the Before Adhan switch in the sheet. "Before Adhan" is that switch's label (key before_adhan).
+  ///
+  /// In en, this message translates to:
+  /// **'Turn on Before Adhan to be notified before the prayer.'**
+  String get wt_pre_prayer_setting;
+
+  /// Feature walkthrough, session 5, part 1 (iOS 26+): tooltip on the bell of a prayer set to Adhan.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap the bell of a prayer with Adhan.'**
+  String get wt_full_adhan_bell;
+
+  /// Feature walkthrough, session 5, part 2 (iOS 26+): tooltip on the Play full Adhan switch. "Play full Adhan" is that switch's label (key play_full_adhan).
+  ///
+  /// In en, this message translates to:
+  /// **'Turn on Play full Adhan to hear the whole Adhan.'**
+  String get wt_full_adhan_switch;
 }
 
 class _AppLocalizationsDelegate
