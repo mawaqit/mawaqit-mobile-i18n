@@ -2259,5 +2259,182 @@
     "duas_player_word_by_word": "Wort für Wort",
     "@duas_player_word_by_word": {
         "description": "Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed."
+    },
+    "onb_step_of": "{current} von {total}",
+    "@onb_step_of": {
+        "description": "Onboarding redesign (phase 1): Shell: step header label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_step_semantic": "Schritt {current} von {total}",
+    "@onb_step_semantic": {
+        "description": "Onboarding redesign (phase 1): Shell: step header screen-reader label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_welcome_title": "Willkommen bei MAWAQIT",
+    "@onb_welcome_title": {
+        "description": "Onboarding redesign (phase 2): Welcome H1."
+    },
+    "onb_welcome_subtitle": "Gebetszeiten deiner Moschee.",
+    "@onb_welcome_subtitle": {
+        "description": "Onboarding redesign (phase 2): Welcome subtitle."
+    },
+    "onb_get_started": "Loslegen",
+    "@onb_get_started": {
+        "description": "Onboarding redesign (phase 2): Welcome primary CTA."
+    },
+    "onb_theme_switch_to_light": "Zum hellen Design wechseln",
+    "@onb_theme_switch_to_light": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_theme_switch_to_dark": "Zum dunklen Design wechseln",
+    "@onb_theme_switch_to_dark": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_language_pill_semantic": "Sprache: {language}. Sprache ändern",
+    "@onb_language_pill_semantic": {
+        "description": "Onboarding redesign (phase 2): Language pill screen-reader label.",
+        "placeholders": {
+            "language": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_language_search_hint": "Sprachen suchen",
+    "@onb_language_search_hint": {
+        "description": "Onboarding redesign (phase 2): Language sheet search field."
+    },
+    "onb_language_suggested": "Vorschläge",
+    "@onb_language_suggested": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_device_language": "Sprache deines Geräts",
+    "@onb_language_device_language": {
+        "description": "Onboarding redesign (phase 2): Language sheet Suggested row sub-line."
+    },
+    "onb_language_all": "Alle Sprachen",
+    "@onb_language_all": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_results": "Ergebnisse",
+    "@onb_language_results": {
+        "description": "Onboarding redesign (phase 2): Language sheet section while searching."
+    },
+    "onb_language_no_match": "Keine Sprache passt zu „{query}“",
+    "@onb_language_no_match": {
+        "description": "Onboarding redesign (phase 2): Language sheet empty search.",
+        "placeholders": {
+            "query": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_location_title": "Finde deine Moschee",
+    "@onb_location_title": {
+        "description": "Onboarding redesign (phase 3): Location H1."
+    },
+    "onb_location_body": "Wir nutzen deinen Standort für Gebetszeiten und die Qibla.",
+    "@onb_location_body": {
+        "description": "Onboarding redesign (phase 3): Location body."
+    },
+    "onb_location_allow": "Standort erlauben",
+    "@onb_location_allow": {
+        "description": "Onboarding redesign (phase 3): Location primary CTA."
+    },
+    "onb_not_now": "Nicht jetzt",
+    "@onb_not_now": {
+        "description": "Onboarding redesign (phase 3): Secondary CTA on Location and Notifications."
+    },
+    "onb_location_footnote": "Jederzeit in den Einstellungen abschaltbar.",
+    "@onb_location_footnote": {
+        "description": "Onboarding redesign (phase 3): Location dock footnote."
+    },
+    "onb_mosque_banner_denied": "Standort ist aus. Suche nach Moschee oder Stadt.",
+    "@onb_mosque_banner_denied": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location denied."
+    },
+    "onb_mosque_banner_skipped": "Aktiviere den Standort, um Moscheen in deiner Nähe zu sehen.",
+    "@onb_mosque_banner_skipped": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location skipped."
+    },
+    "onb_mosque_banner_turn_on": "Aktivieren",
+    "@onb_mosque_banner_turn_on": {
+        "description": "Onboarding redesign (phase 4): Mosque banner button (skipped)."
+    },
+    "onb_mosque_continue": "Weiter · {count} hinzugefügt",
+    "@onb_mosque_continue": {
+        "description": "Onboarding redesign (phase 4): Mosque Continue button.",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_notif_title": "Jedes Gebet pünktlich",
+    "@onb_notif_title": {
+        "description": "Onboarding redesign (phase 5): Notifications H1."
+    },
+    "onb_notif_body": "Mitteilungen für alle 5 Gebete, mit dem Ton deines Handys.",
+    "@onb_notif_body": {
+        "description": "Onboarding redesign (phase 5): Notifications body (curly apostrophe)."
+    },
+    "onb_notif_allow": "Mitteilungen erlauben",
+    "@onb_notif_allow": {
+        "description": "Onboarding redesign (phase 5): Notifications primary CTA."
+    },
+    "onb_notif_footnote": "Jederzeit in den Einstellungen änderbar.",
+    "@onb_notif_footnote": {
+        "description": "Onboarding redesign (phase 5): Notifications dock footnote."
+    },
+    "onb_notif_card_now": "jetzt",
+    "@onb_notif_card_now": {
+        "description": "Onboarding redesign (phase 5): Notification-card timestamp."
+    },
+    "onb_done_title": "Alles bereit",
+    "@onb_done_title": {
+        "description": "Onboarding redesign (phase 5): All Set H1 (curly apostrophe)."
+    },
+    "onb_done_summary_calculated": "{city} · berechnete Zeiten",
+    "@onb_done_summary_calculated": {
+        "description": "Onboarding redesign (phase 5): All Set summary for a virtual city.",
+        "placeholders": {
+            "city": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_done_summary_more_mosques": "+{count, plural, one{{count} Moschee} other{{count} Moscheen}}",
+    "@onb_done_summary_more_mosques": {
+        "description": "Onboarding redesign (phase 5): All Set summary, virtual city plus mosques.",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "onb_done_cta_semantic": "Bismillah, MAWAQIT öffnen",
+    "@onb_done_cta_semantic": {
+        "description": "Onboarding redesign (phase 5): All Set CTA screen-reader label."
+    },
+    "onb_done_alerts_off": "Gebetsmitteilungen sind aus.",
+    "@onb_done_alerts_off": {
+        "description": "Onboarding redesign (phase 5): All Set line when prayer alerts are off (Not Now or denied); the existing `settings` key follows it as a link."
+    },
+    "onb_done_finish_error": "Etwas ist schiefgelaufen. Versuch es noch einmal.",
+    "@onb_done_finish_error": {
+        "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
     }
 }
