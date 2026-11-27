@@ -2259,5 +2259,182 @@
     "duas_player_word_by_word": "سۆزمۇ-سۆز",
     "@duas_player_word_by_word": {
         "description": "Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed."
+    },
+    "onb_step_of": "{current}/{total}",
+    "@onb_step_of": {
+        "description": "Onboarding redesign (phase 1): Shell: step header label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_step_semantic": "قەدەم {current}/{total}",
+    "@onb_step_semantic": {
+        "description": "Onboarding redesign (phase 1): Shell: step header screen-reader label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_welcome_title": "مەۋاقىتقا خۇش كەلدىڭىز",
+    "@onb_welcome_title": {
+        "description": "Onboarding redesign (phase 2): Welcome H1."
+    },
+    "onb_welcome_subtitle": "مەسچىتىڭىزنىڭ ناماز ۋاقىتلىرى.",
+    "@onb_welcome_subtitle": {
+        "description": "Onboarding redesign (phase 2): Welcome subtitle."
+    },
+    "onb_get_started": "باشلاش",
+    "@onb_get_started": {
+        "description": "Onboarding redesign (phase 2): Welcome primary CTA."
+    },
+    "onb_theme_switch_to_light": "يورۇق ئۆرنەككە ئالماشتۇرۇش",
+    "@onb_theme_switch_to_light": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_theme_switch_to_dark": "قاراڭغۇ ئۆرنەككە ئالماشتۇرۇش",
+    "@onb_theme_switch_to_dark": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_language_pill_semantic": "تىل: {language}. تىلنى ئۆزگەرتىش",
+    "@onb_language_pill_semantic": {
+        "description": "Onboarding redesign (phase 2): Language pill screen-reader label.",
+        "placeholders": {
+            "language": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_language_search_hint": "تىل ئىزدەش",
+    "@onb_language_search_hint": {
+        "description": "Onboarding redesign (phase 2): Language sheet search field."
+    },
+    "onb_language_suggested": "تەۋسىيە",
+    "@onb_language_suggested": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_device_language": "ئۈسكۈنىڭىزنىڭ تىلى",
+    "@onb_language_device_language": {
+        "description": "Onboarding redesign (phase 2): Language sheet Suggested row sub-line."
+    },
+    "onb_language_all": "بارلىق تىللار",
+    "@onb_language_all": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_results": "نەتىجىلەر",
+    "@onb_language_results": {
+        "description": "Onboarding redesign (phase 2): Language sheet section while searching."
+    },
+    "onb_language_no_match": "«{query}» غا ماس كېلىدىغان تىل يوق",
+    "@onb_language_no_match": {
+        "description": "Onboarding redesign (phase 2): Language sheet empty search.",
+        "placeholders": {
+            "query": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_location_title": "مەسچىتىڭىزنى تېپىڭ",
+    "@onb_location_title": {
+        "description": "Onboarding redesign (phase 3): Location H1."
+    },
+    "onb_location_body": "ئورنىڭىزنى ناماز ۋاقتى ۋە قىبلە ئۈچۈن ئىشلىتىمىز.",
+    "@onb_location_body": {
+        "description": "Onboarding redesign (phase 3): Location body."
+    },
+    "onb_location_allow": "ئورۇنغا يول قويۇش",
+    "@onb_location_allow": {
+        "description": "Onboarding redesign (phase 3): Location primary CTA."
+    },
+    "onb_not_now": "ھازىر ئەمەس",
+    "@onb_not_now": {
+        "description": "Onboarding redesign (phase 3): Secondary CTA on Location and Notifications."
+    },
+    "onb_location_footnote": "بۇنى خالىغان ۋاقىتتا تەڭشەكتىن تاقىيالايسىز.",
+    "@onb_location_footnote": {
+        "description": "Onboarding redesign (phase 3): Location dock footnote."
+    },
+    "onb_mosque_banner_denied": "ئورۇن تاقالغان. مەسچىت ياكى شەھەر بويىچە ئىزدەڭ.",
+    "@onb_mosque_banner_denied": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location denied."
+    },
+    "onb_mosque_banner_skipped": "ئەتراپىڭىزدىكى مەسچىتلەرنى كۆرۈش ئۈچۈن ئورۇننى ئېچىڭ.",
+    "@onb_mosque_banner_skipped": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location skipped."
+    },
+    "onb_mosque_banner_turn_on": "ئېچىش",
+    "@onb_mosque_banner_turn_on": {
+        "description": "Onboarding redesign (phase 4): Mosque banner button (skipped)."
+    },
+    "onb_mosque_continue": "داۋاملاشتۇر · {count} قوشۇلدى",
+    "@onb_mosque_continue": {
+        "description": "Onboarding redesign (phase 4): Mosque Continue button.",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_notif_title": "ھەر ناماز ۋاقتىدا",
+    "@onb_notif_title": {
+        "description": "Onboarding redesign (phase 5): Notifications H1."
+    },
+    "onb_notif_body": "5 ۋاخ نامازنىڭ ھەممىسى ئۈچۈن ئەسكەرتىش، تېلېفونىڭىزنىڭ ئاۋازى بىلەن.",
+    "@onb_notif_body": {
+        "description": "Onboarding redesign (phase 5): Notifications body (curly apostrophe)."
+    },
+    "onb_notif_allow": "ئەسكەرتىشكە يول قويۇش",
+    "@onb_notif_allow": {
+        "description": "Onboarding redesign (phase 5): Notifications primary CTA."
+    },
+    "onb_notif_footnote": "خالىغان ۋاقىتتا تەڭشەكتە ئۆزگەرتەلەيسىز.",
+    "@onb_notif_footnote": {
+        "description": "Onboarding redesign (phase 5): Notifications dock footnote."
+    },
+    "onb_notif_card_now": "ھازىر",
+    "@onb_notif_card_now": {
+        "description": "Onboarding redesign (phase 5): Notification-card timestamp."
+    },
+    "onb_done_title": "ھەممە تەييار",
+    "@onb_done_title": {
+        "description": "Onboarding redesign (phase 5): All Set H1 (curly apostrophe)."
+    },
+    "onb_done_summary_calculated": "{city} · ھېسابلانغان ۋاقىت",
+    "@onb_done_summary_calculated": {
+        "description": "Onboarding redesign (phase 5): All Set summary for a virtual city.",
+        "placeholders": {
+            "city": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_done_summary_more_mosques": "+{count, plural, one{{count} مەسچىت} other{{count} مەسچىت}}",
+    "@onb_done_summary_more_mosques": {
+        "description": "Onboarding redesign (phase 5): All Set summary, virtual city plus mosques.",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "onb_done_cta_semantic": "بىسمىللا، مەۋاقىتنى ئېچىش",
+    "@onb_done_cta_semantic": {
+        "description": "Onboarding redesign (phase 5): All Set CTA screen-reader label."
+    },
+    "onb_done_alerts_off": "ناماز ئەسكەرتىشى تاقالغان.",
+    "@onb_done_alerts_off": {
+        "description": "Onboarding redesign (phase 5): All Set line when prayer alerts are off (Not Now or denied); the existing `settings` key follows it as a link."
+    },
+    "onb_done_finish_error": "خاتالىق كۆرۈلدى. قايتا سىناڭ.",
+    "@onb_done_finish_error": {
+        "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
     }
 }
