@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2436,5 +2436,33 @@
     "onb_done_finish_error": "Algo correu mal. Tente novamente.",
     "@onb_done_finish_error": {
         "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
+    },
+    "wt_layout_choices": "Escolha a sua disposição: 360, grelha ou lista.",
+    "@wt_layout_choices": {
+        "description": "Feature walkthrough, session 2, part 2: tooltip over the 360 / grid / list buttons in the side layout panel. Reuses the term \"Layout\" (key layout)."
+    },
+    "wt_adhan_bell": "Toque no sino para abrir as Notificações de oração.",
+    "@wt_adhan_bell": {
+        "description": "Feature walkthrough, session 3, part 1: tooltip on the bell of the next prayer on Home. \"Prayer Notifications\" is the bell sheet title (key settings_PrayerNotifications)."
+    },
+    "wt_adhan_option": "Escolha “Azan” para o ouvir na hora da oração.",
+    "@wt_adhan_option": {
+        "description": "Feature walkthrough, session 3, part 2: tooltip on the Adhan choice in the Prayer Notifications sheet. \"Adhan\" is that choice's label (key adhan)."
+    },
+    "wt_pre_prayer_bell": "Toque no sino para definir uma pré-notificação da oração.",
+    "@wt_pre_prayer_bell": {
+        "description": "Feature walkthrough, session 4, part 1: tooltip on the bell of the next prayer on Home. Reuses \"Pre-Prayer notification\" (key settings_PrayerPreNotifications)."
+    },
+    "wt_pre_prayer_setting": "Ative “Antes do Azan” para ser avisado antes da oração.",
+    "@wt_pre_prayer_setting": {
+        "description": "Feature walkthrough, session 4, part 2: tooltip on the Before Adhan switch in the sheet. \"Before Adhan\" is that switch's label (key before_adhan)."
+    },
+    "wt_full_adhan_bell": "Toque no sino de uma oração com Azan.",
+    "@wt_full_adhan_bell": {
+        "description": "Feature walkthrough, session 5, part 1 (iOS 26+): tooltip on the bell of a prayer set to Adhan."
+    },
+    "wt_full_adhan_switch": "Ative “Reproduzir adhan completo” para ouvir o adhan inteiro.",
+    "@wt_full_adhan_switch": {
+        "description": "Feature walkthrough, session 5, part 2 (iOS 26+): tooltip on the Play full Adhan switch. \"Play full Adhan\" is that switch's label (key play_full_adhan)."
     }
 }
