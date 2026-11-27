@@ -3540,4 +3540,131 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'كلمة بكلمة';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current من $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'الخطوة $current من $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'مرحبًا بك في مواقيت';
+
+  @override
+  String get onb_welcome_subtitle => 'مواقيت الصلاة من مسجدك.';
+
+  @override
+  String get onb_get_started => 'ابدأ الآن';
+
+  @override
+  String get onb_theme_switch_to_light => 'التبديل إلى المظهر الفاتح';
+
+  @override
+  String get onb_theme_switch_to_dark => 'التبديل إلى المظهر الداكن';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'اللغة: $language. تغيير اللغة';
+  }
+
+  @override
+  String get onb_language_search_hint => 'ابحث عن لغة';
+
+  @override
+  String get onb_language_suggested => 'مقترحة';
+
+  @override
+  String get onb_language_device_language => 'لغة جهازك';
+
+  @override
+  String get onb_language_all => 'جميع اللغات';
+
+  @override
+  String get onb_language_results => 'النتائج';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'لا توجد لغة تطابق «$query»';
+  }
+
+  @override
+  String get onb_location_title => 'اعثر على مسجدك';
+
+  @override
+  String get onb_location_body => 'نستخدم موقعك لمواقيت الصلاة واتجاه القبلة.';
+
+  @override
+  String get onb_location_allow => 'السماح بالموقع';
+
+  @override
+  String get onb_not_now => 'ليس الآن';
+
+  @override
+  String get onb_location_footnote => 'يمكنك إيقافه في أي وقت من الإعدادات.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'الموقع متوقف. ابحث باسم المسجد أو المدينة.';
+
+  @override
+  String get onb_mosque_banner_skipped => 'فعّل الموقع لرؤية المساجد من حولك.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'تشغيل';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'متابعة · تمت إضافة $count';
+  }
+
+  @override
+  String get onb_notif_title => 'كل صلاة في وقتها';
+
+  @override
+  String get onb_notif_body => 'تنبيهات للصلوات الخمس بصوت هاتفك.';
+
+  @override
+  String get onb_notif_allow => 'السماح بالتنبيهات';
+
+  @override
+  String get onb_notif_footnote => 'يمكنك تغييرها في أي وقت من الإعدادات.';
+
+  @override
+  String get onb_notif_card_now => 'الآن';
+
+  @override
+  String get onb_done_title => 'كل شيء جاهز';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · أوقات محسوبة';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count مسجد',
+      many: '$count مسجدًا',
+      few: '$count مساجد',
+      two: '$count مسجد',
+      one: '$count مسجد',
+      zero: '$count مسجد',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'بسم الله، افتح مواقيت';
+
+  @override
+  String get onb_done_alerts_off => 'تنبيهات الصلاة متوقفة.';
+
+  @override
+  String get onb_done_finish_error => 'حدث خطأ ما. حاول مرة أخرى.';
 }

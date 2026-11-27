@@ -3565,4 +3565,131 @@ class AppLocalizationsSv extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Ord för ord';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current av $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Steg $current av $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Välkommen till MAWAQIT';
+
+  @override
+  String get onb_welcome_subtitle => 'Bönetider från din moské.';
+
+  @override
+  String get onb_get_started => 'Kom igång';
+
+  @override
+  String get onb_theme_switch_to_light => 'Byt till ljust tema';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Byt till mörkt tema';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Språk: $language. Byt språk';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Sök språk';
+
+  @override
+  String get onb_language_suggested => 'Förslag';
+
+  @override
+  String get onb_language_device_language => 'Din enhets språk';
+
+  @override
+  String get onb_language_all => 'Alla språk';
+
+  @override
+  String get onb_language_results => 'Resultat';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Inget språk matchar ”$query”';
+  }
+
+  @override
+  String get onb_location_title => 'Hitta din moské';
+
+  @override
+  String get onb_location_body =>
+      'Vi använder din plats för bönetider och qibla.';
+
+  @override
+  String get onb_location_allow => 'Tillåt platsåtkomst';
+
+  @override
+  String get onb_not_now => 'Inte nu';
+
+  @override
+  String get onb_location_footnote =>
+      'Du kan stänga av det när som helst i Inställningar.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'Platstjänsten är avstängd. Sök på moské eller stad.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Slå på platstjänsten för att se moskéer nära dig.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Slå på';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Fortsätt · $count tillagda';
+  }
+
+  @override
+  String get onb_notif_title => 'Varje bön i tid';
+
+  @override
+  String get onb_notif_body =>
+      'Aviseringar för alla 5 böner, med telefonens ljud.';
+
+  @override
+  String get onb_notif_allow => 'Tillåt aviseringar';
+
+  @override
+  String get onb_notif_footnote => 'Ändra när som helst i Inställningar.';
+
+  @override
+  String get onb_notif_card_now => 'nu';
+
+  @override
+  String get onb_done_title => 'Allt är klart';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · beräknade tider';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count moskéer',
+      one: '$count moské',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Bismillah, öppna MAWAQIT';
+
+  @override
+  String get onb_done_alerts_off => 'Böneaviseringar är avstängda.';
+
+  @override
+  String get onb_done_finish_error => 'Något gick fel. Försök igen.';
 }

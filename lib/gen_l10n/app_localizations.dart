@@ -6742,6 +6742,210 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Word by word'**
   String get duas_player_word_by_word;
+
+  /// Onboarding redesign (phase 1): Shell: step header label.
+  ///
+  /// In en, this message translates to:
+  /// **'{current} of {total}'**
+  String onb_step_of(String current, String total);
+
+  /// Onboarding redesign (phase 1): Shell: step header screen-reader label.
+  ///
+  /// In en, this message translates to:
+  /// **'Step {current} of {total}'**
+  String onb_step_semantic(String current, String total);
+
+  /// Onboarding redesign (phase 2): Welcome H1.
+  ///
+  /// In en, this message translates to:
+  /// **'Welcome to MAWAQIT'**
+  String get onb_welcome_title;
+
+  /// Onboarding redesign (phase 2): Welcome subtitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer times from your mosque.'**
+  String get onb_welcome_subtitle;
+
+  /// Onboarding redesign (phase 2): Welcome primary CTA.
+  ///
+  /// In en, this message translates to:
+  /// **'Get Started'**
+  String get onb_get_started;
+
+  /// Onboarding redesign (phase 2): Theme pill screen-reader label.
+  ///
+  /// In en, this message translates to:
+  /// **'Switch to light theme'**
+  String get onb_theme_switch_to_light;
+
+  /// Onboarding redesign (phase 2): Theme pill screen-reader label.
+  ///
+  /// In en, this message translates to:
+  /// **'Switch to dark theme'**
+  String get onb_theme_switch_to_dark;
+
+  /// Onboarding redesign (phase 2): Language pill screen-reader label.
+  ///
+  /// In en, this message translates to:
+  /// **'Language: {language}. Change language'**
+  String onb_language_pill_semantic(String language);
+
+  /// Onboarding redesign (phase 2): Language sheet search field.
+  ///
+  /// In en, this message translates to:
+  /// **'Search languages'**
+  String get onb_language_search_hint;
+
+  /// Onboarding redesign (phase 2): Language sheet section.
+  ///
+  /// In en, this message translates to:
+  /// **'Suggested'**
+  String get onb_language_suggested;
+
+  /// Onboarding redesign (phase 2): Language sheet Suggested row sub-line.
+  ///
+  /// In en, this message translates to:
+  /// **'Your device language'**
+  String get onb_language_device_language;
+
+  /// Onboarding redesign (phase 2): Language sheet section.
+  ///
+  /// In en, this message translates to:
+  /// **'All Languages'**
+  String get onb_language_all;
+
+  /// Onboarding redesign (phase 2): Language sheet section while searching.
+  ///
+  /// In en, this message translates to:
+  /// **'Results'**
+  String get onb_language_results;
+
+  /// Onboarding redesign (phase 2): Language sheet empty search.
+  ///
+  /// In en, this message translates to:
+  /// **'No language matches “{query}”'**
+  String onb_language_no_match(String query);
+
+  /// Onboarding redesign (phase 3): Location H1.
+  ///
+  /// In en, this message translates to:
+  /// **'Find Your Mosque'**
+  String get onb_location_title;
+
+  /// Onboarding redesign (phase 3): Location body.
+  ///
+  /// In en, this message translates to:
+  /// **'We use your location for prayer times and the Qibla.'**
+  String get onb_location_body;
+
+  /// Onboarding redesign (phase 3): Location primary CTA.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow Location'**
+  String get onb_location_allow;
+
+  /// Onboarding redesign (phase 3): Secondary CTA on Location and Notifications.
+  ///
+  /// In en, this message translates to:
+  /// **'Not Now'**
+  String get onb_not_now;
+
+  /// Onboarding redesign (phase 3): Location dock footnote.
+  ///
+  /// In en, this message translates to:
+  /// **'You can turn this off anytime in Settings.'**
+  String get onb_location_footnote;
+
+  /// Onboarding redesign (phase 4): Mosque banner, location denied.
+  ///
+  /// In en, this message translates to:
+  /// **'Location is off. Search by mosque or city.'**
+  String get onb_mosque_banner_denied;
+
+  /// Onboarding redesign (phase 4): Mosque banner, location skipped.
+  ///
+  /// In en, this message translates to:
+  /// **'Turn on location to see mosques around you.'**
+  String get onb_mosque_banner_skipped;
+
+  /// Onboarding redesign (phase 4): Mosque banner button (skipped).
+  ///
+  /// In en, this message translates to:
+  /// **'Turn On'**
+  String get onb_mosque_banner_turn_on;
+
+  /// Onboarding redesign (phase 4): Mosque Continue button.
+  ///
+  /// In en, this message translates to:
+  /// **'Continue · {count} added'**
+  String onb_mosque_continue(String count);
+
+  /// Onboarding redesign (phase 5): Notifications H1.
+  ///
+  /// In en, this message translates to:
+  /// **'Every Prayer, On Time'**
+  String get onb_notif_title;
+
+  /// Onboarding redesign (phase 5): Notifications body (curly apostrophe).
+  ///
+  /// In en, this message translates to:
+  /// **'Alerts for all 5 prayers, with your phone’s sound.'**
+  String get onb_notif_body;
+
+  /// Onboarding redesign (phase 5): Notifications primary CTA.
+  ///
+  /// In en, this message translates to:
+  /// **'Allow Alerts'**
+  String get onb_notif_allow;
+
+  /// Onboarding redesign (phase 5): Notifications dock footnote.
+  ///
+  /// In en, this message translates to:
+  /// **'Change them anytime in Settings.'**
+  String get onb_notif_footnote;
+
+  /// Onboarding redesign (phase 5): Notification-card timestamp.
+  ///
+  /// In en, this message translates to:
+  /// **'now'**
+  String get onb_notif_card_now;
+
+  /// Onboarding redesign (phase 5): All Set H1 (curly apostrophe).
+  ///
+  /// In en, this message translates to:
+  /// **'You’re All Set'**
+  String get onb_done_title;
+
+  /// Onboarding redesign (phase 5): All Set summary for a virtual city.
+  ///
+  /// In en, this message translates to:
+  /// **'{city} · calculated times'**
+  String onb_done_summary_calculated(String city);
+
+  /// Onboarding redesign (phase 5): All Set summary, virtual city plus mosques.
+  ///
+  /// In en, this message translates to:
+  /// **'+{count, plural, one{{count} mosque} other{{count} mosques}}'**
+  String onb_done_summary_more_mosques(int count);
+
+  /// Onboarding redesign (phase 5): All Set CTA screen-reader label.
+  ///
+  /// In en, this message translates to:
+  /// **'Bismillah, open MAWAQIT'**
+  String get onb_done_cta_semantic;
+
+  /// Onboarding redesign (phase 5): All Set line when prayer alerts are off (Not Now or denied); the existing `settings` key follows it as a link.
+  ///
+  /// In en, this message translates to:
+  /// **'Prayer alerts are off.'**
+  String get onb_done_alerts_off;
+
+  /// Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again.
+  ///
+  /// In en, this message translates to:
+  /// **'Something went wrong. Try again.'**
+  String get onb_done_finish_error;
 }
 
 class _AppLocalizationsDelegate

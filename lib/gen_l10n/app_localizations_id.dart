@@ -3575,4 +3575,129 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Kata demi kata';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current dari $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Langkah $current dari $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Selamat datang di MAWAQIT';
+
+  @override
+  String get onb_welcome_subtitle => 'Jadwal salat dari masjidmu.';
+
+  @override
+  String get onb_get_started => 'Mulai';
+
+  @override
+  String get onb_theme_switch_to_light => 'Beralih ke tema terang';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Beralih ke tema gelap';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Bahasa: $language. Ubah bahasa';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Cari bahasa';
+
+  @override
+  String get onb_language_suggested => 'Disarankan';
+
+  @override
+  String get onb_language_device_language => 'Bahasa perangkatmu';
+
+  @override
+  String get onb_language_all => 'Semua bahasa';
+
+  @override
+  String get onb_language_results => 'Hasil';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Tidak ada bahasa yang cocok dengan “$query”';
+  }
+
+  @override
+  String get onb_location_title => 'Temukan masjidmu';
+
+  @override
+  String get onb_location_body =>
+      'Kami memakai lokasimu untuk jadwal salat dan arah kiblat.';
+
+  @override
+  String get onb_location_allow => 'Izinkan lokasi';
+
+  @override
+  String get onb_not_now => 'Nanti saja';
+
+  @override
+  String get onb_location_footnote => 'Matikan kapan saja di Pengaturan.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'Lokasi mati. Cari berdasarkan masjid atau kota.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Aktifkan lokasi untuk melihat masjid di sekitarmu.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Aktifkan';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Lanjutkan · $count ditambahkan';
+  }
+
+  @override
+  String get onb_notif_title => 'Setiap salat tepat waktu';
+
+  @override
+  String get onb_notif_body =>
+      'Notifikasi untuk 5 waktu salat, dengan suara ponselmu.';
+
+  @override
+  String get onb_notif_allow => 'Izinkan notifikasi';
+
+  @override
+  String get onb_notif_footnote => 'Ubah kapan saja di Pengaturan.';
+
+  @override
+  String get onb_notif_card_now => 'sekarang';
+
+  @override
+  String get onb_done_title => 'Semua sudah siap';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · waktu hasil perhitungan';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count masjid',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Bismillah, buka MAWAQIT';
+
+  @override
+  String get onb_done_alerts_off => 'Notifikasi salat nonaktif.';
+
+  @override
+  String get onb_done_finish_error => 'Terjadi kesalahan. Coba lagi.';
 }

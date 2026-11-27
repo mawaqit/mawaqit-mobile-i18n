@@ -3613,4 +3613,132 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Wort für Wort';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current von $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Schritt $current von $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Willkommen bei MAWAQIT';
+
+  @override
+  String get onb_welcome_subtitle => 'Gebetszeiten deiner Moschee.';
+
+  @override
+  String get onb_get_started => 'Loslegen';
+
+  @override
+  String get onb_theme_switch_to_light => 'Zum hellen Design wechseln';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Zum dunklen Design wechseln';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Sprache: $language. Sprache ändern';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Sprachen suchen';
+
+  @override
+  String get onb_language_suggested => 'Vorschläge';
+
+  @override
+  String get onb_language_device_language => 'Sprache deines Geräts';
+
+  @override
+  String get onb_language_all => 'Alle Sprachen';
+
+  @override
+  String get onb_language_results => 'Ergebnisse';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Keine Sprache passt zu „$query“';
+  }
+
+  @override
+  String get onb_location_title => 'Finde deine Moschee';
+
+  @override
+  String get onb_location_body =>
+      'Wir nutzen deinen Standort für Gebetszeiten und die Qibla.';
+
+  @override
+  String get onb_location_allow => 'Standort erlauben';
+
+  @override
+  String get onb_not_now => 'Nicht jetzt';
+
+  @override
+  String get onb_location_footnote =>
+      'Jederzeit in den Einstellungen abschaltbar.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'Standort ist aus. Suche nach Moschee oder Stadt.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Aktiviere den Standort, um Moscheen in deiner Nähe zu sehen.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Aktivieren';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Weiter · $count hinzugefügt';
+  }
+
+  @override
+  String get onb_notif_title => 'Jedes Gebet pünktlich';
+
+  @override
+  String get onb_notif_body =>
+      'Mitteilungen für alle 5 Gebete, mit dem Ton deines Handys.';
+
+  @override
+  String get onb_notif_allow => 'Mitteilungen erlauben';
+
+  @override
+  String get onb_notif_footnote => 'Jederzeit in den Einstellungen änderbar.';
+
+  @override
+  String get onb_notif_card_now => 'jetzt';
+
+  @override
+  String get onb_done_title => 'Alles bereit';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · berechnete Zeiten';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count Moscheen',
+      one: '$count Moschee',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Bismillah, MAWAQIT öffnen';
+
+  @override
+  String get onb_done_alerts_off => 'Gebetsmitteilungen sind aus.';
+
+  @override
+  String get onb_done_finish_error =>
+      'Etwas ist schiefgelaufen. Versuch es noch einmal.';
 }

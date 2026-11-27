@@ -3611,4 +3611,130 @@ class AppLocalizationsSq extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Fjalë pas fjale';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current nga $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Hapi $current nga $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Mirë se vjen në MAWAQIT';
+
+  @override
+  String get onb_welcome_subtitle => 'Kohët e namazit nga xhamia jote.';
+
+  @override
+  String get onb_get_started => 'Fillo';
+
+  @override
+  String get onb_theme_switch_to_light => 'Kalo te tema e çelët';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Kalo te tema e errët';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Gjuha: $language. Ndrysho gjuhën';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Kërko gjuhë';
+
+  @override
+  String get onb_language_suggested => 'Të sugjeruara';
+
+  @override
+  String get onb_language_device_language => 'Gjuha e pajisjes sate';
+
+  @override
+  String get onb_language_all => 'Të gjitha gjuhët';
+
+  @override
+  String get onb_language_results => 'Rezultatet';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Asnjë gjuhë nuk përputhet me “$query”';
+  }
+
+  @override
+  String get onb_location_title => 'Gjej xhaminë tënde';
+
+  @override
+  String get onb_location_body =>
+      'Përdorim vendndodhjen tënde për kohët e namazit dhe kiblën.';
+
+  @override
+  String get onb_location_allow => 'Lejo vendndodhjen';
+
+  @override
+  String get onb_not_now => 'Jo tani';
+
+  @override
+  String get onb_location_footnote => 'Fikeni kurdo te Cilësimet.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'Vendndodhja është fikur. Kërko sipas xhamisë ose qytetit.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Aktivizo vendndodhjen për të parë xhamitë përreth.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Aktivizo';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Vazhdo · $count të shtuara';
+  }
+
+  @override
+  String get onb_notif_title => 'Çdo namaz në kohë';
+
+  @override
+  String get onb_notif_body =>
+      'Njoftime për të 5 namazet, me tingullin e telefonit tënd.';
+
+  @override
+  String get onb_notif_allow => 'Lejo njoftimet';
+
+  @override
+  String get onb_notif_footnote => 'Ndryshoji kurdo te Cilësimet.';
+
+  @override
+  String get onb_notif_card_now => 'tani';
+
+  @override
+  String get onb_done_title => 'Gjithçka gati';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · kohë të llogaritura';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count xhami',
+      one: '$count xhami',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Bismilah, hap MAWAQIT';
+
+  @override
+  String get onb_done_alerts_off => 'Njoftimet e namazit janë të çaktivizuara.';
+
+  @override
+  String get onb_done_finish_error => 'Diçka shkoi keq. Provo përsëri.';
 }

@@ -3604,4 +3604,130 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Palabra por palabra';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current de $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Paso $current de $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Te damos la bienvenida a MAWAQIT';
+
+  @override
+  String get onb_welcome_subtitle => 'Horarios de oración de tu mezquita.';
+
+  @override
+  String get onb_get_started => 'Empezar';
+
+  @override
+  String get onb_theme_switch_to_light => 'Cambiar al tema claro';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Cambiar al tema oscuro';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Idioma: $language. Cambiar idioma';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Buscar idiomas';
+
+  @override
+  String get onb_language_suggested => 'Sugeridos';
+
+  @override
+  String get onb_language_device_language => 'Idioma de tu dispositivo';
+
+  @override
+  String get onb_language_all => 'Todos los idiomas';
+
+  @override
+  String get onb_language_results => 'Resultados';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Ningún idioma coincide con «$query»';
+  }
+
+  @override
+  String get onb_location_title => 'Encuentra tu mezquita';
+
+  @override
+  String get onb_location_body =>
+      'Usamos tu ubicación para los horarios de oración y la Qibla.';
+
+  @override
+  String get onb_location_allow => 'Permitir ubicación';
+
+  @override
+  String get onb_not_now => 'Ahora no';
+
+  @override
+  String get onb_location_footnote => 'Desactívalo cuando quieras en Ajustes.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'La ubicación está desactivada. Busca por mezquita o ciudad.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Activa la ubicación para ver las mezquitas cercanas.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Activar';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Continuar · Añadidas: $count';
+  }
+
+  @override
+  String get onb_notif_title => 'Cada oración a tiempo';
+
+  @override
+  String get onb_notif_body =>
+      'Avisos para las 5 oraciones, con el sonido de tu teléfono.';
+
+  @override
+  String get onb_notif_allow => 'Permitir avisos';
+
+  @override
+  String get onb_notif_footnote => 'Cámbialos cuando quieras en Ajustes.';
+
+  @override
+  String get onb_notif_card_now => 'ahora';
+
+  @override
+  String get onb_done_title => 'Todo listo';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · horarios calculados';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count mezquitas',
+      one: '$count mezquita',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Bismillah, abrir MAWAQIT';
+
+  @override
+  String get onb_done_alerts_off => 'Los avisos de oración están desactivados.';
+
+  @override
+  String get onb_done_finish_error => 'Algo salió mal. Inténtalo de nuevo.';
 }

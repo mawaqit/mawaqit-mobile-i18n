@@ -3591,4 +3591,131 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Szóról szóra';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current/$total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Lépés: $current/$total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Üdvözlünk a MAWAQIT-ban';
+
+  @override
+  String get onb_welcome_subtitle => 'A mecseted imaidői.';
+
+  @override
+  String get onb_get_started => 'Kezdés';
+
+  @override
+  String get onb_theme_switch_to_light => 'Váltás világos témára';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Váltás sötét témára';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Nyelv: $language. Nyelv módosítása';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Nyelvek keresése';
+
+  @override
+  String get onb_language_suggested => 'Javasolt';
+
+  @override
+  String get onb_language_device_language => 'Az eszközöd nyelve';
+
+  @override
+  String get onb_language_all => 'Minden nyelv';
+
+  @override
+  String get onb_language_results => 'Találatok';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Nincs a(z) „$query” keresésnek megfelelő nyelv';
+  }
+
+  @override
+  String get onb_location_title => 'Találd meg a mecsetedet';
+
+  @override
+  String get onb_location_body =>
+      'A helyzetedet az imaidőkhöz és Mekka irányához használjuk.';
+
+  @override
+  String get onb_location_allow => 'Helymeghatározás engedélyezése';
+
+  @override
+  String get onb_not_now => 'Most nem';
+
+  @override
+  String get onb_location_footnote =>
+      'Ezt bármikor kikapcsolhatod a Beállításokban.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'A helymeghatározás ki van kapcsolva. Keress mecset vagy város alapján.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Kapcsold be a helymeghatározást a közeli mecsetek megjelenítéséhez.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Bekapcsolás';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Tovább · $count hozzáadva';
+  }
+
+  @override
+  String get onb_notif_title => 'Minden ima időben';
+
+  @override
+  String get onb_notif_body =>
+      'Értesítés mind az 5 imához, a telefonod hangjával.';
+
+  @override
+  String get onb_notif_allow => 'Értesítések engedélyezése';
+
+  @override
+  String get onb_notif_footnote => 'Bármikor módosíthatod a Beállításokban.';
+
+  @override
+  String get onb_notif_card_now => 'most';
+
+  @override
+  String get onb_done_title => 'Minden kész';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · számított időpontok';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count mecset',
+      one: '$count mecset',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Allah nevében, MAWAQIT megnyitása';
+
+  @override
+  String get onb_done_alerts_off => 'Az imaértesítések ki vannak kapcsolva.';
+
+  @override
+  String get onb_done_finish_error => 'Hiba történt. Próbáld újra.';
 }

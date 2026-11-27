@@ -3558,4 +3558,129 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Kelime kelime';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current/$total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Adım $current/$total';
+  }
+
+  @override
+  String get onb_welcome_title => 'MAWAQIT’e hoş geldin';
+
+  @override
+  String get onb_welcome_subtitle => 'Camiinden namaz vakitleri.';
+
+  @override
+  String get onb_get_started => 'Başla';
+
+  @override
+  String get onb_theme_switch_to_light => 'Açık temaya geç';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Koyu temaya geç';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Dil: $language. Dili değiştir';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Dil ara';
+
+  @override
+  String get onb_language_suggested => 'Önerilen';
+
+  @override
+  String get onb_language_device_language => 'Cihazının dili';
+
+  @override
+  String get onb_language_all => 'Tüm diller';
+
+  @override
+  String get onb_language_results => 'Sonuçlar';
+
+  @override
+  String onb_language_no_match(String query) {
+    return '“$query” ile eşleşen dil yok';
+  }
+
+  @override
+  String get onb_location_title => 'Camini bul';
+
+  @override
+  String get onb_location_body =>
+      'Konumunu namaz vakitleri ve kıble için kullanırız.';
+
+  @override
+  String get onb_location_allow => 'Konuma izin ver';
+
+  @override
+  String get onb_not_now => 'Şimdi değil';
+
+  @override
+  String get onb_location_footnote => 'İstediğin zaman Ayarlar’dan kapat.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'Konum kapalı. Cami veya şehir adıyla ara.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Çevrendeki camileri görmek için konumu aç.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Aç';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Devam · $count eklendi';
+  }
+
+  @override
+  String get onb_notif_title => 'Her namaz vaktinde';
+
+  @override
+  String get onb_notif_body => '5 vakit için bildirim, telefonunun sesiyle.';
+
+  @override
+  String get onb_notif_allow => 'Bildirimlere izin ver';
+
+  @override
+  String get onb_notif_footnote => 'İstediğin zaman Ayarlar’dan değiştir.';
+
+  @override
+  String get onb_notif_card_now => 'şimdi';
+
+  @override
+  String get onb_done_title => 'Her şey hazır';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · hesaplanan vakitler';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count cami',
+      one: '$count cami',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Bismillah, MAWAQIT’i aç';
+
+  @override
+  String get onb_done_alerts_off => 'Namaz bildirimleri kapalı.';
+
+  @override
+  String get onb_done_finish_error => 'Bir şeyler ters gitti. Tekrar dene.';
 }

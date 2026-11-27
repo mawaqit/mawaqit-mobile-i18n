@@ -3589,4 +3589,134 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Слово за словом';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current из $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Шаг $current из $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Добро пожаловать в MAWAQIT';
+
+  @override
+  String get onb_welcome_subtitle => 'Время намазов вашей мечети.';
+
+  @override
+  String get onb_get_started => 'Начать';
+
+  @override
+  String get onb_theme_switch_to_light => 'Включить светлую тему';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Включить тёмную тему';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Язык: $language. Изменить язык';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Поиск языков';
+
+  @override
+  String get onb_language_suggested => 'Рекомендуемые';
+
+  @override
+  String get onb_language_device_language => 'Язык устройства';
+
+  @override
+  String get onb_language_all => 'Все языки';
+
+  @override
+  String get onb_language_results => 'Результаты';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Нет языков по запросу «$query»';
+  }
+
+  @override
+  String get onb_location_title => 'Найдите свою мечеть';
+
+  @override
+  String get onb_location_body =>
+      'Мы используем вашу геолокацию для времени намаза и киблы.';
+
+  @override
+  String get onb_location_allow => 'Разрешить геолокацию';
+
+  @override
+  String get onb_not_now => 'Не сейчас';
+
+  @override
+  String get onb_location_footnote => 'Отключите в любой момент в Настройках.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'Геолокация выключена. Ищите по мечети или городу.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Включите геолокацию, чтобы видеть мечети рядом.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Включить';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Продолжить · добавлено: $count';
+  }
+
+  @override
+  String get onb_notif_title => 'Каждый намаз вовремя';
+
+  @override
+  String get onb_notif_body =>
+      'Уведомления для всех 5 намазов со звуком вашего телефона.';
+
+  @override
+  String get onb_notif_allow => 'Разрешить уведомления';
+
+  @override
+  String get onb_notif_footnote =>
+      'Изменить можно в любой момент в Настройках.';
+
+  @override
+  String get onb_notif_card_now => 'сейчас';
+
+  @override
+  String get onb_done_title => 'Всё готово';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · расчётное время';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count мечети',
+      many: '$count мечетей',
+      few: '$count мечети',
+      one: '$count мечеть',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Бисмиллах, открыть MAWAQIT';
+
+  @override
+  String get onb_done_alerts_off => 'Уведомления о намазе выключены.';
+
+  @override
+  String get onb_done_finish_error =>
+      'Что-то пошло не так. Попробуйте ещё раз.';
 }

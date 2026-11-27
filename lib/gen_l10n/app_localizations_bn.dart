@@ -3575,4 +3575,130 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'শব্দে শব্দে';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current/$total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return '$totalটির মধ্যে ধাপ $current';
+  }
+
+  @override
+  String get onb_welcome_title => 'মাওয়াকিতে স্বাগতম';
+
+  @override
+  String get onb_welcome_subtitle => 'আপনার মসজিদ থেকে নামাজের সময়।';
+
+  @override
+  String get onb_get_started => 'শুরু করুন';
+
+  @override
+  String get onb_theme_switch_to_light => 'লাইট থিমে যান';
+
+  @override
+  String get onb_theme_switch_to_dark => 'ডার্ক থিমে যান';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'ভাষা: $language। ভাষা পরিবর্তন করুন';
+  }
+
+  @override
+  String get onb_language_search_hint => 'ভাষা খুঁজুন';
+
+  @override
+  String get onb_language_suggested => 'প্রস্তাবিত';
+
+  @override
+  String get onb_language_device_language => 'আপনার ডিভাইসের ভাষা';
+
+  @override
+  String get onb_language_all => 'সব ভাষা';
+
+  @override
+  String get onb_language_results => 'ফলাফল';
+
+  @override
+  String onb_language_no_match(String query) {
+    return '“$query”-এর সাথে কোনো ভাষা মেলেনি';
+  }
+
+  @override
+  String get onb_location_title => 'আপনার মসজিদ খুঁজুন';
+
+  @override
+  String get onb_location_body =>
+      'আমরা আপনার লোকেশন নামাজের সময় ও কিবলার জন্য ব্যবহার করি।';
+
+  @override
+  String get onb_location_allow => 'লোকেশন অনুমতি দিন';
+
+  @override
+  String get onb_not_now => 'এখন নয়';
+
+  @override
+  String get onb_location_footnote => 'যেকোনো সময় সেটিংসে বন্ধ করুন।';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'লোকেশন বন্ধ। মসজিদ বা শহরের নাম দিয়ে খুঁজুন।';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'আশেপাশের মসজিদ দেখতে লোকেশন চালু করুন।';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'চালু করুন';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'চালিয়ে যান · $countটি যোগ করা হয়েছে';
+  }
+
+  @override
+  String get onb_notif_title => 'প্রতিটি নামাজ সময়মতো';
+
+  @override
+  String get onb_notif_body =>
+      'পাঁচ ওয়াক্ত নামাজের অ্যালার্ট, আপনার ফোনের সাউন্ডে।';
+
+  @override
+  String get onb_notif_allow => 'অ্যালার্ট অনুমতি দিন';
+
+  @override
+  String get onb_notif_footnote => 'যেকোনো সময় সেটিংসে বদলান।';
+
+  @override
+  String get onb_notif_card_now => 'এখন';
+
+  @override
+  String get onb_done_title => 'সব প্রস্তুত';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · হিসাবকৃত সময়';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$countটি মসজিদ',
+      one: '$countটি মসজিদ',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'বিসমিল্লাহ, মাওয়াকিত খুলুন';
+
+  @override
+  String get onb_done_alerts_off => 'নামাজের অ্যালার্ট বন্ধ আছে।';
+
+  @override
+  String get onb_done_finish_error => 'কিছু ভুল হয়েছে। আবার চেষ্টা করুন।';
 }

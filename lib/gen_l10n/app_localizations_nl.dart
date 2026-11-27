@@ -3591,4 +3591,130 @@ class AppLocalizationsNl extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'Woord voor woord';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current van $total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'Stap $current van $total';
+  }
+
+  @override
+  String get onb_welcome_title => 'Welkom bij MAWAQIT';
+
+  @override
+  String get onb_welcome_subtitle => 'Gebedstijden van je moskee.';
+
+  @override
+  String get onb_get_started => 'Beginnen';
+
+  @override
+  String get onb_theme_switch_to_light => 'Overschakelen naar licht thema';
+
+  @override
+  String get onb_theme_switch_to_dark => 'Overschakelen naar donker thema';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'Taal: $language. Taal wijzigen';
+  }
+
+  @override
+  String get onb_language_search_hint => 'Talen zoeken';
+
+  @override
+  String get onb_language_suggested => 'Voorgesteld';
+
+  @override
+  String get onb_language_device_language => 'Taal van je apparaat';
+
+  @override
+  String get onb_language_all => 'Alle talen';
+
+  @override
+  String get onb_language_results => 'Resultaten';
+
+  @override
+  String onb_language_no_match(String query) {
+    return 'Geen taal komt overeen met ‘$query’';
+  }
+
+  @override
+  String get onb_location_title => 'Vind je moskee';
+
+  @override
+  String get onb_location_body =>
+      'We gebruiken je locatie voor gebedstijden en de qibla.';
+
+  @override
+  String get onb_location_allow => 'Locatie toestaan';
+
+  @override
+  String get onb_not_now => 'Niet nu';
+
+  @override
+  String get onb_location_footnote => 'Altijd uit te zetten in Instellingen.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'Locatie staat uit. Zoek op moskee of stad.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'Zet je locatie aan om moskeeën in de buurt te zien.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'Aanzetten';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'Doorgaan · $count toegevoegd';
+  }
+
+  @override
+  String get onb_notif_title => 'Elk gebed op tijd';
+
+  @override
+  String get onb_notif_body =>
+      'Meldingen voor alle 5 gebeden, met het geluid van je telefoon.';
+
+  @override
+  String get onb_notif_allow => 'Meldingen toestaan';
+
+  @override
+  String get onb_notif_footnote => 'Altijd aan te passen in Instellingen.';
+
+  @override
+  String get onb_notif_card_now => 'nu';
+
+  @override
+  String get onb_done_title => 'Alles is klaar';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · berekende tijden';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count moskeeën',
+      one: '$count moskee',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'Bismillah, open MAWAQIT';
+
+  @override
+  String get onb_done_alerts_off => 'Gebedsmeldingen staan uit.';
+
+  @override
+  String get onb_done_finish_error => 'Er ging iets mis. Probeer het opnieuw.';
 }

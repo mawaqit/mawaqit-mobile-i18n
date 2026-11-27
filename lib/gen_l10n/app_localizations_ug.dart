@@ -3574,4 +3574,131 @@ class AppLocalizationsUg extends AppLocalizations {
 
   @override
   String get duas_player_word_by_word => 'سۆزمۇ-سۆز';
+
+  @override
+  String onb_step_of(String current, String total) {
+    return '$current/$total';
+  }
+
+  @override
+  String onb_step_semantic(String current, String total) {
+    return 'قەدەم $current/$total';
+  }
+
+  @override
+  String get onb_welcome_title => 'مەۋاقىتقا خۇش كەلدىڭىز';
+
+  @override
+  String get onb_welcome_subtitle => 'مەسچىتىڭىزنىڭ ناماز ۋاقىتلىرى.';
+
+  @override
+  String get onb_get_started => 'باشلاش';
+
+  @override
+  String get onb_theme_switch_to_light => 'يورۇق ئۆرنەككە ئالماشتۇرۇش';
+
+  @override
+  String get onb_theme_switch_to_dark => 'قاراڭغۇ ئۆرنەككە ئالماشتۇرۇش';
+
+  @override
+  String onb_language_pill_semantic(String language) {
+    return 'تىل: $language. تىلنى ئۆزگەرتىش';
+  }
+
+  @override
+  String get onb_language_search_hint => 'تىل ئىزدەش';
+
+  @override
+  String get onb_language_suggested => 'تەۋسىيە';
+
+  @override
+  String get onb_language_device_language => 'ئۈسكۈنىڭىزنىڭ تىلى';
+
+  @override
+  String get onb_language_all => 'بارلىق تىللار';
+
+  @override
+  String get onb_language_results => 'نەتىجىلەر';
+
+  @override
+  String onb_language_no_match(String query) {
+    return '«$query» غا ماس كېلىدىغان تىل يوق';
+  }
+
+  @override
+  String get onb_location_title => 'مەسچىتىڭىزنى تېپىڭ';
+
+  @override
+  String get onb_location_body =>
+      'ئورنىڭىزنى ناماز ۋاقتى ۋە قىبلە ئۈچۈن ئىشلىتىمىز.';
+
+  @override
+  String get onb_location_allow => 'ئورۇنغا يول قويۇش';
+
+  @override
+  String get onb_not_now => 'ھازىر ئەمەس';
+
+  @override
+  String get onb_location_footnote =>
+      'بۇنى خالىغان ۋاقىتتا تەڭشەكتىن تاقىيالايسىز.';
+
+  @override
+  String get onb_mosque_banner_denied =>
+      'ئورۇن تاقالغان. مەسچىت ياكى شەھەر بويىچە ئىزدەڭ.';
+
+  @override
+  String get onb_mosque_banner_skipped =>
+      'ئەتراپىڭىزدىكى مەسچىتلەرنى كۆرۈش ئۈچۈن ئورۇننى ئېچىڭ.';
+
+  @override
+  String get onb_mosque_banner_turn_on => 'ئېچىش';
+
+  @override
+  String onb_mosque_continue(String count) {
+    return 'داۋاملاشتۇر · $count قوشۇلدى';
+  }
+
+  @override
+  String get onb_notif_title => 'ھەر ناماز ۋاقتىدا';
+
+  @override
+  String get onb_notif_body =>
+      '5 ۋاخ نامازنىڭ ھەممىسى ئۈچۈن ئەسكەرتىش، تېلېفونىڭىزنىڭ ئاۋازى بىلەن.';
+
+  @override
+  String get onb_notif_allow => 'ئەسكەرتىشكە يول قويۇش';
+
+  @override
+  String get onb_notif_footnote => 'خالىغان ۋاقىتتا تەڭشەكتە ئۆزگەرتەلەيسىز.';
+
+  @override
+  String get onb_notif_card_now => 'ھازىر';
+
+  @override
+  String get onb_done_title => 'ھەممە تەييار';
+
+  @override
+  String onb_done_summary_calculated(String city) {
+    return '$city · ھېسابلانغان ۋاقىت';
+  }
+
+  @override
+  String onb_done_summary_more_mosques(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count مەسچىت',
+      one: '$count مەسچىت',
+    );
+    return '+$_temp0';
+  }
+
+  @override
+  String get onb_done_cta_semantic => 'بىسمىللا، مەۋاقىتنى ئېچىش';
+
+  @override
+  String get onb_done_alerts_off => 'ناماز ئەسكەرتىشى تاقالغان.';
+
+  @override
+  String get onb_done_finish_error => 'خاتالىق كۆرۈلدى. قايتا سىناڭ.';
 }
