@@ -3581,109 +3581,109 @@ class AppLocalizationsKu extends AppLocalizations {
 
   @override
   String onb_step_of(String current, String total) {
-    return '$current of $total';
+    return '$current لە $total';
   }
 
   @override
   String onb_step_semantic(String current, String total) {
-    return 'Step $current of $total';
+    return 'هەنگاوی $current لە $total';
   }
 
   @override
-  String get onb_welcome_title => 'Welcome to MAWAQIT';
+  String get onb_welcome_title => 'بەخێربێیت بۆ مەواقیت';
 
   @override
-  String get onb_welcome_subtitle => 'Prayer times from your mosque.';
+  String get onb_welcome_subtitle => 'کاتەکانی بانگ لە مزگەوتەکەتەوە.';
 
   @override
-  String get onb_get_started => 'Get Started';
+  String get onb_get_started => 'دەستپێکردن';
 
   @override
-  String get onb_theme_switch_to_light => 'Switch to light theme';
+  String get onb_theme_switch_to_light => 'گۆڕین بۆ ڕووکاری ڕووناک';
 
   @override
-  String get onb_theme_switch_to_dark => 'Switch to dark theme';
+  String get onb_theme_switch_to_dark => 'گۆڕین بۆ ڕووکاری تاریک';
 
   @override
   String onb_language_pill_semantic(String language) {
-    return 'Language: $language. Change language';
+    return 'زمان: $language. گۆڕینی زمان';
   }
 
   @override
-  String get onb_language_search_hint => 'Search languages';
+  String get onb_language_search_hint => 'گەڕان بە دوای زماندا';
 
   @override
-  String get onb_language_suggested => 'Suggested';
+  String get onb_language_suggested => 'پێشنیارکراو';
 
   @override
-  String get onb_language_device_language => 'Your device language';
+  String get onb_language_device_language => 'زمانی ئامێرەکەت';
 
   @override
-  String get onb_language_all => 'All Languages';
+  String get onb_language_all => 'هەموو زمانەکان';
 
   @override
-  String get onb_language_results => 'Results';
+  String get onb_language_results => 'ئەنجامەکان';
 
   @override
   String onb_language_no_match(String query) {
-    return 'No language matches “$query”';
+    return 'هیچ زمانێک لەگەڵ «$query» ناگونجێت';
   }
 
   @override
-  String get onb_location_title => 'Find Your Mosque';
+  String get onb_location_title => 'مزگەوتەکەت بدۆزەرەوە';
 
   @override
   String get onb_location_body =>
-      'We use your location for prayer times and the Qibla.';
+      'شوێنەکەت بۆ کاتەکانی بانگ و قیبلە بەکاردەهێنین.';
 
   @override
-  String get onb_location_allow => 'Allow Location';
+  String get onb_location_allow => 'ڕێگەدان بە شوێن';
 
   @override
-  String get onb_not_now => 'Not Now';
+  String get onb_not_now => 'ئێستا نا';
 
   @override
   String get onb_location_footnote =>
-      'You can turn this off anytime in Settings.';
+      'هەر کاتێک بتەوێت دەتوانیت لە ڕێکخستنەکان ئەمە بکوژێنیتەوە.';
 
   @override
   String get onb_mosque_banner_denied =>
-      'Location is off. Search by mosque or city.';
+      'شوێن ناچالاکە. بە ناوی مزگەوت یان شار بگەڕێ.';
 
   @override
   String get onb_mosque_banner_skipped =>
-      'Turn on location to see mosques around you.';
+      'شوێن چالاک بکە بۆ بینینی مزگەوتەکانی دەوروبەرت.';
 
   @override
-  String get onb_mosque_banner_turn_on => 'Turn On';
+  String get onb_mosque_banner_turn_on => 'چالاککردن';
 
   @override
   String onb_mosque_continue(String count) {
-    return 'Continue · $count added';
+    return 'بەردەوامبوون · $count زیادکرا';
   }
 
   @override
-  String get onb_notif_title => 'Every Prayer, On Time';
+  String get onb_notif_title => 'هەموو نوێژێک لە کاتی خۆیدا';
 
   @override
   String get onb_notif_body =>
-      'Alerts for all 5 prayers, with your phone’s sound.';
+      'ئاگادارکردنەوە بۆ هەر ٥ نوێژەکە، بە دەنگی مۆبایلەکەت.';
 
   @override
-  String get onb_notif_allow => 'Allow Alerts';
+  String get onb_notif_allow => 'ڕێگەدان بە ئاگادارییەکان';
 
   @override
-  String get onb_notif_footnote => 'Change them anytime in Settings.';
+  String get onb_notif_footnote => 'هەر کاتێک لە ڕێکخستنەکان بیانگۆڕە.';
 
   @override
-  String get onb_notif_card_now => 'now';
+  String get onb_notif_card_now => 'ئێستا';
 
   @override
-  String get onb_done_title => 'You’re All Set';
+  String get onb_done_title => 'هەموو شتێک ئامادەیە';
 
   @override
   String onb_done_summary_calculated(String city) {
-    return '$city · calculated times';
+    return '$city · کاتە ژمێردراوەکان';
   }
 
   @override
@@ -3691,18 +3691,18 @@ class AppLocalizationsKu extends AppLocalizations {
     String _temp0 = intl.Intl.pluralLogic(
       count,
       locale: localeName,
-      other: '$count mosques',
-      one: '$count mosque',
+      other: '$count مزگەوت',
+      one: '$count مزگەوت',
     );
     return '+$_temp0';
   }
 
   @override
-  String get onb_done_cta_semantic => 'Bismillah, open MAWAQIT';
+  String get onb_done_cta_semantic => 'بەناوی خوا، مەواقیت بکەرەوە';
 
   @override
-  String get onb_done_alerts_off => 'Prayer alerts are off.';
+  String get onb_done_alerts_off => 'ئاگادارکردنەوەکانی نوێژ کوژاونەتەوە.';
 
   @override
-  String get onb_done_finish_error => 'Something went wrong. Try again.';
+  String get onb_done_finish_error => 'هەڵەیەک ڕوویدا. دووبارە هەوڵ بدەرەوە.';
 }
