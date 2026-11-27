@@ -3707,26 +3707,29 @@ class AppLocalizationsKu extends AppLocalizations {
   String get onb_done_finish_error => 'هەڵەیەک ڕوویدا. دووبارە هەوڵ بدەرەوە.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices => 'ڕێکخستنەکەت هەڵبژێرە: 360، تۆڕ یان لیست.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell =>
+      'بۆ کردنەوەی ئاگادارییەکانی بانگ، دەست لە زەنگەکە بدە.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option =>
+      '«بانگ» هەڵبژێرە بۆ ئەوەی لە کاتی نوێژدا گوێت لێی بێت.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'بۆ دانانی ئاگاداریی پێش بانگ، دەست لە زەنگەکە بدە.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      '«پێش بانگ» چالاک بکە بۆ ئەوەی پێش نوێژ ئاگادار بکرێیتەوە.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell =>
+      'دەست لە زەنگی نوێژێک بدە کە بانگی بۆ دانراوە.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      '«ئەذانی تەواو پخش بکە» چالاک بکە بۆ گوێگرتن لە هەموو بانگەکە.';
 }

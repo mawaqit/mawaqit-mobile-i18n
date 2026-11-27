@@ -3685,28 +3685,30 @@ class AppLocalizationsFa extends AppLocalizations {
   String get onb_done_finish_error => 'مشکلی پیش آمد. دوباره تلاش کنید.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices =>
+      'چیدمان خود را انتخاب کنید: 360، شبکه‌ای یا فهرست.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell => 'برای باز کردن هشدارهای نماز روی زنگ ضربه بزنید.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option =>
+      'برای شنیدن اذان در وقت نماز، «اذان» را انتخاب کنید.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'برای تنظیم هشدار قبل از اذان روی زنگ ضربه بزنید.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      'برای دریافت هشدار پیش از نماز، «پیش از اذان» را روشن کنید.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell => 'روی زنگ نمازی که اذان دارد ضربه بزنید.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      'برای شنیدن کل اذان، «پخش کامل اذان» را روشن کنید.';
 }
 
 /// The translations for Persian, as used in Afghanistan (`fa_AF`).
@@ -7398,4 +7400,28 @@ class AppLocalizationsFaAf extends AppLocalizationsFa {
 
   @override
   String get onb_done_finish_error => 'Something went wrong. Try again.';
+
+  @override
+  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+
+  @override
+  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+
+  @override
+  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+
+  @override
+  String get wt_pre_prayer_bell =>
+      'Tap the bell to set a Pre-Prayer notification.';
+
+  @override
+  String get wt_pre_prayer_setting =>
+      'Turn on Before Adhan to be notified before the prayer.';
+
+  @override
+  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+
+  @override
+  String get wt_full_adhan_switch =>
+      'Turn on Play full Adhan to hear the whole Adhan.';
 }
