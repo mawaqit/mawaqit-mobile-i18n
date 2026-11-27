@@ -2259,5 +2259,182 @@
     "duas_player_word_by_word": "Fjalë pas fjale",
     "@duas_player_word_by_word": {
         "description": "Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed."
+    },
+    "onb_step_of": "{current} nga {total}",
+    "@onb_step_of": {
+        "description": "Onboarding redesign (phase 1): Shell: step header label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_step_semantic": "Hapi {current} nga {total}",
+    "@onb_step_semantic": {
+        "description": "Onboarding redesign (phase 1): Shell: step header screen-reader label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_welcome_title": "Mirë se vjen në MAWAQIT",
+    "@onb_welcome_title": {
+        "description": "Onboarding redesign (phase 2): Welcome H1."
+    },
+    "onb_welcome_subtitle": "Kohët e namazit nga xhamia jote.",
+    "@onb_welcome_subtitle": {
+        "description": "Onboarding redesign (phase 2): Welcome subtitle."
+    },
+    "onb_get_started": "Fillo",
+    "@onb_get_started": {
+        "description": "Onboarding redesign (phase 2): Welcome primary CTA."
+    },
+    "onb_theme_switch_to_light": "Kalo te tema e çelët",
+    "@onb_theme_switch_to_light": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_theme_switch_to_dark": "Kalo te tema e errët",
+    "@onb_theme_switch_to_dark": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_language_pill_semantic": "Gjuha: {language}. Ndrysho gjuhën",
+    "@onb_language_pill_semantic": {
+        "description": "Onboarding redesign (phase 2): Language pill screen-reader label.",
+        "placeholders": {
+            "language": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_language_search_hint": "Kërko gjuhë",
+    "@onb_language_search_hint": {
+        "description": "Onboarding redesign (phase 2): Language sheet search field."
+    },
+    "onb_language_suggested": "Të sugjeruara",
+    "@onb_language_suggested": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_device_language": "Gjuha e pajisjes sate",
+    "@onb_language_device_language": {
+        "description": "Onboarding redesign (phase 2): Language sheet Suggested row sub-line."
+    },
+    "onb_language_all": "Të gjitha gjuhët",
+    "@onb_language_all": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_results": "Rezultatet",
+    "@onb_language_results": {
+        "description": "Onboarding redesign (phase 2): Language sheet section while searching."
+    },
+    "onb_language_no_match": "Asnjë gjuhë nuk përputhet me “{query}”",
+    "@onb_language_no_match": {
+        "description": "Onboarding redesign (phase 2): Language sheet empty search.",
+        "placeholders": {
+            "query": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_location_title": "Gjej xhaminë tënde",
+    "@onb_location_title": {
+        "description": "Onboarding redesign (phase 3): Location H1."
+    },
+    "onb_location_body": "Përdorim vendndodhjen tënde për kohët e namazit dhe kiblën.",
+    "@onb_location_body": {
+        "description": "Onboarding redesign (phase 3): Location body."
+    },
+    "onb_location_allow": "Lejo vendndodhjen",
+    "@onb_location_allow": {
+        "description": "Onboarding redesign (phase 3): Location primary CTA."
+    },
+    "onb_not_now": "Jo tani",
+    "@onb_not_now": {
+        "description": "Onboarding redesign (phase 3): Secondary CTA on Location and Notifications."
+    },
+    "onb_location_footnote": "Fikeni kurdo te Cilësimet.",
+    "@onb_location_footnote": {
+        "description": "Onboarding redesign (phase 3): Location dock footnote."
+    },
+    "onb_mosque_banner_denied": "Vendndodhja është fikur. Kërko sipas xhamisë ose qytetit.",
+    "@onb_mosque_banner_denied": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location denied."
+    },
+    "onb_mosque_banner_skipped": "Aktivizo vendndodhjen për të parë xhamitë përreth.",
+    "@onb_mosque_banner_skipped": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location skipped."
+    },
+    "onb_mosque_banner_turn_on": "Aktivizo",
+    "@onb_mosque_banner_turn_on": {
+        "description": "Onboarding redesign (phase 4): Mosque banner button (skipped)."
+    },
+    "onb_mosque_continue": "Vazhdo · {count} të shtuara",
+    "@onb_mosque_continue": {
+        "description": "Onboarding redesign (phase 4): Mosque Continue button.",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_notif_title": "Çdo namaz në kohë",
+    "@onb_notif_title": {
+        "description": "Onboarding redesign (phase 5): Notifications H1."
+    },
+    "onb_notif_body": "Njoftime për të 5 namazet, me tingullin e telefonit tënd.",
+    "@onb_notif_body": {
+        "description": "Onboarding redesign (phase 5): Notifications body (curly apostrophe)."
+    },
+    "onb_notif_allow": "Lejo njoftimet",
+    "@onb_notif_allow": {
+        "description": "Onboarding redesign (phase 5): Notifications primary CTA."
+    },
+    "onb_notif_footnote": "Ndryshoji kurdo te Cilësimet.",
+    "@onb_notif_footnote": {
+        "description": "Onboarding redesign (phase 5): Notifications dock footnote."
+    },
+    "onb_notif_card_now": "tani",
+    "@onb_notif_card_now": {
+        "description": "Onboarding redesign (phase 5): Notification-card timestamp."
+    },
+    "onb_done_title": "Gjithçka gati",
+    "@onb_done_title": {
+        "description": "Onboarding redesign (phase 5): All Set H1 (curly apostrophe)."
+    },
+    "onb_done_summary_calculated": "{city} · kohë të llogaritura",
+    "@onb_done_summary_calculated": {
+        "description": "Onboarding redesign (phase 5): All Set summary for a virtual city.",
+        "placeholders": {
+            "city": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_done_summary_more_mosques": "+{count, plural, one{{count} xhami} other{{count} xhami}}",
+    "@onb_done_summary_more_mosques": {
+        "description": "Onboarding redesign (phase 5): All Set summary, virtual city plus mosques.",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "onb_done_cta_semantic": "Bismilah, hap MAWAQIT",
+    "@onb_done_cta_semantic": {
+        "description": "Onboarding redesign (phase 5): All Set CTA screen-reader label."
+    },
+    "onb_done_alerts_off": "Njoftimet e namazit janë të çaktivizuara.",
+    "@onb_done_alerts_off": {
+        "description": "Onboarding redesign (phase 5): All Set line when prayer alerts are off (Not Now or denied); the existing `settings` key follows it as a link."
+    },
+    "onb_done_finish_error": "Diçka shkoi keq. Provo përsëri.",
+    "@onb_done_finish_error": {
+        "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
     }
 }
