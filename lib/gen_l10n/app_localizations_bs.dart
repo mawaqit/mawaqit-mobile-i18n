@@ -3727,26 +3727,26 @@ class AppLocalizationsBs extends AppLocalizations {
   String get onb_done_finish_error => 'Nešto nije u redu. Pokušaj ponovo.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices => 'Odaberi izgled: 360, mreža ili lista.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell => 'Dodirni zvono da otvoriš „Obavijesti za namaz”.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option => 'Odaberi „Ezan” da ga čuješ u vrijeme namaza.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'Dodirni zvono da postaviš obavijest prije nastupa namaskog vremena.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      'Uključi „Prije ezana” da dobiješ obavijest prije namaza.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell => 'Dodirni zvono namaza s ezanom.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      'Uključi „Reproduciraj cijeli ezan” da čuješ cijeli ezan.';
 }

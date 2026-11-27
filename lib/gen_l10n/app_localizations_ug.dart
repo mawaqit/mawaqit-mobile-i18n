@@ -3703,26 +3703,28 @@ class AppLocalizationsUg extends AppLocalizations {
   String get onb_done_finish_error => 'خاتالىق كۆرۈلدى. قايتا سىناڭ.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices =>
+      'جايلاشتۇرۇشنى تاللاڭ: 360، تور ياكى تىزىملىك.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell => 'ناماز ئۇقتۇرۇشىنى ئېچىش ئۈچۈن قوڭغۇراقنى چېكىڭ.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option => 'ناماز ۋاقتىدا ئاڭلاش ئۈچۈن «ئەزان»نى تاللاڭ.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'ئالدىن ناماز ئۇقتۇرۇشى تەڭشەش ئۈچۈن قوڭغۇراقنى چېكىڭ.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      'ناماز ئالدىدا ئۇقتۇرۇش تاپشۇرۇۋېلىش ئۈچۈن «ئەزاندىن بۇرۇن»نى ئېچىڭ.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell =>
+      'ئەزان تەڭشەلگەن نامازنىڭ قوڭغۇرىقىنى چېكىڭ.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      'تولۇق ئەزاننى ئاڭلاش ئۈچۈن «تولۇق ئەزاننى قويۇش»نى ئېچىڭ.';
 }

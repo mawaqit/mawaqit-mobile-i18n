@@ -2436,5 +2436,33 @@
     "onb_done_finish_error": "Что-то пошло не так. Попробуйте ещё раз.",
     "@onb_done_finish_error": {
         "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
+    },
+    "wt_layout_choices": "Выберите макет: 360, сетка или список.",
+    "@wt_layout_choices": {
+        "description": "Feature walkthrough, session 2, part 2: tooltip over the 360 / grid / list buttons in the side layout panel. Reuses the term \"Layout\" (key layout)."
+    },
+    "wt_adhan_bell": "Нажмите на колокольчик, чтобы открыть «Уведомления о молитвах».",
+    "@wt_adhan_bell": {
+        "description": "Feature walkthrough, session 3, part 1: tooltip on the bell of the next prayer on Home. \"Prayer Notifications\" is the bell sheet title (key settings_PrayerNotifications)."
+    },
+    "wt_adhan_option": "Выберите «Азан», чтобы слышать его во время молитвы.",
+    "@wt_adhan_option": {
+        "description": "Feature walkthrough, session 3, part 2: tooltip on the Adhan choice in the Prayer Notifications sheet. \"Adhan\" is that choice's label (key adhan)."
+    },
+    "wt_pre_prayer_bell": "Нажмите на колокольчик, чтобы настроить уведомление перед молитвой.",
+    "@wt_pre_prayer_bell": {
+        "description": "Feature walkthrough, session 4, part 1: tooltip on the bell of the next prayer on Home. Reuses \"Pre-Prayer notification\" (key settings_PrayerPreNotifications)."
+    },
+    "wt_pre_prayer_setting": "Включите «Перед азаном», чтобы получать уведомление перед молитвой.",
+    "@wt_pre_prayer_setting": {
+        "description": "Feature walkthrough, session 4, part 2: tooltip on the Before Adhan switch in the sheet. \"Before Adhan\" is that switch's label (key before_adhan)."
+    },
+    "wt_full_adhan_bell": "Нажмите на колокольчик молитвы с азаном.",
+    "@wt_full_adhan_bell": {
+        "description": "Feature walkthrough, session 5, part 1 (iOS 26+): tooltip on the bell of a prayer set to Adhan."
+    },
+    "wt_full_adhan_switch": "Включите «Воспроизвести полный азан», чтобы слышать азан целиком.",
+    "@wt_full_adhan_switch": {
+        "description": "Feature walkthrough, session 5, part 2 (iOS 26+): tooltip on the Play full Adhan switch. \"Play full Adhan\" is that switch's label (key play_full_adhan)."
     }
 }

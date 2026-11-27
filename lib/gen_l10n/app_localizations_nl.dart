@@ -3719,26 +3719,27 @@ class AppLocalizationsNl extends AppLocalizations {
   String get onb_done_finish_error => 'Er ging iets mis. Probeer het opnieuw.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices => 'Kies je indeling: 360, raster of lijst.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell => 'Tik op de bel om de gebedsmeldingen te openen.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option =>
+      'Kies ‘Adhan’ om hem op het gebedstijdstip te horen.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'Tik op de bel om een pre-gebedsmelding in te stellen.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      'Zet ‘Vóór de Adhan’ aan voor een melding vóór het gebed.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell => 'Tik op de bel van een gebed met Adhan.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      'Zet ‘Speel volledige adhan af’ aan om de hele adhan te horen.';
 }

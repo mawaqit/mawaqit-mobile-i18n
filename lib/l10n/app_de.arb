@@ -2436,5 +2436,33 @@
     "onb_done_finish_error": "Etwas ist schiefgelaufen. Versuch es noch einmal.",
     "@onb_done_finish_error": {
         "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
+    },
+    "wt_layout_choices": "Wähle dein Layout: 360, Raster oder Liste.",
+    "@wt_layout_choices": {
+        "description": "Feature walkthrough, session 2, part 2: tooltip over the 360 / grid / list buttons in the side layout panel. Reuses the term \"Layout\" (key layout)."
+    },
+    "wt_adhan_bell": "Tippe auf die Glocke, um die Gebetsbenachrichtigungen zu öffnen.",
+    "@wt_adhan_bell": {
+        "description": "Feature walkthrough, session 3, part 1: tooltip on the bell of the next prayer on Home. \"Prayer Notifications\" is the bell sheet title (key settings_PrayerNotifications)."
+    },
+    "wt_adhan_option": "Wähle „Adhan“, um ihn zur Gebetszeit zu hören.",
+    "@wt_adhan_option": {
+        "description": "Feature walkthrough, session 3, part 2: tooltip on the Adhan choice in the Prayer Notifications sheet. \"Adhan\" is that choice's label (key adhan)."
+    },
+    "wt_pre_prayer_bell": "Tippe auf die Glocke, um eine Vor-Gebetsbenachrichtigung einzustellen.",
+    "@wt_pre_prayer_bell": {
+        "description": "Feature walkthrough, session 4, part 1: tooltip on the bell of the next prayer on Home. Reuses \"Pre-Prayer notification\" (key settings_PrayerPreNotifications)."
+    },
+    "wt_pre_prayer_setting": "Aktiviere „Vor dem Adhan“, um vor dem Gebet benachrichtigt zu werden.",
+    "@wt_pre_prayer_setting": {
+        "description": "Feature walkthrough, session 4, part 2: tooltip on the Before Adhan switch in the sheet. \"Before Adhan\" is that switch's label (key before_adhan)."
+    },
+    "wt_full_adhan_bell": "Tippe auf die Glocke eines Gebets mit Adhan.",
+    "@wt_full_adhan_bell": {
+        "description": "Feature walkthrough, session 5, part 1 (iOS 26+): tooltip on the bell of a prayer set to Adhan."
+    },
+    "wt_full_adhan_switch": "Aktiviere „Vollständigen Adhan abspielen“, um den ganzen Adhan zu hören.",
+    "@wt_full_adhan_switch": {
+        "description": "Feature walkthrough, session 5, part 2 (iOS 26+): tooltip on the Play full Adhan switch. \"Play full Adhan\" is that switch's label (key play_full_adhan)."
     }
 }

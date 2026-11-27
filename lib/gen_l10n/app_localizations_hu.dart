@@ -3720,26 +3720,30 @@ class AppLocalizationsHu extends AppLocalizations {
   String get onb_done_finish_error => 'Hiba történt. Próbáld újra.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices =>
+      'Válaszd ki az elrendezést: 360, rács vagy lista.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell =>
+      'Koppints a csengőre az Imaértesítések megnyitásához.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option =>
+      'Válaszd az „Imára hívás” lehetőséget, hogy imaidőben halld.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'Koppints a csengőre ima előtti értesítés beállításához.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      'Kapcsold be az „Imára hívás előtt” opciót, hogy az ima előtt értesítést kapj.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell =>
+      'Koppints egy imára hívásra beállított ima csengőjére.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      'Kapcsold be a „Teljes adhán lejátszása” opciót, hogy a teljes adhánt halld.';
 }

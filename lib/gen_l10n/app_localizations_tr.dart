@@ -3685,26 +3685,26 @@ class AppLocalizationsTr extends AppLocalizations {
   String get onb_done_finish_error => 'Bir şeyler ters gitti. Tekrar dene.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices => 'Düzenini seç: 360, ızgara veya liste.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell => 'Namaz bildirimini açmak için zile dokun.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option => 'Namaz vaktinde duymak için “Ezanı” seç.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'Namaz öncesi bildirim ayarlamak için zile dokun.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      'Namazdan önce bildirim almak için “Ezandan önce” seçeneğini aç.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell => 'Ezanlı bir namazın ziline dokun.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      'Ezanın tamamını duymak için “Tam ezanı çal” seçeneğini aç.';
 }

@@ -3702,26 +3702,27 @@ class AppLocalizationsId extends AppLocalizations {
   String get onb_done_finish_error => 'Terjadi kesalahan. Coba lagi.';
 
   @override
-  String get wt_layout_choices => 'Choose your layout: 360, grid or list.';
+  String get wt_layout_choices => 'Pilih tata letakmu: 360, kisi, atau daftar.';
 
   @override
-  String get wt_adhan_bell => 'Tap the bell to open Prayer Notifications.';
+  String get wt_adhan_bell => 'Ketuk lonceng untuk membuka Pemberitahuan doa.';
 
   @override
-  String get wt_adhan_option => 'Choose Adhan to hear it at prayer time.';
+  String get wt_adhan_option =>
+      'Pilih “Adzan” untuk mendengarnya saat waktu shalat.';
 
   @override
   String get wt_pre_prayer_bell =>
-      'Tap the bell to set a Pre-Prayer notification.';
+      'Ketuk lonceng untuk mengatur pemberitahuan sebelum shalat.';
 
   @override
   String get wt_pre_prayer_setting =>
-      'Turn on Before Adhan to be notified before the prayer.';
+      'Aktifkan “Sebelum Adzan” agar diberi tahu sebelum shalat.';
 
   @override
-  String get wt_full_adhan_bell => 'Tap the bell of a prayer with Adhan.';
+  String get wt_full_adhan_bell => 'Ketuk lonceng shalat yang memakai Adzan.';
 
   @override
   String get wt_full_adhan_switch =>
-      'Turn on Play full Adhan to hear the whole Adhan.';
+      'Aktifkan “Putar adzan lengkap” untuk mendengar adzan secara utuh.';
 }
