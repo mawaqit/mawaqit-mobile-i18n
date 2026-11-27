@@ -3594,109 +3594,109 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String onb_step_of(String current, String total) {
-    return '$current of $total';
+    return '$current/$total';
   }
 
   @override
   String onb_step_semantic(String current, String total) {
-    return 'Step $current of $total';
+    return 'Lépés: $current/$total';
   }
 
   @override
-  String get onb_welcome_title => 'Welcome to MAWAQIT';
+  String get onb_welcome_title => 'Üdvözlünk a MAWAQIT-ban';
 
   @override
-  String get onb_welcome_subtitle => 'Prayer times from your mosque.';
+  String get onb_welcome_subtitle => 'A mecseted imaidői.';
 
   @override
-  String get onb_get_started => 'Get Started';
+  String get onb_get_started => 'Kezdés';
 
   @override
-  String get onb_theme_switch_to_light => 'Switch to light theme';
+  String get onb_theme_switch_to_light => 'Váltás világos témára';
 
   @override
-  String get onb_theme_switch_to_dark => 'Switch to dark theme';
+  String get onb_theme_switch_to_dark => 'Váltás sötét témára';
 
   @override
   String onb_language_pill_semantic(String language) {
-    return 'Language: $language. Change language';
+    return 'Nyelv: $language. Nyelv módosítása';
   }
 
   @override
-  String get onb_language_search_hint => 'Search languages';
+  String get onb_language_search_hint => 'Nyelvek keresése';
 
   @override
-  String get onb_language_suggested => 'Suggested';
+  String get onb_language_suggested => 'Javasolt';
 
   @override
-  String get onb_language_device_language => 'Your device language';
+  String get onb_language_device_language => 'Az eszközöd nyelve';
 
   @override
-  String get onb_language_all => 'All Languages';
+  String get onb_language_all => 'Minden nyelv';
 
   @override
-  String get onb_language_results => 'Results';
+  String get onb_language_results => 'Találatok';
 
   @override
   String onb_language_no_match(String query) {
-    return 'No language matches “$query”';
+    return 'Nincs a(z) „$query” keresésnek megfelelő nyelv';
   }
 
   @override
-  String get onb_location_title => 'Find Your Mosque';
+  String get onb_location_title => 'Találd meg a mecsetedet';
 
   @override
   String get onb_location_body =>
-      'We use your location for prayer times and the Qibla.';
+      'A helyzetedet az imaidőkhöz és Mekka irányához használjuk.';
 
   @override
-  String get onb_location_allow => 'Allow Location';
+  String get onb_location_allow => 'Helymeghatározás engedélyezése';
 
   @override
-  String get onb_not_now => 'Not Now';
+  String get onb_not_now => 'Most nem';
 
   @override
   String get onb_location_footnote =>
-      'You can turn this off anytime in Settings.';
+      'Ezt bármikor kikapcsolhatod a Beállításokban.';
 
   @override
   String get onb_mosque_banner_denied =>
-      'Location is off. Search by mosque or city.';
+      'A helymeghatározás ki van kapcsolva. Keress mecset vagy város alapján.';
 
   @override
   String get onb_mosque_banner_skipped =>
-      'Turn on location to see mosques around you.';
+      'Kapcsold be a helymeghatározást a közeli mecsetek megjelenítéséhez.';
 
   @override
-  String get onb_mosque_banner_turn_on => 'Turn On';
+  String get onb_mosque_banner_turn_on => 'Bekapcsolás';
 
   @override
   String onb_mosque_continue(String count) {
-    return 'Continue · $count added';
+    return 'Tovább · $count hozzáadva';
   }
 
   @override
-  String get onb_notif_title => 'Every Prayer, On Time';
+  String get onb_notif_title => 'Minden ima időben';
 
   @override
   String get onb_notif_body =>
-      'Alerts for all 5 prayers, with your phone’s sound.';
+      'Értesítés mind az 5 imához, a telefonod hangjával.';
 
   @override
-  String get onb_notif_allow => 'Allow Alerts';
+  String get onb_notif_allow => 'Értesítések engedélyezése';
 
   @override
-  String get onb_notif_footnote => 'Change them anytime in Settings.';
+  String get onb_notif_footnote => 'Bármikor módosíthatod a Beállításokban.';
 
   @override
-  String get onb_notif_card_now => 'now';
+  String get onb_notif_card_now => 'most';
 
   @override
-  String get onb_done_title => 'You’re All Set';
+  String get onb_done_title => 'Minden kész';
 
   @override
   String onb_done_summary_calculated(String city) {
-    return '$city · calculated times';
+    return '$city · számított időpontok';
   }
 
   @override
@@ -3704,18 +3704,18 @@ class AppLocalizationsHu extends AppLocalizations {
     String _temp0 = intl.Intl.pluralLogic(
       count,
       locale: localeName,
-      other: '$count mosques',
-      one: '$count mosque',
+      other: '$count mecset',
+      one: '$count mecset',
     );
     return '+$_temp0';
   }
 
   @override
-  String get onb_done_cta_semantic => 'Bismillah, open MAWAQIT';
+  String get onb_done_cta_semantic => 'Allah nevében, MAWAQIT megnyitása';
 
   @override
-  String get onb_done_alerts_off => 'Prayer alerts are off.';
+  String get onb_done_alerts_off => 'Az imaértesítések ki vannak kapcsolva.';
 
   @override
-  String get onb_done_finish_error => 'Something went wrong. Try again.';
+  String get onb_done_finish_error => 'Hiba történt. Próbáld újra.';
 }
