@@ -1,5 +1,5 @@
 {
-    "@@locale": "pt",
+    "@@locale": "pt-PT",
     "bottomNavbar_mawaqit": "MAWAQIT",
     "@bottomNavbar_mawaqit": {
         "description": "_",
@@ -2259,5 +2259,182 @@
     "duas_player_word_by_word": "Palavra a palavra",
     "@duas_player_word_by_word": {
         "description": "Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed."
+    },
+    "onb_step_of": "{current} de {total}",
+    "@onb_step_of": {
+        "description": "Onboarding redesign (phase 1): Shell: step header label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_step_semantic": "Passo {current} de {total}",
+    "@onb_step_semantic": {
+        "description": "Onboarding redesign (phase 1): Shell: step header screen-reader label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_welcome_title": "Boas-vindas ao MAWAQIT",
+    "@onb_welcome_title": {
+        "description": "Onboarding redesign (phase 2): Welcome H1."
+    },
+    "onb_welcome_subtitle": "Horários de oração da sua mesquita.",
+    "@onb_welcome_subtitle": {
+        "description": "Onboarding redesign (phase 2): Welcome subtitle."
+    },
+    "onb_get_started": "Começar",
+    "@onb_get_started": {
+        "description": "Onboarding redesign (phase 2): Welcome primary CTA."
+    },
+    "onb_theme_switch_to_light": "Mudar para o tema claro",
+    "@onb_theme_switch_to_light": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_theme_switch_to_dark": "Mudar para o tema escuro",
+    "@onb_theme_switch_to_dark": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_language_pill_semantic": "Idioma: {language}. Alterar idioma",
+    "@onb_language_pill_semantic": {
+        "description": "Onboarding redesign (phase 2): Language pill screen-reader label.",
+        "placeholders": {
+            "language": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_language_search_hint": "Pesquisar idiomas",
+    "@onb_language_search_hint": {
+        "description": "Onboarding redesign (phase 2): Language sheet search field."
+    },
+    "onb_language_suggested": "Sugeridos",
+    "@onb_language_suggested": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_device_language": "Idioma do seu dispositivo",
+    "@onb_language_device_language": {
+        "description": "Onboarding redesign (phase 2): Language sheet Suggested row sub-line."
+    },
+    "onb_language_all": "Todos os idiomas",
+    "@onb_language_all": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_results": "Resultados",
+    "@onb_language_results": {
+        "description": "Onboarding redesign (phase 2): Language sheet section while searching."
+    },
+    "onb_language_no_match": "Nenhum idioma corresponde a “{query}”",
+    "@onb_language_no_match": {
+        "description": "Onboarding redesign (phase 2): Language sheet empty search.",
+        "placeholders": {
+            "query": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_location_title": "Encontre a sua mesquita",
+    "@onb_location_title": {
+        "description": "Onboarding redesign (phase 3): Location H1."
+    },
+    "onb_location_body": "Usamos a sua localização para os horários de oração e a Qibla.",
+    "@onb_location_body": {
+        "description": "Onboarding redesign (phase 3): Location body."
+    },
+    "onb_location_allow": "Permitir localização",
+    "@onb_location_allow": {
+        "description": "Onboarding redesign (phase 3): Location primary CTA."
+    },
+    "onb_not_now": "Agora não",
+    "@onb_not_now": {
+        "description": "Onboarding redesign (phase 3): Secondary CTA on Location and Notifications."
+    },
+    "onb_location_footnote": "Desative quando quiser nas Definições.",
+    "@onb_location_footnote": {
+        "description": "Onboarding redesign (phase 3): Location dock footnote."
+    },
+    "onb_mosque_banner_denied": "A localização está desativada. Pesquise por mesquita ou cidade.",
+    "@onb_mosque_banner_denied": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location denied."
+    },
+    "onb_mosque_banner_skipped": "Ative a localização para ver as mesquitas perto de si.",
+    "@onb_mosque_banner_skipped": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location skipped."
+    },
+    "onb_mosque_banner_turn_on": "Ativar",
+    "@onb_mosque_banner_turn_on": {
+        "description": "Onboarding redesign (phase 4): Mosque banner button (skipped)."
+    },
+    "onb_mosque_continue": "Continuar · Adicionadas: {count}",
+    "@onb_mosque_continue": {
+        "description": "Onboarding redesign (phase 4): Mosque Continue button.",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_notif_title": "Cada oração na hora certa",
+    "@onb_notif_title": {
+        "description": "Onboarding redesign (phase 5): Notifications H1."
+    },
+    "onb_notif_body": "Alertas para as 5 orações, com o som do seu telefone.",
+    "@onb_notif_body": {
+        "description": "Onboarding redesign (phase 5): Notifications body (curly apostrophe)."
+    },
+    "onb_notif_allow": "Permitir alertas",
+    "@onb_notif_allow": {
+        "description": "Onboarding redesign (phase 5): Notifications primary CTA."
+    },
+    "onb_notif_footnote": "Altere quando quiser nas Definições.",
+    "@onb_notif_footnote": {
+        "description": "Onboarding redesign (phase 5): Notifications dock footnote."
+    },
+    "onb_notif_card_now": "agora",
+    "@onb_notif_card_now": {
+        "description": "Onboarding redesign (phase 5): Notification-card timestamp."
+    },
+    "onb_done_title": "Tudo pronto",
+    "@onb_done_title": {
+        "description": "Onboarding redesign (phase 5): All Set H1 (curly apostrophe)."
+    },
+    "onb_done_summary_calculated": "{city} · horários calculados",
+    "@onb_done_summary_calculated": {
+        "description": "Onboarding redesign (phase 5): All Set summary for a virtual city.",
+        "placeholders": {
+            "city": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_done_summary_more_mosques": "+{count, plural, one{{count} mesquita} other{{count} mesquitas}}",
+    "@onb_done_summary_more_mosques": {
+        "description": "Onboarding redesign (phase 5): All Set summary, virtual city plus mosques.",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "onb_done_cta_semantic": "Bismillah, abrir o MAWAQIT",
+    "@onb_done_cta_semantic": {
+        "description": "Onboarding redesign (phase 5): All Set CTA screen-reader label."
+    },
+    "onb_done_alerts_off": "Os alertas de oração estão desligados.",
+    "@onb_done_alerts_off": {
+        "description": "Onboarding redesign (phase 5): All Set line when prayer alerts are off (Not Now or denied); the existing `settings` key follows it as a link."
+    },
+    "onb_done_finish_error": "Algo correu mal. Tente novamente.",
+    "@onb_done_finish_error": {
+        "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
     }
 }
