@@ -2259,5 +2259,182 @@
     "duas_player_word_by_word": "Kata demi kata",
     "@duas_player_word_by_word": {
         "description": "Duas & Ruqyah player option (On/Off): light up each Arabic word as the reciter says it; the words not said yet stay dimmed."
+    },
+    "onb_step_of": "{current} dari {total}",
+    "@onb_step_of": {
+        "description": "Onboarding redesign (phase 1): Shell: step header label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_step_semantic": "Langkah {current} dari {total}",
+    "@onb_step_semantic": {
+        "description": "Onboarding redesign (phase 1): Shell: step header screen-reader label.",
+        "placeholders": {
+            "current": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_welcome_title": "Selamat datang di MAWAQIT",
+    "@onb_welcome_title": {
+        "description": "Onboarding redesign (phase 2): Welcome H1."
+    },
+    "onb_welcome_subtitle": "Jadwal salat dari masjidmu.",
+    "@onb_welcome_subtitle": {
+        "description": "Onboarding redesign (phase 2): Welcome subtitle."
+    },
+    "onb_get_started": "Mulai",
+    "@onb_get_started": {
+        "description": "Onboarding redesign (phase 2): Welcome primary CTA."
+    },
+    "onb_theme_switch_to_light": "Beralih ke tema terang",
+    "@onb_theme_switch_to_light": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_theme_switch_to_dark": "Beralih ke tema gelap",
+    "@onb_theme_switch_to_dark": {
+        "description": "Onboarding redesign (phase 2): Theme pill screen-reader label."
+    },
+    "onb_language_pill_semantic": "Bahasa: {language}. Ubah bahasa",
+    "@onb_language_pill_semantic": {
+        "description": "Onboarding redesign (phase 2): Language pill screen-reader label.",
+        "placeholders": {
+            "language": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_language_search_hint": "Cari bahasa",
+    "@onb_language_search_hint": {
+        "description": "Onboarding redesign (phase 2): Language sheet search field."
+    },
+    "onb_language_suggested": "Disarankan",
+    "@onb_language_suggested": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_device_language": "Bahasa perangkatmu",
+    "@onb_language_device_language": {
+        "description": "Onboarding redesign (phase 2): Language sheet Suggested row sub-line."
+    },
+    "onb_language_all": "Semua bahasa",
+    "@onb_language_all": {
+        "description": "Onboarding redesign (phase 2): Language sheet section."
+    },
+    "onb_language_results": "Hasil",
+    "@onb_language_results": {
+        "description": "Onboarding redesign (phase 2): Language sheet section while searching."
+    },
+    "onb_language_no_match": "Tidak ada bahasa yang cocok dengan “{query}”",
+    "@onb_language_no_match": {
+        "description": "Onboarding redesign (phase 2): Language sheet empty search.",
+        "placeholders": {
+            "query": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_location_title": "Temukan masjidmu",
+    "@onb_location_title": {
+        "description": "Onboarding redesign (phase 3): Location H1."
+    },
+    "onb_location_body": "Kami memakai lokasimu untuk jadwal salat dan arah kiblat.",
+    "@onb_location_body": {
+        "description": "Onboarding redesign (phase 3): Location body."
+    },
+    "onb_location_allow": "Izinkan lokasi",
+    "@onb_location_allow": {
+        "description": "Onboarding redesign (phase 3): Location primary CTA."
+    },
+    "onb_not_now": "Nanti saja",
+    "@onb_not_now": {
+        "description": "Onboarding redesign (phase 3): Secondary CTA on Location and Notifications."
+    },
+    "onb_location_footnote": "Matikan kapan saja di Pengaturan.",
+    "@onb_location_footnote": {
+        "description": "Onboarding redesign (phase 3): Location dock footnote."
+    },
+    "onb_mosque_banner_denied": "Lokasi mati. Cari berdasarkan masjid atau kota.",
+    "@onb_mosque_banner_denied": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location denied."
+    },
+    "onb_mosque_banner_skipped": "Aktifkan lokasi untuk melihat masjid di sekitarmu.",
+    "@onb_mosque_banner_skipped": {
+        "description": "Onboarding redesign (phase 4): Mosque banner, location skipped."
+    },
+    "onb_mosque_banner_turn_on": "Aktifkan",
+    "@onb_mosque_banner_turn_on": {
+        "description": "Onboarding redesign (phase 4): Mosque banner button (skipped)."
+    },
+    "onb_mosque_continue": "Lanjutkan · {count} ditambahkan",
+    "@onb_mosque_continue": {
+        "description": "Onboarding redesign (phase 4): Mosque Continue button.",
+        "placeholders": {
+            "count": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_notif_title": "Setiap salat tepat waktu",
+    "@onb_notif_title": {
+        "description": "Onboarding redesign (phase 5): Notifications H1."
+    },
+    "onb_notif_body": "Notifikasi untuk 5 waktu salat, dengan suara ponselmu.",
+    "@onb_notif_body": {
+        "description": "Onboarding redesign (phase 5): Notifications body (curly apostrophe)."
+    },
+    "onb_notif_allow": "Izinkan notifikasi",
+    "@onb_notif_allow": {
+        "description": "Onboarding redesign (phase 5): Notifications primary CTA."
+    },
+    "onb_notif_footnote": "Ubah kapan saja di Pengaturan.",
+    "@onb_notif_footnote": {
+        "description": "Onboarding redesign (phase 5): Notifications dock footnote."
+    },
+    "onb_notif_card_now": "sekarang",
+    "@onb_notif_card_now": {
+        "description": "Onboarding redesign (phase 5): Notification-card timestamp."
+    },
+    "onb_done_title": "Semua sudah siap",
+    "@onb_done_title": {
+        "description": "Onboarding redesign (phase 5): All Set H1 (curly apostrophe)."
+    },
+    "onb_done_summary_calculated": "{city} · waktu hasil perhitungan",
+    "@onb_done_summary_calculated": {
+        "description": "Onboarding redesign (phase 5): All Set summary for a virtual city.",
+        "placeholders": {
+            "city": {
+                "type": "String"
+            }
+        }
+    },
+    "onb_done_summary_more_mosques": "+{count, plural, other{{count} masjid}}",
+    "@onb_done_summary_more_mosques": {
+        "description": "Onboarding redesign (phase 5): All Set summary, virtual city plus mosques.",
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "onb_done_cta_semantic": "Bismillah, buka MAWAQIT",
+    "@onb_done_cta_semantic": {
+        "description": "Onboarding redesign (phase 5): All Set CTA screen-reader label."
+    },
+    "onb_done_alerts_off": "Notifikasi salat nonaktif.",
+    "@onb_done_alerts_off": {
+        "description": "Onboarding redesign (phase 5): All Set line when prayer alerts are off (Not Now or denied); the existing `settings` key follows it as a link."
+    },
+    "onb_done_finish_error": "Terjadi kesalahan. Coba lagi.",
+    "@onb_done_finish_error": {
+        "description": "Onboarding redesign (phase 5): All Set snackbar when finishing onboarding fails; Bismillah can be tapped again."
     }
 }
